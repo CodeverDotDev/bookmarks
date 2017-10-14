@@ -1,0 +1,8 @@
+1. [Computer Vision](http://homepages.inf.ed.ac.uk/rbf/BOOKS/BANDB/bandb.htm)
+  * tags: [computer-vision](tags/computer-vision.md), [free-programming-books](tags/free-programming-books.md), [language-agnostic](tags/language-agnostic.md)
+2. [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/)
+  * tags: [computer-vision](tags/computer-vision.md), [free-programming-books](tags/free-programming-books.md), [language-agnostic](tags/language-agnostic.md)
+3. [Computer Vision: Models, Learning, and Inference](http://www.computervisionmodels.com)
+  * tags: [computer-vision](tags/computer-vision.md), [free-programming-books](tags/free-programming-books.md), [language-agnostic](tags/language-agnostic.md)
+4. [Programming Computer Vision with Python](http://programmingcomputervision.com)
+  * tags: [computer-vision](tags/computer-vision.md), [free-programming-books](tags/free-programming-books.md), [language-agnostic](tags/language-agnostic.md)

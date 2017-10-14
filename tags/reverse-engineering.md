@@ -1,0 +1,8 @@
+1. [BIOS Disassembly Ninjutsu Uncovered 1st Edition](http://bioshacking.blogspot.co.uk/2012/02/bios-disassembly-ninjutsu-uncovered-1st.html)
+  * tags: [free-programming-books](tags/free-programming-books.md), [language-agnostic](tags/language-agnostic.md), [reverse-engineering](tags/reverse-engineering.md)
+2. [Hacking the Xbox: An Introduction to Reverse Engineering](https://www.nostarch.com/xboxfree/)
+  * tags: [free-programming-books](tags/free-programming-books.md), [language-agnostic](tags/language-agnostic.md), [reverse-engineering](tags/reverse-engineering.md)
+3. [iOS App Reverse Engineering](https://github.com/iosre/iOSAppReverseEngineering)
+  * tags: [free-programming-books](tags/free-programming-books.md), [language-agnostic](tags/language-agnostic.md), [reverse-engineering](tags/reverse-engineering.md)
+4. [Reverse Engineering for Beginners](http://beginners.re)
+  * tags: [free-programming-books](tags/free-programming-books.md), [language-agnostic](tags/language-agnostic.md), [reverse-engineering](tags/reverse-engineering.md)

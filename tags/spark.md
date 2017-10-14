@@ -1,0 +1,6 @@
+1. [Databricks Spark Knowledge Base](https://www.gitbook.com/book/databricks/databricks-spark-knowledge-base/details)
+  * tags: [free-programming-books](tags/free-programming-books.md), [spark](tags/spark.md)
+2. [Databricks Spark Reference Applications](https://www.gitbook.com/book/databricks/databricks-spark-reference-applications/details)
+  * tags: [free-programming-books](tags/free-programming-books.md), [spark](tags/spark.md)
+3. [Mastering Apache Spark](https://www.gitbook.com/book/jaceklaskowski/mastering-apache-spark/details)
+  * tags: [free-programming-books](tags/free-programming-books.md), [spark](tags/spark.md)
