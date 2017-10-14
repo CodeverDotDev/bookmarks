@@ -1,446 +1,446 @@
-* [.net-framework](tags/.net-framework.md) - 6 entries
-* [active-directory](tags/active-directory.md) - 1 entries
-* [ada](tags/ada.md) - 8 entries
-* [agda](tags/agda.md) - 1 entries
-* [agile](tags/agile.md) - 4 entries
-* [alef](tags/alef.md) - 1 entries
-* [algorithms-&-data-structures](tags/algorithms-&-data-structures.md) - 34 entries
-* [android](tags/android.md) - 43 entries
-* [angular](tags/angular.md) - 65 entries
-* [angular-cli](tags/angular-cli.md) - 14 entries
-* [apache](tags/apache.md) - 1 entries
-* [api](tags/api.md) - 2 entries
-* [api-gateway](tags/api-gateway.md) - 1 entries
-* [apl](tags/apl.md) - 3 entries
-* [application-architecture](tags/application-architecture.md) - 1 entries
-* [arch-linux](tags/arch-linux.md) - 1 entries
-* [architecture](tags/architecture.md) - 9 entries
-* [arduino](tags/arduino.md) - 8 entries
-* [arquillian](tags/arquillian.md) - 8 entries
-* [asciidoc](tags/asciidoc.md) - 3 entries
-* [asp.net-mvc](tags/asp.net-mvc.md) - 1 entries
-* [assembly-language](tags/assembly-language.md) - 15 entries
-* [atom](tags/atom.md) - 2 entries
-* [attd](tags/attd.md) - 1 entries
-* [autohotkey](tags/autohotkey.md) - 2 entries
-* [autotools](tags/autotools.md) - 2 entries
-* [awk](tags/awk.md) - 8 entries
-* [azure](tags/azure.md) - 1 entries
-* [bash](tags/bash.md) - 26 entries
-* [basic](tags/basic.md) - 4 entries
-* [basic-knowledge](tags/basic-knowledge.md) - 17 entries
-* [beta](tags/beta.md) - 1 entries
-* [bkw](tags/bkw.md) - 1 entries
-* [blockchain](tags/blockchain.md) - 1 entries
-* [blog](tags/blog.md) - 4 entries
-* [blogging](tags/blogging.md) - 6 entries
-* [book](tags/book.md) - 6 entries
-* [bootstrap](tags/bootstrap.md) - 6 entries
-* [c](tags/c.md) - 61 entries
-* [c++](tags/c++.md) - 68 entries
-* [c-sharp](tags/c-sharp.md) - 24 entries
-* [caching](tags/caching.md) - 4 entries
-* [cellular-automata](tags/cellular-automata.md) - 2 entries
-* [certbot](tags/certbot.md) - 1 entries
-* [changelog](tags/changelog.md) - 2 entries
-* [chapel](tags/chapel.md) - 2 entries
-* [charts](tags/charts.md) - 1 entries
-* [cheatsheet](tags/cheatsheet.md) - 4 entries
-* [cheerio](tags/cheerio.md) - 1 entries
-* [chrome](tags/chrome.md) - 2 entries
-* [cilk](tags/cilk.md) - 1 entries
-* [cli](tags/cli.md) - 1 entries
-* [clipper](tags/clipper.md) - 3 entries
-* [clojure](tags/clojure.md) - 18 entries
-* [closrue](tags/closrue.md) - 1 entries
-* [closures](tags/closures.md) - 1 entries
-* [cloud-computing](tags/cloud-computing.md) - 3 entries
-* [cobol](tags/cobol.md) - 4 entries
-* [code-analysis](tags/code-analysis.md) - 1 entries
-* [code-highlighting](tags/code-highlighting.md) - 1 entries
-* [code-quality-tools](tags/code-quality-tools.md) - 1 entries
-* [coffeescript](tags/coffeescript.md) - 15 entries
-* [coldfusion](tags/coldfusion.md) - 2 entries
-* [color](tags/color.md) - 1 entries
-* [commands](tags/commands.md) - 3 entries
-* [communication](tags/communication.md) - 1 entries
-* [competitive-programming](tags/competitive-programming.md) - 1 entries
-* [compiler](tags/compiler.md) - 1 entries
-* [compiler-design](tags/compiler-design.md) - 12 entries
-* [compression](tags/compression.md) - 2 entries
-* [computer-science](tags/computer-science.md) - 1 entries
-* [computer-vision](tags/computer-vision.md) - 4 entries
-* [computing](tags/computing.md) - 1 entries
-* [constraint-logic-programming-(extended-prolog)](tags/constraint-logic-programming-(extended-prolog).md) - 1 entries
-* [converter](tags/converter.md) - 1 entries
-* [cookbook](tags/cookbook.md) - 2 entries
-* [cool](tags/cool.md) - 1 entries
-* [coq](tags/coq.md) - 5 entries
-* [cordova](tags/cordova.md) - 1 entries
-* [cors](tags/cors.md) - 1 entries
-* [cryptography](tags/cryptography.md) - 1 entries
-* [crystal](tags/crystal.md) - 1 entries
-* [css](tags/css.md) - 56 entries
-* [css3](tags/css3.md) - 1 entries
-* [csv](tags/csv.md) - 1 entries
-* [cuda](tags/cuda.md) - 1 entries
-* [curl](tags/curl.md) - 1 entries
-* [d](tags/d.md) - 4 entries
-* [dart](tags/dart.md) - 3 entries
-* [data](tags/data.md) - 2 entries
-* [data-modeling](tags/data-modeling.md) - 2 entries
-* [data-services](tags/data-services.md) - 1 entries
-* [database](tags/database.md) - 9 entries
-* [database-design](tags/database-design.md) - 2 entries
-* [datamining](tags/datamining.md) - 8 entries
-* [db2](tags/db2.md) - 3 entries
-* [debian](tags/debian.md) - 1 entries
-* [debugging](tags/debugging.md) - 2 entries
-* [delphi-pascal](tags/delphi-pascal.md) - 2 entries
-* [design-patterns](tags/design-patterns.md) - 3 entries
-* [dev-tools](tags/dev-tools.md) - 29 entries
-* [devops](tags/devops.md) - 4 entries
-* [diagram](tags/diagram.md) - 2 entries
-* [distributed-cache](tags/distributed-cache.md) - 1 entries
-* [django](tags/django.md) - 8 entries
-* [dns](tags/dns.md) - 3 entries
-* [docker](tags/docker.md) - 3 entries
-* [docs](tags/docs.md) - 34 entries
-* [dom](tags/dom.md) - 1 entries
-* [dtrace](tags/dtrace.md) - 1 entries
-* [elastic](tags/elastic.md) - 1 entries
-* [elasticsearch](tags/elasticsearch.md) - 3 entries
-* [electron](tags/electron.md) - 1 entries
-* [elixir](tags/elixir.md) - 11 entries
-* [elk](tags/elk.md) - 1 entries
-* [emacs](tags/emacs.md) - 5 entries
-* [embedded-systems](tags/embedded-systems.md) - 3 entries
-* [encoding](tags/encoding.md) - 2 entries
-* [erlang](tags/erlang.md) - 13 entries
-* [es7](tags/es7.md) - 1 entries
-* [esp8266](tags/esp8266.md) - 1 entries
-* [exception-handling](tags/exception-handling.md) - 3 entries
-* [expressj](tags/expressj.md) - 1 entries
-* [expressjs](tags/expressjs.md) - 8 entries
-* [f-sharp](tags/f-sharp.md) - 5 entries
-* [faq](tags/faq.md) - 1 entries
-* [firefox-os](tags/firefox-os.md) - 1 entries
-* [flask](tags/flask.md) - 5 entries
-* [flyway](tags/flyway.md) - 2 entries
-* [font-awesome](tags/font-awesome.md) - 1 entries
-* [fontawesome](tags/fontawesome.md) - 1 entries
-* [forever](tags/forever.md) - 2 entries
-* [forth](tags/forth.md) - 6 entries
-* [fortran](tags/fortran.md) - 4 entries
-* [free-book](tags/free-book.md) - 1 entries
-* [free-books](tags/free-books.md) - 1 entries
-* [free-programming-books](tags/free-programming-books.md) - 2712 entries
-* [freebsd](tags/freebsd.md) - 2 entries
-* [freelancing](tags/freelancing.md) - 3 entries
-* [functional-programming](tags/functional-programming.md) - 3 entries
-* [gimp](tags/gimp.md) - 1 entries
-* [git](tags/git.md) - 70 entries
-* [github](tags/github.md) - 2 entries
-* [github-pages](tags/github-pages.md) - 3 entries
-* [glossary](tags/glossary.md) - 2 entries
-* [go](tags/go.md) - 29 entries
-* [golang](tags/golang.md) - 17 entries
-* [gradle](tags/gradle.md) - 4 entries
-* [grails](tags/grails.md) - 5 entries
-* [graphical-user-interfaces](tags/graphical-user-interfaces.md) - 3 entries
-* [graphics-programming](tags/graphics-programming.md) - 12 entries
-* [graphql](tags/graphql.md) - 3 entries
-* [groovy](tags/groovy.md) - 11 entries
-* [gulp](tags/gulp.md) - 1 entries
-* [gzip](tags/gzip.md) - 1 entries
-* [hadoop](tags/hadoop.md) - 4 entries
-* [harbour](tags/harbour.md) - 1 entries
-* [haskell](tags/haskell.md) - 34 entries
-* [haxe](tags/haxe.md) - 5 entries
-* [hibernate](tags/hibernate.md) - 3 entries
-* [hmac](tags/hmac.md) - 1 entries
-* [homebrew](tags/homebrew.md) - 1 entries
-* [html](tags/html.md) - 50 entries
-* [http](tags/http.md) - 8 entries
-* [http-client](tags/http-client.md) - 3 entries
-* [https](tags/https.md) - 1 entries
-* [icon](tags/icon.md) - 1 entries
-* [ide](tags/ide.md) - 2 entries
-* [immutable](tags/immutable.md) - 1 entries
-* [in-memory](tags/in-memory.md) - 1 entries
-* [indexdb](tags/indexdb.md) - 1 entries
-* [indexeddb](tags/indexeddb.md) - 4 entries
-* [information-retrieval](tags/information-retrieval.md) - 2 entries
-* [intellij](tags/intellij.md) - 4 entries
-* [interview-question](tags/interview-question.md) - 2 entries
-* [ionic](tags/ionic.md) - 2 entries
-* [ios](tags/ios.md) - 20 entries
-* [iot](tags/iot.md) - 1 entries
-* [iterm](tags/iterm.md) - 1 entries
-* [j](tags/j.md) - 11 entries
-* [jasmine](tags/jasmine.md) - 3 entries
-* [jasperreports](tags/jasperreports.md) - 1 entries
-* [java](tags/java.md) - 147 entries
-* [java-ee](tags/java-ee.md) - 1 entries
-* [javaee](tags/javaee.md) - 3 entries
-* [javascript](tags/javascript.md) - 221 entries
-* [javascript-frameworks](tags/javascript-frameworks.md) - 1 entries
-* [jboss](tags/jboss.md) - 4 entries
-* [jboss-eap](tags/jboss-eap.md) - 2 entries
-* [jdbc](tags/jdbc.md) - 1 entries
-* [jekyll](tags/jekyll.md) - 8 entries
-* [jekyll-theme](tags/jekyll-theme.md) - 1 entries
-* [jenkins](tags/jenkins.md) - 1 entries
-* [jersey](tags/jersey.md) - 1 entries
-* [jetty](tags/jetty.md) - 1 entries
-* [json](tags/json.md) - 3 entries
-* [julia](tags/julia.md) - 8 entries
-* [junit](tags/junit.md) - 1 entries
-* [jvm](tags/jvm.md) - 2 entries
-* [jwt](tags/jwt.md) - 9 entries
-* [karma](tags/karma.md) - 2 entries
-* [keycloak](tags/keycloak.md) - 27 entries
-* [kibana](tags/kibana.md) - 1 entries
-* [kivy](tags/kivy.md) - 1 entries
-* [kong](tags/kong.md) - 1 entries
-* [kubernetes](tags/kubernetes.md) - 1 entries
-* [language-agnostic](tags/language-agnostic.md) - 360 entries
-* [latex](tags/latex.md) - 39 entries
-* [ldap](tags/ldap.md) - 1 entries
-* [learn-to-code](tags/learn-to-code.md) - 1 entries
-* [letsencrypt](tags/letsencrypt.md) - 2 entries
-* [licensing](tags/licensing.md) - 3 entries
-* [lift](tags/lift.md) - 4 entries
-* [lighttpd](tags/lighttpd.md) - 1 entries
-* [limbo](tags/limbo.md) - 1 entries
-* [linkedin](tags/linkedin.md) - 1 entries
-* [linter](tags/linter.md) - 1 entries
-* [linux](tags/linux.md) - 77 entries
-* [lisp](tags/lisp.md) - 24 entries
-* [livecode](tags/livecode.md) - 2 entries
-* [localforage](tags/localforage.md) - 1 entries
-* [localstorage](tags/localstorage.md) - 1 entries
-* [lodash](tags/lodash.md) - 1 entries
-* [loggin](tags/loggin.md) - 1 entries
-* [logging](tags/logging.md) - 9 entries
-* [logstash](tags/logstash.md) - 1 entries
-* [lua](tags/lua.md) - 10 entries
-* [mac](tags/mac.md) - 2 entries
-* [machine-learning](tags/machine-learning.md) - 19 entries
-* [macos](tags/macos.md) - 3 entries
-* [mapreduce](tags/mapreduce.md) - 1 entries
-* [maps](tags/maps.md) - 1 entries
-* [markdown](tags/markdown.md) - 11 entries
-* [marketing](tags/marketing.md) - 2 entries
-* [mathematica](tags/mathematica.md) - 5 entries
-* [mathematics](tags/mathematics.md) - 40 entries
-* [mathematics-for-computer-science](tags/mathematics-for-computer-science.md) - 1 entries
-* [matlab](tags/matlab.md) - 15 entries
-* [maven](tags/maven.md) - 14 entries
-* [memcached](tags/memcached.md) - 1 entries
-* [mercurial](tags/mercurial.md) - 5 entries
-* [mercury](tags/mercury.md) - 1 entries
-* [meta-lists](tags/meta-lists.md) - 30 entries
-* [microservices](tags/microservices.md) - 11 entries
-* [misc](tags/misc.md) - 69 entries
-* [mocking](tags/mocking.md) - 1 entries
-* [mockito](tags/mockito.md) - 1 entries
-* [modelica](tags/modelica.md) - 1 entries
-* [mongodb](tags/mongodb.md) - 14 entries
-* [mooc](tags/mooc.md) - 6 entries
-* [mybatis](tags/mybatis.md) - 1 entries
-* [mysql](tags/mysql.md) - 9 entries
-* [neo4j](tags/neo4j.md) - 2 entries
-* [netscaler](tags/netscaler.md) - 2 entries
-* [networking](tags/networking.md) - 13 entries
-* [nginx](tags/nginx.md) - 16 entries
-* [node.js](tags/node.js.md) - 14 entries
-* [nodejs](tags/nodejs.md) - 68 entries
-* [nodemon](tags/nodemon.md) - 1 entries
-* [non-x86](tags/non-x86.md) - 5 entries
-* [nosql](tags/nosql.md) - 29 entries
-* [npm](tags/npm.md) - 11 entries
-* [npmjs](tags/npmjs.md) - 1 entries
-* [nvarchar](tags/nvarchar.md) - 1 entries
-* [nvm](tags/nvm.md) - 1 entries
-* [oauth2](tags/oauth2.md) - 3 entries
-* [oberon](tags/oberon.md) - 2 entries
-* [objective-c](tags/objective-c.md) - 14 entries
-* [observable](tags/observable.md) - 6 entries
-* [ocaml](tags/ocaml.md) - 7 entries
-* [octave](tags/octave.md) - 1 entries
-* [offline-first](tags/offline-first.md) - 8 entries
-* [online-tools](tags/online-tools.md) - 4 entries
-* [oop](tags/oop.md) - 1 entries
-* [open-source](tags/open-source.md) - 23 entries
-* [opengl-es](tags/opengl-es.md) - 1 entries
-* [openid-connect](tags/openid-connect.md) - 3 entries
-* [openmp](tags/openmp.md) - 2 entries
-* [openresty](tags/openresty.md) - 1 entries
-* [openscad](tags/openscad.md) - 1 entries
-* [operating-systems](tags/operating-systems.md) - 16 entries
-* [oracle](tags/oracle.md) - 3 entries
-* [oracledb](tags/oracledb.md) - 3 entries
-* [orm](tags/orm.md) - 1 entries
-* [osx](tags/osx.md) - 3 entries
-* [paas](tags/paas.md) - 1 entries
-* [package-manager](tags/package-manager.md) - 1 entries
-* [pact](tags/pact.md) - 1 entries
-* [pair-programming](tags/pair-programming.md) - 1 entries
-* [pandas](tags/pandas.md) - 1 entries
-* [parallel-programming](tags/parallel-programming.md) - 7 entries
-* [partial-evaluation](tags/partial-evaluation.md) - 1 entries
-* [pc-bsd](tags/pc-bsd.md) - 1 entries
-* [performance](tags/performance.md) - 3 entries
-* [perl](tags/perl.md) - 48 entries
-* [perl-6](tags/perl-6.md) - 1 entries
-* [perl6](tags/perl6.md) - 3 entries
-* [personal-development](tags/personal-development.md) - 1 entries
-* [phoenix](tags/phoenix.md) - 1 entries
-* [php](tags/php.md) - 75 entries
-* [picolisp](tags/picolisp.md) - 2 entries
-* [play-scala](tags/play-scala.md) - 2 entries
-* [pm2](tags/pm2.md) - 3 entries
-* [podcast](tags/podcast.md) - 25 entries
-* [postgresql](tags/postgresql.md) - 11 entries
-* [postman](tags/postman.md) - 4 entries
-* [powershell](tags/powershell.md) - 18 entries
-* [processing](tags/processing.md) - 4 entries
-* [product-management](tags/product-management.md) - 1 entries
-* [professional-development](tags/professional-development.md) - 7 entries
-* [programming-paradigms](tags/programming-paradigms.md) - 3 entries
-* [prolog](tags/prolog.md) - 23 entries
-* [promises](tags/promises.md) - 1 entries
-* [purescript](tags/purescript.md) - 1 entries
-* [pwa](tags/pwa.md) - 7 entries
-* [pyramid](tags/pyramid.md) - 1 entries
-* [python](tags/python.md) - 186 entries
-* [qml](tags/qml.md) - 1 entries
-* [r](tags/r.md) - 54 entries
-* [racket](tags/racket.md) - 3 entries
-* [raspberry-pi](tags/raspberry-pi.md) - 4 entries
-* [react](tags/react.md) - 3 entries
-* [react.js](tags/react.js.md) - 1 entries
-* [reactive](tags/reactive.md) - 1 entries
-* [reactive-programming](tags/reactive-programming.md) - 1 entries
-* [rebol](tags/rebol.md) - 1 entries
-* [redux](tags/redux.md) - 3 entries
-* [regex](tags/regex.md) - 8 entries
-* [regular-expressions](tags/regular-expressions.md) - 4 entries
-* [rest](tags/rest.md) - 14 entries
-* [resteasy](tags/resteasy.md) - 3 entries
-* [reverse-engineering](tags/reverse-engineering.md) - 4 entries
-* [rh-sso](tags/rh-sso.md) - 1 entries
-* [rspec](tags/rspec.md) - 2 entries
-* [rss](tags/rss.md) - 1 entries
-* [ruby](tags/ruby.md) - 90 entries
-* [ruby-on-rails](tags/ruby-on-rails.md) - 20 entries
-* [rust](tags/rust.md) - 13 entries
-* [rx](tags/rx.md) - 1 entries
-* [rxjs](tags/rxjs.md) - 11 entries
-* [saas](tags/saas.md) - 1 entries
-* [sage](tags/sage.md) - 3 entries
-* [sass](tags/sass.md) - 4 entries
-* [scala](tags/scala.md) - 40 entries
-* [scheme](tags/scheme.md) - 19 entries
-* [scilab](tags/scilab.md) - 4 entries
-* [scp](tags/scp.md) - 1 entries
-* [scratch](tags/scratch.md) - 2 entries
-* [screencast](tags/screencast.md) - 1 entries
-* [scss](tags/scss.md) - 1 entries
-* [security](tags/security.md) - 24 entries
-* [sed](tags/sed.md) - 2 entries
-* [self](tags/self.md) - 1 entries
-* [semserver](tags/semserver.md) - 1 entries
-* [seo](tags/seo.md) - 7 entries
-* [service-worker](tags/service-worker.md) - 5 entries
-* [shell](tags/shell.md) - 9 entries
-* [shrinkwrap](tags/shrinkwrap.md) - 3 entries
-* [side-projects](tags/side-projects.md) - 2 entries
-* [sinatra](tags/sinatra.md) - 1 entries
-* [smalltalk](tags/smalltalk.md) - 9 entries
-* [soa](tags/soa.md) - 2 entries
-* [soap](tags/soap.md) - 3 entries
-* [social-media](tags/social-media.md) - 2 entries
-* [software-architecture](tags/software-architecture.md) - 30 entries
-* [software-development](tags/software-development.md) - 5 entries
-* [software-development process](tags/software-development process.md) - 1 entries
-* [software-development-process](tags/software-development-process.md) - 1 entries
-* [software-engineering](tags/software-engineering.md) - 3 entries
-* [solidity](tags/solidity.md) - 1 entries
-* [spark](tags/spark.md) - 3 entries
-* [specification](tags/specification.md) - 1 entries
-* [spock-framework](tags/spock-framework.md) - 4 entries
-* [spring](tags/spring.md) - 2 entries
-* [spring-boot](tags/spring-boot.md) - 2 entries
-* [spring-security](tags/spring-security.md) - 1 entries
-* [sql](tags/sql.md) - 12 entries
-* [sql-server](tags/sql-server.md) - 24 entries
-* [ssh](tags/ssh.md) - 1 entries
-* [ssl](tags/ssl.md) - 6 entries
-* [sso](tags/sso.md) - 2 entries
-* [standard-ml](tags/standard-ml.md) - 7 entries
-* [standards](tags/standards.md) - 2 entries
-* [strongloop](tags/strongloop.md) - 2 entries
-* [subversion](tags/subversion.md) - 2 entries
-* [swift](tags/swift.md) - 11 entries
-* [syslog](tags/syslog.md) - 1 entries
-* [systemctl](tags/systemctl.md) - 2 entries
-* [systemd](tags/systemd.md) - 6 entries
-* [tags](tags/tags.md) - 1 entries
-* [tape](tags/tape.md) - 2 entries
-* [tcl](tags/tcl.md) - 2 entries
-* [teradata](tags/teradata.md) - 1 entries
-* [testing](tags/testing.md) - 18 entries
-* [tex](tags/tex.md) - 7 entries
-* [text editor](tags/text editor.md) - 1 entries
-* [theoretical-computer-science](tags/theoretical-computer-science.md) - 16 entries
-* [tizen](tags/tizen.md) - 1 entries
-* [tla](tags/tla.md) - 1 entries
-* [tls](tags/tls.md) - 4 entries
-* [tools](tags/tools.md) - 2 entries
-* [tornado](tags/tornado.md) - 1 entries
-* [troubleshooting](tags/troubleshooting.md) - 1 entries
-* [typescript](tags/typescript.md) - 17 entries
-* [ubuntu](tags/ubuntu.md) - 11 entries
-* [ufw](tags/ufw.md) - 3 entries
-* [uml](tags/uml.md) - 2 entries
-* [unicode](tags/unicode.md) - 4 entries
-* [unit-testing](tags/unit-testing.md) - 5 entries
-* [unix](tags/unix.md) - 18 entries
-* [upstart](tags/upstart.md) - 2 entries
-* [url](tags/url.md) - 1 entries
-* [user-interface](tags/user-interface.md) - 1 entries
-* [utf-8](tags/utf-8.md) - 2 entries
-* [ux](tags/ux.md) - 1 entries
-* [varchar](tags/varchar.md) - 1 entries
-* [verilog](tags/verilog.md) - 1 entries
-* [vhdl](tags/vhdl.md) - 4 entries
-* [vim](tags/vim.md) - 25 entries
-* [visual-prolog](tags/visual-prolog.md) - 4 entries
-* [visualization](tags/visualization.md) - 2 entries
-* [vscode](tags/vscode.md) - 1 entries
-* [web](tags/web.md) - 25 entries
-* [web-api](tags/web-api.md) - 1 entries
-* [web-app](tags/web-app.md) - 1 entries
-* [web-applications](tags/web-applications.md) - 1 entries
-* [web-design](tags/web-design.md) - 1 entries
-* [web-development](tags/web-development.md) - 10 entries
-* [web-performance](tags/web-performance.md) - 4 entries
-* [web-services](tags/web-services.md) - 1 entries
-* [webcrypto](tags/webcrypto.md) - 1 entries
-* [webmaster](tags/webmaster.md) - 7 entries
-* [webpack](tags/webpack.md) - 4 entries
-* [websocket](tags/websocket.md) - 2 entries
-* [webstorm](tags/webstorm.md) - 2 entries
-* [wget](tags/wget.md) - 1 entries
-* [wicket](tags/wicket.md) - 1 entries
-* [wildfly](tags/wildfly.md) - 4 entries
-* [windows-8](tags/windows-8.md) - 2 entries
-* [windows-phone](tags/windows-phone.md) - 5 entries
-* [winston](tags/winston.md) - 1 entries
-* [work-life-balance](tags/work-life-balance.md) - 1 entries
-* [workflow](tags/workflow.md) - 1 entries
-* [writing-tools](tags/writing-tools.md) - 1 entries
-* [yarn](tags/yarn.md) - 1 entries
-* [youtube](tags/youtube.md) - 1 entries
+* [.net-framework](tags/.net-framework.md)[6]
+* [active-directory](tags/active-directory.md)[1]
+* [ada](tags/ada.md)[8]
+* [agda](tags/agda.md)[1]
+* [agile](tags/agile.md)[4]
+* [alef](tags/alef.md)[1]
+* [algorithms-&-data-structures](tags/algorithms-&-data-structures.md)[34]
+* [android](tags/android.md)[43]
+* [angular](tags/angular.md)[65]
+* [angular-cli](tags/angular-cli.md)[14]
+* [apache](tags/apache.md)[1]
+* [api](tags/api.md)[2]
+* [api-gateway](tags/api-gateway.md)[1]
+* [apl](tags/apl.md)[3]
+* [application-architecture](tags/application-architecture.md)[1]
+* [arch-linux](tags/arch-linux.md)[1]
+* [architecture](tags/architecture.md)[9]
+* [arduino](tags/arduino.md)[8]
+* [arquillian](tags/arquillian.md)[8]
+* [asciidoc](tags/asciidoc.md)[3]
+* [asp.net-mvc](tags/asp.net-mvc.md)[1]
+* [assembly-language](tags/assembly-language.md)[15]
+* [atom](tags/atom.md)[2]
+* [attd](tags/attd.md)[1]
+* [autohotkey](tags/autohotkey.md)[2]
+* [autotools](tags/autotools.md)[2]
+* [awk](tags/awk.md)[8]
+* [azure](tags/azure.md)[1]
+* [bash](tags/bash.md)[26]
+* [basic](tags/basic.md)[4]
+* [basic-knowledge](tags/basic-knowledge.md)[17]
+* [beta](tags/beta.md)[1]
+* [bkw](tags/bkw.md)[1]
+* [blockchain](tags/blockchain.md)[1]
+* [blog](tags/blog.md)[4]
+* [blogging](tags/blogging.md)[6]
+* [book](tags/book.md)[6]
+* [bootstrap](tags/bootstrap.md)[6]
+* [c](tags/c.md)[61]
+* [c++](tags/c++.md)[68]
+* [c-sharp](tags/c-sharp.md)[24]
+* [caching](tags/caching.md)[4]
+* [cellular-automata](tags/cellular-automata.md)[2]
+* [certbot](tags/certbot.md)[1]
+* [changelog](tags/changelog.md)[2]
+* [chapel](tags/chapel.md)[2]
+* [charts](tags/charts.md)[1]
+* [cheatsheet](tags/cheatsheet.md)[4]
+* [cheerio](tags/cheerio.md)[1]
+* [chrome](tags/chrome.md)[2]
+* [cilk](tags/cilk.md)[1]
+* [cli](tags/cli.md)[1]
+* [clipper](tags/clipper.md)[3]
+* [clojure](tags/clojure.md)[18]
+* [closrue](tags/closrue.md)[1]
+* [closures](tags/closures.md)[1]
+* [cloud-computing](tags/cloud-computing.md)[3]
+* [cobol](tags/cobol.md)[4]
+* [code-analysis](tags/code-analysis.md)[1]
+* [code-highlighting](tags/code-highlighting.md)[1]
+* [code-quality-tools](tags/code-quality-tools.md)[1]
+* [coffeescript](tags/coffeescript.md)[15]
+* [coldfusion](tags/coldfusion.md)[2]
+* [color](tags/color.md)[1]
+* [commands](tags/commands.md)[3]
+* [communication](tags/communication.md)[1]
+* [competitive-programming](tags/competitive-programming.md)[1]
+* [compiler](tags/compiler.md)[1]
+* [compiler-design](tags/compiler-design.md)[12]
+* [compression](tags/compression.md)[2]
+* [computer-science](tags/computer-science.md)[1]
+* [computer-vision](tags/computer-vision.md)[4]
+* [computing](tags/computing.md)[1]
+* [constraint-logic-programming-(extended-prolog)](tags/constraint-logic-programming-(extended-prolog).md)[1]
+* [converter](tags/converter.md)[1]
+* [cookbook](tags/cookbook.md)[2]
+* [cool](tags/cool.md)[1]
+* [coq](tags/coq.md)[5]
+* [cordova](tags/cordova.md)[1]
+* [cors](tags/cors.md)[1]
+* [cryptography](tags/cryptography.md)[1]
+* [crystal](tags/crystal.md)[1]
+* [css](tags/css.md)[56]
+* [css3](tags/css3.md)[1]
+* [csv](tags/csv.md)[1]
+* [cuda](tags/cuda.md)[1]
+* [curl](tags/curl.md)[1]
+* [d](tags/d.md)[4]
+* [dart](tags/dart.md)[3]
+* [data](tags/data.md)[2]
+* [data-modeling](tags/data-modeling.md)[2]
+* [data-services](tags/data-services.md)[1]
+* [database](tags/database.md)[9]
+* [database-design](tags/database-design.md)[2]
+* [datamining](tags/datamining.md)[8]
+* [db2](tags/db2.md)[3]
+* [debian](tags/debian.md)[1]
+* [debugging](tags/debugging.md)[2]
+* [delphi-pascal](tags/delphi-pascal.md)[2]
+* [design-patterns](tags/design-patterns.md)[3]
+* [dev-tools](tags/dev-tools.md)[29]
+* [devops](tags/devops.md)[4]
+* [diagram](tags/diagram.md)[2]
+* [distributed-cache](tags/distributed-cache.md)[1]
+* [django](tags/django.md)[8]
+* [dns](tags/dns.md)[3]
+* [docker](tags/docker.md)[3]
+* [docs](tags/docs.md)[36]
+* [dom](tags/dom.md)[1]
+* [dtrace](tags/dtrace.md)[1]
+* [elastic](tags/elastic.md)[1]
+* [elasticsearch](tags/elasticsearch.md)[3]
+* [electron](tags/electron.md)[1]
+* [elixir](tags/elixir.md)[11]
+* [elk](tags/elk.md)[1]
+* [emacs](tags/emacs.md)[5]
+* [embedded-systems](tags/embedded-systems.md)[3]
+* [encoding](tags/encoding.md)[2]
+* [erlang](tags/erlang.md)[13]
+* [es7](tags/es7.md)[1]
+* [esp8266](tags/esp8266.md)[1]
+* [exception-handling](tags/exception-handling.md)[3]
+* [expressj](tags/expressj.md)[1]
+* [expressjs](tags/expressjs.md)[8]
+* [f-sharp](tags/f-sharp.md)[5]
+* [faq](tags/faq.md)[1]
+* [firefox-os](tags/firefox-os.md)[1]
+* [flask](tags/flask.md)[5]
+* [flyway](tags/flyway.md)[2]
+* [font-awesome](tags/font-awesome.md)[1]
+* [fontawesome](tags/fontawesome.md)[1]
+* [forever](tags/forever.md)[2]
+* [forth](tags/forth.md)[6]
+* [fortran](tags/fortran.md)[4]
+* [free-book](tags/free-book.md)[1]
+* [free-books](tags/free-books.md)[1]
+* [free-programming-books](tags/free-programming-books.md)[2712]
+* [freebsd](tags/freebsd.md)[2]
+* [freelancing](tags/freelancing.md)[3]
+* [functional-programming](tags/functional-programming.md)[3]
+* [gimp](tags/gimp.md)[1]
+* [git](tags/git.md)[70]
+* [github](tags/github.md)[2]
+* [github-pages](tags/github-pages.md)[3]
+* [glossary](tags/glossary.md)[2]
+* [go](tags/go.md)[29]
+* [golang](tags/golang.md)[17]
+* [gradle](tags/gradle.md)[4]
+* [grails](tags/grails.md)[5]
+* [graphical-user-interfaces](tags/graphical-user-interfaces.md)[3]
+* [graphics-programming](tags/graphics-programming.md)[12]
+* [graphql](tags/graphql.md)[3]
+* [groovy](tags/groovy.md)[11]
+* [gulp](tags/gulp.md)[1]
+* [gzip](tags/gzip.md)[1]
+* [hadoop](tags/hadoop.md)[4]
+* [harbour](tags/harbour.md)[1]
+* [haskell](tags/haskell.md)[34]
+* [haxe](tags/haxe.md)[5]
+* [hibernate](tags/hibernate.md)[3]
+* [hmac](tags/hmac.md)[1]
+* [homebrew](tags/homebrew.md)[1]
+* [html](tags/html.md)[50]
+* [http](tags/http.md)[8]
+* [http-client](tags/http-client.md)[3]
+* [https](tags/https.md)[1]
+* [icon](tags/icon.md)[1]
+* [ide](tags/ide.md)[2]
+* [immutable](tags/immutable.md)[1]
+* [in-memory](tags/in-memory.md)[1]
+* [indexdb](tags/indexdb.md)[1]
+* [indexeddb](tags/indexeddb.md)[4]
+* [information-retrieval](tags/information-retrieval.md)[2]
+* [intellij](tags/intellij.md)[4]
+* [interview-question](tags/interview-question.md)[2]
+* [ionic](tags/ionic.md)[2]
+* [ios](tags/ios.md)[20]
+* [iot](tags/iot.md)[1]
+* [iterm](tags/iterm.md)[1]
+* [j](tags/j.md)[11]
+* [jasmine](tags/jasmine.md)[3]
+* [jasperreports](tags/jasperreports.md)[1]
+* [java](tags/java.md)[147]
+* [java-ee](tags/java-ee.md)[1]
+* [javaee](tags/javaee.md)[3]
+* [javascript](tags/javascript.md)[221]
+* [javascript-frameworks](tags/javascript-frameworks.md)[1]
+* [jboss](tags/jboss.md)[4]
+* [jboss-eap](tags/jboss-eap.md)[2]
+* [jdbc](tags/jdbc.md)[1]
+* [jekyll](tags/jekyll.md)[8]
+* [jekyll-theme](tags/jekyll-theme.md)[1]
+* [jenkins](tags/jenkins.md)[1]
+* [jersey](tags/jersey.md)[1]
+* [jetty](tags/jetty.md)[1]
+* [json](tags/json.md)[3]
+* [julia](tags/julia.md)[8]
+* [junit](tags/junit.md)[1]
+* [jvm](tags/jvm.md)[2]
+* [jwt](tags/jwt.md)[9]
+* [karma](tags/karma.md)[2]
+* [keycloak](tags/keycloak.md)[27]
+* [kibana](tags/kibana.md)[1]
+* [kivy](tags/kivy.md)[1]
+* [kong](tags/kong.md)[1]
+* [kubernetes](tags/kubernetes.md)[1]
+* [language-agnostic](tags/language-agnostic.md)[360]
+* [latex](tags/latex.md)[39]
+* [ldap](tags/ldap.md)[1]
+* [learn-to-code](tags/learn-to-code.md)[1]
+* [letsencrypt](tags/letsencrypt.md)[2]
+* [licensing](tags/licensing.md)[3]
+* [lift](tags/lift.md)[4]
+* [lighttpd](tags/lighttpd.md)[1]
+* [limbo](tags/limbo.md)[1]
+* [linkedin](tags/linkedin.md)[1]
+* [linter](tags/linter.md)[1]
+* [linux](tags/linux.md)[77]
+* [lisp](tags/lisp.md)[24]
+* [livecode](tags/livecode.md)[2]
+* [localforage](tags/localforage.md)[1]
+* [localstorage](tags/localstorage.md)[1]
+* [lodash](tags/lodash.md)[1]
+* [loggin](tags/loggin.md)[1]
+* [logging](tags/logging.md)[9]
+* [logstash](tags/logstash.md)[1]
+* [lua](tags/lua.md)[10]
+* [mac](tags/mac.md)[2]
+* [machine-learning](tags/machine-learning.md)[19]
+* [macos](tags/macos.md)[3]
+* [mapreduce](tags/mapreduce.md)[1]
+* [maps](tags/maps.md)[1]
+* [markdown](tags/markdown.md)[11]
+* [marketing](tags/marketing.md)[2]
+* [mathematica](tags/mathematica.md)[5]
+* [mathematics](tags/mathematics.md)[40]
+* [mathematics-for-computer-science](tags/mathematics-for-computer-science.md)[1]
+* [matlab](tags/matlab.md)[15]
+* [maven](tags/maven.md)[14]
+* [memcached](tags/memcached.md)[1]
+* [mercurial](tags/mercurial.md)[5]
+* [mercury](tags/mercury.md)[1]
+* [meta-lists](tags/meta-lists.md)[30]
+* [microservices](tags/microservices.md)[11]
+* [misc](tags/misc.md)[69]
+* [mocking](tags/mocking.md)[1]
+* [mockito](tags/mockito.md)[1]
+* [modelica](tags/modelica.md)[1]
+* [mongodb](tags/mongodb.md)[14]
+* [mooc](tags/mooc.md)[6]
+* [mybatis](tags/mybatis.md)[1]
+* [mysql](tags/mysql.md)[9]
+* [neo4j](tags/neo4j.md)[2]
+* [netscaler](tags/netscaler.md)[2]
+* [networking](tags/networking.md)[13]
+* [nginx](tags/nginx.md)[16]
+* [node.js](tags/node.js.md)[14]
+* [nodejs](tags/nodejs.md)[70]
+* [nodemon](tags/nodemon.md)[1]
+* [non-x86](tags/non-x86.md)[5]
+* [nosql](tags/nosql.md)[29]
+* [npm](tags/npm.md)[11]
+* [npmjs](tags/npmjs.md)[1]
+* [nvarchar](tags/nvarchar.md)[1]
+* [nvm](tags/nvm.md)[1]
+* [oauth2](tags/oauth2.md)[3]
+* [oberon](tags/oberon.md)[2]
+* [objective-c](tags/objective-c.md)[14]
+* [observable](tags/observable.md)[6]
+* [ocaml](tags/ocaml.md)[7]
+* [octave](tags/octave.md)[1]
+* [offline-first](tags/offline-first.md)[8]
+* [online-tools](tags/online-tools.md)[4]
+* [oop](tags/oop.md)[1]
+* [open-source](tags/open-source.md)[23]
+* [opengl-es](tags/opengl-es.md)[1]
+* [openid-connect](tags/openid-connect.md)[3]
+* [openmp](tags/openmp.md)[2]
+* [openresty](tags/openresty.md)[1]
+* [openscad](tags/openscad.md)[1]
+* [operating-systems](tags/operating-systems.md)[16]
+* [oracle](tags/oracle.md)[3]
+* [oracledb](tags/oracledb.md)[3]
+* [orm](tags/orm.md)[1]
+* [osx](tags/osx.md)[3]
+* [paas](tags/paas.md)[1]
+* [package-manager](tags/package-manager.md)[1]
+* [pact](tags/pact.md)[1]
+* [pair-programming](tags/pair-programming.md)[1]
+* [pandas](tags/pandas.md)[1]
+* [parallel-programming](tags/parallel-programming.md)[7]
+* [partial-evaluation](tags/partial-evaluation.md)[1]
+* [pc-bsd](tags/pc-bsd.md)[1]
+* [performance](tags/performance.md)[3]
+* [perl](tags/perl.md)[48]
+* [perl-6](tags/perl-6.md)[1]
+* [perl6](tags/perl6.md)[3]
+* [personal-development](tags/personal-development.md)[1]
+* [phoenix](tags/phoenix.md)[1]
+* [php](tags/php.md)[75]
+* [picolisp](tags/picolisp.md)[2]
+* [play-scala](tags/play-scala.md)[2]
+* [pm2](tags/pm2.md)[3]
+* [podcast](tags/podcast.md)[25]
+* [postgresql](tags/postgresql.md)[11]
+* [postman](tags/postman.md)[4]
+* [powershell](tags/powershell.md)[18]
+* [processing](tags/processing.md)[4]
+* [product-management](tags/product-management.md)[1]
+* [professional-development](tags/professional-development.md)[7]
+* [programming-paradigms](tags/programming-paradigms.md)[3]
+* [prolog](tags/prolog.md)[23]
+* [promises](tags/promises.md)[1]
+* [purescript](tags/purescript.md)[1]
+* [pwa](tags/pwa.md)[7]
+* [pyramid](tags/pyramid.md)[1]
+* [python](tags/python.md)[186]
+* [qml](tags/qml.md)[1]
+* [r](tags/r.md)[54]
+* [racket](tags/racket.md)[3]
+* [raspberry-pi](tags/raspberry-pi.md)[4]
+* [react](tags/react.md)[3]
+* [react.js](tags/react.js.md)[1]
+* [reactive](tags/reactive.md)[1]
+* [reactive-programming](tags/reactive-programming.md)[1]
+* [rebol](tags/rebol.md)[1]
+* [redux](tags/redux.md)[3]
+* [regex](tags/regex.md)[8]
+* [regular-expressions](tags/regular-expressions.md)[4]
+* [rest](tags/rest.md)[14]
+* [resteasy](tags/resteasy.md)[3]
+* [reverse-engineering](tags/reverse-engineering.md)[4]
+* [rh-sso](tags/rh-sso.md)[1]
+* [rspec](tags/rspec.md)[2]
+* [rss](tags/rss.md)[1]
+* [ruby](tags/ruby.md)[90]
+* [ruby-on-rails](tags/ruby-on-rails.md)[20]
+* [rust](tags/rust.md)[13]
+* [rx](tags/rx.md)[1]
+* [rxjs](tags/rxjs.md)[11]
+* [saas](tags/saas.md)[1]
+* [sage](tags/sage.md)[3]
+* [sass](tags/sass.md)[4]
+* [scala](tags/scala.md)[40]
+* [scheme](tags/scheme.md)[19]
+* [scilab](tags/scilab.md)[4]
+* [scp](tags/scp.md)[1]
+* [scratch](tags/scratch.md)[2]
+* [screencast](tags/screencast.md)[1]
+* [scss](tags/scss.md)[1]
+* [security](tags/security.md)[24]
+* [sed](tags/sed.md)[2]
+* [self](tags/self.md)[1]
+* [semserver](tags/semserver.md)[1]
+* [seo](tags/seo.md)[7]
+* [service-worker](tags/service-worker.md)[5]
+* [shell](tags/shell.md)[9]
+* [shrinkwrap](tags/shrinkwrap.md)[3]
+* [side-projects](tags/side-projects.md)[2]
+* [sinatra](tags/sinatra.md)[1]
+* [smalltalk](tags/smalltalk.md)[9]
+* [soa](tags/soa.md)[2]
+* [soap](tags/soap.md)[3]
+* [social-media](tags/social-media.md)[2]
+* [software-architecture](tags/software-architecture.md)[30]
+* [software-development](tags/software-development.md)[5]
+* [software-development process](tags/software-development process.md)[1]
+* [software-development-process](tags/software-development-process.md)[1]
+* [software-engineering](tags/software-engineering.md)[3]
+* [solidity](tags/solidity.md)[1]
+* [spark](tags/spark.md)[3]
+* [specification](tags/specification.md)[1]
+* [spock-framework](tags/spock-framework.md)[4]
+* [spring](tags/spring.md)[2]
+* [spring-boot](tags/spring-boot.md)[2]
+* [spring-security](tags/spring-security.md)[1]
+* [sql](tags/sql.md)[12]
+* [sql-server](tags/sql-server.md)[24]
+* [ssh](tags/ssh.md)[1]
+* [ssl](tags/ssl.md)[6]
+* [sso](tags/sso.md)[2]
+* [standard-ml](tags/standard-ml.md)[7]
+* [standards](tags/standards.md)[2]
+* [strongloop](tags/strongloop.md)[2]
+* [subversion](tags/subversion.md)[2]
+* [swift](tags/swift.md)[11]
+* [syslog](tags/syslog.md)[1]
+* [systemctl](tags/systemctl.md)[2]
+* [systemd](tags/systemd.md)[6]
+* [tags](tags/tags.md)[1]
+* [tape](tags/tape.md)[2]
+* [tcl](tags/tcl.md)[2]
+* [teradata](tags/teradata.md)[1]
+* [testing](tags/testing.md)[18]
+* [tex](tags/tex.md)[7]
+* [text editor](tags/text editor.md)[1]
+* [theoretical-computer-science](tags/theoretical-computer-science.md)[16]
+* [tizen](tags/tizen.md)[1]
+* [tla](tags/tla.md)[1]
+* [tls](tags/tls.md)[4]
+* [tools](tags/tools.md)[2]
+* [tornado](tags/tornado.md)[1]
+* [troubleshooting](tags/troubleshooting.md)[1]
+* [typescript](tags/typescript.md)[17]
+* [ubuntu](tags/ubuntu.md)[11]
+* [ufw](tags/ufw.md)[3]
+* [uml](tags/uml.md)[2]
+* [unicode](tags/unicode.md)[4]
+* [unit-testing](tags/unit-testing.md)[5]
+* [unix](tags/unix.md)[18]
+* [upstart](tags/upstart.md)[2]
+* [url](tags/url.md)[1]
+* [user-interface](tags/user-interface.md)[1]
+* [utf-8](tags/utf-8.md)[2]
+* [ux](tags/ux.md)[1]
+* [varchar](tags/varchar.md)[1]
+* [verilog](tags/verilog.md)[1]
+* [vhdl](tags/vhdl.md)[4]
+* [vim](tags/vim.md)[25]
+* [visual-prolog](tags/visual-prolog.md)[4]
+* [visualization](tags/visualization.md)[2]
+* [vscode](tags/vscode.md)[1]
+* [web](tags/web.md)[25]
+* [web-api](tags/web-api.md)[1]
+* [web-app](tags/web-app.md)[1]
+* [web-applications](tags/web-applications.md)[1]
+* [web-design](tags/web-design.md)[1]
+* [web-development](tags/web-development.md)[10]
+* [web-performance](tags/web-performance.md)[4]
+* [web-services](tags/web-services.md)[1]
+* [webcrypto](tags/webcrypto.md)[1]
+* [webmaster](tags/webmaster.md)[7]
+* [webpack](tags/webpack.md)[4]
+* [websocket](tags/websocket.md)[2]
+* [webstorm](tags/webstorm.md)[2]
+* [wget](tags/wget.md)[1]
+* [wicket](tags/wicket.md)[1]
+* [wildfly](tags/wildfly.md)[4]
+* [windows-8](tags/windows-8.md)[2]
+* [windows-phone](tags/windows-phone.md)[5]
+* [winston](tags/winston.md)[1]
+* [work-life-balance](tags/work-life-balance.md)[1]
+* [workflow](tags/workflow.md)[1]
+* [writing-tools](tags/writing-tools.md)[1]
+* [yarn](tags/yarn.md)[1]
+* [youtube](tags/youtube.md)[1]

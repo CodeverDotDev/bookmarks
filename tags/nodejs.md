@@ -178,3 +178,7 @@
     * published on: 2015-00-16
     * tags: [nodejs](../tags/nodejs.md), [unit-testing](../tags/unit-testing.md)
     * [github](https://github.com/skaterdav85/node-testing)
+* [Events | Node.js Documentation](https://nodejs.org/api/events.html)
+    * tags: [nodejs](../tags/nodejs.md), [docs](../tags/docs.md)
+* [Stream | Node.js Documentation](https://nodejs.org/api/stream.html)
+    * tags: [nodejs](../tags/nodejs.md), [docs](../tags/docs.md)

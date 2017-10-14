@@ -71,3 +71,7 @@
     * tags: [nodejs](../tags/nodejs.md), [security](../tags/security.md), [docs](../tags/docs.md)
 * [Introduction](https://www.getpostman.com/docs/)
     * tags: [postman](../tags/postman.md), [docs](../tags/docs.md), [rest](../tags/rest.md)
+* [Events | Node.js Documentation](https://nodejs.org/api/events.html)
+    * tags: [nodejs](../tags/nodejs.md), [docs](../tags/docs.md)
+* [Stream | Node.js Documentation](https://nodejs.org/api/stream.html)
+    * tags: [nodejs](../tags/nodejs.md), [docs](../tags/docs.md)
