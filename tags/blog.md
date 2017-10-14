@@ -1,4 +1,4 @@
-blog #codingmarks 
+blog 
 ---
 * [Minko Gechev's blog](http://blog.mgechev.com/)
     * tags: [blog](../tags/blog.md)

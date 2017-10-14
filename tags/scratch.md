@@ -1,4 +1,4 @@
-scratch #codingmarks 
+scratch 
 ---
 * [Computer Science Concepts in Scratch](https://stwww1.weizmann.ac.il/scratch/scratch_en/)
     * tags: [free-programming-books](../tags/free-programming-books.md), [scratch](../tags/scratch.md)

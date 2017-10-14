@@ -1,4 +1,4 @@
-c++ #codingmarks 
+c++ 
 ---
 * [Apontamentos de Programação em C/C++](http://www.dei.isep.ipp.pt/~pbsousa/aulas/ano_0/2006_07/c/Sebenta-cpp-03-2006.pdf)
     * tags: [free-programming-books](../tags/free-programming-books.md), [free-programming-books-pt_PT](../tags/free-programming-books-pt_PT.md), [c](../tags/c.md), [c++](../tags/c++.md)

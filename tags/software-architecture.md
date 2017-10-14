@@ -1,4 +1,4 @@
-software-architecture #codingmarks 
+software-architecture 
 ---
 * [Agile Planning: From Ideas to Story Cards](https://launchschool.com/books/agile_planning)
     * tags: [free-programming-books](../tags/free-programming-books.md), [language-agnostic](../tags/language-agnostic.md), [software-architecture](../tags/software-architecture.md)

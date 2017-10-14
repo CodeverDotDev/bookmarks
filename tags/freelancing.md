@@ -1,4 +1,4 @@
-freelancing #codingmarks 
+freelancing 
 ---
 * [Freelancers’ Show Episodes](https://devchat.tv/freelancers)
     * tags: [podcast](../tags/podcast.md), [freelancing](../tags/freelancing.md)

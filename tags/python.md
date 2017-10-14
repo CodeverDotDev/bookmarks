@@ -1,4 +1,4 @@
-python #codingmarks 
+python 
 ---
 * [Talk Python To Me Podcast](https://talkpython.fm/)
     * tags: [podcast](../tags/podcast.md), [python](../tags/python.md)

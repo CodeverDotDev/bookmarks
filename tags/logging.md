@@ -1,4 +1,4 @@
-logging #codingmarks 
+logging 
 ---
 * [Comparing Winston and Bunyan Node.js Logging - StrongLoop](https://strongloop.com/strongblog/compare-node-js-logging-winston-bunyan/)
     * tags: [nodejs](../tags/nodejs.md), [ logging](../tags/ logging.md)

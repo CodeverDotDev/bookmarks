@@ -1,4 +1,4 @@
-ufw #codingmarks 
+ufw 
 ---
 * [How To Set Up a Firewall with UFW on Ubuntu 14.04 | DigitalOceanDigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-with-ufw-on-ubuntu-14-04)
     * published on: 2015-00-05

@@ -1,4 +1,4 @@
-r #codingmarks 
+r 
 ---
 * [R을 이용한 데이터 처리 & 분석 실무](http://r4pda.co.kr)
     * tags: [free-programming-books](../tags/free-programming-books.md), [free-programming-books-ko](../tags/free-programming-books-ko.md), [r](../tags/r.md)

@@ -1,4 +1,4 @@
-makefile #codingmarks 
+makefile 
 ---
 * [Concevoir un Makefile](http://icps.u-strasbg.fr/people/loechner/public_html/enseignement/GL/make.pdf)
     * tags: [free-programming-books](../tags/free-programming-books.md), [makefile](../tags/makefile.md), [free-programming-books-fr](../tags/free-programming-books-fr.md), [non-dépendant-du-langage](../tags/non-dépendant-du-langage.md)

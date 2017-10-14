@@ -1,4 +1,4 @@
-free-programming-books-ru #codingmarks 
+free-programming-books-ru 
 ---
 * [E-maxx.ru: Сборник алгоритмов с примерами на C++](http://e-maxx.ru/upload/e-maxx_algo.pdf)
     * tags: [free-programming-books](../tags/free-programming-books.md), [language-agnostic](../tags/language-agnostic.md), [free-programming-books-ru](../tags/free-programming-books-ru.md)

@@ -1,4 +1,4 @@
-datamining #codingmarks 
+datamining 
 ---
 * [A Programmer's Guide to Data Mining](http://guidetodatamining.com)
     * tags: [free-programming-books](../tags/free-programming-books.md), [language-agnostic](../tags/language-agnostic.md), [datamining](../tags/datamining.md)

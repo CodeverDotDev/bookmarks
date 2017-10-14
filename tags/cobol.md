@@ -1,4 +1,4 @@
-cobol #codingmarks 
+cobol 
 ---
 * [COBOL Programming Fundamental](http://yusman.staff.gunadarma.ac.id/Downloads/files/33460/COBOL_Programming_Fundamental.pdf)
     * tags: [free-programming-books](../tags/free-programming-books.md), [cobol](../tags/cobol.md)

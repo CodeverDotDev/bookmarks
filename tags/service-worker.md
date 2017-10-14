@@ -1,4 +1,4 @@
-service-worker #codingmarks 
+service-worker 
 ---
 * [ServiceWorker Cookbook](https://serviceworke.rs/)
     * tags: [web-development](../tags/web-development.md), [service-worker](../tags/service-worker.md), [pwa](../tags/pwa.md)

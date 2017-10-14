@@ -1,4 +1,4 @@
-marketing #codingmarks 
+marketing 
 ---
 * [The Advanced Guide to Content Marketing - 5 ways to share](https://www.quicksprout.com/the-advanced-guide-to-content-marketing-chapter-9/)
     * tags: [blogging](../tags/blogging.md), [marketing](../tags/marketing.md)

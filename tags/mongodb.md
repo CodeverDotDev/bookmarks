@@ -1,4 +1,4 @@
-mongodb #codingmarks 
+mongodb 
 ---
 * [The MongoDB Manual](https://docs.mongodb.com/manual/)
     * tags: [mongodb](../tags/mongodb.md)

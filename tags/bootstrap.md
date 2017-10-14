@@ -1,4 +1,4 @@
-bootstrap #codingmarks 
+bootstrap 
 ---
 * [Angular powered Bootstrap](https://ng-bootstrap.github.io)
     * tags: [angular](../tags/angular.md), [bootstrap](../tags/bootstrap.md)

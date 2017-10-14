@@ -1,4 +1,4 @@
-nosql #codingmarks 
+nosql 
 ---
 * [GOTO 2012 • Introduction to NoSQL • Martin Fowler - YouTube](https://youtu.be/qI_g07C_Q5I)
     * tags: [nosql](../tags/nosql.md)

@@ -1,4 +1,4 @@
-neo4j #codingmarks 
+neo4j 
 ---
 * [Graph Databases](http://info.neotechnology.com/rs/neotechnology/images/GraphDatabases.pdf)
     * tags: [free-programming-books](../tags/free-programming-books.md), [neo4j](../tags/neo4j.md)

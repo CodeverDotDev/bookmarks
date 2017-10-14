@@ -1,4 +1,4 @@
-resteasy #codingmarks 
+resteasy 
 ---
 * [Resteasy Documentation - JBoss Community](http://resteasy.jboss.org/docs.html)
     * tags: [resteasy](../tags/resteasy.md), [docs](../tags/docs.md)

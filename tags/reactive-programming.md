@@ -1,4 +1,4 @@
-reactive-programming #codingmarks 
+reactive-programming 
 ---
 * [Glossary of Modern JavaScript Concepts: Part 1Button - CloseLearn More](https://auth0.com/blog/glossary-of-modern-javascript-concepts/)
     * published on: 2017-00-14

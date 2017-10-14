@@ -1,4 +1,4 @@
-mac #codingmarks 
+mac 
 ---
 * [The Easiest Way to Install Oracle Database on Apple Mac OS X ](https://blogs.oracle.com/opal/the-easiest-way-to-install-oracle-database-on-apple-mac-os-x)
     * published on: 2015-00-19

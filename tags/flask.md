@@ -1,4 +1,4 @@
-flask #codingmarks 
+flask 
 ---
 * [Explore Flask](https://exploreflask.com)
     * tags: [free-programming-books](../tags/free-programming-books.md), [python](../tags/python.md), [flask](../tags/flask.md)

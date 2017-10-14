@@ -1,4 +1,4 @@
-sql-server #codingmarks 
+sql-server 
 ---
 * [Best of SQLServerCentral.com Vol 7](http://www.red-gate.com/community/books/ssc-7)
     * tags: [free-programming-books](../tags/free-programming-books.md), [sql-server](../tags/sql-server.md)

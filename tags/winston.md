@@ -1,4 +1,4 @@
-winston #codingmarks 
+winston 
 ---
 * [How to Get Node.js Logging Right | @RisingStack](https://blog.risingstack.com/node-js-logging-tutorial/)
     * published on: 2016-00-01

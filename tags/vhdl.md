@@ -1,4 +1,4 @@
-vhdl #codingmarks 
+vhdl 
 ---
 * [Free Range VHDL](https://github.com/fabriziotappero/Free-Range-VHDL-book)
     * tags: [free-programming-books](../tags/free-programming-books.md), [vhdl](../tags/vhdl.md)

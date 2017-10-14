@@ -1,4 +1,4 @@
-free-programming-books-de #codingmarks 
+free-programming-books-de 
 ---
 * [IT-Handbuch für Fachinformatiker](http://openbook.rheinwerk-verlag.de/it_handbuch/)
     * tags: [free-programming-books](../tags/free-programming-books.md), [language-agnostic](../tags/language-agnostic.md), [free-programming-books-de](../tags/free-programming-books-de.md)

@@ -1,4 +1,4 @@
-sed #codingmarks 
+sed 
 ---
 * [Sed - An Introduction and Tutorial](http://www.grymoire.com/Unix/Sed.html)
     * tags: [free-programming-books](../tags/free-programming-books.md), [sed](../tags/sed.md)

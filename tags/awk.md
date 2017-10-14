@@ -1,4 +1,4 @@
-awk #codingmarks 
+awk 
 ---
 * [awk中文指南](http://awk.readthedocs.org/en/latest/index.html)
     * tags: [free-programming-books](../tags/free-programming-books.md), [awk](../tags/awk.md), [free-programming-books-zh](../tags/free-programming-books-zh.md)

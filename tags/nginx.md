@@ -1,4 +1,4 @@
-nginx #codingmarks 
+nginx 
 ---
 * [Nginx Admin Guide](https://www.nginx.com/resources/admin-guide/)
     * tags: [nginx](../tags/nginx.md)

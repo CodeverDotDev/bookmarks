@@ -1,4 +1,4 @@
-autotools #codingmarks 
+autotools 
 ---
 * [Autotools Mythbuster](https://autotools.io/index.html)
     * tags: [free-programming-books](../tags/free-programming-books.md), [autotools](../tags/autotools.md)

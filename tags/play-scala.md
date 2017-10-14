@@ -1,4 +1,4 @@
-play-scala #codingmarks 
+play-scala 
 ---
 * [Essential Play](http://underscore.io/books/essential-play/)
     * tags: [free-programming-books](../tags/free-programming-books.md), [scala](../tags/scala.md), [play-scala](../tags/play-scala.md)

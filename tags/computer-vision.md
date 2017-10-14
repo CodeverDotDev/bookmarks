@@ -1,4 +1,4 @@
-computer-vision #codingmarks 
+computer-vision 
 ---
 * [Computer Vision](http://homepages.inf.ed.ac.uk/rbf/BOOKS/BANDB/bandb.htm)
     * tags: [computer-vision](../tags/computer-vision.md), [free-programming-books](../tags/free-programming-books.md), [language-agnostic](../tags/language-agnostic.md)

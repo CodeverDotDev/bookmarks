@@ -1,4 +1,4 @@
-elixir #codingmarks 
+elixir 
 ---
 * [Elixir Getting Started 中文翻译](https://github.com/Ljzn/ElixrGettingStartedChinese)
     * tags: [free-programming-books](../tags/free-programming-books.md), [elixir](../tags/elixir.md), [free-programming-books-zh](../tags/free-programming-books-zh.md)

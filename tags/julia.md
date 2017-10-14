@@ -1,4 +1,4 @@
-julia #codingmarks 
+julia 
 ---
 * [Introducing Julia wikibook](https://en.wikibooks.org/wiki/Introducing_Julia)
     * tags: [free-programming-books](../tags/free-programming-books.md), [julia](../tags/julia.md)

@@ -1,4 +1,4 @@
-oauth2 #codingmarks 
+oauth2 
 ---
 * [OAuth 2.0 Tutorial](http://tutorials.jenkov.com/oauth2/index.html)
     * tags: [oauth2](../tags/oauth2.md)

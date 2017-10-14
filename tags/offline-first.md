@@ -1,4 +1,4 @@
-offline-first #codingmarks 
+offline-first 
 ---
 * [Offline First - Google Chrome](https://developer.chrome.com/apps/offline_apps)
     * tags: [offline-first](../tags/offline-first.md)

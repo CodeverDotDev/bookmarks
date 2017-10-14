@@ -1,4 +1,4 @@
-compiler-design #codingmarks 
+compiler-design 
 ---
 * [An Introduction to GCC](http://www.network-theory.co.uk/docs/gccintro/)
     * tags: [free-programming-books](../tags/free-programming-books.md), [language-agnostic](../tags/language-agnostic.md), [compiler-design](../tags/compiler-design.md)

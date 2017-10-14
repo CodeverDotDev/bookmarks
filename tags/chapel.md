@@ -1,4 +1,4 @@
-chapel #codingmarks 
+chapel 
 ---
 * [Chapel Tutorial](http://faculty.knox.edu/dbunde/teaching/chapel/)
     * tags: [free-programming-books](../tags/free-programming-books.md), [chapel](../tags/chapel.md)

@@ -1,4 +1,4 @@
-react #codingmarks 
+react 
 ---
 * [React 0.13 日本語リファレンス](http://js.studio-kingdom.com/react)
     * tags: [free-programming-books-ja](../tags/free-programming-books-ja.md), [free-programming-books](../tags/free-programming-books.md), [react](../tags/react.md), [javascript](../tags/javascript.md)

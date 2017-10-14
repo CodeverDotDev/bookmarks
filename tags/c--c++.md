@@ -1,4 +1,4 @@
-c-/-c++ #codingmarks 
+c-/-c++ 
 ---
 * [C++ moderne](http://guillaume.belz.free.fr/doku.php?id=programmez_avec_le_langage_c)
     * tags: [free-programming-books](../tags/free-programming-books.md), [c-/-c++](../tags/c--c++.md), [free-programming-books-fr](../tags/free-programming-books-fr.md)

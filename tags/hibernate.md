@@ -1,4 +1,4 @@
-hibernate #codingmarks 
+hibernate 
 ---
 * [Hibernate ORM documentation]( http://hibernate.org/orm/documentation/)
     * tags: [hibernate](../tags/hibernate.md), [docs](../tags/docs.md)

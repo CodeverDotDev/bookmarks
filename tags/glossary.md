@@ -1,4 +1,4 @@
-glossary #codingmarks 
+glossary 
 ---
 * [Glossary — MongoDB Manual](https://docs.mongodb.com/manual/reference/glossary/)
     * tags: [mongodb](../tags/mongodb.md), [glossary](../tags/glossary.md)

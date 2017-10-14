@@ -1,4 +1,4 @@
-programming-paradigms #codingmarks 
+programming-paradigms 
 ---
 * [Introduction to Functional Programming](http://www.cl.cam.ac.uk/teaching/Lectures/funprog-jrh-1996/)
     * tags: [programming-paradigms](../tags/programming-paradigms.md), [free-programming-books](../tags/free-programming-books.md), [language-agnostic](../tags/language-agnostic.md)

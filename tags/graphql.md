@@ -1,4 +1,4 @@
-graphql #codingmarks 
+graphql 
 ---
 * [GitHub - graphql-java/graphql-java: GraphQL Java implementation](https://github.com/graphql-java/graphql-java)
     * tags: [graphql](../tags/graphql.md), [java](../tags/java.md)

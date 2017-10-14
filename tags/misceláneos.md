@@ -1,4 +1,4 @@
-misceláneos #codingmarks 
+misceláneos 
 ---
 * [97 cosas que todo programador debería saber](http://97cosas.com/programador/)
     * tags: [misceláneos](../tags/misceláneos.md), [free-programming-books](../tags/free-programming-books.md), [agnósticos](../tags/agnósticos.md), [free-programming-books-es](../tags/free-programming-books-es.md)

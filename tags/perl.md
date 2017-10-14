@@ -1,4 +1,4 @@
-perl #codingmarks 
+perl 
 ---
 * [2시간 반만에 펄 익히기](http://qntm.org/files/perl/perl_kr.html)
     * tags: [free-programming-books](../tags/free-programming-books.md), [free-programming-books-ko](../tags/free-programming-books-ko.md), [perl](../tags/perl.md)

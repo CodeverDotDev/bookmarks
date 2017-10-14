@@ -1,4 +1,4 @@
-basic #codingmarks 
+basic 
 ---
 * [10 PRINT CHR$(205.5+RND(1)); : GOTO 10](http://10print.org)
     * tags: [free-programming-books](../tags/free-programming-books.md), [basic](../tags/basic.md)

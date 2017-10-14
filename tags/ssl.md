@@ -1,4 +1,4 @@
-ssl #codingmarks 
+ssl 
 ---
 * [SSL Certificate Explained - YouTube](https://youtu.be/SJJmoDZ3il8)
     * tags: [ssl](../tags/ssl.md), [ security](../tags/ security.md)

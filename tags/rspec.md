@@ -1,4 +1,4 @@
-rspec #codingmarks 
+rspec 
 ---
 * [Better Specs (RSpec Guidelines with Ruby)](http://betterspecs.org)
     * tags: [rspec](../tags/rspec.md), [free-programming-books](../tags/free-programming-books.md), [ruby](../tags/ruby.md)

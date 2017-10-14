@@ -1,4 +1,4 @@
-algorithms-&-data-structures #codingmarks 
+algorithms-&-data-structures 
 ---
 * [A Field Guide To Genetic Programming](http://dces.essex.ac.uk/staff/rpoli/gp-field-guide/toc.html)
     * tags: [free-programming-books](../tags/free-programming-books.md), [language-agnostic](../tags/language-agnostic.md), [algorithms-&-data-structures](../tags/algorithms-&-data-structures.md)

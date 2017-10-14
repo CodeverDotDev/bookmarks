@@ -1,4 +1,4 @@
-j #codingmarks 
+j 
 ---
 * [Arithmetic by Kenneth E Iverson](http://www.jsoftware.com/books/pdf/arithmetic.pdf)
     * tags: [free-programming-books](../tags/free-programming-books.md), [j](../tags/j.md)

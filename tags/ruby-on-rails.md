@@ -1,4 +1,4 @@
-ruby-on-rails #codingmarks 
+ruby-on-rails 
 ---
 * [A community-driven Rails style guide](https://github.com/bbatsov/rails-style-guide)
     * tags: [free-programming-books](../tags/free-programming-books.md), [ruby-on-rails](../tags/ruby-on-rails.md), [ruby](../tags/ruby.md)

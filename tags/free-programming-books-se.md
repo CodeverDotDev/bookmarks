@@ -1,4 +1,4 @@
-free-programming-books-se #codingmarks 
+free-programming-books-se 
 ---
 * [C-programmering](https://sv.wikibooks.org/wiki/C-programmering)
     * tags: [free-programming-books](../tags/free-programming-books.md), [c](../tags/c.md), [free-programming-books-se](../tags/free-programming-books-se.md)

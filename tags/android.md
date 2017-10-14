@@ -1,4 +1,4 @@
-android #codingmarks 
+android 
 ---
 * [Android Developers Backstage](http://androidbackstage.blogspot.ch/)
     * tags: [podcast](../tags/podcast.md), [android](../tags/android.md)

@@ -1,4 +1,4 @@
-standard-ml #codingmarks 
+standard-ml 
 ---
 * [Introduction to Standard ML](http://www.pllab.riec.tohoku.ac.jp/smlsharp/smlIntroSlides.pdf)
     * tags: [free-programming-books](../tags/free-programming-books.md), [standard-ml](../tags/standard-ml.md)

@@ -1,4 +1,4 @@
-misc #codingmarks 
+misc 
 ---
 * [2016 European Software Development Salary Survey](http://www.oreilly.com/programming/free/2016-european-software-development-salary-survey.csp)
     * tags: [free-programming-books](../tags/free-programming-books.md), [language-agnostic](../tags/language-agnostic.md), [misc](../tags/misc.md)

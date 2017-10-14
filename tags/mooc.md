@@ -1,4 +1,4 @@
-mooc #codingmarks 
+mooc 
 ---
 * [Coursera](https://www.coursera.org)
     * tags: [free-programming-books](../tags/free-programming-books.md), [language-agnostic](../tags/language-agnostic.md), [mooc](../tags/mooc.md)

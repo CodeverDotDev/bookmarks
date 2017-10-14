@@ -1,4 +1,4 @@
-tape #codingmarks 
+tape 
 ---
 * [Why I use Tape Instead of Mocha & So Should You – JavaScript Scene – Medium](https://medium.com/javascript-scene/why-i-use-tape-instead-of-mocha-so-should-you-6aa105d8eaf4)
     * published on: 2015-00-13

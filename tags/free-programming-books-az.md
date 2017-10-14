@@ -1,4 +1,4 @@
-free-programming-books-az #codingmarks 
+free-programming-books-az 
 ---
 * [C Proqramlaşdırma Dilinə Giriş](http://ilkaddimlar.com/C-Proqramlasdirma-dili/428/Giris)
     * tags: [free-programming-books](../tags/free-programming-books.md), [c](../tags/c.md), [free-programming-books-az](../tags/free-programming-books-az.md)

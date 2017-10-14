@@ -1,4 +1,4 @@
-chrome #codingmarks 
+chrome 
 ---
 * [How to Use the Timeline Tool  |  Web |  Google Developers](https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/timeline-tool)
     * tags: [dev-tools](../tags/dev-tools.md), [chrome](../tags/chrome.md)

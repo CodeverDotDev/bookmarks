@@ -1,4 +1,4 @@
-uml #codingmarks 
+uml 
 ---
 * [DevTernity 2016: Simon Brown - The Art of Visualising Software Architecture - YouTube [48min]](https://www.youtube.com/watch?v=zcmU-OE452k)
     * published on: 2016-00-22

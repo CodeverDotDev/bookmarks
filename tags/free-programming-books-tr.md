@@ -1,4 +1,4 @@
-free-programming-books-tr #codingmarks 
+free-programming-books-tr 
 ---
 * [Android Geleceği Yazanlar](https://gelecegiyazanlar.turkcell.com.tr/konu/android)
     * tags: [free-programming-books](../tags/free-programming-books.md), [android](../tags/android.md), [free-programming-books-tr](../tags/free-programming-books-tr.md)

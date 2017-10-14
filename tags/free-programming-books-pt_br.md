@@ -1,4 +1,4 @@
-free-programming-books-pt_br #codingmarks 
+free-programming-books-pt_br 
 ---
 * [Android](#android)
     * tags: [índice](../tags/índice.md), [free-programming-books](../tags/free-programming-books.md), [free-programming-books-pt_BR](../tags/free-programming-books-pt_BR.md)

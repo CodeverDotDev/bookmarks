@@ -1,4 +1,4 @@
-jquery #codingmarks 
+jquery 
 ---
 * [Apprendre jQuery](https://sutterlity.gitbooks.io/apprendre-jquery/content/)
     * tags: [free-programming-books](../tags/free-programming-books.md), [free-programming-books-fr](../tags/free-programming-books-fr.md), [jquery](../tags/jquery.md)

@@ -1,4 +1,4 @@
-gradle #codingmarks 
+gradle 
 ---
 * [Building Java Projects with Gradle](http://spring.io/guides/gs/gradle/)
     * tags: [gradle](../tags/gradle.md), [free-programming-books](../tags/free-programming-books.md), [groovy](../tags/groovy.md)

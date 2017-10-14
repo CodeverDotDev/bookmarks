@@ -1,4 +1,4 @@
-smalltalk #codingmarks 
+smalltalk 
 ---
 * [Computer Programming using GNU Smalltalk](http://www.canol.info/books/computer_programming_using_gnu_smalltalk/)
     * tags: [free-programming-books](../tags/free-programming-books.md), [smalltalk](../tags/smalltalk.md)

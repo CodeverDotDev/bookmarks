@@ -1,4 +1,4 @@
-database #codingmarks 
+database 
 ---
 * [Big Data Now: Current Perspectives from O'Reilly Radar](http://shop.oreilly.com/product/0636920022640.do)
     * tags: [free-programming-books](../tags/free-programming-books.md), [database](../tags/database.md), [language-agnostic](../tags/language-agnostic.md)

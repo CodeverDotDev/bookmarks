@@ -1,4 +1,4 @@
-microservices #codingmarks 
+microservices 
 ---
 * [Microservices Architecture-Retail](https://www.linkedin.com/pulse/microservices-architecture-retail-rajesh-gundapaneni)
     * published on: 2017-00-25

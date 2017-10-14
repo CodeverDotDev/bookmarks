@@ -1,4 +1,4 @@
-haxe #codingmarks 
+haxe 
 ---
 * [Flambe Handbook](https://github.com/markknol/flambe-guide/wiki)
     * tags: [free-programming-books](../tags/free-programming-books.md), [haxe](../tags/haxe.md)

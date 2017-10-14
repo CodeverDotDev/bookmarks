@@ -1,4 +1,4 @@
-haskell #codingmarks 
+haskell 
 ---
 * [Programação Funcional CC](http://www4.di.uminho.pt/~mjf/pub/PF-Haskell.pdf)
     * tags: [haskell](../tags/haskell.md), [free-programming-books](../tags/free-programming-books.md), [free-programming-books-pt_PT](../tags/free-programming-books-pt_PT.md)

@@ -1,4 +1,4 @@
-agile #codingmarks 
+agile 
 ---
 * [Manifesto for Agile Software Development
 ](http://agilemanifesto.org/)

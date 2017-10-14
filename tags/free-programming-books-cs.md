@@ -1,4 +1,4 @@
-free-programming-books-cs #codingmarks 
+free-programming-books-cs 
 ---
 * [Bash očima Bohdana Milara](http://i.iinfo.cz/files/root/k/bash_ocima_bohdana_milara.pdf)
     * tags: [free-programming-books](../tags/free-programming-books.md), [free-programming-books-cs](../tags/free-programming-books-cs.md), [bash](../tags/bash.md)

@@ -1,4 +1,4 @@
-forth #codingmarks 
+forth 
 ---
 * [A Beginner's Guide to Forth](http://hackershelf.com/book/482/a-beginners-guide-to-forth/)
     * tags: [free-programming-books](../tags/free-programming-books.md), [forth](../tags/forth.md)

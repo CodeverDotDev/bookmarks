@@ -1,4 +1,4 @@
-non-x86 #codingmarks 
+non-x86 
 ---
 * [Easy 6502](http://skilldrick.github.io/easy6502/)
     * tags: [free-programming-books](../tags/free-programming-books.md), [assembly-language](../tags/assembly-language.md), [non-x86](../tags/non-x86.md)

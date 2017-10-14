@@ -1,4 +1,4 @@
-diagram #codingmarks 
+diagram 
 ---
 * [NT Coding Blog: Improve your communication skills with expert diagrams](http://ntcoding.co.uk/blog/2013/02/improve-your-communication-skills-with.html)
     * published on: 2013-00-17

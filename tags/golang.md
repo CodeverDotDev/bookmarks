@@ -1,4 +1,4 @@
-golang #codingmarks 
+golang 
 ---
 * [Go Web 编程](https://github.com/astaxie/build-web-application-with-golang)
     * tags: [free-programming-books](../tags/free-programming-books.md), [golang](../tags/golang.md), [free-programming-books-zh](../tags/free-programming-books-zh.md)

@@ -1,4 +1,4 @@
-soa #codingmarks 
+soa 
 ---
 * [GOTO 2014 • Microservices • Martin Fowler - YouTube [25min]](https://www.youtube.com/watch?v=wgdBVIX9ifA&t=1s)
     * published on: 2015-00-15

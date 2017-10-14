@@ -1,4 +1,4 @@
-fontawesome #codingmarks 
+fontawesome 
 ---
 * [Fast, faster, Angular CLI - how I converted my Angular project to use Angular CLI – CodingpediaOrg](http://www.codingpedia.org/ama/fast-faster-angular-cli-how-i-converted-my-angular-project-to-use-angular-cli)
     * published on: 2017-00-02

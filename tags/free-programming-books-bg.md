@@ -1,4 +1,4 @@
-free-programming-books-bg #codingmarks 
+free-programming-books-bg 
 ---
 * [Програмиране = ++ Алгоритми](http://www.programirane.org/2013/02/free-download-algo-book-nakov-dobrikov/)
     * tags: [free-programming-books](../tags/free-programming-books.md), [free-programming-books-bg](../tags/free-programming-books-bg.md), [c](../tags/c.md)

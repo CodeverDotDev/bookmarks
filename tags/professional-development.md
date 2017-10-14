@@ -1,4 +1,4 @@
-professional-development #codingmarks 
+professional-development 
 ---
 * [Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman](http://chimera.labs.oreilly.com/books/1234000001813/index.html)
     * tags: [professional-development](../tags/professional-development.md), [free-programming-books](../tags/free-programming-books.md), [language-agnostic](../tags/language-agnostic.md)

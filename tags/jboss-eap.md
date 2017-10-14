@@ -1,4 +1,4 @@
-jboss-eap #codingmarks 
+jboss-eap 
 ---
 * [JBoss Enterprise Application Platform Component Details - Red Hat Customer Portal](https://access.redhat.com/articles/112673)
     * tags: [jboss-eap](../tags/jboss-eap.md), [resteasy](../tags/resteasy.md), [hibernate](../tags/hibernate.md)

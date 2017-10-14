@@ -1,4 +1,4 @@
-keycloak #codingmarks 
+keycloak 
 ---
 * [JWT authentication with Vert.x, Keycloak and Angular 2](http://paulbakker.io/java/jwt-keycloak-angular2/)
     * published on: 2016-00-15
