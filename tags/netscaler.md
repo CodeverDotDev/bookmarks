@@ -1,4 +1,4 @@
-netscaler
+netscaler #codingmarks 
 ---
 * [NetScaler Compression – JGSpiers.com](http://www.jgspiers.com/netscaler-compression/)
     * tags: [netscaler](../tags/netscaler.md), [compression](../tags/compression.md)

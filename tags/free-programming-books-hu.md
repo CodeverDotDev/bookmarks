@@ -1,4 +1,4 @@
-free-programming-books-hu
+free-programming-books-hu #codingmarks 
 ---
 * [A hitelesítés-szolgáltatókkal szembeni bizalom erősítése](http://mek.oszk.hu/03900/03943/index.phtml)
     * tags: [free-programming-books](../tags/free-programming-books.md), [programozási-nyelv-független](../tags/programozási-nyelv-független.md), [free-programming-books-hu](../tags/free-programming-books-hu.md)

@@ -1,4 +1,4 @@
-prolog
+prolog #codingmarks 
 ---
 * [Lógica Computacional (com Prolog)](http://www4.di.uminho.pt/~mjf/pub/LC-Prolog.pdf)
     * tags: [free-programming-books](../tags/free-programming-books.md), [free-programming-books-pt_PT](../tags/free-programming-books-pt_PT.md), [prolog](../tags/prolog.md)

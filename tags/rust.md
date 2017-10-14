@@ -1,4 +1,4 @@
-rust
+rust #codingmarks 
 ---
 * [Rust'a Giriş](http://bit.ly/rustagiris)
     * tags: [rust](../tags/rust.md), [free-programming-books](../tags/free-programming-books.md), [free-programming-books-tr](../tags/free-programming-books-tr.md)

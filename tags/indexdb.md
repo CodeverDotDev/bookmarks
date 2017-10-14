@@ -1,4 +1,4 @@
-indexdb
+indexdb #codingmarks 
 ---
 * [Working with quota on mobile browsers](https://www.html5rocks.com/en/tutorials/offline/quota-research/)
     * published on: 2014-00-28

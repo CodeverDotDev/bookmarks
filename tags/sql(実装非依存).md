@@ -1,4 +1,4 @@
-sql(実装非依存)
+sql(実装非依存) #codingmarks 
 ---
 * [SQL](http://www.techscore.com/tech/sql/)
     * tags: [free-programming-books-ja](../tags/free-programming-books-ja.md), [free-programming-books](../tags/free-programming-books.md), [sql(実装非依存)](../tags/sql(実装非依存).md)

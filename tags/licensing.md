@@ -1,4 +1,4 @@
-licensing
+licensing #codingmarks 
 ---
 * [Creative Commons: a user guide](http://www.aliprandi.org/cc-user-guide/)
     * tags: [free-programming-books](../tags/free-programming-books.md), [language-agnostic](../tags/language-agnostic.md), [licensing](../tags/licensing.md)

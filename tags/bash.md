@@ -1,4 +1,4 @@
-bash
+bash #codingmarks 
 ---
 * [Bash Reference Manual: Top](https://www.gnu.org/software/bash/manual/html_node/index.html)
     * tags: [bash](../tags/bash.md), [ linux](../tags/ linux.md), [ unix](../tags/ unix.md)

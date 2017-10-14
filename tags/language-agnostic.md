@@ -1,4 +1,4 @@
-language-agnostic
+language-agnostic #codingmarks 
 ---
 * [Дизайн патерни - просто, як двері](http://designpatterns.andriybuday.com)
     * tags: [free-programming-books](../tags/free-programming-books.md), [language-agnostic](../tags/language-agnostic.md), [free-programming-books-ua](../tags/free-programming-books-ua.md)

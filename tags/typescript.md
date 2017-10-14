@@ -1,4 +1,4 @@
-typescript
+typescript #codingmarks 
 ---
 * [Home | DefinitelyTyped](http://definitelytyped.org/)
     * tags: [typescript](../tags/typescript.md)

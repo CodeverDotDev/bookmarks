@@ -1,4 +1,4 @@
-openmp
+openmp #codingmarks 
 ---
 * [A Guide To OpenMP](http://bisqwit.iki.fi/story/howto/openmp/)
     * tags: [free-programming-books](../tags/free-programming-books.md), [openmp](../tags/openmp.md)

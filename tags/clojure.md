@@ -1,4 +1,4 @@
-clojure
+clojure #codingmarks 
 ---
 * [A Brief Beginner’s Guide To Clojure](http://www.unexpected-vortices.com/clojure/brief-beginners-guide/)
     * tags: [free-programming-books](../tags/free-programming-books.md), [clojure](../tags/clojure.md)

@@ -1,4 +1,4 @@
-latex
+latex #codingmarks 
 ---
 * [Uma não tão pequena introdução ao LaTeX](http://alfarrabio.di.uminho.pt/~albie/lshort/pt-lshort.pdf)
     * tags: [free-programming-books](../tags/free-programming-books.md), [free-programming-books-pt_PT](../tags/free-programming-books-pt_PT.md), [latex](../tags/latex.md)

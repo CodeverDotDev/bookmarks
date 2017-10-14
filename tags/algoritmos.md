@@ -1,4 +1,4 @@
-algoritmos
+algoritmos #codingmarks 
 ---
 * [Algoritmos y Programación (Guía para docentes)](http://www.eduteka.org/pdfdir/AlgoritmosProgramacion.pdf)
     * tags: [free-programming-books](../tags/free-programming-books.md), [algoritmos](../tags/algoritmos.md), [agnósticos](../tags/agnósticos.md), [free-programming-books-es](../tags/free-programming-books-es.md)

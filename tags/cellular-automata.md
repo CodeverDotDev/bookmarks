@@ -1,4 +1,4 @@
-cellular-automata
+cellular-automata #codingmarks 
 ---
 * [A New Kind of Science](https://www.wolframscience.com/nksonline/toc.html)
     * tags: [cellular-automata](../tags/cellular-automata.md), [free-programming-books](../tags/free-programming-books.md), [language-agnostic](../tags/language-agnostic.md)

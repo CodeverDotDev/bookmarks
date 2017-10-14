@@ -1,4 +1,4 @@
-mercurial
+mercurial #codingmarks 
 ---
 * [HGInit - Mercurial Tutorial by Joel Spolsky](http://hginit.com)
     * tags: [free-programming-books](../tags/free-programming-books.md), [mercurial](../tags/mercurial.md)

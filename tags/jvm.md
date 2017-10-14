@@ -1,4 +1,4 @@
-jvm
+jvm #codingmarks 
 ---
 * [java - Specifying JVM arguments when calling a jar file? - Stack Overflow](https://stackoverflow.com/questions/5891123/specifying-jvm-arguments-when-calling-a-jar-file)
     * tags: [java](../tags/java.md), [jvm](../tags/jvm.md)

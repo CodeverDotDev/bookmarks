@@ -1,4 +1,4 @@
-lego-mindstorms
+lego-mindstorms #codingmarks 
 ---
 * [A MINDSTORMS EV3 robotok programozásának alapjai](http://www.hdidakt.hu/adat/dw_anyagok/dw_74.pdf)
     * tags: [free-programming-books](../tags/free-programming-books.md), [lego-mindstorms](../tags/lego-mindstorms.md), [free-programming-books-hu](../tags/free-programming-books-hu.md)

@@ -1,4 +1,4 @@
-distribuce
+distribuce #codingmarks 
 ---
 * [Gentoo Handbook česky](http://www.root.cz/knihy/gentoo-handbook-cesky/)
     * tags: [free-programming-books](../tags/free-programming-books.md), [free-programming-books-cs](../tags/free-programming-books-cs.md), [linux](../tags/linux.md), [distribuce](../tags/distribuce.md)

@@ -1,4 +1,4 @@
-free-programming-books-it
+free-programming-books-it #codingmarks 
 ---
 * [Programmazione Funzionale](http://minimalprocedure.pragmas.org/writings/programmazione_funzionale/programmazione_funzionale.html)
     * tags: [free-programming-books](../tags/free-programming-books.md), [agnostico](../tags/agnostico.md), [metodologie-di-sviluppo-del-software](../tags/metodologie-di-sviluppo-del-software.md), [free-programming-books-it](../tags/free-programming-books-it.md)

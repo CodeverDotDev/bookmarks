@@ -1,4 +1,4 @@
-mapreduce
+mapreduce #codingmarks 
 ---
 * [What is MapReduce? - YouTube](https://www.youtube.com/watch?v=43fqzaSH0CQ)
     * published on: 2016-00-07

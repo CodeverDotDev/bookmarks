@@ -1,4 +1,4 @@
-ciencia-computacional
+ciencia-computacional #codingmarks 
 ---
 * [Breves Notas sobre Autómatas y Lenguajes](http://lya.fciencias.unam.mx/jloa/publicaciones/automatasyLenguajes.pdf)
     * tags: [free-programming-books](../tags/free-programming-books.md), [agnósticos](../tags/agnósticos.md), [free-programming-books-es](../tags/free-programming-books-es.md), [ciencia-computacional](../tags/ciencia-computacional.md)

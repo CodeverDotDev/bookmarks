@@ -1,4 +1,4 @@
-redux
+redux #codingmarks 
 ---
 * [Redux: The Single Immutable State Tree - js Video Tutorial #free @eggheadio](https://egghead.io/lessons/javascript-redux-the-single-immutable-state-tree)
     * tags: [javascript](../tags/javascript.md), [redux](../tags/redux.md)

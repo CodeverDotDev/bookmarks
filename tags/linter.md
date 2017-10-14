@@ -1,4 +1,4 @@
-linter
+linter #codingmarks 
 ---
 * [JavaScript Standard Style](https://standardjs.com/)
     * tags: [javascript](../tags/javascript.md), [linter](../tags/linter.md)

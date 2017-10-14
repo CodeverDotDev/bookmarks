@@ -1,4 +1,4 @@
-scala
+scala #codingmarks 
 ---
 * [Effective Scala](http://twitter.github.io/effectivescala/index-cn.html)
     * tags: [free-programming-books](../tags/free-programming-books.md), [scala](../tags/scala.md), [free-programming-books-zh](../tags/free-programming-books-zh.md)

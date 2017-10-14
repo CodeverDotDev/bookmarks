@@ -1,4 +1,4 @@
-book
+book #codingmarks 
 ---
 * [97 Things Every Programmer Should Know](http://programmer.97things.oreilly.com/wiki/index.php/Contributions_Appearing_in_the_Book)
     * tags: [book](../tags/book.md)

@@ -1,4 +1,4 @@
-karma
+karma #codingmarks 
 ---
 * [Karma - Configuration File](http://karma-runner.github.io/1.0/config/configuration-file.html)
     * tags: [karma](../tags/karma.md)

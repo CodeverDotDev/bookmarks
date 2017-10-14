@@ -1,4 +1,4 @@
-cookbook
+cookbook #codingmarks 
 ---
 * [Angular.io - Component Interaction - ts - COOKBOOK](https://angular.io/docs/ts/latest/cookbook/component-communication.html)
     * tags: [angular](../tags/angular.md), [docs](../tags/docs.md), [cookbook](../tags/cookbook.md)

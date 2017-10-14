@@ -1,4 +1,4 @@
-theoretical-computer-science
+theoretical-computer-science #codingmarks 
 ---
 * [Building Blocks for Theoretical Computer Science](http://mfleck.cs.illinois.edu/building-blocks/index.html)
     * tags: [free-programming-books](../tags/free-programming-books.md), [language-agnostic](../tags/language-agnostic.md), [theoretical-computer-science](../tags/theoretical-computer-science.md)

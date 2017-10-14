@@ -1,4 +1,4 @@
-tex
+tex #codingmarks 
 ---
 * [Notes On Programming in TeX](http://pgfplots.sourceforge.net/TeX-programming-notes.pdf)
     * tags: [free-programming-books](../tags/free-programming-books.md), [tex](../tags/tex.md)

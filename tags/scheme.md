@@ -1,4 +1,4 @@
-scheme
+scheme #codingmarks 
 ---
 * [Scheme 入门教程](http://deathking.github.io/yast-cn/)
     * tags: [free-programming-books](../tags/free-programming-books.md), [scheme](../tags/scheme.md), [free-programming-books-zh](../tags/free-programming-books-zh.md)

@@ -1,4 +1,4 @@
-vim
+vim #codingmarks 
 ---
 * [Display line number in vim](http://vim.wikia.com/wiki/Display_line_numbers)
     * tags: [vim](../tags/vim.md)
