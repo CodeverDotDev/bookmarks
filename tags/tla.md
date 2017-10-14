@@ -1,2 +1,2 @@
-1. [Specifying Systems: The TLA+ Language and Tools for Hardware and Software Engineers](http://research.microsoft.com/en-us/um/people/lamport/tla/book.html)
-  * tags: [free-programming-books](tags/free-programming-books.md), [tla](tags/tla.md)
+* [Specifying Systems: The TLA+ Language and Tools for Hardware and Software Engineers](http://research.microsoft.com/en-us/um/people/lamport/tla/book.html)
+    * tags: [free-programming-books](../tags/free-programming-books.md), [tla](../tags/tla.md)
