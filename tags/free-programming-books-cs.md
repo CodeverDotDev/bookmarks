@@ -1,3 +1,5 @@
+free-programming-books-cs
+---
 * [Bash očima Bohdana Milara](http://i.iinfo.cz/files/root/k/bash_ocima_bohdana_milara.pdf)
     * tags: [free-programming-books](../tags/free-programming-books.md), [free-programming-books-cs](../tags/free-programming-books-cs.md), [bash](../tags/bash.md)
 * [Java 5.0, novinky jazyka a upgrade aplikací](http://i.iinfo.cz/files/root/k/java-5-0-novinky-jazyka-a-upgrade-aplikaci.pdf)

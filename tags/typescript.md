@@ -1,3 +1,5 @@
+typescript
+---
 * [Home | DefinitelyTyped](http://definitelytyped.org/)
     * tags: [typescript](../tags/typescript.md)
 * [TypeScript Documentation](https://www.typescriptlang.org/docs/index.html)

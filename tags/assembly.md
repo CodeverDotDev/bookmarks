@@ -1,3 +1,5 @@
+assembly
+---
 * [Ассемблер в Linux для программистов C](https://ru.wikibooks.org/wiki/Ассемблер_в_Linux_для_программистов_C)
     * tags: [free-programming-books](../tags/free-programming-books.md), [free-programming-books-ru](../tags/free-programming-books-ru.md), [assembly](../tags/assembly.md)
 * [Ассемблер для чайников](http://av-assembler.ru/asm/afd/assembler-for-dummy.htm)

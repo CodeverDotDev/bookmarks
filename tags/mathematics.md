@@ -1,3 +1,5 @@
+mathematics
+---
 * [A First Course in Linear Algebra](http://linear.ups.edu)
     * tags: [free-programming-books](../tags/free-programming-books.md), [language-agnostic](../tags/language-agnostic.md), [mathematics](../tags/mathematics.md)
 * [Advanced Algebra](http://www.math.stonybrook.edu/~aknapp/download/a2-alg-inside.pdf)

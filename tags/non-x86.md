@@ -1,3 +1,5 @@
+non-x86
+---
 * [Easy 6502](http://skilldrick.github.io/easy6502/)
     * tags: [free-programming-books](../tags/free-programming-books.md), [assembly-language](../tags/assembly-language.md), [non-x86](../tags/non-x86.md)
 * [Machine Code for Beginners [Z80 and 6502 CPUs](https://usborne.com/browse-books/features/computer-and-coding-books/)

@@ -1,3 +1,5 @@
+haskell
+---
 * [Programação Funcional CC](http://www4.di.uminho.pt/~mjf/pub/PF-Haskell.pdf)
     * tags: [haskell](../tags/haskell.md), [free-programming-books](../tags/free-programming-books.md), [free-programming-books-pt_PT](../tags/free-programming-books-pt_PT.md)
 * [Вивчить собі Хаскела на велике щастя!](http://haskell.trygub.com)

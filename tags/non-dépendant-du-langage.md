@@ -1,3 +1,5 @@
+non-dépendant-du-langage
+---
 * [Algorithmique](http://pauillac.inria.fr/~quercia/cdrom/cours/)
     * tags: [free-programming-books](../tags/free-programming-books.md), [algorithmique](../tags/algorithmique.md), [free-programming-books-fr](../tags/free-programming-books-fr.md), [non-dépendant-du-langage](../tags/non-dépendant-du-langage.md)
 * [Complexité algorithmique](http://www.liafa.univ-paris-diderot.fr/~sperifel/livre_complexite.html)

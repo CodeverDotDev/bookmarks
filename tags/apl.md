@@ -1,3 +1,5 @@
+apl
+---
 * [A Practical Introduction to APL1 & APL2](http://aplwiki.com/BooksAndPublications#A_Practical_Introduction_to_APL1_.26_APL2)
     * tags: [free-programming-books](../tags/free-programming-books.md), [apl](../tags/apl.md)
 * [A Practical Introduction to APL3 & APL4](http://aplwiki.com/BooksAndPublications#A_Practical_Introduction_to_APL3_.26_APL4)

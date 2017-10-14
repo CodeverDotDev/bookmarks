@@ -1,3 +1,5 @@
+datamining
+---
 * [A Programmer's Guide to Data Mining](http://guidetodatamining.com)
     * tags: [free-programming-books](../tags/free-programming-books.md), [language-agnostic](../tags/language-agnostic.md), [datamining](../tags/datamining.md)
 * [Data Jujitsu: The Art of Turning Data into Product](http://www.oreilly.com/data/free/data-jujitsu.csp)

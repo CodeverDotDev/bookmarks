@@ -1,3 +1,5 @@
+latex
+---
 * [Uma não tão pequena introdução ao LaTeX](http://alfarrabio.di.uminho.pt/~albie/lshort/pt-lshort.pdf)
     * tags: [free-programming-books](../tags/free-programming-books.md), [free-programming-books-pt_PT](../tags/free-programming-books-pt_PT.md), [latex](../tags/latex.md)
 * [Uma não tão pequena introdução ao LATEX 2ε](http://www.ctan.org/tex-archive/info/lshort/portuguese)

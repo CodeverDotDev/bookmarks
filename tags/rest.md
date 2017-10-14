@@ -1,3 +1,5 @@
+rest
+---
 * [RestWiki: 
 Query Strings Considered Harmful](http://web.archive.org/web/20070815111413/http://rest.blueoxen.net/cgi-bin/wiki.pl?QueryStringsConsideredHarmful)
     * tags: [web-development](../tags/web-development.md), [rest](../tags/rest.md)

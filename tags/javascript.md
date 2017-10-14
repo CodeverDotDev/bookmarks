@@ -1,3 +1,5 @@
+javascript
+---
 * [Eloquent JavaScript](http://eloquentjavascript.net/)
     * tags: [javascript](../tags/javascript.md), [ book](../tags/ book.md)
 * [JavaScript for Cats](http://jsforcats.com/)

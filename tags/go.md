@@ -1,3 +1,5 @@
+go
+---
 * [AN INTRODUCTION TO PROGRAMMING IN GO 한글 번역](http://www.codingnuri.com/golang-book/index.html)
     * tags: [free-programming-books](../tags/free-programming-books.md), [free-programming-books-ko](../tags/free-programming-books-ko.md), [go](../tags/go.md)
 * [Go Tour 한글 번역](http://go-tour-kr.appspot.com)

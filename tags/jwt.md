@@ -1,3 +1,5 @@
+jwt
+---
 * [JWT authentication with Vert.x, Keycloak and Angular 2](http://paulbakker.io/java/jwt-keycloak-angular2/)
     * published on: 2016-00-15
     * tags: [angular](../tags/angular.md), [keycloak](../tags/keycloak.md), [jwt](../tags/jwt.md), [angular-cli](../tags/angular-cli.md)

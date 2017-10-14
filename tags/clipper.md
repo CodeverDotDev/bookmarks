@@ -1,3 +1,5 @@
+clipper
+---
 * [Application Development with Harbour](https://en.wikibooks.org/wiki/Application_Development_with_Harbour)
     * tags: [free-programming-books](../tags/free-programming-books.md), [clipper](../tags/clipper.md), [harbour](../tags/harbour.md)
 * [CA-Clipper 5.2 Norton Guide](http://www.ousob.com/ng/clguide/)

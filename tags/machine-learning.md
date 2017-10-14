@@ -1,3 +1,5 @@
+machine-learning
+---
 * [A Brief Introduction to Neural Networks](http://www.dkriesel.com/en/science/neural_networks)
     * tags: [machine-learning](../tags/machine-learning.md), [free-programming-books](../tags/free-programming-books.md), [language-agnostic](../tags/language-agnostic.md)
 * [A Course in Machine Learning](http://ciml.info/dl/v0_9/ciml-v0_9-all.pdf)

@@ -1,3 +1,5 @@
+scilab
+---
 * [Introduction to Scilab](http://forge.scilab.org/index.php/p/docintrotoscilab/downloads/)
     * tags: [free-programming-books](../tags/free-programming-books.md), [scilab](../tags/scilab.md)
 * [Programming in Scilab](http://forge.scilab.org/index.php/p/docprogscilab/downloads/)

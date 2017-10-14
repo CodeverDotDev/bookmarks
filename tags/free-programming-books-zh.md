@@ -1,3 +1,5 @@
+free-programming-books-zh
+---
 * [IntelliJ IDEA 简体中文专题教程](https://github.com/judasn/IntelliJ-IDEA-Tutorial)
     * tags: [free-programming-books](../tags/free-programming-books.md), [free-programming-books-zh](../tags/free-programming-books-zh.md), [ide](../tags/ide.md)
 * [21分钟MySQL入门教程](http://www.cnblogs.com/mr-wid/archive/2013/05/09/3068229.html)

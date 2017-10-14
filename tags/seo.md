@@ -1,3 +1,5 @@
+seo
+---
 * [9 SEO Quirks You Should Be Aware Of](http://searchengineland.com/9-seo-quirks-you-should-be-aware-of-146465)
     * published on: 2013-00-31
     * tags: [seo](../tags/seo.md)

@@ -1,3 +1,5 @@
+agile
+---
 * [Manifesto for Agile Software Development
 ](http://agilemanifesto.org/)
     * tags: [agile](../tags/agile.md)

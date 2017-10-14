@@ -1,3 +1,5 @@
+functional-programming
+---
 * [What Is Functional Programming?](http://blog.jenkster.com/2015/12/what-is-functional-programming.html)
     * tags: [functional-programming](../tags/functional-programming.md), [software-engineering](../tags/software-engineering.md)
 * [JavaScript’s Map, Reduce, and Filter](https://danmartensen.svbtle.com/javascripts-map-reduce-and-filter)

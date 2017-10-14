@@ -1,3 +1,5 @@
+linux
+---
 * [What Is The Difference Between Shell, Console, And Terminal?](https://fossbytes.com/difference-between-shell-console-terminal/)
     * tags: [basic-knowledge](../tags/basic-knowledge.md), [unix](../tags/unix.md), [linux](../tags/linux.md)
 * [A developer's guide to using aliases – CodingpediaOrg](http://www.codingpedia.org/ama/a-developers-guide-to-using-aliases/)

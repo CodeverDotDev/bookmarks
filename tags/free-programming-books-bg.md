@@ -1,3 +1,5 @@
+free-programming-books-bg
+---
 * [Програмиране = ++ Алгоритми](http://www.programirane.org/2013/02/free-download-algo-book-nakov-dobrikov/)
     * tags: [free-programming-books](../tags/free-programming-books.md), [free-programming-books-bg](../tags/free-programming-books-bg.md), [c](../tags/c.md)
 * [Въведение в програмирането със С#](http://www.introprogramming.info/wp-content/uploads/2011/07/Intro-CSharp-Book-1.00.pdf)

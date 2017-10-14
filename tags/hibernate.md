@@ -1,3 +1,5 @@
+hibernate
+---
 * [Hibernate ORM documentation]( http://hibernate.org/orm/documentation/)
     * tags: [hibernate](../tags/hibernate.md), [docs](../tags/docs.md)
 * [Hibernate Search - Hibernate Search](http://hibernate.org/search/)

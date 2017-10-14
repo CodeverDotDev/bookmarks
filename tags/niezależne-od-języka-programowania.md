@@ -1,3 +1,5 @@
+niezależne-od-języka-programowania
+---
 * [Git](https://pl.wikibooks.org/wiki/Git)
     * tags: [free-programming-books](../tags/free-programming-books.md), [niezależne-od-języka-programowania](../tags/niezależne-od-języka-programowania.md), [free-programming-books-pl](../tags/free-programming-books-pl.md)
 * [Interaktywna platforma do nauki programowania](http://apki.org)

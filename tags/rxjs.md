@@ -1,3 +1,5 @@
+rxjs
+---
 * [Tackling State – Angular 2](http://victorsavkin.com/post/137821436516/managing-state-in-angular-2-applications)
     * tags: [angular](../tags/angular.md), [rxjs](../tags/rxjs.md), [observable](../tags/observable.md)
 * [Angular 2 Application Architecture: Build Reux-like Apps with RxJs](http://blog.angular-university.io/angular-2-application-architecture-building-applications-using-rxjs-and-functional-reactive-programming-vs-redux/)

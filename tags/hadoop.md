@@ -1,3 +1,5 @@
+hadoop
+---
 * [Cloudera Impala](http://www.cloudera.com/content/www/en-us/resources/aboutcloudera/cloudera-impala-ebook.html)
     * tags: [free-programming-books](../tags/free-programming-books.md), [hadoop](../tags/hadoop.md)
 * [Data-Intensive Text Processing with MapReduce](http://lintool.github.io/MapReduceAlgorithms/MapReduce-book-final.pdf)

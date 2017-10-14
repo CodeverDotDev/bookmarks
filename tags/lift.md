@@ -1,3 +1,5 @@
+lift
+---
 * [Exploring Lift](http://exploring.liftweb.net)
     * tags: [free-programming-books](../tags/free-programming-books.md), [scala](../tags/scala.md), [lift](../tags/lift.md)
 * [Lift](https://github.com/tjweir/liftbook)

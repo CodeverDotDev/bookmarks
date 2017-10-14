@@ -1,3 +1,5 @@
+testing
+---
 * [Testing - ts - GUIDE](https://angular.io/docs/ts/latest/guide/testing.html)
     * tags: [angular](../tags/angular.md), [ testing](../tags/ testing.md), [ docs](../tags/ docs.md)
 * [Sandbox (software development) - Wikipedia](https://en.wikipedia.org/wiki/Sandbox_(software_development))

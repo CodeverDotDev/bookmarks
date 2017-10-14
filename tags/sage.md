@@ -1,3 +1,5 @@
+sage
+---
 * [Sage for Power Users](http://wstein.org/books/sagebook/sagebook.pdf)
     * tags: [free-programming-books](../tags/free-programming-books.md), [sage](../tags/sage.md)
 * [The Sage Manuals](http://www.sagemath.org/doc/)

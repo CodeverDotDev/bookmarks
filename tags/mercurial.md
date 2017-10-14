@@ -1,3 +1,5 @@
+mercurial
+---
 * [HGInit - Mercurial Tutorial by Joel Spolsky](http://hginit.com)
     * tags: [free-programming-books](../tags/free-programming-books.md), [mercurial](../tags/mercurial.md)
 * [Mercurial: The Definitive Guide](http://hgbook.red-bean.com)

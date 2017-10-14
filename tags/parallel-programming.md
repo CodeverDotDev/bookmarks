@@ -1,3 +1,5 @@
+parallel-programming
+---
 * [High Performance Computing](http://cnx.org/contents/bb821554-7f76-44b1-89e7-8a2a759d1347%405.2)
     * tags: [parallel-programming](../tags/parallel-programming.md), [free-programming-books](../tags/free-programming-books.md), [language-agnostic](../tags/language-agnostic.md)
 * [High Performance Computing Training](https://computing.llnl.gov/?set=training&page=index)

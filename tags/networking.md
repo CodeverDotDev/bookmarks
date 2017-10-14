@@ -1,3 +1,5 @@
+networking
+---
 * [What is reverse DNS and why should you care?](https://blog.leadfeeder.com/what-is-reverse-dns-and-why-you-should-care/)
     * published on: 2017-00-06
     * tags: [dns](../tags/dns.md), [networking](../tags/networking.md)

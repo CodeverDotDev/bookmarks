@@ -1,3 +1,5 @@
+d
+---
 * [D Programlama Dili](http://ddili.org/ders/d/D_Programlama_Dili.pdf)
     * tags: [free-programming-books](../tags/free-programming-books.md), [d](../tags/d.md), [free-programming-books-tr](../tags/free-programming-books-tr.md)
 * [D Templates Tutorial](https://github.com/PhilippeSigaud/D-templates-tutorial)

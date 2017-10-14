@@ -1,3 +1,5 @@
+javaee
+---
 * [Java Platform, Enterprise Edition: The Java EE Tutorial Release 7 - Contents](https://docs.oracle.com/javaee/7/tutorial/)
     * published on: 2014-00-07
     * tags: [javaee](../tags/javaee.md)

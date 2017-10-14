@@ -1,3 +1,5 @@
+coq
+---
 * [Certified Programming with Dependent Types](http://adam.chlipala.net/cpdt/html/toc.html)
     * tags: [free-programming-books](../tags/free-programming-books.md), [coq](../tags/coq.md)
 * [Software Foundations](http://www.cis.upenn.edu/~bcpierce/sf/)

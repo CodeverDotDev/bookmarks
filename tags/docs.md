@@ -1,3 +1,5 @@
+docs
+---
 * [Quickstart - ts - QUICKSTART](https://angular.io/guide/quickstart)
     * tags: [angular](../tags/angular.md), [docs](../tags/docs.md), [angular-cli](../tags/angular-cli.md)
 * [Angular.io - Component Interaction - ts - COOKBOOK](https://angular.io/docs/ts/latest/cookbook/component-communication.html)

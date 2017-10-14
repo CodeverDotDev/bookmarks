@@ -1,3 +1,5 @@
+angular.js
+---
 * [AngularJS 1.2 日本語リファレンス](http://js.studio-kingdom.com/angularjs)
     * tags: [free-programming-books-ja](../tags/free-programming-books-ja.md), [angular.js](../tags/angular.js.md), [free-programming-books](../tags/free-programming-books.md), [javascript](../tags/javascript.md)
 * [AngularJS 日本語マニュアル](http://angular-js.net)

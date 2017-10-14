@@ -1,3 +1,5 @@
+scala
+---
 * [Effective Scala](http://twitter.github.io/effectivescala/index-cn.html)
     * tags: [free-programming-books](../tags/free-programming-books.md), [scala](../tags/scala.md), [free-programming-books-zh](../tags/free-programming-books-zh.md)
 * [Scala 初学者指南](https://www.gitbook.com/book/windor/beginners-guide-to-scala/details)

@@ -1,3 +1,5 @@
+erlang
+---
 * [Erlang 并发编程](https://github.com/liancheng/cpie-cn)
     * tags: [free-programming-books](../tags/free-programming-books.md), [free-programming-books-zh](../tags/free-programming-books-zh.md), [erlang](../tags/erlang.md)
 * [Concurrent Programming in ERLANG](http://www.erlang.org/download/erlang-book-part1.pdf)

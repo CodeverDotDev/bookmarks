@@ -1,3 +1,5 @@
+open-source-software
+---
 * [الأبعاد الاستراتيجية للبرمجيات الحرة مفتوحة المصدر ](http://librebooks.org/strategic-dimensions-of-free-and-open-source-software/)
     * tags: [free-programming-books](../tags/free-programming-books.md), [open-source-software](../tags/open-source-software.md), [free-programming-books-ar](../tags/free-programming-books-ar.md)
 * [الحريات الرقمية - المفاهيم الرئيسية ](http://librebooks.org/digital-freedoms-main-concepts/)
