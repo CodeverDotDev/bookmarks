@@ -1,12 +1,12 @@
 Coding bookmarks, aka #codingmarks
 ---
-Generated codingmarks, grouped by tags, shared on  [https://www.codingmarks.org](https://www.codingmarks.org)
+Generated codingmarks, grouped by topics, shared from  [https://www.codingmarks.org](https://www.codingmarks.org)
 
-List of tags
+List of topics
  * [alphabetically ordered](tags-alphabetically.md)
- * [ordered by the number of codingmarks it contains](tags-by-size.md)
+ * [ordered by the number of codingmarks they contain](tags-by-size.md)
 
-List of English Tags:
+List of Topics in English:
 ---
 * [.net-framework](tags/.net-framework.md) [6]
 * [active-directory](tags/active-directory.md) [1]
