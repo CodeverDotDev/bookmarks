@@ -5,7 +5,7 @@ npm
 * [npm-shrinkwrap](https://docs.npmjs.com/cli/shrinkwrap)
     * tags: [npm](../tags/npm.md)
 * [GitHub - eirslett/frontend-maven-plugin](https://github.com/eirslett/frontend-maven-plugin)
-    * tags: [maven](../tags/maven.md), [gulp](../tags/gulp.md), [nodejs](../tags/nodejs.md), [npm](../tags/npm.md)
+    * tags: [maven](../tags/maven.md), [gulp](../tags/gulp.md), [nodejs](../tags/nodejs.md), [npm](../tags/npm.md), [maven-plugin](../tags/maven-plugin.md)
 * [npm-scripts](https://docs.npmjs.com/misc/scripts)
     * tags: [npm](../tags/npm.md)
 * [Getting Started With Angular - Development Environment Best Practices](http://blog.angular-university.io/getting-started-with-angular-setup-a-development-environment-with-yarn-the-angular-cli-setup-an-ide/)

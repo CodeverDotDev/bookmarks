@@ -99,6 +99,8 @@ html
     * tags: [free-programming-books](../tags/free-programming-books.md), [free-programming-books-hu](../tags/free-programming-books-hu.md), [html](../tags/html.md), [css](../tags/css.md)
 * [Working with quota on mobile browsers](https://www.html5rocks.com/en/tutorials/offline/quota-research/)
     * published on: 2014-00-28
-    * tags: [html](../tags/html.md), [localstorage](../tags/localstorage.md), [indexdb](../tags/indexdb.md)
+    * tags: [html](../tags/html.md), [local-storage](../tags/local-storage.md), [indexeddb](../tags/indexeddb.md)
 * [tabindex - HTML | MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/tabindex)
     * tags: [html](../tags/html.md)
+* [Event - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Event)
+    * tags: [dom](../tags/dom.md), [html](../tags/html.md)

@@ -24,3 +24,5 @@ rxjs
 * [RxJs SwitchMap Operator Deep Dive : How Does It Work ? Learn Selectors](http://blog.angular-university.io/rxjs-switchmap-operator/)
     * published on: 2017-00-05
     * tags: [angular](../tags/angular.md), [rxjs](../tags/rxjs.md)
+* [Map vs FlatMap by NamitaMalik](https://namitamalik.github.io/Map-vs-FlatMap/)
+    * tags: [rxjs](../tags/rxjs.md)

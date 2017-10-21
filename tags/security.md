@@ -7,7 +7,7 @@ security
 * [Security Checklist — MongoDB Manual](https://docs.mongodb.com/manual/administration/security-checklist/)
     * tags: [mongodb](../tags/mongodb.md), [ security](../tags/ security.md)
 * [How to Configure a Firewall with UFW](https://www.linode.com/docs/security/firewalls/configure-firewall-with-ufw)
-    * tags: [security](../tags/security.md), [ubuntu](../tags/ubuntu.md), [debian](../tags/debian.md), [arch-linux](../tags/arch-linux.md)
+    * tags: [security](../tags/security.md), [ubuntu](../tags/ubuntu.md), [debian](../tags/debian.md), [archlinux](../tags/archlinux.md)
 * [Cipherli.st - Strong Ciphers for Apache, nginx and Lighttpd](https://cipherli.st/)
     * tags: [security](../tags/security.md), [apache](../tags/apache.md), [nginx](../tags/nginx.md), [lighttpd](../tags/lighttpd.md), [ssl](../tags/ssl.md), [tls](../tags/tls.md)
 * [HTTP Strict Transport Security - Wikipedia](https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security)
@@ -50,3 +50,9 @@ Khan Academy](https://www.khanacademy.org/computing/computer-science/cryptograph
 * [JWT: The  Complete Guide to JSON Web Tokens](https://blog.angular-university.io/angular-jwt/)
     * published on: 2017-00-06
     * tags: [jwt](../tags/jwt.md), [security](../tags/security.md), [hmac](../tags/hmac.md)
+* [5 Steps to Add Modern Authentication to Legacy Apps Using JWTsButton - CloseLearn More](https://auth0.com/blog/5-steps-to-add-modern-authentication-to-legacy-apps-using-jwts/)
+    * published on: 2015-00-28
+    * tags: [jwt](../tags/jwt.md), [security](../tags/security.md)
+* [Angular Authentication: Using the Http Client and Http Interceptors](https://medium.com/@ryanchenkie_40935/angular-authentication-using-the-http-client-and-http-interceptors-2f9d1540eb8)
+    * published on: 2017-00-18
+    * tags: [angular](../tags/angular.md), [jwt](../tags/jwt.md), [security](../tags/security.md), [authentication](../tags/authentication.md)

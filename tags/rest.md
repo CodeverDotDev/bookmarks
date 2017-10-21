@@ -40,3 +40,6 @@ Query Strings Considered Harmful](http://web.archive.org/web/20070815111413/http
     * tags: [postman](../tags/postman.md), [rest](../tags/rest.md)
 * [Introduction](https://www.getpostman.com/docs/)
     * tags: [postman](../tags/postman.md), [docs](../tags/docs.md), [rest](../tags/rest.md)
+* [How to build the right smoke test REST service in Java EE with Maven – CodingpediaOrg](http://www.codingpedia.org/ama/how-to-build-the-right-smoke-test-rest-service-in-java-ee-with-maven)
+    * published on: 2016-00-18
+    * tags: [maven](../tags/maven.md), [rest](../tags/rest.md), [javaee](../tags/javaee.md), [git](../tags/git.md)

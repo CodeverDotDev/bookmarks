@@ -1,7 +1,8 @@
 maven 
 ---
 * [How to deploy an application on Wildfly/JBoss EAP 7 via the Wildfly Maven Plugin](http://www.codingpedia.org/ama/how-to-deploy-an-application-on-wildfly-or-jboss-eap-7-via-the-wildfly-maven-plugin)
-    * tags: [java-ee](../tags/java-ee.md), [wildfly](../tags/wildfly.md), [maven](../tags/maven.md)
+    * published on: 2017-00-17
+    * tags: [javaee](../tags/javaee.md), [wildfly](../tags/wildfly.md), [maven](../tags/maven.md)
 * [Maven – Introduction to the Dependency Mechanism](https://maven.apache.org/guides/introduction/introduction-to-dependency-mechanism.html)
     * tags: [maven](../tags/maven.md)
 * [Maven – Maven Documentation](https://maven.apache.org/guides/index.html)
@@ -13,7 +14,7 @@ maven
 * [Maven tutorial](http://tutorials.jenkov.com/maven/maven-tutorial.html)
     * tags: [maven](../tags/maven.md)
 * [GitHub - eirslett/frontend-maven-plugin](https://github.com/eirslett/frontend-maven-plugin)
-    * tags: [maven](../tags/maven.md), [gulp](../tags/gulp.md), [nodejs](../tags/nodejs.md), [npm](../tags/npm.md)
+    * tags: [maven](../tags/maven.md), [gulp](../tags/gulp.md), [nodejs](../tags/nodejs.md), [npm](../tags/npm.md), [maven-plugin](../tags/maven-plugin.md)
 * [java - Adding all Maven dependencies to Arquillian - Stack Overflow](https://stackoverflow.com/questions/13001371/adding-all-maven-dependencies-to-arquillian)
     * tags: [arquillian](../tags/arquillian.md), [maven](../tags/maven.md)
 * [Developing with Eclipse and Maven](http://books.sonatype.com/m2eclipse-book/reference/)
@@ -28,3 +29,8 @@ maven
     * tags: [free-programming-books-ja](../tags/free-programming-books-ja.md), [free-programming-books](../tags/free-programming-books.md), [maven](../tags/maven.md)
 * [What is Maven?](https://github.com/KengoTODA/what-is-maven)
     * tags: [free-programming-books-ja](../tags/free-programming-books-ja.md), [free-programming-books](../tags/free-programming-books.md), [maven](../tags/maven.md)
+* [How to build the right smoke test REST service in Java EE with Maven – CodingpediaOrg](http://www.codingpedia.org/ama/how-to-build-the-right-smoke-test-rest-service-in-java-ee-with-maven)
+    * published on: 2016-00-18
+    * tags: [maven](../tags/maven.md), [rest](../tags/rest.md), [javaee](../tags/javaee.md), [git](../tags/git.md)
+* [Apache Maven Assembly Plugin – Introduction](http://maven.apache.org/plugins/maven-assembly-plugin/)
+    * tags: [maven](../tags/maven.md), [maven-plugin](../tags/maven-plugin.md)

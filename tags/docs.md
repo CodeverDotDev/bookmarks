@@ -77,3 +77,7 @@ docs
     * tags: [nodejs](../tags/nodejs.md), [docs](../tags/docs.md)
 * [Stream | Node.js Documentation](https://nodejs.org/api/stream.html)
     * tags: [nodejs](../tags/nodejs.md), [docs](../tags/docs.md)
+* [Angular User Input](https://angular.io/guide/user-input)
+    * tags: [angular](../tags/angular.md), [docs](../tags/docs.md)
+* [Angular Http](https://angular.io/guide/http)
+    * tags: [angular](../tags/angular.md), [docs](../tags/docs.md)

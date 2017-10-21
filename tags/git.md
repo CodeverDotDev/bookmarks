@@ -141,3 +141,6 @@ git
     * tags: [git](../tags/git.md)
 * [Git - Submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules)
     * tags: [git](../tags/git.md)
+* [How to build the right smoke test REST service in Java EE with Maven – CodingpediaOrg](http://www.codingpedia.org/ama/how-to-build-the-right-smoke-test-rest-service-in-java-ee-with-maven)
+    * published on: 2016-00-18
+    * tags: [maven](../tags/maven.md), [rest](../tags/rest.md), [javaee](../tags/javaee.md), [git](../tags/git.md)

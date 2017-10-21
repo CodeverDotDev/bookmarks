@@ -17,7 +17,7 @@ linux
 * [systemd - Debian Wiki](https://wiki.debian.org/systemd)
     * tags: [systemd](../tags/systemd.md), [linux](../tags/linux.md)
 * [The Linux Command Line by William E. Shotts, Jr.](http://linuxcommand.org/tlcl.php)
-    * tags: [linux](../tags/linux.md), [free-book](../tags/free-book.md)
+    * tags: [linux](../tags/linux.md), [free-books](../tags/free-books.md)
 * [Display Date And Time In Linux – nixCraft](https://www.cyberciti.biz/faq/linux-display-date-and-time/)
     * published on: 2009-00-09
     * tags: [linux](../tags/linux.md)

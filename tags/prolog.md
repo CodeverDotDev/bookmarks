@@ -39,7 +39,7 @@ prolog
 * [Warren's Abstract Machine: A Tutorial Reconstruction](http://wambook.sourceforge.net)
     * tags: [free-programming-books](../tags/free-programming-books.md), [prolog](../tags/prolog.md)
 * [A Gentle Guide to Constraint Logic Programming via ECLiPSe](http://anclp.pl)
-    * tags: [free-programming-books](../tags/free-programming-books.md), [constraint-logic-programming-(extended-prolog)](../tags/constraint-logic-programming-(extended-prolog).md), [prolog](../tags/prolog.md)
+    * tags: [free-programming-books](../tags/free-programming-books.md), [prolog](../tags/prolog.md)
 * [Prolog プログラミング入門](http://bach.istc.kobe-u.ac.jp/prolog/intro/)
     * tags: [free-programming-books-ja](../tags/free-programming-books-ja.md), [free-programming-books](../tags/free-programming-books.md), [prolog](../tags/prolog.md)
 * [お気楽 Prolog プログラミング入門](http://www.geocities.jp/m_hiroi/prolog/index.html)

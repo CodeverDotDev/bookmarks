@@ -1,4 +1,4 @@
 screencast 
 ---
 * [Emacs Rocks!](http://emacsrocks.com/)
-    * tags: [emacs](../tags/emacs.md), [ text editor](../tags/ text editor.md), [ screencast](../tags/ screencast.md)
+    * tags: [emacs](../tags/emacs.md), [screencast](../tags/screencast.md)

@@ -1,7 +1,7 @@
 emacs 
 ---
 * [Emacs Rocks!](http://emacsrocks.com/)
-    * tags: [emacs](../tags/emacs.md), [ text editor](../tags/ text editor.md), [ screencast](../tags/ screencast.md)
+    * tags: [emacs](../tags/emacs.md), [screencast](../tags/screencast.md)
 * [An Introduction to Programming in Emacs Lisp, 3rd Edition](https://www.gnu.org/software/emacs/manual/html_node/eintr/index.html)
     * tags: [free-programming-books](../tags/free-programming-books.md), [emacs](../tags/emacs.md)
 * [GNU Emacs Lisp Reference Manual](http://www.gnu.org/software/emacs/manual/elisp.html)

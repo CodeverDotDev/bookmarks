@@ -160,3 +160,23 @@ angular
 * [Angular NgRx Store and Redux - When to use a Store and Why ?](https://blog.angular-university.io/angular-2-redux-ngrx-rxjs/)
     * published on: 2016-00-22
     * tags: [angular](../tags/angular.md)
+* [Angular User Input](https://angular.io/guide/user-input)
+    * tags: [angular](../tags/angular.md), [docs](../tags/docs.md)
+* [Angular Http](https://angular.io/guide/http)
+    * tags: [angular](../tags/angular.md), [docs](../tags/docs.md)
+* [Angular, React, or Vue JS: Which one is for me? | Object Partners](https://objectpartners.com/2017/07/25/angular-react-or-vue-js-which-one-is-for-me/)
+    * published on: 2017-00-25
+    * tags: [angular](../tags/angular.md), [reactjs](../tags/reactjs.md), [vuejs](../tags/vuejs.md)
+    * [github](https://github.com/mike-plummer/angular-react-vue-stopwatch)
+* [The New HTTP Client in Angular 4.3 – Austin – Medium](https://medium.com/@amcdnl/the-new-http-client-in-angular-4-3-754bd3ff83a8)
+    * published on: 2017-00-25
+    * tags: [angular](../tags/angular.md), [jwt](../tags/jwt.md)
+* [Angular Authentication: Using the Http Client and Http Interceptors](https://medium.com/@ryanchenkie_40935/angular-authentication-using-the-http-client-and-http-interceptors-2f9d1540eb8)
+    * published on: 2017-00-18
+    * tags: [angular](../tags/angular.md), [jwt](../tags/jwt.md), [security](../tags/security.md), [authentication](../tags/authentication.md)
+* [Async/Await with Angular 2 – Encoded Labs](https://labs.encoded.io/2016/12/08/asyncawait-with-angular/)
+    * published on: 2016-00-08
+    * tags: [angular](../tags/angular.md), [async-await](../tags/async-await.md), [javascript](../tags/javascript.md)
+* [ES6 Promises (with Angular 2) Explained - YouTube](https://www.youtube.com/watch?v=viaF0hM8G94)
+    * published on: 2016-00-10
+    * tags: [javascript](../tags/javascript.md), [angular](../tags/angular.md), [promise](../tags/promise.md)
