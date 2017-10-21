@@ -7,5 +7,5 @@ unicode
 * [sql server - What is the difference between varchar and nvarchar? - Stack Overflow](http://stackoverflow.com/questions/144283/what-is-the-difference-between-varchar-and-nvarchar)
     * tags: [varchar](../tags/varchar.md), [nvarchar](../tags/nvarchar.md), [unicode](../tags/unicode.md), [encoding](../tags/encoding.md)
 * [How to support full Unicode in MySQL databases · Mathias Bynens](https://mathiasbynens.be/notes/mysql-utf8mb4)
-    * published on: 2012-00-30
+    * :calendar: published on: 2012-00-30
     * tags: [mysql](../tags/mysql.md), [unicode](../tags/unicode.md), [utf-8](../tags/utf-8.md)

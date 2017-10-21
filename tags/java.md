@@ -26,39 +26,39 @@ java
     * tags: [java](../tags/java.md)
 * [Mockito framework site](http://site.mockito.org/)
     * tags: [java](../tags/java.md), [testing](../tags/testing.md), [dev-tools](../tags/dev-tools.md), [testing](../tags/testing.md)
-    * [github](https://github.com/mockito/mockito)
+    * :octocat: [github url](https://github.com/mockito/mockito)
 * [Tutorial – REST API design and implementation in Java with Jersey and Spring – CodingpediaOrg](http://www.codingpedia.org/ama/tutorial-rest-api-design-and-implementation-in-java-with-jersey-and-spring/)
-    * published on: 2014-00-31
+    * :calendar: published on: 2014-00-31
     * tags: [spring](../tags/spring.md), [java](../tags/java.md), [jersey](../tags/jersey.md), [rest](../tags/rest.md)
-    * [github](https://github.com/Codingpedia/demo-rest-jersey-spring)
+    * :octocat: [github url](https://github.com/Codingpedia/demo-rest-jersey-spring)
 * [Project Jigsaw](http://openjdk.java.net/projects/jigsaw/)
     * tags: [java](../tags/java.md)
 * [Database Versioning with Flyway and JavaButton - CloseLearn More](https://auth0.com/blog/incrementally-changing-your-database-with-java-and-flyway/)
     * tags: [java](../tags/java.md), [flyway](../tags/flyway.md), [spring-boot](../tags/spring-boot.md)
 * [mybatis – MyBatis 3 | Introduction](http://www.mybatis.org/mybatis-3/)
     * tags: [mybatis](../tags/mybatis.md), [jdbc](../tags/jdbc.md), [java](../tags/java.md), [orm](../tags/orm.md)
-    * [github](https://github.com/mybatis/mybatis-3)
+    * :octocat: [github url](https://github.com/mybatis/mybatis-3)
 * [ROME - Home](https://rometools.github.io/rome/)
     * tags: [java](../tags/java.md), [rss](../tags/rss.md), [atom](../tags/atom.md)
-    * [github](https://github.com/rometools/rome)
+    * :octocat: [github url](https://github.com/rometools/rome)
 * [intellij idea - Error:java: javacTask: source release 8 requires target release 1.8 - Stack Overflow](http://stackoverflow.com/questions/29888592/errorjava-javactask-source-release-8-requires-target-release-1-8)
     * tags: [java](../tags/java.md), [intellij](../tags/intellij.md)
 * [Java Classloaders Tutorial - NoClassDefFoundError](https://zeroturnaround.com/rebellabs/rebel-labs-tutorial-do-you-really-get-classloaders/3/)
-    * published on: 2012-00-23
+    * :calendar: published on: 2012-00-23
     * tags: [java](../tags/java.md)
 * [GitHub - graphql-java/graphql-java: GraphQL Java implementation](https://github.com/graphql-java/graphql-java)
     * tags: [graphql](../tags/graphql.md), [java](../tags/java.md)
 * [Java 8 Stream – Read a file line by line](https://www.mkyong.com/java8/java-8-stream-read-a-file-line-by-line/)
-    * published on: 2015-00-29
+    * :calendar: published on: 2015-00-29
     * tags: [java](../tags/java.md)
 * [Loader/Launcher – A Pattern to Bootstrap Java Applications - No Fluff Just Stuff](https://www.nofluffjuststuff.com/blog/vladimir_vivien/2011/10/loader_launcher__a_pattern_to_bootstrap_java_applications)
-    * published on: 2011-00-07
+    * :calendar: published on: 2011-00-07
     * tags: [java](../tags/java.md)
-    * [github](https://github.com/vladimirvivien/workbench/tree/master/CustomLauncher)
+    * :octocat: [github url](https://github.com/vladimirvivien/workbench/tree/master/CustomLauncher)
 * [Trail: The Reflection API (The Java™ Tutorials)](http://docs.oracle.com/javase/tutorial/reflect/index.html)
     * tags: [java](../tags/java.md)
 * [java - What is reflection and why is it useful? - Stack Overflow](https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful)
-    * published on: 2009-00-01
+    * :calendar: published on: 2009-00-01
     * tags: [java](../tags/java.md)
 * [java - Specifying JVM arguments when calling a jar file? - Stack Overflow](https://stackoverflow.com/questions/5891123/specifying-jvm-arguments-when-calling-a-jar-file)
     * tags: [java](../tags/java.md), [jvm](../tags/jvm.md)
@@ -287,10 +287,10 @@ java
 * [RMI](http://mek.oszk.hu/01200/01263/index.phtml)
     * tags: [free-programming-books](../tags/free-programming-books.md), [java](../tags/java.md), [free-programming-books-hu](../tags/free-programming-books-hu.md)
 * [JSON.simple example – Read and write JSON](https://www.mkyong.com/java/json-simple-example-read-and-write-json/)
-    * published on: 2011-00-11
+    * :calendar: published on: 2011-00-11
     * tags: [java](../tags/java.md), [json](../tags/json.md)
 * [Java API for JSON Processing](http://www.oracle.com/technetwork/articles/java/json-1973242.html)
-    * published on: 2013-00-01
+    * :calendar: published on: 2013-00-01
     * tags: [java](../tags/java.md), [json](../tags/json.md)
 * [The try-with-resources Statement - Java Tutorials](https://docs.oracle.com/javase/tutorial/essential/exceptions/tryResourceClose.html)
     * tags: [java](../tags/java.md), [exception-handling](../tags/exception-handling.md)
@@ -298,15 +298,15 @@ java
     * tags: [java](../tags/java.md), [json](../tags/json.md)
 * [JUnit](http://junit.org/)
     * tags: [testing](../tags/testing.md), [java](../tags/java.md), [junit](../tags/junit.md)
-    * [github](https://github.com/junit-team/junit4)
+    * :octocat: [github url](https://github.com/junit-team/junit4)
 * [Redirecting to latest Dropwizard documentation](http://www.dropwizard.io/)
     * tags: [java](../tags/java.md), [rest](../tags/rest.md)
-    * [github](https://github.com/dropwizard/dropwizard)
+    * :octocat: [github url](https://github.com/dropwizard/dropwizard)
 * [Redirecting to http://metrics.dropwizard.io/3.2.3/](http://metrics.dropwizard.io/)
     * tags: [java](../tags/java.md), [jvm](../tags/jvm.md)
-    * [github](https://github.com/dropwizard/metrics)
+    * :octocat: [github url](https://github.com/dropwizard/metrics)
 * [Infinispan Homepage - Infinispan](http://infinispan.org/)
     * tags: [nosql](../tags/nosql.md), [java](../tags/java.md), [in-memory](../tags/in-memory.md), [distributed-cache](../tags/distributed-cache.md), [caching](../tags/caching.md)
-    * [github](https://github.com/infinispan/infinispan)
+    * :octocat: [github url](https://github.com/infinispan/infinispan)
 * [Java Dependency Analysis Tool - JDK 8 - OpenJDK Wiki](https://wiki.openjdk.java.net/display/JDK8/Java+Dependency+Analysis+Tool)
     * tags: [java](../tags/java.md), [code-analysis](../tags/code-analysis.md)

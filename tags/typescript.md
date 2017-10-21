@@ -6,16 +6,16 @@ typescript
     * tags: [typescript](../tags/typescript.md), [docs](../tags/docs.md)
 * [tsconfig.json · TypeScript      ](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html)
     * tags: [typescript](../tags/typescript.md)
-    * [github](https://github.com/Microsoft/TypeScript)
+    * :octocat: [github url](https://github.com/Microsoft/TypeScript)
 * [Modules · TypeScript      ](https://www.typescriptlang.org/docs/handbook/modules.html)
     * tags: [typescript](../tags/typescript.md)
 * [Compiler Options · TypeScript      ](https://www.typescriptlang.org/docs/handbook/compiler-options.html)
     * tags: [typescript](../tags/typescript.md)
-    * [github](https://github.com/Microsoft/TypeScript)
+    * :octocat: [github url](https://github.com/Microsoft/TypeScript)
 * [TypeScript Configuration - ts - GUIDE](https://angular.io/docs/ts/latest/guide/typescript-configuration.html)
     * tags: [angular](../tags/angular.md), [typescript](../tags/typescript.md)
 * [Angular2 Beta, RxJS, TypeScript - YouTube (1h40min)](https://youtu.be/R62iQvZ0bdQ?t=1633)
-    * published on: 2016-00-02
+    * :calendar: published on: 2016-00-02
     * tags: [angular](../tags/angular.md), [rxjs](../tags/rxjs.md), [typescript](../tags/typescript.md)
 * [Introduction · TypeScript  Declaration Files (aka typings)](https://www.typescriptlang.org/docs/handbook/declaration-files/introduction.html)
     * tags: [typescript](../tags/typescript.md)
@@ -30,14 +30,14 @@ typescript
 * [TypeScript クイックガイド](http://phyzkit.net/typescript/)
     * tags: [free-programming-books-ja](../tags/free-programming-books-ja.md), [free-programming-books](../tags/free-programming-books.md), [typescript](../tags/typescript.md)
 * [Building a Node.js App with TypeScript Tutorial | @RisingStack](https://blog.risingstack.com/building-a-node-js-app-with-typescript-tutorial/)
-    * published on: 2017-00-20
+    * :calendar: published on: 2017-00-20
     * tags: [nodejs](../tags/nodejs.md), [typescript](../tags/typescript.md)
-    * [github](https://github.com/RisingStack/node-typescript-starter)
+    * :octocat: [github url](https://github.com/RisingStack/node-typescript-starter)
 * [TypeScript – Async and Await TypeScript – Async and Await | DEV6](https://www.dev6.com/TypeScriptAsyncandAwait)
     * tags: [typescript](../tags/typescript.md)
 * [GitHub - TypeStrong/ts-node: TypeScript execution environment for node](https://github.com/TypeStrong/ts-node)
     * tags: [nodejs](../tags/nodejs.md), [typescript](../tags/typescript.md)
-    * [github](https://github.com/TypeStrong/ts-node)
+    * :octocat: [github url](https://github.com/TypeStrong/ts-node)
 * [Typescript Tutorial Videos: ES6 Features, Debugging, Type System](http://blog.angular-university.io/why-typescript-video-list/)
-    * published on: 2017-00-08
+    * :calendar: published on: 2017-00-08
     * tags: [typescript](../tags/typescript.md)

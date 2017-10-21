@@ -6,4 +6,4 @@ github-pages
     * tags: [markdown](../tags/markdown.md), [github-pages](../tags/github-pages.md)
 * [Staticman: Static sites with superpowers](https://staticman.net/)
     * tags: [blogging](../tags/blogging.md), [github-pages](../tags/github-pages.md), [jekyll](../tags/jekyll.md)
-    * [github](https://github.com/eduardoboucas/staticman)
+    * :octocat: [github url](https://github.com/eduardoboucas/staticman)

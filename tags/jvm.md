@@ -4,4 +4,4 @@ jvm
     * tags: [java](../tags/java.md), [jvm](../tags/jvm.md)
 * [Redirecting to http://metrics.dropwizard.io/3.2.3/](http://metrics.dropwizard.io/)
     * tags: [java](../tags/java.md), [jvm](../tags/jvm.md)
-    * [github](https://github.com/dropwizard/metrics)
+    * :octocat: [github url](https://github.com/dropwizard/metrics)

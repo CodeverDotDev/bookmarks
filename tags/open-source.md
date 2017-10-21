@@ -8,7 +8,7 @@ open-source
     * tags: [open-source](../tags/open-source.md)
 * [Kong - Open-Source API Management and Microservice Management](https://getkong.org/)
     * tags: [kong](../tags/kong.md), [open-source](../tags/open-source.md), [api-gateway](../tags/api-gateway.md), [microservices](../tags/microservices.md)
-    * [github](https://github.com/Mashape/kong/)
+    * :octocat: [github url](https://github.com/Mashape/kong/)
 * [Data Journalism Handbook](http://datajournalismhandbook.org)
     * tags: [free-programming-books](../tags/free-programming-books.md), [language-agnostic](../tags/language-agnostic.md), [open-source](../tags/open-source.md)
 * [Fintech, Open Source, and Emerging Markets Digital Banking for Everyone](http://www.oreilly.com/programming/free/fintech-open-source-and-emerging-tech.csp)

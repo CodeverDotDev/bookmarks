@@ -1,10 +1,10 @@
 networking 
 ---
 * [What is reverse DNS and why should you care?](https://blog.leadfeeder.com/what-is-reverse-dns-and-why-you-should-care/)
-    * published on: 2017-00-06
+    * :calendar: published on: 2017-00-06
     * tags: [dns](../tags/dns.md), [networking](../tags/networking.md)
 * [DNS Records: an Introduction](https://www.linode.com/docs/networking/dns/dns-records-an-introduction/)
-    * published on: 2015-00-20
+    * :calendar: published on: 2015-00-20
     * tags: [dns](../tags/dns.md), [networking](../tags/networking.md)
 * [802.11ac: A Survival Guide](http://chimera.labs.oreilly.com/books/1234000001739)
     * tags: [free-programming-books](../tags/free-programming-books.md), [language-agnostic](../tags/language-agnostic.md), [networking](../tags/networking.md)

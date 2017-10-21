@@ -5,14 +5,14 @@ python
 * [Test and Code](http://testandcode.com/)
     * tags: [podcast](../tags/podcast.md), [python](../tags/python.md)
 * [Zero to GraphQL in 30 Minutes – Steven Luscher - YouTube](https://www.youtube.com/watch?v=UBGzsb2UkeY)
-    * published on: 2016-00-25
+    * :calendar: published on: 2016-00-25
     * tags: [graphql](../tags/graphql.md), [ruby](../tags/ruby.md), [python](../tags/python.md), [expressjs](../tags/expressjs.md)
-    * [github](https://github.com/steveluscher/zero-to-graphql)
+    * :octocat: [github url](https://github.com/steveluscher/zero-to-graphql)
 * [Awesome Python](https://awesome-python.com/)
     * tags: [python](../tags/python.md)
-    * [github](https://github.com/vinta/awesome-python)
+    * :octocat: [github url](https://github.com/vinta/awesome-python)
 * [Python Ecosystem – An Introduction ·  mirnazim.org](http://mirnazim.org/writings/python-ecosystem-introduction/)
-    * published on: 2011-00-28
+    * :calendar: published on: 2011-00-28
     * tags: [python](../tags/python.md)
 * [A Byte of Python 한글 번역 by Jeongbin Park](http://byteofpython-korean.sourceforge.net/byte_of_python.pdf)
     * tags: [free-programming-books](../tags/free-programming-books.md), [free-programming-books-ko](../tags/free-programming-books-ko.md), [python](../tags/python.md)

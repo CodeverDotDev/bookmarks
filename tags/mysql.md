@@ -3,7 +3,7 @@ mysql
 * [mysql - What's the difference between utf8_general_ci and utf8_unicode_ci - Stack Overflow](http://stackoverflow.com/questions/766809/whats-the-difference-between-utf8-general-ci-and-utf8-unicode-ci)
     * tags: [mysql](../tags/mysql.md), [unicode](../tags/unicode.md), [utf-8](../tags/utf-8.md)
 * [How to support full Unicode in MySQL databases · Mathias Bynens](https://mathiasbynens.be/notes/mysql-utf8mb4)
-    * published on: 2012-00-30
+    * :calendar: published on: 2012-00-30
     * tags: [mysql](../tags/mysql.md), [unicode](../tags/unicode.md), [utf-8](../tags/utf-8.md)
 * [21分钟MySQL入门教程](http://www.cnblogs.com/mr-wid/archive/2013/05/09/3068229.html)
     * tags: [free-programming-books](../tags/free-programming-books.md), [free-programming-books-zh](../tags/free-programming-books-zh.md), [mysql](../tags/mysql.md)

@@ -5,20 +5,20 @@ jekyll
 * [Welcome - Jekyll • Simple, blog-aware, static sites](http://jekyllrb.com/docs/home/)
     * tags: [jekyll](../tags/jekyll.md), [ docs](../tags/ docs.md)
 * [Clearing Up Confusion Around baseurl -- Again – By Parker](https://byparker.com/blog/2014/clearing-up-confusion-around-baseurl/)
-    * published on: 2015-00-01
+    * :calendar: published on: 2015-00-01
     * tags: [jekyll](../tags/jekyll.md), [blogging](../tags/blogging.md)
 * [Staticman: Static sites with superpowers](https://staticman.net/)
     * tags: [blogging](../tags/blogging.md), [github-pages](../tags/github-pages.md), [jekyll](../tags/jekyll.md)
-    * [github](https://github.com/eduardoboucas/staticman)
+    * :octocat: [github url](https://github.com/eduardoboucas/staticman)
 * [Explain like I’m five: Jekyll collections | Ben Balter](http://ben.balter.com/2015/02/20/jekyll-collections/)
-    * published on: 2015-00-20
+    * :calendar: published on: 2015-00-20
     * tags: [jekyll](../tags/jekyll.md)
 * [Get Pagination working in Jekyll Collection in Github pages · The Explorer      ](http://anjesh.github.io/2015/01/25/collection-pagination-working-github-pages/)
-    * published on: 2015-00-25
+    * :calendar: published on: 2015-00-25
     * tags: [jekyll](../tags/jekyll.md)
-    * [github](https://github.com/pagination-demo/pagination-demo.github.io)
+    * :octocat: [github url](https://github.com/pagination-demo/pagination-demo.github.io)
 * [Introduction to collections - CloudCannon Academy](https://learn.cloudcannon.com/jekyll/introduction-to-jekyll-collections/)
     * tags: [jekyll](../tags/jekyll.md)
 * [Welcome to the Neo-HPSTR Blog – Blog Title](http://aronbordin.com/neo-hpstr-jekyll-theme/)
     * tags: [jekyll](../tags/jekyll.md), [jekyll-theme](../tags/jekyll-theme.md)
-    * [github](https://github.com/aron-bordin/neo-hpstr-jekyll-theme)
+    * :octocat: [github url](https://github.com/aron-bordin/neo-hpstr-jekyll-theme)

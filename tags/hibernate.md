@@ -4,6 +4,6 @@ hibernate
     * tags: [hibernate](../tags/hibernate.md), [docs](../tags/docs.md)
 * [Hibernate Search - Hibernate Search](http://hibernate.org/search/)
     * tags: [hibernate](../tags/hibernate.md)
-    * [github](https://github.com/hibernate/hibernate-search)
+    * :octocat: [github url](https://github.com/hibernate/hibernate-search)
 * [JBoss Enterprise Application Platform Component Details - Red Hat Customer Portal](https://access.redhat.com/articles/112673)
     * tags: [jboss-eap](../tags/jboss-eap.md), [resteasy](../tags/resteasy.md), [hibernate](../tags/hibernate.md)

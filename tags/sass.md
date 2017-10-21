@@ -6,6 +6,6 @@ sass
     * tags: [sass](../tags/sass.md)
 * [Sass Documentation ](http://sass-lang.com/documentation/file.SASS_REFERENCE.html)
     * tags: [sass](../tags/sass.md), [scss](../tags/scss.md), [css](../tags/css.md), [docs](../tags/docs.md)
-    * [github](https://github.com/sass/sass)
+    * :octocat: [github url](https://github.com/sass/sass)
 * [Sass Guidelines 中文](http://sass-guidelin.es/zh/)
     * tags: [free-programming-books](../tags/free-programming-books.md), [free-programming-books-zh](../tags/free-programming-books-zh.md), [css](../tags/css.md), [sass](../tags/sass.md)

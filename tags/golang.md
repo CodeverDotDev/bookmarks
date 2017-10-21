@@ -31,8 +31,8 @@ golang
 * [神奇的 Go 语言](http://go.ctolib.com/docs/read/magical-go-c-index.html)
     * tags: [free-programming-books](../tags/free-programming-books.md), [golang](../tags/golang.md), [free-programming-books-zh](../tags/free-programming-books-zh.md)
 * [Why should you learn Go? – Keval Patel – Medium](https://medium.com/@kevalpatel2106/why-should-you-learn-go-f607681fad65)
-    * published on: 2017-00-08
+    * :calendar: published on: 2017-00-08
     * tags: [go](../tags/go.md), [golang](../tags/golang.md)
 * [Concurrency is not parallelism - The Go Blog](https://blog.golang.org/concurrency-is-not-parallelism)
-    * published on: 2013-00-16
+    * :calendar: published on: 2013-00-16
     * tags: [golang](../tags/golang.md)

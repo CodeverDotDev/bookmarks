@@ -40,7 +40,7 @@ javascript
     * tags: [javascript](../tags/javascript.md)
 * [Lodash](https://lodash.com/)
     * tags: [lodash](../tags/lodash.md), [javascript](../tags/javascript.md)
-    * [github](https://github.com/lodash/lodash)
+    * :octocat: [github url](https://github.com/lodash/lodash)
 * [How to compare arrays in JavaScript? - Stack Overflow](http://stackoverflow.com/questions/7837456/how-to-compare-arrays-in-javascript)
     * tags: [javascript](../tags/javascript.md)
 * [JavaScript Adapter | Keycloak Documentation](http://www.keycloak.org/docs/latest/securing_apps/topics/oidc/javascript-adapter.html)
@@ -58,24 +58,24 @@ javascript
 * [Read Me · Redux](http://redux.js.org/)
     * tags: [redux](../tags/redux.md), [javascript](../tags/javascript.md)
 * [JavaScript’s Map, Reduce, and Filter](https://danmartensen.svbtle.com/javascripts-map-reduce-and-filter)
-    * published on: 2015-00-20
+    * :calendar: published on: 2015-00-20
     * tags: [javascript](../tags/javascript.md), [functional-programming](../tags/functional-programming.md)
 * [Glossary of Modern JavaScript Concepts: Part 1Button - CloseLearn More](https://auth0.com/blog/glossary-of-modern-javascript-concepts/)
-    * published on: 2017-00-14
+    * :calendar: published on: 2017-00-14
     * tags: [javascript](../tags/javascript.md), [functional-programming](../tags/functional-programming.md), [reactive-programming](../tags/reactive-programming.md)
 * [Glossary of Modern JavaScript Concepts: Part 2Button - CloseLearn More](https://auth0.com/blog/glossary-of-modern-javascript-concepts-part-2/)
-    * published on: 2017-00-01
+    * :calendar: published on: 2017-00-01
     * tags: [javascript](../tags/javascript.md), [closures](../tags/closures.md)
 * [this - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this)
     * tags: [javascript](../tags/javascript.md)
 * [JavaScript’s internal character encoding: UCS-2 or UTF-16? · Mathias Bynens](https://mathiasbynens.be/notes/javascript-encoding)
-    * published on: 2012-00-20
+    * :calendar: published on: 2012-00-20
     * tags: [javascript](../tags/javascript.md), [encoding](../tags/encoding.md)
 * [The Basics of Web Workers - HTML5 Rocks](https://www.html5rocks.com/en/tutorials/workers/basics/)
-    * published on: 2010-00-26
+    * :calendar: published on: 2010-00-26
     * tags: [javascript](../tags/javascript.md)
 * [The Post JavaScript Apocalypse - Douglas Crockford - YouTube](https://www.youtube.com/watch?v=NPB34lDZj3E)
-    * published on: 2017-00-05
+    * :calendar: published on: 2017-00-05
     * tags: [javascript](../tags/javascript.md)
 * [YouTube Player API Reference for iframe Embeds  |  YouTube IFrame Player API
        |  Google Developers](https://developers.google.com/youtube/iframe_api_reference)
@@ -410,18 +410,18 @@ javascript
     * tags: [free-programming-books](../tags/free-programming-books.md), [free-programming-books-de](../tags/free-programming-books-de.md), [javascript](../tags/javascript.md)
 * [JavaScript Standard Style](https://standardjs.com/)
     * tags: [javascript](../tags/javascript.md), [linter](../tags/linter.md)
-    * [github](https://github.com/standard/standard)
+    * :octocat: [github url](https://github.com/standard/standard)
 * [async - Documentation](http://caolan.github.io/async/)
     * tags: [nodejs](../tags/nodejs.md), [javascript](../tags/javascript.md)
-    * [github](https://github.com/caolan/async)
+    * :octocat: [github url](https://github.com/caolan/async)
 * [Array.prototype.forEach() - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
     * tags: [javascript](../tags/javascript.md)
 * [Understand JavaScript Callback Functions and Use Them | JavaScript is Sexy](http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/)
-    * published on: 2013-00-04
+    * :calendar: published on: 2013-00-04
     * tags: [javascript](../tags/javascript.md)
 * [debug](https://www.npmjs.com/package/debug)
     * tags: [nodejs](../tags/nodejs.md), [logging](../tags/logging.md), [javascript](../tags/javascript.md)
-    * [github](https://github.com/visionmedia/debug)
+    * :octocat: [github url](https://github.com/visionmedia/debug)
 * [Callback Hell](http://callbackhell.com/)
     * tags: [javascript](../tags/javascript.md)
 * [Function.prototype.apply() - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/apply)
@@ -445,12 +445,12 @@ javascript
 * [Async functions - making promises friendly | Web | Google Developers](https://developers.google.com/web/fundamentals/getting-started/primers/async-functions)
     * tags: [javascript](../tags/javascript.md)
 * [6 Reasons Why JavaScript’s Async/Await Blows Promises Away (Tutorial)](https://hackernoon.com/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9)
-    * published on: 1988-00-25
+    * :calendar: published on: 1988-00-25
     * tags: [javascript](../tags/javascript.md)
 * [await - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/await)
     * tags: [javascript](../tags/javascript.md)
 * [Taming the asynchronous beast with ES7](https://pouchdb.com/2015/03/05/taming-the-async-beast-with-es7.html)
-    * published on: 2015-00-05
+    * :calendar: published on: 2015-00-05
     * tags: [javascript](../tags/javascript.md), [es7](../tags/es7.md)
 * [Date.prototype.toLocaleString() - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/toLocaleString)
     * tags: [javascript](../tags/javascript.md)
@@ -458,13 +458,13 @@ javascript
     * tags: [javascript](../tags/javascript.md)
 * [Sinon.JS](http://sinonjs.org/)
     * tags: [javascript](../tags/javascript.md), [nodejs](../tags/nodejs.md), [unit-testing](../tags/unit-testing.md), [testing](../tags/testing.md), [sinonjs](../tags/sinonjs.md)
-    * [github](https://github.com/sinonjs/sinon)
+    * :octocat: [github url](https://github.com/sinonjs/sinon)
 * [GitHub - marcuswestin/store.js](https://github.com/marcuswestin/store.js)
     * tags: [javascript](../tags/javascript.md), [localstorage](../tags/localstorage.md)
-    * [github](https://github.com/marcuswestin/store.js)
+    * :octocat: [github url](https://github.com/marcuswestin/store.js)
 * [Async/Await with Angular 2 – Encoded Labs](https://labs.encoded.io/2016/12/08/asyncawait-with-angular/)
-    * published on: 2016-00-08
+    * :calendar: published on: 2016-00-08
     * tags: [angular](../tags/angular.md), [async-await](../tags/async-await.md), [javascript](../tags/javascript.md)
 * [ES6 Promises (with Angular 2) Explained - YouTube](https://www.youtube.com/watch?v=viaF0hM8G94)
-    * published on: 2016-00-10
+    * :calendar: published on: 2016-00-10
     * tags: [javascript](../tags/javascript.md), [angular](../tags/angular.md), [promise](../tags/promise.md)

@@ -12,4 +12,4 @@ book
     * tags: [maven](../tags/maven.md), [book](../tags/book.md)
 * [GitHub - free-programming-books: ](https://github.com/vhf/free-programming-books)
     * tags: [book](../tags/book.md)
-    * [github](https://github.com/vhf/free-programming-books)
+    * :octocat: [github url](https://github.com/vhf/free-programming-books)

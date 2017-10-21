@@ -2,16 +2,16 @@ ruby
 ---
 * [RVM: Ruby Version Manager](https://rvm.io/)
     * tags: [ruby](../tags/ruby.md), [cli](../tags/cli.md)
-    * [github](https://github.com/rvm/rvm)
+    * :octocat: [github url](https://github.com/rvm/rvm)
 * [Ruby Documentation](https://www.ruby-lang.org/en/documentation/)
     * tags: [ruby](../tags/ruby.md), [ docs](../tags/ docs.md)
 * [Asciidoctor | An open source implementation of AsciiDoc in Ruby](http://asciidoctor.org/)
     * tags: [asciidoc](../tags/asciidoc.md), [ruby](../tags/ruby.md)
-    * [github](https://github.com/asciidoctor/asciidoctor)
+    * :octocat: [github url](https://github.com/asciidoctor/asciidoctor)
 * [Zero to GraphQL in 30 Minutes – Steven Luscher - YouTube](https://www.youtube.com/watch?v=UBGzsb2UkeY)
-    * published on: 2016-00-25
+    * :calendar: published on: 2016-00-25
     * tags: [graphql](../tags/graphql.md), [ruby](../tags/ruby.md), [python](../tags/python.md), [expressjs](../tags/expressjs.md)
-    * [github](https://github.com/steveluscher/zero-to-graphql)
+    * :octocat: [github url](https://github.com/steveluscher/zero-to-graphql)
 * [루비 스타일 가이드](https://github.com/dalzony/ruby-style-guide/blob/master/README-koKR.md)
     * tags: [free-programming-books](../tags/free-programming-books.md), [free-programming-books-ko](../tags/free-programming-books-ko.md), [ruby](../tags/ruby.md)
 * [Маленька книга про Ruby](https://lambdabooks.github.io/thelittlebookofruby)

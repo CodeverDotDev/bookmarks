@@ -13,8 +13,8 @@ offline-first
 * [Offline - HTML5 Rocks](https://www.html5rocks.com/en/features/offline)
     * tags: [offline-first](../tags/offline-first.md)
 * [The offline cookbook - JakeArchibald.com](https://jakearchibald.com/2014/offline-cookbook/)
-    * published on: 2014-00-09
+    * :calendar: published on: 2014-00-09
     * tags: [pwa](../tags/pwa.md), [offline-first](../tags/offline-first.md), [service-worker](../tags/service-worker.md)
 * [localForage](https://localforage.github.io/localForage/)
     * tags: [offline-first](../tags/offline-first.md), [localforage](../tags/localforage.md)
-    * [github](https://github.com/localForage/localForage)
+    * :octocat: [github url](https://github.com/localForage/localForage)

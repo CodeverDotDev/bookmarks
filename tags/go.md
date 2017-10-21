@@ -57,5 +57,5 @@ go
 * [Erstelle Webanwendungen mit Go](https://astaxie.gitbooks.io/build-web-application-with-golang/content/de/)
     * tags: [free-programming-books](../tags/free-programming-books.md), [free-programming-books-de](../tags/free-programming-books-de.md), [go](../tags/go.md)
 * [Why should you learn Go? – Keval Patel – Medium](https://medium.com/@kevalpatel2106/why-should-you-learn-go-f607681fad65)
-    * published on: 2017-00-08
+    * :calendar: published on: 2017-00-08
     * tags: [go](../tags/go.md), [golang](../tags/golang.md)

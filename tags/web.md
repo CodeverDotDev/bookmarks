@@ -50,4 +50,6 @@ web
     * tags: [free-programming-books](../tags/free-programming-books.md), [web](../tags/web.md), [free-programming-books-zh](../tags/free-programming-books-zh.md)
 * [Popper.js](https://popper.js.org/)
     * tags: [web](../tags/web.md), [web-applications](../tags/web-applications.md), [user-interface](../tags/user-interface.md)
-    * [github](https://github.com/FezVrasta/popper.js)
+    * :octocat: [github url](https://github.com/FezVrasta/popper.js)
+* [Emoji cheat sheet for GitHub, Basecamp and other services](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
+    * tags: [web](../tags/web.md), [cheatsheet](../tags/cheatsheet.md)

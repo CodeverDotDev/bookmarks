@@ -5,5 +5,5 @@ redux
 * [Read Me · Redux](http://redux.js.org/)
     * tags: [redux](../tags/redux.md), [javascript](../tags/javascript.md)
 * [You Might Not Need Redux – Dan Abramov – Medium](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367)
-    * published on: 2016-00-19
+    * :calendar: published on: 2016-00-19
     * tags: [redux](../tags/redux.md)

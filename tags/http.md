@@ -16,4 +16,4 @@ http
     * tags: [http](../tags/http.md), [caching](../tags/caching.md)
 * [GitHub - node-nock/nock](https://github.com/node-nock/nock)
     * tags: [nodejs](../tags/nodejs.md), [http](../tags/http.md), [unit-testing](../tags/unit-testing.md)
-    * [github](https://github.com/node-nock/nock)
+    * :octocat: [github url](https://github.com/node-nock/nock)

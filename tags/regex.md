@@ -15,5 +15,5 @@ regex
 * [Expressões Regulares - Guia de Consulta Rápida](http://aurelio.net/regex/guia/)
     * tags: [free-programming-books](../tags/free-programming-books.md), [regex](../tags/regex.md), [free-programming-books-pt_BR](../tags/free-programming-books-pt_BR.md)
 * [The Problem With URLs](https://blog.codinghorror.com/the-problem-with-urls/)
-    * published on: 2008-00-29
+    * :calendar: published on: 2008-00-29
     * tags: [url](../tags/url.md), [regex](../tags/regex.md)

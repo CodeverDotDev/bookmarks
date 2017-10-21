@@ -19,7 +19,7 @@ linux
 * [The Linux Command Line by William E. Shotts, Jr.](http://linuxcommand.org/tlcl.php)
     * tags: [linux](../tags/linux.md), [free-books](../tags/free-books.md)
 * [Display Date And Time In Linux – nixCraft](https://www.cyberciti.biz/faq/linux-display-date-and-time/)
-    * published on: 2009-00-09
+    * :calendar: published on: 2009-00-09
     * tags: [linux](../tags/linux.md)
 * [리눅스 서버를 다루는 기술](https://thebook.io/006718/)
     * tags: [free-programming-books](../tags/free-programming-books.md), [free-programming-books-ko](../tags/free-programming-books-ko.md), [linux](../tags/linux.md)
@@ -148,7 +148,7 @@ linux
 * [GNU/Linux segédprogramok használata](http://mek.oszk.hu/08700/08742/index.phtml)
     * tags: [free-programming-books](../tags/free-programming-books.md), [linux](../tags/linux.md), [free-programming-books-hu](../tags/free-programming-books-hu.md)
 * [Systemd Essentials: Working with Services, Units, and the Journal | DigitalOceanDigitalOcean](https://www.digitalocean.com/community/tutorials/systemd-essentials-working-with-services-units-and-the-journal)
-    * published on: 2015-00-20
+    * :calendar: published on: 2015-00-20
     * tags: [systemd](../tags/systemd.md), [linux](../tags/linux.md)
 * [Add a User to a Group (or Second Group) on Linux Asset 1](https://www.howtogeek.com/50787/add-a-user-to-a-group-or-second-group-on-linux/)
     * tags: [linux](../tags/linux.md)
