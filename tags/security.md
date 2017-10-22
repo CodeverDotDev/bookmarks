@@ -1,11 +1,11 @@
 security 
 ---
 * [SSL Certificate Explained - YouTube](https://youtu.be/SJJmoDZ3il8)
-    * tags: [ssl](../tags/ssl.md), [ security](../tags/ security.md)
+    * tags: [ssl](../tags/ssl.md), [security](../tags/security.md)
 * [How To Change SSH Port in Ubuntu - idroot](http://idroot.net/tutorials/how-to-change-ssh-port-in-ubuntu/)
-    * tags: [ssh](../tags/ssh.md), [ security](../tags/ security.md), [ ubuntu](../tags/ ubuntu.md)
+    * tags: [ssh](../tags/ssh.md), [security](../tags/security.md), [ubuntu](../tags/ubuntu.md)
 * [Security Checklist — MongoDB Manual](https://docs.mongodb.com/manual/administration/security-checklist/)
-    * tags: [mongodb](../tags/mongodb.md), [ security](../tags/ security.md)
+    * tags: [mongodb](../tags/mongodb.md), [security](../tags/security.md)
 * [How to Configure a Firewall with UFW](https://www.linode.com/docs/security/firewalls/configure-firewall-with-ufw)
     * tags: [security](../tags/security.md), [ubuntu](../tags/ubuntu.md), [debian](../tags/debian.md), [archlinux](../tags/archlinux.md)
 * [Cipherli.st - Strong Ciphers for Apache, nginx and Lighttpd](https://cipherli.st/)

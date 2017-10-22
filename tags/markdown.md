@@ -1,15 +1,15 @@
 markdown 
 ---
 * [Markdown Cheatsheet · adam-p/markdown-here Wiki · GitHub](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-    * tags: [markdown](../tags/markdown.md), [ cheatsheet](../tags/ cheatsheet.md)
+    * tags: [markdown](../tags/markdown.md), [cheatsheet](../tags/cheatsheet.md)
 * [Mastering Markdown · GitHub Guides      ](https://guides.github.com/features/mastering-markdown/)
     * tags: [markdown](../tags/markdown.md)
 * [ GitHub Pages now faster and simpler with Jekyll 3.0 · GitHub](https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0)
     * tags: [markdown](../tags/markdown.md), [github-pages](../tags/github-pages.md)
 * [GitHub - chjj/marked: A markdown parser and compiler. Built for speed.](https://github.com/chjj/marked)
-    * tags: [markdown](../tags/markdown.md), [ javascript](../tags/ javascript.md)
+    * tags: [markdown](../tags/markdown.md), [javascript](../tags/javascript.md)
 * [GitHub - showdownjs/showdown: A Markdown to HTML converter written in Javascript](https://github.com/showdownjs/showdown)
-    * tags: [markdown](../tags/markdown.md), [ javascript](../tags/ javascript.md)
+    * tags: [markdown](../tags/markdown.md), [javascript](../tags/javascript.md)
 * [Living the Future of Technical Writing – Hacker Noon](https://hackernoon.com/living-the-future-of-technical-writing-2f368bd0a272)
     * :calendar: published on: 2014-00-27
     * tags: [markdown](../tags/markdown.md), [asciidoc](../tags/asciidoc.md)

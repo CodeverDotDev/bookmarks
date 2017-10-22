@@ -3,7 +3,7 @@ mongodb
 * [The MongoDB Manual](https://docs.mongodb.com/manual/)
     * tags: [mongodb](../tags/mongodb.md)
 * [Security Checklist — MongoDB Manual](https://docs.mongodb.com/manual/administration/security-checklist/)
-    * tags: [mongodb](../tags/mongodb.md), [ security](../tags/ security.md)
+    * tags: [mongodb](../tags/mongodb.md), [security](../tags/security.md)
 * [MongoDB Hosting: Database-as-a-Service by mLab](https://mlab.com/)
     * tags: [dev-tools](../tags/dev-tools.md), [mongodb](../tags/mongodb.md)
 * [simple voting system with MongoDB - Stack Overflow](http://stackoverflow.com/questions/12339233/simple-voting-system-with-mongodb)

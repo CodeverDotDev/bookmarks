@@ -5,7 +5,7 @@ keycloak
     * tags: [angular](../tags/angular.md), [keycloak](../tags/keycloak.md), [jwt](../tags/jwt.md), [angular-cli](../tags/angular-cli.md)
     * :octocat: [github url](https://github.com/paulbakker/vertx-angular2-keycloak-demo)
 * [Keycloak - Documentation](http://www.keycloak.org/documentation.html)
-    * tags: [keycloak](../tags/keycloak.md), [ sso](../tags/ sso.md)
+    * tags: [keycloak](../tags/keycloak.md), [sso](../tags/sso.md)
 * [Offline Access | Server Administration Guide](http://www.keycloak.org/docs/latest/server_admin/topics/sessions/offline.html)
     * tags: [keycloak](../tags/keycloak.md)
 * [Admin REST API | Keycloak Documentation](https://keycloak.gitbooks.io/documentation/server_development/topics/admin-rest-api.html)

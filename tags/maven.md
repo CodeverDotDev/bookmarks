@@ -6,7 +6,7 @@ maven
 * [Maven – Introduction to the Dependency Mechanism](https://maven.apache.org/guides/introduction/introduction-to-dependency-mechanism.html)
     * tags: [maven](../tags/maven.md)
 * [Maven – Maven Documentation](https://maven.apache.org/guides/index.html)
-    * tags: [maven](../tags/maven.md), [ docs](../tags/ docs.md)
+    * tags: [maven](../tags/maven.md), [docs](../tags/docs.md)
 * [Maven: The complete Reference - Maven properties](http://books.sonatype.com/mvnref-book/reference/resource-filtering-sect-properties.html)
     * tags: [maven](../tags/maven.md)
 * [Maven: The Complete Reference](http://books.sonatype.com/mvnref-book/reference/index.html)

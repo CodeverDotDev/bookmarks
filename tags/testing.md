@@ -1,7 +1,7 @@
 testing 
 ---
 * [Testing - ts - GUIDE](https://angular.io/docs/ts/latest/guide/testing.html)
-    * tags: [angular](../tags/angular.md), [ testing](../tags/ testing.md), [ docs](../tags/ docs.md)
+    * tags: [angular](../tags/angular.md), [testing](../tags/testing.md), [docs](../tags/docs.md)
 * [Sandbox (software development) - Wikipedia](https://en.wikipedia.org/wiki/Sandbox_(software_development))
     * tags: [basic-knowledge](../tags/basic-knowledge.md), [testing](../tags/testing.md)
 * [Testbed - Wikipedia](https://en.wikipedia.org/wiki/Testbed)
@@ -11,7 +11,7 @@ testing
 * [Test-driven development - Wikipedia](https://en.wikipedia.org/wiki/Test-driven_development)
     * tags: [testing](../tags/testing.md)
 * [Testing Angular 2 Services and Http with Jasmine](http://chariotsolutions.com/blog/post/testing-angular-2-0-x-services-http-jasmine-karma/)
-    * tags: [angular](../tags/angular.md), [ testing](../tags/ testing.md)
+    * tags: [angular](../tags/angular.md), [testing](../tags/testing.md)
 * [Mockito framework site](http://site.mockito.org/)
     * tags: [java](../tags/java.md), [testing](../tags/testing.md), [dev-tools](../tags/dev-tools.md), [testing](../tags/testing.md)
     * :octocat: [github url](https://github.com/mockito/mockito)

@@ -1,7 +1,7 @@
 logging 
 ---
 * [Comparing Winston and Bunyan Node.js Logging - StrongLoop](https://strongloop.com/strongblog/compare-node-js-logging-winston-bunyan/)
-    * tags: [nodejs](../tags/nodejs.md), [ logging](../tags/ logging.md)
+    * tags: [nodejs](../tags/nodejs.md), [logging](../tags/logging.md)
 * [debug](https://www.npmjs.com/package/debug)
     * tags: [nodejs](../tags/nodejs.md), [logging](../tags/logging.md), [javascript](../tags/javascript.md)
     * :octocat: [github url](https://github.com/visionmedia/debug)

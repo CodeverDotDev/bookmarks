@@ -3,7 +3,7 @@ jekyll
 * [Setting up your GitHub Pages site locally with Jekyll - User Documentation        ](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/)
     * tags: [github-pages](../tags/github-pages.md), [jekyll](../tags/jekyll.md)
 * [Welcome - Jekyll • Simple, blog-aware, static sites](http://jekyllrb.com/docs/home/)
-    * tags: [jekyll](../tags/jekyll.md), [ docs](../tags/ docs.md)
+    * tags: [jekyll](../tags/jekyll.md), [docs](../tags/docs.md)
 * [Clearing Up Confusion Around baseurl -- Again – By Parker](https://byparker.com/blog/2014/clearing-up-confusion-around-baseurl/)
     * :calendar: published on: 2015-00-01
     * tags: [jekyll](../tags/jekyll.md), [blogging](../tags/blogging.md)

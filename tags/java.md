@@ -1,7 +1,7 @@
 java 
 ---
 * [Java Regex - Tutorial](http://www.vogella.com/tutorials/JavaRegularExpressions/article.html)
-    * tags: [java](../tags/java.md), [ regex](../tags/ regex.md)
+    * tags: [java](../tags/java.md), [regex](../tags/regex.md)
 * [Java Exception Handling](http://tutorials.jenkov.com/java-exception-handling/index.html)
     * tags: [java](../tags/java.md), [exception-handling](../tags/exception-handling.md)
 * [Tired of Null Pointer Exceptions? Consider Using Java SE 8's Optional!](http://www.oracle.com/technetwork/articles/java/java8-optional-2175753.html)
@@ -9,7 +9,7 @@ java
 * [VisualVM: Home](https://visualvm.github.io/)
     * tags: [java](../tags/java.md), [troubleshooting](../tags/troubleshooting.md), [dev-tools](../tags/dev-tools.md)
 * [Lesson: Regular Expressions (The Java™ Tutorials > Essential Classes)](http://docs.oracle.com/javase/tutorial/essential/regex/index.html)
-    * tags: [regex](../tags/regex.md), [ java](../tags/ java.md)
+    * tags: [regex](../tags/regex.md), [java](../tags/java.md)
 * [Java 8 Optional: How to Use it](http://blog.jhades.org/java-8-how-to-use-optional/)
     * tags: [java](../tags/java.md)
 * [Generics:  How They Work and Why They Are Important](http://www.oracle.com/technetwork/articles/java/juneau-generics-2255374.html)

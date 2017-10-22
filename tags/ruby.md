@@ -4,7 +4,7 @@ ruby
     * tags: [ruby](../tags/ruby.md), [cli](../tags/cli.md)
     * :octocat: [github url](https://github.com/rvm/rvm)
 * [Ruby Documentation](https://www.ruby-lang.org/en/documentation/)
-    * tags: [ruby](../tags/ruby.md), [ docs](../tags/ docs.md)
+    * tags: [ruby](../tags/ruby.md), [docs](../tags/docs.md)
 * [Asciidoctor | An open source implementation of AsciiDoc in Ruby](http://asciidoctor.org/)
     * tags: [asciidoc](../tags/asciidoc.md), [ruby](../tags/ruby.md)
     * :octocat: [github url](https://github.com/asciidoctor/asciidoctor)

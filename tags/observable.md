@@ -6,7 +6,7 @@ observable
 * [Tackling State – Angular 2](http://victorsavkin.com/post/137821436516/managing-state-in-angular-2-applications)
     * tags: [angular](../tags/angular.md), [rxjs](../tags/rxjs.md), [observable](../tags/observable.md)
 * [Cold vs Hot Observables by thoughtram](https://blog.thoughtram.io/angular/2016/06/16/cold-vs-hot-observables.html)
-    * tags: [angular](../tags/angular.md), [ observable](../tags/ observable.md), [ rxjs](../tags/ rxjs.md)
+    * tags: [angular](../tags/angular.md), [observable](../tags/observable.md), [rxjs](../tags/rxjs.md)
 * [ReactiveX - Observable](http://reactivex.io/documentation/observable.html)
     * tags: [observable](../tags/observable.md), [rxjs](../tags/rxjs.md)
 * [The introduction to Reactive Programming you've been missing · GitHub](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)

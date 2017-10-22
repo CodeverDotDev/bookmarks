@@ -1,7 +1,7 @@
 ubuntu 
 ---
 * [How To Change SSH Port in Ubuntu - idroot](http://idroot.net/tutorials/how-to-change-ssh-port-in-ubuntu/)
-    * tags: [ssh](../tags/ssh.md), [ security](../tags/ security.md), [ ubuntu](../tags/ ubuntu.md)
+    * tags: [ssh](../tags/ssh.md), [security](../tags/security.md), [ubuntu](../tags/ubuntu.md)
 * [How to Configure a Firewall with UFW](https://www.linode.com/docs/security/firewalls/configure-firewall-with-ufw)
     * tags: [security](../tags/security.md), [ubuntu](../tags/ubuntu.md), [debian](../tags/debian.md), [archlinux](../tags/archlinux.md)
 * [How To Set Up Nginx Server Blocks (Virtual Hosts) on Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-nginx-server-blocks-virtual-hosts-on-ubuntu-16-04)

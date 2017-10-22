@@ -1,7 +1,7 @@
 npm 
 ---
 * [ls | npm Documentation](https://docs.npmjs.com/cli/ls)
-    * tags: [npm](../tags/npm.md), [ docs](../tags/ docs.md), [ nodejs](../tags/ nodejs.md)
+    * tags: [npm](../tags/npm.md), [docs](../tags/docs.md), [nodejs](../tags/nodejs.md)
 * [npm-shrinkwrap](https://docs.npmjs.com/cli/shrinkwrap)
     * tags: [npm](../tags/npm.md)
 * [GitHub - eirslett/frontend-maven-plugin](https://github.com/eirslett/frontend-maven-plugin)

@@ -1,7 +1,7 @@
 podcast 
 ---
 * [JSJ Episodes](https://devchat.tv/js-jabber)
-    * tags: [javascript](../tags/javascript.md), [ podcast](../tags/ podcast.md)
+    * tags: [javascript](../tags/javascript.md), [podcast](../tags/podcast.md)
 * [Software Engineering Daily](https://softwareengineeringdaily.com/)
     * tags: [software-engineering](../tags/software-engineering.md), [podcast](../tags/podcast.md)
 * [The Hanselminutes Podcast](http://hanselminutes.com/)

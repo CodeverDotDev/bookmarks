@@ -1,7 +1,7 @@
 bash 
 ---
 * [Bash Reference Manual: Top](https://www.gnu.org/software/bash/manual/html_node/index.html)
-    * tags: [bash](../tags/bash.md), [ linux](../tags/ linux.md), [ unix](../tags/ unix.md)
+    * tags: [bash](../tags/bash.md), [linux](../tags/linux.md), [unix](../tags/unix.md)
 * [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/)
     * tags: [free-programming-books](../tags/free-programming-books.md), [bash](../tags/bash.md)
 * [Bash Guide for Beginners](http://www.tldp.org/LDP/Bash-Beginners-Guide/html/)
