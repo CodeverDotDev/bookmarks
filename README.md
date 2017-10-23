@@ -4,7 +4,7 @@ Generated codingmarks, grouped by topics, shared from  [https://www.codingmarks.
 
 List of topics
  * [alphabetically ordered](tags-alphabetically.md)
- * [ordered by the number of codingmarks they contain](tags-by-size.md)
+ * [ordered by size](tags-by-size.md)
 
 List of Topics in English:
 ---
