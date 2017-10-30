@@ -310,3 +310,6 @@ java
     * :octocat: [github url](https://github.com/infinispan/infinispan)
 * [Java Dependency Analysis Tool - JDK 8 - OpenJDK Wiki](https://wiki.openjdk.java.net/display/JDK8/Java+Dependency+Analysis+Tool)
     * tags: [java](../tags/java.md), [code-analysis](../tags/code-analysis.md)
+* [How to prepare the MacBook Pro for Java development and more – CodingpediaOrg](http://www.codingpedia.org/ama/how-to-prepare-the-macbook-pro-for-java-development-and-more/)
+    * :calendar: published on: 2015-00-10
+    * tags: [osx](../tags/osx.md), [java](../tags/java.md)

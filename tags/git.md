@@ -4,6 +4,7 @@ git
     * tags: [dev-tools](../tags/dev-tools.md), [online-tools](../tags/online-tools.md), [git](../tags/git.md)
 * [A successful Git branching model » nvie.com](http://nvie.com/posts/a-successful-git-branching-model/)
     * tags: [git](../tags/git.md)
+    * :octocat: [github url](https://github.com/nvie/gitflow)
 * [Git Tutorials and Training | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials)
     * tags: [git](../tags/git.md)
 * [git-flow cheatsheet](https://danielkummer.github.io/git-flow-cheatsheet/)

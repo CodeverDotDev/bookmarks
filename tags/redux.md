@@ -7,3 +7,7 @@ redux
 * [You Might Not Need Redux – Dan Abramov – Medium](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367)
     * :calendar: published on: 2016-00-19
     * tags: [redux](../tags/redux.md)
+* [Scalable Single-Page Application Architecture · Minko Gechev's blog](http://blog.mgechev.com/2016/04/10/scalable-javascript-single-page-app-angular2-application-architecture/)
+    * :calendar: published on: 2016-00-10
+    * tags: [javascript](../tags/javascript.md), [angular](../tags/angular.md), [typescript](../tags/typescript.md), [redux](../tags/redux.md)
+    * :octocat: [github url](https://github.com/mgechev/scalable-architecture-demo)

@@ -20,3 +20,6 @@ expressjs
     * :octocat: [github url](https://github.com/steveluscher/zero-to-graphql)
 * [Express application generator](https://expressjs.com/en/starter/generator.html)
     * tags: [expressjs](../tags/expressjs.md)
+* [Express over HTTPS · Minko Gechev's blog](http://blog.mgechev.com/2014/02/19/create-https-tls-ssl-application-with-express-nodejs/)
+    * :calendar: published on: 2014-00-19
+    * tags: [expressjs](../tags/expressjs.md), [nodejs](../tags/nodejs.md), [ssl](../tags/ssl.md), [tls](../tags/tls.md)

@@ -22,3 +22,6 @@ jekyll
 * [Welcome to the Neo-HPSTR Blog – Blog Title](http://aronbordin.com/neo-hpstr-jekyll-theme/)
     * tags: [jekyll](../tags/jekyll.md), [jekyll-theme](../tags/jekyll-theme.md)
     * :octocat: [github url](https://github.com/aron-bordin/neo-hpstr-jekyll-theme)
+* [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/)
+    * tags: [jekyll](../tags/jekyll.md)
+    * :octocat: [github url](https://github.com/mmistakes/minimal-mistakes/)

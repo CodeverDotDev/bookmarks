@@ -468,3 +468,12 @@ javascript
 * [ES6 Promises (with Angular 2) Explained - YouTube](https://www.youtube.com/watch?v=viaF0hM8G94)
     * :calendar: published on: 2016-00-10
     * tags: [javascript](../tags/javascript.md), [angular](../tags/angular.md), [promise](../tags/promise.md)
+* [DerickBailey.com - Trade Secrets Of A Developer / Entrepreneur](https://derickbailey.com/)
+    * tags: [blog](../tags/blog.md), [javascript](../tags/javascript.md), [docker](../tags/docker.md), [nodejs](../tags/nodejs.md)
+* [Scalable Single-Page Application Architecture · Minko Gechev's blog](http://blog.mgechev.com/2016/04/10/scalable-javascript-single-page-app-angular2-application-architecture/)
+    * :calendar: published on: 2016-00-10
+    * tags: [javascript](../tags/javascript.md), [angular](../tags/angular.md), [typescript](../tags/typescript.md), [redux](../tags/redux.md)
+    * :octocat: [github url](https://github.com/mgechev/scalable-architecture-demo)
+* [@use JSDoc](http://usejsdoc.org/)
+    * tags: [documentation](../tags/documentation.md), [javascript](../tags/javascript.md)
+    * :octocat: [github url](https://github.com/jsdoc3/jsdoc)

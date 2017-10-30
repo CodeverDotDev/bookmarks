@@ -8,3 +8,6 @@ osx
     * tags: [oracledb](../tags/oracledb.md), [osx](../tags/osx.md), [mac](../tags/mac.md)
 * [osx - Find (and kill) process locking port 3000 on Mac - Stack Overflow](https://stackoverflow.com/questions/3855127/find-and-kill-process-locking-port-3000-on-mac)
     * tags: [osx](../tags/osx.md), [mac](../tags/mac.md)
+* [How to prepare the MacBook Pro for Java development and more – CodingpediaOrg](http://www.codingpedia.org/ama/how-to-prepare-the-macbook-pro-for-java-development-and-more/)
+    * :calendar: published on: 2015-00-10
+    * tags: [osx](../tags/osx.md), [java](../tags/java.md)

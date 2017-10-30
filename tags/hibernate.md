@@ -7,3 +7,5 @@ hibernate
     * :octocat: [github url](https://github.com/hibernate/hibernate-search)
 * [JBoss Enterprise Application Platform Component Details - Red Hat Customer Portal](https://access.redhat.com/articles/112673)
     * tags: [jboss-eap](../tags/jboss-eap.md), [resteasy](../tags/resteasy.md), [hibernate](../tags/hibernate.md)
+* [Vlad Mihalcea's Blog ](https://vladmihalcea.com/)
+    * tags: [blog](../tags/blog.md), [hibernate](../tags/hibernate.md)

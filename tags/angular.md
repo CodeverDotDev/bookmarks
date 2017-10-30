@@ -180,3 +180,18 @@ angular
 * [ES6 Promises (with Angular 2) Explained - YouTube](https://www.youtube.com/watch?v=viaF0hM8G94)
     * :calendar: published on: 2016-00-10
     * tags: [javascript](../tags/javascript.md), [angular](../tags/angular.md), [promise](../tags/promise.md)
+* [Building an Angular Application for Production · Minko Gechev's blog](http://blog.mgechev.com/2016/06/26/tree-shaking-angular2-production-build-rollup-javascript/)
+    * :calendar: published on: 2016-00-26
+    * tags: [angular](../tags/angular.md)
+    * :octocat: [github url](http://blog.mgechev.com/2016/06/26/tree-shaking-angular2-production-build-rollup-javascript/)
+* [Angular2 - First Impressions · Minko Gechev's blog](http://blog.mgechev.com/2015/04/06/angular2-first-impressions/)
+    * :calendar: published on: 2015-00-06
+    * tags: [angular](../tags/angular.md)
+* [ViewChildren and ContentChildren in Angular · Minko Gechev's blog](http://blog.mgechev.com/2016/01/23/angular2-viewchildren-contentchildren-difference-viewproviders/)
+    * :calendar: published on: 2016-00-21
+    * tags: [angular](../tags/angular.md)
+    * :octocat: [github url](https://github.com/mgechev/viewchildren-contentchildren-demo/blob/master/src/client/app/app.ts)
+* [Scalable Single-Page Application Architecture · Minko Gechev's blog](http://blog.mgechev.com/2016/04/10/scalable-javascript-single-page-app-angular2-application-architecture/)
+    * :calendar: published on: 2016-00-10
+    * tags: [javascript](../tags/javascript.md), [angular](../tags/angular.md), [typescript](../tags/typescript.md), [redux](../tags/redux.md)
+    * :octocat: [github url](https://github.com/mgechev/scalable-architecture-demo)

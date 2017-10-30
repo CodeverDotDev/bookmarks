@@ -41,3 +41,7 @@ typescript
 * [Typescript Tutorial Videos: ES6 Features, Debugging, Type System](http://blog.angular-university.io/why-typescript-video-list/)
     * :calendar: published on: 2017-00-08
     * tags: [typescript](../tags/typescript.md)
+* [Scalable Single-Page Application Architecture · Minko Gechev's blog](http://blog.mgechev.com/2016/04/10/scalable-javascript-single-page-app-angular2-application-architecture/)
+    * :calendar: published on: 2016-00-10
+    * tags: [javascript](../tags/javascript.md), [angular](../tags/angular.md), [typescript](../tags/typescript.md), [redux](../tags/redux.md)
+    * :octocat: [github url](https://github.com/mgechev/scalable-architecture-demo)
