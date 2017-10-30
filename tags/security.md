@@ -48,14 +48,14 @@ Khan Academy](https://www.khanacademy.org/computing/computer-science/cryptograph
 * [Crypto | Node.js Documentation](https://nodejs.org/api/crypto.html)
     * tags: [nodejs](../tags/nodejs.md), [security](../tags/security.md), [docs](../tags/docs.md)
 * [JWT: The  Complete Guide to JSON Web Tokens](https://blog.angular-university.io/angular-jwt/)
-    * :calendar: published on: 2017-00-06
+    * :calendar: published on: 2017-09-06
     * tags: [jwt](../tags/jwt.md), [security](../tags/security.md), [hmac](../tags/hmac.md)
 * [5 Steps to Add Modern Authentication to Legacy Apps Using JWTsButton - CloseLearn More](https://auth0.com/blog/5-steps-to-add-modern-authentication-to-legacy-apps-using-jwts/)
-    * :calendar: published on: 2015-00-28
+    * :calendar: published on: 2015-09-28
     * tags: [jwt](../tags/jwt.md), [security](../tags/security.md)
 * [Angular Authentication: Using the Http Client and Http Interceptors](https://medium.com/@ryanchenkie_40935/angular-authentication-using-the-http-client-and-http-interceptors-2f9d1540eb8)
-    * :calendar: published on: 2017-00-18
+    * :calendar: published on: 2017-07-18
     * tags: [angular](../tags/angular.md), [jwt](../tags/jwt.md), [security](../tags/security.md), [authentication](../tags/authentication.md)
 * [Node.js Security Overview](https://nemethgergely.com/nodejs-security-overview/)
-    * :calendar: published on: 2017-00-12
+    * :calendar: published on: 2017-10-12
     * tags: [nodejs](../tags/nodejs.md), [security](../tags/security.md)

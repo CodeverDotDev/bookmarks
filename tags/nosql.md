@@ -3,7 +3,7 @@ nosql
 * [GOTO 2012 • Introduction to NoSQL • Martin Fowler - YouTube](https://youtu.be/qI_g07C_Q5I)
     * tags: [nosql](../tags/nosql.md)
 * [Modeling Data for NoSQL Document Databases - YouTube [31min]](https://www.youtube.com/watch?v=IUxT7ZRHlZ4)
-    * :calendar: published on: 2016-00-06
+    * :calendar: published on: 2016-05-06
     * tags: [nosql](../tags/nosql.md), [data-modeling](../tags/data-modeling.md), [database-design](../tags/database-design.md)
 * [Disque 使用教程](http://disque.huangz.me)
     * tags: [free-programming-books](../tags/free-programming-books.md), [free-programming-books-zh](../tags/free-programming-books-zh.md), [nosql](../tags/nosql.md)

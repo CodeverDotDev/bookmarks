@@ -1,14 +1,14 @@
 angular 
 ---
 * [JWT authentication with Vert.x, Keycloak and Angular 2](http://paulbakker.io/java/jwt-keycloak-angular2/)
-    * :calendar: published on: 2016-00-15
+    * :calendar: published on: 2016-09-15
     * tags: [angular](../tags/angular.md), [keycloak](../tags/keycloak.md), [jwt](../tags/jwt.md), [angular-cli](../tags/angular-cli.md)
     * :octocat: [github url](https://github.com/paulbakker/vertx-angular2-keycloak-demo)
 * [Reactive Forms in Angular](https://blog.thoughtram.io/angular/2016/06/22/model-driven-forms-in-angular-2.html)
-    * :calendar: published on: 2016-00-22
+    * :calendar: published on: 2016-06-22
     * tags: [angular](../tags/angular.md)
 * [Introduction to Angular 2 Forms - Template Driven vs Model Driven or Reactive Forms](http://blog.angular-university.io/introduction-to-angular-2-forms-template-driven-vs-model-driven/)
-    * :calendar: published on: 2016-00-21
+    * :calendar: published on: 2016-06-21
     * tags: [angular](../tags/angular.md)
 * [Quickstart - ts - QUICKSTART](https://angular.io/guide/quickstart)
     * tags: [angular](../tags/angular.md), [docs](../tags/docs.md), [angular-cli](../tags/angular-cli.md)
@@ -57,12 +57,12 @@ angular
 * [GitHub - mgechev/angular-seed](https://github.com/mgechev/angular-seed)
     * tags: [angular](../tags/angular.md)
 * [The Angular 2 Compiler   Tobias Bosch - YouTube](https://www.youtube.com/watch?v=kW9cJsvcsGo)
-    * :calendar: published on: 2016-00-27
+    * :calendar: published on: 2016-09-27
     * tags: [angular](../tags/angular.md)
 * [Ahead-of-Time Compilation in Angular – Minko Gechev's blog](http://blog.mgechev.com/2016/08/14/ahead-of-time-compilation-angular-offline-precompilation/)
     * tags: [angular](../tags/angular.md)
 * [Top 10 Angular Tutorials, Blogs and Podcasts](http://blog.angular-university.io/top-10-angular-2-tutorials-blogs-and-podcasts/)
-    * :calendar: published on: 2016-00-06
+    * :calendar: published on: 2016-07-06
     * tags: [angular](../tags/angular.md)
 * [Angular Air](https://angularair.com/)
     * tags: [angular](../tags/angular.md), [podcast](../tags/podcast.md)
@@ -73,7 +73,7 @@ angular
 * [Style Guide - ts - GUIDE](https://angular.io/styleguide)
     * tags: [angular](../tags/angular.md)
 * [Angular 2 AoT Compilation with webpack – Suguru Inatomi – Medium](https://medium.com/@laco0416/aot-compilation-with-webpack-359ac9f4916f)
-    * :calendar: published on: 2016-00-23
+    * :calendar: published on: 2016-10-23
     * tags: [angular](../tags/angular.md)
     * :octocat: [github url](https://github.com/laco0416/ngtools-webpack-example/tree/aot-plugin)
 * [NgModules - ts - GUIDE](https://angular.io/guide/ngmodule)
@@ -81,23 +81,23 @@ angular
 * [AppModule: the root module - ts - GUIDE](https://angular.io/docs/ts/latest/guide/appmodule.html)
     * tags: [angular](../tags/angular.md)
 * [Your first unit test using Angular CLI, Karma and WebStorm | WebStorm Blog](https://blog.jetbrains.com/webstorm/2017/02/your-first-unit-test-using-angular-cli-karma-and-webstorm/)
-    * :calendar: published on: 2017-00-07
+    * :calendar: published on: 2017-02-07
     * tags: [angular-cli](../tags/angular-cli.md), [angular](../tags/angular.md), [karma](../tags/karma.md), [webstorm](../tags/webstorm.md), [intellij](../tags/intellij.md)
 * [Webpack: an introduction - ts - GUIDE](https://angular.io/guide/webpack)
     * tags: [angular](../tags/angular.md), [docs](../tags/docs.md), [webpack](../tags/webpack.md)
 * [TypeScript Configuration - ts - GUIDE](https://angular.io/docs/ts/latest/guide/typescript-configuration.html)
     * tags: [angular](../tags/angular.md), [typescript](../tags/typescript.md)
 * [Angular2 Beta, RxJS, TypeScript - YouTube (1h40min)](https://youtu.be/R62iQvZ0bdQ?t=1633)
-    * :calendar: published on: 2016-00-02
+    * :calendar: published on: 2016-03-02
     * tags: [angular](../tags/angular.md), [rxjs](../tags/rxjs.md), [typescript](../tags/typescript.md)
 * [7 Angular Tools That You Should Consider – Minko Gechev's blog](http://blog.mgechev.com/2017/04/23/angular-tooling-codelyzer-angular-cli-ngrev/)
-    * :calendar: published on: 2017-00-23
+    * :calendar: published on: 2017-04-23
     * tags: [angular](../tags/angular.md), [angular-cli](../tags/angular-cli.md), [dev-tools](../tags/dev-tools.md)
 * [GitHub - MrZaYaC/ng2-webstorm-snippets](https://github.com/MrZaYaC/ng2-webstorm-snippets)
     * tags: [angular](../tags/angular.md), [webstorm](../tags/webstorm.md), [intellij](../tags/intellij.md)
     * :octocat: [github url](https://github.com/MrZaYaC/ng2-webstorm-snippets)
 * [Angular Improved Reactive Programming Support](http://blog.angular-university.io/new-in-angular-4-better-reactive-programming-support/)
-    * :calendar: published on: 2017-00-03
+    * :calendar: published on: 2017-03-03
     * tags: [angular](../tags/angular.md)
 * [build · angular/angular-cli Wiki · GitHub](https://github.com/angular/angular-cli/wiki/build)
     * tags: [angular](../tags/angular.md)
@@ -108,15 +108,15 @@ angular
 * [GitHub - mgechev/angular-performance-checklist: Cheatsheet for developing ⚡lightning⚡ fast Angular applications.](https://github.com/mgechev/angular-performance-checklist)
     * tags: [angular](../tags/angular.md), [performance](../tags/performance.md)
 * [Angular myths busted / Webagility](http://webagility.com/posts/angular-myths-busted)
-    * :calendar: published on: 2017-00-04
+    * :calendar: published on: 2017-06-04
     * tags: [angular](../tags/angular.md)
 * [Introduction to Unit Testing in Angular ← Alligator.io](https://alligator.io/angular/introduction-unit-testing/)
     * tags: [angular](../tags/angular.md), [testing](../tags/testing.md), [jasmine](../tags/jasmine.md), [unit-testing](../tags/unit-testing.md)
 * [Taking advantage of Observables in Angular by thoughtram](https://blog.thoughtram.io/angular/2016/01/06/taking-advantage-of-observables-in-angular2.html)
-    * :calendar: published on: 2016-00-06
+    * :calendar: published on: 2016-01-06
     * tags: [angular](../tags/angular.md)
 * [html - Binding select element to object in Angular 2 - Stack Overflow](https://stackoverflow.com/questions/35945001/binding-select-element-to-object-in-angular-2)
-    * :calendar: published on: 2016-00-03
+    * :calendar: published on: 2016-03-03
     * tags: [angular](../tags/angular.md), [html](../tags/html.md)
 * [Dynamic Component Loader](https://angular.io/guide/dynamic-component-loader)
     * tags: [angular](../tags/angular.md), [docs](../tags/docs.md)
@@ -126,72 +126,74 @@ angular
     * tags: [angular](../tags/angular.md), [bootstrap](../tags/bootstrap.md)
     * :octocat: [github url](https://github.com/ng-bootstrap/ng-bootstrap)
 * [Exploring Angular DOM manipulation techniques using ViewContainerRef](https://hackernoon.com/exploring-angular-dom-abstractions-80b3ebcfc02)
-    * :calendar: published on: 2017-00-08
+    * :calendar: published on: 2017-03-08
     * tags: [angular](../tags/angular.md)
 * [Architecture overview](https://angular.io/guide/architecture)
     * tags: [angular](../tags/angular.md), [docs](../tags/docs.md)
+* [Sharing coding knowledge – CodingpediaOrg](http://www.codingpedia.org/)
+    * tags: [blog](../tags/blog.md), [java](../tags/java.md), [nodejs](../tags/nodejs.md), [angular](../tags/angular.md), [spring](../tags/spring.md)
 * [Angular Router - Routing & Navigation](https://angular.io/guide/router)
     * tags: [angular](../tags/angular.md), [docs](../tags/docs.md)
 * [RxJs SwitchMap Operator Deep Dive : How Does It Work ? Learn Selectors](http://blog.angular-university.io/rxjs-switchmap-operator/)
-    * :calendar: published on: 2017-00-05
+    * :calendar: published on: 2017-05-05
     * tags: [angular](../tags/angular.md), [rxjs](../tags/rxjs.md)
 * [A Deep, Deep, Deep, Deep, Deep Dive into the Angular Compiler](https://medium.com/@urish/a-deep-deep-deep-deep-deep-dive-into-the-angular-compiler-5379171ffb7a)
-    * :calendar: published on: 2017-00-06
+    * :calendar: published on: 2017-07-06
     * tags: [angular](../tags/angular.md)
 * [Fast, faster, Angular CLI - how I converted my Angular project to use Angular CLI – CodingpediaOrg](http://www.codingpedia.org/ama/fast-faster-angular-cli-how-i-converted-my-angular-project-to-use-angular-cli)
-    * :calendar: published on: 2017-00-02
+    * :calendar: published on: 2017-05-02
     * tags: [angular](../tags/angular.md), [bootstrap](../tags/bootstrap.md), [webpack](../tags/webpack.md), [angular-cli](../tags/angular-cli.md), [fontawesome](../tags/fontawesome.md)
 * [Angular Bootstrap](https://valor-software.com/ngx-bootstrap/#/)
     * tags: [angular](../tags/angular.md), [bootstrap](../tags/bootstrap.md)
     * :octocat: [github url](https://github.com/valor-software/ngx-bootstrap)
 * [How to configure Nginx in production to serve an Angular app and reverse proxy NodeJS – CodingpediaOrg](http://www.codingpedia.org/ama/how-to-configure-nginx-in-production-to-serve-angular-app-and-reverse-proxy-nodejs)
-    * :calendar: published on: 2017-00-21
+    * :calendar: published on: 2017-05-21
     * tags: [nginx](../tags/nginx.md), [angular](../tags/angular.md), [nodejs](../tags/nodejs.md)
 * [Angular HTTP Client - QuickStart Guide](http://blog.angular-university.io/angular-http/)
-    * :calendar: published on: 2017-00-10
+    * :calendar: published on: 2017-07-10
     * tags: [angular](../tags/angular.md), [http-client](../tags/http-client.md)
     * :octocat: [github url](https://github.com/angular-university/angular-http-guide)
 * [Angular Security - Authentication With JWT: The  Complete Guide](https://blog.angular-university.io/angular-authentication-jwt/)
-    * :calendar: published on: 2017-00-14
+    * :calendar: published on: 2017-09-14
     * tags: [jwt](../tags/jwt.md), [angular](../tags/angular.md), [nodejs](../tags/nodejs.md)
 * [Angular Components and Directives - a Beginner Friendly Introduction](https://blog.angular-university.io/angular-components-and-directives-for-beginners/)
-    * :calendar: published on: 2017-00-08
+    * :calendar: published on: 2017-05-08
     * tags: [angular](../tags/angular.md)
 * [Angular NgRx Store and Redux - When to use a Store and Why ?](https://blog.angular-university.io/angular-2-redux-ngrx-rxjs/)
-    * :calendar: published on: 2016-00-22
+    * :calendar: published on: 2016-09-22
     * tags: [angular](../tags/angular.md)
 * [Angular User Input](https://angular.io/guide/user-input)
     * tags: [angular](../tags/angular.md), [docs](../tags/docs.md)
 * [Angular Http](https://angular.io/guide/http)
     * tags: [angular](../tags/angular.md), [docs](../tags/docs.md)
 * [Angular, React, or Vue JS: Which one is for me? | Object Partners](https://objectpartners.com/2017/07/25/angular-react-or-vue-js-which-one-is-for-me/)
-    * :calendar: published on: 2017-00-25
+    * :calendar: published on: 2017-07-25
     * tags: [angular](../tags/angular.md), [reactjs](../tags/reactjs.md), [vuejs](../tags/vuejs.md)
     * :octocat: [github url](https://github.com/mike-plummer/angular-react-vue-stopwatch)
 * [The New HTTP Client in Angular 4.3 – Austin – Medium](https://medium.com/@amcdnl/the-new-http-client-in-angular-4-3-754bd3ff83a8)
-    * :calendar: published on: 2017-00-25
+    * :calendar: published on: 2017-07-25
     * tags: [angular](../tags/angular.md), [jwt](../tags/jwt.md)
 * [Angular Authentication: Using the Http Client and Http Interceptors](https://medium.com/@ryanchenkie_40935/angular-authentication-using-the-http-client-and-http-interceptors-2f9d1540eb8)
-    * :calendar: published on: 2017-00-18
+    * :calendar: published on: 2017-07-18
     * tags: [angular](../tags/angular.md), [jwt](../tags/jwt.md), [security](../tags/security.md), [authentication](../tags/authentication.md)
 * [Async/Await with Angular 2 – Encoded Labs](https://labs.encoded.io/2016/12/08/asyncawait-with-angular/)
-    * :calendar: published on: 2016-00-08
+    * :calendar: published on: 2016-12-08
     * tags: [angular](../tags/angular.md), [async-await](../tags/async-await.md), [javascript](../tags/javascript.md)
 * [ES6 Promises (with Angular 2) Explained - YouTube](https://www.youtube.com/watch?v=viaF0hM8G94)
-    * :calendar: published on: 2016-00-10
+    * :calendar: published on: 2016-10-10
     * tags: [javascript](../tags/javascript.md), [angular](../tags/angular.md), [promise](../tags/promise.md)
 * [Building an Angular Application for Production · Minko Gechev's blog](http://blog.mgechev.com/2016/06/26/tree-shaking-angular2-production-build-rollup-javascript/)
-    * :calendar: published on: 2016-00-26
+    * :calendar: published on: 2016-06-26
     * tags: [angular](../tags/angular.md)
     * :octocat: [github url](http://blog.mgechev.com/2016/06/26/tree-shaking-angular2-production-build-rollup-javascript/)
 * [Angular2 - First Impressions · Minko Gechev's blog](http://blog.mgechev.com/2015/04/06/angular2-first-impressions/)
-    * :calendar: published on: 2015-00-06
+    * :calendar: published on: 2015-04-06
     * tags: [angular](../tags/angular.md)
 * [ViewChildren and ContentChildren in Angular · Minko Gechev's blog](http://blog.mgechev.com/2016/01/23/angular2-viewchildren-contentchildren-difference-viewproviders/)
-    * :calendar: published on: 2016-00-21
+    * :calendar: published on: 2016-01-21
     * tags: [angular](../tags/angular.md)
     * :octocat: [github url](https://github.com/mgechev/viewchildren-contentchildren-demo/blob/master/src/client/app/app.ts)
 * [Scalable Single-Page Application Architecture · Minko Gechev's blog](http://blog.mgechev.com/2016/04/10/scalable-javascript-single-page-app-angular2-application-architecture/)
-    * :calendar: published on: 2016-00-10
+    * :calendar: published on: 2016-04-10
     * tags: [javascript](../tags/javascript.md), [angular](../tags/angular.md), [typescript](../tags/typescript.md), [redux](../tags/redux.md)
     * :octocat: [github url](https://github.com/mgechev/scalable-architecture-demo)

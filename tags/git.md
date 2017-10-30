@@ -24,7 +24,7 @@ git
 * [Git - Undoing changes | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/undoing-changes)
     * tags: [git](../tags/git.md)
 * [Git tag secrets · Simon Holywell](https://www.simonholywell.com/post/2013/02/git-tag-secrets/)
-    * :calendar: published on: 2013-00-04
+    * :calendar: published on: 2013-02-04
     * tags: [git](../tags/git.md)
 * [Changing a remote's URL - User Documentation        ](https://help.github.com/articles/changing-a-remote-s-url/)
     * tags: [git](../tags/git.md), [github](../tags/github.md)
@@ -143,5 +143,5 @@ git
 * [Git - Submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules)
     * tags: [git](../tags/git.md)
 * [How to build the right smoke test REST service in Java EE with Maven – CodingpediaOrg](http://www.codingpedia.org/ama/how-to-build-the-right-smoke-test-rest-service-in-java-ee-with-maven)
-    * :calendar: published on: 2016-00-18
+    * :calendar: published on: 2016-12-18
     * tags: [maven](../tags/maven.md), [rest](../tags/rest.md), [javaee](../tags/javaee.md), [git](../tags/git.md)

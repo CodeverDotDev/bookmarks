@@ -1,7 +1,7 @@
 maven 
 ---
 * [How to deploy an application on Wildfly/JBoss EAP 7 via the Wildfly Maven Plugin](http://www.codingpedia.org/ama/how-to-deploy-an-application-on-wildfly-or-jboss-eap-7-via-the-wildfly-maven-plugin)
-    * :calendar: published on: 2017-00-17
+    * :calendar: published on: 2017-01-17
     * tags: [javaee](../tags/javaee.md), [wildfly](../tags/wildfly.md), [maven](../tags/maven.md)
 * [Maven – Introduction to the Dependency Mechanism](https://maven.apache.org/guides/introduction/introduction-to-dependency-mechanism.html)
     * tags: [maven](../tags/maven.md)
@@ -30,7 +30,7 @@ maven
 * [What is Maven?](https://github.com/KengoTODA/what-is-maven)
     * tags: [free-programming-books-ja](../tags/free-programming-books-ja.md), [free-programming-books](../tags/free-programming-books.md), [maven](../tags/maven.md)
 * [How to build the right smoke test REST service in Java EE with Maven – CodingpediaOrg](http://www.codingpedia.org/ama/how-to-build-the-right-smoke-test-rest-service-in-java-ee-with-maven)
-    * :calendar: published on: 2016-00-18
+    * :calendar: published on: 2016-12-18
     * tags: [maven](../tags/maven.md), [rest](../tags/rest.md), [javaee](../tags/javaee.md), [git](../tags/git.md)
 * [Apache Maven Assembly Plugin – Introduction](http://maven.apache.org/plugins/maven-assembly-plugin/)
     * tags: [maven](../tags/maven.md), [maven-plugin](../tags/maven-plugin.md)

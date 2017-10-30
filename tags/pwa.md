@@ -1,7 +1,7 @@
 pwa 
 ---
 * [Navigating the World of Progressive Web Apps with Ionic 2  |  The Official Ionic Blog](http://blog.ionic.io/navigating-the-world-of-progressive-web-apps-with-ionic-2/)
-    * :calendar: published on: 2016-00-30
+    * :calendar: published on: 2016-09-30
     * tags: [ionic](../tags/ionic.md), [pwa](../tags/pwa.md)
 * [ServiceWorker Cookbook](https://serviceworke.rs/)
     * tags: [web-development](../tags/web-development.md), [service-worker](../tags/service-worker.md), [pwa](../tags/pwa.md)
@@ -12,11 +12,11 @@ pwa
 * [Progressive Web Apps](https://developers.google.com/web/progressive-web-apps/)
     * tags: [pwa](../tags/pwa.md)
 * [How Progressive Web Apps make the Web great again / Webagility](http://webagility.com/posts/how-progressive-web-apps-make-the-web-great-again)
-    * :calendar: published on: 2017-00-14
+    * :calendar: published on: 2017-03-14
     * tags: [pwa](../tags/pwa.md)
 * [Is ServiceWorker ready?](https://jakearchibald.github.io/isserviceworkerready/)
     * tags: [service-worker](../tags/service-worker.md), [pwa](../tags/pwa.md)
     * :octocat: [github url](https://github.com/jakearchibald/isserviceworkerready)
 * [The offline cookbook - JakeArchibald.com](https://jakearchibald.com/2014/offline-cookbook/)
-    * :calendar: published on: 2014-00-09
+    * :calendar: published on: 2014-12-09
     * tags: [pwa](../tags/pwa.md), [offline-first](../tags/offline-first.md), [service-worker](../tags/service-worker.md)

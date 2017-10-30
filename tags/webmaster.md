@@ -3,7 +3,7 @@ webmaster
 * [
 Official Google Webmaster Central Blog: Google's handling of new top level domains
 ](https://webmasters.googleblog.com/2015/07/googles-handling-of-new-top-level.html)
-    * :calendar: published on: 2015-00-21
+    * :calendar: published on: 2015-07-21
     * tags: [seo](../tags/seo.md), [webmaster](../tags/webmaster.md)
 * [International targeting - Search Console Help](https://support.google.com/webmasters/answer/62399)
     * tags: [webmaster](../tags/webmaster.md), [seo](../tags/seo.md)

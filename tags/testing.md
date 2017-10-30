@@ -24,12 +24,12 @@ testing
     * tags: [pact](../tags/pact.md), [docs](../tags/docs.md), [microservices](../tags/microservices.md), [testing](../tags/testing.md)
     * :octocat: [github url](https://github.com/realestate-com-au/pact)
 * [Acceptance Test Driven Development (ATDD): an Overview  |  Test Obsessed](http://testobsessed.com/2008/12/acceptance-test-driven-development-atdd-an-overview/)
-    * :calendar: published on: 2008-00-08
+    * :calendar: published on: 2008-12-08
     * tags: [attd](../tags/attd.md), [testing](../tags/testing.md), [agile](../tags/agile.md)
 * [Introduction to Unit Testing in Angular ← Alligator.io](https://alligator.io/angular/introduction-unit-testing/)
     * tags: [angular](../tags/angular.md), [testing](../tags/testing.md), [jasmine](../tags/jasmine.md), [unit-testing](../tags/unit-testing.md)
 * [Why I use Tape Instead of Mocha & So Should You – JavaScript Scene – Medium](https://medium.com/javascript-scene/why-i-use-tape-instead-of-mocha-so-should-you-6aa105d8eaf4)
-    * :calendar: published on: 2015-00-13
+    * :calendar: published on: 2015-07-13
     * tags: [nodejs](../tags/nodejs.md), [testing](../tags/testing.md), [tape](../tags/tape.md)
     * :octocat: [github url](https://github.com/substack/tape)
 * [JUnit](http://junit.org/)
@@ -61,5 +61,5 @@ testing
 * [Assert | Node.js Documentation](https://nodejs.org/api/assert.html)
     * tags: [nodejs](../tags/nodejs.md), [testing](../tags/testing.md), [unit-testing](../tags/unit-testing.md)
 * [Best Practices for Spies, Stubs and Mocks in Sinon.js - Semaphore](https://semaphoreci.com/community/tutorials/best-practices-for-spies-stubs-and-mocks-in-sinon-js)
-    * :calendar: published on: 2015-00-05
+    * :calendar: published on: 2015-12-05
     * tags: [nodejs](../tags/nodejs.md), [testing](../tags/testing.md), [unit-testing](../tags/unit-testing.md), [sinonjs](../tags/sinonjs.md)

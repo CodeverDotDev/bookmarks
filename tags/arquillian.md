@@ -15,7 +15,7 @@ arquillian
 * [Container adapters - Arquillian - Project Documentation Editor](https://docs.jboss.org/author/display/ARQ/Container+adapters)
     * tags: [arquillian](../tags/arquillian.md)
 * [How to test JBoss EAP 7 with Arquillian – SOA rocks!](http://serviceorientedarchitect.com/how-to-test-jboss-eap-7-with-arquillian/)
-    * :calendar: published on: 2016-00-03
+    * :calendar: published on: 2016-05-03
     * tags: [arquillian](../tags/arquillian.md), [jboss-eap](../tags/jboss-eap.md)
 * [ShrinkWrap Resolver · Arquillian](http://arquillian.org/modules/resolver-shrinkwrap/)
     * tags: [arquillian](../tags/arquillian.md), [shrinkwrap](../tags/shrinkwrap.md)

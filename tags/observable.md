@@ -12,5 +12,5 @@ observable
 * [The introduction to Reactive Programming you've been missing · GitHub](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
     * tags: [observable](../tags/observable.md), [rxjs](../tags/rxjs.md)
 * [2 minute introduction to Rx – André Staltz – Medium](https://medium.com/@andrestaltz/2-minute-introduction-to-rx-24c8ca793877)
-    * :calendar: published on: 2014-00-30
+    * :calendar: published on: 2014-07-30
     * tags: [rx](../tags/rx.md), [observable](../tags/observable.md)

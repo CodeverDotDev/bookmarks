@@ -5,7 +5,7 @@ html
 * [ISO country list HTML select snippet - FreeFormatter.com](http://www.freeformatter.com/iso-country-list-html-select.html)
     * tags: [html](../tags/html.md)
 * [html - Binding select element to object in Angular 2 - Stack Overflow](https://stackoverflow.com/questions/35945001/binding-select-element-to-object-in-angular-2)
-    * :calendar: published on: 2016-00-03
+    * :calendar: published on: 2016-03-03
     * tags: [angular](../tags/angular.md), [html](../tags/html.md)
 * [<template> - HTML | MDN](https://developer.mozilla.org/en/docs/Web/HTML/Element/template)
     * tags: [html](../tags/html.md), [dom](../tags/dom.md), [javascript](../tags/javascript.md)
@@ -98,7 +98,7 @@ html
 * [Webes szabványok](http://nagygusztav.hu/webes-szabvanyok)
     * tags: [free-programming-books](../tags/free-programming-books.md), [free-programming-books-hu](../tags/free-programming-books-hu.md), [html](../tags/html.md), [css](../tags/css.md)
 * [Working with quota on mobile browsers](https://www.html5rocks.com/en/tutorials/offline/quota-research/)
-    * :calendar: published on: 2014-00-28
+    * :calendar: published on: 2014-01-28
     * tags: [html](../tags/html.md), [local-storage](../tags/local-storage.md), [indexeddb](../tags/indexeddb.md)
 * [tabindex - HTML | MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/tabindex)
     * tags: [html](../tags/html.md)

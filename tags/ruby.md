@@ -9,7 +9,7 @@ ruby
     * tags: [asciidoc](../tags/asciidoc.md), [ruby](../tags/ruby.md)
     * :octocat: [github url](https://github.com/asciidoctor/asciidoctor)
 * [Zero to GraphQL in 30 Minutes – Steven Luscher - YouTube](https://www.youtube.com/watch?v=UBGzsb2UkeY)
-    * :calendar: published on: 2016-00-25
+    * :calendar: published on: 2016-04-25
     * tags: [graphql](../tags/graphql.md), [ruby](../tags/ruby.md), [python](../tags/python.md), [expressjs](../tags/expressjs.md)
     * :octocat: [github url](https://github.com/steveluscher/zero-to-graphql)
 * [루비 스타일 가이드](https://github.com/dalzony/ruby-style-guide/blob/master/README-koKR.md)

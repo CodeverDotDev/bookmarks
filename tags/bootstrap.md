@@ -8,7 +8,7 @@ bootstrap
 * [Twitter Bootstrap Succinctly](https://www.syncfusion.com/resources/techportal/ebooks/twitterbootstrap)
     * tags: [free-programming-books](../tags/free-programming-books.md), [bootstrap](../tags/bootstrap.md), [html](../tags/html.md), [css](../tags/css.md)
 * [Fast, faster, Angular CLI - how I converted my Angular project to use Angular CLI – CodingpediaOrg](http://www.codingpedia.org/ama/fast-faster-angular-cli-how-i-converted-my-angular-project-to-use-angular-cli)
-    * :calendar: published on: 2017-00-02
+    * :calendar: published on: 2017-05-02
     * tags: [angular](../tags/angular.md), [bootstrap](../tags/bootstrap.md), [webpack](../tags/webpack.md), [angular-cli](../tags/angular-cli.md), [fontawesome](../tags/fontawesome.md)
 * [Angular Bootstrap](https://valor-software.com/ngx-bootstrap/#/)
     * tags: [angular](../tags/angular.md), [bootstrap](../tags/bootstrap.md)

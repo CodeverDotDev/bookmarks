@@ -11,7 +11,7 @@ mongodb
 * [Optimizing MongoDB Compound Indexes](https://emptysqua.re/blog/optimizing-mongodb-compound-indexes/)
     * tags: [mongodb](../tags/mongodb.md)
 * [33rd Degree 2014 - MongoDB Schema Design - Tugdual Grall - YouTube [47']](https://www.youtube.com/watch?v=csKBT8zkRf0)
-    * :calendar: published on: 2014-00-29
+    * :calendar: published on: 2014-09-29
     * tags: [mongodb](../tags/mongodb.md), [database-design](../tags/database-design.md), [data-modeling](../tags/data-modeling.md)
 * [Query Optimization — MongoDB Manual](https://docs.mongodb.com/manual/core/query-optimization/)
     * tags: [mongodb](../tags/mongodb.md)
@@ -20,7 +20,7 @@ mongodb
 * [mongo Shell Quick Reference — MongoDB Manual](https://docs.mongodb.com/manual/reference/mongo-shell/)
     * tags: [mongodb](../tags/mongodb.md)
 * [Practical MongoDB shell commands every developer should know – CodingpediaOrg](http://www.codingpedia.org/ama/practical-mongodb-shell-commands-every-developer-should-know)
-    * :calendar: published on: 2016-00-10
+    * :calendar: published on: 2016-10-10
     * tags: [mongodb](../tags/mongodb.md)
     * :octocat: [github url](https://github.com/Codingpedia/codingmarks-api)
 * [El pequeño libro MongoDB](https://github.com/uokesita/the-little-mongodb-book)

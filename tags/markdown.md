@@ -11,7 +11,7 @@ markdown
 * [GitHub - showdownjs/showdown: A Markdown to HTML converter written in Javascript](https://github.com/showdownjs/showdown)
     * tags: [markdown](../tags/markdown.md), [javascript](../tags/javascript.md)
 * [Living the Future of Technical Writing – Hacker Noon](https://hackernoon.com/living-the-future-of-technical-writing-2f368bd0a272)
-    * :calendar: published on: 2014-00-27
+    * :calendar: published on: 2014-10-27
     * tags: [markdown](../tags/markdown.md), [asciidoc](../tags/asciidoc.md)
 * [Markdown 快速入门](http://wowubuntu.com/markdown/basic.html)
     * tags: [free-programming-books](../tags/free-programming-books.md), [free-programming-books-zh](../tags/free-programming-books-zh.md), [markdown](../tags/markdown.md)

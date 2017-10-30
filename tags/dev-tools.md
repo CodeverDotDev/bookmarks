@@ -35,7 +35,7 @@ dev-tools
     * tags: [java](../tags/java.md), [testing](../tags/testing.md), [dev-tools](../tags/dev-tools.md), [testing](../tags/testing.md)
     * :octocat: [github url](https://github.com/mockito/mockito)
 * [7 Angular Tools That You Should Consider – Minko Gechev's blog](http://blog.mgechev.com/2017/04/23/angular-tooling-codelyzer-angular-cli-ngrev/)
-    * :calendar: published on: 2017-00-23
+    * :calendar: published on: 2017-04-23
     * tags: [angular](../tags/angular.md), [angular-cli](../tags/angular-cli.md), [dev-tools](../tags/dev-tools.md)
 * [How to Use the Timeline Tool  |  Web |  Google Developers](https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/timeline-tool)
     * tags: [dev-tools](../tags/dev-tools.md), [chrome](../tags/chrome.md)
@@ -60,7 +60,7 @@ dev-tools
 * [nodemon](https://nodemon.io/)
     * tags: [nodejs](../tags/nodejs.md), [nodemon](../tags/nodemon.md), [dev-tools](../tags/dev-tools.md)
 * [Debugging Node.js with Chrome DevTools – Paul Irish – Medium](https://medium.com/@paul_irish/debugging-node-js-nightlies-with-chrome-devtools-7c4a1b95ae27)
-    * :calendar: published on: 2016-00-24
+    * :calendar: published on: 2016-06-24
     * tags: [nodejs](../tags/nodejs.md), [debugging](../tags/debugging.md), [chrome](../tags/chrome.md), [dev-tools](../tags/dev-tools.md)
 * [SHA-256 hash calculator. Online SHA-256 hash generator. Mining Bitcoin](http://www.xorbin.com/tools/sha256-hash-calculator)
     * tags: [security](../tags/security.md), [dev-tools](../tags/dev-tools.md)

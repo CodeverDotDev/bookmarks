@@ -11,7 +11,7 @@ unit-testing
     * tags: [nodejs](../tags/nodejs.md), [http](../tags/http.md), [unit-testing](../tags/unit-testing.md)
     * :octocat: [github url](https://github.com/node-nock/nock)
 * [Unit Testing and TDD in Node.js – Part 1 | Codementor](https://www.codementor.io/davidtang/unit-testing-and-tdd-in-node-js-part-1-8t714s877)
-    * :calendar: published on: 2015-00-16
+    * :calendar: published on: 2015-11-16
     * tags: [nodejs](../tags/nodejs.md), [unit-testing](../tags/unit-testing.md)
     * :octocat: [github url](https://github.com/skaterdav85/node-testing)
 * [Mocha - the fun, simple, flexible JavaScript test framework](http://mochajs.org/)
@@ -34,5 +34,5 @@ unit-testing
     * tags: [nodejs](../tags/nodejs.md), [unit-testing](../tags/unit-testing.md), [sinon](../tags/sinon.md), [chai](../tags/chai.md)
     * :octocat: [github url](https://github.com/domenic/sinon-chai.git)
 * [Best Practices for Spies, Stubs and Mocks in Sinon.js - Semaphore](https://semaphoreci.com/community/tutorials/best-practices-for-spies-stubs-and-mocks-in-sinon-js)
-    * :calendar: published on: 2015-00-05
+    * :calendar: published on: 2015-12-05
     * tags: [nodejs](../tags/nodejs.md), [testing](../tags/testing.md), [unit-testing](../tags/unit-testing.md), [sinonjs](../tags/sinonjs.md)

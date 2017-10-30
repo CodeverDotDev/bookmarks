@@ -7,6 +7,6 @@ http-client
     * tags: [nodejs](../tags/nodejs.md), [http-client](../tags/http-client.md)
     * :octocat: [github url](https://github.com/visionmedia/superagent)
 * [Angular HTTP Client - QuickStart Guide](http://blog.angular-university.io/angular-http/)
-    * :calendar: published on: 2017-00-10
+    * :calendar: published on: 2017-07-10
     * tags: [angular](../tags/angular.md), [http-client](../tags/http-client.md)
     * :octocat: [github url](https://github.com/angular-university/angular-http-guide)

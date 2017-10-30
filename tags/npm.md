@@ -1,5 +1,7 @@
 npm 
 ---
+* [Specifics of npm's package.json handling](https://docs.npmjs.com/files/package.json)
+    * tags: [nodejs](../tags/nodejs.md), [npm](../tags/npm.md), [docs](../tags/docs.md)
 * [ls | npm Documentation](https://docs.npmjs.com/cli/ls)
     * tags: [npm](../tags/npm.md), [docs](../tags/docs.md), [nodejs](../tags/nodejs.md)
 * [npm-shrinkwrap](https://docs.npmjs.com/cli/shrinkwrap)

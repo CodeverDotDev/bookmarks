@@ -15,7 +15,7 @@ typescript
 * [TypeScript Configuration - ts - GUIDE](https://angular.io/docs/ts/latest/guide/typescript-configuration.html)
     * tags: [angular](../tags/angular.md), [typescript](../tags/typescript.md)
 * [Angular2 Beta, RxJS, TypeScript - YouTube (1h40min)](https://youtu.be/R62iQvZ0bdQ?t=1633)
-    * :calendar: published on: 2016-00-02
+    * :calendar: published on: 2016-03-02
     * tags: [angular](../tags/angular.md), [rxjs](../tags/rxjs.md), [typescript](../tags/typescript.md)
 * [Introduction · TypeScript  Declaration Files (aka typings)](https://www.typescriptlang.org/docs/handbook/declaration-files/introduction.html)
     * tags: [typescript](../tags/typescript.md)
@@ -30,7 +30,7 @@ typescript
 * [TypeScript クイックガイド](http://phyzkit.net/typescript/)
     * tags: [free-programming-books-ja](../tags/free-programming-books-ja.md), [free-programming-books](../tags/free-programming-books.md), [typescript](../tags/typescript.md)
 * [Building a Node.js App with TypeScript Tutorial | @RisingStack](https://blog.risingstack.com/building-a-node-js-app-with-typescript-tutorial/)
-    * :calendar: published on: 2017-00-20
+    * :calendar: published on: 2017-06-20
     * tags: [nodejs](../tags/nodejs.md), [typescript](../tags/typescript.md)
     * :octocat: [github url](https://github.com/RisingStack/node-typescript-starter)
 * [TypeScript – Async and Await TypeScript – Async and Await | DEV6](https://www.dev6.com/TypeScriptAsyncandAwait)
@@ -39,9 +39,9 @@ typescript
     * tags: [nodejs](../tags/nodejs.md), [typescript](../tags/typescript.md)
     * :octocat: [github url](https://github.com/TypeStrong/ts-node)
 * [Typescript Tutorial Videos: ES6 Features, Debugging, Type System](http://blog.angular-university.io/why-typescript-video-list/)
-    * :calendar: published on: 2017-00-08
+    * :calendar: published on: 2017-06-08
     * tags: [typescript](../tags/typescript.md)
 * [Scalable Single-Page Application Architecture · Minko Gechev's blog](http://blog.mgechev.com/2016/04/10/scalable-javascript-single-page-app-angular2-application-architecture/)
-    * :calendar: published on: 2016-00-10
+    * :calendar: published on: 2016-04-10
     * tags: [javascript](../tags/javascript.md), [angular](../tags/angular.md), [typescript](../tags/typescript.md), [redux](../tags/redux.md)
     * :octocat: [github url](https://github.com/mgechev/scalable-architecture-demo)

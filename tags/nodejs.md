@@ -5,7 +5,7 @@ nodejs
 * [Docs | Node.js](https://nodejs.org/en/docs/)
     * tags: [nodejs](../tags/nodejs.md), [docs](../tags/docs.md)
 * [Specifics of npm's package.json handling](https://docs.npmjs.com/files/package.json)
-    * tags: [nodejs](../tags/nodejs.md), [npmjs](../tags/npmjs.md), [docs](../tags/docs.md)
+    * tags: [nodejs](../tags/nodejs.md), [npm](../tags/npm.md), [docs](../tags/docs.md)
 * [ls | npm Documentation](https://docs.npmjs.com/cli/ls)
     * tags: [npm](../tags/npm.md), [docs](../tags/docs.md), [nodejs](../tags/nodejs.md)
 * [Comparing Winston and Bunyan Node.js Logging - StrongLoop](https://strongloop.com/strongblog/compare-node-js-logging-winston-bunyan/)
@@ -38,10 +38,12 @@ nodejs
 * [Node.js Tutorials & More - The Back Channel by NodeSource](https://nodesource.com/blog)
     * tags: [nodejs](../tags/nodejs.md), [blog](../tags/blog.md)
 * [Running Express.js in Production Mode](http://www.hacksparrow.com/running-express-js-in-production-mode.html)
-    * :calendar: published on: 2012-00-21
+    * :calendar: published on: 2012-02-21
     * tags: [nodejs](../tags/nodejs.md), [expressjs](../tags/expressjs.md)
 * [Why did the startup stub get moved to bin/www ? · Issue #25 · expressjs/generator · GitHub](https://github.com/expressjs/generator/issues/25)
     * tags: [expressjs](../tags/expressjs.md), [nodejs](../tags/nodejs.md)
+* [Sharing coding knowledge – CodingpediaOrg](http://www.codingpedia.org/)
+    * tags: [blog](../tags/blog.md), [java](../tags/java.md), [nodejs](../tags/nodejs.md), [angular](../tags/angular.md), [spring](../tags/spring.md)
 * [strong-soap](https://www.npmjs.com/package/strong-soap)
     * tags: [nodejs](../tags/nodejs.md), [soap](../tags/soap.md)
     * :octocat: [github url](https://github.com/strongloop/strong-soap)
@@ -49,7 +51,7 @@ nodejs
     * tags: [nodejs](../tags/nodejs.md), [soap](../tags/soap.md)
     * :octocat: [github url](https://github.com/vpulim/node-soap)
 * [node.js - What's the difference between dependencies, devDependencies and peerDependencies in npm package.json file? - Stack Overflow](https://stackoverflow.com/questions/18875674/whats-the-difference-between-dependencies-devdependencies-and-peerdependencies)
-    * :calendar: published on: 2013-00-01
+    * :calendar: published on: 2013-10-01
     * tags: [nodejs](../tags/nodejs.md)
 * [nodemon](https://nodemon.io/)
     * tags: [nodejs](../tags/nodejs.md), [nodemon](../tags/nodemon.md), [dev-tools](../tags/dev-tools.md)
@@ -59,20 +61,20 @@ nodejs
 * [Node.js Best Practices | RisingStack](https://blog.risingstack.com/node-js-best-practices/)
     * tags: [nodejs](../tags/nodejs.md)
 * [Node.js Best Practices - Part 2 | RisingStack](https://blog.risingstack.com/node-js-best-practices-part-2/)
-    * :calendar: published on: 2014-00-28
+    * :calendar: published on: 2014-07-28
     * tags: [nodejs](../tags/nodejs.md)
 * [async - Documentation](http://caolan.github.io/async/)
     * tags: [nodejs](../tags/nodejs.md), [javascript](../tags/javascript.md)
     * :octocat: [github url](https://github.com/caolan/async)
 * [Fundamental Node.js Design Patterns | RisingStack](https://blog.risingstack.com/fundamental-node-js-design-patterns/)
-    * :calendar: published on: 2015-00-28
+    * :calendar: published on: 2015-07-28
     * tags: [nodejs](../tags/nodejs.md)
 * [Process -proces.argv | Node.js Documentation](https://nodejs.org/api/process.html#process_process_argv)
     * tags: [nodejs](../tags/nodejs.md)
 * [node-oracledb/examples at master · oracle/node-oracledb · GitHub](https://github.com/oracle/node-oracledb/tree/master/examples)
     * tags: [nodejs](../tags/nodejs.md), [oracledb](../tags/oracledb.md), [oracle](../tags/oracle.md)
 * [StrongLoop - Best Practices for Deploying Node.js in Production ](https://strongloop.com/strongblog/node-js-deploy-production-best-practice/)
-    * :calendar: published on: 2014-00-04
+    * :calendar: published on: 2014-09-04
     * tags: [nodejs](../tags/nodejs.md), [devops](../tags/devops.md)
 * [rimraf](https://www.npmjs.com/package/rimraf)
     * tags: [nodejs](../tags/nodejs.md)
@@ -84,10 +86,10 @@ nodejs
     * tags: [nodejs](../tags/nodejs.md), [logging](../tags/logging.md), [javascript](../tags/javascript.md)
     * :octocat: [github url](https://github.com/visionmedia/debug)
 * [Debugging Node.js with Chrome DevTools – Paul Irish – Medium](https://medium.com/@paul_irish/debugging-node-js-nightlies-with-chrome-devtools-7c4a1b95ae27)
-    * :calendar: published on: 2016-00-24
+    * :calendar: published on: 2016-06-24
     * tags: [nodejs](../tags/nodejs.md), [debugging](../tags/debugging.md), [chrome](../tags/chrome.md), [dev-tools](../tags/dev-tools.md)
 * [Continuous Deployment of Node.js Applications](https://blog.risingstack.com/continuous-deployment-of-node-js-applications/)
-    * :calendar: published on: 2014-00-30
+    * :calendar: published on: 2014-07-30
     * tags: [nodejs](../tags/nodejs.md), [devops](../tags/devops.md)
 * [GitHub - foreverjs/forever: A simple CLI tool for ensuring that a given script runs continuously (i.e. forever)](https://github.com/foreverjs/forever)
     * tags: [nodejs](../tags/nodejs.md)
@@ -95,7 +97,7 @@ nodejs
 * [NodeJS Systemübersicht](http://bkwiki.bkw-fmb.ch/pages/viewpage.action?pageId=46990219)
     * tags: [bkw](../tags/bkw.md), [nodejs](../tags/nodejs.md)
 * [Why I use Tape Instead of Mocha & So Should You – JavaScript Scene – Medium](https://medium.com/javascript-scene/why-i-use-tape-instead-of-mocha-so-should-you-6aa105d8eaf4)
-    * :calendar: published on: 2015-00-13
+    * :calendar: published on: 2015-07-13
     * tags: [nodejs](../tags/nodejs.md), [testing](../tags/testing.md), [tape](../tags/tape.md)
     * :octocat: [github url](https://github.com/substack/tape)
 * [GitHub - request/request: 🏊🏾 Simplified HTTP request client.](https://github.com/request/request)
@@ -108,13 +110,13 @@ nodejs
     * tags: [nodejs](../tags/nodejs.md), [testing](../tags/testing.md), [tape](../tags/tape.md)
     * :octocat: [github url](https://github.com/substack/tape)
 * [Node Hero - Node.js Project Structure Tutorial | @RisingStack](https://blog.risingstack.com/node-hero-node-js-project-structure-tutorial/)
-    * :calendar: published on: 2016-00-08
+    * :calendar: published on: 2016-08-08
     * tags: [nodejs](../tags/nodejs.md)
 * [Browserify](http://browserify.org/)
     * tags: [nodejs](../tags/nodejs.md)
     * :octocat: [github url](https://github.com/substack/node-browserify)
 * [Building a Node.js App with TypeScript Tutorial | @RisingStack](https://blog.risingstack.com/building-a-node-js-app-with-typescript-tutorial/)
-    * :calendar: published on: 2017-00-20
+    * :calendar: published on: 2017-06-20
     * tags: [nodejs](../tags/nodejs.md), [typescript](../tags/typescript.md)
     * :octocat: [github url](https://github.com/RisingStack/node-typescript-starter)
 * [GitHub - jprichardson/node-fs-extra: Node.js: extra methods for the fs object like copy(), remove(), mkdirs()](https://github.com/jprichardson/node-fs-extra)
@@ -143,10 +145,10 @@ nodejs
 * [GitHub - nodejs/LTS: Node.js Foundation Long-term Support Working Group](https://github.com/nodejs/LTS)
     * tags: [nodejs](../tags/nodejs.md)
 * [Mastering Async Await in Node.js | @RisingStack](https://blog.risingstack.com/mastering-async-await-in-nodejs/)
-    * :calendar: published on: 2017-00-20
+    * :calendar: published on: 2017-06-20
     * tags: [nodejs](../tags/nodejs.md)
 * [How to configure Nginx in production to serve an Angular app and reverse proxy NodeJS – CodingpediaOrg](http://www.codingpedia.org/ama/how-to-configure-nginx-in-production-to-serve-angular-app-and-reverse-proxy-nodejs)
-    * :calendar: published on: 2017-00-21
+    * :calendar: published on: 2017-05-21
     * tags: [nginx](../tags/nginx.md), [angular](../tags/angular.md), [nodejs](../tags/nodejs.md)
 * [package-lock and npm-shrinkwrap](https://github.com/npm/npm/blob/latest/doc/spec/package-lock.md)
     * tags: [nodejs](../tags/nodejs.md), [npm](../tags/npm.md)
@@ -155,10 +157,10 @@ nodejs
 * [Crypto | Node.js Documentation](https://nodejs.org/api/crypto.html)
     * tags: [nodejs](../tags/nodejs.md), [security](../tags/security.md), [docs](../tags/docs.md)
 * [Angular Security - Authentication With JWT: The  Complete Guide](https://blog.angular-university.io/angular-authentication-jwt/)
-    * :calendar: published on: 2017-00-14
+    * :calendar: published on: 2017-09-14
     * tags: [jwt](../tags/jwt.md), [angular](../tags/angular.md), [nodejs](../tags/nodejs.md)
 * [How to Get Node.js Logging Right | @RisingStack](https://blog.risingstack.com/node-js-logging-tutorial/)
-    * :calendar: published on: 2016-00-01
+    * :calendar: published on: 2016-10-01
     * tags: [nodejs](../tags/nodejs.md), [logging](../tags/logging.md), [winston](../tags/winston.md)
 * [GitHub - iccicci/rotating-file-stream](https://github.com/iccicci/rotating-file-stream)
     * tags: [nodejs](../tags/nodejs.md), [logging](../tags/logging.md)
@@ -171,13 +173,13 @@ nodejs
     * tags: [nodejs](../tags/nodejs.md), [testing](../tags/testing.md), [unit-testing](../tags/unit-testing.md)
     * :octocat: [github url](https://github.com/RisingStack/nodehero-testing)
 * [Working with filesystems in Node.js | George Ornbo](https://shapeshed.com/working-with-filesystems-in-nodejs/)
-    * :calendar: published on: 2013-00-08
+    * :calendar: published on: 2013-03-08
     * tags: [nodejs](../tags/nodejs.md)
 * [GitHub - node-nock/nock](https://github.com/node-nock/nock)
     * tags: [nodejs](../tags/nodejs.md), [http](../tags/http.md), [unit-testing](../tags/unit-testing.md)
     * :octocat: [github url](https://github.com/node-nock/nock)
 * [Unit Testing and TDD in Node.js – Part 1 | Codementor](https://www.codementor.io/davidtang/unit-testing-and-tdd-in-node-js-part-1-8t714s877)
-    * :calendar: published on: 2015-00-16
+    * :calendar: published on: 2015-11-16
     * tags: [nodejs](../tags/nodejs.md), [unit-testing](../tags/unit-testing.md)
     * :octocat: [github url](https://github.com/skaterdav85/node-testing)
 * [Events | Node.js Documentation](https://nodejs.org/api/events.html)
@@ -198,17 +200,17 @@ nodejs
 * [DerickBailey.com - Trade Secrets Of A Developer / Entrepreneur](https://derickbailey.com/)
     * tags: [blog](../tags/blog.md), [javascript](../tags/javascript.md), [docker](../tags/docker.md), [nodejs](../tags/nodejs.md)
 * [Express over HTTPS · Minko Gechev's blog](http://blog.mgechev.com/2014/02/19/create-https-tls-ssl-application-with-express-nodejs/)
-    * :calendar: published on: 2014-00-19
+    * :calendar: published on: 2014-02-19
     * tags: [expressjs](../tags/expressjs.md), [nodejs](../tags/nodejs.md), [ssl](../tags/ssl.md), [tls](../tags/tls.md)
 * [RisingStack Engineering - Node.js Tutorials & Resources](https://blog.risingstack.com/)
     * tags: [blog](../tags/blog.md), [nodejs](../tags/nodejs.md)
 * [Node.js Security Overview](https://nemethgergely.com/nodejs-security-overview/)
-    * :calendar: published on: 2017-00-12
+    * :calendar: published on: 2017-10-12
     * tags: [nodejs](../tags/nodejs.md), [security](../tags/security.md)
 * [Gergely Nemeth](https://nemethgergely.com/archives/)
     * tags: [blog](../tags/blog.md), [nodejs](../tags/nodejs.md)
 * [A Brief History of Streams - YouTube](https://www.youtube.com/watch?v=gx9ZNY9DNBs)
-    * :calendar: published on: 2017-00-16
+    * :calendar: published on: 2017-10-16
     * tags: [stream](../tags/stream.md), [nodejs](../tags/nodejs.md)
 * [GitHub - visionmedia/supertest](https://github.com/visionmedia/supertest)
     * tags: [nodejs](../tags/nodejs.md), [testing](../tags/testing.md), [integration-testing](../tags/integration-testing.md)
@@ -222,5 +224,5 @@ nodejs
     * tags: [nodejs](../tags/nodejs.md), [unit-testing](../tags/unit-testing.md), [sinon](../tags/sinon.md), [chai](../tags/chai.md)
     * :octocat: [github url](https://github.com/domenic/sinon-chai.git)
 * [Best Practices for Spies, Stubs and Mocks in Sinon.js - Semaphore](https://semaphoreci.com/community/tutorials/best-practices-for-spies-stubs-and-mocks-in-sinon-js)
-    * :calendar: published on: 2015-00-05
+    * :calendar: published on: 2015-12-05
     * tags: [nodejs](../tags/nodejs.md), [testing](../tags/testing.md), [unit-testing](../tags/unit-testing.md), [sinonjs](../tags/sinonjs.md)

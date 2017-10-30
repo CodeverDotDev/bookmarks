@@ -10,7 +10,7 @@ service-worker
     * tags: [service-worker](../tags/service-worker.md), [pwa](../tags/pwa.md)
     * :octocat: [github url](https://github.com/jakearchibald/isserviceworkerready)
 * [The offline cookbook - JakeArchibald.com](https://jakearchibald.com/2014/offline-cookbook/)
-    * :calendar: published on: 2014-00-09
+    * :calendar: published on: 2014-12-09
     * tags: [pwa](../tags/pwa.md), [offline-first](../tags/offline-first.md), [service-worker](../tags/service-worker.md)
 * [Service Workers: an Introduction | Web |  Google Developers](https://developers.google.com/web/fundamentals/getting-started/primers/service-workers)
     * tags: [service-worker](../tags/service-worker.md)
