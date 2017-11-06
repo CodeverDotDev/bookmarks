@@ -5424,3 +5424,5 @@ free-programming-books
     * tags: [free-programming-books](../tags/free-programming-books.md), [windows-phone](../tags/windows-phone.md), [free-programming-books-hu](../tags/free-programming-books-hu.md)
 * [JWT Handbook](https://auth0.com/e-books/jwt-handbook)
     * tags: [jwt](../tags/jwt.md), [free-programming-books](../tags/free-programming-books.md)
+* [Introduction | RESTfu­­l Jav­a­ wit­h ­JAX­-­­RS 2.­0­ (Second Edition)](https://dennis-xlc.gitbooks.io/restful-java-with-jax-rs-2-0-2rd-edition/en/index.html)
+    * tags: [java](../tags/java.md), [jaxrs](../tags/jaxrs.md), [javaee](../tags/javaee.md), [free-programming-books](../tags/free-programming-books.md), [rest-client](../tags/rest-client.md)

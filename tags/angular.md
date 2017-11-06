@@ -197,3 +197,5 @@ angular
     * :calendar: published on: 2016-04-10
     * tags: [javascript](../tags/javascript.md), [angular](../tags/angular.md), [typescript](../tags/typescript.md), [redux](../tags/redux.md)
     * :octocat: [github url](https://github.com/mgechev/scalable-architecture-demo)
+* [Juri's TechBlog](https://juristr.com/blog/)
+    * tags: [blog](../tags/blog.md), [javascript](../tags/javascript.md), [angular](../tags/angular.md)

@@ -477,3 +477,5 @@ javascript
 * [@use JSDoc](http://usejsdoc.org/)
     * tags: [documentation](../tags/documentation.md), [javascript](../tags/javascript.md)
     * :octocat: [github url](https://github.com/jsdoc3/jsdoc)
+* [Juri's TechBlog](https://juristr.com/blog/)
+    * tags: [blog](../tags/blog.md), [javascript](../tags/javascript.md), [angular](../tags/angular.md)

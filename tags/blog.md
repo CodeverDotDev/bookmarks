@@ -28,3 +28,7 @@ Official Google Webmaster Central Blog
     * tags: [blog](../tags/blog.md)
 * [Petri Kainulainen — Developing Software With Passion](https://www.petrikainulainen.net/blog/)
     * tags: [blog](../tags/blog.md), [java](../tags/java.md)
+* [Bozho's tech blog](https://techblog.bozho.net/)
+    * tags: [blog](../tags/blog.md), [java](../tags/java.md)
+* [Juri's TechBlog](https://juristr.com/blog/)
+    * tags: [blog](../tags/blog.md), [javascript](../tags/javascript.md), [angular](../tags/angular.md)

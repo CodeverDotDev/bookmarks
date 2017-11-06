@@ -43,3 +43,8 @@ Query Strings Considered Harmful](http://web.archive.org/web/20070815111413/http
 * [How to build the right smoke test REST service in Java EE with Maven – CodingpediaOrg](http://www.codingpedia.org/ama/how-to-build-the-right-smoke-test-rest-service-in-java-ee-with-maven)
     * :calendar: published on: 2016-12-18
     * tags: [maven](../tags/maven.md), [rest](../tags/rest.md), [javaee](../tags/javaee.md), [git](../tags/git.md)
+* [Asynchronous operations in REST](https://www.adayinthelifeof.nl/2011/06/02/asynchronous-operations-in-rest/)
+    * :calendar: published on: 2011-06-02
+    * tags: [REST](../tags/REST.md)
+* [api - Hyphen, underscore, or camelCase as word delimiter in URIs? - Stack Overflow](https://stackoverflow.com/questions/10302179/hyphen-underscore-or-camelcase-as-word-delimiter-in-uris)
+    * tags: [api](../tags/api.md), [rest](../tags/rest.md)

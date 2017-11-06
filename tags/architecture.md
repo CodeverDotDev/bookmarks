@@ -24,3 +24,5 @@ architecture
     * tags: [architecture](../tags/architecture.md)
 * [12 factor app configuration vs leaking environment variables · GitHub](https://gist.github.com/telent/9742059)
     * tags: [architecture](../tags/architecture.md)
+* [Building Microservices: Inter-Process Communication](https://www.nginx.com/blog/building-microservices-inter-process-communication/)
+    * tags: [microservices](../tags/microservices.md), [asynchronous](../tags/asynchronous.md), [architecture](../tags/architecture.md)

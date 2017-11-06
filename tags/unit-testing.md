@@ -36,3 +36,8 @@ unit-testing
 * [Best Practices for Spies, Stubs and Mocks in Sinon.js - Semaphore](https://semaphoreci.com/community/tutorials/best-practices-for-spies-stubs-and-mocks-in-sinon-js)
     * :calendar: published on: 2015-12-05
     * tags: [nodejs](../tags/nodejs.md), [testing](../tags/testing.md), [unit-testing](../tags/unit-testing.md), [sinonjs](../tags/sinonjs.md)
+* [Using Istanbul With TypeScript & mocha](https://istanbul.js.org/docs/tutorials/typescript/)
+    * tags: [nodejs](../tags/nodejs.md), [unit-testing](../tags/unit-testing.md), [mocha](../tags/mocha.md), [instanbul](../tags/instanbul.md), [code-coverage](../tags/code-coverage.md)
+* [Setting up test coverage using Mocha, Istanbul, NYC with TypeScript](http://azimi.me/2016/09/30/nyc-mocha-typescript.1.html)
+    * :calendar: published on: 2016-09-30
+    * tags: [nodejs](../tags/nodejs.md), [unit-testing](../tags/unit-testing.md), [mocha](../tags/mocha.md), [instanbul](../tags/instanbul.md), [code-coverage](../tags/code-coverage.md), [typescript](../tags/typescript.md)

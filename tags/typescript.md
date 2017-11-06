@@ -45,3 +45,6 @@ typescript
     * :calendar: published on: 2016-04-10
     * tags: [javascript](../tags/javascript.md), [angular](../tags/angular.md), [typescript](../tags/typescript.md), [redux](../tags/redux.md)
     * :octocat: [github url](https://github.com/mgechev/scalable-architecture-demo)
+* [Setting up test coverage using Mocha, Istanbul, NYC with TypeScript](http://azimi.me/2016/09/30/nyc-mocha-typescript.1.html)
+    * :calendar: published on: 2016-09-30
+    * tags: [nodejs](../tags/nodejs.md), [unit-testing](../tags/unit-testing.md), [mocha](../tags/mocha.md), [instanbul](../tags/instanbul.md), [code-coverage](../tags/code-coverage.md), [typescript](../tags/typescript.md)

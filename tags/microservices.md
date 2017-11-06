@@ -32,3 +32,14 @@ microservices
 * [The Truth about Microservices – RHD Blog](https://developers.redhat.com/blog/2017/05/04/the-truth-about-microservices/?sc_cid=70160000000gx6mAAA)
     * :calendar: published on: 2017-05-04
     * tags: [microservices](../tags/microservices.md)
+* [Building Microservices Using an API Gateway | NGINX](https://www.nginx.com/blog/building-microservices-using-an-api-gateway/)
+    * tags: [microservices](../tags/microservices.md), [api-gateway](../tags/api-gateway.md), [api](../tags/api.md)
+* [Building Microservices: Inter-Process Communication](https://www.nginx.com/blog/building-microservices-inter-process-communication/)
+    * tags: [microservices](../tags/microservices.md), [asynchronous](../tags/asynchronous.md), [architecture](../tags/architecture.md)
+* [Microservice Principles: Smart Endpoints and Dumb Pipes](https://medium.com/@nathankpeck/microservice-principles-smart-endpoints-and-dumb-pipes-5691d410700f)
+    * :calendar: published on: 2017-09-01
+    * tags: [microservices](../tags/microservices.md)
+* [Node.js Performance and Highly Scalable Micro-Services - Chris Bailey, IBM - YouTube](https://www.youtube.com/watch?v=Fbhhc4jtGW4)
+    * :calendar: published on: 2017-10-31
+    * tags: [nodejs](../tags/nodejs.md), [microservices](../tags/microservices.md)
+    * :octocat: [github url](https://github.com/ibm-developer/generator-nodeserver)
