@@ -479,3 +479,5 @@ javascript
     * :octocat: [github url](https://github.com/jsdoc3/jsdoc)
 * [Juri's TechBlog](https://juristr.com/blog/)
     * tags: [blog](../tags/blog.md), [javascript](../tags/javascript.md), [angular](../tags/angular.md)
+* [javascript - Using async/await with a forEach loop - Stack Overflow](https://stackoverflow.com/questions/37576685/using-async-await-with-a-foreach-loop)
+    * tags: [javascript](../tags/javascript.md), [async-await](../tags/async-await.md)

@@ -14,3 +14,8 @@ blogging
 * [Staticman: Static sites with superpowers](https://staticman.net/)
     * tags: [blogging](../tags/blogging.md), [github-pages](../tags/github-pages.md), [jekyll](../tags/jekyll.md)
     * :octocat: [github url](https://github.com/eduardoboucas/staticman)
+* [Good Copy, Bad Copy  » Blog Archive  How your culture shapes the way you write -](https://www.dorisandbertie.com/goodcopybadcopy/2016/10/07/culture-shapes-way-write/)
+    * tags: [blogging](../tags/blogging.md), [writing](../tags/writing.md)
+* [A Writer's Guide to Permissions and Fair Use | Jane Friedman](https://www.janefriedman.com/permissions-and-fair-use/)
+    * :calendar: published on: 2017-06-21
+    * tags: [blogging](../tags/blogging.md), [fair-use](../tags/fair-use.md), [copyright](../tags/copyright.md)
