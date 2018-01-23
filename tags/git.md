@@ -145,3 +145,9 @@ git
 * [How to build the right smoke test REST service in Java EE with Maven – CodingpediaOrg](http://www.codingpedia.org/ama/how-to-build-the-right-smoke-test-rest-service-in-java-ee-with-maven)
     * :calendar: published on: 2016-12-18
     * tags: [maven](../tags/maven.md), [rest](../tags/rest.md), [javaee](../tags/javaee.md), [git](../tags/git.md)
+* [Adding a new SSH key to your GitHub account - User Documentation        ](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/)
+    * tags: [git](../tags/git.md), [ssh](../tags/ssh.md), [utils](../tags/utils.md)
+* [Error: Permission denied (publickey) - User Documentation        ](https://help.github.com/articles/error-permission-denied-publickey/)
+    * tags: [git](../tags/git.md), [debugging](../tags/debugging.md)
+* [Setting your username in Git - User Documentation        ](https://help.github.com/articles/setting-your-username-in-git/)
+    * tags: [git](../tags/git.md)

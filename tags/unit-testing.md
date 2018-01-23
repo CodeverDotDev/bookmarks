@@ -41,3 +41,6 @@ unit-testing
 * [Setting up test coverage using Mocha, Istanbul, NYC with TypeScript](http://azimi.me/2016/09/30/nyc-mocha-typescript.1.html)
     * :calendar: published on: 2016-09-30
     * tags: [nodejs](../tags/nodejs.md), [unit-testing](../tags/unit-testing.md), [mocha](../tags/mocha.md), [instanbul](../tags/instanbul.md), [code-coverage](../tags/code-coverage.md), [typescript](../tags/typescript.md)
+* [Writing Your F.I.R.S.T Unit Tests - DZone Java](https://dzone.com/articles/writing-your-first-unit-tests)
+    * :calendar: published on: 2017-03-17
+    * tags: [testing](../tags/testing.md), [unit-testing](../tags/unit-testing.md), [clean-code](../tags/clean-code.md)

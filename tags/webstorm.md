@@ -6,3 +6,6 @@ webstorm
 * [GitHub - MrZaYaC/ng2-webstorm-snippets](https://github.com/MrZaYaC/ng2-webstorm-snippets)
     * tags: [angular](../tags/angular.md), [webstorm](../tags/webstorm.md), [intellij](../tags/intellij.md)
     * :octocat: [github url](https://github.com/MrZaYaC/ng2-webstorm-snippets)
+* [Debugging Node.js apps in WebStorm | WebStorm Blog](https://blog.jetbrains.com/webstorm/2017/09/debugging-node-js-apps-in-webstorm/)
+    * :calendar: published on: 1987-10-20
+    * tags: [nodejs](../tags/nodejs.md), [debugging](../tags/debugging.md), [webstorm](../tags/webstorm.md)

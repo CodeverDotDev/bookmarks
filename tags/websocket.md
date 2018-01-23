@@ -7,3 +7,5 @@ websocket
 * ["WebSocket Applications using Java EE 7" by Arun Gupta - YouTube](https://www.youtube.com/watch?v=lbANLOUFe58)
     * :calendar: published on: 2014-02-21
     * tags: [javaee](../tags/javaee.md), [websocket](../tags/websocket.md)
+* [HTML Standard - Websocket](https://html.spec.whatwg.org/multipage/web-sockets.html)
+    * tags: [html](../tags/html.md), [websocket](../tags/websocket.md), [specification](../tags/specification.md)

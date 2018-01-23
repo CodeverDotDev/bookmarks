@@ -33,3 +33,7 @@ expressjs
     * :calendar: published on: 2017-09-22
     * tags: [swagger](../tags/swagger.md), [nodejs](../tags/nodejs.md), [expressjs](../tags/expressjs.md)
     * :octocat: [github url](https://github.com/GenFirst/swagger-to-existing-nodejs-project)
+* [RESTful API In Node & Express With TypeScript & MongoDB - YouTube](https://www.youtube.com/watch?v=XqbBv1i9Yhc)
+    * :calendar: published on: 2017-07-03
+    * tags: [nodejs](../tags/nodejs.md), [expressjs](../tags/expressjs.md), [mongodb](../tags/mongodb.md), [mongoose](../tags/mongoose.md), [typescript](../tags/typescript.md)
+    * :octocat: [github url](https://github.com/iamclaytonray/tes)

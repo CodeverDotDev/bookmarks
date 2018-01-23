@@ -481,3 +481,6 @@ javascript
     * tags: [blog](../tags/blog.md), [javascript](../tags/javascript.md), [angular](../tags/angular.md)
 * [javascript - Using async/await with a forEach loop - Stack Overflow](https://stackoverflow.com/questions/37576685/using-async-await-with-a-foreach-loop)
     * tags: [javascript](../tags/javascript.md), [async-await](../tags/async-await.md)
+* [Functional Programming in Javascript](http://reactivex.io/learnrx/)
+    * tags: [javascript](../tags/javascript.md), [functional-programming](../tags/functional-programming.md)
+    * :octocat: [github url](https://github.com/ReactiveX/learnrx)

@@ -104,3 +104,5 @@ html
     * tags: [html](../tags/html.md)
 * [Event - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Event)
     * tags: [dom](../tags/dom.md), [html](../tags/html.md)
+* [HTML Standard - Websocket](https://html.spec.whatwg.org/multipage/web-sockets.html)
+    * tags: [html](../tags/html.md), [websocket](../tags/websocket.md), [specification](../tags/specification.md)

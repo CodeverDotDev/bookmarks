@@ -34,3 +34,7 @@ maven
     * tags: [maven](../tags/maven.md), [rest](../tags/rest.md), [javaee](../tags/javaee.md), [git](../tags/git.md)
 * [Apache Maven Assembly Plugin – Introduction](http://maven.apache.org/plugins/maven-assembly-plugin/)
     * tags: [maven](../tags/maven.md), [maven-plugin](../tags/maven-plugin.md)
+* [Maven Archetype – About](http://maven.apache.org/archetype/index.html)
+    * tags: [maven](../tags/maven.md)
+* [Maven Archetype Plugin – Introduction](http://maven.apache.org/archetype/maven-archetype-plugin/index.html)
+    * tags: [maven](../tags/maven.md), [maven-plugin](../tags/maven-plugin.md)

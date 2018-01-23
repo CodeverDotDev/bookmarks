@@ -19,3 +19,8 @@ blogging
 * [A Writer's Guide to Permissions and Fair Use | Jane Friedman](https://www.janefriedman.com/permissions-and-fair-use/)
     * :calendar: published on: 2017-06-21
     * tags: [blogging](../tags/blogging.md), [fair-use](../tags/fair-use.md), [copyright](../tags/copyright.md)
+* [A manifesto for the simple scribe – my 25 commandments for journalists | Tim Radford | Science | The Guardian](https://www.theguardian.com/science/blog/2011/jan/19/manifesto-simple-scribe-commandments-journalists)
+    * :calendar: published on: 2011-01-19
+    * tags: [blogging](../tags/blogging.md), [writing](../tags/writing.md)
+* [How to Write an Introduction: A Simplified Guide](https://blog.hubspot.com/marketing/how-to-write-introduction-quick-tip-ht)
+    * tags: [blogging](../tags/blogging.md), [marketing](../tags/marketing.md)

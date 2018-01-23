@@ -63,3 +63,9 @@ testing
 * [Best Practices for Spies, Stubs and Mocks in Sinon.js - Semaphore](https://semaphoreci.com/community/tutorials/best-practices-for-spies-stubs-and-mocks-in-sinon-js)
     * :calendar: published on: 2015-12-05
     * tags: [nodejs](../tags/nodejs.md), [testing](../tags/testing.md), [unit-testing](../tags/unit-testing.md), [sinonjs](../tags/sinonjs.md)
+* [Stop. Write a Learning Test. - The Code Whisperer](http://blog.thecodewhisperer.com/permalink/when-to-write-learning-tests)
+    * :calendar: published on: 2013-10-28
+    * tags: [testing](../tags/testing.md), [debugging](../tags/debugging.md)
+* [Writing Your F.I.R.S.T Unit Tests - DZone Java](https://dzone.com/articles/writing-your-first-unit-tests)
+    * :calendar: published on: 2017-03-17
+    * tags: [testing](../tags/testing.md), [unit-testing](../tags/unit-testing.md), [clean-code](../tags/clean-code.md)

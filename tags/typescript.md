@@ -48,3 +48,11 @@ typescript
 * [Setting up test coverage using Mocha, Istanbul, NYC with TypeScript](http://azimi.me/2016/09/30/nyc-mocha-typescript.1.html)
     * :calendar: published on: 2016-09-30
     * tags: [nodejs](../tags/nodejs.md), [unit-testing](../tags/unit-testing.md), [mocha](../tags/mocha.md), [instanbul](../tags/instanbul.md), [code-coverage](../tags/code-coverage.md), [typescript](../tags/typescript.md)
+* [Coding guidelines · Microsoft/TypeScript Wiki · GitHub](https://github.com/Microsoft/TypeScript/wiki/Coding-guidelines)
+    * tags: [typescript](../tags/typescript.md)
+* [@types/mongoose-promise does not override mongoose's default promise lib · Issue #10743 · DefinitelyTyped/DefinitelyTyped · GitHub](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/10743)
+    * tags: [mongoose](../tags/mongoose.md), [typescript](../tags/typescript.md)
+* [RESTful API In Node & Express With TypeScript & MongoDB - YouTube](https://www.youtube.com/watch?v=XqbBv1i9Yhc)
+    * :calendar: published on: 2017-07-03
+    * tags: [nodejs](../tags/nodejs.md), [expressjs](../tags/expressjs.md), [mongodb](../tags/mongodb.md), [mongoose](../tags/mongoose.md), [typescript](../tags/typescript.md)
+    * :octocat: [github url](https://github.com/iamclaytonray/tes)

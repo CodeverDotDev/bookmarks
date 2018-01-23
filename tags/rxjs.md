@@ -26,3 +26,5 @@ rxjs
     * tags: [angular](../tags/angular.md), [rxjs](../tags/rxjs.md)
 * [Map vs FlatMap by NamitaMalik](https://namitamalik.github.io/Map-vs-FlatMap/)
     * tags: [rxjs](../tags/rxjs.md)
+* [forkJoin · learn-rxjs](https://www.learnrxjs.io/operators/combination/forkjoin.html)
+    * tags: [rxjs](../tags/rxjs.md)

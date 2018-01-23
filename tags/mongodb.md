@@ -31,3 +31,18 @@ mongodb
     * tags: [mongodb](../tags/mongodb.md), [glossary](../tags/glossary.md)
 * [Multi-line input in Mongo shell (Example)](https://coderwall.com/p/rmbswq/multi-line-input-in-mongo-shell)
     * tags: [mongodb](../tags/mongodb.md)
+* [Common Async/Await Design Patterns in Node.js | www.thecodebarbarian.com](http://thecodebarbarian.com/common-async-await-design-patterns-in-node.js.html)
+    * :calendar: published on: 2017-03-15
+    * tags: [nodejs](../tags/nodejs.md), [async-await](../tags/async-await.md), [mongodb](../tags/mongodb.md)
+* [GitHub - szokodiakos/typegoose: Typegoose - Define Mongoose models using TypeScript classes.](https://github.com/szokodiakos/typegoose)
+    * tags: [mongoose](../tags/mongoose.md), [mongodb](../tags/mongodb.md), [nodejs](../tags/nodejs.md)
+    * :octocat: [github url](https://github.com/szokodiakos/typegoose)
+* [RESTful API In Node & Express With TypeScript & MongoDB - YouTube](https://www.youtube.com/watch?v=XqbBv1i9Yhc)
+    * :calendar: published on: 2017-07-03
+    * tags: [nodejs](../tags/nodejs.md), [expressjs](../tags/expressjs.md), [mongodb](../tags/mongodb.md), [mongoose](../tags/mongoose.md), [typescript](../tags/typescript.md)
+    * :octocat: [github url](https://github.com/iamclaytonray/tes)
+* [MongoDB Node.js Driver](http://mongodb.github.io/node-mongodb-native/)
+    * tags: [mongodb](../tags/mongodb.md), [nodejs](../tags/nodejs.md)
+    * :octocat: [github url](https://github.com/mongodb/node-mongodb-native/)
+* [javascript - Mongoose Model.save() hangs when called from node.js app - Stack Overflow](https://stackoverflow.com/questions/12030371/mongoose-model-save-hangs-when-called-from-node-js-app)
+    * tags: [mongoose](../tags/mongoose.md), [mongodb](../tags/mongodb.md), [nodejs](../tags/nodejs.md)

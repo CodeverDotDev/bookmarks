@@ -25,7 +25,7 @@ jwt
 * [The New HTTP Client in Angular 4.3 – Austin – Medium](https://medium.com/@amcdnl/the-new-http-client-in-angular-4-3-754bd3ff83a8)
     * :calendar: published on: 2017-07-25
     * tags: [angular](../tags/angular.md), [jwt](../tags/jwt.md)
-* [5 Steps to Add Modern Authentication to Legacy Apps Using JWTsButton - CloseLearn More](https://auth0.com/blog/5-steps-to-add-modern-authentication-to-legacy-apps-using-jwts/)
+* [5 Steps to Add Modern Authentication to Legacy Apps Using JWTs](https://auth0.com/blog/5-steps-to-add-modern-authentication-to-legacy-apps-using-jwts/)
     * :calendar: published on: 2015-09-28
     * tags: [jwt](../tags/jwt.md), [security](../tags/security.md)
 * [Understanding Refresh Tokens - Auth0](https://auth0.com/learn/refresh-tokens/)

@@ -83,3 +83,5 @@ docs
     * tags: [angular](../tags/angular.md), [docs](../tags/docs.md)
 * [Spring Documentation](https://spring.io/docs)
     * tags: [spring](../tags/spring.md), [docs](../tags/docs.md)
+* [npm-config documentation](https://docs.npmjs.com/misc/config)
+    * tags: [npm](../tags/npm.md), [docs](../tags/docs.md)
