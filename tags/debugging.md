@@ -15,3 +15,5 @@ debugging
     * tags: [git](../tags/git.md), [debugging](../tags/debugging.md)
 * [Debug Node.js Apps using VS Code](https://code.visualstudio.com/docs/nodejs/nodejs-debugging)
     * tags: [nodejs](../tags/nodejs.md), [vscode](../tags/vscode.md), [debugging](../tags/debugging.md)
+* [Debugging and logs](https://www.getpostman.com/docs/postman/sending_api_requests/debugging_and_logs)
+    * tags: [postman](../tags/postman.md), [rest](../tags/rest.md), [debugging](../tags/debugging.md)

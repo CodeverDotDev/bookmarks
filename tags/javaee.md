@@ -25,3 +25,6 @@ javaee
 * [GitHub - redhat-developer/redhat-sso-quickstarts](https://github.com/redhat-developer/redhat-sso-quickstarts)
     * tags: [rh-sso](../tags/rh-sso.md), [nodejs](../tags/nodejs.md), [javaee](../tags/javaee.md), [jaxrs](../tags/jaxrs.md)
     * :octocat: [github url](https://github.com/redhat-developer/redhat-sso-quickstarts)
+* [How to make parallel calls in Java with CompletableFuture example – CodingpediaOrg](http://www.codingpedia.org/ama/how-to-make-parallel-calls-in-java-with-completablefuture-example)
+    * :calendar: published on: 2018-01-26
+    * tags: [java](../tags/java.md), [javaee](../tags/javaee.md), [async](../tags/async.md)

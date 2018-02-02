@@ -50,3 +50,6 @@ vim
     * tags: [free-programming-books](../tags/free-programming-books.md), [vim](../tags/vim.md), [free-programming-books-pt_BR](../tags/free-programming-books-pt_BR.md)
 * [Vim para Noobs](http://woliveiras.com.br/vimparanoobs/)
     * tags: [free-programming-books](../tags/free-programming-books.md), [vim](../tags/vim.md), [free-programming-books-pt_BR](../tags/free-programming-books-pt_BR.md)
+* [Vim tips: The basics of search and replace | Linux.com | The source for Linux information](https://www.linux.com/learn/vim-tips-basics-search-and-replace)
+    * :calendar: published on: 2006-06-28
+    * tags: [vim](../tags/vim.md)

@@ -11,3 +11,6 @@ caching
     * :octocat: [github url](https://github.com/infinispan/infinispan)
 * [Cache-Control - HTTP | MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Cache-Control)
     * tags: [http](../tags/http.md), [caching](../tags/caching.md)
+* [CachesExplained · google/guava Wiki · GitHub](https://github.com/google/guava/wiki/CachesExplained)
+    * tags: [java](../tags/java.md), [caching](../tags/caching.md)
+    * :octocat: [github url](https://github.com/google/guava)

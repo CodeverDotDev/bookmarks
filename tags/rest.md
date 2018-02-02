@@ -54,3 +54,5 @@ Query Strings Considered Harmful](http://web.archive.org/web/20070815111413/http
 * [Welcome | RAMLWelcome | RAML](https://raml.org/)
     * tags: [rest](../tags/rest.md), [api](../tags/api.md), [documentation](../tags/documentation.md)
     * :octocat: [github url](https://github.com/raml-org/raml-spec)
+* [Debugging and logs](https://www.getpostman.com/docs/postman/sending_api_requests/debugging_and_logs)
+    * tags: [postman](../tags/postman.md), [rest](../tags/rest.md), [debugging](../tags/debugging.md)

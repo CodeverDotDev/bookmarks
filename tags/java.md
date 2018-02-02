@@ -341,3 +341,21 @@ java
     * tags: [java](../tags/java.md), [jaxrs](../tags/jaxrs.md), [javaee](../tags/javaee.md)
 * [Introduction | RESTfu­­l Jav­a­ wit­h ­JAX­-­­RS 2.­0­ (Second Edition)](https://dennis-xlc.gitbooks.io/restful-java-with-jax-rs-2-0-2rd-edition/en/index.html)
     * tags: [java](../tags/java.md), [jaxrs](../tags/jaxrs.md), [javaee](../tags/javaee.md), [free-programming-books](../tags/free-programming-books.md), [rest-client](../tags/rest-client.md)
+* [java - Ignoring new fields on JSON objects using Jackson - Stack Overflow](https://stackoverflow.com/questions/5455014/ignoring-new-fields-on-json-objects-using-jackson)
+    * tags: [java](../tags/java.md), [json](../tags/json.md), [jackson](../tags/jackson.md)
+* [Java 8 CompletableFuture Tutorial | CalliCoder](https://www.callicoder.com/java-8-completablefuture-tutorial/)
+    * :calendar: published on: 2017-07-18
+    * tags: [java](../tags/java.md), [asynchronous](../tags/asynchronous.md)
+* [Guide To CompletableFuture | Baeldung](http://www.baeldung.com/java-completablefuture)
+    * :calendar: published on: 2017-09-23
+    * tags: [java](../tags/java.md), [asynchronous](../tags/asynchronous.md)
+    * :octocat: [github url](https://github.com/eugenp/tutorials/tree/master/core-java-concurrency)
+* [How to make parallel calls in Java with CompletableFuture example – CodingpediaOrg](http://www.codingpedia.org/ama/how-to-make-parallel-calls-in-java-with-completablefuture-example)
+    * :calendar: published on: 2018-01-26
+    * tags: [java](../tags/java.md), [javaee](../tags/javaee.md), [async](../tags/async.md)
+* [GitHub - google/guava: Google core libraries for Java](https://github.com/google/guava)
+    * tags: [java](../tags/java.md)
+    * :octocat: [github url](https://github.com/google/guava)
+* [CachesExplained · google/guava Wiki · GitHub](https://github.com/google/guava/wiki/CachesExplained)
+    * tags: [java](../tags/java.md), [caching](../tags/caching.md)
+    * :octocat: [github url](https://github.com/google/guava)

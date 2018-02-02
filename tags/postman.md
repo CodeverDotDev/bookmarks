@@ -10,3 +10,5 @@ postman
     * tags: [postman](../tags/postman.md), [rest](../tags/rest.md)
 * [Introduction](https://www.getpostman.com/docs/)
     * tags: [postman](../tags/postman.md), [docs](../tags/docs.md), [rest](../tags/rest.md)
+* [Debugging and logs](https://www.getpostman.com/docs/postman/sending_api_requests/debugging_and_logs)
+    * tags: [postman](../tags/postman.md), [rest](../tags/rest.md), [debugging](../tags/debugging.md)

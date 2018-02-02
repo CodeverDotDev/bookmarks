@@ -64,3 +64,6 @@ dev-tools
     * tags: [nodejs](../tags/nodejs.md), [debugging](../tags/debugging.md), [chrome](../tags/chrome.md), [dev-tools](../tags/dev-tools.md)
 * [SHA-256 hash calculator. Online SHA-256 hash generator. Mining Bitcoin](http://www.xorbin.com/tools/sha256-hash-calculator)
     * tags: [security](../tags/security.md), [dev-tools](../tags/dev-tools.md)
+* [Regexper](https://regexper.com/)
+    * tags: [regex](../tags/regex.md), [javascript](../tags/javascript.md), [dev-tools](../tags/dev-tools.md)
+    * :octocat: [github url](https://github.com/javallone/regexper-static)

@@ -11,3 +11,5 @@ cheatsheet
     * tags: [social-media](../tags/social-media.md), [cheatsheet](../tags/cheatsheet.md)
 * [Emoji cheat sheet for GitHub, Basecamp and other services](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
     * tags: [web](../tags/web.md), [cheatsheet](../tags/cheatsheet.md)
+* [XSS (Cross Site Scripting) Prevention Cheat Sheet - OWASP](https://www.owasp.org/index.php/XSS_(Cross_Site_Scripting)_Prevention_Cheat_Sheet)
+    * tags: [security](../tags/security.md), [cheatsheet](../tags/cheatsheet.md)

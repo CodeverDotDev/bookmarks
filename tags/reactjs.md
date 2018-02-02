@@ -11,3 +11,10 @@ reactjs
     * :calendar: published on: 2017-07-25
     * tags: [angular](../tags/angular.md), [reactjs](../tags/reactjs.md), [vuejs](../tags/vuejs.md)
     * :octocat: [github url](https://github.com/mike-plummer/angular-react-vue-stopwatch)
+* [GitHub - facebook/create-react-app at master](https://github.com/facebook/create-react-app/tree/master)
+    * tags: [reactjs](../tags/reactjs.md)
+    * :octocat: [github url](https://github.com/facebook/create-react-app/tree/master)
+* [Dan Abramov - The Melting Pot of JavaScript - YouTube](https://www.youtube.com/watch?v=G39lKaONAlA)
+    * :calendar: published on: 2017-10-10
+    * tags: [javascript](../tags/javascript.md), [reactjs](../tags/reactjs.md)
+    * :octocat: [github url](https://github.com/facebook/create-react-app/tree/master)
