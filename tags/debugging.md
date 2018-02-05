@@ -17,3 +17,5 @@ debugging
     * tags: [nodejs](../tags/nodejs.md), [vscode](../tags/vscode.md), [debugging](../tags/debugging.md)
 * [Debugging and logs](https://www.getpostman.com/docs/postman/sending_api_requests/debugging_and_logs)
     * tags: [postman](../tags/postman.md), [rest](../tags/rest.md), [debugging](../tags/debugging.md)
+* [Debugging - Getting Started | Node.js](https://nodejs.org/en/docs/guides/debugging-getting-started/)
+    * tags: [nodejs](../tags/nodejs.md), [debugging](../tags/debugging.md)

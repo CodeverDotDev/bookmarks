@@ -295,3 +295,5 @@ nodejs
     * :octocat: [github url](https://github.com/mongodb/node-mongodb-native/)
 * [javascript - Mongoose Model.save() hangs when called from node.js app - Stack Overflow](https://stackoverflow.com/questions/12030371/mongoose-model-save-hangs-when-called-from-node-js-app)
     * tags: [mongoose](../tags/mongoose.md), [mongodb](../tags/mongodb.md), [nodejs](../tags/nodejs.md)
+* [Debugging - Getting Started | Node.js](https://nodejs.org/en/docs/guides/debugging-getting-started/)
+    * tags: [nodejs](../tags/nodejs.md), [debugging](../tags/debugging.md)

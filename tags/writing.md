@@ -15,3 +15,8 @@ writing
     * tags: [writing](../tags/writing.md)
 * [How to Write a Technical Book](http://www.ambysoft.com/books/bookWriting.html)
     * tags: [writing](../tags/writing.md)
+* [Inverted pyramid (journalism) - Wikipedia](https://en.wikipedia.org/wiki/Inverted_pyramid_(journalism))
+    * tags: [writing](../tags/writing.md)
+* [How to write a cover letter - YouTube](https://www.youtube.com/watch?v=3AaEvnVjrRc&feature=youtu.be)
+    * :calendar: published on: 2018-01-30
+    * tags: [job](../tags/job.md), [writing](../tags/writing.md)
