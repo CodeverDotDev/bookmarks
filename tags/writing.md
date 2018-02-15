@@ -20,3 +20,13 @@ writing
 * [How to write a cover letter - YouTube](https://www.youtube.com/watch?v=3AaEvnVjrRc&feature=youtu.be)
     * :calendar: published on: 2018-01-30
     * tags: [job](../tags/job.md), [writing](../tags/writing.md)
+* [Hemingway Editor](http://www.hemingwayapp.com/)
+    * tags: [writing](../tags/writing.md), [tools](../tags/tools.md)
+* [The Up-Goer Five Text Editor](http://splasho.com/upgoer5/)
+    * tags: [writing](../tags/writing.md), [tools](../tags/tools.md)
+* [A to Z of Alternative Words](http://www.plainenglish.co.uk/files/alternative.pdf)
+    * tags: [writing](../tags/writing.md), [tools](../tags/tools.md)
+* [ Gunning Fog Index](http://gunning-fog-index.com/)
+    * tags: [writing](../tags/writing.md), [tools](../tags/tools.md)
+* [Drivel Defence text](http://www.plainenglish.co.uk/drivel-defence-text.html)
+    * tags: [writing](../tags/writing.md), [tools](../tags/tools.md)

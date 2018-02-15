@@ -297,3 +297,6 @@ nodejs
     * tags: [mongoose](../tags/mongoose.md), [mongodb](../tags/mongodb.md), [nodejs](../tags/nodejs.md)
 * [Debugging - Getting Started | Node.js](https://nodejs.org/en/docs/guides/debugging-getting-started/)
     * tags: [nodejs](../tags/nodejs.md), [debugging](../tags/debugging.md)
+* [GitHub - LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
+    * tags: [javascript](../tags/javascript.md), [nodejs](../tags/nodejs.md), [cheatsheet](../tags/cheatsheet.md)
+    * :octocat: [github url](https://github.com/LeCoupa/awesome-cheatsheets)

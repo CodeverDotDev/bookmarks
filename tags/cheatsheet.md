@@ -13,3 +13,6 @@ cheatsheet
     * tags: [web](../tags/web.md), [cheatsheet](../tags/cheatsheet.md)
 * [XSS (Cross Site Scripting) Prevention Cheat Sheet - OWASP](https://www.owasp.org/index.php/XSS_(Cross_Site_Scripting)_Prevention_Cheat_Sheet)
     * tags: [security](../tags/security.md), [cheatsheet](../tags/cheatsheet.md)
+* [GitHub - LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
+    * tags: [javascript](../tags/javascript.md), [nodejs](../tags/nodejs.md), [cheatsheet](../tags/cheatsheet.md)
+    * :octocat: [github url](https://github.com/LeCoupa/awesome-cheatsheets)

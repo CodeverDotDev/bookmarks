@@ -26,3 +26,8 @@ architecture
     * tags: [architecture](../tags/architecture.md)
 * [Building Microservices: Inter-Process Communication](https://www.nginx.com/blog/building-microservices-inter-process-communication/)
     * tags: [microservices](../tags/microservices.md), [asynchronous](../tags/asynchronous.md), [architecture](../tags/architecture.md)
+* [Dan McKinley :: Choose Boring TechnologyCrazySane](http://mcfunley.com/choose-boring-technology)
+    * :calendar: published on: 2015-03-30
+    * tags: [coding](../tags/coding.md), [architecture](../tags/architecture.md)
+* [Sidecar pattern | Microsoft Docs](https://docs.microsoft.com/en-us/azure/architecture/patterns/sidecar)
+    * tags: [architecture](../tags/architecture.md), [design-patterns](../tags/design-patterns.md), [microservices](../tags/microservices.md)

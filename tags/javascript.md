@@ -500,3 +500,12 @@ javascript
 * [Building Secure JavaScript Applications](https://nemethgergely.com/building-secure-javascript-applications/)
     * :calendar: published on: 2018-01-18
     * tags: [javascript](../tags/javascript.md), [security](../tags/security.md)
+* [Hammer.JS - Hammer.js](http://hammerjs.github.io/)
+    * tags: [javascript](../tags/javascript.md)
+    * :octocat: [github url](https://github.com/hammerjs/hammer.js/)
+* [GitHub - LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
+    * tags: [javascript](../tags/javascript.md), [nodejs](../tags/nodejs.md), [cheatsheet](../tags/cheatsheet.md)
+    * :octocat: [github url](https://github.com/LeCoupa/awesome-cheatsheets)
+* [Moment.js | Docs](https://momentjs.com/docs/)
+    * tags: [javascript](../tags/javascript.md), [docs](../tags/docs.md)
+    * :octocat: [github url](https://github.com/moment/moment/)

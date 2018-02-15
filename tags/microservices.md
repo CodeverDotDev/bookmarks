@@ -43,3 +43,5 @@ microservices
     * :calendar: published on: 2017-10-31
     * tags: [nodejs](../tags/nodejs.md), [microservices](../tags/microservices.md)
     * :octocat: [github url](https://github.com/ibm-developer/generator-nodeserver)
+* [Sidecar pattern | Microsoft Docs](https://docs.microsoft.com/en-us/azure/architecture/patterns/sidecar)
+    * tags: [architecture](../tags/architecture.md), [design-patterns](../tags/design-patterns.md), [microservices](../tags/microservices.md)

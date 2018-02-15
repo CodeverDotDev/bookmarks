@@ -17,3 +17,5 @@ design-patterns
     * tags: [clean-code](../tags/clean-code.md), [design-patterns](../tags/design-patterns.md)
 * [Template method pattern - Wikipedia](https://en.wikipedia.org/wiki/Template_method_pattern)
     * tags: [design-patterns](../tags/design-patterns.md), [clean-code](../tags/clean-code.md)
+* [Sidecar pattern | Microsoft Docs](https://docs.microsoft.com/en-us/azure/architecture/patterns/sidecar)
+    * tags: [architecture](../tags/architecture.md), [design-patterns](../tags/design-patterns.md), [microservices](../tags/microservices.md)

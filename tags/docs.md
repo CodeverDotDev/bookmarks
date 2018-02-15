@@ -85,3 +85,6 @@ docs
     * tags: [spring](../tags/spring.md), [docs](../tags/docs.md)
 * [npm-config documentation](https://docs.npmjs.com/misc/config)
     * tags: [npm](../tags/npm.md), [docs](../tags/docs.md)
+* [Moment.js | Docs](https://momentjs.com/docs/)
+    * tags: [javascript](../tags/javascript.md), [docs](../tags/docs.md)
+    * :octocat: [github url](https://github.com/moment/moment/)
