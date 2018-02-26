@@ -7,3 +7,6 @@ jaxrs
 * [GitHub - redhat-developer/redhat-sso-quickstarts](https://github.com/redhat-developer/redhat-sso-quickstarts)
     * tags: [rh-sso](../tags/rh-sso.md), [nodejs](../tags/nodejs.md), [javaee](../tags/javaee.md), [jaxrs](../tags/jaxrs.md)
     * :octocat: [github url](https://github.com/redhat-developer/redhat-sso-quickstarts)
+* [REST with Java (JAX-RS) using Jersey - Tutorial](http://www.vogella.com/tutorials/REST/article.html)
+    * :calendar: published on: 2017-11-27
+    * tags: [java](../tags/java.md), [javaee](../tags/javaee.md), [jaxrs](../tags/jaxrs.md), [jersey](../tags/jersey.md), [rest](../tags/rest.md)

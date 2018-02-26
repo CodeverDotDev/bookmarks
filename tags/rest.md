@@ -56,3 +56,10 @@ Query Strings Considered Harmful](http://web.archive.org/web/20070815111413/http
     * :octocat: [github url](https://github.com/raml-org/raml-spec)
 * [Debugging and logs](https://www.getpostman.com/docs/postman/sending_api_requests/debugging_and_logs)
     * tags: [postman](../tags/postman.md), [rest](../tags/rest.md), [debugging](../tags/debugging.md)
+* [GraphQL as an API Gateway to Microservices - via @codeship](https://blog.codeship.com/graphql-as-an-api-gateway-to-micro-services/)
+    * :calendar: published on: 2018-02-07
+    * tags: [microservices](../tags/microservices.md), [rest](../tags/rest.md), [graphql](../tags/graphql.md)
+    * :octocat: [github url](https://github.com/fireproofsocks/graphql-example)
+* [REST with Java (JAX-RS) using Jersey - Tutorial](http://www.vogella.com/tutorials/REST/article.html)
+    * :calendar: published on: 2017-11-27
+    * tags: [java](../tags/java.md), [javaee](../tags/javaee.md), [jaxrs](../tags/jaxrs.md), [jersey](../tags/jersey.md), [rest](../tags/rest.md)

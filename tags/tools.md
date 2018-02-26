@@ -16,3 +16,7 @@ tools
     * tags: [security](../tags/security.md), [tools](../tags/tools.md)
 * [Online RSA Key Generator](http://travistidwell.com/jsencrypt/demo/)
     * tags: [security](../tags/security.md), [tools](../tags/tools.md)
+* [Better Node.js Console Dumps with console-probe](https://davidwalsh.name/console-probe)
+    * :calendar: published on: 2018-01-25
+    * tags: [nodejs](../tags/nodejs.md), [tools](../tags/tools.md)
+    * :octocat: [github url](https://github.com/grantcarthew/node-console-probe)

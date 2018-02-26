@@ -59,3 +59,9 @@ go
 * [Why should you learn Go? – Keval Patel – Medium](https://medium.com/@kevalpatel2106/why-should-you-learn-go-f607681fad65)
     * :calendar: published on: 2017-01-08
     * tags: [go](../tags/go.md), [golang](../tags/golang.md)
+* [An Introduction to Programming in Go](https://www.golang-book.com/books/intro)
+    * tags: [go](../tags/go.md), [free-programming-books](../tags/free-programming-books.md)
+* [Learning Go as a Node.js Developer](https://nemethgergely.com/learning-go-as-a-nodejs-developer/)
+    * tags: [go](../tags/go.md), [nodejs](../tags/nodejs.md)
+* [Go by Example](https://gobyexample.com/)
+    * tags: [go](../tags/go.md)

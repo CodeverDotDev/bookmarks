@@ -509,3 +509,5 @@ javascript
 * [Moment.js | Docs](https://momentjs.com/docs/)
     * tags: [javascript](../tags/javascript.md), [docs](../tags/docs.md)
     * :octocat: [github url](https://github.com/moment/moment/)
+* [undefined - JavaScript MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined)
+    * tags: [javascript](../tags/javascript.md)

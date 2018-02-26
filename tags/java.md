@@ -359,3 +359,8 @@ java
 * [CachesExplained · google/guava Wiki · GitHub](https://github.com/google/guava/wiki/CachesExplained)
     * tags: [java](../tags/java.md), [caching](../tags/caching.md)
     * :octocat: [github url](https://github.com/google/guava)
+* [REST with Java (JAX-RS) using Jersey - Tutorial](http://www.vogella.com/tutorials/REST/article.html)
+    * :calendar: published on: 2017-11-27
+    * tags: [java](../tags/java.md), [javaee](../tags/javaee.md), [jaxrs](../tags/jaxrs.md), [jersey](../tags/jersey.md), [rest](../tags/rest.md)
+* [Testing Java Persistence · Arquillian Guides](http://arquillian.org/guides/testing_java_persistence/)
+    * tags: [arquillian](../tags/arquillian.md), [java](../tags/java.md), [jpa](../tags/jpa.md)

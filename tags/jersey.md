@@ -4,3 +4,6 @@ jersey
     * :calendar: published on: 2014-05-31
     * tags: [spring](../tags/spring.md), [java](../tags/java.md), [jersey](../tags/jersey.md), [rest](../tags/rest.md)
     * :octocat: [github url](https://github.com/Codingpedia/demo-rest-jersey-spring)
+* [REST with Java (JAX-RS) using Jersey - Tutorial](http://www.vogella.com/tutorials/REST/article.html)
+    * :calendar: published on: 2017-11-27
+    * tags: [java](../tags/java.md), [javaee](../tags/javaee.md), [jaxrs](../tags/jaxrs.md), [jersey](../tags/jersey.md), [rest](../tags/rest.md)

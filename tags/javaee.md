@@ -28,3 +28,6 @@ javaee
 * [How to make parallel calls in Java with CompletableFuture example – CodingpediaOrg](http://www.codingpedia.org/ama/how-to-make-parallel-calls-in-java-with-completablefuture-example)
     * :calendar: published on: 2018-01-26
     * tags: [java](../tags/java.md), [javaee](../tags/javaee.md), [async](../tags/async.md)
+* [REST with Java (JAX-RS) using Jersey - Tutorial](http://www.vogella.com/tutorials/REST/article.html)
+    * :calendar: published on: 2017-11-27
+    * tags: [java](../tags/java.md), [javaee](../tags/javaee.md), [jaxrs](../tags/jaxrs.md), [jersey](../tags/jersey.md), [rest](../tags/rest.md)

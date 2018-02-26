@@ -45,3 +45,7 @@ microservices
     * :octocat: [github url](https://github.com/ibm-developer/generator-nodeserver)
 * [Sidecar pattern | Microsoft Docs](https://docs.microsoft.com/en-us/azure/architecture/patterns/sidecar)
     * tags: [architecture](../tags/architecture.md), [design-patterns](../tags/design-patterns.md), [microservices](../tags/microservices.md)
+* [GraphQL as an API Gateway to Microservices - via @codeship](https://blog.codeship.com/graphql-as-an-api-gateway-to-micro-services/)
+    * :calendar: published on: 2018-02-07
+    * tags: [microservices](../tags/microservices.md), [rest](../tags/rest.md), [graphql](../tags/graphql.md)
+    * :octocat: [github url](https://github.com/fireproofsocks/graphql-example)

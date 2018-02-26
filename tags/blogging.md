@@ -24,3 +24,7 @@ blogging
     * tags: [blogging](../tags/blogging.md), [writing](../tags/writing.md)
 * [How to Write an Introduction: A Simplified Guide](https://blog.hubspot.com/marketing/how-to-write-introduction-quick-tip-ht)
     * tags: [blogging](../tags/blogging.md), [marketing](../tags/marketing.md)
+* [How to insert and highlight code in Jekyll blog post on Codingpedia.org – CodingpediaOrg](http://www.codingpedia.org/ama/how-to-insert-and-highlight-code-in-jekyll-blog-post-on-codingpedia-org)
+    * tags: [jekyll](../tags/jekyll.md), [markdown](../tags/markdown.md), [blogging](../tags/blogging.md)
+* [Themes · jekyll/jekyll Wiki · GitHub](https://github.com/jekyll/jekyll/wiki/Themes)
+    * tags: [jekyll](../tags/jekyll.md), [blogging](../tags/blogging.md)

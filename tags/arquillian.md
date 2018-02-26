@@ -20,3 +20,5 @@ arquillian
 * [ShrinkWrap Resolver · Arquillian](http://arquillian.org/modules/resolver-shrinkwrap/)
     * tags: [arquillian](../tags/arquillian.md), [shrinkwrap](../tags/shrinkwrap.md)
     * :octocat: [github url](https://github.com/shrinkwrap/resolver)
+* [Testing Java Persistence · Arquillian Guides](http://arquillian.org/guides/testing_java_persistence/)
+    * tags: [arquillian](../tags/arquillian.md), [java](../tags/java.md), [jpa](../tags/jpa.md)

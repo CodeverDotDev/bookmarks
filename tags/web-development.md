@@ -23,6 +23,3 @@ Query Strings Considered Harmful](http://web.archive.org/web/20070815111413/http
     * tags: [free-programming-books](../tags/free-programming-books.md), [free-programming-books-mm](../tags/free-programming-books-mm.md), [web-development](../tags/web-development.md)
 * [Rockstar Developer](http://eimaung.com/rockstar-developer)
     * tags: [free-programming-books](../tags/free-programming-books.md), [free-programming-books-mm](../tags/free-programming-books-mm.md), [web-development](../tags/web-development.md)
-* [AIS Technolabs](https://www.aistechnolabs.com/)
-    * :calendar: published on: 2018-02-14
-    * tags: [Web-Development](../tags/Web-Development.md), [Website-Design](../tags/Website-Design.md)

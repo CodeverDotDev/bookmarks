@@ -24,3 +24,5 @@ logging
 * [GitHub - iccicci/rotating-file-stream](https://github.com/iccicci/rotating-file-stream)
     * tags: [nodejs](../tags/nodejs.md), [logging](../tags/logging.md)
     * :octocat: [github url](https://github.com/iccicci/rotating-file-stream)
+* [Apache Log4j 2](https://logging.apache.org/log4j/2.x/)
+    * tags: [log4j](../tags/log4j.md), [logging](../tags/logging.md)
