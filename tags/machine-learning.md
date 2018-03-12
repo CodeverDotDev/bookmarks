@@ -38,3 +38,7 @@ machine-learning
     * tags: [machine-learning](../tags/machine-learning.md), [free-programming-books](../tags/free-programming-books.md), [language-agnostic](../tags/language-agnostic.md)
 * [The Python Game Book](http://thepythongamebook.com/en%3Astart)
     * tags: [machine-learning](../tags/machine-learning.md), [free-programming-books](../tags/free-programming-books.md), [language-agnostic](../tags/language-agnostic.md)
+* [Machine Learning From Scratch: The Perceptron Model - YouTube](https://www.youtube.com/watch?v=iumlHzoVlJM)
+    * :calendar: published on: 2018-02-25
+    * tags: [javascript](../tags/javascript.md), [machine-learning](../tags/machine-learning.md)
+    * :octocat: [github url](https://github.com/jg-fisher/perceptronJS)

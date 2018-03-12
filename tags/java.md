@@ -364,3 +364,10 @@ java
     * tags: [java](../tags/java.md), [javaee](../tags/javaee.md), [jaxrs](../tags/jaxrs.md), [jersey](../tags/jersey.md), [rest](../tags/rest.md)
 * [Testing Java Persistence · Arquillian Guides](http://arquillian.org/guides/testing_java_persistence/)
     * tags: [arquillian](../tags/arquillian.md), [java](../tags/java.md), [jpa](../tags/jpa.md)
+* [Composition versus Inheritance](https://www.artima.com/designtechniques/compoinh.html)
+    * :calendar: published on: 98-01-01
+    * tags: [oop](../tags/oop.md), [java](../tags/java.md)
+* [How To Serialize Enums as JSON Objects with Jackson](http://www.baeldung.com/jackson-serialize-enums)
+    * :calendar: published on: 2017-07-19
+    * tags: [java](../tags/java.md), [json](../tags/json.md)
+    * :octocat: [github url](https://github.com/eugenp/tutorials/tree/master/jackson#readme)

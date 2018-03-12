@@ -9,3 +9,7 @@ websocket
     * tags: [javaee](../tags/javaee.md), [websocket](../tags/websocket.md)
 * [HTML Standard - Websocket](https://html.spec.whatwg.org/multipage/web-sockets.html)
     * tags: [html](../tags/html.md), [websocket](../tags/websocket.md), [specification](../tags/specification.md)
+* [Building a Node.js WebSocket Chat App with Socket.io and React](https://itnext.io/building-a-node-js-websocket-chat-app-with-socket-io-and-react-473a0686d1e1)
+    * :calendar: published on: 2018-02-22
+    * tags: [nodejs](../tags/nodejs.md), [reactjs](../tags/reactjs.md), [websocket](../tags/websocket.md)
+    * :octocat: [github url](https://github.com/justadudewhohacks/websocket-chat)

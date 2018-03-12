@@ -29,3 +29,5 @@ jekyll
     * tags: [jekyll](../tags/jekyll.md), [markdown](../tags/markdown.md), [blogging](../tags/blogging.md)
 * [Themes · jekyll/jekyll Wiki · GitHub](https://github.com/jekyll/jekyll/wiki/Themes)
     * tags: [jekyll](../tags/jekyll.md), [blogging](../tags/blogging.md)
+* [Using Jekyll as a static site generator with GitHub Pages - User Documentation        ](https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/)
+    * tags: [github-pages](../tags/github-pages.md), [jekyll](../tags/jekyll.md), [docs](../tags/docs.md)

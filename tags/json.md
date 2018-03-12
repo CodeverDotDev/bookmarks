@@ -13,3 +13,7 @@ json
 * [JSON Hijacking | You’ve Been Haacked](https://haacked.com/archive/2009/06/25/json-hijacking.aspx/)
     * :calendar: published on: 2009-06-25
     * tags: [json](../tags/json.md), [security](../tags/security.md)
+* [How To Serialize Enums as JSON Objects with Jackson](http://www.baeldung.com/jackson-serialize-enums)
+    * :calendar: published on: 2017-07-19
+    * tags: [java](../tags/java.md), [json](../tags/json.md)
+    * :octocat: [github url](https://github.com/eugenp/tutorials/tree/master/jackson#readme)

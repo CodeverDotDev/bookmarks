@@ -49,3 +49,8 @@ microservices
     * :calendar: published on: 2018-02-07
     * tags: [microservices](../tags/microservices.md), [rest](../tags/rest.md), [graphql](../tags/graphql.md)
     * :octocat: [github url](https://github.com/fireproofsocks/graphql-example)
+* [Implementing Microservice Discovery in 100 Lines of Node.js ](https://github.com/asyncanup/vasco/blob/33b878b3ae43f2c75197ea3e93afa0876ce990de/vasco-talk.pdf)
+    * tags: [microservices](../tags/microservices.md), [nodejs](../tags/nodejs.md)
+* [Moleculer - Fast & powerful microservices framework for NodeJS](https://moleculer.services/)
+    * tags: [nodejs](../tags/nodejs.md), [microservices](../tags/microservices.md)
+    * :octocat: [github url](https://github.com/moleculerjs/moleculer)

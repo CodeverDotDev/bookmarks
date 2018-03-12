@@ -184,3 +184,5 @@ ruby
     * tags: [free-programming-books](../tags/free-programming-books.md), [free-programming-books-pt_BR](../tags/free-programming-books-pt_BR.md), [ruby](../tags/ruby.md)
 * [مقدمة في روبي ](http://librebooks.org/intro-to-ruby/)
     * tags: [free-programming-books](../tags/free-programming-books.md), [free-programming-books-ar](../tags/free-programming-books-ar.md), [ruby](../tags/ruby.md)
+* [Bundler - The best way to manage a Ruby application's gems    ](http://bundler.io/docs.html)
+    * tags: [ruby](../tags/ruby.md), [docs](../tags/docs.md)

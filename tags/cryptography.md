@@ -13,3 +13,8 @@ Khan Academy](https://www.khanacademy.org/computing/computer-science/cryptograph
 * [Public Key Cryptography: RSA Encryption Algorithm - YouTube](https://www.youtube.com/watch?v=wXB-V_Keiu8)
     * :calendar: published on: 2012-07-30
     * tags: [security](../tags/security.md), [cryptography](../tags/cryptography.md), [encryption](../tags/encryption.md), [rsa](../tags/rsa.md)
+* [Randomness and Entropy - An Introduction](https://www.sans.org/reading-room/whitepapers/vpns/randomness-entropy-introduction-874)
+    * tags: [cryptography](../tags/cryptography.md)
+* [Weaknesses in Modern Cryptography](https://www.giac.org/paper/gsec/634/weakness-modern-cryptography/101458)
+    * :calendar: published on: 2002-01-01
+    * tags: [cryptography](../tags/cryptography.md)

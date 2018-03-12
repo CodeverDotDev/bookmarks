@@ -87,7 +87,7 @@ Khan Academy](https://www.khanacademy.org/computing/computer-science/cryptograph
     * :calendar: published on: 2012-07-30
     * tags: [security](../tags/security.md), [cryptography](../tags/cryptography.md), [encryption](../tags/encryption.md), [rsa](../tags/rsa.md)
 * [Spoofing attack - Wikipedia](https://en.wikipedia.org/wiki/Spoofing_attack)
-    * tags: [network](../tags/network.md), [security](../tags/security.md)
+    * tags: [networking](../tags/networking.md), [security](../tags/security.md)
 * [Ransomware - Wikipedia](https://en.wikipedia.org/wiki/Ransomware)
     * tags: [security](../tags/security.md)
 * [STRIDE (security) - Wikipedia](https://en.wikipedia.org/wiki/STRIDE_(security))
@@ -111,3 +111,8 @@ Khan Academy](https://www.khanacademy.org/computing/computer-science/cryptograph
 * [AWS Security Best Practices](https://d1.awsstatic.com/whitepapers/Security/AWS_Security_Best_Practices.pdf)
     * :calendar: published on: 2016-08-01
     * tags: [cloud](../tags/cloud.md), [security](../tags/security.md), [aws](../tags/aws.md)
+* [An Introduction To Securing a Cloud Environment](https://www.sans.org/reading-room/whitepapers/cloud/introduction-securing-cloud-environment-34052)
+    * :calendar: published on: 2012-01-01
+    * tags: [cloud](../tags/cloud.md), [security](../tags/security.md)
+* [The Essential Guide to Machine Data](https://www.splunk.com/pdfs/ebooks/the-essential-guide-to-machine-data.pdf)
+    * tags: [security](../tags/security.md), [splunk](../tags/splunk.md), [big-data](../tags/big-data.md), [cloud](../tags/cloud.md)

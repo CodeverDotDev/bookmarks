@@ -30,3 +30,7 @@ networking
     * tags: [free-programming-books](../tags/free-programming-books.md), [language-agnostic](../tags/language-agnostic.md), [networking](../tags/networking.md)
 * [Virtual LAN - Wikipedia](https://en.wikipedia.org/wiki/Virtual_LAN)
     * tags: [security](../tags/security.md), [networking](../tags/networking.md)
+* [Spoofing attack - Wikipedia](https://en.wikipedia.org/wiki/Spoofing_attack)
+    * tags: [networking](../tags/networking.md), [security](../tags/security.md)
+* [Bufferbloat - Wikipedia](https://en.wikipedia.org/wiki/Bufferbloat)
+    * tags: [networking](../tags/networking.md)

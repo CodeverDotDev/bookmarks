@@ -511,3 +511,10 @@ javascript
     * :octocat: [github url](https://github.com/moment/moment/)
 * [undefined - JavaScript MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined)
     * tags: [javascript](../tags/javascript.md)
+* [Socket.IO](https://socket.io/)
+    * tags: [nodejs](../tags/nodejs.md), [javascript](../tags/javascript.md)
+    * :octocat: [github url](https://github.com/socketio/socket.io/)
+* [Machine Learning From Scratch: The Perceptron Model - YouTube](https://www.youtube.com/watch?v=iumlHzoVlJM)
+    * :calendar: published on: 2018-02-25
+    * tags: [javascript](../tags/javascript.md), [machine-learning](../tags/machine-learning.md)
+    * :octocat: [github url](https://github.com/jg-fisher/perceptronJS)

@@ -202,3 +202,9 @@ angular
 * [Conduit - angular example](https://angular2.realworld.io/)
     * tags: [angular](../tags/angular.md)
     * :octocat: [github url](https://github.com/gothinkster/angular-realworld-example-app)
+* [Handling Observables with NgIf and the Async Pipe](https://toddmotto.com/angular-ngif-async-pipe)
+    * :calendar: published on: 2018-01-12
+    * tags: [angular](../tags/angular.md)
+* [Home · angular/flex-layout Wiki · GitHub](https://github.com/angular/flex-layout/wiki)
+    * tags: [angular](../tags/angular.md), [flexbox](../tags/flexbox.md), [typescript](../tags/typescript.md)
+    * :octocat: [github url](https://github.com/angular/flex-layout)

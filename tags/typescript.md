@@ -56,3 +56,12 @@ typescript
     * :calendar: published on: 2017-07-03
     * tags: [nodejs](../tags/nodejs.md), [expressjs](../tags/expressjs.md), [mongodb](../tags/mongodb.md), [mongoose](../tags/mongoose.md), [typescript](../tags/typescript.md)
     * :octocat: [github url](https://github.com/iamclaytonray/tes)
+* [Pandora.js - Ready to Boot](http://www.midwayjs.org/pandora/en/)
+    * tags: [nodejs](../tags/nodejs.md), [typescript](../tags/typescript.md)
+    * :octocat: [github url](https://github.com/midwayjs/pandora/)
+* [Home · angular/flex-layout Wiki · GitHub](https://github.com/angular/flex-layout/wiki)
+    * tags: [angular](../tags/angular.md), [flexbox](../tags/flexbox.md), [typescript](../tags/typescript.md)
+    * :octocat: [github url](https://github.com/angular/flex-layout)
+* [Declaration Merging     ](https://www.typescriptlang.org/docs/handbook/declaration-merging.html)
+    * tags: [typescript](../tags/typescript.md)
+    * :octocat: [github url](https://github.com/Microsoft/TypeScript)

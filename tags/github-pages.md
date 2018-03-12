@@ -7,3 +7,7 @@ github-pages
 * [Staticman: Static sites with superpowers](https://staticman.net/)
     * tags: [blogging](../tags/blogging.md), [github-pages](../tags/github-pages.md), [jekyll](../tags/jekyll.md)
     * :octocat: [github url](https://github.com/eduardoboucas/staticman)
+* [Collection: GitHub Pages examples · GitHub](https://github.com/collections/github-pages-examples)
+    * tags: [github](../tags/github.md), [github-pages](../tags/github-pages.md)
+* [Using Jekyll as a static site generator with GitHub Pages - User Documentation        ](https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/)
+    * tags: [github-pages](../tags/github-pages.md), [jekyll](../tags/jekyll.md), [docs](../tags/docs.md)

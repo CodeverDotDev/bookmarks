@@ -18,3 +18,7 @@ reactjs
     * :calendar: published on: 2017-10-10
     * tags: [javascript](../tags/javascript.md), [reactjs](../tags/reactjs.md)
     * :octocat: [github url](https://github.com/facebook/create-react-app/tree/master)
+* [Building a Node.js WebSocket Chat App with Socket.io and React](https://itnext.io/building-a-node-js-websocket-chat-app-with-socket-io-and-react-473a0686d1e1)
+    * :calendar: published on: 2018-02-22
+    * tags: [nodejs](../tags/nodejs.md), [reactjs](../tags/reactjs.md), [websocket](../tags/websocket.md)
+    * :octocat: [github url](https://github.com/justadudewhohacks/websocket-chat)
