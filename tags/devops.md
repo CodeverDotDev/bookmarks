@@ -10,3 +10,9 @@ devops
     * tags: [nodejs](../tags/nodejs.md), [devops](../tags/devops.md)
 * [The Twelve-Factor App ](https://12factor.net/)
     * tags: [devops](../tags/devops.md), [saas](../tags/saas.md), [web-app](../tags/web-app.md)
+* [How Puppet works ](https://puppet.com/products/how-puppet-works)
+    * tags: [puppet](../tags/puppet.md), [devops](../tags/devops.md)
+    * :octocat: [github url](https://github.com/puppetlabs/puppet)
+* [What is DevOps? - Puppet](https://puppet.com/blog/what-is-devops)
+    * :calendar: published on: 2017-01-30
+    * tags: [devops](../tags/devops.md)

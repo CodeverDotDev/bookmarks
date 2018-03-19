@@ -132,7 +132,7 @@ nodejs
     * tags: [nodejs](../tags/nodejs.md), [logging](../tags/logging.md)
     * :octocat: [github url](https://github.com/winstonjs/winston)
 * [GitHub - trentm/node-bunyan](https://github.com/trentm/node-bunyan)
-    * tags: [nodejs](../tags/nodejs.md), [loggin](../tags/loggin.md)
+    * tags: [nodejs](../tags/nodejs.md), [logging](../tags/logging.md)
     * :octocat: [github url](https://github.com/trentm/node-bunyan)
 * [winston/transports.md at master · winstonjs/winston · GitHub](https://github.com/winstonjs/winston/blob/master/docs/transports.md)
     * tags: [nodejs](../tags/nodejs.md), [logging](../tags/logging.md)

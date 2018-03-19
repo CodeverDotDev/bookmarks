@@ -116,3 +116,5 @@ Khan Academy](https://www.khanacademy.org/computing/computer-science/cryptograph
     * tags: [cloud](../tags/cloud.md), [security](../tags/security.md)
 * [The Essential Guide to Machine Data](https://www.splunk.com/pdfs/ebooks/the-essential-guide-to-machine-data.pdf)
     * tags: [security](../tags/security.md), [splunk](../tags/splunk.md), [big-data](../tags/big-data.md), [cloud](../tags/cloud.md)
+* [Role-based access control - Wikipedia](https://en.wikipedia.org/wiki/Role-based_access_control)
+    * tags: [security](../tags/security.md), [roles](../tags/roles.md), [access-control](../tags/access-control.md)

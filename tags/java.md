@@ -371,3 +371,10 @@ java
     * :calendar: published on: 2017-07-19
     * tags: [java](../tags/java.md), [json](../tags/json.md)
     * :octocat: [github url](https://github.com/eugenp/tutorials/tree/master/jackson#readme)
+* ["Stream has already been operated upon or closed" Exception in Java](http://www.baeldung.com/java-stream-operated-upon-or-closed-exception)
+    * :calendar: published on: 2017-10-29
+    * tags: [java](../tags/java.md)
+    * :octocat: [github url](https://github.com/eugenp/tutorials/tree/master/core-java-8)
+* [Java Volatile Keyword](http://tutorials.jenkov.com/java-concurrency/volatile.html)
+    * :calendar: published on: 2018-03-08
+    * tags: [java](../tags/java.md)

@@ -63,3 +63,6 @@ Query Strings Considered Harmful](http://web.archive.org/web/20070815111413/http
 * [REST with Java (JAX-RS) using Jersey - Tutorial](http://www.vogella.com/tutorials/REST/article.html)
     * :calendar: published on: 2017-11-27
     * tags: [java](../tags/java.md), [javaee](../tags/javaee.md), [jaxrs](../tags/jaxrs.md), [jersey](../tags/jersey.md), [rest](../tags/rest.md)
+* [The RESTful cookbook](http://restcookbook.com/)
+    * tags: [rest](../tags/rest.md), [free-programming-books](../tags/free-programming-books.md)
+    * :octocat: [github url](http://github.com/restcookbook/restcookbook)

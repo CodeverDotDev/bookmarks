@@ -5428,3 +5428,8 @@ free-programming-books
     * tags: [java](../tags/java.md), [jaxrs](../tags/jaxrs.md), [javaee](../tags/javaee.md), [free-programming-books](../tags/free-programming-books.md), [rest-client](../tags/rest-client.md)
 * [An Introduction to Programming in Go](https://www.golang-book.com/books/intro)
     * tags: [go](../tags/go.md), [free-programming-books](../tags/free-programming-books.md)
+* [The RESTful cookbook](http://restcookbook.com/)
+    * tags: [rest](../tags/rest.md), [free-programming-books](../tags/free-programming-books.md)
+    * :octocat: [github url](http://github.com/restcookbook/restcookbook)
+* [Puppet Cookbook](https://www.puppetcookbook.com/)
+    * tags: [puppet](../tags/puppet.md), [free-programming-books](../tags/free-programming-books.md)

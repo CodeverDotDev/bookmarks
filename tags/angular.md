@@ -208,3 +208,9 @@ angular
 * [Home · angular/flex-layout Wiki · GitHub](https://github.com/angular/flex-layout/wiki)
     * tags: [angular](../tags/angular.md), [flexbox](../tags/flexbox.md), [typescript](../tags/typescript.md)
     * :octocat: [github url](https://github.com/angular/flex-layout)
+* [Two-way Data Binding in Angular by thoughtram](https://blog.thoughtram.io/angular/2016/10/13/two-way-data-binding-in-angular-2.html)
+    * :calendar: published on: 2016-12-18
+    * tags: [angular](../tags/angular.md)
+* [Custom Form Controls in Angular by thoughtram](https://blog.thoughtram.io/angular/2016/07/27/custom-form-controls-in-angular-2.html)
+    * :calendar: published on: 2016-12-18
+    * tags: [angular](../tags/angular.md)
