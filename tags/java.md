@@ -378,3 +378,9 @@ java
 * [Java Volatile Keyword](http://tutorials.jenkov.com/java-concurrency/volatile.html)
     * :calendar: published on: 2018-03-08
     * tags: [java](../tags/java.md)
+* [Introduction to Testing with Arquillian](http://www.baeldung.com/arquillian)
+    * :calendar: published on: 2017-11-30
+    * tags: [testing](../tags/testing.md), [java](../tags/java.md), [javaee](../tags/javaee.md), [arquillian](../tags/arquillian.md)
+    * :octocat: [github url](https://github.com/eugenp/tutorials/tree/master/jee-7)
+* [Converting array to list in Java - Stack Overflow](https://stackoverflow.com/questions/2607289/converting-array-to-list-in-java)
+    * tags: [java](../tags/java.md)

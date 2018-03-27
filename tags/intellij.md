@@ -10,3 +10,5 @@ intellij
     * tags: [java](../tags/java.md), [intellij](../tags/intellij.md)
 * [Reformatting Source Code - Help | IntelliJ IDEA](https://www.jetbrains.com/help/idea/reformatting-source-code.html)
     * tags: [IntelliJ](../tags/IntelliJ.md)
+* [Debugging JavaScript in Chrome - Help](https://www.jetbrains.com/help/idea/debugging-javascript-in-chrome.html)
+    * tags: [intellij](../tags/intellij.md), [javascript](../tags/javascript.md), [debugging](../tags/debugging.md)

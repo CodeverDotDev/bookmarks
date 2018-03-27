@@ -69,3 +69,16 @@ testing
 * [Writing Your F.I.R.S.T Unit Tests - DZone Java](https://dzone.com/articles/writing-your-first-unit-tests)
     * :calendar: published on: 2017-03-17
     * tags: [testing](../tags/testing.md), [unit-testing](../tags/unit-testing.md), [clean-code](../tags/clean-code.md)
+* [Introduction to Testing with Arquillian](http://www.baeldung.com/arquillian)
+    * :calendar: published on: 2017-11-30
+    * tags: [testing](../tags/testing.md), [java](../tags/java.md), [javaee](../tags/javaee.md), [arquillian](../tags/arquillian.md)
+    * :octocat: [github url](https://github.com/eugenp/tutorials/tree/master/jee-7)
+* [Arquillian and Wildfly: Integration test tutorial](https://www.softwareyoga.com/arquillian-and-wildfly-integration-test-tutorial/)
+    * :calendar: published on: 2015-10-27
+    * tags: [testing](../tags/testing.md), [javaee](../tags/javaee.md), [arquillian](../tags/arquillian.md)
+    * :octocat: [github url](https://github.com/softwareyoga/arquillian-wildfly-basic-tutorial)
+* [Test run modes - Arquillian - Project Documentation Editor](https://docs.jboss.org/author/display/ARQ/Test+run+modes)
+    * tags: [arquillian](../tags/arquillian.md), [testing](../tags/testing.md)
+* [Calen Legaspi: Separating Integration Tests from Unit Tests Using Maven Failsafe & JUnit @Category](http://calenlegaspi.blogspot.ch/2015/01/separating-integration-tests-from-unit.html)
+    * :calendar: published on: 2015-01-23
+    * tags: [testing](../tags/testing.md), [unit-testing](../tags/unit-testing.md), [maven](../tags/maven.md)

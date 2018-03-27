@@ -39,3 +39,6 @@ npm
     * :octocat: [github url](https://github.com/sindresorhus/got)
 * [npm install gets stuck at sill install loadIdealTree · Issue #17228 · npm/npm · GitHub](https://github.com/npm/npm/issues/17228)
     * tags: [nodejs](../tags/nodejs.md), [npm](../tags/npm.md)
+* [GitHub - peerigon/updtr: Update outdated npm modules with zero pain™](https://github.com/peerigon/updtr)
+    * tags: [npm](../tags/npm.md)
+    * :octocat: [github url](https://github.com/peerigon/updtr)

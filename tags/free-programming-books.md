@@ -5433,3 +5433,6 @@ free-programming-books
     * :octocat: [github url](http://github.com/restcookbook/restcookbook)
 * [Puppet Cookbook](https://www.puppetcookbook.com/)
     * tags: [puppet](../tags/puppet.md), [free-programming-books](../tags/free-programming-books.md)
+* [Introduction RxJS - Javascript library for functional reactive programming.](http://xgrommx.github.io/rx-book/)
+    * tags: [rxjs](../tags/rxjs.md), [javascript](../tags/javascript.md), [free-programming-books](../tags/free-programming-books.md)
+    * :octocat: [github url](https://github.com/xgrommx/rx-book/)

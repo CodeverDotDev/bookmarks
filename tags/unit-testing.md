@@ -44,3 +44,6 @@ unit-testing
 * [Writing Your F.I.R.S.T Unit Tests - DZone Java](https://dzone.com/articles/writing-your-first-unit-tests)
     * :calendar: published on: 2017-03-17
     * tags: [testing](../tags/testing.md), [unit-testing](../tags/unit-testing.md), [clean-code](../tags/clean-code.md)
+* [Calen Legaspi: Separating Integration Tests from Unit Tests Using Maven Failsafe & JUnit @Category](http://calenlegaspi.blogspot.ch/2015/01/separating-integration-tests-from-unit.html)
+    * :calendar: published on: 2015-01-23
+    * tags: [testing](../tags/testing.md), [unit-testing](../tags/unit-testing.md), [maven](../tags/maven.md)

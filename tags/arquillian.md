@@ -22,3 +22,13 @@ arquillian
     * :octocat: [github url](https://github.com/shrinkwrap/resolver)
 * [Testing Java Persistence · Arquillian Guides](http://arquillian.org/guides/testing_java_persistence/)
     * tags: [arquillian](../tags/arquillian.md), [java](../tags/java.md), [jpa](../tags/jpa.md)
+* [Introduction to Testing with Arquillian](http://www.baeldung.com/arquillian)
+    * :calendar: published on: 2017-11-30
+    * tags: [testing](../tags/testing.md), [java](../tags/java.md), [javaee](../tags/javaee.md), [arquillian](../tags/arquillian.md)
+    * :octocat: [github url](https://github.com/eugenp/tutorials/tree/master/jee-7)
+* [Arquillian and Wildfly: Integration test tutorial](https://www.softwareyoga.com/arquillian-and-wildfly-integration-test-tutorial/)
+    * :calendar: published on: 2015-10-27
+    * tags: [testing](../tags/testing.md), [javaee](../tags/javaee.md), [arquillian](../tags/arquillian.md)
+    * :octocat: [github url](https://github.com/softwareyoga/arquillian-wildfly-basic-tutorial)
+* [Test run modes - Arquillian - Project Documentation Editor](https://docs.jboss.org/author/display/ARQ/Test+run+modes)
+    * tags: [arquillian](../tags/arquillian.md), [testing](../tags/testing.md)

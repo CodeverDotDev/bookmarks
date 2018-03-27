@@ -518,3 +518,22 @@ javascript
     * :calendar: published on: 2018-02-25
     * tags: [javascript](../tags/javascript.md), [machine-learning](../tags/machine-learning.md)
     * :octocat: [github url](https://github.com/jg-fisher/perceptronJS)
+* [Introduction RxJS - Javascript library for functional reactive programming.](http://xgrommx.github.io/rx-book/)
+    * tags: [rxjs](../tags/rxjs.md), [javascript](../tags/javascript.md), [free-programming-books](../tags/free-programming-books.md)
+    * :octocat: [github url](https://github.com/xgrommx/rx-book/)
+* [Exploring EcmaScript Decorators – Google Developers – Medium](https://medium.com/google-developers/exploring-es7-decorators-76ecb65fb841)
+    * :calendar: published on: 2015-07-09
+    * tags: [javascript](../tags/javascript.md)
+* [GitHub - wycats/javascript-decorators](https://github.com/wycats/javascript-decorators)
+    * tags: [javascript](../tags/javascript.md)
+    * :octocat: [github url](https://github.com/wycats/javascript-decorators)
+* [Debugging JavaScript in Chrome - Help](https://www.jetbrains.com/help/idea/debugging-javascript-in-chrome.html)
+    * tags: [intellij](../tags/intellij.md), [javascript](../tags/javascript.md), [debugging](../tags/debugging.md)
+* [SheetJS - Home](https://sheetjs.com/)
+    * tags: [javascript](../tags/javascript.md)
+    * :octocat: [github url](https://github.com/SheetJS/js-xlsx)
+* [So how does JSONP really work? Some simple examples](http://schock.net/articles/2013/02/05/how-jsonp-really-works-examples/)
+    * :calendar: published on: 2013-02-05
+    * tags: [javascript](../tags/javascript.md), [jsonp](../tags/jsonp.md)
+* [ES6 In Depth – Mozilla Hacks – the Web developer blog](https://hacks.mozilla.org/category/es6-in-depth/)
+    * tags: [javascript](../tags/javascript.md), [ecmascript-6](../tags/ecmascript-6.md)

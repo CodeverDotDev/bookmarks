@@ -31,3 +31,6 @@ rxjs
 * [Learn to combine RxJs sequences with super intuitive interactive diagrams](https://blog.angularindepth.com/learn-to-combine-rxjs-sequences-with-super-intuitive-interactive-diagrams-20fce8e6511)
     * :calendar: published on: 2017-12-14
     * tags: [rxjs](../tags/rxjs.md)
+* [Introduction RxJS - Javascript library for functional reactive programming.](http://xgrommx.github.io/rx-book/)
+    * tags: [rxjs](../tags/rxjs.md), [javascript](../tags/javascript.md), [free-programming-books](../tags/free-programming-books.md)
+    * :octocat: [github url](https://github.com/xgrommx/rx-book/)

@@ -214,3 +214,12 @@ angular
 * [Custom Form Controls in Angular by thoughtram](https://blog.thoughtram.io/angular/2016/07/27/custom-form-controls-in-angular-2.html)
     * :calendar: published on: 2016-12-18
     * tags: [angular](../tags/angular.md)
+* [Angular's NgIf, Else, Then - Explained](https://toddmotto.com/angular-ngif-else-then)
+    * :calendar: published on: 2018-01-11
+    * tags: [angular](../tags/angular.md)
+* [RxJS: Understanding Lettable Operators – Angular In Depth](https://blog.angularindepth.com/rxjs-understanding-lettable-operators-fe74dda186d3)
+    * :calendar: published on: 2017-09-26
+    * tags: [angular](../tags/angular.md)
+* [Insider’s guide into interceptors and HttpClient mechanics in Angular](https://blog.angularindepth.com/insiders-guide-into-interceptors-and-httpclient-mechanics-in-angular-103fbdb397bf)
+    * :calendar: published on: 2018-01-09
+    * tags: [angular](../tags/angular.md), [http](../tags/http.md)

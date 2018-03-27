@@ -23,3 +23,6 @@ http
 * [Varnish HTTP Cache](https://varnish-cache.org/)
     * tags: [http](../tags/http.md), [caching](../tags/caching.md), [tools](../tags/tools.md), [varnish](../tags/varnish.md)
     * :octocat: [github url](https://github.com/varnishcache/varnish-cache)
+* [Insider’s guide into interceptors and HttpClient mechanics in Angular](https://blog.angularindepth.com/insiders-guide-into-interceptors-and-httpclient-mechanics-in-angular-103fbdb397bf)
+    * :calendar: published on: 2018-01-09
+    * tags: [angular](../tags/angular.md), [http](../tags/http.md)

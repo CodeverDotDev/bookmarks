@@ -31,3 +31,11 @@ javaee
 * [REST with Java (JAX-RS) using Jersey - Tutorial](http://www.vogella.com/tutorials/REST/article.html)
     * :calendar: published on: 2017-11-27
     * tags: [java](../tags/java.md), [javaee](../tags/javaee.md), [jaxrs](../tags/jaxrs.md), [jersey](../tags/jersey.md), [rest](../tags/rest.md)
+* [Introduction to Testing with Arquillian](http://www.baeldung.com/arquillian)
+    * :calendar: published on: 2017-11-30
+    * tags: [testing](../tags/testing.md), [java](../tags/java.md), [javaee](../tags/javaee.md), [arquillian](../tags/arquillian.md)
+    * :octocat: [github url](https://github.com/eugenp/tutorials/tree/master/jee-7)
+* [Arquillian and Wildfly: Integration test tutorial](https://www.softwareyoga.com/arquillian-and-wildfly-integration-test-tutorial/)
+    * :calendar: published on: 2015-10-27
+    * tags: [testing](../tags/testing.md), [javaee](../tags/javaee.md), [arquillian](../tags/arquillian.md)
+    * :octocat: [github url](https://github.com/softwareyoga/arquillian-wildfly-basic-tutorial)
