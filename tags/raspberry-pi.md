@@ -1,10 +1,10 @@
 raspberry-pi 
 ---
-* [Raspberry Pi Cookbook for Python Programmers](https://www.packtpub.com/packt/free-ebook/python-raspberry-pi-cookbook)
+* [راسبيري باي ببساطة ](http://librebooks.org/simply-raspberry-pi/)
+    * tags: [free-programming-books](../tags/free-programming-books.md), [free-programming-books-ar](../tags/free-programming-books-ar.md), [raspberry-pi](../tags/raspberry-pi.md)
+* [Raspberry Pi Users Guide](http://www.cs.unca.edu/~bruce/Fall14/360/RPiUsersGuide.pdf)
     * tags: [free-programming-books](../tags/free-programming-books.md), [raspberry-pi](../tags/raspberry-pi.md)
 * [Raspberry Pi: Measure, Record, Explore](https://leanpub.com/RPiMRE)
     * tags: [free-programming-books](../tags/free-programming-books.md), [raspberry-pi](../tags/raspberry-pi.md)
-* [Raspberry Pi Users Guide](http://www.cs.unca.edu/~bruce/Fall14/360/RPiUsersGuide.pdf)
+* [Raspberry Pi Cookbook for Python Programmers](https://www.packtpub.com/packt/free-ebook/python-raspberry-pi-cookbook)
     * tags: [free-programming-books](../tags/free-programming-books.md), [raspberry-pi](../tags/raspberry-pi.md)
-* [راسبيري باي ببساطة ](http://librebooks.org/simply-raspberry-pi/)
-    * tags: [free-programming-books](../tags/free-programming-books.md), [free-programming-books-ar](../tags/free-programming-books-ar.md), [raspberry-pi](../tags/raspberry-pi.md)
