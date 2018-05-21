@@ -1,5 +1,9 @@
 blog 
 ---
+* [Google Open Source Blog](https://opensource.googleblog.com/)
+    * tags: [open-source](../tags/open-source.md), [blog](../tags/blog.md)
+* [Angular Blog](https://blog.angular.io/)
+    * tags: [angular](../tags/angular.md), [blog](../tags/blog.md)
 * [Cloud Security Alliance Blog - Cloud Security Alliance Industry Blog](https://blog.cloudsecurityalliance.org/)
     * tags: [blog](../tags/blog.md), [cloud](../tags/cloud.md), [security](../tags/security.md)
 * [The NodeSource Blog](https://nodesource.com/blog/)

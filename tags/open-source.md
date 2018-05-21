@@ -1,5 +1,7 @@
 open-source 
 ---
+* [Google Open Source Blog](https://opensource.googleblog.com/)
+    * tags: [open-source](../tags/open-source.md), [blog](../tags/blog.md)
 * [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
     * tags: [free-programming-books](../tags/free-programming-books.md), [open-source](../tags/open-source.md)
 * [Google Open Source – opensource.google.com](https://opensource.google.com/)

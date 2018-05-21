@@ -1,5 +1,8 @@
 security 
 ---
+* [Computer Systems Security - MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/)
+    * :calendar: published on: 2014-01-01
+    * tags: [network](../tags/network.md), [security](../tags/security.md), [course](../tags/course.md)
 * [Data Encryption Methods to Secure Your Cloud - Agile IT](https://www.agileit.com/news/data-encryption-methods-secure-cloud/)
     * tags: [cloud](../tags/cloud.md), [security](../tags/security.md)
 * [Cloud Security Alliance Blog - Cloud Security Alliance Industry Blog](https://blog.cloudsecurityalliance.org/)

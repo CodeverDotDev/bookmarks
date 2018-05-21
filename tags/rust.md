@@ -1,5 +1,7 @@
 rust 
 ---
+* [The Rust Programming Language](https://www.rust-lang.org/en-US/)
+    * tags: [rust](../tags/rust.md)
 * [Язык программирования Rust](http://rurust.github.io/rust_book_ru/)
     * tags: [rust](../tags/rust.md), [free-programming-books](../tags/free-programming-books.md), [free-programming-books-ru](../tags/free-programming-books-ru.md)
 * [Растономикон](https://github.com/ruRust/rustonomicon)

@@ -1,5 +1,12 @@
 nodejs 
 ---
+* [Full guide to developing REST API’s with AWS API Gateway and AWS Lambda](https://blog.sourcerer.io/full-guide-to-developing-rest-apis-with-aws-api-gateway-and-aws-lambda-d254729d6992)
+    * :calendar: published on: 2018-05-09
+    * tags: [cloud](../tags/cloud.md), [serverless](../tags/serverless.md), [nodejs](../tags/nodejs.md), [aws](../tags/aws.md)
+* [GitHub - klauscfhq/signale: 👋 Hackable console logger](https://github.com/klauscfhq/signale)
+    * tags: [nodejs](../tags/nodejs.md), [logging](../tags/logging.md)
+* [Previous Releases Node.js](https://nodejs.org/en/download/releases/)
+    * tags: [nodejs](../tags/nodejs.md)
 * [Passport.js](http://www.passportjs.org/)
     * tags: [nodejs](../tags/nodejs.md), [security](../tags/security.md)
     * :octocat: [github url](https://github.com/jaredhanson/passport)

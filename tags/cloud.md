@@ -1,5 +1,8 @@
 cloud 
 ---
+* [Full guide to developing REST API’s with AWS API Gateway and AWS Lambda](https://blog.sourcerer.io/full-guide-to-developing-rest-apis-with-aws-api-gateway-and-aws-lambda-d254729d6992)
+    * :calendar: published on: 2018-05-09
+    * tags: [cloud](../tags/cloud.md), [serverless](../tags/serverless.md), [nodejs](../tags/nodejs.md), [aws](../tags/aws.md)
 * [Data Encryption Methods to Secure Your Cloud - Agile IT](https://www.agileit.com/news/data-encryption-methods-secure-cloud/)
     * tags: [cloud](../tags/cloud.md), [security](../tags/security.md)
 * [Cloud Security Alliance Blog - Cloud Security Alliance Industry Blog](https://blog.cloudsecurityalliance.org/)

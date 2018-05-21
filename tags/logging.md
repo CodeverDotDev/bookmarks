@@ -1,5 +1,7 @@
 logging 
 ---
+* [GitHub - klauscfhq/signale: 👋 Hackable console logger](https://github.com/klauscfhq/signale)
+    * tags: [nodejs](../tags/nodejs.md), [logging](../tags/logging.md)
 * [Apache Log4j 2](https://logging.apache.org/log4j/2.x/)
     * tags: [log4j](../tags/log4j.md), [logging](../tags/logging.md)
 * [GitHub - iccicci/rotating-file-stream](https://github.com/iccicci/rotating-file-stream)

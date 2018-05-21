@@ -1,5 +1,7 @@
 glossary 
 ---
+* [Request for Comments (RFC) - Wikipedia](https://en.wikipedia.org/wiki/Request_for_Comments)
+    * tags: [glossary](../tags/glossary.md)
 * [Site-to-site VPN](https://computer.howstuffworks.com/vpn4.htm)
     * tags: [glossary](../tags/glossary.md), [networking](../tags/networking.md), [vpn](../tags/vpn.md)
 * [Gartner IT Glossary](https://www.gartner.com/it-glossary/)
