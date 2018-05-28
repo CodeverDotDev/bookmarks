@@ -1,5 +1,8 @@
 go 
 ---
+* [Hashids - generate short unique ids from integers](https://hashids.org/)
+    * tags: [javascript](../tags/javascript.md), [ruby](../tags/ruby.md), [go](../tags/go.md), [java](../tags/java.md), [lua](../tags/lua.md), [security](../tags/security.md)
+    * :octocat: [github url](https://github.com/ivanakimov/hashids.js)
 * [The world’s fastest framework for building websites](https://gohugo.io/)
     * tags: [go](../tags/go.md), [blogging](../tags/blogging.md)
     * :octocat: [github url](https://github.com/gohugoio/hugo)

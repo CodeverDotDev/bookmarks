@@ -1,5 +1,12 @@
 cryptography 
 ---
+* [SSL/TLS  handshake Protocol - YouTube](https://www.youtube.com/watch?v=sEkw8ZcxtFk&list=PLSNNzog5eydtwsdT__t5WtRgvpfMzpTc7&index=5)
+    * :calendar: published on: 2018-02-11
+    * tags: [security](../tags/security.md), [cryptography](../tags/cryptography.md), [ssl](../tags/ssl.md), [tls](../tags/tls.md)
+* [What is digital signature? - YouTube](https://www.youtube.com/watch?v=TmA2QWSLSPg&list=PLSNNzog5eydtwsdT__t5WtRgvpfMzpTc7)
+    * tags: [security](../tags/security.md), [cryptography](../tags/cryptography.md)
+* [How does a public key verify a signature? - Stack Overflow](https://stackoverflow.com/questions/18257185/how-does-a-public-key-verify-a-signature/39210591#39210591)
+    * tags: [security](../tags/security.md), [cryptography](../tags/cryptography.md)
 * [Weaknesses in Modern Cryptography](https://www.giac.org/paper/gsec/634/weakness-modern-cryptography/101458)
     * :calendar: published on: 2002-01-01
     * tags: [cryptography](../tags/cryptography.md)

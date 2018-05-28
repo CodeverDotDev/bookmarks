@@ -1,5 +1,8 @@
 lua 
 ---
+* [Hashids - generate short unique ids from integers](https://hashids.org/)
+    * tags: [javascript](../tags/javascript.md), [ruby](../tags/ruby.md), [go](../tags/go.md), [java](../tags/java.md), [lua](../tags/lua.md), [security](../tags/security.md)
+    * :octocat: [github url](https://github.com/ivanakimov/hashids.js)
 * [Manual de Referência de Lua 5.2](http://www.lua.org/manual/5.2/pt/)
     * tags: [free-programming-books](../tags/free-programming-books.md), [lua](../tags/lua.md), [free-programming-books-pt_BR](../tags/free-programming-books-pt_BR.md)
 * [Luaプログラミング入門](http://densan-labs.net/tech/lua/)

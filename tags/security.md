@@ -1,5 +1,18 @@
 security 
 ---
+* [PKI -  trust & chain of trust -why, who and how? - YouTube](https://www.youtube.com/watch?v=LPxeYtMDxl0&list=PLSNNzog5eydtwsdT__t5WtRgvpfMzpTc7&index=4)
+    * :calendar: published on: 2018-02-03
+    * tags: [pki](../tags/pki.md), [security](../tags/security.md)
+* [SSL/TLS  handshake Protocol - YouTube](https://www.youtube.com/watch?v=sEkw8ZcxtFk&list=PLSNNzog5eydtwsdT__t5WtRgvpfMzpTc7&index=5)
+    * :calendar: published on: 2018-02-11
+    * tags: [security](../tags/security.md), [cryptography](../tags/cryptography.md), [ssl](../tags/ssl.md), [tls](../tags/tls.md)
+* [What is digital signature? - YouTube](https://www.youtube.com/watch?v=TmA2QWSLSPg&list=PLSNNzog5eydtwsdT__t5WtRgvpfMzpTc7)
+    * tags: [security](../tags/security.md), [cryptography](../tags/cryptography.md)
+* [How does a public key verify a signature? - Stack Overflow](https://stackoverflow.com/questions/18257185/how-does-a-public-key-verify-a-signature/39210591#39210591)
+    * tags: [security](../tags/security.md), [cryptography](../tags/cryptography.md)
+* [Hashids - generate short unique ids from integers](https://hashids.org/)
+    * tags: [javascript](../tags/javascript.md), [ruby](../tags/ruby.md), [go](../tags/go.md), [java](../tags/java.md), [lua](../tags/lua.md), [security](../tags/security.md)
+    * :octocat: [github url](https://github.com/ivanakimov/hashids.js)
 * [Computer Systems Security - MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/)
     * :calendar: published on: 2014-01-01
     * tags: [network](../tags/network.md), [security](../tags/security.md), [course](../tags/course.md)
@@ -41,7 +54,7 @@ security
 * [Ransomware - Wikipedia](https://en.wikipedia.org/wiki/Ransomware)
     * tags: [security](../tags/security.md)
 * [Spoofing attack - Wikipedia](https://en.wikipedia.org/wiki/Spoofing_attack)
-    * tags: [networking](../tags/networking.md), [security](../tags/security.md)
+    * tags: [networking](../tags/networking.md), [security](../tags/security.md), [glossary](../tags/glossary.md)
 * [Public Key Cryptography: RSA Encryption Algorithm - YouTube](https://www.youtube.com/watch?v=wXB-V_Keiu8)
     * :calendar: published on: 2012-07-30
     * tags: [security](../tags/security.md), [cryptography](../tags/cryptography.md), [encryption](../tags/encryption.md), [rsa](../tags/rsa.md)

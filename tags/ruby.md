@@ -1,5 +1,8 @@
 ruby 
 ---
+* [Hashids - generate short unique ids from integers](https://hashids.org/)
+    * tags: [javascript](../tags/javascript.md), [ruby](../tags/ruby.md), [go](../tags/go.md), [java](../tags/java.md), [lua](../tags/lua.md), [security](../tags/security.md)
+    * :octocat: [github url](https://github.com/ivanakimov/hashids.js)
 * [RailsConf 2014 - All the Little Things by Sandi Metz - YouTube](https://www.youtube.com/watch?v=8bZh5LMaSmE)
     * :calendar: published on: 2014-05-21
     * tags: [ruby](../tags/ruby.md)

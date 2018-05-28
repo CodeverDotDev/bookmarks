@@ -1,5 +1,7 @@
 database 
 ---
+* [Transaction log - Wikipedia](https://en.wikipedia.org/wiki/Transaction_log)
+    * tags: [database](../tags/database.md), [glossary](../tags/glossary.md)
 * [What is Database Design, Anyway?](http://www.oreilly.com/data/free/what-is-database-design-anyway.csp)
     * tags: [free-programming-books](../tags/free-programming-books.md), [database](../tags/database.md), [language-agnostic](../tags/language-agnostic.md)
 * [The Theory of Relational Databases](http://web.cecs.pdx.edu/~maier/TheoryBook/TRD.html)

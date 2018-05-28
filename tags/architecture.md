@@ -1,5 +1,14 @@
 architecture 
 ---
+* [Apache Kafka as an Event-Driven Backbone for Service Architectures](https://www.confluent.io/blog/apache-kafka-for-service-architectures/)
+    * :calendar: published on: 2017-07-19
+    * tags: [apache-kafka](../tags/apache-kafka.md), [architecture](../tags/architecture.md)
+* [How Apache Kafka Inspired Our Platform Events Architecture](https://engineering.salesforce.com/how-apache-kafka-inspired-our-platform-events-architecture-2f351fe4cf63)
+    * :calendar: published on: 2018-02-01
+    * tags: [apache-kafka](../tags/apache-kafka.md), [architecture](../tags/architecture.md), [async](../tags/async.md)
+* [Sharding & IDs at Instagram – Instagram Engineering](https://instagram-engineering.com/sharding-ids-at-instagram-1cf5a71e5a5c)
+    * :calendar: published on: 2012-12-30
+    * tags: [architecture](../tags/architecture.md)
 * [Application-level multi-tenancy: the promise and pitfalls of shared-everything architectures](https://distrinet.cs.kuleuven.be/news/2015/multitenancy.pdf)
     * tags: [multi-tenant](../tags/multi-tenant.md), [architecture](../tags/architecture.md), [saas](../tags/saas.md), [cloud](../tags/cloud.md)
 * [Multi-tenant SaaS patterns - Azure SQL Database](https://docs.microsoft.com/en-us/azure/sql-database/saas-tenancy-app-design-patterns)

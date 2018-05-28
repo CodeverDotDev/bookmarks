@@ -1,5 +1,12 @@
 async 
 ---
+* [Zuul 2 : The Netflix Journey to Asynchronous, Non-Blocking Systems](https://medium.com/netflix-techblog/zuul-2-the-netflix-journey-to-asynchronous-non-blocking-systems-45947377fb5c)
+    * :calendar: published on: 2016-09-21
+    * tags: [async](../tags/async.md)
+    * :octocat: [github url](https://github.com/netflix/zuul/)
+* [How Apache Kafka Inspired Our Platform Events Architecture](https://engineering.salesforce.com/how-apache-kafka-inspired-our-platform-events-architecture-2f351fe4cf63)
+    * :calendar: published on: 2018-02-01
+    * tags: [apache-kafka](../tags/apache-kafka.md), [architecture](../tags/architecture.md), [async](../tags/async.md)
 * [Netty: Home](https://netty.io/)
     * tags: [async](../tags/async.md), [event-driven](../tags/event-driven.md)
     * :octocat: [github url](https://github.com/netty/netty)
