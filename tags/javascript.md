@@ -1,5 +1,16 @@
 javascript 
 ---
+* [Async programming basics every JS developer should know in 2018](https://dev.to/siwalik/async-programming-basics-every-js-developer-should-know-in-2018-a9c)
+    * :calendar: published on: 2018-06-14
+    * tags: [javascript](../tags/javascript.md)
+* [javascript - Error: request entity too large - Stack Overflow](https://stackoverflow.com/questions/19917401/error-request-entity-too-large)
+    * tags: [expressjs](../tags/expressjs.md), [javascript](../tags/javascript.md)
+* [D3.js - Data-Driven Documents](https://d3js.org/)
+    * tags: [javascript](../tags/javascript.md), [html](../tags/html.md), [svg](../tags/svg.md), [css](../tags/css.md)
+    * :octocat: [github url](https://github.com/d3/d3)
+* [Interactive JavaScript charts for your webpage](https://www.highcharts.com/)
+    * tags: [javascript](../tags/javascript.md)
+    * :octocat: [github url](https://github.com/highcharts/highcharts)
 * [Hashids - generate short unique ids from integers](https://hashids.org/)
     * tags: [javascript](../tags/javascript.md), [ruby](../tags/ruby.md), [go](../tags/go.md), [java](../tags/java.md), [lua](../tags/lua.md), [security](../tags/security.md)
     * :octocat: [github url](https://github.com/ivanakimov/hashids.js)

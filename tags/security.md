@@ -1,5 +1,24 @@
 security 
 ---
+* [Internet X.509 Public Key Infrastructure Certificate and Certificate Revocation List (CRL) Profile](https://tools.ietf.org/html/rfc5280)
+    * tags: [security](../tags/security.md), [cryptography](../tags/cryptography.md), [x509](../tags/x509.md), [rfc](../tags/rfc.md)
+* [Cryptography and IT Security](http://www.crypto-it.net/eng/index.html)
+    * tags: [security](../tags/security.md), [cryptography](../tags/cryptography.md)
+* [Confidentiality-Preserving Publish/Subscribe: a Survey](https://arxiv.org/pdf/1705.09404.pdf)
+    * :calendar: published on: 2016-01-01
+    * tags: [security](../tags/security.md), [publish-subscribe](../tags/publish-subscribe.md)
+* [Publish-Subscribe Threat Modeling – Security Compass](https://blog.securitycompass.com/publish-subscribe-threat-modeling-11add54f1d07)
+    * :calendar: published on: 2016-11-21
+    * tags: [publish-subscribe](../tags/publish-subscribe.md), [security](../tags/security.md)
+* [RSA Signing and Encryption in Java](http://niels.nu/blog/2016/java-rsa.html)
+    * :calendar: published on: 2016-12-29
+    * tags: [java](../tags/java.md), [cryptography](../tags/cryptography.md), [security](../tags/security.md)
+    * :octocat: [github url](https://gist.github.com/nielsutrecht/855f3bef0cf559d8d23e94e2aecd4ede)
+* [Web security](https://developer.mozilla.org/en-US/docs/Web/Security)
+    * tags: [web](../tags/web.md), [security](../tags/security.md)
+* [Common Phishing Scams and How to Recognize and Avoid them](https://www.comparitech.com/blog/information-security/common-phishing-scams-how-to-avoid/)
+    * :calendar: published on: 2018-04-28
+    * tags: [security](../tags/security.md)
 * [PKI -  trust & chain of trust -why, who and how? - YouTube](https://www.youtube.com/watch?v=LPxeYtMDxl0&list=PLSNNzog5eydtwsdT__t5WtRgvpfMzpTc7&index=4)
     * :calendar: published on: 2018-02-03
     * tags: [pki](../tags/pki.md), [security](../tags/security.md)

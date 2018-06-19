@@ -1,5 +1,7 @@
 web 
 ---
+* [Web security](https://developer.mozilla.org/en-US/docs/Web/Security)
+    * tags: [web](../tags/web.md), [security](../tags/security.md)
 * [Emoji cheat sheet for GitHub, Basecamp and other services](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
     * tags: [web](../tags/web.md), [cheatsheet](../tags/cheatsheet.md)
 * [Popper.js](https://popper.js.org/)

@@ -1,5 +1,7 @@
 architecture 
 ---
+* [Publish–subscribe pattern](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern)
+    * tags: [glossary](../tags/glossary.md), [publish-subscribe](../tags/publish-subscribe.md), [architecture](../tags/architecture.md)
 * [Apache Kafka as an Event-Driven Backbone for Service Architectures](https://www.confluent.io/blog/apache-kafka-for-service-architectures/)
     * :calendar: published on: 2017-07-19
     * tags: [apache-kafka](../tags/apache-kafka.md), [architecture](../tags/architecture.md)

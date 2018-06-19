@@ -1,5 +1,18 @@
 cryptography 
 ---
+* [Key escrow - Wikipedia](https://en.wikipedia.org/wiki/Key_escrow)
+    * tags: [cryptography](../tags/cryptography.md), [glossary](../tags/glossary.md)
+* [Internet X.509 Public Key Infrastructure Certificate and Certificate Revocation List (CRL) Profile](https://tools.ietf.org/html/rfc5280)
+    * tags: [security](../tags/security.md), [cryptography](../tags/cryptography.md), [x509](../tags/x509.md), [rfc](../tags/rfc.md)
+* [Understanding Public Key Cryptography](https://technet.microsoft.com/en-us/library/aa998077(v=exchg.65).aspx)
+    * :calendar: published on: 2005-05-19
+    * tags: [cryptography](../tags/cryptography.md), [email](../tags/email.md), [pki](../tags/pki.md)
+* [Cryptography and IT Security](http://www.crypto-it.net/eng/index.html)
+    * tags: [security](../tags/security.md), [cryptography](../tags/cryptography.md)
+* [RSA Signing and Encryption in Java](http://niels.nu/blog/2016/java-rsa.html)
+    * :calendar: published on: 2016-12-29
+    * tags: [java](../tags/java.md), [cryptography](../tags/cryptography.md), [security](../tags/security.md)
+    * :octocat: [github url](https://gist.github.com/nielsutrecht/855f3bef0cf559d8d23e94e2aecd4ede)
 * [SSL/TLS  handshake Protocol - YouTube](https://www.youtube.com/watch?v=sEkw8ZcxtFk&list=PLSNNzog5eydtwsdT__t5WtRgvpfMzpTc7&index=5)
     * :calendar: published on: 2018-02-11
     * tags: [security](../tags/security.md), [cryptography](../tags/cryptography.md), [ssl](../tags/ssl.md), [tls](../tags/tls.md)

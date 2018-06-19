@@ -1,5 +1,12 @@
 java 
 ---
+* [Mockito vs EasyMock vs JMockit](http://www.baeldung.com/mockito-vs-easymock-vs-jmockit)
+    * tags: [java](../tags/java.md), [testing](../tags/testing.md)
+    * :octocat: [github url](https://github.com/eugenp/tutorials/tree/master/testing-modules/mocks)
+* [RSA Signing and Encryption in Java](http://niels.nu/blog/2016/java-rsa.html)
+    * :calendar: published on: 2016-12-29
+    * tags: [java](../tags/java.md), [cryptography](../tags/cryptography.md), [security](../tags/security.md)
+    * :octocat: [github url](https://gist.github.com/nielsutrecht/855f3bef0cf559d8d23e94e2aecd4ede)
 * [Hashids - generate short unique ids from integers](https://hashids.org/)
     * tags: [javascript](../tags/javascript.md), [ruby](../tags/ruby.md), [go](../tags/go.md), [java](../tags/java.md), [lua](../tags/lua.md), [security](../tags/security.md)
     * :octocat: [github url](https://github.com/ivanakimov/hashids.js)

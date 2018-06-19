@@ -1,5 +1,8 @@
 testing 
 ---
+* [Mockito vs EasyMock vs JMockit](http://www.baeldung.com/mockito-vs-easymock-vs-jmockit)
+    * tags: [java](../tags/java.md), [testing](../tags/testing.md)
+    * :octocat: [github url](https://github.com/eugenp/tutorials/tree/master/testing-modules/mocks)
 * [Calen Legaspi: Separating Integration Tests from Unit Tests Using Maven Failsafe & JUnit @Category](http://calenlegaspi.blogspot.ch/2015/01/separating-integration-tests-from-unit.html)
     * :calendar: published on: 2015-01-23
     * tags: [testing](../tags/testing.md), [unit-testing](../tags/unit-testing.md), [maven](../tags/maven.md)

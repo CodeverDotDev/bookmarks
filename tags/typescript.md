@@ -63,5 +63,6 @@ typescript
     * :octocat: [github url](https://github.com/Microsoft/TypeScript)
 * [TypeScript Documentation](https://www.typescriptlang.org/docs/index.html)
     * tags: [typescript](../tags/typescript.md), [docs](../tags/docs.md)
-* [Home | DefinitelyTyped](http://definitelytyped.org/)
+* [Home - DefinitelyTyped](http://definitelytyped.org/)
     * tags: [typescript](../tags/typescript.md)
+    * :octocat: [github url](https://github.com/DefinitelyTyped/DefinitelyTyped)

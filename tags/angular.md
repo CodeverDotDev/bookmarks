@@ -1,5 +1,24 @@
 angular 
 ---
+* [How to Create Custom Validators in Angular - DZone Web Dev](https://dzone.com/articles/how-to-create-custom-validators-in-angular)
+    * :calendar: published on: 2018-01-18
+    * tags: [angular](../tags/angular.md)
+* [Angular 2 form fundamentals: template-driven forms](https://toddmotto.com/angular-2-forms-template-driven)
+    * :calendar: published on: 2016-10-18
+    * tags: [angular](../tags/angular.md)
+* [Sharing Data Between Angular Components - Four Methods](https://angularfirebase.com/lessons/sharing-data-between-angular-components-four-methods/)
+    * :calendar: published on: 2017-04-30
+    * tags: [angular](../tags/angular.md)
+* [Angular @ViewChild: In-Depth Explanation (All Features Covered)](https://blog.angular-university.io/angular-viewchild/)
+    * :calendar: published on: 2018-04-26
+    * tags: [angular](../tags/angular.md)
+    * :octocat: [github url](https://github.com/angular-university/angular-viewchild-examples)
+* [Angular 4.3 HttpClient (Accessing REST Web Services With Angular)](https://medium.com/codingthesmartway-com-blog/angular-4-3-httpclient-accessing-rest-web-services-with-angular-2305b8fd654b)
+    * :calendar: published on: 2017-07-22
+    * tags: [angular](../tags/angular.md), [error-handling](../tags/error-handling.md)
+* [Error Handling & Angular – Aleix Suau – Medium](https://medium.com/@aleixsuau/error-handling-angular-859d529fa53a)
+    * :calendar: published on: 2018-01-21
+    * tags: [angular](../tags/angular.md), [error-handling](../tags/error-handling.md)
 * [All Things Angular](https://www.telerik.com/blogs/all-things-angular)
     * :calendar: published on: 2018-03-28
     * tags: [angular](../tags/angular.md)

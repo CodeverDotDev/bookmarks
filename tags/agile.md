@@ -1,5 +1,7 @@
 agile 
 ---
+* [Agile Thinking : Stop Starting, Start Finishing](http://www.agilebuddha.com/agile/agile-thinking-stop-starting-start-finishing/)
+    * tags: [agile](../tags/agile.md)
 * [Scrum Guides](https://www.scrumguides.org/)
     * tags: [scrum](../tags/scrum.md), [agile](../tags/agile.md)
 * [Agile is not now, nor was it ever, Waterfall. | 8th Light](https://8thlight.com/blog/uncle-bob/2015/10/16/agile-and-waterfall.html)

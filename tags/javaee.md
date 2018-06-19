@@ -1,5 +1,7 @@
 javaee 
 ---
+* [java ee - Unsatisfied dependencies for type X with qualifiers @Default - Stack Overflow](https://stackoverflow.com/questions/27706091/unsatisfied-dependencies-for-type-x-with-qualifiers-default?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa)
+    * tags: [javaee](../tags/javaee.md)
 * [Arquillian and Wildfly: Integration test tutorial](https://www.softwareyoga.com/arquillian-and-wildfly-integration-test-tutorial/)
     * :calendar: published on: 2015-10-27
     * tags: [testing](../tags/testing.md), [javaee](../tags/javaee.md), [arquillian](../tags/arquillian.md)

@@ -1,5 +1,11 @@
 glossary 
 ---
+* [Hungarian notation - Wikipedia](https://en.wikipedia.org/wiki/Hungarian_notation)
+    * tags: [glossary](../tags/glossary.md)
+* [Key escrow - Wikipedia](https://en.wikipedia.org/wiki/Key_escrow)
+    * tags: [cryptography](../tags/cryptography.md), [glossary](../tags/glossary.md)
+* [Publish–subscribe pattern](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern)
+    * tags: [glossary](../tags/glossary.md), [publish-subscribe](../tags/publish-subscribe.md), [architecture](../tags/architecture.md)
 * [Transaction log - Wikipedia](https://en.wikipedia.org/wiki/Transaction_log)
     * tags: [database](../tags/database.md), [glossary](../tags/glossary.md)
 * [Request for Comments (RFC) - Wikipedia](https://en.wikipedia.org/wiki/Request_for_Comments)
