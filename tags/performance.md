@@ -1,5 +1,7 @@
 performance 
 ---
+* [Richard Clayton - Speaking Intelligently about "Java vs Node" Performance](https://rclayton.silvrback.com/speaking-intelligently-about-java-vs-node-performance)
+    * tags: [java](../tags/java.md), [nodejs](../tags/nodejs.md), [performance](../tags/performance.md), [concurrency](../tags/concurrency.md), [benchmarking](../tags/benchmarking.md)
 * [5 Tips to Increase Node.js Application Performance](https://www.nginx.com/blog/5-performance-tips-for-node-js-applications/)
     * :calendar: published on: 2015-11-16
     * tags: [nginx](../tags/nginx.md), [nodejs](../tags/nodejs.md), [performance](../tags/performance.md), [optimization](../tags/optimization.md)

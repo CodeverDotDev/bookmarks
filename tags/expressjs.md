@@ -1,5 +1,11 @@
 expressjs 
 ---
+* [How express.js works - Understanding the internals of the express library](https://www.sohamkamani.com/blog/2018/05/30/understanding-how-expressjs-works/)
+    * :calendar: published on: 2018-05-30
+    * tags: [expressjs](../tags/expressjs.md)
+* [GitHub - diegohaz/rest: REST API generator with Node.js, Express and Mongoose](https://github.com/diegohaz/rest)
+    * tags: [nodejs](../tags/nodejs.md), [expressjs](../tags/expressjs.md), [mongoose](../tags/mongoose.md), [yeoman](../tags/yeoman.md), [tools](../tags/tools.md)
+    * :octocat: [github url](https://github.com/diegohaz/rest)
 * [javascript - Error: request entity too large - Stack Overflow](https://stackoverflow.com/questions/19917401/error-request-entity-too-large)
     * tags: [expressjs](../tags/expressjs.md), [javascript](../tags/javascript.md)
 * [Sending Web Push Notifications from Node.js](https://thecodebarbarian.com/sending-web-push-notifications-from-node-js.html)

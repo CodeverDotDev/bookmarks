@@ -1,5 +1,9 @@
 security 
 ---
+* [ISC 2 CISSP Certified Information Systems Security Professional Official Study Guide and Official Practice Tests Kit](https://www.amazon.com/dp/1119523265/ref=cm_sw_r_cp_apa_EobmBbVYKBPT0)
+    * tags: [security](../tags/security.md), [cissp](../tags/cissp.md)
+* [What Happens If Your JWT Is Stolen?](https://developer.okta.com/blog/2018/06/20/what-happens-if-your-jwt-is-stolen)
+    * tags: [security](../tags/security.md), [jwt](../tags/jwt.md), [web](../tags/web.md)
 * [Internet X.509 Public Key Infrastructure Certificate and Certificate Revocation List (CRL) Profile](https://tools.ietf.org/html/rfc5280)
     * tags: [security](../tags/security.md), [cryptography](../tags/cryptography.md), [x509](../tags/x509.md), [rfc](../tags/rfc.md)
 * [Cryptography and IT Security](http://www.crypto-it.net/eng/index.html)

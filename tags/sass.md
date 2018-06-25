@@ -1,5 +1,8 @@
 sass 
 ---
+* [A Sass `!default` use caseBlog homeSearch](https://robots.thoughtbot.com/sass-default)
+    * :calendar: published on: 2012-12-03
+    * tags: [sass](../tags/sass.md)
 * [Sass Guidelines 中文](http://sass-guidelin.es/zh/)
     * tags: [free-programming-books](../tags/free-programming-books.md), [free-programming-books-zh](../tags/free-programming-books-zh.md), [css](../tags/css.md), [sass](../tags/sass.md)
 * [Sass Documentation ](http://sass-lang.com/documentation/file.SASS_REFERENCE.html)

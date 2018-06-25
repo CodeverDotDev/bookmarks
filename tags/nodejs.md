@@ -1,5 +1,10 @@
 nodejs 
 ---
+* [GitHub - diegohaz/rest: REST API generator with Node.js, Express and Mongoose](https://github.com/diegohaz/rest)
+    * tags: [nodejs](../tags/nodejs.md), [expressjs](../tags/expressjs.md), [mongoose](../tags/mongoose.md), [yeoman](../tags/yeoman.md), [tools](../tags/tools.md)
+    * :octocat: [github url](https://github.com/diegohaz/rest)
+* [Richard Clayton - Speaking Intelligently about "Java vs Node" Performance](https://rclayton.silvrback.com/speaking-intelligently-about-java-vs-node-performance)
+    * tags: [java](../tags/java.md), [nodejs](../tags/nodejs.md), [performance](../tags/performance.md), [concurrency](../tags/concurrency.md), [benchmarking](../tags/benchmarking.md)
 * [Full guide to developing REST API’s with AWS API Gateway and AWS Lambda](https://blog.sourcerer.io/full-guide-to-developing-rest-apis-with-aws-api-gateway-and-aws-lambda-d254729d6992)
     * :calendar: published on: 2018-05-09
     * tags: [cloud](../tags/cloud.md), [serverless](../tags/serverless.md), [nodejs](../tags/nodejs.md), [aws](../tags/aws.md)

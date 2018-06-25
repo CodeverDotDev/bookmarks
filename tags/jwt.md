@@ -1,5 +1,7 @@
 jwt 
 ---
+* [What Happens If Your JWT Is Stolen?](https://developer.okta.com/blog/2018/06/20/what-happens-if-your-jwt-is-stolen)
+    * tags: [security](../tags/security.md), [jwt](../tags/jwt.md), [web](../tags/web.md)
 * [Angular Authentication: Using the Http Client and Http Interceptors](https://medium.com/@ryanchenkie_40935/angular-authentication-using-the-http-client-and-http-interceptors-2f9d1540eb8)
     * :calendar: published on: 2017-07-18
     * tags: [angular](../tags/angular.md), [jwt](../tags/jwt.md), [security](../tags/security.md), [authentication](../tags/authentication.md)

@@ -1,5 +1,14 @@
 java 
 ---
+* [The JMockit testing toolkit](http://jmockit.github.io/)
+    * tags: [java](../tags/java.md), [testing](../tags/testing.md), [jmockit](../tags/jmockit.md)
+    * :octocat: [github url](https://github.com/jmockit/jmockit1)
+* [JMockit 101](http://www.baeldung.com/jmockit-101)
+    * :calendar: published on: 2018-04-15
+    * tags: [java](../tags/java.md), [testing](../tags/testing.md), [jmockit](../tags/jmockit.md)
+    * :octocat: [github url](https://github.com/eugenp/tutorials/tree/master/testing-modules/mocks)
+* [Richard Clayton - Speaking Intelligently about "Java vs Node" Performance](https://rclayton.silvrback.com/speaking-intelligently-about-java-vs-node-performance)
+    * tags: [java](../tags/java.md), [nodejs](../tags/nodejs.md), [performance](../tags/performance.md), [concurrency](../tags/concurrency.md), [benchmarking](../tags/benchmarking.md)
 * [Mockito vs EasyMock vs JMockit](http://www.baeldung.com/mockito-vs-easymock-vs-jmockit)
     * tags: [java](../tags/java.md), [testing](../tags/testing.md)
     * :octocat: [github url](https://github.com/eugenp/tutorials/tree/master/testing-modules/mocks)

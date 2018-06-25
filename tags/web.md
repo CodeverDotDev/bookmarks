@@ -1,5 +1,7 @@
 web 
 ---
+* [What Happens If Your JWT Is Stolen?](https://developer.okta.com/blog/2018/06/20/what-happens-if-your-jwt-is-stolen)
+    * tags: [security](../tags/security.md), [jwt](../tags/jwt.md), [web](../tags/web.md)
 * [Web security](https://developer.mozilla.org/en-US/docs/Web/Security)
     * tags: [web](../tags/web.md), [security](../tags/security.md)
 * [Emoji cheat sheet for GitHub, Basecamp and other services](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
