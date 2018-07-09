@@ -1,5 +1,8 @@
 caching 
 ---
+* [GitHub - ben-manes/caffeine: A high performance caching library for Java 8](https://github.com/ben-manes/caffeine)
+    * tags: [java](../tags/java.md), [caching](../tags/caching.md)
+    * :octocat: [github url](https://github.com/ben-manes/caffeine)
 * [Varnish HTTP Cache](https://varnish-cache.org/)
     * tags: [http](../tags/http.md), [caching](../tags/caching.md), [tools](../tags/tools.md), [varnish](../tags/varnish.md)
     * :octocat: [github url](https://github.com/varnishcache/varnish-cache)

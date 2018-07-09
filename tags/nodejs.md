@@ -295,7 +295,7 @@ nodejs
     * tags: [nodejs](../tags/nodejs.md), [oracledb](../tags/oracledb.md), [oracle](../tags/oracle.md)
 * [Process -proces.argv | Node.js Documentation](https://nodejs.org/api/process.html#process_process_argv)
     * tags: [nodejs](../tags/nodejs.md)
-* [Fundamental Node.js Design Patterns | RisingStack](https://blog.risingstack.com/fundamental-node-js-design-patterns/)
+* [Fundamental Node.js Design Patterns](https://blog.risingstack.com/fundamental-node-js-design-patterns/)
     * :calendar: published on: 2015-07-28
     * tags: [nodejs](../tags/nodejs.md)
 * [async - Documentation](http://caolan.github.io/async/)

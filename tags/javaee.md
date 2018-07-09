@@ -1,5 +1,7 @@
 javaee 
 ---
+* [Complete Guide: Inheritance strategies with JPA and Hibernate](https://www.thoughts-on-java.org/complete-guide-inheritance-strategies-jpa-hibernate/)
+    * tags: [java](../tags/java.md), [javaee](../tags/javaee.md), [jpa](../tags/jpa.md), [hibernate](../tags/hibernate.md)
 * [java ee - Unsatisfied dependencies for type X with qualifiers @Default - Stack Overflow](https://stackoverflow.com/questions/27706091/unsatisfied-dependencies-for-type-x-with-qualifiers-default?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa)
     * tags: [javaee](../tags/javaee.md)
 * [Arquillian and Wildfly: Integration test tutorial](https://www.softwareyoga.com/arquillian-and-wildfly-integration-test-tutorial/)

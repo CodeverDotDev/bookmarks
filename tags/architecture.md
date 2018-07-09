@@ -1,5 +1,11 @@
 architecture 
 ---
+* [Angular  Architecture - Smart Components vs Presentational Components](https://blog.angular-university.io/angular-2-smart-components-vs-presentation-components-whats-the-difference-when-to-use-each-and-why/)
+    * :calendar: published on: 2018-06-18
+    * tags: [angular](../tags/angular.md), [architecture](../tags/architecture.md)
+* [Open-source tool that uses simple textual descriptions to draw UML diagrams.](http://plantuml.com/)
+    * tags: [uml](../tags/uml.md), [architecture](../tags/architecture.md), [intellij](../tags/intellij.md)
+    * :octocat: [github url](https://github.com/plantuml/plantuml)
 * [Publish–subscribe pattern](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern)
     * tags: [glossary](../tags/glossary.md), [publish-subscribe](../tags/publish-subscribe.md), [architecture](../tags/architecture.md)
 * [Apache Kafka as an Event-Driven Backbone for Service Architectures](https://www.confluent.io/blog/apache-kafka-for-service-architectures/)

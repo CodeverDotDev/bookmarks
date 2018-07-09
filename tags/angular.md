@@ -1,5 +1,23 @@
 angular 
 ---
+* [Angular  Architecture - Smart Components vs Presentational Components](https://blog.angular-university.io/angular-2-smart-components-vs-presentation-components-whats-the-difference-when-to-use-each-and-why/)
+    * :calendar: published on: 2018-06-18
+    * tags: [angular](../tags/angular.md), [architecture](../tags/architecture.md)
+* [Angular ngClass and ngStyle: The Complete Guide](https://blog.angular-university.io/angular-ngclass-ngstyle/)
+    * :calendar: published on: 2018-06-16
+    * tags: [angular](../tags/angular.md)
+* [ngx-charts - Angular2 and D3js Charting Framework](https://swimlane.github.io/ngx-charts/)
+    * tags: [angular](../tags/angular.md)
+    * :octocat: [github url](https://github.com/swimlane/ngx-charts)
+* [ngx-datatable - Angular2 and beyond component for presenting large and complex data](http://swimlane.github.io/ngx-datatable/)
+    * tags: [angular](../tags/angular.md)
+    * :octocat: [github url](https://github.com/swimlane/ngx-datatable)
+* [Angular/RxJs When should I unsubscribe from `Subscription` - Stack Overflow](https://stackoverflow.com/questions/38008334/angular-rxjs-when-should-i-unsubscribe-from-subscription)
+    * :calendar: published on: 2017-04-09
+    * tags: [angular](../tags/angular.md)
+* [Angular constructor versus ngOnInit](https://toddmotto.com/angular-constructor-ngoninit-lifecycle-hook)
+    * :calendar: published on: 2017-03-06
+    * tags: [angular](../tags/angular.md)
 * [How to Create Custom Validators in Angular - DZone Web Dev](https://dzone.com/articles/how-to-create-custom-validators-in-angular)
     * :calendar: published on: 2018-01-18
     * tags: [angular](../tags/angular.md)
