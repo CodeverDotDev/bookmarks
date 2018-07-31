@@ -1,5 +1,7 @@
 typescript 
 ---
+* [intellij idea - WebStorm/PhpStorm double quotes in TypeScript auto import - Stack Overflow](https://stackoverflow.com/questions/39779272/webstorm-phpstorm-double-quotes-in-typescript-auto-import)
+    * tags: [intellij](../tags/intellij.md), [webstorm](../tags/webstorm.md), [typescript](../tags/typescript.md)
 * [Declaration Merging     ](https://www.typescriptlang.org/docs/handbook/declaration-merging.html)
     * tags: [typescript](../tags/typescript.md)
     * :octocat: [github url](https://github.com/Microsoft/TypeScript)

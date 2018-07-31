@@ -1,5 +1,8 @@
 mongodb 
 ---
+* [A Node.js Perspective on MongoDB 4.0: Transactions](http://thecodebarbarian.com/a-node-js-perspective-on-mongodb-4-transactions.html)
+    * :calendar: published on: 2018-07-02
+    * tags: [nodejs](../tags/nodejs.md), [mongodb](../tags/mongodb.md), [mongoose](../tags/mongoose.md)
 * [javascript - Mongoose Model.save() hangs when called from node.js app - Stack Overflow](https://stackoverflow.com/questions/12030371/mongoose-model-save-hangs-when-called-from-node-js-app)
     * tags: [mongoose](../tags/mongoose.md), [mongodb](../tags/mongodb.md), [nodejs](../tags/nodejs.md)
 * [MongoDB Node.js Driver](http://mongodb.github.io/node-mongodb-native/)

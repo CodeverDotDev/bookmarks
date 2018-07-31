@@ -1,5 +1,7 @@
 git 
 ---
+* [git - Remove local branches no longer on remote - Stack Overflow](https://stackoverflow.com/questions/7726949/remove-local-branches-no-longer-on-remote)
+    * tags: [git](../tags/git.md), [bash](../tags/bash.md)
 * [git-crypt - transparent file encryption in git](https://www.agwa.name/projects/git-crypt/)
     * tags: [git](../tags/git.md), [security](../tags/security.md)
     * :octocat: [github url](https://github.com/AGWA/git-crypt)

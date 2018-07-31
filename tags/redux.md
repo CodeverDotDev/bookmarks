@@ -1,5 +1,8 @@
 redux 
 ---
+* [GitHub - ngrx/platform: Monorepo for ngrx codebase](https://github.com/ngrx/platform)
+    * tags: [angular](../tags/angular.md), [ngrx](../tags/ngrx.md), [redux](../tags/redux.md)
+    * :octocat: [github url](https://github.com/ngrx/platform)
 * [Scalable Single-Page Application Architecture · Minko Gechev's blog](http://blog.mgechev.com/2016/04/10/scalable-javascript-single-page-app-angular2-application-architecture/)
     * :calendar: published on: 2016-04-10
     * tags: [javascript](../tags/javascript.md), [angular](../tags/angular.md), [typescript](../tags/typescript.md), [redux](../tags/redux.md)

@@ -1,5 +1,7 @@
 shell 
 ---
+* [How to symlink a file in Linux? - Stack Overflow](https://stackoverflow.com/questions/1951742/how-to-symlink-a-file-in-linux)
+    * tags: [linux](../tags/linux.md), [shell](../tags/shell.md)
 * [command line - How to show only hidden files in Terminal? - Ask Ubuntu](https://askubuntu.com/questions/468901/how-to-show-only-hidden-files-in-terminal)
     * tags: [linux](../tags/linux.md), [shell](../tags/shell.md)
 * [shell - How to scp a folder from remote to local? - Stack Overflow](https://stackoverflow.com/questions/11304895/how-to-scp-a-folder-from-remote-to-local)

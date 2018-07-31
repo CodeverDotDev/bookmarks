@@ -1,5 +1,8 @@
 async 
 ---
+* [Asynchrony: Under the Hood - Shelley Vohr - JSConf EU 2018 - YouTube](https://www.youtube.com/watch?v=SrNQS8J67zc)
+    * :calendar: published on: 2018-06-27
+    * tags: [javascript](../tags/javascript.md), [async](../tags/async.md)
 * [Zuul 2 : The Netflix Journey to Asynchronous, Non-Blocking Systems](https://medium.com/netflix-techblog/zuul-2-the-netflix-journey-to-asynchronous-non-blocking-systems-45947377fb5c)
     * :calendar: published on: 2016-09-21
     * tags: [async](../tags/async.md)

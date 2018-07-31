@@ -1,5 +1,8 @@
 caching 
 ---
+* [GitHub - ptarjan/node-cache: A simple in-memory cache for nodejs](https://github.com/ptarjan/node-cache)
+    * tags: [nodejs](../tags/nodejs.md), [caching](../tags/caching.md)
+    * :octocat: [github url](https://github.com/ptarjan/node-cache)
 * [GitHub - ben-manes/caffeine: A high performance caching library for Java 8](https://github.com/ben-manes/caffeine)
     * tags: [java](../tags/java.md), [caching](../tags/caching.md)
     * :octocat: [github url](https://github.com/ben-manes/caffeine)

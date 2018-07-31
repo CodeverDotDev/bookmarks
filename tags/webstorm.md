@@ -1,5 +1,10 @@
 webstorm 
 ---
+* [Open in terminal :: JetBrains Plugin Repository](https://plugins.jetbrains.com/plugin/7817-open-in-terminal)
+    * tags: [intellij](../tags/intellij.md), [webstorm](../tags/webstorm.md), [plugins](../tags/plugins.md)
+    * :octocat: [github url](https://github.com/luktom/OpenInTerminal)
+* [intellij idea - WebStorm/PhpStorm double quotes in TypeScript auto import - Stack Overflow](https://stackoverflow.com/questions/39779272/webstorm-phpstorm-double-quotes-in-typescript-auto-import)
+    * tags: [intellij](../tags/intellij.md), [webstorm](../tags/webstorm.md), [typescript](../tags/typescript.md)
 * [Debugging Node.js apps in WebStorm | WebStorm Blog](https://blog.jetbrains.com/webstorm/2017/09/debugging-node-js-apps-in-webstorm/)
     * :calendar: published on: 1987-10-20
     * tags: [nodejs](../tags/nodejs.md), [debugging](../tags/debugging.md), [webstorm](../tags/webstorm.md)

@@ -1,5 +1,7 @@
 marketing 
 ---
+* [How to Spread The Word About Your Code – Mozilla Hacks – the Web developer blog](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/)
+    * tags: [marketing](../tags/marketing.md)
 * [How to promote your Github project – Hacker Noon](https://hackernoon.com/how-to-promote-your-github-project-1b39a7eee841)
     * :calendar: published on: 2018-02-03
     * tags: [github](../tags/github.md), [marketing](../tags/marketing.md)

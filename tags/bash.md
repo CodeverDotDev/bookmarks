@@ -1,5 +1,7 @@
 bash 
 ---
+* [git - Remove local branches no longer on remote - Stack Overflow](https://stackoverflow.com/questions/7726949/remove-local-branches-no-longer-on-remote)
+    * tags: [git](../tags/git.md), [bash](../tags/bash.md)
 * [Kurs Bash'a](http://dief.republika.pl/kursbasha.tar.gz)
     * tags: [free-programming-books](../tags/free-programming-books.md), [free-programming-books-pl](../tags/free-programming-books-pl.md), [bash](../tags/bash.md)
 * [Advanced Bash-Scripting Guide](http://rus-linux.net/MyLDP/BOOKS/abs-guide/flat/abs-book.html)

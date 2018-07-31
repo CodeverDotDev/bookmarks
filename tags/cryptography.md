@@ -1,5 +1,7 @@
 cryptography 
 ---
+* [Public key fingerprint - Wikipedia](https://en.wikipedia.org/wiki/Public_key_fingerprint)
+    * tags: [cryptography](../tags/cryptography.md), [security](../tags/security.md)
 * [Key escrow - Wikipedia](https://en.wikipedia.org/wiki/Key_escrow)
     * tags: [cryptography](../tags/cryptography.md), [glossary](../tags/glossary.md)
 * [Internet X.509 Public Key Infrastructure Certificate and Certificate Revocation List (CRL) Profile](https://tools.ietf.org/html/rfc5280)

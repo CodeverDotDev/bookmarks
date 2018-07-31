@@ -1,5 +1,11 @@
 rest 
 ---
+* [GitHub - awslabs/aws-serverless-express](https://github.com/awslabs/aws-serverless-express)
+    * tags: [aws](../tags/aws.md), [nodejs](../tags/nodejs.md), [expressjs](../tags/expressjs.md), [rest](../tags/rest.md)
+    * :octocat: [github url](https://github.com/awslabs/aws-serverless-express)
+* [GitHub - ttezel/twit: Twitter API Client for node (REST & Streaming API)](https://github.com/ttezel/twit)
+    * tags: [nodejs](../tags/nodejs.md), [twitter](../tags/twitter.md), [rest](../tags/rest.md)
+    * :octocat: [github url](https://github.com/ttezel/twit)
 * [The RESTful cookbook](http://restcookbook.com/)
     * tags: [rest](../tags/rest.md), [free-programming-books](../tags/free-programming-books.md)
     * :octocat: [github url](http://github.com/restcookbook/restcookbook)

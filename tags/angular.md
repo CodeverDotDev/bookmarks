@@ -1,5 +1,18 @@
 angular 
 ---
+* [RxJs Mapping: switchMap vs mergeMap vs concatMap vs exhaustMap](https://blog.angular-university.io/rxjs-higher-order-mapping/)
+    * :calendar: published on: 2018-07-18
+    * tags: [rxjs](../tags/rxjs.md), [angular](../tags/angular.md)
+    * :octocat: [github url](https://github.com/angular-university/rxjs-course/tree/1-operators-finished)
+* [Hot vs Cold Observables – Ben Lesh](https://medium.com/@benlesh/hot-vs-cold-observables-f8094ed53339)
+    * :calendar: published on: 2016-03-29
+    * tags: [angular](../tags/angular.md), [rxjs](../tags/rxjs.md)
+* [GitHub - johnpapa/angular-ngrx-data: Angular with ngRx and experimental ngrx-data helperAsset 1Asset 1](https://github.com/johnpapa/angular-ngrx-data)
+    * tags: [angular](../tags/angular.md), [ngrx](../tags/ngrx.md)
+    * :octocat: [github url](https://github.com/johnpapa/angular-ngrx-data)
+* [GitHub - ngrx/platform: Monorepo for ngrx codebase](https://github.com/ngrx/platform)
+    * tags: [angular](../tags/angular.md), [ngrx](../tags/ngrx.md), [redux](../tags/redux.md)
+    * :octocat: [github url](https://github.com/ngrx/platform)
 * [Angular  Architecture - Smart Components vs Presentational Components](https://blog.angular-university.io/angular-2-smart-components-vs-presentation-components-whats-the-difference-when-to-use-each-and-why/)
     * :calendar: published on: 2018-06-18
     * tags: [angular](../tags/angular.md), [architecture](../tags/architecture.md)
@@ -260,7 +273,7 @@ angular
     * tags: [angular](../tags/angular.md), [open-source](../tags/open-source.md)
 * [Cold vs Hot Observables by thoughtram](https://blog.thoughtram.io/angular/2016/06/16/cold-vs-hot-observables.html)
     * tags: [angular](../tags/angular.md), [observable](../tags/observable.md), [rxjs](../tags/rxjs.md)
-* [Angular.io - Component Interaction - ts - COOKBOOK](https://angular.io/docs/ts/latest/cookbook/component-communication.html)
+* [Angular.io - Component Interaction - ts - COOKBOOK](https://angular.io/guide/component-interaction)
     * tags: [angular](../tags/angular.md), [docs](../tags/docs.md), [cookbook](../tags/cookbook.md)
 * [Angular 2 Application Architecture: Build Reux-like Apps with RxJs](http://blog.angular-university.io/angular-2-application-architecture-building-applications-using-rxjs-and-functional-reactive-programming-vs-redux/)
     * tags: [angular](../tags/angular.md), [rxjs](../tags/rxjs.md), [application-architecture](../tags/application-architecture.md)

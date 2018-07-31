@@ -1,5 +1,7 @@
 security 
 ---
+* [Public key fingerprint - Wikipedia](https://en.wikipedia.org/wiki/Public_key_fingerprint)
+    * tags: [cryptography](../tags/cryptography.md), [security](../tags/security.md)
 * [ISC 2 CISSP Certified Information Systems Security Professional Official Study Guide and Official Practice Tests Kit](https://www.amazon.com/dp/1119523265/ref=cm_sw_r_cp_apa_EobmBbVYKBPT0)
     * tags: [security](../tags/security.md), [cissp](../tags/cissp.md)
 * [What Happens If Your JWT Is Stolen?](https://developer.okta.com/blog/2018/06/20/what-happens-if-your-jwt-is-stolen)

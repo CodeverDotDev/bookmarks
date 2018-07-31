@@ -1,5 +1,8 @@
 expressjs 
 ---
+* [GitHub - awslabs/aws-serverless-express](https://github.com/awslabs/aws-serverless-express)
+    * tags: [aws](../tags/aws.md), [nodejs](../tags/nodejs.md), [expressjs](../tags/expressjs.md), [rest](../tags/rest.md)
+    * :octocat: [github url](https://github.com/awslabs/aws-serverless-express)
 * [How express.js works - Understanding the internals of the express library](https://www.sohamkamani.com/blog/2018/05/30/understanding-how-expressjs-works/)
     * :calendar: published on: 2018-05-30
     * tags: [expressjs](../tags/expressjs.md)
@@ -35,6 +38,9 @@ expressjs
     * :calendar: published on: 2016-04-25
     * tags: [graphql](../tags/graphql.md), [ruby](../tags/ruby.md), [python](../tags/python.md), [expressjs](../tags/expressjs.md)
     * :octocat: [github url](https://github.com/steveluscher/zero-to-graphql)
+* [Express Routing - The Beginners Guide](http://jilles.me/express-routing-the-beginners-guide/)
+    * :calendar: published on: 2014-10-16
+    * tags: [expressjs](../tags/expressjs.md)
 * [Understanding the Express app.js](http://jilles.me/getting-the-express-app-js/)
     * :calendar: published on: 2014-10-12
     * tags: [expressjs](../tags/expressjs.md)

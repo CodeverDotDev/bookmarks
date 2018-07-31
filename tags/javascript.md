@@ -1,5 +1,8 @@
 javascript 
 ---
+* [Asynchrony: Under the Hood - Shelley Vohr - JSConf EU 2018 - YouTube](https://www.youtube.com/watch?v=SrNQS8J67zc)
+    * :calendar: published on: 2018-06-27
+    * tags: [javascript](../tags/javascript.md), [async](../tags/async.md)
 * [Async programming basics every JS developer should know in 2018](https://dev.to/siwalik/async-programming-basics-every-js-developer-should-know-in-2018-a9c)
     * :calendar: published on: 2018-06-14
     * tags: [javascript](../tags/javascript.md)

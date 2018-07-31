@@ -1,5 +1,17 @@
 nodejs 
 ---
+* [GitHub - awslabs/aws-serverless-express](https://github.com/awslabs/aws-serverless-express)
+    * tags: [aws](../tags/aws.md), [nodejs](../tags/nodejs.md), [expressjs](../tags/expressjs.md), [rest](../tags/rest.md)
+    * :octocat: [github url](https://github.com/awslabs/aws-serverless-express)
+* [GitHub - ttezel/twit: Twitter API Client for node (REST & Streaming API)](https://github.com/ttezel/twit)
+    * tags: [nodejs](../tags/nodejs.md), [twitter](../tags/twitter.md), [rest](../tags/rest.md)
+    * :octocat: [github url](https://github.com/ttezel/twit)
+* [GitHub - ptarjan/node-cache: A simple in-memory cache for nodejs](https://github.com/ptarjan/node-cache)
+    * tags: [nodejs](../tags/nodejs.md), [caching](../tags/caching.md)
+    * :octocat: [github url](https://github.com/ptarjan/node-cache)
+* [A Node.js Perspective on MongoDB 4.0: Transactions](http://thecodebarbarian.com/a-node-js-perspective-on-mongodb-4-transactions.html)
+    * :calendar: published on: 2018-07-02
+    * tags: [nodejs](../tags/nodejs.md), [mongodb](../tags/mongodb.md), [mongoose](../tags/mongoose.md)
 * [GitHub - diegohaz/rest: REST API generator with Node.js, Express and Mongoose](https://github.com/diegohaz/rest)
     * tags: [nodejs](../tags/nodejs.md), [expressjs](../tags/expressjs.md), [mongoose](../tags/mongoose.md), [yeoman](../tags/yeoman.md), [tools](../tags/tools.md)
     * :octocat: [github url](https://github.com/diegohaz/rest)

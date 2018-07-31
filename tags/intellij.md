@@ -1,5 +1,10 @@
 intellij 
 ---
+* [Open in terminal :: JetBrains Plugin Repository](https://plugins.jetbrains.com/plugin/7817-open-in-terminal)
+    * tags: [intellij](../tags/intellij.md), [webstorm](../tags/webstorm.md), [plugins](../tags/plugins.md)
+    * :octocat: [github url](https://github.com/luktom/OpenInTerminal)
+* [intellij idea - WebStorm/PhpStorm double quotes in TypeScript auto import - Stack Overflow](https://stackoverflow.com/questions/39779272/webstorm-phpstorm-double-quotes-in-typescript-auto-import)
+    * tags: [intellij](../tags/intellij.md), [webstorm](../tags/webstorm.md), [typescript](../tags/typescript.md)
 * [Open-source tool that uses simple textual descriptions to draw UML diagrams.](http://plantuml.com/)
     * tags: [uml](../tags/uml.md), [architecture](../tags/architecture.md), [intellij](../tags/intellij.md)
     * :octocat: [github url](https://github.com/plantuml/plantuml)

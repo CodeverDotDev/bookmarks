@@ -1,5 +1,20 @@
 rxjs 
 ---
+* [Introduction · learn-rxjs](https://www.learnrxjs.io/)
+    * tags: [rxjs](../tags/rxjs.md), [free-programming-books](../tags/free-programming-books.md)
+* [RxJs Mapping: switchMap vs mergeMap vs concatMap vs exhaustMap](https://blog.angular-university.io/rxjs-higher-order-mapping/)
+    * :calendar: published on: 2018-07-18
+    * tags: [rxjs](../tags/rxjs.md), [angular](../tags/angular.md)
+    * :octocat: [github url](https://github.com/angular-university/rxjs-course/tree/1-operators-finished)
+* [RxJS: Understanding the publish and share Operators](https://blog.angularindepth.com/rxjs-understanding-the-publish-and-share-operators-16ea2f446635)
+    * :calendar: published on: 2017-08-23
+    * tags: [rxjs](../tags/rxjs.md)
+* [On The Subject Of Subjects (in RxJS) – Ben Lesh ](https://medium.com/@benlesh/on-the-subject-of-subjects-in-rxjs-2b08b7198b93)
+    * :calendar: published on: 2016-12-10
+    * tags: [rxjs](../tags/rxjs.md), [design-patterns](../tags/design-patterns.md)
+* [Hot vs Cold Observables – Ben Lesh](https://medium.com/@benlesh/hot-vs-cold-observables-f8094ed53339)
+    * :calendar: published on: 2016-03-29
+    * tags: [angular](../tags/angular.md), [rxjs](../tags/rxjs.md)
 * [angular - BehaviorSubject vs Observable? - Stack Overflow](https://stackoverflow.com/questions/39494058/behaviorsubject-vs-observable)
     * :calendar: published on: 2016-11-01
     * tags: [angular](../tags/angular.md), [rxjs](../tags/rxjs.md)

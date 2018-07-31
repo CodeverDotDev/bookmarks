@@ -1,5 +1,7 @@
 free-programming-books 
 ---
+* [Introduction · learn-rxjs](https://www.learnrxjs.io/)
+    * tags: [rxjs](../tags/rxjs.md), [free-programming-books](../tags/free-programming-books.md)
 * [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
     * tags: [free-programming-books](../tags/free-programming-books.md), [open-source](../tags/open-source.md)
 * [Coding bookmarks, aka #codingmarks](https://www.codingmarks.org/)

@@ -1,5 +1,7 @@
 css 
 ---
+* [CSS: borders between table columns only - Stack Overflow](https://stackoverflow.com/questions/3313456/css-borders-between-table-columns-only)
+    * tags: [css](../tags/css.md)
 * [Home - Scalable and Modular Architecture for CSS](https://smacss.com/)
     * tags: [css](../tags/css.md)
 * [CSS: Cascading Style Sheets](https://developer.mozilla.org/en-US/docs/Web/CSS)
