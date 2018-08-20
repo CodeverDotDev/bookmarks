@@ -1,5 +1,9 @@
 bash 
 ---
+* [How to compare differences between directories (linux) - Server Fault](https://serverfault.com/questions/59108/how-to-compare-differences-between-directories-linux)
+    * tags: [linux](../tags/linux.md), [bash](../tags/bash.md)
+* [macos - Linux - Find Files with Name Containing String - Stack Overflow](https://stackoverflow.com/questions/11328988/linux-find-files-with-name-containing-string)
+    * tags: [linux](../tags/linux.md), [bash](../tags/bash.md)
 * [git - Remove local branches no longer on remote - Stack Overflow](https://stackoverflow.com/questions/7726949/remove-local-branches-no-longer-on-remote)
     * tags: [git](../tags/git.md), [bash](../tags/bash.md)
 * [Kurs Bash'a](http://dief.republika.pl/kursbasha.tar.gz)

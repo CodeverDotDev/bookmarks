@@ -1,5 +1,7 @@
 wildfly 
 ---
+* [Creating clustered EJB 3 Timers ](http://www.mastertheboss.com/jboss-server/wildfly-8/creating-clustered-ejb-3-timers)
+    * tags: [javaee](../tags/javaee.md), [wildfly](../tags/wildfly.md), [scheduling](../tags/scheduling.md)
 * [Keycloak: Getting started with Keycloak - Securing a REST Service](http://blog.keycloak.org/2015/10/getting-started-with-keycloak-securing.html)
     * :calendar: published on: 2015-10-30
     * tags: [keycloak](../tags/keycloak.md), [rest](../tags/rest.md), [wildfly](../tags/wildfly.md)

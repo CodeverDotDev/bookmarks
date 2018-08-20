@@ -1,5 +1,8 @@
 java 
 ---
+* [Metrics](https://metrics.dropwizard.io/)
+    * tags: [java](../tags/java.md), [jvm](../tags/jvm.md), [performance](../tags/performance.md)
+    * :octocat: [github url](https://github.com/dropwizard/metrics)
 * [Complete Guide: Inheritance strategies with JPA and Hibernate](https://www.thoughts-on-java.org/complete-guide-inheritance-strategies-jpa-hibernate/)
     * tags: [java](../tags/java.md), [javaee](../tags/javaee.md), [jpa](../tags/jpa.md), [hibernate](../tags/hibernate.md)
 * [GitHub - ben-manes/caffeine: A high performance caching library for Java 8](https://github.com/ben-manes/caffeine)

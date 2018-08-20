@@ -1,5 +1,8 @@
 nodejs 
 ---
+* [InversifyJS a powerful IoC container for JavaScript apps powered by TypeScript](http://inversify.io/)
+    * tags: [nodejs](../tags/nodejs.md), [typescript](../tags/typescript.md), [javascript](../tags/javascript.md)
+    * :octocat: [github url](https://github.com/inversify/InversifyJS/)
 * [GitHub - awslabs/aws-serverless-express](https://github.com/awslabs/aws-serverless-express)
     * tags: [aws](../tags/aws.md), [nodejs](../tags/nodejs.md), [expressjs](../tags/expressjs.md), [rest](../tags/rest.md)
     * :octocat: [github url](https://github.com/awslabs/aws-serverless-express)

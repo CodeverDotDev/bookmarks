@@ -88,7 +88,7 @@ docs
     * tags: [nodejs](../tags/nodejs.md), [npm](../tags/npm.md), [docs](../tags/docs.md)
 * [Docs | Node.js](https://nodejs.org/en/docs/)
     * tags: [nodejs](../tags/nodejs.md), [docs](../tags/docs.md)
-* [Angular.io - Component Interaction - ts - COOKBOOK](https://angular.io/guide/component-interaction)
+* [Angular.io - Component Interaction](https://angular.io/guide/component-interaction)
     * tags: [angular](../tags/angular.md), [docs](../tags/docs.md), [cookbook](../tags/cookbook.md)
 * [Quickstart - ts - QUICKSTART](https://angular.io/guide/quickstart)
     * tags: [angular](../tags/angular.md), [docs](../tags/docs.md), [angular-cli](../tags/angular-cli.md)

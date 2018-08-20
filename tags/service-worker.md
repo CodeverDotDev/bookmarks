@@ -1,5 +1,9 @@
 service-worker 
 ---
+* [Service Workers - Practical Guided Introduction (several examples)](https://blog.angular-university.io/service-workers/)
+    * :calendar: published on: 2018-06-18
+    * tags: [pwa](../tags/pwa.md), [service-worker](../tags/service-worker.md), [javascript](../tags/javascript.md)
+    * :octocat: [github url](https://github.com/angular-university/service-workers-guide)
 * [Service Workers: an Introduction | Web |  Google Developers](https://developers.google.com/web/fundamentals/getting-started/primers/service-workers)
     * tags: [service-worker](../tags/service-worker.md)
 * [The offline cookbook - JakeArchibald.com](https://jakearchibald.com/2014/offline-cookbook/)

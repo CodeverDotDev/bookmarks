@@ -1,5 +1,7 @@
 agile 
 ---
+* [Understanding the Scrum Burndown Chart](http://www.methodsandtools.com/archive/scrumburndown.php)
+    * tags: [agile](../tags/agile.md), [scrum](../tags/scrum.md)
 * [Agile Thinking : Stop Starting, Start Finishing](http://www.agilebuddha.com/agile/agile-thinking-stop-starting-start-finishing/)
     * tags: [agile](../tags/agile.md)
 * [Scrum Guides](https://www.scrumguides.org/)

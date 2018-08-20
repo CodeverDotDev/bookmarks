@@ -1,5 +1,12 @@
 pwa 
 ---
+* [Service Workers - Practical Guided Introduction (several examples)](https://blog.angular-university.io/service-workers/)
+    * :calendar: published on: 2018-06-18
+    * tags: [pwa](../tags/pwa.md), [service-worker](../tags/service-worker.md), [javascript](../tags/javascript.md)
+    * :octocat: [github url](https://github.com/angular-university/service-workers-guide)
+* [Angular Service Worker - Step-By-Step Guide](https://blog.angular-university.io/angular-service-worker/)
+    * :calendar: published on: 2018-06-18
+    * tags: [angular](../tags/angular.md), [pwa](../tags/pwa.md)
 * [The offline cookbook - JakeArchibald.com](https://jakearchibald.com/2014/offline-cookbook/)
     * :calendar: published on: 2014-12-09
     * tags: [pwa](../tags/pwa.md), [offline-first](../tags/offline-first.md), [service-worker](../tags/service-worker.md)

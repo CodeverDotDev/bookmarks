@@ -1,5 +1,8 @@
 jvm 
 ---
+* [Metrics](https://metrics.dropwizard.io/)
+    * tags: [java](../tags/java.md), [jvm](../tags/jvm.md), [performance](../tags/performance.md)
+    * :octocat: [github url](https://github.com/dropwizard/metrics)
 * [Announcing GraalVM: Run Programs Faster Anywhere](https://blogs.oracle.com/developers/announcing-graalvm)
     * tags: [java](../tags/java.md), [jvm](../tags/jvm.md), [virtual-machine](../tags/virtual-machine.md)
     * :octocat: [github url](https://github.com/oracle/graal)

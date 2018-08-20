@@ -1,5 +1,15 @@
 angular 
 ---
+* [Angular Material Dialog: A Complete Example](https://blog.angular-university.io/angular-material-dialog/)
+    * :calendar: published on: 2018-06-18
+    * tags: [angular](../tags/angular.md), [angular-material](../tags/angular-material.md)
+    * :octocat: [github url](https://github.com/angular-university/angular-material-course)
+* [Angular Classes with NgClass](https://toddmotto.com/ng-class-angular-classes)
+    * :calendar: published on: 2018-01-18
+    * tags: [angular](../tags/angular.md)
+* [Angular Service Worker - Step-By-Step Guide](https://blog.angular-university.io/angular-service-worker/)
+    * :calendar: published on: 2018-06-18
+    * tags: [angular](../tags/angular.md), [pwa](../tags/pwa.md)
 * [RxJs Mapping: switchMap vs mergeMap vs concatMap vs exhaustMap](https://blog.angular-university.io/rxjs-higher-order-mapping/)
     * :calendar: published on: 2018-07-18
     * tags: [rxjs](../tags/rxjs.md), [angular](../tags/angular.md)
@@ -273,7 +283,7 @@ angular
     * tags: [angular](../tags/angular.md), [open-source](../tags/open-source.md)
 * [Cold vs Hot Observables by thoughtram](https://blog.thoughtram.io/angular/2016/06/16/cold-vs-hot-observables.html)
     * tags: [angular](../tags/angular.md), [observable](../tags/observable.md), [rxjs](../tags/rxjs.md)
-* [Angular.io - Component Interaction - ts - COOKBOOK](https://angular.io/guide/component-interaction)
+* [Angular.io - Component Interaction](https://angular.io/guide/component-interaction)
     * tags: [angular](../tags/angular.md), [docs](../tags/docs.md), [cookbook](../tags/cookbook.md)
 * [Angular 2 Application Architecture: Build Reux-like Apps with RxJs](http://blog.angular-university.io/angular-2-application-architecture-building-applications-using-rxjs-and-functional-reactive-programming-vs-redux/)
     * tags: [angular](../tags/angular.md), [rxjs](../tags/rxjs.md), [application-architecture](../tags/application-architecture.md)

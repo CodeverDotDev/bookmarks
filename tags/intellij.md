@@ -1,5 +1,7 @@
 intellij 
 ---
+* [Tuning IntelliJ IDEA - Help](https://www.jetbrains.com/help/idea/tuning-the-ide.html)
+    * tags: [intellij](../tags/intellij.md), [performance](../tags/performance.md)
 * [Open in terminal :: JetBrains Plugin Repository](https://plugins.jetbrains.com/plugin/7817-open-in-terminal)
     * tags: [intellij](../tags/intellij.md), [webstorm](../tags/webstorm.md), [plugins](../tags/plugins.md)
     * :octocat: [github url](https://github.com/luktom/OpenInTerminal)

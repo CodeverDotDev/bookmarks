@@ -1,5 +1,7 @@
 web 
 ---
+* [Why Performance Matters](https://developers.google.com/web/fundamentals/performance/why-performance-matters/)
+    * tags: [web](../tags/web.md), [performance](../tags/performance.md)
 * [What Happens If Your JWT Is Stolen?](https://developer.okta.com/blog/2018/06/20/what-happens-if-your-jwt-is-stolen)
     * tags: [security](../tags/security.md), [jwt](../tags/jwt.md), [web](../tags/web.md)
 * [Web security](https://developer.mozilla.org/en-US/docs/Web/Security)

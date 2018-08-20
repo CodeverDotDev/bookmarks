@@ -1,5 +1,12 @@
 performance 
 ---
+* [Metrics](https://metrics.dropwizard.io/)
+    * tags: [java](../tags/java.md), [jvm](../tags/jvm.md), [performance](../tags/performance.md)
+    * :octocat: [github url](https://github.com/dropwizard/metrics)
+* [Tuning IntelliJ IDEA - Help](https://www.jetbrains.com/help/idea/tuning-the-ide.html)
+    * tags: [intellij](../tags/intellij.md), [performance](../tags/performance.md)
+* [Why Performance Matters](https://developers.google.com/web/fundamentals/performance/why-performance-matters/)
+    * tags: [web](../tags/web.md), [performance](../tags/performance.md)
 * [Richard Clayton - Speaking Intelligently about "Java vs Node" Performance](https://rclayton.silvrback.com/speaking-intelligently-about-java-vs-node-performance)
     * tags: [java](../tags/java.md), [nodejs](../tags/nodejs.md), [performance](../tags/performance.md), [concurrency](../tags/concurrency.md), [benchmarking](../tags/benchmarking.md)
 * [5 Tips to Increase Node.js Application Performance](https://www.nginx.com/blog/5-performance-tips-for-node-js-applications/)

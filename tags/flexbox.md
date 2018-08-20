@@ -1,5 +1,8 @@
 flexbox 
 ---
+* [alignment - CSS align one item right with flexbox - Stack Overflow](https://stackoverflow.com/questions/35269947/css-align-one-item-right-with-flexbox)
+    * :calendar: published on: 2016-02-01
+    * tags: [flexbox](../tags/flexbox.md)
 * [Even more about how Flexbox works — explained in big, colorful, animated gifs](https://medium.freecodecamp.org/even-more-about-how-flexbox-works-explained-in-big-colorful-animated-gifs-a5a74812b053)
     * :calendar: published on: 2017-02-21
     * tags: [flexbox](../tags/flexbox.md)

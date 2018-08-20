@@ -1,5 +1,15 @@
 javascript 
 ---
+* [InversifyJS a powerful IoC container for JavaScript apps powered by TypeScript](http://inversify.io/)
+    * tags: [nodejs](../tags/nodejs.md), [typescript](../tags/typescript.md), [javascript](../tags/javascript.md)
+    * :octocat: [github url](https://github.com/inversify/InversifyJS/)
+* [Service Workers - Practical Guided Introduction (several examples)](https://blog.angular-university.io/service-workers/)
+    * :calendar: published on: 2018-06-18
+    * tags: [pwa](../tags/pwa.md), [service-worker](../tags/service-worker.md), [javascript](../tags/javascript.md)
+    * :octocat: [github url](https://github.com/angular-university/service-workers-guide)
+* [Preact](https://preactjs.com/)
+    * tags: [javascript](../tags/javascript.md), [frameworks](../tags/frameworks.md)
+    * :octocat: [github url](https://github.com/developit/preact/)
 * [Asynchrony: Under the Hood - Shelley Vohr - JSConf EU 2018 - YouTube](https://www.youtube.com/watch?v=SrNQS8J67zc)
     * :calendar: published on: 2018-06-27
     * tags: [javascript](../tags/javascript.md), [async](../tags/async.md)
@@ -19,6 +29,9 @@ javascript
     * :octocat: [github url](https://github.com/ivanakimov/hashids.js)
 * [Array.prototype.sort() - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort)
     * tags: [javascript](../tags/javascript.md)
+* [JavaScript End to End Testing Framework](https://www.cypress.io/)
+    * tags: [testing](../tags/testing.md), [javascript](../tags/javascript.md)
+    * :octocat: [github url](https://github.com/cypress-io/cypress)
 * [JavaScript Air](https://javascriptair.com/)
     * tags: [javascript](../tags/javascript.md), [podcast](../tags/podcast.md)
 * [ES6 In Depth – Mozilla Hacks – the Web developer blog](https://hacks.mozilla.org/category/es6-in-depth/)

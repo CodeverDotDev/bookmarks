@@ -1,5 +1,8 @@
 typescript 
 ---
+* [InversifyJS a powerful IoC container for JavaScript apps powered by TypeScript](http://inversify.io/)
+    * tags: [nodejs](../tags/nodejs.md), [typescript](../tags/typescript.md), [javascript](../tags/javascript.md)
+    * :octocat: [github url](https://github.com/inversify/InversifyJS/)
 * [intellij idea - WebStorm/PhpStorm double quotes in TypeScript auto import - Stack Overflow](https://stackoverflow.com/questions/39779272/webstorm-phpstorm-double-quotes-in-typescript-auto-import)
     * tags: [intellij](../tags/intellij.md), [webstorm](../tags/webstorm.md), [typescript](../tags/typescript.md)
 * [Declaration Merging     ](https://www.typescriptlang.org/docs/handbook/declaration-merging.html)

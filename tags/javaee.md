@@ -1,5 +1,11 @@
 javaee 
 ---
+* [Creating clustered EJB 3 Timers ](http://www.mastertheboss.com/jboss-server/wildfly-8/creating-clustered-ejb-3-timers)
+    * tags: [javaee](../tags/javaee.md), [wildfly](../tags/wildfly.md), [scheduling](../tags/scheduling.md)
+* [Scheduling in Java EE](https://www.baeldung.com/scheduling-in-java-enterprise-edition)
+    * :calendar: published on: 2017-11-30
+    * tags: [javaee](../tags/javaee.md), [scheduling](../tags/scheduling.md)
+    * :octocat: [github url](https://github.com/eugenp/tutorials/tree/master/jee-7)
 * [Complete Guide: Inheritance strategies with JPA and Hibernate](https://www.thoughts-on-java.org/complete-guide-inheritance-strategies-jpa-hibernate/)
     * tags: [java](../tags/java.md), [javaee](../tags/javaee.md), [jpa](../tags/jpa.md), [hibernate](../tags/hibernate.md)
 * [java ee - Unsatisfied dependencies for type X with qualifiers @Default - Stack Overflow](https://stackoverflow.com/questions/27706091/unsatisfied-dependencies-for-type-x-with-qualifiers-default?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa)

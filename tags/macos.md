@@ -1,5 +1,8 @@
 macos 
 ---
+* [iStats by Chris911](http://chris911.github.io/iStats/)
+    * tags: [ruby](../tags/ruby.md), [osx](../tags/osx.md), [macOS](../tags/macOS.md)
+    * :octocat: [github url](https://github.com/Chris911/iStats)
 * [macos - Open terminal here in Mac OS finder - Stack Overflow](https://stackoverflow.com/questions/420456/open-terminal-here-in-mac-os-finder/7054045#7054045)
     * tags: [osx](../tags/osx.md), [macOS](../tags/macOS.md)
 * [Starting and Stopping Background Services with HomebrewBlog home](https://robots.thoughtbot.com/starting-and-stopping-background-services-with-homebrew)
