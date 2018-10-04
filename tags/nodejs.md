@@ -1,5 +1,19 @@
 nodejs 
 ---
+* [A simply step by step Keycloak, MySQL and Node.js integration tutorial](https://github.com/v-ladynev/keycloak-nodejs-example)
+    * tags: [keycloak](../tags/keycloak.md), [nodejs](../tags/nodejs.md)
+    * :octocat: [github url](https://github.com/v-ladynev/keycloak-nodejs-example)
+* [GitHub - BryanDonovan/node-cache-manager](https://github.com/BryanDonovan/node-cache-manager)
+    * tags: [nodejs](../tags/nodejs.md), [caching](../tags/caching.md), [async-await](../tags/async-await.md)
+* [GitHub - kelektiv/node-cron: Cron for NodeJS.](https://github.com/kelektiv/node-cron)
+    * tags: [nodejs](../tags/nodejs.md), [cron](../tags/cron.md)
+    * :octocat: [github url](https://github.com/kelektiv/node-cron)
+* [Node-cron](http://merencia.github.io/node-cron/)
+    * tags: [nodejs](../tags/nodejs.md), [scheduler](../tags/scheduler.md), [scheduling](../tags/scheduling.md)
+    * :octocat: [github url](https://github.com/merencia/node-cron)
+* [Parallel calls with async-await in javascript - I promise you all performance and simplicity](http://www.codingpedia.org/ama/parallel-calls-with-async-await-in-javascript-i-promise-you-all-performance-and-simplicity)
+    * :calendar: published on: 2017-11-13
+    * tags: [nodejs](../tags/nodejs.md), [async-await](../tags/async-await.md), [async](../tags/async.md), [javascript](../tags/javascript.md)
 * [InversifyJS a powerful IoC container for JavaScript apps powered by TypeScript](http://inversify.io/)
     * tags: [nodejs](../tags/nodejs.md), [typescript](../tags/typescript.md), [javascript](../tags/javascript.md)
     * :octocat: [github url](https://github.com/inversify/InversifyJS/)

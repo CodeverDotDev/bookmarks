@@ -2,6 +2,9 @@ database
 ---
 * [Transaction log - Wikipedia](https://en.wikipedia.org/wiki/Transaction_log)
     * tags: [database](../tags/database.md), [glossary](../tags/glossary.md)
+* [Redis](https://redis.io/)
+    * tags: [caching](../tags/caching.md), [in-memory](../tags/in-memory.md), [database](../tags/database.md)
+    * :octocat: [github url](https://github.com/antirez/redis)
 * [What is Database Design, Anyway?](http://www.oreilly.com/data/free/what-is-database-design-anyway.csp)
     * tags: [free-programming-books](../tags/free-programming-books.md), [database](../tags/database.md), [language-agnostic](../tags/language-agnostic.md)
 * [The Theory of Relational Databases](http://web.cecs.pdx.edu/~maier/TheoryBook/TRD.html)

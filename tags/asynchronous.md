@@ -1,5 +1,7 @@
 asynchronous 
 ---
+* [@Asynchronous does not work from inside the same EJB](https://www.whitebyte.info/programming/java/asynchronous-does-not-work-from-inside-the-same-ejb)
+    * tags: [javaee](../tags/javaee.md), [ejb](../tags/ejb.md), [asynchronous](../tags/asynchronous.md), [async](../tags/async.md)
 * [Guide To CompletableFuture | Baeldung](http://www.baeldung.com/java-completablefuture)
     * :calendar: published on: 2017-09-23
     * tags: [java](../tags/java.md), [asynchronous](../tags/asynchronous.md)

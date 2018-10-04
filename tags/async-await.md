@@ -1,5 +1,10 @@
 async-await 
 ---
+* [GitHub - BryanDonovan/node-cache-manager](https://github.com/BryanDonovan/node-cache-manager)
+    * tags: [nodejs](../tags/nodejs.md), [caching](../tags/caching.md), [async-await](../tags/async-await.md)
+* [Parallel calls with async-await in javascript - I promise you all performance and simplicity](http://www.codingpedia.org/ama/parallel-calls-with-async-await-in-javascript-i-promise-you-all-performance-and-simplicity)
+    * :calendar: published on: 2017-11-13
+    * tags: [nodejs](../tags/nodejs.md), [async-await](../tags/async-await.md), [async](../tags/async.md), [javascript](../tags/javascript.md)
 * [Common Async/Await Design Patterns in Node.js | www.thecodebarbarian.com](http://thecodebarbarian.com/common-async-await-design-patterns-in-node.js.html)
     * :calendar: published on: 2017-03-15
     * tags: [nodejs](../tags/nodejs.md), [async-await](../tags/async-await.md), [mongodb](../tags/mongodb.md)

@@ -1,5 +1,8 @@
 scheduling 
 ---
+* [Node-cron](http://merencia.github.io/node-cron/)
+    * tags: [nodejs](../tags/nodejs.md), [scheduler](../tags/scheduler.md), [scheduling](../tags/scheduling.md)
+    * :octocat: [github url](https://github.com/merencia/node-cron)
 * [Creating clustered EJB 3 Timers ](http://www.mastertheboss.com/jboss-server/wildfly-8/creating-clustered-ejb-3-timers)
     * tags: [javaee](../tags/javaee.md), [wildfly](../tags/wildfly.md), [scheduling](../tags/scheduling.md)
 * [Scheduling in Java EE](https://www.baeldung.com/scheduling-in-java-enterprise-edition)

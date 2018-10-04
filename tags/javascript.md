@@ -1,5 +1,11 @@
 javascript 
 ---
+* [Modern Visualization for the Data Era - Plotly](https://plot.ly/)
+    * tags: [charts](../tags/charts.md), [javascript](../tags/javascript.md), [python](../tags/python.md), [data-science](../tags/data-science.md)
+    * :octocat: [github url](https://github.com/plotly/plotly.js/)
+* [Parallel calls with async-await in javascript - I promise you all performance and simplicity](http://www.codingpedia.org/ama/parallel-calls-with-async-await-in-javascript-i-promise-you-all-performance-and-simplicity)
+    * :calendar: published on: 2017-11-13
+    * tags: [nodejs](../tags/nodejs.md), [async-await](../tags/async-await.md), [async](../tags/async.md), [javascript](../tags/javascript.md)
 * [InversifyJS a powerful IoC container for JavaScript apps powered by TypeScript](http://inversify.io/)
     * tags: [nodejs](../tags/nodejs.md), [typescript](../tags/typescript.md), [javascript](../tags/javascript.md)
     * :octocat: [github url](https://github.com/inversify/InversifyJS/)

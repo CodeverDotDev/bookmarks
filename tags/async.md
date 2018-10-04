@@ -1,5 +1,10 @@
 async 
 ---
+* [@Asynchronous does not work from inside the same EJB](https://www.whitebyte.info/programming/java/asynchronous-does-not-work-from-inside-the-same-ejb)
+    * tags: [javaee](../tags/javaee.md), [ejb](../tags/ejb.md), [asynchronous](../tags/asynchronous.md), [async](../tags/async.md)
+* [Parallel calls with async-await in javascript - I promise you all performance and simplicity](http://www.codingpedia.org/ama/parallel-calls-with-async-await-in-javascript-i-promise-you-all-performance-and-simplicity)
+    * :calendar: published on: 2017-11-13
+    * tags: [nodejs](../tags/nodejs.md), [async-await](../tags/async-await.md), [async](../tags/async.md), [javascript](../tags/javascript.md)
 * [Asynchrony: Under the Hood - Shelley Vohr - JSConf EU 2018 - YouTube](https://www.youtube.com/watch?v=SrNQS8J67zc)
     * :calendar: published on: 2018-06-27
     * tags: [javascript](../tags/javascript.md), [async](../tags/async.md)

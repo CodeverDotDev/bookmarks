@@ -1,5 +1,8 @@
 angular 
 ---
+* [Angular Development Mode: What is Unidirectional Data Flow?](https://blog.angular-university.io/angular-2-what-is-unidirectional-data-flow-development-mode/)
+    * :calendar: published on: 2018-06-18
+    * tags: [angular](../tags/angular.md)
 * [Angular Material Dialog: A Complete Example](https://blog.angular-university.io/angular-material-dialog/)
     * :calendar: published on: 2018-06-18
     * tags: [angular](../tags/angular.md), [angular-material](../tags/angular-material.md)

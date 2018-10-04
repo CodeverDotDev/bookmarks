@@ -1,5 +1,10 @@
 caching 
 ---
+* [GitHub - BryanDonovan/node-cache-manager](https://github.com/BryanDonovan/node-cache-manager)
+    * tags: [nodejs](../tags/nodejs.md), [caching](../tags/caching.md), [async-await](../tags/async-await.md)
+* [How to build and clear a reference data cache with singleton EJBs and MBeans](http://www.codingpedia.org/ama/how-to-build-and-clear-a-reference-data-cache-with-singleton-ejbs-and-mbeans/)
+    * :calendar: published on: 2014-09-19
+    * tags: [caching](../tags/caching.md), [ejb](../tags/ejb.md), [javaee](../tags/javaee.md)
 * [GitHub - ptarjan/node-cache: A simple in-memory cache for nodejs](https://github.com/ptarjan/node-cache)
     * tags: [nodejs](../tags/nodejs.md), [caching](../tags/caching.md)
     * :octocat: [github url](https://github.com/ptarjan/node-cache)
@@ -18,7 +23,7 @@ caching
     * tags: [nosql](../tags/nosql.md), [java](../tags/java.md), [in-memory](../tags/in-memory.md), [distributed-cache](../tags/distributed-cache.md), [caching](../tags/caching.md)
     * :octocat: [github url](https://github.com/infinispan/infinispan)
 * [Redis](https://redis.io/)
-    * tags: [caching](../tags/caching.md)
+    * tags: [caching](../tags/caching.md), [in-memory](../tags/in-memory.md), [database](../tags/database.md)
     * :octocat: [github url](https://github.com/antirez/redis)
 * [memcached - a distributed memory object caching system](http://memcached.org/)
     * tags: [memcached](../tags/memcached.md), [caching](../tags/caching.md)

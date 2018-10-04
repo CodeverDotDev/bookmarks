@@ -1,5 +1,8 @@
 python 
 ---
+* [Modern Visualization for the Data Era - Plotly](https://plot.ly/)
+    * tags: [charts](../tags/charts.md), [javascript](../tags/javascript.md), [python](../tags/python.md), [data-science](../tags/data-science.md)
+    * :octocat: [github url](https://github.com/plotly/plotly.js/)
 * [Raymond Hettinger - Beyond PEP 8 -- Best practices for beautiful intelligible code - PyCon 2015 - YouTube](https://www.youtube.com/watch?v=wf-BqAjZb8M)
     * :calendar: published on: 2014-04-11
     * tags: [python](../tags/python.md)

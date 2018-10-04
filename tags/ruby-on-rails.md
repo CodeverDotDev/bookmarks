@@ -1,5 +1,8 @@
 ruby-on-rails 
 ---
+* [Guides - Rails Girls](http://guides.railsgirls.com/)
+    * tags: [ruby](../tags/ruby.md), [ruby-on-rails](../tags/ruby-on-rails.md)
+    * :octocat: [github url](https://github.com/railsgirls/railsgirls.github.io/)
 * [Ruby on Rails 3.2 für Ein-, Um- und Quereinsteiger](http://ruby-auf-schienen.de/3.2/)
     * tags: [free-programming-books](../tags/free-programming-books.md), [ruby-on-rails](../tags/ruby-on-rails.md), [free-programming-books-de](../tags/free-programming-books-de.md)
 * [Ruby on Rails 2](http://openbook.rheinwerk-verlag.de/ruby_on_rails/)

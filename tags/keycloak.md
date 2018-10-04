@@ -1,5 +1,8 @@
 keycloak 
 ---
+* [A simply step by step Keycloak, MySQL and Node.js integration tutorial](https://github.com/v-ladynev/keycloak-nodejs-example)
+    * tags: [keycloak](../tags/keycloak.md), [nodejs](../tags/nodejs.md)
+    * :octocat: [github url](https://github.com/v-ladynev/keycloak-nodejs-example)
 * [GitHub - mauriciovigolo/keycloak-angular: Easy Keycloak setup for Angular applications (v>4.3)](https://github.com/mauriciovigolo/keycloak-angular)
     * tags: [keycloak](../tags/keycloak.md), [angular](../tags/angular.md)
     * :octocat: [github url](https://github.com/mauriciovigolo/keycloak-angular)

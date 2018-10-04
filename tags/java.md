@@ -1,5 +1,7 @@
 java 
 ---
+* [JPA EntityManager: Why use persist() over merge()? - Stack Overflow](https://stackoverflow.com/questions/1069992/jpa-entitymanager-why-use-persist-over-merge)
+    * tags: [jpa](../tags/jpa.md), [java](../tags/java.md)
 * [Metrics](https://metrics.dropwizard.io/)
     * tags: [java](../tags/java.md), [jvm](../tags/jvm.md), [performance](../tags/performance.md)
     * :octocat: [github url](https://github.com/dropwizard/metrics)

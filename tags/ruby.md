@@ -1,5 +1,8 @@
 ruby 
 ---
+* [Guides - Rails Girls](http://guides.railsgirls.com/)
+    * tags: [ruby](../tags/ruby.md), [ruby-on-rails](../tags/ruby-on-rails.md)
+    * :octocat: [github url](https://github.com/railsgirls/railsgirls.github.io/)
 * [iStats by Chris911](http://chris911.github.io/iStats/)
     * tags: [ruby](../tags/ruby.md), [osx](../tags/osx.md), [macOS](../tags/macOS.md)
     * :octocat: [github url](https://github.com/Chris911/iStats)
