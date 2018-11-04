@@ -1,5 +1,8 @@
 macos 
 ---
+* [Kubernetes in Docker for Mac - YouTube](https://www.youtube.com/watch?v=jWupQjdjLN0)
+    * :calendar: published on: 2017-10-17
+    * tags: [docker](../tags/docker.md), [macOS](../tags/macOS.md), [kubernetes](../tags/kubernetes.md)
 * [iStats by Chris911](http://chris911.github.io/iStats/)
     * tags: [ruby](../tags/ruby.md), [osx](../tags/osx.md), [macOS](../tags/macOS.md)
     * :octocat: [github url](https://github.com/Chris911/iStats)

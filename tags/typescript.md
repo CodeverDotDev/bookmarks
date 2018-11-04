@@ -1,5 +1,11 @@
 typescript 
 ---
+* [Adapter (TypeScript Design Patterns) - YouTube](https://www.youtube.com/watch?v=beU4i949YXU)
+    * :calendar: published on: 2017-04-25
+    * tags: [design-patterns](../tags/design-patterns.md), [typescript](../tags/typescript.md)
+* [LoopBack 4](http://v4.loopback.io/)
+    * tags: [nodejs](../tags/nodejs.md), [typescript](../tags/typescript.md), [openapi](../tags/openapi.md), [rest](../tags/rest.md)
+    * :octocat: [github url](https://github.com/strongloop/loopback-next)
 * [InversifyJS a powerful IoC container for JavaScript apps powered by TypeScript](http://inversify.io/)
     * tags: [nodejs](../tags/nodejs.md), [typescript](../tags/typescript.md), [javascript](../tags/javascript.md)
     * :octocat: [github url](https://github.com/inversify/InversifyJS/)

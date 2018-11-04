@@ -1,5 +1,9 @@
 java 
 ---
+* [Strategy Design Pattern in Java 8](https://www.baeldung.com/java-strategy-pattern)
+    * :calendar: published on: 2018-04-04
+    * tags: [java](../tags/java.md), [design-patterns](../tags/design-patterns.md)
+    * :octocat: [github url](https://github.com/eugenp/tutorials/tree/master/core-java-8)
 * [JPA EntityManager: Why use persist() over merge()? - Stack Overflow](https://stackoverflow.com/questions/1069992/jpa-entitymanager-why-use-persist-over-merge)
     * tags: [jpa](../tags/jpa.md), [java](../tags/java.md)
 * [Metrics](https://metrics.dropwizard.io/)

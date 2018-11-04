@@ -1,5 +1,7 @@
 database 
 ---
+* [Two-phase commit protocol - Wikipedia](https://en.wikipedia.org/wiki/Two-phase_commit_protocol)
+    * tags: [transactions](../tags/transactions.md), [database](../tags/database.md), [database-design](../tags/database-design.md)
 * [Transaction log - Wikipedia](https://en.wikipedia.org/wiki/Transaction_log)
     * tags: [database](../tags/database.md), [glossary](../tags/glossary.md)
 * [Redis](https://redis.io/)

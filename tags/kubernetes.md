@@ -1,5 +1,14 @@
 kubernetes 
 ---
+* [Spring Boot Micro-services, Containers, and Kubernetes - How To - YouTube](https://www.youtube.com/watch?v=Bcs-inRnLDc)
+    * :calendar: published on: 2015-10-19
+    * tags: [spring-boot](../tags/spring-boot.md), [kubernetes](../tags/kubernetes.md), [microservices](../tags/microservices.md)
+* [Kubernetes in Docker for Mac - YouTube](https://www.youtube.com/watch?v=jWupQjdjLN0)
+    * :calendar: published on: 2017-10-17
+    * tags: [docker](../tags/docker.md), [macOS](../tags/macOS.md), [kubernetes](../tags/kubernetes.md)
+* [Jenkins X home](https://jenkins-x.io/)
+    * tags: [jenkins](../tags/jenkins.md), [kubernetes](../tags/kubernetes.md), [tools](../tags/tools.md)
+    * :octocat: [github url](https://github.com/jenkins-x/jx)
 * [Orchestrating Node.js Containers with Kubernetes - NodeSource](https://nodesource.com/blog/orchestrating-nodejs-containers-with-kubernetes)
     * :calendar: published on: 2018-05-07
     * tags: [nodejs](../tags/nodejs.md), [kubernetes](../tags/kubernetes.md)

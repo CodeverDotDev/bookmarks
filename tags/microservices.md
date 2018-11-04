@@ -1,5 +1,8 @@
 microservices 
 ---
+* [Spring Boot Micro-services, Containers, and Kubernetes - How To - YouTube](https://www.youtube.com/watch?v=Bcs-inRnLDc)
+    * :calendar: published on: 2015-10-19
+    * tags: [spring-boot](../tags/spring-boot.md), [kubernetes](../tags/kubernetes.md), [microservices](../tags/microservices.md)
 * [Microservices in Java? Never. – codeburst](https://codeburst.io/microservices-in-java-never-a7f3a2540dbb)
     * :calendar: published on: 2017-10-15
     * tags: [java](../tags/java.md), [microservices](../tags/microservices.md)

@@ -1,5 +1,7 @@
 security 
 ---
+* [Category:OWASP Top Ten Project - OWASP](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)
+    * tags: [security](../tags/security.md)
 * [Public key fingerprint - Wikipedia](https://en.wikipedia.org/wiki/Public_key_fingerprint)
     * tags: [cryptography](../tags/cryptography.md), [security](../tags/security.md)
 * [ISC 2 CISSP Certified Information Systems Security Professional Official Study Guide and Official Practice Tests Kit](https://www.amazon.com/dp/1119523265/ref=cm_sw_r_cp_apa_EobmBbVYKBPT0)

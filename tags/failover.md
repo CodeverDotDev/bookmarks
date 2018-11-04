@@ -1,7 +1,5 @@
-troubleshooting 
+failover 
 ---
 * [Catastrophic Failover](https://martinfowler.com/bliki/CatastrophicFailover.html)
     * :calendar: published on: 2010-03-18
     * tags: [troubleshooting](../tags/troubleshooting.md), [failover](../tags/failover.md)
-* [VisualVM: Home](https://visualvm.github.io/)
-    * tags: [java](../tags/java.md), [troubleshooting](../tags/troubleshooting.md), [dev-tools](../tags/dev-tools.md)

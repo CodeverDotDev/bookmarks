@@ -1,5 +1,8 @@
 flask 
 ---
+* [Flask](https://www.palletsprojects.com/p/flask/)
+    * tags: [flask](../tags/flask.md), [python](../tags/python.md)
+    * :octocat: [github url](https://github.com/pallets/flask)
 * [Flask ハンズオン](http://methane.github.io/flask-handson/)
     * tags: [free-programming-books-ja](../tags/free-programming-books-ja.md), [free-programming-books](../tags/free-programming-books.md), [python](../tags/python.md), [flask](../tags/flask.md)
 * [Flask ドキュメント](http://flask-docs-ja.readthedocs.org)

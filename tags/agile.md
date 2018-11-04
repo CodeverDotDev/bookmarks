@@ -1,5 +1,8 @@
 agile 
 ---
+* [On Code Reviews – Nick Schrock – Medium](https://medium.com/@schrockn/on-code-reviews-b1c7c94d868c)
+    * :calendar: published on: 2018-10-03
+    * tags: [agile](../tags/agile.md)
 * [Understanding the Scrum Burndown Chart](http://www.methodsandtools.com/archive/scrumburndown.php)
     * tags: [agile](../tags/agile.md), [scrum](../tags/scrum.md)
 * [Agile Thinking : Stop Starting, Start Finishing](http://www.agilebuddha.com/agile/agile-thinking-stop-starting-start-finishing/)

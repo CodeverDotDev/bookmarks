@@ -1,5 +1,8 @@
 maven 
 ---
+* [Maven wrapper](https://github.com/takari/maven-wrapper)
+    * tags: [maven](../tags/maven.md)
+    * :octocat: [github url](https://github.com/takari/maven-wrapper)
 * [Calen Legaspi: Separating Integration Tests from Unit Tests Using Maven Failsafe & JUnit @Category](http://calenlegaspi.blogspot.ch/2015/01/separating-integration-tests-from-unit.html)
     * :calendar: published on: 2015-01-23
     * tags: [testing](../tags/testing.md), [unit-testing](../tags/unit-testing.md), [maven](../tags/maven.md)

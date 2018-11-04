@@ -1,5 +1,10 @@
 docs 
 ---
+* [Get started with Docker for Mac](https://docs.docker.com/docker-for-mac/)
+    * tags: [docker](../tags/docker.md), [mac](../tags/mac.md), [docs](../tags/docs.md)
+* [Graylog documentation ](http://docs.graylog.org)
+    * tags: [logging](../tags/logging.md), [graylog](../tags/graylog.md), [tools](../tags/tools.md), [docs](../tags/docs.md)
+    * :octocat: [github url](https://github.com/Graylog2)
 * [Bundler - The best way to manage a Ruby application's gems    ](http://bundler.io/docs.html)
     * tags: [ruby](../tags/ruby.md), [docs](../tags/docs.md)
 * [Using Jekyll as a static site generator with GitHub Pages - User Documentation        ](https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/)

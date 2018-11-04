@@ -1,5 +1,8 @@
 javaee 
 ---
+* [Transaction strategies: Understanding transaction pitfalls](https://www.ibm.com/developerworks/library/j-ts1/index.html)
+    * :calendar: published on: 2009-02-10
+    * tags: [javaee](../tags/javaee.md), [spring](../tags/spring.md), [transactions](../tags/transactions.md)
 * [@Asynchronous does not work from inside the same EJB](https://www.whitebyte.info/programming/java/asynchronous-does-not-work-from-inside-the-same-ejb)
     * tags: [javaee](../tags/javaee.md), [ejb](../tags/ejb.md), [asynchronous](../tags/asynchronous.md), [async](../tags/async.md)
 * [How to build and clear a reference data cache with singleton EJBs and MBeans](http://www.codingpedia.org/ama/how-to-build-and-clear-a-reference-data-cache-with-singleton-ejbs-and-mbeans/)

@@ -1,5 +1,17 @@
 design-patterns 
 ---
+* [Tolerant Reader](https://martinfowler.com/bliki/TolerantReader.html)
+    * :calendar: published on: 2011-05-09
+    * tags: [design-patterns](../tags/design-patterns.md), [rest](../tags/rest.md), [rest-client](../tags/rest-client.md)
+* [Refactoring and Design Patterns](https://refactoring.guru/)
+    * tags: [refactoring](../tags/refactoring.md), [design-patterns](../tags/design-patterns.md)
+* [Adapter (TypeScript Design Patterns) - YouTube](https://www.youtube.com/watch?v=beU4i949YXU)
+    * :calendar: published on: 2017-04-25
+    * tags: [design-patterns](../tags/design-patterns.md), [typescript](../tags/typescript.md)
+* [Strategy Design Pattern in Java 8](https://www.baeldung.com/java-strategy-pattern)
+    * :calendar: published on: 2018-04-04
+    * tags: [java](../tags/java.md), [design-patterns](../tags/design-patterns.md)
+    * :octocat: [github url](https://github.com/eugenp/tutorials/tree/master/core-java-8)
 * [On The Subject Of Subjects (in RxJS) – Ben Lesh ](https://medium.com/@benlesh/on-the-subject-of-subjects-in-rxjs-2b08b7198b93)
     * :calendar: published on: 2016-12-10
     * tags: [rxjs](../tags/rxjs.md), [design-patterns](../tags/design-patterns.md)

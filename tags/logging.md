@@ -1,5 +1,8 @@
 logging 
 ---
+* [Graylog documentation ](http://docs.graylog.org)
+    * tags: [logging](../tags/logging.md), [graylog](../tags/graylog.md), [tools](../tags/tools.md), [docs](../tags/docs.md)
+    * :octocat: [github url](https://github.com/Graylog2)
 * [GitHub - klauscfhq/signale: 👋 Hackable console logger](https://github.com/klauscfhq/signale)
     * tags: [nodejs](../tags/nodejs.md), [logging](../tags/logging.md)
 * [Apache Log4j 2](https://logging.apache.org/log4j/2.x/)

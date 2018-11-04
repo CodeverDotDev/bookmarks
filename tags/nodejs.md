@@ -1,5 +1,18 @@
 nodejs 
 ---
+* [The Paved PaaS To NodeJS MICROSERVICES (JavaScript @ Netflix) - YouTube](https://www.youtube.com/watch?v=QcNqfvMeWow)
+    * :calendar: published on: 2017-08-01
+    * tags: [nodejs](../tags/nodejs.md), [paas](../tags/paas.md), [architecture](../tags/architecture.md)
+* [LoopBack 4](http://v4.loopback.io/)
+    * tags: [nodejs](../tags/nodejs.md), [typescript](../tags/typescript.md), [openapi](../tags/openapi.md), [rest](../tags/rest.md)
+    * :octocat: [github url](https://github.com/strongloop/loopback-next)
+* [Using MongoDB as realtime DB with nodeJS. – Noteworthy - The Journal Blog](https://blog.usejournal.com/using-mongodb-as-realtime-db-with-nodejs-c6f52c266750)
+    * :calendar: published on: 2018-10-03
+    * tags: [mongodb](../tags/mongodb.md), [mongoose](../tags/mongoose.md), [nodejs](../tags/nodejs.md)
+* [Deploy a MERN stack app on Heroku – Crowdbotics – Medium](https://medium.com/crowdbotics/deploy-a-mern-stack-app-on-heroku-b0c255744a70)
+    * :calendar: published on: 2018-10-12
+    * tags: [reactjs](../tags/reactjs.md), [mern](../tags/mern.md), [nodejs](../tags/nodejs.md), [mongodb](../tags/mongodb.md), [expressjs](../tags/expressjs.md)
+    * :octocat: [github url](https://github.com/amandeepmittal/deploy-mern-on-heroku)
 * [A simply step by step Keycloak, MySQL and Node.js integration tutorial](https://github.com/v-ladynev/keycloak-nodejs-example)
     * tags: [keycloak](../tags/keycloak.md), [nodejs](../tags/nodejs.md)
     * :octocat: [github url](https://github.com/v-ladynev/keycloak-nodejs-example)

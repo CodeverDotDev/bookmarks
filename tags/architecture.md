@@ -1,5 +1,11 @@
 architecture 
 ---
+* [GOTO 2017 • The Many Meanings of Event-Driven Architecture • Martin Fowler - YouTube](https://www.youtube.com/watch?v=STKCRSUsyP0)
+    * :calendar: published on: 2017-05-11
+    * tags: [event-driven](../tags/event-driven.md), [event-driven-design](../tags/event-driven-design.md), [architecture](../tags/architecture.md), [cqrs](../tags/cqrs.md), [event-sourcing](../tags/event-sourcing.md)
+* [The Paved PaaS To NodeJS MICROSERVICES (JavaScript @ Netflix) - YouTube](https://www.youtube.com/watch?v=QcNqfvMeWow)
+    * :calendar: published on: 2017-08-01
+    * tags: [nodejs](../tags/nodejs.md), [paas](../tags/paas.md), [architecture](../tags/architecture.md)
 * [Angular  Architecture - Smart Components vs Presentational Components](https://blog.angular-university.io/angular-2-smart-components-vs-presentation-components-whats-the-difference-when-to-use-each-and-why/)
     * :calendar: published on: 2018-06-18
     * tags: [angular](../tags/angular.md), [architecture](../tags/architecture.md)

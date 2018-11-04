@@ -1,5 +1,16 @@
 docker 
 ---
+* [Docker SDK for Python](https://docker-py.readthedocs.io/)
+    * tags: [docker](../tags/docker.md), [python](../tags/python.md)
+    * :octocat: [github url](https://github.com/docker/docker-py)
+* [Get started with Docker for Mac](https://docs.docker.com/docker-for-mac/)
+    * tags: [docker](../tags/docker.md), [mac](../tags/mac.md), [docs](../tags/docs.md)
+* [GitHub - spotify/dockerfile-maven: A set of Maven tools for dealing with Dockerfiles](https://github.com/spotify/dockerfile-maven)
+    * tags: [docker](../tags/docker.md), [maven-plugin](../tags/maven-plugin.md)
+    * :octocat: [github url](https://github.com/spotify/dockerfile-maven)
+* [Kubernetes in Docker for Mac - YouTube](https://www.youtube.com/watch?v=jWupQjdjLN0)
+    * :calendar: published on: 2017-10-17
+    * tags: [docker](../tags/docker.md), [macOS](../tags/macOS.md), [kubernetes](../tags/kubernetes.md)
 * [GitHub - openshift/source-to-image: A tool for building/building artifacts from source and injecting into docker images](https://github.com/openshift/source-to-image)
     * tags: [openshift](../tags/openshift.md), [docker](../tags/docker.md), [continuous-deployment](../tags/continuous-deployment.md)
     * :octocat: [github url](https://github.com/openshift/source-to-image)

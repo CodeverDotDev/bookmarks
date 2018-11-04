@@ -1,5 +1,22 @@
 rest 
 ---
+* [  The Hypertext Application Language - HAL](http://stateless.co/hal_specification.html)
+    * tags: [hal](../tags/hal.md), [rest](../tags/rest.md)
+* [Parallel Change ](https://martinfowler.com/bliki/ParallelChange.html)
+    * :calendar: published on: 2014-05-13
+    * tags: [api-design](../tags/api-design.md), [rest](../tags/rest.md), [refactoring](../tags/refactoring.md)
+* [Tolerant Reader](https://martinfowler.com/bliki/TolerantReader.html)
+    * :calendar: published on: 2011-05-09
+    * tags: [design-patterns](../tags/design-patterns.md), [rest](../tags/rest.md), [rest-client](../tags/rest-client.md)
+* [Richardson Maturity Model](https://martinfowler.com/articles/richardsonMaturityModel.html)
+    * :calendar: published on: 2010-03-10
+    * tags: [rest](../tags/rest.md)
+* [Testing a Spring Boot REST API against a Consumer-Driven Contract with Pact - reflectoring](https://reflectoring.io/consumer-driven-contract-provider-pact-spring/)
+    * tags: [spring-boot](../tags/spring-boot.md), [api](../tags/api.md), [rest](../tags/rest.md), [testing](../tags/testing.md)
+    * :octocat: [github url](https://github.com/thombergs/code-examples/tree/master/pact/pact-spring-provider)
+* [LoopBack 4](http://v4.loopback.io/)
+    * tags: [nodejs](../tags/nodejs.md), [typescript](../tags/typescript.md), [openapi](../tags/openapi.md), [rest](../tags/rest.md)
+    * :octocat: [github url](https://github.com/strongloop/loopback-next)
 * [GitHub - awslabs/aws-serverless-express](https://github.com/awslabs/aws-serverless-express)
     * tags: [aws](../tags/aws.md), [nodejs](../tags/nodejs.md), [expressjs](../tags/expressjs.md), [rest](../tags/rest.md)
     * :octocat: [github url](https://github.com/awslabs/aws-serverless-express)

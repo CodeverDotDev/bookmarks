@@ -1,5 +1,15 @@
 spring 
 ---
+* [Spring Profiles](https://www.baeldung.com/spring-profiles)
+    * :calendar: published on: 2018-09-13
+    * tags: [spring](../tags/spring.md)
+    * :octocat: [github url](https://github.com/eugenp/tutorials/tree/master/spring-all)
+* [Transaction strategies: Understanding transaction pitfalls](https://www.ibm.com/developerworks/library/j-ts1/index.html)
+    * :calendar: published on: 2009-02-10
+    * tags: [javaee](../tags/javaee.md), [spring](../tags/spring.md), [transactions](../tags/transactions.md)
+* [Spring Boot](http://spring.io/projects/spring-boot)
+    * tags: [spring-boot](../tags/spring-boot.md), [spring](../tags/spring.md)
+    * :octocat: [github url](https://github.com/spring-projects/spring-boot)
 * [Spring Documentation](https://spring.io/docs)
     * tags: [spring](../tags/spring.md), [docs](../tags/docs.md)
 * [The Spring Blog](https://spring.io/blog)

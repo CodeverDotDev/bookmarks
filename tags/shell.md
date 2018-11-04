@@ -1,5 +1,8 @@
 shell 
 ---
+* [Oh My Zsh](https://ohmyz.sh/)
+    * tags: [shell](../tags/shell.md), [zsh](../tags/zsh.md), [tools](../tags/tools.md)
+    * :octocat: [github url](https://github.com/robbyrussell/oh-my-zsh)
 * [How to symlink a file in Linux? - Stack Overflow](https://stackoverflow.com/questions/1951742/how-to-symlink-a-file-in-linux)
     * tags: [linux](../tags/linux.md), [shell](../tags/shell.md)
 * [command line - How to show only hidden files in Terminal? - Ask Ubuntu](https://askubuntu.com/questions/468901/how-to-show-only-hidden-files-in-terminal)

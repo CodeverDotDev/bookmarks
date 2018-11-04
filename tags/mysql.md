@@ -1,5 +1,8 @@
 mysql 
 ---
+* [Sqlectron - One single DB client for any relational DB](https://sqlectron.github.io/)
+    * tags: [sql](../tags/sql.md), [tools](../tags/tools.md), [mysql](../tags/mysql.md)
+    * :octocat: [github url](https://github.com/sqlectron/sqlectron-gui/)
 * [MySQL](http://www.peterkropff.de/site/mysql/mysql.htm)
     * tags: [free-programming-books](../tags/free-programming-books.md), [free-programming-books-de](../tags/free-programming-books-de.md), [mysql](../tags/mysql.md)
 * [MySQL](http://profs.info.uaic.ro/~busaco/teach/courses/net/docs/mysql-ro.pdf)

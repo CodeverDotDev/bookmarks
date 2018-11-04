@@ -1,5 +1,16 @@
 spring-boot 
 ---
+* [Spring Boot Maven Plugin – Spring Boot](https://docs.spring.io/spring-boot/docs/current/maven-plugin/)
+    * tags: [spring-boot](../tags/spring-boot.md), [maven-plugin](../tags/maven-plugin.md)
+* [Spring Boot Micro-services, Containers, and Kubernetes - How To - YouTube](https://www.youtube.com/watch?v=Bcs-inRnLDc)
+    * :calendar: published on: 2015-10-19
+    * tags: [spring-boot](../tags/spring-boot.md), [kubernetes](../tags/kubernetes.md), [microservices](../tags/microservices.md)
+* [Testing a Spring Boot REST API against a Consumer-Driven Contract with Pact - reflectoring](https://reflectoring.io/consumer-driven-contract-provider-pact-spring/)
+    * tags: [spring-boot](../tags/spring-boot.md), [api](../tags/api.md), [rest](../tags/rest.md), [testing](../tags/testing.md)
+    * :octocat: [github url](https://github.com/thombergs/code-examples/tree/master/pact/pact-spring-provider)
+* [Spring Boot](http://spring.io/projects/spring-boot)
+    * tags: [spring-boot](../tags/spring-boot.md), [spring](../tags/spring.md)
+    * :octocat: [github url](https://github.com/spring-projects/spring-boot)
 * [Spring Boot Reference Guide](http://docs.spring.io/spring-boot/docs/current/reference/html/)
     * tags: [free-programming-books](../tags/free-programming-books.md), [java](../tags/java.md), [spring-boot](../tags/spring-boot.md)
 * [Database Versioning with Flyway and JavaButton - CloseLearn More](https://auth0.com/blog/incrementally-changing-your-database-with-java-and-flyway/)

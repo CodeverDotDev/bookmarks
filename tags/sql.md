@@ -1,5 +1,8 @@
 sql 
 ---
+* [Sqlectron - One single DB client for any relational DB](https://sqlectron.github.io/)
+    * tags: [sql](../tags/sql.md), [tools](../tags/tools.md), [mysql](../tags/mysql.md)
+    * :octocat: [github url](https://github.com/sqlectron/sqlectron-gui/)
 * [Knex.js - A SQL Query Builder for Javascript](http://knexjs.org/)
     * tags: [orm](../tags/orm.md), [sql](../tags/sql.md), [nodejs](../tags/nodejs.md)
     * :octocat: [github url](https://github.com/tgriesser/knex)

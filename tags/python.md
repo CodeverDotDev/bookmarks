@@ -1,5 +1,11 @@
 python 
 ---
+* [Docker SDK for Python](https://docker-py.readthedocs.io/)
+    * tags: [docker](../tags/docker.md), [python](../tags/python.md)
+    * :octocat: [github url](https://github.com/docker/docker-py)
+* [Flask](https://www.palletsprojects.com/p/flask/)
+    * tags: [flask](../tags/flask.md), [python](../tags/python.md)
+    * :octocat: [github url](https://github.com/pallets/flask)
 * [Modern Visualization for the Data Era - Plotly](https://plot.ly/)
     * tags: [charts](../tags/charts.md), [javascript](../tags/javascript.md), [python](../tags/python.md), [data-science](../tags/data-science.md)
     * :octocat: [github url](https://github.com/plotly/plotly.js/)

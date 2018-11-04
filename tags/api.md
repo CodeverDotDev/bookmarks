@@ -1,5 +1,8 @@
 api 
 ---
+* [Testing a Spring Boot REST API against a Consumer-Driven Contract with Pact - reflectoring](https://reflectoring.io/consumer-driven-contract-provider-pact-spring/)
+    * tags: [spring-boot](../tags/spring-boot.md), [api](../tags/api.md), [rest](../tags/rest.md), [testing](../tags/testing.md)
+    * :octocat: [github url](https://github.com/thombergs/code-examples/tree/master/pact/pact-spring-provider)
 * [Swagger Editor](https://editor.swagger.io/)
     * tags: [swagger](../tags/swagger.md), [api](../tags/api.md), [documentation](../tags/documentation.md)
 * [Writing OpenAPI (Swagger) Specification Tutorial - Part 1 - Introduction | API Handyman](https://apihandyman.io/writing-openapi-swagger-specification-tutorial-part-1-introduction/)
