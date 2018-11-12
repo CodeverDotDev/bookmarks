@@ -1,5 +1,8 @@
 java 
 ---
+* [Why getter and setter methods are evil](https://www.javaworld.com/article/2073723/core-java/why-getter-and-setter-methods-are-evil.html)
+    * :calendar: published on: 2003-09-05
+    * tags: [java](../tags/java.md)
 * [Strategy Design Pattern in Java 8](https://www.baeldung.com/java-strategy-pattern)
     * :calendar: published on: 2018-04-04
     * tags: [java](../tags/java.md), [design-patterns](../tags/design-patterns.md)

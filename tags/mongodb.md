@@ -1,5 +1,12 @@
 mongodb 
 ---
+* [Docker Official Image packaging for MongoDB](https://github.com/docker-library/mongo)
+    * tags: [docker](../tags/docker.md), [mongodb](../tags/mongodb.md)
+    * :octocat: [github url](https://github.com/docker-library/mongo)
+* [Dockerizing a Node.js and MongoDB App – XOOR – Medium](https://medium.com/@xoor/dockerizing-a-node-js-and-mongodb-app-f9d80fdb280e)
+    * :calendar: published on: 2017-10-22
+    * tags: [docker](../tags/docker.md), [mongodb](../tags/mongodb.md), [nodejs](../tags/nodejs.md), [expressjs](../tags/expressjs.md), [docker-compose](../tags/docker-compose.md)
+    * :octocat: [github url](https://github.com/mpayetta/express-node-docker)
 * [Using MongoDB as realtime DB with nodeJS. – Noteworthy - The Journal Blog](https://blog.usejournal.com/using-mongodb-as-realtime-db-with-nodejs-c6f52c266750)
     * :calendar: published on: 2018-10-03
     * tags: [mongodb](../tags/mongodb.md), [mongoose](../tags/mongoose.md), [nodejs](../tags/nodejs.md)

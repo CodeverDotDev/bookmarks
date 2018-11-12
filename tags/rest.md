@@ -1,5 +1,8 @@
 rest 
 ---
+* [API Keys ≠ Security: Why API Keys Are Not Enough](https://nordicapis.com/why-api-keys-are-not-enough/)
+    * :calendar: published on: 2018-02-02
+    * tags: [security](../tags/security.md), [rest](../tags/rest.md), [api](../tags/api.md)
 * [  The Hypertext Application Language - HAL](http://stateless.co/hal_specification.html)
     * tags: [hal](../tags/hal.md), [rest](../tags/rest.md)
 * [Parallel Change ](https://martinfowler.com/bliki/ParallelChange.html)

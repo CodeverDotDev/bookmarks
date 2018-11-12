@@ -1,5 +1,7 @@
 git 
 ---
+* [linux - Git keeps asking me for my ssh key passphrase - Stack Overflow](https://stackoverflow.com/questions/10032461/git-keeps-asking-me-for-my-ssh-key-passphrase)
+    * tags: [git](../tags/git.md), [ssh](../tags/ssh.md)
 * [git - Remove local branches no longer on remote - Stack Overflow](https://stackoverflow.com/questions/7726949/remove-local-branches-no-longer-on-remote)
     * tags: [git](../tags/git.md), [bash](../tags/bash.md)
 * [git-crypt - transparent file encryption in git](https://www.agwa.name/projects/git-crypt/)

@@ -1,5 +1,11 @@
 security 
 ---
+* [The Nuts and Bolts of API Security: Protecting Your Data at All Times - YouTube](https://www.youtube.com/watch?v=tj03NRM6SP8)
+    * :calendar: published on: 2015-05-20
+    * tags: [api](../tags/api.md), [security](../tags/security.md), [oauth2](../tags/oauth2.md), [openid-connect](../tags/openid-connect.md), [microservices](../tags/microservices.md)
+* [API Keys ≠ Security: Why API Keys Are Not Enough](https://nordicapis.com/why-api-keys-are-not-enough/)
+    * :calendar: published on: 2018-02-02
+    * tags: [security](../tags/security.md), [rest](../tags/rest.md), [api](../tags/api.md)
 * [Category:OWASP Top Ten Project - OWASP](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)
     * tags: [security](../tags/security.md)
 * [Public key fingerprint - Wikipedia](https://en.wikipedia.org/wiki/Public_key_fingerprint)

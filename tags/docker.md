@@ -1,5 +1,18 @@
 docker 
 ---
+* [Docker Official Image packaging for MongoDB](https://github.com/docker-library/mongo)
+    * tags: [docker](../tags/docker.md), [mongodb](../tags/mongodb.md)
+    * :octocat: [github url](https://github.com/docker-library/mongo)
+* [Official Docker Image for Node.js](https://hub.docker.com/_/node/)
+    * tags: [docker](../tags/docker.md), [nodejs](../tags/nodejs.md)
+    * :octocat: [github url](https://github.com/nodejs/docker-node)
+* [Dockerizing a Node.js and MongoDB App – XOOR – Medium](https://medium.com/@xoor/dockerizing-a-node-js-and-mongodb-app-f9d80fdb280e)
+    * :calendar: published on: 2017-10-22
+    * tags: [docker](../tags/docker.md), [mongodb](../tags/mongodb.md), [nodejs](../tags/nodejs.md), [expressjs](../tags/expressjs.md), [docker-compose](../tags/docker-compose.md)
+    * :octocat: [github url](https://github.com/mpayetta/express-node-docker)
+* [The Basics of the Docker Run Command](https://blog.codeship.com/the-basics-of-the-docker-run-command/)
+    * :calendar: published on: 2017-08-22
+    * tags: [docker](../tags/docker.md)
 * [Docker SDK for Python](https://docker-py.readthedocs.io/)
     * tags: [docker](../tags/docker.md), [python](../tags/python.md)
     * :octocat: [github url](https://github.com/docker/docker-py)

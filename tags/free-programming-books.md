@@ -1,5 +1,7 @@
 free-programming-books 
 ---
+* [James Shore: Agile-Book](https://www.jamesshore.com/Agile-Book/)
+    * tags: [free-programming-books](../tags/free-programming-books.md), [agile](../tags/agile.md)
 * [Introduction · learn-rxjs](https://www.learnrxjs.io/)
     * tags: [rxjs](../tags/rxjs.md), [free-programming-books](../tags/free-programming-books.md)
 * [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)

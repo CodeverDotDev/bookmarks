@@ -1,5 +1,10 @@
 agile 
 ---
+* [James Shore: Agile-Book](https://www.jamesshore.com/Agile-Book/)
+    * tags: [free-programming-books](../tags/free-programming-books.md), [agile](../tags/agile.md)
+* [Agile in Practice: Pair Programming - YouTube](https://www.youtube.com/watch?v=ET3Q6zNK3Io)
+    * :calendar: published on: 2011-05-02
+    * tags: [agile](../tags/agile.md)
 * [On Code Reviews – Nick Schrock – Medium](https://medium.com/@schrockn/on-code-reviews-b1c7c94d868c)
     * :calendar: published on: 2018-10-03
     * tags: [agile](../tags/agile.md)
