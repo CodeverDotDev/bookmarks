@@ -1,5 +1,24 @@
 spring-boot 
 ---
+* [Getting Started with GraphQL and Spring Boot](https://www.baeldung.com/spring-graphql)
+    * :calendar: published on: 2001-11-18
+    * tags: [graphql](../tags/graphql.md), [spring-boot](../tags/spring-boot.md)
+    * :octocat: [github url](https://github.com/eugenp/tutorials/tree/master/spring-boot)
+* [GraphQL Java Kickstart](https://www.graphql-java-kickstart.com/)
+    * tags: [graphql](../tags/graphql.md), [java](../tags/java.md), [spring-boot](../tags/spring-boot.md)
+    * :octocat: [github url](https://github.com/graphql-java-kickstart)
+* [Build a Basic CRUD App with Angular 7.0 and Spring Boot 2.1 | Okta Developer](https://developer.okta.com/blog/2018/08/22/basic-crud-angular-7-and-spring-boot-2)
+    * :calendar: published on: 2018-08-22
+    * tags: [spring-boot](../tags/spring-boot.md), [angular](../tags/angular.md)
+* [Spring Boot Dependencies](https://github.com/spring-projects/spring-boot/blob/master/spring-boot-project/spring-boot-dependencies/pom.xml)
+    * tags: [spring-boot](../tags/spring-boot.md)
+* [A Guide to Spring Cloud Netflix - Hystrix](https://www.baeldung.com/spring-cloud-netflix-hystrix)
+    * :calendar: published on: 2018-11-05
+    * tags: [spring](../tags/spring.md), [spring-boot](../tags/spring-boot.md), [spring-cloud](../tags/spring-cloud.md), [hystrix](../tags/hystrix.md), [circuit-breaker](../tags/circuit-breaker.md)
+    * :octocat: [github url](https://github.com/eugenp/tutorials/tree/master/spring-cloud/spring-cloud-hystrix)
+* [Spring Getting Started - Circuit Breaker](https://spring.io/guides/gs/circuit-breaker/)
+    * tags: [spring](../tags/spring.md), [spring-boot](../tags/spring-boot.md), [circuit-breaker](../tags/circuit-breaker.md), [hystrix](../tags/hystrix.md)
+    * :octocat: [github url](https://github.com/spring-guides/gs-circuit-breaker)
 * [Getting Started · Building an Application with Spring Boot](https://spring.io/guides/gs/spring-boot/)
     * tags: [spring-boot](../tags/spring-boot.md)
     * :octocat: [github url](https://github.com/spring-guides/gs-spring-boot.git)

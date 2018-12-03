@@ -1,5 +1,8 @@
 api 
 ---
+* [GraphQL - A query language for your API - homepage](https://graphql.org/)
+    * tags: [graphql](../tags/graphql.md), [api](../tags/api.md)
+    * :octocat: [github url](https://graphql.org/code/)
 * [Rest assured](https://github.com/rest-assured/rest-assured)
     * tags: [rest](../tags/rest.md), [testing](../tags/testing.md), [java](../tags/java.md), [api](../tags/api.md)
     * :octocat: [github url](https://github.com/rest-assured/rest-assured)

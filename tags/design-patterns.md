@@ -1,5 +1,8 @@
 design-patterns 
 ---
+* [Making the Netflix API More Resilient – Netflix TechBlog – Medium](https://medium.com/netflix-techblog/making-the-netflix-api-more-resilient-a8ec62159c2d)
+    * :calendar: published on: 2001-11-08
+    * tags: [design-patterns](../tags/design-patterns.md), [circuit-breaker](../tags/circuit-breaker.md)
 * [Tolerant Reader](https://martinfowler.com/bliki/TolerantReader.html)
     * :calendar: published on: 2011-05-09
     * tags: [design-patterns](../tags/design-patterns.md), [rest](../tags/rest.md), [rest-client](../tags/rest-client.md)

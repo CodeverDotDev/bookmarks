@@ -1,5 +1,8 @@
 javascript 
 ---
+* [Toastr by CodeSeven](https://codeseven.github.io/toastr/)
+    * tags: [error-handling](../tags/error-handling.md), [javascript](../tags/javascript.md)
+    * :octocat: [github url](https://github.com/CodeSeven/toastr)
 * [Modern Visualization for the Data Era - Plotly](https://plot.ly/)
     * tags: [charts](../tags/charts.md), [javascript](../tags/javascript.md), [python](../tags/python.md), [data-science](../tags/data-science.md)
     * :octocat: [github url](https://github.com/plotly/plotly.js/)

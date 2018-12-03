@@ -1,5 +1,16 @@
 rest 
 ---
+* [OData - the Best Way to REST  - homepage](https://www.odata.org/)
+    * tags: [odata](../tags/odata.md), [rest](../tags/rest.md)
+* [SpringFox homepage](http://springfox.github.io/springfox/)
+    * tags: [spring](../tags/spring.md), [swagger](../tags/swagger.md), [rest](../tags/rest.md), [documentation](../tags/documentation.md)
+    * :octocat: [github url](https://github.com/springfox/springfox)
+* [GitHub - Netflix/ribbon](https://github.com/Netflix/ribbon)
+    * tags: [load-balancing](../tags/load-balancing.md), [rest](../tags/rest.md)
+    * :octocat: [github url](https://github.com/Netflix/ribbon)
+* [Feign](https://github.com/OpenFeign/feign)
+    * tags: [rest](../tags/rest.md), [rest-client](../tags/rest-client.md), [feign](../tags/feign.md), [http-client](../tags/http-client.md)
+    * :octocat: [github url](https://github.com/OpenFeign/feign)
 * [Rest assured](https://github.com/rest-assured/rest-assured)
     * tags: [rest](../tags/rest.md), [testing](../tags/testing.md), [java](../tags/java.md), [api](../tags/api.md)
     * :octocat: [github url](https://github.com/rest-assured/rest-assured)

@@ -1,5 +1,7 @@
 maven 
 ---
+* [Maven – Introduction to the Dependency Mechanism](https://maven.apache.org/guides/introduction/introduction-to-dependency-mechanism.html)
+    * tags: [maven](../tags/maven.md)
 * [Maven wrapper](https://github.com/takari/maven-wrapper)
     * tags: [maven](../tags/maven.md)
     * :octocat: [github url](https://github.com/takari/maven-wrapper)
@@ -39,8 +41,6 @@ maven
     * tags: [maven](../tags/maven.md)
 * [Maven – Maven Documentation](https://maven.apache.org/guides/index.html)
     * tags: [maven](../tags/maven.md), [docs](../tags/docs.md)
-* [Maven – Introduction to the Dependency Mechanism](https://maven.apache.org/guides/introduction/introduction-to-dependency-mechanism.html)
-    * tags: [maven](../tags/maven.md)
 * [How to deploy an application on Wildfly/JBoss EAP 7 via the Wildfly Maven Plugin](http://www.codingpedia.org/ama/how-to-deploy-an-application-on-wildfly-or-jboss-eap-7-via-the-wildfly-maven-plugin)
     * :calendar: published on: 2017-01-17
     * tags: [javaee](../tags/javaee.md), [wildfly](../tags/wildfly.md), [maven](../tags/maven.md)

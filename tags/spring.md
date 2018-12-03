@@ -1,5 +1,18 @@
 spring 
 ---
+* [SpringFox homepage](http://springfox.github.io/springfox/)
+    * tags: [spring](../tags/spring.md), [swagger](../tags/swagger.md), [rest](../tags/rest.md), [documentation](../tags/documentation.md)
+    * :octocat: [github url](https://github.com/springfox/springfox)
+* [Spring Cloud Homepage](http://spring.io/projects/spring-cloud)
+    * tags: [spring](../tags/spring.md), [spring-cloud](../tags/spring-cloud.md)
+    * :octocat: [github url](https://github.com/spring-projects/spring-cloud)
+* [A Guide to Spring Cloud Netflix - Hystrix](https://www.baeldung.com/spring-cloud-netflix-hystrix)
+    * :calendar: published on: 2018-11-05
+    * tags: [spring](../tags/spring.md), [spring-boot](../tags/spring-boot.md), [spring-cloud](../tags/spring-cloud.md), [hystrix](../tags/hystrix.md), [circuit-breaker](../tags/circuit-breaker.md)
+    * :octocat: [github url](https://github.com/eugenp/tutorials/tree/master/spring-cloud/spring-cloud-hystrix)
+* [Spring Getting Started - Circuit Breaker](https://spring.io/guides/gs/circuit-breaker/)
+    * tags: [spring](../tags/spring.md), [spring-boot](../tags/spring-boot.md), [circuit-breaker](../tags/circuit-breaker.md), [hystrix](../tags/hystrix.md)
+    * :octocat: [github url](https://github.com/spring-guides/gs-circuit-breaker)
 * [AssertJ homepage](http://joel-costigliola.github.io/assertj/)
     * tags: [java](../tags/java.md), [spring](../tags/spring.md), [testing](../tags/testing.md)
     * :octocat: [github url](https://github.com/joel-costigliola/assertj-core)

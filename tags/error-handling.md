@@ -1,5 +1,8 @@
 error-handling 
 ---
+* [Toastr by CodeSeven](https://codeseven.github.io/toastr/)
+    * tags: [error-handling](../tags/error-handling.md), [javascript](../tags/javascript.md)
+    * :octocat: [github url](https://github.com/CodeSeven/toastr)
 * [Angular 4.3 HttpClient (Accessing REST Web Services With Angular)](https://medium.com/codingthesmartway-com-blog/angular-4-3-httpclient-accessing-rest-web-services-with-angular-2305b8fd654b)
     * :calendar: published on: 2017-07-22
     * tags: [angular](../tags/angular.md), [error-handling](../tags/error-handling.md)

@@ -1,5 +1,11 @@
 angular 
 ---
+* [Build a Basic CRUD App with Angular 7.0 and Spring Boot 2.1 | Okta Developer](https://developer.okta.com/blog/2018/08/22/basic-crud-angular-7-and-spring-boot-2)
+    * :calendar: published on: 2018-08-22
+    * tags: [spring-boot](../tags/spring-boot.md), [angular](../tags/angular.md)
+* [Reactive FormGroup validation with AbstractControl in Angular 2](https://toddmotto.com/reactive-formgroup-validation-angular-2)
+    * :calendar: published on: 2016-10-26
+    * tags: [angular](../tags/angular.md)
 * [Angular Development Mode: What is Unidirectional Data Flow?](https://blog.angular-university.io/angular-2-what-is-unidirectional-data-flow-development-mode/)
     * :calendar: published on: 2018-06-18
     * tags: [angular](../tags/angular.md)
