@@ -1,5 +1,8 @@
 spring 
 ---
+* [AssertJ homepage](http://joel-costigliola.github.io/assertj/)
+    * tags: [java](../tags/java.md), [spring](../tags/spring.md), [testing](../tags/testing.md)
+    * :octocat: [github url](https://github.com/joel-costigliola/assertj-core)
 * [Spring Profiles](https://www.baeldung.com/spring-profiles)
     * :calendar: published on: 2018-09-13
     * tags: [spring](../tags/spring.md)

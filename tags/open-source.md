@@ -1,5 +1,9 @@
 open-source 
 ---
+* [Personas and Pathways for Growing Communities](https://mozillascience.github.io/working-open-workshop/personas_pathways/)
+    * tags: [open-source](../tags/open-source.md), [marketing](../tags/marketing.md)
+* [Open Source Guides](https://opensource.guide/)
+    * tags: [open-source](../tags/open-source.md)
 * [GitHub - chrislgarry/Apollo-11: Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.](https://github.com/chrislgarry/Apollo-11)
     * tags: [open-source](../tags/open-source.md)
     * :octocat: [github url](https://github.com/chrislgarry/Apollo-11)

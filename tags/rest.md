@@ -1,5 +1,8 @@
 rest 
 ---
+* [Rest assured](https://github.com/rest-assured/rest-assured)
+    * tags: [rest](../tags/rest.md), [testing](../tags/testing.md), [java](../tags/java.md), [api](../tags/api.md)
+    * :octocat: [github url](https://github.com/rest-assured/rest-assured)
 * [API Keys ≠ Security: Why API Keys Are Not Enough](https://nordicapis.com/why-api-keys-are-not-enough/)
     * :calendar: published on: 2018-02-02
     * tags: [security](../tags/security.md), [rest](../tags/rest.md), [api](../tags/api.md)

@@ -1,5 +1,8 @@
 objective-c 
 ---
+* [CocoaPods.org](https://cocoapods.org/)
+    * tags: [swift](../tags/swift.md), [objective-c](../tags/objective-c.md)
+    * :octocat: [github url](https://github.com/CocoaPods/CocoaPods)
 * [Цикл статей разработки под Apple iOS](http://habrahabr.ru/post/149090/)
     * tags: [free-programming-books](../tags/free-programming-books.md), [objective-c](../tags/objective-c.md), [free-programming-books-ru](../tags/free-programming-books-ru.md)
 * [Хрестоматия iOS паттернов](https://maleevdimka.files.wordpress.com/2013/04/ios-patterns-cliff-notes2.pdf)

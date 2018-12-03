@@ -1,5 +1,7 @@
 marketing 
 ---
+* [Personas and Pathways for Growing Communities](https://mozillascience.github.io/working-open-workshop/personas_pathways/)
+    * tags: [open-source](../tags/open-source.md), [marketing](../tags/marketing.md)
 * [How to Spread The Word About Your Code – Mozilla Hacks – the Web developer blog](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/)
     * tags: [marketing](../tags/marketing.md)
 * [How to promote your Github project – Hacker Noon](https://hackernoon.com/how-to-promote-your-github-project-1b39a7eee841)

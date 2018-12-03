@@ -1,5 +1,10 @@
 git 
 ---
+* [Merging vs. Rebasing - Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
+    * tags: [git](../tags/git.md)
+* [Git Merge vs. Rebase: What’s the Diff? – Hacker Noon](https://hackernoon.com/git-merge-vs-rebase-whats-the-diff-76413c117333)
+    * :calendar: published on: 2017-09-28
+    * tags: [git](../tags/git.md)
 * [linux - Git keeps asking me for my ssh key passphrase - Stack Overflow](https://stackoverflow.com/questions/10032461/git-keeps-asking-me-for-my-ssh-key-passphrase)
     * tags: [git](../tags/git.md), [ssh](../tags/ssh.md)
 * [git - Remove local branches no longer on remote - Stack Overflow](https://stackoverflow.com/questions/7726949/remove-local-branches-no-longer-on-remote)

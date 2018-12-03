@@ -1,5 +1,14 @@
 java 
 ---
+* [How to TDD a List Implementation in Java](https://www.baeldung.com/java-test-driven-list)
+    * tags: [tdd](../tags/tdd.md), [java](../tags/java.md)
+    * :octocat: [github url](https://github.com/eugenp/tutorials/tree/master/core-java-collections)
+* [AssertJ homepage](http://joel-costigliola.github.io/assertj/)
+    * tags: [java](../tags/java.md), [spring](../tags/spring.md), [testing](../tags/testing.md)
+    * :octocat: [github url](https://github.com/joel-costigliola/assertj-core)
+* [Rest assured](https://github.com/rest-assured/rest-assured)
+    * tags: [rest](../tags/rest.md), [testing](../tags/testing.md), [java](../tags/java.md), [api](../tags/api.md)
+    * :octocat: [github url](https://github.com/rest-assured/rest-assured)
 * [Why getter and setter methods are evil](https://www.javaworld.com/article/2073723/core-java/why-getter-and-setter-methods-are-evil.html)
     * :calendar: published on: 2003-09-05
     * tags: [java](../tags/java.md)
