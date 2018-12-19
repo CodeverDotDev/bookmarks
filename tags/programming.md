@@ -1,5 +1,7 @@
 programming 
 ---
+* [Programming, Motherfucker - Do you speak it?](http://programming-motherfucker.com/)
+    * tags: [programming](../tags/programming.md), [book](../tags/book.md), [free-programming-books](../tags/free-programming-books.md)
 * [Revenge of the Nerds](http://www.paulgraham.com/icad.html)
     * :calendar: published on: 2002-05-01
     * tags: [programming](../tags/programming.md)

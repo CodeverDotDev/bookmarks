@@ -1,5 +1,7 @@
 book 
 ---
+* [Programming, Motherfucker - Do you speak it?](http://programming-motherfucker.com/)
+    * tags: [programming](../tags/programming.md), [book](../tags/book.md), [free-programming-books](../tags/free-programming-books.md)
 * [GitHub - free-programming-books: ](https://github.com/vhf/free-programming-books)
     * tags: [book](../tags/book.md)
     * :octocat: [github url](https://github.com/vhf/free-programming-books)

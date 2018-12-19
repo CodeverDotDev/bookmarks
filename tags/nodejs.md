@@ -1,5 +1,20 @@
 nodejs 
 ---
+* [AOP for JS](https://github.com/cujojs/meld)
+    * tags: [aop](../tags/aop.md), [nodejs](../tags/nodejs.md), [javascript](../tags/javascript.md)
+    * :octocat: [github url](https://github.com/cujojs/meld)
+* [Restify Homepage](http://restify.com/)
+    * tags: [nodejs](../tags/nodejs.md), [rest](../tags/rest.md)
+    * :octocat: [github url](https://github.com/restify/node-restify)
+* [Node Http Status Codes](https://github.com/prettymuchbryce/node-http-status)
+    * tags: [nodejs](../tags/nodejs.md), [javascript](../tags/javascript.md), [expressjs](../tags/expressjs.md)
+    * :octocat: [github url](https://github.com/prettymuchbryce/node-http-status)
+* [How to use module.exports in Node.js](https://stackabuse.com/how-to-use-module-exports-in-node-js/)
+    * :calendar: published on: 2017-08-14
+    * tags: [nodejs](../tags/nodejs.md), [javascript](../tags/javascript.md)
+* [mongoose-unique-validator](https://github.com/blakehaswell/mongoose-unique-validator)
+    * tags: [nodejs](../tags/nodejs.md), [mongoose](../tags/mongoose.md), [mongodb](../tags/mongodb.md)
+    * :octocat: [github url](https://github.com/blakehaswell/mongoose-unique-validator)
 * [Official Docker Image for Node.js](https://hub.docker.com/_/node/)
     * tags: [docker](../tags/docker.md), [nodejs](../tags/nodejs.md)
     * :octocat: [github url](https://github.com/nodejs/docker-node)

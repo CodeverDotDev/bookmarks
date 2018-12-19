@@ -1,5 +1,14 @@
 functional-programming 
 ---
+* [Java Functional Programming](http://tutorials.jenkov.com/java-functional-programming/index.html)
+    * :calendar: published on: 2018-08-05
+    * tags: [java](../tags/java.md), [functional-programming](../tags/functional-programming.md)
+* [Finally Functional Programming in Java – Hacker Noon](https://hackernoon.com/finally-functional-programming-in-java-ad4d388fb92e)
+    * :calendar: published on: 2018-02-26
+    * tags: [java](../tags/java.md), [scala](../tags/scala.md), [functional-programming](../tags/functional-programming.md)
+* [What's Functional Programming All About?](http://www.lihaoyi.com/post/WhatsFunctionalProgrammingAllAbout.html)
+    * :calendar: published on: 2017-01-25
+    * tags: [functional-programming](../tags/functional-programming.md)
 * [Functional Programming in Javascript](http://reactivex.io/learnrx/)
     * tags: [javascript](../tags/javascript.md), [functional-programming](../tags/functional-programming.md)
     * :octocat: [github url](https://github.com/ReactiveX/learnrx)

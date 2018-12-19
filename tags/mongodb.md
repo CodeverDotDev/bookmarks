@@ -1,5 +1,8 @@
 mongodb 
 ---
+* [mongoose-unique-validator](https://github.com/blakehaswell/mongoose-unique-validator)
+    * tags: [nodejs](../tags/nodejs.md), [mongoose](../tags/mongoose.md), [mongodb](../tags/mongodb.md)
+    * :octocat: [github url](https://github.com/blakehaswell/mongoose-unique-validator)
 * [Docker Official Image packaging for MongoDB](https://github.com/docker-library/mongo)
     * tags: [docker](../tags/docker.md), [mongodb](../tags/mongodb.md)
     * :octocat: [github url](https://github.com/docker-library/mongo)

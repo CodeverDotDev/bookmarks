@@ -1,5 +1,14 @@
 javascript 
 ---
+* [AOP for JS](https://github.com/cujojs/meld)
+    * tags: [aop](../tags/aop.md), [nodejs](../tags/nodejs.md), [javascript](../tags/javascript.md)
+    * :octocat: [github url](https://github.com/cujojs/meld)
+* [Node Http Status Codes](https://github.com/prettymuchbryce/node-http-status)
+    * tags: [nodejs](../tags/nodejs.md), [javascript](../tags/javascript.md), [expressjs](../tags/expressjs.md)
+    * :octocat: [github url](https://github.com/prettymuchbryce/node-http-status)
+* [How to use module.exports in Node.js](https://stackabuse.com/how-to-use-module-exports-in-node-js/)
+    * :calendar: published on: 2017-08-14
+    * tags: [nodejs](../tags/nodejs.md), [javascript](../tags/javascript.md)
 * [Toastr by CodeSeven](https://codeseven.github.io/toastr/)
     * tags: [error-handling](../tags/error-handling.md), [javascript](../tags/javascript.md)
     * :octocat: [github url](https://github.com/CodeSeven/toastr)

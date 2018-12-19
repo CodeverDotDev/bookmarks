@@ -1,5 +1,8 @@
 scala 
 ---
+* [Finally Functional Programming in Java – Hacker Noon](https://hackernoon.com/finally-functional-programming-in-java-ad4d388fb92e)
+    * :calendar: published on: 2018-02-26
+    * tags: [java](../tags/java.md), [scala](../tags/scala.md), [functional-programming](../tags/functional-programming.md)
 * [GraalVM](http://www.graalvm.org/)
     * tags: [java](../tags/java.md), [scala](../tags/scala.md), [kotlin](../tags/kotlin.md), [virtual-machine](../tags/virtual-machine.md)
     * :octocat: [github url](https://github.com/oracle/graal)

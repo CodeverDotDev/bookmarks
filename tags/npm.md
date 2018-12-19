@@ -1,5 +1,10 @@
 npm 
 ---
+* [npm-check ](https://www.npmjs.com/package/npm-check)
+    * tags: [npm](../tags/npm.md)
+    * :octocat: [github url](https://github.com/dylang/npm-check)
+* [Resolving EACCES permissions errors when installing packages globally](https://docs.npmjs.com/resolving-eacces-permissions-errors-when-installing-packages-globally)
+    * tags: [npm](../tags/npm.md), [troubleshooting](../tags/troubleshooting.md)
 * [GitHub - mixmaxhq/deyarn: A command-line tool for converting projects that use Yarn to npm.](https://github.com/mixmaxhq/deyarn)
     * tags: [yarn](../tags/yarn.md), [npm](../tags/npm.md)
 * [To Yarn and Back (to npm) Again](https://mixmax.com/blog/to-yarn-and-back-again-npm)

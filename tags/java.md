@@ -1,5 +1,14 @@
 java 
 ---
+* [Java Functional Programming](http://tutorials.jenkov.com/java-functional-programming/index.html)
+    * :calendar: published on: 2018-08-05
+    * tags: [java](../tags/java.md), [functional-programming](../tags/functional-programming.md)
+* [Finally Functional Programming in Java – Hacker Noon](https://hackernoon.com/finally-functional-programming-in-java-ad4d388fb92e)
+    * :calendar: published on: 2018-02-26
+    * tags: [java](../tags/java.md), [scala](../tags/scala.md), [functional-programming](../tags/functional-programming.md)
+* [Understanding, Accepting and Leveraging Optional in Java](https://stackify.com/optional-java/)
+    * :calendar: published on: 1999-09-14
+    * tags: [java](../tags/java.md)
 * [Apache Olingo Library    ](http://olingo.apache.org/)
     * tags: [odata](../tags/odata.md), [java](../tags/java.md)
 * [GraphQL Java Kickstart](https://www.graphql-java-kickstart.com/)

@@ -1,5 +1,7 @@
 javaee 
 ---
+* [Jakarta EE Software  Homeage](https://jakarta.ee/)
+    * tags: [javaee](../tags/javaee.md), [jakartaee](../tags/jakartaee.md)
 * [Transaction strategies: Understanding transaction pitfalls](https://www.ibm.com/developerworks/library/j-ts1/index.html)
     * :calendar: published on: 2009-02-10
     * tags: [javaee](../tags/javaee.md), [spring](../tags/spring.md), [transactions](../tags/transactions.md)

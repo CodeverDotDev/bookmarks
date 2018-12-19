@@ -1,5 +1,8 @@
 mongoose 
 ---
+* [mongoose-unique-validator](https://github.com/blakehaswell/mongoose-unique-validator)
+    * tags: [nodejs](../tags/nodejs.md), [mongoose](../tags/mongoose.md), [mongodb](../tags/mongodb.md)
+    * :octocat: [github url](https://github.com/blakehaswell/mongoose-unique-validator)
 * [Using MongoDB as realtime DB with nodeJS. – Noteworthy - The Journal Blog](https://blog.usejournal.com/using-mongodb-as-realtime-db-with-nodejs-c6f52c266750)
     * :calendar: published on: 2018-10-03
     * tags: [mongodb](../tags/mongodb.md), [mongoose](../tags/mongoose.md), [nodejs](../tags/nodejs.md)

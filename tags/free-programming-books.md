@@ -1,5 +1,7 @@
 free-programming-books 
 ---
+* [Programming, Motherfucker - Do you speak it?](http://programming-motherfucker.com/)
+    * tags: [programming](../tags/programming.md), [book](../tags/book.md), [free-programming-books](../tags/free-programming-books.md)
 * [James Shore: Agile-Book](https://www.jamesshore.com/Agile-Book/)
     * tags: [free-programming-books](../tags/free-programming-books.md), [agile](../tags/agile.md)
 * [Introduction · learn-rxjs](https://www.learnrxjs.io/)

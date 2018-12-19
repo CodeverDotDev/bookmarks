@@ -1,5 +1,10 @@
 openid-connect 
 ---
+* [Understanding ID Token](https://medium.com/@darutk/understanding-id-token-5f83f50fa02e)
+    * :calendar: published on: 2017-11-06
+    * tags: [openid-connect](../tags/openid-connect.md), [jwt](../tags/jwt.md), [oauth2](../tags/oauth2.md)
+* [Welcome to OpenID Connect – OpenID Homepage](https://openid.net/connect/)
+    * tags: [openid-connect](../tags/openid-connect.md), [oauth2](../tags/oauth2.md)
 * [The Nuts and Bolts of API Security: Protecting Your Data at All Times - YouTube](https://www.youtube.com/watch?v=tj03NRM6SP8)
     * :calendar: published on: 2015-05-20
     * tags: [api](../tags/api.md), [security](../tags/security.md), [oauth2](../tags/oauth2.md), [openid-connect](../tags/openid-connect.md), [microservices](../tags/microservices.md)

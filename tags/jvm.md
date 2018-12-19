@@ -1,5 +1,8 @@
 jvm 
 ---
+* [Eclipse Vert.x homepage](https://vertx.io/)
+    * tags: [jvm](../tags/jvm.md), [reactive](../tags/reactive.md)
+    * :octocat: [github url](https://github.com/eclipse-vertx/vert.x/)
 * [Metrics](https://metrics.dropwizard.io/)
     * tags: [java](../tags/java.md), [jvm](../tags/jvm.md), [performance](../tags/performance.md)
     * :octocat: [github url](https://github.com/dropwizard/metrics)

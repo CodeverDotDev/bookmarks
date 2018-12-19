@@ -1,5 +1,8 @@
 jwt 
 ---
+* [Understanding ID Token](https://medium.com/@darutk/understanding-id-token-5f83f50fa02e)
+    * :calendar: published on: 2017-11-06
+    * tags: [openid-connect](../tags/openid-connect.md), [jwt](../tags/jwt.md), [oauth2](../tags/oauth2.md)
 * [What Happens If Your JWT Is Stolen?](https://developer.okta.com/blog/2018/06/20/what-happens-if-your-jwt-is-stolen)
     * tags: [security](../tags/security.md), [jwt](../tags/jwt.md), [web](../tags/web.md)
 * [Angular Authentication: Using the Http Client and Http Interceptors](https://medium.com/@ryanchenkie_40935/angular-authentication-using-the-http-client-and-http-interceptors-2f9d1540eb8)

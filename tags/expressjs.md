@@ -1,5 +1,10 @@
 expressjs 
 ---
+* [Express routing](https://expressjs.com/en/guide/routing.html)
+    * tags: [expressjs](../tags/expressjs.md)
+* [Node Http Status Codes](https://github.com/prettymuchbryce/node-http-status)
+    * tags: [nodejs](../tags/nodejs.md), [javascript](../tags/javascript.md), [expressjs](../tags/expressjs.md)
+    * :octocat: [github url](https://github.com/prettymuchbryce/node-http-status)
 * [Dockerizing a Node.js and MongoDB App – XOOR – Medium](https://medium.com/@xoor/dockerizing-a-node-js-and-mongodb-app-f9d80fdb280e)
     * :calendar: published on: 2017-10-22
     * tags: [docker](../tags/docker.md), [mongodb](../tags/mongodb.md), [nodejs](../tags/nodejs.md), [expressjs](../tags/expressjs.md), [docker-compose](../tags/docker-compose.md)
