@@ -1,5 +1,13 @@
 java 
 ---
+* [awesome-java](https://github.com/akullpp/awesome-java)
+    * tags: [java](../tags/java.md), [awesome-list](../tags/awesome-list.md)
+* [Iterate over a Map in Java](https://www.baeldung.com/java-iterate-map)
+    * :calendar: published on: 2018-10-20
+    * tags: [java](../tags/java.md)
+    * :octocat: [github url](https://github.com/eugenp/tutorials/tree/master/java-collections-maps)
+* [Ultimate Guide - Association Mappings with JPA and Hibernate](https://thoughts-on-java.org/ultimate-guide-association-mappings-jpa-hibernate/)
+    * tags: [java](../tags/java.md), [jpa](../tags/jpa.md), [hibernate](../tags/hibernate.md)
 * [Java Functional Programming](http://tutorials.jenkov.com/java-functional-programming/index.html)
     * :calendar: published on: 2018-08-05
     * tags: [java](../tags/java.md), [functional-programming](../tags/functional-programming.md)

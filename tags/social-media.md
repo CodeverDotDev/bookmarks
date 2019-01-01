@@ -1,5 +1,7 @@
 social-media 
 ---
+* [The dos and don’ts of hashtags](https://business.twitter.com/en/blog/the-dos-and-donts-of-hashtags.html)
+    * tags: [social-media](../tags/social-media.md)
 * [2017 Social Media Image Sizes Cheat Sheet - Make A Website Hub](https://makeawebsitehub.com/social-media-image-sizes-cheat-sheet/)
     * :calendar: published on: 2017-05-22
     * tags: [social-media](../tags/social-media.md), [cheatsheet](../tags/cheatsheet.md)

@@ -1,5 +1,8 @@
 software-development 
 ---
+* [Things You Should Never Do, Part I – Joel on Software](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)
+    * :calendar: published on: 2000-04-06
+    * tags: [programming](../tags/programming.md), [software-development](../tags/software-development.md)
 * [Evidence Based Scheduling – Joel on Software](https://www.joelonsoftware.com/2007/10/26/evidence-based-scheduling/)
     * tags: [software-development](../tags/software-development.md)
 * [The Joel Test: 12 Steps to Better Code – Joel on Software](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)

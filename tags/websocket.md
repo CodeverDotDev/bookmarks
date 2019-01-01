@@ -1,5 +1,8 @@
 websocket 
 ---
+* [5 Protocols For Event-Driven API Architectures](https://nordicapis.com/5-protocols-for-event-driven-api-architectures/)
+    * :calendar: published on: 2017-07-18
+    * tags: [event-driven-design](../tags/event-driven-design.md), [api](../tags/api.md), [rest](../tags/rest.md), [grpc](../tags/grpc.md), [websocket](../tags/websocket.md)
 * [Building a Node.js WebSocket Chat App with Socket.io and React](https://itnext.io/building-a-node-js-websocket-chat-app-with-socket-io-and-react-473a0686d1e1)
     * :calendar: published on: 2018-02-22
     * tags: [nodejs](../tags/nodejs.md), [reactjs](../tags/reactjs.md), [websocket](../tags/websocket.md)

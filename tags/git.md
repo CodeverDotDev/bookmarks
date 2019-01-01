@@ -1,5 +1,7 @@
 git 
 ---
+* [How to change the URI (URL) for a remote Git repository? - Stack Overflow](https://stackoverflow.com/questions/2432764/how-to-change-the-uri-url-for-a-remote-git-repository)
+    * tags: [git](../tags/git.md)
 * [Merging vs. Rebasing - Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
     * tags: [git](../tags/git.md)
 * [Git Merge vs. Rebase: What’s the Diff? – Hacker Noon](https://hackernoon.com/git-merge-vs-rebase-whats-the-diff-76413c117333)

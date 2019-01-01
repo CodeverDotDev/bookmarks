@@ -1,5 +1,9 @@
 hibernate 
 ---
+* [Hibernate Logging Guide - Use the right config for dev and prod](https://thoughts-on-java.org/hibernate-logging-guide/)
+    * tags: [hibernate](../tags/hibernate.md), [logging](../tags/logging.md)
+* [Ultimate Guide - Association Mappings with JPA and Hibernate](https://thoughts-on-java.org/ultimate-guide-association-mappings-jpa-hibernate/)
+    * tags: [java](../tags/java.md), [jpa](../tags/jpa.md), [hibernate](../tags/hibernate.md)
 * [Complete Guide: Inheritance strategies with JPA and Hibernate](https://www.thoughts-on-java.org/complete-guide-inheritance-strategies-jpa-hibernate/)
     * tags: [java](../tags/java.md), [javaee](../tags/javaee.md), [jpa](../tags/jpa.md), [hibernate](../tags/hibernate.md)
 * [Vlad Mihalcea's Blog ](https://vladmihalcea.com/)

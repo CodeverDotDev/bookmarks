@@ -1,5 +1,23 @@
 nodejs 
 ---
+* [Nodeenv - Manage multiple NodeJS versions.](https://github.com/nodenv/nodenv)
+    * tags: [nodejs](../tags/nodejs.md), [tools](../tags/tools.md)
+    * :octocat: [github url](https://github.com/nodenv/nodenv)
+* [Node.js Everywhere with Environment Variables! – Node.js Collection – Medium](https://medium.com/the-node-js-collection/making-your-node-js-work-everywhere-with-environment-variables-2da8cdf6e786)
+    * :calendar: published on: 2018-10-29
+    * tags: [nodejs](../tags/nodejs.md)
+* [Using Winston, a versatile logging library for Node.js](https://thisdavej.com/using-winston-a-versatile-logging-library-for-node-js/)
+    * :calendar: published on: 2018-12-06
+    * tags: [nodejs](../tags/nodejs.md), [logging](../tags/logging.md), [winston](../tags/winston.md)
+* [awesome-nodejs-security](https://github.com/lirantal/awesome-nodejs-security)
+    * tags: [awesome](../tags/awesome.md), [awesome-list](../tags/awesome-list.md), [nodejs](../tags/nodejs.md), [security](../tags/security.md)
+    * :octocat: [github url](https://github.com/lirantal/awesome-nodejs-security)
+* [Reading streams via async iteration in Node.js  ](http://2ality.com/2018/04/async-iter-nodejs.html)
+    * :calendar: published on: 2018-04-24
+    * tags: [javascript](../tags/javascript.md), [nodejs](../tags/nodejs.md)
+* [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)
+    * tags: [awesome-list](../tags/awesome-list.md), [nodejs](../tags/nodejs.md)
+    * :octocat: [github url](https://github.com/sindresorhus/awesome-nodejs)
 * [AOP for JS](https://github.com/cujojs/meld)
     * tags: [aop](../tags/aop.md), [nodejs](../tags/nodejs.md), [javascript](../tags/javascript.md)
     * :octocat: [github url](https://github.com/cujojs/meld)

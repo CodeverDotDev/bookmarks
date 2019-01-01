@@ -1,5 +1,8 @@
 programming 
 ---
+* [Things You Should Never Do, Part I – Joel on Software](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)
+    * :calendar: published on: 2000-04-06
+    * tags: [programming](../tags/programming.md), [software-development](../tags/software-development.md)
 * [Programming, Motherfucker - Do you speak it?](http://programming-motherfucker.com/)
     * tags: [programming](../tags/programming.md), [book](../tags/book.md), [free-programming-books](../tags/free-programming-books.md)
 * [Revenge of the Nerds](http://www.paulgraham.com/icad.html)

@@ -1,5 +1,8 @@
 security 
 ---
+* [awesome-nodejs-security](https://github.com/lirantal/awesome-nodejs-security)
+    * tags: [awesome](../tags/awesome.md), [awesome-list](../tags/awesome-list.md), [nodejs](../tags/nodejs.md), [security](../tags/security.md)
+    * :octocat: [github url](https://github.com/lirantal/awesome-nodejs-security)
 * [The Nuts and Bolts of API Security: Protecting Your Data at All Times - YouTube](https://www.youtube.com/watch?v=tj03NRM6SP8)
     * :calendar: published on: 2015-05-20
     * tags: [api](../tags/api.md), [security](../tags/security.md), [oauth2](../tags/oauth2.md), [openid-connect](../tags/openid-connect.md), [microservices](../tags/microservices.md)

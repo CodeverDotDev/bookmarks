@@ -1,5 +1,7 @@
 computer-science 
 ---
+* [awesome-courses](https://github.com/prakhar1989/awesome-courses)
+    * tags: [course](../tags/course.md), [awesome-list](../tags/awesome-list.md), [computer-science](../tags/computer-science.md)
 * [CAP theorem - Wikipedia](https://en.wikipedia.org/wiki/CAP_theorem)
     * tags: [computer-science](../tags/computer-science.md), [distributed-computing](../tags/distributed-computing.md)
 * [Computer Glossary, Computer Terms](http://whatis.techtarget.com/)

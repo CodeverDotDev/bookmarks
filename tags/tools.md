@@ -1,5 +1,13 @@
 tools 
 ---
+* [Nodeenv - Manage multiple NodeJS versions.](https://github.com/nodenv/nodenv)
+    * tags: [nodejs](../tags/nodejs.md), [tools](../tags/tools.md)
+    * :octocat: [github url](https://github.com/nodenv/nodenv)
+* [A personal review of automated testing tools in the JavaScript world](https://itnext.io/a-personal-review-of-automated-testing-tools-in-the-javascript-world-3c504fe6e05d)
+    * :calendar: published on: 2018-10-31
+    * tags: [javascript](../tags/javascript.md), [testing](../tags/testing.md), [tools](../tags/tools.md)
+* [Online JSON Formatter](https://jsonformatter.org/)
+    * tags: [json](../tags/json.md), [tools](../tags/tools.md), [xml](../tags/xml.md)
 * [asciinema - Record and share your terminal sessions, the right way](https://asciinema.org)
     * tags: [tools](../tags/tools.md), [terminal](../tags/terminal.md)
     * :octocat: [github url](https://github.com/asciinema/asciinema)

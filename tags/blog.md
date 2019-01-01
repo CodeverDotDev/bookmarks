@@ -1,5 +1,7 @@
 blog 
 ---
+* [2ality – JavaScript and more  ](http://2ality.com)
+    * tags: [javascript](../tags/javascript.md), [blog](../tags/blog.md)
 * [Google Open Source Blog](https://opensource.googleblog.com/)
     * tags: [open-source](../tags/open-source.md), [blog](../tags/blog.md)
 * [Angular Blog](https://blog.angular.io/)

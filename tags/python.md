@@ -378,7 +378,7 @@ python
     * :calendar: published on: 2011-11-28
     * tags: [python](../tags/python.md)
 * [Awesome Python](https://awesome-python.com/)
-    * tags: [python](../tags/python.md)
+    * tags: [python](../tags/python.md), [awesome-list](../tags/awesome-list.md)
     * :octocat: [github url](https://github.com/vinta/awesome-python)
 * [Zero to GraphQL in 30 Minutes – Steven Luscher - YouTube](https://www.youtube.com/watch?v=UBGzsb2UkeY)
     * :calendar: published on: 2016-04-25

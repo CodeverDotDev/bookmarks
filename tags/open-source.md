@@ -1,5 +1,8 @@
 open-source 
 ---
+* [zachflower/awesome-open-source-supporters](https://github.com/zachflower/awesome-open-source-supporters)
+    * tags: [awesome-list](../tags/awesome-list.md), [open-source](../tags/open-source.md)
+    * :octocat: [github url](https://github.com/zachflower/awesome-open-source-supporters)
 * [Personas and Pathways for Growing Communities](https://mozillascience.github.io/working-open-workshop/personas_pathways/)
     * tags: [open-source](../tags/open-source.md), [marketing](../tags/marketing.md)
 * [Open Source Guides](https://opensource.guide/)

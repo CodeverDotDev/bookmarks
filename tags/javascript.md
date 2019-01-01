@@ -1,5 +1,13 @@
 javascript 
 ---
+* [A personal review of automated testing tools in the JavaScript world](https://itnext.io/a-personal-review-of-automated-testing-tools-in-the-javascript-world-3c504fe6e05d)
+    * :calendar: published on: 2018-10-31
+    * tags: [javascript](../tags/javascript.md), [testing](../tags/testing.md), [tools](../tags/tools.md)
+* [Reading streams via async iteration in Node.js  ](http://2ality.com/2018/04/async-iter-nodejs.html)
+    * :calendar: published on: 2018-04-24
+    * tags: [javascript](../tags/javascript.md), [nodejs](../tags/nodejs.md)
+* [2ality – JavaScript and more  ](http://2ality.com)
+    * tags: [javascript](../tags/javascript.md), [blog](../tags/blog.md)
 * [AOP for JS](https://github.com/cujojs/meld)
     * tags: [aop](../tags/aop.md), [nodejs](../tags/nodejs.md), [javascript](../tags/javascript.md)
     * :octocat: [github url](https://github.com/cujojs/meld)
@@ -534,6 +542,7 @@ javascript
     * tags: [javascript](../tags/javascript.md), [functional-programming](../tags/functional-programming.md)
 * [Read Me · Redux](http://redux.js.org/)
     * tags: [redux](../tags/redux.md), [javascript](../tags/javascript.md)
+    * :octocat: [github url](https://github.com/reduxjs/redux)
 * [Redux: The Single Immutable State Tree - js Video Tutorial #free @eggheadio](https://egghead.io/lessons/javascript-redux-the-single-immutable-state-tree)
     * tags: [javascript](../tags/javascript.md), [redux](../tags/redux.md)
 * [Pure versus impure functions](https://toddmotto.com/pure-versus-impure-functions)

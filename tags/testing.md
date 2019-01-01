@@ -1,5 +1,8 @@
 testing 
 ---
+* [A personal review of automated testing tools in the JavaScript world](https://itnext.io/a-personal-review-of-automated-testing-tools-in-the-javascript-world-3c504fe6e05d)
+    * :calendar: published on: 2018-10-31
+    * tags: [javascript](../tags/javascript.md), [testing](../tags/testing.md), [tools](../tags/tools.md)
 * [AssertJ homepage](http://joel-costigliola.github.io/assertj/)
     * tags: [java](../tags/java.md), [spring](../tags/spring.md), [testing](../tags/testing.md)
     * :octocat: [github url](https://github.com/joel-costigliola/assertj-core)

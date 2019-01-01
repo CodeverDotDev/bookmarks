@@ -1,5 +1,15 @@
 graphql 
 ---
+* [Lessons from 4 Years of GraphQL - YouTube](https://www.youtube.com/watch?v=zVNrqo9XGOs)
+    * :calendar: published on: 2016-11-03
+    * tags: [graphql](../tags/graphql.md)
+* [Nate Barbettini – API Throwdown: RPC vs REST vs GraphQL, Iterate 2018](https://www.youtube.com/watch?v=IvsANO0qZEg)
+    * :calendar: published on: 2018-03-09
+    * tags: [rest](../tags/rest.md), [rpc](../tags/rpc.md), [graphql](../tags/graphql.md)
+* [The GitHub GraphQL API](https://githubengineering.com/the-github-graphql-api/)
+    * tags: [graphql](../tags/graphql.md), [rest](../tags/rest.md), [api-design](../tags/api-design.md)
+* [When to Use What: REST, GraphQL, Webhooks, & gRPC](https://nordicapis.com/when-to-use-what-rest-graphql-webhooks-grpc/)
+    * tags: [rest](../tags/rest.md), [grpc](../tags/grpc.md), [graphql](../tags/graphql.md), [webhooks](../tags/webhooks.md), [api-design](../tags/api-design.md)
 * [Getting Started with GraphQL and Spring Boot](https://www.baeldung.com/spring-graphql)
     * :calendar: published on: 2001-11-18
     * tags: [graphql](../tags/graphql.md), [spring-boot](../tags/spring-boot.md)

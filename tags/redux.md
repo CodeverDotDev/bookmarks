@@ -12,5 +12,6 @@ redux
     * tags: [redux](../tags/redux.md)
 * [Read Me · Redux](http://redux.js.org/)
     * tags: [redux](../tags/redux.md), [javascript](../tags/javascript.md)
+    * :octocat: [github url](https://github.com/reduxjs/redux)
 * [Redux: The Single Immutable State Tree - js Video Tutorial #free @eggheadio](https://egghead.io/lessons/javascript-redux-the-single-immutable-state-tree)
     * tags: [javascript](../tags/javascript.md), [redux](../tags/redux.md)

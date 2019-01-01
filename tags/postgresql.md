@@ -1,5 +1,11 @@
 postgresql 
 ---
+* [Postgres.app – the easiest way to get started with PostgreSQL on the Mac](https://postgresapp.com/)
+    * tags: [postgresql](../tags/postgresql.md), [macOS](../tags/macOS.md), [osx](../tags/osx.md)
+    * :octocat: [github url](https://github.com/PostgresApp/PostgresApp)
+* [Awesome Postgres](http://www.asad.pw/awesome-postgres/)
+    * tags: [awesome-list](../tags/awesome-list.md), [postgresql](../tags/postgresql.md), [awesome](../tags/awesome.md)
+    * :octocat: [github url](https://github.com/dhamaniasad/awesome-postgres)
 * [Работа с PostgreSQL - настройка и масштабирование](http://postgresql.leopard.in.ua)
     * tags: [free-programming-books](../tags/free-programming-books.md), [postgresql](../tags/postgresql.md), [free-programming-books-ru](../tags/free-programming-books-ru.md)
 * [История о PostgreSQL](http://www.inp.nsk.su/~baldin/PostgreSQL/index.html)

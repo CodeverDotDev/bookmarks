@@ -1,5 +1,8 @@
 sql 
 ---
+* [Visual Representation of SQL Joins - CodeProject](https://www.codeproject.com/Articles/33052/Visual-Representation-of-SQL-Joins)
+    * :calendar: published on: 2009-02-03
+    * tags: [sql](../tags/sql.md)
 * [Sqlectron - One single DB client for any relational DB](https://sqlectron.github.io/)
     * tags: [sql](../tags/sql.md), [tools](../tags/tools.md), [mysql](../tags/mysql.md)
     * :octocat: [github url](https://github.com/sqlectron/sqlectron-gui/)

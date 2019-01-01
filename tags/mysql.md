@@ -1,5 +1,7 @@
 mysql 
 ---
+* [awesome-mysql](https://github.com/shlomi-noach/awesome-mysql)
+    * tags: [awesome-list](../tags/awesome-list.md), [mysql](../tags/mysql.md)
 * [Sqlectron - One single DB client for any relational DB](https://sqlectron.github.io/)
     * tags: [sql](../tags/sql.md), [tools](../tags/tools.md), [mysql](../tags/mysql.md)
     * :octocat: [github url](https://github.com/sqlectron/sqlectron-gui/)

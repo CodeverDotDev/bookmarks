@@ -1,5 +1,8 @@
 api 
 ---
+* [5 Protocols For Event-Driven API Architectures](https://nordicapis.com/5-protocols-for-event-driven-api-architectures/)
+    * :calendar: published on: 2017-07-18
+    * tags: [event-driven-design](../tags/event-driven-design.md), [api](../tags/api.md), [rest](../tags/rest.md), [grpc](../tags/grpc.md), [websocket](../tags/websocket.md)
 * [GraphQL - A query language for your API - homepage](https://graphql.org/)
     * tags: [graphql](../tags/graphql.md), [api](../tags/api.md)
     * :octocat: [github url](https://graphql.org/code/)

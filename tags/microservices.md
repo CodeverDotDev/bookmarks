@@ -1,5 +1,8 @@
 microservices 
 ---
+* [awesome-microservices](https://github.com/mfornos/awesome-microservices)
+    * tags: [awesome-list](../tags/awesome-list.md), [microservices](../tags/microservices.md), [awesome](../tags/awesome.md)
+    * :octocat: [github url](https://github.com/mfornos/awesome-microservices)
 * [The Nuts and Bolts of API Security: Protecting Your Data at All Times - YouTube](https://www.youtube.com/watch?v=tj03NRM6SP8)
     * :calendar: published on: 2015-05-20
     * tags: [api](../tags/api.md), [security](../tags/security.md), [oauth2](../tags/oauth2.md), [openid-connect](../tags/openid-connect.md), [microservices](../tags/microservices.md)

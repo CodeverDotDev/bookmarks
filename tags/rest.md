@@ -1,5 +1,18 @@
 rest 
 ---
+* [JSON:API Home page](https://jsonapi.org/)
+    * tags: [rest](../tags/rest.md), [json-api](../tags/json-api.md)
+    * :octocat: [github url](https://github.com/json-api/json-api)
+* [5 Protocols For Event-Driven API Architectures](https://nordicapis.com/5-protocols-for-event-driven-api-architectures/)
+    * :calendar: published on: 2017-07-18
+    * tags: [event-driven-design](../tags/event-driven-design.md), [api](../tags/api.md), [rest](../tags/rest.md), [grpc](../tags/grpc.md), [websocket](../tags/websocket.md)
+* [Nate Barbettini – API Throwdown: RPC vs REST vs GraphQL, Iterate 2018](https://www.youtube.com/watch?v=IvsANO0qZEg)
+    * :calendar: published on: 2018-03-09
+    * tags: [rest](../tags/rest.md), [rpc](../tags/rpc.md), [graphql](../tags/graphql.md)
+* [The GitHub GraphQL API](https://githubengineering.com/the-github-graphql-api/)
+    * tags: [graphql](../tags/graphql.md), [rest](../tags/rest.md), [api-design](../tags/api-design.md)
+* [When to Use What: REST, GraphQL, Webhooks, & gRPC](https://nordicapis.com/when-to-use-what-rest-graphql-webhooks-grpc/)
+    * tags: [rest](../tags/rest.md), [grpc](../tags/grpc.md), [graphql](../tags/graphql.md), [webhooks](../tags/webhooks.md), [api-design](../tags/api-design.md)
 * [Restify Homepage](http://restify.com/)
     * tags: [nodejs](../tags/nodejs.md), [rest](../tags/rest.md)
     * :octocat: [github url](https://github.com/restify/node-restify)

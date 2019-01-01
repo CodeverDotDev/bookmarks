@@ -1,5 +1,11 @@
 macos 
 ---
+* [Postgres.app – the easiest way to get started with PostgreSQL on the Mac](https://postgresapp.com/)
+    * tags: [postgresql](../tags/postgresql.md), [macOS](../tags/macOS.md), [osx](../tags/osx.md)
+    * :octocat: [github url](https://github.com/PostgresApp/PostgresApp)
+* [Awesome-macOS](https://github.com/iCHAIT/awesome-macOS)
+    * tags: [macOS](../tags/macOS.md), [osx](../tags/osx.md), [awesome-list](../tags/awesome-list.md)
+    * :octocat: [github url](https://github.com/iCHAIT/awesome-macOS)
 * [Kubernetes in Docker for Mac - YouTube](https://www.youtube.com/watch?v=jWupQjdjLN0)
     * :calendar: published on: 2017-10-17
     * tags: [docker](../tags/docker.md), [macOS](../tags/macOS.md), [kubernetes](../tags/kubernetes.md)

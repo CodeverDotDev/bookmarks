@@ -1,5 +1,10 @@
 logging 
 ---
+* [Using Winston, a versatile logging library for Node.js](https://thisdavej.com/using-winston-a-versatile-logging-library-for-node-js/)
+    * :calendar: published on: 2018-12-06
+    * tags: [nodejs](../tags/nodejs.md), [logging](../tags/logging.md), [winston](../tags/winston.md)
+* [Hibernate Logging Guide - Use the right config for dev and prod](https://thoughts-on-java.org/hibernate-logging-guide/)
+    * tags: [hibernate](../tags/hibernate.md), [logging](../tags/logging.md)
 * [Graylog documentation ](http://docs.graylog.org)
     * tags: [logging](../tags/logging.md), [graylog](../tags/graylog.md), [tools](../tags/tools.md), [docs](../tags/docs.md)
     * :octocat: [github url](https://github.com/Graylog2)
