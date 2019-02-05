@@ -1,5 +1,12 @@
 rest-client 
 ---
+* [How To Use Jersey Client Efficiently](https://blogs.oracle.com/japod/how-to-use-jersey-client-efficiently)
+    * :calendar: published on: 2015-03-30
+    * tags: [rest-client](../tags/rest-client.md), [jersey](../tags/jersey.md)
+* [RESTEasy Client API](https://www.baeldung.com/resteasy-client-tutorial)
+    * :calendar: published on: 2018-03-01
+    * tags: [rest](../tags/rest.md), [rest-client](../tags/rest-client.md), [resteasy](../tags/resteasy.md)
+    * :octocat: [github url](https://github.com/eugenp/tutorials/tree/master/resteasy)
 * [Intro to Feign](https://www.baeldung.com/intro-to-feign)
     * :calendar: published on: 2017-07-29
     * tags: [feign](../tags/feign.md), [rest-client](../tags/rest-client.md)

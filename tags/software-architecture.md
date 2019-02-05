@@ -1,5 +1,8 @@
 software-architecture 
 ---
+* [What We Got Wrong: Lessons from the Birth of Microservices - YouTube](https://www.youtube.com/watch?v=-pDyNsB9Zr0)
+    * :calendar: published on: 2018-11-08
+    * tags: [microservices](../tags/microservices.md), [software-architecture](../tags/software-architecture.md)
 * [Your API Is Bad](https://leanpub.com/yourapiisbad)
     * tags: [free-programming-books](../tags/free-programming-books.md), [language-agnostic](../tags/language-agnostic.md), [software-architecture](../tags/software-architecture.md)
 * [Working with Web APIs](https://launchschool.com/books/working_with_apis)

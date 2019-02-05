@@ -1,5 +1,19 @@
 rest 
 ---
+* [Fastify Homepage](https://www.fastify.io/)
+    * tags: [nodejs](../tags/nodejs.md), [rest](../tags/rest.md)
+    * :octocat: [github url](https://github.com/fastify/fastify)
+* [
+Architectural Styles and the Design of Network-based Software Architectures
+](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)
+    * tags: [rest](../tags/rest.md)
+* [RESTEasy Client API](https://www.baeldung.com/resteasy-client-tutorial)
+    * :calendar: published on: 2018-03-01
+    * tags: [rest](../tags/rest.md), [rest-client](../tags/rest-client.md), [resteasy](../tags/resteasy.md)
+    * :octocat: [github url](https://github.com/eugenp/tutorials/tree/master/resteasy)
+* [Asynchronous REST Services with JAX-RS and CompletableFuture · allegro.tech](https://allegro.tech/2014/10/async-rest.html)
+    * :calendar: published on: 2014-10-29
+    * tags: [rest](../tags/rest.md), [java](../tags/java.md), [javaee](../tags/javaee.md), [asynchronous](../tags/asynchronous.md)
 * [JSON:API Home page](https://jsonapi.org/)
     * tags: [rest](../tags/rest.md), [json-api](../tags/json-api.md)
     * :octocat: [github url](https://github.com/json-api/json-api)

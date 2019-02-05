@@ -1,5 +1,7 @@
 html 
 ---
+* [Using CORS - HTML5 Rocks](https://www.html5rocks.com/en/tutorials/cors/)
+    * tags: [html](../tags/html.md)
 * [D3.js - Data-Driven Documents](https://d3js.org/)
     * tags: [javascript](../tags/javascript.md), [html](../tags/html.md), [svg](../tags/svg.md), [css](../tags/css.md)
     * :octocat: [github url](https://github.com/d3/d3)

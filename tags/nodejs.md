@@ -1,11 +1,32 @@
 nodejs 
 ---
+* [GitHub - Keyang/node-csvtojson](https://github.com/Keyang/node-csvtojson)
+    * tags: [nodejs](../tags/nodejs.md), [csv](../tags/csv.md), [json](../tags/json.md)
+    * :octocat: [github url](https://github.com/Keyang/node-csvtojson)
+* [Claudia.js Home Page](https://claudiajs.com/)
+    * tags: [nodejs](../tags/nodejs.md), [aws](../tags/aws.md), [serverless](../tags/serverless.md)
+    * :octocat: [github url](https://github.com/claudiajs/claudia)
+* [Fastify Homepage](https://www.fastify.io/)
+    * tags: [nodejs](../tags/nodejs.md), [rest](../tags/rest.md)
+    * :octocat: [github url](https://github.com/fastify/fastify)
+* [dotenv homepage](https://github.com/motdotla/dotenv)
+    * tags: [nodejs](../tags/nodejs.md), [devops](../tags/devops.md), [tools](../tags/tools.md)
+    * :octocat: [github url](https://github.com/motdotla/dotenv)
+* [Cleaner code in NodeJs with async-await - Mongoose calls example – CodingpediaOrg](http://www.codingpedia.org/ama/cleaner-code-in-nodejs-with-async-await-mongoose-calls-example)
+    * :calendar: published on: 2017-11-05
+    * tags: [nodejs](../tags/nodejs.md), [async-await](../tags/async-await.md), [mongoose](../tags/mongoose.md), [mongodb](../tags/mongodb.md)
+    * :octocat: [github url](https://github.com/Codingpedia/codingmarks-api)
+* [Building Microservices with Node, Docker and Nginx pt 1 - What is a Microservice?](https://www.youtube.com/watch?v=EsCfPxjmnjo)
+    * :calendar: published on: 2017-12-29
+    * tags: [nodejs](../tags/nodejs.md), [microservices](../tags/microservices.md), [docker](../tags/docker.md), [docker-compose](../tags/docker-compose.md), [nginx](../tags/nginx.md)
+    * :octocat: [github url](https://github.com/fChristenson/microservices-example)
 * [Nodeenv - Manage multiple NodeJS versions.](https://github.com/nodenv/nodenv)
     * tags: [nodejs](../tags/nodejs.md), [tools](../tags/tools.md)
     * :octocat: [github url](https://github.com/nodenv/nodenv)
 * [Node.js Everywhere with Environment Variables! – Node.js Collection – Medium](https://medium.com/the-node-js-collection/making-your-node-js-work-everywhere-with-environment-variables-2da8cdf6e786)
     * :calendar: published on: 2018-10-29
-    * tags: [nodejs](../tags/nodejs.md)
+    * tags: [nodejs](../tags/nodejs.md), [cloud](../tags/cloud.md)
+    * :octocat: [github url](https://github.com/johnpapa/vikings)
 * [Using Winston, a versatile logging library for Node.js](https://thisdavej.com/using-winston-a-versatile-logging-library-for-node-js/)
     * :calendar: published on: 2018-12-06
     * tags: [nodejs](../tags/nodejs.md), [logging](../tags/logging.md), [winston](../tags/winston.md)
@@ -231,7 +252,7 @@ nodejs
     * :octocat: [github url](https://github.com/domenic/chai-as-promised)
 * [Assert | Node.js Documentation](https://nodejs.org/api/assert.html)
     * tags: [nodejs](../tags/nodejs.md), [testing](../tags/testing.md), [unit-testing](../tags/unit-testing.md)
-* [GitHub - visionmedia/supertest](https://github.com/visionmedia/supertest)
+* [GitHub - visionmedia/supertest homepage](https://github.com/visionmedia/supertest)
     * tags: [nodejs](../tags/nodejs.md), [testing](../tags/testing.md), [integration-testing](../tags/integration-testing.md)
     * :octocat: [github url](https://github.com/visionmedia/supertest)
 * [A Brief History of Streams - YouTube](https://www.youtube.com/watch?v=gx9ZNY9DNBs)
@@ -254,11 +275,11 @@ nodejs
 * [Sinon.JS](http://sinonjs.org/)
     * tags: [javascript](../tags/javascript.md), [nodejs](../tags/nodejs.md), [unit-testing](../tags/unit-testing.md), [testing](../tags/testing.md), [sinonjs](../tags/sinonjs.md)
     * :octocat: [github url](https://github.com/sinonjs/sinon)
-* [Chai](http://chaijs.com/)
+* [Chai home page](http://chaijs.com/)
     * tags: [nodejs](../tags/nodejs.md), [testing](../tags/testing.md), [unit-testing](../tags/unit-testing.md), [chai](../tags/chai.md)
     * :octocat: [github url](https://github.com/chaijs/chai)
-* [Mocha - the fun, simple, flexible JavaScript test framework](http://mochajs.org/)
-    * tags: [nodejs](../tags/nodejs.md), [testing](../tags/testing.md), [unit-testing](../tags/unit-testing.md), [mocha](../tags/mocha.md)
+* [Mocha - home page](http://mochajs.org/)
+    * tags: [nodejs](../tags/nodejs.md), [testing](../tags/testing.md), [unit-testing](../tags/unit-testing.md), [mocha](../tags/mocha.md), [javascript](../tags/javascript.md)
     * :octocat: [github url](https://github.com/mochajs/mocha)
 * [Stream | Node.js Documentation](https://nodejs.org/api/stream.html)
     * tags: [nodejs](../tags/nodejs.md), [docs](../tags/docs.md)
@@ -359,7 +380,7 @@ nodejs
     * :calendar: published on: 2014-07-30
     * tags: [nodejs](../tags/nodejs.md), [devops](../tags/devops.md)
 * [Debugging Node.js with Chrome DevTools – Paul Irish – Medium](https://medium.com/@paul_irish/debugging-node-js-nightlies-with-chrome-devtools-7c4a1b95ae27)
-    * :calendar: published on: 2016-06-24
+    * :calendar: published on: 2018-01-01
     * tags: [nodejs](../tags/nodejs.md), [debugging](../tags/debugging.md), [chrome](../tags/chrome.md), [dev-tools](../tags/dev-tools.md)
 * [debug](https://www.npmjs.com/package/debug)
     * tags: [nodejs](../tags/nodejs.md), [logging](../tags/logging.md), [javascript](../tags/javascript.md)

@@ -1,5 +1,8 @@
 markdown 
 ---
+* [Marked.js Homepage](https://marked.js.org/)
+    * tags: [javascript](../tags/javascript.md), [markdown](../tags/markdown.md)
+    * :octocat: [github url](https://github.com/markedjs/marked)
 * [How to insert and highlight code in Jekyll blog post on Codingpedia.org – CodingpediaOrg](http://www.codingpedia.org/ama/how-to-insert-and-highlight-code-in-jekyll-blog-post-on-codingpedia-org)
     * tags: [jekyll](../tags/jekyll.md), [markdown](../tags/markdown.md), [blogging](../tags/blogging.md)
 * [Learn Markdown](https://www.gitbook.com/book/gitbookio/markdown/details)

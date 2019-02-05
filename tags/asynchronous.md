@@ -1,5 +1,10 @@
 asynchronous 
 ---
+* [java.util.concurrent - Java Concurrency Utilities](http://tutorials.jenkov.com/java-util-concurrent/index.html)
+    * tags: [java](../tags/java.md), [concurrency](../tags/concurrency.md), [asynchronous](../tags/asynchronous.md)
+* [Asynchronous REST Services with JAX-RS and CompletableFuture · allegro.tech](https://allegro.tech/2014/10/async-rest.html)
+    * :calendar: published on: 2014-10-29
+    * tags: [rest](../tags/rest.md), [java](../tags/java.md), [javaee](../tags/javaee.md), [asynchronous](../tags/asynchronous.md)
 * [@Asynchronous does not work from inside the same EJB](https://www.whitebyte.info/programming/java/asynchronous-does-not-work-from-inside-the-same-ejb)
     * tags: [javaee](../tags/javaee.md), [ejb](../tags/ejb.md), [asynchronous](../tags/asynchronous.md), [async](../tags/async.md)
 * [Guide To CompletableFuture | Baeldung](http://www.baeldung.com/java-completablefuture)

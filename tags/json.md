@@ -1,5 +1,12 @@
 json 
 ---
+* [GitHub - Keyang/node-csvtojson](https://github.com/Keyang/node-csvtojson)
+    * tags: [nodejs](../tags/nodejs.md), [csv](../tags/csv.md), [json](../tags/json.md)
+    * :octocat: [github url](https://github.com/Keyang/node-csvtojson)
+* [How To Serialize Enums as JSON Objects with Jackson](https://www.baeldung.com/jackson-serialize-enums)
+    * :calendar: published on: 2018-11-23
+    * tags: [java](../tags/java.md), [serialization](../tags/serialization.md), [jackson](../tags/jackson.md), [json](../tags/json.md)
+    * :octocat: [github url](https://github.com/eugenp/tutorials/tree/master/jackson#readme)
 * [Online JSON Formatter](https://jsonformatter.org/)
     * tags: [json](../tags/json.md), [tools](../tags/tools.md), [xml](../tags/xml.md)
 * [How To Serialize Enums as JSON Objects with Jackson](http://www.baeldung.com/jackson-serialize-enums)

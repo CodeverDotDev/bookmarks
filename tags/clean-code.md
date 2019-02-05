@@ -1,5 +1,8 @@
 clean-code 
 ---
+* [Why I Changed My Mind About Field Injection?](https://www.petrikainulainen.net/software-development/design/why-i-changed-my-mind-about-field-injection/)
+    * :calendar: published on: 2013-06-26
+    * tags: [design-patterns](../tags/design-patterns.md), [clean-code](../tags/clean-code.md)
 * [Template method pattern - Wikipedia](https://en.wikipedia.org/wiki/Template_method_pattern)
     * tags: [design-patterns](../tags/design-patterns.md), [clean-code](../tags/clean-code.md)
 * [The Principles of OOD - Object Oriented Design](http://www.butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod)

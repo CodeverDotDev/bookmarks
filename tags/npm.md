@@ -1,5 +1,7 @@
 npm 
 ---
+* [npm documentation  ](https://docs.npmjs.com/)
+    * tags: [npm](../tags/npm.md), [docs](../tags/docs.md)
 * [npm-check ](https://www.npmjs.com/package/npm-check)
     * tags: [npm](../tags/npm.md)
     * :octocat: [github url](https://github.com/dylang/npm-check)

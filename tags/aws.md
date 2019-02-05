@@ -1,5 +1,8 @@
 aws 
 ---
+* [Claudia.js Home Page](https://claudiajs.com/)
+    * tags: [nodejs](../tags/nodejs.md), [aws](../tags/aws.md), [serverless](../tags/serverless.md)
+    * :octocat: [github url](https://github.com/claudiajs/claudia)
 * [GitHub - awslabs/aws-serverless-express](https://github.com/awslabs/aws-serverless-express)
     * tags: [aws](../tags/aws.md), [nodejs](../tags/nodejs.md), [expressjs](../tags/expressjs.md), [rest](../tags/rest.md)
     * :octocat: [github url](https://github.com/awslabs/aws-serverless-express)

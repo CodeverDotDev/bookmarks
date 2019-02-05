@@ -1,5 +1,7 @@
 open-source 
 ---
+* [The Open Source Definition](https://opensource.org/docs/osd)
+    * tags: [open-source](../tags/open-source.md)
 * [zachflower/awesome-open-source-supporters](https://github.com/zachflower/awesome-open-source-supporters)
     * tags: [awesome-list](../tags/awesome-list.md), [open-source](../tags/open-source.md)
     * :octocat: [github url](https://github.com/zachflower/awesome-open-source-supporters)

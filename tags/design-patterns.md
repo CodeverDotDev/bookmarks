@@ -1,5 +1,11 @@
 design-patterns 
 ---
+* [The One Correct Way to do Dependency Injection](http://blog.schauderhaft.de/2012/01/01/the-one-correct-way-to-do-dependency-injection/)
+    * :calendar: published on: 2012-01-01
+    * tags: [design-patterns](../tags/design-patterns.md), [dependency-injection](../tags/dependency-injection.md)
+* [Why I Changed My Mind About Field Injection?](https://www.petrikainulainen.net/software-development/design/why-i-changed-my-mind-about-field-injection/)
+    * :calendar: published on: 2013-06-26
+    * tags: [design-patterns](../tags/design-patterns.md), [clean-code](../tags/clean-code.md)
 * [Making the Netflix API More Resilient – Netflix TechBlog – Medium](https://medium.com/netflix-techblog/making-the-netflix-api-more-resilient-a8ec62159c2d)
     * :calendar: published on: 2001-11-08
     * tags: [design-patterns](../tags/design-patterns.md), [circuit-breaker](../tags/circuit-breaker.md)

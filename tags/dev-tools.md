@@ -6,7 +6,7 @@ dev-tools
 * [SHA-256 hash calculator. Online SHA-256 hash generator. Mining Bitcoin](http://www.xorbin.com/tools/sha256-hash-calculator)
     * tags: [security](../tags/security.md), [dev-tools](../tags/dev-tools.md)
 * [Debugging Node.js with Chrome DevTools – Paul Irish – Medium](https://medium.com/@paul_irish/debugging-node-js-nightlies-with-chrome-devtools-7c4a1b95ae27)
-    * :calendar: published on: 2016-06-24
+    * :calendar: published on: 2018-01-01
     * tags: [nodejs](../tags/nodejs.md), [debugging](../tags/debugging.md), [chrome](../tags/chrome.md), [dev-tools](../tags/dev-tools.md)
 * [nodemon](https://nodemon.io/)
     * tags: [nodejs](../tags/nodejs.md), [nodemon](../tags/nodemon.md), [dev-tools](../tags/dev-tools.md)

@@ -1,5 +1,8 @@
 programming 
 ---
+* [Coding bookmarks, aka #codingmarks](https://www.codingmarks.org)
+    * tags: [software-development](../tags/software-development.md), [free-programming-books](../tags/free-programming-books.md), [programming](../tags/programming.md)
+    * :octocat: [github url](https://github.com/Codingpedia/codingmarks)
 * [Things You Should Never Do, Part I – Joel on Software](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)
     * :calendar: published on: 2000-04-06
     * tags: [programming](../tags/programming.md), [software-development](../tags/software-development.md)

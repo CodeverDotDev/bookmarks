@@ -1,5 +1,27 @@
 java 
 ---
+* [ORM Is an Offensive Anti-Pattern ](https://www.yegor256.com/2014/12/01/orm-offensive-anti-pattern.html)
+    * :calendar: published on: 2014-12-01
+    * tags: [orm](../tags/orm.md), [java](../tags/java.md)
+* [Ted Vinke's Blog – Java, Groovy and Grails](https://tedvinke.wordpress.com/)
+    * tags: [java](../tags/java.md), [blog](../tags/blog.md)
+* [java.util.concurrent - Java Concurrency Utilities](http://tutorials.jenkov.com/java-util-concurrent/index.html)
+    * tags: [java](../tags/java.md), [concurrency](../tags/concurrency.md), [asynchronous](../tags/asynchronous.md)
+* [Java Lambda Expressions](http://tutorials.jenkov.com/java/lambda-expressions.html)
+    * tags: [java](../tags/java.md)
+* [The Basics of Java Generics](https://www.baeldung.com/java-generics)
+    * tags: [java](../tags/java.md), [generics](../tags/generics.md)
+    * :octocat: [github url](https://github.com/eugenp/tutorials/tree/master/core-java-lang-syntax)
+* [Finally Getting the Most out of the Java Thread Pool](https://stackify.com/java-thread-pools/)
+    * :calendar: published on: 2017-09-06
+    * tags: [java](../tags/java.md), [multithreading](../tags/multithreading.md)
+* [How To Serialize Enums as JSON Objects with Jackson](https://www.baeldung.com/jackson-serialize-enums)
+    * :calendar: published on: 2018-11-23
+    * tags: [java](../tags/java.md), [serialization](../tags/serialization.md), [jackson](../tags/jackson.md), [json](../tags/json.md)
+    * :octocat: [github url](https://github.com/eugenp/tutorials/tree/master/jackson#readme)
+* [Asynchronous REST Services with JAX-RS and CompletableFuture · allegro.tech](https://allegro.tech/2014/10/async-rest.html)
+    * :calendar: published on: 2014-10-29
+    * tags: [rest](../tags/rest.md), [java](../tags/java.md), [javaee](../tags/javaee.md), [asynchronous](../tags/asynchronous.md)
 * [awesome-java](https://github.com/akullpp/awesome-java)
     * tags: [java](../tags/java.md), [awesome-list](../tags/awesome-list.md)
 * [Iterate over a Map in Java](https://www.baeldung.com/java-iterate-map)

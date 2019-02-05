@@ -1,5 +1,15 @@
 microservices 
 ---
+* [Thorntail Home Page](http://thorntail.io/)
+    * tags: [javaee](../tags/javaee.md), [microservices](../tags/microservices.md)
+    * :octocat: [github url](https://github.com/thorntail/thorntail)
+* [What We Got Wrong: Lessons from the Birth of Microservices - YouTube](https://www.youtube.com/watch?v=-pDyNsB9Zr0)
+    * :calendar: published on: 2018-11-08
+    * tags: [microservices](../tags/microservices.md), [software-architecture](../tags/software-architecture.md)
+* [Building Microservices with Node, Docker and Nginx pt 1 - What is a Microservice?](https://www.youtube.com/watch?v=EsCfPxjmnjo)
+    * :calendar: published on: 2017-12-29
+    * tags: [nodejs](../tags/nodejs.md), [microservices](../tags/microservices.md), [docker](../tags/docker.md), [docker-compose](../tags/docker-compose.md), [nginx](../tags/nginx.md)
+    * :octocat: [github url](https://github.com/fChristenson/microservices-example)
 * [awesome-microservices](https://github.com/mfornos/awesome-microservices)
     * tags: [awesome-list](../tags/awesome-list.md), [microservices](../tags/microservices.md), [awesome](../tags/awesome.md)
     * :octocat: [github url](https://github.com/mfornos/awesome-microservices)

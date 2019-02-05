@@ -1,5 +1,9 @@
 nginx 
 ---
+* [Building Microservices with Node, Docker and Nginx pt 1 - What is a Microservice?](https://www.youtube.com/watch?v=EsCfPxjmnjo)
+    * :calendar: published on: 2017-12-29
+    * tags: [nodejs](../tags/nodejs.md), [microservices](../tags/microservices.md), [docker](../tags/docker.md), [docker-compose](../tags/docker-compose.md), [nginx](../tags/nginx.md)
+    * :octocat: [github url](https://github.com/fChristenson/microservices-example)
 * [5 Tips to Increase Node.js Application Performance](https://www.nginx.com/blog/5-performance-tips-for-node-js-applications/)
     * :calendar: published on: 2015-11-16
     * tags: [nginx](../tags/nginx.md), [nodejs](../tags/nodejs.md), [performance](../tags/performance.md), [optimization](../tags/optimization.md)

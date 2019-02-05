@@ -1,5 +1,7 @@
 blog 
 ---
+* [Ted Vinke's Blog – Java, Groovy and Grails](https://tedvinke.wordpress.com/)
+    * tags: [java](../tags/java.md), [blog](../tags/blog.md)
 * [2ality – JavaScript and more  ](http://2ality.com)
     * tags: [javascript](../tags/javascript.md), [blog](../tags/blog.md)
 * [Google Open Source Blog](https://opensource.googleblog.com/)

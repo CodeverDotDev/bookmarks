@@ -1,5 +1,7 @@
 linux 
 ---
+* [5 Commands for Checking Memory Usage in Linux](https://www.linux.com/learn/5-commands-checking-memory-usage-linux)
+    * tags: [linux](../tags/linux.md), [memory-management](../tags/memory-management.md)
 * [How to compare differences between directories (linux) - Server Fault](https://serverfault.com/questions/59108/how-to-compare-differences-between-directories-linux)
     * tags: [linux](../tags/linux.md), [bash](../tags/bash.md)
 * [macos - Linux - Find Files with Name Containing String - Stack Overflow](https://stackoverflow.com/questions/11328988/linux-find-files-with-name-containing-string)

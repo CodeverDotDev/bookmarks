@@ -1,5 +1,8 @@
 jersey 
 ---
+* [How To Use Jersey Client Efficiently](https://blogs.oracle.com/japod/how-to-use-jersey-client-efficiently)
+    * :calendar: published on: 2015-03-30
+    * tags: [rest-client](../tags/rest-client.md), [jersey](../tags/jersey.md)
 * [REST with Java (JAX-RS) using Jersey - Tutorial](http://www.vogella.com/tutorials/REST/article.html)
     * :calendar: published on: 2017-11-27
     * tags: [java](../tags/java.md), [javaee](../tags/javaee.md), [jaxrs](../tags/jaxrs.md), [jersey](../tags/jersey.md), [rest](../tags/rest.md)

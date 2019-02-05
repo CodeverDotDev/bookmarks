@@ -1,5 +1,13 @@
 mongodb 
 ---
+* [Generating Globally Unique Identifiers for Use with MongoDB](https://www.mongodb.com/blog/post/generating-globally-unique-identifiers-for-use-with-mongodb)
+    * tags: [mongodb](../tags/mongodb.md)
+* [Mongoose - SubDocuments](https://mongoosejs.com/docs/subdocs.html)
+    * tags: [mongoose](../tags/mongoose.md), [mongodb](../tags/mongodb.md)
+* [Cleaner code in NodeJs with async-await - Mongoose calls example – CodingpediaOrg](http://www.codingpedia.org/ama/cleaner-code-in-nodejs-with-async-await-mongoose-calls-example)
+    * :calendar: published on: 2017-11-05
+    * tags: [nodejs](../tags/nodejs.md), [async-await](../tags/async-await.md), [mongoose](../tags/mongoose.md), [mongodb](../tags/mongodb.md)
+    * :octocat: [github url](https://github.com/Codingpedia/codingmarks-api)
 * [mongoose-unique-validator](https://github.com/blakehaswell/mongoose-unique-validator)
     * tags: [nodejs](../tags/nodejs.md), [mongoose](../tags/mongoose.md), [mongodb](../tags/mongodb.md)
     * :octocat: [github url](https://github.com/blakehaswell/mongoose-unique-validator)

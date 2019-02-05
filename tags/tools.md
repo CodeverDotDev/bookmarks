@@ -1,5 +1,13 @@
 tools 
 ---
+* [MockAPI docs](https://www.mockapi.io/docs)
+    * tags: [mocking](../tags/mocking.md), [api](../tags/api.md), [tools](../tags/tools.md)
+* [dotenv homepage](https://github.com/motdotla/dotenv)
+    * tags: [nodejs](../tags/nodejs.md), [devops](../tags/devops.md), [tools](../tags/tools.md)
+    * :octocat: [github url](https://github.com/motdotla/dotenv)
+* [CodeMirror](http://codemirror.net/)
+    * tags: [javascript](../tags/javascript.md), [tools](../tags/tools.md)
+    * :octocat: [github url](https://github.com/codemirror/codemirror)
 * [Nodeenv - Manage multiple NodeJS versions.](https://github.com/nodenv/nodenv)
     * tags: [nodejs](../tags/nodejs.md), [tools](../tags/tools.md)
     * :octocat: [github url](https://github.com/nodenv/nodenv)

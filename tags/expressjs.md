@@ -1,5 +1,12 @@
 expressjs 
 ---
+* [Express Integration Testing with SuperTest · InVision Engineering Blog](https://engineering.invisionapp.com/post/express-integration-testing-supertest/)
+    * :calendar: published on: 2016-06-27
+    * tags: [expressjs](../tags/expressjs.md), [integration-testing](../tags/integration-testing.md), [supertest](../tags/supertest.md), [chai](../tags/chai.md)
+    * :octocat: [github url](https://github.com/joshmatz/supertest-example)
+* [express-validator](https://express-validator.github.io)
+    * tags: [expressjs](../tags/expressjs.md), [javascript](../tags/javascript.md)
+    * :octocat: [github url](https://github.com/express-validator/express-validator)
 * [Express routing](https://expressjs.com/en/guide/routing.html)
     * tags: [expressjs](../tags/expressjs.md)
 * [Node Http Status Codes](https://github.com/prettymuchbryce/node-http-status)

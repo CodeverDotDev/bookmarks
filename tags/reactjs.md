@@ -1,5 +1,8 @@
 reactjs 
 ---
+* [Jest · 🃏 Delightful JavaScript Testing](https://jestjs.io/)
+    * tags: [javascript](../tags/javascript.md), [testing](../tags/testing.md), [reactjs](../tags/reactjs.md)
+    * :octocat: [github url](https://github.com/facebook/jest)
 * [Relay Homepage](https://facebook.github.io/relay/)
     * tags: [relay](../tags/relay.md), [reactjs](../tags/reactjs.md)
     * :octocat: [github url](https://github.com/facebook/relay)

@@ -1,5 +1,23 @@
 javaee 
 ---
+* [Thorntail Home Page](http://thorntail.io/)
+    * tags: [javaee](../tags/javaee.md), [microservices](../tags/microservices.md)
+    * :octocat: [github url](https://github.com/thorntail/thorntail)
+* [ CDI Reference Implementation](http://docs.jboss.org/weld/reference/latest/en-US/html_single/)
+    * tags: [weld](../tags/weld.md), [dependency-injection](../tags/dependency-injection.md), [javaee](../tags/javaee.md), [docs](../tags/docs.md)
+* [Mockito: Why You Should Not Use InjectMocks Annotation to Autowire Fields – Ted Vinke's Blog](https://tedvinke.wordpress.com/2014/02/13/mockito-why-you-should-not-use-injectmocks-annotation-to-autowire-fields/)
+    * :calendar: published on: 2014-02-13
+    * tags: [javaee](../tags/javaee.md), [mockito](../tags/mockito.md), [testing](../tags/testing.md), [mocking](../tags/mocking.md)
+* [Oliver Gierke - Why field injection is evil](http://olivergierke.de/2013/11/why-field-injection-is-evil/)
+    * :calendar: published on: 2013-11-22
+    * tags: [dependency-injection](../tags/dependency-injection.md), [javaee](../tags/javaee.md), [spring](../tags/spring.md)
+* [Injection with CDI (Part I)](https://antoniogoncalves.org/2011/05/03/injection-with-cdi-part-i/)
+    * :calendar: published on: 2011-09-25
+    * tags: [dependency-injection](../tags/dependency-injection.md), [cdi](../tags/cdi.md), [javaee](../tags/javaee.md)
+    * :octocat: [github url](https://github.com/agoncal/agoncal-sample-cdi)
+* [Asynchronous REST Services with JAX-RS and CompletableFuture · allegro.tech](https://allegro.tech/2014/10/async-rest.html)
+    * :calendar: published on: 2014-10-29
+    * tags: [rest](../tags/rest.md), [java](../tags/java.md), [javaee](../tags/javaee.md), [asynchronous](../tags/asynchronous.md)
 * [Jakarta EE Software  Homeage](https://jakarta.ee/)
     * tags: [javaee](../tags/javaee.md), [jakartaee](../tags/jakartaee.md)
 * [Transaction strategies: Understanding transaction pitfalls](https://www.ibm.com/developerworks/library/j-ts1/index.html)

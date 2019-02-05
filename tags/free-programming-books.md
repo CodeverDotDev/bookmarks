@@ -1,5 +1,8 @@
 free-programming-books 
 ---
+* [Coding bookmarks, aka #codingmarks](https://www.codingmarks.org)
+    * tags: [software-development](../tags/software-development.md), [free-programming-books](../tags/free-programming-books.md), [programming](../tags/programming.md)
+    * :octocat: [github url](https://github.com/Codingpedia/codingmarks)
 * [Programming, Motherfucker - Do you speak it?](http://programming-motherfucker.com/)
     * tags: [programming](../tags/programming.md), [book](../tags/book.md), [free-programming-books](../tags/free-programming-books.md)
 * [James Shore: Agile-Book](https://www.jamesshore.com/Agile-Book/)

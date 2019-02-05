@@ -1,5 +1,8 @@
 spring 
 ---
+* [Oliver Gierke - Why field injection is evil](http://olivergierke.de/2013/11/why-field-injection-is-evil/)
+    * :calendar: published on: 2013-11-22
+    * tags: [dependency-injection](../tags/dependency-injection.md), [javaee](../tags/javaee.md), [spring](../tags/spring.md)
 * [SpringFox homepage](http://springfox.github.io/springfox/)
     * tags: [spring](../tags/spring.md), [swagger](../tags/swagger.md), [rest](../tags/rest.md), [documentation](../tags/documentation.md)
     * :octocat: [github url](https://github.com/springfox/springfox)

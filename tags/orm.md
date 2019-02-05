@@ -1,5 +1,8 @@
 orm 
 ---
+* [ORM Is an Offensive Anti-Pattern ](https://www.yegor256.com/2014/12/01/orm-offensive-anti-pattern.html)
+    * :calendar: published on: 2014-12-01
+    * tags: [orm](../tags/orm.md), [java](../tags/java.md)
 * [Knex.js - A SQL Query Builder for Javascript](http://knexjs.org/)
     * tags: [orm](../tags/orm.md), [sql](../tags/sql.md), [nodejs](../tags/nodejs.md)
     * :octocat: [github url](https://github.com/tgriesser/knex)

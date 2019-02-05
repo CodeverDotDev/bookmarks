@@ -1,5 +1,12 @@
 cloud 
 ---
+* [GitHub - anaibol/awesome-serverless](https://github.com/anaibol/awesome-serverless)
+    * tags: [serverless](../tags/serverless.md), [cloud](../tags/cloud.md), [awesome](../tags/awesome.md), [awesome-list](../tags/awesome-list.md)
+    * :octocat: [github url](https://github.com/anaibol/awesome-serverless)
+* [Node.js Everywhere with Environment Variables! – Node.js Collection – Medium](https://medium.com/the-node-js-collection/making-your-node-js-work-everywhere-with-environment-variables-2da8cdf6e786)
+    * :calendar: published on: 2018-10-29
+    * tags: [nodejs](../tags/nodejs.md), [cloud](../tags/cloud.md)
+    * :octocat: [github url](https://github.com/johnpapa/vikings)
 * [Gluster ](https://www.gluster.org/)
     * tags: [filesystem](../tags/filesystem.md), [cloud](../tags/cloud.md), [storage](../tags/storage.md)
     * :octocat: [github url](https://github.com/gluster/glusterfs)
