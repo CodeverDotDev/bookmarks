@@ -1,8 +1,8 @@
-Coding bookmarks, aka #codingmarks
+Bookmarks for Developers & Co
 ---
-<img align="left" src="images/logo.png">
+<img align="left" src="images/bookmarks.dev-logo-md.png">
 
-Generated codingmarks, grouped by topics, shared from  [https://www.codingmarks.org](https://www.codingmarks.org)
+Public bookmarks, grouped by topics, shared from  [https://www.bookmarks.dev](https://www.bookmarks.dev)
 
 ---
 List of topics
