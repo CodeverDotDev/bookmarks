@@ -1,13 +1,10 @@
-Bookmarks for Developers & Co
----
-<div style="display: flex;justify-content:flex-start;align-items:center">
-<img src="images/bookmarks.dev-logo-md.png">
-
-<p>
-    Public bookmarks, grouped by topics, shared from  <a href="https://www.bookmarks.dev">https://www.bookmarks.dev</a>
-</p>
+<div>
+  <img  style="vertical-align: middle" src="images/bookmarks.dev-logo-md.png">
+  <h2 style="vertical-align: middle">Bookmarks for Developers & Co</h2>
 </div>
 
+---
+Public bookmarks, grouped by topics, shared from  <a href="https://www.bookmarks.dev">https://www.bookmarks.dev</a>
 ---
 List of topics
  * [alphabetically ordered](tags-alphabetically.md)
