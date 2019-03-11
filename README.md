@@ -1,9 +1,9 @@
 Bookmarks for Developers & Co
 ---
-<div style="vertical-align:middle">
-<img align="left" style="float: left;vertical-align:middle" src="images/bookmarks.dev-logo-md.png">
+<div style="display: flex;justify-content:flex-start;align-items:center">
+<img src="images/bookmarks.dev-logo-md.png">
 
-<p style="vertical-align:middle">
+<p>
     Public bookmarks, grouped by topics, shared from  <a href="https://www.bookmarks.dev">https://www.bookmarks.dev</a>
 </p>
 </div>
