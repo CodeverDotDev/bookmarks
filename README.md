@@ -4,9 +4,10 @@ Bookmarks for Developers & Co
 <img align="left" style="float: left" src="images/bookmarks.dev-logo-md.png">
 
 <p style="vertical-align:middle">
-    Public bookmarks, grouped by topics, shared from  [https://www.bookmarks.dev](https://www.bookmarks.dev)
+    Public bookmarks, grouped by topics, shared from  <a href="https://www.bookmarks.dev">https://www.bookmarks.dev</a>
 </p>
 </div>
+
 ---
 List of topics
  * [alphabetically ordered](tags-alphabetically.md)
