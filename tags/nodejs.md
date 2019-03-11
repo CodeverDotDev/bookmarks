@@ -1,5 +1,8 @@
 nodejs 
 ---
+* [Connect home page](https://github.com/senchalabs/connect)
+    * tags: [nodejs](../tags/nodejs.md), [middleware](../tags/middleware.md)
+    * :octocat: [github url](https://github.com/senchalabs/connect)
 * [GitHub - Keyang/node-csvtojson](https://github.com/Keyang/node-csvtojson)
     * tags: [nodejs](../tags/nodejs.md), [csv](../tags/csv.md), [json](../tags/json.md)
     * :octocat: [github url](https://github.com/Keyang/node-csvtojson)
@@ -252,7 +255,7 @@ nodejs
     * :octocat: [github url](https://github.com/domenic/chai-as-promised)
 * [Assert | Node.js Documentation](https://nodejs.org/api/assert.html)
     * tags: [nodejs](../tags/nodejs.md), [testing](../tags/testing.md), [unit-testing](../tags/unit-testing.md)
-* [GitHub - visionmedia/supertest homepage](https://github.com/visionmedia/supertest)
+* [GitHub - visionmedia/supertest home page ](https://github.com/visionmedia/supertest)
     * tags: [nodejs](../tags/nodejs.md), [testing](../tags/testing.md), [integration-testing](../tags/integration-testing.md)
     * :octocat: [github url](https://github.com/visionmedia/supertest)
 * [A Brief History of Streams - YouTube](https://www.youtube.com/watch?v=gx9ZNY9DNBs)

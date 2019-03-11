@@ -1,5 +1,14 @@
 api 
 ---
+* [API Infrastructure at Knewton: What’s in an Edge Service?](https://medium.com/knerd/api-infrastructure-at-knewton-whats-in-an-edge-service-51a3777aeb41)
+    * :calendar: published on: 2016-05-09
+    * tags: [api](../tags/api.md), [microservices](../tags/microservices.md), [nginx](../tags/nginx.md), [zuul](../tags/zuul.md)
+* [Dredd — HTTP API Testing Framework — Dredd latest documentation](https://dredd.org/)
+    * tags: [api](../tags/api.md), [testing](../tags/testing.md), [documentation](../tags/documentation.md)
+    * :octocat: [github url](https://github.com/apiaryio/dredd)
+* [API Blueprint home page](https://apiblueprint.org/)
+    * tags: [api](../tags/api.md), [documentation](../tags/documentation.md), [rest](../tags/rest.md)
+    * :octocat: [github url](https://github.com/apiaryio/api-blueprint/)
 * [MockAPI docs](https://www.mockapi.io/docs)
     * tags: [mocking](../tags/mocking.md), [api](../tags/api.md), [tools](../tags/tools.md)
 * [5 Protocols For Event-Driven API Architectures](https://nordicapis.com/5-protocols-for-event-driven-api-architectures/)

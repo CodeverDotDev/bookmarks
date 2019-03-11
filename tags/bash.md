@@ -1,5 +1,9 @@
 bash 
 ---
+* [command line - How to list all symbolic links in a directory - Ask Ubuntu](https://askubuntu.com/questions/522051/how-to-list-all-symbolic-links-in-a-directory)
+    * tags: [bash](../tags/bash.md), [shell](../tags/shell.md), [linux](../tags/linux.md)
+* [Install Bash git completion](https://github.com/bobthecow/git-flow-completion/wiki/Install-Bash-git-completion)
+    * tags: [git](../tags/git.md), [bash](../tags/bash.md), [osx](../tags/osx.md), [windows](../tags/windows.md), [linux](../tags/linux.md)
 * [How to compare differences between directories (linux) - Server Fault](https://serverfault.com/questions/59108/how-to-compare-differences-between-directories-linux)
     * tags: [linux](../tags/linux.md), [bash](../tags/bash.md)
 * [macos - Linux - Find Files with Name Containing String - Stack Overflow](https://stackoverflow.com/questions/11328988/linux-find-files-with-name-containing-string)

@@ -1,5 +1,8 @@
 devops 
 ---
+* [AWS re:Invent 2015: DevOps at Amazon: A Look at Our Tools and Processes (DVO202) - YouTube](https://www.youtube.com/watch?v=esEFaY0FDKc)
+    * :calendar: published on: 2015-10-15
+    * tags: [aws](../tags/aws.md), [devops](../tags/devops.md)
 * [dotenv homepage](https://github.com/motdotla/dotenv)
     * tags: [nodejs](../tags/nodejs.md), [devops](../tags/devops.md), [tools](../tags/tools.md)
     * :octocat: [github url](https://github.com/motdotla/dotenv)

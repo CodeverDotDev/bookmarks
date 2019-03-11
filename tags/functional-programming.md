@@ -1,5 +1,8 @@
 functional-programming 
 ---
+* [Simplify your JavaScript – Use .map(), .reduce(), and .filter()](https://medium.com/poka-techblog/simplify-your-javascript-use-map-reduce-and-filter-bd02c593cc2d)
+    * :calendar: published on: 2018-01-29
+    * tags: [javascript](../tags/javascript.md), [functional-programming](../tags/functional-programming.md)
 * [Java Functional Programming](http://tutorials.jenkov.com/java-functional-programming/index.html)
     * :calendar: published on: 2018-08-05
     * tags: [java](../tags/java.md), [functional-programming](../tags/functional-programming.md)

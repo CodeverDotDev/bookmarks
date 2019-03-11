@@ -1,5 +1,7 @@
 shell 
 ---
+* [command line - How to list all symbolic links in a directory - Ask Ubuntu](https://askubuntu.com/questions/522051/how-to-list-all-symbolic-links-in-a-directory)
+    * tags: [bash](../tags/bash.md), [shell](../tags/shell.md), [linux](../tags/linux.md)
 * [Oh My Zsh](https://ohmyz.sh/)
     * tags: [shell](../tags/shell.md), [zsh](../tags/zsh.md), [tools](../tags/tools.md)
     * :octocat: [github url](https://github.com/robbyrussell/oh-my-zsh)

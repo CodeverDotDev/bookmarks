@@ -1,5 +1,10 @@
 mongodb 
 ---
+* [Build Reactive APIs with Spring WebFlux](https://developer.okta.com/blog/2018/09/24/reactive-apis-with-spring-webflux#secure-your-spring-webflux-reactive-api-with-oidc)
+    * tags: [reactive-programming](../tags/reactive-programming.md), [spring-webflux](../tags/spring-webflux.md), [mongodb](../tags/mongodb.md), [spring-security](../tags/spring-security.md), [openid-connect](../tags/openid-connect.md), [websocket](../tags/websocket.md)
+    * :octocat: [github url](https://github.com/oktadeveloper/okta-spring-webflux-react-example)
+* [How do you rename a MongoDB database? - Stack Overflow](https://stackoverflow.com/questions/9201832/how-do-you-rename-a-mongodb-database)
+    * tags: [mongodb](../tags/mongodb.md)
 * [Generating Globally Unique Identifiers for Use with MongoDB](https://www.mongodb.com/blog/post/generating-globally-unique-identifiers-for-use-with-mongodb)
     * tags: [mongodb](../tags/mongodb.md)
 * [Mongoose - SubDocuments](https://mongoosejs.com/docs/subdocs.html)

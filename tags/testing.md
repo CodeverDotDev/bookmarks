@@ -1,5 +1,18 @@
 testing 
 ---
+* [Dredd — HTTP API Testing Framework — Dredd latest documentation](https://dredd.org/)
+    * tags: [api](../tags/api.md), [testing](../tags/testing.md), [documentation](../tags/documentation.md)
+    * :octocat: [github url](https://github.com/apiaryio/dredd)
+* [Modern Node.js: async/await based testing with Mocha & Chai](https://zaiste.net/modern_node_js_async_await_based_testing_with_mocha_chai/)
+    * :calendar: published on: 2017-04-09
+    * tags: [mocha](../tags/mocha.md), [chai](../tags/chai.md), [testing](../tags/testing.md)
+    * :octocat: [github url](https://zaiste.net/modern_node_js_async_await_based_testing_with_mocha_chai/)
+* [GitHub - domenic/chai-as-promised](https://github.com/domenic/chai-as-promised)
+    * tags: [chai](../tags/chai.md), [promise](../tags/promise.md), [testing](../tags/testing.md)
+    * :octocat: [github url](https://github.com/domenic/chai-as-promised)
+* [Arquillian  Home Page](http://arquillian.org/)
+    * tags: [arquillian](../tags/arquillian.md), [testing](../tags/testing.md), [integration-testing](../tags/integration-testing.md)
+    * :octocat: [github url](https://github.com/arquillian)
 * [Mockito: Why You Should Not Use InjectMocks Annotation to Autowire Fields – Ted Vinke's Blog](https://tedvinke.wordpress.com/2014/02/13/mockito-why-you-should-not-use-injectmocks-annotation-to-autowire-fields/)
     * :calendar: published on: 2014-02-13
     * tags: [javaee](../tags/javaee.md), [mockito](../tags/mockito.md), [testing](../tags/testing.md), [mocking](../tags/mocking.md)
@@ -70,7 +83,7 @@ testing
     * tags: [nodejs](../tags/nodejs.md), [testing](../tags/testing.md), [unit-testing](../tags/unit-testing.md), [sinonjs](../tags/sinonjs.md)
 * [Assert | Node.js Documentation](https://nodejs.org/api/assert.html)
     * tags: [nodejs](../tags/nodejs.md), [testing](../tags/testing.md), [unit-testing](../tags/unit-testing.md)
-* [GitHub - visionmedia/supertest homepage](https://github.com/visionmedia/supertest)
+* [GitHub - visionmedia/supertest home page ](https://github.com/visionmedia/supertest)
     * tags: [nodejs](../tags/nodejs.md), [testing](../tags/testing.md), [integration-testing](../tags/integration-testing.md)
     * :octocat: [github url](https://github.com/visionmedia/supertest)
 * [Sinon.JS](http://sinonjs.org/)

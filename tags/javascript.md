@@ -1,5 +1,11 @@
 javascript 
 ---
+* [Simplify your JavaScript – Use .map(), .reduce(), and .filter()](https://medium.com/poka-techblog/simplify-your-javascript-use-map-reduce-and-filter-bd02c593cc2d)
+    * :calendar: published on: 2018-01-29
+    * tags: [javascript](../tags/javascript.md), [functional-programming](../tags/functional-programming.md)
+* [mermaid docs](https://mermaidjs.github.io/)
+    * tags: [documentation](../tags/documentation.md), [javascript](../tags/javascript.md), [diagram](../tags/diagram.md)
+    * :octocat: [github url](https://github.com/knsv/mermaid)
 * [Moment.js Home Page](http://momentjs.com/)
     * tags: [date](../tags/date.md), [datetime](../tags/datetime.md), [date-manipulation](../tags/date-manipulation.md), [time](../tags/time.md), [javascript](../tags/javascript.md)
     * :octocat: [github url](https://github.com/moment/moment/)

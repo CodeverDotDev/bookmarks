@@ -1,5 +1,7 @@
 git 
 ---
+* [Install Bash git completion](https://github.com/bobthecow/git-flow-completion/wiki/Install-Bash-git-completion)
+    * tags: [git](../tags/git.md), [bash](../tags/bash.md), [osx](../tags/osx.md), [windows](../tags/windows.md), [linux](../tags/linux.md)
 * [How to change the URI (URL) for a remote Git repository? - Stack Overflow](https://stackoverflow.com/questions/2432764/how-to-change-the-uri-url-for-a-remote-git-repository)
     * tags: [git](../tags/git.md)
 * [Merging vs. Rebasing - Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)

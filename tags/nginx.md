@@ -1,5 +1,11 @@
 nginx 
 ---
+* [Understanding Nginx Server and Location Block Selection Algorithms](https://www.digitalocean.com/community/tutorials/understanding-nginx-server-and-location-block-selection-algorithms)
+    * :calendar: published on: 2014-11-17
+    * tags: [nginx](../tags/nginx.md)
+* [API Infrastructure at Knewton: What’s in an Edge Service?](https://medium.com/knerd/api-infrastructure-at-knewton-whats-in-an-edge-service-51a3777aeb41)
+    * :calendar: published on: 2016-05-09
+    * tags: [api](../tags/api.md), [microservices](../tags/microservices.md), [nginx](../tags/nginx.md), [zuul](../tags/zuul.md)
 * [Building Microservices with Node, Docker and Nginx pt 1 - What is a Microservice?](https://www.youtube.com/watch?v=EsCfPxjmnjo)
     * :calendar: published on: 2017-12-29
     * tags: [nodejs](../tags/nodejs.md), [microservices](../tags/microservices.md), [docker](../tags/docker.md), [docker-compose](../tags/docker-compose.md), [nginx](../tags/nginx.md)

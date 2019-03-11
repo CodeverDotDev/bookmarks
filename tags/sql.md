@@ -1,5 +1,9 @@
 sql 
 ---
+* [Online SQLite browser](https://extendsclass.com/sqlite-browser.html)
+    * :calendar: published on: 2019-03-06
+    * tags: [online-tools](../tags/online-tools.md), [sql](../tags/sql.md)
+    * :octocat: [github url](https://github.com/hautdefrance/Web-GUI-for-SQLite)
 * [Visual Representation of SQL Joins - CodeProject](https://www.codeproject.com/Articles/33052/Visual-Representation-of-SQL-Joins)
     * :calendar: published on: 2009-02-03
     * tags: [sql](../tags/sql.md)

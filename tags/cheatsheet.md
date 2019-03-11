@@ -1,5 +1,10 @@
 cheatsheet 
 ---
+* [GitHub - audreyr/favicon-cheat-sheet](https://github.com/audreyr/favicon-cheat-sheet)
+    * tags: [html](../tags/html.md), [web](../tags/web.md), [favicon](../tags/favicon.md), [cheatsheet](../tags/cheatsheet.md)
+    * :octocat: [github url](https://github.com/audreyr/favicon-cheat-sheet)
+* [Bootstrap 4 Cheat Sheet - The ultimate list of Bootstrap classes](https://hackerthemes.com/bootstrap-cheatsheet/)
+    * tags: [bootstrap](../tags/bootstrap.md), [cheatsheet](../tags/cheatsheet.md)
 * [GitHub - LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
     * tags: [javascript](../tags/javascript.md), [nodejs](../tags/nodejs.md), [cheatsheet](../tags/cheatsheet.md)
     * :octocat: [github url](https://github.com/LeCoupa/awesome-cheatsheets)

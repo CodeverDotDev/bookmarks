@@ -1,5 +1,8 @@
 markdown 
 ---
+* [Pandoc home page](https://pandoc.org/)
+    * tags: [pandoc](../tags/pandoc.md), [markdown](../tags/markdown.md), [latex](../tags/latex.md)
+    * :octocat: [github url](https://github.com/jgm/pandoc)
 * [Marked.js Homepage](https://marked.js.org/)
     * tags: [javascript](../tags/javascript.md), [markdown](../tags/markdown.md)
     * :octocat: [github url](https://github.com/markedjs/marked)

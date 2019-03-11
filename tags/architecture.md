@@ -1,5 +1,16 @@
 architecture 
 ---
+* [BoundedContext](https://martinfowler.com/bliki/BoundedContext.html)
+    * tags: [domain-driven-design](../tags/domain-driven-design.md), [architecture](../tags/architecture.md)
+* [The Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
+    * :calendar: published on: 2012-08-13
+    * tags: [architecture](../tags/architecture.md)
+* [Strategic Domain Driven Design with Context Mapping](https://www.infoq.com/articles/ddd-contextmapping)
+    * :calendar: published on: 2009-11-25
+    * tags: [domain-driven-design](../tags/domain-driven-design.md), [architecture](../tags/architecture.md)
+* [Big Ball of Mud](http://www.laputan.org/mud/)
+    * :calendar: published on: 1999-06-26
+    * tags: [architecture](../tags/architecture.md)
 * [Feature Toggles (aka Feature Flags)](https://martinfowler.com/articles/feature-toggles.html)
     * :calendar: published on: 2017-10-09
     * tags: [architecture](../tags/architecture.md)

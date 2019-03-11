@@ -1,5 +1,7 @@
 podcast 
 ---
+* [Podcasts – React](https://reactjs.org/community/podcasts.html)
+    * tags: [reactjs](../tags/reactjs.md), [podcast](../tags/podcast.md)
 * [GitHub - rShetty/awesome-podcasts: Collection of awesome podcasts](https://github.com/rShetty/awesome-podcasts)
     * tags: [podcast](../tags/podcast.md)
     * :octocat: [github url](https://github.com/rShetty/awesome-podcasts)

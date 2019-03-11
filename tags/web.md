@@ -1,5 +1,8 @@
 web 
 ---
+* [GitHub - audreyr/favicon-cheat-sheet](https://github.com/audreyr/favicon-cheat-sheet)
+    * tags: [html](../tags/html.md), [web](../tags/web.md), [favicon](../tags/favicon.md), [cheatsheet](../tags/cheatsheet.md)
+    * :octocat: [github url](https://github.com/audreyr/favicon-cheat-sheet)
 * [Why Performance Matters](https://developers.google.com/web/fundamentals/performance/why-performance-matters/)
     * tags: [web](../tags/web.md), [performance](../tags/performance.md)
 * [What Happens If Your JWT Is Stolen?](https://developer.okta.com/blog/2018/06/20/what-happens-if-your-jwt-is-stolen)

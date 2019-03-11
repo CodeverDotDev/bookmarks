@@ -1,5 +1,15 @@
 spring 
 ---
+* [Spring 5 WebClient](https://www.baeldung.com/spring-5-webclient)
+    * tags: [spring](../tags/spring.md), [spring-webflux](../tags/spring-webflux.md), [reactive-programming](../tags/reactive-programming.md)
+    * :octocat: [github url](https://github.com/eugenp/tutorials/tree/master/spring-5-reactive)
+* [Guide to Spring 5 WebFlux](https://www.baeldung.com/spring-webflux)
+    * :calendar: published on: 2019-02-21
+    * tags: [spring](../tags/spring.md), [spring-webflux](../tags/spring-webflux.md)
+    * :octocat: [github url](https://github.com/eugenp/tutorials/tree/master/spring-5-reactive-security)
+* [Project Reactor Home Page](https://projectreactor.io/)
+    * tags: [reactive](../tags/reactive.md), [spring](../tags/spring.md), [jvm](../tags/jvm.md)
+    * :octocat: [github url](https://github.com/reactor)
 * [Oliver Gierke - Why field injection is evil](http://olivergierke.de/2013/11/why-field-injection-is-evil/)
     * :calendar: published on: 2013-11-22
     * tags: [dependency-injection](../tags/dependency-injection.md), [javaee](../tags/javaee.md), [spring](../tags/spring.md)

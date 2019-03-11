@@ -1,5 +1,9 @@
 free-programming-books 
 ---
+* [Dive Into HTML5](https://diveintohtml5.info/)
+    * tags: [html](../tags/html.md), [html5](../tags/html5.md), [free-programming-books](../tags/free-programming-books.md)
+* [rx-book RxJS - Javascript library for functional reactive programming.](http://xgrommx.github.io/rx-book)
+    * tags: [rxjs](../tags/rxjs.md), [free-programming-books](../tags/free-programming-books.md)
 * [Coding bookmarks, aka #codingmarks](https://www.codingmarks.org)
     * tags: [software-development](../tags/software-development.md), [free-programming-books](../tags/free-programming-books.md), [programming](../tags/programming.md)
     * :octocat: [github url](https://github.com/Codingpedia/codingmarks)

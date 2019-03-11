@@ -1,5 +1,9 @@
 tools 
 ---
+* [MX Lookup Tool - Check your DNS MX Records online - MxToolbox](https://mxtoolbox.com/)
+    * tags: [dns](../tags/dns.md), [tools](../tags/tools.md)
+* [X-Icon Editor](http://www.xiconeditor.com/)
+    * tags: [favicon](../tags/favicon.md), [tools](../tags/tools.md)
 * [MockAPI docs](https://www.mockapi.io/docs)
     * tags: [mocking](../tags/mocking.md), [api](../tags/api.md), [tools](../tags/tools.md)
 * [dotenv homepage](https://github.com/motdotla/dotenv)

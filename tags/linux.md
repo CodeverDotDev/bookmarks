@@ -1,5 +1,9 @@
 linux 
 ---
+* [command line - How to list all symbolic links in a directory - Ask Ubuntu](https://askubuntu.com/questions/522051/how-to-list-all-symbolic-links-in-a-directory)
+    * tags: [bash](../tags/bash.md), [shell](../tags/shell.md), [linux](../tags/linux.md)
+* [Install Bash git completion](https://github.com/bobthecow/git-flow-completion/wiki/Install-Bash-git-completion)
+    * tags: [git](../tags/git.md), [bash](../tags/bash.md), [osx](../tags/osx.md), [windows](../tags/windows.md), [linux](../tags/linux.md)
 * [5 Commands for Checking Memory Usage in Linux](https://www.linux.com/learn/5-commands-checking-memory-usage-linux)
     * tags: [linux](../tags/linux.md), [memory-management](../tags/memory-management.md)
 * [How to compare differences between directories (linux) - Server Fault](https://serverfault.com/questions/59108/how-to-compare-differences-between-directories-linux)

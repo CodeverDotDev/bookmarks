@@ -1,5 +1,12 @@
 chai 
 ---
+* [Modern Node.js: async/await based testing with Mocha & Chai](https://zaiste.net/modern_node_js_async_await_based_testing_with_mocha_chai/)
+    * :calendar: published on: 2017-04-09
+    * tags: [mocha](../tags/mocha.md), [chai](../tags/chai.md), [testing](../tags/testing.md)
+    * :octocat: [github url](https://zaiste.net/modern_node_js_async_await_based_testing_with_mocha_chai/)
+* [GitHub - domenic/chai-as-promised](https://github.com/domenic/chai-as-promised)
+    * tags: [chai](../tags/chai.md), [promise](../tags/promise.md), [testing](../tags/testing.md)
+    * :octocat: [github url](https://github.com/domenic/chai-as-promised)
 * [Express Integration Testing with SuperTest · InVision Engineering Blog](https://engineering.invisionapp.com/post/express-integration-testing-supertest/)
     * :calendar: published on: 2016-06-27
     * tags: [expressjs](../tags/expressjs.md), [integration-testing](../tags/integration-testing.md), [supertest](../tags/supertest.md), [chai](../tags/chai.md)

@@ -1,5 +1,8 @@
 rest 
 ---
+* [API Blueprint home page](https://apiblueprint.org/)
+    * tags: [api](../tags/api.md), [documentation](../tags/documentation.md), [rest](../tags/rest.md)
+    * :octocat: [github url](https://github.com/apiaryio/api-blueprint/)
 * [Fastify Homepage](https://www.fastify.io/)
     * tags: [nodejs](../tags/nodejs.md), [rest](../tags/rest.md)
     * :octocat: [github url](https://github.com/fastify/fastify)

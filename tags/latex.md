@@ -1,5 +1,8 @@
 latex 
 ---
+* [Pandoc home page](https://pandoc.org/)
+    * tags: [pandoc](../tags/pandoc.md), [markdown](../tags/markdown.md), [latex](../tags/latex.md)
+    * :octocat: [github url](https://github.com/jgm/pandoc)
 * [LaTeX : Referenz der Umgebungen, Makros, Längen und Zähler](http://www.lehmanns.de/page/latexreferenz)
     * tags: [free-programming-books](../tags/free-programming-books.md), [free-programming-books-de](../tags/free-programming-books-de.md), [latex](../tags/latex.md)
 * [LaTeX - Forteschrittene Anwendungen (oder: Neues von den Hobbits)](http://www.fernuni-hagen.de/imperia/md/content/zmi_2010/a027_latex_fort.pdf)

@@ -1,5 +1,7 @@
 rxjs 
 ---
+* [rx-book RxJS - Javascript library for functional reactive programming.](http://xgrommx.github.io/rx-book)
+    * tags: [rxjs](../tags/rxjs.md), [free-programming-books](../tags/free-programming-books.md)
 * [Advanced caching with RxJS by thoughtram](https://blog.thoughtram.io/angular/2018/03/05/advanced-caching-with-rxjs.html)
     * :calendar: published on: 2018-03-05
     * tags: [angular](../tags/angular.md), [caching](../tags/caching.md), [rxjs](../tags/rxjs.md)

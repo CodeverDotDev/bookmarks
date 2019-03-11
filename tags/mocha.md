@@ -1,5 +1,9 @@
 mocha 
 ---
+* [Modern Node.js: async/await based testing with Mocha & Chai](https://zaiste.net/modern_node_js_async_await_based_testing_with_mocha_chai/)
+    * :calendar: published on: 2017-04-09
+    * tags: [mocha](../tags/mocha.md), [chai](../tags/chai.md), [testing](../tags/testing.md)
+    * :octocat: [github url](https://zaiste.net/modern_node_js_async_await_based_testing_with_mocha_chai/)
 * [Setting up test coverage using Mocha, Istanbul, NYC with TypeScript](http://azimi.me/2016/09/30/nyc-mocha-typescript.1.html)
     * :calendar: published on: 2016-09-30
     * tags: [nodejs](../tags/nodejs.md), [unit-testing](../tags/unit-testing.md), [mocha](../tags/mocha.md), [instanbul](../tags/instanbul.md), [code-coverage](../tags/code-coverage.md), [typescript](../tags/typescript.md)

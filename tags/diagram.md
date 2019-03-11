@@ -1,5 +1,8 @@
 diagram 
 ---
+* [mermaid docs](https://mermaidjs.github.io/)
+    * tags: [documentation](../tags/documentation.md), [javascript](../tags/javascript.md), [diagram](../tags/diagram.md)
+    * :octocat: [github url](https://github.com/knsv/mermaid)
 * [NT Coding Blog: Guiding newbie toward productivity](http://ntcoding.co.uk/blog/2013/01/guiding-newbie-toward-productivity.html)
     * :calendar: published on: 2013-01-08
     * tags: [pair-programming](../tags/pair-programming.md), [diagram](../tags/diagram.md)

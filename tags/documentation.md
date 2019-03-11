@@ -1,5 +1,17 @@
 documentation 
 ---
+* [mermaid docs](https://mermaidjs.github.io/)
+    * tags: [documentation](../tags/documentation.md), [javascript](../tags/javascript.md), [diagram](../tags/diagram.md)
+    * :octocat: [github url](https://github.com/knsv/mermaid)
+* [Graphviz - Graph Visualization Software](https://graphviz.org/)
+    * tags: [graph](../tags/graph.md), [visualization](../tags/visualization.md), [documentation](../tags/documentation.md)
+    * :octocat: [github url](https://gitlab.com/graphviz/graphviz/)
+* [Dredd — HTTP API Testing Framework — Dredd latest documentation](https://dredd.org/)
+    * tags: [api](../tags/api.md), [testing](../tags/testing.md), [documentation](../tags/documentation.md)
+    * :octocat: [github url](https://github.com/apiaryio/dredd)
+* [API Blueprint home page](https://apiblueprint.org/)
+    * tags: [api](../tags/api.md), [documentation](../tags/documentation.md), [rest](../tags/rest.md)
+    * :octocat: [github url](https://github.com/apiaryio/api-blueprint/)
 * [SpringFox homepage](http://springfox.github.io/springfox/)
     * tags: [spring](../tags/spring.md), [swagger](../tags/swagger.md), [rest](../tags/rest.md), [documentation](../tags/documentation.md)
     * :octocat: [github url](https://github.com/springfox/springfox)

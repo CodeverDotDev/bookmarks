@@ -1,5 +1,10 @@
 html 
 ---
+* [GitHub - audreyr/favicon-cheat-sheet](https://github.com/audreyr/favicon-cheat-sheet)
+    * tags: [html](../tags/html.md), [web](../tags/web.md), [favicon](../tags/favicon.md), [cheatsheet](../tags/cheatsheet.md)
+    * :octocat: [github url](https://github.com/audreyr/favicon-cheat-sheet)
+* [Dive Into HTML5](https://diveintohtml5.info/)
+    * tags: [html](../tags/html.md), [html5](../tags/html5.md), [free-programming-books](../tags/free-programming-books.md)
 * [Using CORS - HTML5 Rocks](https://www.html5rocks.com/en/tutorials/cors/)
     * tags: [html](../tags/html.md)
 * [D3.js - Data-Driven Documents](https://d3js.org/)

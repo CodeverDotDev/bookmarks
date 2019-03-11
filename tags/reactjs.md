@@ -1,5 +1,7 @@
 reactjs 
 ---
+* [Podcasts – React](https://reactjs.org/community/podcasts.html)
+    * tags: [reactjs](../tags/reactjs.md), [podcast](../tags/podcast.md)
 * [Jest · 🃏 Delightful JavaScript Testing](https://jestjs.io/)
     * tags: [javascript](../tags/javascript.md), [testing](../tags/testing.md), [reactjs](../tags/reactjs.md)
     * :octocat: [github url](https://github.com/facebook/jest)

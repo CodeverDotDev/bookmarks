@@ -1,5 +1,8 @@
 open-source 
 ---
+* [Contributor Covenant: A Code of Conduct for Open Source Projects](http://www.contributor-covenant.org/)
+    * tags: [open-source](../tags/open-source.md)
+    * :octocat: [github url](https://github.com/ContributorCovenant/contributor_covenant)
 * [The Open Source Definition](https://opensource.org/docs/osd)
     * tags: [open-source](../tags/open-source.md)
 * [zachflower/awesome-open-source-supporters](https://github.com/zachflower/awesome-open-source-supporters)
