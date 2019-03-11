@@ -1,6 +1,6 @@
 Bookmarks for Developers & Co
 ---
-<img align="left" src="images/bookmarks.dev-logo-md.png">
+<img align="left" style="float: left" src="images/bookmarks.dev-logo-md.png">
 
 Public bookmarks, grouped by topics, shared from  [https://www.bookmarks.dev](https://www.bookmarks.dev)
 
