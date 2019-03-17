@@ -1,4 +1,4 @@
-jquery 
+jquery - [www.bookmarks.dev/tagged/jquery](https://www.bookmarks.dev/tagged/jquery) 
 ---
 * [jQuery для начинающих](http://anton.shevchuk.name/jquery-book/)
     * tags: [free-programming-books](../tags/free-programming-books.md), [free-programming-books-ru](../tags/free-programming-books-ru.md), [javascript](../tags/javascript.md), [jquery](../tags/jquery.md)

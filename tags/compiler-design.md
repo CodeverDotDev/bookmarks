@@ -1,4 +1,4 @@
-compiler-design 
+compiler-design - [www.bookmarks.dev/tagged/compiler-design](https://www.bookmarks.dev/tagged/compiler-design) 
 ---
 * [Practical and Theoretical Aspects of Compiler Construction](http://web.stanford.edu/class/archive/cs/cs143/cs143.1128/)
     * tags: [free-programming-books](../tags/free-programming-books.md), [language-agnostic](../tags/language-agnostic.md), [compiler-design](../tags/compiler-design.md)

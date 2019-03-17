@@ -1,4 +1,4 @@
-awk 
+awk - [www.bookmarks.dev/tagged/awk](https://www.bookmarks.dev/tagged/awk) 
 ---
 * [Effective AWK Programming](http://www.kt.rim.or.jp/~kbk/gawk-30/gawk_toc.html)
     * tags: [free-programming-books-ja](../tags/free-programming-books-ja.md), [free-programming-books](../tags/free-programming-books.md), [awk](../tags/awk.md)

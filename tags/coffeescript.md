@@ -1,4 +1,4 @@
-coffeescript 
+coffeescript - [www.bookmarks.dev/tagged/coffeescript](https://www.bookmarks.dev/tagged/coffeescript) 
 ---
 * [Документация CoffeeScript](http://cidocs.ru/coffeescript/)
     * tags: [free-programming-books](../tags/free-programming-books.md), [coffeescript](../tags/coffeescript.md), [free-programming-books-ru](../tags/free-programming-books-ru.md)

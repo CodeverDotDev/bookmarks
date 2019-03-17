@@ -1,4 +1,4 @@
-ufw 
+ufw - [www.bookmarks.dev/tagged/ufw](https://www.bookmarks.dev/tagged/ufw) 
 ---
 * [UFW - Community Help Wiki](https://help.ubuntu.com/community/UFW)
     * tags: [ubuntu](../tags/ubuntu.md), [ufw](../tags/ufw.md)

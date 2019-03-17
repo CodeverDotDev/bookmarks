@@ -1,4 +1,4 @@
-functional-programming 
+functional-programming - [www.bookmarks.dev/tagged/functional-programming](https://www.bookmarks.dev/tagged/functional-programming) 
 ---
 * [Simplify your JavaScript – Use .map(), .reduce(), and .filter()](https://medium.com/poka-techblog/simplify-your-javascript-use-map-reduce-and-filter-bd02c593cc2d)
     * :calendar: published on: 2018-01-29

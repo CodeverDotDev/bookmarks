@@ -1,4 +1,4 @@
-software-architecture 
+software-architecture - [www.bookmarks.dev/tagged/software-architecture](https://www.bookmarks.dev/tagged/software-architecture) 
 ---
 * [What We Got Wrong: Lessons from the Birth of Microservices - YouTube](https://www.youtube.com/watch?v=-pDyNsB9Zr0)
     * :calendar: published on: 2018-11-08

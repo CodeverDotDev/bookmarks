@@ -1,4 +1,4 @@
-postman 
+postman - [www.bookmarks.dev/tagged/postman](https://www.bookmarks.dev/tagged/postman) 
 ---
 * [Debugging and logs](https://www.getpostman.com/docs/postman/sending_api_requests/debugging_and_logs)
     * tags: [postman](../tags/postman.md), [rest](../tags/rest.md), [debugging](../tags/debugging.md)

@@ -1,4 +1,4 @@
-computer-science 
+computer-science - [www.bookmarks.dev/tagged/computer-science](https://www.bookmarks.dev/tagged/computer-science) 
 ---
 * [awesome-courses](https://github.com/prakhar1989/awesome-courses)
     * tags: [course](../tags/course.md), [awesome-list](../tags/awesome-list.md), [computer-science](../tags/computer-science.md)

@@ -1,4 +1,4 @@
-openapi 
+openapi - [www.bookmarks.dev/tagged/openapi](https://www.bookmarks.dev/tagged/openapi) 
 ---
 * [LoopBack 4](http://v4.loopback.io/)
     * tags: [nodejs](../tags/nodejs.md), [typescript](../tags/typescript.md), [openapi](../tags/openapi.md), [rest](../tags/rest.md)

@@ -1,4 +1,4 @@
-tex 
+tex - [www.bookmarks.dev/tagged/tex](https://www.bookmarks.dev/tagged/tex) 
 ---
 * [TeX pour l'Impatient](http://www.apprendre-en-ligne.net/LaTeX/teximpatient.pdf)
     * tags: [free-programming-books](../tags/free-programming-books.md), [tex](../tags/tex.md), [free-programming-books-fr](../tags/free-programming-books-fr.md), [tex](../tags/tex.md)

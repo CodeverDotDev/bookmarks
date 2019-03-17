@@ -1,4 +1,4 @@
-free-programming-books-it 
+free-programming-books-it - [www.bookmarks.dev/tagged/free-programming-books-it](https://www.bookmarks.dev/tagged/free-programming-books-it) 
 ---
 * [Corso Visual Basic](http://www.webalice.it/kindofapple/corsovb.pdf)
     * tags: [free-programming-books](../tags/free-programming-books.md), [visual-basic](../tags/visual-basic.md), [free-programming-books-it](../tags/free-programming-books-it.md)

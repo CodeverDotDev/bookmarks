@@ -1,4 +1,4 @@
-domain-driven-design 
+domain-driven-design - [www.bookmarks.dev/tagged/domain-driven-design](https://www.bookmarks.dev/tagged/domain-driven-design) 
 ---
 * [BoundedContext](https://martinfowler.com/bliki/BoundedContext.html)
     * tags: [domain-driven-design](../tags/domain-driven-design.md), [architecture](../tags/architecture.md)

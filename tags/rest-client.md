@@ -1,4 +1,4 @@
-rest-client 
+rest-client - [www.bookmarks.dev/tagged/rest-client](https://www.bookmarks.dev/tagged/rest-client) 
 ---
 * [How To Use Jersey Client Efficiently](https://blogs.oracle.com/japod/how-to-use-jersey-client-efficiently)
     * :calendar: published on: 2015-03-30

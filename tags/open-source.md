@@ -1,4 +1,4 @@
-open-source 
+open-source - [www.bookmarks.dev/tagged/open-source](https://www.bookmarks.dev/tagged/open-source) 
 ---
 * [Contributor Covenant: A Code of Conduct for Open Source Projects](http://www.contributor-covenant.org/)
     * tags: [open-source](../tags/open-source.md)
@@ -15,6 +15,9 @@ open-source
 * [GitHub - chrislgarry/Apollo-11: Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.](https://github.com/chrislgarry/Apollo-11)
     * tags: [open-source](../tags/open-source.md)
     * :octocat: [github url](https://github.com/chrislgarry/Apollo-11)
+* [PlantUML Home Page](http://plantuml.com/)
+    * tags: [uml](../tags/uml.md), [architecture](../tags/architecture.md), [intellij](../tags/intellij.md), [plantuml](../tags/plantuml.md), [open-source](../tags/open-source.md)
+    * :octocat: [github url](https://github.com/plantuml/plantuml)
 * [Google Open Source Blog](https://opensource.googleblog.com/)
     * tags: [open-source](../tags/open-source.md), [blog](../tags/blog.md)
 * [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)

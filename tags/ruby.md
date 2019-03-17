@@ -1,4 +1,4 @@
-ruby 
+ruby - [www.bookmarks.dev/tagged/ruby](https://www.bookmarks.dev/tagged/ruby) 
 ---
 * [Guides - Rails Girls](http://guides.railsgirls.com/)
     * tags: [ruby](../tags/ruby.md), [ruby-on-rails](../tags/ruby-on-rails.md)

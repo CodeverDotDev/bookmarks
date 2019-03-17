@@ -1,4 +1,4 @@
-scheme 
+scheme - [www.bookmarks.dev/tagged/scheme](https://www.bookmarks.dev/tagged/scheme) 
 ---
 * [入門Scheme](https://web.archive.org/web/20140812144348/http://www4.ocn.ne.jp/~inukai/scheme_primer_j.html)
     * tags: [free-programming-books-ja](../tags/free-programming-books-ja.md), [free-programming-books](../tags/free-programming-books.md), [scheme](../tags/scheme.md)

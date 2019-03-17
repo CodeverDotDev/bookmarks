@@ -1,4 +1,4 @@
-programming 
+programming - [www.bookmarks.dev/tagged/programming](https://www.bookmarks.dev/tagged/programming) 
 ---
 * [Coding bookmarks, aka #codingmarks](https://www.codingmarks.org)
     * tags: [software-development](../tags/software-development.md), [free-programming-books](../tags/free-programming-books.md), [programming](../tags/programming.md)

@@ -1,4 +1,4 @@
-spring 
+spring - [www.bookmarks.dev/tagged/spring](https://www.bookmarks.dev/tagged/spring) 
 ---
 * [Spring 5 WebClient](https://www.baeldung.com/spring-5-webclient)
     * tags: [spring](../tags/spring.md), [spring-webflux](../tags/spring-webflux.md), [reactive-programming](../tags/reactive-programming.md)

@@ -1,4 +1,4 @@
-spark 
+spark - [www.bookmarks.dev/tagged/spark](https://www.bookmarks.dev/tagged/spark) 
 ---
 * [Mastering Apache Spark](https://www.gitbook.com/book/jaceklaskowski/mastering-apache-spark/details)
     * tags: [free-programming-books](../tags/free-programming-books.md), [spark](../tags/spark.md)

@@ -1,4 +1,4 @@
-raspberry-pi 
+raspberry-pi - [www.bookmarks.dev/tagged/raspberry-pi](https://www.bookmarks.dev/tagged/raspberry-pi) 
 ---
 * [راسبيري باي ببساطة ](http://librebooks.org/simply-raspberry-pi/)
     * tags: [free-programming-books](../tags/free-programming-books.md), [free-programming-books-ar](../tags/free-programming-books-ar.md), [raspberry-pi](../tags/raspberry-pi.md)

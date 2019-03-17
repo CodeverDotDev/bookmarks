@@ -1,4 +1,4 @@
-free-programming-books-gr 
+free-programming-books-gr - [www.bookmarks.dev/tagged/free-programming-books-gr](https://www.bookmarks.dev/tagged/free-programming-books-gr) 
 ---
 * [Συστήματα Βάσεων Δεδομένων - Θεωρία και πρακτική εφαρμογή](http://studentguru.gr/cfs-file/__key/telligent-evolution-components-attachments/13-1200-00-00-00-13-46-27/vaseis_5F00_dedomenwn.pdf)
     * tags: [free-programming-books](../tags/free-programming-books.md), [free-programming-books-gr](../tags/free-programming-books-gr.md), [sql](../tags/sql.md)

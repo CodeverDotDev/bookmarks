@@ -1,4 +1,4 @@
-blogging 
+blogging - [www.bookmarks.dev/tagged/blogging](https://www.bookmarks.dev/tagged/blogging) 
 ---
 * [The world’s fastest framework for building websites](https://gohugo.io/)
     * tags: [go](../tags/go.md), [blogging](../tags/blogging.md)

@@ -1,4 +1,4 @@
-vba 
+vba - [www.bookmarks.dev/tagged/vba](https://www.bookmarks.dev/tagged/vba) 
 ---
 * [VBA基礎文法最速マスター](http://d.hatena.ne.jp/nattou_curry_2/20100129/1264787849)
     * tags: [free-programming-books-ja](../tags/free-programming-books-ja.md), [free-programming-books](../tags/free-programming-books.md), [vba](../tags/vba.md)

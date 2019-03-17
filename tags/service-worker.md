@@ -1,4 +1,4 @@
-service-worker 
+service-worker - [www.bookmarks.dev/tagged/service-worker](https://www.bookmarks.dev/tagged/service-worker) 
 ---
 * [Service Workers - Practical Guided Introduction (several examples)](https://blog.angular-university.io/service-workers/)
     * :calendar: published on: 2018-06-18

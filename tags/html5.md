@@ -1,4 +1,4 @@
-html5 
+html5 - [www.bookmarks.dev/tagged/html5](https://www.bookmarks.dev/tagged/html5) 
 ---
 * [Dive Into HTML5](https://diveintohtml5.info/)
     * tags: [html](../tags/html.md), [html5](../tags/html5.md), [free-programming-books](../tags/free-programming-books.md)

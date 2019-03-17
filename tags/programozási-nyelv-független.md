@@ -1,4 +1,4 @@
-programozási-nyelv-független 
+programozási-nyelv-független - [www.bookmarks.dev/tagged/programozási-nyelv-független](https://www.bookmarks.dev/tagged/programozási-nyelv-független) 
 ---
 * [Prognyelvek portál](http://nyelvek.inf.elte.hu/index.php)
     * tags: [free-programming-books](../tags/free-programming-books.md), [programozási-nyelv-független](../tags/programozási-nyelv-független.md), [free-programming-books-hu](../tags/free-programming-books-hu.md)

@@ -1,4 +1,4 @@
-lua 
+lua - [www.bookmarks.dev/tagged/lua](https://www.bookmarks.dev/tagged/lua) 
 ---
 * [awesome-lua](https://github.com/LewisJEllis/awesome-lua)
     * tags: [lua](../tags/lua.md), [awesome-list](../tags/awesome-list.md), [awesome](../tags/awesome.md)

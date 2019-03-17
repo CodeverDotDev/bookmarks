@@ -1,4 +1,4 @@
-free-programming-books-fi 
+free-programming-books-fi - [www.bookmarks.dev/tagged/free-programming-books-fi](https://www.bookmarks.dev/tagged/free-programming-books-fi) 
 ---
 * [Ruby](https://fi.wikibooks.org/wiki/Ruby)
     * tags: [free-programming-books](../tags/free-programming-books.md), [free-programming-books-fi](../tags/free-programming-books-fi.md), [ruby](../tags/ruby.md)

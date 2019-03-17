@@ -1,4 +1,4 @@
-ciencia-computacional 
+ciencia-computacional - [www.bookmarks.dev/tagged/ciencia-computacional](https://www.bookmarks.dev/tagged/ciencia-computacional) 
 ---
 * [Breves Notas sobre Teoría de la Computación](http://lya.fciencias.unam.mx/jloa/publicaciones/teoria.pdf)
     * tags: [free-programming-books](../tags/free-programming-books.md), [agnósticos](../tags/agnósticos.md), [free-programming-books-es](../tags/free-programming-books-es.md), [ciencia-computacional](../tags/ciencia-computacional.md)

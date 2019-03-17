@@ -1,4 +1,4 @@
-npm 
+npm - [www.bookmarks.dev/tagged/npm](https://www.bookmarks.dev/tagged/npm) 
 ---
 * [npm documentation  ](https://docs.npmjs.com/)
     * tags: [npm](../tags/npm.md), [docs](../tags/docs.md)

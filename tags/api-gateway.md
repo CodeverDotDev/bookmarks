@@ -1,4 +1,4 @@
-api-gateway 
+api-gateway - [www.bookmarks.dev/tagged/api-gateway](https://www.bookmarks.dev/tagged/api-gateway) 
 ---
 * [Building Microservices Using an API Gateway | NGINX](https://www.nginx.com/blog/building-microservices-using-an-api-gateway/)
     * tags: [microservices](../tags/microservices.md), [api-gateway](../tags/api-gateway.md), [api](../tags/api.md)

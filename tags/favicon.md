@@ -1,4 +1,4 @@
-favicon 
+favicon - [www.bookmarks.dev/tagged/favicon](https://www.bookmarks.dev/tagged/favicon) 
 ---
 * [X-Icon Editor](http://www.xiconeditor.com/)
     * tags: [favicon](../tags/favicon.md), [tools](../tags/tools.md)

@@ -1,4 +1,4 @@
-linux 
+linux - [www.bookmarks.dev/tagged/linux](https://www.bookmarks.dev/tagged/linux) 
 ---
 * [command line - How to list all symbolic links in a directory - Ask Ubuntu](https://askubuntu.com/questions/522051/how-to-list-all-symbolic-links-in-a-directory)
     * tags: [bash](../tags/bash.md), [shell](../tags/shell.md), [linux](../tags/linux.md)

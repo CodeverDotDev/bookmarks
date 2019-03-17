@@ -1,4 +1,4 @@
-exception-handling 
+exception-handling - [www.bookmarks.dev/tagged/exception-handling](https://www.bookmarks.dev/tagged/exception-handling) 
 ---
 * [The try-with-resources Statement - Java Tutorials](https://docs.oracle.com/javase/tutorial/essential/exceptions/tryResourceClose.html)
     * tags: [java](../tags/java.md), [exception-handling](../tags/exception-handling.md)

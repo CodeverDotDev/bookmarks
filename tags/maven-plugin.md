@@ -1,4 +1,4 @@
-maven-plugin 
+maven-plugin - [www.bookmarks.dev/tagged/maven-plugin](https://www.bookmarks.dev/tagged/maven-plugin) 
 ---
 * [Spring Boot Maven Plugin – Spring Boot](https://docs.spring.io/spring-boot/docs/current/maven-plugin/)
     * tags: [spring-boot](../tags/spring-boot.md), [maven-plugin](../tags/maven-plugin.md)

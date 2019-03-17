@@ -1,4 +1,4 @@
-immutable 
+immutable - [www.bookmarks.dev/tagged/immutable](https://www.bookmarks.dev/tagged/immutable) 
 ---
 * [Refactoring to Immutability - Kevlin Henney - YouTube](https://www.youtube.com/watch?v=APUCMSPiNh4)
     * tags: [refactoring](../tags/refactoring.md), [immutable](../tags/immutable.md)

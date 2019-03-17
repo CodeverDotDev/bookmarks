@@ -1,4 +1,4 @@
-publish-subscribe 
+publish-subscribe - [www.bookmarks.dev/tagged/publish-subscribe](https://www.bookmarks.dev/tagged/publish-subscribe) 
 ---
 * [Confidentiality-Preserving Publish/Subscribe: a Survey](https://arxiv.org/pdf/1705.09404.pdf)
     * :calendar: published on: 2016-01-01

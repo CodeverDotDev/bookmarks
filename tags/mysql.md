@@ -1,4 +1,4 @@
-mysql 
+mysql - [www.bookmarks.dev/tagged/mysql](https://www.bookmarks.dev/tagged/mysql) 
 ---
 * [awesome-mysql](https://github.com/shlomi-noach/awesome-mysql)
     * tags: [awesome-list](../tags/awesome-list.md), [mysql](../tags/mysql.md)

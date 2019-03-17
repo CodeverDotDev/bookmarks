@@ -1,4 +1,4 @@
-free-programming-books-hu 
+free-programming-books-hu - [www.bookmarks.dev/tagged/free-programming-books-hu](https://www.bookmarks.dev/tagged/free-programming-books-hu) 
 ---
 * [Windows Phone fejlesztés lépésről lépésre](http://mek.oszk.hu/10300/10393/)
     * tags: [free-programming-books](../tags/free-programming-books.md), [windows-phone](../tags/windows-phone.md), [free-programming-books-hu](../tags/free-programming-books-hu.md)

@@ -1,4 +1,4 @@
-sql 
+sql - [www.bookmarks.dev/tagged/sql](https://www.bookmarks.dev/tagged/sql) 
 ---
 * [Online SQLite browser](https://extendsclass.com/sqlite-browser.html)
     * :calendar: published on: 2019-03-06

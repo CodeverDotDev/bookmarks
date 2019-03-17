@@ -1,4 +1,4 @@
-language-agnostic 
+language-agnostic - [www.bookmarks.dev/tagged/language-agnostic](https://www.bookmarks.dev/tagged/language-agnostic) 
 ---
 * [Scrum und XP im harten Projektalltag](http://www.infoq.com/resource/news/2007/06/scrum-xp-book/en/resources/ScrumAndXpFromTheTrenchesonline_German.pdf)
     * tags: [free-programming-books](../tags/free-programming-books.md), [language-agnostic](../tags/language-agnostic.md), [free-programming-books-de](../tags/free-programming-books-de.md)

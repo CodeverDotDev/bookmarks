@@ -1,4 +1,4 @@
-rust 
+rust - [www.bookmarks.dev/tagged/rust](https://www.bookmarks.dev/tagged/rust) 
 ---
 * [The Rust Programming Language](https://www.rust-lang.org/en-US/)
     * tags: [rust](../tags/rust.md)

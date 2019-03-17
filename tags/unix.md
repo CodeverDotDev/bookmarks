@@ -1,4 +1,4 @@
-unix 
+unix - [www.bookmarks.dev/tagged/unix](https://www.bookmarks.dev/tagged/unix) 
 ---
 * [glob (programming) - Wikipedia](https://en.wikipedia.org/wiki/Glob_(programming))
     * tags: [unix](../tags/unix.md), [linux](../tags/linux.md)

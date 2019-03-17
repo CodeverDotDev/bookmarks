@@ -1,4 +1,4 @@
-distributed 
+distributed - [www.bookmarks.dev/tagged/distributed](https://www.bookmarks.dev/tagged/distributed) 
 ---
 * [GitHub - Netflix/Hystrix](https://github.com/Netflix/Hystrix)
     * tags: [distributed](../tags/distributed.md), [latency](../tags/latency.md), [hystrix](../tags/hystrix.md)

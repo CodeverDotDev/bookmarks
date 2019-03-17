@@ -1,4 +1,4 @@
-hadoop 
+hadoop - [www.bookmarks.dev/tagged/hadoop](https://www.bookmarks.dev/tagged/hadoop) 
 ---
 * [Programming Pig](http://chimera.labs.oreilly.com/books/1234000001811/index.html)
     * tags: [free-programming-books](../tags/free-programming-books.md), [hadoop](../tags/hadoop.md)

@@ -1,4 +1,4 @@
-intellij 
+intellij - [www.bookmarks.dev/tagged/intellij](https://www.bookmarks.dev/tagged/intellij) 
 ---
 * [Tuning IntelliJ IDEA - Help](https://www.jetbrains.com/help/idea/tuning-the-ide.html)
     * tags: [intellij](../tags/intellij.md), [performance](../tags/performance.md)
@@ -7,8 +7,8 @@ intellij
     * :octocat: [github url](https://github.com/luktom/OpenInTerminal)
 * [intellij idea - WebStorm/PhpStorm double quotes in TypeScript auto import - Stack Overflow](https://stackoverflow.com/questions/39779272/webstorm-phpstorm-double-quotes-in-typescript-auto-import)
     * tags: [intellij](../tags/intellij.md), [webstorm](../tags/webstorm.md), [typescript](../tags/typescript.md)
-* [Open-source tool that uses simple textual descriptions to draw UML diagrams.](http://plantuml.com/)
-    * tags: [uml](../tags/uml.md), [architecture](../tags/architecture.md), [intellij](../tags/intellij.md)
+* [PlantUML Home Page](http://plantuml.com/)
+    * tags: [uml](../tags/uml.md), [architecture](../tags/architecture.md), [intellij](../tags/intellij.md), [plantuml](../tags/plantuml.md), [open-source](../tags/open-source.md)
     * :octocat: [github url](https://github.com/plantuml/plantuml)
 * [Debugging JavaScript in Chrome - Help](https://www.jetbrains.com/help/idea/debugging-javascript-in-chrome.html)
     * tags: [intellij](../tags/intellij.md), [javascript](../tags/javascript.md), [debugging](../tags/debugging.md)

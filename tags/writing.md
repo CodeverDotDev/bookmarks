@@ -1,4 +1,4 @@
-writing 
+writing - [www.bookmarks.dev/tagged/writing](https://www.bookmarks.dev/tagged/writing) 
 ---
 * [Drivel Defence text](http://www.plainenglish.co.uk/drivel-defence-text.html)
     * tags: [writing](../tags/writing.md), [tools](../tags/tools.md)

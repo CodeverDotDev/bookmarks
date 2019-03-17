@@ -1,4 +1,4 @@
-spring-boot 
+spring-boot - [www.bookmarks.dev/tagged/spring-boot](https://www.bookmarks.dev/tagged/spring-boot) 
 ---
 * [Identity, Claims, & Tokens – An OpenID Connect Primer, Part 1 of 3](https://developer.okta.com/blog/2017/07/25/oidc-primer-part-1)
     * :calendar: published on: 2017-07-25

@@ -1,4 +1,4 @@
-clojure 
+clojure - [www.bookmarks.dev/tagged/clojure](https://www.bookmarks.dev/tagged/clojure) 
 ---
 * [Введение в Clojure](http://alexott.net/ru/clojure/clojure-intro/)
     * tags: [free-programming-books](../tags/free-programming-books.md), [free-programming-books-ru](../tags/free-programming-books-ru.md), [clojure](../tags/clojure.md)

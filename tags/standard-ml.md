@@ -1,4 +1,4 @@
-standard-ml 
+standard-ml - [www.bookmarks.dev/tagged/standard-ml](https://www.bookmarks.dev/tagged/standard-ml) 
 ---
 * [プログラミング言語Standard ML入門](http://www.pllab.riec.tohoku.ac.jp/smlsharp/smlIntroSlidesJP.pdf)
     * tags: [free-programming-books-ja](../tags/free-programming-books-ja.md), [free-programming-books](../tags/free-programming-books.md), [standard-ml](../tags/standard-ml.md)

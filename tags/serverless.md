@@ -1,4 +1,4 @@
-serverless 
+serverless - [www.bookmarks.dev/tagged/serverless](https://www.bookmarks.dev/tagged/serverless) 
 ---
 * [Claudia.js Home Page](https://claudiajs.com/)
     * tags: [nodejs](../tags/nodejs.md), [aws](../tags/aws.md), [serverless](../tags/serverless.md)

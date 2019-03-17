@@ -1,4 +1,4 @@
-indice 
+indice - [www.bookmarks.dev/tagged/indice](https://www.bookmarks.dev/tagged/indice) 
 ---
 * [Prolog](#prolog)
     * tags: [free-programming-books](../tags/free-programming-books.md), [indice](../tags/indice.md), [free-programming-books-pt_PT](../tags/free-programming-books-pt_PT.md)

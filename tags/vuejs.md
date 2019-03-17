@@ -1,4 +1,4 @@
-vuejs 
+vuejs - [www.bookmarks.dev/tagged/vuejs](https://www.bookmarks.dev/tagged/vuejs) 
 ---
 * [Awesome vue.js](https://github.com/vuejs/awesome-vue)
     * tags: [vuejs](../tags/vuejs.md), [awesome-list](../tags/awesome-list.md)

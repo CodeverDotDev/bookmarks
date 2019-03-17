@@ -1,4 +1,4 @@
-haskell 
+haskell - [www.bookmarks.dev/tagged/haskell](https://www.bookmarks.dev/tagged/haskell) 
 ---
 * [Aprender o Haskell será um grande bem para você (tradução em andamento)](https://github.com/taylorrf/learnhaskell)
     * tags: [haskell](../tags/haskell.md), [free-programming-books](../tags/free-programming-books.md), [free-programming-books-pt_BR](../tags/free-programming-books-pt_BR.md)

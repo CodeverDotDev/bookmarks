@@ -1,4 +1,4 @@
-glossary 
+glossary - [www.bookmarks.dev/tagged/glossary](https://www.bookmarks.dev/tagged/glossary) 
 ---
 * [Hungarian notation - Wikipedia](https://en.wikipedia.org/wiki/Hungarian_notation)
     * tags: [glossary](../tags/glossary.md)

@@ -1,4 +1,4 @@
-assembly-language 
+assembly-language - [www.bookmarks.dev/tagged/assembly-language](https://www.bookmarks.dev/tagged/assembly-language) 
 ---
 * [The Second Book of Machine Language](http://www.atariarchives.org/2bml/)
     * tags: [free-programming-books](../tags/free-programming-books.md), [assembly-language](../tags/assembly-language.md), [non-x86](../tags/non-x86.md)

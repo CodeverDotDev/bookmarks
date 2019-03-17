@@ -1,4 +1,4 @@
-embedded-systems 
+embedded-systems - [www.bookmarks.dev/tagged/embedded-systems](https://www.bookmarks.dev/tagged/embedded-systems) 
 ---
 * [Introduction to Microcontrollers](http://www.embeddedrelated.com/showarticle/453.php)
     * tags: [free-programming-books](../tags/free-programming-books.md), [embedded-systems](../tags/embedded-systems.md)

@@ -1,4 +1,4 @@
-security 
+security - [www.bookmarks.dev/tagged/security](https://www.bookmarks.dev/tagged/security) 
 ---
 * [awesome-nodejs-security](https://github.com/lirantal/awesome-nodejs-security)
     * tags: [awesome](../tags/awesome.md), [awesome-list](../tags/awesome-list.md), [nodejs](../tags/nodejs.md), [security](../tags/security.md)

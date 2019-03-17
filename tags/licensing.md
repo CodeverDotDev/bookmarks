@@ -1,4 +1,4 @@
-licensing 
+licensing - [www.bookmarks.dev/tagged/licensing](https://www.bookmarks.dev/tagged/licensing) 
 ---
 * [The Public Domain: Enclosing the Commons of the Mind](http://www.thepublicdomain.org/download/)
     * tags: [free-programming-books](../tags/free-programming-books.md), [language-agnostic](../tags/language-agnostic.md), [licensing](../tags/licensing.md)

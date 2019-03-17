@@ -1,4 +1,4 @@
-j 
+j - [www.bookmarks.dev/tagged/j](https://www.bookmarks.dev/tagged/j) 
 ---
 * [Math for the Layman by Kenneth E Iverson](http://www.jsoftware.com/books/pdf/mftl.zip)
     * tags: [free-programming-books](../tags/free-programming-books.md), [j](../tags/j.md)

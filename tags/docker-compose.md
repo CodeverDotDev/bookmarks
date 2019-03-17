@@ -1,4 +1,4 @@
-docker-compose 
+docker-compose - [www.bookmarks.dev/tagged/docker-compose](https://www.bookmarks.dev/tagged/docker-compose) 
 ---
 * [Building Microservices with Node, Docker and Nginx pt 1 - What is a Microservice?](https://www.youtube.com/watch?v=EsCfPxjmnjo)
     * :calendar: published on: 2017-12-29

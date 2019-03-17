@@ -1,4 +1,4 @@
-cloud-computing 
+cloud-computing - [www.bookmarks.dev/tagged/cloud-computing](https://www.bookmarks.dev/tagged/cloud-computing) 
 ---
 * [OpenStack Operations Guide](https://docs.openstack.org/ops-guide/index.html)
     * tags: [free-programming-books](../tags/free-programming-books.md), [language-agnostic](../tags/language-agnostic.md), [cloud-computing](../tags/cloud-computing.md)

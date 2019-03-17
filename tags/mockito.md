@@ -1,4 +1,4 @@
-mockito 
+mockito - [www.bookmarks.dev/tagged/mockito](https://www.bookmarks.dev/tagged/mockito) 
 ---
 * [Mockito: Why You Should Not Use InjectMocks Annotation to Autowire Fields – Ted Vinke's Blog](https://tedvinke.wordpress.com/2014/02/13/mockito-why-you-should-not-use-injectmocks-annotation-to-autowire-fields/)
     * :calendar: published on: 2014-02-13

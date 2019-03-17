@@ -1,4 +1,4 @@
-architecture 
+architecture - [www.bookmarks.dev/tagged/architecture](https://www.bookmarks.dev/tagged/architecture) 
 ---
 * [BoundedContext](https://martinfowler.com/bliki/BoundedContext.html)
     * tags: [domain-driven-design](../tags/domain-driven-design.md), [architecture](../tags/architecture.md)
@@ -23,8 +23,8 @@ architecture
 * [Angular  Architecture - Smart Components vs Presentational Components](https://blog.angular-university.io/angular-2-smart-components-vs-presentation-components-whats-the-difference-when-to-use-each-and-why/)
     * :calendar: published on: 2018-06-18
     * tags: [angular](../tags/angular.md), [architecture](../tags/architecture.md)
-* [Open-source tool that uses simple textual descriptions to draw UML diagrams.](http://plantuml.com/)
-    * tags: [uml](../tags/uml.md), [architecture](../tags/architecture.md), [intellij](../tags/intellij.md)
+* [PlantUML Home Page](http://plantuml.com/)
+    * tags: [uml](../tags/uml.md), [architecture](../tags/architecture.md), [intellij](../tags/intellij.md), [plantuml](../tags/plantuml.md), [open-source](../tags/open-source.md)
     * :octocat: [github url](https://github.com/plantuml/plantuml)
 * [Publish–subscribe pattern](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern)
     * tags: [glossary](../tags/glossary.md), [publish-subscribe](../tags/publish-subscribe.md), [architecture](../tags/architecture.md)

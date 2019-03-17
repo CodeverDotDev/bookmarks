@@ -1,4 +1,4 @@
-jackson 
+jackson - [www.bookmarks.dev/tagged/jackson](https://www.bookmarks.dev/tagged/jackson) 
 ---
 * [How To Serialize Enums as JSON Objects with Jackson](https://www.baeldung.com/jackson-serialize-enums)
     * :calendar: published on: 2018-11-23

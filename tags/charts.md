@@ -1,4 +1,4 @@
-charts 
+charts - [www.bookmarks.dev/tagged/charts](https://www.bookmarks.dev/tagged/charts) 
 ---
 * [Modern Visualization for the Data Era - Plotly](https://plot.ly/)
     * tags: [charts](../tags/charts.md), [javascript](../tags/javascript.md), [python](../tags/python.md), [data-science](../tags/data-science.md)

@@ -1,4 +1,4 @@
-theoretical-computer-science 
+theoretical-computer-science - [www.bookmarks.dev/tagged/theoretical-computer-science](https://www.bookmarks.dev/tagged/theoretical-computer-science) 
 ---
 * [Think Complexity](http://www.greenteapress.com/compmod/)
     * tags: [free-programming-books](../tags/free-programming-books.md), [language-agnostic](../tags/language-agnostic.md), [theoretical-computer-science](../tags/theoretical-computer-science.md)

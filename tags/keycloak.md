@@ -1,4 +1,4 @@
-keycloak 
+keycloak - [www.bookmarks.dev/tagged/keycloak](https://www.bookmarks.dev/tagged/keycloak) 
 ---
 * [A simply step by step Keycloak, MySQL and Node.js integration tutorial](https://github.com/v-ladynev/keycloak-nodejs-example)
     * tags: [keycloak](../tags/keycloak.md), [nodejs](../tags/nodejs.md)
@@ -34,8 +34,6 @@ keycloak
 * [Keycloak: Getting started with Keycloak - Securing a REST Service](http://blog.keycloak.org/2015/10/getting-started-with-keycloak-securing.html)
     * :calendar: published on: 2015-10-30
     * tags: [keycloak](../tags/keycloak.md), [rest](../tags/rest.md), [wildfly](../tags/wildfly.md)
-* [Node.js Adapter | Keycloak Documentation](https://keycloak.gitbooks.io/documentation/securing_apps/topics/oidc/nodejs-adapter.html)
-    * tags: [keycloak](../tags/keycloak.md)
 * [Migration from older versions | Keycloak Documentation](https://keycloak.gitbooks.io/documentation/server_admin/topics/MigrationFromOlderVersions.html)
     * tags: [keycloak](../tags/keycloak.md)
 * [Export and Import | Keycloak Documentation](https://keycloak.gitbooks.io/documentation/server_admin/topics/export-import.html)

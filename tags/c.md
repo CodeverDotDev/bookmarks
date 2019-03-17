@@ -1,4 +1,4 @@
-c 
+c - [www.bookmarks.dev/tagged/c](https://www.bookmarks.dev/tagged/c) 
 ---
 * [Softwareentwicklung in C](http://www.asc.tuwien.ac.at/~eprog/download/schmaranz.pdf)
     * tags: [free-programming-books](../tags/free-programming-books.md), [c](../tags/c.md), [free-programming-books-de](../tags/free-programming-books-de.md)

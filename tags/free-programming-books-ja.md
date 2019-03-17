@@ -1,4 +1,4 @@
-free-programming-books-ja 
+free-programming-books-ja - [www.bookmarks.dev/tagged/free-programming-books-ja](https://www.bookmarks.dev/tagged/free-programming-books-ja) 
 ---
 * [Vim スクリプト書法](http://vim-jp.org/vimdoc-ja/usr_41.html)
     * tags: [free-programming-books-ja](../tags/free-programming-books-ja.md), [free-programming-books](../tags/free-programming-books.md), [vim](../tags/vim.md)

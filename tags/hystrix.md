@@ -1,4 +1,4 @@
-hystrix 
+hystrix - [www.bookmarks.dev/tagged/hystrix](https://www.bookmarks.dev/tagged/hystrix) 
 ---
 * [A Guide to Spring Cloud Netflix - Hystrix](https://www.baeldung.com/spring-cloud-netflix-hystrix)
     * :calendar: published on: 2018-11-05

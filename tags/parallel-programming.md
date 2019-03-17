@@ -1,4 +1,4 @@
-parallel-programming 
+parallel-programming - [www.bookmarks.dev/tagged/parallel-programming](https://www.bookmarks.dev/tagged/parallel-programming) 
 ---
 * [The OpenCL Programming Book](https://www.fixstars.com/en/opencl/book/OpenCLProgrammingBook/contents/)
     * tags: [parallel-programming](../tags/parallel-programming.md), [free-programming-books](../tags/free-programming-books.md), [language-agnostic](../tags/language-agnostic.md)

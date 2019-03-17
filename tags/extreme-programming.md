@@ -1,4 +1,4 @@
-extreme-programming 
+extreme-programming - [www.bookmarks.dev/tagged/extreme-programming](https://www.bookmarks.dev/tagged/extreme-programming) 
 ---
 * [Mocks Aren't Stubs](https://martinfowler.com/articles/mocksArentStubs.html)
     * :calendar: published on: 2007-01-02

@@ -1,4 +1,4 @@
-jenkins 
+jenkins - [www.bookmarks.dev/tagged/jenkins](https://www.bookmarks.dev/tagged/jenkins) 
 ---
 * [Jenkins X home](https://jenkins-x.io/)
     * tags: [jenkins](../tags/jenkins.md), [kubernetes](../tags/kubernetes.md), [tools](../tags/tools.md)

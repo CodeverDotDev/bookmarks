@@ -1,4 +1,4 @@
-coq 
+coq - [www.bookmarks.dev/tagged/coq](https://www.bookmarks.dev/tagged/coq) 
 ---
 * [zeimer.github.io (Programowanie Funkcyjne)](https://zeimer.github.io)
     * tags: [free-programming-books](../tags/free-programming-books.md), [coq](../tags/coq.md), [free-programming-books-pl](../tags/free-programming-books-pl.md)

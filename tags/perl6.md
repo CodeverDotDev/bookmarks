@@ -1,4 +1,4 @@
-perl6 
+perl6 - [www.bookmarks.dev/tagged/perl6](https://www.bookmarks.dev/tagged/perl6) 
 ---
 * [Using Perl 6](https://github.com/perl6/book/)
     * tags: [free-programming-books](../tags/free-programming-books.md), [perl6](../tags/perl6.md)

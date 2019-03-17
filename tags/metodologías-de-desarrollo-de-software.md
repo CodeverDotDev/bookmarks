@@ -1,4 +1,4 @@
-metodologías-de-desarrollo-de-software 
+metodologías-de-desarrollo-de-software - [www.bookmarks.dev/tagged/metodologías-de-desarrollo-de-software](https://www.bookmarks.dev/tagged/metodologías-de-desarrollo-de-software) 
 ---
 * [Scrum y XP desde las trincheras](http://www.proyectalis.com/wp-content/uploads/2008/02/scrum-y-xp-desde-las-trincheras.pdf)
     * tags: [free-programming-books](../tags/free-programming-books.md), [agnósticos](../tags/agnósticos.md), [metodologías-de-desarrollo-de-software](../tags/metodologías-de-desarrollo-de-software.md), [free-programming-books-es](../tags/free-programming-books-es.md)

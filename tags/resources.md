@@ -1,4 +1,4 @@
-resources 
+resources - [www.bookmarks.dev/tagged/resources](https://www.bookmarks.dev/tagged/resources) 
 ---
 * [Coding bookmarks, aka #codingmarks](https://www.codingmarks.org/)
     * tags: [resources](../tags/resources.md), [free-programming-books](../tags/free-programming-books.md)

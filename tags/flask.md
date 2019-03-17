@@ -1,4 +1,4 @@
-flask 
+flask - [www.bookmarks.dev/tagged/flask](https://www.bookmarks.dev/tagged/flask) 
 ---
 * [Flask](https://www.palletsprojects.com/p/flask/)
     * tags: [flask](../tags/flask.md), [python](../tags/python.md)

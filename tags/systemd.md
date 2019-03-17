@@ -1,4 +1,4 @@
-systemd 
+systemd - [www.bookmarks.dev/tagged/systemd](https://www.bookmarks.dev/tagged/systemd) 
 ---
 * [Systemd Essentials: Working with Services, Units, and the Journal | DigitalOceanDigitalOcean](https://www.digitalocean.com/community/tutorials/systemd-essentials-working-with-services-units-and-the-journal)
     * :calendar: published on: 2015-04-20

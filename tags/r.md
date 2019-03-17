@@ -1,5 +1,7 @@
-r 
+r - [www.bookmarks.dev/tagged/r](https://www.bookmarks.dev/tagged/r) 
 ---
+* [Writing R Extensions](https://cran.r-project.org/doc/manuals/r-release/R-exts.html)
+    * tags: [r](../tags/r.md), [package-manager](../tags/package-manager.md)
 * [Рандомизация и бутстреп: статистический анализ в биологии и экологии с использованием R.](http://www.ievbras.ru/ecostat/Kiril/Article/A32/Starb.pdf)
     * tags: [free-programming-books](../tags/free-programming-books.md), [r](../tags/r.md), [free-programming-books-ru](../tags/free-programming-books-ru.md)
 * [Анализ данных с R](http://www.inp.nsk.su/~baldin/DataAnalysis/index.html)

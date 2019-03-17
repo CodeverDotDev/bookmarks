@@ -1,4 +1,4 @@
-cobol 
+cobol - [www.bookmarks.dev/tagged/cobol](https://www.bookmarks.dev/tagged/cobol) 
 ---
 * [OpenCOBOL 1.1 - Programmer's Guide](http://open-cobol.sourceforge.net/guides/OpenCOBOL%20Programmers%20Guide.pdf)
     * tags: [free-programming-books](../tags/free-programming-books.md), [cobol](../tags/cobol.md)

@@ -1,4 +1,4 @@
-ssl 
+ssl - [www.bookmarks.dev/tagged/ssl](https://www.bookmarks.dev/tagged/ssl) 
 ---
 * [SSL/TLS  handshake Protocol - YouTube](https://www.youtube.com/watch?v=sEkw8ZcxtFk&list=PLSNNzog5eydtwsdT__t5WtRgvpfMzpTc7&index=5)
     * :calendar: published on: 2018-02-11

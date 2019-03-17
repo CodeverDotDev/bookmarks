@@ -1,4 +1,4 @@
-pm2 
+pm2 - [www.bookmarks.dev/tagged/pm2](https://www.bookmarks.dev/tagged/pm2) 
 ---
 * [StrongLoop Process Manager](http://strong-pm.io/compare/)
     * tags: [expressjs](../tags/expressjs.md), [pm2](../tags/pm2.md), [strongloop](../tags/strongloop.md), [forever](../tags/forever.md)

@@ -1,4 +1,4 @@
-diagram 
+diagram - [www.bookmarks.dev/tagged/diagram](https://www.bookmarks.dev/tagged/diagram) 
 ---
 * [mermaid docs](https://mermaidjs.github.io/)
     * tags: [documentation](../tags/documentation.md), [javascript](../tags/javascript.md), [diagram](../tags/diagram.md)

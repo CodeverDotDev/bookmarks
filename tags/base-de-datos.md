@@ -1,4 +1,4 @@
-base-de-datos 
+base-de-datos - [www.bookmarks.dev/tagged/base-de-datos](https://www.bookmarks.dev/tagged/base-de-datos) 
 ---
 * [Introducción a las Bases de Datos](http://ocw.uoc.edu/computer-science-technology-and-multimedia/bases-de-datos/bases-de-datos/P06_M2109_02147.pdf)
     * tags: [free-programming-books](../tags/free-programming-books.md), [base-de-datos](../tags/base-de-datos.md), [agnósticos](../tags/agnósticos.md), [free-programming-books-es](../tags/free-programming-books-es.md)

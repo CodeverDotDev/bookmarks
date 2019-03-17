@@ -1,4 +1,4 @@
-microservices 
+microservices - [www.bookmarks.dev/tagged/microservices](https://www.bookmarks.dev/tagged/microservices) 
 ---
 * [API Infrastructure at Knewton: What’s in an Edge Service?](https://medium.com/knerd/api-infrastructure-at-knewton-whats-in-an-edge-service-51a3777aeb41)
     * :calendar: published on: 2016-05-09

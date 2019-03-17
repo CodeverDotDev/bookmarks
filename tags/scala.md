@@ -1,4 +1,4 @@
-scala 
+scala - [www.bookmarks.dev/tagged/scala](https://www.bookmarks.dev/tagged/scala) 
 ---
 * [Finally Functional Programming in Java – Hacker Noon](https://hackernoon.com/finally-functional-programming-in-java-ad4d388fb92e)
     * :calendar: published on: 2018-02-26

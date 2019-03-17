@@ -1,4 +1,4 @@
-logiciels-libres 
+logiciels-libres - [www.bookmarks.dev/tagged/logiciels-libres](https://www.bookmarks.dev/tagged/logiciels-libres) 
 ---
 * [Richard Stallman et la révolution du logiciel libre](http://framabook.org/richard-stallman-et-la-revolution-du-logiciel-libre-2/)
     * tags: [free-programming-books](../tags/free-programming-books.md), [logiciels-libres](../tags/logiciels-libres.md), [free-programming-books-fr](../tags/free-programming-books-fr.md), [non-dépendant-du-langage](../tags/non-dépendant-du-langage.md)

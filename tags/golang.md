@@ -1,4 +1,4 @@
-golang 
+golang - [www.bookmarks.dev/tagged/golang](https://www.bookmarks.dev/tagged/golang) 
 ---
 * [Concurrency is not parallelism - The Go Blog](https://blog.golang.org/concurrency-is-not-parallelism)
     * :calendar: published on: 2013-01-16

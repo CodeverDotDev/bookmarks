@@ -1,4 +1,4 @@
-racket 
+racket - [www.bookmarks.dev/tagged/racket](https://www.bookmarks.dev/tagged/racket) 
 ---
 * [The Racket Guide](http://docs.racket-lang.org/guide/index.html)
     * tags: [free-programming-books](../tags/free-programming-books.md), [racket](../tags/racket.md)

@@ -1,4 +1,4 @@
-kubernetes 
+kubernetes - [www.bookmarks.dev/tagged/kubernetes](https://www.bookmarks.dev/tagged/kubernetes) 
 ---
 * [Spring Boot Micro-services, Containers, and Kubernetes - How To - YouTube](https://www.youtube.com/watch?v=Bcs-inRnLDc)
     * :calendar: published on: 2015-10-19

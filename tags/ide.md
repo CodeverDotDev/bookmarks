@@ -1,4 +1,4 @@
-ide 
+ide - [www.bookmarks.dev/tagged/ide](https://www.bookmarks.dev/tagged/ide) 
 ---
 * [Atom Basics](http://flight-manual.atom.io/getting-started/sections/atom-basics/)
     * tags: [atom](../tags/atom.md), [ide](../tags/ide.md)

@@ -1,4 +1,4 @@
-gradle 
+gradle - [www.bookmarks.dev/tagged/gradle](https://www.bookmarks.dev/tagged/gradle) 
 ---
 * [ビルドツールGradleスタートアップガイドの紹介](https://www.ntts.co.jp/column/tec/java_03/)
     * tags: [gradle](../tags/gradle.md), [free-programming-books-ja](../tags/free-programming-books-ja.md), [free-programming-books](../tags/free-programming-books.md)

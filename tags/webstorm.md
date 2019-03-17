@@ -1,4 +1,4 @@
-webstorm 
+webstorm - [www.bookmarks.dev/tagged/webstorm](https://www.bookmarks.dev/tagged/webstorm) 
 ---
 * [Open in terminal :: JetBrains Plugin Repository](https://plugins.jetbrains.com/plugin/7817-open-in-terminal)
     * tags: [intellij](../tags/intellij.md), [webstorm](../tags/webstorm.md), [plugins](../tags/plugins.md)

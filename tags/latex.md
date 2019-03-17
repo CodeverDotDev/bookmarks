@@ -1,4 +1,4 @@
-latex 
+latex - [www.bookmarks.dev/tagged/latex](https://www.bookmarks.dev/tagged/latex) 
 ---
 * [Pandoc home page](https://pandoc.org/)
     * tags: [pandoc](../tags/pandoc.md), [markdown](../tags/markdown.md), [latex](../tags/latex.md)

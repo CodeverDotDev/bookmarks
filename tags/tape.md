@@ -1,4 +1,4 @@
-tape 
+tape - [www.bookmarks.dev/tagged/tape](https://www.bookmarks.dev/tagged/tape) 
 ---
 * [GitHub - substack/tape: tap-producing test harness for node and browsers](https://github.com/substack/tape)
     * tags: [nodejs](../tags/nodejs.md), [testing](../tags/testing.md), [tape](../tags/tape.md)

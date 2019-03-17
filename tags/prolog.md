@@ -1,4 +1,4 @@
-prolog 
+prolog - [www.bookmarks.dev/tagged/prolog](https://www.bookmarks.dev/tagged/prolog) 
 ---
 * [Programowanie w logice z ograniczeniami: Łagodne wprowadzenie dla platformy ECLiPSe](http://www.pwlzo.pl)
     * tags: [free-programming-books](../tags/free-programming-books.md), [free-programming-books-pl](../tags/free-programming-books-pl.md), [prolog](../tags/prolog.md)

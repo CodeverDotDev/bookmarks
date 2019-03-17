@@ -1,4 +1,4 @@
-circuit-breaker 
+circuit-breaker - [www.bookmarks.dev/tagged/circuit-breaker](https://www.bookmarks.dev/tagged/circuit-breaker) 
 ---
 * [A Guide to Spring Cloud Netflix - Hystrix](https://www.baeldung.com/spring-cloud-netflix-hystrix)
     * :calendar: published on: 2018-11-05

@@ -1,4 +1,4 @@
-oop 
+oop - [www.bookmarks.dev/tagged/oop](https://www.bookmarks.dev/tagged/oop) 
 ---
 * [Composition versus Inheritance](https://www.artima.com/designtechniques/compoinh.html)
     * :calendar: published on: 98-01-01

@@ -1,4 +1,4 @@
-free-programming-books-id 
+free-programming-books-id - [www.bookmarks.dev/tagged/free-programming-books-id](https://www.bookmarks.dev/tagged/free-programming-books-id) 
 ---
 * [Workshop Python 101](http://sakti.github.io/python101/)
     * tags: [free-programming-books](../tags/free-programming-books.md), [python](../tags/python.md), [free-programming-books-id](../tags/free-programming-books-id.md)

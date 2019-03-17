@@ -1,5 +1,8 @@
-javascript 
+javascript - [www.bookmarks.dev/tagged/javascript](https://www.bookmarks.dev/tagged/javascript) 
 ---
+* [The Cost Of JavaScript In 2018 – Addy Osmani – Medium](https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4/)
+    * :calendar: published on: 2018-08-01
+    * tags: [javascript](../tags/javascript.md), [performance](../tags/performance.md)
 * [Simplify your JavaScript – Use .map(), .reduce(), and .filter()](https://medium.com/poka-techblog/simplify-your-javascript-use-map-reduce-and-filter-bd02c593cc2d)
     * :calendar: published on: 2018-01-29
     * tags: [javascript](../tags/javascript.md), [functional-programming](../tags/functional-programming.md)
@@ -9,6 +12,9 @@ javascript
 * [Moment.js Home Page](http://momentjs.com/)
     * tags: [date](../tags/date.md), [datetime](../tags/datetime.md), [date-manipulation](../tags/date-manipulation.md), [time](../tags/time.md), [javascript](../tags/javascript.md)
     * :octocat: [github url](https://github.com/moment/moment/)
+* [Istanbul, a JavaScript test coverage tool.](https://istanbul.js.org/)
+    * tags: [testing](../tags/testing.md), [test-coverage](../tags/test-coverage.md), [javascript](../tags/javascript.md)
+    * :octocat: [github url](https://github.com/istanbuljs)
 * [express-validator](https://express-validator.github.io)
     * tags: [expressjs](../tags/expressjs.md), [javascript](../tags/javascript.md)
     * :octocat: [github url](https://github.com/express-validator/express-validator)

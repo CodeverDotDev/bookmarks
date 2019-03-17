@@ -1,4 +1,4 @@
-f-sharp 
+f-sharp - [www.bookmarks.dev/tagged/f-sharp](https://www.bookmarks.dev/tagged/f-sharp) 
 ---
 * [Real World Functional Programming](https://msdn.microsoft.com/en-us/library/hh314518.aspx)
     * tags: [free-programming-books](../tags/free-programming-books.md), [f-sharp](../tags/f-sharp.md)

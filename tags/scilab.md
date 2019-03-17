@@ -1,4 +1,4 @@
-scilab 
+scilab - [www.bookmarks.dev/tagged/scilab](https://www.bookmarks.dev/tagged/scilab) 
 ---
 * [Einführung in Scilab/Xcos 5.4](http://www.buech-gifhorn.de/scilab/Einfuehrung.pdf)
     * tags: [free-programming-books](../tags/free-programming-books.md), [scilab](../tags/scilab.md), [free-programming-books-de](../tags/free-programming-books-de.md)

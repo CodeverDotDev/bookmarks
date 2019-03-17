@@ -1,4 +1,4 @@
-event-sourcing 
+event-sourcing - [www.bookmarks.dev/tagged/event-sourcing](https://www.bookmarks.dev/tagged/event-sourcing) 
 ---
 * [GOTO 2017 • The Many Meanings of Event-Driven Architecture • Martin Fowler - YouTube](https://www.youtube.com/watch?v=STKCRSUsyP0)
     * :calendar: published on: 2017-05-11

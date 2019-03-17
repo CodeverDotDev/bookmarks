@@ -1,4 +1,4 @@
-distributed-computing 
+distributed-computing - [www.bookmarks.dev/tagged/distributed-computing](https://www.bookmarks.dev/tagged/distributed-computing) 
 ---
 * [Consul Home](https://www.consul.io/)
     * tags: [distributed-computing](../tags/distributed-computing.md)

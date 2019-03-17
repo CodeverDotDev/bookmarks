@@ -1,4 +1,4 @@
-redux 
+redux - [www.bookmarks.dev/tagged/redux](https://www.bookmarks.dev/tagged/redux) 
 ---
 * [GitHub - ngrx/platform: Monorepo for ngrx codebase](https://github.com/ngrx/platform)
     * tags: [angular](../tags/angular.md), [ngrx](../tags/ngrx.md), [redux](../tags/redux.md)

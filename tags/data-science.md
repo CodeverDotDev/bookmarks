@@ -1,4 +1,4 @@
-data-science 
+data-science - [www.bookmarks.dev/tagged/data-science](https://www.bookmarks.dev/tagged/data-science) 
 ---
 * [Modern Visualization for the Data Era - Plotly](https://plot.ly/)
     * tags: [charts](../tags/charts.md), [javascript](../tags/javascript.md), [python](../tags/python.md), [data-science](../tags/data-science.md)

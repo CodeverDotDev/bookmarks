@@ -1,4 +1,4 @@
-perl 
+perl - [www.bookmarks.dev/tagged/perl](https://www.bookmarks.dev/tagged/perl) 
 ---
 * [Perl Básico](https://github.com/HeitorG/Perl-Brasil/blob/master/apostilas/perl-basico.pdf)
     * tags: [free-programming-books](../tags/free-programming-books.md), [perl](../tags/perl.md), [free-programming-books-pt_BR](../tags/free-programming-books-pt_BR.md)

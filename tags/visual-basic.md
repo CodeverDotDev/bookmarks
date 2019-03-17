@@ -1,4 +1,4 @@
-visual-basic 
+visual-basic - [www.bookmarks.dev/tagged/visual-basic](https://www.bookmarks.dev/tagged/visual-basic) 
 ---
 * [Visual Basic 2008](http://openbook.rheinwerk-verlag.de/visualbasic_2008/)
     * tags: [free-programming-books](../tags/free-programming-books.md), [visual-basic](../tags/visual-basic.md), [free-programming-books-de](../tags/free-programming-books-de.md)

@@ -1,4 +1,4 @@
-sinonjs 
+sinonjs - [www.bookmarks.dev/tagged/sinonjs](https://www.bookmarks.dev/tagged/sinonjs) 
 ---
 * [Best Practices for Spies, Stubs and Mocks in Sinon.js - Semaphore](https://semaphoreci.com/community/tutorials/best-practices-for-spies-stubs-and-mocks-in-sinon-js)
     * :calendar: published on: 2015-12-05

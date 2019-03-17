@@ -1,4 +1,4 @@
-open-source-software 
+open-source-software - [www.bookmarks.dev/tagged/open-source-software](https://www.bookmarks.dev/tagged/open-source-software) 
 ---
 * [نبذة عن رخص البرمجيات الحرة ](http://librebooks.org/bref-about-foss-licenses/)
     * tags: [free-programming-books](../tags/free-programming-books.md), [open-source-software](../tags/open-source-software.md), [free-programming-books-ar](../tags/free-programming-books-ar.md)

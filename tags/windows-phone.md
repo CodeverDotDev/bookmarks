@@ -1,4 +1,4 @@
-windows-phone 
+windows-phone - [www.bookmarks.dev/tagged/windows-phone](https://www.bookmarks.dev/tagged/windows-phone) 
 ---
 * [Windows Phone fejlesztés lépésről lépésre](http://mek.oszk.hu/10300/10393/)
     * tags: [free-programming-books](../tags/free-programming-books.md), [windows-phone](../tags/windows-phone.md), [free-programming-books-hu](../tags/free-programming-books-hu.md)

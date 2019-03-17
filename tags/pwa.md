@@ -1,4 +1,4 @@
-pwa 
+pwa - [www.bookmarks.dev/tagged/pwa](https://www.bookmarks.dev/tagged/pwa) 
 ---
 * [Service Workers - Practical Guided Introduction (several examples)](https://blog.angular-university.io/service-workers/)
     * :calendar: published on: 2018-06-18

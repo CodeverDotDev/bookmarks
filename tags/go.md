@@ -1,4 +1,4 @@
-go 
+go - [www.bookmarks.dev/tagged/go](https://www.bookmarks.dev/tagged/go) 
 ---
 * [Meet Twirp! · Twirp](https://twitchtv.github.io/twirp/docs/intro.html)
     * tags: [twirp](../tags/twirp.md), [rpc](../tags/rpc.md), [go](../tags/go.md)

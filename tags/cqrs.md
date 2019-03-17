@@ -1,4 +1,4 @@
-cqrs 
+cqrs - [www.bookmarks.dev/tagged/cqrs](https://www.bookmarks.dev/tagged/cqrs) 
 ---
 * [GOTO 2017 • The Many Meanings of Event-Driven Architecture • Martin Fowler - YouTube](https://www.youtube.com/watch?v=STKCRSUsyP0)
     * :calendar: published on: 2017-05-11

@@ -1,4 +1,4 @@
-mathematics 
+mathematics - [www.bookmarks.dev/tagged/mathematics](https://www.bookmarks.dev/tagged/mathematics) 
 ---
 * [Think Stats: Probability and Statistics for Programmers](http://greenteapress.com/thinkstats/)
     * tags: [free-programming-books](../tags/free-programming-books.md), [language-agnostic](../tags/language-agnostic.md), [mathematics](../tags/mathematics.md)

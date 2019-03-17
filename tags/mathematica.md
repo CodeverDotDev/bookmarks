@@ -1,4 +1,4 @@
-mathematica 
+mathematica - [www.bookmarks.dev/tagged/mathematica](https://www.bookmarks.dev/tagged/mathematica) 
 ---
 * [Wolfram Mathematica Tutorial Collection](http://www.wolfram.com/learningcenter/tutorialcollection/)
     * tags: [free-programming-books](../tags/free-programming-books.md), [mathematica](../tags/mathematica.md)

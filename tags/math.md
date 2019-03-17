@@ -1,4 +1,4 @@
-math 
+math - [www.bookmarks.dev/tagged/math](https://www.bookmarks.dev/tagged/math) 
 ---
 * [Project Euler](https://projecteuler.net/)
     * tags: [puzzles](../tags/puzzles.md), [math](../tags/math.md), [programming](../tags/programming.md), [challenge](../tags/challenge.md)

@@ -1,4 +1,4 @@
-asynchronous 
+asynchronous - [www.bookmarks.dev/tagged/asynchronous](https://www.bookmarks.dev/tagged/asynchronous) 
 ---
 * [java.util.concurrent - Java Concurrency Utilities](http://tutorials.jenkov.com/java-util-concurrent/index.html)
     * tags: [java](../tags/java.md), [concurrency](../tags/concurrency.md), [asynchronous](../tags/asynchronous.md)

@@ -1,4 +1,4 @@
-jpa 
+jpa - [www.bookmarks.dev/tagged/jpa](https://www.bookmarks.dev/tagged/jpa) 
 ---
 * [Hibernate Tip: What's the Difference between JOIN, LEFT JOIN & JOIN FETCH](https://thoughts-on-java.org/hibernate-tips-difference-join-left-join-fetch-join/)
     * tags: [jpa](../tags/jpa.md), [jpql](../tags/jpql.md)

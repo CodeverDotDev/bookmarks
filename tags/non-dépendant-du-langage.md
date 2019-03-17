@@ -1,4 +1,4 @@
-non-dépendant-du-langage 
+non-dépendant-du-langage - [www.bookmarks.dev/tagged/non-dépendant-du-langage](https://www.bookmarks.dev/tagged/non-dépendant-du-langage) 
 ---
 * [Apprendre l'informatique sans ordinateur](https://interstices.info/jcms/c_47072/enseigner-et-apprendre-les-sciences-informatiques-a-lecole)
     * tags: [free-programming-books](../tags/free-programming-books.md), [pédagogie-pour-enfants-et-adolescents](../tags/pédagogie-pour-enfants-et-adolescents.md), [free-programming-books-fr](../tags/free-programming-books-fr.md), [non-dépendant-du-langage](../tags/non-dépendant-du-langage.md)

@@ -1,4 +1,4 @@
-agile 
+agile - [www.bookmarks.dev/tagged/agile](https://www.bookmarks.dev/tagged/agile) 
 ---
 * [James Shore: Agile-Book](https://www.jamesshore.com/Agile-Book/)
     * tags: [free-programming-books](../tags/free-programming-books.md), [agile](../tags/agile.md)

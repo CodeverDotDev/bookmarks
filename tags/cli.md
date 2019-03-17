@@ -1,4 +1,4 @@
-cli 
+cli - [www.bookmarks.dev/tagged/cli](https://www.bookmarks.dev/tagged/cli) 
 ---
 * [12 Factor CLI Apps – Jeff Dickey – Medium](https://medium.com/@jdxcode/12-factor-cli-apps-dd3c227a0e46)
     * :calendar: published on: 2018-10-04

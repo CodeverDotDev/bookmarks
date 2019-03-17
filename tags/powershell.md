@@ -1,4 +1,4 @@
-powershell 
+powershell - [www.bookmarks.dev/tagged/powershell](https://www.bookmarks.dev/tagged/powershell) 
 ---
 * [Microsoft PowerShell 2.0](http://mek.oszk.hu/10400/10402/index.phtml)
     * tags: [free-programming-books](../tags/free-programming-books.md), [powershell](../tags/powershell.md), [free-programming-books-hu](../tags/free-programming-books-hu.md)

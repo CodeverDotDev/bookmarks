@@ -1,4 +1,4 @@
-swagger 
+swagger - [www.bookmarks.dev/tagged/swagger](https://www.bookmarks.dev/tagged/swagger) 
 ---
 * [SpringFox homepage](http://springfox.github.io/springfox/)
     * tags: [spring](../tags/spring.md), [swagger](../tags/swagger.md), [rest](../tags/rest.md), [documentation](../tags/documentation.md)

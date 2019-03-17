@@ -1,4 +1,4 @@
-reverse-engineering 
+reverse-engineering - [www.bookmarks.dev/tagged/reverse-engineering](https://www.bookmarks.dev/tagged/reverse-engineering) 
 ---
 * [Reverse Engineering for Beginners](http://beginners.re)
     * tags: [free-programming-books](../tags/free-programming-books.md), [language-agnostic](../tags/language-agnostic.md), [reverse-engineering](../tags/reverse-engineering.md)

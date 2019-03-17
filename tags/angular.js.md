@@ -1,4 +1,4 @@
-angular.js 
+angular.js - [www.bookmarks.dev/tagged/angular.js](https://www.bookmarks.dev/tagged/angular.js) 
 ---
 * [すぐできる AngularJS](http://8th713.github.io/LearnAngularJS)
     * tags: [free-programming-books-ja](../tags/free-programming-books-ja.md), [angular.js](../tags/angular.js.md), [free-programming-books](../tags/free-programming-books.md), [javascript](../tags/javascript.md)

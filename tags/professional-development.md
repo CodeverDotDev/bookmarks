@@ -1,4 +1,4 @@
-professional-development 
+professional-development - [www.bookmarks.dev/tagged/professional-development](https://www.bookmarks.dev/tagged/professional-development) 
 ---
 * [Why programmers work at night](https://leanpub.com/nightowls/read)
     * tags: [professional-development](../tags/professional-development.md), [free-programming-books](../tags/free-programming-books.md), [language-agnostic](../tags/language-agnostic.md)

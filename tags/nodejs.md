@@ -1,5 +1,8 @@
-nodejs 
+nodejs - [www.bookmarks.dev/tagged/nodejs](https://www.bookmarks.dev/tagged/nodejs) 
 ---
+* [Nodemailer home page](http://nodemailer.com/)
+    * tags: [nodejs](../tags/nodejs.md), [email](../tags/email.md)
+    * :octocat: [github url](https://github.com/nodemailer/nodemailer)
 * [Connect home page](https://github.com/senchalabs/connect)
     * tags: [nodejs](../tags/nodejs.md), [middleware](../tags/middleware.md)
     * :octocat: [github url](https://github.com/senchalabs/connect)

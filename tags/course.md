@@ -1,4 +1,4 @@
-course 
+course - [www.bookmarks.dev/tagged/course](https://www.bookmarks.dev/tagged/course) 
 ---
 * [awesome-courses](https://github.com/prakhar1989/awesome-courses)
     * tags: [course](../tags/course.md), [awesome-list](../tags/awesome-list.md), [computer-science](../tags/computer-science.md)

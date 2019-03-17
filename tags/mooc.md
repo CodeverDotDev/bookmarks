@@ -1,4 +1,4 @@
-mooc 
+mooc - [www.bookmarks.dev/tagged/mooc](https://www.bookmarks.dev/tagged/mooc) 
 ---
 * [Platzi](https://courses.platzi.com)
     * tags: [free-programming-books](../tags/free-programming-books.md), [language-agnostic](../tags/language-agnostic.md), [mooc](../tags/mooc.md)

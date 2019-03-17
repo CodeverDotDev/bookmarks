@@ -1,4 +1,4 @@
-date 
+date - [www.bookmarks.dev/tagged/date](https://www.bookmarks.dev/tagged/date) 
 ---
 * [Moment.js Home Page](http://momentjs.com/)
     * tags: [date](../tags/date.md), [datetime](../tags/datetime.md), [date-manipulation](../tags/date-manipulation.md), [time](../tags/time.md), [javascript](../tags/javascript.md)

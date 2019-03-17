@@ -1,4 +1,4 @@
-apl 
+apl - [www.bookmarks.dev/tagged/apl](https://www.bookmarks.dev/tagged/apl) 
 ---
 * [Mastering Dyalog APL](http://www.dyalog.com/mastering-dyalog-apl.htm)
     * tags: [free-programming-books](../tags/free-programming-books.md), [apl](../tags/apl.md)

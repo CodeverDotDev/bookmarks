@@ -1,4 +1,4 @@
-promise 
+promise - [www.bookmarks.dev/tagged/promise](https://www.bookmarks.dev/tagged/promise) 
 ---
 * [GitHub - domenic/chai-as-promised](https://github.com/domenic/chai-as-promised)
     * tags: [chai](../tags/chai.md), [promise](../tags/promise.md), [testing](../tags/testing.md)

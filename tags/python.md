@@ -1,4 +1,4 @@
-python 
+python - [www.bookmarks.dev/tagged/python](https://www.bookmarks.dev/tagged/python) 
 ---
 * [Docker SDK for Python](https://docker-py.readthedocs.io/)
     * tags: [docker](../tags/docker.md), [python](../tags/python.md)

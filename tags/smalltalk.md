@@ -1,4 +1,4 @@
-smalltalk 
+smalltalk - [www.bookmarks.dev/tagged/smalltalk](https://www.bookmarks.dev/tagged/smalltalk) 
 ---
 * [Смолток: Язык и его реализация](https://sites.google.com/site/polyglotsqueak/)
     * tags: [free-programming-books](../tags/free-programming-books.md), [free-programming-books-ru](../tags/free-programming-books-ru.md), [smalltalk](../tags/smalltalk.md)

@@ -1,4 +1,4 @@
-freelancing 
+freelancing - [www.bookmarks.dev/tagged/freelancing](https://www.bookmarks.dev/tagged/freelancing) 
 ---
 * [Podcast For Freelancers - Double Your Freelancing](https://doubleyourfreelancing.com/podcast/)
     * tags: [podcast](../tags/podcast.md), [freelancing](../tags/freelancing.md)

@@ -1,4 +1,4 @@
-dom 
+dom - [www.bookmarks.dev/tagged/dom](https://www.bookmarks.dev/tagged/dom) 
 ---
 * [Event - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Event)
     * tags: [dom](../tags/dom.md), [html](../tags/html.md)

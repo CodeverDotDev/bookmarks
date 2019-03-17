@@ -1,4 +1,4 @@
-awesome-list 
+awesome-list - [www.bookmarks.dev/tagged/awesome-list](https://www.bookmarks.dev/tagged/awesome-list) 
 ---
 * [GitHub - anaibol/awesome-serverless](https://github.com/anaibol/awesome-serverless)
     * tags: [serverless](../tags/serverless.md), [cloud](../tags/cloud.md), [awesome](../tags/awesome.md), [awesome-list](../tags/awesome-list.md)

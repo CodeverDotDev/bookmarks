@@ -1,4 +1,4 @@
-maven 
+maven - [www.bookmarks.dev/tagged/maven](https://www.bookmarks.dev/tagged/maven) 
 ---
 * [Maven – Introduction to the Dependency Mechanism](https://maven.apache.org/guides/introduction/introduction-to-dependency-mechanism.html)
     * tags: [maven](../tags/maven.md)

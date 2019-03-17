@@ -1,4 +1,4 @@
-free-programming-books-pl 
+free-programming-books-pl - [www.bookmarks.dev/tagged/free-programming-books-pl](https://www.bookmarks.dev/tagged/free-programming-books-pl) 
 ---
 * [SQL - podstawy (na stronie)](http://andrzejklusiewicz.blogspot.com/2010/11/kurs-oracle-sql.html)
     * tags: [free-programming-books](../tags/free-programming-books.md), [free-programming-books-pl](../tags/free-programming-books-pl.md), [sql](../tags/sql.md)

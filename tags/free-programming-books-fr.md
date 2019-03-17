@@ -1,4 +1,4 @@
-free-programming-books-fr 
+free-programming-books-fr - [www.bookmarks.dev/tagged/free-programming-books-fr](https://www.bookmarks.dev/tagged/free-programming-books-fr) 
 ---
 * [Vim pour les humains](https://vimebook.com/fr)
     * tags: [free-programming-books](../tags/free-programming-books.md), [free-programming-books-fr](../tags/free-programming-books-fr.md), [vim](../tags/vim.md)
