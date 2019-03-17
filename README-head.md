@@ -2,12 +2,14 @@ Bookmarks for Developers & Co
 ---
 <img align="left" src="images/bookmarks.dev-logo-md.png">
 
-Public bookmarks, grouped by topics, shared from  [https://www.bookmarks.dev](https://www.bookmarks.dev)
+Public bookmarks, grouped by topics, shared from  [https://www.bookmarks.dev](https://www.bookmarks.dev). Save up to
+a work week a year by efficiently managing your dev bookmarks.
 
 ---
-List of topics
- * [alphabetically ordered](tags-alphabetically.md)
- * [ordered by size](tags-by-size.md)
+Grouping of topics (tags)
+ * [ordered alphabetically](tags-alphabetically.md)
+ * [english only](tags-alphabetically-en.md)
+ * [ordered by size - displayed here](tags-by-size.md)
 
-List of Topics in English:
+Most popular tags:
 ---
