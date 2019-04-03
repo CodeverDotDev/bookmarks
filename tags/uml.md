@@ -1,4 +1,4 @@
-uml - [www.bookmarks.dev/tagged/uml](https://www.bookmarks.dev/tagged/uml) 
+uml - [www.bookmarks.dev/tagged/uml](https://www.bookmarks.dev/tagged/uml)
 ---
 * [PlantUML Home Page](http://plantuml.com/)
     * tags: [uml](../tags/uml.md), [architecture](../tags/architecture.md), [intellij](../tags/intellij.md), [plantuml](../tags/plantuml.md), [open-source](../tags/open-source.md)

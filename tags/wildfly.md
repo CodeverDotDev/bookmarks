@@ -1,4 +1,4 @@
-wildfly - [www.bookmarks.dev/tagged/wildfly](https://www.bookmarks.dev/tagged/wildfly) 
+wildfly - [www.bookmarks.dev/tagged/wildfly](https://www.bookmarks.dev/tagged/wildfly)
 ---
 * [Creating clustered EJB 3 Timers ](http://www.mastertheboss.com/jboss-server/wildfly-8/creating-clustered-ejb-3-timers)
     * tags: [javaee](../tags/javaee.md), [wildfly](../tags/wildfly.md), [scheduling](../tags/scheduling.md)

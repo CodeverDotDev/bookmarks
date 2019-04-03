@@ -1,4 +1,4 @@
-soap - [www.bookmarks.dev/tagged/soap](https://www.bookmarks.dev/tagged/soap) 
+soap - [www.bookmarks.dev/tagged/soap](https://www.bookmarks.dev/tagged/soap)
 ---
 * [npm-soap](https://www.npmjs.com/package/soap)
     * tags: [nodejs](../tags/nodejs.md), [soap](../tags/soap.md)

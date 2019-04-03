@@ -1,5 +1,14 @@
-javascript - [www.bookmarks.dev/tagged/javascript](https://www.bookmarks.dev/tagged/javascript) 
+javascript - [www.bookmarks.dev/tagged/javascript](https://www.bookmarks.dev/tagged/javascript)
 ---
+* [Immutable.js home page](https://immutable-js.github.io/immutable-js/)
+    * tags: [javascript](../tags/javascript.md), [immutable.js](../tags/immutable.js.md)
+    * :octocat: [github url](https://github.com/immutable-js/immutable-js)
+* [Jake Archibald: In The Loop - JSConf.Asia 2018 - YouTube](https://www.youtube.com/watch?v=cCOL7MC4Pl0)
+    * :calendar: published on: 2018-01-27
+    * tags: [javascript](../tags/javascript.md)
+* [GitHub - stoeffel/awesome-fp-js](https://github.com/stoeffel/awesome-fp-js#readme)
+    * tags: [javascript](../tags/javascript.md), [functional-programming](../tags/functional-programming.md), [awesome](../tags/awesome.md), [awesome-list](../tags/awesome-list.md)
+    * :octocat: [github url](https://github.com/stoeffel/awesome-fp-js)
 * [The Cost Of JavaScript In 2018 – Addy Osmani – Medium](https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4/)
     * :calendar: published on: 2018-08-01
     * tags: [javascript](../tags/javascript.md), [performance](../tags/performance.md)

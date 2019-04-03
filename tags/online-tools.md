@@ -1,4 +1,4 @@
-online-tools - [www.bookmarks.dev/tagged/online-tools](https://www.bookmarks.dev/tagged/online-tools) 
+online-tools - [www.bookmarks.dev/tagged/online-tools](https://www.bookmarks.dev/tagged/online-tools)
 ---
 * [Online SQLite browser](https://extendsclass.com/sqlite-browser.html)
     * :calendar: published on: 2019-03-06

@@ -1,4 +1,4 @@
-rpc - [www.bookmarks.dev/tagged/rpc](https://www.bookmarks.dev/tagged/rpc) 
+rpc - [www.bookmarks.dev/tagged/rpc](https://www.bookmarks.dev/tagged/rpc)
 ---
 * [Meet Twirp! · Twirp](https://twitchtv.github.io/twirp/docs/intro.html)
     * tags: [twirp](../tags/twirp.md), [rpc](../tags/rpc.md), [go](../tags/go.md)

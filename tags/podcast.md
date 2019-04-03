@@ -1,4 +1,4 @@
-podcast - [www.bookmarks.dev/tagged/podcast](https://www.bookmarks.dev/tagged/podcast) 
+podcast - [www.bookmarks.dev/tagged/podcast](https://www.bookmarks.dev/tagged/podcast)
 ---
 * [Podcasts – React](https://reactjs.org/community/podcasts.html)
     * tags: [reactjs](../tags/reactjs.md), [podcast](../tags/podcast.md)

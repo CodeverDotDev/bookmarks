@@ -1,4 +1,4 @@
-rxjava - [www.bookmarks.dev/tagged/rxjava](https://www.bookmarks.dev/tagged/rxjava) 
+rxjava - [www.bookmarks.dev/tagged/rxjava](https://www.bookmarks.dev/tagged/rxjava)
 ---
 * [Introduction to RxJava](https://www.baeldung.com/rx-java)
     * :calendar: published on: 2018-01-25

@@ -1,4 +1,4 @@
-jboss - [www.bookmarks.dev/tagged/jboss](https://www.bookmarks.dev/tagged/jboss) 
+jboss - [www.bookmarks.dev/tagged/jboss](https://www.bookmarks.dev/tagged/jboss)
 ---
 * [How to install a module on WildFly / JBoss AS 7](http://www.mastertheboss.com/jboss-server/jboss-as-7/how-to-install-a-module-on-jboss-as-7)
     * tags: [jboss](../tags/jboss.md), [wildfly](../tags/wildfly.md)

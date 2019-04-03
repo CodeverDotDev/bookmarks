@@ -1,4 +1,4 @@
-ux - [www.bookmarks.dev/tagged/ux](https://www.bookmarks.dev/tagged/ux) 
+ux - [www.bookmarks.dev/tagged/ux](https://www.bookmarks.dev/tagged/ux)
 ---
 * [Should form 'Continue' button be disabled if validation is incomplete?](https://ux.stackexchange.com/questions/73728/should-form-continue-button-be-disabled-if-validation-is-incomplete/73731)
     * tags: [ux](../tags/ux.md)

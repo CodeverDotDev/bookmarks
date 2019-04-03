@@ -1,4 +1,4 @@
-tools - [www.bookmarks.dev/tagged/tools](https://www.bookmarks.dev/tagged/tools) 
+tools - [www.bookmarks.dev/tagged/tools](https://www.bookmarks.dev/tagged/tools)
 ---
 * [MX Lookup Tool - Check your DNS MX Records online - MxToolbox](https://mxtoolbox.com/)
     * tags: [dns](../tags/dns.md), [tools](../tags/tools.md)

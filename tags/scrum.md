@@ -1,4 +1,4 @@
-scrum - [www.bookmarks.dev/tagged/scrum](https://www.bookmarks.dev/tagged/scrum) 
+scrum - [www.bookmarks.dev/tagged/scrum](https://www.bookmarks.dev/tagged/scrum)
 ---
 * [Understanding the Scrum Burndown Chart](http://www.methodsandtools.com/archive/scrumburndown.php)
     * tags: [agile](../tags/agile.md), [scrum](../tags/scrum.md)

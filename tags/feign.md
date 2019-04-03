@@ -1,4 +1,4 @@
-feign - [www.bookmarks.dev/tagged/feign](https://www.bookmarks.dev/tagged/feign) 
+feign - [www.bookmarks.dev/tagged/feign](https://www.bookmarks.dev/tagged/feign)
 ---
 * [Intro to Feign](https://www.baeldung.com/intro-to-feign)
     * :calendar: published on: 2017-07-29

@@ -1,4 +1,4 @@
-letsencrypt - [www.bookmarks.dev/tagged/letsencrypt](https://www.bookmarks.dev/tagged/letsencrypt) 
+letsencrypt - [www.bookmarks.dev/tagged/letsencrypt](https://www.bookmarks.dev/tagged/letsencrypt)
 ---
 * [Welcome to the Certbot documentation! ](https://certbot.eff.org/docs/)
     * tags: [certbot](../tags/certbot.md), [docs](../tags/docs.md), [letsencrypt](../tags/letsencrypt.md)

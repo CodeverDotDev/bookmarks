@@ -1,4 +1,4 @@
-freebsd - [www.bookmarks.dev/tagged/freebsd](https://www.bookmarks.dev/tagged/freebsd) 
+freebsd - [www.bookmarks.dev/tagged/freebsd](https://www.bookmarks.dev/tagged/freebsd)
 ---
 * [The Complete FreeBSD](http://www.lemis.com/grog/Documentation/CFBSD/)
     * tags: [free-programming-books](../tags/free-programming-books.md), [freebsd](../tags/freebsd.md)

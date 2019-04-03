@@ -1,4 +1,4 @@
-keycloak - [www.bookmarks.dev/tagged/keycloak](https://www.bookmarks.dev/tagged/keycloak) 
+keycloak - [www.bookmarks.dev/tagged/keycloak](https://www.bookmarks.dev/tagged/keycloak)
 ---
 * [A simply step by step Keycloak, MySQL and Node.js integration tutorial](https://github.com/v-ladynev/keycloak-nodejs-example)
     * tags: [keycloak](../tags/keycloak.md), [nodejs](../tags/nodejs.md)

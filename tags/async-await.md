@@ -1,4 +1,4 @@
-async-await - [www.bookmarks.dev/tagged/async-await](https://www.bookmarks.dev/tagged/async-await) 
+async-await - [www.bookmarks.dev/tagged/async-await](https://www.bookmarks.dev/tagged/async-await)
 ---
 * [Cleaner code in NodeJs with async-await - Mongoose calls example – CodingpediaOrg](http://www.codingpedia.org/ama/cleaner-code-in-nodejs-with-async-await-mongoose-calls-example)
     * :calendar: published on: 2017-11-05

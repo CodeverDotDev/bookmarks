@@ -1,5 +1,8 @@
-spring - [www.bookmarks.dev/tagged/spring](https://www.bookmarks.dev/tagged/spring) 
+spring - [www.bookmarks.dev/tagged/spring](https://www.bookmarks.dev/tagged/spring)
 ---
+* [Making microservices micro with Istio Service Mesh & Kubernetes by Ray Tsang @ Spring I/O 2018 - YouTube](https://www.youtube.com/watch?v=s31kdh7Q7Hc)
+    * :calendar: published on: 2018-10-03
+    * tags: [microservices](../tags/microservices.md), [istio](../tags/istio.md), [spring](../tags/spring.md), [spring-boot](../tags/spring-boot.md)
 * [Spring 5 WebClient](https://www.baeldung.com/spring-5-webclient)
     * tags: [spring](../tags/spring.md), [spring-webflux](../tags/spring-webflux.md), [reactive-programming](../tags/reactive-programming.md)
     * :octocat: [github url](https://github.com/eugenp/tutorials/tree/master/spring-5-reactive)

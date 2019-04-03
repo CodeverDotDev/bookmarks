@@ -1,5 +1,8 @@
-c - [www.bookmarks.dev/tagged/c](https://www.bookmarks.dev/tagged/c) 
+c - [www.bookmarks.dev/tagged/c](https://www.bookmarks.dev/tagged/c)
 ---
+* [GitHub - krallin/tini](https://github.com/krallin/tini)
+    * tags: [docker](../tags/docker.md), [linux](../tags/linux.md), [c](../tags/c.md)
+    * :octocat: [github url](https://github.com/krallin/tini)
 * [Softwareentwicklung in C](http://www.asc.tuwien.ac.at/~eprog/download/schmaranz.pdf)
     * tags: [free-programming-books](../tags/free-programming-books.md), [c](../tags/c.md), [free-programming-books-de](../tags/free-programming-books-de.md)
 * [C von A bis Z](http://openbook.rheinwerk-verlag.de/c_von_a_bis_z/)

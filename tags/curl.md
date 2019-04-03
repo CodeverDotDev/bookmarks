@@ -1,4 +1,4 @@
-curl - [www.bookmarks.dev/tagged/curl](https://www.bookmarks.dev/tagged/curl) 
+curl - [www.bookmarks.dev/tagged/curl](https://www.bookmarks.dev/tagged/curl)
 ---
 * [How do I make curl ignore the proxy? - Stack Overflow](https://stackoverflow.com/questions/800805/how-do-i-make-curl-ignore-the-proxy)
     * tags: [curl](../tags/curl.md)

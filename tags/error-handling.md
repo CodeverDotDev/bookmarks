@@ -1,4 +1,4 @@
-error-handling - [www.bookmarks.dev/tagged/error-handling](https://www.bookmarks.dev/tagged/error-handling) 
+error-handling - [www.bookmarks.dev/tagged/error-handling](https://www.bookmarks.dev/tagged/error-handling)
 ---
 * [Sentry home page ](https://sentry.io/)
     * tags: [error-handling](../tags/error-handling.md), [monitoring](../tags/monitoring.md)

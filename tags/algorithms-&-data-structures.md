@@ -1,4 +1,4 @@
-algorithms-&-data-structures - [www.bookmarks.dev/tagged/algorithms-&-data-structures](https://www.bookmarks.dev/tagged/algorithms-&-data-structures) 
+algorithms-&-data-structures - [www.bookmarks.dev/tagged/algorithms-&-data-structures](https://www.bookmarks.dev/tagged/algorithms-&-data-structures)
 ---
 * [Think Complexity](http://greenteapress.com/complexity/)
     * tags: [free-programming-books](../tags/free-programming-books.md), [language-agnostic](../tags/language-agnostic.md), [algorithms-&-data-structures](../tags/algorithms-&-data-structures.md)

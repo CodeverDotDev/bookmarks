@@ -1,4 +1,4 @@
-api-design - [www.bookmarks.dev/tagged/api-design](https://www.bookmarks.dev/tagged/api-design) 
+api-design - [www.bookmarks.dev/tagged/api-design](https://www.bookmarks.dev/tagged/api-design)
 ---
 * [The GitHub GraphQL API](https://githubengineering.com/the-github-graphql-api/)
     * tags: [graphql](../tags/graphql.md), [rest](../tags/rest.md), [api-design](../tags/api-design.md)

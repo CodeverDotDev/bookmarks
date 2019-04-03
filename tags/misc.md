@@ -1,4 +1,4 @@
-misc - [www.bookmarks.dev/tagged/misc](https://www.bookmarks.dev/tagged/misc) 
+misc - [www.bookmarks.dev/tagged/misc](https://www.bookmarks.dev/tagged/misc)
 ---
 * [Не мешайте мне работать!](http://motivateme.ru/book/)
     * tags: [free-programming-books](../tags/free-programming-books.md), [free-programming-books-ru](../tags/free-programming-books-ru.md), [misc](../tags/misc.md)

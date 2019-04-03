@@ -1,4 +1,4 @@
-rh-sso - [www.bookmarks.dev/tagged/rh-sso](https://www.bookmarks.dev/tagged/rh-sso) 
+rh-sso - [www.bookmarks.dev/tagged/rh-sso](https://www.bookmarks.dev/tagged/rh-sso)
 ---
 * [Differences Between Azure Active Directory and Red Hat SSO v7.1](https://medium.com/@robert.broeckelmann/differences-between-azure-active-directory-and-red-hat-sso-v7-1-239dd77a5e9a)
     * :calendar: published on: 2017-12-30

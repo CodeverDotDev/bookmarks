@@ -1,4 +1,4 @@
-ffmpeg - [www.bookmarks.dev/tagged/ffmpeg](https://www.bookmarks.dev/tagged/ffmpeg) 
+ffmpeg - [www.bookmarks.dev/tagged/ffmpeg](https://www.bookmarks.dev/tagged/ffmpeg)
 ---
 * [High Quality Gifs with FFMPEG ](https://medium.com/@colten_jackson/doing-the-gif-thing-on-debian-82b9760a8483)
     * :calendar: published on: 2015-10-28

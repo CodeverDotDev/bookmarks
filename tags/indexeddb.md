@@ -1,4 +1,4 @@
-indexeddb - [www.bookmarks.dev/tagged/indexeddb](https://www.bookmarks.dev/tagged/indexeddb) 
+indexeddb - [www.bookmarks.dev/tagged/indexeddb](https://www.bookmarks.dev/tagged/indexeddb)
 ---
 * [Working with quota on mobile browsers](https://www.html5rocks.com/en/tutorials/offline/quota-research/)
     * :calendar: published on: 2014-01-28

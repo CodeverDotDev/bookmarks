@@ -1,4 +1,4 @@
-android - [www.bookmarks.dev/tagged/android](https://www.bookmarks.dev/tagged/android) 
+android - [www.bookmarks.dev/tagged/android](https://www.bookmarks.dev/tagged/android)
 ---
 * [Kotlin Programming Language - Homepage](http://kotlinlang.org/)
     * tags: [kotlin](../tags/kotlin.md), [android](../tags/android.md)

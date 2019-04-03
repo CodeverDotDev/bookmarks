@@ -1,4 +1,4 @@
-debugging - [www.bookmarks.dev/tagged/debugging](https://www.bookmarks.dev/tagged/debugging) 
+debugging - [www.bookmarks.dev/tagged/debugging](https://www.bookmarks.dev/tagged/debugging)
 ---
 * [Debugging JavaScript in Chrome - Help](https://www.jetbrains.com/help/idea/debugging-javascript-in-chrome.html)
     * tags: [intellij](../tags/intellij.md), [javascript](../tags/javascript.md), [debugging](../tags/debugging.md)

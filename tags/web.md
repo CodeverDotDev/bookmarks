@@ -1,4 +1,4 @@
-web - [www.bookmarks.dev/tagged/web](https://www.bookmarks.dev/tagged/web) 
+web - [www.bookmarks.dev/tagged/web](https://www.bookmarks.dev/tagged/web)
 ---
 * [GitHub - audreyr/favicon-cheat-sheet](https://github.com/audreyr/favicon-cheat-sheet)
     * tags: [html](../tags/html.md), [web](../tags/web.md), [favicon](../tags/favicon.md), [cheatsheet](../tags/cheatsheet.md)

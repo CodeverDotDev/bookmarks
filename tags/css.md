@@ -1,5 +1,8 @@
-css - [www.bookmarks.dev/tagged/css](https://www.bookmarks.dev/tagged/css) 
+css - [www.bookmarks.dev/tagged/css](https://www.bookmarks.dev/tagged/css)
 ---
+* [Angular Progressbar](https://murhafsousli.github.io/ngx-progressbar/#/)
+    * tags: [css](../tags/css.md), [user-experience](../tags/user-experience.md)
+    * :octocat: [github url](https://github.com/murhafsousli/ngx-progressbar)
 * [CSS: borders between table columns only - Stack Overflow](https://stackoverflow.com/questions/3313456/css-borders-between-table-columns-only)
     * tags: [css](../tags/css.md)
 * [Home - Scalable and Modular Architecture for CSS](https://smacss.com/)

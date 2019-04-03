@@ -1,4 +1,4 @@
-spock-framework - [www.bookmarks.dev/tagged/spock-framework](https://www.bookmarks.dev/tagged/spock-framework) 
+spock-framework - [www.bookmarks.dev/tagged/spock-framework](https://www.bookmarks.dev/tagged/spock-framework)
 ---
 * [Spock Framework リファレンスドキュメント](http://spock-framework-reference-documentation-ja.readthedocs.org/ja/latest/)
     * tags: [free-programming-books-ja](../tags/free-programming-books-ja.md), [free-programming-books](../tags/free-programming-books.md), [spock-framework](../tags/spock-framework.md)

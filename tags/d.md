@@ -1,4 +1,4 @@
-d - [www.bookmarks.dev/tagged/d](https://www.bookmarks.dev/tagged/d) 
+d - [www.bookmarks.dev/tagged/d](https://www.bookmarks.dev/tagged/d)
 ---
 * [D言語基礎文法最速マスター](https://gist.github.com/repeatedly/2470712)
     * tags: [free-programming-books-ja](../tags/free-programming-books-ja.md), [free-programming-books](../tags/free-programming-books.md), [d](../tags/d.md)

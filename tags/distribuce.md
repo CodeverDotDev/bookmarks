@@ -1,4 +1,4 @@
-distribuce - [www.bookmarks.dev/tagged/distribuce](https://www.bookmarks.dev/tagged/distribuce) 
+distribuce - [www.bookmarks.dev/tagged/distribuce](https://www.bookmarks.dev/tagged/distribuce)
 ---
 * [SUSE Linux: uživatelská příručka](http://www.root.cz/knihy/suse-linux-uzivatelska-prirucka/)
     * tags: [free-programming-books](../tags/free-programming-books.md), [free-programming-books-cs](../tags/free-programming-books-cs.md), [linux](../tags/linux.md), [distribuce](../tags/distribuce.md)

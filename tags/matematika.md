@@ -1,4 +1,4 @@
-matematika - [www.bookmarks.dev/tagged/matematika](https://www.bookmarks.dev/tagged/matematika) 
+matematika - [www.bookmarks.dev/tagged/matematika](https://www.bookmarks.dev/tagged/matematika)
 ---
 * [Think Stats: Pravděpodobnost a statistika pro programátory](http://eknihy.knihovna.cz/kniha/think-stats-pravdepodobnost-a-statistika-pro-programatory)
     * tags: [free-programming-books](../tags/free-programming-books.md), [language-agnostic](../tags/language-agnostic.md), [free-programming-books-cs](../tags/free-programming-books-cs.md), [matematika](../tags/matematika.md)

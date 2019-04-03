@@ -1,4 +1,4 @@
-ionic - [www.bookmarks.dev/tagged/ionic](https://www.bookmarks.dev/tagged/ionic) 
+ionic - [www.bookmarks.dev/tagged/ionic](https://www.bookmarks.dev/tagged/ionic)
 ---
 * [Ionic 2 Crash Course - YouTube [35min]](https://www.youtube.com/watch?v=O2WiI9QrS5s)
     * :calendar: published on: 2017-01-12

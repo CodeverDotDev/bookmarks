@@ -1,4 +1,4 @@
-datamining - [www.bookmarks.dev/tagged/datamining](https://www.bookmarks.dev/tagged/datamining) 
+datamining - [www.bookmarks.dev/tagged/datamining](https://www.bookmarks.dev/tagged/datamining)
 ---
 * [Theory and Applications for Advanced Text Mining](http://www.intechopen.com/books/theory-and-applications-for-advanced-text-mining)
     * tags: [free-programming-books](../tags/free-programming-books.md), [language-agnostic](../tags/language-agnostic.md), [datamining](../tags/datamining.md)

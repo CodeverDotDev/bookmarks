@@ -1,4 +1,4 @@
-intellij - [www.bookmarks.dev/tagged/intellij](https://www.bookmarks.dev/tagged/intellij) 
+intellij - [www.bookmarks.dev/tagged/intellij](https://www.bookmarks.dev/tagged/intellij)
 ---
 * [Tuning IntelliJ IDEA - Help](https://www.jetbrains.com/help/idea/tuning-the-ide.html)
     * tags: [intellij](../tags/intellij.md), [performance](../tags/performance.md)

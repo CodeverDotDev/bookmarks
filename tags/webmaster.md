@@ -1,4 +1,4 @@
-webmaster - [www.bookmarks.dev/tagged/webmaster](https://www.bookmarks.dev/tagged/webmaster) 
+webmaster - [www.bookmarks.dev/tagged/webmaster](https://www.bookmarks.dev/tagged/webmaster)
 ---
 * [
 Official Google Webmaster Central Blog

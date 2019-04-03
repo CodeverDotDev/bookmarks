@@ -1,4 +1,4 @@
-vhdl - [www.bookmarks.dev/tagged/vhdl](https://www.bookmarks.dev/tagged/vhdl) 
+vhdl - [www.bookmarks.dev/tagged/vhdl](https://www.bookmarks.dev/tagged/vhdl)
 ---
 * [VHDL Tutorial: Learn By Example](http://esd.cs.ucr.edu/labs/tutorial/)
     * tags: [free-programming-books](../tags/free-programming-books.md), [vhdl](../tags/vhdl.md)

@@ -1,4 +1,4 @@
-computer-vision - [www.bookmarks.dev/tagged/computer-vision](https://www.bookmarks.dev/tagged/computer-vision) 
+computer-vision - [www.bookmarks.dev/tagged/computer-vision](https://www.bookmarks.dev/tagged/computer-vision)
 ---
 * [Programming Computer Vision with Python](http://programmingcomputervision.com)
     * tags: [computer-vision](../tags/computer-vision.md), [free-programming-books](../tags/free-programming-books.md), [language-agnostic](../tags/language-agnostic.md)

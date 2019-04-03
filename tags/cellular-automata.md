@@ -1,4 +1,4 @@
-cellular-automata - [www.bookmarks.dev/tagged/cellular-automata](https://www.bookmarks.dev/tagged/cellular-automata) 
+cellular-automata - [www.bookmarks.dev/tagged/cellular-automata](https://www.bookmarks.dev/tagged/cellular-automata)
 ---
 * [Cellular Automata Books](http://uncomp.uwe.ac.uk/genaro/Cellular_Automata_Repository/Books.html)
     * tags: [cellular-automata](../tags/cellular-automata.md), [free-programming-books](../tags/free-programming-books.md), [language-agnostic](../tags/language-agnostic.md)

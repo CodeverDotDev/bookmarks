@@ -1,4 +1,4 @@
-chrome - [www.bookmarks.dev/tagged/chrome](https://www.bookmarks.dev/tagged/chrome) 
+chrome - [www.bookmarks.dev/tagged/chrome](https://www.bookmarks.dev/tagged/chrome)
 ---
 * [Debugging Node.js with Chrome DevTools – Paul Irish – Medium](https://medium.com/@paul_irish/debugging-node-js-nightlies-with-chrome-devtools-7c4a1b95ae27)
     * :calendar: published on: 2018-01-01

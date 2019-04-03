@@ -1,4 +1,4 @@
-regular-expressions - [www.bookmarks.dev/tagged/regular-expressions](https://www.bookmarks.dev/tagged/regular-expressions) 
+regular-expressions - [www.bookmarks.dev/tagged/regular-expressions](https://www.bookmarks.dev/tagged/regular-expressions)
 ---
 * [The Bastards Book of Regular Expressions: Finding Patterns in Everyday Text](https://leanpub.com/bastards-regexes)
     * tags: [free-programming-books](../tags/free-programming-books.md), [language-agnostic](../tags/language-agnostic.md), [regular-expressions](../tags/regular-expressions.md)

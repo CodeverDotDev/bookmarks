@@ -1,4 +1,4 @@
-logging - [www.bookmarks.dev/tagged/logging](https://www.bookmarks.dev/tagged/logging) 
+logging - [www.bookmarks.dev/tagged/logging](https://www.bookmarks.dev/tagged/logging)
 ---
 * [Using Winston, a versatile logging library for Node.js](https://thisdavej.com/using-winston-a-versatile-logging-library-for-node-js/)
     * :calendar: published on: 2018-12-06

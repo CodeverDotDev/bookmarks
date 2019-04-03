@@ -1,11 +1,11 @@
-osx - [www.bookmarks.dev/tagged/osx](https://www.bookmarks.dev/tagged/osx) 
+osx - [www.bookmarks.dev/tagged/osx](https://www.bookmarks.dev/tagged/osx)
 ---
 * [Install Bash git completion](https://github.com/bobthecow/git-flow-completion/wiki/Install-Bash-git-completion)
     * tags: [git](../tags/git.md), [bash](../tags/bash.md), [osx](../tags/osx.md), [windows](../tags/windows.md), [linux](../tags/linux.md)
 * [Postgres.app – the easiest way to get started with PostgreSQL on the Mac](https://postgresapp.com/)
     * tags: [postgresql](../tags/postgresql.md), [macOS](../tags/macOS.md), [osx](../tags/osx.md)
     * :octocat: [github url](https://github.com/PostgresApp/PostgresApp)
-* [Awesome-macOS](https://github.com/iCHAIT/awesome-macOS)
+* [Awesome-macOS](https://github.com/iCHAIT/awesome-macOS#readme)
     * tags: [macOS](../tags/macOS.md), [osx](../tags/osx.md), [awesome-list](../tags/awesome-list.md)
     * :octocat: [github url](https://github.com/iCHAIT/awesome-macOS)
 * [iStats by Chris911](http://chris911.github.io/iStats/)

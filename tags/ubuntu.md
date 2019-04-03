@@ -1,4 +1,4 @@
-ubuntu - [www.bookmarks.dev/tagged/ubuntu](https://www.bookmarks.dev/tagged/ubuntu) 
+ubuntu - [www.bookmarks.dev/tagged/ubuntu](https://www.bookmarks.dev/tagged/ubuntu)
 ---
 * [UFW - Community Help Wiki](https://help.ubuntu.com/community/UFW)
     * tags: [ubuntu](../tags/ubuntu.md), [ufw](../tags/ufw.md)

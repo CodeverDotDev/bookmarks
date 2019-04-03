@@ -1,4 +1,4 @@
-virtual-machine - [www.bookmarks.dev/tagged/virtual-machine](https://www.bookmarks.dev/tagged/virtual-machine) 
+virtual-machine - [www.bookmarks.dev/tagged/virtual-machine](https://www.bookmarks.dev/tagged/virtual-machine)
 ---
 * [GraalVM](http://www.graalvm.org/)
     * tags: [java](../tags/java.md), [scala](../tags/scala.md), [kotlin](../tags/kotlin.md), [virtual-machine](../tags/virtual-machine.md)

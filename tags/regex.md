@@ -1,4 +1,4 @@
-regex - [www.bookmarks.dev/tagged/regex](https://www.bookmarks.dev/tagged/regex) 
+regex - [www.bookmarks.dev/tagged/regex](https://www.bookmarks.dev/tagged/regex)
 ---
 * [Regexper](https://regexper.com/)
     * tags: [regex](../tags/regex.md), [javascript](../tags/javascript.md), [dev-tools](../tags/dev-tools.md)

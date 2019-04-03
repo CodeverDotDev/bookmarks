@@ -1,4 +1,4 @@
-c++ - [www.bookmarks.dev/tagged/c++](https://www.bookmarks.dev/tagged/c++) 
+c++ - [www.bookmarks.dev/tagged/c++](https://www.bookmarks.dev/tagged/c++)
 ---
 * [Fejlett programozási technikák](http://www.ms.sapientia.ro/~manyi/teaching/c++/cpp.pdf)
     * tags: [free-programming-books](../tags/free-programming-books.md), [c++](../tags/c++.md), [free-programming-books-hu](../tags/free-programming-books-hu.md)

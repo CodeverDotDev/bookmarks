@@ -1,4 +1,4 @@
-database - [www.bookmarks.dev/tagged/database](https://www.bookmarks.dev/tagged/database) 
+database - [www.bookmarks.dev/tagged/database](https://www.bookmarks.dev/tagged/database)
 ---
 * [Two-phase commit protocol - Wikipedia](https://en.wikipedia.org/wiki/Two-phase_commit_protocol)
     * tags: [transactions](../tags/transactions.md), [database](../tags/database.md), [database-design](../tags/database-design.md)

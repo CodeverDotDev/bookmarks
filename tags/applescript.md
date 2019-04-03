@@ -1,4 +1,4 @@
-applescript - [www.bookmarks.dev/tagged/applescript](https://www.bookmarks.dev/tagged/applescript) 
+applescript - [www.bookmarks.dev/tagged/applescript](https://www.bookmarks.dev/tagged/applescript)
 ---
 * [Bash でやってることを AppleScript でやろうとするとこうなる](http://qiita.com/mattintosh4/items/353c57ba75eda20af3c4)
     * tags: [free-programming-books-ja](../tags/free-programming-books-ja.md), [free-programming-books](../tags/free-programming-books.md), [applescript](../tags/applescript.md)

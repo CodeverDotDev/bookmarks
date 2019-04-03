@@ -1,4 +1,4 @@
-free-programming-books-de - [www.bookmarks.dev/tagged/free-programming-books-de](https://www.bookmarks.dev/tagged/free-programming-books-de) 
+free-programming-books-de - [www.bookmarks.dev/tagged/free-programming-books-de](https://www.bookmarks.dev/tagged/free-programming-books-de)
 ---
 * [Visual Basic 2008](http://openbook.rheinwerk-verlag.de/visualbasic_2008/)
     * tags: [free-programming-books](../tags/free-programming-books.md), [visual-basic](../tags/visual-basic.md), [free-programming-books-de](../tags/free-programming-books-de.md)

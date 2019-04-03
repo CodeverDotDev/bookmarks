@@ -1,4 +1,4 @@
-distributed-tracing - [www.bookmarks.dev/tagged/distributed-tracing](https://www.bookmarks.dev/tagged/distributed-tracing) 
+distributed-tracing - [www.bookmarks.dev/tagged/distributed-tracing](https://www.bookmarks.dev/tagged/distributed-tracing)
 ---
 * [Dapper, a Large-Scale Distributed Systems Tracing Infrastructure](https://ai.google/research/pubs/pub36356)
     * tags: [distributed-tracing](../tags/distributed-tracing.md)

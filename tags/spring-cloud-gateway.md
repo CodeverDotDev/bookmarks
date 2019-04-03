@@ -1,4 +1,4 @@
-spring-cloud-gateway - [www.bookmarks.dev/tagged/spring-cloud-gateway](https://www.bookmarks.dev/tagged/spring-cloud-gateway) 
+spring-cloud-gateway - [www.bookmarks.dev/tagged/spring-cloud-gateway](https://www.bookmarks.dev/tagged/spring-cloud-gateway)
 ---
 * [Reactive Spring - Josh Long, Mark Heckler - YouTube](https://www.youtube.com/watch?v=l7VBdWhtl7A)
     * :calendar: published on: 2017-12-14

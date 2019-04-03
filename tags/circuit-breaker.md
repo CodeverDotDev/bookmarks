@@ -1,5 +1,8 @@
-circuit-breaker - [www.bookmarks.dev/tagged/circuit-breaker](https://www.bookmarks.dev/tagged/circuit-breaker) 
+circuit-breaker - [www.bookmarks.dev/tagged/circuit-breaker](https://www.bookmarks.dev/tagged/circuit-breaker)
 ---
+* [Istio home page](https://istio.io/)
+    * tags: [istio](../tags/istio.md), [microservices](../tags/microservices.md), [api-management](../tags/api-management.md), [circuit-breaker](../tags/circuit-breaker.md), [proxy](../tags/proxy.md), [kubernetes](../tags/kubernetes.md)
+    * :octocat: [github url](https://github.com/istio/istio)
 * [A Guide to Spring Cloud Netflix - Hystrix](https://www.baeldung.com/spring-cloud-netflix-hystrix)
     * :calendar: published on: 2018-11-05
     * tags: [spring](../tags/spring.md), [spring-boot](../tags/spring-boot.md), [spring-cloud](../tags/spring-cloud.md), [hystrix](../tags/hystrix.md), [circuit-breaker](../tags/circuit-breaker.md)

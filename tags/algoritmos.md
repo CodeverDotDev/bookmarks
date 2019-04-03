@@ -1,4 +1,4 @@
-algoritmos - [www.bookmarks.dev/tagged/algoritmos](https://www.bookmarks.dev/tagged/algoritmos) 
+algoritmos - [www.bookmarks.dev/tagged/algoritmos](https://www.bookmarks.dev/tagged/algoritmos)
 ---
 * [Teoría sintáctico-gramatical de objetos](http://www.bubok.es/libros/219288/Teoria-sintacticogramatical-de-objetos)
     * tags: [free-programming-books](../tags/free-programming-books.md), [algoritmos](../tags/algoritmos.md), [agnósticos](../tags/agnósticos.md), [free-programming-books-es](../tags/free-programming-books-es.md)

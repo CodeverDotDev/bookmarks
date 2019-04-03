@@ -1,4 +1,4 @@
-odata - [www.bookmarks.dev/tagged/odata](https://www.bookmarks.dev/tagged/odata) 
+odata - [www.bookmarks.dev/tagged/odata](https://www.bookmarks.dev/tagged/odata)
 ---
 * [Apache Olingo Library    ](http://olingo.apache.org/)
     * tags: [odata](../tags/odata.md), [java](../tags/java.md)

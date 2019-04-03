@@ -1,5 +1,8 @@
-asynchronous - [www.bookmarks.dev/tagged/asynchronous](https://www.bookmarks.dev/tagged/asynchronous) 
+asynchronous - [www.bookmarks.dev/tagged/asynchronous](https://www.bookmarks.dev/tagged/asynchronous)
 ---
+* [Java 8: Definitive guide to CompletableFuture](https://www.nurkiewicz.com/2013/05/java-8-definitive-guide-to.html)
+    * :calendar: published on: 2013-05-09
+    * tags: [java](../tags/java.md), [asynchronous](../tags/asynchronous.md), [async](../tags/async.md)
 * [java.util.concurrent - Java Concurrency Utilities](http://tutorials.jenkov.com/java-util-concurrent/index.html)
     * tags: [java](../tags/java.md), [concurrency](../tags/concurrency.md), [asynchronous](../tags/asynchronous.md)
 * [Asynchronous REST Services with JAX-RS and CompletableFuture · allegro.tech](https://allegro.tech/2014/10/async-rest.html)

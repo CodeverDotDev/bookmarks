@@ -1,5 +1,11 @@
-microservices - [www.bookmarks.dev/tagged/microservices](https://www.bookmarks.dev/tagged/microservices) 
+microservices - [www.bookmarks.dev/tagged/microservices](https://www.bookmarks.dev/tagged/microservices)
 ---
+* [Making microservices micro with Istio Service Mesh & Kubernetes by Ray Tsang @ Spring I/O 2018 - YouTube](https://www.youtube.com/watch?v=s31kdh7Q7Hc)
+    * :calendar: published on: 2018-10-03
+    * tags: [microservices](../tags/microservices.md), [istio](../tags/istio.md), [spring](../tags/spring.md), [spring-boot](../tags/spring-boot.md)
+* [Istio home page](https://istio.io/)
+    * tags: [istio](../tags/istio.md), [microservices](../tags/microservices.md), [api-management](../tags/api-management.md), [circuit-breaker](../tags/circuit-breaker.md), [proxy](../tags/proxy.md), [kubernetes](../tags/kubernetes.md)
+    * :octocat: [github url](https://github.com/istio/istio)
 * [API Infrastructure at Knewton: What’s in an Edge Service?](https://medium.com/knerd/api-infrastructure-at-knewton-whats-in-an-edge-service-51a3777aeb41)
     * :calendar: published on: 2016-05-09
     * tags: [api](../tags/api.md), [microservices](../tags/microservices.md), [nginx](../tags/nginx.md), [zuul](../tags/zuul.md)
@@ -13,7 +19,7 @@ microservices - [www.bookmarks.dev/tagged/microservices](https://www.bookmarks.d
     * :calendar: published on: 2017-12-29
     * tags: [nodejs](../tags/nodejs.md), [microservices](../tags/microservices.md), [docker](../tags/docker.md), [docker-compose](../tags/docker-compose.md), [nginx](../tags/nginx.md)
     * :octocat: [github url](https://github.com/fChristenson/microservices-example)
-* [awesome-microservices](https://github.com/mfornos/awesome-microservices)
+* [awesome-microservices](https://github.com/mfornos/awesome-microservices#readme)
     * tags: [awesome-list](../tags/awesome-list.md), [microservices](../tags/microservices.md), [awesome](../tags/awesome.md)
     * :octocat: [github url](https://github.com/mfornos/awesome-microservices)
 * [The Nuts and Bolts of API Security: Protecting Your Data at All Times - YouTube](https://www.youtube.com/watch?v=tj03NRM6SP8)

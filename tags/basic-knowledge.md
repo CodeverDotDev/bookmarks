@@ -1,4 +1,4 @@
-basic-knowledge - [www.bookmarks.dev/tagged/basic-knowledge](https://www.bookmarks.dev/tagged/basic-knowledge) 
+basic-knowledge - [www.bookmarks.dev/tagged/basic-knowledge](https://www.bookmarks.dev/tagged/basic-knowledge)
 ---
 * [First Class](http://wiki.c2.com/?FirstClass)
     * tags: [basic-knowledge](../tags/basic-knowledge.md)

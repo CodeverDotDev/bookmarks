@@ -1,4 +1,4 @@
-partial-evaluation - [www.bookmarks.dev/tagged/partial-evaluation](https://www.bookmarks.dev/tagged/partial-evaluation) 
+partial-evaluation - [www.bookmarks.dev/tagged/partial-evaluation](https://www.bookmarks.dev/tagged/partial-evaluation)
 ---
 * [Partial Evaluation and Automatic Program Generation](http://www.itu.dk/people/sestoft/pebook/)
     * tags: [free-programming-books](../tags/free-programming-books.md), [language-agnostic](../tags/language-agnostic.md), [partial-evaluation](../tags/partial-evaluation.md)

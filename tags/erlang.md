@@ -1,4 +1,4 @@
-erlang - [www.bookmarks.dev/tagged/erlang](https://www.bookmarks.dev/tagged/erlang) 
+erlang - [www.bookmarks.dev/tagged/erlang](https://www.bookmarks.dev/tagged/erlang)
 ---
 * [Программирование на Эрланге](https://github.com/dyp2000/Russian-Armstrong-Erlang)
     * tags: [free-programming-books](../tags/free-programming-books.md), [free-programming-books-ru](../tags/free-programming-books-ru.md), [erlang](../tags/erlang.md)

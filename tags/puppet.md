@@ -1,4 +1,4 @@
-puppet - [www.bookmarks.dev/tagged/puppet](https://www.bookmarks.dev/tagged/puppet) 
+puppet - [www.bookmarks.dev/tagged/puppet](https://www.bookmarks.dev/tagged/puppet)
 ---
 * [Puppet Cookbook](https://www.puppetcookbook.com/)
     * tags: [puppet](../tags/puppet.md), [free-programming-books](../tags/free-programming-books.md)

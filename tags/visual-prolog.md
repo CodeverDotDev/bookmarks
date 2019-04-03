@@ -1,4 +1,4 @@
-visual-prolog - [www.bookmarks.dev/tagged/visual-prolog](https://www.bookmarks.dev/tagged/visual-prolog) 
+visual-prolog - [www.bookmarks.dev/tagged/visual-prolog](https://www.bookmarks.dev/tagged/visual-prolog)
 ---
 * [Visual Prolog for Tyros](http://wiki.visual-prolog.com/index.php?title=Visual_Prolog_for_Tyros)
     * tags: [free-programming-books](../tags/free-programming-books.md), [visual-prolog](../tags/visual-prolog.md)

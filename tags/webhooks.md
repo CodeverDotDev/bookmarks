@@ -1,4 +1,4 @@
-webhooks - [www.bookmarks.dev/tagged/webhooks](https://www.bookmarks.dev/tagged/webhooks) 
+webhooks - [www.bookmarks.dev/tagged/webhooks](https://www.bookmarks.dev/tagged/webhooks)
 ---
 * [What's a Webhook?](https://sendgrid.com/blog/whats-webhook/)
     * :calendar: published on: 2014-06-24

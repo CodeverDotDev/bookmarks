@@ -1,4 +1,4 @@
-free-programming-books-pt_br - [www.bookmarks.dev/tagged/free-programming-books-pt_br](https://www.bookmarks.dev/tagged/free-programming-books-pt_br) 
+free-programming-books-pt_br - [www.bookmarks.dev/tagged/free-programming-books-pt_br](https://www.bookmarks.dev/tagged/free-programming-books-pt_br)
 ---
 * [Vim para Noobs](http://woliveiras.com.br/vimparanoobs/)
     * tags: [free-programming-books](../tags/free-programming-books.md), [vim](../tags/vim.md), [free-programming-books-pt_BR](../tags/free-programming-books-pt_BR.md)

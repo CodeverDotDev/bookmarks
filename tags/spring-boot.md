@@ -1,5 +1,8 @@
-spring-boot - [www.bookmarks.dev/tagged/spring-boot](https://www.bookmarks.dev/tagged/spring-boot) 
+spring-boot - [www.bookmarks.dev/tagged/spring-boot](https://www.bookmarks.dev/tagged/spring-boot)
 ---
+* [Making microservices micro with Istio Service Mesh & Kubernetes by Ray Tsang @ Spring I/O 2018 - YouTube](https://www.youtube.com/watch?v=s31kdh7Q7Hc)
+    * :calendar: published on: 2018-10-03
+    * tags: [microservices](../tags/microservices.md), [istio](../tags/istio.md), [spring](../tags/spring.md), [spring-boot](../tags/spring-boot.md)
 * [Identity, Claims, & Tokens – An OpenID Connect Primer, Part 1 of 3](https://developer.okta.com/blog/2017/07/25/oidc-primer-part-1)
     * :calendar: published on: 2017-07-25
     * tags: [openid-connect](../tags/openid-connect.md), [oidc](../tags/oidc.md), [spring-boot](../tags/spring-boot.md)

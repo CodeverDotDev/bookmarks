@@ -1,6 +1,6 @@
-cloud - [www.bookmarks.dev/tagged/cloud](https://www.bookmarks.dev/tagged/cloud) 
+cloud - [www.bookmarks.dev/tagged/cloud](https://www.bookmarks.dev/tagged/cloud)
 ---
-* [GitHub - anaibol/awesome-serverless](https://github.com/anaibol/awesome-serverless)
+* [GitHub - anaibol/awesome-serverless](https://github.com/anaibol/awesome-serverless#readme)
     * tags: [serverless](../tags/serverless.md), [cloud](../tags/cloud.md), [awesome](../tags/awesome.md), [awesome-list](../tags/awesome-list.md)
     * :octocat: [github url](https://github.com/anaibol/awesome-serverless)
 * [Node.js Everywhere with Environment Variables! – Node.js Collection – Medium](https://medium.com/the-node-js-collection/making-your-node-js-work-everywhere-with-environment-variables-2da8cdf6e786)

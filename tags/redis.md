@@ -1,4 +1,4 @@
-redis - [www.bookmarks.dev/tagged/redis](https://www.bookmarks.dev/tagged/redis) 
+redis - [www.bookmarks.dev/tagged/redis](https://www.bookmarks.dev/tagged/redis)
 ---
 * [Reactive Spring - Josh Long, Mark Heckler - YouTube](https://www.youtube.com/watch?v=l7VBdWhtl7A)
     * :calendar: published on: 2017-12-14

@@ -1,4 +1,4 @@
-metalistas - [www.bookmarks.dev/tagged/metalistas](https://www.bookmarks.dev/tagged/metalistas) 
+metalistas - [www.bookmarks.dev/tagged/metalistas](https://www.bookmarks.dev/tagged/metalistas)
 ---
 * [OPENLIBRA La Biblioteca Libre online que estabas esperando](http://www.etnassoft.com/biblioteca/)
     * tags: [free-programming-books](../tags/free-programming-books.md), [metalistas](../tags/metalistas.md), [free-programming-books-es](../tags/free-programming-books-es.md)

@@ -1,5 +1,11 @@
-devops - [www.bookmarks.dev/tagged/devops](https://www.bookmarks.dev/tagged/devops) 
+devops - [www.bookmarks.dev/tagged/devops](https://www.bookmarks.dev/tagged/devops)
 ---
+* [Kubernetes + Compose = Kompose](http://kompose.io/)
+    * tags: [docker](../tags/docker.md), [docker-compose](../tags/docker-compose.md), [kubernetes](../tags/kubernetes.md), [devops](../tags/devops.md)
+    * :octocat: [github url](https://github.com/kubernetes/kompose)
+* [GitHub - docker/docker-bench-security](https://github.com/docker/docker-bench-security)
+    * tags: [docker](../tags/docker.md), [security](../tags/security.md), [devops](../tags/devops.md)
+    * :octocat: [github url](https://github.com/docker/docker-bench-security)
 * [AWS re:Invent 2015: DevOps at Amazon: A Look at Our Tools and Processes (DVO202) - YouTube](https://www.youtube.com/watch?v=esEFaY0FDKc)
     * :calendar: published on: 2015-10-15
     * tags: [aws](../tags/aws.md), [devops](../tags/devops.md)

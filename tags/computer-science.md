@@ -1,6 +1,6 @@
-computer-science - [www.bookmarks.dev/tagged/computer-science](https://www.bookmarks.dev/tagged/computer-science) 
+computer-science - [www.bookmarks.dev/tagged/computer-science](https://www.bookmarks.dev/tagged/computer-science)
 ---
-* [awesome-courses](https://github.com/prakhar1989/awesome-courses)
+* [awesome-courses](https://github.com/prakhar1989/awesome-courses#readme)
     * tags: [course](../tags/course.md), [awesome-list](../tags/awesome-list.md), [computer-science](../tags/computer-science.md)
 * [CAP theorem - Wikipedia](https://en.wikipedia.org/wiki/CAP_theorem)
     * tags: [computer-science](../tags/computer-science.md), [distributed-computing](../tags/distributed-computing.md)

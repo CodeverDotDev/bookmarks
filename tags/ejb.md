@@ -1,4 +1,4 @@
-ejb - [www.bookmarks.dev/tagged/ejb](https://www.bookmarks.dev/tagged/ejb) 
+ejb - [www.bookmarks.dev/tagged/ejb](https://www.bookmarks.dev/tagged/ejb)
 ---
 * [@Asynchronous does not work from inside the same EJB](https://www.whitebyte.info/programming/java/asynchronous-does-not-work-from-inside-the-same-ejb)
     * tags: [javaee](../tags/javaee.md), [ejb](../tags/ejb.md), [asynchronous](../tags/asynchronous.md), [async](../tags/async.md)

@@ -1,4 +1,4 @@
-optimization - [www.bookmarks.dev/tagged/optimization](https://www.bookmarks.dev/tagged/optimization) 
+optimization - [www.bookmarks.dev/tagged/optimization](https://www.bookmarks.dev/tagged/optimization)
 ---
 * [5 Tips to Increase Node.js Application Performance](https://www.nginx.com/blog/5-performance-tips-for-node-js-applications/)
     * :calendar: published on: 2015-11-16

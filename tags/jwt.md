@@ -1,4 +1,4 @@
-jwt - [www.bookmarks.dev/tagged/jwt](https://www.bookmarks.dev/tagged/jwt) 
+jwt - [www.bookmarks.dev/tagged/jwt](https://www.bookmarks.dev/tagged/jwt)
 ---
 * [Understanding ID Token](https://medium.com/@darutk/understanding-id-token-5f83f50fa02e)
     * :calendar: published on: 2017-11-06

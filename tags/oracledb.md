@@ -1,4 +1,4 @@
-oracledb - [www.bookmarks.dev/tagged/oracledb](https://www.bookmarks.dev/tagged/oracledb) 
+oracledb - [www.bookmarks.dev/tagged/oracledb](https://www.bookmarks.dev/tagged/oracledb)
 ---
 * [node-oracledb/examples at master · oracle/node-oracledb · GitHub](https://github.com/oracle/node-oracledb/tree/master/examples)
     * tags: [nodejs](../tags/nodejs.md), [oracledb](../tags/oracledb.md), [oracle](../tags/oracle.md)

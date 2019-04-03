@@ -1,4 +1,4 @@
-jaxrs - [www.bookmarks.dev/tagged/jaxrs](https://www.bookmarks.dev/tagged/jaxrs) 
+jaxrs - [www.bookmarks.dev/tagged/jaxrs](https://www.bookmarks.dev/tagged/jaxrs)
 ---
 * [REST with Java (JAX-RS) using Jersey - Tutorial](http://www.vogella.com/tutorials/REST/article.html)
     * :calendar: published on: 2017-11-27

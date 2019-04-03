@@ -1,5 +1,8 @@
-spring-cloud - [www.bookmarks.dev/tagged/spring-cloud](https://www.bookmarks.dev/tagged/spring-cloud) 
+spring-cloud - [www.bookmarks.dev/tagged/spring-cloud](https://www.bookmarks.dev/tagged/spring-cloud)
 ---
+* [A Tale of Two Frameworks: Spring Cloud and Istio - YouTube](https://www.youtube.com/watch?v=AMJQO9zs2eo)
+    * :calendar: published on: 2018-10-03
+    * tags: [spring-cloud](../tags/spring-cloud.md), [istio](../tags/istio.md)
 * [Spring Cloud Homepage](http://spring.io/projects/spring-cloud)
     * tags: [spring](../tags/spring.md), [spring-cloud](../tags/spring-cloud.md)
     * :octocat: [github url](https://github.com/spring-projects/spring-cloud)

@@ -1,4 +1,4 @@
-basic - [www.bookmarks.dev/tagged/basic](https://www.bookmarks.dev/tagged/basic) 
+basic - [www.bookmarks.dev/tagged/basic](https://www.bookmarks.dev/tagged/basic)
 ---
 * [Visual Basic Essentials](http://www.techotopia.com/index.php/Visual_Basic_Essentials)
     * tags: [free-programming-books](../tags/free-programming-books.md), [basic](../tags/basic.md)

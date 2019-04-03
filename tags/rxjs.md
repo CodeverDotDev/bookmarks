@@ -1,4 +1,4 @@
-rxjs - [www.bookmarks.dev/tagged/rxjs](https://www.bookmarks.dev/tagged/rxjs) 
+rxjs - [www.bookmarks.dev/tagged/rxjs](https://www.bookmarks.dev/tagged/rxjs)
 ---
 * [rx-book RxJS - Javascript library for functional reactive programming.](http://xgrommx.github.io/rx-book)
     * tags: [rxjs](../tags/rxjs.md), [free-programming-books](../tags/free-programming-books.md)

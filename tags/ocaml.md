@@ -1,4 +1,4 @@
-ocaml - [www.bookmarks.dev/tagged/ocaml](https://www.bookmarks.dev/tagged/ocaml) 
+ocaml - [www.bookmarks.dev/tagged/ocaml](https://www.bookmarks.dev/tagged/ocaml)
 ---
 * [お気楽 OCaml プログラミング入門](http://www.geocities.jp/m_hiroi/func/ocaml.html)
     * tags: [free-programming-books-ja](../tags/free-programming-books-ja.md), [free-programming-books](../tags/free-programming-books.md), [ocaml](../tags/ocaml.md)

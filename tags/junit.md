@@ -1,4 +1,4 @@
-junit - [www.bookmarks.dev/tagged/junit](https://www.bookmarks.dev/tagged/junit) 
+junit - [www.bookmarks.dev/tagged/junit](https://www.bookmarks.dev/tagged/junit)
 ---
 * [JUnit 5 Articles and source code from Baeldung](https://github.com/eugenp/tutorials/tree/master/testing-modules/junit-5)
     * tags: [junit](../tags/junit.md), [java](../tags/java.md)

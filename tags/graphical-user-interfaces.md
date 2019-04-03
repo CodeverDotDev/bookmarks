@@ -1,4 +1,4 @@
-graphical-user-interfaces - [www.bookmarks.dev/tagged/graphical-user-interfaces](https://www.bookmarks.dev/tagged/graphical-user-interfaces) 
+graphical-user-interfaces - [www.bookmarks.dev/tagged/graphical-user-interfaces](https://www.bookmarks.dev/tagged/graphical-user-interfaces)
 ---
 * [Search User Interfaces](http://searchuserinterfaces.com/book/)
     * tags: [free-programming-books](../tags/free-programming-books.md), [graphical-user-interfaces](../tags/graphical-user-interfaces.md)

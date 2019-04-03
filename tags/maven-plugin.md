@@ -1,5 +1,11 @@
-maven-plugin - [www.bookmarks.dev/tagged/maven-plugin](https://www.bookmarks.dev/tagged/maven-plugin) 
+maven-plugin - [www.bookmarks.dev/tagged/maven-plugin](https://www.bookmarks.dev/tagged/maven-plugin)
 ---
+* [jib home page](https://github.com/GoogleContainerTools/jib)
+    * tags: [docker](../tags/docker.md), [maven-plugin](../tags/maven-plugin.md), [java](../tags/java.md), [gradle](../tags/gradle.md)
+    * :octocat: [github url](https://github.com/GoogleContainerTools/jib)
+* [kubernetes-for-java-developers repo from Aron Gupta](https://github.com/aws-samples/kubernetes-for-java-developers)
+    * tags: [java](../tags/java.md), [docker](../tags/docker.md), [kubernetes](../tags/kubernetes.md), [kubernetes-helm](../tags/kubernetes-helm.md), [maven-plugin](../tags/maven-plugin.md), [istio](../tags/istio.md), [aws](../tags/aws.md)
+    * :octocat: [github url](https://github.com/aws-samples/kubernetes-for-java-developers)
 * [Spring Boot Maven Plugin – Spring Boot](https://docs.spring.io/spring-boot/docs/current/maven-plugin/)
     * tags: [spring-boot](../tags/spring-boot.md), [maven-plugin](../tags/maven-plugin.md)
 * [GitHub - spotify/dockerfile-maven: A set of Maven tools for dealing with Dockerfiles](https://github.com/spotify/dockerfile-maven)

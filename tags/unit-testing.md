@@ -1,4 +1,4 @@
-unit-testing - [www.bookmarks.dev/tagged/unit-testing](https://www.bookmarks.dev/tagged/unit-testing) 
+unit-testing - [www.bookmarks.dev/tagged/unit-testing](https://www.bookmarks.dev/tagged/unit-testing)
 ---
 * [Calen Legaspi: Separating Integration Tests from Unit Tests Using Maven Failsafe & JUnit @Category](http://calenlegaspi.blogspot.ch/2015/01/separating-integration-tests-from-unit.html)
     * :calendar: published on: 2015-01-23

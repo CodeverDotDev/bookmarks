@@ -1,6 +1,6 @@
-course - [www.bookmarks.dev/tagged/course](https://www.bookmarks.dev/tagged/course) 
+course - [www.bookmarks.dev/tagged/course](https://www.bookmarks.dev/tagged/course)
 ---
-* [awesome-courses](https://github.com/prakhar1989/awesome-courses)
+* [awesome-courses](https://github.com/prakhar1989/awesome-courses#readme)
     * tags: [course](../tags/course.md), [awesome-list](../tags/awesome-list.md), [computer-science](../tags/computer-science.md)
 * [Artificial Intelligence - MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/)
     * :calendar: published on: 2010-10-01

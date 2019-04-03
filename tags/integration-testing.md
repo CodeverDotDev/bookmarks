@@ -1,4 +1,4 @@
-integration-testing - [www.bookmarks.dev/tagged/integration-testing](https://www.bookmarks.dev/tagged/integration-testing) 
+integration-testing - [www.bookmarks.dev/tagged/integration-testing](https://www.bookmarks.dev/tagged/integration-testing)
 ---
 * [Arquillian  Home Page](http://arquillian.org/)
     * tags: [arquillian](../tags/arquillian.md), [testing](../tags/testing.md), [integration-testing](../tags/integration-testing.md)

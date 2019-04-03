@@ -1,5 +1,8 @@
-async - [www.bookmarks.dev/tagged/async](https://www.bookmarks.dev/tagged/async) 
+async - [www.bookmarks.dev/tagged/async](https://www.bookmarks.dev/tagged/async)
 ---
+* [Java 8: Definitive guide to CompletableFuture](https://www.nurkiewicz.com/2013/05/java-8-definitive-guide-to.html)
+    * :calendar: published on: 2013-05-09
+    * tags: [java](../tags/java.md), [asynchronous](../tags/asynchronous.md), [async](../tags/async.md)
 * [@Asynchronous does not work from inside the same EJB](https://www.whitebyte.info/programming/java/asynchronous-does-not-work-from-inside-the-same-ejb)
     * tags: [javaee](../tags/javaee.md), [ejb](../tags/ejb.md), [asynchronous](../tags/asynchronous.md), [async](../tags/async.md)
 * [Parallel calls with async-await in javascript - I promise you all performance and simplicity](http://www.codingpedia.org/ama/parallel-calls-with-async-await-in-javascript-i-promise-you-all-performance-and-simplicity)

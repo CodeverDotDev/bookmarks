@@ -1,4 +1,4 @@
-mongoose - [www.bookmarks.dev/tagged/mongoose](https://www.bookmarks.dev/tagged/mongoose) 
+mongoose - [www.bookmarks.dev/tagged/mongoose](https://www.bookmarks.dev/tagged/mongoose)
 ---
 * [Mongoose - SubDocuments](https://mongoosejs.com/docs/subdocs.html)
     * tags: [mongoose](../tags/mongoose.md), [mongodb](../tags/mongodb.md)

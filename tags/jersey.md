@@ -1,4 +1,4 @@
-jersey - [www.bookmarks.dev/tagged/jersey](https://www.bookmarks.dev/tagged/jersey) 
+jersey - [www.bookmarks.dev/tagged/jersey](https://www.bookmarks.dev/tagged/jersey)
 ---
 * [How To Use Jersey Client Efficiently](https://blogs.oracle.com/japod/how-to-use-jersey-client-efficiently)
     * :calendar: published on: 2015-03-30

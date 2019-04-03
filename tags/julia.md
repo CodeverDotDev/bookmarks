@@ -1,4 +1,4 @@
-julia - [www.bookmarks.dev/tagged/julia](https://www.bookmarks.dev/tagged/julia) 
+julia - [www.bookmarks.dev/tagged/julia](https://www.bookmarks.dev/tagged/julia)
 ---
 * [実例で学ぶ Julia-0.4.1](https://www.dropbox.com/s/lk7y8lifjcr1vf2/JuliaBook-20151201.pdf)
     * tags: [free-programming-books-ja](../tags/free-programming-books-ja.md), [free-programming-books](../tags/free-programming-books.md), [julia](../tags/julia.md)

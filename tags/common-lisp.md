@@ -1,4 +1,4 @@
-common-lisp - [www.bookmarks.dev/tagged/common-lisp](https://www.bookmarks.dev/tagged/common-lisp) 
+common-lisp - [www.bookmarks.dev/tagged/common-lisp](https://www.bookmarks.dev/tagged/common-lisp)
 ---
 * [Kurs programowania w języku Common Lisp](http://jcubic.pl/lisp_tutorial.php)
     * tags: [free-programming-books](../tags/free-programming-books.md), [free-programming-books-pl](../tags/free-programming-books-pl.md), [common-lisp](../tags/common-lisp.md)

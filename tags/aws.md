@@ -1,5 +1,8 @@
-aws - [www.bookmarks.dev/tagged/aws](https://www.bookmarks.dev/tagged/aws) 
+aws - [www.bookmarks.dev/tagged/aws](https://www.bookmarks.dev/tagged/aws)
 ---
+* [kubernetes-for-java-developers repo from Aron Gupta](https://github.com/aws-samples/kubernetes-for-java-developers)
+    * tags: [java](../tags/java.md), [docker](../tags/docker.md), [kubernetes](../tags/kubernetes.md), [kubernetes-helm](../tags/kubernetes-helm.md), [maven-plugin](../tags/maven-plugin.md), [istio](../tags/istio.md), [aws](../tags/aws.md)
+    * :octocat: [github url](https://github.com/aws-samples/kubernetes-for-java-developers)
 * [AWS re:Invent 2015: DevOps at Amazon: A Look at Our Tools and Processes (DVO202) - YouTube](https://www.youtube.com/watch?v=esEFaY0FDKc)
     * :calendar: published on: 2015-10-15
     * tags: [aws](../tags/aws.md), [devops](../tags/devops.md)

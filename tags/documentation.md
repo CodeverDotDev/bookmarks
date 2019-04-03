@@ -1,4 +1,4 @@
-documentation - [www.bookmarks.dev/tagged/documentation](https://www.bookmarks.dev/tagged/documentation) 
+documentation - [www.bookmarks.dev/tagged/documentation](https://www.bookmarks.dev/tagged/documentation)
 ---
 * [mermaid docs](https://mermaidjs.github.io/)
     * tags: [documentation](../tags/documentation.md), [javascript](../tags/javascript.md), [diagram](../tags/diagram.md)

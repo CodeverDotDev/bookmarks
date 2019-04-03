@@ -1,4 +1,4 @@
-oauth2 - [www.bookmarks.dev/tagged/oauth2](https://www.bookmarks.dev/tagged/oauth2) 
+oauth2 - [www.bookmarks.dev/tagged/oauth2](https://www.bookmarks.dev/tagged/oauth2)
 ---
 * [Understanding ID Token](https://medium.com/@darutk/understanding-id-token-5f83f50fa02e)
     * :calendar: published on: 2017-11-06

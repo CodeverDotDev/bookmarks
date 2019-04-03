@@ -1,4 +1,4 @@
-web-development - [www.bookmarks.dev/tagged/web-development](https://www.bookmarks.dev/tagged/web-development) 
+web-development - [www.bookmarks.dev/tagged/web-development](https://www.bookmarks.dev/tagged/web-development)
 ---
 * [Rockstar Developer](http://eimaung.com/rockstar-developer)
     * tags: [free-programming-books](../tags/free-programming-books.md), [free-programming-books-mm](../tags/free-programming-books-mm.md), [web-development](../tags/web-development.md)

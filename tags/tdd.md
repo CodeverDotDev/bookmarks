@@ -1,4 +1,4 @@
-tdd - [www.bookmarks.dev/tagged/tdd](https://www.bookmarks.dev/tagged/tdd) 
+tdd - [www.bookmarks.dev/tagged/tdd](https://www.bookmarks.dev/tagged/tdd)
 ---
 * [How to TDD a List Implementation in Java](https://www.baeldung.com/java-test-driven-list)
     * tags: [tdd](../tags/tdd.md), [java](../tags/java.md)

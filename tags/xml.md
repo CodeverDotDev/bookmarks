@@ -1,4 +1,4 @@
-xml - [www.bookmarks.dev/tagged/xml](https://www.bookmarks.dev/tagged/xml) 
+xml - [www.bookmarks.dev/tagged/xml](https://www.bookmarks.dev/tagged/xml)
 ---
 * [Online JSON Formatter](https://jsonformatter.org/)
     * tags: [json](../tags/json.md), [tools](../tags/tools.md), [xml](../tags/xml.md)

@@ -1,4 +1,4 @@
-reactive - [www.bookmarks.dev/tagged/reactive](https://www.bookmarks.dev/tagged/reactive) 
+reactive - [www.bookmarks.dev/tagged/reactive](https://www.bookmarks.dev/tagged/reactive)
 ---
 * [Reactor vs. RxJava](http://helmbold.de/artikel/reactor-vs-rxjava/)
     * :calendar: published on: 2018-06-05

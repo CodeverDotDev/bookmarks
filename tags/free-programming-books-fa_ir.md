@@ -1,4 +1,4 @@
-free-programming-books-fa_ir - [www.bookmarks.dev/tagged/free-programming-books-fa_ir](https://www.bookmarks.dev/tagged/free-programming-books-fa_ir) 
+free-programming-books-fa_ir - [www.bookmarks.dev/tagged/free-programming-books-fa_ir](https://www.bookmarks.dev/tagged/free-programming-books-fa_ir)
 ---
 * [الگوهای طراحی در برنامه‌نویسی شیء‌گرا](https://github.com/khajavi/Practical-Design-Patterns)
     * tags: [free-programming-books](../tags/free-programming-books.md), [مهندسی-نرم‌افزار](../tags/مهندسی-نرم‌افزار.md), [free-programming-books-fa_IR](../tags/free-programming-books-fa_IR.md)

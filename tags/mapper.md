@@ -1,4 +1,4 @@
-mapper - [www.bookmarks.dev/tagged/mapper](https://www.bookmarks.dev/tagged/mapper) 
+mapper - [www.bookmarks.dev/tagged/mapper](https://www.bookmarks.dev/tagged/mapper)
 ---
 * [MapStruct – Java bean mappings, the easy way!](http://mapstruct.org/)
     * tags: [java](../tags/java.md), [mapper](../tags/mapper.md), [mapping](../tags/mapping.md)

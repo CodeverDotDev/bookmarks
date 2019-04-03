@@ -1,4 +1,4 @@
-sql-server - [www.bookmarks.dev/tagged/sql-server](https://www.bookmarks.dev/tagged/sql-server) 
+sql-server - [www.bookmarks.dev/tagged/sql-server](https://www.bookmarks.dev/tagged/sql-server)
 ---
 * [Troubleshooting SQL Server: A Guide for the Accidental DBA](http://www.red-gate.com/community/books/accidental-dba)
     * tags: [free-programming-books](../tags/free-programming-books.md), [sql-server](../tags/sql-server.md)

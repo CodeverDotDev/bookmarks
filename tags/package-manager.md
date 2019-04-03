@@ -1,4 +1,4 @@
-package-manager - [www.bookmarks.dev/tagged/package-manager](https://www.bookmarks.dev/tagged/package-manager) 
+package-manager - [www.bookmarks.dev/tagged/package-manager](https://www.bookmarks.dev/tagged/package-manager)
 ---
 * [Writing R Extensions](https://cran.r-project.org/doc/manuals/r-release/R-exts.html)
     * tags: [r](../tags/r.md), [package-manager](../tags/package-manager.md)

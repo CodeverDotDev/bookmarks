@@ -1,4 +1,4 @@
-chai - [www.bookmarks.dev/tagged/chai](https://www.bookmarks.dev/tagged/chai) 
+chai - [www.bookmarks.dev/tagged/chai](https://www.bookmarks.dev/tagged/chai)
 ---
 * [Modern Node.js: async/await based testing with Mocha & Chai](https://zaiste.net/modern_node_js_async_await_based_testing_with_mocha_chai/)
     * :calendar: published on: 2017-04-09

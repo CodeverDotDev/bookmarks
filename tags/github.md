@@ -1,4 +1,4 @@
-github - [www.bookmarks.dev/tagged/github](https://www.bookmarks.dev/tagged/github) 
+github - [www.bookmarks.dev/tagged/github](https://www.bookmarks.dev/tagged/github)
 ---
 * [How to promote your Github project – Hacker Noon](https://hackernoon.com/how-to-promote-your-github-project-1b39a7eee841)
     * :calendar: published on: 2018-02-03

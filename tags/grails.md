@@ -1,4 +1,4 @@
-grails - [www.bookmarks.dev/tagged/grails](https://www.bookmarks.dev/tagged/grails) 
+grails - [www.bookmarks.dev/tagged/grails](https://www.bookmarks.dev/tagged/grails)
 ---
 * [Grailsを用いたファイルアップローダ作成](https://www.ntts.co.jp/column/tec/java_02/)
     * tags: [free-programming-books-ja](../tags/free-programming-books-ja.md), [free-programming-books](../tags/free-programming-books.md), [grails](../tags/grails.md)

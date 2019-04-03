@@ -1,11 +1,11 @@
-open-source - [www.bookmarks.dev/tagged/open-source](https://www.bookmarks.dev/tagged/open-source) 
+open-source - [www.bookmarks.dev/tagged/open-source](https://www.bookmarks.dev/tagged/open-source)
 ---
 * [Contributor Covenant: A Code of Conduct for Open Source Projects](http://www.contributor-covenant.org/)
     * tags: [open-source](../tags/open-source.md)
     * :octocat: [github url](https://github.com/ContributorCovenant/contributor_covenant)
 * [The Open Source Definition](https://opensource.org/docs/osd)
     * tags: [open-source](../tags/open-source.md)
-* [zachflower/awesome-open-source-supporters](https://github.com/zachflower/awesome-open-source-supporters)
+* [zachflower/awesome-open-source-supporters](https://github.com/zachflower/awesome-open-source-supporters#readme)
     * tags: [awesome-list](../tags/awesome-list.md), [open-source](../tags/open-source.md)
     * :octocat: [github url](https://github.com/zachflower/awesome-open-source-supporters)
 * [Personas and Pathways for Growing Communities](https://mozillascience.github.io/working-open-workshop/personas_pathways/)

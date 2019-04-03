@@ -1,4 +1,4 @@
-niezależne-od-języka-programowania - [www.bookmarks.dev/tagged/niezależne-od-języka-programowania](https://www.bookmarks.dev/tagged/niezależne-od-języka-programowania) 
+niezależne-od-języka-programowania - [www.bookmarks.dev/tagged/niezależne-od-języka-programowania](https://www.bookmarks.dev/tagged/niezależne-od-języka-programowania)
 ---
 * [W obronie wolności](http://stallman.helion.pl)
     * tags: [free-programming-books](../tags/free-programming-books.md), [niezależne-od-języka-programowania](../tags/niezależne-od-języka-programowania.md), [free-programming-books-pl](../tags/free-programming-books-pl.md)

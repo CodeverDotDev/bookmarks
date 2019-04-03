@@ -1,4 +1,4 @@
-in-memory - [www.bookmarks.dev/tagged/in-memory](https://www.bookmarks.dev/tagged/in-memory) 
+in-memory - [www.bookmarks.dev/tagged/in-memory](https://www.bookmarks.dev/tagged/in-memory)
 ---
 * [Infinispan Homepage - Infinispan](http://infinispan.org/)
     * tags: [nosql](../tags/nosql.md), [java](../tags/java.md), [in-memory](../tags/in-memory.md), [distributed-cache](../tags/distributed-cache.md), [caching](../tags/caching.md)

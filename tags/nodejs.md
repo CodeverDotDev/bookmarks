@@ -1,4 +1,4 @@
-nodejs - [www.bookmarks.dev/tagged/nodejs](https://www.bookmarks.dev/tagged/nodejs) 
+nodejs - [www.bookmarks.dev/tagged/nodejs](https://www.bookmarks.dev/tagged/nodejs)
 ---
 * [Nodemailer home page](http://nodemailer.com/)
     * tags: [nodejs](../tags/nodejs.md), [email](../tags/email.md)
@@ -36,13 +36,13 @@ nodejs - [www.bookmarks.dev/tagged/nodejs](https://www.bookmarks.dev/tagged/node
 * [Using Winston, a versatile logging library for Node.js](https://thisdavej.com/using-winston-a-versatile-logging-library-for-node-js/)
     * :calendar: published on: 2018-12-06
     * tags: [nodejs](../tags/nodejs.md), [logging](../tags/logging.md), [winston](../tags/winston.md)
-* [awesome-nodejs-security](https://github.com/lirantal/awesome-nodejs-security)
+* [awesome-nodejs-security](https://github.com/lirantal/awesome-nodejs-security#readme)
     * tags: [awesome](../tags/awesome.md), [awesome-list](../tags/awesome-list.md), [nodejs](../tags/nodejs.md), [security](../tags/security.md)
     * :octocat: [github url](https://github.com/lirantal/awesome-nodejs-security)
 * [Reading streams via async iteration in Node.js  ](http://2ality.com/2018/04/async-iter-nodejs.html)
     * :calendar: published on: 2018-04-24
     * tags: [javascript](../tags/javascript.md), [nodejs](../tags/nodejs.md)
-* [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)
+* [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs#readme)
     * tags: [awesome-list](../tags/awesome-list.md), [nodejs](../tags/nodejs.md)
     * :octocat: [github url](https://github.com/sindresorhus/awesome-nodejs)
 * [AOP for JS](https://github.com/cujojs/meld)

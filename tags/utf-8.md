@@ -1,4 +1,4 @@
-utf-8 - [www.bookmarks.dev/tagged/utf-8](https://www.bookmarks.dev/tagged/utf-8) 
+utf-8 - [www.bookmarks.dev/tagged/utf-8](https://www.bookmarks.dev/tagged/utf-8)
 ---
 * [How to support full Unicode in MySQL databases · Mathias Bynens](https://mathiasbynens.be/notes/mysql-utf8mb4)
     * :calendar: published on: 2012-07-30

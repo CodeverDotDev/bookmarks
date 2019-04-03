@@ -1,4 +1,4 @@
-cheatsheet - [www.bookmarks.dev/tagged/cheatsheet](https://www.bookmarks.dev/tagged/cheatsheet) 
+cheatsheet - [www.bookmarks.dev/tagged/cheatsheet](https://www.bookmarks.dev/tagged/cheatsheet)
 ---
 * [GitHub - arslanbilal/git-cheat-sheet: git and git flow cheat sheet](https://github.com/arslanbilal/git-cheat-sheet#readme)
     * tags: [git](../tags/git.md), [cheatsheet](../tags/cheatsheet.md), [awesome](../tags/awesome.md)

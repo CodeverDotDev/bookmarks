@@ -1,4 +1,4 @@
-elasticsearch - [www.bookmarks.dev/tagged/elasticsearch](https://www.bookmarks.dev/tagged/elasticsearch) 
+elasticsearch - [www.bookmarks.dev/tagged/elasticsearch](https://www.bookmarks.dev/tagged/elasticsearch)
 ---
 * [Exploring Elasticsearch](http://exploringelasticsearch.com)
     * tags: [free-programming-books](../tags/free-programming-books.md), [elasticsearch](../tags/elasticsearch.md)

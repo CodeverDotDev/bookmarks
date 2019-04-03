@@ -1,4 +1,4 @@
-javaee - [www.bookmarks.dev/tagged/javaee](https://www.bookmarks.dev/tagged/javaee) 
+javaee - [www.bookmarks.dev/tagged/javaee](https://www.bookmarks.dev/tagged/javaee)
 ---
 * [Thorntail Home Page](http://thorntail.io/)
     * tags: [javaee](../tags/javaee.md), [microservices](../tags/microservices.md)

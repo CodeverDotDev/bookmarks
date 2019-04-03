@@ -1,4 +1,4 @@
-jasmine - [www.bookmarks.dev/tagged/jasmine](https://www.bookmarks.dev/tagged/jasmine) 
+jasmine - [www.bookmarks.dev/tagged/jasmine](https://www.bookmarks.dev/tagged/jasmine)
 ---
 * [Introduction to Unit Testing in Angular ← Alligator.io](https://alligator.io/angular/introduction-unit-testing/)
     * tags: [angular](../tags/angular.md), [testing](../tags/testing.md), [jasmine](../tags/jasmine.md), [unit-testing](../tags/unit-testing.md)

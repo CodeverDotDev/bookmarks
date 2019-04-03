@@ -1,4 +1,4 @@
-webpack - [www.bookmarks.dev/tagged/webpack](https://www.bookmarks.dev/tagged/webpack) 
+webpack - [www.bookmarks.dev/tagged/webpack](https://www.bookmarks.dev/tagged/webpack)
 ---
 * [GitHub - petehunt/webpack-howto](https://github.com/petehunt/webpack-howto)
     * tags: [webpack](../tags/webpack.md)

@@ -1,4 +1,4 @@
-blog - [www.bookmarks.dev/tagged/blog](https://www.bookmarks.dev/tagged/blog) 
+blog - [www.bookmarks.dev/tagged/blog](https://www.bookmarks.dev/tagged/blog)
 ---
 * [Ted Vinke's Blog – Java, Groovy and Grails](https://tedvinke.wordpress.com/)
     * tags: [java](../tags/java.md), [blog](../tags/blog.md)

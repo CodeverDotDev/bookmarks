@@ -1,4 +1,4 @@
-ada - [www.bookmarks.dev/tagged/ada](https://www.bookmarks.dev/tagged/ada) 
+ada - [www.bookmarks.dev/tagged/ada](https://www.bookmarks.dev/tagged/ada)
 ---
 * [Az Ada programozási nyelv](http://mek.oszk.hu/01200/01256/index.phtml)
     * tags: [free-programming-books](../tags/free-programming-books.md), [free-programming-books-hu](../tags/free-programming-books-hu.md), [ada](../tags/ada.md)

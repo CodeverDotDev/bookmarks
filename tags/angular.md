@@ -1,4 +1,4 @@
-angular - [www.bookmarks.dev/tagged/angular](https://www.bookmarks.dev/tagged/angular) 
+angular - [www.bookmarks.dev/tagged/angular](https://www.bookmarks.dev/tagged/angular)
 ---
 * [ Angular Observable Data Services](https://coryrylan.com/blog/angular-observable-data-services)
     * :calendar: published on: 2017-11-17

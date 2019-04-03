@@ -1,4 +1,4 @@
-machine-learning - [www.bookmarks.dev/tagged/machine-learning](https://www.bookmarks.dev/tagged/machine-learning) 
+machine-learning - [www.bookmarks.dev/tagged/machine-learning](https://www.bookmarks.dev/tagged/machine-learning)
 ---
 * [Machine Learning From Scratch: The Perceptron Model - YouTube](https://www.youtube.com/watch?v=iumlHzoVlJM)
     * :calendar: published on: 2018-02-25

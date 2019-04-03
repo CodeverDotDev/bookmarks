@@ -1,4 +1,4 @@
-markdown - [www.bookmarks.dev/tagged/markdown](https://www.bookmarks.dev/tagged/markdown) 
+markdown - [www.bookmarks.dev/tagged/markdown](https://www.bookmarks.dev/tagged/markdown)
 ---
 * [Pandoc home page](https://pandoc.org/)
     * tags: [pandoc](../tags/pandoc.md), [markdown](../tags/markdown.md), [latex](../tags/latex.md)

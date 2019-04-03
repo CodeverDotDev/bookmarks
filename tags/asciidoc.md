@@ -1,4 +1,4 @@
-asciidoc - [www.bookmarks.dev/tagged/asciidoc](https://www.bookmarks.dev/tagged/asciidoc) 
+asciidoc - [www.bookmarks.dev/tagged/asciidoc](https://www.bookmarks.dev/tagged/asciidoc)
 ---
 * [AsciiDoc Syntax Quick Reference | Asciidoctor](http://asciidoctor.org/docs/asciidoc-syntax-quick-reference/)
     * tags: [asciidoc](../tags/asciidoc.md)

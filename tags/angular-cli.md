@@ -1,4 +1,4 @@
-angular-cli - [www.bookmarks.dev/tagged/angular-cli](https://www.bookmarks.dev/tagged/angular-cli) 
+angular-cli - [www.bookmarks.dev/tagged/angular-cli](https://www.bookmarks.dev/tagged/angular-cli)
 ---
 * [Fast, faster, Angular CLI - how I converted my Angular project to use Angular CLI – CodingpediaOrg](http://www.codingpedia.org/ama/fast-faster-angular-cli-how-i-converted-my-angular-project-to-use-angular-cli)
     * :calendar: published on: 2017-05-02

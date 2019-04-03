@@ -1,4 +1,4 @@
-forth - [www.bookmarks.dev/tagged/forth](https://www.bookmarks.dev/tagged/forth) 
+forth - [www.bookmarks.dev/tagged/forth](https://www.bookmarks.dev/tagged/forth)
 ---
 * [Thoughtful Programming and Forth](http://www.ultratechnology.com/forth.htm)
     * tags: [free-programming-books](../tags/free-programming-books.md), [forth](../tags/forth.md)

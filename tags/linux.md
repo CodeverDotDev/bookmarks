@@ -1,5 +1,8 @@
-linux - [www.bookmarks.dev/tagged/linux](https://www.bookmarks.dev/tagged/linux) 
+linux - [www.bookmarks.dev/tagged/linux](https://www.bookmarks.dev/tagged/linux)
 ---
+* [GitHub - krallin/tini](https://github.com/krallin/tini)
+    * tags: [docker](../tags/docker.md), [linux](../tags/linux.md), [c](../tags/c.md)
+    * :octocat: [github url](https://github.com/krallin/tini)
 * [command line - How to list all symbolic links in a directory - Ask Ubuntu](https://askubuntu.com/questions/522051/how-to-list-all-symbolic-links-in-a-directory)
     * tags: [bash](../tags/bash.md), [shell](../tags/shell.md), [linux](../tags/linux.md)
 * [Install Bash git completion](https://github.com/bobthecow/git-flow-completion/wiki/Install-Bash-git-completion)

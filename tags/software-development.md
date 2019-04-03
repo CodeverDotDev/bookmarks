@@ -1,4 +1,4 @@
-software-development - [www.bookmarks.dev/tagged/software-development](https://www.bookmarks.dev/tagged/software-development) 
+software-development - [www.bookmarks.dev/tagged/software-development](https://www.bookmarks.dev/tagged/software-development)
 ---
 * [Coding bookmarks, aka #codingmarks](https://www.codingmarks.org)
     * tags: [software-development](../tags/software-development.md), [free-programming-books](../tags/free-programming-books.md), [programming](../tags/programming.md)

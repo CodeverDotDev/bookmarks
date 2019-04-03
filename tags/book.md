@@ -1,4 +1,4 @@
-book - [www.bookmarks.dev/tagged/book](https://www.bookmarks.dev/tagged/book) 
+book - [www.bookmarks.dev/tagged/book](https://www.bookmarks.dev/tagged/book)
 ---
 * [Programming, Motherfucker - Do you speak it?](http://programming-motherfucker.com/)
     * tags: [programming](../tags/programming.md), [book](../tags/book.md), [free-programming-books](../tags/free-programming-books.md)

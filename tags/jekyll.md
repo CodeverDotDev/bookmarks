@@ -1,4 +1,4 @@
-jekyll - [www.bookmarks.dev/tagged/jekyll](https://www.bookmarks.dev/tagged/jekyll) 
+jekyll - [www.bookmarks.dev/tagged/jekyll](https://www.bookmarks.dev/tagged/jekyll)
 ---
 * [Using Jekyll as a static site generator with GitHub Pages - User Documentation        ](https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/)
     * tags: [github-pages](../tags/github-pages.md), [jekyll](../tags/jekyll.md), [docs](../tags/docs.md)

@@ -1,4 +1,4 @@
-free-programming-books-bg - [www.bookmarks.dev/tagged/free-programming-books-bg](https://www.bookmarks.dev/tagged/free-programming-books-bg) 
+free-programming-books-bg - [www.bookmarks.dev/tagged/free-programming-books-bg](https://www.bookmarks.dev/tagged/free-programming-books-bg)
 ---
 * [Кратко въведение в LaTeX2ε](http://www.ctan.org/tex-archive/info/lshort/bulgarian)
     * tags: [free-programming-books](../tags/free-programming-books.md), [free-programming-books-bg](../tags/free-programming-books-bg.md), [latex](../tags/latex.md)

@@ -1,4 +1,4 @@
-changelog - [www.bookmarks.dev/tagged/changelog](https://www.bookmarks.dev/tagged/changelog) 
+changelog - [www.bookmarks.dev/tagged/changelog](https://www.bookmarks.dev/tagged/changelog)
 ---
 * [Nginx Changelog](http://nginx.org/en/CHANGES)
     * tags: [nginx](../tags/nginx.md), [changelog](../tags/changelog.md)

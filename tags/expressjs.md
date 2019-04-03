@@ -1,4 +1,4 @@
-expressjs - [www.bookmarks.dev/tagged/expressjs](https://www.bookmarks.dev/tagged/expressjs) 
+expressjs - [www.bookmarks.dev/tagged/expressjs](https://www.bookmarks.dev/tagged/expressjs)
 ---
 * [Express Integration Testing with SuperTest · InVision Engineering Blog](https://engineering.invisionapp.com/post/express-integration-testing-supertest/)
     * :calendar: published on: 2016-06-27

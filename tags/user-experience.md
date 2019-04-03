@@ -1,5 +1,8 @@
-user-experience - [www.bookmarks.dev/tagged/user-experience](https://www.bookmarks.dev/tagged/user-experience) 
+user-experience - [www.bookmarks.dev/tagged/user-experience](https://www.bookmarks.dev/tagged/user-experience)
 ---
+* [Angular Progressbar](https://murhafsousli.github.io/ngx-progressbar/#/)
+    * tags: [css](../tags/css.md), [user-experience](../tags/user-experience.md)
+    * :octocat: [github url](https://github.com/murhafsousli/ngx-progressbar)
 * [Web Design: The First Hundred Years with Maciej Ceglowski - YouTube](https://www.youtube.com/watch?v=nwhZ3KEqUlw)
     * :calendar: published on: 2014-09-14
     * tags: [user-experience](../tags/user-experience.md)

@@ -1,4 +1,4 @@
-free-programming-books-zh - [www.bookmarks.dev/tagged/free-programming-books-zh](https://www.bookmarks.dev/tagged/free-programming-books-zh) 
+free-programming-books-zh - [www.bookmarks.dev/tagged/free-programming-books-zh](https://www.bookmarks.dev/tagged/free-programming-books-zh)
 ---
 * [Visual Prolog 7边练边学](http://wiki.visual-prolog.com/index.php?title=Visual_Prolog_for_Tyros_in_Chinese)
     * tags: [free-programming-books](../tags/free-programming-books.md), [free-programming-books-zh](../tags/free-programming-books-zh.md), [visual-prolog](../tags/visual-prolog.md)

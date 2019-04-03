@@ -1,4 +1,4 @@
-algorithmique - [www.bookmarks.dev/tagged/algorithmique](https://www.bookmarks.dev/tagged/algorithmique) 
+algorithmique - [www.bookmarks.dev/tagged/algorithmique](https://www.bookmarks.dev/tagged/algorithmique)
 ---
 * [Prologin](https://prologin.org)
     * tags: [free-programming-books](../tags/free-programming-books.md), [algorithmique](../tags/algorithmique.md), [free-programming-books-fr](../tags/free-programming-books-fr.md), [non-dépendant-du-langage](../tags/non-dépendant-du-langage.md)

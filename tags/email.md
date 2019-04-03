@@ -1,4 +1,4 @@
-email - [www.bookmarks.dev/tagged/email](https://www.bookmarks.dev/tagged/email) 
+email - [www.bookmarks.dev/tagged/email](https://www.bookmarks.dev/tagged/email)
 ---
 * [Nodemailer home page](http://nodemailer.com/)
     * tags: [nodejs](../tags/nodejs.md), [email](../tags/email.md)

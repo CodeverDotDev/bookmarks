@@ -1,4 +1,4 @@
-seo - [www.bookmarks.dev/tagged/seo](https://www.bookmarks.dev/tagged/seo) 
+seo - [www.bookmarks.dev/tagged/seo](https://www.bookmarks.dev/tagged/seo)
 ---
 * [تحسين محركات البحث SEO - دليل المبتدئين](http://librebooks.org/search-engine-optimization-seo-starter-guide-ar/)
     * tags: [free-programming-books](../tags/free-programming-books.md), [free-programming-books-ar](../tags/free-programming-books-ar.md), [seo](../tags/seo.md)

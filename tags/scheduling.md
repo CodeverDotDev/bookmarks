@@ -1,4 +1,4 @@
-scheduling - [www.bookmarks.dev/tagged/scheduling](https://www.bookmarks.dev/tagged/scheduling) 
+scheduling - [www.bookmarks.dev/tagged/scheduling](https://www.bookmarks.dev/tagged/scheduling)
 ---
 * [Node-cron](http://merencia.github.io/node-cron/)
     * tags: [nodejs](../tags/nodejs.md), [scheduler](../tags/scheduler.md), [scheduling](../tags/scheduling.md)

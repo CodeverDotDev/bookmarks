@@ -1,5 +1,8 @@
-bash - [www.bookmarks.dev/tagged/bash](https://www.bookmarks.dev/tagged/bash) 
+bash - [www.bookmarks.dev/tagged/bash](https://www.bookmarks.dev/tagged/bash)
 ---
+* [Nice dotfiles example](https://github.com/jessfraz/dotfiles)
+    * tags: [dotfiles](../tags/dotfiles.md), [alias](../tags/alias.md), [bash](../tags/bash.md)
+    * :octocat: [github url](https://github.com/jessfraz/dotfiles)
 * [command line - How to list all symbolic links in a directory - Ask Ubuntu](https://askubuntu.com/questions/522051/how-to-list-all-symbolic-links-in-a-directory)
     * tags: [bash](../tags/bash.md), [shell](../tags/shell.md), [linux](../tags/linux.md)
 * [Install Bash git completion](https://github.com/bobthecow/git-flow-completion/wiki/Install-Bash-git-completion)

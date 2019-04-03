@@ -1,5 +1,8 @@
-vim - [www.bookmarks.dev/tagged/vim](https://www.bookmarks.dev/tagged/vim) 
+vim - [www.bookmarks.dev/tagged/vim](https://www.bookmarks.dev/tagged/vim)
 ---
+* [Vim dotfiles and configurations example](https://github.com/jessfraz/.vim)
+    * tags: [vim](../tags/vim.md), [dotfiles](../tags/dotfiles.md)
+    * :octocat: [github url](https://github.com/jessfraz/.vim)
 * [welcome home : vim online](https://www.vim.org/)
     * tags: [vim](../tags/vim.md), [editor](../tags/editor.md)
 * [Vim tips: The basics of search and replace | Linux.com | The source for Linux information](https://www.linux.com/learn/vim-tips-basics-search-and-replace)

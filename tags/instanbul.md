@@ -1,4 +1,4 @@
-instanbul - [www.bookmarks.dev/tagged/instanbul](https://www.bookmarks.dev/tagged/instanbul) 
+instanbul - [www.bookmarks.dev/tagged/instanbul](https://www.bookmarks.dev/tagged/instanbul)
 ---
 * [Setting up test coverage using Mocha, Istanbul, NYC with TypeScript](http://azimi.me/2016/09/30/nyc-mocha-typescript.1.html)
     * :calendar: published on: 2016-09-30

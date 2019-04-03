@@ -1,4 +1,4 @@
-marketing - [www.bookmarks.dev/tagged/marketing](https://www.bookmarks.dev/tagged/marketing) 
+marketing - [www.bookmarks.dev/tagged/marketing](https://www.bookmarks.dev/tagged/marketing)
 ---
 * [Personas and Pathways for Growing Communities](https://mozillascience.github.io/working-open-workshop/personas_pathways/)
     * tags: [open-source](../tags/open-source.md), [marketing](../tags/marketing.md)

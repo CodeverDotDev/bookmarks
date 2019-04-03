@@ -1,4 +1,4 @@
-yarn - [www.bookmarks.dev/tagged/yarn](https://www.bookmarks.dev/tagged/yarn) 
+yarn - [www.bookmarks.dev/tagged/yarn](https://www.bookmarks.dev/tagged/yarn)
 ---
 * [GitHub - mixmaxhq/deyarn: A command-line tool for converting projects that use Yarn to npm.](https://github.com/mixmaxhq/deyarn)
     * tags: [yarn](../tags/yarn.md), [npm](../tags/npm.md)

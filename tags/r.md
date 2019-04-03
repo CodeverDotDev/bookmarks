@@ -1,4 +1,4 @@
-r - [www.bookmarks.dev/tagged/r](https://www.bookmarks.dev/tagged/r) 
+r - [www.bookmarks.dev/tagged/r](https://www.bookmarks.dev/tagged/r)
 ---
 * [Writing R Extensions](https://cran.r-project.org/doc/manuals/r-release/R-exts.html)
     * tags: [r](../tags/r.md), [package-manager](../tags/package-manager.md)

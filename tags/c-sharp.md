@@ -1,4 +1,4 @@
-c-sharp - [www.bookmarks.dev/tagged/c-sharp](https://www.bookmarks.dev/tagged/c-sharp) 
+c-sharp - [www.bookmarks.dev/tagged/c-sharp](https://www.bookmarks.dev/tagged/c-sharp)
 ---
 * [Visual C# 2012](http://openbook.rheinwerk-verlag.de/visual_csharp_2012/)
     * tags: [free-programming-books](../tags/free-programming-books.md), [free-programming-books-de](../tags/free-programming-books-de.md), [c-sharp](../tags/c-sharp.md)

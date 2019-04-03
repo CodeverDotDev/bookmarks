@@ -1,5 +1,8 @@
-performance - [www.bookmarks.dev/tagged/performance](https://www.bookmarks.dev/tagged/performance) 
+performance - [www.bookmarks.dev/tagged/performance](https://www.bookmarks.dev/tagged/performance)
 ---
+* [Arthas Java Diagnostics Tool - home page ](https://alibaba.github.io/arthas/en/)
+    * tags: [java](../tags/java.md), [diagnostics](../tags/diagnostics.md), [performance](../tags/performance.md)
+    * :octocat: [github url](https://github.com/alibaba/arthas)
 * [The Cost Of JavaScript In 2018 – Addy Osmani – Medium](https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4/)
     * :calendar: published on: 2018-08-01
     * tags: [javascript](../tags/javascript.md), [performance](../tags/performance.md)

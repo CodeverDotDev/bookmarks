@@ -1,4 +1,4 @@
-bootstrap - [www.bookmarks.dev/tagged/bootstrap](https://www.bookmarks.dev/tagged/bootstrap) 
+bootstrap - [www.bookmarks.dev/tagged/bootstrap](https://www.bookmarks.dev/tagged/bootstrap)
 ---
 * [Bootstrap 4 Cheat Sheet - The ultimate list of Bootstrap classes](https://hackerthemes.com/bootstrap-cheatsheet/)
     * tags: [bootstrap](../tags/bootstrap.md), [cheatsheet](../tags/cheatsheet.md)

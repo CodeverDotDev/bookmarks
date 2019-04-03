@@ -1,4 +1,4 @@
-subversion - [www.bookmarks.dev/tagged/subversion](https://www.bookmarks.dev/tagged/subversion) 
+subversion - [www.bookmarks.dev/tagged/subversion](https://www.bookmarks.dev/tagged/subversion)
 ---
 * [Version Control with Subversion](http://svnbook.red-bean.com)
     * tags: [free-programming-books](../tags/free-programming-books.md), [subversion](../tags/subversion.md)

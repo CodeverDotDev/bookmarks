@@ -1,4 +1,4 @@
-graphql - [www.bookmarks.dev/tagged/graphql](https://www.bookmarks.dev/tagged/graphql) 
+graphql - [www.bookmarks.dev/tagged/graphql](https://www.bookmarks.dev/tagged/graphql)
 ---
 * [Lessons from 4 Years of GraphQL - YouTube](https://www.youtube.com/watch?v=zVNrqo9XGOs)
     * :calendar: published on: 2016-11-03

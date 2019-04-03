@@ -1,4 +1,4 @@
-elixir - [www.bookmarks.dev/tagged/elixir](https://www.bookmarks.dev/tagged/elixir) 
+elixir - [www.bookmarks.dev/tagged/elixir](https://www.bookmarks.dev/tagged/elixir)
 ---
 * [Elixir 基礎文法最速マスター](http://qiita.com/niku/items/729ece76d78057b58271)
     * tags: [free-programming-books-ja](../tags/free-programming-books-ja.md), [free-programming-books](../tags/free-programming-books.md), [elixir](../tags/elixir.md)

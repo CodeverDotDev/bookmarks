@@ -1,4 +1,4 @@
-mercurial - [www.bookmarks.dev/tagged/mercurial](https://www.bookmarks.dev/tagged/mercurial) 
+mercurial - [www.bookmarks.dev/tagged/mercurial](https://www.bookmarks.dev/tagged/mercurial)
 ---
 * [Mercurial チュートリアル hginit.com の和訳](http://d.hatena.ne.jp/mmitou/20100501/1272680474)
     * tags: [free-programming-books-ja](../tags/free-programming-books-ja.md), [free-programming-books](../tags/free-programming-books.md), [mercurial](../tags/mercurial.md)

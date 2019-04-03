@@ -1,4 +1,4 @@
-typescript - [www.bookmarks.dev/tagged/typescript](https://www.bookmarks.dev/tagged/typescript) 
+typescript - [www.bookmarks.dev/tagged/typescript](https://www.bookmarks.dev/tagged/typescript)
 ---
 * [Adapter (TypeScript Design Patterns) - YouTube](https://www.youtube.com/watch?v=beU4i949YXU)
     * :calendar: published on: 2017-04-25

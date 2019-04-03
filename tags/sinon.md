@@ -1,4 +1,4 @@
-sinon - [www.bookmarks.dev/tagged/sinon](https://www.bookmarks.dev/tagged/sinon) 
+sinon - [www.bookmarks.dev/tagged/sinon](https://www.bookmarks.dev/tagged/sinon)
 ---
 * [Sinon.JS Assertions for Chai - Chai](http://chaijs.com/plugins/sinon-chai/)
     * tags: [nodejs](../tags/nodejs.md), [unit-testing](../tags/unit-testing.md), [sinon](../tags/sinon.md), [chai](../tags/chai.md)

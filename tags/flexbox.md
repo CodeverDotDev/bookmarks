@@ -1,4 +1,4 @@
-flexbox - [www.bookmarks.dev/tagged/flexbox](https://www.bookmarks.dev/tagged/flexbox) 
+flexbox - [www.bookmarks.dev/tagged/flexbox](https://www.bookmarks.dev/tagged/flexbox)
 ---
 * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
     * tags: [flexbox](../tags/flexbox.md)

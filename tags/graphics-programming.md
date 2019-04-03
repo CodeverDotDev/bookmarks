@@ -1,4 +1,4 @@
-graphics-programming - [www.bookmarks.dev/tagged/graphics-programming](https://www.bookmarks.dev/tagged/graphics-programming) 
+graphics-programming - [www.bookmarks.dev/tagged/graphics-programming](https://www.bookmarks.dev/tagged/graphics-programming)
 ---
 * [Tutorials for modern OpenGL](http://www.opengl-tutorial.org)
     * tags: [graphics-programming](../tags/graphics-programming.md), [free-programming-books](../tags/free-programming-books.md)

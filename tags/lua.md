@@ -1,6 +1,6 @@
-lua - [www.bookmarks.dev/tagged/lua](https://www.bookmarks.dev/tagged/lua) 
+lua - [www.bookmarks.dev/tagged/lua](https://www.bookmarks.dev/tagged/lua)
 ---
-* [awesome-lua](https://github.com/LewisJEllis/awesome-lua)
+* [awesome-lua](https://github.com/LewisJEllis/awesome-lua#readme)
     * tags: [lua](../tags/lua.md), [awesome-list](../tags/awesome-list.md), [awesome](../tags/awesome.md)
     * :octocat: [github url](https://github.com/LewisJEllis/awesome-lua)
 * [Hashids - generate short unique ids from integers](https://hashids.org/)

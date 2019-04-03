@@ -1,4 +1,4 @@
-metapost - [www.bookmarks.dev/tagged/metapost](https://www.bookmarks.dev/tagged/metapost) 
+metapost - [www.bookmarks.dev/tagged/metapost](https://www.bookmarks.dev/tagged/metapost)
 ---
 * [Создание иллюстраций в MetaPost](http://www.inp.nsk.su/~baldin/mpost/index.html)
     * tags: [free-programming-books](../tags/free-programming-books.md), [free-programming-books-ru](../tags/free-programming-books-ru.md), [metapost](../tags/metapost.md)

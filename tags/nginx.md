@@ -1,4 +1,4 @@
-nginx - [www.bookmarks.dev/tagged/nginx](https://www.bookmarks.dev/tagged/nginx) 
+nginx - [www.bookmarks.dev/tagged/nginx](https://www.bookmarks.dev/tagged/nginx)
 ---
 * [Understanding Nginx Server and Location Block Selection Algorithms](https://www.digitalocean.com/community/tutorials/understanding-nginx-server-and-location-block-selection-algorithms)
     * :calendar: published on: 2014-11-17

@@ -1,4 +1,4 @@
-django - [www.bookmarks.dev/tagged/django](https://www.bookmarks.dev/tagged/django) 
+django - [www.bookmarks.dev/tagged/django](https://www.bookmarks.dev/tagged/django)
 ---
 * [Test-Driven Web Development with Python](http://www.obeythetestinggoat.com/pages/book.html#toc)
     * tags: [free-programming-books](../tags/free-programming-books.md), [python](../tags/python.md), [django](../tags/django.md)

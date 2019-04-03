@@ -1,5 +1,12 @@
-architecture - [www.bookmarks.dev/tagged/architecture](https://www.bookmarks.dev/tagged/architecture) 
+architecture - [www.bookmarks.dev/tagged/architecture](https://www.bookmarks.dev/tagged/architecture)
 ---
+* [Oliver Gierke - Whoops! Where did my architecture go](http://olivergierke.de/2013/01/whoops-where-did-my-architecture-go/)
+    * :calendar: published on: 2013-01-01
+    * tags: [java](../tags/java.md), [architecture](../tags/architecture.md)
+    * :octocat: [github url](https://github.com/odrotbohm/whoops-architecture)
+* [Layers, hexagons, features and components ](http://www.codingthearchitecture.com/2016/04/25/layers_hexagons_features_and_components.html)
+    * :calendar: published on: 2016-04-25
+    * tags: [architecture](../tags/architecture.md)
 * [BoundedContext](https://martinfowler.com/bliki/BoundedContext.html)
     * tags: [domain-driven-design](../tags/domain-driven-design.md), [architecture](../tags/architecture.md)
 * [The Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)

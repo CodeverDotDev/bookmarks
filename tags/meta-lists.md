@@ -1,4 +1,4 @@
-meta-lists - [www.bookmarks.dev/tagged/meta-lists](https://www.bookmarks.dev/tagged/meta-lists) 
+meta-lists - [www.bookmarks.dev/tagged/meta-lists](https://www.bookmarks.dev/tagged/meta-lists)
 ---
 * [Galileo Computing - openbook](https://www.rheinwerk-verlag.de/openbook/)
     * tags: [free-programming-books](../tags/free-programming-books.md), [free-programming-books-de](../tags/free-programming-books-de.md), [meta-lists](../tags/meta-lists.md)

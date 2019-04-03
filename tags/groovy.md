@@ -1,4 +1,4 @@
-groovy - [www.bookmarks.dev/tagged/groovy](https://www.bookmarks.dev/tagged/groovy) 
+groovy - [www.bookmarks.dev/tagged/groovy](https://www.bookmarks.dev/tagged/groovy)
 ---
 * [Groovy für Java-Entwickler](http://examples.oreilly.de/openbooks/pdf_groovyger.pdf)
     * tags: [free-programming-books](../tags/free-programming-books.md), [groovy](../tags/groovy.md), [free-programming-books-de](../tags/free-programming-books-de.md)

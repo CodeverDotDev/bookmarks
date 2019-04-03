@@ -1,4 +1,4 @@
-concurrency - [www.bookmarks.dev/tagged/concurrency](https://www.bookmarks.dev/tagged/concurrency) 
+concurrency - [www.bookmarks.dev/tagged/concurrency](https://www.bookmarks.dev/tagged/concurrency)
 ---
 * [java.util.concurrent - Java Concurrency Utilities](http://tutorials.jenkov.com/java-util-concurrent/index.html)
     * tags: [java](../tags/java.md), [concurrency](../tags/concurrency.md), [asynchronous](../tags/asynchronous.md)

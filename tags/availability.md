@@ -1,4 +1,4 @@
-availability - [www.bookmarks.dev/tagged/availability](https://www.bookmarks.dev/tagged/availability) 
+availability - [www.bookmarks.dev/tagged/availability](https://www.bookmarks.dev/tagged/availability)
 ---
 * [Eventually Consistent - Revisited - All Things Distributed](https://www.allthingsdistributed.com/2008/12/eventually_consistent.html)
     * :calendar: published on: 2012-08-22

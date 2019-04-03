@@ -1,4 +1,4 @@
-autohotkey - [www.bookmarks.dev/tagged/autohotkey](https://www.bookmarks.dev/tagged/autohotkey) 
+autohotkey - [www.bookmarks.dev/tagged/autohotkey](https://www.bookmarks.dev/tagged/autohotkey)
 ---
 * [AutoHotkey Official Documentation](https://autohotkey.com/docs/AutoHotkey.htm)
     * tags: [autohotkey](../tags/autohotkey.md), [free-programming-books](../tags/free-programming-books.md)

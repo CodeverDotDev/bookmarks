@@ -1,4 +1,4 @@
-clean-code - [www.bookmarks.dev/tagged/clean-code](https://www.bookmarks.dev/tagged/clean-code) 
+clean-code - [www.bookmarks.dev/tagged/clean-code](https://www.bookmarks.dev/tagged/clean-code)
 ---
 * [Why I Changed My Mind About Field Injection?](https://www.petrikainulainen.net/software-development/design/why-i-changed-my-mind-about-field-injection/)
     * :calendar: published on: 2013-06-26

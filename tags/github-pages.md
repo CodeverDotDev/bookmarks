@@ -1,4 +1,4 @@
-github-pages - [www.bookmarks.dev/tagged/github-pages](https://www.bookmarks.dev/tagged/github-pages) 
+github-pages - [www.bookmarks.dev/tagged/github-pages](https://www.bookmarks.dev/tagged/github-pages)
 ---
 * [Dependency versions](https://pages.github.com/versions/)
     * tags: [github-pages](../tags/github-pages.md)

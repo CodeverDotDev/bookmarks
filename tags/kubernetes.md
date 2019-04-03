@@ -1,5 +1,17 @@
-kubernetes - [www.bookmarks.dev/tagged/kubernetes](https://www.bookmarks.dev/tagged/kubernetes) 
+kubernetes - [www.bookmarks.dev/tagged/kubernetes](https://www.bookmarks.dev/tagged/kubernetes)
 ---
+* [Kubernetes + Compose = Kompose](http://kompose.io/)
+    * tags: [docker](../tags/docker.md), [docker-compose](../tags/docker-compose.md), [kubernetes](../tags/kubernetes.md), [devops](../tags/devops.md)
+    * :octocat: [github url](https://github.com/kubernetes/kompose)
+* [Helm Docs home page](https://helm.sh/)
+    * tags: [helm](../tags/helm.md), [kubernetes](../tags/kubernetes.md), [kubernetes-helm](../tags/kubernetes-helm.md)
+    * :octocat: [github url](https://github.com/helm/helm)
+* [Istio home page](https://istio.io/)
+    * tags: [istio](../tags/istio.md), [microservices](../tags/microservices.md), [api-management](../tags/api-management.md), [circuit-breaker](../tags/circuit-breaker.md), [proxy](../tags/proxy.md), [kubernetes](../tags/kubernetes.md)
+    * :octocat: [github url](https://github.com/istio/istio)
+* [kubernetes-for-java-developers repo from Aron Gupta](https://github.com/aws-samples/kubernetes-for-java-developers)
+    * tags: [java](../tags/java.md), [docker](../tags/docker.md), [kubernetes](../tags/kubernetes.md), [kubernetes-helm](../tags/kubernetes-helm.md), [maven-plugin](../tags/maven-plugin.md), [istio](../tags/istio.md), [aws](../tags/aws.md)
+    * :octocat: [github url](https://github.com/aws-samples/kubernetes-for-java-developers)
 * [Spring Boot Micro-services, Containers, and Kubernetes - How To - YouTube](https://www.youtube.com/watch?v=Bcs-inRnLDc)
     * :calendar: published on: 2015-10-19
     * tags: [spring-boot](../tags/spring-boot.md), [kubernetes](../tags/kubernetes.md), [microservices](../tags/microservices.md)

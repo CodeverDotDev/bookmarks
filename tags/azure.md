@@ -1,4 +1,4 @@
-azure - [www.bookmarks.dev/tagged/azure](https://www.bookmarks.dev/tagged/azure) 
+azure - [www.bookmarks.dev/tagged/azure](https://www.bookmarks.dev/tagged/azure)
 ---
 * [Microsoft Azure Data Encryption-at-Rest](https://docs.microsoft.com/en-us/azure/security/azure-security-encryption-atrest)
     * tags: [azure](../tags/azure.md), [encryption](../tags/encryption.md)

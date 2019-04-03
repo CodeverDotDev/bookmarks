@@ -1,4 +1,4 @@
-lift - [www.bookmarks.dev/tagged/lift](https://www.bookmarks.dev/tagged/lift) 
+lift - [www.bookmarks.dev/tagged/lift](https://www.bookmarks.dev/tagged/lift)
 ---
 * [Simply Lift](http://simply.liftweb.net/Simply_Lift.pdf)
     * tags: [free-programming-books](../tags/free-programming-books.md), [scala](../tags/scala.md), [lift](../tags/lift.md)

@@ -1,4 +1,4 @@
-assembly - [www.bookmarks.dev/tagged/assembly](https://www.bookmarks.dev/tagged/assembly) 
+assembly - [www.bookmarks.dev/tagged/assembly](https://www.bookmarks.dev/tagged/assembly)
 ---
 * [Программирование на языке ассемблера NASM для ОС Unix](http://www.stolyarov.info/books/pdf/nasm_unix.pdf)
     * tags: [free-programming-books](../tags/free-programming-books.md), [free-programming-books-ru](../tags/free-programming-books-ru.md), [assembly](../tags/assembly.md)

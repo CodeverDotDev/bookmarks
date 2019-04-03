@@ -1,4 +1,4 @@
-cryptography - [www.bookmarks.dev/tagged/cryptography](https://www.bookmarks.dev/tagged/cryptography) 
+cryptography - [www.bookmarks.dev/tagged/cryptography](https://www.bookmarks.dev/tagged/cryptography)
 ---
 * [Public key fingerprint - Wikipedia](https://en.wikipedia.org/wiki/Public_key_fingerprint)
     * tags: [cryptography](../tags/cryptography.md), [security](../tags/security.md)

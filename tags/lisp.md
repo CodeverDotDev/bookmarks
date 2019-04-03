@@ -1,4 +1,4 @@
-lisp - [www.bookmarks.dev/tagged/lisp](https://www.bookmarks.dev/tagged/lisp) 
+lisp - [www.bookmarks.dev/tagged/lisp](https://www.bookmarks.dev/tagged/lisp)
 ---
 * [A LISP programozási nyelv](http://mek.oszk.hu/07200/07258/index.phtml)
     * tags: [free-programming-books](../tags/free-programming-books.md), [lisp](../tags/lisp.md), [free-programming-books-hu](../tags/free-programming-books-hu.md)

@@ -1,4 +1,4 @@
-stub - [www.bookmarks.dev/tagged/stub](https://www.bookmarks.dev/tagged/stub) 
+stub - [www.bookmarks.dev/tagged/stub](https://www.bookmarks.dev/tagged/stub)
 ---
 * [Mocks Aren't Stubs](https://martinfowler.com/articles/mocksArentStubs.html)
     * :calendar: published on: 2007-01-02

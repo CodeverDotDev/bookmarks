@@ -1,4 +1,4 @@
-rest - [www.bookmarks.dev/tagged/rest](https://www.bookmarks.dev/tagged/rest) 
+rest - [www.bookmarks.dev/tagged/rest](https://www.bookmarks.dev/tagged/rest)
 ---
 * [API Blueprint home page](https://apiblueprint.org/)
     * tags: [api](../tags/api.md), [documentation](../tags/documentation.md), [rest](../tags/rest.md)

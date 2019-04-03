@@ -1,4 +1,4 @@
-encoding - [www.bookmarks.dev/tagged/encoding](https://www.bookmarks.dev/tagged/encoding) 
+encoding - [www.bookmarks.dev/tagged/encoding](https://www.bookmarks.dev/tagged/encoding)
 ---
 * [JavaScript’s internal character encoding: UCS-2 or UTF-16? · Mathias Bynens](https://mathiasbynens.be/notes/javascript-encoding)
     * :calendar: published on: 2012-01-20

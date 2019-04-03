@@ -1,4 +1,4 @@
-php - [www.bookmarks.dev/tagged/php](https://www.bookmarks.dev/tagged/php) 
+php - [www.bookmarks.dev/tagged/php](https://www.bookmarks.dev/tagged/php)
 ---
 * [Webadatbázis-programozás](http://ade.web.elte.hu/wabp/index.html)
     * tags: [free-programming-books](../tags/free-programming-books.md), [php](../tags/php.md), [free-programming-books-hu](../tags/free-programming-books-hu.md)

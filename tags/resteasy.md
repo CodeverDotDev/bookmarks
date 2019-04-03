@@ -1,4 +1,4 @@
-resteasy - [www.bookmarks.dev/tagged/resteasy](https://www.bookmarks.dev/tagged/resteasy) 
+resteasy - [www.bookmarks.dev/tagged/resteasy](https://www.bookmarks.dev/tagged/resteasy)
 ---
 * [RESTEasy Client API](https://www.baeldung.com/resteasy-client-tutorial)
     * :calendar: published on: 2018-03-01

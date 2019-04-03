@@ -1,4 +1,4 @@
-programming-paradigms - [www.bookmarks.dev/tagged/programming-paradigms](https://www.bookmarks.dev/tagged/programming-paradigms) 
+programming-paradigms - [www.bookmarks.dev/tagged/programming-paradigms](https://www.bookmarks.dev/tagged/programming-paradigms)
 ---
 * [Type Theory and Functional Programming](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/)
     * tags: [programming-paradigms](../tags/programming-paradigms.md), [free-programming-books](../tags/free-programming-books.md), [language-agnostic](../tags/language-agnostic.md)
