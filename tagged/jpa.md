@@ -1,0 +1,12 @@
+jpa - [www.bookmarks.dev/tagged/jpa](https://www.bookmarks.dev/tagged/jpa)
+---
+* [Hibernate Tip: What's the Difference between JOIN, LEFT JOIN & JOIN FETCH](https://thoughts-on-java.org/hibernate-tips-difference-join-left-join-fetch-join/)
+    * tags: [jpa](../tagged/jpa.md), [jpql](../tagged/jpql.md)
+* [Ultimate Guide - Association Mappings with JPA and Hibernate](https://thoughts-on-java.org/ultimate-guide-association-mappings-jpa-hibernate/)
+    * tags: [java](../tagged/java.md), [jpa](../tagged/jpa.md), [hibernate](../tagged/hibernate.md)
+* [JPA EntityManager: Why use persist() over merge()? - Stack Overflow](https://stackoverflow.com/questions/1069992/jpa-entitymanager-why-use-persist-over-merge)
+    * tags: [jpa](../tagged/jpa.md), [java](../tagged/java.md)
+* [Complete Guide: Inheritance strategies with JPA and Hibernate](https://www.thoughts-on-java.org/complete-guide-inheritance-strategies-jpa-hibernate/)
+    * tags: [java](../tagged/java.md), [javaee](../tagged/javaee.md), [jpa](../tagged/jpa.md), [hibernate](../tagged/hibernate.md)
+* [Testing Java Persistence · Arquillian Guides](http://arquillian.org/guides/testing_java_persistence/)
+    * tags: [arquillian](../tagged/arquillian.md), [java](../tagged/java.md), [jpa](../tagged/jpa.md)

@@ -1,0 +1,16 @@
+grpc - [www.bookmarks.dev/tagged/grpc](https://www.bookmarks.dev/tagged/grpc)
+---
+* [5 Protocols For Event-Driven API Architectures](https://nordicapis.com/5-protocols-for-event-driven-api-architectures/)
+    * :calendar: published on: 2017-07-18
+    * tags: [event-driven-design](../tagged/event-driven-design.md), [api](../tagged/api.md), [rest](../tagged/rest.md), [grpc](../tagged/grpc.md), [websocket](../tagged/websocket.md)
+* [When to Use What: REST, GraphQL, Webhooks, & gRPC](https://nordicapis.com/when-to-use-what-rest-graphql-webhooks-grpc/)
+    * tags: [rest](../tagged/rest.md), [grpc](../tagged/grpc.md), [graphql](../tagged/graphql.md), [webhooks](../tagged/webhooks.md), [api-design](../tagged/api-design.md)
+* [Awesome grpc](https://github.com/grpc-ecosystem/awesome-grpc#readme)
+    * tags: [grpc](../tagged/grpc.md), [awesome-list](../tagged/awesome-list.md)
+    * :octocat: [github url](https://github.com/grpc-ecosystem/awesome-grpc)
+* [grpc / grpc.io](https://grpc.io/)
+    * tags: [rpc](../tagged/rpc.md), [grpc](../tagged/grpc.md)
+    * :octocat: [github url](https://github.com/grpc/)
+* [Netty: Home](https://netty.io/)
+    * tags: [async](../tagged/async.md), [event-driven](../tagged/event-driven.md), [grpc](../tagged/grpc.md)
+    * :octocat: [github url](https://github.com/netty/netty)

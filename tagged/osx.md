@@ -1,0 +1,31 @@
+osx - [www.bookmarks.dev/tagged/osx](https://www.bookmarks.dev/tagged/osx)
+---
+* [Install Bash git completion](https://github.com/bobthecow/git-flow-completion/wiki/Install-Bash-git-completion)
+    * tags: [git](../tagged/git.md), [bash](../tagged/bash.md), [osx](../tagged/osx.md), [windows](../tagged/windows.md), [linux](../tagged/linux.md)
+* [Postgres.app – the easiest way to get started with PostgreSQL on the Mac](https://postgresapp.com/)
+    * tags: [postgresql](../tagged/postgresql.md), [macOS](../tagged/macOS.md), [osx](../tagged/osx.md)
+    * :octocat: [github url](https://github.com/PostgresApp/PostgresApp)
+* [Awesome-macOS](https://github.com/iCHAIT/awesome-macOS#readme)
+    * tags: [macOS](../tagged/macOS.md), [osx](../tagged/osx.md), [awesome-list](../tagged/awesome-list.md)
+    * :octocat: [github url](https://github.com/iCHAIT/awesome-macOS)
+* [iStats by Chris911](http://chris911.github.io/iStats/)
+    * tags: [ruby](../tagged/ruby.md), [osx](../tagged/osx.md), [macOS](../tagged/macOS.md)
+    * :octocat: [github url](https://github.com/Chris911/iStats)
+* [macos - Open terminal here in Mac OS finder - Stack Overflow](https://stackoverflow.com/questions/420456/open-terminal-here-in-mac-os-finder/7054045#7054045)
+    * tags: [osx](../tagged/osx.md), [macOS](../tagged/macOS.md)
+* [What is Kubernetes & How to Get Started With It ](https://blog.risingstack.com/what-is-kubernetes-how-to-get-started/)
+    * :calendar: published on: 2018-05-08
+    * tags: [kubernetes](../tagged/kubernetes.md), [azure](../tagged/azure.md), [osx](../tagged/osx.md)
+* [c - List of all users and groups - Stack Overflow](https://stackoverflow.com/questions/1303561/list-of-all-users-and-groups)
+    * tags: [osx](../tagged/osx.md)
+* [How to prepare the MacBook Pro for Java development and more – CodingpediaOrg](http://www.codingpedia.org/ama/how-to-prepare-the-macbook-pro-for-java-development-and-more/)
+    * :calendar: published on: 2015-11-10
+    * tags: [osx](../tagged/osx.md), [java](../tagged/java.md)
+* [osx - Find (and kill) process locking port 3000 on Mac - Stack Overflow](https://stackoverflow.com/questions/3855127/find-and-kill-process-locking-port-3000-on-mac)
+    * tags: [osx](../tagged/osx.md), [mac](../tagged/mac.md)
+* [The Easiest Way to Install Oracle Database on Apple Mac OS X ](https://blogs.oracle.com/opal/the-easiest-way-to-install-oracle-database-on-apple-mac-os-x)
+    * :calendar: published on: 2015-01-19
+    * tags: [oracledb](../tagged/oracledb.md), [osx](../tagged/osx.md), [mac](../tagged/mac.md)
+* [Starting and Stopping Background Services with HomebrewBlog home](https://robots.thoughtbot.com/starting-and-stopping-background-services-with-homebrew)
+    * :calendar: published on: 2014-01-21
+    * tags: [homebrew](../tagged/homebrew.md), [osx](../tagged/osx.md), [macos](../tagged/macos.md)

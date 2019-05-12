@@ -1,0 +1,10 @@
+free-programming-books-ro - [www.bookmarks.dev/tagged/free-programming-books-ro](https://www.bookmarks.dev/tagged/free-programming-books-ro)
+---
+* [PHP](http://php.punctsivirgula.ro)
+    * tags: [free-programming-books](../tagged/free-programming-books.md), [php](../tagged/php.md), [free-programming-books-ro](../tagged/free-programming-books-ro.md)
+* [MySQL](http://profs.info.uaic.ro/~busaco/teach/courses/net/docs/mysql-ro.pdf)
+    * tags: [free-programming-books](../tagged/free-programming-books.md), [mysql](../tagged/mysql.md), [free-programming-books-ro](../tagged/free-programming-books-ro.md)
+* [HTML](http://tutorialehtml.com/ro/introducere-in-html/)
+    * tags: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-ro](../tagged/free-programming-books-ro.md), [hmtl](../tagged/hmtl.md)
+* [Ajax](http://etutoriale.ro/articles/1483/1/Tutorial-Ajax/)
+    * tags: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-ro](../tagged/free-programming-books-ro.md), [ajax](../tagged/ajax.md)

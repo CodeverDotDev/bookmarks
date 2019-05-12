@@ -1,0 +1,12 @@
+distribuce - [www.bookmarks.dev/tagged/distribuce](https://www.bookmarks.dev/tagged/distribuce)
+---
+* [SUSE Linux: uživatelská příručka](http://www.root.cz/knihy/suse-linux-uzivatelska-prirucka/)
+    * tags: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-cs](../tagged/free-programming-books-cs.md), [linux](../tagged/linux.md), [distribuce](../tagged/distribuce.md)
+* [Příručka uživatele Fedora 17](http://www.root.cz/knihy/prirucka-uzivatele-fedora-17/)
+    * tags: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-cs](../tagged/free-programming-books-cs.md), [linux](../tagged/linux.md), [distribuce](../tagged/distribuce.md)
+* [Mandriva Linux 2008 CZ](http://www.root.cz/knihy/mandriva-linux-2008-cz/)
+    * tags: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-cs](../tagged/free-programming-books-cs.md), [linux](../tagged/linux.md), [distribuce](../tagged/distribuce.md)
+* [Instalace a konfigurace Debian Linuxu](http://www.root.cz/knihy/instalace-a-konfigurace-debian-linuxu/)
+    * tags: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-cs](../tagged/free-programming-books-cs.md), [linux](../tagged/linux.md), [distribuce](../tagged/distribuce.md)
+* [Gentoo Handbook česky](http://www.root.cz/knihy/gentoo-handbook-cesky/)
+    * tags: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-cs](../tagged/free-programming-books-cs.md), [linux](../tagged/linux.md), [distribuce](../tagged/distribuce.md)

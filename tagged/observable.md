@@ -1,0 +1,16 @@
+observable - [www.bookmarks.dev/tagged/observable](https://www.bookmarks.dev/tagged/observable)
+---
+* [2 minute introduction to Rx – André Staltz – Medium](https://medium.com/@andrestaltz/2-minute-introduction-to-rx-24c8ca793877)
+    * :calendar: published on: 2014-07-30
+    * tags: [rx](../tagged/rx.md), [observable](../tagged/observable.md)
+* [The introduction to Reactive Programming you've been missing · GitHub](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
+    * tags: [observable](../tagged/observable.md), [rxjs](../tagged/rxjs.md)
+* [ReactiveX - Observable](http://reactivex.io/documentation/observable.html)
+    * tags: [observable](../tagged/observable.md), [rxjs](../tagged/rxjs.md)
+* [Cold vs Hot Observables by thoughtram](https://blog.thoughtram.io/angular/2016/06/16/cold-vs-hot-observables.html)
+    * tags: [angular](../tagged/angular.md), [observable](../tagged/observable.md), [rxjs](../tagged/rxjs.md)
+* [Tackling State – Angular 2](http://victorsavkin.com/post/137821436516/managing-state-in-angular-2-applications)
+    * tags: [angular](../tagged/angular.md), [rxjs](../tagged/rxjs.md), [observable](../tagged/observable.md)
+* [How to build Angular App with Observable Data Services - Pitfalls](http://blog.angular-university.io/how-to-build-angular2-apps-using-rxjs-observable-data-services-pitfalls-to-avoid/)
+    * tags: [angular](../tagged/angular.md), [observable](../tagged/observable.md), [data-services](../tagged/data-services.md)
+    * :octocat: [github url](https://github.com/jhades/angular2-rxjs-observable-data-services/blob/master/src/state/TodoStore.ts)

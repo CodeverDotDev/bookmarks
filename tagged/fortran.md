@@ -1,0 +1,10 @@
+fortran - [www.bookmarks.dev/tagged/fortran](https://www.bookmarks.dev/tagged/fortran)
+---
+* [Self Study Guide: Programming in Fortran 95](http://www.mrao.cam.ac.uk/~rachael/compphys/SelfStudyF95.pdf)
+    * tags: [free-programming-books](../tagged/free-programming-books.md), [fortran](../tagged/fortran.md)
+* [Introduction to fortran 95 and numerical computing: a jump-start for scientists and engineers](http://people.cs.vt.edu/~asandu/Deposit/Fortran95_notes.pdf)
+    * tags: [free-programming-books](../tagged/free-programming-books.md), [fortran](../tagged/fortran.md)
+* [Fortran77和90/95编程入门](http://micro.ustc.edu.cn/Fortran/ZJDing/)
+    * tags: [free-programming-books](../tagged/free-programming-books.md), [fortran](../tagged/fortran.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
+* [Fortran Programlama Dili](http://www1.gantep.edu.tr/~bingul/f95/index.php)
+    * tags: [free-programming-books](../tagged/free-programming-books.md), [fortran](../tagged/fortran.md), [free-programming-books-tr](../tagged/free-programming-books-tr.md)

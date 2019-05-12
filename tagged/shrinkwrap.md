@@ -1,0 +1,10 @@
+shrinkwrap - [www.bookmarks.dev/tagged/shrinkwrap](https://www.bookmarks.dev/tagged/shrinkwrap)
+---
+* [ShrinkWrap Resolver · Arquillian](http://arquillian.org/modules/resolver-shrinkwrap/)
+    * tags: [arquillian](../tagged/arquillian.md), [shrinkwrap](../tagged/shrinkwrap.md)
+    * :octocat: [github url](https://github.com/shrinkwrap/resolver)
+* [Creating Deployable Archives with ShrinkWrap · Arquillian Guides](http://arquillian.org/guides/shrinkwrap_introduction/)
+    * tags: [arquillian](../tagged/arquillian.md), [shrinkwrap](../tagged/shrinkwrap.md)
+* [GitHub - shrinkwrap/shrinkwrap: Java API for Archive Manipulation](https://github.com/shrinkwrap/shrinkwrap)
+    * tags: [arquillian](../tagged/arquillian.md), [shrinkwrap](../tagged/shrinkwrap.md)
+    * :octocat: [github url](https://github.com/shrinkwrap/shrinkwrap)

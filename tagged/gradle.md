@@ -1,0 +1,17 @@
+gradle - [www.bookmarks.dev/tagged/gradle](https://www.bookmarks.dev/tagged/gradle)
+---
+* [Google Cloud Platform Blog Introducing Jib — build Java Docker images better](https://cloudplatform.googleblog.com/2018/07/introducing-jib-build-java-docker-images-better.html)
+    * :calendar: published on: 2018-07-09
+    * tags: [jib](../tagged/jib.md), [java](../tagged/java.md), [maven](../tagged/maven.md), [maven-plugin](../tagged/maven-plugin.md), [gradle](../tagged/gradle.md), [docker](../tagged/docker.md), [dockerfile](../tagged/dockerfile.md)
+    * :octocat: [github url](https://github.com/GoogleContainerTools/jib)
+* [jib home page](https://github.com/GoogleContainerTools/jib)
+    * tags: [docker](../tagged/docker.md), [maven-plugin](../tagged/maven-plugin.md), [java](../tagged/java.md), [gradle](../tagged/gradle.md)
+    * :octocat: [github url](https://github.com/GoogleContainerTools/jib)
+* [ビルドツールGradleスタートアップガイドの紹介](https://www.ntts.co.jp/column/tec/java_03/)
+    * tags: [gradle](../tagged/gradle.md), [free-programming-books-ja](../tagged/free-programming-books-ja.md), [free-programming-books](../tagged/free-programming-books.md)
+* [Gradle 日本語ドキュメント](http://gradle.monochromeroad.com/docs/)
+    * tags: [gradle](../tagged/gradle.md), [free-programming-books-ja](../tagged/free-programming-books-ja.md), [free-programming-books](../tagged/free-programming-books.md)
+* [Gradle User Guide](https://docs.gradle.org/current/userguide/userguide.html)
+    * tags: [gradle](../tagged/gradle.md), [free-programming-books](../tagged/free-programming-books.md), [groovy](../tagged/groovy.md)
+* [Building Java Projects with Gradle](http://spring.io/guides/gs/gradle/)
+    * tags: [gradle](../tagged/gradle.md), [free-programming-books](../tagged/free-programming-books.md), [groovy](../tagged/groovy.md)

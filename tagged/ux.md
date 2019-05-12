@@ -1,0 +1,6 @@
+ux - [www.bookmarks.dev/tagged/ux](https://www.bookmarks.dev/tagged/ux)
+---
+* [Should form 'Continue' button be disabled if validation is incomplete?](https://ux.stackexchange.com/questions/73728/should-form-continue-button-be-disabled-if-validation-is-incomplete/73731)
+    * tags: [ux](../tagged/ux.md)
+* [ShopTalk: A Web Design and Development Podcast with Chris Coyier and Dave Rupert](http://shoptalkshow.com/)
+    * tags: [podcast](../tagged/podcast.md), [web-design](../tagged/web-design.md), [ux](../tagged/ux.md)

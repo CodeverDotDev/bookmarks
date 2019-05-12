@@ -1,0 +1,10 @@
+resources - [www.bookmarks.dev/tagged/resources](https://www.bookmarks.dev/tagged/resources)
+---
+* [useful-java-links](https://github.com/Vedenin/useful-java-links#readme)
+    * tags: [java](../tagged/java.md), [resources](../tagged/resources.md), [awesome](../tagged/awesome.md), [awesome-list](../tagged/awesome-list.md)
+    * :octocat: [github url](https://github.com/Vedenin/useful-java-links)
+* [Coding bookmarks, aka #codingmarks](https://www.codingmarks.org/)
+    * tags: [resources](../tagged/resources.md), [free-programming-books](../tagged/free-programming-books.md)
+* [Learn Anything](https://learn-anything.xyz/)
+    * tags: [resources](../tagged/resources.md)
+    * :octocat: [github url](https://github.com/learn-anything/learn-anything)

@@ -1,0 +1,12 @@
+coq - [www.bookmarks.dev/tagged/coq](https://www.bookmarks.dev/tagged/coq)
+---
+* [zeimer.github.io (Programowanie Funkcyjne)](https://zeimer.github.io)
+    * tags: [free-programming-books](../tagged/free-programming-books.md), [coq](../tagged/coq.md), [free-programming-books-pl](../tagged/free-programming-books-pl.md)
+* [ソフトウェアの基礎](http://proofcafe.org/sf/)
+    * tags: [free-programming-books-ja](../tagged/free-programming-books-ja.md), [free-programming-books](../tagged/free-programming-books.md), [coq](../tagged/coq.md)
+* [Le Coq'Art (V8)](http://www.labri.fr/perso/casteran/CoqArt/)
+    * tags: [free-programming-books](../tagged/free-programming-books.md), [coq](../tagged/coq.md), [free-programming-books-fr](../tagged/free-programming-books-fr.md)
+* [Software Foundations](http://www.cis.upenn.edu/~bcpierce/sf/)
+    * tags: [free-programming-books](../tagged/free-programming-books.md), [coq](../tagged/coq.md)
+* [Certified Programming with Dependent Types](http://adam.chlipala.net/cpdt/html/toc.html)
+    * tags: [free-programming-books](../tagged/free-programming-books.md), [coq](../tagged/coq.md)

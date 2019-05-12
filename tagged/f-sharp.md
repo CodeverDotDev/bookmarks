@@ -1,0 +1,12 @@
+f-sharp - [www.bookmarks.dev/tagged/f-sharp](https://www.bookmarks.dev/tagged/f-sharp)
+---
+* [Real World Functional Programming](https://msdn.microsoft.com/en-us/library/hh314518.aspx)
+    * tags: [free-programming-books](../tagged/free-programming-books.md), [f-sharp](../tagged/f-sharp.md)
+* [Programming Language Concepts for Software Developers](http://www.itu.dk/courses/BPRD/E2009/plcsd-1-2.pdf)
+    * tags: [free-programming-books](../tagged/free-programming-books.md), [f-sharp](../tagged/f-sharp.md)
+* [F# Succinctly, SyncFusion](https://www.syncfusion.com/resources/techportal/ebooks/fsharp)
+    * tags: [free-programming-books](../tagged/free-programming-books.md), [f-sharp](../tagged/f-sharp.md)
+* [F# Programming](https://en.wikibooks.org/wiki/F_Sharp_Programming)
+    * tags: [free-programming-books](../tagged/free-programming-books.md), [f-sharp](../tagged/f-sharp.md)
+* [F# for fun and profit](https://www.gitbook.com/book/swlaschin/fsharpforfunandprofit/details)
+    * tags: [free-programming-books](../tagged/free-programming-books.md), [f-sharp](../tagged/f-sharp.md)

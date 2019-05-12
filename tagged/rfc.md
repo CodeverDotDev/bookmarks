@@ -1,0 +1,12 @@
+rfc - [www.bookmarks.dev/tagged/rfc](https://www.bookmarks.dev/tagged/rfc)
+---
+* [The OAuth 2.0 Authorization Framework: Bearer Token Usage](https://tools.ietf.org/html/rfc6750)
+    * tags: [oauth2](../tagged/oauth2.md), [rfc](../tagged/rfc.md)
+* [Hypertext Transfer Protocol -- HTTP/1.1](https://tools.ietf.org/html/rfc2616)
+    * tags: [http](../tagged/http.md), [rfc](../tagged/rfc.md)
+* [The OAuth 2.0 Authorization Framework](https://tools.ietf.org/html/rfc6749)
+    * tags: [oauth2](../tagged/oauth2.md), [rfc](../tagged/rfc.md)
+* [Internet X.509 Public Key Infrastructure Certificate and Certificate Revocation List (CRL) Profile](https://tools.ietf.org/html/rfc5280)
+    * tags: [security](../tagged/security.md), [cryptography](../tagged/cryptography.md), [x509](../tagged/x509.md), [rfc](../tagged/rfc.md)
+* [JSON Web Token (JWT) - specification / spec](https://tools.ietf.org/html/rfc7519)
+    * tags: [jwt](../tagged/jwt.md), [rfc](../tagged/rfc.md), [specifications](../tagged/specifications.md)

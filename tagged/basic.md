@@ -1,0 +1,10 @@
+basic - [www.bookmarks.dev/tagged/basic](https://www.bookmarks.dev/tagged/basic)
+---
+* [Visual Basic Essentials](http://www.techotopia.com/index.php/Visual_Basic_Essentials)
+    * tags: [free-programming-books](../tagged/free-programming-books.md), [basic](../tagged/basic.md)
+* [Pick/Basic: A Programmer's Guide](http://www.jes.com/pb/)
+    * tags: [free-programming-books](../tagged/free-programming-books.md), [basic](../tagged/basic.md)
+* [A beginner's guide to Gambas](http://beginnersguidetogambas.com)
+    * tags: [free-programming-books](../tagged/free-programming-books.md), [basic](../tagged/basic.md)
+* [10 PRINT CHR$(205.5+RND(1)); : GOTO 10](http://10print.org)
+    * tags: [free-programming-books](../tagged/free-programming-books.md), [basic](../tagged/basic.md)

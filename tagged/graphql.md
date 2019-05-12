@@ -1,0 +1,35 @@
+graphql - [www.bookmarks.dev/tagged/graphql](https://www.bookmarks.dev/tagged/graphql)
+---
+* [Lessons from 4 Years of GraphQL - YouTube](https://www.youtube.com/watch?v=zVNrqo9XGOs)
+    * :calendar: published on: 2016-11-03
+    * tags: [graphql](../tagged/graphql.md)
+* [Nate Barbettini – API Throwdown: RPC vs REST vs GraphQL, Iterate 2018](https://www.youtube.com/watch?v=IvsANO0qZEg)
+    * :calendar: published on: 2018-03-09
+    * tags: [rest](../tagged/rest.md), [rpc](../tagged/rpc.md), [graphql](../tagged/graphql.md)
+* [The GitHub GraphQL API](https://githubengineering.com/the-github-graphql-api/)
+    * tags: [graphql](../tagged/graphql.md), [rest](../tagged/rest.md), [api-design](../tagged/api-design.md)
+* [When to Use What: REST, GraphQL, Webhooks, & gRPC](https://nordicapis.com/when-to-use-what-rest-graphql-webhooks-grpc/)
+    * tags: [rest](../tagged/rest.md), [grpc](../tagged/grpc.md), [graphql](../tagged/graphql.md), [webhooks](../tagged/webhooks.md), [api-design](../tagged/api-design.md)
+* [Getting Started with GraphQL and Spring Boot](https://www.baeldung.com/spring-graphql)
+    * :calendar: published on: 2001-11-18
+    * tags: [graphql](../tagged/graphql.md), [spring-boot](../tagged/spring-boot.md)
+    * :octocat: [github url](https://github.com/eugenp/tutorials/tree/master/spring-boot)
+* [GraphQL Java Kickstart](https://www.graphql-java-kickstart.com/)
+    * tags: [graphql](../tagged/graphql.md), [java](../tagged/java.md), [spring-boot](../tagged/spring-boot.md)
+    * :octocat: [github url](https://github.com/graphql-java-kickstart)
+* [GraphQL - A query language for your API - homepage](https://graphql.org/)
+    * tags: [graphql](../tagged/graphql.md), [api](../tagged/api.md)
+    * :octocat: [github url](https://graphql.org/code/)
+* [GraphQL as an API Gateway to Microservices - via @codeship](https://blog.codeship.com/graphql-as-an-api-gateway-to-micro-services/)
+    * :calendar: published on: 2018-02-07
+    * tags: [microservices](../tagged/microservices.md), [rest](../tagged/rest.md), [graphql](../tagged/graphql.md)
+    * :octocat: [github url](https://github.com/fireproofsocks/graphql-example)
+* [Zero to GraphQL in 30 Minutes – Steven Luscher - YouTube](https://www.youtube.com/watch?v=UBGzsb2UkeY)
+    * :calendar: published on: 2016-04-25
+    * tags: [graphql](../tagged/graphql.md), [ruby](../tagged/ruby.md), [python](../tagged/python.md), [expressjs](../tagged/expressjs.md)
+    * :octocat: [github url](https://github.com/steveluscher/zero-to-graphql)
+* [GraphQL](http://facebook.github.io/graphql/)
+    * tags: [graphql](../tagged/graphql.md)
+    * :octocat: [github url](https://github.com/facebook/graphql)
+* [GitHub - graphql-java/graphql-java: GraphQL Java implementation](https://github.com/graphql-java/graphql-java)
+    * tags: [graphql](../tagged/graphql.md), [java](../tagged/java.md)

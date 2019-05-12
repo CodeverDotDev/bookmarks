@@ -1,0 +1,12 @@
+algorithmique - [www.bookmarks.dev/tagged/algorithmique](https://www.bookmarks.dev/tagged/algorithmique)
+---
+* [Prologin](https://prologin.org)
+    * tags: [free-programming-books](../tagged/free-programming-books.md), [algorithmique](../tagged/algorithmique.md), [free-programming-books-fr](../tagged/free-programming-books-fr.md), [non-dépendant-du-langage](../tagged/non-dépendant-du-langage.md)
+* [France-IOI](http://www.france-ioi.org)
+    * tags: [free-programming-books](../tagged/free-programming-books.md), [algorithmique](../tagged/algorithmique.md), [free-programming-books-fr](../tagged/free-programming-books-fr.md), [non-dépendant-du-langage](../tagged/non-dépendant-du-langage.md)
+* [Complexité algorithmique](http://www.liafa.univ-paris-diderot.fr/~sperifel/livre_complexite.html)
+    * tags: [free-programming-books](../tagged/free-programming-books.md), [algorithmique](../tagged/algorithmique.md), [free-programming-books-fr](../tagged/free-programming-books-fr.md), [non-dépendant-du-langage](../tagged/non-dépendant-du-langage.md)
+* [Éléments d'algorithmique](http://www-igm.univ-mlv.fr/~berstel/Elements/Elements.pdf)
+    * tags: [free-programming-books](../tagged/free-programming-books.md), [algorithmique](../tagged/algorithmique.md), [free-programming-books-fr](../tagged/free-programming-books-fr.md), [non-dépendant-du-langage](../tagged/non-dépendant-du-langage.md)
+* [Algorithmique](http://pauillac.inria.fr/~quercia/cdrom/cours/)
+    * tags: [free-programming-books](../tagged/free-programming-books.md), [algorithmique](../tagged/algorithmique.md), [free-programming-books-fr](../tagged/free-programming-books-fr.md), [non-dépendant-du-langage](../tagged/non-dépendant-du-langage.md)

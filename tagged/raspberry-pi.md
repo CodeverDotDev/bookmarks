@@ -1,0 +1,10 @@
+raspberry-pi - [www.bookmarks.dev/tagged/raspberry-pi](https://www.bookmarks.dev/tagged/raspberry-pi)
+---
+* [راسبيري باي ببساطة ](http://librebooks.org/simply-raspberry-pi/)
+    * tags: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-ar](../tagged/free-programming-books-ar.md), [raspberry-pi](../tagged/raspberry-pi.md)
+* [Raspberry Pi Users Guide](http://www.cs.unca.edu/~bruce/Fall14/360/RPiUsersGuide.pdf)
+    * tags: [free-programming-books](../tagged/free-programming-books.md), [raspberry-pi](../tagged/raspberry-pi.md)
+* [Raspberry Pi: Measure, Record, Explore](https://leanpub.com/RPiMRE)
+    * tags: [free-programming-books](../tagged/free-programming-books.md), [raspberry-pi](../tagged/raspberry-pi.md)
+* [Raspberry Pi Cookbook for Python Programmers](https://www.packtpub.com/packt/free-ebook/python-raspberry-pi-cookbook)
+    * tags: [free-programming-books](../tagged/free-programming-books.md), [raspberry-pi](../tagged/raspberry-pi.md)

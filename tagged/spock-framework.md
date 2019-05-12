@@ -1,0 +1,10 @@
+spock-framework - [www.bookmarks.dev/tagged/spock-framework](https://www.bookmarks.dev/tagged/spock-framework)
+---
+* [Spock Framework リファレンスドキュメント](http://spock-framework-reference-documentation-ja.readthedocs.org/ja/latest/)
+    * tags: [free-programming-books-ja](../tagged/free-programming-books-ja.md), [free-programming-books](../tagged/free-programming-books.md), [spock-framework](../tagged/spock-framework.md)
+* [G*ワークショップZ May 2013 - Spockハンズオンの資料](https://github.com/yamkazu/spock-workshop/tree/master/docs)
+    * tags: [free-programming-books-ja](../tagged/free-programming-books-ja.md), [free-programming-books](../tagged/free-programming-books.md), [spock-framework](../tagged/spock-framework.md)
+* [Spock Intro](http://edgibbs.com/spock-intro-a-bdd-testing-framework-in-groovy/)
+    * tags: [free-programming-books](../tagged/free-programming-books.md), [spock-framework](../tagged/spock-framework.md), [groovy](../tagged/groovy.md)
+* [Spock Framework Reference Documentation](https://spockframework.github.io/spock/docs/current/index.html)
+    * tags: [free-programming-books](../tagged/free-programming-books.md), [spock-framework](../tagged/spock-framework.md), [groovy](../tagged/groovy.md)

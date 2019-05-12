@@ -1,0 +1,12 @@
+haxe - [www.bookmarks.dev/tagged/haxe](https://www.bookmarks.dev/tagged/haxe)
+---
+* [Kha Handbook](https://github.com/KTXSoftware/Kha/wiki/Tutorials)
+    * tags: [free-programming-books](../tagged/free-programming-books.md), [haxe](../tagged/haxe.md)
+* [HaxeFlixel Handbook](http://haxeflixel.com/documentation/haxeflixel-handbook/)
+    * tags: [free-programming-books](../tagged/free-programming-books.md), [haxe](../tagged/haxe.md)
+* [Haxe Manual](http://haxe.org/documentation/introduction/)
+    * tags: [free-programming-books](../tagged/free-programming-books.md), [haxe](../tagged/haxe.md)
+* [Haxe and JavaScript](https://matthijskamstra.github.io/haxejs/)
+    * tags: [free-programming-books](../tagged/free-programming-books.md), [haxe](../tagged/haxe.md)
+* [Flambe Handbook](https://github.com/markknol/flambe-guide/wiki)
+    * tags: [free-programming-books](../tagged/free-programming-books.md), [haxe](../tagged/haxe.md)

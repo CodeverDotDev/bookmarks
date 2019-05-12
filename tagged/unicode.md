@@ -1,0 +1,11 @@
+unicode - [www.bookmarks.dev/tagged/unicode](https://www.bookmarks.dev/tagged/unicode)
+---
+* [How to support full Unicode in MySQL databases · Mathias Bynens](https://mathiasbynens.be/notes/mysql-utf8mb4)
+    * :calendar: published on: 2012-07-30
+    * tags: [mysql](../tagged/mysql.md), [unicode](../tagged/unicode.md), [utf-8](../tagged/utf-8.md)
+* [sql server - What is the difference between varchar and nvarchar? - Stack Overflow](http://stackoverflow.com/questions/144283/what-is-the-difference-between-varchar-and-nvarchar)
+    * tags: [varchar](../tagged/varchar.md), [nvarchar](../tagged/nvarchar.md), [unicode](../tagged/unicode.md), [encoding](../tagged/encoding.md)
+* [Unicode - Wikipedia](https://en.wikipedia.org/wiki/Unicode)
+    * tags: [unicode](../tagged/unicode.md)
+* [mysql - What's the difference between utf8_general_ci and utf8_unicode_ci - Stack Overflow](http://stackoverflow.com/questions/766809/whats-the-difference-between-utf8-general-ci-and-utf8-unicode-ci)
+    * tags: [mysql](../tagged/mysql.md), [unicode](../tagged/unicode.md), [utf-8](../tagged/utf-8.md)

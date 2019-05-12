@@ -1,0 +1,10 @@
+d - [www.bookmarks.dev/tagged/d](https://www.bookmarks.dev/tagged/d)
+---
+* [D言語基礎文法最速マスター](https://gist.github.com/repeatedly/2470712)
+    * tags: [free-programming-books-ja](../tagged/free-programming-books-ja.md), [free-programming-books](../tagged/free-programming-books.md), [d](../tagged/d.md)
+* [Programming in D](http://ddili.org/ders/d.en/)
+    * tags: [free-programming-books](../tagged/free-programming-books.md), [d](../tagged/d.md)
+* [D Templates Tutorial](https://github.com/PhilippeSigaud/D-templates-tutorial)
+    * tags: [free-programming-books](../tagged/free-programming-books.md), [d](../tagged/d.md)
+* [D Programlama Dili](http://ddili.org/ders/d/D_Programlama_Dili.pdf)
+    * tags: [free-programming-books](../tagged/free-programming-books.md), [d](../tagged/d.md), [free-programming-books-tr](../tagged/free-programming-books-tr.md)

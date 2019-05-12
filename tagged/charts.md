@@ -1,0 +1,7 @@
+charts - [www.bookmarks.dev/tagged/charts](https://www.bookmarks.dev/tagged/charts)
+---
+* [Modern Visualization for the Data Era - Plotly](https://plot.ly/)
+    * tags: [charts](../tagged/charts.md), [javascript](../tagged/javascript.md), [python](../tagged/python.md), [data-science](../tagged/data-science.md)
+    * :octocat: [github url](https://github.com/plotly/plotly.js/)
+* [Datavisualization.ch Selected Tools](http://selection.datavisualization.ch/)
+    * tags: [data-visualization](../tagged/data-visualization.md), [maps](../tagged/maps.md), [colors](../tagged/colors.md), [charts](../tagged/charts.md)

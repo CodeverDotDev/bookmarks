@@ -1,0 +1,31 @@
+mongoose - [www.bookmarks.dev/tagged/mongoose](https://www.bookmarks.dev/tagged/mongoose)
+---
+* [Mongoose - SubDocuments](https://mongoosejs.com/docs/subdocs.html)
+    * tags: [mongoose](../tagged/mongoose.md), [mongodb](../tagged/mongodb.md)
+* [Cleaner code in NodeJs with async-await - Mongoose calls example – CodingpediaOrg](http://www.codingpedia.org/ama/cleaner-code-in-nodejs-with-async-await-mongoose-calls-example)
+    * :calendar: published on: 2017-11-05
+    * tags: [nodejs](../tagged/nodejs.md), [async-await](../tagged/async-await.md), [mongoose](../tagged/mongoose.md), [mongodb](../tagged/mongodb.md)
+    * :octocat: [github url](https://github.com/Codingpedia/codingmarks-api)
+* [mongoose-unique-validator](https://github.com/blakehaswell/mongoose-unique-validator)
+    * tags: [nodejs](../tagged/nodejs.md), [mongoose](../tagged/mongoose.md), [mongodb](../tagged/mongodb.md)
+    * :octocat: [github url](https://github.com/blakehaswell/mongoose-unique-validator)
+* [Using MongoDB as realtime DB with nodeJS. – Noteworthy - The Journal Blog](https://blog.usejournal.com/using-mongodb-as-realtime-db-with-nodejs-c6f52c266750)
+    * :calendar: published on: 2018-10-03
+    * tags: [mongodb](../tagged/mongodb.md), [mongoose](../tagged/mongoose.md), [nodejs](../tagged/nodejs.md)
+* [A Node.js Perspective on MongoDB 4.0: Transactions](http://thecodebarbarian.com/a-node-js-perspective-on-mongodb-4-transactions.html)
+    * :calendar: published on: 2018-07-02
+    * tags: [nodejs](../tagged/nodejs.md), [mongodb](../tagged/mongodb.md), [mongoose](../tagged/mongoose.md)
+* [GitHub - diegohaz/rest: REST API generator with Node.js, Express and Mongoose](https://github.com/diegohaz/rest)
+    * tags: [nodejs](../tagged/nodejs.md), [expressjs](../tagged/expressjs.md), [mongoose](../tagged/mongoose.md), [yeoman](../tagged/yeoman.md), [tools](../tagged/tools.md)
+    * :octocat: [github url](https://github.com/diegohaz/rest)
+* [javascript - Mongoose Model.save() hangs when called from node.js app - Stack Overflow](https://stackoverflow.com/questions/12030371/mongoose-model-save-hangs-when-called-from-node-js-app)
+    * tags: [mongoose](../tagged/mongoose.md), [mongodb](../tagged/mongodb.md), [nodejs](../tagged/nodejs.md)
+* [RESTful API In Node & Express With TypeScript & MongoDB - YouTube](https://www.youtube.com/watch?v=XqbBv1i9Yhc)
+    * :calendar: published on: 2017-07-03
+    * tags: [nodejs](../tagged/nodejs.md), [expressjs](../tagged/expressjs.md), [mongodb](../tagged/mongodb.md), [mongoose](../tagged/mongoose.md), [typescript](../tagged/typescript.md)
+    * :octocat: [github url](https://github.com/iamclaytonray/tes)
+* [@types/mongoose-promise does not override mongoose's default promise lib · Issue #10743 · DefinitelyTyped/DefinitelyTyped · GitHub](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/10743)
+    * tags: [mongoose](../tagged/mongoose.md), [typescript](../tagged/typescript.md)
+* [GitHub - szokodiakos/typegoose: Typegoose - Define Mongoose models using TypeScript classes.](https://github.com/szokodiakos/typegoose)
+    * tags: [mongoose](../tagged/mongoose.md), [mongodb](../tagged/mongodb.md), [nodejs](../tagged/nodejs.md)
+    * :octocat: [github url](https://github.com/szokodiakos/typegoose)

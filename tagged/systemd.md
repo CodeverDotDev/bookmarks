@@ -1,0 +1,15 @@
+systemd - [www.bookmarks.dev/tagged/systemd](https://www.bookmarks.dev/tagged/systemd)
+---
+* [Systemd Essentials: Working with Services, Units, and the Journal | DigitalOceanDigitalOcean](https://www.digitalocean.com/community/tutorials/systemd-essentials-working-with-services-units-and-the-journal)
+    * :calendar: published on: 2015-04-20
+    * tags: [systemd](../tagged/systemd.md), [linux](../tagged/linux.md)
+* [Process managers for Express apps](https://expressjs.com/en/advanced/pm.html)
+    * tags: [expressjs](../tagged/expressjs.md), [pm2](../tagged/pm2.md), [strongloop](../tagged/strongloop.md), [forever](../tagged/forever.md), [systemd](../tagged/systemd.md)
+* [Env Vars in systemd Unit](https://coreos.com/os/docs/latest/using-environment-variables-in-systemd-units.html)
+    * tags: [systemd](../tagged/systemd.md)
+* [systemd - Debian Wiki](https://wiki.debian.org/systemd)
+    * tags: [systemd](../tagged/systemd.md), [linux](../tagged/linux.md)
+* [Systemd - FedoraProject](https://fedoraproject.org/wiki/Systemd)
+    * tags: [linux](../tagged/linux.md), [systemd](../tagged/systemd.md), [systemctl](../tagged/systemctl.md)
+* [What is an init system? - Fedora Magazine](https://fedoramagazine.org/what-is-an-init-system/)
+    * tags: [linux](../tagged/linux.md), [systemd](../tagged/systemd.md), [systemctl](../tagged/systemctl.md)

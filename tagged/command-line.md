@@ -1,0 +1,11 @@
+command-line - [www.bookmarks.dev/tagged/command-line](https://www.bookmarks.dev/tagged/command-line)
+---
+* [Create React App · Set up a modern web app by running one command.](https://facebook.github.io/create-react-app/)
+    * tags: [reactjs](../tagged/reactjs.md), [cli](../tagged/cli.md), [command-line](../tagged/command-line.md)
+    * :octocat: [github url](https://github.com/facebook/create-react-app)
+* [jq home page](https://stedolan.github.io/jq/)
+    * tags: [jq](../tagged/jq.md), [command-line](../tagged/command-line.md), [json](../tagged/json.md), [curl](../tagged/curl.md), [dev-tools](../tagged/dev-tools.md)
+    * :octocat: [github url](https://github.com/stedolan/jq)
+* [HTTPie – command line HTTP client home page](https://httpie.org/)
+    * tags: [cli](../tagged/cli.md), [command-line](../tagged/command-line.md), [http-client](../tagged/http-client.md), [curl](../tagged/curl.md), [dev-tools](../tagged/dev-tools.md)
+    * :octocat: [github url](https://github.com/jakubroztocil/httpie)

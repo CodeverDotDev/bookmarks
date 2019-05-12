@@ -1,0 +1,12 @@
+indice - [www.bookmarks.dev/tagged/indice](https://www.bookmarks.dev/tagged/indice)
+---
+* [Prolog](#prolog)
+    * tags: [free-programming-books](../tagged/free-programming-books.md), [indice](../tagged/indice.md), [free-programming-books-pt_PT](../tagged/free-programming-books-pt_PT.md)
+* [LaTeX](#latex)
+    * tags: [free-programming-books](../tagged/free-programming-books.md), [indice](../tagged/indice.md), [free-programming-books-pt_PT](../tagged/free-programming-books-pt_PT.md)
+* [Haskell](#haskell)
+    * tags: [free-programming-books](../tagged/free-programming-books.md), [indice](../tagged/indice.md), [free-programming-books-pt_PT](../tagged/free-programming-books-pt_PT.md)
+* [CSS](#css)
+    * tags: [free-programming-books](../tagged/free-programming-books.md), [indice](../tagged/indice.md), [free-programming-books-pt_PT](../tagged/free-programming-books-pt_PT.md)
+* [C/C++](#cc)
+    * tags: [free-programming-books](../tagged/free-programming-books.md), [indice](../tagged/indice.md), [free-programming-books-pt_PT](../tagged/free-programming-books-pt_PT.md)

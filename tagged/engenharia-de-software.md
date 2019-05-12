@@ -1,0 +1,10 @@
+engenharia-de-software - [www.bookmarks.dev/tagged/engenharia-de-software](https://www.bookmarks.dev/tagged/engenharia-de-software)
+---
+* [Primeiros passos com Padrões de Projeto](https://leanpub.com/primeiros-passos-com-padroes-de-projeto/)
+    * tags: [free-programming-books](../tagged/free-programming-books.md), [outros](../tagged/outros.md), [free-programming-books-pt_BR](../tagged/free-programming-books-pt_BR.md), [engenharia-de-software](../tagged/engenharia-de-software.md)
+* [Scrum e XP direto das Trincheiras](http://www.infoq.com/br/minibooks/scrum-xp-from-the-trenches)
+    * tags: [free-programming-books](../tagged/free-programming-books.md), [metodologias-de-desenvolvimento-de-software](../tagged/metodologias-de-desenvolvimento-de-software.md), [free-programming-books-pt_BR](../tagged/free-programming-books-pt_BR.md), [engenharia-de-software](../tagged/engenharia-de-software.md)
+* [Kanban em 10 Passos](http://www.infoq.com/br/minibooks/priming-kanban-jesper-boeg)
+    * tags: [free-programming-books](../tagged/free-programming-books.md), [metodologias-de-desenvolvimento-de-software](../tagged/metodologias-de-desenvolvimento-de-software.md), [free-programming-books-pt_BR](../tagged/free-programming-books-pt_BR.md), [engenharia-de-software](../tagged/engenharia-de-software.md)
+* [Kanban e Scrum - obtendo o melhor de ambos](http://www.infoq.com/br/minibooks/kanban-scrum-minibook)
+    * tags: [free-programming-books](../tagged/free-programming-books.md), [metodologias-de-desenvolvimento-de-software](../tagged/metodologias-de-desenvolvimento-de-software.md), [free-programming-books-pt_BR](../tagged/free-programming-books-pt_BR.md), [engenharia-de-software](../tagged/engenharia-de-software.md)

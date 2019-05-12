@@ -1,0 +1,12 @@
+emacs - [www.bookmarks.dev/tagged/emacs](https://www.bookmarks.dev/tagged/emacs)
+---
+* [Una Introducción a Emacs Lisp en Español](http://savannah.nongnu.org/git/?group=elisp-es)
+    * tags: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-es](../tagged/free-programming-books-es.md), [emacs](../tagged/emacs.md)
+* [GNU Emacs Manual](https://www.gnu.org/software/emacs/manual/pdf/emacs.pdf)
+    * tags: [free-programming-books](../tagged/free-programming-books.md), [emacs](../tagged/emacs.md)
+* [GNU Emacs Lisp Reference Manual](http://www.gnu.org/software/emacs/manual/elisp.html)
+    * tags: [free-programming-books](../tagged/free-programming-books.md), [emacs](../tagged/emacs.md)
+* [An Introduction to Programming in Emacs Lisp, 3rd Edition](https://www.gnu.org/software/emacs/manual/html_node/eintr/index.html)
+    * tags: [free-programming-books](../tagged/free-programming-books.md), [emacs](../tagged/emacs.md)
+* [Emacs Rocks!](http://emacsrocks.com/)
+    * tags: [emacs](../tagged/emacs.md), [screencast](../tagged/screencast.md)

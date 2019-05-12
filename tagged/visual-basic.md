@@ -1,0 +1,10 @@
+visual-basic - [www.bookmarks.dev/tagged/visual-basic](https://www.bookmarks.dev/tagged/visual-basic)
+---
+* [Visual Basic 2008](http://openbook.rheinwerk-verlag.de/visualbasic_2008/)
+    * tags: [free-programming-books](../tagged/free-programming-books.md), [visual-basic](../tagged/visual-basic.md), [free-programming-books-de](../tagged/free-programming-books-de.md)
+* [Einstieg in Visual Basic 2012](http://openbook.rheinwerk-verlag.de/einstieg_vb_2012/)
+    * tags: [free-programming-books](../tagged/free-programming-books.md), [visual-basic](../tagged/visual-basic.md), [free-programming-books-de](../tagged/free-programming-books-de.md)
+* [Einstieg in Visual Basic 2010](http://openbook.rheinwerk-verlag.de/einstieg_vb_2010/)
+    * tags: [free-programming-books](../tagged/free-programming-books.md), [visual-basic](../tagged/visual-basic.md), [free-programming-books-de](../tagged/free-programming-books-de.md)
+* [Corso Visual Basic](http://www.webalice.it/kindofapple/corsovb.pdf)
+    * tags: [free-programming-books](../tagged/free-programming-books.md), [visual-basic](../tagged/visual-basic.md), [free-programming-books-it](../tagged/free-programming-books-it.md)
