@@ -1,5 +1,41 @@
 kubernetes - [www.bookmarks.dev/tagged/kubernetes](https://www.bookmarks.dev/tagged/kubernetes)
 ---
+* [Keycloak on Kubernetes - YouTube](https://www.youtube.com/watch?v=A_BYZ7hHWXE)
+    * :calendar: published on: 2018-06-27
+    * tags: [keycloak](../tags/keycloak.md), [kubernetes](../tags/kubernetes.md), [php](../tags/php.md), [minikube](../tags/minikube.md), [nodejs](../tags/nodejs.md)
+    * :octocat: [github url](https://github.com/stianst/demo-kubernetes)
+* [Continuous Development with Java and Kubernetes - DEV Community 👩‍💻👨‍💻](https://dev.to/pozo/continuous-development-with-java-and-kubernetes-3d08)
+    * :calendar: published on: 2011-03-01
+    * tags: [java](../tags/java.md), [kubernetes](../tags/kubernetes.md), [spring-boot](../tags/spring-boot.md), [helm](../tags/helm.md), [skaffold](../tags/skaffold.md), [debugging](../tags/debugging.md), [jib](../tags/jib.md)
+    * :octocat: [github url](https://github.com/Pozo/continuous-java-kubernetes)
+* [Google Open Source Container Tools: Life of a happy developer in a container world  by  David Gageot - YouTube](https://www.youtube.com/watch?v=4uU44VviyjM)
+    * :calendar: published on: 2018-11-14
+    * tags: [kubernetes](../tags/kubernetes.md), [skaffold](../tags/skaffold.md), [maven-plugin](../tags/maven-plugin.md), [jib](../tags/jib.md), [bazel](../tags/bazel.md), [dockerfile](../tags/dockerfile.md), [docker](../tags/docker.md), [kaniko](../tags/kaniko.md)
+* [Top 5 Exclusive Features of Docker For Mac That You Can’t Afford to Ignore – Collabnix](http://collabnix.com/top-5-exclusive-features-of-docker-for-mac-that-you-cant-afford-to-miss/)
+    * :calendar: published on: 2015-05-01
+    * tags: [docker](../tags/docker.md), [docker-compose](../tags/docker-compose.md), [kubernetes](../tags/kubernetes.md)
+* [Simplifying Kubernetes with Docker Compose and Friends - Docker Blog](https://blog.docker.com/2018/12/simplifying-kubernetes-with-docker-compose-and-friends/)
+    * :calendar: published on: 2018-04-12
+    * tags: [docker](../tags/docker.md), [docker-compose](../tags/docker-compose.md), [kubernetes](../tags/kubernetes.md)
+    * :octocat: [github url](https://github.com/docker/compose-on-kubernetes)
+* [Draft vs Gitkube vs Helm vs Ksonnet vs Metaparticle vs Skaffold](https://blog.hasura.io/draft-vs-gitkube-vs-helm-vs-ksonnet-vs-metaparticle-vs-skaffold-f5aa9561f948/#ba14)
+    * tags: [kubernetes](../tags/kubernetes.md), [kubernetes-helm](../tags/kubernetes-helm.md), [skaffold](../tags/skaffold.md)
+* [Draft home page](https://draft.sh/)
+    * tags: [kubernetes](../tags/kubernetes.md), [kubernetes-helm](../tags/kubernetes-helm.md), [draft](../tags/draft.md)
+    * :octocat: [github url](https://github.com/azure/draft)
+* [Skaffold home page](https://skaffold.dev/)
+    * tags: [skaffold](../tags/skaffold.md), [kubernetes](../tags/kubernetes.md)
+    * :octocat: [github url](https://github.com/GoogleContainerTools/skaffold)
+* [Using Kubernetes for Local Development](https://nemethgergely.com/using-kubernetes-for-local-development/)
+    * :calendar: published on: 2018-07-03
+    * tags: [kubernetes](../tags/kubernetes.md), [skaffold](../tags/skaffold.md), [nodejs](../tags/nodejs.md)
+    * :octocat: [github url](https://github.com/gergelyke/skaffold-nodejs-example)
+* [Optimising Kubernetes deployments with Helm by Erwin de Gier - YouTube [16m]](https://www.youtube.com/watch?v=TXZBuBQpm-Q)
+    * :calendar: published on: 2018-11-14
+    * tags: [kubernetes](../tags/kubernetes.md), [kubernetes-helm](../tags/kubernetes-helm.md)
+* [GitHub - helm/charts - Curated applications for Kubernetes](https://github.com/helm/charts)
+    * tags: [kubernetes](../tags/kubernetes.md), [kubernetes-helm](../tags/kubernetes-helm.md)
+    * :octocat: [github url](https://github.com/helm/charts)
 * [Kubernetes + Compose = Kompose](http://kompose.io/)
     * tags: [docker](../tags/docker.md), [docker-compose](../tags/docker-compose.md), [kubernetes](../tags/kubernetes.md), [devops](../tags/devops.md)
     * :octocat: [github url](https://github.com/kubernetes/kompose)

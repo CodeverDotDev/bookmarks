@@ -1,5 +1,8 @@
 openid-connect - [www.bookmarks.dev/tagged/openid-connect](https://www.bookmarks.dev/tagged/openid-connect)
 ---
+* [OAuth 2.0 and OpenID Connect (in plain English) - YouTube](https://www.youtube.com/watch?v=996OiexHze0)
+    * :calendar: published on: 2018-02-05
+    * tags: [oauth2](../tags/oauth2.md), [openid-connect](../tags/openid-connect.md), [security](../tags/security.md), [authentication](../tags/authentication.md), [authorization](../tags/authorization.md)
 * [Build Reactive APIs with Spring WebFlux](https://developer.okta.com/blog/2018/09/24/reactive-apis-with-spring-webflux#secure-your-spring-webflux-reactive-api-with-oidc)
     * tags: [reactive-programming](../tags/reactive-programming.md), [spring-webflux](../tags/spring-webflux.md), [mongodb](../tags/mongodb.md), [spring-security](../tags/spring-security.md), [openid-connect](../tags/openid-connect.md), [websocket](../tags/websocket.md)
     * :octocat: [github url](https://github.com/oktadeveloper/okta-spring-webflux-react-example)

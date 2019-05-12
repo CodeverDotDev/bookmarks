@@ -1,5 +1,16 @@
 kubernetes-helm - [www.bookmarks.dev/tagged/kubernetes-helm](https://www.bookmarks.dev/tagged/kubernetes-helm)
 ---
+* [Draft vs Gitkube vs Helm vs Ksonnet vs Metaparticle vs Skaffold](https://blog.hasura.io/draft-vs-gitkube-vs-helm-vs-ksonnet-vs-metaparticle-vs-skaffold-f5aa9561f948/#ba14)
+    * tags: [kubernetes](../tags/kubernetes.md), [kubernetes-helm](../tags/kubernetes-helm.md), [skaffold](../tags/skaffold.md)
+* [Draft home page](https://draft.sh/)
+    * tags: [kubernetes](../tags/kubernetes.md), [kubernetes-helm](../tags/kubernetes-helm.md), [draft](../tags/draft.md)
+    * :octocat: [github url](https://github.com/azure/draft)
+* [Optimising Kubernetes deployments with Helm by Erwin de Gier - YouTube [16m]](https://www.youtube.com/watch?v=TXZBuBQpm-Q)
+    * :calendar: published on: 2018-11-14
+    * tags: [kubernetes](../tags/kubernetes.md), [kubernetes-helm](../tags/kubernetes-helm.md)
+* [GitHub - helm/charts - Curated applications for Kubernetes](https://github.com/helm/charts)
+    * tags: [kubernetes](../tags/kubernetes.md), [kubernetes-helm](../tags/kubernetes-helm.md)
+    * :octocat: [github url](https://github.com/helm/charts)
 * [Helm Docs home page](https://helm.sh/)
     * tags: [helm](../tags/helm.md), [kubernetes](../tags/kubernetes.md), [kubernetes-helm](../tags/kubernetes-helm.md)
     * :octocat: [github url](https://github.com/helm/helm)

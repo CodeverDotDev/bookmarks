@@ -1,5 +1,11 @@
 curl - [www.bookmarks.dev/tagged/curl](https://www.bookmarks.dev/tagged/curl)
 ---
+* [jq home page](https://stedolan.github.io/jq/)
+    * tags: [jq](../tags/jq.md), [command-line](../tags/command-line.md), [json](../tags/json.md), [curl](../tags/curl.md), [dev-tools](../tags/dev-tools.md)
+    * :octocat: [github url](https://github.com/stedolan/jq)
+* [HTTPie – command line HTTP client home page](https://httpie.org/)
+    * tags: [cli](../tags/cli.md), [command-line](../tags/command-line.md), [http-client](../tags/http-client.md), [curl](../tags/curl.md), [dev-tools](../tags/dev-tools.md)
+    * :octocat: [github url](https://github.com/jakubroztocil/httpie)
 * [How do I make curl ignore the proxy? - Stack Overflow](https://stackoverflow.com/questions/800805/how-do-i-make-curl-ignore-the-proxy)
     * tags: [curl](../tags/curl.md)
 * [configuration - curl: (5) Couldn't resolve proxy 'hproxy.iitm.ac.in' - Ask Ubuntu](https://askubuntu.com/questions/347384/curl-5-couldnt-resolve-proxy-hproxy-iitm-ac-in)

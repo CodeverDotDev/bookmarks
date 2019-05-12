@@ -1,5 +1,13 @@
 php - [www.bookmarks.dev/tagged/php](https://www.bookmarks.dev/tagged/php)
 ---
+* [Keycloak on Kubernetes - YouTube](https://www.youtube.com/watch?v=A_BYZ7hHWXE)
+    * :calendar: published on: 2018-06-27
+    * tags: [keycloak](../tags/keycloak.md), [kubernetes](../tags/kubernetes.md), [php](../tags/php.md), [minikube](../tags/minikube.md), [nodejs](../tags/nodejs.md)
+    * :octocat: [github url](https://github.com/stianst/demo-kubernetes)
+* [Securing apps and services with Keycloak authentication](https://www.youtube.com/watch?v=mdZauKsMDiI)
+    * :calendar: published on: 2018-08-16
+    * tags: [keycloak](../tags/keycloak.md), [microservices](../tags/microservices.md), [php](../tags/php.md), [nodejs](../tags/nodejs.md)
+    * :octocat: [github url](https://github.com/stianst/keycloak-demo/tree/master/demo-service)
 * [Webadatbázis-programozás](http://ade.web.elte.hu/wabp/index.html)
     * tags: [free-programming-books](../tags/free-programming-books.md), [php](../tags/php.md), [free-programming-books-hu](../tags/free-programming-books-hu.md)
 * [Web programozás alapismeretek](http://nagygusztav.hu/web-programozas)

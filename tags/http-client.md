@@ -1,5 +1,8 @@
 http-client - [www.bookmarks.dev/tagged/http-client](https://www.bookmarks.dev/tagged/http-client)
 ---
+* [HTTPie – command line HTTP client home page](https://httpie.org/)
+    * tags: [cli](../tags/cli.md), [command-line](../tags/command-line.md), [http-client](../tags/http-client.md), [curl](../tags/curl.md), [dev-tools](../tags/dev-tools.md)
+    * :octocat: [github url](https://github.com/jakubroztocil/httpie)
 * [OkHttp](http://square.github.io/okhttp/)
     * tags: [http](../tags/http.md), [https](../tags/https.md), [http2](../tags/http2.md), [http-client](../tags/http-client.md), [java](../tags/java.md)
     * :octocat: [github url](https://github.com/square/okhttp)

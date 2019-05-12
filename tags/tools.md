@@ -1,7 +1,7 @@
 tools - [www.bookmarks.dev/tagged/tools](https://www.bookmarks.dev/tagged/tools)
 ---
 * [MX Lookup Tool - Check your DNS MX Records online - MxToolbox](https://mxtoolbox.com/)
-    * tags: [dns](../tags/dns.md), [tools](../tags/tools.md)
+    * tags: [dns](../tags/dns.md), [tools](../tags/tools.md), [dev-tools](../tags/dev-tools.md)
 * [X-Icon Editor](http://www.xiconeditor.com/)
     * tags: [favicon](../tags/favicon.md), [tools](../tags/tools.md)
 * [MockAPI docs](https://www.mockapi.io/docs)

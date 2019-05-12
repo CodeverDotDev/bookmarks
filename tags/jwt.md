@@ -1,5 +1,8 @@
 jwt - [www.bookmarks.dev/tagged/jwt](https://www.bookmarks.dev/tagged/jwt)
 ---
+* [JWT, JWS and JWE for Not So Dummies! (Part I)](https://medium.facilelogin.com/jwt-jws-and-jwe-for-not-so-dummies-b63310d201a3)
+    * :calendar: published on: 2016-04-26
+    * tags: [jwt](../tags/jwt.md), [jws](../tags/jws.md), [jwe](../tags/jwe.md), [encryption](../tags/encryption.md)
 * [Understanding ID Token](https://medium.com/@darutk/understanding-id-token-5f83f50fa02e)
     * :calendar: published on: 2017-11-06
     * tags: [openid-connect](../tags/openid-connect.md), [jwt](../tags/jwt.md), [oauth2](../tags/oauth2.md)
@@ -30,7 +33,7 @@ jwt - [www.bookmarks.dev/tagged/jwt](https://www.bookmarks.dev/tagged/jwt)
 * [JWT: The  Complete Guide to JSON Web Tokens](https://blog.angular-university.io/angular-jwt/)
     * :calendar: published on: 2017-09-06
     * tags: [jwt](../tags/jwt.md), [security](../tags/security.md), [hmac](../tags/hmac.md)
-* [JSON Web Token (JWT) - specification](https://tools.ietf.org/html/rfc7519)
+* [JSON Web Token (JWT) - specification / spec](https://tools.ietf.org/html/rfc7519)
     * tags: [jwt](../tags/jwt.md), [rfc](../tags/rfc.md), [specifications](../tags/specifications.md)
 * [JSON Web Tokens - jwt.io](https://jwt.io/)
     * tags: [online-tools](../tags/online-tools.md), [jwt](../tags/jwt.md)

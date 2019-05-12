@@ -1,5 +1,26 @@
 keycloak - [www.bookmarks.dev/tagged/keycloak](https://www.bookmarks.dev/tagged/keycloak)
 ---
+* [Using Client Scope with RedHat SSO Keycloak - JANUA](http://www.janua.fr/using-client-scope-with-redhat-sso-keycloak/)
+    * :calendar: published on: 2018-12-27
+    * tags: [keycloak](../tags/keycloak.md), [rh-sso](../tags/rh-sso.md)
+* [Keycloak on Kubernetes - YouTube](https://www.youtube.com/watch?v=A_BYZ7hHWXE)
+    * :calendar: published on: 2018-06-27
+    * tags: [keycloak](../tags/keycloak.md), [kubernetes](../tags/kubernetes.md), [php](../tags/php.md), [minikube](../tags/minikube.md), [nodejs](../tags/nodejs.md)
+    * :octocat: [github url](https://github.com/stianst/demo-kubernetes)
+* [Repository for Keycloak Demos](https://github.com/thomasdarimont/keycloak-docker-demo)
+    * tags: [keycloak](../tags/keycloak.md), [spring-boot](../tags/spring-boot.md)
+    * :octocat: [github url](https://github.com/thomasdarimont/keycloak-docker-demo)
+* [Keycloak Docker Server Image](https://hub.docker.com/r/jboss/keycloak/)
+    * tags: [keycloak](../tags/keycloak.md), [docker](../tags/docker.md)
+    * :octocat: [github url](https://github.com/jboss-dockerfiles/keycloak)
+* [Securing apps and services with Keycloak authentication](https://www.youtube.com/watch?v=mdZauKsMDiI)
+    * :calendar: published on: 2018-08-16
+    * tags: [keycloak](../tags/keycloak.md), [microservices](../tags/microservices.md), [php](../tags/php.md), [nodejs](../tags/nodejs.md)
+    * :octocat: [github url](https://github.com/stianst/keycloak-demo/tree/master/demo-service)
+* [Keycloak and Istio](https://www.keycloak.org/2018/02/keycloak-and-istio.html)
+    * :calendar: published on: 2018-02-26
+    * tags: [keycloak](../tags/keycloak.md), [istio](../tags/istio.md), [spring-boot](../tags/spring-boot.md)
+    * :octocat: [github url](https://github.com/kameshsampath/istio-keycloak-demo)
 * [A simply step by step Keycloak, MySQL and Node.js integration tutorial](https://github.com/v-ladynev/keycloak-nodejs-example)
     * tags: [keycloak](../tags/keycloak.md), [nodejs](../tags/nodejs.md)
     * :octocat: [github url](https://github.com/v-ladynev/keycloak-nodejs-example)

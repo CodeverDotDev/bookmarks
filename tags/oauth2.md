@@ -1,5 +1,15 @@
 oauth2 - [www.bookmarks.dev/tagged/oauth2](https://www.bookmarks.dev/tagged/oauth2)
 ---
+* [Securing OAuth 2.0 Resources in Spring Security 5.1 - YouTube](https://www.youtube.com/watch?v=1N-xwmoN83w)
+    * :calendar: published on: 2018-10-04
+    * tags: [spring](../tags/spring.md), [spring-boot](../tags/spring-boot.md), [spring-security](../tags/spring-security.md), [oauth2](../tags/oauth2.md)
+    * :octocat: [github url](https://github.com/jzheaux/messaging-app/tree/springone2018-demo)
+* [Next Generation OAuth 2.0 Support with Spring Security](https://spring.io/blog/2018/01/30/next-generation-oauth-2-0-support-with-spring-security)
+    * :calendar: published on: 2018-01-30
+    * tags: [spring-security](../tags/spring-security.md), [oauth2](../tags/oauth2.md)
+* [OAuth 2.0 and OpenID Connect (in plain English) - YouTube](https://www.youtube.com/watch?v=996OiexHze0)
+    * :calendar: published on: 2018-02-05
+    * tags: [oauth2](../tags/oauth2.md), [openid-connect](../tags/openid-connect.md), [security](../tags/security.md), [authentication](../tags/authentication.md), [authorization](../tags/authorization.md)
 * [Understanding ID Token](https://medium.com/@darutk/understanding-id-token-5f83f50fa02e)
     * :calendar: published on: 2017-11-06
     * tags: [openid-connect](../tags/openid-connect.md), [jwt](../tags/jwt.md), [oauth2](../tags/oauth2.md)

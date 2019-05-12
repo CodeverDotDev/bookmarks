@@ -1,5 +1,8 @@
 bash - [www.bookmarks.dev/tagged/bash](https://www.bookmarks.dev/tagged/bash)
 ---
+* [TLDR pages](https://tldr.sh/)
+    * tags: [bash](../tags/bash.md), [manpage](../tags/manpage.md)
+    * :octocat: [github url](https://github.com/tldr-pages/tldr)
 * [Nice dotfiles example](https://github.com/jessfraz/dotfiles)
     * tags: [dotfiles](../tags/dotfiles.md), [alias](../tags/alias.md), [bash](../tags/bash.md)
     * :octocat: [github url](https://github.com/jessfraz/dotfiles)

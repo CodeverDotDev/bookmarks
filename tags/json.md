@@ -1,5 +1,8 @@
 json - [www.bookmarks.dev/tagged/json](https://www.bookmarks.dev/tagged/json)
 ---
+* [jq home page](https://stedolan.github.io/jq/)
+    * tags: [jq](../tags/jq.md), [command-line](../tags/command-line.md), [json](../tags/json.md), [curl](../tags/curl.md), [dev-tools](../tags/dev-tools.md)
+    * :octocat: [github url](https://github.com/stedolan/jq)
 * [GitHub - Keyang/node-csvtojson](https://github.com/Keyang/node-csvtojson)
     * tags: [nodejs](../tags/nodejs.md), [csv](../tags/csv.md), [json](../tags/json.md)
     * :octocat: [github url](https://github.com/Keyang/node-csvtojson)

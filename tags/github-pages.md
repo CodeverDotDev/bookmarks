@@ -1,5 +1,7 @@
 github-pages - [www.bookmarks.dev/tagged/github-pages](https://www.bookmarks.dev/tagged/github-pages)
 ---
+* [GitHub Pages home page](https://pages.github.com/)
+    * tags: [github](../tags/github.md), [github-pages](../tags/github-pages.md)
 * [Dependency versions](https://pages.github.com/versions/)
     * tags: [github-pages](../tags/github-pages.md)
 * [Using Jekyll as a static site generator with GitHub Pages - User Documentation        ](https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/)

@@ -1,5 +1,19 @@
 devops - [www.bookmarks.dev/tagged/devops](https://www.bookmarks.dev/tagged/devops)
 ---
+* [Continuous Delivery, Deployment & Integration: 20 Key Differences](https://stackify.com/continuous-delivery-vs-continuous-deployment-vs-continuous-integration/)
+    * :calendar: published on: 2017-07-25
+    * tags: [continuous-deployment](../tags/continuous-deployment.md), [continuous-integration](../tags/continuous-integration.md), [continuous-delivery](../tags/continuous-delivery.md), [devops](../tags/devops.md)
+* [Spinnaker home page](http://www.spinnaker.io/)
+    * tags: [continuous-deployment](../tags/continuous-deployment.md), [devops](../tags/devops.md), [continuous-delivery](../tags/continuous-delivery.md)
+    * :octocat: [github url](https://github.com/spinnaker/spinnaker)
+* [Blue Green Deployment](https://martinfowler.com/bliki/BlueGreenDeployment.html)
+    * :calendar: published on: 2010-03-01
+    * tags: [devops](../tags/devops.md), [continuous-deployment](../tags/continuous-deployment.md)
+* [What Is GitOps Really?](https://www.weave.works/blog/what-is-gitops-really)
+    * :calendar: published on: 2018-08-21
+    * tags: [gitops](../tags/gitops.md), [devops](../tags/devops.md), [continuous-deployment](../tags/continuous-deployment.md), [continuous-integration](../tags/continuous-integration.md)
+* [Trunk-based Development vs. Git Flow – codeburst](https://codeburst.io/trunk-based-development-vs-git-flow-a0212a6cae64)
+    * tags: [git](../tags/git.md), [devops](../tags/devops.md)
 * [Kubernetes + Compose = Kompose](http://kompose.io/)
     * tags: [docker](../tags/docker.md), [docker-compose](../tags/docker-compose.md), [kubernetes](../tags/kubernetes.md), [devops](../tags/devops.md)
     * :octocat: [github url](https://github.com/kubernetes/kompose)

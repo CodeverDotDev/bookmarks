@@ -1,5 +1,7 @@
 github - [www.bookmarks.dev/tagged/github](https://www.bookmarks.dev/tagged/github)
 ---
+* [GitHub Pages home page](https://pages.github.com/)
+    * tags: [github](../tags/github.md), [github-pages](../tags/github-pages.md)
 * [How to promote your Github project – Hacker Noon](https://hackernoon.com/how-to-promote-your-github-project-1b39a7eee841)
     * :calendar: published on: 2018-02-03
     * tags: [github](../tags/github.md), [marketing](../tags/marketing.md)

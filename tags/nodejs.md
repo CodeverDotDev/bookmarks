@@ -1,5 +1,20 @@
 nodejs - [www.bookmarks.dev/tagged/nodejs](https://www.bookmarks.dev/tagged/nodejs)
 ---
+* [GitHub - axios/axios home page](https://github.com/axios/axios)
+    * tags: [rest](../tags/rest.md), [rest-client](../tags/rest-client.md), [nodejs](../tags/nodejs.md)
+    * :octocat: [github url](https://github.com/axios/axios)
+* [Keycloak on Kubernetes - YouTube](https://www.youtube.com/watch?v=A_BYZ7hHWXE)
+    * :calendar: published on: 2018-06-27
+    * tags: [keycloak](../tags/keycloak.md), [kubernetes](../tags/kubernetes.md), [php](../tags/php.md), [minikube](../tags/minikube.md), [nodejs](../tags/nodejs.md)
+    * :octocat: [github url](https://github.com/stianst/demo-kubernetes)
+* [Using Kubernetes for Local Development](https://nemethgergely.com/using-kubernetes-for-local-development/)
+    * :calendar: published on: 2018-07-03
+    * tags: [kubernetes](../tags/kubernetes.md), [skaffold](../tags/skaffold.md), [nodejs](../tags/nodejs.md)
+    * :octocat: [github url](https://github.com/gergelyke/skaffold-nodejs-example)
+* [Securing apps and services with Keycloak authentication](https://www.youtube.com/watch?v=mdZauKsMDiI)
+    * :calendar: published on: 2018-08-16
+    * tags: [keycloak](../tags/keycloak.md), [microservices](../tags/microservices.md), [php](../tags/php.md), [nodejs](../tags/nodejs.md)
+    * :octocat: [github url](https://github.com/stianst/keycloak-demo/tree/master/demo-service)
 * [Nodemailer home page](http://nodemailer.com/)
     * tags: [nodejs](../tags/nodejs.md), [email](../tags/email.md)
     * :octocat: [github url](https://github.com/nodemailer/nodemailer)

@@ -1,5 +1,19 @@
 java - [www.bookmarks.dev/tagged/java](https://www.bookmarks.dev/tagged/java)
 ---
+* [jedis home page](https://github.com/xetorthio/jedis)
+    * tags: [redis](../tags/redis.md), [java](../tags/java.md)
+    * :octocat: [github url](https://github.com/xetorthio/jedis)
+* [GitHub - Netflix/zuul home page](https://github.com/Netflix/zuul)
+    * tags: [zuul](../tags/zuul.md), [api-gateway](../tags/api-gateway.md), [java](../tags/java.md)
+    * :octocat: [github url](https://github.com/Netflix/zuul)
+* [Google Cloud Platform Blog Introducing Jib — build Java Docker images better](https://cloudplatform.googleblog.com/2018/07/introducing-jib-build-java-docker-images-better.html)
+    * :calendar: published on: 2018-07-09
+    * tags: [jib](../tags/jib.md), [java](../tags/java.md), [maven](../tags/maven.md), [maven-plugin](../tags/maven-plugin.md), [gradle](../tags/gradle.md), [docker](../tags/docker.md), [dockerfile](../tags/dockerfile.md)
+    * :octocat: [github url](https://github.com/GoogleContainerTools/jib)
+* [Continuous Development with Java and Kubernetes - DEV Community 👩‍💻👨‍💻](https://dev.to/pozo/continuous-development-with-java-and-kubernetes-3d08)
+    * :calendar: published on: 2011-03-01
+    * tags: [java](../tags/java.md), [kubernetes](../tags/kubernetes.md), [spring-boot](../tags/spring-boot.md), [helm](../tags/helm.md), [skaffold](../tags/skaffold.md), [debugging](../tags/debugging.md), [jib](../tags/jib.md)
+    * :octocat: [github url](https://github.com/Pozo/continuous-java-kubernetes)
 * [Java 8: Definitive guide to CompletableFuture](https://www.nurkiewicz.com/2013/05/java-8-definitive-guide-to.html)
     * :calendar: published on: 2013-05-09
     * tags: [java](../tags/java.md), [asynchronous](../tags/asynchronous.md), [async](../tags/async.md)

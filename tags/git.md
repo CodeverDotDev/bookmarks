@@ -1,5 +1,7 @@
 git - [www.bookmarks.dev/tagged/git](https://www.bookmarks.dev/tagged/git)
 ---
+* [Trunk-based Development vs. Git Flow – codeburst](https://codeburst.io/trunk-based-development-vs-git-flow-a0212a6cae64)
+    * tags: [git](../tags/git.md), [devops](../tags/devops.md)
 * [GitHub - arslanbilal/git-cheat-sheet: git and git flow cheat sheet](https://github.com/arslanbilal/git-cheat-sheet#readme)
     * tags: [git](../tags/git.md), [cheatsheet](../tags/cheatsheet.md), [awesome](../tags/awesome.md)
     * :octocat: [github url](https://github.com/arslanbilal/git-cheat-sheet#readme)

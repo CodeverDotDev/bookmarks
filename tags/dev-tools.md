@@ -1,5 +1,13 @@
 dev-tools - [www.bookmarks.dev/tagged/dev-tools](https://www.bookmarks.dev/tagged/dev-tools)
 ---
+* [jq home page](https://stedolan.github.io/jq/)
+    * tags: [jq](../tags/jq.md), [command-line](../tags/command-line.md), [json](../tags/json.md), [curl](../tags/curl.md), [dev-tools](../tags/dev-tools.md)
+    * :octocat: [github url](https://github.com/stedolan/jq)
+* [HTTPie – command line HTTP client home page](https://httpie.org/)
+    * tags: [cli](../tags/cli.md), [command-line](../tags/command-line.md), [http-client](../tags/http-client.md), [curl](../tags/curl.md), [dev-tools](../tags/dev-tools.md)
+    * :octocat: [github url](https://github.com/jakubroztocil/httpie)
+* [MX Lookup Tool - Check your DNS MX Records online - MxToolbox](https://mxtoolbox.com/)
+    * tags: [dns](../tags/dns.md), [tools](../tags/tools.md), [dev-tools](../tags/dev-tools.md)
 * [Regexper](https://regexper.com/)
     * tags: [regex](../tags/regex.md), [javascript](../tags/javascript.md), [dev-tools](../tags/dev-tools.md)
     * :octocat: [github url](https://github.com/javallone/regexper-static)

@@ -1,5 +1,11 @@
 security - [www.bookmarks.dev/tagged/security](https://www.bookmarks.dev/tagged/security)
 ---
+* [Increasing Security with a Service Mesh - Christian Posta Explores the Capabilities of Istio](https://www.infoq.com/articles/istio-security-mtls-jwt)
+    * :calendar: published on: 2018-08-16
+    * tags: [istio](../tags/istio.md), [security](../tags/security.md), [mtls](../tags/mtls.md)
+* [OAuth 2.0 and OpenID Connect (in plain English) - YouTube](https://www.youtube.com/watch?v=996OiexHze0)
+    * :calendar: published on: 2018-02-05
+    * tags: [oauth2](../tags/oauth2.md), [openid-connect](../tags/openid-connect.md), [security](../tags/security.md), [authentication](../tags/authentication.md), [authorization](../tags/authorization.md)
 * [GitHub - docker/docker-bench-security](https://github.com/docker/docker-bench-security)
     * tags: [docker](../tags/docker.md), [security](../tags/security.md), [devops](../tags/devops.md)
     * :octocat: [github url](https://github.com/docker/docker-bench-security)

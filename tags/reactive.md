@@ -1,5 +1,9 @@
 reactive - [www.bookmarks.dev/tagged/reactive](https://www.bookmarks.dev/tagged/reactive)
 ---
+* [Reactive Spring Security 5.1 by Example - YouTube](https://www.youtube.com/watch?v=YcAufUtfm44)
+    * :calendar: published on: 2018-10-04
+    * tags: [spring](../tags/spring.md), [spring-security](../tags/spring-security.md), [reactive](../tags/reactive.md)
+    * :octocat: [github url](https://github.com/rwinch/spring-security51-by-example-reactive)
 * [Reactor vs. RxJava](http://helmbold.de/artikel/reactor-vs-rxjava/)
     * :calendar: published on: 2018-06-05
     * tags: [java](../tags/java.md), [reactive](../tags/reactive.md)

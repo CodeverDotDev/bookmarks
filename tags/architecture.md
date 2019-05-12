@@ -1,5 +1,10 @@
 architecture - [www.bookmarks.dev/tagged/architecture](https://www.bookmarks.dev/tagged/architecture)
 ---
+* [Topical Guide · Spring Security Architecture](https://spring.io/guides/topicals/spring-security-architecture)
+    * tags: [spring-security](../tags/spring-security.md), [spring](../tags/spring.md), [architecture](../tags/architecture.md)
+* [Migrating a Retail Monolith to Microservices: Sebastian Gauder at MicroXchg Berlin](https://www.infoq.com/news/2019/04/monolith-microservices-migration)
+    * :calendar: published on: 2019-04-07
+    * tags: [microservices](../tags/microservices.md), [architecture](../tags/architecture.md), [rest](../tags/rest.md), [middleware](../tags/middleware.md)
 * [Oliver Gierke - Whoops! Where did my architecture go](http://olivergierke.de/2013/01/whoops-where-did-my-architecture-go/)
     * :calendar: published on: 2013-01-01
     * tags: [java](../tags/java.md), [architecture](../tags/architecture.md)

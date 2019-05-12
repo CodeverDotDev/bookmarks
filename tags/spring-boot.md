@@ -1,5 +1,27 @@
 spring-boot - [www.bookmarks.dev/tagged/spring-boot](https://www.bookmarks.dev/tagged/spring-boot)
 ---
+* [Spring REST + Spring Security Example – Mkyong.com](https://www.mkyong.com/spring-boot/spring-rest-spring-security-example/)
+    * :calendar: published on: 2019-02-25
+    * tags: [spring](../tags/spring.md), [spring-boot](../tags/spring-boot.md), [rest](../tags/rest.md), [spring-security](../tags/spring-security.md)
+    * :octocat: [github url](https://github.com/mkyong/spring-boot)
+* [Securing OAuth 2.0 Resources in Spring Security 5.1 - YouTube](https://www.youtube.com/watch?v=1N-xwmoN83w)
+    * :calendar: published on: 2018-10-04
+    * tags: [spring](../tags/spring.md), [spring-boot](../tags/spring-boot.md), [spring-security](../tags/spring-security.md), [oauth2](../tags/oauth2.md)
+    * :octocat: [github url](https://github.com/jzheaux/messaging-app/tree/springone2018-demo)
+* [Continuous Development with Java and Kubernetes - DEV Community 👩‍💻👨‍💻](https://dev.to/pozo/continuous-development-with-java-and-kubernetes-3d08)
+    * :calendar: published on: 2011-03-01
+    * tags: [java](../tags/java.md), [kubernetes](../tags/kubernetes.md), [spring-boot](../tags/spring-boot.md), [helm](../tags/helm.md), [skaffold](../tags/skaffold.md), [debugging](../tags/debugging.md), [jib](../tags/jib.md)
+    * :octocat: [github url](https://github.com/Pozo/continuous-java-kubernetes)
+* [Repository for Keycloak Demos](https://github.com/thomasdarimont/keycloak-docker-demo)
+    * tags: [keycloak](../tags/keycloak.md), [spring-boot](../tags/spring-boot.md)
+    * :octocat: [github url](https://github.com/thomasdarimont/keycloak-docker-demo)
+* [Keycloak and Istio](https://www.keycloak.org/2018/02/keycloak-and-istio.html)
+    * :calendar: published on: 2018-02-26
+    * tags: [keycloak](../tags/keycloak.md), [istio](../tags/istio.md), [spring-boot](../tags/spring-boot.md)
+    * :octocat: [github url](https://github.com/kameshsampath/istio-keycloak-demo)
+* [Admin UI for administration of spring boot applications](https://github.com/codecentric/spring-boot-admin)
+    * tags: [spring-boot](../tags/spring-boot.md), [spring](../tags/spring.md)
+    * :octocat: [github url](https://github.com/codecentric/spring-boot-admin)
 * [Making microservices micro with Istio Service Mesh & Kubernetes by Ray Tsang @ Spring I/O 2018 - YouTube](https://www.youtube.com/watch?v=s31kdh7Q7Hc)
     * :calendar: published on: 2018-10-03
     * tags: [microservices](../tags/microservices.md), [istio](../tags/istio.md), [spring](../tags/spring.md), [spring-boot](../tags/spring-boot.md)

@@ -1,5 +1,9 @@
 cryptography - [www.bookmarks.dev/tagged/cryptography](https://www.bookmarks.dev/tagged/cryptography)
 ---
+* [JSON Web Signature (JWS) specification](https://tools.ietf.org/html/rfc7515)
+    * tags: [jws](../tags/jws.md), [encryption](../tags/encryption.md), [cryptography](../tags/cryptography.md)
+* [JSON Web Key (JWK) rfc specification](https://tools.ietf.org/html/rfc7517)
+    * tags: [jwk](../tags/jwk.md), [cryptography](../tags/cryptography.md)
 * [Public key fingerprint - Wikipedia](https://en.wikipedia.org/wiki/Public_key_fingerprint)
     * tags: [cryptography](../tags/cryptography.md), [security](../tags/security.md)
 * [Key escrow - Wikipedia](https://en.wikipedia.org/wiki/Key_escrow)

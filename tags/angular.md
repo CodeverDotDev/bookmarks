@@ -1,5 +1,11 @@
 angular - [www.bookmarks.dev/tagged/angular](https://www.bookmarks.dev/tagged/angular)
 ---
+* [Angular Reactive Templates with ngIf and the Async Pipe](https://blog.angular-university.io/angular-reactive-templates/)
+    * :calendar: published on: 2018-12-10
+    * tags: [angular](../tags/angular.md)
+* [Everything you need to know about the ExpressionChangedAfterItHasBeenCheckedError error](https://blog.angularindepth.com/everything-you-need-to-know-about-the-expressionchangedafterithasbeencheckederror-error-e3fd9ce7dbb4)
+    * :calendar: published on: 2017-07-01
+    * tags: [angular](../tags/angular.md)
 * [ Angular Observable Data Services](https://coryrylan.com/blog/angular-observable-data-services)
     * :calendar: published on: 2017-11-17
     * tags: [angular](../tags/angular.md)

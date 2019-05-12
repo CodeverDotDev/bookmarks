@@ -1,5 +1,8 @@
 api-gateway - [www.bookmarks.dev/tagged/api-gateway](https://www.bookmarks.dev/tagged/api-gateway)
 ---
+* [GitHub - Netflix/zuul home page](https://github.com/Netflix/zuul)
+    * tags: [zuul](../tags/zuul.md), [api-gateway](../tags/api-gateway.md), [java](../tags/java.md)
+    * :octocat: [github url](https://github.com/Netflix/zuul)
 * [Building Microservices Using an API Gateway | NGINX](https://www.nginx.com/blog/building-microservices-using-an-api-gateway/)
     * tags: [microservices](../tags/microservices.md), [api-gateway](../tags/api-gateway.md), [api](../tags/api.md)
 * [API gateway pattern](http://microservices.io/patterns/apigateway.html)

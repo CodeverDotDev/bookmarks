@@ -1,5 +1,9 @@
 debugging - [www.bookmarks.dev/tagged/debugging](https://www.bookmarks.dev/tagged/debugging)
 ---
+* [Continuous Development with Java and Kubernetes - DEV Community 👩‍💻👨‍💻](https://dev.to/pozo/continuous-development-with-java-and-kubernetes-3d08)
+    * :calendar: published on: 2011-03-01
+    * tags: [java](../tags/java.md), [kubernetes](../tags/kubernetes.md), [spring-boot](../tags/spring-boot.md), [helm](../tags/helm.md), [skaffold](../tags/skaffold.md), [debugging](../tags/debugging.md), [jib](../tags/jib.md)
+    * :octocat: [github url](https://github.com/Pozo/continuous-java-kubernetes)
 * [Debugging JavaScript in Chrome - Help](https://www.jetbrains.com/help/idea/debugging-javascript-in-chrome.html)
     * tags: [intellij](../tags/intellij.md), [javascript](../tags/javascript.md), [debugging](../tags/debugging.md)
 * [Debugging - Getting Started | Node.js](https://nodejs.org/en/docs/guides/debugging-getting-started/)

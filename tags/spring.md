@@ -1,5 +1,22 @@
 spring - [www.bookmarks.dev/tagged/spring](https://www.bookmarks.dev/tagged/spring)
 ---
+* [Spring REST + Spring Security Example – Mkyong.com](https://www.mkyong.com/spring-boot/spring-rest-spring-security-example/)
+    * :calendar: published on: 2019-02-25
+    * tags: [spring](../tags/spring.md), [spring-boot](../tags/spring-boot.md), [rest](../tags/rest.md), [spring-security](../tags/spring-security.md)
+    * :octocat: [github url](https://github.com/mkyong/spring-boot)
+* [Reactive Spring Security 5.1 by Example - YouTube](https://www.youtube.com/watch?v=YcAufUtfm44)
+    * :calendar: published on: 2018-10-04
+    * tags: [spring](../tags/spring.md), [spring-security](../tags/spring-security.md), [reactive](../tags/reactive.md)
+    * :octocat: [github url](https://github.com/rwinch/spring-security51-by-example-reactive)
+* [Securing OAuth 2.0 Resources in Spring Security 5.1 - YouTube](https://www.youtube.com/watch?v=1N-xwmoN83w)
+    * :calendar: published on: 2018-10-04
+    * tags: [spring](../tags/spring.md), [spring-boot](../tags/spring-boot.md), [spring-security](../tags/spring-security.md), [oauth2](../tags/oauth2.md)
+    * :octocat: [github url](https://github.com/jzheaux/messaging-app/tree/springone2018-demo)
+* [Topical Guide · Spring Security Architecture](https://spring.io/guides/topicals/spring-security-architecture)
+    * tags: [spring-security](../tags/spring-security.md), [spring](../tags/spring.md), [architecture](../tags/architecture.md)
+* [Admin UI for administration of spring boot applications](https://github.com/codecentric/spring-boot-admin)
+    * tags: [spring-boot](../tags/spring-boot.md), [spring](../tags/spring.md)
+    * :octocat: [github url](https://github.com/codecentric/spring-boot-admin)
 * [Making microservices micro with Istio Service Mesh & Kubernetes by Ray Tsang @ Spring I/O 2018 - YouTube](https://www.youtube.com/watch?v=s31kdh7Q7Hc)
     * :calendar: published on: 2018-10-03
     * tags: [microservices](../tags/microservices.md), [istio](../tags/istio.md), [spring](../tags/spring.md), [spring-boot](../tags/spring-boot.md)

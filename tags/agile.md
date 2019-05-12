@@ -1,5 +1,8 @@
 agile - [www.bookmarks.dev/tagged/agile](https://www.bookmarks.dev/tagged/agile)
 ---
+* [Exploring Key Elements of Spotify's Agile Scaling Model - Scaling Agile Tool for Scaled Agile Framework, Large Scale Scrum, Program Increments, Nexus Scrum.org and Scrum of Scrum](https://kendis.io/spotify/exploring-key-elements-spotifys-agile-scaling-model/)
+    * :calendar: published on: 2018-07-23
+    * tags: [agile](../tags/agile.md), [scrum](../tags/scrum.md)
 * [James Shore: Agile-Book](https://www.jamesshore.com/Agile-Book/)
     * tags: [free-programming-books](../tags/free-programming-books.md), [agile](../tags/agile.md)
 * [Agile in Practice: Pair Programming - YouTube](https://www.youtube.com/watch?v=ET3Q6zNK3Io)

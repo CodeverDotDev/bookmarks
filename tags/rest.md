@@ -1,5 +1,15 @@
 rest - [www.bookmarks.dev/tagged/rest](https://www.bookmarks.dev/tagged/rest)
 ---
+* [GitHub - axios/axios home page](https://github.com/axios/axios)
+    * tags: [rest](../tags/rest.md), [rest-client](../tags/rest-client.md), [nodejs](../tags/nodejs.md)
+    * :octocat: [github url](https://github.com/axios/axios)
+* [Spring REST + Spring Security Example – Mkyong.com](https://www.mkyong.com/spring-boot/spring-rest-spring-security-example/)
+    * :calendar: published on: 2019-02-25
+    * tags: [spring](../tags/spring.md), [spring-boot](../tags/spring-boot.md), [rest](../tags/rest.md), [spring-security](../tags/spring-security.md)
+    * :octocat: [github url](https://github.com/mkyong/spring-boot)
+* [Migrating a Retail Monolith to Microservices: Sebastian Gauder at MicroXchg Berlin](https://www.infoq.com/news/2019/04/monolith-microservices-migration)
+    * :calendar: published on: 2019-04-07
+    * tags: [microservices](../tags/microservices.md), [architecture](../tags/architecture.md), [rest](../tags/rest.md), [middleware](../tags/middleware.md)
 * [API Blueprint home page](https://apiblueprint.org/)
     * tags: [api](../tags/api.md), [documentation](../tags/documentation.md), [rest](../tags/rest.md)
     * :octocat: [github url](https://github.com/apiaryio/api-blueprint/)

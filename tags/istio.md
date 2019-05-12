@@ -1,5 +1,15 @@
 istio - [www.bookmarks.dev/tagged/istio](https://www.bookmarks.dev/tagged/istio)
 ---
+* [Increasing Security with a Service Mesh - Christian Posta Explores the Capabilities of Istio](https://www.infoq.com/articles/istio-security-mtls-jwt)
+    * :calendar: published on: 2018-08-16
+    * tags: [istio](../tags/istio.md), [security](../tags/security.md), [mtls](../tags/mtls.md)
+* [Istio and the Future of Service Meshes](https://www.infoq.com/articles/istio-future-service-mesh)
+    * :calendar: published on: 2018-06-19
+    * tags: [istio](../tags/istio.md)
+* [Keycloak and Istio](https://www.keycloak.org/2018/02/keycloak-and-istio.html)
+    * :calendar: published on: 2018-02-26
+    * tags: [keycloak](../tags/keycloak.md), [istio](../tags/istio.md), [spring-boot](../tags/spring-boot.md)
+    * :octocat: [github url](https://github.com/kameshsampath/istio-keycloak-demo)
 * [Making microservices micro with Istio Service Mesh & Kubernetes by Ray Tsang @ Spring I/O 2018 - YouTube](https://www.youtube.com/watch?v=s31kdh7Q7Hc)
     * :calendar: published on: 2018-10-03
     * tags: [microservices](../tags/microservices.md), [istio](../tags/istio.md), [spring](../tags/spring.md), [spring-boot](../tags/spring-boot.md)

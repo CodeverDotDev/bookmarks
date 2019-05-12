@@ -1,5 +1,12 @@
 microservices - [www.bookmarks.dev/tagged/microservices](https://www.bookmarks.dev/tagged/microservices)
 ---
+* [Migrating a Retail Monolith to Microservices: Sebastian Gauder at MicroXchg Berlin](https://www.infoq.com/news/2019/04/monolith-microservices-migration)
+    * :calendar: published on: 2019-04-07
+    * tags: [microservices](../tags/microservices.md), [architecture](../tags/architecture.md), [rest](../tags/rest.md), [middleware](../tags/middleware.md)
+* [Securing apps and services with Keycloak authentication](https://www.youtube.com/watch?v=mdZauKsMDiI)
+    * :calendar: published on: 2018-08-16
+    * tags: [keycloak](../tags/keycloak.md), [microservices](../tags/microservices.md), [php](../tags/php.md), [nodejs](../tags/nodejs.md)
+    * :octocat: [github url](https://github.com/stianst/keycloak-demo/tree/master/demo-service)
 * [Making microservices micro with Istio Service Mesh & Kubernetes by Ray Tsang @ Spring I/O 2018 - YouTube](https://www.youtube.com/watch?v=s31kdh7Q7Hc)
     * :calendar: published on: 2018-10-03
     * tags: [microservices](../tags/microservices.md), [istio](../tags/istio.md), [spring](../tags/spring.md), [spring-boot](../tags/spring-boot.md)
