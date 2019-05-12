@@ -1,7 +1,80 @@
 [
     {
-        "name": "java",
-        "description": "",
-        "url": "https://www.java.com/en/"
+        "name": "awesome-graphql",
+        "excerpt": "Awesome list of GraphQL & Relay. Inspired by chentsulin/awesome-graphql",
+        "url": "https://github.com/chentsulin/awesome-graphql#readme",
+        "count": 0
+    },
+    {
+        "name": "awesome-nodejs",
+        "excerpt": "Delightful Node.js packages and resources. Inspired by sindresorhus/awesome-nodejs",
+        "url": "https://github.com/sindresorhus/awesome-nodejs#readme",
+        "count": 0
+    },
+    {
+        "name": "awesome-php",
+        "excerpt": "A curated list of awesome Python frameworks, libraries, software and resources. Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)",
+        "url": "https://github.com/sindresorhus/awesome-nodejs#readme",
+        "count": 0
+    },
+    {
+        "name": "awesome-python",
+        "excerpt": "A curated list of awesome Python frameworks, libraries, software and resources. Inspired by [vinta/awesome-python](https://github.com/vinta/awesome-python/)",
+        "url": "https://github.com/sindresorhus/awesome-nodejs#readme",
+        "count": 0
+    },
+    {
+        "name": "code-formatting",
+        "excerpt": "Code formatting is the way to format the source code of programs,using spaces and tabs, improving legibility of source code.",
+        "url": null,
+        "count": 0
+    },
+    {
+        "name": "chatops",
+        "excerpt": "ChatOps is the integration of DevOps processes into a chat system where developers and operations people collaborate.",
+        "url": null,
+        "count": 0
+    },
+    {
+        "name": "downloader",
+        "excerpt": "A computer program which aids the downloading of files.",
+        "url": null,
+        "count": 0
+    },
+    {
+        "name": "linter",
+        "excerpt": "Lint, or a linter, is a tool that analyzes source code to flag programming errors, bugs, stylistic errors, and suspicious constructs. The term originates from a Unix utility that examined C language source code.",
+        "url": "https://en.wikipedia.org/wiki/Lint_(software)",
+        "count": 0
+    },
+    {
+        "name": "pdp",
+        "excerpt": "Refers to the Python Debugger. It supports breakpoints, single stepping, inspection of stack frames, source code listing, and evaluation of arbitrary Python code in the context of any stack frame. It also supports post-mortem debugging and can be called under program control.",
+        "url": null,
+        "count": 0
+    },
+    {
+        "name": "process",
+        "excerpt": "Refers to operating system processes. In computing, a process is the instance of a computer program that is being executed. It contains the program code and its activity. Depending on the operating system (OS), a process may be made up of multiple threads of execution that execute instructions concurrently. [Wikipedia](https://en.wikipedia.org/wiki/Process_(computing))",
+        "url": null,
+        "count": 0
+    },
+    {
+        "name": "relay",
+        "excerpt": "Relay is a JavaScript framework for providing a data layer and client-server communication to web applications using the React view layer",
+        "url": "https://facebook.github.io/relay/",
+        "count": 0
+    },
+    {
+        "name": "static-typing",
+        "excerpt": "A programming language is said to use static typing when type checking is performed during compile-time as opposed to run-time.",
+        "url": null,
+        "count": 0
+    },
+    {
+        "name": "wsgi",
+        "excerpt": "The Web Server Gateway Interface (WSGI) is a simple calling convention for web servers to forward requests to web applications or frameworks written in the Python programming language. [Wikipedia](https://en.wikipedia.org/wiki/Web_Server_Gateway_Interface)",
+        "url": null,
+        "count": 0
     }
 ]
