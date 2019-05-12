@@ -11,7 +11,7 @@ Grouping of topics (tags)
  * [english only](tags-alphabetically-en.md)
  * [ordered by size - displayed here](tags-by-size.md)
 
-Most popular tags:
+Most used tags:
 ---
 * [free-programming-books](tagged/free-programming-books.md) [2725]
 * [language-agnostic](tagged/language-agnostic.md) [360]
