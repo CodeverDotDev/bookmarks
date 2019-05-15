@@ -1,8 +1,19 @@
-graphical-user-interfaces - [www.bookmarks.dev/tagged/graphical-user-interfaces](https://www.bookmarks.dev/tagged/graphical-user-interfaces)
+##Bookmarks tagged [[graphical-user-interfaces]](https://www.bookmarks.dev?q=[graphical-user-interfaces])
+_<sup><sup>[www.bookmarks.dev/tagged/graphical-user-interfaces](https://www.bookmarks.dev/tagged/graphical-user-interfaces)</sup></sup>_
 ---
-* [Search User Interfaces](http://searchuserinterfaces.com/book/)
-    * tags: [free-programming-books](../tagged/free-programming-books.md), [graphical-user-interfaces](../tagged/graphical-user-interfaces.md)
-* [Programming with gtkmm 3](https://developer.gnome.org/gtkmm-tutorial/stable/)
-    * tags: [free-programming-books](../tagged/free-programming-books.md), [graphical-user-interfaces](../tagged/graphical-user-interfaces.md)
-* [Best of Smashing Magazine](http://anniversary.smashingmagazine.com/best-of-smashing-magazine.zip)
-    * tags: [free-programming-books](../tagged/free-programming-books.md), [graphical-user-interfaces](../tagged/graphical-user-interfaces.md)
+#### [Search User Interfaces](http://searchuserinterfaces.com/book/)
+_<sup>http://searchuserinterfaces.com/book/</sup>_
+
+Marti A. Hearst
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [graphical-user-interfaces](../tagged/graphical-user-interfaces.md)
+---
+#### [Programming with gtkmm 3](https://developer.gnome.org/gtkmm-tutorial/stable/)
+_<sup>https://developer.gnome.org/gtkmm-tutorial/stable/</sup>_
+
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [graphical-user-interfaces](../tagged/graphical-user-interfaces.md)
+---
+#### [Best of Smashing Magazine](http://anniversary.smashingmagazine.com/best-of-smashing-magazine.zip)
+_<sup>http://anniversary.smashingmagazine.com/best-of-smashing-magazine.zip</sup>_
+
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [graphical-user-interfaces](../tagged/graphical-user-interfaces.md)
+---

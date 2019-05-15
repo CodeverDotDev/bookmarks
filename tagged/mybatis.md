@@ -1,5 +1,10 @@
-mybatis - [www.bookmarks.dev/tagged/mybatis](https://www.bookmarks.dev/tagged/mybatis)
+##Bookmarks tagged [[mybatis]](https://www.bookmarks.dev?q=[mybatis])
+_<sup><sup>[www.bookmarks.dev/tagged/mybatis](https://www.bookmarks.dev/tagged/mybatis)</sup></sup>_
 ---
-* [mybatis – MyBatis 3 | Introduction](http://www.mybatis.org/mybatis-3/)
-    * tags: [mybatis](../tagged/mybatis.md), [jdbc](../tagged/jdbc.md), [java](../tagged/java.md), [orm](../tagged/orm.md)
-    * :octocat: [source code](https://github.com/mybatis/mybatis-3)
+#### [mybatis – MyBatis 3 | Introduction](http://www.mybatis.org/mybatis-3/)
+_<sup>http://www.mybatis.org/mybatis-3/</sup>_
+
+MyBatis is a first class persistence framework with support for custom SQL, stored procedures and advanced mappings. MyBatis eliminates almost all of the JDBC code and manual setting of parameters and...
+* **tags**: [mybatis](../tagged/mybatis.md), [jdbc](../tagged/jdbc.md), [java](../tagged/java.md), [orm](../tagged/orm.md)
+* :octocat: **[source code](https://github.com/mybatis/mybatis-3)**
+---

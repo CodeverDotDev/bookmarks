@@ -1,4 +1,9 @@
-web-services - [www.bookmarks.dev/tagged/web-services](https://www.bookmarks.dev/tagged/web-services)
+##Bookmarks tagged [[web-services]](https://www.bookmarks.dev?q=[web-services])
+_<sup><sup>[www.bookmarks.dev/tagged/web-services](https://www.bookmarks.dev/tagged/web-services)</sup></sup>_
 ---
-* [RESTful Web Services](http://restfulwebapis.org/RESTful_Web_Services.pdf)
-    * tags: [free-programming-books](../tagged/free-programming-books.md), [web-services](../tagged/web-services.md)
+#### [RESTful Web Services](http://restfulwebapis.org/RESTful_Web_Services.pdf)
+_<sup>http://restfulwebapis.org/RESTful_Web_Services.pdf</sup>_
+
+(PDF)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [web-services](../tagged/web-services.md)
+---

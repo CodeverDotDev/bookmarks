@@ -1,77 +1,189 @@
-expressjs - [www.bookmarks.dev/tagged/expressjs](https://www.bookmarks.dev/tagged/expressjs)
+##Bookmarks tagged [[expressjs]](https://www.bookmarks.dev?q=[expressjs])
+_<sup><sup>[www.bookmarks.dev/tagged/expressjs](https://www.bookmarks.dev/tagged/expressjs)</sup></sup>_
 ---
-* [Express Integration Testing with SuperTest · InVision Engineering Blog](https://engineering.invisionapp.com/post/express-integration-testing-supertest/)
-    * :calendar: published on: 2016-06-27
-    * tags: [expressjs](../tagged/expressjs.md), [integration-testing](../tagged/integration-testing.md), [supertest](../tagged/supertest.md), [chai](../tagged/chai.md)
-    * :octocat: [source code](https://github.com/joshmatz/supertest-example)
-* [express-validator](https://express-validator.github.io)
-    * tags: [expressjs](../tagged/expressjs.md), [javascript](../tagged/javascript.md)
-    * :octocat: [source code](https://github.com/express-validator/express-validator)
-* [Express routing](https://expressjs.com/en/guide/routing.html)
-    * tags: [expressjs](../tagged/expressjs.md)
-* [Node Http Status Codes](https://github.com/prettymuchbryce/node-http-status)
-    * tags: [nodejs](../tagged/nodejs.md), [javascript](../tagged/javascript.md), [expressjs](../tagged/expressjs.md)
-    * :octocat: [source code](https://github.com/prettymuchbryce/node-http-status)
-* [Dockerizing a Node.js and MongoDB App – XOOR – Medium](https://medium.com/@xoor/dockerizing-a-node-js-and-mongodb-app-f9d80fdb280e)
-    * :calendar: published on: 2017-10-22
-    * tags: [docker](../tagged/docker.md), [mongodb](../tagged/mongodb.md), [nodejs](../tagged/nodejs.md), [expressjs](../tagged/expressjs.md), [docker-compose](../tagged/docker-compose.md)
-    * :octocat: [source code](https://github.com/mpayetta/express-node-docker)
-* [Deploy a MERN stack app on Heroku – Crowdbotics – Medium](https://medium.com/crowdbotics/deploy-a-mern-stack-app-on-heroku-b0c255744a70)
-    * :calendar: published on: 2018-10-12
-    * tags: [reactjs](../tagged/reactjs.md), [mern](../tagged/mern.md), [nodejs](../tagged/nodejs.md), [mongodb](../tagged/mongodb.md), [expressjs](../tagged/expressjs.md)
-    * :octocat: [source code](https://github.com/amandeepmittal/deploy-mern-on-heroku)
-* [GitHub - awslabs/aws-serverless-express](https://github.com/awslabs/aws-serverless-express)
-    * tags: [aws](../tagged/aws.md), [nodejs](../tagged/nodejs.md), [expressjs](../tagged/expressjs.md), [rest](../tagged/rest.md)
-    * :octocat: [source code](https://github.com/awslabs/aws-serverless-express)
-* [How express.js works - Understanding the internals of the express library](https://www.sohamkamani.com/blog/2018/05/30/understanding-how-expressjs-works/)
-    * :calendar: published on: 2018-05-30
-    * tags: [expressjs](../tagged/expressjs.md)
-* [GitHub - diegohaz/rest: REST API generator with Node.js, Express and Mongoose](https://github.com/diegohaz/rest)
-    * tags: [nodejs](../tagged/nodejs.md), [expressjs](../tagged/expressjs.md), [mongoose](../tagged/mongoose.md), [yeoman](../tagged/yeoman.md), [tools](../tagged/tools.md)
-    * :octocat: [source code](https://github.com/diegohaz/rest)
-* [javascript - Error: request entity too large - Stack Overflow](https://stackoverflow.com/questions/19917401/error-request-entity-too-large)
-    * tags: [expressjs](../tagged/expressjs.md), [javascript](../tagged/javascript.md)
-* [Sending Web Push Notifications from Node.js](https://thecodebarbarian.com/sending-web-push-notifications-from-node-js.html)
-    * :calendar: published on: 2018-05-08
-    * tags: [nodejs](../tagged/nodejs.md), [web-push](../tagged/web-push.md), [pushi-api](../tagged/pushi-api.md), [expressjs](../tagged/expressjs.md)
-    * :octocat: [source code](https://github.com/vkarpov15/web-push-demo)
-* [RESTful API In Node & Express With TypeScript & MongoDB - YouTube](https://www.youtube.com/watch?v=XqbBv1i9Yhc)
-    * :calendar: published on: 2017-07-03
-    * tags: [nodejs](../tagged/nodejs.md), [expressjs](../tagged/expressjs.md), [mongodb](../tagged/mongodb.md), [mongoose](../tagged/mongoose.md), [typescript](../tagged/typescript.md)
-    * :octocat: [source code](https://github.com/iamclaytonray/tes)
-* [Adding Swagger To Existing Node.js Project – CloudBoost](https://blog.cloudboost.io/adding-swagger-to-existing-node-js-project-92a6624b855b)
-    * :calendar: published on: 2017-09-22
-    * tags: [swagger](../tagged/swagger.md), [nodejs](../tagged/nodejs.md), [expressjs](../tagged/expressjs.md)
-    * :octocat: [source code](https://github.com/GenFirst/swagger-to-existing-nodejs-project)
-* [Swagger UI Express](https://www.npmjs.com/package/swagger-ui-express)
-    * tags: [swagger](../tagged/swagger.md), [nodejs](../tagged/nodejs.md), [expressjs](../tagged/expressjs.md)
-    * :octocat: [source code](https://github.com/scottie1984/swagger-ui-express)
-* [body-parser](https://www.npmjs.com/package/body-parser)
-    * tags: [nodejs](../tagged/nodejs.md), [expressjs](../tagged/expressjs.md)
-    * :octocat: [source code](https://github.com/expressjs/body-parser)
-* [Express over HTTPS · Minko Gechev's blog](http://blog.mgechev.com/2014/02/19/create-https-tls-ssl-application-with-express-nodejs/)
-    * :calendar: published on: 2014-02-19
-    * tags: [expressjs](../tagged/expressjs.md), [nodejs](../tagged/nodejs.md), [ssl](../tagged/ssl.md), [tls](../tagged/tls.md)
-* [Express application generator](https://expressjs.com/en/starter/generator.html)
-    * tags: [expressjs](../tagged/expressjs.md)
-* [Zero to GraphQL in 30 Minutes – Steven Luscher - YouTube](https://www.youtube.com/watch?v=UBGzsb2UkeY)
-    * :calendar: published on: 2016-04-25
-    * tags: [graphql](../tagged/graphql.md), [ruby](../tagged/ruby.md), [python](../tagged/python.md), [expressjs](../tagged/expressjs.md)
-    * :octocat: [source code](https://github.com/steveluscher/zero-to-graphql)
-* [Express Routing - The Beginners Guide](http://jilles.me/express-routing-the-beginners-guide/)
-    * :calendar: published on: 2014-10-16
-    * tags: [expressjs](../tagged/expressjs.md)
-* [Understanding the Express app.js](http://jilles.me/getting-the-express-app-js/)
-    * :calendar: published on: 2014-10-12
-    * tags: [expressjs](../tagged/expressjs.md)
-* [Why did the startup stub get moved to bin/www ? · Issue #25 · expressjs/generator · GitHub](https://github.com/expressjs/generator/issues/25)
-    * tags: [expressjs](../tagged/expressjs.md), [nodejs](../tagged/nodejs.md)
-* [StrongLoop Process Manager](http://strong-pm.io/compare/)
-    * tags: [expressjs](../tagged/expressjs.md), [pm2](../tagged/pm2.md), [strongloop](../tagged/strongloop.md), [forever](../tagged/forever.md)
-* [Process managers for Express apps](https://expressjs.com/en/advanced/pm.html)
-    * tags: [expressjs](../tagged/expressjs.md), [pm2](../tagged/pm2.md), [strongloop](../tagged/strongloop.md), [forever](../tagged/forever.md), [systemd](../tagged/systemd.md)
-* [Performance Best Practices Using Express in Production](https://expressjs.com/en/advanced/best-practice-performance.html)
-    * tags: [expressjs](../tagged/expressjs.md), [devops](../tagged/devops.md)
-* [Running Express.js in Production Mode](http://www.hacksparrow.com/running-express-js-in-production-mode.html)
-    * :calendar: published on: 2012-02-21
-    * tags: [nodejs](../tagged/nodejs.md), [expressjs](../tagged/expressjs.md)
+#### [Express Integration Testing with SuperTest · InVision Engineering Blog](https://engineering.invisionapp.com/post/express-integration-testing-supertest/)
+_<sup>https://engineering.invisionapp.com/post/express-integration-testing-supertest/</sup>_
+
+Put down that REST Client (or, gasp, the browser!) you’re using to test that API you’re developing and back away slowly! There’s a better way! With SuperTest there’s no need to verify your API by hand...
+* :calendar: **published on**: 2016-06-27
+* **tags**: [expressjs](../tagged/expressjs.md), [integration-testing](../tagged/integration-testing.md), [supertest](../tagged/supertest.md), [chai](../tagged/chai.md)
+* :octocat: **[source code](https://github.com/joshmatz/supertest-example)**
+---
+#### [express-validator](https://express-validator.github.io)
+_<sup>https://express-validator.github.io</sup>_
+
+An express.js middleware for validator.js. 
+* **tags**: [expressjs](../tagged/expressjs.md), [javascript](../tagged/javascript.md)
+* :octocat: **[source code](https://github.com/express-validator/express-validator)**
+---
+#### [Express routing](https://expressjs.com/en/guide/routing.html)
+_<sup>https://expressjs.com/en/guide/routing.html</sup>_
+
+**Routing** refers to how an application’s endpoints (URIs) respond to client requests. 
+- app routes, `express.Router` and more 
+* **tags**: [expressjs](../tagged/expressjs.md)
+---
+#### [Node Http Status Codes](https://github.com/prettymuchbryce/node-http-status)
+_<sup>https://github.com/prettymuchbryce/node-http-status</sup>_
+
+Constants enumerating the HTTP status codes. All status codes defined in RFC1945 (HTTP/1.0, RFC2616 (HTTP/1.1), and RFC2518 (WebDAV) are supported. - prettymuchbryce/node-http-status
+* **tags**: [nodejs](../tagged/nodejs.md), [javascript](../tagged/javascript.md), [expressjs](../tagged/expressjs.md)
+* :octocat: **[source code](https://github.com/prettymuchbryce/node-http-status)**
+---
+#### [Dockerizing a Node.js and MongoDB App – XOOR – Medium](https://medium.com/@xoor/dockerizing-a-node-js-and-mongodb-app-f9d80fdb280e)
+_<sup>https://medium.com/@xoor/dockerizing-a-node-js-and-mongodb-app-f9d80fdb280e</sup>_
+
+Docker has become an extremely popular tool not only among DevOps and Infrastructure people, but also for the daily work of any developer. Simple with examples for beginners.
+* :calendar: **published on**: 2017-10-22
+* **tags**: [docker](../tagged/docker.md), [mongodb](../tagged/mongodb.md), [nodejs](../tagged/nodejs.md), [expressjs](../tagged/expressjs.md), [docker-compose](../tagged/docker-compose.md)
+* :octocat: **[source code](https://github.com/mpayetta/express-node-docker)**
+---
+#### [Deploy a MERN stack app on Heroku – Crowdbotics – Medium](https://medium.com/crowdbotics/deploy-a-mern-stack-app-on-heroku-b0c255744a70)
+_<sup>https://medium.com/crowdbotics/deploy-a-mern-stack-app-on-heroku-b0c255744a70</sup>_
+
+In this article, I will describe how to take an existing Web Application that is build using MongoDB, ExpressJS, Node.js, and React (often called as MERN stack) on a deployment service like Heroku
+* :calendar: **published on**: 2018-10-12
+* **tags**: [reactjs](../tagged/reactjs.md), [mern](../tagged/mern.md), [nodejs](../tagged/nodejs.md), [mongodb](../tagged/mongodb.md), [expressjs](../tagged/expressjs.md)
+* :octocat: **[source code](https://github.com/amandeepmittal/deploy-mern-on-heroku)**
+---
+#### [GitHub - awslabs/aws-serverless-express](https://github.com/awslabs/aws-serverless-express)
+_<sup>https://github.com/awslabs/aws-serverless-express</sup>_
+
+Run serverless applications and REST APIs using your existing Node.js application framework, on top of AWS Lambda and Amazon API Gateway
+* **tags**: [aws](../tagged/aws.md), [nodejs](../tagged/nodejs.md), [expressjs](../tagged/expressjs.md), [rest](../tagged/rest.md)
+* :octocat: **[source code](https://github.com/awslabs/aws-serverless-express)**
+---
+#### [How express.js works - Understanding the internals of the express library](https://www.sohamkamani.com/blog/2018/05/30/understanding-how-expressjs-works/)
+_<sup>https://www.sohamkamani.com/blog/2018/05/30/understanding-how-expressjs-works/</sup>_
+
+If you’ve worked on web application development in node, it’s likely you’ve heard of  express.js . Express is one of the most popular…
+* :calendar: **published on**: 2018-05-30
+* **tags**: [expressjs](../tagged/expressjs.md)
+---
+#### [GitHub - diegohaz/rest: REST API generator with Node.js, Express and Mongoose](https://github.com/diegohaz/rest)
+_<sup>https://github.com/diegohaz/rest</sup>_
+
+RESTful API generator using NodeJS, Express and Mongoose
+* **tags**: [nodejs](../tagged/nodejs.md), [expressjs](../tagged/expressjs.md), [mongoose](../tagged/mongoose.md), [yeoman](../tagged/yeoman.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/diegohaz/rest)**
+---
+#### [javascript - Error: request entity too large - Stack Overflow](https://stackoverflow.com/questions/19917401/error-request-entity-too-large)
+_<sup>https://stackoverflow.com/questions/19917401/error-request-entity-too-large</sup>_
+
+Solution:
+
+* **tags**: [expressjs](../tagged/expressjs.md), [javascript](../tagged/javascript.md)
+---
+#### [Sending Web Push Notifications from Node.js](https://thecodebarbarian.com/sending-web-push-notifications-from-node-js.html)
+_<sup>https://thecodebarbarian.com/sending-web-push-notifications-from-node-js.html</sup>_
+
+Using [service workers](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API), you can send push notifications to Chrome straight from your Node.js app. The excellent `web-push` [npm mo...
+* :calendar: **published on**: 2018-05-08
+* **tags**: [nodejs](../tagged/nodejs.md), [web-push](../tagged/web-push.md), [pushi-api](../tagged/pushi-api.md), [expressjs](../tagged/expressjs.md)
+* :octocat: **[source code](https://github.com/vkarpov15/web-push-demo)**
+---
+#### [RESTful API In Node & Express With TypeScript & MongoDB - YouTube](https://www.youtube.com/watch?v=XqbBv1i9Yhc)
+_<sup>https://www.youtube.com/watch?v=XqbBv1i9Yhc</sup>_
+
+This video covers writing a RESTful JSON API using Node, Express, MongoDB, Mongoose, and TypeScript. My other Node...
+* :calendar: **published on**: 2017-07-03
+* **tags**: [nodejs](../tagged/nodejs.md), [expressjs](../tagged/expressjs.md), [mongodb](../tagged/mongodb.md), [mongoose](../tagged/mongoose.md), [typescript](../tagged/typescript.md)
+* :octocat: **[source code](https://github.com/iamclaytonray/tes)**
+---
+#### [Adding Swagger To Existing Node.js Project – CloudBoost](https://blog.cloudboost.io/adding-swagger-to-existing-node-js-project-92a6624b855b)
+_<sup>https://blog.cloudboost.io/adding-swagger-to-existing-node-js-project-92a6624b855b</sup>_
+
+Today, almost every application has to be connected and to share data with other applications. The best way to do that is through APIs. For a long time there hasn’t been any industry standard for…
+* :calendar: **published on**: 2017-09-22
+* **tags**: [swagger](../tagged/swagger.md), [nodejs](../tagged/nodejs.md), [expressjs](../tagged/expressjs.md)
+* :octocat: **[source code](https://github.com/GenFirst/swagger-to-existing-nodejs-project)**
+---
+#### [Swagger UI Express](https://www.npmjs.com/package/swagger-ui-express)
+_<sup>https://www.npmjs.com/package/swagger-ui-express</sup>_
+
+Adds middleware to your express app to serve the Swagger UI bound to your Swagger document. This acts as living documentation for your API hosted from within your ap
+* **tags**: [swagger](../tagged/swagger.md), [nodejs](../tagged/nodejs.md), [expressjs](../tagged/expressjs.md)
+* :octocat: **[source code](https://github.com/scottie1984/swagger-ui-express)**
+---
+#### [body-parser](https://www.npmjs.com/package/body-parser)
+_<sup>https://www.npmjs.com/package/body-parser</sup>_
+
+Node.js body parsing middleware
+* **tags**: [nodejs](../tagged/nodejs.md), [expressjs](../tagged/expressjs.md)
+* :octocat: **[source code](https://github.com/expressjs/body-parser)**
+---
+#### [Express over HTTPS · Minko Gechev's blog](http://blog.mgechev.com/2014/02/19/create-https-tls-ssl-application-with-express-nodejs/)
+_<sup>http://blog.mgechev.com/2014/02/19/create-https-tls-ssl-application-with-express-nodejs/</sup>_
+
+Sometimes you want to test your application in environment closer to the real world. In such cases you might need to run it over TLS.
+Here are two simple steps, which can be used to achieve this resul...
+* :calendar: **published on**: 2014-02-19
+* **tags**: [expressjs](../tagged/expressjs.md), [nodejs](../tagged/nodejs.md), [ssl](../tagged/ssl.md), [tls](../tagged/tls.md)
+---
+#### [Express application generator](https://expressjs.com/en/starter/generator.html)
+_<sup>https://expressjs.com/en/starter/generator.html</sup>_
+
+Use the application generator tool, `express-generator`, to quickly create an application skeleton.
+
+The express-generator package installs the express command-line tool. Use the following command to ...
+* **tags**: [expressjs](../tagged/expressjs.md)
+---
+#### [Zero to GraphQL in 30 Minutes – Steven Luscher - YouTube](https://www.youtube.com/watch?v=UBGzsb2UkeY)
+_<sup>https://www.youtube.com/watch?v=UBGzsb2UkeY</sup>_
+
+Spend this 30 minutes learning how to adapt your existing ORM, SOA, or REST API to GraphQL so that you can begin to use GraphQL-based technologies like Relay.
+
+
+* :calendar: **published on**: 2016-04-25
+* **tags**: [graphql](../tagged/graphql.md), [ruby](../tagged/ruby.md), [python](../tagged/python.md), [expressjs](../tagged/expressjs.md)
+* :octocat: **[source code](https://github.com/steveluscher/zero-to-graphql)**
+---
+#### [Express Routing - The Beginners Guide](http://jilles.me/express-routing-the-beginners-guide/)
+_<sup>http://jilles.me/express-routing-the-beginners-guide/</sup>_
+
+* :calendar: **published on**: 2014-10-16
+* **tags**: [expressjs](../tagged/expressjs.md)
+---
+#### [Understanding the Express app.js](http://jilles.me/getting-the-express-app-js/)
+_<sup>http://jilles.me/getting-the-express-app-js/</sup>_
+
+If you're like me and you start with something new, you want to know what every little piece does and means. This was the first problem I had with Express coming from just a basic JavaScript backgroun...
+* :calendar: **published on**: 2014-10-12
+* **tags**: [expressjs](../tagged/expressjs.md)
+---
+#### [Why did the startup stub get moved to bin/www ? · Issue #25 · expressjs/generator · GitHub](https://github.com/expressjs/generator/issues/25)
+_<sup>https://github.com/expressjs/generator/issues/25</sup>_
+
+"So you can `require('./app')` from external files and get the express app that is not listening on any port (think unit tests and the like)."
+* **tags**: [expressjs](../tagged/expressjs.md), [nodejs](../tagged/nodejs.md)
+---
+#### [StrongLoop Process Manager](http://strong-pm.io/compare/)
+_<sup>http://strong-pm.io/compare/</sup>_
+
+Strongloop comparison with pm2 and Forever
+* **tags**: [expressjs](../tagged/expressjs.md), [pm2](../tagged/pm2.md), [strongloop](../tagged/strongloop.md), [forever](../tagged/forever.md)
+---
+#### [Process managers for Express apps](https://expressjs.com/en/advanced/pm.html)
+_<sup>https://expressjs.com/en/advanced/pm.html</sup>_
+
+When you run Express apps for production, it is helpful to use a process manager to achieve the following tasks:
+
+* Restart the app automatically if it crashes.
+* Gain insights into runtime performanc...
+* **tags**: [expressjs](../tagged/expressjs.md), [pm2](../tagged/pm2.md), [strongloop](../tagged/strongloop.md), [forever](../tagged/forever.md), [systemd](../tagged/systemd.md)
+---
+#### [Performance Best Practices Using Express in Production](https://expressjs.com/en/advanced/best-practice-performance.html)
+_<sup>https://expressjs.com/en/advanced/best-practice-performance.html</sup>_
+
+This article discusses performance and reliability best practices for Express applications deployed to production.
+
+This topic clearly falls into the “devops” world, spanning both traditional developm...
+* **tags**: [expressjs](../tagged/expressjs.md), [devops](../tagged/devops.md)
+---
+#### [Running Express.js in Production Mode](http://www.hacksparrow.com/running-express-js-in-production-mode.html)
+_<sup>http://www.hacksparrow.com/running-express-js-in-production-mode.html</sup>_
+
+How do you run Express in production mode? Do I need to edit a config file or something? Do I need to set some variables in app.js? What is the difference between development and production mode? Can ...
+* :calendar: **published on**: 2012-02-21
+* **tags**: [nodejs](../tagged/nodejs.md), [expressjs](../tagged/expressjs.md)
+---

@@ -1,5 +1,10 @@
-analysis - [www.bookmarks.dev/tagged/analysis](https://www.bookmarks.dev/tagged/analysis)
+##Bookmarks tagged [[analysis]](https://www.bookmarks.dev?q=[analysis])
+_<sup><sup>[www.bookmarks.dev/tagged/analysis](https://www.bookmarks.dev/tagged/analysis)</sup></sup>_
 ---
-* [awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis#readme)
-    * tags: [awesome-list](../tagged/awesome-list.md), [security](../tagged/security.md), [malware](../tagged/malware.md), [analysis](../tagged/analysis.md)
-    * :octocat: [source code](https://github.com/rshipp/awesome-malware-analysis#readme)
+#### [awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis#readme)
+_<sup>https://github.com/rshipp/awesome-malware-analysis#readme</sup>_
+
+A curated list of awesome malware analysis tools and resources. - rshipp/awesome-malware-analysis
+* **tags**: [awesome-list](../tagged/awesome-list.md), [security](../tagged/security.md), [malware](../tagged/malware.md), [analysis](../tagged/analysis.md)
+* :octocat: **[source code](https://github.com/rshipp/awesome-malware-analysis#readme)**
+---

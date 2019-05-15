@@ -1,118 +1,331 @@
-html - [www.bookmarks.dev/tagged/html](https://www.bookmarks.dev/tagged/html)
+##Bookmarks tagged [[html]](https://www.bookmarks.dev?q=[html])
+_<sup><sup>[www.bookmarks.dev/tagged/html](https://www.bookmarks.dev/tagged/html)</sup></sup>_
 ---
-* [GitHub - audreyr/favicon-cheat-sheet](https://github.com/audreyr/favicon-cheat-sheet)
-    * tags: [html](../tagged/html.md), [web](../tagged/web.md), [favicon](../tagged/favicon.md), [cheatsheet](../tagged/cheatsheet.md)
-    * :octocat: [source code](https://github.com/audreyr/favicon-cheat-sheet)
-* [Dive Into HTML5](https://diveintohtml5.info/)
-    * tags: [html](../tagged/html.md), [html5](../tagged/html5.md), [free-programming-books](../tagged/free-programming-books.md)
-* [Using CORS - HTML5 Rocks](https://www.html5rocks.com/en/tutorials/cors/)
-    * tags: [html](../tagged/html.md)
-* [D3.js - Data-Driven Documents](https://d3js.org/)
-    * tags: [javascript](../tagged/javascript.md), [html](../tagged/html.md), [svg](../tagged/svg.md), [css](../tagged/css.md)
-    * :octocat: [source code](https://github.com/d3/d3)
-* [HTML Standard - Websocket](https://html.spec.whatwg.org/multipage/web-sockets.html)
-    * tags: [html](../tagged/html.md), [websocket](../tagged/websocket.md), [specification](../tagged/specification.md)
-* [Event - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Event)
-    * tags: [dom](../tagged/dom.md), [html](../tagged/html.md)
-* [tabindex - HTML | MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/tabindex)
-    * tags: [html](../tagged/html.md)
-* [Working with quota on mobile browsers](https://www.html5rocks.com/en/tutorials/offline/quota-research/)
-    * :calendar: published on: 2014-01-28
-    * tags: [html](../tagged/html.md), [local-storage](../tagged/local-storage.md), [indexeddb](../tagged/indexeddb.md)
-* [Webes szabványok](http://nagygusztav.hu/webes-szabvanyok)
-    * tags: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-hu](../tagged/free-programming-books-hu.md), [html](../tagged/html.md), [css](../tagged/css.md)
-* [HTML](http://ilkaddimlar.com/HTML/36/Esas-aletler-El-ile-islemeyi-oyrenirik)
-    * tags: [free-programming-books](../tagged/free-programming-books.md), [html](../tagged/html.md), [free-programming-books-az](../tagged/free-programming-books-az.md)
-* [Performance WEB](http://www.webperf.com.br)
-    * tags: [free-programming-books](../tagged/free-programming-books.md), [html](../tagged/html.md), [css](../tagged/css.md), [free-programming-books-pt_br](../tagged/free-programming-books-pt_br.md)
-* [Estruturando o HTML com CSS](http://pt-br.learnlayout.com)
-    * tags: [free-programming-books](../tagged/free-programming-books.md), [html](../tagged/html.md), [css](../tagged/css.md), [free-programming-books-pt_br](../tagged/free-programming-books-pt_br.md)
-* [Dive Into HTML5](http://diveintohtml5.com.br)
-    * tags: [free-programming-books](../tagged/free-programming-books.md), [html](../tagged/html.md), [css](../tagged/css.md), [free-programming-books-pt_br](../tagged/free-programming-books-pt_br.md)
-* [Desenvolvimento Web com HTML, CSS e JavaScript](https://www.caelum.com.br/apostila-html-css-javascript/)
-    * tags: [free-programming-books](../tagged/free-programming-books.md), [html](../tagged/html.md), [css](../tagged/css.md), [free-programming-books-pt_br](../tagged/free-programming-books-pt_br.md)
-* [Desenvolvendo para browsers antigos](http://tableless.com.br/browsers-antigos-guerra-contra-o-terror/)
-    * tags: [free-programming-books](../tagged/free-programming-books.md), [html](../tagged/html.md), [css](../tagged/css.md), [free-programming-books-pt_br](../tagged/free-programming-books-pt_br.md)
-* [Curso de HTML5 em vídeo do Guanabara](https://www.youtube.com/playlist?list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o)
-    * tags: [free-programming-books](../tagged/free-programming-books.md), [html](../tagged/html.md), [css](../tagged/css.md), [free-programming-books-pt_br](../tagged/free-programming-books-pt_br.md)
-* [KURS HTML](http://www.kurshtml.edu.pl)
-    * tags: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-pl](../tagged/free-programming-books-pl.md), [html](../tagged/html.md)
-* [HTML dla zielonych](http://www.kurshtml.edu.pl/html/zielony.html)
-    * tags: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-pl](../tagged/free-programming-books-pl.md), [html](../tagged/html.md)
-* [INFN di Milano](http://www.mi.infn.it/~calcolo/corso_base_html/pdf/corso_base_html.pdf)
-    * tags: [free-programming-books](../tagged/free-programming-books.md), [html](../tagged/html.md), [free-programming-books-it](../tagged/free-programming-books-it.md)
-* [Canoro sito](http://canoro.altervista.org/guide/html/GuidaHTML22.pdf)
-    * tags: [free-programming-books](../tagged/free-programming-books.md), [html](../tagged/html.md), [free-programming-books-it](../tagged/free-programming-books-it.md)
-* [Twitter Bootstrap Succinctly](https://www.syncfusion.com/resources/techportal/ebooks/twitterbootstrap)
-    * tags: [free-programming-books](../tagged/free-programming-books.md), [bootstrap](../tagged/bootstrap.md), [html](../tagged/html.md), [css](../tagged/css.md)
-* [Web Audio API](http://chimera.labs.oreilly.com/books/1234000001552)
-    * tags: [free-programming-books](../tagged/free-programming-books.md), [html](../tagged/html.md)
-* [Understanding Flexbox: Everything you need to know](https://ohansemmanuel.github.io/uf_download.html)
-    * tags: [free-programming-books](../tagged/free-programming-books.md), [html](../tagged/html.md), [css](../tagged/css.md)
-* [Pro HTML5 Programming]( http://apress.jensimmons.com/v5/pro-html5-programming/ch0.html)
-    * tags: [free-programming-books](../tagged/free-programming-books.md), [html](../tagged/html.md)
-* [MaintainableCSS](http://maintainablecss.com)
-    * tags: [free-programming-books](../tagged/free-programming-books.md), [html](../tagged/html.md), [css](../tagged/css.md)
-* [HTML5 Shoot 'em Up in an Afternoon](https://leanpub.com/html5shootemupinanafternoon/read)
-    * tags: [free-programming-books](../tagged/free-programming-books.md), [html](../tagged/html.md), [css](../tagged/css.md)
-* [HTML5 Graphing and Data Visualization Cookbook](https://www.packtpub.com/packt/free-ebook/html5-data-visualization-cookbook)
-    * tags: [free-programming-books](../tagged/free-programming-books.md), [html](../tagged/html.md), [css](../tagged/css.md)
-* [HTML5 for Publishers](http://chimera.labs.oreilly.com/books/1234000000770/index.html)
-    * tags: [free-programming-books](../tagged/free-programming-books.md), [html](../tagged/html.md), [css](../tagged/css.md)
-* [HTML5 For Web Designers](http://html5forwebdesigners.com)
-    * tags: [free-programming-books](../tagged/free-programming-books.md), [html](../tagged/html.md), [css](../tagged/css.md)
-* [HTML5 Canvas](http://chimera.labs.oreilly.com/books/1234000001654/index.html)
-    * tags: [free-programming-books](../tagged/free-programming-books.md), [html](../tagged/html.md), [css](../tagged/css.md)
-* [HTML Dog Tutorials](http://www.htmldog.com)
-    * tags: [free-programming-books](../tagged/free-programming-books.md), [html](../tagged/html.md), [css](../tagged/css.md)
-* [HTML Canvas Deep Dive](http://joshondesign.com/p/books/canvasdeepdive/toc.html)
-    * tags: [free-programming-books](../tagged/free-programming-books.md), [html](../tagged/html.md), [css](../tagged/css.md)
-* [How to Code in HTML5 and CSS3](http://howtocodeinhtml.com)
-    * tags: [free-programming-books](../tagged/free-programming-books.md), [html](../tagged/html.md), [css](../tagged/css.md)
-* [Google's HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.xml)
-    * tags: [free-programming-books](../tagged/free-programming-books.md), [html](../tagged/html.md), [css](../tagged/css.md)
-* [GA Dash](https://dash.generalassemb.ly)
-    * tags: [free-programming-books](../tagged/free-programming-books.md), [html](../tagged/html.md), [css](../tagged/css.md)
-* [Dive Into HTML5](http://diveintohtml5.info)
-    * tags: [free-programming-books](../tagged/free-programming-books.md), [html](../tagged/html.md), [css](../tagged/css.md)
-* [Code Guide: Standards for developing flexible, durable, and sustainable HTML and CSS](http://mdo.github.io/code-guide/)
-    * tags: [free-programming-books](../tagged/free-programming-books.md), [html](../tagged/html.md), [css](../tagged/css.md)
-* [Canvassing](http://learnjs.io/canvassing/read)
-    * tags: [free-programming-books](../tagged/free-programming-books.md), [html](../tagged/html.md), [css](../tagged/css.md)
-* [An advanced guide to HTML&CSS](http://learn.shayhowe.com/advanced-html-css/)
-    * tags: [free-programming-books](../tagged/free-programming-books.md), [html](../tagged/html.md), [css](../tagged/css.md)
-* [Adaptive Web Design](http://adaptivewebdesign.info/1st-edition/)
-    * tags: [free-programming-books](../tagged/free-programming-books.md), [html](../tagged/html.md), [css](../tagged/css.md)
-* [A free guide to learn HTML and CSS](http://marksheet.io)
-    * tags: [free-programming-books](../tagged/free-programming-books.md), [html](../tagged/html.md), [css](../tagged/css.md)
-* [A beginner's guide to HTML&CSS](http://learn.shayhowe.com/html-css/)
-    * tags: [free-programming-books](../tagged/free-programming-books.md), [html](../tagged/html.md), [css](../tagged/css.md)
-* [通用 CSS 笔记、建议与指导](https://github.com/chadluo/CSS-Guidelines/blob/master/README.md)
-    * tags: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [html](../tagged/html.md), [css](../tagged/css.md)
-* [学习CSS布局](http://zh.learnlayout.com)
-    * tags: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [html](../tagged/html.md), [css](../tagged/css.md)
-* [前端代码规范](http://alloyteam.github.io/CodeGuide/)
-    * tags: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [html](../tagged/html.md), [css](../tagged/css.md)
-* [HTML和CSS编码规范](http://codeguide.bootcss.com)
-    * tags: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [html](../tagged/html.md), [css](../tagged/css.md)
-* [HTML5 教程](http://www.w3school.com.cn/html5/)
-    * tags: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [html](../tagged/html.md)
-* [Emmet 文档](http://yanxyz.github.io/emmet-docs/)
-    * tags: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [html](../tagged/html.md), [css](../tagged/css.md)
-* [CSS3 Tutorial 《CSS3 教程》](https://github.com/waylau/css3-tutorial)
-    * tags: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [html](../tagged/html.md), [css](../tagged/css.md)
-* [Html'e Yolculuk](https://github.com/paufsc/journey-to-html)
-    * tags: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-tr](../tagged/free-programming-books-tr.md), [html](../tagged/html.md)
-* [Html'e Giriş](http://www.htmldersleri.org)
-    * tags: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-tr](../tagged/free-programming-books-tr.md), [html](../tagged/html.md)
-* [<base> - HTML | MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base)
-    * tags: [html](../tagged/html.md)
-* [<template> - HTML | MDN](https://developer.mozilla.org/en/docs/Web/HTML/Element/template)
-    * tags: [html](../tagged/html.md), [dom](../tagged/dom.md), [javascript](../tagged/javascript.md)
-* [html - Binding select element to object in Angular 2 - Stack Overflow](https://stackoverflow.com/questions/35945001/binding-select-element-to-object-in-angular-2)
-    * :calendar: published on: 2016-03-03
-    * tags: [angular](../tagged/angular.md), [html](../tagged/html.md)
-* [ISO country list HTML select snippet - FreeFormatter.com](http://www.freeformatter.com/iso-country-list-html-select.html)
-    * tags: [html](../tagged/html.md)
-* [HTML ISO Language Code Reference](https://www.w3schools.com/tags/ref_language_codes.asp)
-    * tags: [html](../tagged/html.md)
+#### [GitHub - audreyr/favicon-cheat-sheet](https://github.com/audreyr/favicon-cheat-sheet)
+_<sup>https://github.com/audreyr/favicon-cheat-sheet</sup>_
+
+Obsessive cheat sheet to favicon sizes/types. Please contribute! (Note: this may be in flux as I learn new things about favicon best practices.) - audreyr/favicon-cheat-sheet
+* **tags**: [html](../tagged/html.md), [web](../tagged/web.md), [favicon](../tagged/favicon.md), [cheatsheet](../tagged/cheatsheet.md)
+* :octocat: **[source code](https://github.com/audreyr/favicon-cheat-sheet)**
+---
+#### [Dive Into HTML5](https://diveintohtml5.info/)
+_<sup>https://diveintohtml5.info/</sup>_
+
+Dive Into HTML5 elaborates on a hand-picked selection of features from the HTML5 specification and other fine standards.
+* **tags**: [html](../tagged/html.md), [html5](../tagged/html5.md), [free-programming-books](../tagged/free-programming-books.md)
+---
+#### [Using CORS - HTML5 Rocks](https://www.html5rocks.com/en/tutorials/cors/)
+_<sup>https://www.html5rocks.com/en/tutorials/cors/</sup>_
+
+An introduction to Cross Origin Resource Sharing (CORS), which gives scripts the ability to make cross-origin XHRs.
+* **tags**: [html](../tagged/html.md)
+---
+#### [D3.js - Data-Driven Documents](https://d3js.org/)
+_<sup>https://d3js.org/</sup>_
+
+D3 is a JavaScript library for visualizing data with HTML, SVG, and CSS.
+* **tags**: [javascript](../tagged/javascript.md), [html](../tagged/html.md), [svg](../tagged/svg.md), [css](../tagged/css.md)
+* :octocat: **[source code](https://github.com/d3/d3)**
+---
+#### [HTML Standard - Websocket](https://html.spec.whatwg.org/multipage/web-sockets.html)
+_<sup>https://html.spec.whatwg.org/multipage/web-sockets.html</sup>_
+
+To enable Web applications to maintain bidirectional communications with server-side processes, this specification introduces the WebSocket interface.
+* **tags**: [html](../tagged/html.md), [websocket](../tagged/websocket.md), [specification](../tagged/specification.md)
+---
+#### [Event - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Event)
+_<sup>https://developer.mozilla.org/en-US/docs/Web/API/Event</sup>_
+
+The `Event` interface represents any event which takes place in the DOM; some are user-generated (such as mouse or keyboard events), while others are generated by APIs (such as events that indicate an...
+* **tags**: [dom](../tagged/dom.md), [html](../tagged/html.md)
+---
+#### [tabindex - HTML | MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/tabindex)
+_<sup>https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/tabindex</sup>_
+
+The `tabindex` global attribute indicates if its element can be focused, and if/where it participates in sequential keyboard navigation (usually with the **Tab** key, hence the name).
+* **tags**: [html](../tagged/html.md)
+---
+#### [Working with quota on mobile browsers](https://www.html5rocks.com/en/tutorials/offline/quota-research/)
+_<sup>https://www.html5rocks.com/en/tutorials/offline/quota-research/</sup>_
+
+As web apps get richer and richer, more and more developers are using browser-side storage. However, there hasn't been a major study comparing the limitations of the various storage mechanisms. It is ...
+* :calendar: **published on**: 2014-01-28
+* **tags**: [html](../tagged/html.md), [local-storage](../tagged/local-storage.md), [indexeddb](../tagged/indexeddb.md)
+---
+#### [Webes szabványok](http://nagygusztav.hu/webes-szabvanyok)
+_<sup>http://nagygusztav.hu/webes-szabvanyok</sup>_
+
+Chris Mills, Ben Buchanan, Tom Hughes-Croucher, Mark Norman "Norm" Francis, Linda Goin, Paul Haine, Jen Hanen, Benjamin Hawkes-Lewis, Ben Henick, Christian Heilmann, Roger Johansson, Peter-Paul Koch, ...
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-hu](../tagged/free-programming-books-hu.md), [html](../tagged/html.md), [css](../tagged/css.md)
+---
+#### [HTML](http://ilkaddimlar.com/HTML/36/Esas-aletler-El-ile-islemeyi-oyrenirik)
+_<sup>http://ilkaddimlar.com/HTML/36/Esas-aletler-El-ile-islemeyi-oyrenirik</sup>_
+
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [html](../tagged/html.md), [free-programming-books-az](../tagged/free-programming-books-az.md)
+---
+#### [Performance WEB](http://www.webperf.com.br)
+_<sup>http://www.webperf.com.br</sup>_
+
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [html](../tagged/html.md), [css](../tagged/css.md), [free-programming-books-pt_br](../tagged/free-programming-books-pt_br.md)
+---
+#### [Estruturando o HTML com CSS](http://pt-br.learnlayout.com)
+_<sup>http://pt-br.learnlayout.com</sup>_
+
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [html](../tagged/html.md), [css](../tagged/css.md), [free-programming-books-pt_br](../tagged/free-programming-books-pt_br.md)
+---
+#### [Dive Into HTML5](http://diveintohtml5.com.br)
+_<sup>http://diveintohtml5.com.br</sup>_
+
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [html](../tagged/html.md), [css](../tagged/css.md), [free-programming-books-pt_br](../tagged/free-programming-books-pt_br.md)
+---
+#### [Desenvolvimento Web com HTML, CSS e JavaScript](https://www.caelum.com.br/apostila-html-css-javascript/)
+_<sup>https://www.caelum.com.br/apostila-html-css-javascript/</sup>_
+
+Caelum
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [html](../tagged/html.md), [css](../tagged/css.md), [free-programming-books-pt_br](../tagged/free-programming-books-pt_br.md)
+---
+#### [Desenvolvendo para browsers antigos](http://tableless.com.br/browsers-antigos-guerra-contra-o-terror/)
+_<sup>http://tableless.com.br/browsers-antigos-guerra-contra-o-terror/</sup>_
+
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [html](../tagged/html.md), [css](../tagged/css.md), [free-programming-books-pt_br](../tagged/free-programming-books-pt_br.md)
+---
+#### [Curso de HTML5 em vídeo do Guanabara](https://www.youtube.com/playlist?list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o)
+_<sup>https://www.youtube.com/playlist?list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o</sup>_
+
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [html](../tagged/html.md), [css](../tagged/css.md), [free-programming-books-pt_br](../tagged/free-programming-books-pt_br.md)
+---
+#### [KURS HTML](http://www.kurshtml.edu.pl)
+_<sup>http://www.kurshtml.edu.pl</sup>_
+
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-pl](../tagged/free-programming-books-pl.md), [html](../tagged/html.md)
+---
+#### [HTML dla zielonych](http://www.kurshtml.edu.pl/html/zielony.html)
+_<sup>http://www.kurshtml.edu.pl/html/zielony.html</sup>_
+
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-pl](../tagged/free-programming-books-pl.md), [html](../tagged/html.md)
+---
+#### [INFN di Milano](http://www.mi.infn.it/~calcolo/corso_base_html/pdf/corso_base_html.pdf)
+_<sup>http://www.mi.infn.it/~calcolo/corso_base_html/pdf/corso_base_html.pdf</sup>_
+
+(PDF)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [html](../tagged/html.md), [free-programming-books-it](../tagged/free-programming-books-it.md)
+---
+#### [Canoro sito](http://canoro.altervista.org/guide/html/GuidaHTML22.pdf)
+_<sup>http://canoro.altervista.org/guide/html/GuidaHTML22.pdf</sup>_
+
+(PDF)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [html](../tagged/html.md), [free-programming-books-it](../tagged/free-programming-books-it.md)
+---
+#### [Twitter Bootstrap Succinctly](https://www.syncfusion.com/resources/techportal/ebooks/twitterbootstrap)
+_<sup>https://www.syncfusion.com/resources/techportal/ebooks/twitterbootstrap</sup>_
+
+(PDF, Kindle) *(Just fill the fields with any values)*
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [bootstrap](../tagged/bootstrap.md), [html](../tagged/html.md), [css](../tagged/css.md)
+---
+#### [Web Audio API](http://chimera.labs.oreilly.com/books/1234000001552)
+_<sup>http://chimera.labs.oreilly.com/books/1234000001552</sup>_
+
+Boris Smus
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [html](../tagged/html.md)
+---
+#### [Understanding Flexbox: Everything you need to know](https://ohansemmanuel.github.io/uf_download.html)
+_<sup>https://ohansemmanuel.github.io/uf_download.html</sup>_
+
+Ohans Emmanuel
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [html](../tagged/html.md), [css](../tagged/css.md)
+---
+#### [Pro HTML5 Programming]( http://apress.jensimmons.com/v5/pro-html5-programming/ch0.html)
+_<sup> http://apress.jensimmons.com/v5/pro-html5-programming/ch0.html</sup>_
+
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [html](../tagged/html.md)
+---
+#### [MaintainableCSS](http://maintainablecss.com)
+_<sup>http://maintainablecss.com</sup>_
+
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [html](../tagged/html.md), [css](../tagged/css.md)
+---
+#### [HTML5 Shoot 'em Up in an Afternoon](https://leanpub.com/html5shootemupinanafternoon/read)
+_<sup>https://leanpub.com/html5shootemupinanafternoon/read</sup>_
+
+Bryan Bibat
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [html](../tagged/html.md), [css](../tagged/css.md)
+---
+#### [HTML5 Graphing and Data Visualization Cookbook](https://www.packtpub.com/packt/free-ebook/html5-data-visualization-cookbook)
+_<sup>https://www.packtpub.com/packt/free-ebook/html5-data-visualization-cookbook</sup>_
+
+Ben Fhala, Packt. (Just fill the fields with any values)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [html](../tagged/html.md), [css](../tagged/css.md)
+---
+#### [HTML5 for Publishers](http://chimera.labs.oreilly.com/books/1234000000770/index.html)
+_<sup>http://chimera.labs.oreilly.com/books/1234000000770/index.html</sup>_
+
+Sanders Kleinfeld
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [html](../tagged/html.md), [css](../tagged/css.md)
+---
+#### [HTML5 For Web Designers](http://html5forwebdesigners.com)
+_<sup>http://html5forwebdesigners.com</sup>_
+
+Jeremy Keith
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [html](../tagged/html.md), [css](../tagged/css.md)
+---
+#### [HTML5 Canvas](http://chimera.labs.oreilly.com/books/1234000001654/index.html)
+_<sup>http://chimera.labs.oreilly.com/books/1234000001654/index.html</sup>_
+
+Steve Fulton & Jeff Fulton
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [html](../tagged/html.md), [css](../tagged/css.md)
+---
+#### [HTML Dog Tutorials](http://www.htmldog.com)
+_<sup>http://www.htmldog.com</sup>_
+
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [html](../tagged/html.md), [css](../tagged/css.md)
+---
+#### [HTML Canvas Deep Dive](http://joshondesign.com/p/books/canvasdeepdive/toc.html)
+_<sup>http://joshondesign.com/p/books/canvasdeepdive/toc.html</sup>_
+
+Josh Marinacci
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [html](../tagged/html.md), [css](../tagged/css.md)
+---
+#### [How to Code in HTML5 and CSS3](http://howtocodeinhtml.com)
+_<sup>http://howtocodeinhtml.com</sup>_
+
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [html](../tagged/html.md), [css](../tagged/css.md)
+---
+#### [Google's HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.xml)
+_<sup>https://google.github.io/styleguide/htmlcssguide.xml</sup>_
+
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [html](../tagged/html.md), [css](../tagged/css.md)
+---
+#### [GA Dash](https://dash.generalassemb.ly)
+_<sup>https://dash.generalassemb.ly</sup>_
+
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [html](../tagged/html.md), [css](../tagged/css.md)
+---
+#### [Dive Into HTML5](http://diveintohtml5.info)
+_<sup>http://diveintohtml5.info</sup>_
+
+Mark Pilgrim ([PDF](http://mislav.net/2011/10/dive-into-html5/))
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [html](../tagged/html.md), [css](../tagged/css.md)
+---
+#### [Code Guide: Standards for developing flexible, durable, and sustainable HTML and CSS](http://mdo.github.io/code-guide/)
+_<sup>http://mdo.github.io/code-guide/</sup>_
+
+Mark Otto
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [html](../tagged/html.md), [css](../tagged/css.md)
+---
+#### [Canvassing](http://learnjs.io/canvassing/read)
+_<sup>http://learnjs.io/canvassing/read</sup>_
+
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [html](../tagged/html.md), [css](../tagged/css.md)
+---
+#### [An advanced guide to HTML&CSS](http://learn.shayhowe.com/advanced-html-css/)
+_<sup>http://learn.shayhowe.com/advanced-html-css/</sup>_
+
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [html](../tagged/html.md), [css](../tagged/css.md)
+---
+#### [Adaptive Web Design](http://adaptivewebdesign.info/1st-edition/)
+_<sup>http://adaptivewebdesign.info/1st-edition/</sup>_
+
+Aaron Gustafson
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [html](../tagged/html.md), [css](../tagged/css.md)
+---
+#### [A free guide to learn HTML and CSS](http://marksheet.io)
+_<sup>http://marksheet.io</sup>_
+
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [html](../tagged/html.md), [css](../tagged/css.md)
+---
+#### [A beginner's guide to HTML&CSS](http://learn.shayhowe.com/html-css/)
+_<sup>http://learn.shayhowe.com/html-css/</sup>_
+
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [html](../tagged/html.md), [css](../tagged/css.md)
+---
+#### [通用 CSS 笔记、建议与指导](https://github.com/chadluo/CSS-Guidelines/blob/master/README.md)
+_<sup>https://github.com/chadluo/CSS-Guidelines/blob/master/README.md</sup>_
+
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [html](../tagged/html.md), [css](../tagged/css.md)
+---
+#### [学习CSS布局](http://zh.learnlayout.com)
+_<sup>http://zh.learnlayout.com</sup>_
+
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [html](../tagged/html.md), [css](../tagged/css.md)
+---
+#### [前端代码规范](http://alloyteam.github.io/CodeGuide/)
+_<sup>http://alloyteam.github.io/CodeGuide/</sup>_
+
+(腾讯 AlloyTeam 团队)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [html](../tagged/html.md), [css](../tagged/css.md)
+---
+#### [HTML和CSS编码规范](http://codeguide.bootcss.com)
+_<sup>http://codeguide.bootcss.com</sup>_
+
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [html](../tagged/html.md), [css](../tagged/css.md)
+---
+#### [HTML5 教程](http://www.w3school.com.cn/html5/)
+_<sup>http://www.w3school.com.cn/html5/</sup>_
+
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [html](../tagged/html.md)
+---
+#### [Emmet 文档](http://yanxyz.github.io/emmet-docs/)
+_<sup>http://yanxyz.github.io/emmet-docs/</sup>_
+
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [html](../tagged/html.md), [css](../tagged/css.md)
+---
+#### [CSS3 Tutorial 《CSS3 教程》](https://github.com/waylau/css3-tutorial)
+_<sup>https://github.com/waylau/css3-tutorial</sup>_
+
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [html](../tagged/html.md), [css](../tagged/css.md)
+---
+#### [Html'e Yolculuk](https://github.com/paufsc/journey-to-html)
+_<sup>https://github.com/paufsc/journey-to-html</sup>_
+
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-tr](../tagged/free-programming-books-tr.md), [html](../tagged/html.md)
+---
+#### [Html'e Giriş](http://www.htmldersleri.org)
+_<sup>http://www.htmldersleri.org</sup>_
+
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-tr](../tagged/free-programming-books-tr.md), [html](../tagged/html.md)
+---
+#### [<base> - HTML | MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base)
+_<sup>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base</sup>_
+
+The **HTML <base> element** specifies the base URL to use for all relative URLs contained within a document. There can be only one <base> element in a document. 
+
+The base URL of a document can be que...
+* **tags**: [html](../tagged/html.md)
+---
+#### [<template> - HTML | MDN](https://developer.mozilla.org/en/docs/Web/HTML/Element/template)
+_<sup>https://developer.mozilla.org/en/docs/Web/HTML/Element/template</sup>_
+
+The HTML `<template>` element is a mechanism for holding client-side content that is not to be rendered when a page is loaded but may subsequently be instantiated during runtime using JavaScript.
+
+Thi...
+* **tags**: [html](../tagged/html.md), [dom](../tagged/dom.md), [javascript](../tagged/javascript.md)
+---
+#### [html - Binding select element to object in Angular 2 - Stack Overflow](https://stackoverflow.com/questions/35945001/binding-select-element-to-object-in-angular-2)
+_<sup>https://stackoverflow.com/questions/35945001/binding-select-element-to-object-in-angular-2</sup>_
+
+```
+<h1>My Application</h1>
+<select [(ngModel)]="selectedValue">
+  <option *ngFor="let c of countries" [ngValue]="c">{{c.name}}</option>
+</select>
+```
+
+
+NOTE: you can use `[ngValue]="c"` instead of `[...
+* :calendar: **published on**: 2016-03-03
+* **tags**: [angular](../tagged/angular.md), [html](../tagged/html.md)
+---
+#### [ISO country list HTML select snippet - FreeFormatter.com](http://www.freeformatter.com/iso-country-list-html-select.html)
+_<sup>http://www.freeformatter.com/iso-country-list-html-select.html</sup>_
+
+Included in this page are the HTML select/dropdown code snippets to generate a list of countries using the ISO-3166-1 and ISO-3166-2 codes.
+
+You can choose between ISO-3166-1 Alpha-2, ISO-3166-1 Alpha...
+* **tags**: [html](../tagged/html.md)
+---
+#### [HTML ISO Language Code Reference](https://www.w3schools.com/tags/ref_language_codes.asp)
+_<sup>https://www.w3schools.com/tags/ref_language_codes.asp</sup>_
+
+List of **ISO 639-1 Language Codes**
+* **tags**: [html](../tagged/html.md)
+---
