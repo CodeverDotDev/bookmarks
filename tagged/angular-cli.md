@@ -14,7 +14,7 @@ angular-cli - [www.bookmarks.dev/tagged/angular-cli](https://www.bookmarks.dev/t
     * tags: [angular-cli](../tagged/angular-cli.md)
 * [stories · angular/angular-cli Wiki · GitHub](https://github.com/angular/angular-cli/wiki/stories)
     * tags: [angular-cli](../tagged/angular-cli.md)
-    * :octocat: [github url](https://github.com/angular/angular-cli/wiki/stories)
+    * :octocat: [source code](https://github.com/angular/angular-cli/wiki/stories)
 * [Angular CLI | Stephen Fluin - YouTube](https://www.youtube.com/watch?v=uBRK6cTr4Vk)
     * :calendar: published on: 2016-09-30
     * tags: [angular-cli](../tagged/angular-cli.md)
@@ -30,10 +30,10 @@ angular-cli - [www.bookmarks.dev/tagged/angular-cli](https://www.bookmarks.dev/t
     * tags: [angular-cli](../tagged/angular-cli.md)
 * [Angular CLI](https://cli.angular.io/)
     * tags: [angular-cli](../tagged/angular-cli.md)
-    * :octocat: [github url](https://github.com/angular/angular-cli)
+    * :octocat: [source code](https://github.com/angular/angular-cli)
 * [Quickstart - ts - QUICKSTART](https://angular.io/guide/quickstart)
     * tags: [angular](../tagged/angular.md), [docs](../tagged/docs.md), [angular-cli](../tagged/angular-cli.md)
 * [JWT authentication with Vert.x, Keycloak and Angular 2](http://paulbakker.io/java/jwt-keycloak-angular2/)
     * :calendar: published on: 2016-09-15
     * tags: [angular](../tagged/angular.md), [keycloak](../tagged/keycloak.md), [jwt](../tagged/jwt.md), [angular-cli](../tagged/angular-cli.md)
-    * :octocat: [github url](https://github.com/paulbakker/vertx-angular2-keycloak-demo)
+    * :octocat: [source code](https://github.com/paulbakker/vertx-angular2-keycloak-demo)

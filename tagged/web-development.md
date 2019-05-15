@@ -6,10 +6,10 @@ web-development - [www.bookmarks.dev/tagged/web-development](https://www.bookmar
     * tags: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-mm](../tagged/free-programming-books-mm.md), [web-development](../tagged/web-development.md)
 * [samples/service-worker at gh-pages · GoogleChrome/samples · GitHub](https://github.com/GoogleChrome/samples/tree/gh-pages/service-worker)
     * tags: [web-development](../tagged/web-development.md), [service-worker](../tagged/service-worker.md), [pwa](../tagged/pwa.md)
-    * :octocat: [github url](https://github.com/GoogleChrome/samples/tree/gh-pages/service-worker)
+    * :octocat: [source code](https://github.com/GoogleChrome/samples/tree/gh-pages/service-worker)
 * [ServiceWorker Cookbook](https://serviceworke.rs/)
     * tags: [web-development](../tagged/web-development.md), [service-worker](../tagged/service-worker.md), [pwa](../tagged/pwa.md)
-    * :octocat: [github url](https://github.com/mozilla/serviceworker-cookbook)
+    * :octocat: [source code](https://github.com/mozilla/serviceworker-cookbook)
 * [The Changelog with Adam Stacoviak and Jerod Santo | Changelog](https://changelog.com/podcast)
     * tags: [podcast](../tagged/podcast.md), [web-development](../tagged/web-development.md)
 * [RestWiki: 

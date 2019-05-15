@@ -1,8 +1,11 @@
 offline-first - [www.bookmarks.dev/tagged/offline-first](https://www.bookmarks.dev/tagged/offline-first)
 ---
+* [awesome-offline-first](https://github.com/pazguille/offline-first#readme)
+    * tags: [awesome-list](../tagged/awesome-list.md), [frontend](../tagged/frontend.md), [offline-first](../tagged/offline-first.md)
+    * :octocat: [source code](https://github.com/pazguille/offline-first#readme)
 * [localForage](https://localforage.github.io/localForage/)
     * tags: [offline-first](../tagged/offline-first.md), [localforage](../tagged/localforage.md)
-    * :octocat: [github url](https://github.com/localForage/localForage)
+    * :octocat: [source code](https://github.com/localForage/localForage)
 * [The offline cookbook - JakeArchibald.com](https://jakearchibald.com/2014/offline-cookbook/)
     * :calendar: published on: 2014-12-09
     * tags: [pwa](../tagged/pwa.md), [offline-first](../tagged/offline-first.md), [service-worker](../tagged/service-worker.md)

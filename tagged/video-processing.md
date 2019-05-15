@@ -6,4 +6,4 @@ video-processing - [www.bookmarks.dev/tagged/video-processing](https://www.bookm
 * [
 FFmpeg](https://www.ffmpeg.org/)
     * tags: [ffmpeg](../tagged/ffmpeg.md), [video-processing](../tagged/video-processing.md)
-    * :octocat: [github url](https://www.ffmpeg.org/download.html#get-sources)
+    * :octocat: [source code](https://www.ffmpeg.org/download.html#get-sources)

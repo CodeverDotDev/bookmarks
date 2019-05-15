@@ -2,7 +2,7 @@ blogging - [www.bookmarks.dev/tagged/blogging](https://www.bookmarks.dev/tagged/
 ---
 * [The world’s fastest framework for building websites](https://gohugo.io/)
     * tags: [go](../tagged/go.md), [blogging](../tagged/blogging.md)
-    * :octocat: [github url](https://github.com/gohugoio/hugo)
+    * :octocat: [source code](https://github.com/gohugoio/hugo)
 * [Themes · jekyll/jekyll Wiki · GitHub](https://github.com/jekyll/jekyll/wiki/Themes)
     * tags: [jekyll](../tagged/jekyll.md), [blogging](../tagged/blogging.md)
 * [How to insert and highlight code in Jekyll blog post on Codingpedia.org – CodingpediaOrg](http://www.codingpedia.org/ama/how-to-insert-and-highlight-code-in-jekyll-blog-post-on-codingpedia-org)
@@ -19,7 +19,7 @@ blogging - [www.bookmarks.dev/tagged/blogging](https://www.bookmarks.dev/tagged/
     * tags: [blogging](../tagged/blogging.md), [writing](../tagged/writing.md)
 * [Staticman: Static sites with superpowers](https://staticman.net/)
     * tags: [blogging](../tagged/blogging.md), [github-pages](../tagged/github-pages.md), [jekyll](../tagged/jekyll.md)
-    * :octocat: [github url](https://github.com/eduardoboucas/staticman)
+    * :octocat: [source code](https://github.com/eduardoboucas/staticman)
 * [Clearing Up Confusion Around baseurl -- Again – By Parker](https://byparker.com/blog/2014/clearing-up-confusion-around-baseurl/)
     * :calendar: published on: 2015-01-01
     * tags: [jekyll](../tagged/jekyll.md), [blogging](../tagged/blogging.md)

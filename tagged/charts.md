@@ -1,7 +1,10 @@
 charts - [www.bookmarks.dev/tagged/charts](https://www.bookmarks.dev/tagged/charts)
 ---
+* [awesome-charting](https://github.com/zingchart/awesome-charting#readme)
+    * tags: [awesome-list](../tagged/awesome-list.md), [frontend](../tagged/frontend.md), [charts](../tagged/charts.md)
+    * :octocat: [source code](https://github.com/zingchart/awesome-charting#readme)
 * [Modern Visualization for the Data Era - Plotly](https://plot.ly/)
     * tags: [charts](../tagged/charts.md), [javascript](../tagged/javascript.md), [python](../tagged/python.md), [data-science](../tagged/data-science.md)
-    * :octocat: [github url](https://github.com/plotly/plotly.js/)
+    * :octocat: [source code](https://github.com/plotly/plotly.js/)
 * [Datavisualization.ch Selected Tools](http://selection.datavisualization.ch/)
     * tags: [data-visualization](../tagged/data-visualization.md), [maps](../tagged/maps.md), [colors](../tagged/colors.md), [charts](../tagged/charts.md)

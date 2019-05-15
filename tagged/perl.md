@@ -1,7 +1,10 @@
 perl - [www.bookmarks.dev/tagged/perl](https://www.bookmarks.dev/tagged/perl)
 ---
+* [awesome-perl](https://github.com/hachiojipm/awesome-perl#readme)
+    * tags: [awesome-list](../tagged/awesome-list.md), [programming-languages](../tagged/programming-languages.md), [perl](../tagged/perl.md)
+    * :octocat: [source code](https://github.com/hachiojipm/awesome-perl#readme)
 * [Perl Básico](https://github.com/HeitorG/Perl-Brasil/blob/master/apostilas/perl-basico.pdf)
-    * tags: [free-programming-books](../tagged/free-programming-books.md), [perl](../tagged/perl.md), [free-programming-books-pt_BR](../tagged/free-programming-books-pt_BR.md)
+    * tags: [free-programming-books](../tagged/free-programming-books.md), [perl](../tagged/perl.md), [free-programming-books-pt_br](../tagged/free-programming-books-pt_br.md)
 * [Wikibooks Perl](https://pl.wikibooks.org/wiki/Perl)
     * tags: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-pl](../tagged/free-programming-books-pl.md), [perl](../tagged/perl.md)
 * [Краткий экскурс в Perl-программирование](http://www.opennet.ru/docs/RUS/perl_help/)

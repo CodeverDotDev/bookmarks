@@ -4,4 +4,4 @@ distributed-tracing - [www.bookmarks.dev/tagged/distributed-tracing](https://www
     * tags: [distributed-tracing](../tagged/distributed-tracing.md)
 * [OpenZipkin · A distributed tracing system      ](https://zipkin.io/)
     * tags: [zipkin](../tagged/zipkin.md), [distributed-tracing](../tagged/distributed-tracing.md)
-    * :octocat: [github url](https://github.com/openzipkin/zipkin)
+    * :octocat: [source code](https://github.com/openzipkin/zipkin)

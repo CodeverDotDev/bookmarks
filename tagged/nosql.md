@@ -1,8 +1,11 @@
 nosql - [www.bookmarks.dev/tagged/nosql](https://www.bookmarks.dev/tagged/nosql)
 ---
+* [awesome-nosql-guides](https://github.com/erictleung/awesome-nosql-guides#readme)
+    * tags: [awesome-list](../tagged/awesome-list.md), [database](../tagged/database.md), [nosql](../tagged/nosql.md)
+    * :octocat: [source code](https://github.com/erictleung/awesome-nosql-guides#readme)
 * [Infinispan Homepage - Infinispan](http://infinispan.org/)
     * tags: [nosql](../tagged/nosql.md), [java](../tagged/java.md), [in-memory](../tagged/in-memory.md), [distributed-cache](../tagged/distributed-cache.md), [caching](../tagged/caching.md)
-    * :octocat: [github url](https://github.com/infinispan/infinispan)
+    * :octocat: [source code](https://github.com/infinispan/infinispan)
 * [Маленькая книга о Redis](https://github.com/kondratovich/the-little-redis-book/blob/master/ru/redis.md)
     * tags: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-ru](../tagged/free-programming-books-ru.md), [nosql](../tagged/nosql.md)
 * [Маленькая книга о MongoDB](http://www.pvsm.ru/download/mongodb-ru.pdf)

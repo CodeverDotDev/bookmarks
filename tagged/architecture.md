@@ -1,5 +1,8 @@
 architecture - [www.bookmarks.dev/tagged/architecture](https://www.bookmarks.dev/tagged/architecture)
 ---
+* [awesome-software-architecture](https://github.com/simskij/awesome-software-architecture#readme)
+    * tags: [awesome-list](../tagged/awesome-list.md), [architecture](../tagged/architecture.md)
+    * :octocat: [source code](https://github.com/simskij/awesome-software-architecture#readme)
 * [Topical Guide · Spring Security Architecture](https://spring.io/guides/topicals/spring-security-architecture)
     * tags: [spring-security](../tagged/spring-security.md), [spring](../tagged/spring.md), [architecture](../tagged/architecture.md)
 * [Migrating a Retail Monolith to Microservices: Sebastian Gauder at MicroXchg Berlin](https://www.infoq.com/news/2019/04/monolith-microservices-migration)
@@ -8,7 +11,7 @@ architecture - [www.bookmarks.dev/tagged/architecture](https://www.bookmarks.dev
 * [Oliver Gierke - Whoops! Where did my architecture go](http://olivergierke.de/2013/01/whoops-where-did-my-architecture-go/)
     * :calendar: published on: 2013-01-01
     * tags: [java](../tagged/java.md), [architecture](../tagged/architecture.md)
-    * :octocat: [github url](https://github.com/odrotbohm/whoops-architecture)
+    * :octocat: [source code](https://github.com/odrotbohm/whoops-architecture)
 * [Layers, hexagons, features and components ](http://www.codingthearchitecture.com/2016/04/25/layers_hexagons_features_and_components.html)
     * :calendar: published on: 2016-04-25
     * tags: [architecture](../tagged/architecture.md)
@@ -37,7 +40,7 @@ architecture - [www.bookmarks.dev/tagged/architecture](https://www.bookmarks.dev
     * tags: [angular](../tagged/angular.md), [architecture](../tagged/architecture.md)
 * [PlantUML Home Page](http://plantuml.com/)
     * tags: [uml](../tagged/uml.md), [architecture](../tagged/architecture.md), [intellij](../tagged/intellij.md), [plantuml](../tagged/plantuml.md), [open-source](../tagged/open-source.md)
-    * :octocat: [github url](https://github.com/plantuml/plantuml)
+    * :octocat: [source code](https://github.com/plantuml/plantuml)
 * [Publish–subscribe pattern](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern)
     * tags: [glossary](../tagged/glossary.md), [publish-subscribe](../tagged/publish-subscribe.md), [architecture](../tagged/architecture.md)
 * [Apache Kafka as an Event-Driven Backbone for Service Architectures](https://www.confluent.io/blog/apache-kafka-for-service-architectures/)

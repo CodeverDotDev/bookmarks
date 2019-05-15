@@ -1,5 +1,8 @@
 ssh - [www.bookmarks.dev/tagged/ssh](https://www.bookmarks.dev/tagged/ssh)
 ---
+* [awesome-ssh](https://github.com/moul/awesome-ssh#readme)
+    * tags: [awesome-list](../tagged/awesome-list.md), [ssh](../tagged/ssh.md)
+    * :octocat: [source code](https://github.com/moul/awesome-ssh#readme)
 * [linux - Git keeps asking me for my ssh key passphrase - Stack Overflow](https://stackoverflow.com/questions/10032461/git-keeps-asking-me-for-my-ssh-key-passphrase)
     * tags: [git](../tagged/git.md), [ssh](../tagged/ssh.md)
 * [Adding a new SSH key to your GitHub account - User Documentation        ](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/)

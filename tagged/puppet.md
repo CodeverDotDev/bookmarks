@@ -4,4 +4,4 @@ puppet - [www.bookmarks.dev/tagged/puppet](https://www.bookmarks.dev/tagged/pupp
     * tags: [puppet](../tagged/puppet.md), [free-programming-books](../tagged/free-programming-books.md)
 * [How Puppet works ](https://puppet.com/products/how-puppet-works)
     * tags: [puppet](../tagged/puppet.md), [devops](../tagged/devops.md)
-    * :octocat: [github url](https://github.com/puppetlabs/puppet)
+    * :octocat: [source code](https://github.com/puppetlabs/puppet)

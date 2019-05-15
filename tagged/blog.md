@@ -1,5 +1,8 @@
 blog - [www.bookmarks.dev/tagged/blog](https://www.bookmarks.dev/tagged/blog)
 ---
+* [awesome-engineering-blogs](https://github.com/kilimchoi/engineering-blogs#readme)
+    * tags: [awesome-list](../tagged/awesome-list.md), [blog](../tagged/blog.md)
+    * :octocat: [source code](https://github.com/kilimchoi/engineering-blogs#readme)
 * [Ted Vinke's Blog – Java, Groovy and Grails](https://tedvinke.wordpress.com/)
     * tags: [java](../tagged/java.md), [blog](../tagged/blog.md)
 * [2ality – JavaScript and more  ](http://2ality.com)

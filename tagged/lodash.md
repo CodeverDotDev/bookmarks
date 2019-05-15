@@ -2,4 +2,4 @@ lodash - [www.bookmarks.dev/tagged/lodash](https://www.bookmarks.dev/tagged/loda
 ---
 * [Lodash](https://lodash.com/)
     * tags: [lodash](../tagged/lodash.md), [javascript](../tagged/javascript.md)
-    * :octocat: [github url](https://github.com/lodash/lodash)
+    * :octocat: [source code](https://github.com/lodash/lodash)

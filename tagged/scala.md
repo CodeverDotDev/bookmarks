@@ -1,11 +1,14 @@
 scala - [www.bookmarks.dev/tagged/scala](https://www.bookmarks.dev/tagged/scala)
 ---
+* [awesome-scala](https://github.com/lauris/awesome-scala#readme)
+    * tags: [awesome-list](../tagged/awesome-list.md), [programming-languages](../tagged/programming-languages.md), [scala](../tagged/scala.md)
+    * :octocat: [source code](https://github.com/lauris/awesome-scala#readme)
 * [Finally Functional Programming in Java – Hacker Noon](https://hackernoon.com/finally-functional-programming-in-java-ad4d388fb92e)
     * :calendar: published on: 2018-02-26
     * tags: [java](../tagged/java.md), [scala](../tagged/scala.md), [functional-programming](../tagged/functional-programming.md)
 * [GraalVM](http://www.graalvm.org/)
     * tags: [java](../tagged/java.md), [scala](../tagged/scala.md), [kotlin](../tagged/kotlin.md), [virtual-machine](../tagged/virtual-machine.md)
-    * :octocat: [github url](https://github.com/oracle/graal)
+    * :octocat: [source code](https://github.com/oracle/graal)
 * [Język programowania Scala](http://www.grzegorzbalcerek.net/jps2/index.html)
     * tags: [free-programming-books](../tagged/free-programming-books.md), [scala](../tagged/scala.md), [free-programming-books-pl](../tagged/free-programming-books-pl.md)
 * [Scala Школа!](http://twitter.github.io/scala_school/ru/)

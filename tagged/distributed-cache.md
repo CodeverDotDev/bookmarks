@@ -2,4 +2,4 @@ distributed-cache - [www.bookmarks.dev/tagged/distributed-cache](https://www.boo
 ---
 * [Infinispan Homepage - Infinispan](http://infinispan.org/)
     * tags: [nosql](../tagged/nosql.md), [java](../tagged/java.md), [in-memory](../tagged/in-memory.md), [distributed-cache](../tagged/distributed-cache.md), [caching](../tagged/caching.md)
-    * :octocat: [github url](https://github.com/infinispan/infinispan)
+    * :octocat: [source code](https://github.com/infinispan/infinispan)

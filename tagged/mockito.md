@@ -5,4 +5,4 @@ mockito - [www.bookmarks.dev/tagged/mockito](https://www.bookmarks.dev/tagged/mo
     * tags: [javaee](../tagged/javaee.md), [mockito](../tagged/mockito.md), [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
 * [Mockito latest documentation](http://javadoc.io/page/org.mockito/mockito-core/latest/org/mockito/Mockito.html)
     * tags: [mockito](../tagged/mockito.md), [docs](../tagged/docs.md)
-    * :octocat: [github url](https://github.com/mockito/mockito)
+    * :octocat: [source code](https://github.com/mockito/mockito)

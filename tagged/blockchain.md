@@ -1,4 +1,10 @@
 blockchain - [www.bookmarks.dev/tagged/blockchain](https://www.bookmarks.dev/tagged/blockchain)
 ---
+* [awesome-non-financial-blockchain](https://github.com/machinomy/awesome-non-financial-blockchain#readme)
+    * tags: [awesome-list](../tagged/awesome-list.md), [blockchain](../tagged/blockchain.md)
+    * :octocat: [source code](https://github.com/machinomy/awesome-non-financial-blockchain#readme)
+* [awesome-blockchain-ai](https://github.com/steven2358/awesome-blockchain-ai#readme)
+    * tags: [awesome-list](../tagged/awesome-list.md), [blockchain](../tagged/blockchain.md), [artificial-intelligence](../tagged/artificial-intelligence.md)
+    * :octocat: [source code](https://github.com/steven2358/awesome-blockchain-ai#readme)
 * [Yep! That's Blockchain - YouTube](https://www.youtube.com/watch?v=o8upsfqkQk8)
     * tags: [blockchain](../tagged/blockchain.md)

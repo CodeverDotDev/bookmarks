@@ -5,4 +5,4 @@ middleware - [www.bookmarks.dev/tagged/middleware](https://www.bookmarks.dev/tag
     * tags: [microservices](../tagged/microservices.md), [architecture](../tagged/architecture.md), [rest](../tagged/rest.md), [middleware](../tagged/middleware.md)
 * [Connect home page](https://github.com/senchalabs/connect)
     * tags: [nodejs](../tagged/nodejs.md), [middleware](../tagged/middleware.md)
-    * :octocat: [github url](https://github.com/senchalabs/connect)
+    * :octocat: [source code](https://github.com/senchalabs/connect)

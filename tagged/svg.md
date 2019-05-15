@@ -1,7 +1,10 @@
 svg - [www.bookmarks.dev/tagged/svg](https://www.bookmarks.dev/tagged/svg)
 ---
+* [awesome-svg](https://github.com/willianjusten/awesome-svg#readme)
+    * tags: [awesome-list](../tagged/awesome-list.md), [frontend](../tagged/frontend.md), [svg](../tagged/svg.md)
+    * :octocat: [source code](https://github.com/willianjusten/awesome-svg#readme)
 * [D3.js - Data-Driven Documents](https://d3js.org/)
     * tags: [javascript](../tagged/javascript.md), [html](../tagged/html.md), [svg](../tagged/svg.md), [css](../tagged/css.md)
-    * :octocat: [github url](https://github.com/d3/d3)
+    * :octocat: [source code](https://github.com/d3/d3)
 * [SCALABLE](https://leanpub.com/scalable/)
     * tags: [free-programming-books](../tagged/free-programming-books.md), [svg](../tagged/svg.md), [free-programming-books-es](../tagged/free-programming-books-es.md)

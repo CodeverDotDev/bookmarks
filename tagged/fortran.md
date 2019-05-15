@@ -1,5 +1,8 @@
 fortran - [www.bookmarks.dev/tagged/fortran](https://www.bookmarks.dev/tagged/fortran)
 ---
+* [awesome-fortran](https://github.com/rabbiabram/awesome-fortran#readme)
+    * tags: [awesome-list](../tagged/awesome-list.md), [programming-languages](../tagged/programming-languages.md), [fortran](../tagged/fortran.md)
+    * :octocat: [source code](https://github.com/rabbiabram/awesome-fortran#readme)
 * [Self Study Guide: Programming in Fortran 95](http://www.mrao.cam.ac.uk/~rachael/compphys/SelfStudyF95.pdf)
     * tags: [free-programming-books](../tagged/free-programming-books.md), [fortran](../tagged/fortran.md)
 * [Introduction to fortran 95 and numerical computing: a jump-start for scientists and engineers](http://people.cs.vt.edu/~asandu/Deposit/Fortran95_notes.pdf)

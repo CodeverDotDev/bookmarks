@@ -1,5 +1,8 @@
 ionic - [www.bookmarks.dev/tagged/ionic](https://www.bookmarks.dev/tagged/ionic)
 ---
+* [awesome-ionic](https://github.com/candelibas/awesome-ionic#readme)
+    * tags: [awesome-list](../tagged/awesome-list.md), [frontend](../tagged/frontend.md), [ionic](../tagged/ionic.md)
+    * :octocat: [source code](https://github.com/candelibas/awesome-ionic#readme)
 * [Ionic 2 Crash Course - YouTube [35min]](https://www.youtube.com/watch?v=O2WiI9QrS5s)
     * :calendar: published on: 2017-01-12
     * tags: [ionic](../tagged/ionic.md)

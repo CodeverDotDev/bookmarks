@@ -3,7 +3,7 @@ oauth2 - [www.bookmarks.dev/tagged/oauth2](https://www.bookmarks.dev/tagged/oaut
 * [Securing OAuth 2.0 Resources in Spring Security 5.1 - YouTube](https://www.youtube.com/watch?v=1N-xwmoN83w)
     * :calendar: published on: 2018-10-04
     * tags: [spring](../tagged/spring.md), [spring-boot](../tagged/spring-boot.md), [spring-security](../tagged/spring-security.md), [oauth2](../tagged/oauth2.md)
-    * :octocat: [github url](https://github.com/jzheaux/messaging-app/tree/springone2018-demo)
+    * :octocat: [source code](https://github.com/jzheaux/messaging-app/tree/springone2018-demo)
 * [Next Generation OAuth 2.0 Support with Spring Security](https://spring.io/blog/2018/01/30/next-generation-oauth-2-0-support-with-spring-security)
     * :calendar: published on: 2018-01-30
     * tags: [spring-security](../tagged/spring-security.md), [oauth2](../tagged/oauth2.md)

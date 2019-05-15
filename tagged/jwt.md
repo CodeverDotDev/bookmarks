@@ -40,4 +40,4 @@ jwt - [www.bookmarks.dev/tagged/jwt](https://www.bookmarks.dev/tagged/jwt)
 * [JWT authentication with Vert.x, Keycloak and Angular 2](http://paulbakker.io/java/jwt-keycloak-angular2/)
     * :calendar: published on: 2016-09-15
     * tags: [angular](../tagged/angular.md), [keycloak](../tagged/keycloak.md), [jwt](../tagged/jwt.md), [angular-cli](../tagged/angular-cli.md)
-    * :octocat: [github url](https://github.com/paulbakker/vertx-angular2-keycloak-demo)
+    * :octocat: [source code](https://github.com/paulbakker/vertx-angular2-keycloak-demo)

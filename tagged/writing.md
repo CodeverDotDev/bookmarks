@@ -1,5 +1,8 @@
 writing - [www.bookmarks.dev/tagged/writing](https://www.bookmarks.dev/tagged/writing)
 ---
+* [awesome-book-authoring](https://github.com/TalAter/awesome-book-authoring#readme)
+    * tags: [awesome-list](../tagged/awesome-list.md), [book](../tagged/book.md), [authoring](../tagged/authoring.md), [writing](../tagged/writing.md)
+    * :octocat: [source code](https://github.com/TalAter/awesome-book-authoring#readme)
 * [Drivel Defence text](http://www.plainenglish.co.uk/drivel-defence-text.html)
     * tags: [writing](../tagged/writing.md), [tools](../tagged/tools.md)
 * [ Gunning Fog Index](http://gunning-fog-index.com/)

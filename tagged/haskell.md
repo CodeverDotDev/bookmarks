@@ -1,7 +1,10 @@
 haskell - [www.bookmarks.dev/tagged/haskell](https://www.bookmarks.dev/tagged/haskell)
 ---
+* [awesome-haskell](https://github.com/krispo/awesome-haskell#readme)
+    * tags: [awesome-list](../tagged/awesome-list.md), [programming-languages](../tagged/programming-languages.md), [haskell](../tagged/haskell.md)
+    * :octocat: [source code](https://github.com/krispo/awesome-haskell#readme)
 * [Aprender o Haskell será um grande bem para você (tradução em andamento)](https://github.com/taylorrf/learnhaskell)
-    * tags: [haskell](../tagged/haskell.md), [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-pt_BR](../tagged/free-programming-books-pt_BR.md)
+    * tags: [haskell](../tagged/haskell.md), [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-pt_br](../tagged/free-programming-books-pt_br.md)
 * [Haskell](https://pl.wikibooks.org/wiki/Haskell)
     * tags: [haskell](../tagged/haskell.md), [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-pl](../tagged/free-programming-books-pl.md)
 * [Учебник по Haskell](http://anton-k.github.io/ru-haskell-book/book/home.html)
@@ -67,4 +70,4 @@ haskell - [www.bookmarks.dev/tagged/haskell](https://www.bookmarks.dev/tagged/ha
 * [Вивчить собі Хаскела на велике щастя!](http://haskell.trygub.com)
     * tags: [haskell](../tagged/haskell.md), [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-ua](../tagged/free-programming-books-ua.md)
 * [Programação Funcional CC](http://www4.di.uminho.pt/~mjf/pub/PF-Haskell.pdf)
-    * tags: [haskell](../tagged/haskell.md), [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-pt_PT](../tagged/free-programming-books-pt_PT.md)
+    * tags: [haskell](../tagged/haskell.md), [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-pt_pt](../tagged/free-programming-books-pt_pt.md)

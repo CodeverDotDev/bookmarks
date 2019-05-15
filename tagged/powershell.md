@@ -1,5 +1,8 @@
 powershell - [www.bookmarks.dev/tagged/powershell](https://www.bookmarks.dev/tagged/powershell)
 ---
+* [awesome-powershell](https://github.com/janikvonrotz/awesome-powershell#readme)
+    * tags: [awesome-list](../tagged/awesome-list.md), [powershell](../tagged/powershell.md)
+    * :octocat: [source code](https://github.com/janikvonrotz/awesome-powershell#readme)
 * [Microsoft PowerShell 2.0](http://mek.oszk.hu/10400/10402/index.phtml)
     * tags: [free-programming-books](../tagged/free-programming-books.md), [powershell](../tagged/powershell.md), [free-programming-books-hu](../tagged/free-programming-books-hu.md)
 * [Windows PowerShell コア](https://technet.microsoft.com/ja-jp/library/bb978525.aspx)

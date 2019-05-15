@@ -1,5 +1,8 @@
 rust - [www.bookmarks.dev/tagged/rust](https://www.bookmarks.dev/tagged/rust)
 ---
+* [awesome-rust](https://github.com/rust-unofficial/awesome-rust#readme)
+    * tags: [awesome-list](../tagged/awesome-list.md), [programming-languages](../tagged/programming-languages.md), [rust](../tagged/rust.md)
+    * :octocat: [source code](https://github.com/rust-unofficial/awesome-rust#readme)
 * [The Rust Programming Language](https://www.rust-lang.org/en-US/)
     * tags: [rust](../tagged/rust.md)
 * [Язык программирования Rust](http://rurust.github.io/rust_book_ru/)

@@ -1,8 +1,11 @@
 flask - [www.bookmarks.dev/tagged/flask](https://www.bookmarks.dev/tagged/flask)
 ---
+* [awesome-flask](https://github.com/humiaozuzu/awesome-flask#readme)
+    * tags: [awesome-list](../tagged/awesome-list.md), [backend](../tagged/backend.md), [flask](../tagged/flask.md)
+    * :octocat: [source code](https://github.com/humiaozuzu/awesome-flask#readme)
 * [Flask](https://www.palletsprojects.com/p/flask/)
     * tags: [flask](../tagged/flask.md), [python](../tagged/python.md)
-    * :octocat: [github url](https://github.com/pallets/flask)
+    * :octocat: [source code](https://github.com/pallets/flask)
 * [Flask ハンズオン](http://methane.github.io/flask-handson/)
     * tags: [free-programming-books-ja](../tagged/free-programming-books-ja.md), [free-programming-books](../tagged/free-programming-books.md), [python](../tagged/python.md), [flask](../tagged/flask.md)
 * [Flask ドキュメント](http://flask-docs-ja.readthedocs.org)

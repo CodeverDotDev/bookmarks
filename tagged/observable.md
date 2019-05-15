@@ -1,5 +1,8 @@
 observable - [www.bookmarks.dev/tagged/observable](https://www.bookmarks.dev/tagged/observable)
 ---
+* [awesome-observables](https://github.com/sindresorhus/awesome-observables#readme)
+    * tags: [awesome-list](../tagged/awesome-list.md), [programming-languages](../tagged/programming-languages.md), [javascript](../tagged/javascript.md), [observable](../tagged/observable.md)
+    * :octocat: [source code](https://github.com/sindresorhus/awesome-observables#readme)
 * [2 minute introduction to Rx – André Staltz – Medium](https://medium.com/@andrestaltz/2-minute-introduction-to-rx-24c8ca793877)
     * :calendar: published on: 2014-07-30
     * tags: [rx](../tagged/rx.md), [observable](../tagged/observable.md)
@@ -13,4 +16,4 @@ observable - [www.bookmarks.dev/tagged/observable](https://www.bookmarks.dev/tag
     * tags: [angular](../tagged/angular.md), [rxjs](../tagged/rxjs.md), [observable](../tagged/observable.md)
 * [How to build Angular App with Observable Data Services - Pitfalls](http://blog.angular-university.io/how-to-build-angular2-apps-using-rxjs-observable-data-services-pitfalls-to-avoid/)
     * tags: [angular](../tagged/angular.md), [observable](../tagged/observable.md), [data-services](../tagged/data-services.md)
-    * :octocat: [github url](https://github.com/jhades/angular2-rxjs-observable-data-services/blob/master/src/state/TodoStore.ts)
+    * :octocat: [source code](https://github.com/jhades/angular2-rxjs-observable-data-services/blob/master/src/state/TodoStore.ts)

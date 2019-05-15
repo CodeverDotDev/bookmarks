@@ -4,7 +4,7 @@ asciidoc - [www.bookmarks.dev/tagged/asciidoc](https://www.bookmarks.dev/tagged/
     * tags: [asciidoc](../tagged/asciidoc.md)
 * [Asciidoctor | An open source implementation of AsciiDoc in Ruby](http://asciidoctor.org/)
     * tags: [asciidoc](../tagged/asciidoc.md), [ruby](../tagged/ruby.md)
-    * :octocat: [github url](https://github.com/asciidoctor/asciidoctor)
+    * :octocat: [source code](https://github.com/asciidoctor/asciidoctor)
 * [Living the Future of Technical Writing – Hacker Noon](https://hackernoon.com/living-the-future-of-technical-writing-2f368bd0a272)
     * :calendar: published on: 2014-10-27
     * tags: [markdown](../tagged/markdown.md), [asciidoc](../tagged/asciidoc.md)

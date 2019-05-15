@@ -1,5 +1,8 @@
 hadoop - [www.bookmarks.dev/tagged/hadoop](https://www.bookmarks.dev/tagged/hadoop)
 ---
+* [awesome-hadoop](https://github.com/youngwookim/awesome-hadoop#readme)
+    * tags: [awesome-list](../tagged/awesome-list.md), [bigdata](../tagged/bigdata.md), [hadoop](../tagged/hadoop.md)
+    * :octocat: [source code](https://github.com/youngwookim/awesome-hadoop#readme)
 * [Programming Pig](http://chimera.labs.oreilly.com/books/1234000001811/index.html)
     * tags: [free-programming-books](../tagged/free-programming-books.md), [hadoop](../tagged/hadoop.md)
 * [Hadoop Illuminated](http://hadoopilluminated.com/index.html)

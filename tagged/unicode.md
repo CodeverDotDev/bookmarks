@@ -1,5 +1,11 @@
 unicode - [www.bookmarks.dev/tagged/unicode](https://www.bookmarks.dev/tagged/unicode)
 ---
+* [awesome-Awesome-Unicode](https://github.com/jagracey/Awesome-Unicode#readme)
+    * tags: [awesome-list](../tagged/awesome-list.md), [unicode](../tagged/unicode.md)
+    * :octocat: [source code](https://github.com/jagracey/Awesome-Unicode#readme)
+* [awesome-codepoints](https://github.com/Codepoints/awesome-codepoints#readme)
+    * tags: [awesome-list](../tagged/awesome-list.md), [unicode](../tagged/unicode.md)
+    * :octocat: [source code](https://github.com/Codepoints/awesome-codepoints#readme)
 * [How to support full Unicode in MySQL databases · Mathias Bynens](https://mathiasbynens.be/notes/mysql-utf8mb4)
     * :calendar: published on: 2012-07-30
     * tags: [mysql](../tagged/mysql.md), [unicode](../tagged/unicode.md), [utf-8](../tagged/utf-8.md)

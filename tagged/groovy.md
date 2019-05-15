@@ -1,5 +1,8 @@
 groovy - [www.bookmarks.dev/tagged/groovy](https://www.bookmarks.dev/tagged/groovy)
 ---
+* [awesome-groovy](https://github.com/kdabir/awesome-groovy#readme)
+    * tags: [awesome-list](../tagged/awesome-list.md), [programming-languages](../tagged/programming-languages.md), [groovy](../tagged/groovy.md)
+    * :octocat: [source code](https://github.com/kdabir/awesome-groovy#readme)
 * [Groovy für Java-Entwickler](http://examples.oreilly.de/openbooks/pdf_groovyger.pdf)
     * tags: [free-programming-books](../tagged/free-programming-books.md), [groovy](../tagged/groovy.md), [free-programming-books-de](../tagged/free-programming-books-de.md)
 * [JGGUG G*Magazine](http://grails.jp/g_mag_jp/)

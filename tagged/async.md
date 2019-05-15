@@ -14,13 +14,13 @@ async - [www.bookmarks.dev/tagged/async](https://www.bookmarks.dev/tagged/async)
 * [Zuul 2 : The Netflix Journey to Asynchronous, Non-Blocking Systems](https://medium.com/netflix-techblog/zuul-2-the-netflix-journey-to-asynchronous-non-blocking-systems-45947377fb5c)
     * :calendar: published on: 2016-09-21
     * tags: [async](../tagged/async.md)
-    * :octocat: [github url](https://github.com/netflix/zuul/)
+    * :octocat: [source code](https://github.com/netflix/zuul/)
 * [How Apache Kafka Inspired Our Platform Events Architecture](https://engineering.salesforce.com/how-apache-kafka-inspired-our-platform-events-architecture-2f351fe4cf63)
     * :calendar: published on: 2018-02-01
     * tags: [apache-kafka](../tagged/apache-kafka.md), [architecture](../tagged/architecture.md), [async](../tagged/async.md)
 * [Netty: Home](https://netty.io/)
     * tags: [async](../tagged/async.md), [event-driven](../tagged/event-driven.md), [grpc](../tagged/grpc.md)
-    * :octocat: [github url](https://github.com/netty/netty)
+    * :octocat: [source code](https://github.com/netty/netty)
 * [How to make parallel calls in Java with CompletableFuture example – CodingpediaOrg](http://www.codingpedia.org/ama/how-to-make-parallel-calls-in-java-with-completablefuture-example)
     * :calendar: published on: 2018-01-26
     * tags: [java](../tagged/java.md), [javaee](../tagged/javaee.md), [async](../tagged/async.md)

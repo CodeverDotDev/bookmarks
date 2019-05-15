@@ -1,5 +1,8 @@
 julia - [www.bookmarks.dev/tagged/julia](https://www.bookmarks.dev/tagged/julia)
 ---
+* [awesome-Julia.jl](https://github.com/svaksha/Julia.jl#readme)
+    * tags: [awesome-list](../tagged/awesome-list.md), [programming-languages](../tagged/programming-languages.md), [julia](../tagged/julia.md)
+    * :octocat: [source code](https://github.com/svaksha/Julia.jl#readme)
 * [実例で学ぶ Julia-0.4.1](https://www.dropbox.com/s/lk7y8lifjcr1vf2/JuliaBook-20151201.pdf)
     * tags: [free-programming-books-ja](../tagged/free-programming-books-ja.md), [free-programming-books](../tagged/free-programming-books.md), [julia](../tagged/julia.md)
 * [Julia Language Programming](http://www.geocities.jp/m_hiroi/light/julia.html)

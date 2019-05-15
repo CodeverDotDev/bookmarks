@@ -5,4 +5,4 @@ sinonjs - [www.bookmarks.dev/tagged/sinonjs](https://www.bookmarks.dev/tagged/si
     * tags: [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md), [unit-testing](../tagged/unit-testing.md), [sinonjs](../tagged/sinonjs.md)
 * [Sinon.JS](http://sinonjs.org/)
     * tags: [javascript](../tagged/javascript.md), [nodejs](../tagged/nodejs.md), [unit-testing](../tagged/unit-testing.md), [testing](../tagged/testing.md), [sinonjs](../tagged/sinonjs.md)
-    * :octocat: [github url](https://github.com/sinonjs/sinon)
+    * :octocat: [source code](https://github.com/sinonjs/sinon)

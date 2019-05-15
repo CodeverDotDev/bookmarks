@@ -12,6 +12,6 @@ hibernate - [www.bookmarks.dev/tagged/hibernate](https://www.bookmarks.dev/tagge
     * tags: [jboss-eap](../tagged/jboss-eap.md), [resteasy](../tagged/resteasy.md), [hibernate](../tagged/hibernate.md)
 * [Hibernate Search - Hibernate Search](http://hibernate.org/search/)
     * tags: [hibernate](../tagged/hibernate.md)
-    * :octocat: [github url](https://github.com/hibernate/hibernate-search)
+    * :octocat: [source code](https://github.com/hibernate/hibernate-search)
 * [Hibernate ORM documentation]( http://hibernate.org/orm/documentation/)
     * tags: [hibernate](../tagged/hibernate.md), [docs](../tagged/docs.md)

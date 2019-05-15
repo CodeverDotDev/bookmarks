@@ -1,5 +1,8 @@
 ocaml - [www.bookmarks.dev/tagged/ocaml](https://www.bookmarks.dev/tagged/ocaml)
 ---
+* [awesome-ocaml](https://github.com/ocaml-community/awesome-ocaml#readme)
+    * tags: [awesome-list](../tagged/awesome-list.md), [programming-languages](../tagged/programming-languages.md), [ocaml](../tagged/ocaml.md)
+    * :octocat: [source code](https://github.com/ocaml-community/awesome-ocaml#readme)
 * [お気楽 OCaml プログラミング入門](http://www.geocities.jp/m_hiroi/func/ocaml.html)
     * tags: [free-programming-books-ja](../tagged/free-programming-books-ja.md), [free-programming-books](../tagged/free-programming-books.md), [ocaml](../tagged/ocaml.md)
 * [Objective Caml 入門](http://www.fos.kuis.kyoto-u.ac.jp/~t-sekiym/classes/isle4/mltext/ocaml.html)

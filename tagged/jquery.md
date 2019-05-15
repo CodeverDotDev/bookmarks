@@ -1,5 +1,11 @@
 jquery - [www.bookmarks.dev/tagged/jquery](https://www.bookmarks.dev/tagged/jquery)
 ---
+* [awesome-jquery](https://github.com/petk/awesome-jquery#readme)
+    * tags: [awesome-list](../tagged/awesome-list.md), [frontend](../tagged/frontend.md), [jquery](../tagged/jquery.md)
+    * :octocat: [source code](https://github.com/petk/awesome-jquery#readme)
+* [awesome-jquery-tips-everyone-should-know](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know#readme)
+    * tags: [awesome-list](../tagged/awesome-list.md), [frontend](../tagged/frontend.md), [jquery](../tagged/jquery.md)
+    * :octocat: [source code](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know#readme)
 * [jQuery для начинающих](http://anton.shevchuk.name/jquery-book/)
     * tags: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-ru](../tagged/free-programming-books-ru.md), [javascript](../tagged/javascript.md), [jquery](../tagged/jquery.md)
 * [jQuery日本語リファレンス](http://semooh.jp/jquery/)

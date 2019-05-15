@@ -5,7 +5,7 @@ continuous-deployment - [www.bookmarks.dev/tagged/continuous-deployment](https:/
     * tags: [continuous-deployment](../tagged/continuous-deployment.md), [continuous-integration](../tagged/continuous-integration.md), [continuous-delivery](../tagged/continuous-delivery.md), [devops](../tagged/devops.md)
 * [Spinnaker home page](http://www.spinnaker.io/)
     * tags: [continuous-deployment](../tagged/continuous-deployment.md), [devops](../tagged/devops.md), [continuous-delivery](../tagged/continuous-delivery.md)
-    * :octocat: [github url](https://github.com/spinnaker/spinnaker)
+    * :octocat: [source code](https://github.com/spinnaker/spinnaker)
 * [Blue Green Deployment](https://martinfowler.com/bliki/BlueGreenDeployment.html)
     * :calendar: published on: 2010-03-01
     * tags: [devops](../tagged/devops.md), [continuous-deployment](../tagged/continuous-deployment.md)
@@ -14,4 +14,4 @@ continuous-deployment - [www.bookmarks.dev/tagged/continuous-deployment](https:/
     * tags: [gitops](../tagged/gitops.md), [devops](../tagged/devops.md), [continuous-deployment](../tagged/continuous-deployment.md), [continuous-integration](../tagged/continuous-integration.md)
 * [GitHub - openshift/source-to-image: A tool for building/building artifacts from source and injecting into docker images](https://github.com/openshift/source-to-image)
     * tags: [openshift](../tagged/openshift.md), [docker](../tagged/docker.md), [continuous-deployment](../tagged/continuous-deployment.md)
-    * :octocat: [github url](https://github.com/openshift/source-to-image)
+    * :octocat: [source code](https://github.com/openshift/source-to-image)

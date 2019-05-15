@@ -2,7 +2,7 @@ javaee - [www.bookmarks.dev/tagged/javaee](https://www.bookmarks.dev/tagged/java
 ---
 * [Thorntail Home Page](http://thorntail.io/)
     * tags: [javaee](../tagged/javaee.md), [microservices](../tagged/microservices.md)
-    * :octocat: [github url](https://github.com/thorntail/thorntail)
+    * :octocat: [source code](https://github.com/thorntail/thorntail)
 * [ CDI Reference Implementation](http://docs.jboss.org/weld/reference/latest/en-US/html_single/)
     * tags: [weld](../tagged/weld.md), [dependency-injection](../tagged/dependency-injection.md), [javaee](../tagged/javaee.md), [docs](../tagged/docs.md)
 * [Mockito: Why You Should Not Use InjectMocks Annotation to Autowire Fields – Ted Vinke's Blog](https://tedvinke.wordpress.com/2014/02/13/mockito-why-you-should-not-use-injectmocks-annotation-to-autowire-fields/)
@@ -14,7 +14,7 @@ javaee - [www.bookmarks.dev/tagged/javaee](https://www.bookmarks.dev/tagged/java
 * [Injection with CDI (Part I)](https://antoniogoncalves.org/2011/05/03/injection-with-cdi-part-i/)
     * :calendar: published on: 2011-09-25
     * tags: [dependency-injection](../tagged/dependency-injection.md), [cdi](../tagged/cdi.md), [javaee](../tagged/javaee.md)
-    * :octocat: [github url](https://github.com/agoncal/agoncal-sample-cdi)
+    * :octocat: [source code](https://github.com/agoncal/agoncal-sample-cdi)
 * [Asynchronous REST Services with JAX-RS and CompletableFuture · allegro.tech](https://allegro.tech/2014/10/async-rest.html)
     * :calendar: published on: 2014-10-29
     * tags: [rest](../tagged/rest.md), [java](../tagged/java.md), [javaee](../tagged/javaee.md), [asynchronous](../tagged/asynchronous.md)
@@ -33,7 +33,7 @@ javaee - [www.bookmarks.dev/tagged/javaee](https://www.bookmarks.dev/tagged/java
 * [Scheduling in Java EE](https://www.baeldung.com/scheduling-in-java-enterprise-edition)
     * :calendar: published on: 2017-11-30
     * tags: [javaee](../tagged/javaee.md), [scheduling](../tagged/scheduling.md)
-    * :octocat: [github url](https://github.com/eugenp/tutorials/tree/master/jee-7)
+    * :octocat: [source code](https://github.com/eugenp/tutorials/tree/master/jee-7)
 * [Complete Guide: Inheritance strategies with JPA and Hibernate](https://www.thoughts-on-java.org/complete-guide-inheritance-strategies-jpa-hibernate/)
     * tags: [java](../tagged/java.md), [javaee](../tagged/javaee.md), [jpa](../tagged/jpa.md), [hibernate](../tagged/hibernate.md)
 * [java ee - Unsatisfied dependencies for type X with qualifiers @Default - Stack Overflow](https://stackoverflow.com/questions/27706091/unsatisfied-dependencies-for-type-x-with-qualifiers-default?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa)
@@ -41,11 +41,11 @@ javaee - [www.bookmarks.dev/tagged/javaee](https://www.bookmarks.dev/tagged/java
 * [Arquillian and Wildfly: Integration test tutorial](https://www.softwareyoga.com/arquillian-and-wildfly-integration-test-tutorial/)
     * :calendar: published on: 2015-10-27
     * tags: [testing](../tagged/testing.md), [javaee](../tagged/javaee.md), [arquillian](../tagged/arquillian.md)
-    * :octocat: [github url](https://github.com/softwareyoga/arquillian-wildfly-basic-tutorial)
+    * :octocat: [source code](https://github.com/softwareyoga/arquillian-wildfly-basic-tutorial)
 * [Introduction to Testing with Arquillian](http://www.baeldung.com/arquillian)
     * :calendar: published on: 2017-11-30
     * tags: [testing](../tagged/testing.md), [java](../tagged/java.md), [javaee](../tagged/javaee.md), [arquillian](../tagged/arquillian.md)
-    * :octocat: [github url](https://github.com/eugenp/tutorials/tree/master/jee-7)
+    * :octocat: [source code](https://github.com/eugenp/tutorials/tree/master/jee-7)
 * [REST with Java (JAX-RS) using Jersey - Tutorial](http://www.vogella.com/tutorials/REST/article.html)
     * :calendar: published on: 2017-11-27
     * tags: [java](../tagged/java.md), [javaee](../tagged/javaee.md), [jaxrs](../tagged/jaxrs.md), [jersey](../tagged/jersey.md), [rest](../tagged/rest.md)
@@ -54,7 +54,7 @@ javaee - [www.bookmarks.dev/tagged/javaee](https://www.bookmarks.dev/tagged/java
     * tags: [java](../tagged/java.md), [javaee](../tagged/javaee.md), [async](../tagged/async.md)
 * [GitHub - redhat-developer/redhat-sso-quickstarts](https://github.com/redhat-developer/redhat-sso-quickstarts)
     * tags: [rh-sso](../tagged/rh-sso.md), [nodejs](../tagged/nodejs.md), [javaee](../tagged/javaee.md), [jaxrs](../tagged/jaxrs.md)
-    * :octocat: [github url](https://github.com/redhat-developer/redhat-sso-quickstarts)
+    * :octocat: [source code](https://github.com/redhat-developer/redhat-sso-quickstarts)
 * [Introduction | RESTfu­­l Jav­a­ wit­h ­JAX­-­­RS 2.­0­ (Second Edition)](https://dennis-xlc.gitbooks.io/restful-java-with-jax-rs-2-0-2rd-edition/en/index.html)
     * tags: [java](../tagged/java.md), [jaxrs](../tagged/jaxrs.md), [javaee](../tagged/javaee.md), [free-programming-books](../tagged/free-programming-books.md), [rest-client](../tagged/rest-client.md)
 * [30.2 Using the Client API in the JAX-RS Example Applications - Java Platform, Enterprise Edition: The Java EE Tutorial (Release 7)](https://docs.oracle.com/javaee/7/tutorial/jaxrs-client002.htm)

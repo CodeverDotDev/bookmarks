@@ -2,4 +2,4 @@ apache-zookeeper - [www.bookmarks.dev/tagged/apache-zookeeper](https://www.bookm
 ---
 * [Apache ZooKeeper - Home](http://zookeeper.apache.org/)
     * tags: [distributed-computing](../tagged/distributed-computing.md), [apache-zookeeper](../tagged/apache-zookeeper.md)
-    * :octocat: [github url](https://github.com/apache/zookeeper)
+    * :octocat: [source code](https://github.com/apache/zookeeper)

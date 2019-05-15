@@ -11,4 +11,4 @@ postman - [www.bookmarks.dev/tagged/postman](https://www.bookmarks.dev/tagged/po
     * tags: [rest](../tagged/rest.md), [postman](../tagged/postman.md)
 * [Using variables inside Postman and Collection Runner – Postman Blog](http://blog.getpostman.com/2014/02/20/using-variables-inside-postman-and-collection-runner/)
     * :calendar: published on: 2014-02-20
-    * tags: [REST](../tagged/REST.md), [postman](../tagged/postman.md)
+    * tags: [rest](../tagged/rest.md), [postman](../tagged/postman.md)

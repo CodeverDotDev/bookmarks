@@ -1,5 +1,11 @@
 ios - [www.bookmarks.dev/tagged/ios](https://www.bookmarks.dev/tagged/ios)
 ---
+* [awesome-ios](https://github.com/vsouza/awesome-ios#readme)
+    * tags: [awesome-list](../tagged/awesome-list.md), [platform](../tagged/platform.md), [ios](../tagged/ios.md)
+    * :octocat: [source code](https://github.com/vsouza/awesome-ios#readme)
+* [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui#readme)
+    * tags: [awesome-list](../tagged/awesome-list.md), [frontend](../tagged/frontend.md), [ios](../tagged/ios.md)
+    * :octocat: [source code](https://github.com/cjwirth/awesome-ios-ui#readme)
 * [iPad-Programmierung](http://examples.oreilly.de/openbooks/pdf_ipadprogpragger.pdf)
     * tags: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-de](../tagged/free-programming-books-de.md), [ios](../tagged/ios.md)
 * [iOS-Rezepte](http://examples.oreilly.de/openbooks/iosrecipesger.zip)

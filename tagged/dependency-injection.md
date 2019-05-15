@@ -8,7 +8,7 @@ dependency-injection - [www.bookmarks.dev/tagged/dependency-injection](https://w
 * [Injection with CDI (Part I)](https://antoniogoncalves.org/2011/05/03/injection-with-cdi-part-i/)
     * :calendar: published on: 2011-09-25
     * tags: [dependency-injection](../tagged/dependency-injection.md), [cdi](../tagged/cdi.md), [javaee](../tagged/javaee.md)
-    * :octocat: [github url](https://github.com/agoncal/agoncal-sample-cdi)
+    * :octocat: [source code](https://github.com/agoncal/agoncal-sample-cdi)
 * [The One Correct Way to do Dependency Injection](http://blog.schauderhaft.de/2012/01/01/the-one-correct-way-to-do-dependency-injection/)
     * :calendar: published on: 2012-01-01
     * tags: [design-patterns](../tagged/design-patterns.md), [dependency-injection](../tagged/dependency-injection.md)

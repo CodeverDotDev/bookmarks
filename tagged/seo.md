@@ -1,5 +1,8 @@
 seo - [www.bookmarks.dev/tagged/seo](https://www.bookmarks.dev/tagged/seo)
 ---
+* [awesome-search-engine-optimization](https://github.com/marcobiedermann/search-engine-optimization#readme)
+    * tags: [awesome-list](../tagged/awesome-list.md), [theory](../tagged/theory.md), [seo](../tagged/seo.md)
+    * :octocat: [source code](https://github.com/marcobiedermann/search-engine-optimization#readme)
 * [تحسين محركات البحث SEO - دليل المبتدئين](http://librebooks.org/search-engine-optimization-seo-starter-guide-ar/)
     * tags: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-ar](../tagged/free-programming-books-ar.md), [seo](../tagged/seo.md)
 * [Set your preferred domain (www or non-www) - Search Console Help](https://support.google.com/webmasters/answer/44231)

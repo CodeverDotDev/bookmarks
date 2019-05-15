@@ -1,5 +1,11 @@
 cryptography - [www.bookmarks.dev/tagged/cryptography](https://www.bookmarks.dev/tagged/cryptography)
 ---
+* [awesome-cryptography](https://github.com/sobolevn/awesome-cryptography#readme)
+    * tags: [awesome-list](../tagged/awesome-list.md), [computer-science](../tagged/computer-science.md), [cryptography](../tagged/cryptography.md)
+    * :octocat: [source code](https://github.com/sobolevn/awesome-cryptography#readme)
+* [awesome-crypto-papers](https://github.com/pFarb/awesome-crypto-papers#readme)
+    * tags: [awesome-list](../tagged/awesome-list.md), [computer-science](../tagged/computer-science.md), [cryptography](../tagged/cryptography.md)
+    * :octocat: [source code](https://github.com/pFarb/awesome-crypto-papers#readme)
 * [JSON Web Signature (JWS) specification](https://tools.ietf.org/html/rfc7515)
     * tags: [jws](../tagged/jws.md), [encryption](../tagged/encryption.md), [cryptography](../tagged/cryptography.md)
 * [JSON Web Key (JWK) rfc specification](https://tools.ietf.org/html/rfc7517)
@@ -18,7 +24,7 @@ cryptography - [www.bookmarks.dev/tagged/cryptography](https://www.bookmarks.dev
 * [RSA Signing and Encryption in Java](http://niels.nu/blog/2016/java-rsa.html)
     * :calendar: published on: 2016-12-29
     * tags: [java](../tagged/java.md), [cryptography](../tagged/cryptography.md), [security](../tagged/security.md)
-    * :octocat: [github url](https://gist.github.com/nielsutrecht/855f3bef0cf559d8d23e94e2aecd4ede)
+    * :octocat: [source code](https://gist.github.com/nielsutrecht/855f3bef0cf559d8d23e94e2aecd4ede)
 * [SSL/TLS  handshake Protocol - YouTube](https://www.youtube.com/watch?v=sEkw8ZcxtFk&list=PLSNNzog5eydtwsdT__t5WtRgvpfMzpTc7&index=5)
     * :calendar: published on: 2018-02-11
     * tags: [security](../tagged/security.md), [cryptography](../tagged/cryptography.md), [ssl](../tagged/ssl.md), [tls](../tagged/tls.md)

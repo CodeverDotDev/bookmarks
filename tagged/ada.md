@@ -1,5 +1,8 @@
 ada - [www.bookmarks.dev/tagged/ada](https://www.bookmarks.dev/tagged/ada)
 ---
+* [awesome-ada](https://github.com/ohenley/awesome-ada#readme)
+    * tags: [awesome-list](../tagged/awesome-list.md), [programming-languages](../tagged/programming-languages.md), [ada](../tagged/ada.md)
+    * :octocat: [source code](https://github.com/ohenley/awesome-ada#readme)
 * [Az Ada programozási nyelv](http://mek.oszk.hu/01200/01256/index.phtml)
     * tags: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-hu](../tagged/free-programming-books-hu.md), [ada](../tagged/ada.md)
 * [Cours Ada 95 pour le programmeur C++](http://d.feneuille.free.fr/c++%20to%20ada%201.0a.pdf)

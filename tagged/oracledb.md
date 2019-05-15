@@ -7,4 +7,4 @@ oracledb - [www.bookmarks.dev/tagged/oracledb](https://www.bookmarks.dev/tagged/
     * tags: [oracledb](../tagged/oracledb.md), [osx](../tagged/osx.md), [mac](../tagged/mac.md)
 * [Oracle Node.js Developer Center](http://www.oracle.com/technetwork/database/database-technologies/scripting-languages/node_js/index.html)
     * tags: [oracledb](../tagged/oracledb.md), [nodejs](../tagged/nodejs.md), [oracle](../tagged/oracle.md)
-    * :octocat: [github url](https://github.com/oracle/node-oracledb)
+    * :octocat: [source code](https://github.com/oracle/node-oracledb)

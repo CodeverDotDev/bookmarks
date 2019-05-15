@@ -2,4 +2,4 @@ latency - [www.bookmarks.dev/tagged/latency](https://www.bookmarks.dev/tagged/la
 ---
 * [GitHub - Netflix/Hystrix](https://github.com/Netflix/Hystrix)
     * tags: [distributed](../tagged/distributed.md), [latency](../tagged/latency.md), [hystrix](../tagged/hystrix.md)
-    * :octocat: [github url](https://github.com/Netflix/Hystrix)
+    * :octocat: [source code](https://github.com/Netflix/Hystrix)

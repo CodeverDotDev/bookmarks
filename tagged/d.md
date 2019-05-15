@@ -1,5 +1,8 @@
 d - [www.bookmarks.dev/tagged/d](https://www.bookmarks.dev/tagged/d)
 ---
+* [awesome-d](https://github.com/zhaopuming/awesome-d#readme)
+    * tags: [awesome-list](../tagged/awesome-list.md), [programming-languages](../tagged/programming-languages.md), [d](../tagged/d.md)
+    * :octocat: [source code](https://github.com/zhaopuming/awesome-d#readme)
 * [D言語基礎文法最速マスター](https://gist.github.com/repeatedly/2470712)
     * tags: [free-programming-books-ja](../tagged/free-programming-books-ja.md), [free-programming-books](../tagged/free-programming-books.md), [d](../tagged/d.md)
 * [Programming in D](http://ddili.org/ders/d.en/)

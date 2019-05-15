@@ -1,5 +1,8 @@
 erlang - [www.bookmarks.dev/tagged/erlang](https://www.bookmarks.dev/tagged/erlang)
 ---
+* [awesome-erlang](https://github.com/drobakowski/awesome-erlang#readme)
+    * tags: [awesome-list](../tagged/awesome-list.md), [programming-languages](../tagged/programming-languages.md), [erlang](../tagged/erlang.md)
+    * :octocat: [source code](https://github.com/drobakowski/awesome-erlang#readme)
 * [Программирование на Эрланге](https://github.com/dyp2000/Russian-Armstrong-Erlang)
     * tags: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-ru](../tagged/free-programming-books-ru.md), [erlang](../tagged/erlang.md)
 * [お気楽 Erlang プログラミング入門](http://www.geocities.jp/m_hiroi/func/erlang.html)

@@ -1,5 +1,8 @@
 node.js - [www.bookmarks.dev/tagged/node.js](https://www.bookmarks.dev/tagged/node.js)
 ---
+* [awesome-cross-platform-nodejs](https://github.com/bcoe/awesome-cross-platform-nodejs#readme)
+    * tags: [awesome-list](../tagged/awesome-list.md), [platform](../tagged/platform.md), [node.js](../tagged/node.js.md)
+    * :octocat: [source code](https://github.com/bcoe/awesome-cross-platform-nodejs#readme)
 * [Node.js для начинающих](http://nodebeginner.ru)
     * tags: [free-programming-books](../tagged/free-programming-books.md), [node.js](../tagged/node.js.md), [free-programming-books-ru](../tagged/free-programming-books-ru.md), [javascript](../tagged/javascript.md)
 * [Nodeビギナーズブック](http://www.nodebeginner.org/index-jp.html)

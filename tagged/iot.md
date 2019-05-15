@@ -1,4 +1,10 @@
 iot - [www.bookmarks.dev/tagged/iot](https://www.bookmarks.dev/tagged/iot)
 ---
+* [awesome-IoT-hybrid](https://github.com/weblancaster/awesome-IoT-hybrid#readme)
+    * tags: [awesome-list](../tagged/awesome-list.md), [platform](../tagged/platform.md), [iot](../tagged/iot.md)
+    * :octocat: [source code](https://github.com/weblancaster/awesome-IoT-hybrid#readme)
+* [awesome-iot](https://github.com/HQarroum/awesome-iot#readme)
+    * tags: [awesome-list](../tagged/awesome-list.md), [hardware](../tagged/hardware.md), [iot](../tagged/iot.md)
+    * :octocat: [source code](https://github.com/HQarroum/awesome-iot#readme)
 * [IoT in five days- V1.1](https://github.com/marcozennaro/IPv6-WSN-book/tree/master/Releases)
     * tags: [free-programming-books](../tagged/free-programming-books.md), [iot](../tagged/iot.md)

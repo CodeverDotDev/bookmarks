@@ -2,7 +2,7 @@ mapping - [www.bookmarks.dev/tagged/mapping](https://www.bookmarks.dev/tagged/ma
 ---
 * [MapStruct – Java bean mappings, the easy way!](http://mapstruct.org/)
     * tags: [java](../tagged/java.md), [mapper](../tagged/mapper.md), [mapping](../tagged/mapping.md)
-    * :octocat: [github url](https://github.com/mapstruct/mapstruct)
+    * :octocat: [source code](https://github.com/mapstruct/mapstruct)
 * [ModelMapper - Simple, Intelligent, Object Mapping.](http://modelmapper.org/)
     * tags: [java](../tagged/java.md), [mapper](../tagged/mapper.md), [mapping](../tagged/mapping.md)
-    * :octocat: [github url](https://github.com/modelmapper/modelmapper/)
+    * :octocat: [source code](https://github.com/modelmapper/modelmapper/)

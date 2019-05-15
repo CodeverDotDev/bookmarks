@@ -2,11 +2,11 @@ api-gateway - [www.bookmarks.dev/tagged/api-gateway](https://www.bookmarks.dev/t
 ---
 * [GitHub - Netflix/zuul home page](https://github.com/Netflix/zuul)
     * tags: [zuul](../tagged/zuul.md), [api-gateway](../tagged/api-gateway.md), [java](../tagged/java.md)
-    * :octocat: [github url](https://github.com/Netflix/zuul)
+    * :octocat: [source code](https://github.com/Netflix/zuul)
 * [Building Microservices Using an API Gateway | NGINX](https://www.nginx.com/blog/building-microservices-using-an-api-gateway/)
     * tags: [microservices](../tagged/microservices.md), [api-gateway](../tagged/api-gateway.md), [api](../tagged/api.md)
 * [API gateway pattern](http://microservices.io/patterns/apigateway.html)
     * tags: [design-patterns](../tagged/design-patterns.md), [api-gateway](../tagged/api-gateway.md), [api](../tagged/api.md)
 * [Kong - Open-Source API Management and Microservice Management](https://getkong.org/)
     * tags: [kong](../tagged/kong.md), [open-source](../tagged/open-source.md), [api-gateway](../tagged/api-gateway.md), [microservices](../tagged/microservices.md)
-    * :octocat: [github url](https://github.com/Mashape/kong/)
+    * :octocat: [source code](https://github.com/Mashape/kong/)

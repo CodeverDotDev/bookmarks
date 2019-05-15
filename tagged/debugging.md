@@ -3,7 +3,7 @@ debugging - [www.bookmarks.dev/tagged/debugging](https://www.bookmarks.dev/tagge
 * [Continuous Development with Java and Kubernetes - DEV Community 👩‍💻👨‍💻](https://dev.to/pozo/continuous-development-with-java-and-kubernetes-3d08)
     * :calendar: published on: 2011-03-01
     * tags: [java](../tagged/java.md), [kubernetes](../tagged/kubernetes.md), [spring-boot](../tagged/spring-boot.md), [helm](../tagged/helm.md), [skaffold](../tagged/skaffold.md), [debugging](../tagged/debugging.md), [jib](../tagged/jib.md)
-    * :octocat: [github url](https://github.com/Pozo/continuous-java-kubernetes)
+    * :octocat: [source code](https://github.com/Pozo/continuous-java-kubernetes)
 * [Debugging JavaScript in Chrome - Help](https://www.jetbrains.com/help/idea/debugging-javascript-in-chrome.html)
     * tags: [intellij](../tagged/intellij.md), [javascript](../tagged/javascript.md), [debugging](../tagged/debugging.md)
 * [Debugging - Getting Started | Node.js](https://nodejs.org/en/docs/guides/debugging-getting-started/)

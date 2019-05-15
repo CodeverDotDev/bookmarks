@@ -2,7 +2,7 @@ objective-c - [www.bookmarks.dev/tagged/objective-c](https://www.bookmarks.dev/t
 ---
 * [CocoaPods.org](https://cocoapods.org/)
     * tags: [swift](../tagged/swift.md), [objective-c](../tagged/objective-c.md)
-    * :octocat: [github url](https://github.com/CocoaPods/CocoaPods)
+    * :octocat: [source code](https://github.com/CocoaPods/CocoaPods)
 * [Цикл статей разработки под Apple iOS](http://habrahabr.ru/post/149090/)
     * tags: [free-programming-books](../tagged/free-programming-books.md), [objective-c](../tagged/objective-c.md), [free-programming-books-ru](../tagged/free-programming-books-ru.md)
 * [Хрестоматия iOS паттернов](https://maleevdimka.files.wordpress.com/2013/04/ios-patterns-cliff-notes2.pdf)

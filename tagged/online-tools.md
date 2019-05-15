@@ -3,7 +3,7 @@ online-tools - [www.bookmarks.dev/tagged/online-tools](https://www.bookmarks.dev
 * [Online SQLite browser](https://extendsclass.com/sqlite-browser.html)
     * :calendar: published on: 2019-03-06
     * tags: [online-tools](../tagged/online-tools.md), [sql](../tagged/sql.md)
-    * :octocat: [github url](https://github.com/hautdefrance/Web-GUI-for-SQLite)
+    * :octocat: [source code](https://github.com/hautdefrance/Web-GUI-for-SQLite)
 * [Feed Validator for Atom and RSS](http://www.feedvalidator.org/)
     * tags: [dev-tools](../tagged/dev-tools.md), [online-tools](../tagged/online-tools.md), [blogging](../tagged/blogging.md)
 * [gitignore.io - Create Useful .gitignore Files For Your Project](https://www.gitignore.io/)

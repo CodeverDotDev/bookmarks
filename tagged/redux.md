@@ -1,17 +1,20 @@
 redux - [www.bookmarks.dev/tagged/redux](https://www.bookmarks.dev/tagged/redux)
 ---
+* [awesome-redux](https://github.com/brillout/awesome-redux#readme)
+    * tags: [awesome-list](../tagged/awesome-list.md), [frontend](../tagged/frontend.md), [redux](../tagged/redux.md)
+    * :octocat: [source code](https://github.com/brillout/awesome-redux#readme)
 * [GitHub - ngrx/platform: Monorepo for ngrx codebase](https://github.com/ngrx/platform)
     * tags: [angular](../tagged/angular.md), [ngrx](../tagged/ngrx.md), [redux](../tagged/redux.md)
-    * :octocat: [github url](https://github.com/ngrx/platform)
+    * :octocat: [source code](https://github.com/ngrx/platform)
 * [Scalable Single-Page Application Architecture · Minko Gechev's blog](http://blog.mgechev.com/2016/04/10/scalable-javascript-single-page-app-angular2-application-architecture/)
     * :calendar: published on: 2016-04-10
     * tags: [javascript](../tagged/javascript.md), [angular](../tagged/angular.md), [typescript](../tagged/typescript.md), [redux](../tagged/redux.md)
-    * :octocat: [github url](https://github.com/mgechev/scalable-architecture-demo)
+    * :octocat: [source code](https://github.com/mgechev/scalable-architecture-demo)
 * [You Might Not Need Redux – Dan Abramov – Medium](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367)
     * :calendar: published on: 2016-09-19
     * tags: [redux](../tagged/redux.md)
 * [Read Me · Redux](http://redux.js.org/)
     * tags: [redux](../tagged/redux.md), [javascript](../tagged/javascript.md)
-    * :octocat: [github url](https://github.com/reduxjs/redux)
+    * :octocat: [source code](https://github.com/reduxjs/redux)
 * [Redux: The Single Immutable State Tree - js Video Tutorial #free @eggheadio](https://egghead.io/lessons/javascript-redux-the-single-immutable-state-tree)
     * tags: [javascript](../tagged/javascript.md), [redux](../tagged/redux.md)

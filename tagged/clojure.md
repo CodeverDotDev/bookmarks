@@ -1,5 +1,8 @@
 clojure - [www.bookmarks.dev/tagged/clojure](https://www.bookmarks.dev/tagged/clojure)
 ---
+* [awesome-clojure](https://github.com/razum2um/awesome-clojure#readme)
+    * tags: [awesome-list](../tagged/awesome-list.md), [programming-languages](../tagged/programming-languages.md), [clojure](../tagged/clojure.md)
+    * :octocat: [source code](https://github.com/razum2um/awesome-clojure#readme)
 * [Введение в Clojure](http://alexott.net/ru/clojure/clojure-intro/)
     * tags: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-ru](../tagged/free-programming-books-ru.md), [clojure](../tagged/clojure.md)
 * [逆引きClojure](https://github.com/making/rd-clj)

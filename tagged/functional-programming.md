@@ -1,8 +1,11 @@
 functional-programming - [www.bookmarks.dev/tagged/functional-programming](https://www.bookmarks.dev/tagged/functional-programming)
 ---
+* [awesome-functional-programming](https://github.com/lucasviola/awesome-functional-programming#readme)
+    * tags: [awesome-list](../tagged/awesome-list.md), [computer-science](../tagged/computer-science.md), [functional-programming](../tagged/functional-programming.md)
+    * :octocat: [source code](https://github.com/lucasviola/awesome-functional-programming#readme)
 * [GitHub - stoeffel/awesome-fp-js](https://github.com/stoeffel/awesome-fp-js#readme)
-    * tags: [javascript](../tagged/javascript.md), [functional-programming](../tagged/functional-programming.md), [awesome](../tagged/awesome.md), [awesome-list](../tagged/awesome-list.md)
-    * :octocat: [github url](https://github.com/stoeffel/awesome-fp-js)
+    * tags: [javascript](../tagged/javascript.md), [functional-programming](../tagged/functional-programming.md), [awesome-list](../tagged/awesome-list.md)
+    * :octocat: [source code](https://github.com/stoeffel/awesome-fp-js)
 * [Simplify your JavaScript – Use .map(), .reduce(), and .filter()](https://medium.com/poka-techblog/simplify-your-javascript-use-map-reduce-and-filter-bd02c593cc2d)
     * :calendar: published on: 2018-01-29
     * tags: [javascript](../tagged/javascript.md), [functional-programming](../tagged/functional-programming.md)
@@ -17,7 +20,7 @@ functional-programming - [www.bookmarks.dev/tagged/functional-programming](https
     * tags: [functional-programming](../tagged/functional-programming.md)
 * [Functional Programming in Javascript](http://reactivex.io/learnrx/)
     * tags: [javascript](../tagged/javascript.md), [functional-programming](../tagged/functional-programming.md)
-    * :octocat: [github url](https://github.com/ReactiveX/learnrx)
+    * :octocat: [source code](https://github.com/ReactiveX/learnrx)
 * [Glossary of Modern JavaScript Concepts: Part 1Button - CloseLearn More](https://auth0.com/blog/glossary-of-modern-javascript-concepts/)
     * :calendar: published on: 2017-02-14
     * tags: [javascript](../tagged/javascript.md), [functional-programming](../tagged/functional-programming.md), [reactive-programming](../tagged/reactive-programming.md)

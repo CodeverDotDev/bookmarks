@@ -2,4 +2,4 @@ memcached - [www.bookmarks.dev/tagged/memcached](https://www.bookmarks.dev/tagge
 ---
 * [memcached - a distributed memory object caching system](http://memcached.org/)
     * tags: [memcached](../tagged/memcached.md), [caching](../tagged/caching.md)
-    * :octocat: [github url](https://github.com/memcached/memcached)
+    * :octocat: [source code](https://github.com/memcached/memcached)

@@ -1,5 +1,11 @@
 elixir - [www.bookmarks.dev/tagged/elixir](https://www.bookmarks.dev/tagged/elixir)
 ---
+* [awesome-elixir](https://github.com/h4cc/awesome-elixir#readme)
+    * tags: [awesome-list](../tagged/awesome-list.md), [programming-languages](../tagged/programming-languages.md), [elixir](../tagged/elixir.md)
+    * :octocat: [source code](https://github.com/h4cc/awesome-elixir#readme)
+* [awesome-ElixirBooks](https://github.com/sger/ElixirBooks#readme)
+    * tags: [awesome-list](../tagged/awesome-list.md), [book](../tagged/book.md), [elixir](../tagged/elixir.md)
+    * :octocat: [source code](https://github.com/sger/ElixirBooks#readme)
 * [Elixir 基礎文法最速マスター](http://qiita.com/niku/items/729ece76d78057b58271)
     * tags: [free-programming-books-ja](../tagged/free-programming-books-ja.md), [free-programming-books](../tagged/free-programming-books.md), [elixir](../tagged/elixir.md)
 * [Versioned APIs with Phoenix](http://elviovicosa.com/books/versioned-apis-with-phoenix)

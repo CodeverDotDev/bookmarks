@@ -6,7 +6,7 @@ bootstrap - [www.bookmarks.dev/tagged/bootstrap](https://www.bookmarks.dev/tagge
     * tags: [bootstrap](../tagged/bootstrap.md), [docs](../tagged/docs.md)
 * [Angular Bootstrap](https://valor-software.com/ngx-bootstrap/#/)
     * tags: [angular](../tagged/angular.md), [bootstrap](../tagged/bootstrap.md)
-    * :octocat: [github url](https://github.com/valor-software/ngx-bootstrap)
+    * :octocat: [source code](https://github.com/valor-software/ngx-bootstrap)
 * [Fast, faster, Angular CLI - how I converted my Angular project to use Angular CLI – CodingpediaOrg](http://www.codingpedia.org/ama/fast-faster-angular-cli-how-i-converted-my-angular-project-to-use-angular-cli)
     * :calendar: published on: 2017-05-02
     * tags: [angular](../tagged/angular.md), [bootstrap](../tagged/bootstrap.md), [webpack](../tagged/webpack.md), [angular-cli](../tagged/angular-cli.md), [font-awesome](../tagged/font-awesome.md)
@@ -16,4 +16,4 @@ bootstrap - [www.bookmarks.dev/tagged/bootstrap](https://www.bookmarks.dev/tagge
     * tags: [free-programming-books](../tagged/free-programming-books.md), [bootstrap](../tagged/bootstrap.md), [css](../tagged/css.md)
 * [Angular powered Bootstrap](https://ng-bootstrap.github.io)
     * tags: [angular](../tagged/angular.md), [bootstrap](../tagged/bootstrap.md)
-    * :octocat: [github url](https://github.com/ng-bootstrap/ng-bootstrap)
+    * :octocat: [source code](https://github.com/ng-bootstrap/ng-bootstrap)

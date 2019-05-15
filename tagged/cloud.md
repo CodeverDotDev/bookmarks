@@ -1,15 +1,15 @@
 cloud - [www.bookmarks.dev/tagged/cloud](https://www.bookmarks.dev/tagged/cloud)
 ---
 * [GitHub - anaibol/awesome-serverless](https://github.com/anaibol/awesome-serverless#readme)
-    * tags: [serverless](../tagged/serverless.md), [cloud](../tagged/cloud.md), [awesome](../tagged/awesome.md), [awesome-list](../tagged/awesome-list.md)
-    * :octocat: [github url](https://github.com/anaibol/awesome-serverless)
+    * tags: [serverless](../tagged/serverless.md), [cloud](../tagged/cloud.md), [awesome-list](../tagged/awesome-list.md)
+    * :octocat: [source code](https://github.com/anaibol/awesome-serverless)
 * [Node.js Everywhere with Environment Variables! – Node.js Collection – Medium](https://medium.com/the-node-js-collection/making-your-node-js-work-everywhere-with-environment-variables-2da8cdf6e786)
     * :calendar: published on: 2018-10-29
     * tags: [nodejs](../tagged/nodejs.md), [cloud](../tagged/cloud.md)
-    * :octocat: [github url](https://github.com/johnpapa/vikings)
+    * :octocat: [source code](https://github.com/johnpapa/vikings)
 * [Gluster ](https://www.gluster.org/)
     * tags: [filesystem](../tagged/filesystem.md), [cloud](../tagged/cloud.md), [storage](../tagged/storage.md)
-    * :octocat: [github url](https://github.com/gluster/glusterfs)
+    * :octocat: [source code](https://github.com/gluster/glusterfs)
 * [How to Create an S2I Builder Image – OpenShift Blog](https://blog.openshift.com/create-s2i-builder-image/)
     * :calendar: published on: 2015-07-21
     * tags: [cloud](../tagged/cloud.md), [openshift](../tagged/openshift.md)

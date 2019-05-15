@@ -2,7 +2,7 @@ software-development - [www.bookmarks.dev/tagged/software-development](https://w
 ---
 * [Coding bookmarks, aka #codingmarks](https://www.codingmarks.org)
     * tags: [software-development](../tagged/software-development.md), [free-programming-books](../tagged/free-programming-books.md), [programming](../tagged/programming.md)
-    * :octocat: [github url](https://github.com/Codingpedia/codingmarks)
+    * :octocat: [source code](https://github.com/Codingpedia/codingmarks)
 * [Things You Should Never Do, Part I – Joel on Software](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)
     * :calendar: published on: 2000-04-06
     * tags: [programming](../tagged/programming.md), [software-development](../tagged/software-development.md)

@@ -8,4 +8,4 @@ rh-sso - [www.bookmarks.dev/tagged/rh-sso](https://www.bookmarks.dev/tagged/rh-s
     * tags: [rh-sso](../tagged/rh-sso.md), [azure-active-directory](../tagged/azure-active-directory.md)
 * [GitHub - redhat-developer/redhat-sso-quickstarts](https://github.com/redhat-developer/redhat-sso-quickstarts)
     * tags: [rh-sso](../tagged/rh-sso.md), [nodejs](../tagged/nodejs.md), [javaee](../tagged/javaee.md), [jaxrs](../tagged/jaxrs.md)
-    * :octocat: [github url](https://github.com/redhat-developer/redhat-sso-quickstarts)
+    * :octocat: [source code](https://github.com/redhat-developer/redhat-sso-quickstarts)

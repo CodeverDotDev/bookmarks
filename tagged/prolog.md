@@ -45,4 +45,4 @@ prolog - [www.bookmarks.dev/tagged/prolog](https://www.bookmarks.dev/tagged/prol
 * [Adventure in Prolog](http://www.amzi.com/AdventureInProlog/)
     * tags: [free-programming-books](../tagged/free-programming-books.md), [prolog](../tagged/prolog.md)
 * [Lógica Computacional (com Prolog)](http://www4.di.uminho.pt/~mjf/pub/LC-Prolog.pdf)
-    * tags: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-pt_PT](../tagged/free-programming-books-pt_PT.md), [prolog](../tagged/prolog.md)
+    * tags: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-pt_pt](../tagged/free-programming-books-pt_pt.md), [prolog](../tagged/prolog.md)

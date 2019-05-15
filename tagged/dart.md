@@ -1,5 +1,8 @@
 dart - [www.bookmarks.dev/tagged/dart](https://www.bookmarks.dev/tagged/dart)
 ---
+* [awesome-dart](https://github.com/yissachar/awesome-dart#readme)
+    * tags: [awesome-list](../tagged/awesome-list.md), [programming-languages](../tagged/programming-languages.md), [dart](../tagged/dart.md)
+    * :octocat: [source code](https://github.com/yissachar/awesome-dart#readme)
 * [What is Dart?](http://shop.oreilly.com/product/0636920025887.do)
     * tags: [dart](../tagged/dart.md), [free-programming-books](../tagged/free-programming-books.md)
 * [Dart 语言导览](http://dart.lidian.info/wiki/Language_Tour)

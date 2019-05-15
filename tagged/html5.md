@@ -1,5 +1,8 @@
 html5 - [www.bookmarks.dev/tagged/html5](https://www.bookmarks.dev/tagged/html5)
 ---
+* [awesome-html5](https://github.com/diegocard/awesome-html5#readme)
+    * tags: [awesome-list](../tagged/awesome-list.md), [frontend](../tagged/frontend.md), [html5](../tagged/html5.md)
+    * :octocat: [source code](https://github.com/diegocard/awesome-html5#readme)
 * [Dive Into HTML5](https://diveintohtml5.info/)
     * tags: [html](../tagged/html.md), [html5](../tagged/html5.md), [free-programming-books](../tagged/free-programming-books.md)
 * [HTML5](http://www.arkaitzgarro.com/html5/)

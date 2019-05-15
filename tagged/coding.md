@@ -2,7 +2,7 @@ coding - [www.bookmarks.dev/tagged/coding](https://www.bookmarks.dev/tagged/codi
 ---
 * [Lobsters](https://lobste.rs/)
     * tags: [compsci](../tagged/compsci.md), [plt](../tagged/plt.md), [feed](../tagged/feed.md), [news](../tagged/news.md), [aggregator](../tagged/aggregator.md), [community](../tagged/community.md), [programming](../tagged/programming.md), [coding](../tagged/coding.md)
-    * :octocat: [github url](https://github.com/lobsters/lobsters)
+    * :octocat: [source code](https://github.com/lobsters/lobsters)
 * [Dan McKinley :: Choose Boring TechnologyCrazySane](http://mcfunley.com/choose-boring-technology)
     * :calendar: published on: 2015-03-30
     * tags: [coding](../tagged/coding.md), [architecture](../tagged/architecture.md)

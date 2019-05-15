@@ -13,12 +13,12 @@ asynchronous - [www.bookmarks.dev/tagged/asynchronous](https://www.bookmarks.dev
 * [Guide To CompletableFuture | Baeldung](http://www.baeldung.com/java-completablefuture)
     * :calendar: published on: 2017-09-23
     * tags: [java](../tagged/java.md), [asynchronous](../tagged/asynchronous.md)
-    * :octocat: [github url](https://github.com/eugenp/tutorials/tree/master/core-java-concurrency)
+    * :octocat: [source code](https://github.com/eugenp/tutorials/tree/master/core-java-concurrency)
 * [Java 8 CompletableFuture Tutorial | CalliCoder](https://www.callicoder.com/java-8-completablefuture-tutorial/)
     * :calendar: published on: 2017-07-18
     * tags: [java](../tagged/java.md), [asynchronous](../tagged/asynchronous.md)
 * [libuv | Cross-platform asynchronous I/O](http://libuv.org/)
     * tags: [asynchronous](../tagged/asynchronous.md), [nodejs](../tagged/nodejs.md)
-    * :octocat: [github url](https://github.com/libuv/libuv)
+    * :octocat: [source code](https://github.com/libuv/libuv)
 * [Building Microservices: Inter-Process Communication](https://www.nginx.com/blog/building-microservices-inter-process-communication/)
     * tags: [microservices](../tagged/microservices.md), [asynchronous](../tagged/asynchronous.md), [architecture](../tagged/architecture.md)

@@ -1,0 +1,11 @@
+algorithm - [www.bookmarks.dev/tagged/algorithm](https://www.bookmarks.dev/tagged/algorithm)
+---
+* [awesome-algorithms](https://github.com/tayllan/awesome-algorithms#readme)
+    * tags: [awesome-list](../tagged/awesome-list.md), [theory](../tagged/theory.md), [algorithm](../tagged/algorithm.md)
+    * :octocat: [source code](https://github.com/tayllan/awesome-algorithms#readme)
+* [awesome-algovis](https://github.com/enjalot/algovis#readme)
+    * tags: [awesome-list](../tagged/awesome-list.md), [theory](../tagged/theory.md), [algorithm](../tagged/algorithm.md), [visualization](../tagged/visualization.md)
+    * :octocat: [source code](https://github.com/enjalot/algovis#readme)
+* [awesome-coins](https://github.com/kennethreitz/awesome-coins#readme)
+    * tags: [awesome-list](../tagged/awesome-list.md), [crypto](../tagged/crypto.md), [tools](../tagged/tools.md), [algorithm](../tagged/algorithm.md)
+    * :octocat: [source code](https://github.com/kennethreitz/awesome-coins#readme)

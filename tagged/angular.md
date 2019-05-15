@@ -1,5 +1,8 @@
 angular - [www.bookmarks.dev/tagged/angular](https://www.bookmarks.dev/tagged/angular)
 ---
+* [awesome-angular](https://github.com/gdi2290/awesome-angular#readme)
+    * tags: [awesome-list](../tagged/awesome-list.md), [frontend](../tagged/frontend.md), [angular](../tagged/angular.md)
+    * :octocat: [source code](https://github.com/gdi2290/awesome-angular#readme)
 * [Angular Reactive Templates with ngIf and the Async Pipe](https://blog.angular-university.io/angular-reactive-templates/)
     * :calendar: published on: 2018-12-10
     * tags: [angular](../tagged/angular.md)
@@ -9,18 +12,18 @@ angular - [www.bookmarks.dev/tagged/angular](https://www.bookmarks.dev/tagged/an
 * [ Angular Observable Data Services](https://coryrylan.com/blog/angular-observable-data-services)
     * :calendar: published on: 2017-11-17
     * tags: [angular](../tagged/angular.md)
-    * :octocat: [github url](https://stackblitz.com/edit/angular-fh1kyp)
+    * :octocat: [source code](https://stackblitz.com/edit/angular-fh1kyp)
 * [Advanced caching with RxJS by thoughtram](https://blog.thoughtram.io/angular/2018/03/05/advanced-caching-with-rxjs.html)
     * :calendar: published on: 2018-03-05
     * tags: [angular](../tagged/angular.md), [caching](../tagged/caching.md), [rxjs](../tagged/rxjs.md)
-    * :octocat: [github url](https://stackblitz.com/edit/advanced-caching-with-rxjs-step-4)
+    * :octocat: [source code](https://stackblitz.com/edit/advanced-caching-with-rxjs-step-4)
 * [A deep dive on Angular decorators](https://toddmotto.com/angular-decorators)
     * :calendar: published on: 2017-01-26
     * tags: [angular](../tagged/angular.md)
 * [[How-to] Implement custom form validators with Angular](https://blog.angulartraining.com/how-to-implement-custom-form-validators-with-angular-861651b0dc2c)
     * :calendar: published on: 2018-02-18
     * tags: [angular](../tagged/angular.md)
-    * :octocat: [github url](https://stackblitz.com/edit/angular-custom-validator-form)
+    * :octocat: [source code](https://stackblitz.com/edit/angular-custom-validator-form)
 * [Exploring Angular DOM manipulation techniques using ViewContainerRef](https://blog.angularindepth.com/exploring-angular-dom-abstractions-80b3ebcfc02)
     * :calendar: published on: 2017-03-04
     * tags: [angular](../tagged/angular.md)
@@ -39,7 +42,7 @@ angular - [www.bookmarks.dev/tagged/angular](https://www.bookmarks.dev/tagged/an
 * [Angular Material Dialog: A Complete Example](https://blog.angular-university.io/angular-material-dialog/)
     * :calendar: published on: 2018-06-18
     * tags: [angular](../tagged/angular.md), [angular-material](../tagged/angular-material.md)
-    * :octocat: [github url](https://github.com/angular-university/angular-material-course)
+    * :octocat: [source code](https://github.com/angular-university/angular-material-course)
 * [Angular Classes with NgClass](https://toddmotto.com/ng-class-angular-classes)
     * :calendar: published on: 2018-01-18
     * tags: [angular](../tagged/angular.md)
@@ -49,16 +52,16 @@ angular - [www.bookmarks.dev/tagged/angular](https://www.bookmarks.dev/tagged/an
 * [RxJs Mapping: switchMap vs mergeMap vs concatMap vs exhaustMap](https://blog.angular-university.io/rxjs-higher-order-mapping/)
     * :calendar: published on: 2018-07-18
     * tags: [rxjs](../tagged/rxjs.md), [angular](../tagged/angular.md)
-    * :octocat: [github url](https://github.com/angular-university/rxjs-course/tree/1-operators-finished)
+    * :octocat: [source code](https://github.com/angular-university/rxjs-course/tree/1-operators-finished)
 * [Hot vs Cold Observables – Ben Lesh](https://medium.com/@benlesh/hot-vs-cold-observables-f8094ed53339)
     * :calendar: published on: 2016-03-29
     * tags: [angular](../tagged/angular.md), [rxjs](../tagged/rxjs.md)
 * [GitHub - johnpapa/angular-ngrx-data: Angular with ngRx and experimental ngrx-data helperAsset 1Asset 1](https://github.com/johnpapa/angular-ngrx-data)
     * tags: [angular](../tagged/angular.md), [ngrx](../tagged/ngrx.md)
-    * :octocat: [github url](https://github.com/johnpapa/angular-ngrx-data)
+    * :octocat: [source code](https://github.com/johnpapa/angular-ngrx-data)
 * [GitHub - ngrx/platform: Monorepo for ngrx codebase](https://github.com/ngrx/platform)
     * tags: [angular](../tagged/angular.md), [ngrx](../tagged/ngrx.md), [redux](../tagged/redux.md)
-    * :octocat: [github url](https://github.com/ngrx/platform)
+    * :octocat: [source code](https://github.com/ngrx/platform)
 * [Angular  Architecture - Smart Components vs Presentational Components](https://blog.angular-university.io/angular-2-smart-components-vs-presentation-components-whats-the-difference-when-to-use-each-and-why/)
     * :calendar: published on: 2018-06-18
     * tags: [angular](../tagged/angular.md), [architecture](../tagged/architecture.md)
@@ -67,10 +70,10 @@ angular - [www.bookmarks.dev/tagged/angular](https://www.bookmarks.dev/tagged/an
     * tags: [angular](../tagged/angular.md)
 * [ngx-charts - Angular2 and D3js Charting Framework](https://swimlane.github.io/ngx-charts/)
     * tags: [angular](../tagged/angular.md)
-    * :octocat: [github url](https://github.com/swimlane/ngx-charts)
+    * :octocat: [source code](https://github.com/swimlane/ngx-charts)
 * [ngx-datatable - Angular2 and beyond component for presenting large and complex data](http://swimlane.github.io/ngx-datatable/)
     * tags: [angular](../tagged/angular.md)
-    * :octocat: [github url](https://github.com/swimlane/ngx-datatable)
+    * :octocat: [source code](https://github.com/swimlane/ngx-datatable)
 * [Angular/RxJs When should I unsubscribe from `Subscription` - Stack Overflow](https://stackoverflow.com/questions/38008334/angular-rxjs-when-should-i-unsubscribe-from-subscription)
     * :calendar: published on: 2017-04-09
     * tags: [angular](../tagged/angular.md)
@@ -89,7 +92,7 @@ angular - [www.bookmarks.dev/tagged/angular](https://www.bookmarks.dev/tagged/an
 * [Angular @ViewChild: In-Depth Explanation (All Features Covered)](https://blog.angular-university.io/angular-viewchild/)
     * :calendar: published on: 2018-04-26
     * tags: [angular](../tagged/angular.md)
-    * :octocat: [github url](https://github.com/angular-university/angular-viewchild-examples)
+    * :octocat: [source code](https://github.com/angular-university/angular-viewchild-examples)
 * [Angular 4.3 HttpClient (Accessing REST Web Services With Angular)](https://medium.com/codingthesmartway-com-blog/angular-4-3-httpclient-accessing-rest-web-services-with-angular-2305b8fd654b)
     * :calendar: published on: 2017-07-22
     * tags: [angular](../tagged/angular.md), [error-handling](../tagged/error-handling.md)
@@ -105,7 +108,7 @@ angular - [www.bookmarks.dev/tagged/angular](https://www.bookmarks.dev/tagged/an
     * tags: [angular](../tagged/angular.md), [blog](../tagged/blog.md)
 * [GitHub - Gbuomprisco/ngx-chips: Tag Input component for Angular](https://github.com/Gbuomprisco/ngx-chips)
     * tags: [angular](../tagged/angular.md)
-    * :octocat: [github url](https://github.com/Gbuomprisco/ngx-chips)
+    * :octocat: [source code](https://github.com/Gbuomprisco/ngx-chips)
 * [RxJS 5.5, piping all the things – Hackages Blog](https://blog.hackages.io/rxjs-5-5-piping-all-the-things-9d469d1b3f44)
     * :calendar: published on: 2017-10-22
     * tags: [angular](../tagged/angular.md)
@@ -114,7 +117,7 @@ angular - [www.bookmarks.dev/tagged/angular](https://www.bookmarks.dev/tagged/an
     * tags: [angular](../tagged/angular.md), [rxjs](../tagged/rxjs.md)
 * [GitHub - mauriciovigolo/keycloak-angular: Easy Keycloak setup for Angular applications (v>4.3)](https://github.com/mauriciovigolo/keycloak-angular)
     * tags: [keycloak](../tagged/keycloak.md), [angular](../tagged/angular.md)
-    * :octocat: [github url](https://github.com/mauriciovigolo/keycloak-angular)
+    * :octocat: [source code](https://github.com/mauriciovigolo/keycloak-angular)
 * [Angular Router: Empty Paths, Componentless Routes,... | Victor Savkin](http://vsavkin.tumblr.com/post/146722301646/angular-router-empty-paths-componentless-routes)
     * tags: [angular](../tagged/angular.md)
 * [Insider’s guide into interceptors and HttpClient mechanics in Angular](https://blog.angularindepth.com/insiders-guide-into-interceptors-and-httpclient-mechanics-in-angular-103fbdb397bf)
@@ -134,30 +137,30 @@ angular - [www.bookmarks.dev/tagged/angular](https://www.bookmarks.dev/tagged/an
     * tags: [angular](../tagged/angular.md)
 * [Home · angular/flex-layout Wiki · GitHub](https://github.com/angular/flex-layout/wiki)
     * tags: [angular](../tagged/angular.md), [flexbox](../tagged/flexbox.md), [typescript](../tagged/typescript.md)
-    * :octocat: [github url](https://github.com/angular/flex-layout)
+    * :octocat: [source code](https://github.com/angular/flex-layout)
 * [Handling Observables with NgIf and the Async Pipe](https://toddmotto.com/angular-ngif-async-pipe)
     * :calendar: published on: 2018-01-12
     * tags: [angular](../tagged/angular.md)
 * [Conduit - angular example](https://angular2.realworld.io/)
     * tags: [angular](../tagged/angular.md)
-    * :octocat: [github url](https://github.com/gothinkster/angular-realworld-example-app)
+    * :octocat: [source code](https://github.com/gothinkster/angular-realworld-example-app)
 * [Juri's TechBlog](https://juristr.com/blog/)
     * tags: [blog](../tagged/blog.md), [javascript](../tagged/javascript.md), [angular](../tagged/angular.md)
 * [Scalable Single-Page Application Architecture · Minko Gechev's blog](http://blog.mgechev.com/2016/04/10/scalable-javascript-single-page-app-angular2-application-architecture/)
     * :calendar: published on: 2016-04-10
     * tags: [javascript](../tagged/javascript.md), [angular](../tagged/angular.md), [typescript](../tagged/typescript.md), [redux](../tagged/redux.md)
-    * :octocat: [github url](https://github.com/mgechev/scalable-architecture-demo)
+    * :octocat: [source code](https://github.com/mgechev/scalable-architecture-demo)
 * [ViewChildren and ContentChildren in Angular · Minko Gechev's blog](http://blog.mgechev.com/2016/01/23/angular2-viewchildren-contentchildren-difference-viewproviders/)
     * :calendar: published on: 2016-01-21
     * tags: [angular](../tagged/angular.md)
-    * :octocat: [github url](https://github.com/mgechev/viewchildren-contentchildren-demo/blob/master/src/client/app/app.ts)
+    * :octocat: [source code](https://github.com/mgechev/viewchildren-contentchildren-demo/blob/master/src/client/app/app.ts)
 * [Angular2 - First Impressions · Minko Gechev's blog](http://blog.mgechev.com/2015/04/06/angular2-first-impressions/)
     * :calendar: published on: 2015-04-06
     * tags: [angular](../tagged/angular.md)
 * [Building an Angular Application for Production · Minko Gechev's blog](http://blog.mgechev.com/2016/06/26/tree-shaking-angular2-production-build-rollup-javascript/)
     * :calendar: published on: 2016-06-26
     * tags: [angular](../tagged/angular.md)
-    * :octocat: [github url](http://blog.mgechev.com/2016/06/26/tree-shaking-angular2-production-build-rollup-javascript/)
+    * :octocat: [source code](http://blog.mgechev.com/2016/06/26/tree-shaking-angular2-production-build-rollup-javascript/)
 * [ES6 Promises (with Angular 2) Explained - YouTube](https://www.youtube.com/watch?v=viaF0hM8G94)
     * :calendar: published on: 2016-10-10
     * tags: [javascript](../tagged/javascript.md), [angular](../tagged/angular.md), [promise](../tagged/promise.md)
@@ -173,7 +176,7 @@ angular - [www.bookmarks.dev/tagged/angular](https://www.bookmarks.dev/tagged/an
 * [Angular, React, or Vue JS: Which one is for me? | Object Partners](https://objectpartners.com/2017/07/25/angular-react-or-vue-js-which-one-is-for-me/)
     * :calendar: published on: 2017-07-25
     * tags: [angular](../tagged/angular.md), [reactjs](../tagged/reactjs.md), [vuejs](../tagged/vuejs.md)
-    * :octocat: [github url](https://github.com/mike-plummer/angular-react-vue-stopwatch)
+    * :octocat: [source code](https://github.com/mike-plummer/angular-react-vue-stopwatch)
 * [Angular Http](https://angular.io/guide/http)
     * tags: [angular](../tagged/angular.md), [docs](../tagged/docs.md)
 * [Angular User Input](https://angular.io/guide/user-input)
@@ -190,13 +193,13 @@ angular - [www.bookmarks.dev/tagged/angular](https://www.bookmarks.dev/tagged/an
 * [Angular HTTP Client - QuickStart Guide](http://blog.angular-university.io/angular-http/)
     * :calendar: published on: 2017-07-10
     * tags: [angular](../tagged/angular.md), [http-client](../tagged/http-client.md)
-    * :octocat: [github url](https://github.com/angular-university/angular-http-guide)
+    * :octocat: [source code](https://github.com/angular-university/angular-http-guide)
 * [How to configure Nginx in production to serve an Angular app and reverse proxy NodeJS – CodingpediaOrg](http://www.codingpedia.org/ama/how-to-configure-nginx-in-production-to-serve-angular-app-and-reverse-proxy-nodejs)
     * :calendar: published on: 2017-05-21
     * tags: [nginx](../tagged/nginx.md), [angular](../tagged/angular.md), [nodejs](../tagged/nodejs.md)
 * [Angular Bootstrap](https://valor-software.com/ngx-bootstrap/#/)
     * tags: [angular](../tagged/angular.md), [bootstrap](../tagged/bootstrap.md)
-    * :octocat: [github url](https://github.com/valor-software/ngx-bootstrap)
+    * :octocat: [source code](https://github.com/valor-software/ngx-bootstrap)
 * [Fast, faster, Angular CLI - how I converted my Angular project to use Angular CLI – CodingpediaOrg](http://www.codingpedia.org/ama/fast-faster-angular-cli-how-i-converted-my-angular-project-to-use-angular-cli)
     * :calendar: published on: 2017-05-02
     * tags: [angular](../tagged/angular.md), [bootstrap](../tagged/bootstrap.md), [webpack](../tagged/webpack.md), [angular-cli](../tagged/angular-cli.md), [font-awesome](../tagged/font-awesome.md)
@@ -217,7 +220,7 @@ angular - [www.bookmarks.dev/tagged/angular](https://www.bookmarks.dev/tagged/an
     * tags: [angular](../tagged/angular.md)
 * [Angular powered Bootstrap](https://ng-bootstrap.github.io)
     * tags: [angular](../tagged/angular.md), [bootstrap](../tagged/bootstrap.md)
-    * :octocat: [github url](https://github.com/ng-bootstrap/ng-bootstrap)
+    * :octocat: [source code](https://github.com/ng-bootstrap/ng-bootstrap)
 * [Angular Browser Support](https://angular.io/guide/browser-support)
     * tags: [angular](../tagged/angular.md), [docs](../tagged/docs.md)
 * [Dynamic Component Loader](https://angular.io/guide/dynamic-component-loader)
@@ -246,7 +249,7 @@ angular - [www.bookmarks.dev/tagged/angular](https://www.bookmarks.dev/tagged/an
     * tags: [angular](../tagged/angular.md)
 * [GitHub - MrZaYaC/ng2-webstorm-snippets](https://github.com/MrZaYaC/ng2-webstorm-snippets)
     * tags: [angular](../tagged/angular.md), [webstorm](../tagged/webstorm.md), [intellij](../tagged/intellij.md)
-    * :octocat: [github url](https://github.com/MrZaYaC/ng2-webstorm-snippets)
+    * :octocat: [source code](https://github.com/MrZaYaC/ng2-webstorm-snippets)
 * [7 Angular Tools That You Should Consider – Minko Gechev's blog](http://blog.mgechev.com/2017/04/23/angular-tooling-codelyzer-angular-cli-ngrev/)
     * :calendar: published on: 2017-04-23
     * tags: [angular](../tagged/angular.md), [angular-cli](../tagged/angular-cli.md), [dev-tools](../tagged/dev-tools.md)
@@ -267,7 +270,7 @@ angular - [www.bookmarks.dev/tagged/angular](https://www.bookmarks.dev/tagged/an
 * [Angular 2 AoT Compilation with webpack – Suguru Inatomi – Medium](https://medium.com/@laco0416/aot-compilation-with-webpack-359ac9f4916f)
     * :calendar: published on: 2016-10-23
     * tags: [angular](../tagged/angular.md)
-    * :octocat: [github url](https://github.com/laco0416/ngtools-webpack-example/tree/aot-plugin)
+    * :octocat: [source code](https://github.com/laco0416/ngtools-webpack-example/tree/aot-plugin)
 * [Style Guide - ts - GUIDE](https://angular.io/styleguide)
     * tags: [angular](../tagged/angular.md)
 * [angular/CHANGELOG.md at master · angular/angular · GitHub](https://github.com/angular/angular/blob/master/CHANGELOG.md)
@@ -294,7 +297,7 @@ angular - [www.bookmarks.dev/tagged/angular](https://www.bookmarks.dev/tagged/an
     * tags: [angular](../tagged/angular.md)
 * [@ngtools/webpack - npm](https://www.npmjs.com/package/@ngtools/webpack)
     * tags: [angular](../tagged/angular.md)
-    * :octocat: [github url](https://github.com/angular/angular-cli)
+    * :octocat: [source code](https://github.com/angular/angular-cli)
 * [Lifecycle Hooks - ts - GUIDE](https://angular.io/docs/ts/latest/guide/lifecycle-hooks.html)
     * tags: [angular](../tagged/angular.md)
 * [Change Detection in Angular 2 – Angular](https://vsavkin.com/change-detection-in-angular-2-4f216b855d4c)
@@ -327,7 +330,7 @@ angular - [www.bookmarks.dev/tagged/angular](https://www.bookmarks.dev/tagged/an
     * tags: [angular](../tagged/angular.md), [rxjs](../tagged/rxjs.md), [observable](../tagged/observable.md)
 * [How to build Angular App with Observable Data Services - Pitfalls](http://blog.angular-university.io/how-to-build-angular2-apps-using-rxjs-observable-data-services-pitfalls-to-avoid/)
     * tags: [angular](../tagged/angular.md), [observable](../tagged/observable.md), [data-services](../tagged/data-services.md)
-    * :octocat: [github url](https://github.com/jhades/angular2-rxjs-observable-data-services/blob/master/src/state/TodoStore.ts)
+    * :octocat: [source code](https://github.com/jhades/angular2-rxjs-observable-data-services/blob/master/src/state/TodoStore.ts)
 * [Quickstart - ts - QUICKSTART](https://angular.io/guide/quickstart)
     * tags: [angular](../tagged/angular.md), [docs](../tagged/docs.md), [angular-cli](../tagged/angular-cli.md)
 * [Introduction to Angular 2 Forms - Template Driven vs Model Driven or Reactive Forms](http://blog.angular-university.io/introduction-to-angular-2-forms-template-driven-vs-model-driven/)
@@ -339,4 +342,4 @@ angular - [www.bookmarks.dev/tagged/angular](https://www.bookmarks.dev/tagged/an
 * [JWT authentication with Vert.x, Keycloak and Angular 2](http://paulbakker.io/java/jwt-keycloak-angular2/)
     * :calendar: published on: 2016-09-15
     * tags: [angular](../tagged/angular.md), [keycloak](../tagged/keycloak.md), [jwt](../tagged/jwt.md), [angular-cli](../tagged/angular-cli.md)
-    * :octocat: [github url](https://github.com/paulbakker/vertx-angular2-keycloak-demo)
+    * :octocat: [source code](https://github.com/paulbakker/vertx-angular2-keycloak-demo)

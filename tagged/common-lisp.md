@@ -1,5 +1,8 @@
 common-lisp - [www.bookmarks.dev/tagged/common-lisp](https://www.bookmarks.dev/tagged/common-lisp)
 ---
+* [awesome-cl](https://github.com/CodyReichert/awesome-cl#readme)
+    * tags: [awesome-list](../tagged/awesome-list.md), [programming-languages](../tagged/programming-languages.md), [common-lisp](../tagged/common-lisp.md)
+    * :octocat: [source code](https://github.com/CodyReichert/awesome-cl#readme)
 * [Kurs programowania w języku Common Lisp](http://jcubic.pl/lisp_tutorial.php)
     * tags: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-pl](../tagged/free-programming-books-pl.md), [common-lisp](../tagged/common-lisp.md)
 * [マンガで分かるLisp(Manga Guide to Lisp)](http://lambda.bugyo.tk/cdr/mwl/)

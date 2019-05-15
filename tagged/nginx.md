@@ -1,5 +1,8 @@
 nginx - [www.bookmarks.dev/tagged/nginx](https://www.bookmarks.dev/tagged/nginx)
 ---
+* [awesome-nginx-resources](https://github.com/fcambus/nginx-resources#readme)
+    * tags: [awesome-list](../tagged/awesome-list.md), [backend](../tagged/backend.md), [nginx](../tagged/nginx.md)
+    * :octocat: [source code](https://github.com/fcambus/nginx-resources#readme)
 * [Understanding Nginx Server and Location Block Selection Algorithms](https://www.digitalocean.com/community/tutorials/understanding-nginx-server-and-location-block-selection-algorithms)
     * :calendar: published on: 2014-11-17
     * tags: [nginx](../tagged/nginx.md)
@@ -9,7 +12,7 @@ nginx - [www.bookmarks.dev/tagged/nginx](https://www.bookmarks.dev/tagged/nginx)
 * [Building Microservices with Node, Docker and Nginx pt 1 - What is a Microservice?](https://www.youtube.com/watch?v=EsCfPxjmnjo)
     * :calendar: published on: 2017-12-29
     * tags: [nodejs](../tagged/nodejs.md), [microservices](../tagged/microservices.md), [docker](../tagged/docker.md), [docker-compose](../tagged/docker-compose.md), [nginx](../tagged/nginx.md)
-    * :octocat: [github url](https://github.com/fChristenson/microservices-example)
+    * :octocat: [source code](https://github.com/fChristenson/microservices-example)
 * [5 Tips to Increase Node.js Application Performance](https://www.nginx.com/blog/5-performance-tips-for-node-js-applications/)
     * :calendar: published on: 2015-11-16
     * tags: [nginx](../tagged/nginx.md), [nodejs](../tagged/nodejs.md), [performance](../tagged/performance.md), [optimization](../tagged/optimization.md)
