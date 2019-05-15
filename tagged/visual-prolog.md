@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[visual-prolog]](https://www.bookmarks.dev?q=[visual-prolog])
+
 _<sup><sup>[www.bookmarks.dev/tagged/visual-prolog](https://www.bookmarks.dev/tagged/visual-prolog)</sup></sup>_
 ---
 #### [Visual Prolog for Tyros](http://wiki.visual-prolog.com/index.php?title=Visual_Prolog_for_Tyros)

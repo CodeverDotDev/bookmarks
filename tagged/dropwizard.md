@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[dropwizard]](https://www.bookmarks.dev?q=[dropwizard])
+
 _<sup><sup>[www.bookmarks.dev/tagged/dropwizard](https://www.bookmarks.dev/tagged/dropwizard)</sup></sup>_
 ---
 #### [awesome-GitHub - stve/](https://github.com/stve/awesome-dropwizard#readme)

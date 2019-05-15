@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[resources]](https://www.bookmarks.dev?q=[resources])
+
 _<sup><sup>[www.bookmarks.dev/tagged/resources](https://www.bookmarks.dev/tagged/resources)</sup></sup>_
 ---
 #### [useful-java-links](https://github.com/Vedenin/useful-java-links#readme)

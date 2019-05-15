@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[nextjs]](https://www.bookmarks.dev?q=[nextjs])
+
 _<sup><sup>[www.bookmarks.dev/tagged/nextjs](https://www.bookmarks.dev/tagged/nextjs)</sup></sup>_
 ---
 #### [Next.js - The React Framework home page](https://nextjs.org/)

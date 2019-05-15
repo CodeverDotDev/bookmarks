@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[basic]](https://www.bookmarks.dev?q=[basic])
+
 _<sup><sup>[www.bookmarks.dev/tagged/basic](https://www.bookmarks.dev/tagged/basic)</sup></sup>_
 ---
 #### [Visual Basic Essentials](http://www.techotopia.com/index.php/Visual_Basic_Essentials)

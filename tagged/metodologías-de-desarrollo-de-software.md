@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[metodologías-de-desarrollo-de-software]](https://www.bookmarks.dev?q=[metodologías-de-desarrollo-de-software])
+
 _<sup><sup>[www.bookmarks.dev/tagged/metodologías-de-desarrollo-de-software](https://www.bookmarks.dev/tagged/metodologías-de-desarrollo-de-software)</sup></sup>_
 ---
 #### [Scrum y XP desde las trincheras](http://www.proyectalis.com/wp-content/uploads/2008/02/scrum-y-xp-desde-las-trincheras.pdf)

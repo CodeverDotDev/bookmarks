@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[bitcoin]](https://www.bookmarks.dev?q=[bitcoin])
+
 _<sup><sup>[www.bookmarks.dev/tagged/bitcoin](https://www.bookmarks.dev/tagged/bitcoin)</sup></sup>_
 ---
 #### [awesome-bitcoin](https://github.com/igorbarinov/awesome-bitcoin#readme)

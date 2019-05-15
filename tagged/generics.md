@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[generics]](https://www.bookmarks.dev?q=[generics])
+
 _<sup><sup>[www.bookmarks.dev/tagged/generics](https://www.bookmarks.dev/tagged/generics)</sup></sup>_
 ---
 #### [The Basics of Java Generics](https://www.baeldung.com/java-generics)

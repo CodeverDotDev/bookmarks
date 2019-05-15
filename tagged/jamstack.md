@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[jamstack]](https://www.bookmarks.dev?q=[jamstack])
+
 _<sup><sup>[www.bookmarks.dev/tagged/jamstack](https://www.bookmarks.dev/tagged/jamstack)</sup></sup>_
 ---
 #### [awesome-jamstack](https://github.com/automata/awesome-jamstack#readme)

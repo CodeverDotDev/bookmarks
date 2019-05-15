@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[groovy]](https://www.bookmarks.dev?q=[groovy])
+
 _<sup><sup>[www.bookmarks.dev/tagged/groovy](https://www.bookmarks.dev/tagged/groovy)</sup></sup>_
 ---
 #### [awesome-groovy](https://github.com/kdabir/awesome-groovy#readme)

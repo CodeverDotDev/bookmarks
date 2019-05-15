@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[bazel]](https://www.bookmarks.dev?q=[bazel])
+
 _<sup><sup>[www.bookmarks.dev/tagged/bazel](https://www.bookmarks.dev/tagged/bazel)</sup></sup>_
 ---
 #### [Google Open Source Container Tools: Life of a happy developer in a container world  by  David Gageot - YouTube](https://www.youtube.com/watch?v=4uU44VviyjM)

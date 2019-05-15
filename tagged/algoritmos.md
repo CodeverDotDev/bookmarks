@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[algoritmos]](https://www.bookmarks.dev?q=[algoritmos])
+
 _<sup><sup>[www.bookmarks.dev/tagged/algoritmos](https://www.bookmarks.dev/tagged/algoritmos)</sup></sup>_
 ---
 #### [Teoría sintáctico-gramatical de objetos](http://www.bubok.es/libros/219288/Teoria-sintacticogramatical-de-objetos)

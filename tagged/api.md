@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[api]](https://www.bookmarks.dev?q=[api])
+
 _<sup><sup>[www.bookmarks.dev/tagged/api](https://www.bookmarks.dev/tagged/api)</sup></sup>_
 ---
 #### [API Infrastructure at Knewton: What’s in an Edge Service?](https://medium.com/knerd/api-infrastructure-at-knewton-whats-in-an-edge-service-51a3777aeb41)

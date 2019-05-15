@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[eslint]](https://www.bookmarks.dev?q=[eslint])
+
 _<sup><sup>[www.bookmarks.dev/tagged/eslint](https://www.bookmarks.dev/tagged/eslint)</sup></sup>_
 ---
 #### [awesome-eslint](https://github.com/dustinspecker/awesome-eslint#readme)

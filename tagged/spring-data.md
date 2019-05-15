@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[spring-data]](https://www.bookmarks.dev?q=[spring-data])
+
 _<sup><sup>[www.bookmarks.dev/tagged/spring-data](https://www.bookmarks.dev/tagged/spring-data)</sup></sup>_
 ---
 #### [Getting Started - Accessing Data with JPA](https://spring.io/guides/gs/accessing-data-jpa/)

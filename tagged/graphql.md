@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[graphql]](https://www.bookmarks.dev?q=[graphql])
+
 _<sup><sup>[www.bookmarks.dev/tagged/graphql](https://www.bookmarks.dev/tagged/graphql)</sup></sup>_
 ---
 #### [Lessons from 4 Years of GraphQL - YouTube](https://www.youtube.com/watch?v=zVNrqo9XGOs)

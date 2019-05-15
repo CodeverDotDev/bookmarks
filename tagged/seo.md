@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[seo]](https://www.bookmarks.dev?q=[seo])
+
 _<sup><sup>[www.bookmarks.dev/tagged/seo](https://www.bookmarks.dev/tagged/seo)</sup></sup>_
 ---
 #### [awesome-search-engine-optimization](https://github.com/marcobiedermann/search-engine-optimization#readme)

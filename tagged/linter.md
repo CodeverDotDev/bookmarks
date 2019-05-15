@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[linter]](https://www.bookmarks.dev?q=[linter])
+
 _<sup><sup>[www.bookmarks.dev/tagged/linter](https://www.bookmarks.dev/tagged/linter)</sup></sup>_
 ---
 #### [JavaScript Standard Style](https://standardjs.com/)

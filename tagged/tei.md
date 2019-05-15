@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[tei]](https://www.bookmarks.dev?q=[tei])
+
 _<sup><sup>[www.bookmarks.dev/tagged/tei](https://www.bookmarks.dev/tagged/tei)</sup></sup>_
 ---
 #### [Qu'est-ce que la Text Encoding Initiative ?](http://books.openedition.org/oep/1237)

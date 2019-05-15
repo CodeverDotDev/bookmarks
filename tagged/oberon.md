@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[oberon]](https://www.bookmarks.dev?q=[oberon])
+
 _<sup><sup>[www.bookmarks.dev/tagged/oberon](https://www.bookmarks.dev/tagged/oberon)</sup></sup>_
 ---
 #### [Object-Oriented Programming in Oberon-2](http://ssw.jku.at/Research/Books/Oberon2.pdf)

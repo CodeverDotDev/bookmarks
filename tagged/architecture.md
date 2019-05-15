@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[architecture]](https://www.bookmarks.dev?q=[architecture])
+
 _<sup><sup>[www.bookmarks.dev/tagged/architecture](https://www.bookmarks.dev/tagged/architecture)</sup></sup>_
 ---
 #### [awesome-software-architecture](https://github.com/simskij/awesome-software-architecture#readme)

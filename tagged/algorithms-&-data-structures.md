@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[algorithms-&-data-structures]](https://www.bookmarks.dev?q=[algorithms-&-data-structures])
+
 _<sup><sup>[www.bookmarks.dev/tagged/algorithms-&-data-structures](https://www.bookmarks.dev/tagged/algorithms-&-data-structures)</sup></sup>_
 ---
 #### [Think Complexity](http://greenteapress.com/complexity/)

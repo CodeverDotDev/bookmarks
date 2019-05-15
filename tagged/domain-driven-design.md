@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[domain-driven-design]](https://www.bookmarks.dev?q=[domain-driven-design])
+
 _<sup><sup>[www.bookmarks.dev/tagged/domain-driven-design](https://www.bookmarks.dev/tagged/domain-driven-design)</sup></sup>_
 ---
 #### [awesome-ddd](https://github.com/heynickc/awesome-ddd#readme)

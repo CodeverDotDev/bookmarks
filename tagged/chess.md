@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[chess]](https://www.bookmarks.dev?q=[chess])
+
 _<sup><sup>[www.bookmarks.dev/tagged/chess](https://www.bookmarks.dev/tagged/chess)</sup></sup>_
 ---
 #### [awesome-chess](https://github.com/hkirat/awesome-chess#readme)

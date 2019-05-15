@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[redis]](https://www.bookmarks.dev?q=[redis])
+
 _<sup><sup>[www.bookmarks.dev/tagged/redis](https://www.bookmarks.dev/tagged/redis)</sup></sup>_
 ---
 #### [jedis home page](https://github.com/xetorthio/jedis)

@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[ejb]](https://www.bookmarks.dev?q=[ejb])
+
 _<sup><sup>[www.bookmarks.dev/tagged/ejb](https://www.bookmarks.dev/tagged/ejb)</sup></sup>_
 ---
 #### [@Asynchronous does not work from inside the same EJB](https://www.whitebyte.info/programming/java/asynchronous-does-not-work-from-inside-the-same-ejb)

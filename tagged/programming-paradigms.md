@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[programming-paradigms]](https://www.bookmarks.dev?q=[programming-paradigms])
+
 _<sup><sup>[www.bookmarks.dev/tagged/programming-paradigms](https://www.bookmarks.dev/tagged/programming-paradigms)</sup></sup>_
 ---
 #### [Type Theory and Functional Programming](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/)

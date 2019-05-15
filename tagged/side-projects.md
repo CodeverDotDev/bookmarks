@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[side-projects]](https://www.bookmarks.dev?q=[side-projects])
+
 _<sup><sup>[www.bookmarks.dev/tagged/side-projects](https://www.bookmarks.dev/tagged/side-projects)</sup></sup>_
 ---
 #### [Developers’ side projects – Joel on Software](https://www.joelonsoftware.com/2016/12/09/developers-side-projects/)

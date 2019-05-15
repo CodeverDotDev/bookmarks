@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[code-snippets]](https://www.bookmarks.dev?q=[code-snippets])
+
 _<sup><sup>[www.bookmarks.dev/tagged/code-snippets](https://www.bookmarks.dev/tagged/code-snippets)</sup></sup>_
 ---
 #### [awesome-30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code#readme)

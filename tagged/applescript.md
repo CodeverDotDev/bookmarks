@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[applescript]](https://www.bookmarks.dev?q=[applescript])
+
 _<sup><sup>[www.bookmarks.dev/tagged/applescript](https://www.bookmarks.dev/tagged/applescript)</sup></sup>_
 ---
 #### [Bash でやってることを AppleScript でやろうとするとこうなる](http://qiita.com/mattintosh4/items/353c57ba75eda20af3c4)

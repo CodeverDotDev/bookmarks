@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[cobol]](https://www.bookmarks.dev?q=[cobol])
+
 _<sup><sup>[www.bookmarks.dev/tagged/cobol](https://www.bookmarks.dev/tagged/cobol)</sup></sup>_
 ---
 #### [OpenCOBOL 1.1 - Programmer's Guide](http://open-cobol.sourceforge.net/guides/OpenCOBOL%20Programmers%20Guide.pdf)

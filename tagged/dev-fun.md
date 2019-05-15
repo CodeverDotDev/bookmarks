@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[dev-fun]](https://www.bookmarks.dev?q=[dev-fun])
+
 _<sup><sup>[www.bookmarks.dev/tagged/dev-fun](https://www.bookmarks.dev/tagged/dev-fun)</sup></sup>_
 ---
 #### [awesome-dev-fun](https://github.com/mislavcimpersak/awesome-dev-fun#readme)

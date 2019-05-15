@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[localstorage]](https://www.bookmarks.dev?q=[localstorage])
+
 _<sup><sup>[www.bookmarks.dev/tagged/localstorage](https://www.bookmarks.dev/tagged/localstorage)</sup></sup>_
 ---
 #### [GitHub - marcuswestin/store.js](https://github.com/marcuswestin/store.js)

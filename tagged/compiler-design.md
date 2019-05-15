@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[compiler-design]](https://www.bookmarks.dev?q=[compiler-design])
+
 _<sup><sup>[www.bookmarks.dev/tagged/compiler-design](https://www.bookmarks.dev/tagged/compiler-design)</sup></sup>_
 ---
 #### [Practical and Theoretical Aspects of Compiler Construction](http://web.stanford.edu/class/archive/cs/cs143/cs143.1128/)

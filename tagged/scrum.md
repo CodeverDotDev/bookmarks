@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[scrum]](https://www.bookmarks.dev?q=[scrum])
+
 _<sup><sup>[www.bookmarks.dev/tagged/scrum](https://www.bookmarks.dev/tagged/scrum)</sup></sup>_
 ---
 #### [Exploring Key Elements of Spotify's Agile Scaling Model - Scaling Agile Tool for Scaled Agile Framework, Large Scale Scrum, Program Increments, Nexus Scrum.org and Scrum of Scrum](https://kendis.io/spotify/exploring-key-elements-spotifys-agile-scaling-model/)

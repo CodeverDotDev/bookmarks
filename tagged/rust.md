@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[rust]](https://www.bookmarks.dev?q=[rust])
+
 _<sup><sup>[www.bookmarks.dev/tagged/rust](https://www.bookmarks.dev/tagged/rust)</sup></sup>_
 ---
 #### [awesome-rust](https://github.com/rust-unofficial/awesome-rust#readme)

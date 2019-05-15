@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[ripple]](https://www.bookmarks.dev?q=[ripple])
+
 _<sup><sup>[www.bookmarks.dev/tagged/ripple](https://www.bookmarks.dev/tagged/ripple)</sup></sup>_
 ---
 #### [awesome-ripple](https://github.com/vhpoet/awesome-ripple#readme)

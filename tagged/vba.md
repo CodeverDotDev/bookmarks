@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[vba]](https://www.bookmarks.dev?q=[vba])
+
 _<sup><sup>[www.bookmarks.dev/tagged/vba](https://www.bookmarks.dev/tagged/vba)</sup></sup>_
 ---
 #### [VBA基礎文法最速マスター](http://d.hatena.ne.jp/nattou_curry_2/20100129/1264787849)

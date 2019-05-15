@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[database-design]](https://www.bookmarks.dev?q=[database-design])
+
 _<sup><sup>[www.bookmarks.dev/tagged/database-design](https://www.bookmarks.dev/tagged/database-design)</sup></sup>_
 ---
 #### [Two-phase commit protocol - Wikipedia](https://en.wikipedia.org/wiki/Two-phase_commit_protocol)

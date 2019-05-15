@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[home-assistant]](https://www.bookmarks.dev?q=[home-assistant])
+
 _<sup><sup>[www.bookmarks.dev/tagged/home-assistant](https://www.bookmarks.dev/tagged/home-assistant)</sup></sup>_
 ---
 #### [awesome-home-assistant](https://github.com/frenck/awesome-home-assistant#readme)

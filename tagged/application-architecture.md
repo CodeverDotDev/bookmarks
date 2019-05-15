@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[application-architecture]](https://www.bookmarks.dev?q=[application-architecture])
+
 _<sup><sup>[www.bookmarks.dev/tagged/application-architecture](https://www.bookmarks.dev/tagged/application-architecture)</sup></sup>_
 ---
 #### [Angular 2 Application Architecture: Build Reux-like Apps with RxJs](http://blog.angular-university.io/angular-2-application-architecture-building-applications-using-rxjs-and-functional-reactive-programming-vs-redux/)

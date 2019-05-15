@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[agnósticos]](https://www.bookmarks.dev?q=[agnósticos])
+
 _<sup><sup>[www.bookmarks.dev/tagged/agnósticos](https://www.bookmarks.dev/tagged/agnósticos)</sup></sup>_
 ---
 #### [Sistemas Operativos](http://exa.unne.edu.ar/depar/areas/informatica/SistemasOperativos/sistope2.PDF)

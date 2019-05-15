@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[agnostico]](https://www.bookmarks.dev?q=[agnostico])
+
 _<sup><sup>[www.bookmarks.dev/tagged/agnostico](https://www.bookmarks.dev/tagged/agnostico)</sup></sup>_
 ---
 #### [Dispense del Corso di Algoritmi e Strutture Dati](http://www.dmi.unict.it/nicosia/lectures/programmazione-scientifica/algo.pdf)

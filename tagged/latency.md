@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[latency]](https://www.bookmarks.dev?q=[latency])
+
 _<sup><sup>[www.bookmarks.dev/tagged/latency](https://www.bookmarks.dev/tagged/latency)</sup></sup>_
 ---
 #### [GitHub - Netflix/Hystrix](https://github.com/Netflix/Hystrix)

@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[continuous-delivery]](https://www.bookmarks.dev?q=[continuous-delivery])
+
 _<sup><sup>[www.bookmarks.dev/tagged/continuous-delivery](https://www.bookmarks.dev/tagged/continuous-delivery)</sup></sup>_
 ---
 #### [awesome-ciandcd](https://github.com/ciandcd/awesome-ciandcd#readme)

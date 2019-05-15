@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[localforage]](https://www.bookmarks.dev?q=[localforage])
+
 _<sup><sup>[www.bookmarks.dev/tagged/localforage](https://www.bookmarks.dev/tagged/localforage)</sup></sup>_
 ---
 #### [localForage](https://localforage.github.io/localForage/)

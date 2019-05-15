@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[critical-path-tools]](https://www.bookmarks.dev?q=[critical-path-tools])
+
 _<sup><sup>[www.bookmarks.dev/tagged/critical-path-tools](https://www.bookmarks.dev/tagged/critical-path-tools)</sup></sup>_
 ---
 #### [awesome-critical-path-css-tools](https://github.com/addyosmani/critical-path-css-tools#readme)

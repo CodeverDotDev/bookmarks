@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[metodologie-di-sviluppo-del-software]](https://www.bookmarks.dev?q=[metodologie-di-sviluppo-del-software])
+
 _<sup><sup>[www.bookmarks.dev/tagged/metodologie-di-sviluppo-del-software](https://www.bookmarks.dev/tagged/metodologie-di-sviluppo-del-software)</sup></sup>_
 ---
 #### [Scrum e XP dalle trincee](http://www.open-ware.org/ita/news/kniberg1.htm)

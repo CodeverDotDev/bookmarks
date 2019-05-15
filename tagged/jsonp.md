@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[jsonp]](https://www.bookmarks.dev?q=[jsonp])
+
 _<sup><sup>[www.bookmarks.dev/tagged/jsonp](https://www.bookmarks.dev/tagged/jsonp)</sup></sup>_
 ---
 #### [So how does JSONP really work? Some simple examples](http://schock.net/articles/2013/02/05/how-jsonp-really-works-examples/)

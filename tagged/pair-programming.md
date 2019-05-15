@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[pair-programming]](https://www.bookmarks.dev?q=[pair-programming])
+
 _<sup><sup>[www.bookmarks.dev/tagged/pair-programming](https://www.bookmarks.dev/tagged/pair-programming)</sup></sup>_
 ---
 #### [NT Coding Blog: Guiding newbie toward productivity](http://ntcoding.co.uk/blog/2013/01/guiding-newbie-toward-productivity.html)

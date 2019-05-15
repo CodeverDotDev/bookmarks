@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[optimization]](https://www.bookmarks.dev?q=[optimization])
+
 _<sup><sup>[www.bookmarks.dev/tagged/optimization](https://www.bookmarks.dev/tagged/optimization)</sup></sup>_
 ---
 #### [awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo#readme)

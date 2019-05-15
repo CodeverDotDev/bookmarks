@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[aspectj]](https://www.bookmarks.dev?q=[aspectj])
+
 _<sup><sup>[www.bookmarks.dev/tagged/aspectj](https://www.bookmarks.dev/tagged/aspectj)</sup></sup>_
 ---
 #### [AspectJ Kitabı](http://kodcu.com/aspectj-ebook/)

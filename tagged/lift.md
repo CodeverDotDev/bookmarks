@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[lift]](https://www.bookmarks.dev?q=[lift])
+
 _<sup><sup>[www.bookmarks.dev/tagged/lift](https://www.bookmarks.dev/tagged/lift)</sup></sup>_
 ---
 #### [Simply Lift](http://simply.liftweb.net/Simply_Lift.pdf)

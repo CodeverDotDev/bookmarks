@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[spark]](https://www.bookmarks.dev?q=[spark])
+
 _<sup><sup>[www.bookmarks.dev/tagged/spark](https://www.bookmarks.dev/tagged/spark)</sup></sup>_
 ---
 #### [Mastering Apache Spark](https://www.gitbook.com/book/jaceklaskowski/mastering-apache-spark/details)

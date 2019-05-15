@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[glossary]](https://www.bookmarks.dev?q=[glossary])
+
 _<sup><sup>[www.bookmarks.dev/tagged/glossary](https://www.bookmarks.dev/tagged/glossary)</sup></sup>_
 ---
 #### [Hungarian notation - Wikipedia](https://en.wikipedia.org/wiki/Hungarian_notation)

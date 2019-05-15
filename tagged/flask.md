@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[flask]](https://www.bookmarks.dev?q=[flask])
+
 _<sup><sup>[www.bookmarks.dev/tagged/flask](https://www.bookmarks.dev/tagged/flask)</sup></sup>_
 ---
 #### [awesome-flask](https://github.com/humiaozuzu/awesome-flask#readme)

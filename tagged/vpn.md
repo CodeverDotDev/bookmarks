@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[vpn]](https://www.bookmarks.dev?q=[vpn])
+
 _<sup><sup>[www.bookmarks.dev/tagged/vpn](https://www.bookmarks.dev/tagged/vpn)</sup></sup>_
 ---
 #### [Site-to-site VPN](https://computer.howstuffworks.com/vpn4.htm)

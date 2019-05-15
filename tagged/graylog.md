@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[graylog]](https://www.bookmarks.dev?q=[graylog])
+
 _<sup><sup>[www.bookmarks.dev/tagged/graylog](https://www.bookmarks.dev/tagged/graylog)</sup></sup>_
 ---
 #### [Graylog documentation ](http://docs.graylog.org)

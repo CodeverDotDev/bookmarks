@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[editor]](https://www.bookmarks.dev?q=[editor])
+
 _<sup><sup>[www.bookmarks.dev/tagged/editor](https://www.bookmarks.dev/tagged/editor)</sup></sup>_
 ---
 #### [awesome-text-editing](https://github.com/dok/awesome-text-editing#readme)

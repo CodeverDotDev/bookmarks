@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[paradigmas-de-programación]](https://www.bookmarks.dev?q=[paradigmas-de-programación])
+
 _<sup><sup>[www.bookmarks.dev/tagged/paradigmas-de-programación](https://www.bookmarks.dev/tagged/paradigmas-de-programación)</sup></sup>_
 ---
 #### [Programación Funcional](http://www.staff.science.uu.nl/~fokke101/courses/fp-sp.pdf)

@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[compression]](https://www.bookmarks.dev?q=[compression])
+
 _<sup><sup>[www.bookmarks.dev/tagged/compression](https://www.bookmarks.dev/tagged/compression)</sup></sup>_
 ---
 #### [JSON CMP POLICY not working global level - NetScaler VPX - Discussions](https://discussions.citrix.com/topic/387724-json-cmp-policy-not-working-global-level/)

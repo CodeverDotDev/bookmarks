@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[lisp]](https://www.bookmarks.dev?q=[lisp])
+
 _<sup><sup>[www.bookmarks.dev/tagged/lisp](https://www.bookmarks.dev/tagged/lisp)</sup></sup>_
 ---
 #### [A LISP programozási nyelv](http://mek.oszk.hu/07200/07258/index.phtml)

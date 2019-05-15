@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[data-modeling]](https://www.bookmarks.dev?q=[data-modeling])
+
 _<sup><sup>[www.bookmarks.dev/tagged/data-modeling](https://www.bookmarks.dev/tagged/data-modeling)</sup></sup>_
 ---
 #### [Modeling Data for NoSQL Document Databases - YouTube [31min]](https://www.youtube.com/watch?v=IUxT7ZRHlZ4)

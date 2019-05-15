@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[alfred]](https://www.bookmarks.dev?q=[alfred])
+
 _<sup><sup>[www.bookmarks.dev/tagged/alfred](https://www.bookmarks.dev/tagged/alfred)</sup></sup>_
 ---
 #### [awesome-alfred-workflows](https://github.com/derimagia/awesome-alfred-workflows#readme)

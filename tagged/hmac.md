@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[hmac]](https://www.bookmarks.dev?q=[hmac])
+
 _<sup><sup>[www.bookmarks.dev/tagged/hmac](https://www.bookmarks.dev/tagged/hmac)</sup></sup>_
 ---
 #### [JWT: The  Complete Guide to JSON Web Tokens](https://blog.angular-university.io/angular-jwt/)

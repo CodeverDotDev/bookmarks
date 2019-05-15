@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[nvarchar]](https://www.bookmarks.dev?q=[nvarchar])
+
 _<sup><sup>[www.bookmarks.dev/tagged/nvarchar](https://www.bookmarks.dev/tagged/nvarchar)</sup></sup>_
 ---
 #### [sql server - What is the difference between varchar and nvarchar? - Stack Overflow](http://stackoverflow.com/questions/144283/what-is-the-difference-between-varchar-and-nvarchar)

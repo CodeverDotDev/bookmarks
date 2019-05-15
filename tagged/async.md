@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[async]](https://www.bookmarks.dev?q=[async])
+
 _<sup><sup>[www.bookmarks.dev/tagged/async](https://www.bookmarks.dev/tagged/async)</sup></sup>_
 ---
 #### [Java 8: Definitive guide to CompletableFuture](https://www.nurkiewicz.com/2013/05/java-8-definitive-guide-to.html)

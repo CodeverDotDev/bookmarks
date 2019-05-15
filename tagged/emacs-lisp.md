@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[emacs-lisp]](https://www.bookmarks.dev?q=[emacs-lisp])
+
 _<sup><sup>[www.bookmarks.dev/tagged/emacs-lisp](https://www.bookmarks.dev/tagged/emacs-lisp)</sup></sup>_
 ---
 #### [GNU Emacs Lispリファレンスマニュアル](http://www.bookshelf.jp/texi/elisp-manual/21-2-8/jp/elisp.html)

@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[golang]](https://www.bookmarks.dev?q=[golang])
+
 _<sup><sup>[www.bookmarks.dev/tagged/golang](https://www.bookmarks.dev/tagged/golang)</sup></sup>_
 ---
 #### [Concurrency is not parallelism - The Go Blog](https://blog.golang.org/concurrency-is-not-parallelism)

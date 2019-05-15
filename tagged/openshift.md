@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[openshift]](https://www.bookmarks.dev?q=[openshift])
+
 _<sup><sup>[www.bookmarks.dev/tagged/openshift](https://www.bookmarks.dev/tagged/openshift)</sup></sup>_
 ---
 #### [GitHub - openshift/source-to-image: A tool for building/building artifacts from source and injecting into docker images](https://github.com/openshift/source-to-image)

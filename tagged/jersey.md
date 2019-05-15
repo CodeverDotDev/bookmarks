@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[jersey]](https://www.bookmarks.dev?q=[jersey])
+
 _<sup><sup>[www.bookmarks.dev/tagged/jersey](https://www.bookmarks.dev/tagged/jersey)</sup></sup>_
 ---
 #### [How To Use Jersey Client Efficiently](https://blogs.oracle.com/japod/how-to-use-jersey-client-efficiently)

@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[shrinkwrap]](https://www.bookmarks.dev?q=[shrinkwrap])
+
 _<sup><sup>[www.bookmarks.dev/tagged/shrinkwrap](https://www.bookmarks.dev/tagged/shrinkwrap)</sup></sup>_
 ---
 #### [ShrinkWrap Resolver · Arquillian](http://arquillian.org/modules/resolver-shrinkwrap/)

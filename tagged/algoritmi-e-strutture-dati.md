@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[algoritmi-e-strutture-dati]](https://www.bookmarks.dev?q=[algoritmi-e-strutture-dati])
+
 _<sup><sup>[www.bookmarks.dev/tagged/algoritmi-e-strutture-dati](https://www.bookmarks.dev/tagged/algoritmi-e-strutture-dati)</sup></sup>_
 ---
 #### [Dispense del Corso di Algoritmi e Strutture Dati](http://www.dmi.unict.it/nicosia/lectures/programmazione-scientifica/algo.pdf)

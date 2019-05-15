@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[nosql]](https://www.bookmarks.dev?q=[nosql])
+
 _<sup><sup>[www.bookmarks.dev/tagged/nosql](https://www.bookmarks.dev/tagged/nosql)</sup></sup>_
 ---
 #### [awesome-nosql-guides](https://github.com/erictleung/awesome-nosql-guides#readme)

@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[base-de-datos]](https://www.bookmarks.dev?q=[base-de-datos])
+
 _<sup><sup>[www.bookmarks.dev/tagged/base-de-datos](https://www.bookmarks.dev/tagged/base-de-datos)</sup></sup>_
 ---
 #### [Introducción a las Bases de Datos](http://ocw.uoc.edu/computer-science-technology-and-multimedia/bases-de-datos/bases-de-datos/P06_M2109_02147.pdf)

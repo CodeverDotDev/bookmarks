@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[firewall]](https://www.bookmarks.dev?q=[firewall])
+
 _<sup><sup>[www.bookmarks.dev/tagged/firewall](https://www.bookmarks.dev/tagged/firewall)</sup></sup>_
 ---
 #### [What Is a Firewall? - Cisco](https://www.cisco.com/c/en/us/products/security/firewalls/what-is-a-firewall.html)

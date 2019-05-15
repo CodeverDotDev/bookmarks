@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[oop]](https://www.bookmarks.dev?q=[oop])
+
 _<sup><sup>[www.bookmarks.dev/tagged/oop](https://www.bookmarks.dev/tagged/oop)</sup></sup>_
 ---
 #### [Composition versus Inheritance](https://www.artima.com/designtechniques/compoinh.html)

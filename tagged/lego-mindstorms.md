@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[lego-mindstorms]](https://www.bookmarks.dev?q=[lego-mindstorms])
+
 _<sup><sup>[www.bookmarks.dev/tagged/lego-mindstorms](https://www.bookmarks.dev/tagged/lego-mindstorms)</sup></sup>_
 ---
 #### [Egyszerű robotika, A Mindstorms NXT robotok programozásának alapjai](http://www.amcham.hu/download/002/556/Robotkonyv_KR_BZS.pdf)

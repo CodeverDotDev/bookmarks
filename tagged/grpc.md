@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[grpc]](https://www.bookmarks.dev?q=[grpc])
+
 _<sup><sup>[www.bookmarks.dev/tagged/grpc](https://www.bookmarks.dev/tagged/grpc)</sup></sup>_
 ---
 #### [5 Protocols For Event-Driven API Architectures](https://nordicapis.com/5-protocols-for-event-driven-api-architectures/)

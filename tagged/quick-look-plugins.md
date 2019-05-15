@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[quick-look-plugins]](https://www.bookmarks.dev?q=[quick-look-plugins])
+
 _<sup><sup>[www.bookmarks.dev/tagged/quick-look-plugins](https://www.bookmarks.dev/tagged/quick-look-plugins)</sup></sup>_
 ---
 #### [awesome-quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins#readme)

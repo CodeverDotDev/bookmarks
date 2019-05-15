@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[competitive-programming]](https://www.bookmarks.dev?q=[competitive-programming])
+
 _<sup><sup>[www.bookmarks.dev/tagged/competitive-programming](https://www.bookmarks.dev/tagged/competitive-programming)</sup></sup>_
 ---
 #### [awesome-competitive-programming](https://github.com/lnishan/awesome-competitive-programming#readme)

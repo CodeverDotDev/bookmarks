@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[apache-kafka]](https://www.bookmarks.dev?q=[apache-kafka])
+
 _<sup><sup>[www.bookmarks.dev/tagged/apache-kafka](https://www.bookmarks.dev/tagged/apache-kafka)</sup></sup>_
 ---
 #### [Apache Kafka as an Event-Driven Backbone for Service Architectures](https://www.confluent.io/blog/apache-kafka-for-service-architectures/)

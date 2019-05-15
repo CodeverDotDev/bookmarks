@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[algorithm]](https://www.bookmarks.dev?q=[algorithm])
+
 _<sup><sup>[www.bookmarks.dev/tagged/algorithm](https://www.bookmarks.dev/tagged/algorithm)</sup></sup>_
 ---
 #### [awesome-algorithms](https://github.com/tayllan/awesome-algorithms#readme)

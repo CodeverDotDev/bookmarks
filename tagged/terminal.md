@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[terminal]](https://www.bookmarks.dev?q=[terminal])
+
 _<sup><sup>[www.bookmarks.dev/tagged/terminal](https://www.bookmarks.dev/tagged/terminal)</sup></sup>_
 ---
 #### [awesome-terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy#readme)

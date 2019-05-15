@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[cybersecurity]](https://www.bookmarks.dev?q=[cybersecurity])
+
 _<sup><sup>[www.bookmarks.dev/tagged/cybersecurity](https://www.bookmarks.dev/tagged/cybersecurity)</sup></sup>_
 ---
 #### [awesome-cybersecurity-blueteam](https://github.com/meitar/awesome-cybersecurity-blueteam#readme)

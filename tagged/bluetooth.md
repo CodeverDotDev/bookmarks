@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[bluetooth]](https://www.bookmarks.dev?q=[bluetooth])
+
 _<sup><sup>[www.bookmarks.dev/tagged/bluetooth](https://www.bookmarks.dev/tagged/bluetooth)</sup></sup>_
 ---
 #### [awesome-beacon](https://github.com/beaconinside/awesome-beacon#readme)

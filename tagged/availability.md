@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[availability]](https://www.bookmarks.dev?q=[availability])
+
 _<sup><sup>[www.bookmarks.dev/tagged/availability](https://www.bookmarks.dev/tagged/availability)</sup></sup>_
 ---
 #### [Eventually Consistent - Revisited - All Things Distributed](https://www.allthingsdistributed.com/2008/12/eventually_consistent.html)

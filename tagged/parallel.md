@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[parallel]](https://www.bookmarks.dev?q=[parallel])
+
 _<sup><sup>[www.bookmarks.dev/tagged/parallel](https://www.bookmarks.dev/tagged/parallel)</sup></sup>_
 ---
 #### [Параллельные технологии](http://www.inp.nsk.su/~baldin/Parallel/index.html)

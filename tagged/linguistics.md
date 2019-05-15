@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[linguistics]](https://www.bookmarks.dev?q=[linguistics])
+
 _<sup><sup>[www.bookmarks.dev/tagged/linguistics](https://www.bookmarks.dev/tagged/linguistics)</sup></sup>_
 ---
 #### [awesome-linguistics](https://github.com/theimpossibleastronaut/awesome-linguistics#readme)

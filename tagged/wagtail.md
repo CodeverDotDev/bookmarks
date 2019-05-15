@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[wagtail]](https://www.bookmarks.dev?q=[wagtail])
+
 _<sup><sup>[www.bookmarks.dev/tagged/wagtail](https://www.bookmarks.dev/tagged/wagtail)</sup></sup>_
 ---
 #### [awesome-wagtail](https://github.com/springload/awesome-wagtail#readme)

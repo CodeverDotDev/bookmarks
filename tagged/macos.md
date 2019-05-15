@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[macos]](https://www.bookmarks.dev?q=[macos])
+
 _<sup><sup>[www.bookmarks.dev/tagged/macos](https://www.bookmarks.dev/tagged/macos)</sup></sup>_
 ---
 #### [awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line#readme)

@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[bash]](https://www.bookmarks.dev?q=[bash])
+
 _<sup><sup>[www.bookmarks.dev/tagged/bash](https://www.bookmarks.dev/tagged/bash)</sup></sup>_
 ---
 #### [TLDR pages](https://tldr.sh/)

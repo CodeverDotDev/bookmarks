@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[sql]](https://www.bookmarks.dev?q=[sql])
+
 _<sup><sup>[www.bookmarks.dev/tagged/sql](https://www.bookmarks.dev/tagged/sql)</sup></sup>_
 ---
 #### [Online SQLite browser](https://extendsclass.com/sqlite-browser.html)

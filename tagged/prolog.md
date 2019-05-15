@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[prolog]](https://www.bookmarks.dev?q=[prolog])
+
 _<sup><sup>[www.bookmarks.dev/tagged/prolog](https://www.bookmarks.dev/tagged/prolog)</sup></sup>_
 ---
 #### [Programowanie w logice z ograniczeniami: Łagodne wprowadzenie dla platformy ECLiPSe](http://www.pwlzo.pl)

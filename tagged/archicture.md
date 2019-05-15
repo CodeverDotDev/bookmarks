@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[archicture]](https://www.bookmarks.dev?q=[archicture])
+
 _<sup><sup>[www.bookmarks.dev/tagged/archicture](https://www.bookmarks.dev/tagged/archicture)</sup></sup>_
 ---
 #### [Design Patterns: PubSub Explained – CodeKraft](https://abdulapopoola.com/2013/03/12/design-patterns-pub-sub-explained/)

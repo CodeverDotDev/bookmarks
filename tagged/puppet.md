@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[puppet]](https://www.bookmarks.dev?q=[puppet])
+
 _<sup><sup>[www.bookmarks.dev/tagged/puppet](https://www.bookmarks.dev/tagged/puppet)</sup></sup>_
 ---
 #### [Puppet Cookbook](https://www.puppetcookbook.com/)

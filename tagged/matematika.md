@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[matematika]](https://www.bookmarks.dev?q=[matematika])
+
 _<sup><sup>[www.bookmarks.dev/tagged/matematika](https://www.bookmarks.dev/tagged/matematika)</sup></sup>_
 ---
 #### [Think Stats: Pravděpodobnost a statistika pro programátory](http://eknihy.knihovna.cz/kniha/think-stats-pravdepodobnost-a-statistika-pro-programatory)

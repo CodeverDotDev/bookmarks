@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[appium]](https://www.bookmarks.dev?q=[appium])
+
 _<sup><sup>[www.bookmarks.dev/tagged/appium](https://www.bookmarks.dev/tagged/appium)</sup></sup>_
 ---
 #### [awesome-appium](https://github.com/SrinivasanTarget/awesome-appium#readme)

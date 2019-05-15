@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[cdi]](https://www.bookmarks.dev?q=[cdi])
+
 _<sup><sup>[www.bookmarks.dev/tagged/cdi](https://www.bookmarks.dev/tagged/cdi)</sup></sup>_
 ---
 #### [Injection with CDI (Part I)](https://antoniogoncalves.org/2011/05/03/injection-with-cdi-part-i/)

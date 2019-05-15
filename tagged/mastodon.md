@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[mastodon]](https://www.bookmarks.dev?q=[mastodon])
+
 _<sup><sup>[www.bookmarks.dev/tagged/mastodon](https://www.bookmarks.dev/tagged/mastodon)</sup></sup>_
 ---
 #### [awesome-mastodon](https://github.com/tleb/awesome-mastodon#readme)

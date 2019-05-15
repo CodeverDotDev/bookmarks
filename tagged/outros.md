@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[outros]](https://www.bookmarks.dev?q=[outros])
+
 _<sup><sup>[www.bookmarks.dev/tagged/outros](https://www.bookmarks.dev/tagged/outros)</sup></sup>_
 ---
 #### [Primeiros passos com Padrões de Projeto](https://leanpub.com/primeiros-passos-com-padroes-de-projeto/)

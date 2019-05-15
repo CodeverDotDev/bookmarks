@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[dependency-injection]](https://www.bookmarks.dev?q=[dependency-injection])
+
 _<sup><sup>[www.bookmarks.dev/tagged/dependency-injection](https://www.bookmarks.dev/tagged/dependency-injection)</sup></sup>_
 ---
 #### [ CDI Reference Implementation](http://docs.jboss.org/weld/reference/latest/en-US/html_single/)

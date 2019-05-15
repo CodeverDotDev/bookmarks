@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[partial-evaluation]](https://www.bookmarks.dev?q=[partial-evaluation])
+
 _<sup><sup>[www.bookmarks.dev/tagged/partial-evaluation](https://www.bookmarks.dev/tagged/partial-evaluation)</sup></sup>_
 ---
 #### [Partial Evaluation and Automatic Program Generation](http://www.itu.dk/people/sestoft/pebook/)

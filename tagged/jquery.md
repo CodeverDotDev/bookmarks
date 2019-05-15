@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[jquery]](https://www.bookmarks.dev?q=[jquery])
+
 _<sup><sup>[www.bookmarks.dev/tagged/jquery](https://www.bookmarks.dev/tagged/jquery)</sup></sup>_
 ---
 #### [awesome-jquery](https://github.com/petk/awesome-jquery#readme)

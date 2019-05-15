@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[apl]](https://www.bookmarks.dev?q=[apl])
+
 _<sup><sup>[www.bookmarks.dev/tagged/apl](https://www.bookmarks.dev/tagged/apl)</sup></sup>_
 ---
 #### [Mastering Dyalog APL](http://www.dyalog.com/mastering-dyalog-apl.htm)

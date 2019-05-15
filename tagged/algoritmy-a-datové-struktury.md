@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[algoritmy-a-datové-struktury]](https://www.bookmarks.dev?q=[algoritmy-a-datové-struktury])
+
 _<sup><sup>[www.bookmarks.dev/tagged/algoritmy-a-datové-struktury](https://www.bookmarks.dev/tagged/algoritmy-a-datové-struktury)</sup></sup>_
 ---
 #### [Základy algoritmizace](http://i.iinfo.cz/files/root/k/Zaklady_algorimizace.pdf)

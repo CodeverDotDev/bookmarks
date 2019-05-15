@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[clipper]](https://www.bookmarks.dev?q=[clipper])
+
 _<sup><sup>[www.bookmarks.dev/tagged/clipper](https://www.bookmarks.dev/tagged/clipper)</sup></sup>_
 ---
 #### [Clipper Tutorial: a Guide to Open Source Clipper(s)](https://en.wikibooks.org/wiki/Clipper_Tutorial%3A_a_Guide_to_Open_Source_Clipper(s)

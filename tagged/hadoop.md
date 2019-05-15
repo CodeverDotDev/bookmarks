@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[hadoop]](https://www.bookmarks.dev?q=[hadoop])
+
 _<sup><sup>[www.bookmarks.dev/tagged/hadoop](https://www.bookmarks.dev/tagged/hadoop)</sup></sup>_
 ---
 #### [awesome-hadoop](https://github.com/youngwookim/awesome-hadoop#readme)

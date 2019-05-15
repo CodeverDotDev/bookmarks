@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[mapreduce]](https://www.bookmarks.dev?q=[mapreduce])
+
 _<sup><sup>[www.bookmarks.dev/tagged/mapreduce](https://www.bookmarks.dev/tagged/mapreduce)</sup></sup>_
 ---
 #### [What is MapReduce? - YouTube](https://www.youtube.com/watch?v=43fqzaSH0CQ)

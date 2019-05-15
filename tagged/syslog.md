@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[syslog]](https://www.bookmarks.dev?q=[syslog])
+
 _<sup><sup>[www.bookmarks.dev/tagged/syslog](https://www.bookmarks.dev/tagged/syslog)</sup></sup>_
 ---
 #### [The Syslog Protocol](https://tools.ietf.org/html/rfc5424)

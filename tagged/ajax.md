@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[ajax]](https://www.bookmarks.dev?q=[ajax])
+
 _<sup><sup>[www.bookmarks.dev/tagged/ajax](https://www.bookmarks.dev/tagged/ajax)</sup></sup>_
 ---
 #### [Ajax](http://etutoriale.ro/articles/1483/1/Tutorial-Ajax/)

@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[vorpal]](https://www.bookmarks.dev?q=[vorpal])
+
 _<sup><sup>[www.bookmarks.dev/tagged/vorpal](https://www.bookmarks.dev/tagged/vorpal)</sup></sup>_
 ---
 #### [awesome-vorpal](https://github.com/vorpaljs/awesome-vorpal#readme)

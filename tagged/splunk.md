@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[splunk]](https://www.bookmarks.dev?q=[splunk])
+
 _<sup><sup>[www.bookmarks.dev/tagged/splunk](https://www.bookmarks.dev/tagged/splunk)</sup></sup>_
 ---
 #### [The Essential Guide to Machine Data](https://www.splunk.com/pdfs/ebooks/the-essential-guide-to-machine-data.pdf)

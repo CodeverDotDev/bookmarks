@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[copyright]](https://www.bookmarks.dev?q=[copyright])
+
 _<sup><sup>[www.bookmarks.dev/tagged/copyright](https://www.bookmarks.dev/tagged/copyright)</sup></sup>_
 ---
 #### [A Writer's Guide to Permissions and Fair Use | Jane Friedman](https://www.janefriedman.com/permissions-and-fair-use/)

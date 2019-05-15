@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[sql(実装非依存)]](https://www.bookmarks.dev?q=[sql(実装非依存)])
+
 _<sup><sup>[www.bookmarks.dev/tagged/sql(実装非依存)](https://www.bookmarks.dev/tagged/sql(実装非依存))</sup></sup>_
 ---
 #### [SQLプログラミング作法](http://www.geocities.jp/mickindex/database/db_manner.html)

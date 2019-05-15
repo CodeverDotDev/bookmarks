@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[tizen]](https://www.bookmarks.dev?q=[tizen])
+
 _<sup><sup>[www.bookmarks.dev/tagged/tizen](https://www.bookmarks.dev/tagged/tizen)</sup></sup>_
 ---
 #### [Tizen for Dummies](https://developer.tizen.org/sites/default/files/blogs/tizenfordummiesmainchangelist.pdf)

@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[jackson]](https://www.bookmarks.dev?q=[jackson])
+
 _<sup><sup>[www.bookmarks.dev/tagged/jackson](https://www.bookmarks.dev/tagged/jackson)</sup></sup>_
 ---
 #### [How To Serialize Enums as JSON Objects with Jackson](https://www.baeldung.com/jackson-serialize-enums)

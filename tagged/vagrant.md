@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[vagrant]](https://www.bookmarks.dev?q=[vagrant])
+
 _<sup><sup>[www.bookmarks.dev/tagged/vagrant](https://www.bookmarks.dev/tagged/vagrant)</sup></sup>_
 ---
 #### [awesome-vagrant](https://github.com/iJackUA/awesome-vagrant#readme)

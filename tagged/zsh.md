@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[zsh]](https://www.bookmarks.dev?q=[zsh])
+
 _<sup><sup>[www.bookmarks.dev/tagged/zsh](https://www.bookmarks.dev/tagged/zsh)</sup></sup>_
 ---
 #### [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins#readme)

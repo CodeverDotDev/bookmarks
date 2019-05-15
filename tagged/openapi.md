@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[openapi]](https://www.bookmarks.dev?q=[openapi])
+
 _<sup><sup>[www.bookmarks.dev/tagged/openapi](https://www.bookmarks.dev/tagged/openapi)</sup></sup>_
 ---
 #### [LoopBack 4](http://v4.loopback.io/)

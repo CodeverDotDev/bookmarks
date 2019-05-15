@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[encryption]](https://www.bookmarks.dev?q=[encryption])
+
 _<sup><sup>[www.bookmarks.dev/tagged/encryption](https://www.bookmarks.dev/tagged/encryption)</sup></sup>_
 ---
 #### [JWT, JWS and JWE for Not So Dummies! (Part I)](https://medium.facilelogin.com/jwt-jws-and-jwe-for-not-so-dummies-b63310d201a3)

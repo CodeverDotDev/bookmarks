@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[engenharia-de-software]](https://www.bookmarks.dev?q=[engenharia-de-software])
+
 _<sup><sup>[www.bookmarks.dev/tagged/engenharia-de-software](https://www.bookmarks.dev/tagged/engenharia-de-software)</sup></sup>_
 ---
 #### [Primeiros passos com Padrões de Projeto](https://leanpub.com/primeiros-passos-com-padroes-de-projeto/)

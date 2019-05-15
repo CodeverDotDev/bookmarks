@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[high-availability]](https://www.bookmarks.dev?q=[high-availability])
+
 _<sup><sup>[www.bookmarks.dev/tagged/high-availability](https://www.bookmarks.dev/tagged/high-availability)</sup></sup>_
 ---
 #### [GitHub - Netflix/eureka](https://github.com/Netflix/eureka)

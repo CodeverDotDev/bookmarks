@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[non-dépendant-du-langage]](https://www.bookmarks.dev?q=[non-dépendant-du-langage])
+
 _<sup><sup>[www.bookmarks.dev/tagged/non-dépendant-du-langage](https://www.bookmarks.dev/tagged/non-dépendant-du-langage)</sup></sup>_
 ---
 #### [Apprendre l'informatique sans ordinateur](https://interstices.info/jcms/c_47072/enseigner-et-apprendre-les-sciences-informatiques-a-lecole)

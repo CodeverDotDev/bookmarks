@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[soa]](https://www.bookmarks.dev?q=[soa])
+
 _<sup><sup>[www.bookmarks.dev/tagged/soa](https://www.bookmarks.dev/tagged/soa)</sup></sup>_
 ---
 #### [Consumer-Driven Contracts: A Service Evolution Pattern](https://martinfowler.com/articles/consumerDrivenContracts.html)

@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[bigdata]](https://www.bookmarks.dev?q=[bigdata])
+
 _<sup><sup>[www.bookmarks.dev/tagged/bigdata](https://www.bookmarks.dev/tagged/bigdata)</sup></sup>_
 ---
 #### [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata#readme)

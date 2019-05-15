@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[middleware]](https://www.bookmarks.dev?q=[middleware])
+
 _<sup><sup>[www.bookmarks.dev/tagged/middleware](https://www.bookmarks.dev/tagged/middleware)</sup></sup>_
 ---
 #### [Migrating a Retail Monolith to Microservices: Sebastian Gauder at MicroXchg Berlin](https://www.infoq.com/news/2019/04/monolith-microservices-migration)

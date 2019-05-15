@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[kibana]](https://www.bookmarks.dev?q=[kibana])
+
 _<sup><sup>[www.bookmarks.dev/tagged/kibana](https://www.bookmarks.dev/tagged/kibana)</sup></sup>_
 ---
 #### [Elk Stack on a Docker image](https://elk-docker.readthedocs.io/#about)

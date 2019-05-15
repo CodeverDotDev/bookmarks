@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[community]](https://www.bookmarks.dev?q=[community])
+
 _<sup><sup>[www.bookmarks.dev/tagged/community](https://www.bookmarks.dev/tagged/community)</sup></sup>_
 ---
 #### [Lobsters](https://lobste.rs/)

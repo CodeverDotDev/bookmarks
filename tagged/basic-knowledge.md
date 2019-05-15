@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[basic-knowledge]](https://www.bookmarks.dev?q=[basic-knowledge])
+
 _<sup><sup>[www.bookmarks.dev/tagged/basic-knowledge](https://www.bookmarks.dev/tagged/basic-knowledge)</sup></sup>_
 ---
 #### [First Class](http://wiki.c2.com/?FirstClass)

@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[pédagogie-pour-enfants-et-adolescents]](https://www.bookmarks.dev?q=[pédagogie-pour-enfants-et-adolescents])
+
 _<sup><sup>[www.bookmarks.dev/tagged/pédagogie-pour-enfants-et-adolescents](https://www.bookmarks.dev/tagged/pédagogie-pour-enfants-et-adolescents)</sup></sup>_
 ---
 #### [Apprendre l'informatique sans ordinateur](https://interstices.info/jcms/c_47072/enseigner-et-apprendre-les-sciences-informatiques-a-lecole)

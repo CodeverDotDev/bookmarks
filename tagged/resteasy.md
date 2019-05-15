@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[resteasy]](https://www.bookmarks.dev?q=[resteasy])
+
 _<sup><sup>[www.bookmarks.dev/tagged/resteasy](https://www.bookmarks.dev/tagged/resteasy)</sup></sup>_
 ---
 #### [RESTEasy Client API](https://www.baeldung.com/resteasy-client-tutorial)

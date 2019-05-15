@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[product-management]](https://www.bookmarks.dev?q=[product-management])
+
 _<sup><sup>[www.bookmarks.dev/tagged/product-management](https://www.bookmarks.dev/tagged/product-management)</sup></sup>_
 ---
 #### [Tips for Jumpstarting Your Career As a Product Manager - Stack Overflow Blog](https://stackoverflow.blog/2017/06/23/tips-jumpstarting-career-product-manager/)

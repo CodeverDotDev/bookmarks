@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[saltstack]](https://www.bookmarks.dev?q=[saltstack])
+
 _<sup><sup>[www.bookmarks.dev/tagged/saltstack](https://www.bookmarks.dev/tagged/saltstack)</sup></sup>_
 ---
 #### [awesome-saltstack](https://github.com/hbokh/awesome-saltstack#readme)

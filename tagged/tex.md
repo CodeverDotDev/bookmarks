@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[tex]](https://www.bookmarks.dev?q=[tex])
+
 _<sup><sup>[www.bookmarks.dev/tagged/tex](https://www.bookmarks.dev/tagged/tex)</sup></sup>_
 ---
 #### [TeX pour l'Impatient](http://www.apprendre-en-ligne.net/LaTeX/teximpatient.pdf)

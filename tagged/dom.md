@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[dom]](https://www.bookmarks.dev?q=[dom])
+
 _<sup><sup>[www.bookmarks.dev/tagged/dom](https://www.bookmarks.dev/tagged/dom)</sup></sup>_
 ---
 #### [Event - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Event)

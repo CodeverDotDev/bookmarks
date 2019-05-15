@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[hal]](https://www.bookmarks.dev?q=[hal])
+
 _<sup><sup>[www.bookmarks.dev/tagged/hal](https://www.bookmarks.dev/tagged/hal)</sup></sup>_
 ---
 #### [  The Hypertext Application Language - HAL](http://stateless.co/hal_specification.html)

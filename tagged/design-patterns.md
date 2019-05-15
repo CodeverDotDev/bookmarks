@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[design-patterns]](https://www.bookmarks.dev?q=[design-patterns])
+
 _<sup><sup>[www.bookmarks.dev/tagged/design-patterns](https://www.bookmarks.dev/tagged/design-patterns)</sup></sup>_
 ---
 #### [The One Correct Way to do Dependency Injection](http://blog.schauderhaft.de/2012/01/01/the-one-correct-way-to-do-dependency-injection/)

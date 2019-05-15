@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[systemd]](https://www.bookmarks.dev?q=[systemd])
+
 _<sup><sup>[www.bookmarks.dev/tagged/systemd](https://www.bookmarks.dev/tagged/systemd)</sup></sup>_
 ---
 #### [Systemd Essentials: Working with Services, Units, and the Journal | DigitalOceanDigitalOcean](https://www.digitalocean.com/community/tutorials/systemd-essentials-working-with-services-units-and-the-journal)

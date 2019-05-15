@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[jwe]](https://www.bookmarks.dev?q=[jwe])
+
 _<sup><sup>[www.bookmarks.dev/tagged/jwe](https://www.bookmarks.dev/tagged/jwe)</sup></sup>_
 ---
 #### [JWT, JWS and JWE for Not So Dummies! (Part I)](https://medium.facilelogin.com/jwt-jws-and-jwe-for-not-so-dummies-b63310d201a3)

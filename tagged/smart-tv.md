@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[smart-tv]](https://www.bookmarks.dev?q=[smart-tv])
+
 _<sup><sup>[www.bookmarks.dev/tagged/smart-tv](https://www.bookmarks.dev/tagged/smart-tv)</sup></sup>_
 ---
 #### [awesome-smart-tv](https://github.com/vitalets/awesome-smart-tv#readme)

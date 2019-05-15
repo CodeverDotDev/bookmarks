@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[spring-cloud-gateway]](https://www.bookmarks.dev?q=[spring-cloud-gateway])
+
 _<sup><sup>[www.bookmarks.dev/tagged/spring-cloud-gateway](https://www.bookmarks.dev/tagged/spring-cloud-gateway)</sup></sup>_
 ---
 #### [Introducing Spring Cloud Gateway by Spencer Gibb @ Spring I/O 2018 - YouTube](https://www.youtube.com/watch?v=NkgooKSeF8w)

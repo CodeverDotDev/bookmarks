@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[minecraft]](https://www.bookmarks.dev?q=[minecraft])
+
 _<sup><sup>[www.bookmarks.dev/tagged/minecraft](https://www.bookmarks.dev/tagged/minecraft)</sup></sup>_
 ---
 #### [awesome-minecraft](https://github.com/bs-community/awesome-minecraft#readme)

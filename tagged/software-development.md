@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[software-development]](https://www.bookmarks.dev?q=[software-development])
+
 _<sup><sup>[www.bookmarks.dev/tagged/software-development](https://www.bookmarks.dev/tagged/software-development)</sup></sup>_
 ---
 #### [Coding bookmarks, aka #codingmarks](https://www.codingmarks.org)

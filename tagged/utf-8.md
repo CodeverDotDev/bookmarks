@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[utf-8]](https://www.bookmarks.dev?q=[utf-8])
+
 _<sup><sup>[www.bookmarks.dev/tagged/utf-8](https://www.bookmarks.dev/tagged/utf-8)</sup></sup>_
 ---
 #### [How to support full Unicode in MySQL databases · Mathias Bynens](https://mathiasbynens.be/notes/mysql-utf8mb4)

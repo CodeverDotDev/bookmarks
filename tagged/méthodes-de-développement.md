@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[méthodes-de-développement]](https://www.bookmarks.dev?q=[méthodes-de-développement])
+
 _<sup><sup>[www.bookmarks.dev/tagged/méthodes-de-développement](https://www.bookmarks.dev/tagged/méthodes-de-développement)</sup></sup>_
 ---
 #### [Scrum et XP depuis les tranchées](http://www.infoq.com/resource/news/2007/06/scrum-xp-book/en/resources/ScrumAndXpFromTheTrenches_French.pdf)

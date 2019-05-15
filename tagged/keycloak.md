@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[keycloak]](https://www.bookmarks.dev?q=[keycloak])
+
 _<sup><sup>[www.bookmarks.dev/tagged/keycloak](https://www.bookmarks.dev/tagged/keycloak)</sup></sup>_
 ---
 #### [Using Client Scope with RedHat SSO Keycloak - JANUA](http://www.janua.fr/using-client-scope-with-redhat-sso-keycloak/)

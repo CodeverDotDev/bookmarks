@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[mathematics]](https://www.bookmarks.dev?q=[mathematics])
+
 _<sup><sup>[www.bookmarks.dev/tagged/mathematics](https://www.bookmarks.dev/tagged/mathematics)</sup></sup>_
 ---
 #### [Think Stats: Probability and Statistics for Programmers](http://greenteapress.com/thinkstats/)

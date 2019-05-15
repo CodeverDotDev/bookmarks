@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[java]](https://www.bookmarks.dev?q=[java])
+
 _<sup><sup>[www.bookmarks.dev/tagged/java](https://www.bookmarks.dev/tagged/java)</sup></sup>_
 ---
 #### [awesome-rxjava](https://github.com/eleventigers/awesome-rxjava#readme)

@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[latex]](https://www.bookmarks.dev?q=[latex])
+
 _<sup><sup>[www.bookmarks.dev/tagged/latex](https://www.bookmarks.dev/tagged/latex)</sup></sup>_
 ---
 #### [awesome-LaTeX](https://github.com/egeerardyn/awesome-LaTeX#readme)

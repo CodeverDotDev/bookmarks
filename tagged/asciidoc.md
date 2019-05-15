@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[asciidoc]](https://www.bookmarks.dev?q=[asciidoc])
+
 _<sup><sup>[www.bookmarks.dev/tagged/asciidoc](https://www.bookmarks.dev/tagged/asciidoc)</sup></sup>_
 ---
 #### [AsciiDoc Syntax Quick Reference | Asciidoctor](http://asciidoctor.org/docs/asciidoc-syntax-quick-reference/)

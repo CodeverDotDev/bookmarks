@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[scala]](https://www.bookmarks.dev?q=[scala])
+
 _<sup><sup>[www.bookmarks.dev/tagged/scala](https://www.bookmarks.dev/tagged/scala)</sup></sup>_
 ---
 #### [awesome-scala](https://github.com/lauris/awesome-scala#readme)

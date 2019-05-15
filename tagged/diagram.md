@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[diagram]](https://www.bookmarks.dev?q=[diagram])
+
 _<sup><sup>[www.bookmarks.dev/tagged/diagram](https://www.bookmarks.dev/tagged/diagram)</sup></sup>_
 ---
 #### [mermaid docs](https://mermaidjs.github.io/)

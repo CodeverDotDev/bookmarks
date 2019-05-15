@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[interview-question]](https://www.bookmarks.dev?q=[interview-question])
+
 _<sup><sup>[www.bookmarks.dev/tagged/interview-question](https://www.bookmarks.dev/tagged/interview-question)</sup></sup>_
 ---
 #### [Master the JavaScript Interview: What is a Pure Function?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976)

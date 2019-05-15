@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[swift]](https://www.bookmarks.dev?q=[swift])
+
 _<sup><sup>[www.bookmarks.dev/tagged/swift](https://www.bookmarks.dev/tagged/swift)</sup></sup>_
 ---
 #### [awesome-swift](https://github.com/matteocrippa/awesome-swift#readme)

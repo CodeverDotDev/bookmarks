@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[skaffold]](https://www.bookmarks.dev?q=[skaffold])
+
 _<sup><sup>[www.bookmarks.dev/tagged/skaffold](https://www.bookmarks.dev/tagged/skaffold)</sup></sup>_
 ---
 #### [Continuous Development with Java and Kubernetes - DEV Community 👩‍💻👨‍💻](https://dev.to/pozo/continuous-development-with-java-and-kubernetes-3d08)

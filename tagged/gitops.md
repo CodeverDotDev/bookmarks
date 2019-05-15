@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[gitops]](https://www.bookmarks.dev?q=[gitops])
+
 _<sup><sup>[www.bookmarks.dev/tagged/gitops](https://www.bookmarks.dev/tagged/gitops)</sup></sup>_
 ---
 #### [What Is GitOps Really?](https://www.weave.works/blog/what-is-gitops-really)

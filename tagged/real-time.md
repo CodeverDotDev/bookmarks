@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[real-time]](https://www.bookmarks.dev?q=[real-time])
+
 _<sup><sup>[www.bookmarks.dev/tagged/real-time](https://www.bookmarks.dev/tagged/real-time)</sup></sup>_
 ---
 #### [ETL Is Dead, Long Live Streams: real-time streams w/ Apache Kafka - YouTube](https://www.youtube.com/watch?v=I32hmY4diFY)

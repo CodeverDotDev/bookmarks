@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[gif]](https://www.bookmarks.dev?q=[gif])
+
 _<sup><sup>[www.bookmarks.dev/tagged/gif](https://www.bookmarks.dev/tagged/gif)</sup></sup>_
 ---
 #### [awesome-gif](https://github.com/davisonio/awesome-gif#readme)

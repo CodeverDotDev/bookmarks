@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[software-engineering]](https://www.bookmarks.dev?q=[software-engineering])
+
 _<sup><sup>[www.bookmarks.dev/tagged/software-engineering](https://www.bookmarks.dev/tagged/software-engineering)</sup></sup>_
 ---
 #### [What Is Functional Programming?](http://blog.jenkster.com/2015/12/what-is-functional-programming.html)

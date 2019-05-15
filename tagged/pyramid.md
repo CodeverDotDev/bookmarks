@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[pyramid]](https://www.bookmarks.dev?q=[pyramid])
+
 _<sup><sup>[www.bookmarks.dev/tagged/pyramid](https://www.bookmarks.dev/tagged/pyramid)</sup></sup>_
 ---
 #### [awesome-pyramid](https://github.com/uralbash/awesome-pyramid#readme)

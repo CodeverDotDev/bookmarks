@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[closures]](https://www.bookmarks.dev?q=[closures])
+
 _<sup><sup>[www.bookmarks.dev/tagged/closures](https://www.bookmarks.dev/tagged/closures)</sup></sup>_
 ---
 #### [JavaScript: bind function](http://krasimirtsonev.com/blog/article/JavaScript-bind-function-setting-a-scope)

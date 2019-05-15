@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[continuous-deployment]](https://www.bookmarks.dev?q=[continuous-deployment])
+
 _<sup><sup>[www.bookmarks.dev/tagged/continuous-deployment](https://www.bookmarks.dev/tagged/continuous-deployment)</sup></sup>_
 ---
 #### [Continuous Delivery, Deployment & Integration: 20 Key Differences](https://stackify.com/continuous-delivery-vs-continuous-deployment-vs-continuous-integration/)

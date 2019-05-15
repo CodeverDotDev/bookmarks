@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[static-analysis]](https://www.bookmarks.dev?q=[static-analysis])
+
 _<sup><sup>[www.bookmarks.dev/tagged/static-analysis](https://www.bookmarks.dev/tagged/static-analysis)</sup></sup>_
 ---
 #### [awesome-static-analysis](https://github.com/mre/awesome-static-analysis#readme)

@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[free-programming-books-pt_pt]](https://www.bookmarks.dev?q=[free-programming-books-pt_pt])
+
 _<sup><sup>[www.bookmarks.dev/tagged/free-programming-books-pt_pt](https://www.bookmarks.dev/tagged/free-programming-books-pt_pt)</sup></sup>_
 ---
 #### [Lógica Computacional (com Prolog)](http://www4.di.uminho.pt/~mjf/pub/LC-Prolog.pdf)

@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[svg]](https://www.bookmarks.dev?q=[svg])
+
 _<sup><sup>[www.bookmarks.dev/tagged/svg](https://www.bookmarks.dev/tagged/svg)</sup></sup>_
 ---
 #### [awesome-svg](https://github.com/willianjusten/awesome-svg#readme)

@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[go]](https://www.bookmarks.dev?q=[go])
+
 _<sup><sup>[www.bookmarks.dev/tagged/go](https://www.bookmarks.dev/tagged/go)</sup></sup>_
 ---
 #### [awesome-go](https://github.com/avelino/awesome-go#readme)

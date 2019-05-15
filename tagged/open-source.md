@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[open-source]](https://www.bookmarks.dev?q=[open-source])
+
 _<sup><sup>[www.bookmarks.dev/tagged/open-source](https://www.bookmarks.dev/tagged/open-source)</sup></sup>_
 ---
 #### [awesome-open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps#readme)

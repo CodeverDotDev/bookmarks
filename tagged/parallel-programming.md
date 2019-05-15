@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[parallel-programming]](https://www.bookmarks.dev?q=[parallel-programming])
+
 _<sup><sup>[www.bookmarks.dev/tagged/parallel-programming](https://www.bookmarks.dev/tagged/parallel-programming)</sup></sup>_
 ---
 #### [The OpenCL Programming Book](https://www.fixstars.com/en/opencl/book/OpenCLProgrammingBook/contents/)

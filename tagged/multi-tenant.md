@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[multi-tenant]](https://www.bookmarks.dev?q=[multi-tenant])
+
 _<sup><sup>[www.bookmarks.dev/tagged/multi-tenant](https://www.bookmarks.dev/tagged/multi-tenant)</sup></sup>_
 ---
 #### [Application-level multi-tenancy: the promise and pitfalls of shared-everything architectures](https://distrinet.cs.kuleuven.be/news/2015/multitenancy.pdf)

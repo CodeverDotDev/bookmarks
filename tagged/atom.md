@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[atom]](https://www.bookmarks.dev?q=[atom])
+
 _<sup><sup>[www.bookmarks.dev/tagged/atom](https://www.bookmarks.dev/tagged/atom)</sup></sup>_
 ---
 #### [awesome-atom](https://github.com/mehcode/awesome-atom#readme)

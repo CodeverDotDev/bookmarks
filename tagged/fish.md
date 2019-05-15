@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[fish]](https://www.bookmarks.dev?q=[fish])
+
 _<sup><sup>[www.bookmarks.dev/tagged/fish](https://www.bookmarks.dev/tagged/fish)</sup></sup>_
 ---
 #### [awesome-fish](https://github.com/jorgebucaran/awesome-fish#readme)

@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[exception-handling]](https://www.bookmarks.dev?q=[exception-handling])
+
 _<sup><sup>[www.bookmarks.dev/tagged/exception-handling](https://www.bookmarks.dev/tagged/exception-handling)</sup></sup>_
 ---
 #### [The try-with-resources Statement - Java Tutorials](https://docs.oracle.com/javase/tutorial/essential/exceptions/tryResourceClose.html)

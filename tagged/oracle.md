@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[oracle]](https://www.bookmarks.dev?q=[oracle])
+
 _<sup><sup>[www.bookmarks.dev/tagged/oracle](https://www.bookmarks.dev/tagged/oracle)</sup></sup>_
 ---
 #### [node-oracledb/examples at master · oracle/node-oracledb · GitHub](https://github.com/oracle/node-oracledb/tree/master/examples)

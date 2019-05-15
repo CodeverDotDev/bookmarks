@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[mathematica]](https://www.bookmarks.dev?q=[mathematica])
+
 _<sup><sup>[www.bookmarks.dev/tagged/mathematica](https://www.bookmarks.dev/tagged/mathematica)</sup></sup>_
 ---
 #### [Wolfram Mathematica Tutorial Collection](http://www.wolfram.com/learningcenter/tutorialcollection/)

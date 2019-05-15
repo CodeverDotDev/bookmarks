@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[ciencia-computacional]](https://www.bookmarks.dev?q=[ciencia-computacional])
+
 _<sup><sup>[www.bookmarks.dev/tagged/ciencia-computacional](https://www.bookmarks.dev/tagged/ciencia-computacional)</sup></sup>_
 ---
 #### [Breves Notas sobre Teoría de la Computación](http://lya.fciencias.unam.mx/jloa/publicaciones/teoria.pdf)

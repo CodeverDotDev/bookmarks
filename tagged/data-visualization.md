@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[data-visualization]](https://www.bookmarks.dev?q=[data-visualization])
+
 _<sup><sup>[www.bookmarks.dev/tagged/data-visualization](https://www.bookmarks.dev/tagged/data-visualization)</sup></sup>_
 ---
 #### [Datavisualization.ch Selected Tools](http://selection.datavisualization.ch/)

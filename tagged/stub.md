@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[stub]](https://www.bookmarks.dev?q=[stub])
+
 _<sup><sup>[www.bookmarks.dev/tagged/stub](https://www.bookmarks.dev/tagged/stub)</sup></sup>_
 ---
 #### [Mocks Aren't Stubs](https://martinfowler.com/articles/mocksArentStubs.html)

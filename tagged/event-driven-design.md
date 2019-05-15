@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[event-driven-design]](https://www.bookmarks.dev?q=[event-driven-design])
+
 _<sup><sup>[www.bookmarks.dev/tagged/event-driven-design](https://www.bookmarks.dev/tagged/event-driven-design)</sup></sup>_
 ---
 #### [5 Protocols For Event-Driven API Architectures](https://nordicapis.com/5-protocols-for-event-driven-api-architectures/)

@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[authentication]](https://www.bookmarks.dev?q=[authentication])
+
 _<sup><sup>[www.bookmarks.dev/tagged/authentication](https://www.bookmarks.dev/tagged/authentication)</sup></sup>_
 ---
 #### [OAuth 2.0 and OpenID Connect (in plain English) - YouTube](https://www.youtube.com/watch?v=996OiexHze0)

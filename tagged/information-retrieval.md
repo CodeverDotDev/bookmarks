@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[information-retrieval]](https://www.bookmarks.dev?q=[information-retrieval])
+
 _<sup><sup>[www.bookmarks.dev/tagged/information-retrieval](https://www.bookmarks.dev/tagged/information-retrieval)</sup></sup>_
 ---
 #### [Introduction to Information Retrieval](http://nlp.stanford.edu/IR-book/information-retrieval-book.html)

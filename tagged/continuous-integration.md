@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[continuous-integration]](https://www.bookmarks.dev?q=[continuous-integration])
+
 _<sup><sup>[www.bookmarks.dev/tagged/continuous-integration](https://www.bookmarks.dev/tagged/continuous-integration)</sup></sup>_
 ---
 #### [awesome-ciandcd](https://github.com/ciandcd/awesome-ciandcd#readme)

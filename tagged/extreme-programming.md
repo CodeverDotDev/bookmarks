@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[extreme-programming]](https://www.bookmarks.dev?q=[extreme-programming])
+
 _<sup><sup>[www.bookmarks.dev/tagged/extreme-programming](https://www.bookmarks.dev/tagged/extreme-programming)</sup></sup>_
 ---
 #### [Mocks Aren't Stubs](https://martinfowler.com/articles/mocksArentStubs.html)

@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[db2]](https://www.bookmarks.dev?q=[db2])
+
 _<sup><sup>[www.bookmarks.dev/tagged/db2](https://www.bookmarks.dev/tagged/db2)</sup></sup>_
 ---
 #### [Getting started with IBM DB2 development](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Getting_Started_with_DB2_App_Dev_p2.pdf)

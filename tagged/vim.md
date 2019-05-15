@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[vim]](https://www.bookmarks.dev?q=[vim])
+
 _<sup><sup>[www.bookmarks.dev/tagged/vim](https://www.bookmarks.dev/tagged/vim)</sup></sup>_
 ---
 #### [awesome-vim-galore](https://github.com/mhinz/vim-galore#readme)

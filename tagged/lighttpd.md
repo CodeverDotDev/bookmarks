@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[lighttpd]](https://www.bookmarks.dev?q=[lighttpd])
+
 _<sup><sup>[www.bookmarks.dev/tagged/lighttpd](https://www.bookmarks.dev/tagged/lighttpd)</sup></sup>_
 ---
 #### [Cipherli.st - Strong Ciphers for Apache, nginx and Lighttpd](https://cipherli.st/)

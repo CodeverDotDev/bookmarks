@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[maven-plugin]](https://www.bookmarks.dev?q=[maven-plugin])
+
 _<sup><sup>[www.bookmarks.dev/tagged/maven-plugin](https://www.bookmarks.dev/tagged/maven-plugin)</sup></sup>_
 ---
 #### [Google Cloud Platform Blog Introducing Jib — build Java Docker images better](https://cloudplatform.googleblog.com/2018/07/introducing-jib-build-java-docker-images-better.html)

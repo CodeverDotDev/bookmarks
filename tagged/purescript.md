@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[purescript]](https://www.bookmarks.dev?q=[purescript])
+
 _<sup><sup>[www.bookmarks.dev/tagged/purescript](https://www.bookmarks.dev/tagged/purescript)</sup></sup>_
 ---
 #### [awesome-purescript](https://github.com/passy/awesome-purescript#readme)

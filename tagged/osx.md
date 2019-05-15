@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[osx]](https://www.bookmarks.dev?q=[osx])
+
 _<sup><sup>[www.bookmarks.dev/tagged/osx](https://www.bookmarks.dev/tagged/osx)</sup></sup>_
 ---
 #### [Install Bash git completion](https://github.com/bobthecow/git-flow-completion/wiki/Install-Bash-git-completion)

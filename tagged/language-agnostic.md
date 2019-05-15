@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[language-agnostic]](https://www.bookmarks.dev?q=[language-agnostic])
+
 _<sup><sup>[www.bookmarks.dev/tagged/language-agnostic](https://www.bookmarks.dev/tagged/language-agnostic)</sup></sup>_
 ---
 #### [Scrum und XP im harten Projektalltag](http://www.infoq.com/resource/news/2007/06/scrum-xp-book/en/resources/ScrumAndXpFromTheTrenchesonline_German.pdf)

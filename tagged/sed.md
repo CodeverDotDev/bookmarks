@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[sed]](https://www.bookmarks.dev?q=[sed])
+
 _<sup><sup>[www.bookmarks.dev/tagged/sed](https://www.bookmarks.dev/tagged/sed)</sup></sup>_
 ---
 #### [SED 教室](http://www.gcd.org/sengoku/sedlec/)

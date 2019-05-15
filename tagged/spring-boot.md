@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[spring-boot]](https://www.bookmarks.dev?q=[spring-boot])
+
 _<sup><sup>[www.bookmarks.dev/tagged/spring-boot](https://www.bookmarks.dev/tagged/spring-boot)</sup></sup>_
 ---
 #### [Spring REST + Spring Security Example – Mkyong.com](https://www.mkyong.com/spring-boot/spring-rest-spring-security-example/)

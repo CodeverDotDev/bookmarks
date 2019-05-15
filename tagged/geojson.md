@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[geojson]](https://www.bookmarks.dev?q=[geojson])
+
 _<sup><sup>[www.bookmarks.dev/tagged/geojson](https://www.bookmarks.dev/tagged/geojson)</sup></sup>_
 ---
 #### [awesome-geojson](https://github.com/tmcw/awesome-geojson#readme)

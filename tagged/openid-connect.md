@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[openid-connect]](https://www.bookmarks.dev?q=[openid-connect])
+
 _<sup><sup>[www.bookmarks.dev/tagged/openid-connect](https://www.bookmarks.dev/tagged/openid-connect)</sup></sup>_
 ---
 #### [OAuth 2.0 and OpenID Connect (in plain English) - YouTube](https://www.youtube.com/watch?v=996OiexHze0)

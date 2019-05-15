@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[jdbc]](https://www.bookmarks.dev?q=[jdbc])
+
 _<sup><sup>[www.bookmarks.dev/tagged/jdbc](https://www.bookmarks.dev/tagged/jdbc)</sup></sup>_
 ---
 #### [mybatis – MyBatis 3 | Introduction](http://www.mybatis.org/mybatis-3/)

@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[teradata]](https://www.bookmarks.dev?q=[teradata])
+
 _<sup><sup>[www.bookmarks.dev/tagged/teradata](https://www.bookmarks.dev/tagged/teradata)</sup></sup>_
 ---
 #### [Teradata Books](http://www.info.teradata.com)

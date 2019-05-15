@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[sinonjs]](https://www.bookmarks.dev?q=[sinonjs])
+
 _<sup><sup>[www.bookmarks.dev/tagged/sinonjs](https://www.bookmarks.dev/tagged/sinonjs)</sup></sup>_
 ---
 #### [Best Practices for Spies, Stubs and Mocks in Sinon.js - Semaphore](https://semaphoreci.com/community/tutorials/best-practices-for-spies-stubs-and-mocks-in-sinon-js)

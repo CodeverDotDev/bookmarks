@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[cellular-automata]](https://www.bookmarks.dev?q=[cellular-automata])
+
 _<sup><sup>[www.bookmarks.dev/tagged/cellular-automata](https://www.bookmarks.dev/tagged/cellular-automata)</sup></sup>_
 ---
 #### [Cellular Automata Books](http://uncomp.uwe.ac.uk/genaro/Cellular_Automata_Repository/Books.html)

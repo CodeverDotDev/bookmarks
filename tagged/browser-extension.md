@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[browser-extension]](https://www.bookmarks.dev?q=[browser-extension])
+
 _<sup><sup>[www.bookmarks.dev/tagged/browser-extension](https://www.bookmarks.dev/tagged/browser-extension)</sup></sup>_
 ---
 #### [awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github#readme)

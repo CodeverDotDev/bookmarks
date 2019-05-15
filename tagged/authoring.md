@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[authoring]](https://www.bookmarks.dev?q=[authoring])
+
 _<sup><sup>[www.bookmarks.dev/tagged/authoring](https://www.bookmarks.dev/tagged/authoring)</sup></sup>_
 ---
 #### [awesome-book-authoring](https://github.com/TalAter/awesome-book-authoring#readme)

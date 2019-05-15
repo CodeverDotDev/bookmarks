@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[delphi]](https://www.bookmarks.dev?q=[delphi])
+
 _<sup><sup>[www.bookmarks.dev/tagged/delphi](https://www.bookmarks.dev/tagged/delphi)</sup></sup>_
 ---
 #### [awesome-delphi](https://github.com/Fr0sT-Brutal/awesome-delphi#readme)

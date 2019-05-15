@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[pwa]](https://www.bookmarks.dev?q=[pwa])
+
 _<sup><sup>[www.bookmarks.dev/tagged/pwa](https://www.bookmarks.dev/tagged/pwa)</sup></sup>_
 ---
 #### [Service Workers - Practical Guided Introduction (several examples)](https://blog.angular-university.io/service-workers/)

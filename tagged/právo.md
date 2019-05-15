@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[právo]](https://www.bookmarks.dev?q=[právo])
+
 _<sup><sup>[www.bookmarks.dev/tagged/právo](https://www.bookmarks.dev/tagged/právo)</sup></sup>_
 ---
 #### [Zodpovednosť na internete](https://knihy.nic.cz)

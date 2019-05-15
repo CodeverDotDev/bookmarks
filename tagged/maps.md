@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[maps]](https://www.bookmarks.dev?q=[maps])
+
 _<sup><sup>[www.bookmarks.dev/tagged/maps](https://www.bookmarks.dev/tagged/maps)</sup></sup>_
 ---
 #### [Datavisualization.ch Selected Tools](http://selection.datavisualization.ch/)

@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[haskell]](https://www.bookmarks.dev?q=[haskell])
+
 _<sup><sup>[www.bookmarks.dev/tagged/haskell](https://www.bookmarks.dev/tagged/haskell)</sup></sup>_
 ---
 #### [awesome-haskell](https://github.com/krispo/awesome-haskell#readme)

@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[transactions]](https://www.bookmarks.dev?q=[transactions])
+
 _<sup><sup>[www.bookmarks.dev/tagged/transactions](https://www.bookmarks.dev/tagged/transactions)</sup></sup>_
 ---
 #### [Two-phase commit protocol - Wikipedia](https://en.wikipedia.org/wiki/Two-phase_commit_protocol)

@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[event-stream]](https://www.bookmarks.dev?q=[event-stream])
+
 _<sup><sup>[www.bookmarks.dev/tagged/event-stream](https://www.bookmarks.dev/tagged/event-stream)</sup></sup>_
 ---
 #### [ETL Is Dead, Long Live Streams: real-time streams w/ Apache Kafka - YouTube](https://www.youtube.com/watch?v=I32hmY4diFY)

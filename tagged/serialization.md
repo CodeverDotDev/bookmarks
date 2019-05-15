@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[serialization]](https://www.bookmarks.dev?q=[serialization])
+
 _<sup><sup>[www.bookmarks.dev/tagged/serialization](https://www.bookmarks.dev/tagged/serialization)</sup></sup>_
 ---
 #### [How To Serialize Enums as JSON Objects with Jackson](https://www.baeldung.com/jackson-serialize-enums)

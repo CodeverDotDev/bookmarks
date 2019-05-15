@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[big-data]](https://www.bookmarks.dev?q=[big-data])
+
 _<sup><sup>[www.bookmarks.dev/tagged/big-data](https://www.bookmarks.dev/tagged/big-data)</sup></sup>_
 ---
 #### [The Essential Guide to Machine Data](https://www.splunk.com/pdfs/ebooks/the-essential-guide-to-machine-data.pdf)

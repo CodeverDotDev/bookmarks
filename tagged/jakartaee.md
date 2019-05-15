@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[jakartaee]](https://www.bookmarks.dev?q=[jakartaee])
+
 _<sup><sup>[www.bookmarks.dev/tagged/jakartaee](https://www.bookmarks.dev/tagged/jakartaee)</sup></sup>_
 ---
 #### [Jakarta EE Software  Homeage](https://jakarta.ee/)

@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[standard-ml]](https://www.bookmarks.dev?q=[standard-ml])
+
 _<sup><sup>[www.bookmarks.dev/tagged/standard-ml](https://www.bookmarks.dev/tagged/standard-ml)</sup></sup>_
 ---
 #### [プログラミング言語Standard ML入門](http://www.pllab.riec.tohoku.ac.jp/smlsharp/smlIntroSlidesJP.pdf)

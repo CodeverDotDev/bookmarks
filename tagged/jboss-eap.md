@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[jboss-eap]](https://www.bookmarks.dev?q=[jboss-eap])
+
 _<sup><sup>[www.bookmarks.dev/tagged/jboss-eap](https://www.bookmarks.dev/tagged/jboss-eap)</sup></sup>_
 ---
 #### [How to test JBoss EAP 7 with Arquillian – SOA rocks!](http://serviceorientedarchitect.com/how-to-test-jboss-eap-7-with-arquillian/)

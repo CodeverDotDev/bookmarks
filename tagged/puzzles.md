@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[puzzles]](https://www.bookmarks.dev?q=[puzzles])
+
 _<sup><sup>[www.bookmarks.dev/tagged/puzzles](https://www.bookmarks.dev/tagged/puzzles)</sup></sup>_
 ---
 #### [Project Euler](https://projecteuler.net/)

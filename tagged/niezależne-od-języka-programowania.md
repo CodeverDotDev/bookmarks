@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[niezależne-od-języka-programowania]](https://www.bookmarks.dev?q=[niezależne-od-języka-programowania])
+
 _<sup><sup>[www.bookmarks.dev/tagged/niezależne-od-języka-programowania](https://www.bookmarks.dev/tagged/niezależne-od-języka-programowania)</sup></sup>_
 ---
 #### [W obronie wolności](http://stallman.helion.pl)

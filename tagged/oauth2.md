@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[oauth2]](https://www.bookmarks.dev?q=[oauth2])
+
 _<sup><sup>[www.bookmarks.dev/tagged/oauth2](https://www.bookmarks.dev/tagged/oauth2)</sup></sup>_
 ---
 #### [Securing OAuth 2.0 Resources in Spring Security 5.1 - YouTube](https://www.youtube.com/watch?v=1N-xwmoN83w)

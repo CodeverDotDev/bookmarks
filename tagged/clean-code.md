@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[clean-code]](https://www.bookmarks.dev?q=[clean-code])
+
 _<sup><sup>[www.bookmarks.dev/tagged/clean-code](https://www.bookmarks.dev/tagged/clean-code)</sup></sup>_
 ---
 #### [Why I Changed My Mind About Field Injection?](https://www.petrikainulainen.net/software-development/design/why-i-changed-my-mind-about-field-injection/)

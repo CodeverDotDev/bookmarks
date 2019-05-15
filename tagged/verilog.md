@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[verilog]](https://www.bookmarks.dev?q=[verilog])
+
 _<sup><sup>[www.bookmarks.dev/tagged/verilog](https://www.bookmarks.dev/tagged/verilog)</sup></sup>_
 ---
 #### [Verilog Tutorial](http://www.asic-world.com/verilog/veritut.html)

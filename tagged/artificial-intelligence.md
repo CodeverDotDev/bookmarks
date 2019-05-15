@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[artificial-intelligence]](https://www.bookmarks.dev?q=[artificial-intelligence])
+
 _<sup><sup>[www.bookmarks.dev/tagged/artificial-intelligence](https://www.bookmarks.dev/tagged/artificial-intelligence)</sup></sup>_
 ---
 #### [awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence#readme)

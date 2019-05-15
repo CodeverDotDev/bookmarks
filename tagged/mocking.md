@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[mocking]](https://www.bookmarks.dev?q=[mocking])
+
 _<sup><sup>[www.bookmarks.dev/tagged/mocking](https://www.bookmarks.dev/tagged/mocking)</sup></sup>_
 ---
 #### [Mockito: Why You Should Not Use InjectMocks Annotation to Autowire Fields – Ted Vinke's Blog](https://tedvinke.wordpress.com/2014/02/13/mockito-why-you-should-not-use-injectmocks-annotation-to-autowire-fields/)

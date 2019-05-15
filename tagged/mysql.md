@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[mysql]](https://www.bookmarks.dev?q=[mysql])
+
 _<sup><sup>[www.bookmarks.dev/tagged/mysql](https://www.bookmarks.dev/tagged/mysql)</sup></sup>_
 ---
 #### [awesome-textpattern](https://github.com/drmonkeyninja/awesome-textpattern#readme)

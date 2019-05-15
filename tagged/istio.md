@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[istio]](https://www.bookmarks.dev?q=[istio])
+
 _<sup><sup>[www.bookmarks.dev/tagged/istio](https://www.bookmarks.dev/tagged/istio)</sup></sup>_
 ---
 #### [Increasing Security with a Service Mesh - Christian Posta Explores the Capabilities of Istio](https://www.infoq.com/articles/istio-security-mtls-jwt)

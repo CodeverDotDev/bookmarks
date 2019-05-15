@@ -1,4 +1,5 @@
 ##Bookmarks tagged [[hibernate]](https://www.bookmarks.dev?q=[hibernate])
+
 _<sup><sup>[www.bookmarks.dev/tagged/hibernate](https://www.bookmarks.dev/tagged/hibernate)</sup></sup>_
 ---
 #### [Hibernate Logging Guide - Use the right config for dev and prod](https://thoughts-on-java.org/hibernate-logging-guide/)
