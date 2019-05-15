@@ -1,4 +1,4 @@
-##Bookmarks tagged [[application-architecture]](https://www.bookmarks.dev?q=[application-architecture])
+## Bookmarks tagged [[application-architecture]](https://www.bookmarks.dev?q=[application-architecture])
 
 _<sup><sup>[www.bookmarks.dev/tagged/application-architecture](https://www.bookmarks.dev/tagged/application-architecture)</sup></sup>_
 ---

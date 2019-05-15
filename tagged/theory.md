@@ -1,4 +1,4 @@
-##Bookmarks tagged [[theory]](https://www.bookmarks.dev?q=[theory])
+## Bookmarks tagged [[theory]](https://www.bookmarks.dev?q=[theory])
 
 _<sup><sup>[www.bookmarks.dev/tagged/theory](https://www.bookmarks.dev/tagged/theory)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-##Bookmarks tagged [[work-life-balance]](https://www.bookmarks.dev?q=[work-life-balance])
+## Bookmarks tagged [[work-life-balance]](https://www.bookmarks.dev?q=[work-life-balance])
 
 _<sup><sup>[www.bookmarks.dev/tagged/work-life-balance](https://www.bookmarks.dev/tagged/work-life-balance)</sup></sup>_
 ---

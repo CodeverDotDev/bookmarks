@@ -1,4 +1,4 @@
-##Bookmarks tagged [[icon]](https://www.bookmarks.dev?q=[icon])
+## Bookmarks tagged [[icon]](https://www.bookmarks.dev?q=[icon])
 
 _<sup><sup>[www.bookmarks.dev/tagged/icon](https://www.bookmarks.dev/tagged/icon)</sup></sup>_
 ---

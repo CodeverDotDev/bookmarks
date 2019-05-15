@@ -1,4 +1,4 @@
-##Bookmarks tagged [[service-worker]](https://www.bookmarks.dev?q=[service-worker])
+## Bookmarks tagged [[service-worker]](https://www.bookmarks.dev?q=[service-worker])
 
 _<sup><sup>[www.bookmarks.dev/tagged/service-worker](https://www.bookmarks.dev/tagged/service-worker)</sup></sup>_
 ---

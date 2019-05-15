@@ -1,4 +1,4 @@
-##Bookmarks tagged [[code-snippets]](https://www.bookmarks.dev?q=[code-snippets])
+## Bookmarks tagged [[code-snippets]](https://www.bookmarks.dev?q=[code-snippets])
 
 _<sup><sup>[www.bookmarks.dev/tagged/code-snippets](https://www.bookmarks.dev/tagged/code-snippets)</sup></sup>_
 ---

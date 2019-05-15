@@ -1,4 +1,4 @@
-##Bookmarks tagged [[functional-programming]](https://www.bookmarks.dev?q=[functional-programming])
+## Bookmarks tagged [[functional-programming]](https://www.bookmarks.dev?q=[functional-programming])
 
 _<sup><sup>[www.bookmarks.dev/tagged/functional-programming](https://www.bookmarks.dev/tagged/functional-programming)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-##Bookmarks tagged [[zsh]](https://www.bookmarks.dev?q=[zsh])
+## Bookmarks tagged [[zsh]](https://www.bookmarks.dev?q=[zsh])
 
 _<sup><sup>[www.bookmarks.dev/tagged/zsh](https://www.bookmarks.dev/tagged/zsh)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-##Bookmarks tagged [[osx]](https://www.bookmarks.dev?q=[osx])
+## Bookmarks tagged [[osx]](https://www.bookmarks.dev?q=[osx])
 
 _<sup><sup>[www.bookmarks.dev/tagged/osx](https://www.bookmarks.dev/tagged/osx)</sup></sup>_
 ---

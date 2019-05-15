@@ -1,4 +1,4 @@
-##Bookmarks tagged [[blog]](https://www.bookmarks.dev?q=[blog])
+## Bookmarks tagged [[blog]](https://www.bookmarks.dev?q=[blog])
 
 _<sup><sup>[www.bookmarks.dev/tagged/blog](https://www.bookmarks.dev/tagged/blog)</sup></sup>_
 ---

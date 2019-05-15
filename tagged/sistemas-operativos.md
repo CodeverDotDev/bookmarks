@@ -1,4 +1,4 @@
-##Bookmarks tagged [[sistemas-operativos]](https://www.bookmarks.dev?q=[sistemas-operativos])
+## Bookmarks tagged [[sistemas-operativos]](https://www.bookmarks.dev?q=[sistemas-operativos])
 
 _<sup><sup>[www.bookmarks.dev/tagged/sistemas-operativos](https://www.bookmarks.dev/tagged/sistemas-operativos)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-##Bookmarks tagged [[domain-driven-design]](https://www.bookmarks.dev?q=[domain-driven-design])
+## Bookmarks tagged [[domain-driven-design]](https://www.bookmarks.dev?q=[domain-driven-design])
 
 _<sup><sup>[www.bookmarks.dev/tagged/domain-driven-design](https://www.bookmarks.dev/tagged/domain-driven-design)</sup></sup>_
 ---

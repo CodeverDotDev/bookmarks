@@ -1,4 +1,4 @@
-##Bookmarks tagged [[glossary]](https://www.bookmarks.dev?q=[glossary])
+## Bookmarks tagged [[glossary]](https://www.bookmarks.dev?q=[glossary])
 
 _<sup><sup>[www.bookmarks.dev/tagged/glossary](https://www.bookmarks.dev/tagged/glossary)</sup></sup>_
 ---

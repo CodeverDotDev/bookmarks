@@ -1,4 +1,4 @@
-##Bookmarks tagged [[manpage]](https://www.bookmarks.dev?q=[manpage])
+## Bookmarks tagged [[manpage]](https://www.bookmarks.dev?q=[manpage])
 
 _<sup><sup>[www.bookmarks.dev/tagged/manpage](https://www.bookmarks.dev/tagged/manpage)</sup></sup>_
 ---

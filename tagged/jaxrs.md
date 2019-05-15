@@ -1,4 +1,4 @@
-##Bookmarks tagged [[jaxrs]](https://www.bookmarks.dev?q=[jaxrs])
+## Bookmarks tagged [[jaxrs]](https://www.bookmarks.dev?q=[jaxrs])
 
 _<sup><sup>[www.bookmarks.dev/tagged/jaxrs](https://www.bookmarks.dev/tagged/jaxrs)</sup></sup>_
 ---

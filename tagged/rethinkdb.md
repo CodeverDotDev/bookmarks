@@ -1,4 +1,4 @@
-##Bookmarks tagged [[rethinkdb]](https://www.bookmarks.dev?q=[rethinkdb])
+## Bookmarks tagged [[rethinkdb]](https://www.bookmarks.dev?q=[rethinkdb])
 
 _<sup><sup>[www.bookmarks.dev/tagged/rethinkdb](https://www.bookmarks.dev/tagged/rethinkdb)</sup></sup>_
 ---

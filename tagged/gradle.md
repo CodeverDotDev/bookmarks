@@ -1,4 +1,4 @@
-##Bookmarks tagged [[gradle]](https://www.bookmarks.dev?q=[gradle])
+## Bookmarks tagged [[gradle]](https://www.bookmarks.dev?q=[gradle])
 
 _<sup><sup>[www.bookmarks.dev/tagged/gradle](https://www.bookmarks.dev/tagged/gradle)</sup></sup>_
 ---

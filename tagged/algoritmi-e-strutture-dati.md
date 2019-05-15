@@ -1,4 +1,4 @@
-##Bookmarks tagged [[algoritmi-e-strutture-dati]](https://www.bookmarks.dev?q=[algoritmi-e-strutture-dati])
+## Bookmarks tagged [[algoritmi-e-strutture-dati]](https://www.bookmarks.dev?q=[algoritmi-e-strutture-dati])
 
 _<sup><sup>[www.bookmarks.dev/tagged/algoritmi-e-strutture-dati](https://www.bookmarks.dev/tagged/algoritmi-e-strutture-dati)</sup></sup>_
 ---

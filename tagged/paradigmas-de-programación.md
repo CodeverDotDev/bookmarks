@@ -1,4 +1,4 @@
-##Bookmarks tagged [[paradigmas-de-programación]](https://www.bookmarks.dev?q=[paradigmas-de-programación])
+## Bookmarks tagged [[paradigmas-de-programación]](https://www.bookmarks.dev?q=[paradigmas-de-programación])
 
 _<sup><sup>[www.bookmarks.dev/tagged/paradigmas-de-programación](https://www.bookmarks.dev/tagged/paradigmas-de-programación)</sup></sup>_
 ---

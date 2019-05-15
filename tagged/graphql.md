@@ -1,4 +1,4 @@
-##Bookmarks tagged [[graphql]](https://www.bookmarks.dev?q=[graphql])
+## Bookmarks tagged [[graphql]](https://www.bookmarks.dev?q=[graphql])
 
 _<sup><sup>[www.bookmarks.dev/tagged/graphql](https://www.bookmarks.dev/tagged/graphql)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-##Bookmarks tagged [[ldap]](https://www.bookmarks.dev?q=[ldap])
+## Bookmarks tagged [[ldap]](https://www.bookmarks.dev?q=[ldap])
 
 _<sup><sup>[www.bookmarks.dev/tagged/ldap](https://www.bookmarks.dev/tagged/ldap)</sup></sup>_
 ---

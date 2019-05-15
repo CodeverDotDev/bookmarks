@@ -1,4 +1,4 @@
-##Bookmarks tagged [[ecmascript-6]](https://www.bookmarks.dev?q=[ecmascript-6])
+## Bookmarks tagged [[ecmascript-6]](https://www.bookmarks.dev?q=[ecmascript-6])
 
 _<sup><sup>[www.bookmarks.dev/tagged/ecmascript-6](https://www.bookmarks.dev/tagged/ecmascript-6)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-##Bookmarks tagged [[seo]](https://www.bookmarks.dev?q=[seo])
+## Bookmarks tagged [[seo]](https://www.bookmarks.dev?q=[seo])
 
 _<sup><sup>[www.bookmarks.dev/tagged/seo](https://www.bookmarks.dev/tagged/seo)</sup></sup>_
 ---

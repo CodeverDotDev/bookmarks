@@ -1,4 +1,4 @@
-##Bookmarks tagged [[cryptography]](https://www.bookmarks.dev?q=[cryptography])
+## Bookmarks tagged [[cryptography]](https://www.bookmarks.dev?q=[cryptography])
 
 _<sup><sup>[www.bookmarks.dev/tagged/cryptography](https://www.bookmarks.dev/tagged/cryptography)</sup></sup>_
 ---

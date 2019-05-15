@@ -1,4 +1,4 @@
-##Bookmarks tagged [[hyper]](https://www.bookmarks.dev?q=[hyper])
+## Bookmarks tagged [[hyper]](https://www.bookmarks.dev?q=[hyper])
 
 _<sup><sup>[www.bookmarks.dev/tagged/hyper](https://www.bookmarks.dev/tagged/hyper)</sup></sup>_
 ---

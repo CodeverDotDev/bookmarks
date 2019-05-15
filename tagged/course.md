@@ -1,4 +1,4 @@
-##Bookmarks tagged [[course]](https://www.bookmarks.dev?q=[course])
+## Bookmarks tagged [[course]](https://www.bookmarks.dev?q=[course])
 
 _<sup><sup>[www.bookmarks.dev/tagged/course](https://www.bookmarks.dev/tagged/course)</sup></sup>_
 ---

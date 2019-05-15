@@ -1,4 +1,4 @@
-##Bookmarks tagged [[publish-subscribe]](https://www.bookmarks.dev?q=[publish-subscribe])
+## Bookmarks tagged [[publish-subscribe]](https://www.bookmarks.dev?q=[publish-subscribe])
 
 _<sup><sup>[www.bookmarks.dev/tagged/publish-subscribe](https://www.bookmarks.dev/tagged/publish-subscribe)</sup></sup>_
 ---

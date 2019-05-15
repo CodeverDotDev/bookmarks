@@ -1,4 +1,4 @@
-##Bookmarks tagged [[algoritmy-a-datové-struktury]](https://www.bookmarks.dev?q=[algoritmy-a-datové-struktury])
+## Bookmarks tagged [[algoritmy-a-datové-struktury]](https://www.bookmarks.dev?q=[algoritmy-a-datové-struktury])
 
 _<sup><sup>[www.bookmarks.dev/tagged/algoritmy-a-datové-struktury](https://www.bookmarks.dev/tagged/algoritmy-a-datové-struktury)</sup></sup>_
 ---

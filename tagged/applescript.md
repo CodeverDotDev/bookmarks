@@ -1,4 +1,4 @@
-##Bookmarks tagged [[applescript]](https://www.bookmarks.dev?q=[applescript])
+## Bookmarks tagged [[applescript]](https://www.bookmarks.dev?q=[applescript])
 
 _<sup><sup>[www.bookmarks.dev/tagged/applescript](https://www.bookmarks.dev/tagged/applescript)</sup></sup>_
 ---

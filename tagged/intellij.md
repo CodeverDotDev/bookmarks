@@ -1,4 +1,4 @@
-##Bookmarks tagged [[intellij]](https://www.bookmarks.dev?q=[intellij])
+## Bookmarks tagged [[intellij]](https://www.bookmarks.dev?q=[intellij])
 
 _<sup><sup>[www.bookmarks.dev/tagged/intellij](https://www.bookmarks.dev/tagged/intellij)</sup></sup>_
 ---

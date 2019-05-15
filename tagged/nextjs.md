@@ -1,4 +1,4 @@
-##Bookmarks tagged [[nextjs]](https://www.bookmarks.dev?q=[nextjs])
+## Bookmarks tagged [[nextjs]](https://www.bookmarks.dev?q=[nextjs])
 
 _<sup><sup>[www.bookmarks.dev/tagged/nextjs](https://www.bookmarks.dev/tagged/nextjs)</sup></sup>_
 ---

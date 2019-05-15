@@ -1,4 +1,4 @@
-##Bookmarks tagged [[rest]](https://www.bookmarks.dev?q=[rest])
+## Bookmarks tagged [[rest]](https://www.bookmarks.dev?q=[rest])
 
 _<sup><sup>[www.bookmarks.dev/tagged/rest](https://www.bookmarks.dev/tagged/rest)</sup></sup>_
 ---

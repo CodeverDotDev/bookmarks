@@ -1,4 +1,4 @@
-##Bookmarks tagged [[algorithmique]](https://www.bookmarks.dev?q=[algorithmique])
+## Bookmarks tagged [[algorithmique]](https://www.bookmarks.dev?q=[algorithmique])
 
 _<sup><sup>[www.bookmarks.dev/tagged/algorithmique](https://www.bookmarks.dev/tagged/algorithmique)</sup></sup>_
 ---

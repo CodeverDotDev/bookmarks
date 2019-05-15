@@ -1,4 +1,4 @@
-##Bookmarks tagged [[gif]](https://www.bookmarks.dev?q=[gif])
+## Bookmarks tagged [[gif]](https://www.bookmarks.dev?q=[gif])
 
 _<sup><sup>[www.bookmarks.dev/tagged/gif](https://www.bookmarks.dev/tagged/gif)</sup></sup>_
 ---

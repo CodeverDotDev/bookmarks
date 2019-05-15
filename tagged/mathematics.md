@@ -1,4 +1,4 @@
-##Bookmarks tagged [[mathematics]](https://www.bookmarks.dev?q=[mathematics])
+## Bookmarks tagged [[mathematics]](https://www.bookmarks.dev?q=[mathematics])
 
 _<sup><sup>[www.bookmarks.dev/tagged/mathematics](https://www.bookmarks.dev/tagged/mathematics)</sup></sup>_
 ---

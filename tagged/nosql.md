@@ -1,4 +1,4 @@
-##Bookmarks tagged [[nosql]](https://www.bookmarks.dev?q=[nosql])
+## Bookmarks tagged [[nosql]](https://www.bookmarks.dev?q=[nosql])
 
 _<sup><sup>[www.bookmarks.dev/tagged/nosql](https://www.bookmarks.dev/tagged/nosql)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-##Bookmarks tagged [[encryption]](https://www.bookmarks.dev?q=[encryption])
+## Bookmarks tagged [[encryption]](https://www.bookmarks.dev?q=[encryption])
 
 _<sup><sup>[www.bookmarks.dev/tagged/encryption](https://www.bookmarks.dev/tagged/encryption)</sup></sup>_
 ---

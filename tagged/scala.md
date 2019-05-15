@@ -1,4 +1,4 @@
-##Bookmarks tagged [[scala]](https://www.bookmarks.dev?q=[scala])
+## Bookmarks tagged [[scala]](https://www.bookmarks.dev?q=[scala])
 
 _<sup><sup>[www.bookmarks.dev/tagged/scala](https://www.bookmarks.dev/tagged/scala)</sup></sup>_
 ---

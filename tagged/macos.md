@@ -1,4 +1,4 @@
-##Bookmarks tagged [[macos]](https://www.bookmarks.dev?q=[macos])
+## Bookmarks tagged [[macos]](https://www.bookmarks.dev?q=[macos])
 
 _<sup><sup>[www.bookmarks.dev/tagged/macos](https://www.bookmarks.dev/tagged/macos)</sup></sup>_
 ---

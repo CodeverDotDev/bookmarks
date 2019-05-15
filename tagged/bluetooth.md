@@ -1,4 +1,4 @@
-##Bookmarks tagged [[bluetooth]](https://www.bookmarks.dev?q=[bluetooth])
+## Bookmarks tagged [[bluetooth]](https://www.bookmarks.dev?q=[bluetooth])
 
 _<sup><sup>[www.bookmarks.dev/tagged/bluetooth](https://www.bookmarks.dev/tagged/bluetooth)</sup></sup>_
 ---

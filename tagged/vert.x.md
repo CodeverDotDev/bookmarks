@@ -1,4 +1,4 @@
-##Bookmarks tagged [[vert.x]](https://www.bookmarks.dev?q=[vert.x])
+## Bookmarks tagged [[vert.x]](https://www.bookmarks.dev?q=[vert.x])
 
 _<sup><sup>[www.bookmarks.dev/tagged/vert.x](https://www.bookmarks.dev/tagged/vert.x)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-##Bookmarks tagged [[fuse]](https://www.bookmarks.dev?q=[fuse])
+## Bookmarks tagged [[fuse]](https://www.bookmarks.dev?q=[fuse])
 
 _<sup><sup>[www.bookmarks.dev/tagged/fuse](https://www.bookmarks.dev/tagged/fuse)</sup></sup>_
 ---

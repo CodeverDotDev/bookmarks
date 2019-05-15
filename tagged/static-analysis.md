@@ -1,4 +1,4 @@
-##Bookmarks tagged [[static-analysis]](https://www.bookmarks.dev?q=[static-analysis])
+## Bookmarks tagged [[static-analysis]](https://www.bookmarks.dev?q=[static-analysis])
 
 _<sup><sup>[www.bookmarks.dev/tagged/static-analysis](https://www.bookmarks.dev/tagged/static-analysis)</sup></sup>_
 ---

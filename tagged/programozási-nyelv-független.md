@@ -1,4 +1,4 @@
-##Bookmarks tagged [[programozási-nyelv-független]](https://www.bookmarks.dev?q=[programozási-nyelv-független])
+## Bookmarks tagged [[programozási-nyelv-független]](https://www.bookmarks.dev?q=[programozási-nyelv-független])
 
 _<sup><sup>[www.bookmarks.dev/tagged/programozási-nyelv-független](https://www.bookmarks.dev/tagged/programozási-nyelv-független)</sup></sup>_
 ---

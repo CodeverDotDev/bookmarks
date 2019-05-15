@@ -1,4 +1,4 @@
-##Bookmarks tagged [[lodash]](https://www.bookmarks.dev?q=[lodash])
+## Bookmarks tagged [[lodash]](https://www.bookmarks.dev?q=[lodash])
 
 _<sup><sup>[www.bookmarks.dev/tagged/lodash](https://www.bookmarks.dev/tagged/lodash)</sup></sup>_
 ---

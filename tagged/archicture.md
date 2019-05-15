@@ -1,4 +1,4 @@
-##Bookmarks tagged [[archicture]](https://www.bookmarks.dev?q=[archicture])
+## Bookmarks tagged [[archicture]](https://www.bookmarks.dev?q=[archicture])
 
 _<sup><sup>[www.bookmarks.dev/tagged/archicture](https://www.bookmarks.dev/tagged/archicture)</sup></sup>_
 ---

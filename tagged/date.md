@@ -1,4 +1,4 @@
-##Bookmarks tagged [[date]](https://www.bookmarks.dev?q=[date])
+## Bookmarks tagged [[date]](https://www.bookmarks.dev?q=[date])
 
 _<sup><sup>[www.bookmarks.dev/tagged/date](https://www.bookmarks.dev/tagged/date)</sup></sup>_
 ---

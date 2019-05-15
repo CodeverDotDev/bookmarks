@@ -1,4 +1,4 @@
-##Bookmarks tagged [[typescript]](https://www.bookmarks.dev?q=[typescript])
+## Bookmarks tagged [[typescript]](https://www.bookmarks.dev?q=[typescript])
 
 _<sup><sup>[www.bookmarks.dev/tagged/typescript](https://www.bookmarks.dev/tagged/typescript)</sup></sup>_
 ---

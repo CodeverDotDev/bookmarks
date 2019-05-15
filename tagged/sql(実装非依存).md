@@ -1,4 +1,4 @@
-##Bookmarks tagged [[sql(実装非依存)]](https://www.bookmarks.dev?q=[sql(実装非依存)])
+## Bookmarks tagged [[sql(実装非依存)]](https://www.bookmarks.dev?q=[sql(実装非依存)])
 
 _<sup><sup>[www.bookmarks.dev/tagged/sql(実装非依存)](https://www.bookmarks.dev/tagged/sql(実装非依存))</sup></sup>_
 ---

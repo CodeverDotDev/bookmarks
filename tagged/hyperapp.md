@@ -1,4 +1,4 @@
-##Bookmarks tagged [[hyperapp]](https://www.bookmarks.dev?q=[hyperapp])
+## Bookmarks tagged [[hyperapp]](https://www.bookmarks.dev?q=[hyperapp])
 
 _<sup><sup>[www.bookmarks.dev/tagged/hyperapp](https://www.bookmarks.dev/tagged/hyperapp)</sup></sup>_
 ---

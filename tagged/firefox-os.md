@@ -1,4 +1,4 @@
-##Bookmarks tagged [[firefox-os]](https://www.bookmarks.dev?q=[firefox-os])
+## Bookmarks tagged [[firefox-os]](https://www.bookmarks.dev?q=[firefox-os])
 
 _<sup><sup>[www.bookmarks.dev/tagged/firefox-os](https://www.bookmarks.dev/tagged/firefox-os)</sup></sup>_
 ---

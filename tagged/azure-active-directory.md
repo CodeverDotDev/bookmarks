@@ -1,4 +1,4 @@
-##Bookmarks tagged [[azure-active-directory]](https://www.bookmarks.dev?q=[azure-active-directory])
+## Bookmarks tagged [[azure-active-directory]](https://www.bookmarks.dev?q=[azure-active-directory])
 
 _<sup><sup>[www.bookmarks.dev/tagged/azure-active-directory](https://www.bookmarks.dev/tagged/azure-active-directory)</sup></sup>_
 ---

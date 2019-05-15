@@ -1,4 +1,4 @@
-##Bookmarks tagged [[beacon]](https://www.bookmarks.dev?q=[beacon])
+## Bookmarks tagged [[beacon]](https://www.bookmarks.dev?q=[beacon])
 
 _<sup><sup>[www.bookmarks.dev/tagged/beacon](https://www.bookmarks.dev/tagged/beacon)</sup></sup>_
 ---

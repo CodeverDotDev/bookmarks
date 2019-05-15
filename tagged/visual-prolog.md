@@ -1,4 +1,4 @@
-##Bookmarks tagged [[visual-prolog]](https://www.bookmarks.dev?q=[visual-prolog])
+## Bookmarks tagged [[visual-prolog]](https://www.bookmarks.dev?q=[visual-prolog])
 
 _<sup><sup>[www.bookmarks.dev/tagged/visual-prolog](https://www.bookmarks.dev/tagged/visual-prolog)</sup></sup>_
 ---

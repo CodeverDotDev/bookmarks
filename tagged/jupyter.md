@@ -1,4 +1,4 @@
-##Bookmarks tagged [[jupyter]](https://www.bookmarks.dev?q=[jupyter])
+## Bookmarks tagged [[jupyter]](https://www.bookmarks.dev?q=[jupyter])
 
 _<sup><sup>[www.bookmarks.dev/tagged/jupyter](https://www.bookmarks.dev/tagged/jupyter)</sup></sup>_
 ---

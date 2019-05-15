@@ -1,4 +1,4 @@
-##Bookmarks tagged [[delphi]](https://www.bookmarks.dev?q=[delphi])
+## Bookmarks tagged [[delphi]](https://www.bookmarks.dev?q=[delphi])
 
 _<sup><sup>[www.bookmarks.dev/tagged/delphi](https://www.bookmarks.dev/tagged/delphi)</sup></sup>_
 ---

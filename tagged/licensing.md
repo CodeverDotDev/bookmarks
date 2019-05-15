@@ -1,4 +1,4 @@
-##Bookmarks tagged [[licensing]](https://www.bookmarks.dev?q=[licensing])
+## Bookmarks tagged [[licensing]](https://www.bookmarks.dev?q=[licensing])
 
 _<sup><sup>[www.bookmarks.dev/tagged/licensing](https://www.bookmarks.dev/tagged/licensing)</sup></sup>_
 ---

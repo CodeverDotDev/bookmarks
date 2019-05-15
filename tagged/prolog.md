@@ -1,4 +1,4 @@
-##Bookmarks tagged [[prolog]](https://www.bookmarks.dev?q=[prolog])
+## Bookmarks tagged [[prolog]](https://www.bookmarks.dev?q=[prolog])
 
 _<sup><sup>[www.bookmarks.dev/tagged/prolog](https://www.bookmarks.dev/tagged/prolog)</sup></sup>_
 ---

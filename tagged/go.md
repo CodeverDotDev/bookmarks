@@ -1,4 +1,4 @@
-##Bookmarks tagged [[go]](https://www.bookmarks.dev?q=[go])
+## Bookmarks tagged [[go]](https://www.bookmarks.dev?q=[go])
 
 _<sup><sup>[www.bookmarks.dev/tagged/go](https://www.bookmarks.dev/tagged/go)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-##Bookmarks tagged [[mastodon]](https://www.bookmarks.dev?q=[mastodon])
+## Bookmarks tagged [[mastodon]](https://www.bookmarks.dev?q=[mastodon])
 
 _<sup><sup>[www.bookmarks.dev/tagged/mastodon](https://www.bookmarks.dev/tagged/mastodon)</sup></sup>_
 ---

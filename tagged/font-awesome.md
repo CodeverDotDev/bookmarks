@@ -1,4 +1,4 @@
-##Bookmarks tagged [[font-awesome]](https://www.bookmarks.dev?q=[font-awesome])
+## Bookmarks tagged [[font-awesome]](https://www.bookmarks.dev?q=[font-awesome])
 
 _<sup><sup>[www.bookmarks.dev/tagged/font-awesome](https://www.bookmarks.dev/tagged/font-awesome)</sup></sup>_
 ---

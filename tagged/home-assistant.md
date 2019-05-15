@@ -1,4 +1,4 @@
-##Bookmarks tagged [[home-assistant]](https://www.bookmarks.dev?q=[home-assistant])
+## Bookmarks tagged [[home-assistant]](https://www.bookmarks.dev?q=[home-assistant])
 
 _<sup><sup>[www.bookmarks.dev/tagged/home-assistant](https://www.bookmarks.dev/tagged/home-assistant)</sup></sup>_
 ---

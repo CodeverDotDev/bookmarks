@@ -1,4 +1,4 @@
-##Bookmarks tagged [[visual-studio-code]](https://www.bookmarks.dev?q=[visual-studio-code])
+## Bookmarks tagged [[visual-studio-code]](https://www.bookmarks.dev?q=[visual-studio-code])
 
 _<sup><sup>[www.bookmarks.dev/tagged/visual-studio-code](https://www.bookmarks.dev/tagged/visual-studio-code)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-##Bookmarks tagged [[cqrs]](https://www.bookmarks.dev?q=[cqrs])
+## Bookmarks tagged [[cqrs]](https://www.bookmarks.dev?q=[cqrs])
 
 _<sup><sup>[www.bookmarks.dev/tagged/cqrs](https://www.bookmarks.dev/tagged/cqrs)</sup></sup>_
 ---

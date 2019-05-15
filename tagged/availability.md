@@ -1,4 +1,4 @@
-##Bookmarks tagged [[availability]](https://www.bookmarks.dev?q=[availability])
+## Bookmarks tagged [[availability]](https://www.bookmarks.dev?q=[availability])
 
 _<sup><sup>[www.bookmarks.dev/tagged/availability](https://www.bookmarks.dev/tagged/availability)</sup></sup>_
 ---

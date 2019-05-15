@@ -1,4 +1,4 @@
-##Bookmarks tagged [[education]](https://www.bookmarks.dev?q=[education])
+## Bookmarks tagged [[education]](https://www.bookmarks.dev?q=[education])
 
 _<sup><sup>[www.bookmarks.dev/tagged/education](https://www.bookmarks.dev/tagged/education)</sup></sup>_
 ---

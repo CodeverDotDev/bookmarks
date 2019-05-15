@@ -1,4 +1,4 @@
-##Bookmarks tagged [[openresty]](https://www.bookmarks.dev?q=[openresty])
+## Bookmarks tagged [[openresty]](https://www.bookmarks.dev?q=[openresty])
 
 _<sup><sup>[www.bookmarks.dev/tagged/openresty](https://www.bookmarks.dev/tagged/openresty)</sup></sup>_
 ---
