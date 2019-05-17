@@ -2,6 +2,69 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/logging](https://www.bookmarks.dev/tagged/logging)</sup></sup>_
 ---
+#### [Apache Log4j 2](https://logging.apache.org/log4j)
+_<sup>https://logging.apache.org/log4j</sup>_
+
+Complete rewrite with a powerful plugin and configuration architecture.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [logging](../tagged/logging.md)
+---
+#### [Graylog](https://www.graylog.org)
+_<sup>https://www.graylog.org</sup>_
+
+Open-source aggregator suited for extended role and permission management.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [logging](../tagged/logging.md)
+---
+#### [Kibana](https://www.elastic.co/products/kibana)
+_<sup>https://www.elastic.co/products/kibana</sup>_
+
+Analyzes and visualizes log files. Some features require payment.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [logging](../tagged/logging.md)
+---
+#### [Logback](https://logback.qos.ch)
+_<sup>https://logback.qos.ch</sup>_
+
+Robust logging library with interesting configuration options via Groovy.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [logging](../tagged/logging.md)
+---
+#### [Logbook](https://github.com/zalando/logbook)
+_<sup>https://github.com/zalando/logbook</sup>_
+
+Extensible, open-source library for HTTP request and response logging.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [logging](../tagged/logging.md)
+* :octocat: **[source code](https://github.com/zalando/logbook)**
+---
+#### [Logstash](https://www.elastic.co/products/logstash)
+_<sup>https://www.elastic.co/products/logstash</sup>_
+
+Tool for managing log files.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [logging](../tagged/logging.md)
+---
+#### [p6spy](https://github.com/p6spy/p6spy)
+_<sup>https://github.com/p6spy/p6spy</sup>_
+
+Enables logging for all JDBC transactions without changes to the code.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [logging](../tagged/logging.md)
+* :octocat: **[source code](https://github.com/p6spy/p6spy)**
+---
+#### [SLF4J](https://www.slf4j.org)
+_<sup>https://www.slf4j.org</sup>_
+
+Abstraction layer/simple logging facade.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [logging](../tagged/logging.md)
+---
+#### [tinylog](http://www.tinylog.org)
+_<sup>http://www.tinylog.org</sup>_
+
+Lightweight logging framework with static logger class.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [logging](../tagged/logging.md)
+---
+#### [Tracer](https://github.com/zalando/tracer)
+_<sup>https://github.com/zalando/tracer</sup>_
+
+Call tracing and log correlation in distributed systems.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [logging](../tagged/logging.md)
+* :octocat: **[source code](https://github.com/zalando/tracer)**
+---
 #### [Using Winston, a versatile logging library for Node.js](https://thisdavej.com/using-winston-a-versatile-logging-library-for-node-js/)
 _<sup>https://thisdavej.com/using-winston-a-versatile-logging-library-for-node-js/</sup>_
 

@@ -2,6 +2,74 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/machine-learning](https://www.bookmarks.dev/tagged/machine-learning)</sup></sup>_
 ---
+#### [Apache Flink](https://flink.apache.org)
+_<sup>https://flink.apache.org</sup>_
+
+Fast, reliable, large-scale data processing engine.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [machine-learning](../tagged/machine-learning.md)
+---
+#### [Apache Mahout](https://mahout.apache.org)
+_<sup>https://mahout.apache.org</sup>_
+
+Scalable algorithms focused on collaborative filtering, clustering and classification.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [machine-learning](../tagged/machine-learning.md)
+---
+#### [Apache Spark](https://spark.apache.org)
+_<sup>https://spark.apache.org</sup>_
+
+Data analytics cluster-computing framework.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [machine-learning](../tagged/machine-learning.md)
+---
+#### [DatumBox](http://www.datumbox.com)
+_<sup>http://www.datumbox.com</sup>_
+
+Provides several algorithms and pre-trained models for natural language processing.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [machine-learning](../tagged/machine-learning.md)
+---
+#### [DeepDive](http://deepdive.stanford.edu)
+_<sup>http://deepdive.stanford.edu</sup>_
+
+Creates structured information from unstructured data and integrates it into an existing database.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [machine-learning](../tagged/machine-learning.md)
+---
+#### [Deeplearning4j](https://deeplearning4j.org)
+_<sup>https://deeplearning4j.org</sup>_
+
+Distributed and multi-threaded deep learning library.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [machine-learning](../tagged/machine-learning.md)
+---
+#### [H2O](https://www.h2o.ai)
+_<sup>https://www.h2o.ai</sup>_
+
+Analytics engine for statistics over big data.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [machine-learning](../tagged/machine-learning.md)
+---
+#### [JSAT](https://github.com/EdwardRaff/JSAT)
+_<sup>https://github.com/EdwardRaff/JSAT</sup>_
+
+Algorithms for pre-processing, classification, regression, and clustering with support for multi-threaded execution.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [machine-learning](../tagged/machine-learning.md)
+* :octocat: **[source code](https://github.com/EdwardRaff/JSAT)**
+---
+#### [Oryx 2](https://github.com/OryxProject/oryx)
+_<sup>https://github.com/OryxProject/oryx</sup>_
+
+Framework for building real-time, large-scale machine learning applications. Includes end-to-end applications for collaborative filtering, classification, regression, and clustering.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [machine-learning](../tagged/machine-learning.md)
+* :octocat: **[source code](https://github.com/OryxProject/oryx)**
+---
+#### [Smile](https://haifengl.github.io/smile)
+_<sup>https://haifengl.github.io/smile</sup>_
+
+The Statistical Machine Intelligence and Learning Engine provides a set of machine learning algorithms and a visualization library.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [machine-learning](../tagged/machine-learning.md)
+---
+#### [Weka](https://www.cs.waikato.ac.nz/ml/weka)
+_<sup>https://www.cs.waikato.ac.nz/ml/weka</sup>_
+
+Collection of algorithms for data mining tasks ranging from pre-processing to visualization.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [machine-learning](../tagged/machine-learning.md)
+---
 #### [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning#readme)
 _<sup>https://github.com/josephmisiti/awesome-machine-learning#readme</sup>_
 

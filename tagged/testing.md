@@ -2,6 +2,297 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/testing](https://www.bookmarks.dev/tagged/testing)</sup></sup>_
 ---
+#### [Awaitility](https://github.com/jayway/awaitility)
+_<sup>https://github.com/jayway/awaitility</sup>_
+
+DSL for synchronizing asynchronous operations.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [asynchronous](../tagged/asynchronous.md)
+* :octocat: **[source code](https://github.com/jayway/awaitility)**
+---
+#### [ConcurrentUnit](https://github.com/jhalterman/concurrentunit)
+_<sup>https://github.com/jhalterman/concurrentunit</sup>_
+
+Toolkit for testing multi-threaded and asynchronous applications.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [asynchronous](../tagged/asynchronous.md)
+* :octocat: **[source code](https://github.com/jhalterman/concurrentunit)**
+---
+#### [GreenMail](http://www.icegreen.com/greenmail)
+_<sup>http://www.icegreen.com/greenmail</sup>_
+
+In-memory email server for integration testing. Supports SMTP, POP3 and IMAP including SSL.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [asynchronous](../tagged/asynchronous.md)
+---
+#### [Hoverfly Java](https://github.com/SpectoLabs/hoverfly-java)
+_<sup>https://github.com/SpectoLabs/hoverfly-java</sup>_
+
+Native bindings for Hoverfly, a proxy which allows you to simulate HTTP services.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [asynchronous](../tagged/asynchronous.md)
+* :octocat: **[source code](https://github.com/SpectoLabs/hoverfly-java)**
+---
+#### [REST Assured](https://github.com/jayway/rest-assured)
+_<sup>https://github.com/jayway/rest-assured</sup>_
+
+DSL for easy testing of REST/HTTP services.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [asynchronous](../tagged/asynchronous.md)
+* :octocat: **[source code](https://github.com/jayway/rest-assured)**
+---
+#### [Cucumber](https://github.com/cucumber/cucumber-jvm)
+_<sup>https://github.com/cucumber/cucumber-jvm</sup>_
+
+Provides a way to describe features in a plain language which customers can understand.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [bdd](../tagged/bdd.md)
+* :octocat: **[source code](https://github.com/cucumber/cucumber-jvm)**
+---
+#### [Cukes-REST](https://github.com/ctco/cukes-rest)
+_<sup>https://github.com/ctco/cukes-rest</sup>_
+
+A collection of Gherkin steps for REST-service testing using Cucumber.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [bdd](../tagged/bdd.md)
+* :octocat: **[source code](https://github.com/ctco/cukes-rest)**
+---
+#### [J8Spec](https://github.com/j8spec/j8spec)
+_<sup>https://github.com/j8spec/j8spec</sup>_
+
+Follows a Jasmine-like syntax.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [bdd](../tagged/bdd.md)
+* :octocat: **[source code](https://github.com/j8spec/j8spec)**
+---
+#### [JBehave](http://jbehave.org)
+_<sup>http://jbehave.org</sup>_
+
+Extensively configurable framework that describes stories.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [bdd](../tagged/bdd.md)
+---
+#### [JGiven](http://jgiven.org)
+_<sup>http://jgiven.org</sup>_
+
+Provides a fluent API which allows for simpler composition.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [bdd](../tagged/bdd.md)
+---
+#### [Lamdba Behave](https://github.com/RichardWarburton/lambda-behave)
+_<sup>https://github.com/RichardWarburton/lambda-behave</sup>_
+
+Aims to provide a fluent API to write tests in long and descriptive sentences that read like plain English.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [bdd](../tagged/bdd.md)
+* :octocat: **[source code](https://github.com/RichardWarburton/lambda-behave)**
+---
+#### [Beanmother](https://github.com/keepcosmos/beanmother)
+_<sup>https://github.com/keepcosmos/beanmother</sup>_
+
+Sets up beans from YAML fixtures.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [fixtures](../tagged/fixtures.md)
+* :octocat: **[source code](https://github.com/keepcosmos/beanmother)**
+---
+#### [Fixture Factory](https://github.com/six2six/fixture-factory)
+_<sup>https://github.com/six2six/fixture-factory</sup>_
+
+Generates fake objects from a template.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [fixtures](../tagged/fixtures.md)
+* :octocat: **[source code](https://github.com/six2six/fixture-factory)**
+---
+#### [JFairy](https://github.com/Codearte/jfairy)
+_<sup>https://github.com/Codearte/jfairy</sup>_
+
+Fake data generator.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [fixtures](../tagged/fixtures.md)
+* :octocat: **[source code](https://github.com/Codearte/jfairy)**
+---
+#### [Randomized Testing](https://github.com/randomizedtesting/randomizedtesting)
+_<sup>https://github.com/randomizedtesting/randomizedtesting</sup>_
+
+JUnit test runner and plugins for running JUnit tests with pseudo-randomness.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [fixtures](../tagged/fixtures.md)
+* :octocat: **[source code](https://github.com/randomizedtesting/randomizedtesting)**
+---
+#### [Java Faker](https://github.com/DiUS/java-faker)
+_<sup>https://github.com/DiUS/java-faker</sup>_
+
+A port of Ruby's fake data generator.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [fixtures](../tagged/fixtures.md)
+* :octocat: **[source code](https://github.com/DiUS/java-faker)**
+---
+#### [ArchUnit](https://github.com/TNG/ArchUnit)
+_<sup>https://github.com/TNG/ArchUnit</sup>_
+
+Test library for specifying and asserting architecture rules.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [frameworks](../tagged/frameworks.md)
+* :octocat: **[source code](https://github.com/TNG/ArchUnit)**
+---
+#### [Apache JMeter](http://jmeter.apache.org)
+_<sup>http://jmeter.apache.org</sup>_
+
+Functional testing and performance measurements.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [frameworks](../tagged/frameworks.md)
+---
+#### [Arquillian](http://arquillian.org)
+_<sup>http://arquillian.org</sup>_
+
+Integration and functional testing platform for Java EE containers.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [frameworks](../tagged/frameworks.md)
+---
+#### [Citrus](https://citrusframework.org)
+_<sup>https://citrusframework.org</sup>_
+
+Integration testing framework that focuses on both client- and server-side messaging.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [frameworks](../tagged/frameworks.md)
+---
+#### [Gatling](https://gatling.io)
+_<sup>https://gatling.io</sup>_
+
+Load testing tool designed for ease of use, maintainability and high performance.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [frameworks](../tagged/frameworks.md)
+---
+#### [JUnit](http://junit.org)
+_<sup>http://junit.org</sup>_
+
+Common testing framework.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [frameworks](../tagged/frameworks.md)
+---
+#### [Pact JVM](https://github.com/DiUS/pact-jvm)
+_<sup>https://github.com/DiUS/pact-jvm</sup>_
+
+Consumer-driven contract testing.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [frameworks](../tagged/frameworks.md)
+* :octocat: **[source code](https://github.com/DiUS/pact-jvm)**
+---
+#### [PIT](http://pitest.org)
+_<sup>http://pitest.org</sup>_
+
+Fast mutation-testing framework for evaluating fault-detection abilities of existing JUnit or TestNG test suites.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [frameworks](../tagged/frameworks.md)
+---
+#### [AssertJ](https://joel-costigliola.github.io/assertj)
+_<sup>https://joel-costigliola.github.io/assertj</sup>_
+
+Fluent assertions that improve readability.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [matchers](../tagged/matchers.md)
+---
+#### [JSONAssert](http://jsonassert.skyscreamer.org)
+_<sup>http://jsonassert.skyscreamer.org</sup>_
+
+Simplifies testing JSON strings.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [matchers](../tagged/matchers.md)
+---
+#### [Truth](https://github.com/google/truth)
+_<sup>https://github.com/google/truth</sup>_
+
+Google's assertion and proposition framework.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [matchers](../tagged/matchers.md)
+* :octocat: **[source code](https://github.com/google/truth)**
+---
+#### [Mutability Detector](https://github.com/MutabilityDetector/MutabilityDetector)
+_<sup>https://github.com/MutabilityDetector/MutabilityDetector</sup>_
+
+Reports whether instances of a given class are immutable.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/MutabilityDetector/MutabilityDetector)**
+---
+#### [Mutability Detector](https://github.com/MutabilityDetector/MutabilityDetector)
+_<sup>https://github.com/MutabilityDetector/MutabilityDetector</sup>_
+
+Reports whether instances of a given class are immutable.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/MutabilityDetector/MutabilityDetector)**
+---
+#### [raml-tester](https://github.com/nidi3/raml-tester)
+_<sup>https://github.com/nidi3/raml-tester</sup>_
+
+Tests if a request/response matches a given RAML definition.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/nidi3/raml-tester)**
+---
+#### [raml-tester](https://github.com/nidi3/raml-tester)
+_<sup>https://github.com/nidi3/raml-tester</sup>_
+
+Tests if a request/response matches a given RAML definition.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/nidi3/raml-tester)**
+---
+#### [TestContainers](https://github.com/testcontainers/testcontainers-java)
+_<sup>https://github.com/testcontainers/testcontainers-java</sup>_
+
+Provides throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/testcontainers/testcontainers-java)**
+---
+#### [TestContainers](https://github.com/testcontainers/testcontainers-java)
+_<sup>https://github.com/testcontainers/testcontainers-java</sup>_
+
+Provides throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/testcontainers/testcontainers-java)**
+---
+#### [pojo-tester](http://www.pojo.pl)
+_<sup>http://www.pojo.pl</sup>_
+
+Automatically performs tests on basic POJO methods.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [testing](../tagged/testing.md)
+---
+#### [pojo-tester](http://www.pojo.pl)
+_<sup>http://www.pojo.pl</sup>_
+
+Automatically performs tests on basic POJO methods.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [testing](../tagged/testing.md)
+---
+#### [JMockit](http://jmockit.github.io)
+_<sup>http://jmockit.github.io</sup>_
+
+Integration testing, API mocking and faking, and code coverage.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
+---
+#### [Mockito](https://github.com/mockito/mockito)
+_<sup>https://github.com/mockito/mockito</sup>_
+
+Mocking framework that lets you write tests with a clean and simple API.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
+* :octocat: **[source code](https://github.com/mockito/mockito)**
+---
+#### [MockServer](https://www.mock-server.com)
+_<sup>https://www.mock-server.com</sup>_
+
+Allows mocking of systems integrated with HTTPS.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
+---
+#### [Moco](https://github.com/dreamhead/moco)
+_<sup>https://github.com/dreamhead/moco</sup>_
+
+Concise web services for stubs and mocks.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
+* :octocat: **[source code](https://github.com/dreamhead/moco)**
+---
+#### [PowerMock](https://github.com/jayway/powermock)
+_<sup>https://github.com/jayway/powermock</sup>_
+
+Mocks static methods, constructors, final classes and methods, private methods, and removal of static initializers.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
+* :octocat: **[source code](https://github.com/jayway/powermock)**
+---
+#### [WireMock](http://wiremock.org)
+_<sup>http://wiremock.org</sup>_
+
+Stubs and mocks web services.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
+---
+#### [Burst](https://github.com/square/burst)
+_<sup>https://github.com/square/burst</sup>_
+
+A unit testing library for varying test data.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [parameterization](../tagged/parameterization.md)
+* :octocat: **[source code](https://github.com/square/burst)**
+---
+#### [junit-dataprovider](https://github.com/TNG/junit-dataprovider)
+_<sup>https://github.com/TNG/junit-dataprovider</sup>_
+
+A TestNG-like data provider/runner for JUnit.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [parameterization](../tagged/parameterization.md)
+* :octocat: **[source code](https://github.com/TNG/junit-dataprovider)**
+---
+#### [JUnitParams](https://pragmatists.github.io/JUnitParams)
+_<sup>https://pragmatists.github.io/JUnitParams</sup>_
+
+Creates readable and maintainable parametrised tests.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [parameterization](../tagged/parameterization.md)
+---
 #### [awesome-software-quality](https://github.com/ligurio/awesome-software-quality#readme)
 _<sup>https://github.com/ligurio/awesome-software-quality#readme</sup>_
 

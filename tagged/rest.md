@@ -2,6 +2,88 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/rest](https://www.bookmarks.dev/tagged/rest)</sup></sup>_
 ---
+#### [Dropwizard](https://dropwizard.github.io/dropwizard)
+_<sup>https://dropwizard.github.io/dropwizard</sup>_
+
+Opinionated framework for setting up modern web applications with Jetty, Jackson, Jersey and Metrics.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [rest](../tagged/rest.md)
+---
+#### [Elide](http://elide.io/)
+_<sup>http://elide.io/</sup>_
+
+Opinionated framework for JSON- or GraphQL-APIs based on a JPA data model.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [rest](../tagged/rest.md)
+---
+#### [javalin](https://javalin.io)
+_<sup>https://javalin.io</sup>_
+
+Javalin is just a few thousand lines of code on top of Jetty, which means its performance is almost equivalent to pure Jetty.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [rest](../tagged/rest.md)
+---
+#### [Jersey](https://jersey.github.io)
+_<sup>https://jersey.github.io</sup>_
+
+JAX-RS reference implementation.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [rest](../tagged/rest.md)
+---
+#### [Microserver](https://github.com/aol/micro-server)
+_<sup>https://github.com/aol/micro-server</sup>_
+
+Microserver is a Java 8 native, zero configuration, standards based, battle hardened library to run Java Rest Microservices via a standard Java main class. Supporting pure Microservice or Micro-monoli...
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [rest](../tagged/rest.md)
+* :octocat: **[source code](https://github.com/aol/micro-server)**
+---
+#### [Rapidoid](https://www.rapidoid.org)
+_<sup>https://www.rapidoid.org</sup>_
+
+A simple, secure and extremely fast framework consisting of an embedded HTTP server, GUI components and dependency injection.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [rest](../tagged/rest.md)
+---
+#### [rest.li](https://github.com/linkedin/rest.li)
+_<sup>https://github.com/linkedin/rest.li</sup>_
+
+Framework for building robust, scalable RESTful architectures using typesafe bindings and asynchronous, non-blocking IO with an end-to-end developer workflow that promotes clean practices, uniform int...
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [rest](../tagged/rest.md)
+* :octocat: **[source code](https://github.com/linkedin/rest.li)**
+---
+#### [RESTEasy](https://resteasy.jboss.org)
+_<sup>https://resteasy.jboss.org</sup>_
+
+Fully certified and portable implementation of the JAX-RS specification.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [rest](../tagged/rest.md)
+---
+#### [RestExpress](https://github.com/RestExpress/RestExpress)
+_<sup>https://github.com/RestExpress/RestExpress</sup>_
+
+Thin wrapper on the JBoss Netty HTTP stack that provides scaling and performance.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [rest](../tagged/rest.md)
+* :octocat: **[source code](https://github.com/RestExpress/RestExpress)**
+---
+#### [Restlet Framework](https://github.com/restlet/restlet-framework-java)
+_<sup>https://github.com/restlet/restlet-framework-java</sup>_
+
+Pioneering framework with powerful routing and filtering capabilities, and a unified client and server API.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [rest](../tagged/rest.md)
+* :octocat: **[source code](https://github.com/restlet/restlet-framework-java)**
+---
+#### [Spark](http://sparkjava.com)
+_<sup>http://sparkjava.com</sup>_
+
+Sinatra inspired framework.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [rest](../tagged/rest.md)
+---
+#### [Crnk](http://www.crnk.io)
+_<sup>http://www.crnk.io</sup>_
+
+Implementation of the JSON API specification to build resource-oriented REST endpoints with sorting, filtering, paging, linking, object graphs, type-safety, bulk updates, integrations and more.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [rest](../tagged/rest.md)
+---
+#### [Swagger](https://swagger.io)
+_<sup>https://swagger.io</sup>_
+
+Standard, language-agnostic interface to REST APIs.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [rest](../tagged/rest.md)
+---
 #### [awesome-rest](https://github.com/marmelab/awesome-rest#readme)
 _<sup>https://github.com/marmelab/awesome-rest#readme</sup>_
 

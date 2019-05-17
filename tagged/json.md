@@ -2,6 +2,88 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/json](https://www.bookmarks.dev/tagged/json)</sup></sup>_
 ---
+#### [DSL-JSON](https://github.com/ngs-doo/dsl-json)
+_<sup>https://github.com/ngs-doo/dsl-json</sup>_
+
+JSON library with advanced compile time databinding.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [json](../tagged/json.md)
+* :octocat: **[source code](https://github.com/ngs-doo/dsl-json)**
+---
+#### [Genson](https://owlike.github.io/genson)
+_<sup>https://owlike.github.io/genson</sup>_
+
+Powerful and easy-to-use Java-to-JSON conversion library.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [json](../tagged/json.md)
+---
+#### [Gson](https://github.com/google/gson)
+_<sup>https://github.com/google/gson</sup>_
+
+Serializes objects to JSON and vice versa. Good performance with on-the-fly usage.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [json](../tagged/json.md)
+* :octocat: **[source code](https://github.com/google/gson)**
+---
+#### [HikariJSON](https://github.com/brettwooldridge/HikariJSON)
+_<sup>https://github.com/brettwooldridge/HikariJSON</sup>_
+
+High-performance JSON parser, 2x faster than Jackson.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [json](../tagged/json.md)
+* :octocat: **[source code](https://github.com/brettwooldridge/HikariJSON)**
+---
+#### [jackson-modules-java8](https://github.com/FasterXML/jackson-modules-java8)
+_<sup>https://github.com/FasterXML/jackson-modules-java8</sup>_
+
+Set of Jackson modules for Java 8 datatypes and features.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [json](../tagged/json.md)
+* :octocat: **[source code](https://github.com/FasterXML/jackson-modules-java8)**
+---
+#### [Jackson-datatype-money](https://github.com/zalando/jackson-datatype-money)
+_<sup>https://github.com/zalando/jackson-datatype-money</sup>_
+
+Open-source Jackson module to support JSON serialization and deserialization of JavaMoney data types.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [json](../tagged/json.md)
+* :octocat: **[source code](https://github.com/zalando/jackson-datatype-money)**
+---
+#### [Jackson](https://github.com/FasterXML/jackson)
+_<sup>https://github.com/FasterXML/jackson</sup>_
+
+Similar to GSON, but offers performance gains if you need to instantiate the library more often.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [json](../tagged/json.md)
+* :octocat: **[source code](https://github.com/FasterXML/jackson)**
+---
+#### [JSON-io](https://github.com/jdereg/json-io)
+_<sup>https://github.com/jdereg/json-io</sup>_
+
+Convert Java to JSON. Convert JSON to Java. Pretty print JSON. Java JSON serializer.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [json](../tagged/json.md)
+* :octocat: **[source code](https://github.com/jdereg/json-io)**
+---
+#### [jsoniter](http://jsoniter.com)
+_<sup>http://jsoniter.com</sup>_
+
+Fast and flexible library with iterator and lazy parsing API.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [json](../tagged/json.md)
+---
+#### [LoganSquare](https://github.com/bluelinelabs/LoganSquare)
+_<sup>https://github.com/bluelinelabs/LoganSquare</sup>_
+
+JSON parsing and serializing library based on Jackson's streaming API. Outperforms GSON & Jackson's library.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [json](../tagged/json.md)
+* :octocat: **[source code](https://github.com/bluelinelabs/LoganSquare)**
+---
+#### [Moshi](https://github.com/square/moshi)
+_<sup>https://github.com/square/moshi</sup>_
+
+Modern JSON library, less opinionated and uses built-in types like List and Map.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [json](../tagged/json.md)
+* :octocat: **[source code](https://github.com/square/moshi)**
+---
+#### [Yasson](https://github.com/eclipse/yasson)
+_<sup>https://github.com/eclipse/yasson</sup>_
+
+Binding layer between classes and JSON documents similar to JAXB.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [json](../tagged/json.md)
+* :octocat: **[source code](https://github.com/eclipse/yasson)**
+---
 #### [awesome-json](https://github.com/burningtree/awesome-json#readme)
 _<sup>https://github.com/burningtree/awesome-json#readme</sup>_
 

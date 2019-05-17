@@ -2,6 +2,125 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/security](https://www.bookmarks.dev/tagged/security)</sup></sup>_
 ---
+#### [Apache Shiro](https://shiro.apache.org)
+_<sup>https://shiro.apache.org</sup>_
+
+Performs authentication, authorization, cryptography and session management.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [security](../tagged/security.md)
+---
+#### [Bouncy Castle](https://www.bouncycastle.org/java.html)
+_<sup>https://www.bouncycastle.org/java.html</sup>_
+
+All-purpose cryptographic library and JCA provider offering a wide range of functions, from basic helpers to PGP/SMIME operations.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [security](../tagged/security.md)
+---
+#### [Cryptomator](https://cryptomator.org)
+_<sup>https://cryptomator.org</sup>_
+
+Multiplatform, transparent, client-side encryption of files in the cloud.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [security](../tagged/security.md)
+---
+#### [Hdiv](https://github.com/hdiv/hdiv)
+_<sup>https://github.com/hdiv/hdiv</sup>_
+
+Runtime application that repels application security risks included in the OWASP Top 10, including SQL injection, cross-site scripting, cross-site request forgery, data tampering, and brute force atta...
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [security](../tagged/security.md)
+* :octocat: **[source code](https://github.com/hdiv/hdiv)**
+---
+#### [jjwt](https://github.com/jwtk/jjwt)
+_<sup>https://github.com/jwtk/jjwt</sup>_
+
+JSON web token for Java and Android.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [security](../tagged/security.md)
+* :octocat: **[source code](https://github.com/jwtk/jjwt)**
+---
+#### [Jwks RSA](https://github.com/auth0/jwks-rsa-java)
+_<sup>https://github.com/auth0/jwks-rsa-java</sup>_
+
+JSON Web Key Set parser.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [security](../tagged/security.md)
+* :octocat: **[source code](https://github.com/auth0/jwks-rsa-java)**
+---
+#### [Kalium](https://github.com/abstractj/kalium)
+_<sup>https://github.com/abstractj/kalium</sup>_
+
+Binding for the Networking and Cryptography (NaCl) library.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [security](../tagged/security.md)
+* :octocat: **[source code](https://github.com/abstractj/kalium)**
+---
+#### [Keycloak](https://keycloak.jboss.org)
+_<sup>https://keycloak.jboss.org</sup>_
+
+Integrated SSO and IDM for browser apps and RESTful web services.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [security](../tagged/security.md)
+---
+#### [Keyczar](https://github.com/google/keyczar)
+_<sup>https://github.com/google/keyczar</sup>_
+
+Easy-to-use, safe encryption framework with key versioning.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [security](../tagged/security.md)
+* :octocat: **[source code](https://github.com/google/keyczar)**
+---
+#### [Keywhiz](https://github.com/square/keywhiz)
+_<sup>https://github.com/square/keywhiz</sup>_
+
+System for distributing and managing secrets.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [security](../tagged/security.md)
+* :octocat: **[source code](https://github.com/square/keywhiz)**
+---
+#### [Nbvcxz](https://github.com/GoSimpleLLC/nbvcxz)
+_<sup>https://github.com/GoSimpleLLC/nbvcxz</sup>_
+
+Advanced password strength estimation.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [security](../tagged/security.md)
+* :octocat: **[source code](https://github.com/GoSimpleLLC/nbvcxz)**
+---
+#### [OACC](http://oaccframework.org)
+_<sup>http://oaccframework.org</sup>_
+
+Provides permission-based authorization services.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [security](../tagged/security.md)
+---
+#### [pac4j](https://github.com/pac4j/pac4j)
+_<sup>https://github.com/pac4j/pac4j</sup>_
+
+Security engine.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [security](../tagged/security.md)
+* :octocat: **[source code](https://github.com/pac4j/pac4j)**
+---
+#### [PicketLink](http://picketlink.org)
+_<sup>http://picketlink.org</sup>_
+
+Umbrella project for security and identity management.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [security](../tagged/security.md)
+---
+#### [SecurityBuilder](https://github.com/tersesystems/securitybuilder)
+_<sup>https://github.com/tersesystems/securitybuilder</sup>_
+
+Fluent Builder API for JCA and JSSE classes and especially X.509 certificates.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [security](../tagged/security.md)
+* :octocat: **[source code](https://github.com/tersesystems/securitybuilder)**
+---
+#### [Themis](https://github.com/cossacklabs/themis)
+_<sup>https://github.com/cossacklabs/themis</sup>_
+
+Multi-platform high-level cryptographic library provides easy-to-use encryption for protecting sensitive data: secure messaging with forward secrecy, secure data storage (AES256GCM); suits for buildin...
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [security](../tagged/security.md)
+* :octocat: **[source code](https://github.com/cossacklabs/themis)**
+---
+#### [Tink](http://github.com/google/tink)
+_<sup>http://github.com/google/tink</sup>_
+
+Provides a simple and misuse-proof API for common cryptographic tasks.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [security](../tagged/security.md)
+* :octocat: **[source code](http://github.com/google/tink)**
+---
+#### [Vault](https://www.vaultproject.io)
+_<sup>https://www.vaultproject.io</sup>_
+
+Secures, stores, and tightly controls access to tokens, passwords, certificates, API keys, and other secrets. It handles leasing, key revocation, key rolling, and auditing. Through a unified API, user...
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [security](../tagged/security.md)
+---
 #### [awesome-appsec](https://github.com/paragonie/awesome-appsec#readme)
 _<sup>https://github.com/paragonie/awesome-appsec#readme</sup>_
 

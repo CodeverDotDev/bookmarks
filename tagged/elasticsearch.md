@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/elasticsearch](https://www.bookmarks.dev/tagged/elasticsearch)</sup></sup>_
 ---
+#### [Jest](https://github.com/searchbox-io/Jest)
+_<sup>https://github.com/searchbox-io/Jest</sup>_
+
+Client for the Elasticsearch REST API.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [database](../tagged/database.md), [elasticsearch](../tagged/elasticsearch.md)
+* :octocat: **[source code](https://github.com/searchbox-io/Jest)**
+---
 #### [Exploring Elasticsearch](http://exploringelasticsearch.com)
 _<sup>http://exploringelasticsearch.com</sup>_
 

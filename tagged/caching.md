@@ -2,6 +2,24 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/caching](https://www.bookmarks.dev/tagged/caching)</sup></sup>_
 ---
+#### [cache2k](https://cache2k.org)
+_<sup>https://cache2k.org</sup>_
+
+In-memory high performance caching library.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [caching](../tagged/caching.md)
+---
+#### [Ehcache](http://www.ehcache.org)
+_<sup>http://www.ehcache.org</sup>_
+
+Distributed general-purpose cache.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [caching](../tagged/caching.md)
+---
+#### [Infinispan](http://infinispan.org)
+_<sup>http://infinispan.org</sup>_
+
+Highly concurrent key/value datastore used for caching.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [caching](../tagged/caching.md)
+---
 #### [Advanced caching with RxJS by thoughtram](https://blog.thoughtram.io/angular/2018/03/05/advanced-caching-with-rxjs.html)
 _<sup>https://blog.thoughtram.io/angular/2018/03/05/advanced-caching-with-rxjs.html</sup>_
 

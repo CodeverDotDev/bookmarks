@@ -2,6 +2,31 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/reactive](https://www.bookmarks.dev/tagged/reactive)</sup></sup>_
 ---
+#### [Akka](https://akka.io)
+_<sup>https://akka.io</sup>_
+
+Toolkit and runtime for building concurrent, distributed, fault-tolerant and event-driven applications.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [reactive](../tagged/reactive.md)
+---
+#### [Reactive Streams](https://github.com/reactive-streams/reactive-streams-jvm)
+_<sup>https://github.com/reactive-streams/reactive-streams-jvm</sup>_
+
+Provides a standard for asynchronous stream processing with non-blocking backpressure.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [reactive](../tagged/reactive.md)
+* :octocat: **[source code](https://github.com/reactive-streams/reactive-streams-jvm)**
+---
+#### [Reactor](https://projectreactor.io)
+_<sup>https://projectreactor.io</sup>_
+
+Library for building reactive fast-data applications.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [reactive](../tagged/reactive.md)
+---
+#### [vert.x](http://vertx.io)
+_<sup>http://vertx.io</sup>_
+
+Polyglot event-driven application framework.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [reactive](../tagged/reactive.md)
+---
 #### [Reactive Spring Security 5.1 by Example - YouTube](https://www.youtube.com/watch?v=YcAufUtfm44)
 _<sup>https://www.youtube.com/watch?v=YcAufUtfm44</sup>_
 

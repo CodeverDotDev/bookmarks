@@ -2,6 +2,43 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/orm](https://www.bookmarks.dev/tagged/orm)</sup></sup>_
 ---
+#### [Apache Cayenne](https://cayenne.apache.org)
+_<sup>https://cayenne.apache.org</sup>_
+
+Provides a clean, static API for data access. Also includes a GUI Modeler for working with database mappings, and DB reverse engineering and generation.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [orm](../tagged/orm.md)
+---
+#### [Ebean](https://ebean-orm.github.io)
+_<sup>https://ebean-orm.github.io</sup>_
+
+Provides simple and fast data access.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [orm](../tagged/orm.md)
+---
+#### [EclipseLink](https://www.eclipse.org/eclipselink)
+_<sup>https://www.eclipse.org/eclipselink</sup>_
+
+Supports a number of persistence standards: JPA, JAXB, JCA and SDO.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [orm](../tagged/orm.md)
+---
+#### [Hibernate](http://hibernate.org/orm)
+_<sup>http://hibernate.org/orm</sup>_
+
+Robust and widely used, with an active community.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [orm](../tagged/orm.md)
+---
+#### [MyBatis](http://www.mybatis.org/mybatis-3)
+_<sup>http://www.mybatis.org/mybatis-3</sup>_
+
+Couples objects with stored procedures or SQL statements.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [orm](../tagged/orm.md)
+---
+#### [SimpleFlatMapper](https://github.com/arnaudroger/SimpleFlatMapper)
+_<sup>https://github.com/arnaudroger/SimpleFlatMapper</sup>_
+
+Simple database and CSV mapper.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [orm](../tagged/orm.md)
+* :octocat: **[source code](https://github.com/arnaudroger/SimpleFlatMapper)**
+---
 #### [ORM Is an Offensive Anti-Pattern ](https://www.yegor256.com/2014/12/01/orm-offensive-anti-pattern.html)
 _<sup>https://www.yegor256.com/2014/12/01/orm-offensive-anti-pattern.html</sup>_
 

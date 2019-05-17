@@ -2,6 +2,52 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/performance](https://www.bookmarks.dev/tagged/performance)</sup></sup>_
 ---
+#### [Agrona](https://github.com/real-logic/Agrona)
+_<sup>https://github.com/real-logic/Agrona</sup>_
+
+Data structures and utility methods that are common in high-performance applications.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [performance](../tagged/performance.md)
+* :octocat: **[source code](https://github.com/real-logic/Agrona)**
+---
+#### [Disruptor](https://lmax-exchange.github.io/disruptor)
+_<sup>https://lmax-exchange.github.io/disruptor</sup>_
+
+Inter-thread messaging library.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [performance](../tagged/performance.md)
+---
+#### [Eclipse Collections](https://github.com/eclipse/eclipse-collections)
+_<sup>https://github.com/eclipse/eclipse-collections</sup>_
+
+Collections framework inspired by Smalltalk.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [performance](../tagged/performance.md)
+* :octocat: **[source code](https://github.com/eclipse/eclipse-collections)**
+---
+#### [fastutil](http://fastutil.di.unimi.it)
+_<sup>http://fastutil.di.unimi.it</sup>_
+
+Fast and compact type-specific collections.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [performance](../tagged/performance.md)
+---
+#### [HPPC](https://labs.carrotsearch.com/hppc.html)
+_<sup>https://labs.carrotsearch.com/hppc.html</sup>_
+
+Primitive collections.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [performance](../tagged/performance.md)
+---
+#### [JCTools](https://github.com/JCTools/JCTools)
+_<sup>https://github.com/JCTools/JCTools</sup>_
+
+Concurrency tools currently missing from the JDK.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [performance](../tagged/performance.md)
+* :octocat: **[source code](https://github.com/JCTools/JCTools)**
+---
+#### [Koloboke](https://github.com/OpenHFT/Koloboke)
+_<sup>https://github.com/OpenHFT/Koloboke</sup>_
+
+Hash sets and hash maps.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [performance](../tagged/performance.md)
+* :octocat: **[source code](https://github.com/OpenHFT/Koloboke)**
+---
 #### [awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo#readme)
 _<sup>https://github.com/davidsonfellipe/awesome-wpo#readme</sup>_
 

@@ -2,6 +2,38 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/nlp](https://www.bookmarks.dev/tagged/nlp)</sup></sup>_
 ---
+#### [CogCompNLP](https://github.com/CogComp/cogcomp-nlp)
+_<sup>https://github.com/CogComp/cogcomp-nlp</sup>_
+
+Provides common annotators for plain text input.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [nlp](../tagged/nlp.md)
+* :octocat: **[source code](https://github.com/CogComp/cogcomp-nlp)**
+---
+#### [CoreNLP](https://nlp.stanford.edu/software/corenlp.shtml)
+_<sup>https://nlp.stanford.edu/software/corenlp.shtml</sup>_
+
+Provides a set of fundamental tools for tasks like tagging, named entity recognition, and sentiment analysis.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [nlp](../tagged/nlp.md)
+---
+#### [DKPro](https://dkpro.github.io)
+_<sup>https://dkpro.github.io</sup>_
+
+Collection of reusable NLP tools for linguistic pre-processing, machine learning, lexical resources, etc.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [nlp](../tagged/nlp.md)
+---
+#### [Lingua](https://github.com/pemistahl/lingua)
+_<sup>https://github.com/pemistahl/lingua</sup>_
+
+Natural language detection library, especially suited for short paragraphs of text.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [nlp](../tagged/nlp.md)
+* :octocat: **[source code](https://github.com/pemistahl/lingua)**
+---
+#### [LingPipe](http://alias-i.com/lingpipe)
+_<sup>http://alias-i.com/lingpipe</sup>_
+
+Toolkit for tasks ranging from POS tagging to sentiment analysis.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [nlp](../tagged/nlp.md)
+---
 #### [awesome-speech-language-processing](https://github.com/edobashira/speech-language-processing#readme)
 _<sup>https://github.com/edobashira/speech-language-processing#readme</sup>_
 

@@ -2,6 +2,45 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/mocking](https://www.bookmarks.dev/tagged/mocking)</sup></sup>_
 ---
+#### [JMockit](http://jmockit.github.io)
+_<sup>http://jmockit.github.io</sup>_
+
+Integration testing, API mocking and faking, and code coverage.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
+---
+#### [Mockito](https://github.com/mockito/mockito)
+_<sup>https://github.com/mockito/mockito</sup>_
+
+Mocking framework that lets you write tests with a clean and simple API.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
+* :octocat: **[source code](https://github.com/mockito/mockito)**
+---
+#### [MockServer](https://www.mock-server.com)
+_<sup>https://www.mock-server.com</sup>_
+
+Allows mocking of systems integrated with HTTPS.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
+---
+#### [Moco](https://github.com/dreamhead/moco)
+_<sup>https://github.com/dreamhead/moco</sup>_
+
+Concise web services for stubs and mocks.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
+* :octocat: **[source code](https://github.com/dreamhead/moco)**
+---
+#### [PowerMock](https://github.com/jayway/powermock)
+_<sup>https://github.com/jayway/powermock</sup>_
+
+Mocks static methods, constructors, final classes and methods, private methods, and removal of static initializers.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
+* :octocat: **[source code](https://github.com/jayway/powermock)**
+---
+#### [WireMock](http://wiremock.org)
+_<sup>http://wiremock.org</sup>_
+
+Stubs and mocks web services.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
+---
 #### [Mockito: Why You Should Not Use InjectMocks Annotation to Autowire Fields – Ted Vinke's Blog](https://tedvinke.wordpress.com/2014/02/13/mockito-why-you-should-not-use-injectmocks-annotation-to-autowire-fields/)
 _<sup>https://tedvinke.wordpress.com/2014/02/13/mockito-why-you-should-not-use-injectmocks-annotation-to-a...</sup>_
 

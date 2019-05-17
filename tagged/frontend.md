@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/frontend](https://www.bookmarks.dev/tagged/frontend)</sup></sup>_
 ---
+#### [java.libhunt.com](https://java.libhunt.com)
+_<sup>https://java.libhunt.com</sup>_
+
+Your go-to Java Toolbox. A curated list of awesome Java frameworks, libraries and software. 706 projects organized into 80 categories.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [frontend](../tagged/frontend.md)
+---
 #### [awesome-frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks#readme)
 _<sup>https://github.com/dypsilon/frontend-dev-bookmarks#readme</sup>_
 

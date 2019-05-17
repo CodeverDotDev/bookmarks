@@ -2,6 +2,42 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/paas](https://www.bookmarks.dev/tagged/paas)</sup></sup>_
 ---
+#### [AWS Elastic Beanstalk ![c](https://aws.amazon.com/elasticbeanstalk)
+_<sup>https://aws.amazon.com/elasticbeanstalk</sup>_
+
+AWS-based, with support for Tomcat and Jetty.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [paas](../tagged/paas.md)
+---
+#### [AWS Lambda ![c](https://aws.amazon.com/lambda)
+_<sup>https://aws.amazon.com/lambda</sup>_
+
+Serverless computation.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [paas](../tagged/paas.md)
+---
+#### [Google App Engine ![c](https://cloud.google.com)
+_<sup>https://cloud.google.com</sup>_
+
+PaaS on Google's infrastructure.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [paas](../tagged/paas.md)
+---
+#### [Heroku ![c](https://www.heroku.com)
+_<sup>https://www.heroku.com</sup>_
+
+Abstract computing environments.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [paas](../tagged/paas.md)
+---
+#### [Jelastic ![c](https://jelastic.com)
+_<sup>https://jelastic.com</sup>_
+
+Supports Tomcat, Jetty, GlassFish, JBoss, TomEE and WildFly.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [paas](../tagged/paas.md)
+---
+#### [OpenShift Enterprise ![c](https://www.openshift.com)
+_<sup>https://www.openshift.com</sup>_
+
+On-premise solution.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [paas](../tagged/paas.md)
+---
 #### [awesome-free-for-dev](https://github.com/ripienaar/free-for-dev#readme)
 _<sup>https://github.com/ripienaar/free-for-dev#readme</sup>_
 

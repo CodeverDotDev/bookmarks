@@ -2,6 +2,40 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/asynchronous](https://www.bookmarks.dev/tagged/asynchronous)</sup></sup>_
 ---
+#### [Awaitility](https://github.com/jayway/awaitility)
+_<sup>https://github.com/jayway/awaitility</sup>_
+
+DSL for synchronizing asynchronous operations.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [asynchronous](../tagged/asynchronous.md)
+* :octocat: **[source code](https://github.com/jayway/awaitility)**
+---
+#### [ConcurrentUnit](https://github.com/jhalterman/concurrentunit)
+_<sup>https://github.com/jhalterman/concurrentunit</sup>_
+
+Toolkit for testing multi-threaded and asynchronous applications.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [asynchronous](../tagged/asynchronous.md)
+* :octocat: **[source code](https://github.com/jhalterman/concurrentunit)**
+---
+#### [GreenMail](http://www.icegreen.com/greenmail)
+_<sup>http://www.icegreen.com/greenmail</sup>_
+
+In-memory email server for integration testing. Supports SMTP, POP3 and IMAP including SSL.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [asynchronous](../tagged/asynchronous.md)
+---
+#### [Hoverfly Java](https://github.com/SpectoLabs/hoverfly-java)
+_<sup>https://github.com/SpectoLabs/hoverfly-java</sup>_
+
+Native bindings for Hoverfly, a proxy which allows you to simulate HTTP services.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [asynchronous](../tagged/asynchronous.md)
+* :octocat: **[source code](https://github.com/SpectoLabs/hoverfly-java)**
+---
+#### [REST Assured](https://github.com/jayway/rest-assured)
+_<sup>https://github.com/jayway/rest-assured</sup>_
+
+DSL for easy testing of REST/HTTP services.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [asynchronous](../tagged/asynchronous.md)
+* :octocat: **[source code](https://github.com/jayway/rest-assured)**
+---
 #### [Java 8: Definitive guide to CompletableFuture](https://www.nurkiewicz.com/2013/05/java-8-definitive-guide-to.html)
 _<sup>https://www.nurkiewicz.com/2013/05/java-8-definitive-guide-to.html</sup>_
 

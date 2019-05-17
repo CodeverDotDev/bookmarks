@@ -2,6 +2,69 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/awesome-list](https://www.bookmarks.dev/tagged/awesome-list)</sup></sup>_
 ---
+#### [Awesome Gradle Plugins](https://github.com/ksoichiro/awesome-gradle)
+_<sup>https://github.com/ksoichiro/awesome-gradle</sup>_
+
+A curated list of awesome Gradle plugins and resources for a better development workflow automation. - ksoichiro/awesome-gradle
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [awesome-list](../tagged/awesome-list.md)
+* :octocat: **[source code](https://github.com/ksoichiro/awesome-gradle)**
+---
+#### [AwesomeJavaFX](https://github.com/mhrimaz/AwesomeJavaFX)
+_<sup>https://github.com/mhrimaz/AwesomeJavaFX</sup>_
+
+A curated list of awesome JavaFX libraries, books, frameworks, etc... - mhrimaz/AwesomeJavaFX
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [awesome-list](../tagged/awesome-list.md)
+* :octocat: **[source code](https://github.com/mhrimaz/AwesomeJavaFX)**
+---
+#### [Awesome JVM](https://github.com/deephacks/awesome-jvm)
+_<sup>https://github.com/deephacks/awesome-jvm</sup>_
+
+A curated list of awesome loosely performance related JVM stuff. Inspired by awesome-python. - deephacks/awesome-jvm
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [awesome-list](../tagged/awesome-list.md)
+* :octocat: **[source code](https://github.com/deephacks/awesome-jvm)**
+---
+#### [Awesome Microservices](https://github.com/mfornos/awesome-microservices)
+_<sup>https://github.com/mfornos/awesome-microservices</sup>_
+
+A curated list of Microservice Architecture related principles and technologies. - mfornos/awesome-microservices
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [awesome-list](../tagged/awesome-list.md)
+* :octocat: **[source code](https://github.com/mfornos/awesome-microservices)**
+---
+#### [Awesome REST](https://github.com/marmelab/awesome-rest)
+_<sup>https://github.com/marmelab/awesome-rest</sup>_
+
+A collaborative list of great resources about RESTful API architecture, development, test, and performance - marmelab/awesome-rest
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [awesome-list](../tagged/awesome-list.md)
+* :octocat: **[source code](https://github.com/marmelab/awesome-rest)**
+---
+#### [Awesome Selenium](https://github.com/christian-bromann/awesome-selenium)
+_<sup>https://github.com/christian-bromann/awesome-selenium</sup>_
+
+A curated list of delightful Selenium resources. Contribute to christian-bromann/awesome-selenium development by creating an account on GitHub.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [awesome-list](../tagged/awesome-list.md)
+* :octocat: **[source code](https://github.com/christian-bromann/awesome-selenium)**
+---
+#### [ciandcd](https://github.com/ciandcd/awesome-ciandcd)
+_<sup>https://github.com/ciandcd/awesome-ciandcd</sup>_
+
+continuous integration and continuous delivery. Contribute to ciandcd/awesome-ciandcd development by creating an account on GitHub.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [awesome-list](../tagged/awesome-list.md)
+* :octocat: **[source code](https://github.com/ciandcd/awesome-ciandcd)**
+---
+#### [Useful Java Links](https://github.com/Vedenin/useful-java-links)
+_<sup>https://github.com/Vedenin/useful-java-links</sup>_
+
+A list of useful Java frameworks, libraries, software and hello worlds examples - Vedenin/useful-java-links
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [awesome-list](../tagged/awesome-list.md)
+* :octocat: **[source code](https://github.com/Vedenin/useful-java-links)**
+---
+#### [Java Concurrency Checklist](https://github.com/code-review-checklists/java-concurrency)
+_<sup>https://github.com/code-review-checklists/java-concurrency</sup>_
+
+Checklist for code reviews. Contribute to code-review-checklists/java-concurrency development by creating an account on GitHub.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [awesome-list](../tagged/awesome-list.md)
+* :octocat: **[source code](https://github.com/code-review-checklists/java-concurrency)**
+---
 #### [awesome-cross-platform-nodejs](https://github.com/bcoe/awesome-cross-platform-nodejs#readme)
 _<sup>https://github.com/bcoe/awesome-cross-platform-nodejs#readme</sup>_
 

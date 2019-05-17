@@ -2,6 +2,59 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/functional-programming](https://www.bookmarks.dev/tagged/functional-programming)</sup></sup>_
 ---
+#### [cyclops-react](https://github.com/aol/cyclops-react)
+_<sup>https://github.com/aol/cyclops-react</sup>_
+
+Monad and stream utilities, comprehensions, pattern matching, functional extensions for all JDK collections, future streams, trampolines and much more.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [functional-programming](../tagged/functional-programming.md)
+* :octocat: **[source code](https://github.com/aol/cyclops-react)**
+---
+#### [derive4j](https://github.com/derive4j/derive4j)
+_<sup>https://github.com/derive4j/derive4j</sup>_
+
+Java 8 annotation processor and framework for deriving algebraic data types constructors, pattern-matching and morphisms.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [functional-programming](../tagged/functional-programming.md)
+* :octocat: **[source code](https://github.com/derive4j/derive4j)**
+---
+#### [Fugue](https://bitbucket.org/atlassian/fugue)
+_<sup>https://bitbucket.org/atlassian/fugue</sup>_
+
+Functional extensions to Guava.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [functional-programming](../tagged/functional-programming.md)
+---
+#### [Functional Java](http://www.functionaljava.org)
+_<sup>http://www.functionaljava.org</sup>_
+
+Implements numerous basic and advanced programming abstractions that assist composition-oriented development.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [functional-programming](../tagged/functional-programming.md)
+---
+#### [jOOλ](https://github.com/jOOQ/jOOL)
+_<sup>https://github.com/jOOQ/jOOL</sup>_
+
+Extension to Java 8 that aims to fix gaps in lambda by providing numerous missing types and a rich set of sequential Stream API additions.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [functional-programming](../tagged/functional-programming.md)
+* :octocat: **[source code](https://github.com/jOOQ/jOOL)**
+---
+#### [protonpack](https://github.com/poetix/protonpack)
+_<sup>https://github.com/poetix/protonpack</sup>_
+
+Collection of stream utilities.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [functional-programming](../tagged/functional-programming.md)
+* :octocat: **[source code](https://github.com/poetix/protonpack)**
+---
+#### [StreamEx](https://github.com/amaembo/streamex)
+_<sup>https://github.com/amaembo/streamex</sup>_
+
+Enhances Java 8 Streams.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [functional-programming](../tagged/functional-programming.md)
+* :octocat: **[source code](https://github.com/amaembo/streamex)**
+---
+#### [Vavr](http://www.vavr.io)
+_<sup>http://www.vavr.io</sup>_
+
+Functional component library that provides persistent data types and functional control structures.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [functional-programming](../tagged/functional-programming.md)
+---
 #### [awesome-functional-programming](https://github.com/lucasviola/awesome-functional-programming#readme)
 _<sup>https://github.com/lucasviola/awesome-functional-programming#readme</sup>_
 

@@ -2,6 +2,32 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/csv](https://www.bookmarks.dev/tagged/csv)</sup></sup>_
 ---
+#### [jackson-dataformat-csv](https://github.com/FasterXML/jackson-dataformat-csv)
+_<sup>https://github.com/FasterXML/jackson-dataformat-csv</sup>_
+
+Jackson extension for reading and writing CSV.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [csv](../tagged/csv.md)
+* :octocat: **[source code](https://github.com/FasterXML/jackson-dataformat-csv)**
+---
+#### [opencsv](http://opencsv.sourceforge.net)
+_<sup>http://opencsv.sourceforge.net</sup>_
+
+Simple CSV parser.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [csv](../tagged/csv.md)
+---
+#### [Super CSV](https://super-csv.github.io/super-csv)
+_<sup>https://super-csv.github.io/super-csv</sup>_
+
+Powerful CSV parser with support for Dozer, Joda-Time and Java 8.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [csv](../tagged/csv.md)
+---
+#### [uniVocity-parsers](https://github.com/uniVocity/univocity-parsers)
+_<sup>https://github.com/uniVocity/univocity-parsers</sup>_
+
+One of the fastest and most feature-complete parsers. Also comes with parsers for TSV and fixed-width records.
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [csv](../tagged/csv.md)
+* :octocat: **[source code](https://github.com/uniVocity/univocity-parsers)**
+---
 #### [GitHub - Keyang/node-csvtojson](https://github.com/Keyang/node-csvtojson)
 _<sup>https://github.com/Keyang/node-csvtojson</sup>_
 
