@@ -2,6 +2,65 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/functional-programming](https://www.bookmarks.dev/tagged/functional-programming)</sup></sup>_
 ---
+#### [lodash](https://lodash.com)
+_<sup>https://lodash.com</sup>_
+
+Utility library delivering consistency, customization, performance, & extras. A better and faster Underscore.js.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [functional-programming](../tagged/functional-programming.md)
+---
+#### [immutable](https://github.com/facebook/immutable-js)
+_<sup>https://github.com/facebook/immutable-js</sup>_
+
+Immutable data collections.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [functional-programming](../tagged/functional-programming.md)
+* :octocat: **[source code](https://github.com/facebook/immutable-js)**
+---
+#### [Ramda](https://github.com/ramda/ramda)
+_<sup>https://github.com/ramda/ramda</sup>_
+
+Utility library with a focus on flexible functional composition enabled by automatic currying and reversed argument order. Avoids mutating data.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [functional-programming](../tagged/functional-programming.md)
+* :octocat: **[source code](https://github.com/ramda/ramda)**
+---
+#### [Folktale](http://folktale.origamitower.com)
+_<sup>http://folktale.origamitower.com</sup>_
+
+Suite of libraries for generic functional programming in JavaScript that allows you to write elegant, modular applications with fewer bugs, and more reuse.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [functional-programming](../tagged/functional-programming.md)
+---
+#### [Mout](https://github.com/mout/mout)
+_<sup>https://github.com/mout/mout</sup>_
+
+Utility library with the biggest difference between other existing solutions is that you can choose to load only the modules/functions that you need, no extra overhead.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [functional-programming](../tagged/functional-programming.md)
+* :octocat: **[source code](https://github.com/mout/mout)**
+---
+#### [Bacon.js](http://baconjs.github.io)
+_<sup>http://baconjs.github.io</sup>_
+
+Functional reactive programming.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [functional-programming](../tagged/functional-programming.md)
+---
+#### [RxJS](http://reactivex.io)
+_<sup>http://reactivex.io</sup>_
+
+Functional reactive library for transforming, composing, and querying various kinds of data.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [functional-programming](../tagged/functional-programming.md)
+---
+#### [Lazy.js](https://github.com/dtao/lazy.js)
+_<sup>https://github.com/dtao/lazy.js</sup>_
+
+Utility library similar to lodash/Underscore but with lazy evaluation, which can translate to superior performance in many cases.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [functional-programming](../tagged/functional-programming.md)
+* :octocat: **[source code](https://github.com/dtao/lazy.js)**
+---
+#### [Kefir.js](https://github.com/kefirjs/kefir)
+_<sup>https://github.com/kefirjs/kefir</sup>_
+
+Reactive library with focus on high performance and low memory usage.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [functional-programming](../tagged/functional-programming.md)
+* :octocat: **[source code](https://github.com/kefirjs/kefir)**
+---
 #### [cyclops-react](https://github.com/aol/cyclops-react)
 _<sup>https://github.com/aol/cyclops-react</sup>_
 

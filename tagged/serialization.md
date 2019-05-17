@@ -2,6 +2,27 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/serialization](https://www.bookmarks.dev/tagged/serialization)</sup></sup>_
 ---
+#### [snappy](https://github.com/kesla/node-snappy)
+_<sup>https://github.com/kesla/node-snappy</sup>_
+
+Native bindings for Google's Snappy compression library.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [serialization](../tagged/serialization.md)
+* :octocat: **[source code](https://github.com/kesla/node-snappy)**
+---
+#### [protobuf](https://github.com/dcodeIO/protobuf.js)
+_<sup>https://github.com/dcodeIO/protobuf.js</sup>_
+
+Implementation of Protocol Buffers.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [serialization](../tagged/serialization.md)
+* :octocat: **[source code](https://github.com/dcodeIO/protobuf.js)**
+---
+#### [compactr](https://github.com/compactr/compactr.js)
+_<sup>https://github.com/compactr/compactr.js</sup>_
+
+Implementation of the Compactr protocol.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [serialization](../tagged/serialization.md)
+* :octocat: **[source code](https://github.com/compactr/compactr.js)**
+---
 #### [FlatBuffers](https://github.com/google/flatbuffers)
 _<sup>https://github.com/google/flatbuffers</sup>_
 

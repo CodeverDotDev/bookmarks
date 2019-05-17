@@ -2,6 +2,23 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/videos](https://www.bookmarks.dev/tagged/videos)</sup></sup>_
 ---
+#### [Introduction to Node.js with Ryan Dahl](https://www.youtube.com/watch?v=jo_B4LTHi3I)
+_<sup>https://www.youtube.com/watch?v=jo_B4LTHi3I</sup>_
+
+Node.js is a system for building network services for Google's V8 JavaScript engine. In this presentation Ryan Dahl, the man behind Node.js will introduce yo...
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [videos](../tagged/videos.md)
+---
+#### [Hands on with Node.js](https://learn.bevry.me/hands-on-with-node.js/preface)
+_<sup>https://learn.bevry.me/hands-on-with-node.js/preface</sup>_
+
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [videos](../tagged/videos.md)
+---
+#### [Nodetuts](http://nodetuts.com)
+_<sup>http://nodetuts.com</sup>_
+
+Series of talks, including TCP & HTTP API servers, async programming, and more.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [videos](../tagged/videos.md)
+---
 #### [Zero to GraphQL in 30 Minutes](https://www.youtube.com/embed/UBGzsb2UkeY)
 _<sup>https://www.youtube.com/embed/UBGzsb2UkeY</sup>_
 

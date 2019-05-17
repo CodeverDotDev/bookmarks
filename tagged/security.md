@@ -2,6 +2,27 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/security](https://www.bookmarks.dev/tagged/security)</sup></sup>_
 ---
+#### [snyk](https://github.com/Snyk/snyk)
+_<sup>https://github.com/Snyk/snyk</sup>_
+
+CLI and build-time tool to find & fix vulnerable npm dependencies.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [security](../tagged/security.md)
+* :octocat: **[source code](https://github.com/Snyk/snyk)**
+---
+#### [upash](https://github.com/simonepri/upash)
+_<sup>https://github.com/simonepri/upash</sup>_
+
+Unified API for all password hashing algorithms.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [security](../tagged/security.md)
+* :octocat: **[source code](https://github.com/simonepri/upash)**
+---
+#### [GuardRails](https://github.com/apps/guardrails)
+_<sup>https://github.com/apps/guardrails</sup>_
+
+GitHub app that provides security feedback in pull requests.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [security](../tagged/security.md)
+* :octocat: **[source code](https://github.com/apps/guardrails)**
+---
 #### [Apache Shiro](https://shiro.apache.org)
 _<sup>https://shiro.apache.org</sup>_
 

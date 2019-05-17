@@ -2,6 +2,36 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/tools](https://www.bookmarks.dev/tagged/tools)</sup></sup>_
 ---
+#### [OctoLinker](https://chrome.google.com/webstore/detail/octolinker/jlmafbaeoofdegohdhinkhilhclaklkp)
+_<sup>https://chrome.google.com/webstore/detail/octolinker/jlmafbaeoofdegohdhinkhilhclaklkp</sup>_
+
+Chrome extension that linkifies dependencies in package.json, .js, .jsx, .coffee and .md files on GitHub.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [tools](../tagged/tools.md)
+---
+#### [npm-hub](https://chrome.google.com/webstore/detail/npm-hub/kbbbjimdjbjclaebffknlabpogocablj)
+_<sup>https://chrome.google.com/webstore/detail/npm-hub/kbbbjimdjbjclaebffknlabpogocablj</sup>_
+
+Chrome extension to display npm dependencies at the bottom of a repo's readme.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [tools](../tagged/tools.md)
+---
+#### [RunKit](http://blog.tonicdev.com/2015/09/30/embedded-tonic.html)
+_<sup>http://blog.tonicdev.com/2015/09/30/embedded-tonic.html</sup>_
+
+Embed a Node.js environment on any website.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [tools](../tagged/tools.md)
+---
+#### [RequireBin](http://requirebin.com)
+_<sup>http://requirebin.com</sup>_
+
+Shareable JavaScript programs powered by npm and browserify.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [tools](../tagged/tools.md)
+---
+#### [github-npm-stats](https://chrome.google.com/webstore/detail/github-npm-stats/oomfflokggoffaiagenekchfnpighcef)
+_<sup>https://chrome.google.com/webstore/detail/github-npm-stats/oomfflokggoffaiagenekchfnpighcef</sup>_
+
+Chrome extension that displays npm download stats on GitHub.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [tools](../tagged/tools.md)
+---
 #### [graphiql](https://github.com/graphql/graphiql)
 _<sup>https://github.com/graphql/graphiql</sup>_
 

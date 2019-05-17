@@ -2,6 +2,32 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/documentation](https://www.bookmarks.dev/tagged/documentation)</sup></sup>_
 ---
+#### [documentation.js](https://github.com/documentationjs/documentation)
+_<sup>https://github.com/documentationjs/documentation</sup>_
+
+API documentation generator with support for ES2015+ and flow annotation.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [documentation](../tagged/documentation.md)
+* :octocat: **[source code](https://github.com/documentationjs/documentation)**
+---
+#### [ESDoc](https://github.com/esdoc/esdoc)
+_<sup>https://github.com/esdoc/esdoc</sup>_
+
+Documentation generator targeting ES2015, attaching test code and measuring documentation coverage.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [documentation](../tagged/documentation.md)
+* :octocat: **[source code](https://github.com/esdoc/esdoc)**
+---
+#### [Docco](http://jashkenas.github.io/docco/)
+_<sup>http://jashkenas.github.io/docco/</sup>_
+
+Documentation generator which produces an HTML document that displays your comments intermingled with your code.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [documentation](../tagged/documentation.md)
+---
+#### [JSDoc](http://usejsdoc.org)
+_<sup>http://usejsdoc.org</sup>_
+
+API documentation generator similar to JavaDoc or PHPDoc.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [documentation](../tagged/documentation.md)
+---
 #### [mermaid docs](https://mermaidjs.github.io/)
 _<sup>https://mermaidjs.github.io/</sup>_
 

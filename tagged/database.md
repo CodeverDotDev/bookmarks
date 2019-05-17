@@ -2,6 +2,174 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/database](https://www.bookmarks.dev/tagged/database)</sup></sup>_
 ---
+#### [PostgreSQL](https://github.com/brianc/node-postgres)
+_<sup>https://github.com/brianc/node-postgres</sup>_
+
+PostgreSQL client. Pure JavaScript and native libpq bindings.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [database](../tagged/database.md), [drivers](../tagged/drivers.md)
+* :octocat: **[source code](https://github.com/brianc/node-postgres)**
+---
+#### [Redis](https://github.com/luin/ioredis)
+_<sup>https://github.com/luin/ioredis</sup>_
+
+Redis client.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [database](../tagged/database.md), [drivers](../tagged/drivers.md)
+* :octocat: **[source code](https://github.com/luin/ioredis)**
+---
+#### [LevelUP](https://github.com/Level/levelup)
+_<sup>https://github.com/Level/levelup</sup>_
+
+LevelDB.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [database](../tagged/database.md), [drivers](../tagged/drivers.md)
+* :octocat: **[source code](https://github.com/Level/levelup)**
+---
+#### [MySQL](https://github.com/mysqljs/mysql)
+_<sup>https://github.com/mysqljs/mysql</sup>_
+
+MySQL client.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [database](../tagged/database.md), [drivers](../tagged/drivers.md)
+* :octocat: **[source code](https://github.com/mysqljs/mysql)**
+---
+#### [couchdb-nano](https://github.com/apache/couchdb-nano)
+_<sup>https://github.com/apache/couchdb-nano</sup>_
+
+CouchDB client.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [database](../tagged/database.md), [drivers](../tagged/drivers.md)
+* :octocat: **[source code](https://github.com/apache/couchdb-nano)**
+---
+#### [Aerospike](https://github.com/aerospike/aerospike-client-nodejs)
+_<sup>https://github.com/aerospike/aerospike-client-nodejs</sup>_
+
+Aerospike client.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [database](../tagged/database.md), [drivers](../tagged/drivers.md)
+* :octocat: **[source code](https://github.com/aerospike/aerospike-client-nodejs)**
+---
+#### [Couchbase](https://github.com/couchbase/couchnode)
+_<sup>https://github.com/couchbase/couchnode</sup>_
+
+Couchbase client.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [database](../tagged/database.md), [drivers](../tagged/drivers.md)
+* :octocat: **[source code](https://github.com/couchbase/couchnode)**
+---
+#### [MongoDB](https://github.com/mongodb/node-mongodb-native)
+_<sup>https://github.com/mongodb/node-mongodb-native</sup>_
+
+MongoDB driver.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [database](../tagged/database.md), [drivers](../tagged/drivers.md)
+* :octocat: **[source code](https://github.com/mongodb/node-mongodb-native)**
+---
+#### [Sequelize](https://github.com/sequelize/sequelize)
+_<sup>https://github.com/sequelize/sequelize</sup>_
+
+Multi-dialect ORM. Supports PostgreSQL, SQLite, MySQL.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [database](../tagged/database.md), [drivers-odm / orm](../tagged/drivers-odm  orm.md)
+* :octocat: **[source code](https://github.com/sequelize/sequelize)**
+---
+#### [Bookshelf](https://github.com/bookshelf/bookshelf)
+_<sup>https://github.com/bookshelf/bookshelf</sup>_
+
+ORM for PostgreSQL, MySQL and SQLite3 in the style of Backbone.js.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [database](../tagged/database.md), [drivers-odm / orm](../tagged/drivers-odm  orm.md)
+* :octocat: **[source code](https://github.com/bookshelf/bookshelf)**
+---
+#### [Massive](https://github.com/robconery/massive-js)
+_<sup>https://github.com/robconery/massive-js</sup>_
+
+PostgreSQL data access tool.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [database](../tagged/database.md), [drivers-odm / orm](../tagged/drivers-odm  orm.md)
+* :octocat: **[source code](https://github.com/robconery/massive-js)**
+---
+#### [Mongoose](https://github.com/Automattic/mongoose)
+_<sup>https://github.com/Automattic/mongoose</sup>_
+
+Elegant MongoDB object modeling.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [database](../tagged/database.md), [drivers-odm / orm](../tagged/drivers-odm  orm.md)
+* :octocat: **[source code](https://github.com/Automattic/mongoose)**
+---
+#### [Waterline](https://github.com/balderdashy/waterline)
+_<sup>https://github.com/balderdashy/waterline</sup>_
+
+Datastore-agnostic tool that dramatically simplifies interaction with one or more databases.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [database](../tagged/database.md), [drivers-odm / orm](../tagged/drivers-odm  orm.md)
+* :octocat: **[source code](https://github.com/balderdashy/waterline)**
+---
+#### [OpenRecord](https://github.com/PhilWaldmann/openrecord)
+_<sup>https://github.com/PhilWaldmann/openrecord</sup>_
+
+ORM for PostgreSQL, MySQL, SQLite3 and RESTful datastores. Similar to ActiveRecord.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [database](../tagged/database.md), [drivers-odm / orm](../tagged/drivers-odm  orm.md)
+* :octocat: **[source code](https://github.com/PhilWaldmann/openrecord)**
+---
+#### [pg-promise](https://github.com/vitaly-t/pg-promise)
+_<sup>https://github.com/vitaly-t/pg-promise</sup>_
+
+PostgreSQL framework for native SQL using promises.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [database](../tagged/database.md), [drivers-odm / orm](../tagged/drivers-odm  orm.md)
+* :octocat: **[source code](https://github.com/vitaly-t/pg-promise)**
+---
+#### [Objection.js](https://github.com/Vincit/objection.js)
+_<sup>https://github.com/Vincit/objection.js</sup>_
+
+Lightweight ORM built on the SQL query builder Knex.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [database](../tagged/database.md), [drivers-odm / orm](../tagged/drivers-odm  orm.md)
+* :octocat: **[source code](https://github.com/Vincit/objection.js)**
+---
+#### [TypeORM](https://github.com/typeorm/typeorm)
+_<sup>https://github.com/typeorm/typeorm</sup>_
+
+ORM for PostgreSQL, MariaDB, MySQL, SQLite, and more.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [database](../tagged/database.md), [drivers-odm / orm](../tagged/drivers-odm  orm.md)
+* :octocat: **[source code](https://github.com/typeorm/typeorm)**
+---
+#### [Knex](https://github.com/tgriesser/knex)
+_<sup>https://github.com/tgriesser/knex</sup>_
+
+Query builder for PostgreSQL, MySQL and SQLite3, designed to be flexible, portable, and fun to use.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [database](../tagged/database.md), [query-builder](../tagged/query-builder.md)
+* :octocat: **[source code](https://github.com/tgriesser/knex)**
+---
+#### [NeDB](https://github.com/louischatriot/nedb)
+_<sup>https://github.com/louischatriot/nedb</sup>_
+
+Embedded persistent database written in JavaScript.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/louischatriot/nedb)**
+---
+#### [Lowdb](https://github.com/typicode/lowdb)
+_<sup>https://github.com/typicode/lowdb</sup>_
+
+Small JavaScript database powered by Lodash.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/typicode/lowdb)**
+---
+#### [Keyv](https://github.com/lukechilds/keyv)
+_<sup>https://github.com/lukechilds/keyv</sup>_
+
+Simple key-value storage with support for multiple backends.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/lukechilds/keyv)**
+---
+#### [Finale](https://github.com/tommybananas/finale)
+_<sup>https://github.com/tommybananas/finale</sup>_
+
+RESTful endpoint generator for your Sequelize models.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/tommybananas/finale)**
+---
+#### [database-js](https://github.com/mlaanderson/database-js)
+_<sup>https://github.com/mlaanderson/database-js</sup>_
+
+Wrapper for multiple databases with a JDBC-like connection.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/mlaanderson/database-js)**
+---
+#### [Mongo Seeding](https://github.com/pkosiec/mongo-seeding)
+_<sup>https://github.com/pkosiec/mongo-seeding</sup>_
+
+Populate MongoDB databases with JavaScript and JSON files.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/pkosiec/mongo-seeding)**
+---
 #### [graphql-bookshelf](https://github.com/brysgo/graphql-bookshelf)
 _<sup>https://github.com/brysgo/graphql-bookshelf</sup>_
 

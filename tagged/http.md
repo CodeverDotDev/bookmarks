@@ -2,6 +2,90 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/http](https://www.bookmarks.dev/tagged/http)</sup></sup>_
 ---
+#### [got](https://github.com/sindresorhus/got)
+_<sup>https://github.com/sindresorhus/got</sup>_
+
+Nicer interface to the built-in `http` module.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [http](../tagged/http.md)
+* :octocat: **[source code](https://github.com/sindresorhus/got)**
+---
+#### [gh-got](https://github.com/sindresorhus/gh-got)
+_<sup>https://github.com/sindresorhus/gh-got</sup>_
+
+Convenience wrapper for `got` to interact with the GitHub API.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [http](../tagged/http.md)
+* :octocat: **[source code](https://github.com/sindresorhus/gh-got)**
+---
+#### [axios](https://github.com/mzabriskie/axios)
+_<sup>https://github.com/mzabriskie/axios</sup>_
+
+Promise based HTTP client (works in the browser too).
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [http](../tagged/http.md)
+* :octocat: **[source code](https://github.com/mzabriskie/axios)**
+---
+#### [wreck](https://github.com/hapijs/wreck)
+_<sup>https://github.com/hapijs/wreck</sup>_
+
+HTTP Client Utilities.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [http](../tagged/http.md)
+* :octocat: **[source code](https://github.com/hapijs/wreck)**
+---
+#### [download](https://github.com/kevva/download)
+_<sup>https://github.com/kevva/download</sup>_
+
+Download and extract files effortlessly.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [http](../tagged/http.md)
+* :octocat: **[source code](https://github.com/kevva/download)**
+---
+#### [http-proxy](https://github.com/nodejitsu/node-http-proxy)
+_<sup>https://github.com/nodejitsu/node-http-proxy</sup>_
+
+HTTP proxy.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [http](../tagged/http.md)
+* :octocat: **[source code](https://github.com/nodejitsu/node-http-proxy)**
+---
+#### [superagent](https://github.com/visionmedia/superagent)
+_<sup>https://github.com/visionmedia/superagent</sup>_
+
+HTTP request library.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [http](../tagged/http.md)
+* :octocat: **[source code](https://github.com/visionmedia/superagent)**
+---
+#### [node-fetch](https://github.com/bitinn/node-fetch)
+_<sup>https://github.com/bitinn/node-fetch</sup>_
+
+`window.fetch` for Node.js.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [http](../tagged/http.md)
+* :octocat: **[source code](https://github.com/bitinn/node-fetch)**
+---
+#### [flashheart](https://github.com/bbc/flashheart)
+_<sup>https://github.com/bbc/flashheart</sup>_
+
+REST client.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [http](../tagged/http.md)
+* :octocat: **[source code](https://github.com/bbc/flashheart)**
+---
+#### [http-fake-backend](https://github.com/micromata/http-fake-backend)
+_<sup>https://github.com/micromata/http-fake-backend</sup>_
+
+Build a fake backend by providing the content of JSON files or JavaScript objects through configurable routes.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [http](../tagged/http.md)
+* :octocat: **[source code](https://github.com/micromata/http-fake-backend)**
+---
+#### [cacheable-request](https://github.com/lukechilds/cacheable-request)
+_<sup>https://github.com/lukechilds/cacheable-request</sup>_
+
+Wrap native HTTP requests with RFC compliant cache support.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [http](../tagged/http.md)
+* :octocat: **[source code](https://github.com/lukechilds/cacheable-request)**
+---
+#### [gotql](https://github.com/khaosdoctor/gotql)
+_<sup>https://github.com/khaosdoctor/gotql</sup>_
+
+GraphQL request library built on [got](https://github.com/sindresorhus/got).
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [http](../tagged/http.md)
+* :octocat: **[source code](https://github.com/khaosdoctor/gotql)**
+---
 #### [Hypertext Transfer Protocol -- HTTP/1.1](https://tools.ietf.org/html/rfc2616)
 _<sup>https://tools.ietf.org/html/rfc2616</sup>_
 

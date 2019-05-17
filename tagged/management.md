@@ -1,0 +1,32 @@
+## Bookmarks tagged [[management]](https://www.bookmarks.dev?q=[management])
+
+_<sup><sup>[www.bookmarks.dev/tagged/management](https://www.bookmarks.dev/tagged/management)</sup></sup>_
+---
+#### [n](https://github.com/tj/n)
+_<sup>https://github.com/tj/n</sup>_
+
+Node.js version management.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [management](../tagged/management.md)
+* :octocat: **[source code](https://github.com/tj/n)**
+---
+#### [nave](https://github.com/isaacs/nave)
+_<sup>https://github.com/isaacs/nave</sup>_
+
+Virtual Environments for Node.js.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [management](../tagged/management.md)
+* :octocat: **[source code](https://github.com/isaacs/nave)**
+---
+#### [nodeenv](https://github.com/ekalinin/nodeenv)
+_<sup>https://github.com/ekalinin/nodeenv</sup>_
+
+Node.js virtual environment compatible to Python's virtualenv.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [management](../tagged/management.md)
+* :octocat: **[source code](https://github.com/ekalinin/nodeenv)**
+---
+#### [nvm for Windows](https://github.com/coreybutler/nvm-windows)
+_<sup>https://github.com/coreybutler/nvm-windows</sup>_
+
+Version management for Windows.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [management](../tagged/management.md)
+* :octocat: **[source code](https://github.com/coreybutler/nvm-windows)**
+---

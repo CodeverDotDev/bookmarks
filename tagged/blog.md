@@ -2,6 +2,18 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/blog](https://www.bookmarks.dev/tagged/blog)</sup></sup>_
 ---
+#### [Node.js blog](https://nodejs.org/en/blog/)
+_<sup>https://nodejs.org/en/blog/</sup>_
+
+Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [blog](../tagged/blog.md)
+---
+#### [webapplog.com](http://webapplog.com/tag/node-js/)
+_<sup>http://webapplog.com/tag/node-js/</sup>_
+
+Blog posts on Node.js and JavaScript from the author of Practical Node.js and Pro Express.js Azat Mardan.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [blog](../tagged/blog.md)
+---
 #### [Official GraphQL blog](https://graphql.org/blog/)
 _<sup>https://graphql.org/blog/</sup>_
 

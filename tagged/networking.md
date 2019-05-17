@@ -2,6 +2,41 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/networking](https://www.bookmarks.dev/tagged/networking)</sup></sup>_
 ---
+#### [get-port](https://github.com/sindresorhus/get-port)
+_<sup>https://github.com/sindresorhus/get-port</sup>_
+
+Get an available port.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [networking](../tagged/networking.md)
+* :octocat: **[source code](https://github.com/sindresorhus/get-port)**
+---
+#### [ipify](https://github.com/sindresorhus/ipify)
+_<sup>https://github.com/sindresorhus/ipify</sup>_
+
+Get your public IP address.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [networking](../tagged/networking.md)
+* :octocat: **[source code](https://github.com/sindresorhus/ipify)**
+---
+#### [getmac](https://github.com/bevry/getmac)
+_<sup>https://github.com/bevry/getmac</sup>_
+
+Get the computer MAC address.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [networking](../tagged/networking.md)
+* :octocat: **[source code](https://github.com/bevry/getmac)**
+---
+#### [DHCP](https://github.com/infusion/node-dhcp)
+_<sup>https://github.com/infusion/node-dhcp</sup>_
+
+DHCP client and server.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [networking](../tagged/networking.md)
+* :octocat: **[source code](https://github.com/infusion/node-dhcp)**
+---
+#### [netcat](https://github.com/roccomuso/netcat)
+_<sup>https://github.com/roccomuso/netcat</sup>_
+
+Netcat port in pure JS.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [networking](../tagged/networking.md)
+* :octocat: **[source code](https://github.com/roccomuso/netcat)**
+---
 #### [AkkaGRPC](https://github.com/akka/akka-grpc)
 _<sup>https://github.com/akka/akka-grpc</sup>_
 

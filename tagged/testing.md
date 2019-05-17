@@ -2,6 +2,144 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/testing](https://www.bookmarks.dev/tagged/testing)</sup></sup>_
 ---
+#### [AVA](https://ava.li)
+_<sup>https://ava.li</sup>_
+
+Futuristic test runner.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md)
+---
+#### [Mocha](http://mochajs.org)
+_<sup>http://mochajs.org</sup>_
+
+Feature-rich test framework making asynchronous testing simple and fun.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md)
+---
+#### [nyc](https://github.com/bcoe/nyc)
+_<sup>https://github.com/bcoe/nyc</sup>_
+
+Code coverage tool built on istanbul that works with subprocesses.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/bcoe/nyc)**
+---
+#### [tap](https://github.com/isaacs/node-tap)
+_<sup>https://github.com/isaacs/node-tap</sup>_
+
+TAP test framework.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/isaacs/node-tap)**
+---
+#### [power-assert](https://github.com/power-assert-js/power-assert)
+_<sup>https://github.com/power-assert-js/power-assert</sup>_
+
+Provides descriptive assertion messages through the standard assert interface.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/power-assert-js/power-assert)**
+---
+#### [Mochify](https://github.com/mantoni/mochify.js)
+_<sup>https://github.com/mantoni/mochify.js</sup>_
+
+TDD with Browserify, Mocha, PhantomJS and WebDriver.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/mantoni/mochify.js)**
+---
+#### [trevor](https://github.com/vdemedes/trevor)
+_<sup>https://github.com/vdemedes/trevor</sup>_
+
+Run tests against multiple versions of Node.js without switching versions manually or pushing to Travis CI.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/vdemedes/trevor)**
+---
+#### [loadtest](https://github.com/alexfernandez/loadtest)
+_<sup>https://github.com/alexfernandez/loadtest</sup>_
+
+Run load tests for your web application, with an API for automation.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/alexfernandez/loadtest)**
+---
+#### [Sinon.JS](https://github.com/sinonjs/sinon)
+_<sup>https://github.com/sinonjs/sinon</sup>_
+
+Test spies, stubs and mocks.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/sinonjs/sinon)**
+---
+#### [navit](https://github.com/nodeca/navit)
+_<sup>https://github.com/nodeca/navit</sup>_
+
+PhantomJS / SlimerJS wrapper to simplify browser test scripting.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/nodeca/navit)**
+---
+#### [Nock](https://github.com/pgte/nock)
+_<sup>https://github.com/pgte/nock</sup>_
+
+HTTP mocking and expectations.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/pgte/nock)**
+---
+#### [intern](https://github.com/theintern/intern)
+_<sup>https://github.com/theintern/intern</sup>_
+
+Code testing stack.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/theintern/intern)**
+---
+#### [toxy](https://github.com/h2non/toxy)
+_<sup>https://github.com/h2non/toxy</sup>_
+
+Hackable HTTP proxy to simulate failure scenarios and network conditions.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/h2non/toxy)**
+---
+#### [hook-std](https://github.com/sindresorhus/hook-std)
+_<sup>https://github.com/sindresorhus/hook-std</sup>_
+
+Hook and modify stdout/stderr.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/sindresorhus/hook-std)**
+---
+#### [testen](https://github.com/egoist/testen)
+_<sup>https://github.com/egoist/testen</sup>_
+
+Run tests for multiple versions of Node.js locally with NVM.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/egoist/testen)**
+---
+#### [Nightwatch](https://github.com/nightwatchjs/nightwatch)
+_<sup>https://github.com/nightwatchjs/nightwatch</sup>_
+
+Automated UI testing framework based on Selenium WebDriver.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/nightwatchjs/nightwatch)**
+---
+#### [WebdriverIO](https://github.com/webdriverio/webdriverio)
+_<sup>https://github.com/webdriverio/webdriverio</sup>_
+
+Automated testing based on the WebDriver protocol.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/webdriverio/webdriverio)**
+---
+#### [Jest](https://github.com/facebook/jest)
+_<sup>https://github.com/facebook/jest</sup>_
+
+Painless JavaScript testing.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/facebook/jest)**
+---
+#### [TestCafe](https://github.com/DevExpress/testcafe)
+_<sup>https://github.com/DevExpress/testcafe</sup>_
+
+Automated browser testing.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/DevExpress/testcafe)**
+---
+#### [abstruse](https://github.com/bleenco/abstruse)
+_<sup>https://github.com/bleenco/abstruse</sup>_
+
+Continuous Integration server.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/bleenco/abstruse)**
+---
 #### [Awaitility](https://github.com/jayway/awaitility)
 _<sup>https://github.com/jayway/awaitility</sup>_
 

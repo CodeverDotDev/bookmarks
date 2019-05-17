@@ -2,6 +2,143 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/web-frameworks](https://www.bookmarks.dev/tagged/web-frameworks)</sup></sup>_
 ---
+#### [Hapi](http://hapijs.com)
+_<sup>http://hapijs.com</sup>_
+
+Framework for building applications and services.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [web-frameworks](../tagged/web-frameworks.md)
+---
+#### [Koa](http://koajs.com)
+_<sup>http://koajs.com</sup>_
+
+Framework designed by the team behind Express, which aims to be a smaller, more expressive, and more robust foundation for web applications and APIs.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [web-frameworks](../tagged/web-frameworks.md)
+---
+#### [Express](http://expressjs.com)
+_<sup>http://expressjs.com</sup>_
+
+Web application framework, providing a robust set of features for building single and multi-page, and hybrid web applications.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [web-frameworks](../tagged/web-frameworks.md)
+---
+#### [Feathers](http://feathersjs.com)
+_<sup>http://feathersjs.com</sup>_
+
+Microservice framework built in the spirit of Express.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [web-frameworks](../tagged/web-frameworks.md)
+---
+#### [LoopBack](http://loopback.io)
+_<sup>http://loopback.io</sup>_
+
+Powerful framework for creating REST APIs and easily connecting to backend data sources.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [web-frameworks](../tagged/web-frameworks.md)
+---
+#### [Meteor](https://www.meteor.com)
+_<sup>https://www.meteor.com</sup>_
+
+An ultra-simple, database-everywhere, data-on-the-wire, pure-Javascript web framework. *(You might like [awesome-meteor](https://github.com/Urigo/awesome-meteor))*
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [web-frameworks](../tagged/web-frameworks.md)
+---
+#### [Restify](http://restify.com)
+_<sup>http://restify.com</sup>_
+
+Enables you to build correct REST web services.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [web-frameworks](../tagged/web-frameworks.md)
+---
+#### [ThinkJS](https://github.com/thinkjs/thinkjs)
+_<sup>https://github.com/thinkjs/thinkjs</sup>_
+
+Framework with ES2015+ support, WebSockets, REST API.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [web-frameworks](../tagged/web-frameworks.md)
+* :octocat: **[source code](https://github.com/thinkjs/thinkjs)**
+---
+#### [ActionHero](https://github.com/actionhero/actionhero)
+_<sup>https://github.com/actionhero/actionhero</sup>_
+
+Framework for making reusable & scalable APIs for TCP sockets, WebSockets, and HTTP clients.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [web-frameworks](../tagged/web-frameworks.md)
+* :octocat: **[source code](https://github.com/actionhero/actionhero)**
+---
+#### [MERN](http://mern.io)
+_<sup>http://mern.io</sup>_
+
+Easily build production-ready universal apps with MongoDB, Express, React, and webpack.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [web-frameworks](../tagged/web-frameworks.md)
+---
+#### [Next.js](https://github.com/zeit/next.js)
+_<sup>https://github.com/zeit/next.js</sup>_
+
+Minimalistic framework for server-rendered universal JavaScript web apps.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [web-frameworks](../tagged/web-frameworks.md)
+* :octocat: **[source code](https://github.com/zeit/next.js)**
+---
+#### [Nuxt.js](https://github.com/nuxt/nuxt.js)
+_<sup>https://github.com/nuxt/nuxt.js</sup>_
+
+Minimalistic framework for server-rendered Vue.js apps.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [web-frameworks](../tagged/web-frameworks.md)
+* :octocat: **[source code](https://github.com/nuxt/nuxt.js)**
+---
+#### [seneca](https://github.com/senecajs/seneca)
+_<sup>https://github.com/senecajs/seneca</sup>_
+
+Toolkit for writing microservices.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [web-frameworks](../tagged/web-frameworks.md)
+* :octocat: **[source code](https://github.com/senecajs/seneca)**
+---
+#### [AdonisJs](http://adonisjs.com)
+_<sup>http://adonisjs.com</sup>_
+
+A true MVC framework for Node.js built on solid foundations of Dependency Injection and IoC container.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [web-frameworks](../tagged/web-frameworks.md)
+---
+#### [Hemera](https://github.com/hemerajs/hemera)
+_<sup>https://github.com/hemerajs/hemera</sup>_
+
+Write reliable and fault-tolerant microservices with [NATS](https://nats.io).
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [web-frameworks](../tagged/web-frameworks.md)
+* :octocat: **[source code](https://github.com/hemerajs/hemera)**
+---
+#### [Micro](https://github.com/zeit/micro)
+_<sup>https://github.com/zeit/micro</sup>_
+
+Minimalistic microservice framework with an async approach.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [web-frameworks](../tagged/web-frameworks.md)
+* :octocat: **[source code](https://github.com/zeit/micro)**
+---
+#### [Moleculer](https://moleculer.services)
+_<sup>https://moleculer.services</sup>_
+
+Fast & powerful microservices framework.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [web-frameworks](../tagged/web-frameworks.md)
+---
+#### [Fastify](https://github.com/fastify/fastify)
+_<sup>https://github.com/fastify/fastify</sup>_
+
+Fast and low overhead web framework.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [web-frameworks](../tagged/web-frameworks.md)
+* :octocat: **[source code](https://github.com/fastify/fastify)**
+---
+#### [Nest](https://github.com/nestjs/nest)
+_<sup>https://github.com/nestjs/nest</sup>_
+
+Angular-inspired framework for building efficient and scalable server-side apps.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [web-frameworks](../tagged/web-frameworks.md)
+* :octocat: **[source code](https://github.com/nestjs/nest)**
+---
+#### [Zeronode](https://github.com/sfast/zeronode)
+_<sup>https://github.com/sfast/zeronode</sup>_
+
+Minimal building block for reliable and fault-tolerant microservices.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [web-frameworks](../tagged/web-frameworks.md)
+* :octocat: **[source code](https://github.com/sfast/zeronode)**
+---
+#### [TypeGraphQL](https://github.com/19majkel94/type-graphql)
+_<sup>https://github.com/19majkel94/type-graphql</sup>_
+
+Modern framework for creating GraphQL APIs with TypeScript, using classes and decorators.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [web-frameworks](../tagged/web-frameworks.md)
+* :octocat: **[source code](https://github.com/19majkel94/type-graphql)**
+---
 #### [Apache Tapestry](https://tapestry.apache.org)
 _<sup>https://tapestry.apache.org</sup>_
 

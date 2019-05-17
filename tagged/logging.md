@@ -2,6 +2,27 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/logging](https://www.bookmarks.dev/tagged/logging)</sup></sup>_
 ---
+#### [pino](https://github.com/pinojs/pino)
+_<sup>https://github.com/pinojs/pino</sup>_
+
+Extremely fast logger inspired by Bunyan.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [logging](../tagged/logging.md)
+* :octocat: **[source code](https://github.com/pinojs/pino)**
+---
+#### [console-log-level](https://github.com/watson/console-log-level)
+_<sup>https://github.com/watson/console-log-level</sup>_
+
+The most simple logger imaginable with support for log levels and custom prefixes.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [logging](../tagged/logging.md)
+* :octocat: **[source code](https://github.com/watson/console-log-level)**
+---
+#### [storyboard](https://github.com/guigrpa/storyboard)
+_<sup>https://github.com/guigrpa/storyboard</sup>_
+
+End-to-end, hierarchical, real-time, colorful logs and stories.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [logging](../tagged/logging.md)
+* :octocat: **[source code](https://github.com/guigrpa/storyboard)**
+---
 #### [Apache Log4j 2](https://logging.apache.org/log4j)
 _<sup>https://logging.apache.org/log4j</sup>_
 

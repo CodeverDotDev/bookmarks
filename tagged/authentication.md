@@ -2,6 +2,27 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/authentication](https://www.bookmarks.dev/tagged/authentication)</sup></sup>_
 ---
+#### [Passport](https://github.com/jaredhanson/passport)
+_<sup>https://github.com/jaredhanson/passport</sup>_
+
+Simple, unobtrusive authentication.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [authentication](../tagged/authentication.md)
+* :octocat: **[source code](https://github.com/jaredhanson/passport)**
+---
+#### [Grant](https://github.com/simov/grant)
+_<sup>https://github.com/simov/grant</sup>_
+
+OAuth middleware for Express, Koa, and Hapi.
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [authentication](../tagged/authentication.md)
+* :octocat: **[source code](https://github.com/simov/grant)**
+---
+#### [CloudRail](https://github.com/CloudRail/cloudrail-si-node-sdk)
+_<sup>https://github.com/CloudRail/cloudrail-si-node-sdk</sup>_
+
+Unified API for social authentication (Facebook, Twitter, Slack, Instagram, …).
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [authentication](../tagged/authentication.md)
+* :octocat: **[source code](https://github.com/CloudRail/cloudrail-si-node-sdk)**
+---
 #### [OAuth 2.0 and OpenID Connect (in plain English) - YouTube](https://www.youtube.com/watch?v=996OiexHze0)
 _<sup>https://www.youtube.com/watch?v=996OiexHze0</sup>_
 
