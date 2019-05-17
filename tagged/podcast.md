@@ -2,6 +2,24 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/podcast](https://www.bookmarks.dev/tagged/podcast)</sup></sup>_
 ---
+#### [PHP Town Hall](https://phptownhall.com/)
+_<sup>https://phptownhall.com/</sup>_
+
+A casual PHP podcast by Ben Edmunds and Phil Sturgeon.
+* **tags**: [awesome-php](../tagged/awesome-php.md), [php](../tagged/php.md), [podcast](../tagged/podcast.md)
+---
+#### [Voices of the ElePHPant](https://voicesoftheelephpant.com/)
+_<sup>https://voicesoftheelephpant.com/</sup>_
+
+Interviews with the people that are making the PHP community special.
+* **tags**: [awesome-php](../tagged/awesome-php.md), [php](../tagged/php.md), [podcast](../tagged/podcast.md)
+---
+#### [PHP Roundtable](https://www.phproundtable.com/)
+_<sup>https://www.phproundtable.com/</sup>_
+
+The PHP Roundtable is a casual gathering of developers discussing topics that PHP nerds care about.
+* **tags**: [awesome-php](../tagged/awesome-php.md), [php](../tagged/php.md), [podcast](../tagged/podcast.md)
+---
 #### [Java Off Heap](http://www.javaoffheap.com)
 _<sup>http://www.javaoffheap.com</sup>_
 

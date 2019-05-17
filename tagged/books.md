@@ -2,6 +2,84 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/books](https://www.bookmarks.dev/tagged/books)</sup></sup>_
 ---
+#### [Functional Programming in PHP](https://www.functionalphp.com/)
+_<sup>https://www.functionalphp.com/</sup>_
+
+This book will show you how to leverage these new PHP5.3+ features by understanding functional programming principles
+* **tags**: [awesome-php](../tagged/awesome-php.md), [php](../tagged/php.md), [books](../tagged/books.md)
+---
+#### [Grumpy PHPUnit](https://leanpub.com/grumpy-phpunit)
+_<sup>https://leanpub.com/grumpy-phpunit</sup>_
+
+A book about unit testing with PHPUnit by Chris Hartjes.
+* **tags**: [awesome-php](../tagged/awesome-php.md), [php](../tagged/php.md), [books](../tagged/books.md)
+---
+#### [Mastering Object-Orientated PHP](https://www.brandonsavage.net/)
+_<sup>https://www.brandonsavage.net/</sup>_
+
+A book about object-orientated PHP by Brandon Savage.
+* **tags**: [awesome-php](../tagged/awesome-php.md), [php](../tagged/php.md), [books](../tagged/books.md)
+---
+#### [Modern PHP New Features and Good Practices](http://shop.oreilly.com/product/0636920033868.do)
+_<sup>http://shop.oreilly.com/product/0636920033868.do</sup>_
+
+A book about new PHP features and best practices by Josh Lockhart.
+* **tags**: [awesome-php](../tagged/awesome-php.md), [php](../tagged/php.md), [books](../tagged/books.md)
+---
+#### [Modernizing Legacy Applications in PHP](https://leanpub.com/mlaphp)
+_<sup>https://leanpub.com/mlaphp</sup>_
+
+A book about modernizing legacy PHP applications by Paul M. Jones.
+* **tags**: [awesome-php](../tagged/awesome-php.md), [php](../tagged/php.md), [books](../tagged/books.md)
+---
+#### [PHP 7 Upgrade Guide](https://leanpub.com/php7)
+_<sup>https://leanpub.com/php7</sup>_
+
+An ebook covering all of the features and changes in PHP 7 by Colin O'Dell.
+* **tags**: [awesome-php](../tagged/awesome-php.md), [php](../tagged/php.md), [books](../tagged/books.md)
+---
+#### [PHP Pandas](https://daylerees.com/php-pandas/)
+_<sup>https://daylerees.com/php-pandas/</sup>_
+
+A book about learning to write PHP by Dayle Rees.
+* **tags**: [awesome-php](../tagged/awesome-php.md), [php](../tagged/php.md), [books](../tagged/books.md)
+---
+#### [Scaling PHP Applications](http://www.scalingphpbook.com)
+_<sup>http://www.scalingphpbook.com</sup>_
+
+An ebook about scaling PHP applications by Steve Corona.
+* **tags**: [awesome-php](../tagged/awesome-php.md), [php](../tagged/php.md), [books](../tagged/books.md)
+---
+#### [Securing PHP: Core Concepts](https://leanpub.com/securingphp-coreconcepts)
+_<sup>https://leanpub.com/securingphp-coreconcepts</sup>_
+
+A book about common security terms and practices for PHP by Chris Cornutt.
+* **tags**: [awesome-php](../tagged/awesome-php.md), [php](../tagged/php.md), [books](../tagged/books.md)
+---
+#### [Signaling PHP](https://leanpub.com/signalingphp)
+_<sup>https://leanpub.com/signalingphp</sup>_
+
+A book about catching PCNTL signals in CLI scripts by Cal Evans.
+* **tags**: [awesome-php](../tagged/awesome-php.md), [php](../tagged/php.md), [books](../tagged/books.md)
+---
+#### [The Grumpy Programmer's Guide to Building Testable PHP Applications](https://leanpub.com/grumpy-testing)
+_<sup>https://leanpub.com/grumpy-testing</sup>_
+
+A book about building testing PHP applications by Chris Hartjes.
+* **tags**: [awesome-php](../tagged/awesome-php.md), [php](../tagged/php.md), [books](../tagged/books.md)
+---
+#### [XML Parsing with PHP](https://www.phparch.com/books/xml-parsing-with-php/)
+_<sup>https://www.phparch.com/books/xml-parsing-with-php/</sup>_
+
+This book covers parsing and validating XML documents, leveraging XPath expressions, and working with namespaces as well as how to create and modify XML files programmatically.
+* **tags**: [awesome-php](../tagged/awesome-php.md), [php](../tagged/php.md), [books](../tagged/books.md)
+---
+#### [Domain-Driven Design in PHP](https://leanpub.com/ddd-in-php)
+_<sup>https://leanpub.com/ddd-in-php</sup>_
+
+Real examples written in PHP showcasing DDD Architectural Styles.
+* **tags**: [awesome-php](../tagged/awesome-php.md), [php](../tagged/php.md), [books](../tagged/books.md)
+---
 #### [Node.js in Action](https://www.manning.com/books/node-js-in-action-second-edition)
 _<sup>https://www.manning.com/books/node-js-in-action-second-edition</sup>_
 

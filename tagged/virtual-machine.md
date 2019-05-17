@@ -2,6 +2,19 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/virtual-machine](https://www.bookmarks.dev/tagged/virtual-machine)</sup></sup>_
 ---
+#### [Hack](https://hacklang.org/)
+_<sup>https://hacklang.org/</sup>_
+
+A programming language for HHVM that interoperates seamlessly with PHP.
+* **tags**: [awesome-php](../tagged/awesome-php.md), [php](../tagged/php.md), [virtual-machine](../tagged/virtual-machine.md)
+---
+#### [HHVM](https://github.com/facebook/hhvm)
+_<sup>https://github.com/facebook/hhvm</sup>_
+
+A Virtual Machine, Runtime and JIT for PHP by Facebook.
+* **tags**: [awesome-php](../tagged/awesome-php.md), [php](../tagged/php.md), [virtual-machine](../tagged/virtual-machine.md)
+* :octocat: **[source code](https://github.com/facebook/hhvm)**
+---
 #### [GraalVM](http://www.graalvm.org/)
 _<sup>http://www.graalvm.org/</sup>_
 
