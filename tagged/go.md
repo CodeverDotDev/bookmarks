@@ -2,6 +2,83 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/go](https://www.bookmarks.dev/tagged/go)</sup></sup>_
 ---
+#### [graphql](https://github.com/graphql-go/graphql)
+_<sup>https://github.com/graphql-go/graphql</sup>_
+
+An implementation of GraphQL for Go follows graphql-js
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [go](../tagged/go.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/graphql-go/graphql)**
+---
+#### [graphql-go](https://github.com/graph-gophers/graphql-go)
+_<sup>https://github.com/graph-gophers/graphql-go</sup>_
+
+GraphQL server with a focus on ease of use.
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [go](../tagged/go.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/graph-gophers/graphql-go)**
+---
+#### [GQLGen](https://github.com/99designs/gqlgen)
+_<sup>https://github.com/99designs/gqlgen</sup>_
+
+Go generate based graphql server library.
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [go](../tagged/go.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/99designs/gqlgen)**
+---
+#### [machinebox/graphql](https://github.com/machinebox/graphql)
+_<sup>https://github.com/machinebox/graphql</sup>_
+
+Simple low-level GraphQL client for Go
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [go](../tagged/go.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/machinebox/graphql)**
+---
+#### [graphql-relay-go](https://github.com/graphql-go/relay)
+_<sup>https://github.com/graphql-go/relay</sup>_
+
+A Go/Golang library to help construct a server supporting react-relay.
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [go](../tagged/go.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/graphql-go/relay)**
+---
+#### [graphql](https://github.com/tmc/graphql)
+_<sup>https://github.com/tmc/graphql</sup>_
+
+GraphQL parser and server for Go.
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [go](../tagged/go.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/tmc/graphql)**
+---
+#### [c-graphqlparser](https://github.com/tecbot/c-graphqlparser)
+_<sup>https://github.com/tecbot/c-graphqlparser</sup>_
+
+Go-gettable version of the libgraphqlparser C library for parsing GraphQL.
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [go](../tagged/go.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/tecbot/c-graphqlparser)**
+---
+#### [tallstreet-graphql](https://github.com/tallstreet/graphql)
+_<sup>https://github.com/tallstreet/graphql</sup>_
+
+GraphQL parser and server for Go that leverages libgraphqlparser
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [go](../tagged/go.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/tallstreet/graphql)**
+---
+#### [go-graphql](https://github.com/playlyfe/go-graphql)
+_<sup>https://github.com/playlyfe/go-graphql</sup>_
+
+A powerful GraphQL server implementation for Golang
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [go](../tagged/go.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/playlyfe/go-graphql)**
+---
+#### [golang-relay-starter-kit](https://github.com/sogko/golang-relay-starter-kit)
+_<sup>https://github.com/sogko/golang-relay-starter-kit</sup>_
+
+Barebones starting point for a Relay application with Golang GraphQL server.
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [go](../tagged/go.md), [examples](../tagged/examples.md)
+* :octocat: **[source code](https://github.com/sogko/golang-relay-starter-kit)**
+---
+#### [todomvc-relay-go](https://github.com/sogko/todomvc-relay-go)
+_<sup>https://github.com/sogko/todomvc-relay-go</sup>_
+
+Port of the React/Relay TodoMVC app, driven by a Golang GraphQL backend.
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [go](../tagged/go.md), [examples](../tagged/examples.md)
+* :octocat: **[source code](https://github.com/sogko/todomvc-relay-go)**
+---
 #### [awesome-go](https://github.com/avelino/awesome-go#readme)
 _<sup>https://github.com/avelino/awesome-go#readme</sup>_
 

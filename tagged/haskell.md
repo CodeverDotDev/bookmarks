@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/haskell](https://www.bookmarks.dev/tagged/haskell)</sup></sup>_
 ---
+#### [graphql-haskell](https://github.com/jdnavarro/graphql-haskell)
+_<sup>https://github.com/jdnavarro/graphql-haskell</sup>_
+
+GraphQL AST and parser for Haskell.
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [haskell](../tagged/haskell.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/jdnavarro/graphql-haskell)**
+---
 #### [awesome-haskell](https://github.com/krispo/awesome-haskell#readme)
 _<sup>https://github.com/krispo/awesome-haskell#readme</sup>_
 

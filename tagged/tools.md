@@ -2,6 +2,283 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/tools](https://www.bookmarks.dev/tagged/tools)</sup></sup>_
 ---
+#### [graphiql](https://github.com/graphql/graphiql)
+_<sup>https://github.com/graphql/graphiql</sup>_
+
+An in-browser IDE for exploring GraphQL.
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/graphql/graphiql)**
+---
+#### [GraphiQL.app](https://github.com/skevy/graphiql-app)
+_<sup>https://github.com/skevy/graphiql-app</sup>_
+
+A light, Electron-based wrapper around GraphiQL.
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/skevy/graphiql-app)**
+---
+#### [GraphQLviz](https://github.com/Macroz/GraphQLviz)
+_<sup>https://github.com/Macroz/GraphQLviz</sup>_
+
+GraphQLviz marries GraphQL (schemas) with Graphviz.
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/Macroz/GraphQLviz)**
+---
+#### [graphqlviz](https://github.com/sheerun/graphqlviz)
+_<sup>https://github.com/sheerun/graphqlviz</sup>_
+
+GraphQL API visualizer in Node.js
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/sheerun/graphqlviz)**
+---
+#### [GraphQL AST Explorer](http://dferber90.github.io/graphql-ast-explorer/)
+_<sup>http://dferber90.github.io/graphql-ast-explorer/</sup>_
+
+Explore the AST of a GraphQL document interactively
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [tools](../tagged/tools.md)
+---
+#### [GraphQLHub](https://www.graphqlhub.com/)
+_<sup>https://www.graphqlhub.com/</sup>_
+
+Query public API's schemas (e.g. Reddit, Twitter, Github, etc) using GraphiQL
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [tools](../tagged/tools.md)
+---
+#### [js-graphql-intellij-plugin](https://github.com/jimkyndemeyer/js-graphql-intellij-plugin/)
+_<sup>https://github.com/jimkyndemeyer/js-graphql-intellij-plugin/</sup>_
+
+GraphQL language support for IntelliJ IDEA and WebStorm, including Relay.QL tagged templates in JavaScript and TypeScript.
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/jimkyndemeyer/js-graphql-intellij-plugin/)**
+---
+#### [gdom](https://github.com/syrusakbary/gdom)
+_<sup>https://github.com/syrusakbary/gdom</sup>_
+
+DOM Traversing and Scraping using GraphQL.
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/syrusakbary/gdom)**
+---
+#### [Annotated GraphQL Server](https://github.com/almilo/annotated-graphql-server)
+_<sup>https://github.com/almilo/annotated-graphql-server</sup>_
+
+Server for annotated GraphQL showing how to transform a REST api into a GraphQL endpoint with annotations.
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/almilo/annotated-graphql-server)**
+---
+#### [Model Visualizer](http://nathanrandal.com/graphql-visualizer/)
+_<sup>http://nathanrandal.com/graphql-visualizer/</sup>_
+
+A small webapp that generates an ERD-like visualization of a GraphQL endpoint from an introspection query.
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [tools](../tagged/tools.md)
+---
+#### [GraphQL Network](https://github.com/Ghirro/graphql-network)
+_<sup>https://github.com/Ghirro/graphql-network</sup>_
+
+A chrome dev-tools extension for debugging GraphQL network requests.
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/Ghirro/graphql-network)**
+---
+#### [eslint-plugin-graphql](https://github.com/apollographql/eslint-plugin-graphql)
+_<sup>https://github.com/apollographql/eslint-plugin-graphql</sup>_
+
+An ESLint plugin that checks your GraphQL strings against a schema.
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/apollographql/eslint-plugin-graphql)**
+---
+#### [AST Explorer](https://astexplorer.net/)
+_<sup>https://astexplorer.net/</sup>_
+
+Select "GraphQL" at the top, explore the GraphQL AST and highlight different parts by clicking in the query.
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [tools](../tagged/tools.md)
+---
+#### [vim-graphql](https://github.com/jparise/vim-graphql)
+_<sup>https://github.com/jparise/vim-graphql</sup>_
+
+A Vim plugin that provides GraphQL file detection and syntax highlighting.
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/jparise/vim-graphql)**
+---
+#### [GraphQL CMS](https://github.com/sarkistlt/graphql-auto-generating-cms)
+_<sup>https://github.com/sarkistlt/graphql-auto-generating-cms</sup>_
+
+Use your existing GraphQL schema to generate simple for use, fully functional CMS in a couple steps.
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/sarkistlt/graphql-auto-generating-cms)**
+---
+#### [graphdoc](https://github.com/2fd/graphdoc)
+_<sup>https://github.com/2fd/graphdoc</sup>_
+
+Static page generator for documenting GraphQL Schema.
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/2fd/graphdoc)**
+---
+#### [graphql-autocomplete](https://github.com/orionsoft/atom-graphql-autocomplete)
+_<sup>https://github.com/orionsoft/atom-graphql-autocomplete</sup>_
+
+Autocomplete and lint from a GraphQL endpoint in Atom.
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/orionsoft/atom-graphql-autocomplete)**
+---
+#### [GraphQL Code Generator](https://github.com/dotansimha/graphql-code-generator)
+_<sup>https://github.com/dotansimha/graphql-code-generator</sup>_
+
+GraphQL code generator based on schema and documents.
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/dotansimha/graphql-code-generator)**
+---
+#### [GraphQL IDE](https://github.com/andev-software/graphql-ide)
+_<sup>https://github.com/andev-software/graphql-ide</sup>_
+
+An extensive IDE for exploring GraphQL API's.
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/andev-software/graphql-ide)**
+---
+#### [Swagger to GraphQL](https://github.com/yarax/swagger-to-graphql)
+_<sup>https://github.com/yarax/swagger-to-graphql</sup>_
+
+GraphQL types builder based on REST API described in Swagger. Allows to migrate to GraphQL from REST for 5 minutes
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/yarax/swagger-to-graphql)**
+---
+#### [GraphQL Voyager](https://github.com/APIs-guru/graphql-voyager)
+_<sup>https://github.com/APIs-guru/graphql-voyager</sup>_
+
+Represent any GraphQL API as an interactive graph.
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/APIs-guru/graphql-voyager)**
+---
+#### [GraphQL Docs](https://graphql-docs.com)
+_<sup>https://graphql-docs.com</sup>_
+
+Instantly create beautiful GraphQL API docs hosted online.
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [tools](../tagged/tools.md)
+---
+#### [GraphQL Faker](https://github.com/APIs-guru/graphql-faker)
+_<sup>https://github.com/APIs-guru/graphql-faker</sup>_
+
+ðŸŽ² Mock or extend your GraphQL API with faked data. No coding required.
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/APIs-guru/graphql-faker)**
+---
+#### [ts-graphql-plugin](https://github.com/Quramy/ts-graphql-plugin)
+_<sup>https://github.com/Quramy/ts-graphql-plugin</sup>_
+
+A language service plugin complete and validate GraphQL query in TypeScript template strings.
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/Quramy/ts-graphql-plugin)**
+---
+#### [Apollo Launchpad](https://launchpad.graphql.com/)
+_<sup>https://launchpad.graphql.com/</sup>_
+
+Like JSFiddle for GraphQL server code, write and deploy a GraphQL API directly from your browser.
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [tools](../tagged/tools.md)
+---
+#### [Apollo Tracing](https://github.com/apollographql/apollo-tracing)
+_<sup>https://github.com/apollographql/apollo-tracing</sup>_
+
+GraphQL extension that enables you to easily get resolver-level performance information as part of a GraphQL response.
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/apollographql/apollo-tracing)**
+---
+#### [Altair GraphQL Client](https://github.com/imolorhe/altair)
+_<sup>https://github.com/imolorhe/altair</sup>_
+
+A beautiful feature-rich GraphQL Client for all platforms.
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/imolorhe/altair)**
+---
+#### [Apollo Storybook Decorator](https://github.com/abhiaiyer91/apollo-storybook-decorator)
+_<sup>https://github.com/abhiaiyer91/apollo-storybook-decorator</sup>_
+
+Wrap your React Storybook stories with Apollo Client, provide mocks for isolated UI testing with GraphQL
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/abhiaiyer91/apollo-storybook-decorator)**
+---
+#### [GraphQL Metrics](https://github.com/Workpop/graphql-utils/tree/master/packages/graphql-metrics)
+_<sup>https://github.com/Workpop/graphql-utils/tree/master/packages/graphql-metrics</sup>_
+
+instrument GraphQL resolvers, logging response times and statuses (if there was an error or not) to the console as well as to InfluxDB.
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/Workpop/graphql-utils/tree/master/packages/graphql-metrics)**
+---
+#### [GraphQL Rover](https://github.com/Brbb/graphql-rover)
+_<sup>https://github.com/Brbb/graphql-rover</sup>_
+
+GraphQL schema interactive navigation, rearrange nodes, search and explore types and fields.
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/Brbb/graphql-rover)**
+---
+#### [json-graphql-server](https://github.com/marmelab/json-graphql-server)
+_<sup>https://github.com/marmelab/json-graphql-server</sup>_
+
+Get a full fake GraphQL API with zero coding in less than 30 seconds, based on a JSON data file.
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/marmelab/json-graphql-server)**
+---
+#### [Insomnia](https://insomnia.rest/)
+_<sup>https://insomnia.rest/</sup>_
+
+Insomnia is a cross-platform GraphQL and REST client, available for Mac, Windows, and Linux
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [tools](../tagged/tools.md)
+---
+#### [Prisma](https://github.com/prisma/prisma)
+_<sup>https://github.com/prisma/prisma</sup>_
+
+Turn your database into a GraphQL API. Prisma lets you design your data model and have a production ready GraphQL API online in minutes.
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/prisma/prisma)**
+---
+#### [tuql](https://github.com/bradleyboy/tuql)
+_<sup>https://github.com/bradleyboy/tuql</sup>_
+
+Automatically create a GraphQL server from any sqlite database.
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/bradleyboy/tuql)**
+---
+#### [Bit](https://github.com/teambit/bit)
+_<sup>https://github.com/teambit/bit</sup>_
+
+Organize GraphQL API as components to be consumed with NPM or modified from any project ([example](https://bit.dev/giladshoham/github-graphql)).
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/teambit/bit)**
+---
+#### [RAN Toolkit](https://github.com/sly777/ran)
+_<sup>https://github.com/sly777/ran</sup>_
+
+Production-ready toolkit/boilerplate with support for GraphQL, SSR, Hot-reload, CSS-in-JS, caching, and more.
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/sly777/ran)**
+---
+#### [Apollo GraphQL VSCode Extension](https://marketplace.visualstudio.com/items?itemName=apollographql.vscode-apollo)
+_<sup>https://marketplace.visualstudio.com/items?itemName=apollographql.vscode-apollo</sup>_
+
+Rich editor support for GraphQL client and server development that seamlessly integrates with the Apollo platform
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [tools](../tagged/tools.md)
+---
+#### [GRAPHQL DESIGNER](http://graphqldesigner.com/)
+_<sup>http://graphqldesigner.com/</sup>_
+
+A developer's web-app tool to rapidly prototype a full stack CRUD implementation of GraphQL with React.
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [tools](../tagged/tools.md)
+---
+#### [GraphQL Inspector](https://graphql-inspector.com/)
+_<sup>https://graphql-inspector.com/</sup>_
+
+Tooling for GraphQL. Compare schemas, validate documents, find breaking changes, find similar types, schema coverage.
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [tools](../tagged/tools.md)
+---
+#### [graphql-typed-client](https://github.com/helios1138/graphql-typed-client)
+_<sup>https://github.com/helios1138/graphql-typed-client</sup>_
+
+A tool that generates a strongly typed client library for any GraphQL endpoint.  The client allows writing GraphQL queries as plain JS objects (with type safety and awesome code completion experience)
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/helios1138/graphql-typed-client)**
+---
+#### [OASGraph](https://github.com/strongloop/oasgraph)
+_<sup>https://github.com/strongloop/oasgraph</sup>_
+
+Take any OpenAPI Specification (OAS) or swagger and create a GraphQL interface - One minute video and resources [here](https://v4.loopback.io/oasgraph.html)
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/strongloop/oasgraph)**
+---
 #### [awesome-es6-tools](https://github.com/addyosmani/es6-tools#readme)
 _<sup>https://github.com/addyosmani/es6-tools#readme</sup>_
 

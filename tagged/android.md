@@ -2,6 +2,20 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/android](https://www.bookmarks.dev/tagged/android)</sup></sup>_
 ---
+#### [apollo-android](https://github.com/apollographql/apollo-android)
+_<sup>https://github.com/apollographql/apollo-android</sup>_
+
+ðŸ“Ÿ A strongly-typed, caching GraphQL client for Android, written in Java
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [android](../tagged/android.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/apollographql/apollo-android)**
+---
+#### [apollo-frontpage-android-app](https://github.com/rnitame/apollo-frontpage-android-app)
+_<sup>https://github.com/rnitame/apollo-frontpage-android-app</sup>_
+
+ðŸ“„ Apollo "hello world" app, for Android
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [android](../tagged/android.md), [examples](../tagged/examples.md)
+* :octocat: **[source code](https://github.com/rnitame/apollo-frontpage-android-app)**
+---
 #### [awesome-android](https://github.com/JStumpp/awesome-android#readme)
 _<sup>https://github.com/JStumpp/awesome-android#readme</sup>_
 

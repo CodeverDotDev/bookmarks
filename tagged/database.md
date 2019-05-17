@@ -2,6 +2,53 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/database](https://www.bookmarks.dev/tagged/database)</sup></sup>_
 ---
+#### [graphql-bookshelf](https://github.com/brysgo/graphql-bookshelf)
+_<sup>https://github.com/brysgo/graphql-bookshelf</sup>_
+
+Some help defining GraphQL schema around BookshelfJS models.
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [javascript](../tagged/javascript.md), [libraries](../tagged/libraries.md), [database](../tagged/database.md), [orm](../tagged/orm.md)
+* :octocat: **[source code](https://github.com/brysgo/graphql-bookshelf)**
+---
+#### [graphql-sequelize](https://github.com/mickhansen/graphql-sequelize)
+_<sup>https://github.com/mickhansen/graphql-sequelize</sup>_
+
+Sequelize helpers for GraphQL.
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [javascript](../tagged/javascript.md), [libraries](../tagged/libraries.md), [database](../tagged/database.md), [orm](../tagged/orm.md)
+* :octocat: **[source code](https://github.com/mickhansen/graphql-sequelize)**
+---
+#### [graphql-thinky](https://github.com/fenos/graphql-thinky)
+_<sup>https://github.com/fenos/graphql-thinky</sup>_
+
+Build an optimized GraphQL schema from Thinky RethinkDB models.
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [javascript](../tagged/javascript.md), [libraries](../tagged/libraries.md), [database](../tagged/database.md), [orm](../tagged/orm.md)
+* :octocat: **[source code](https://github.com/fenos/graphql-thinky)**
+---
+#### [graphql-tools-sequelize](https://github.com/rse/graphql-tools-sequelize)
+_<sup>https://github.com/rse/graphql-tools-sequelize</sup>_
+
+OO-style schema definition functions and schema resolver functions for GraphQL-Tools using Sequelize ORM
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [javascript](../tagged/javascript.md), [libraries](../tagged/libraries.md), [database](../tagged/database.md), [orm](../tagged/orm.md)
+* :octocat: **[source code](https://github.com/rse/graphql-tools-sequelize)**
+---
+#### [graysql-orm-loader](https://github.com/larsbs/graysql-orm-loader)
+_<sup>https://github.com/larsbs/graysql-orm-loader</sup>_
+
+A GraysQL extension to load a GraphQL schema from an ORM.
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [javascript](../tagged/javascript.md), [libraries](../tagged/libraries.md), [database](../tagged/database.md), [orm](../tagged/orm.md)
+* :octocat: **[source code](https://github.com/larsbs/graysql-orm-loader)**
+---
+#### [GRelDAL](https://gql-dal.github.io/greldal/)
+_<sup>https://gql-dal.github.io/greldal/</sup>_
+
+A simple micro-framework for bidirectional mapping between relational datastores and GraphQL APIs.
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [javascript](../tagged/javascript.md), [libraries](../tagged/libraries.md), [database](../tagged/database.md), [orm](../tagged/orm.md)
+---
+#### [Dgraph](https://dgraph.io/)
+_<sup>https://dgraph.io/</sup>_
+
+Scalable, distributed, low latency, high throughput Graph database with GraphQL as the query language
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [database](../tagged/database.md)
+---
 #### [Apache Phoenix](https://phoenix.apache.org)
 _<sup>https://phoenix.apache.org</sup>_
 

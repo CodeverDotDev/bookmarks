@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/specifications](https://www.bookmarks.dev/tagged/specifications)</sup></sup>_
 ---
+#### [facebook/graphql](https://facebook.github.io/graphql/)
+_<sup>https://facebook.github.io/graphql/</sup>_
+
+Working Draft of the Specification for GraphQL created by Facebook.
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [specification](../tagged/specification.md), [specifications](../tagged/specifications.md)
+---
 #### [JSON Web Token (JWT) - specification / spec](https://tools.ietf.org/html/rfc7519)
 _<sup>https://tools.ietf.org/html/rfc7519</sup>_
 

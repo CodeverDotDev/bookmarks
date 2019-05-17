@@ -2,6 +2,27 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/clojure](https://www.bookmarks.dev/tagged/clojure)</sup></sup>_
 ---
+#### [graphql-clj](https://github.com/tendant/graphql-clj)
+_<sup>https://github.com/tendant/graphql-clj</sup>_
+
+A Clojure library designed to provide GraphQL implementation.
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [clojure](../tagged/clojure.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/tendant/graphql-clj)**
+---
+#### [Lacinia](https://github.com/walmartlabs/lacinia)
+_<sup>https://github.com/walmartlabs/lacinia</sup>_
+
+GraphQL implementation in pure Clojure.
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [clojure](../tagged/clojure.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/walmartlabs/lacinia)**
+---
+#### [Clojure Game Geek](https://github.com/walmartlabs/clojure-game-geek)
+_<sup>https://github.com/walmartlabs/clojure-game-geek</sup>_
+
+Example code for the Lacinia GraphQL framework tutorial.
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [clojure](../tagged/clojure.md), [examples](../tagged/examples.md)
+* :octocat: **[source code](https://github.com/walmartlabs/clojure-game-geek)**
+---
 #### [awesome-clojure](https://github.com/razum2um/awesome-clojure#readme)
 _<sup>https://github.com/razum2um/awesome-clojure#readme</sup>_
 

@@ -2,6 +2,111 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/python](https://www.bookmarks.dev/tagged/python)</sup></sup>_
 ---
+#### [graphql-parser](https://github.com/tryolabs/graphql-parser)
+_<sup>https://github.com/tryolabs/graphql-parser</sup>_
+
+GraphQL parser for Python.
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [python](../tagged/python.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/tryolabs/graphql-parser)**
+---
+#### [graphql-core](https://github.com/graphql-python/graphql-core)
+_<sup>https://github.com/graphql-python/graphql-core</sup>_
+
+GraphQL implementation for Python.
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [python](../tagged/python.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/graphql-python/graphql-core)**
+---
+#### [graphql-relay-py](https://github.com/graphql-python/graphql-relay-py)
+_<sup>https://github.com/graphql-python/graphql-relay-py</sup>_
+
+A library to help construct a graphql-py server supporting react-relay.
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [python](../tagged/python.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/graphql-python/graphql-relay-py)**
+---
+#### [graphql-parser-python](https://github.com/tallstreet/graphql-parser-python)
+_<sup>https://github.com/tallstreet/graphql-parser-python</sup>_
+
+A python wrapper around libgraphqlparser.
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [python](../tagged/python.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/tallstreet/graphql-parser-python)**
+---
+#### [graphene](https://github.com/graphql-python/graphene)
+_<sup>https://github.com/graphql-python/graphene</sup>_
+
+A package for creating GraphQL schemas/types in a Pythonic easy way.
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [python](../tagged/python.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/graphql-python/graphene)**
+---
+#### [graphene-gae](https://github.com/graphql-python/graphene-gae)
+_<sup>https://github.com/graphql-python/graphene-gae</sup>_
+
+Adds GraphQL support to Google AppEngine (GAE).
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [python](../tagged/python.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/graphql-python/graphene-gae)**
+---
+#### [django-graphiql](https://github.com/GraphQL-python-archive/django-graphiql)
+_<sup>https://github.com/GraphQL-python-archive/django-graphiql</sup>_
+
+Integrate GraphiQL easily into your Django project.
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [python](../tagged/python.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/GraphQL-python-archive/django-graphiql)**
+---
+#### [flask-graphql](https://github.com/graphql-python/flask-graphql)
+_<sup>https://github.com/graphql-python/flask-graphql</sup>_
+
+Adds GraphQL support to your Flask application.
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [python](../tagged/python.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/graphql-python/flask-graphql)**
+---
+#### [python-graphql-client](https://github.com/prisma/python-graphql-client)
+_<sup>https://github.com/prisma/python-graphql-client</sup>_
+
+Simple GraphQL client for Python 2.7+
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [python](../tagged/python.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/prisma/python-graphql-client)**
+---
+#### [python-graphjoiner](https://github.com/healx/python-graphjoiner)
+_<sup>https://github.com/healx/python-graphjoiner</sup>_
+
+Create GraphQL APIs using joins, SQL or otherwise.
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [python](../tagged/python.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/healx/python-graphjoiner)**
+---
+#### [graphene-django](https://github.com/graphql-python/graphene-django)
+_<sup>https://github.com/graphql-python/graphene-django</sup>_
+
+A Django integration for Graphene.
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [python](../tagged/python.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/graphql-python/graphene-django)**
+---
+#### [Flask-GraphQL-Auth](https://github.com/callsign-viper/Flask-GraphQL-Auth)
+_<sup>https://github.com/callsign-viper/Flask-GraphQL-Auth</sup>_
+
+An authentication library for Flask inspired from flask-jwt-extended.
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [python](../tagged/python.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/callsign-viper/Flask-GraphQL-Auth)**
+---
+#### [tartiflette](https://github.com/dailymotion/tartiflette)
+_<sup>https://github.com/dailymotion/tartiflette</sup>_
+
+GraphQL Implementation, SDL First, for python 3.6+ / asyncio.
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [python](../tagged/python.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/dailymotion/tartiflette)**
+---
+#### [tartiflette-aiohttp](https://github.com/dailymotion/tartiflette-aiohttp)
+_<sup>https://github.com/dailymotion/tartiflette-aiohttp</sup>_
+
+Wrapper of Tartiflette to expose GraphQL API over HTTP based on aiohttp / 3.6+ / asyncio, [official tutorial available on tartiflette.io](https://tartiflette.io/docs/tutorial/getting-started).
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [python](../tagged/python.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/dailymotion/tartiflette-aiohttp)**
+---
+#### [swapi-graphene](https://github.com/graphql-python/swapi-graphene)
+_<sup>https://github.com/graphql-python/swapi-graphene</sup>_
+
+A GraphQL schema and server using [Graphene](https://graphene-python.org) - [View demo online](http://swapi.graphene-python.org).
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [python](../tagged/python.md), [examples](../tagged/examples.md)
+* :octocat: **[source code](https://github.com/graphql-python/swapi-graphene)**
+---
 #### [awesome-python](https://github.com/vinta/awesome-python#readme)
 _<sup>https://github.com/vinta/awesome-python#readme</sup>_
 

@@ -2,6 +2,20 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/clojurescript](https://www.bookmarks.dev/tagged/clojurescript)</sup></sup>_
 ---
+#### [re-graph](https://github.com/oliyh/re-graph)
+_<sup>https://github.com/oliyh/re-graph</sup>_
+
+A GraphQL client for ClojureScript with bindings for re-frame applications.
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [clojurescript](../tagged/clojurescript.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/oliyh/re-graph)**
+---
+#### [graphql-query](https://github.com/district0x/graphql-query)
+_<sup>https://github.com/district0x/graphql-query</sup>_
+
+Clojure(Script) GraphQL query generation.
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [clojurescript](../tagged/clojurescript.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/district0x/graphql-query)**
+---
 #### [awesome-clojurescript](https://github.com/hantuzun/awesome-clojurescript#readme)
 _<sup>https://github.com/hantuzun/awesome-clojurescript#readme</sup>_
 

@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/lua](https://www.bookmarks.dev/tagged/lua)</sup></sup>_
 ---
+#### [graphql-lua](https://github.com/bjornbytes/graphql-lua)
+_<sup>https://github.com/bjornbytes/graphql-lua</sup>_
+
+GraphQL for Lua.
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [lua](../tagged/lua.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/bjornbytes/graphql-lua)**
+---
 #### [awesome-lua](https://github.com/LewisJEllis/awesome-lua#readme)
 _<sup>https://github.com/LewisJEllis/awesome-lua#readme</sup>_
 

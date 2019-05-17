@@ -2,6 +2,34 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/sql](https://www.bookmarks.dev/tagged/sql)</sup></sup>_
 ---
+#### [GraphpostgresQL](https://github.com/solidsnack/GraphpostgresQL)
+_<sup>https://github.com/solidsnack/GraphpostgresQL</sup>_
+
+GraphQL for Postgres.
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [sql](../tagged/sql.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/solidsnack/GraphpostgresQL)**
+---
+#### [sql-to-graphql](https://github.com/rexxars/sql-to-graphql)
+_<sup>https://github.com/rexxars/sql-to-graphql</sup>_
+
+Generate a GraphQL API based on your SQL database structure.
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [sql](../tagged/sql.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/rexxars/sql-to-graphql)**
+---
+#### [PostGraphile](https://github.com/graphile/postgraphile)
+_<sup>https://github.com/graphile/postgraphile</sup>_
+
+Lightning-fast GraphQL APIs for PostgreSQL: highly customisable; extensible via plugins; realtime.
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [sql](../tagged/sql.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/graphile/postgraphile)**
+---
+#### [Hasura](https://github.com/hasura/graphql-engine)
+_<sup>https://github.com/hasura/graphql-engine</sup>_
+
+Hasura gives Instant Realtime GraphQL APIs over PostgreSQL. Works with an existing database too.
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [sql](../tagged/sql.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/hasura/graphql-engine)**
+---
 #### [Online SQLite browser](https://extendsclass.com/sqlite-browser.html)
 _<sup>https://extendsclass.com/sqlite-browser.html</sup>_
 

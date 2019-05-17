@@ -2,6 +2,40 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/books](https://www.bookmarks.dev/tagged/books)</sup></sup>_
 ---
+#### [The GraphQL Guide](https://graphql.guide)
+_<sup>https://graphql.guide</sup>_
+
+📖 The complete GraphQL reference. By John Resig and Loren Sands-Ramshaw.
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [books](../tagged/books.md)
+---
+#### [Learning GraphQL](https://www.amazon.com/Learning-GraphQL-Declarative-Fetching-Modern/dp/1492030716/)
+_<sup>https://www.amazon.com/Learning-GraphQL-Declarative-Fetching-Modern/dp/1492030716/</sup>_
+
+Learning GraphQL: Declarative Data Fetching for Modern Web Apps [Eve Porcello, Alex Banks] on Amazon.com. *FREE* shipping on qualifying offers. <div> Why is GraphQL the most innovative technology for ...
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [books](../tagged/books.md)
+---
+#### [Craft GraphQL APIs in Elixir with Absinthe](https://pragprog.com/book/wwgraphql/craft-graphql-apis-in-elixir-with-absinthe)
+_<sup>https://pragprog.com/book/wwgraphql/craft-graphql-apis-in-elixir-with-absinthe</sup>_
+
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [books](../tagged/books.md)
+---
+#### [The Road to GraphQL](https://roadtoreact.com/course-details?courseId=THE_ROAD_TO_GRAPHQL)
+_<sup>https://roadtoreact.com/course-details?courseId=THE_ROAD_TO_GRAPHQL</sup>_
+
+The Road to GraphQL teaches you GraphQL in JavaScript with React.js and Node.js by building client-side and server-side applications ...
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [books](../tagged/books.md)
+---
+#### [Fullstack GraphQL](https://www.graphql.college/fullstack-graphql)
+_<sup>https://www.graphql.college/fullstack-graphql</sup>_
+
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [books](../tagged/books.md)
+---
+#### [Learning GraphQL and Relay](https://www.packtpub.com/web-development/learning-graphql-and-relay)
+_<sup>https://www.packtpub.com/web-development/learning-graphql-and-relay</sup>_
+
+Build data-driven React applications with ease using GraphQL and Relay
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [books](../tagged/books.md)
+---
 #### [Core Java Volume I--Fundamentals](https://www.amazon.com/Core-Java-I-Fundamentals-10th/dp/0134177304)
 _<sup>https://www.amazon.com/Core-Java-I-Fundamentals-10th/dp/0134177304</sup>_
 

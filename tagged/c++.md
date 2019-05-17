@@ -2,6 +2,20 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/c++](https://www.bookmarks.dev/tagged/c++)</sup></sup>_
 ---
+#### [libgraphqlparser](https://github.com/graphql/libgraphqlparser)
+_<sup>https://github.com/graphql/libgraphqlparser</sup>_
+
+A GraphQL query parser in C++ with C and C++ APIs.
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [c](../tagged/c.md), [c++](../tagged/c++.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/graphql/libgraphqlparser)**
+---
+#### [cppgraphqlgen](https://github.com/Microsoft/cppgraphqlgen)
+_<sup>https://github.com/Microsoft/cppgraphqlgen</sup>_
+
+C++ GraphQL schema service generator.
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [c](../tagged/c.md), [c++](../tagged/c++.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/Microsoft/cppgraphqlgen)**
+---
 #### [awesome-cpp](https://github.com/fffaraz/awesome-cpp#readme)
 _<sup>https://github.com/fffaraz/awesome-cpp#readme</sup>_
 

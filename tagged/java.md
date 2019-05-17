@@ -2,6 +2,97 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/java](https://www.bookmarks.dev/tagged/java)</sup></sup>_
 ---
+#### [gaphql-java-type-generator](https://github.com/graphql-java/graphql-java-type-generator)
+_<sup>https://github.com/graphql-java/graphql-java-type-generator</sup>_
+
+Auto-generates types for use with GraphQL Java
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [java](../tagged/java.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/graphql-java/graphql-java-type-generator)**
+---
+#### [schemagen-graphql](https://github.com/bpatters/schemagen-graphql)
+_<sup>https://github.com/bpatters/schemagen-graphql</sup>_
+
+Schema generation and execution package that turns POJO's into a GraphQL Java queryable set of objects. Enables exposing any service as a GraphQL service using Annotations.
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [java](../tagged/java.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/bpatters/schemagen-graphql)**
+---
+#### [graphql-java-annotations](https://github.com/Enigmatis/graphql-java-annotations)
+_<sup>https://github.com/Enigmatis/graphql-java-annotations</sup>_
+
+Provides annotations-based syntax for schema definition with GraphQL Java.
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [java](../tagged/java.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/Enigmatis/graphql-java-annotations)**
+---
+#### [graphql-java-tools](https://github.com/graphql-java-kickstart/graphql-java-tools)
+_<sup>https://github.com/graphql-java-kickstart/graphql-java-tools</sup>_
+
+Schema-first graphql-java convenience library that makes it easy to bring your own implementations as data resolvers.  Inspired by [graphql-tools](https://github.com/apollographql/graphql-tools) for J...
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [java](../tagged/java.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/graphql-java-kickstart/graphql-java-tools)**
+---
+#### [graphql-java-servlet](https://github.com/graphql-java-kickstart/graphql-java-servlet)
+_<sup>https://github.com/graphql-java-kickstart/graphql-java-servlet</sup>_
+
+A framework-agnostic java servlet for exposing graphql-java query endpoints with GET, POST, and multipart uploads.
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [java](../tagged/java.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/graphql-java-kickstart/graphql-java-servlet)**
+---
+#### [spring-graphql-common](https://github.com/oembedler/spring-graphql-common)
+_<sup>https://github.com/oembedler/spring-graphql-common</sup>_
+
+Spring Framework GraphQL Library.
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [java](../tagged/java.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/oembedler/spring-graphql-common)**
+---
+#### [graphql-spring-boot](https://github.com/oembedler/graphql-spring-boot)
+_<sup>https://github.com/oembedler/graphql-spring-boot</sup>_
+
+GraphQL and GraphiQL Spring Framework Boot Starters.
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [java](../tagged/java.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/oembedler/graphql-spring-boot)**
+---
+#### [vertx-graphql-service-discovery](https://github.com/engagingspaces/vertx-graphql-service-discovery)
+_<sup>https://github.com/engagingspaces/vertx-graphql-service-discovery</sup>_
+
+Asynchronous GraphQL service discovery and querying for your microservices.
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [java](../tagged/java.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/engagingspaces/vertx-graphql-service-discovery)**
+---
+#### [vertx-dataloader](https://github.com/engagingspaces/vertx-dataloader)
+_<sup>https://github.com/engagingspaces/vertx-dataloader</sup>_
+
+Port of Facebook DataLoader for efficient, asynchronous batching and caching in clustered GraphQL environments
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [java](../tagged/java.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/engagingspaces/vertx-dataloader)**
+---
+#### [graphql-spqr](https://github.com/leangen/GraphQL-SPQR)
+_<sup>https://github.com/leangen/GraphQL-SPQR</sup>_
+
+Java 8+ API for rapid development of GraphQL services.
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [java](../tagged/java.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/leangen/GraphQL-SPQR)**
+---
+#### [Light Java GraphQL](https://github.com/networknt/light-graphql-4j)
+_<sup>https://github.com/networknt/light-graphql-4j</sup>_
+
+GraphQL implementation based on light-4j. Contribute to networknt/light-graphql-4j development by creating an account on GitHub.
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [java](../tagged/java.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/networknt/light-graphql-4j)**
+---
+#### [light-java-graphql examples](https://github.com/networknt/light-example-4j/tree/master/graphql)
+_<sup>https://github.com/networknt/light-example-4j/tree/master/graphql</sup>_
+
+Examples of Light Java GraphQL and tutorials.
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [java](../tagged/java.md), [examples](../tagged/examples.md)
+* :octocat: **[source code](https://github.com/networknt/light-example-4j/tree/master/graphql)**
+---
+#### [graphql-spqr-samples](https://github.com/leangen/graphql-spqr-samples)
+_<sup>https://github.com/leangen/graphql-spqr-samples</sup>_
+
+An example GraphQL server written with Spring MVC and GraphQL-SPQR
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [java](../tagged/java.md), [examples](../tagged/examples.md)
+* :octocat: **[source code](https://github.com/leangen/graphql-spqr-samples)**
+---
 #### [dOOv](https://github.com/doov-io/doov)
 _<sup>https://github.com/doov-io/doov</sup>_
 

@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/typescript](https://www.bookmarks.dev/tagged/typescript)</sup></sup>_
 ---
+#### [Basic Apollo Server](https://github.com/DxCx/webpack-graphql-server)
+_<sup>https://github.com/DxCx/webpack-graphql-server</sup>_
+
+Basic Starter for Apollo Server, Using typescript and Webpack.
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [typescript](../tagged/typescript.md), [examples](../tagged/examples.md)
+* :octocat: **[source code](https://github.com/DxCx/webpack-graphql-server)**
+---
 #### [Adapter (TypeScript Design Patterns) - YouTube](https://www.youtube.com/watch?v=beU4i949YXU)
 _<sup>https://www.youtube.com/watch?v=beU4i949YXU</sup>_
 
