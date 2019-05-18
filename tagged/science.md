@@ -2,6 +2,133 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/science](https://www.bookmarks.dev/tagged/science)</sup></sup>_
 ---
+#### [astropy](http://www.astropy.org/)
+_<sup>http://www.astropy.org/</sup>_
+
+A community Python library for Astronomy.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [science](../tagged/science.md)
+---
+#### [bcbio-nextgen](https://github.com/chapmanb/bcbio-nextgen)
+_<sup>https://github.com/chapmanb/bcbio-nextgen</sup>_
+
+Providing best-practice pipelines for fully automated high throughput sequencing analysis.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [science](../tagged/science.md)
+* :octocat: **[source code](https://github.com/chapmanb/bcbio-nextgen)**
+---
+#### [bccb](https://github.com/chapmanb/bcbb)
+_<sup>https://github.com/chapmanb/bcbb</sup>_
+
+Collection of useful code related to biological analysis.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [science](../tagged/science.md)
+* :octocat: **[source code](https://github.com/chapmanb/bcbb)**
+---
+#### [Biopython](http://biopython.org/wiki/Main_Page)
+_<sup>http://biopython.org/wiki/Main_Page</sup>_
+
+Biopython is a set of freely available tools for biological computation.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [science](../tagged/science.md)
+---
+#### [cclib](http://cclib.github.io/)
+_<sup>http://cclib.github.io/</sup>_
+
+A library for parsing and interpreting the results of computational chemistry packages.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [science](../tagged/science.md)
+---
+#### [Colour](http://colour-science.org/)
+_<sup>http://colour-science.org/</sup>_
+
+A colour science package implementing a comprehensive number of colour theory transformations and algorithms.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [science](../tagged/science.md)
+---
+#### [NetworkX](https://networkx.github.io/)
+_<sup>https://networkx.github.io/</sup>_
+
+A high-productivity software for complex networks.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [science](../tagged/science.md)
+---
+#### [NIPY](http://nipy.org)
+_<sup>http://nipy.org</sup>_
+
+A collection of neuroimaging toolkits.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [science](../tagged/science.md)
+---
+#### [NumPy](http://www.numpy.org/)
+_<sup>http://www.numpy.org/</sup>_
+
+A fundamental package for scientific computing with Python.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [science](../tagged/science.md)
+---
+#### [Open Babel](http://openbabel.org/wiki/Main_Page)
+_<sup>http://openbabel.org/wiki/Main_Page</sup>_
+
+A chemical toolbox designed to speak the many languages of chemical data.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [science](../tagged/science.md)
+---
+#### [ObsPy](https://github.com/obspy/obspy/wiki/)
+_<sup>https://github.com/obspy/obspy/wiki/</sup>_
+
+A Python toolbox for seismology.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [science](../tagged/science.md)
+* :octocat: **[source code](https://github.com/obspy/obspy/wiki/)**
+---
+#### [PyDy](http://www.pydy.org/)
+_<sup>http://www.pydy.org/</sup>_
+
+Short for Python Dynamics, used to assist with workflow in the modeling of dynamic motion.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [science](../tagged/science.md)
+---
+#### [PyMC](https://github.com/pymc-devs/pymc3)
+_<sup>https://github.com/pymc-devs/pymc3</sup>_
+
+Markov Chain Monte Carlo sampling toolkit.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [science](../tagged/science.md)
+* :octocat: **[source code](https://github.com/pymc-devs/pymc3)**
+---
+#### [QuTiP](http://qutip.org/)
+_<sup>http://qutip.org/</sup>_
+
+Quantum Toolbox in Python.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [science](../tagged/science.md)
+---
+#### [RDKit](http://www.rdkit.org/)
+_<sup>http://www.rdkit.org/</sup>_
+
+Cheminformatics and Machine Learning Software.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [science](../tagged/science.md)
+---
+#### [SciPy](https://www.scipy.org/)
+_<sup>https://www.scipy.org/</sup>_
+
+A Python-based ecosystem of open-source software for mathematics, science, and engineering.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [science](../tagged/science.md)
+---
+#### [statsmodels](https://github.com/statsmodels/statsmodels)
+_<sup>https://github.com/statsmodels/statsmodels</sup>_
+
+Statistical modeling and econometrics in Python.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [science](../tagged/science.md)
+* :octocat: **[source code](https://github.com/statsmodels/statsmodels)**
+---
+#### [SymPy](https://github.com/sympy/sympy)
+_<sup>https://github.com/sympy/sympy</sup>_
+
+A Python library for symbolic mathematics.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [science](../tagged/science.md)
+* :octocat: **[source code](https://github.com/sympy/sympy)**
+---
+#### [Zipline](https://github.com/quantopian/zipline)
+_<sup>https://github.com/quantopian/zipline</sup>_
+
+A Pythonic algorithmic trading library.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [science](../tagged/science.md)
+* :octocat: **[source code](https://github.com/quantopian/zipline)**
+---
+#### [SimPy](https://bitbucket.org/simpy/simpy)
+_<sup>https://bitbucket.org/simpy/simpy</sup>_
+
+A process-based discrete-event simulation framework.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [science](../tagged/science.md)
+---
 #### [DataMelt](http://jwork.org/dmelt)
 _<sup>http://jwork.org/dmelt</sup>_
 

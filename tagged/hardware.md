@@ -2,6 +2,53 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/hardware](https://www.bookmarks.dev/tagged/hardware)</sup></sup>_
 ---
+#### [ino](http://inotool.org/)
+_<sup>http://inotool.org/</sup>_
+
+Command line toolkit for working with [Arduino](https://www.arduino.cc/).
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [hardware](../tagged/hardware.md)
+---
+#### [keyboard](https://github.com/boppreh/keyboard)
+_<sup>https://github.com/boppreh/keyboard</sup>_
+
+Hook and simulate global keyboard events on Windows and Linux.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [hardware](../tagged/hardware.md)
+* :octocat: **[source code](https://github.com/boppreh/keyboard)**
+---
+#### [mouse](https://github.com/boppreh/mouse)
+_<sup>https://github.com/boppreh/mouse</sup>_
+
+Hook and simulate global mouse events on Windows and Linux.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [hardware](../tagged/hardware.md)
+* :octocat: **[source code](https://github.com/boppreh/mouse)**
+---
+#### [Pingo](http://www.pingo.io/)
+_<sup>http://www.pingo.io/</sup>_
+
+Pingo provides a uniform API to program devices like the Raspberry Pi, pcDuino, Intel Galileo, etc.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [hardware](../tagged/hardware.md)
+---
+#### [PyUserInput](https://github.com/SavinaRoja/PyUserInput)
+_<sup>https://github.com/SavinaRoja/PyUserInput</sup>_
+
+A module for cross-platform control of the mouse and keyboard.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [hardware](../tagged/hardware.md)
+* :octocat: **[source code](https://github.com/SavinaRoja/PyUserInput)**
+---
+#### [scapy](https://github.com/secdev/scapy)
+_<sup>https://github.com/secdev/scapy</sup>_
+
+A brilliant packet manipulation library.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [hardware](../tagged/hardware.md)
+* :octocat: **[source code](https://github.com/secdev/scapy)**
+---
+#### [wifi](https://github.com/rockymeza/wifi)
+_<sup>https://github.com/rockymeza/wifi</sup>_
+
+A Python library and command line tool for working with WiFi on Linux.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [hardware](../tagged/hardware.md)
+* :octocat: **[source code](https://github.com/rockymeza/wifi)**
+---
 #### [johnny-five](https://github.com/rwaldron/johnny-five)
 _<sup>https://github.com/rwaldron/johnny-five</sup>_
 

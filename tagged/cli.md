@@ -2,6 +2,71 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/cli](https://www.bookmarks.dev/tagged/cli)</sup></sup>_
 ---
+#### [cement](http://builtoncement.com/)
+_<sup>http://builtoncement.com/</sup>_
+
+CLI Application Framework for Python.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [command-line-tools](../tagged/command-line-tools.md), [cli](../tagged/cli.md)
+---
+#### [click](http://click.pocoo.org/dev/)
+_<sup>http://click.pocoo.org/dev/</sup>_
+
+A package for creating beautiful command line interfaces in a composable way.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [command-line-tools](../tagged/command-line-tools.md), [cli](../tagged/cli.md)
+---
+#### [cliff](https://docs.openstack.org/developer/cliff/)
+_<sup>https://docs.openstack.org/developer/cliff/</sup>_
+
+A framework for creating command-line programs with multi-level commands.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [command-line-tools](../tagged/command-line-tools.md), [cli](../tagged/cli.md)
+---
+#### [clint](https://github.com/kennethreitz/clint)
+_<sup>https://github.com/kennethreitz/clint</sup>_
+
+Python Command-line Application Tools.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [command-line-tools](../tagged/command-line-tools.md), [cli](../tagged/cli.md)
+* :octocat: **[source code](https://github.com/kennethreitz/clint)**
+---
+#### [docopt](http://docopt.org/)
+_<sup>http://docopt.org/</sup>_
+
+Pythonic command line arguments parser.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [command-line-tools](../tagged/command-line-tools.md), [cli](../tagged/cli.md)
+---
+#### [python-fire](https://github.com/google/python-fire)
+_<sup>https://github.com/google/python-fire</sup>_
+
+A library for creating command line interfaces from absolutely any Python object.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [command-line-tools](../tagged/command-line-tools.md), [cli](../tagged/cli.md)
+* :octocat: **[source code](https://github.com/google/python-fire)**
+---
+#### [python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit)
+_<sup>https://github.com/jonathanslenders/python-prompt-toolkit</sup>_
+
+A library for building powerful interactive command lines.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [command-line-tools](../tagged/command-line-tools.md), [cli](../tagged/cli.md)
+* :octocat: **[source code](https://github.com/jonathanslenders/python-prompt-toolkit)**
+---
+#### [asciimatics](https://github.com/peterbrittain/asciimatics)
+_<sup>https://github.com/peterbrittain/asciimatics</sup>_
+
+A package to create full-screen text UIs (from interactive forms to ASCII animations).
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [command-line-tools](../tagged/command-line-tools.md), [cli](../tagged/cli.md), [terminal](../tagged/terminal.md)
+* :octocat: **[source code](https://github.com/peterbrittain/asciimatics)**
+---
+#### [bashplotlib](https://github.com/glamp/bashplotlib)
+_<sup>https://github.com/glamp/bashplotlib</sup>_
+
+Making basic plots in the terminal.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [command-line-tools](../tagged/command-line-tools.md), [cli](../tagged/cli.md), [terminal](../tagged/terminal.md)
+* :octocat: **[source code](https://github.com/glamp/bashplotlib)**
+---
+#### [colorama](https://pypi.python.org/pypi/colorama)
+_<sup>https://pypi.python.org/pypi/colorama</sup>_
+
+Cross-platform colored terminal text.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [command-line-tools](../tagged/command-line-tools.md), [cli](../tagged/cli.md), [terminal](../tagged/terminal.md)
+---
 #### [ASCII Table](https://github.com/vdmeer/asciitable)
 _<sup>https://github.com/vdmeer/asciitable</sup>_
 

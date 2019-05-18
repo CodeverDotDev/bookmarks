@@ -2,6 +2,40 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/http](https://www.bookmarks.dev/tagged/http)</sup></sup>_
 ---
+#### [grequests](https://github.com/kennethreitz/grequests)
+_<sup>https://github.com/kennethreitz/grequests</sup>_
+
+requests + gevent for asynchronous HTTP requests.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [http](../tagged/http.md)
+* :octocat: **[source code](https://github.com/kennethreitz/grequests)**
+---
+#### [httplib2](https://github.com/httplib2/httplib2)
+_<sup>https://github.com/httplib2/httplib2</sup>_
+
+Comprehensive HTTP client library.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [http](../tagged/http.md)
+* :octocat: **[source code](https://github.com/httplib2/httplib2)**
+---
+#### [requests](http://docs.python-requests.org/en/latest/)
+_<sup>http://docs.python-requests.org/en/latest/</sup>_
+
+HTTP Requests for Humans™.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [http](../tagged/http.md)
+---
+#### [treq](https://github.com/twisted/treq)
+_<sup>https://github.com/twisted/treq</sup>_
+
+Python requests like API built on top of Twisted's HTTP client.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [http](../tagged/http.md)
+* :octocat: **[source code](https://github.com/twisted/treq)**
+---
+#### [urllib3](https://github.com/shazow/urllib3)
+_<sup>https://github.com/shazow/urllib3</sup>_
+
+A HTTP library with thread-safe connection pooling, file post support, sanity friendly.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [http](../tagged/http.md)
+* :octocat: **[source code](https://github.com/shazow/urllib3)**
+---
 #### [got](https://github.com/sindresorhus/got)
 _<sup>https://github.com/sindresorhus/got</sup>_
 

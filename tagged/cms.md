@@ -2,6 +2,52 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/cms](https://www.bookmarks.dev/tagged/cms)</sup></sup>_
 ---
+#### [wagtail](https://wagtail.io/)
+_<sup>https://wagtail.io/</sup>_
+
+A Django content management system.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [cms](../tagged/cms.md)
+---
+#### [django-cms](https://www.django-cms.org/en/)
+_<sup>https://www.django-cms.org/en/</sup>_
+
+An Open source enterprise CMS based on the Django.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [cms](../tagged/cms.md), [django](../tagged/django.md)
+---
+#### [feincms](https://github.com/feincms/feincms)
+_<sup>https://github.com/feincms/feincms</sup>_
+
+One of the most advanced Content Management Systems built on Django.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [cms](../tagged/cms.md)
+* :octocat: **[source code](https://github.com/feincms/feincms)**
+---
+#### [Kotti](https://github.com/Kotti/Kotti)
+_<sup>https://github.com/Kotti/Kotti</sup>_
+
+A high-level, Pythonic web application framework built on Pyramid.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [cms](../tagged/cms.md)
+* :octocat: **[source code](https://github.com/Kotti/Kotti)**
+---
+#### [mezzanine](https://github.com/stephenmcd/mezzanine)
+_<sup>https://github.com/stephenmcd/mezzanine</sup>_
+
+A powerful, consistent, and flexible content management platform.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [cms](../tagged/cms.md)
+* :octocat: **[source code](https://github.com/stephenmcd/mezzanine)**
+---
+#### [plone](https://plone.org/)
+_<sup>https://plone.org/</sup>_
+
+A CMS built on top of the open source application server Zope.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [cms](../tagged/cms.md)
+---
+#### [quokka](https://github.com/rochacbruno/quokka)
+_<sup>https://github.com/rochacbruno/quokka</sup>_
+
+Flexible, extensible, small CMS powered by Flask and MongoDB.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [cms](../tagged/cms.md)
+* :octocat: **[source code](https://github.com/rochacbruno/quokka)**
+---
 #### [Reaction Commerce](https://github.com/reactioncommerce/reaction)
 _<sup>https://github.com/reactioncommerce/reaction</sup>_
 

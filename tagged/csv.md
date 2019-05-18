@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/csv](https://www.bookmarks.dev/tagged/csv)</sup></sup>_
 ---
+#### [csvkit](https://github.com/wireservice/csvkit)
+_<sup>https://github.com/wireservice/csvkit</sup>_
+
+Utilities for converting to and working with CSV.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [text-parsing](../tagged/text-parsing.md), [csv](../tagged/csv.md)
+* :octocat: **[source code](https://github.com/wireservice/csvkit)**
+---
 #### [jackson-dataformat-csv](https://github.com/FasterXML/jackson-dataformat-csv)
 _<sup>https://github.com/FasterXML/jackson-dataformat-csv</sup>_
 

@@ -2,6 +2,40 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/flask](https://www.bookmarks.dev/tagged/flask)</sup></sup>_
 ---
+#### [eve](https://github.com/pyeve/eve)
+_<sup>https://github.com/pyeve/eve</sup>_
+
+REST API framework powered by Flask, MongoDB and good intentions.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [rest](../tagged/rest.md), [flask](../tagged/flask.md)
+* :octocat: **[source code](https://github.com/pyeve/eve)**
+---
+#### [flask-api-utils](https://github.com/marselester/flask-api-utils)
+_<sup>https://github.com/marselester/flask-api-utils</sup>_
+
+Taking care of API representation and authentication for Flask.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [rest](../tagged/rest.md), [flask](../tagged/flask.md)
+* :octocat: **[source code](https://github.com/marselester/flask-api-utils)**
+---
+#### [flask-api](http://www.flaskapi.org/)
+_<sup>http://www.flaskapi.org/</sup>_
+
+Browsable Web APIs for Flask.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [rest](../tagged/rest.md), [flask](../tagged/flask.md)
+---
+#### [flask-restful](https://github.com/flask-restful/flask-restful)
+_<sup>https://github.com/flask-restful/flask-restful</sup>_
+
+Quickly building REST APIs for Flask.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [rest](../tagged/rest.md), [flask](../tagged/flask.md)
+* :octocat: **[source code](https://github.com/flask-restful/flask-restful)**
+---
+#### [flask-restless](https://github.com/jfinkels/flask-restless)
+_<sup>https://github.com/jfinkels/flask-restless</sup>_
+
+Generating RESTful APIs for database models defined with SQLAlchemy.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [rest](../tagged/rest.md), [flask](../tagged/flask.md)
+* :octocat: **[source code](https://github.com/jfinkels/flask-restless)**
+---
 #### [awesome-flask](https://github.com/humiaozuzu/awesome-flask#readme)
 _<sup>https://github.com/humiaozuzu/awesome-flask#readme</sup>_
 

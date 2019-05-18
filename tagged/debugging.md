@@ -2,6 +2,139 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/debugging](https://www.bookmarks.dev/tagged/debugging)</sup></sup>_
 ---
+#### [ipdb](https://github.com/gotcha/ipdb)
+_<sup>https://github.com/gotcha/ipdb</sup>_
+
+IPython-enabled [pdb](https://docs.python.org/3/library/pdb.html).
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [debugging](../tagged/debugging.md), [pdb](../tagged/pdb.md)
+* :octocat: **[source code](https://github.com/gotcha/ipdb)**
+---
+#### [pdb++](https://github.com/antocuni/pdb)
+_<sup>https://github.com/antocuni/pdb</sup>_
+
+Another drop-in replacement for pdb.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [debugging](../tagged/debugging.md), [pdb](../tagged/pdb.md)
+* :octocat: **[source code](https://github.com/antocuni/pdb)**
+---
+#### [pudb](https://github.com/inducer/pudb)
+_<sup>https://github.com/inducer/pudb</sup>_
+
+A full-screen, console-based Python debugger.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [debugging](../tagged/debugging.md), [pdb](../tagged/pdb.md)
+* :octocat: **[source code](https://github.com/inducer/pudb)**
+---
+#### [wdb](https://github.com/Kozea/wdb)
+_<sup>https://github.com/Kozea/wdb</sup>_
+
+An improbable web debugger through WebSockets.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [debugging](../tagged/debugging.md), [pdb](../tagged/pdb.md)
+* :octocat: **[source code](https://github.com/Kozea/wdb)**
+---
+#### [lptrace](https://github.com/khamidou/lptrace)
+_<sup>https://github.com/khamidou/lptrace</sup>_
+
+[strace](http://man7.org/linux/man-pages/man1/strace.1.html) for Python programs.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [debugging](../tagged/debugging.md), [tracing](../tagged/tracing.md)
+* :octocat: **[source code](https://github.com/khamidou/lptrace)**
+---
+#### [manhole](https://github.com/ionelmc/python-manhole)
+_<sup>https://github.com/ionelmc/python-manhole</sup>_
+
+Debug service that will accept unix domain socket connections and present the stacktraces for all threads and an interactive prompt.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [debugging](../tagged/debugging.md), [tracing](../tagged/tracing.md)
+* :octocat: **[source code](https://github.com/ionelmc/python-manhole)**
+---
+#### [pyringe](https://github.com/google/pyringe)
+_<sup>https://github.com/google/pyringe</sup>_
+
+Debugger capable of attaching to and injecting code into Python processes.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [debugging](../tagged/debugging.md), [tracing](../tagged/tracing.md)
+* :octocat: **[source code](https://github.com/google/pyringe)**
+---
+#### [python-hunter](https://github.com/ionelmc/python-hunter)
+_<sup>https://github.com/ionelmc/python-hunter</sup>_
+
+A flexible code tracing toolkit.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [debugging](../tagged/debugging.md), [tracing](../tagged/tracing.md)
+* :octocat: **[source code](https://github.com/ionelmc/python-hunter)**
+---
+#### [line_profiler](https://github.com/rkern/line_profiler)
+_<sup>https://github.com/rkern/line_profiler</sup>_
+
+Line-by-line profiling.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [debugging](../tagged/debugging.md), [profiler](../tagged/profiler.md)
+* :octocat: **[source code](https://github.com/rkern/line_profiler)**
+---
+#### [memory_profiler](https://github.com/fabianp/memory_profiler)
+_<sup>https://github.com/fabianp/memory_profiler</sup>_
+
+Monitor Memory usage of Python code.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [debugging](../tagged/debugging.md), [profiler](../tagged/profiler.md)
+* :octocat: **[source code](https://github.com/fabianp/memory_profiler)**
+---
+#### [profiling](https://github.com/what-studio/profiling)
+_<sup>https://github.com/what-studio/profiling</sup>_
+
+An interactive Python profiler.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [debugging](../tagged/debugging.md), [profiler](../tagged/profiler.md)
+* :octocat: **[source code](https://github.com/what-studio/profiling)**
+---
+#### [py-spy](https://github.com/benfred/py-spy)
+_<sup>https://github.com/benfred/py-spy</sup>_
+
+A sampling profiler for Python programs. Written in Rust.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [debugging](../tagged/debugging.md), [profiler](../tagged/profiler.md)
+* :octocat: **[source code](https://github.com/benfred/py-spy)**
+---
+#### [pyflame](https://github.com/uber/pyflame)
+_<sup>https://github.com/uber/pyflame</sup>_
+
+A ptracing profiler For Python.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [debugging](../tagged/debugging.md), [profiler](../tagged/profiler.md)
+* :octocat: **[source code](https://github.com/uber/pyflame)**
+---
+#### [vprof](https://github.com/nvdv/vprof)
+_<sup>https://github.com/nvdv/vprof</sup>_
+
+Visual Python profiler.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [debugging](../tagged/debugging.md), [profiler](../tagged/profiler.md)
+* :octocat: **[source code](https://github.com/nvdv/vprof)**
+---
+#### [icecream](https://github.com/gruns/icecream)
+_<sup>https://github.com/gruns/icecream</sup>_
+
+Inspect variables, expressions, and program execution with a single, simple function call.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [debugging](../tagged/debugging.md)
+* :octocat: **[source code](https://github.com/gruns/icecream)**
+---
+#### [django-debug-toolbar](https://github.com/jazzband/django-debug-toolbar)
+_<sup>https://github.com/jazzband/django-debug-toolbar</sup>_
+
+Display various debug information for Django.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [debugging](../tagged/debugging.md)
+* :octocat: **[source code](https://github.com/jazzband/django-debug-toolbar)**
+---
+#### [django-devserver](https://github.com/dcramer/django-devserver)
+_<sup>https://github.com/dcramer/django-devserver</sup>_
+
+A drop-in replacement for Django's runserver.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [debugging](../tagged/debugging.md)
+* :octocat: **[source code](https://github.com/dcramer/django-devserver)**
+---
+#### [flask-debugtoolbar](https://github.com/mgood/flask-debugtoolbar)
+_<sup>https://github.com/mgood/flask-debugtoolbar</sup>_
+
+A port of the django-debug-toolbar to flask.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [debugging](../tagged/debugging.md)
+* :octocat: **[source code](https://github.com/mgood/flask-debugtoolbar)**
+---
+#### [pyelftools](https://github.com/eliben/pyelftools)
+_<sup>https://github.com/eliben/pyelftools</sup>_
+
+Parsing and analyzing ELF files and DWARF debugging information.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [debugging](../tagged/debugging.md)
+* :octocat: **[source code](https://github.com/eliben/pyelftools)**
+---
 #### [ndb](https://github.com/GoogleChromeLabs/ndb)
 _<sup>https://github.com/GoogleChromeLabs/ndb</sup>_
 

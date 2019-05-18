@@ -2,6 +2,60 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/mocking](https://www.bookmarks.dev/tagged/mocking)</sup></sup>_
 ---
+#### [doublex](https://pypi.python.org/pypi/doublex)
+_<sup>https://pypi.python.org/pypi/doublex</sup>_
+
+Powerful test doubles framework for Python.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
+---
+#### [freezegun](https://github.com/spulec/freezegun)
+_<sup>https://github.com/spulec/freezegun</sup>_
+
+Travel through time by mocking the datetime module.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
+* :octocat: **[source code](https://github.com/spulec/freezegun)**
+---
+#### [httmock](https://github.com/patrys/httmock)
+_<sup>https://github.com/patrys/httmock</sup>_
+
+A mocking library for requests for Python 2.6+ and 3.2+.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
+* :octocat: **[source code](https://github.com/patrys/httmock)**
+---
+#### [httpretty](https://github.com/gabrielfalcao/HTTPretty)
+_<sup>https://github.com/gabrielfalcao/HTTPretty</sup>_
+
+HTTP request mock tool for Python.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
+* :octocat: **[source code](https://github.com/gabrielfalcao/HTTPretty)**
+---
+#### [mock](https://docs.python.org/3/library/unittest.mock.html)
+_<sup>https://docs.python.org/3/library/unittest.mock.html</sup>_
+
+(Python standard library) A mocking and patching library.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
+---
+#### [Mocket](https://github.com/mindflayer/python-mocket)
+_<sup>https://github.com/mindflayer/python-mocket</sup>_
+
+Socket Mock Framework plus HTTP[S]/asyncio/gevent mocking library with recording/replaying capability.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
+* :octocat: **[source code](https://github.com/mindflayer/python-mocket)**
+---
+#### [responses](https://github.com/getsentry/responses)
+_<sup>https://github.com/getsentry/responses</sup>_
+
+A utility library for mocking out the requests Python library.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
+* :octocat: **[source code](https://github.com/getsentry/responses)**
+---
+#### [VCR.py](https://github.com/kevin1024/vcrpy)
+_<sup>https://github.com/kevin1024/vcrpy</sup>_
+
+Record and replay HTTP interactions on your tests.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
+* :octocat: **[source code](https://github.com/kevin1024/vcrpy)**
+---
 #### [JMockit](http://jmockit.github.io)
 _<sup>http://jmockit.github.io</sup>_
 

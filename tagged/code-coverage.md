@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/code-coverage](https://www.bookmarks.dev/tagged/code-coverage)</sup></sup>_
 ---
+#### [coverage](https://pypi.python.org/pypi/coverage)
+_<sup>https://pypi.python.org/pypi/coverage</sup>_
+
+Code coverage measurement.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [testing](../tagged/testing.md), [code-coverage](../tagged/code-coverage.md)
+---
 #### [Clover ![c](https://www.atlassian.com/software/clover/overview)
 _<sup>https://www.atlassian.com/software/clover/overview</sup>_
 

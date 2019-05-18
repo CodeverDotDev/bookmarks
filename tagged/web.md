@@ -2,6 +2,40 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/web](https://www.bookmarks.dev/tagged/web)</sup></sup>_
 ---
+#### [locust](https://github.com/locustio/locust)
+_<sup>https://github.com/locustio/locust</sup>_
+
+Scalable user load testing tool written in Python.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [testing](../tagged/testing.md), [gui](../tagged/gui.md), [web](../tagged/web.md)
+* :octocat: **[source code](https://github.com/locustio/locust)**
+---
+#### [PyAutoGUI](https://github.com/asweigart/pyautogui)
+_<sup>https://github.com/asweigart/pyautogui</sup>_
+
+PyAutoGUI is a cross-platform GUI automation Python module for human beings.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [testing](../tagged/testing.md), [gui](../tagged/gui.md), [web](../tagged/web.md)
+* :octocat: **[source code](https://github.com/asweigart/pyautogui)**
+---
+#### [Selenium](https://pypi.python.org/pypi/selenium)
+_<sup>https://pypi.python.org/pypi/selenium</sup>_
+
+Python bindings for [Selenium](http://www.seleniumhq.org/) WebDriver.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [testing](../tagged/testing.md), [gui](../tagged/gui.md), [web](../tagged/web.md)
+---
+#### [sixpack](https://github.com/seatgeek/sixpack)
+_<sup>https://github.com/seatgeek/sixpack</sup>_
+
+A language-agnostic A/B Testing framework.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [testing](../tagged/testing.md), [gui](../tagged/gui.md), [web](../tagged/web.md)
+* :octocat: **[source code](https://github.com/seatgeek/sixpack)**
+---
+#### [splinter](https://github.com/cobrateam/splinter)
+_<sup>https://github.com/cobrateam/splinter</sup>_
+
+Open source tool for testing web applications.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [testing](../tagged/testing.md), [gui](../tagged/gui.md), [web](../tagged/web.md)
+* :octocat: **[source code](https://github.com/cobrateam/splinter)**
+---
 #### [awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo#readme)
 _<sup>https://github.com/davidsonfellipe/awesome-wpo#readme</sup>_
 

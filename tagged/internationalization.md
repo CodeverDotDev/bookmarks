@@ -2,6 +2,19 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/internationalization](https://www.bookmarks.dev/tagged/internationalization)</sup></sup>_
 ---
+#### [Babel](http://babel.pocoo.org/en/latest/)
+_<sup>http://babel.pocoo.org/en/latest/</sup>_
+
+An internationalization library for Python.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [internationalization](../tagged/internationalization.md)
+---
+#### [PyICU](https://github.com/ovalhub/pyicu)
+_<sup>https://github.com/ovalhub/pyicu</sup>_
+
+A wrapper of International Components for Unicode C++ library ([ICU](http://site.icu-project.org/)).
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [internationalization](../tagged/internationalization.md)
+* :octocat: **[source code](https://github.com/ovalhub/pyicu)**
+---
 #### [polyglot](https://github.com/airbnb/polyglot.js)
 _<sup>https://github.com/airbnb/polyglot.js</sup>_
 

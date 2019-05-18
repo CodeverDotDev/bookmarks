@@ -2,6 +2,34 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/documentation](https://www.bookmarks.dev/tagged/documentation)</sup></sup>_
 ---
+#### [sphinx](https://github.com/sphinx-doc/sphinx/)
+_<sup>https://github.com/sphinx-doc/sphinx/</sup>_
+
+Python Documentation generator.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [documentation](../tagged/documentation.md)
+* :octocat: **[source code](https://github.com/sphinx-doc/sphinx/)**
+---
+#### [awesome-sphinxdoc](https://github.com/yoloseem/awesome-sphinxdoc)
+_<sup>https://github.com/yoloseem/awesome-sphinxdoc</sup>_
+
+A curated list of awesome tools for Sphinx Python Documentation Generator - yoloseem/awesome-sphinxdoc
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [documentation](../tagged/documentation.md)
+* :octocat: **[source code](https://github.com/yoloseem/awesome-sphinxdoc)**
+---
+#### [pdoc](https://github.com/mitmproxy/pdoc)
+_<sup>https://github.com/mitmproxy/pdoc</sup>_
+
+Epydoc replacement to auto generate API documentation for Python libraries.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [documentation](../tagged/documentation.md)
+* :octocat: **[source code](https://github.com/mitmproxy/pdoc)**
+---
+#### [pycco](https://github.com/pycco-docs/pycco)
+_<sup>https://github.com/pycco-docs/pycco</sup>_
+
+The literate-programming-style documentation generator.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [documentation](../tagged/documentation.md)
+* :octocat: **[source code](https://github.com/pycco-docs/pycco)**
+---
 #### [DevDocs](http://devdocs.io/)
 _<sup>http://devdocs.io/</sup>_
 

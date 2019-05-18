@@ -2,6 +2,32 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/configuration](https://www.bookmarks.dev/tagged/configuration)</sup></sup>_
 ---
+#### [configobj](https://github.com/DiffSK/configobj)
+_<sup>https://github.com/DiffSK/configobj</sup>_
+
+INI file parser with validation.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [configuration](../tagged/configuration.md)
+* :octocat: **[source code](https://github.com/DiffSK/configobj)**
+---
+#### [configparser](https://docs.python.org/3/library/configparser.html)
+_<sup>https://docs.python.org/3/library/configparser.html</sup>_
+
+(Python standard library) INI file parser.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [configuration](../tagged/configuration.md)
+---
+#### [profig](https://profig.readthedocs.io/en/default/)
+_<sup>https://profig.readthedocs.io/en/default/</sup>_
+
+Config from multiple formats with value conversion.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [configuration](../tagged/configuration.md)
+---
+#### [python-decouple](https://github.com/henriquebastos/python-decouple)
+_<sup>https://github.com/henriquebastos/python-decouple</sup>_
+
+Strict separation of settings from code.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [configuration](../tagged/configuration.md)
+* :octocat: **[source code](https://github.com/henriquebastos/python-decouple)**
+---
 #### [centraldogma](https://github.com/line/centraldogma)
 _<sup>https://github.com/line/centraldogma</sup>_
 

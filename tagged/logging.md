@@ -2,6 +2,32 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/logging](https://www.bookmarks.dev/tagged/logging)</sup></sup>_
 ---
+#### [Eliot](https://github.com/ScatterHQ/eliot)
+_<sup>https://github.com/ScatterHQ/eliot</sup>_
+
+Logging for complex & distributed systems.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [logging](../tagged/logging.md)
+* :octocat: **[source code](https://github.com/ScatterHQ/eliot)**
+---
+#### [logbook](http://logbook.readthedocs.io/en/stable/)
+_<sup>http://logbook.readthedocs.io/en/stable/</sup>_
+
+Logging replacement for Python.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [logging](../tagged/logging.md)
+---
+#### [logging](https://docs.python.org/3/library/logging.html)
+_<sup>https://docs.python.org/3/library/logging.html</sup>_
+
+(Python standard library) Logging facility for Python.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [logging](../tagged/logging.md)
+---
+#### [raven](https://github.com/getsentry/raven-python)
+_<sup>https://github.com/getsentry/raven-python</sup>_
+
+Python client for Sentry, a log/error tracking, crash reporting and aggregation platform for web applications.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [logging](../tagged/logging.md)
+* :octocat: **[source code](https://github.com/getsentry/raven-python)**
+---
 #### [pino](https://github.com/pinojs/pino)
 _<sup>https://github.com/pinojs/pino</sup>_
 

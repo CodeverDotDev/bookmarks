@@ -2,6 +2,26 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/terminal](https://www.bookmarks.dev/tagged/terminal)</sup></sup>_
 ---
+#### [asciimatics](https://github.com/peterbrittain/asciimatics)
+_<sup>https://github.com/peterbrittain/asciimatics</sup>_
+
+A package to create full-screen text UIs (from interactive forms to ASCII animations).
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [command-line-tools](../tagged/command-line-tools.md), [cli](../tagged/cli.md), [terminal](../tagged/terminal.md)
+* :octocat: **[source code](https://github.com/peterbrittain/asciimatics)**
+---
+#### [bashplotlib](https://github.com/glamp/bashplotlib)
+_<sup>https://github.com/glamp/bashplotlib</sup>_
+
+Making basic plots in the terminal.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [command-line-tools](../tagged/command-line-tools.md), [cli](../tagged/cli.md), [terminal](../tagged/terminal.md)
+* :octocat: **[source code](https://github.com/glamp/bashplotlib)**
+---
+#### [colorama](https://pypi.python.org/pypi/colorama)
+_<sup>https://pypi.python.org/pypi/colorama</sup>_
+
+Cross-platform colored terminal text.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [command-line-tools](../tagged/command-line-tools.md), [cli](../tagged/cli.md), [terminal](../tagged/terminal.md)
+---
 #### [awesome-terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy#readme)
 _<sup>https://github.com/k4m4/terminals-are-sexy#readme</sup>_
 

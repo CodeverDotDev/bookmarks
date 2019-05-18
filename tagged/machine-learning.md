@@ -2,6 +2,53 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/machine-learning](https://www.bookmarks.dev/tagged/machine-learning)</sup></sup>_
 ---
+#### [H2O](https://github.com/h2oai/h2o-3)
+_<sup>https://github.com/h2oai/h2o-3</sup>_
+
+Open Source Fast Scalable Machine Learning Platform.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [machine-learning](../tagged/machine-learning.md)
+* :octocat: **[source code](https://github.com/h2oai/h2o-3)**
+---
+#### [Metrics](https://github.com/benhamner/Metrics)
+_<sup>https://github.com/benhamner/Metrics</sup>_
+
+Machine learning evaluation metrics.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [machine-learning](../tagged/machine-learning.md)
+* :octocat: **[source code](https://github.com/benhamner/Metrics)**
+---
+#### [NuPIC](https://github.com/numenta/nupic)
+_<sup>https://github.com/numenta/nupic</sup>_
+
+Numenta Platform for Intelligent Computing.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [machine-learning](../tagged/machine-learning.md)
+* :octocat: **[source code](https://github.com/numenta/nupic)**
+---
+#### [scikit-learn](http://scikit-learn.org/)
+_<sup>http://scikit-learn.org/</sup>_
+
+The most popular Python library for Machine Learning.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [machine-learning](../tagged/machine-learning.md)
+---
+#### [Spark ML](http://spark.apache.org/docs/latest/ml-guide.html)
+_<sup>http://spark.apache.org/docs/latest/ml-guide.html</sup>_
+
+[Apache Spark](http://spark.apache.org/)'s scalable Machine Learning library.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [machine-learning](../tagged/machine-learning.md)
+---
+#### [vowpal_porpoise](https://github.com/josephreisinger/vowpal_porpoise)
+_<sup>https://github.com/josephreisinger/vowpal_porpoise</sup>_
+
+A lightweight Python wrapper for [Vowpal Wabbit](https://github.com/JohnLangford/vowpal_wabbit/).
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [machine-learning](../tagged/machine-learning.md)
+* :octocat: **[source code](https://github.com/josephreisinger/vowpal_porpoise)**
+---
+#### [xgboost](https://github.com/dmlc/xgboost)
+_<sup>https://github.com/dmlc/xgboost</sup>_
+
+A scalable, portable, and distributed gradient boosting library.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [machine-learning](../tagged/machine-learning.md)
+* :octocat: **[source code](https://github.com/dmlc/xgboost)**
+---
 #### [ConvNetJS](https://github.com/karpathy/convnetjs)
 _<sup>https://github.com/karpathy/convnetjs</sup>_
 

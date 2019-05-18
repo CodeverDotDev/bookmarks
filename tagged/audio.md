@@ -2,6 +2,75 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/audio](https://www.bookmarks.dev/tagged/audio)</sup></sup>_
 ---
+#### [audioread](https://github.com/beetbox/audioread)
+_<sup>https://github.com/beetbox/audioread</sup>_
+
+Cross-library (GStreamer + Core Audio + MAD + FFmpeg) audio decoding.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [audio](../tagged/audio.md)
+* :octocat: **[source code](https://github.com/beetbox/audioread)**
+---
+#### [dejavu](https://github.com/worldveil/dejavu)
+_<sup>https://github.com/worldveil/dejavu</sup>_
+
+Audio fingerprinting and recognition.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [audio](../tagged/audio.md)
+* :octocat: **[source code](https://github.com/worldveil/dejavu)**
+---
+#### [mingus](http://bspaans.github.io/python-mingus/)
+_<sup>http://bspaans.github.io/python-mingus/</sup>_
+
+An advanced music theory and notation package with MIDI file and playback support.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [audio](../tagged/audio.md)
+---
+#### [pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis)
+_<sup>https://github.com/tyiannak/pyAudioAnalysis</sup>_
+
+Python Audio Analysis Library: Feature Extraction, Classification, Segmentation and Applications
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [audio](../tagged/audio.md)
+* :octocat: **[source code](https://github.com/tyiannak/pyAudioAnalysis)**
+---
+#### [pydub](https://github.com/jiaaro/pydub)
+_<sup>https://github.com/jiaaro/pydub</sup>_
+
+Manipulate audio with a simple and easy high level interface.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [audio](../tagged/audio.md)
+* :octocat: **[source code](https://github.com/jiaaro/pydub)**
+---
+#### [TimeSide](https://github.com/Parisson/TimeSide)
+_<sup>https://github.com/Parisson/TimeSide</sup>_
+
+Open web audio processing framework.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [audio](../tagged/audio.md)
+* :octocat: **[source code](https://github.com/Parisson/TimeSide)**
+---
+#### [beets](https://github.com/beetbox/beets)
+_<sup>https://github.com/beetbox/beets</sup>_
+
+A music library manager and [MusicBrainz](https://musicbrainz.org/) tagger.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [audio](../tagged/audio.md), [metadata](../tagged/metadata.md)
+* :octocat: **[source code](https://github.com/beetbox/beets)**
+---
+#### [eyeD3](https://github.com/nicfit/eyeD3)
+_<sup>https://github.com/nicfit/eyeD3</sup>_
+
+A tool for working with audio files, specifically MP3 files containing ID3 metadata.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [audio](../tagged/audio.md), [metadata](../tagged/metadata.md)
+* :octocat: **[source code](https://github.com/nicfit/eyeD3)**
+---
+#### [mutagen](https://github.com/quodlibet/mutagen)
+_<sup>https://github.com/quodlibet/mutagen</sup>_
+
+A Python module to handle audio metadata.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [audio](../tagged/audio.md), [metadata](../tagged/metadata.md)
+* :octocat: **[source code](https://github.com/quodlibet/mutagen)**
+---
+#### [tinytag](https://github.com/devsnd/tinytag)
+_<sup>https://github.com/devsnd/tinytag</sup>_
+
+A library for reading music meta data of MP3, OGG, FLAC and Wave files.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [audio](../tagged/audio.md), [metadata](../tagged/metadata.md)
+* :octocat: **[source code](https://github.com/devsnd/tinytag)**
+---
 #### [prettyembed.js](https://github.com/mike-zarandona/prettyembed.js)
 _<sup>https://github.com/mike-zarandona/prettyembed.js</sup>_
 

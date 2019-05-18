@@ -1,0 +1,31 @@
+## Bookmarks tagged [[queue]](https://www.bookmarks.dev?q=[queue])
+
+_<sup><sup>[www.bookmarks.dev/tagged/queue](https://www.bookmarks.dev/tagged/queue)</sup></sup>_
+---
+#### [celery](http://www.celeryproject.org/)
+_<sup>http://www.celeryproject.org/</sup>_
+
+An asynchronous task queue/job queue based on distributed message passing.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [queue](../tagged/queue.md)
+---
+#### [huey](https://github.com/coleifer/huey)
+_<sup>https://github.com/coleifer/huey</sup>_
+
+Little multi-threaded task queue.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [queue](../tagged/queue.md)
+* :octocat: **[source code](https://github.com/coleifer/huey)**
+---
+#### [mrq](https://github.com/pricingassistant/mrq)
+_<sup>https://github.com/pricingassistant/mrq</sup>_
+
+Mr. Queue - A distributed worker task queue in Python using Redis & gevent.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [queue](../tagged/queue.md)
+* :octocat: **[source code](https://github.com/pricingassistant/mrq)**
+---
+#### [rq](https://github.com/rq/rq)
+_<sup>https://github.com/rq/rq</sup>_
+
+Simple job queues for Python.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [queue](../tagged/queue.md)
+* :octocat: **[source code](https://github.com/rq/rq)**
+---

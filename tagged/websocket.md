@@ -2,6 +2,41 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/websocket](https://www.bookmarks.dev/tagged/websocket)</sup></sup>_
 ---
+#### [autobahn-python](https://github.com/crossbario/autobahn-python)
+_<sup>https://github.com/crossbario/autobahn-python</sup>_
+
+WebSocket & WAMP for Python on Twisted and [asyncio](https://docs.python.org/3/library/asyncio.html).
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [websocket](../tagged/websocket.md)
+* :octocat: **[source code](https://github.com/crossbario/autobahn-python)**
+---
+#### [crossbar](https://github.com/crossbario/crossbar/)
+_<sup>https://github.com/crossbario/crossbar/</sup>_
+
+Open-source Unified Application Router (Websocket & WAMP for Python on Autobahn).
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [websocket](../tagged/websocket.md)
+* :octocat: **[source code](https://github.com/crossbario/crossbar/)**
+---
+#### [django-channels](https://github.com/django/channels)
+_<sup>https://github.com/django/channels</sup>_
+
+Developer-friendly asynchrony for Django.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [websocket](../tagged/websocket.md)
+* :octocat: **[source code](https://github.com/django/channels)**
+---
+#### [django-socketio](https://github.com/stephenmcd/django-socketio)
+_<sup>https://github.com/stephenmcd/django-socketio</sup>_
+
+WebSockets for Django.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [websocket](../tagged/websocket.md)
+* :octocat: **[source code](https://github.com/stephenmcd/django-socketio)**
+---
+#### [WebSocket-for-Python](https://github.com/Lawouach/WebSocket-for-Python)
+_<sup>https://github.com/Lawouach/WebSocket-for-Python</sup>_
+
+WebSocket client and server library for Python 2 and 3 as well as PyPy.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [websocket](../tagged/websocket.md)
+* :octocat: **[source code](https://github.com/Lawouach/WebSocket-for-Python)**
+---
 #### [Build Reactive APIs with Spring WebFlux](https://developer.okta.com/blog/2018/09/24/reactive-apis-with-spring-webflux#secure-your-spring-webflux-reactive-api-with-oidc)
 _<sup>https://developer.okta.com/blog/2018/09/24/reactive-apis-with-spring-webflux#secure-your-spring-webf...</sup>_
 

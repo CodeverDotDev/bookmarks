@@ -2,6 +2,27 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/database](https://www.bookmarks.dev/tagged/database)</sup></sup>_
 ---
+#### [pickleDB](https://github.com/patx/pickledb)
+_<sup>https://github.com/patx/pickledb</sup>_
+
+A simple and lightweight key-value store for Python.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/patx/pickledb)**
+---
+#### [tinydb](https://github.com/msiemens/tinydb)
+_<sup>https://github.com/msiemens/tinydb</sup>_
+
+A tiny, document-oriented database.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/msiemens/tinydb)**
+---
+#### [ZODB](https://github.com/zopefoundation/ZODB)
+_<sup>https://github.com/zopefoundation/ZODB</sup>_
+
+A native object database for Python. A key-value and object graph database.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/zopefoundation/ZODB)**
+---
 #### [PostgreSQL](https://github.com/brianc/node-postgres)
 _<sup>https://github.com/brianc/node-postgres</sup>_
 

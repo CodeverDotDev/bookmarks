@@ -2,6 +2,55 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/deep-learning](https://www.bookmarks.dev/tagged/deep-learning)</sup></sup>_
 ---
+#### [caffe](https://github.com/BVLC/caffe)
+_<sup>https://github.com/BVLC/caffe</sup>_
+
+A fast open framework for deep learning..
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [deep-learning](../tagged/deep-learning.md)
+* :octocat: **[source code](https://github.com/BVLC/caffe)**
+---
+#### [keras](https://github.com/keras-team/keras)
+_<sup>https://github.com/keras-team/keras</sup>_
+
+A high-level neural networks library and capable of running on top of either TensorFlow or Theano.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [deep-learning](../tagged/deep-learning.md)
+* :octocat: **[source code](https://github.com/keras-team/keras)**
+---
+#### [mxnet](https://github.com/dmlc/mxnet)
+_<sup>https://github.com/dmlc/mxnet</sup>_
+
+A deep learning framework designed for both efficiency and flexibility.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [deep-learning](../tagged/deep-learning.md)
+* :octocat: **[source code](https://github.com/dmlc/mxnet)**
+---
+#### [pytorch](https://github.com/pytorch/pytorch)
+_<sup>https://github.com/pytorch/pytorch</sup>_
+
+Tensors and Dynamic neural networks in Python with strong GPU acceleration.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [deep-learning](../tagged/deep-learning.md)
+* :octocat: **[source code](https://github.com/pytorch/pytorch)**
+---
+#### [SerpentAI](https://github.com/SerpentAI/SerpentAI)
+_<sup>https://github.com/SerpentAI/SerpentAI</sup>_
+
+Game agent framework. Use any video game as a deep learning sandbox.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [deep-learning](../tagged/deep-learning.md)
+* :octocat: **[source code](https://github.com/SerpentAI/SerpentAI)**
+---
+#### [tensorflow](https://github.com/tensorflow/tensorflow)
+_<sup>https://github.com/tensorflow/tensorflow</sup>_
+
+The most popular Deep Learning framework created by Google.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [deep-learning](../tagged/deep-learning.md)
+* :octocat: **[source code](https://github.com/tensorflow/tensorflow)**
+---
+#### [Theano](https://github.com/Theano/Theano)
+_<sup>https://github.com/Theano/Theano</sup>_
+
+A library for fast numerical computation.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [deep-learning](../tagged/deep-learning.md)
+* :octocat: **[source code](https://github.com/Theano/Theano)**
+---
 #### [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning#readme)
 _<sup>https://github.com/ChristosChristofidis/awesome-deep-learning#readme</sup>_
 

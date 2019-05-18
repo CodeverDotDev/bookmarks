@@ -2,6 +2,25 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/template-engine](https://www.bookmarks.dev/tagged/template-engine)</sup></sup>_
 ---
+#### [Jinja2](https://github.com/pallets/jinja)
+_<sup>https://github.com/pallets/jinja</sup>_
+
+A modern and designer friendly templating language.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [template-engine](../tagged/template-engine.md)
+* :octocat: **[source code](https://github.com/pallets/jinja)**
+---
+#### [Genshi](https://genshi.edgewall.org/)
+_<sup>https://genshi.edgewall.org/</sup>_
+
+Python templating toolkit for generation of web-aware output.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [template-engine](../tagged/template-engine.md)
+---
+#### [Mako](http://www.makotemplates.org/)
+_<sup>http://www.makotemplates.org/</sup>_
+
+Hyperfast and lightweight templating for the Python platform.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [template-engine](../tagged/template-engine.md)
+---
 #### [Handlebars.java](https://jknack.github.io/handlebars.java)
 _<sup>https://jknack.github.io/handlebars.java</sup>_
 

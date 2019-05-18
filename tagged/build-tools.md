@@ -2,6 +2,38 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/build-tools](https://www.bookmarks.dev/tagged/build-tools)</sup></sup>_
 ---
+#### [BitBake](http://www.yoctoproject.org/docs/1.6/bitbake-user-manual/bitbake-user-manual.html)
+_<sup>http://www.yoctoproject.org/docs/1.6/bitbake-user-manual/bitbake-user-manual.html</sup>_
+
+A make-like build tool for embedded Linux.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [build-tools](../tagged/build-tools.md)
+---
+#### [buildout](http://www.buildout.org/en/latest/)
+_<sup>http://www.buildout.org/en/latest/</sup>_
+
+A build system for creating, assembling and deploying applications from multiple parts.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [build-tools](../tagged/build-tools.md)
+---
+#### [PlatformIO](https://github.com/platformio/platformio-core)
+_<sup>https://github.com/platformio/platformio-core</sup>_
+
+A console tool to build code with different development platforms.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [build-tools](../tagged/build-tools.md)
+* :octocat: **[source code](https://github.com/platformio/platformio-core)**
+---
+#### [pybuilder](https://github.com/pybuilder/pybuilder)
+_<sup>https://github.com/pybuilder/pybuilder</sup>_
+
+A continuous build tool written in pure Python.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [build-tools](../tagged/build-tools.md)
+* :octocat: **[source code](https://github.com/pybuilder/pybuilder)**
+---
+#### [SCons](http://www.scons.org/)
+_<sup>http://www.scons.org/</sup>_
+
+A software construction tool.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [build-tools](../tagged/build-tools.md)
+---
 #### [parcel](https://github.com/parcel-bundler/parcel)
 _<sup>https://github.com/parcel-bundler/parcel</sup>_
 

@@ -2,6 +2,72 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/data-visualization](https://www.bookmarks.dev/tagged/data-visualization)</sup></sup>_
 ---
+#### [Altair](https://github.com/altair-viz/altair)
+_<sup>https://github.com/altair-viz/altair</sup>_
+
+Declarative statistical visualization library for Python.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [data-visualization](../tagged/data-visualization.md)
+* :octocat: **[source code](https://github.com/altair-viz/altair)**
+---
+#### [Bokeh](https://github.com/bokeh/bokeh)
+_<sup>https://github.com/bokeh/bokeh</sup>_
+
+Interactive Web Plotting for Python.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [data-visualization](../tagged/data-visualization.md)
+* :octocat: **[source code](https://github.com/bokeh/bokeh)**
+---
+#### [bqplot](https://github.com/bloomberg/bqplot)
+_<sup>https://github.com/bloomberg/bqplot</sup>_
+
+Interactive Plotting Library for the Jupyter Notebook
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [data-visualization](../tagged/data-visualization.md)
+* :octocat: **[source code](https://github.com/bloomberg/bqplot)**
+---
+#### [ggplot](https://github.com/yhat/ggpy)
+_<sup>https://github.com/yhat/ggpy</sup>_
+
+Same API as ggplot2 for R.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [data-visualization](../tagged/data-visualization.md)
+* :octocat: **[source code](https://github.com/yhat/ggpy)**
+---
+#### [Matplotlib](http://matplotlib.org/)
+_<sup>http://matplotlib.org/</sup>_
+
+A Python 2D plotting library.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [data-visualization](../tagged/data-visualization.md)
+---
+#### [Pygal](http://www.pygal.org/en/latest/)
+_<sup>http://www.pygal.org/en/latest/</sup>_
+
+A Python SVG Charts Creator.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [data-visualization](../tagged/data-visualization.md)
+---
+#### [PyGraphviz](https://pypi.python.org/pypi/pygraphviz)
+_<sup>https://pypi.python.org/pypi/pygraphviz</sup>_
+
+Python interface to [Graphviz](http://www.graphviz.org/).
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [data-visualization](../tagged/data-visualization.md)
+---
+#### [PyQtGraph](http://www.pyqtgraph.org/)
+_<sup>http://www.pyqtgraph.org/</sup>_
+
+Interactive and realtime 2D/3D/Image plotting and science/engineering widgets.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [data-visualization](../tagged/data-visualization.md)
+---
+#### [Seaborn](https://github.com/mwaskom/seaborn)
+_<sup>https://github.com/mwaskom/seaborn</sup>_
+
+Statistical data visualization using Matplotlib.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [data-visualization](../tagged/data-visualization.md)
+* :octocat: **[source code](https://github.com/mwaskom/seaborn)**
+---
+#### [VisPy](https://github.com/vispy/vispy)
+_<sup>https://github.com/vispy/vispy</sup>_
+
+High-performance scientific visualization based on OpenGL.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [data-visualization](../tagged/data-visualization.md)
+* :octocat: **[source code](https://github.com/vispy/vispy)**
+---
 #### [d3](https://github.com/d3/d3)
 _<sup>https://github.com/d3/d3</sup>_
 

@@ -2,6 +2,32 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/cryptography](https://www.bookmarks.dev/tagged/cryptography)</sup></sup>_
 ---
+#### [cryptography](https://cryptography.io/en/latest/)
+_<sup>https://cryptography.io/en/latest/</sup>_
+
+A package designed to expose cryptographic primitives and recipes to Python developers.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [cryptography](../tagged/cryptography.md)
+---
+#### [paramiko](https://github.com/paramiko/paramiko)
+_<sup>https://github.com/paramiko/paramiko</sup>_
+
+A Python (2.6+, 3.3+) implementation of the SSHv2 protocol, providing both client and server functionality.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [cryptography](../tagged/cryptography.md)
+* :octocat: **[source code](https://github.com/paramiko/paramiko)**
+---
+#### [passlib](https://passlib.readthedocs.io/en/stable/)
+_<sup>https://passlib.readthedocs.io/en/stable/</sup>_
+
+Secure password storage/hashing library, very high level.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [cryptography](../tagged/cryptography.md)
+---
+#### [pynacl](https://github.com/pyca/pynacl)
+_<sup>https://github.com/pyca/pynacl</sup>_
+
+Python binding to the Networking and Cryptography (NaCl) library.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [cryptography](../tagged/cryptography.md)
+* :octocat: **[source code](https://github.com/pyca/pynacl)**
+---
 #### [awesome-cryptography](https://github.com/sobolevn/awesome-cryptography#readme)
 _<sup>https://github.com/sobolevn/awesome-cryptography#readme</sup>_
 

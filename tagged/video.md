@@ -2,6 +2,19 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/video](https://www.bookmarks.dev/tagged/video)</sup></sup>_
 ---
+#### [moviepy](https://zulko.github.io/moviepy/)
+_<sup>https://zulko.github.io/moviepy/</sup>_
+
+A module for script-based movie editing with many formats, including animated GIFs.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [video](../tagged/video.md)
+---
+#### [scikit-video](https://github.com/aizvorski/scikit-video)
+_<sup>https://github.com/aizvorski/scikit-video</sup>_
+
+Video processing routines for SciPy.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [video](../tagged/video.md)
+* :octocat: **[source code](https://github.com/aizvorski/scikit-video)**
+---
 #### [prettyembed.js](https://github.com/mike-zarandona/prettyembed.js)
 _<sup>https://github.com/mike-zarandona/prettyembed.js</sup>_
 

@@ -2,6 +2,27 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/serialization](https://www.bookmarks.dev/tagged/serialization)</sup></sup>_
 ---
+#### [marshmallow](https://github.com/marshmallow-code/marshmallow)
+_<sup>https://github.com/marshmallow-code/marshmallow</sup>_
+
+A lightweight library for converting complex objects to and from simple Python datatypes.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [serialization](../tagged/serialization.md)
+* :octocat: **[source code](https://github.com/marshmallow-code/marshmallow)**
+---
+#### [pysimdjson](https://github.com/TkTech/pysimdjson)
+_<sup>https://github.com/TkTech/pysimdjson</sup>_
+
+A Python bindings for [simdjson](https://github.com/lemire/simdjson).
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [serialization](../tagged/serialization.md)
+* :octocat: **[source code](https://github.com/TkTech/pysimdjson)**
+---
+#### [python-rapidjson](https://github.com/python-rapidjson/python-rapidjson)
+_<sup>https://github.com/python-rapidjson/python-rapidjson</sup>_
+
+A Python wrapper around [RapidJSON](https://github.com/Tencent/rapidjson).
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [serialization](../tagged/serialization.md)
+* :octocat: **[source code](https://github.com/python-rapidjson/python-rapidjson)**
+---
 #### [snappy](https://github.com/kesla/node-snappy)
 _<sup>https://github.com/kesla/node-snappy</sup>_
 

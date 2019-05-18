@@ -2,6 +2,68 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/twitter-accounts](https://www.bookmarks.dev/tagged/twitter-accounts)</sup></sup>_
 ---
+#### [@codetengu](https://twitter.com/codetengu)
+_<sup>https://twitter.com/codetengu</sup>_
+
+The latest Tweets from CodeTengu 碼天狗 (@codetengu). 致力於解決開發者之間的資訊不對稱 tweets by @vinta and @saiday. Taiwan
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [twitter-accounts](../tagged/twitter-accounts.md)
+---
+#### [@getpy](https://twitter.com/getpy)
+_<sup>https://twitter.com/getpy</sup>_
+
+The latest Tweets from Get Python (@getpy). Tweets for Python enthusiasts - by @originalankur. Worldwide
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [twitter-accounts](../tagged/twitter-accounts.md)
+---
+#### [@importpython](https://twitter.com/importpython)
+_<sup>https://twitter.com/importpython</sup>_
+
+The latest Tweets from import python 🐍 (@importpython). Python Newsletter https://t.co/S2LhykCP1N keeps you updated on what's happening in the world of Python. Curated By @originalankur . United Stat...
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [twitter-accounts](../tagged/twitter-accounts.md)
+---
+#### [@planetpython](https://twitter.com/planetpython)
+_<sup>https://twitter.com/planetpython</sup>_
+
+The latest Tweets from Planet Python (@planetpython). Created by Marco Rodrigues @gothicx and managed by Tim Golden @tjguk
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [twitter-accounts](../tagged/twitter-accounts.md)
+---
+#### [@pycoders](https://twitter.com/pycoders)
+_<sup>https://twitter.com/pycoders</sup>_
+
+The latest Tweets from PyCoder’s Weekly (@pycoders). 🐍📰 Your weekly dose of all things Python! The best articles, projects, and events curated for you
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [twitter-accounts](../tagged/twitter-accounts.md)
+---
+#### [@pypi](https://twitter.com/pypi)
+_<sup>https://twitter.com/pypi</sup>_
+
+The latest Tweets from Python Package Index (@pypi). The Python Package Index (PyPI) is a repository of software for the Python programming language.
+
+Follow for service updates, advisories, and curio...
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [twitter-accounts](../tagged/twitter-accounts.md)
+---
+#### [@pythontrending](https://twitter.com/pythontrending)
+_<sup>https://twitter.com/pythontrending</sup>_
+
+The latest Tweets from Python Trending (@pythontrending). trending Python repositories on GitHub (https://t.co/lGhkNMiFE2). Interwebs
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [twitter-accounts](../tagged/twitter-accounts.md)
+---
+#### [@PythonWeekly](https://twitter.com/PythonWeekly)
+_<sup>https://twitter.com/PythonWeekly</sup>_
+
+The latest Tweets from Python Weekly (@PythonWeekly). Python Weekly is a free weekly newsletter, which features curated news, articles, new releases, tools and libraries, events, jobs etc related to P...
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [twitter-accounts](../tagged/twitter-accounts.md)
+---
+#### [@TalkPython](https://twitter.com/talkpython)
+_<sup>https://twitter.com/talkpython</sup>_
+
+The latest Tweets from Talk Python Podcast (@TalkPython). The 1 Python-focused podcast covering the people and ideas in Python. Created and hosted by @mkennedy. Portland, OR USA
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [twitter-accounts](../tagged/twitter-accounts.md)
+---
+#### [@realpython](https://twitter.com/realpython)
+_<sup>https://twitter.com/realpython</sup>_
+
+The latest Tweets from Real Python (@realpython). Python developer resources: Python news, tutorials, code examples, snippets, articles, and more!
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [twitter-accounts](../tagged/twitter-accounts.md)
+---
 #### [Adam Bien](https://twitter.com/AdamBien)
 _<sup>https://twitter.com/AdamBien</sup>_
 

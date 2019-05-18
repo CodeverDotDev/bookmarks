@@ -2,6 +2,39 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/frameworks](https://www.bookmarks.dev/tagged/frameworks)</sup></sup>_
 ---
+#### [pytest](https://docs.pytest.org/en/latest/)
+_<sup>https://docs.pytest.org/en/latest/</sup>_
+
+A mature full-featured Python testing tool.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [testing](../tagged/testing.md), [frameworks](../tagged/frameworks.md)
+---
+#### [hypothesis](https://github.com/HypothesisWorks/hypothesis)
+_<sup>https://github.com/HypothesisWorks/hypothesis</sup>_
+
+Hypothesis is an advanced Quickcheck style property based testing library.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [testing](../tagged/testing.md), [frameworks](../tagged/frameworks.md)
+* :octocat: **[source code](https://github.com/HypothesisWorks/hypothesis)**
+---
+#### [nose2](https://github.com/nose-devs/nose2)
+_<sup>https://github.com/nose-devs/nose2</sup>_
+
+The successor to `nose`, based on `unittest2.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [testing](../tagged/testing.md), [frameworks](../tagged/frameworks.md)
+* :octocat: **[source code](https://github.com/nose-devs/nose2)**
+---
+#### [Robot Framework](https://github.com/robotframework/robotframework)
+_<sup>https://github.com/robotframework/robotframework</sup>_
+
+A generic test automation framework.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [testing](../tagged/testing.md), [frameworks](../tagged/frameworks.md)
+* :octocat: **[source code](https://github.com/robotframework/robotframework)**
+---
+#### [unittest](https://docs.python.org/3/library/unittest.html)
+_<sup>https://docs.python.org/3/library/unittest.html</sup>_
+
+(Python standard library) Unit testing framework.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [testing](../tagged/testing.md), [frameworks](../tagged/frameworks.md)
+---
 #### [mocha](https://github.com/mochajs/mocha)
 _<sup>https://github.com/mochajs/mocha</sup>_
 

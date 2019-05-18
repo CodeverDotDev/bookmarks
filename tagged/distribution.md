@@ -2,6 +2,44 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/distribution](https://www.bookmarks.dev/tagged/distribution)</sup></sup>_
 ---
+#### [dh-virtualenv](https://github.com/spotify/dh-virtualenv)
+_<sup>https://github.com/spotify/dh-virtualenv</sup>_
+
+Build and distribute a virtualenv as a Debian package.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [distribution](../tagged/distribution.md)
+* :octocat: **[source code](https://github.com/spotify/dh-virtualenv)**
+---
+#### [Nuitka](http://nuitka.net/)
+_<sup>http://nuitka.net/</sup>_
+
+Compile scripts, modules, packages to an executable or extension module.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [distribution](../tagged/distribution.md)
+---
+#### [py2app](http://pythonhosted.org/py2app/)
+_<sup>http://pythonhosted.org/py2app/</sup>_
+
+Freezes Python scripts (Mac OS X).
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [distribution](../tagged/distribution.md)
+---
+#### [py2exe](http://www.py2exe.org/)
+_<sup>http://www.py2exe.org/</sup>_
+
+Freezes Python scripts (Windows).
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [distribution](../tagged/distribution.md)
+---
+#### [PyInstaller](https://github.com/pyinstaller/pyinstaller)
+_<sup>https://github.com/pyinstaller/pyinstaller</sup>_
+
+Converts Python programs into stand-alone executables (cross-platform).
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [distribution](../tagged/distribution.md)
+* :octocat: **[source code](https://github.com/pyinstaller/pyinstaller)**
+---
+#### [pynsist](http://pynsist.readthedocs.io/en/latest/)
+_<sup>http://pynsist.readthedocs.io/en/latest/</sup>_
+
+A tool to build Windows installers, installers bundle Python itself.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [distribution](../tagged/distribution.md)
+---
 #### [Bintray ![c](https://bintray.com)
 _<sup>https://bintray.com</sup>_
 

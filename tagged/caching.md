@@ -2,6 +2,52 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/caching](https://www.bookmarks.dev/tagged/caching)</sup></sup>_
 ---
+#### [beaker](https://github.com/bbangert/beaker)
+_<sup>https://github.com/bbangert/beaker</sup>_
+
+A WSGI middleware for sessions and caching.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [caching](../tagged/caching.md)
+* :octocat: **[source code](https://github.com/bbangert/beaker)**
+---
+#### [django-cache-machine](https://github.com/django-cache-machine/django-cache-machine)
+_<sup>https://github.com/django-cache-machine/django-cache-machine</sup>_
+
+Automatic caching and invalidation for Django models.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [caching](../tagged/caching.md)
+* :octocat: **[source code](https://github.com/django-cache-machine/django-cache-machine)**
+---
+#### [django-cacheops](https://github.com/Suor/django-cacheops)
+_<sup>https://github.com/Suor/django-cacheops</sup>_
+
+A slick ORM cache with automatic granular event-driven invalidation.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [caching](../tagged/caching.md)
+* :octocat: **[source code](https://github.com/Suor/django-cacheops)**
+---
+#### [dogpile.cache](http://dogpilecache.readthedocs.io/en/latest/)
+_<sup>http://dogpilecache.readthedocs.io/en/latest/</sup>_
+
+dogpile.cache is next generation replacement for Beaker made by same authors.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [caching](../tagged/caching.md)
+---
+#### [HermesCache](https://pypi.python.org/pypi/HermesCache)
+_<sup>https://pypi.python.org/pypi/HermesCache</sup>_
+
+Python caching library with tag-based invalidation and dogpile effect prevention.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [caching](../tagged/caching.md)
+---
+#### [pylibmc](https://github.com/lericson/pylibmc)
+_<sup>https://github.com/lericson/pylibmc</sup>_
+
+A Python wrapper around the [libmemcached](https://libmemcached.org/libMemcached.html) interface.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [caching](../tagged/caching.md)
+* :octocat: **[source code](https://github.com/lericson/pylibmc)**
+---
+#### [python-diskcache](http://www.grantjenks.com/docs/diskcache/)
+_<sup>http://www.grantjenks.com/docs/diskcache/</sup>_
+
+SQLite and file backed cache backend with faster lookups than memcached and redis.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [caching](../tagged/caching.md)
+---
 #### [cache2k](https://cache2k.org)
 _<sup>https://cache2k.org</sup>_
 

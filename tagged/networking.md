@@ -2,6 +2,46 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/networking](https://www.bookmarks.dev/tagged/networking)</sup></sup>_
 ---
+#### [asyncio](https://docs.python.org/3/library/asyncio.html)
+_<sup>https://docs.python.org/3/library/asyncio.html</sup>_
+
+(Python standard library) Asynchronous I/O, event loop, coroutines and tasks.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [networking](../tagged/networking.md)
+---
+#### [awesome-asyncio](https://github.com/timofurrer/awesome-asyncio)
+_<sup>https://github.com/timofurrer/awesome-asyncio</sup>_
+
+A curated list of awesome Python asyncio frameworks, libraries, software and resources - timofurrer/awesome-asyncio
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [networking](../tagged/networking.md)
+* :octocat: **[source code](https://github.com/timofurrer/awesome-asyncio)**
+---
+#### [pulsar](https://github.com/quantmind/pulsar)
+_<sup>https://github.com/quantmind/pulsar</sup>_
+
+Event-driven concurrent framework for Python.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [networking](../tagged/networking.md)
+* :octocat: **[source code](https://github.com/quantmind/pulsar)**
+---
+#### [pyzmq](https://github.com/zeromq/pyzmq)
+_<sup>https://github.com/zeromq/pyzmq</sup>_
+
+A Python wrapper for the ZeroMQ message library.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [networking](../tagged/networking.md)
+* :octocat: **[source code](https://github.com/zeromq/pyzmq)**
+---
+#### [Twisted](https://twistedmatrix.com/trac/)
+_<sup>https://twistedmatrix.com/trac/</sup>_
+
+An event-driven networking engine.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [networking](../tagged/networking.md)
+---
+#### [napalm](https://github.com/napalm-automation/napalm)
+_<sup>https://github.com/napalm-automation/napalm</sup>_
+
+Cross-vendor API to manipulate network devices.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [networking](../tagged/networking.md)
+* :octocat: **[source code](https://github.com/napalm-automation/napalm)**
+---
 #### [get-port](https://github.com/sindresorhus/get-port)
 _<sup>https://github.com/sindresorhus/get-port</sup>_
 

@@ -2,6 +2,26 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/pdf](https://www.bookmarks.dev/tagged/pdf)</sup></sup>_
 ---
+#### [PDFMiner](https://github.com/euske/pdfminer)
+_<sup>https://github.com/euske/pdfminer</sup>_
+
+A tool for extracting information from PDF documents.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [text-parsing](../tagged/text-parsing.md), [pdf](../tagged/pdf.md)
+* :octocat: **[source code](https://github.com/euske/pdfminer)**
+---
+#### [PyPDF2](https://github.com/mstamy2/PyPDF2)
+_<sup>https://github.com/mstamy2/PyPDF2</sup>_
+
+A library capable of splitting, merging and transforming PDF pages.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [text-parsing](../tagged/text-parsing.md), [pdf](../tagged/pdf.md)
+* :octocat: **[source code](https://github.com/mstamy2/PyPDF2)**
+---
+#### [ReportLab](https://www.reportlab.com/opensource/)
+_<sup>https://www.reportlab.com/opensource/</sup>_
+
+Allowing Rapid creation of rich PDF documents.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [text-parsing](../tagged/text-parsing.md), [pdf](../tagged/pdf.md)
+---
 #### [Apache FOP](https://xmlgraphics.apache.org/fop)
 _<sup>https://xmlgraphics.apache.org/fop</sup>_
 

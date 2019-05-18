@@ -2,6 +2,100 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/rest](https://www.bookmarks.dev/tagged/rest)</sup></sup>_
 ---
+#### [django-rest-framework](http://www.django-rest-framework.org/)
+_<sup>http://www.django-rest-framework.org/</sup>_
+
+A powerful and flexible toolkit to build web APIs.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [rest](../tagged/rest.md), [django](../tagged/django.md)
+---
+#### [django-tastypie](http://tastypieapi.org/)
+_<sup>http://tastypieapi.org/</sup>_
+
+Creating delicious APIs for Django apps.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [rest](../tagged/rest.md), [django](../tagged/django.md)
+---
+#### [eve](https://github.com/pyeve/eve)
+_<sup>https://github.com/pyeve/eve</sup>_
+
+REST API framework powered by Flask, MongoDB and good intentions.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [rest](../tagged/rest.md), [flask](../tagged/flask.md)
+* :octocat: **[source code](https://github.com/pyeve/eve)**
+---
+#### [flask-api-utils](https://github.com/marselester/flask-api-utils)
+_<sup>https://github.com/marselester/flask-api-utils</sup>_
+
+Taking care of API representation and authentication for Flask.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [rest](../tagged/rest.md), [flask](../tagged/flask.md)
+* :octocat: **[source code](https://github.com/marselester/flask-api-utils)**
+---
+#### [flask-api](http://www.flaskapi.org/)
+_<sup>http://www.flaskapi.org/</sup>_
+
+Browsable Web APIs for Flask.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [rest](../tagged/rest.md), [flask](../tagged/flask.md)
+---
+#### [flask-restful](https://github.com/flask-restful/flask-restful)
+_<sup>https://github.com/flask-restful/flask-restful</sup>_
+
+Quickly building REST APIs for Flask.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [rest](../tagged/rest.md), [flask](../tagged/flask.md)
+* :octocat: **[source code](https://github.com/flask-restful/flask-restful)**
+---
+#### [flask-restless](https://github.com/jfinkels/flask-restless)
+_<sup>https://github.com/jfinkels/flask-restless</sup>_
+
+Generating RESTful APIs for database models defined with SQLAlchemy.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [rest](../tagged/rest.md), [flask](../tagged/flask.md)
+* :octocat: **[source code](https://github.com/jfinkels/flask-restless)**
+---
+#### [cornice](https://github.com/Cornices/cornice)
+_<sup>https://github.com/Cornices/cornice</sup>_
+
+A RESTful framework for Pyramid.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [rest](../tagged/rest.md), [pyramid](../tagged/pyramid.md)
+* :octocat: **[source code](https://github.com/Cornices/cornice)**
+---
+#### [apistar](https://github.com/encode/apistar)
+_<sup>https://github.com/encode/apistar</sup>_
+
+A smart Web API framework, designed for Python 3.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [rest](../tagged/rest.md)
+* :octocat: **[source code](https://github.com/encode/apistar)**
+---
+#### [falcon](http://falconframework.org/)
+_<sup>http://falconframework.org/</sup>_
+
+A high-performance framework for building cloud APIs and web app backends.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [rest](../tagged/rest.md)
+---
+#### [hug](https://github.com/timothycrosley/hug)
+_<sup>https://github.com/timothycrosley/hug</sup>_
+
+A Python3 framework for cleanly exposing APIs over HTTP and the Command Line with automatic documentation and validation.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [rest](../tagged/rest.md)
+* :octocat: **[source code](https://github.com/timothycrosley/hug)**
+---
+#### [restless](https://github.com/toastdriven/restless)
+_<sup>https://github.com/toastdriven/restless</sup>_
+
+Framework agnostic REST framework based on lessons learned from Tastypie.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [rest](../tagged/rest.md)
+* :octocat: **[source code](https://github.com/toastdriven/restless)**
+---
+#### [ripozo](https://github.com/vertical-knowledge/ripozo)
+_<sup>https://github.com/vertical-knowledge/ripozo</sup>_
+
+Quickly creating REST/HATEOAS/Hypermedia APIs.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [rest](../tagged/rest.md)
+* :octocat: **[source code](https://github.com/vertical-knowledge/ripozo)**
+---
+#### [sandman](https://github.com/jeffknupp/sandman)
+_<sup>https://github.com/jeffknupp/sandman</sup>_
+
+Automated REST APIs for existing database-driven systems.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [rest](../tagged/rest.md)
+* :octocat: **[source code](https://github.com/jeffknupp/sandman)**
+---
 #### [Dropwizard](https://dropwizard.github.io/dropwizard)
 _<sup>https://dropwizard.github.io/dropwizard</sup>_
 

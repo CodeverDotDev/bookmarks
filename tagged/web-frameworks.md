@@ -2,6 +2,64 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/web-frameworks](https://www.bookmarks.dev/tagged/web-frameworks)</sup></sup>_
 ---
+#### [Django](https://www.djangoproject.com/)
+_<sup>https://www.djangoproject.com/</sup>_
+
+The most popular web framework in Python.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [web-frameworks](../tagged/web-frameworks.md)
+---
+#### [awesome-django](https://github.com/shahraizali/awesome-django)
+_<sup>https://github.com/shahraizali/awesome-django</sup>_
+
+Contribute to shahraizali/awesome-django development by creating an account on GitHub.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [web-frameworks](../tagged/web-frameworks.md)
+* :octocat: **[source code](https://github.com/shahraizali/awesome-django)**
+---
+#### [Flask](http://flask.pocoo.org/)
+_<sup>http://flask.pocoo.org/</sup>_
+
+A microframework for Python.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [web-frameworks](../tagged/web-frameworks.md)
+---
+#### [awesome-flask](https://github.com/humiaozuzu/awesome-flask)
+_<sup>https://github.com/humiaozuzu/awesome-flask</sup>_
+
+A curated list of awesome Flask resources and plugins - humiaozuzu/awesome-flask
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [web-frameworks](../tagged/web-frameworks.md)
+* :octocat: **[source code](https://github.com/humiaozuzu/awesome-flask)**
+---
+#### [Pyramid](https://pylonsproject.org/)
+_<sup>https://pylonsproject.org/</sup>_
+
+A small, fast, down-to-earth, open source Python web framework.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [web-frameworks](../tagged/web-frameworks.md)
+---
+#### [awesome-pyramid](https://github.com/uralbash/awesome-pyramid)
+_<sup>https://github.com/uralbash/awesome-pyramid</sup>_
+
+A curated list of awesome Pyramid apps, projects and resources. - uralbash/awesome-pyramid
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [web-frameworks](../tagged/web-frameworks.md)
+* :octocat: **[source code](https://github.com/uralbash/awesome-pyramid)**
+---
+#### [Sanic](https://github.com/channelcat/sanic)
+_<sup>https://github.com/channelcat/sanic</sup>_
+
+Web server that's written to go fast.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [web-frameworks](../tagged/web-frameworks.md)
+* :octocat: **[source code](https://github.com/channelcat/sanic)**
+---
+#### [Vibora](https://vibora.io/)
+_<sup>https://vibora.io/</sup>_
+
+Fast, efficient and asynchronous Web framework inspired by Flask.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [web-frameworks](../tagged/web-frameworks.md)
+---
+#### [Tornado](http://www.tornadoweb.org/en/latest/)
+_<sup>http://www.tornadoweb.org/en/latest/</sup>_
+
+A Web framework and asynchronous networking library.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [web-frameworks](../tagged/web-frameworks.md)
+---
 #### [Hapi](http://hapijs.com)
 _<sup>http://hapijs.com</sup>_
 

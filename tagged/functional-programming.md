@@ -2,6 +2,40 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/functional-programming](https://www.bookmarks.dev/tagged/functional-programming)</sup></sup>_
 ---
+#### [Coconut](http://coconut-lang.org/)
+_<sup>http://coconut-lang.org/</sup>_
+
+Coconut is a variant of Python built for simple, elegant, Pythonic functional programming.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [functional-programming](../tagged/functional-programming.md)
+---
+#### [CyToolz](https://github.com/pytoolz/cytoolz/)
+_<sup>https://github.com/pytoolz/cytoolz/</sup>_
+
+Cython implementation of Toolz: High performance functional utilities.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [functional-programming](../tagged/functional-programming.md)
+* :octocat: **[source code](https://github.com/pytoolz/cytoolz/)**
+---
+#### [fn.py](https://github.com/kachayev/fn.py)
+_<sup>https://github.com/kachayev/fn.py</sup>_
+
+Functional programming in Python: implementation of missing features to enjoy FP.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [functional-programming](../tagged/functional-programming.md)
+* :octocat: **[source code](https://github.com/kachayev/fn.py)**
+---
+#### [funcy](https://github.com/Suor/funcy)
+_<sup>https://github.com/Suor/funcy</sup>_
+
+A fancy and practical functional tools.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [functional-programming](../tagged/functional-programming.md)
+* :octocat: **[source code](https://github.com/Suor/funcy)**
+---
+#### [Toolz](https://github.com/pytoolz/toolz)
+_<sup>https://github.com/pytoolz/toolz</sup>_
+
+A collection of functional utilities for iterators, functions, and dictionaries.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [functional-programming](../tagged/functional-programming.md)
+* :octocat: **[source code](https://github.com/pytoolz/toolz)**
+---
 #### [underscore](https://github.com/jashkenas/underscore)
 _<sup>https://github.com/jashkenas/underscore</sup>_
 

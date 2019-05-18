@@ -2,6 +2,27 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/vim](https://www.bookmarks.dev/tagged/vim)</sup></sup>_
 ---
+#### [jedi-vim](https://github.com/davidhalter/jedi-vim)
+_<sup>https://github.com/davidhalter/jedi-vim</sup>_
+
+Vim bindings for the Jedi auto-completion library for Python.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [editor-plugins](../tagged/editor-plugins.md), [ide](../tagged/ide.md), [vim](../tagged/vim.md)
+* :octocat: **[source code](https://github.com/davidhalter/jedi-vim)**
+---
+#### [python-mode](https://github.com/python-mode/python-mode)
+_<sup>https://github.com/python-mode/python-mode</sup>_
+
+An all in one plugin for turning Vim into a Python IDE.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [editor-plugins](../tagged/editor-plugins.md), [ide](../tagged/ide.md), [vim](../tagged/vim.md)
+* :octocat: **[source code](https://github.com/python-mode/python-mode)**
+---
+#### [YouCompleteMe](https://github.com/Valloric/YouCompleteMe)
+_<sup>https://github.com/Valloric/YouCompleteMe</sup>_
+
+Includes [Jedi](https://github.com/davidhalter/jedi)-based completion engine for Python.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [editor-plugins](../tagged/editor-plugins.md), [ide](../tagged/ide.md), [vim](../tagged/vim.md)
+* :octocat: **[source code](https://github.com/Valloric/YouCompleteMe)**
+---
 #### [awesome-vim-galore](https://github.com/mhinz/vim-galore#readme)
 _<sup>https://github.com/mhinz/vim-galore#readme</sup>_
 

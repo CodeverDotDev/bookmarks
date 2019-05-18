@@ -2,6 +2,36 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/podcast](https://www.bookmarks.dev/tagged/podcast)</sup></sup>_
 ---
+#### [From Python Import Podcast](http://frompythonimportpodcast.com/)
+_<sup>http://frompythonimportpodcast.com/</sup>_
+
+From python import podcast. A small-batch artisanal podcast for irreverent pythonistas
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [podcast](../tagged/podcast.md)
+---
+#### [Podcast.init](https://podcastinit.com/)
+_<sup>https://podcastinit.com/</sup>_
+
+Counteracting Code Complexity With Wily - Episode 195 January 21, 2019 Comments Off on Counteracting Code Complexity With Wily - Episode 195 Teaching Digit
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [podcast](../tagged/podcast.md)
+---
+#### [Python Bytes](https://pythonbytes.fm)
+_<sup>https://pythonbytes.fm</sup>_
+
+Python Bytes podcast delivers headlines directly to your earbuds.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [podcast](../tagged/podcast.md)
+---
+#### [Python Testing](http://pythontesting.net)
+_<sup>http://pythontesting.net</sup>_
+
+Functional testing using python unit test frameworks, including unittest, nose, pytest, doctest, and perhaps more.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [podcast](../tagged/podcast.md)
+---
+#### [Radio Free Python](http://radiofreepython.com/)
+_<sup>http://radiofreepython.com/</sup>_
+
+A monthly podcast focused on the python programming language and its community
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [podcast](../tagged/podcast.md)
+---
 #### [Web of Tomorrow](http://www.weboftomorrowpodcast.com/)
 _<sup>http://www.weboftomorrowpodcast.com/</sup>_
 

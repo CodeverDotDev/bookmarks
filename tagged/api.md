@@ -2,6 +2,54 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/api](https://www.bookmarks.dev/tagged/api)</sup></sup>_
 ---
+#### [apache-libcloud](https://libcloud.apache.org/)
+_<sup>https://libcloud.apache.org/</sup>_
+
+One Python library for all clouds.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [api](../tagged/api.md)
+---
+#### [boto3](https://github.com/boto/boto3)
+_<sup>https://github.com/boto/boto3</sup>_
+
+Python interface to Amazon Web Services.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [api](../tagged/api.md)
+* :octocat: **[source code](https://github.com/boto/boto3)**
+---
+#### [django-wordpress](https://github.com/istrategylabs/django-wordpress)
+_<sup>https://github.com/istrategylabs/django-wordpress</sup>_
+
+WordPress models and views for Django.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [api](../tagged/api.md)
+* :octocat: **[source code](https://github.com/istrategylabs/django-wordpress)**
+---
+#### [facebook-sdk](https://github.com/mobolic/facebook-sdk)
+_<sup>https://github.com/mobolic/facebook-sdk</sup>_
+
+Facebook Platform Python SDK.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [api](../tagged/api.md)
+* :octocat: **[source code](https://github.com/mobolic/facebook-sdk)**
+---
+#### [google-api-python-client](https://github.com/google/google-api-python-client)
+_<sup>https://github.com/google/google-api-python-client</sup>_
+
+Google APIs Client Library for Python.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [api](../tagged/api.md)
+* :octocat: **[source code](https://github.com/google/google-api-python-client)**
+---
+#### [gspread](https://github.com/burnash/gspread)
+_<sup>https://github.com/burnash/gspread</sup>_
+
+Google Spreadsheets Python API.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [api](../tagged/api.md)
+* :octocat: **[source code](https://github.com/burnash/gspread)**
+---
+#### [twython](https://github.com/ryanmcgrath/twython)
+_<sup>https://github.com/ryanmcgrath/twython</sup>_
+
+A Python wrapper for the Twitter API.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [api](../tagged/api.md)
+* :octocat: **[source code](https://github.com/ryanmcgrath/twython)**
+---
 #### [oauth-signature-js](https://github.com/bettiolo/oauth-signature-js)
 _<sup>https://github.com/bettiolo/oauth-signature-js</sup>_
 

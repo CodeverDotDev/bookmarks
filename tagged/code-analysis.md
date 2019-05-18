@@ -2,6 +2,87 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/code-analysis](https://www.bookmarks.dev/tagged/code-analysis)</sup></sup>_
 ---
+#### [coala](https://github.com/coala/coala/)
+_<sup>https://github.com/coala/coala/</sup>_
+
+Language independent and easily extendable code analysis application.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [code-analysis](../tagged/code-analysis.md)
+* :octocat: **[source code](https://github.com/coala/coala/)**
+---
+#### [code2flow](https://github.com/scottrogowski/code2flow)
+_<sup>https://github.com/scottrogowski/code2flow</sup>_
+
+Turn your Python and JavaScript code into DOT flowcharts.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [code-analysis](../tagged/code-analysis.md)
+* :octocat: **[source code](https://github.com/scottrogowski/code2flow)**
+---
+#### [prospector](https://github.com/PyCQA/prospector)
+_<sup>https://github.com/PyCQA/prospector</sup>_
+
+A tool to analyse Python code.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [code-analysis](../tagged/code-analysis.md)
+* :octocat: **[source code](https://github.com/PyCQA/prospector)**
+---
+#### [pycallgraph](https://github.com/gak/pycallgraph)
+_<sup>https://github.com/gak/pycallgraph</sup>_
+
+A library that visualises the flow (call graph) of your Python application.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [code-analysis](../tagged/code-analysis.md)
+* :octocat: **[source code](https://github.com/gak/pycallgraph)**
+---
+#### [flake8](https://pypi.python.org/pypi/flake8)
+_<sup>https://pypi.python.org/pypi/flake8</sup>_
+
+A wrapper around `pycodestyle`, `pyflakes` and McCabe.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [code-analysis](../tagged/code-analysis.md), [linter](../tagged/linter.md)
+---
+#### [pylint](https://www.pylint.org/)
+_<sup>https://www.pylint.org/</sup>_
+
+A fully customizable source code analyzer.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [code-analysis](../tagged/code-analysis.md), [linter](../tagged/linter.md)
+---
+#### [pylama](https://github.com/klen/pylama)
+_<sup>https://github.com/klen/pylama</sup>_
+
+A code audit tool for Python and JavaScript.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [code-analysis](../tagged/code-analysis.md), [linter](../tagged/linter.md)
+* :octocat: **[source code](https://github.com/klen/pylama)**
+---
+#### [black](https://github.com/ambv/black)
+_<sup>https://github.com/ambv/black</sup>_
+
+The uncompromising Python code formatter.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [code-analysis](../tagged/code-analysis.md), [code-formatting](../tagged/code-formatting.md)
+* :octocat: **[source code](https://github.com/ambv/black)**
+---
+#### [yapf](https://github.com/google/yapf)
+_<sup>https://github.com/google/yapf</sup>_
+
+Yet another Python code formatter from Google.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [code-analysis](../tagged/code-analysis.md), [code-formatting](../tagged/code-formatting.md)
+* :octocat: **[source code](https://github.com/google/yapf)**
+---
+#### [mypy](http://mypy-lang.org/)
+_<sup>http://mypy-lang.org/</sup>_
+
+Check variable types during compile time.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [code-analysis](../tagged/code-analysis.md), [static-typing](../tagged/static-typing.md)
+---
+#### [pyre-check](https://github.com/facebook/pyre-check)
+_<sup>https://github.com/facebook/pyre-check</sup>_
+
+Performant type checking.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [code-analysis](../tagged/code-analysis.md), [static-typing](../tagged/static-typing.md)
+* :octocat: **[source code](https://github.com/facebook/pyre-check)**
+---
+#### [MonkeyType](https://github.com/Instagram/MonkeyType)
+_<sup>https://github.com/Instagram/MonkeyType</sup>_
+
+A system for Python that generates static type annotations by collecting runtime types
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [code-analysis](../tagged/code-analysis.md), [static-typing](../tagged/static-typing.md)
+* :octocat: **[source code](https://github.com/Instagram/MonkeyType)**
+---
 #### [Checkstyle](https://github.com/checkstyle/checkstyle)
 _<sup>https://github.com/checkstyle/checkstyle</sup>_
 

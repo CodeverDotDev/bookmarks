@@ -2,6 +2,20 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/serverless](https://www.bookmarks.dev/tagged/serverless)</sup></sup>_
 ---
+#### [python-lambda](https://github.com/nficano/python-lambda)
+_<sup>https://github.com/nficano/python-lambda</sup>_
+
+A toolkit for developing and deploying Python code in AWS Lambda.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [serverless](../tagged/serverless.md)
+* :octocat: **[source code](https://github.com/nficano/python-lambda)**
+---
+#### [Zappa](https://github.com/Miserlou/Zappa)
+_<sup>https://github.com/Miserlou/Zappa</sup>_
+
+A tool for deploying WSGI applications on AWS Lambda and API Gateway.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [serverless](../tagged/serverless.md)
+* :octocat: **[source code](https://github.com/Miserlou/Zappa)**
+---
 #### [awesome-serverless](https://github.com/pmuens/awesome-serverless#readme)
 _<sup>https://github.com/pmuens/awesome-serverless#readme</sup>_
 

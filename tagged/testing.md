@@ -2,6 +2,207 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/testing](https://www.bookmarks.dev/tagged/testing)</sup></sup>_
 ---
+#### [pytest](https://docs.pytest.org/en/latest/)
+_<sup>https://docs.pytest.org/en/latest/</sup>_
+
+A mature full-featured Python testing tool.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [testing](../tagged/testing.md), [frameworks](../tagged/frameworks.md)
+---
+#### [hypothesis](https://github.com/HypothesisWorks/hypothesis)
+_<sup>https://github.com/HypothesisWorks/hypothesis</sup>_
+
+Hypothesis is an advanced Quickcheck style property based testing library.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [testing](../tagged/testing.md), [frameworks](../tagged/frameworks.md)
+* :octocat: **[source code](https://github.com/HypothesisWorks/hypothesis)**
+---
+#### [nose2](https://github.com/nose-devs/nose2)
+_<sup>https://github.com/nose-devs/nose2</sup>_
+
+The successor to `nose`, based on `unittest2.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [testing](../tagged/testing.md), [frameworks](../tagged/frameworks.md)
+* :octocat: **[source code](https://github.com/nose-devs/nose2)**
+---
+#### [Robot Framework](https://github.com/robotframework/robotframework)
+_<sup>https://github.com/robotframework/robotframework</sup>_
+
+A generic test automation framework.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [testing](../tagged/testing.md), [frameworks](../tagged/frameworks.md)
+* :octocat: **[source code](https://github.com/robotframework/robotframework)**
+---
+#### [unittest](https://docs.python.org/3/library/unittest.html)
+_<sup>https://docs.python.org/3/library/unittest.html</sup>_
+
+(Python standard library) Unit testing framework.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [testing](../tagged/testing.md), [frameworks](../tagged/frameworks.md)
+---
+#### [green](https://github.com/CleanCut/green)
+_<sup>https://github.com/CleanCut/green</sup>_
+
+A clean, colorful test runner.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [testing](../tagged/testing.md), [test-runner](../tagged/test-runner.md)
+* :octocat: **[source code](https://github.com/CleanCut/green)**
+---
+#### [mamba](http://nestorsalceda.github.io/mamba/)
+_<sup>http://nestorsalceda.github.io/mamba/</sup>_
+
+The definitive testing tool for Python. Born under the banner of BDD.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [testing](../tagged/testing.md), [test-runner](../tagged/test-runner.md)
+---
+#### [tox](https://tox.readthedocs.io/en/latest/)
+_<sup>https://tox.readthedocs.io/en/latest/</sup>_
+
+Auto builds and tests distributions in multiple Python versions
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [testing](../tagged/testing.md), [test-runner](../tagged/test-runner.md)
+---
+#### [locust](https://github.com/locustio/locust)
+_<sup>https://github.com/locustio/locust</sup>_
+
+Scalable user load testing tool written in Python.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [testing](../tagged/testing.md), [gui](../tagged/gui.md), [web](../tagged/web.md)
+* :octocat: **[source code](https://github.com/locustio/locust)**
+---
+#### [PyAutoGUI](https://github.com/asweigart/pyautogui)
+_<sup>https://github.com/asweigart/pyautogui</sup>_
+
+PyAutoGUI is a cross-platform GUI automation Python module for human beings.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [testing](../tagged/testing.md), [gui](../tagged/gui.md), [web](../tagged/web.md)
+* :octocat: **[source code](https://github.com/asweigart/pyautogui)**
+---
+#### [Selenium](https://pypi.python.org/pypi/selenium)
+_<sup>https://pypi.python.org/pypi/selenium</sup>_
+
+Python bindings for [Selenium](http://www.seleniumhq.org/) WebDriver.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [testing](../tagged/testing.md), [gui](../tagged/gui.md), [web](../tagged/web.md)
+---
+#### [sixpack](https://github.com/seatgeek/sixpack)
+_<sup>https://github.com/seatgeek/sixpack</sup>_
+
+A language-agnostic A/B Testing framework.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [testing](../tagged/testing.md), [gui](../tagged/gui.md), [web](../tagged/web.md)
+* :octocat: **[source code](https://github.com/seatgeek/sixpack)**
+---
+#### [splinter](https://github.com/cobrateam/splinter)
+_<sup>https://github.com/cobrateam/splinter</sup>_
+
+Open source tool for testing web applications.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [testing](../tagged/testing.md), [gui](../tagged/gui.md), [web](../tagged/web.md)
+* :octocat: **[source code](https://github.com/cobrateam/splinter)**
+---
+#### [doublex](https://pypi.python.org/pypi/doublex)
+_<sup>https://pypi.python.org/pypi/doublex</sup>_
+
+Powerful test doubles framework for Python.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
+---
+#### [freezegun](https://github.com/spulec/freezegun)
+_<sup>https://github.com/spulec/freezegun</sup>_
+
+Travel through time by mocking the datetime module.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
+* :octocat: **[source code](https://github.com/spulec/freezegun)**
+---
+#### [httmock](https://github.com/patrys/httmock)
+_<sup>https://github.com/patrys/httmock</sup>_
+
+A mocking library for requests for Python 2.6+ and 3.2+.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
+* :octocat: **[source code](https://github.com/patrys/httmock)**
+---
+#### [httpretty](https://github.com/gabrielfalcao/HTTPretty)
+_<sup>https://github.com/gabrielfalcao/HTTPretty</sup>_
+
+HTTP request mock tool for Python.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
+* :octocat: **[source code](https://github.com/gabrielfalcao/HTTPretty)**
+---
+#### [mock](https://docs.python.org/3/library/unittest.mock.html)
+_<sup>https://docs.python.org/3/library/unittest.mock.html</sup>_
+
+(Python standard library) A mocking and patching library.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
+---
+#### [Mocket](https://github.com/mindflayer/python-mocket)
+_<sup>https://github.com/mindflayer/python-mocket</sup>_
+
+Socket Mock Framework plus HTTP[S]/asyncio/gevent mocking library with recording/replaying capability.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
+* :octocat: **[source code](https://github.com/mindflayer/python-mocket)**
+---
+#### [responses](https://github.com/getsentry/responses)
+_<sup>https://github.com/getsentry/responses</sup>_
+
+A utility library for mocking out the requests Python library.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
+* :octocat: **[source code](https://github.com/getsentry/responses)**
+---
+#### [VCR.py](https://github.com/kevin1024/vcrpy)
+_<sup>https://github.com/kevin1024/vcrpy</sup>_
+
+Record and replay HTTP interactions on your tests.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
+* :octocat: **[source code](https://github.com/kevin1024/vcrpy)**
+---
+#### [factory_boy](https://github.com/FactoryBoy/factory_boy)
+_<sup>https://github.com/FactoryBoy/factory_boy</sup>_
+
+A test fixtures replacement for Python.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [testing](../tagged/testing.md), [objectfactory](../tagged/objectfactory.md)
+* :octocat: **[source code](https://github.com/FactoryBoy/factory_boy)**
+---
+#### [mixer](https://github.com/klen/mixer)
+_<sup>https://github.com/klen/mixer</sup>_
+
+Another fixtures replacement. Supported Django, Flask, SQLAlchemy, Peewee and etc.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [testing](../tagged/testing.md), [objectfactory](../tagged/objectfactory.md)
+* :octocat: **[source code](https://github.com/klen/mixer)**
+---
+#### [model_mommy](https://github.com/vandersonmota/model_mommy)
+_<sup>https://github.com/vandersonmota/model_mommy</sup>_
+
+Creating random fixtures for testing in Django.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [testing](../tagged/testing.md), [objectfactory](../tagged/objectfactory.md)
+* :octocat: **[source code](https://github.com/vandersonmota/model_mommy)**
+---
+#### [coverage](https://pypi.python.org/pypi/coverage)
+_<sup>https://pypi.python.org/pypi/coverage</sup>_
+
+Code coverage measurement.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [testing](../tagged/testing.md), [code-coverage](../tagged/code-coverage.md)
+---
+#### [mimesis](https://github.com/lk-geimfari/mimesis)
+_<sup>https://github.com/lk-geimfari/mimesis</sup>_
+
+is a Python library that help you generate fake data.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [testing](../tagged/testing.md), [fake-data](../tagged/fake-data.md)
+* :octocat: **[source code](https://github.com/lk-geimfari/mimesis)**
+---
+#### [fake2db](https://github.com/emirozer/fake2db)
+_<sup>https://github.com/emirozer/fake2db</sup>_
+
+Fake database generator.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [testing](../tagged/testing.md), [fake-data](../tagged/fake-data.md)
+* :octocat: **[source code](https://github.com/emirozer/fake2db)**
+---
+#### [faker](https://github.com/joke2k/faker)
+_<sup>https://github.com/joke2k/faker</sup>_
+
+A Python package that generates fake data.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [testing](../tagged/testing.md), [fake-data](../tagged/fake-data.md)
+* :octocat: **[source code](https://github.com/joke2k/faker)**
+---
+#### [radar](https://pypi.python.org/pypi/radar)
+_<sup>https://pypi.python.org/pypi/radar</sup>_
+
+Generate random datetime / time.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [testing](../tagged/testing.md), [fake-data](../tagged/fake-data.md)
+---
+#### [FuckIt.py](https://github.com/ajalt/fuckitpy)
+_<sup>https://github.com/ajalt/fuckitpy</sup>_
+
+FuckIt.py uses state-of-the-art technology to make sure your Python code runs whether it has any right to or not.
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [testing](../tagged/testing.md), [error-handler](../tagged/error-handler.md)
+* :octocat: **[source code](https://github.com/ajalt/fuckitpy)**
+---
 #### [mocha](https://github.com/mochajs/mocha)
 _<sup>https://github.com/mochajs/mocha</sup>_
 
