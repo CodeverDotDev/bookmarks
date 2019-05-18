@@ -2,6 +2,53 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/machine-learning](https://www.bookmarks.dev/tagged/machine-learning)</sup></sup>_
 ---
+#### [ConvNetJS](https://github.com/karpathy/convnetjs)
+_<sup>https://github.com/karpathy/convnetjs</sup>_
+
+Deep Learning in Javascript. Train Convolutional Neural Networks (or ordinary ones) in your browser.
+* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [machine-learning](../tagged/machine-learning.md)
+* :octocat: **[source code](https://github.com/karpathy/convnetjs)**
+---
+#### [DN2A](https://github.com/dn2a/dn2a-javascript)
+_<sup>https://github.com/dn2a/dn2a-javascript</sup>_
+
+Digital Neural Networks Architecture.
+* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [machine-learning](../tagged/machine-learning.md)
+* :octocat: **[source code](https://github.com/dn2a/dn2a-javascript)**
+---
+#### [Brain.js](https://github.com/harthur/brain)
+_<sup>https://github.com/harthur/brain</sup>_
+
+Neural networks in JavaScript.
+* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [machine-learning](../tagged/machine-learning.md)
+* :octocat: **[source code](https://github.com/harthur/brain)**
+---
+#### [Mind.js](https://github.com/stevenmiller888/mind)
+_<sup>https://github.com/stevenmiller888/mind</sup>_
+
+A flexible neural network library.
+* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [machine-learning](../tagged/machine-learning.md)
+* :octocat: **[source code](https://github.com/stevenmiller888/mind)**
+---
+#### [Synaptic.js](https://github.com/cazala/synaptic)
+_<sup>https://github.com/cazala/synaptic</sup>_
+
+Architecture-free neural network library for node.js and the browser.
+* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [machine-learning](../tagged/machine-learning.md)
+* :octocat: **[source code](https://github.com/cazala/synaptic)**
+---
+#### [TensorFlow.js](https://js.tensorflow.org)
+_<sup>https://js.tensorflow.org</sup>_
+
+A JavaScript library for training and deploying ML models in the browser and on Node.js.
+* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [machine-learning](../tagged/machine-learning.md)
+---
+#### [ml5.js](https://ml5js.org)
+_<sup>https://ml5js.org</sup>_
+
+Friendly Machine Learning for the Web.
+* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [machine-learning](../tagged/machine-learning.md)
+---
 #### [Apache Flink](https://flink.apache.org)
 _<sup>https://flink.apache.org</sup>_
 

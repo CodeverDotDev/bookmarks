@@ -2,6 +2,151 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/testing](https://www.bookmarks.dev/tagged/testing)</sup></sup>_
 ---
+#### [mocha](https://github.com/mochajs/mocha)
+_<sup>https://github.com/mochajs/mocha</sup>_
+
+Simple, flexible, fun javascript test framework for node.js & the browser.
+* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [testing](../tagged/testing.md), [frameworks](../tagged/frameworks.md)
+* :octocat: **[source code](https://github.com/mochajs/mocha)**
+---
+#### [jasmine](https://github.com/jasmine/jasmine)
+_<sup>https://github.com/jasmine/jasmine</sup>_
+
+DOM-less simple JavaScript testing framework.
+* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [testing](../tagged/testing.md), [frameworks](../tagged/frameworks.md)
+* :octocat: **[source code](https://github.com/jasmine/jasmine)**
+---
+#### [qunit](https://github.com/jquery/qunit)
+_<sup>https://github.com/jquery/qunit</sup>_
+
+An easy-to-use JavaScript Unit Testing framework.
+* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [testing](../tagged/testing.md), [frameworks](../tagged/frameworks.md)
+* :octocat: **[source code](https://github.com/jquery/qunit)**
+---
+#### [prova](https://github.com/azer/prova)
+_<sup>https://github.com/azer/prova</sup>_
+
+Node & Browser test runner based on Tape and Browserify
+* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [testing](../tagged/testing.md), [frameworks](../tagged/frameworks.md)
+* :octocat: **[source code](https://github.com/azer/prova)**
+---
+#### [DalekJS](https://github.com/dalekjs/dalek)
+_<sup>https://github.com/dalekjs/dalek</sup>_
+
+Automated cross browser functional testing with JavaScript
+* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [testing](../tagged/testing.md), [frameworks](../tagged/frameworks.md)
+* :octocat: **[source code](https://github.com/dalekjs/dalek)**
+---
+#### [Protractor](https://github.com/angular/protractor)
+_<sup>https://github.com/angular/protractor</sup>_
+
+Protractor is an end-to-end test framework for AngularJS applications.
+* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [testing](../tagged/testing.md), [frameworks](../tagged/frameworks.md)
+* :octocat: **[source code](https://github.com/angular/protractor)**
+---
+#### [ava](https://github.com/avajs/ava)
+_<sup>https://github.com/avajs/ava</sup>_
+
+🚀 Futuristic JavaScript test runner
+* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [testing](../tagged/testing.md), [frameworks](../tagged/frameworks.md)
+* :octocat: **[source code](https://github.com/avajs/ava)**
+---
+#### [chai](https://github.com/chaijs/chai)
+_<sup>https://github.com/chaijs/chai</sup>_
+
+BDD / TDD assertion framework for node.js and the browser that can be paired with any testing framework.
+* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [testing](../tagged/testing.md), [assertion](../tagged/assertion.md)
+* :octocat: **[source code](https://github.com/chaijs/chai)**
+---
+#### [Enzyme](http://airbnb.io/enzyme/index.html)
+_<sup>http://airbnb.io/enzyme/index.html</sup>_
+
+Enzyme is a JavaScript Testing utility for React that makes it easier to assert, manipulate, and traverse your React Components' output.
+* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [testing](../tagged/testing.md), [assertion](../tagged/assertion.md)
+---
+#### [react testing library](https://github.com/kentcdodds/react-testing-library)
+_<sup>https://github.com/kentcdodds/react-testing-library</sup>_
+
+Simple and complete React DOM testing utilities that encourage good testing practices.
+* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [testing](../tagged/testing.md), [assertion](../tagged/assertion.md)
+* :octocat: **[source code](https://github.com/kentcdodds/react-testing-library)**
+---
+#### [expect.js](https://github.com/Automattic/expect.js)
+_<sup>https://github.com/Automattic/expect.js</sup>_
+
+Minimalistic BDD-style assertions for Node.JS and the browser.
+* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [testing](../tagged/testing.md), [assertion](../tagged/assertion.md)
+* :octocat: **[source code](https://github.com/Automattic/expect.js)**
+---
+#### [istanbul](https://github.com/gotwarlost/istanbul)
+_<sup>https://github.com/gotwarlost/istanbul</sup>_
+
+Yet another JS code coverage tool.
+* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [testing](../tagged/testing.md), [coverage](../tagged/coverage.md)
+* :octocat: **[source code](https://github.com/gotwarlost/istanbul)**
+---
+#### [blanket](https://github.com/alex-seville/blanket)
+_<sup>https://github.com/alex-seville/blanket</sup>_
+
+A simple code coverage library for javascript. Designed to be easy to install and use, for both browser and nodejs.
+* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [testing](../tagged/testing.md), [coverage](../tagged/coverage.md)
+* :octocat: **[source code](https://github.com/alex-seville/blanket)**
+---
+#### [JSCover](https://github.com/tntim96/JSCover)
+_<sup>https://github.com/tntim96/JSCover</sup>_
+
+JSCover is a tool that measures code coverage for JavaScript programs.
+* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [testing](../tagged/testing.md), [coverage](../tagged/coverage.md)
+* :octocat: **[source code](https://github.com/tntim96/JSCover)**
+---
+#### [phantomjs](https://github.com/ariya/phantomjs)
+_<sup>https://github.com/ariya/phantomjs</sup>_
+
+Scriptable Headless WebKit.
+* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [testing](../tagged/testing.md), [runner](../tagged/runner.md)
+* :octocat: **[source code](https://github.com/ariya/phantomjs)**
+---
+#### [slimerjs](https://github.com/laurentj/slimerjs)
+_<sup>https://github.com/laurentj/slimerjs</sup>_
+
+A PhantomJS-like tool running Gecko.
+* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [testing](../tagged/testing.md), [runner](../tagged/runner.md)
+* :octocat: **[source code](https://github.com/laurentj/slimerjs)**
+---
+#### [casperjs](https://github.com/casperjs/casperjs)
+_<sup>https://github.com/casperjs/casperjs</sup>_
+
+Navigation scripting & testing utility for PhantomJS and SlimerJS.
+* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [testing](../tagged/testing.md), [runner](../tagged/runner.md)
+* :octocat: **[source code](https://github.com/casperjs/casperjs)**
+---
+#### [zombie](https://github.com/assaf/zombie)
+_<sup>https://github.com/assaf/zombie</sup>_
+
+Insanely fast, full-stack, headless browser testing using node.js.
+* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [testing](../tagged/testing.md), [runner](../tagged/runner.md)
+* :octocat: **[source code](https://github.com/assaf/zombie)**
+---
+#### [totoro](https://github.com/totorojs/totoro)
+_<sup>https://github.com/totorojs/totoro</sup>_
+
+A simple and stable cross-browser testing tool.
+* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [testing](../tagged/testing.md), [runner](../tagged/runner.md)
+* :octocat: **[source code](https://github.com/totorojs/totoro)**
+---
+#### [karma](https://github.com/karma-runner/karma)
+_<sup>https://github.com/karma-runner/karma</sup>_
+
+Spectacular Test Runner for JavaScript.
+* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [testing](../tagged/testing.md), [runner](../tagged/runner.md)
+* :octocat: **[source code](https://github.com/karma-runner/karma)**
+---
+#### [yolpo](http://www.yolpo.com)
+_<sup>http://www.yolpo.com</sup>_
+
+A statement-by-statement javascript interpreter in the browser.
+* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [testing](../tagged/testing.md), [runner](../tagged/runner.md)
+---
 #### [AVA](https://ava.li)
 _<sup>https://ava.li</sup>_
 

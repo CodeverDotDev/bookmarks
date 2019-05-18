@@ -2,6 +2,54 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/validation](https://www.bookmarks.dev/tagged/validation)</sup></sup>_
 ---
+#### [Parsley.js](https://github.com/guillaumepotier/Parsley.js)
+_<sup>https://github.com/guillaumepotier/Parsley.js</sup>_
+
+Validate your forms, frontend, without writing a single line of javascript.
+* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [validation](../tagged/validation.md)
+* :octocat: **[source code](https://github.com/guillaumepotier/Parsley.js)**
+---
+#### [jquery-validation](https://github.com/jzaefferer/jquery-validation)
+_<sup>https://github.com/jzaefferer/jquery-validation</sup>_
+
+jQuery Validation Plugin.
+* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [validation](../tagged/validation.md)
+* :octocat: **[source code](https://github.com/jzaefferer/jquery-validation)**
+---
+#### [validate.js](https://github.com/rickharrison/validate.js)
+_<sup>https://github.com/rickharrison/validate.js</sup>_
+
+Lightweight JavaScript form validation library inspired by CodeIgniter.
+* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [validation](../tagged/validation.md)
+* :octocat: **[source code](https://github.com/rickharrison/validate.js)**
+---
+#### [validatr](https://github.com/jaymorrow/validatr/)
+_<sup>https://github.com/jaymorrow/validatr/</sup>_
+
+Cross Browser HTML5 Form Validation.
+* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [validation](../tagged/validation.md)
+* :octocat: **[source code](https://github.com/jaymorrow/validatr/)**
+---
+#### [FormValidation](http://formvalidation.io/)
+_<sup>http://formvalidation.io/</sup>_
+
+The best jQuery plugin to validate form fields. Formerly BootstrapValidator.
+* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [validation](../tagged/validation.md)
+---
+#### [is.js](https://github.com/arasatasaygin/is.js)
+_<sup>https://github.com/arasatasaygin/is.js</sup>_
+
+Check types, regexps, presence, time and more.
+* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [validation](../tagged/validation.md)
+* :octocat: **[source code](https://github.com/arasatasaygin/is.js)**
+---
+#### [FieldVal](https://github.com/FieldVal/fieldval-js)
+_<sup>https://github.com/FieldVal/fieldval-js</sup>_
+
+multipurpose validation library. Supports both sync and async validation.
+* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [validation](../tagged/validation.md)
+* :octocat: **[source code](https://github.com/FieldVal/fieldval-js)**
+---
 #### [joi](https://github.com/hapijs/joi)
 _<sup>https://github.com/hapijs/joi</sup>_
 

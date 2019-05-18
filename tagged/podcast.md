@@ -2,6 +2,45 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/podcast](https://www.bookmarks.dev/tagged/podcast)</sup></sup>_
 ---
+#### [Web of Tomorrow](http://www.weboftomorrowpodcast.com/)
+_<sup>http://www.weboftomorrowpodcast.com/</sup>_
+
+Podcast about JavaScript for beginners.
+* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [podcast](../tagged/podcast.md)
+---
+#### [braziljs/js-the-right-way](https://github.com/braziljs/js-the-right-way/)
+_<sup>https://github.com/braziljs/js-the-right-way/</sup>_
+
+An easy-to-read, quick reference for JS best practices, accepted coding standards, and links around the Web - braziljs/js-the-right-way
+* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [podcast](../tagged/podcast.md)
+* :octocat: **[source code](https://github.com/braziljs/js-the-right-way/)**
+---
+#### [Superhero.js](http://superherojs.com)
+_<sup>http://superherojs.com</sup>_
+
+A collection of resources about creating, testing and maintaining a large JavaScript code base.
+* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [podcast](../tagged/podcast.md)
+---
+#### [SJSJ](https://github.com/HugoGiraudel/SJSJ)
+_<sup>https://github.com/HugoGiraudel/SJSJ</sup>_
+
+Simplified JavaScript Jargon is a community-driven attempt at explaining the loads of buzzwords making the current JavaScript ecosystem in a few simple words.
+* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [podcast](../tagged/podcast.md)
+* :octocat: **[source code](https://github.com/HugoGiraudel/SJSJ)**
+---
+#### [How to Write an Open Source JavaScript Library](https://github.com/sarbbottam/write-an-open-source-js-lib)
+_<sup>https://github.com/sarbbottam/write-an-open-source-js-lib</sup>_
+
+A comprehensive guide through a set of steps to publish a JavaScript open source library.
+* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [podcast](../tagged/podcast.md)
+* :octocat: **[source code](https://github.com/sarbbottam/write-an-open-source-js-lib)**
+---
+#### [Jaavascript tutorial](https://hackr.io/tutorials/learn-javascript)
+_<sup>https://hackr.io/tutorials/learn-javascript</sup>_
+
+Learn Javascript online from a diverse range of user ranked online tutorials.
+* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [podcast](../tagged/podcast.md)
+---
 #### [PHP Town Hall](https://phptownhall.com/)
 _<sup>https://phptownhall.com/</sup>_
 

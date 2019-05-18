@@ -2,6 +2,62 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/date](https://www.bookmarks.dev/tagged/date)</sup></sup>_
 ---
+#### [moment](https://github.com/moment/moment)
+_<sup>https://github.com/moment/moment</sup>_
+
+Parse, validate, manipulate, and display dates in javascript.
+* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [date](../tagged/date.md)
+* :octocat: **[source code](https://github.com/moment/moment)**
+---
+#### [moment-timezone](https://github.com/moment/moment-timezone)
+_<sup>https://github.com/moment/moment-timezone</sup>_
+
+Timezone support for moment.js.
+* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [date](../tagged/date.md)
+* :octocat: **[source code](https://github.com/moment/moment-timezone)**
+---
+#### [jquery-timeago](https://github.com/rmm5t/jquery-timeago)
+_<sup>https://github.com/rmm5t/jquery-timeago</sup>_
+
+A jQuery plugin that makes it easy to support automatically updating fuzzy timestamps (e.g. "4 minutes ago").
+* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [date](../tagged/date.md)
+* :octocat: **[source code](https://github.com/rmm5t/jquery-timeago)**
+---
+#### [timezone-js](https://github.com/mde/timezone-js)
+_<sup>https://github.com/mde/timezone-js</sup>_
+
+Timezone-enabled JavaScript Date object. Uses Olson zoneinfo files for timezone data.
+* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [date](../tagged/date.md)
+* :octocat: **[source code](https://github.com/mde/timezone-js)**
+---
+#### [date](https://github.com/MatthewMueller/date)
+_<sup>https://github.com/MatthewMueller/date</sup>_
+
+Date() for humans.
+* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [date](../tagged/date.md)
+* :octocat: **[source code](https://github.com/MatthewMueller/date)**
+---
+#### [countdown.js](https://github.com/gumroad/countdown.js)
+_<sup>https://github.com/gumroad/countdown.js</sup>_
+
+Super simple countdowns.
+* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [date](../tagged/date.md)
+* :octocat: **[source code](https://github.com/gumroad/countdown.js)**
+---
+#### [timeago.js](https://github.com/hustcc/timeago.js)
+_<sup>https://github.com/hustcc/timeago.js</sup>_
+
+Simple library (less then 2kb) used to format date with `*** time ago` statement.
+* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [date](../tagged/date.md)
+* :octocat: **[source code](https://github.com/hustcc/timeago.js)**
+---
+#### [fecha](https://github.com/taylorhakes/fecha)
+_<sup>https://github.com/taylorhakes/fecha</sup>_
+
+Lightweight date formatting and parsing (~2KB). Meant to replace parsing and formatting functionality of moment.js.
+* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [date](../tagged/date.md)
+* :octocat: **[source code](https://github.com/taylorhakes/fecha)**
+---
 #### [Luxon](https://github.com/moment/luxon)
 _<sup>https://github.com/moment/luxon</sup>_
 

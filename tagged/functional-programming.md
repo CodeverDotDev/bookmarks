@@ -2,6 +2,48 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/functional-programming](https://www.bookmarks.dev/tagged/functional-programming)</sup></sup>_
 ---
+#### [underscore](https://github.com/jashkenas/underscore)
+_<sup>https://github.com/jashkenas/underscore</sup>_
+
+JavaScript's utility _ belt.
+* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [functional-programming](../tagged/functional-programming.md)
+* :octocat: **[source code](https://github.com/jashkenas/underscore)**
+---
+#### [lodash](https://github.com/lodash/lodash)
+_<sup>https://github.com/lodash/lodash</sup>_
+
+A utility library delivering consistency, customization, performance, & extras.
+* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [functional-programming](../tagged/functional-programming.md)
+* :octocat: **[source code](https://github.com/lodash/lodash)**
+---
+#### [Sugar](https://github.com/andrewplummer/Sugar)
+_<sup>https://github.com/andrewplummer/Sugar</sup>_
+
+A Javascript library for working with native objects.
+* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [functional-programming](../tagged/functional-programming.md)
+* :octocat: **[source code](https://github.com/andrewplummer/Sugar)**
+---
+#### [ramda](https://github.com/CrossEye/ramda)
+_<sup>https://github.com/CrossEye/ramda</sup>_
+
+A practical functional library for Javascript programmers.
+* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [functional-programming](../tagged/functional-programming.md)
+* :octocat: **[source code](https://github.com/CrossEye/ramda)**
+---
+#### [mesh](https://github.com/crcn/mesh.js)
+_<sup>https://github.com/crcn/mesh.js</sup>_
+
+Streamable data synchronization utility.
+* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [functional-programming](../tagged/functional-programming.md)
+* :octocat: **[source code](https://github.com/crcn/mesh.js)**
+---
+#### [preludejs](https://github.com/alanrsoares/prelude-js)
+_<sup>https://github.com/alanrsoares/prelude-js</sup>_
+
+Hardcore Functional Programming for JavaScript.
+* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [functional-programming](../tagged/functional-programming.md)
+* :octocat: **[source code](https://github.com/alanrsoares/prelude-js)**
+---
 #### [lodash](https://lodash.com)
 _<sup>https://lodash.com</sup>_
 

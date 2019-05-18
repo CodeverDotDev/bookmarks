@@ -2,6 +2,27 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/security](https://www.bookmarks.dev/tagged/security)</sup></sup>_
 ---
+#### [DOMPurify](https://github.com/cure53/DOMPurify)
+_<sup>https://github.com/cure53/DOMPurify</sup>_
+
+A DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG.
+* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [security](../tagged/security.md)
+* :octocat: **[source code](https://github.com/cure53/DOMPurify)**
+---
+#### [js-xss](https://github.com/leizongmin/js-xss)
+_<sup>https://github.com/leizongmin/js-xss</sup>_
+
+Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist.
+* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [security](../tagged/security.md)
+* :octocat: **[source code](https://github.com/leizongmin/js-xss)**
+---
+#### [xss-filters](https://github.com/yahoo/xss-filters)
+_<sup>https://github.com/yahoo/xss-filters</sup>_
+
+Secure XSS Filters by Yahoo
+* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [security](../tagged/security.md)
+* :octocat: **[source code](https://github.com/yahoo/xss-filters)**
+---
 #### [snyk](https://github.com/Snyk/snyk)
 _<sup>https://github.com/Snyk/snyk</sup>_
 

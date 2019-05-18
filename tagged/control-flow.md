@@ -2,6 +2,48 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/control-flow](https://www.bookmarks.dev/tagged/control-flow)</sup></sup>_
 ---
+#### [q](https://github.com/kriskowal/q)
+_<sup>https://github.com/kriskowal/q</sup>_
+
+A tool for making and composing asynchronous promises in JavaScript.
+* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [control-flow](../tagged/control-flow.md)
+* :octocat: **[source code](https://github.com/kriskowal/q)**
+---
+#### [step](https://github.com/creationix/step/)
+_<sup>https://github.com/creationix/step/</sup>_
+
+An async control-flow library that makes stepping through logic easy.
+* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [control-flow](../tagged/control-flow.md)
+* :octocat: **[source code](https://github.com/creationix/step/)**
+---
+#### [contra](https://github.com/bevacqua/contra/)
+_<sup>https://github.com/bevacqua/contra/</sup>_
+
+Asynchronous flow control with a functional taste to it.
+* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [control-flow](../tagged/control-flow.md)
+* :octocat: **[source code](https://github.com/bevacqua/contra/)**
+---
+#### [Bluebird](https://github.com/petkaantonov/bluebird/)
+_<sup>https://github.com/petkaantonov/bluebird/</sup>_
+
+fully featured promise library with focus on innovative features and performance.
+* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [control-flow](../tagged/control-flow.md)
+* :octocat: **[source code](https://github.com/petkaantonov/bluebird/)**
+---
+#### [when](https://github.com/cujojs/when)
+_<sup>https://github.com/cujojs/when</sup>_
+
+A solid, fast Promises/A+ and when() implementation, plus other async goodies.
+* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [control-flow](../tagged/control-flow.md)
+* :octocat: **[source code](https://github.com/cujojs/when)**
+---
+#### [ObjectEventTarget](https://github.com/gartz/ObjectEventTarget)
+_<sup>https://github.com/gartz/ObjectEventTarget</sup>_
+
+Provide a prototype that add support to event listeners (with same behavior of EventTarget from DOMElements available on browsers).
+* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [control-flow](../tagged/control-flow.md)
+* :octocat: **[source code](https://github.com/gartz/ObjectEventTarget)**
+---
 #### [Bluebird](https://github.com/petkaantonov/bluebird)
 _<sup>https://github.com/petkaantonov/bluebird</sup>_
 

@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/keycloak](https://www.bookmarks.dev/tagged/keycloak)</sup></sup>_
 ---
+#### [GitHub - thomasdarimont/keycloak-health-checks](https://github.com/thomasdarimont/keycloak-health-checks)
+_<sup>https://github.com/thomasdarimont/keycloak-health-checks</sup>_
+
+Keycloak Extension for health checks. Contribute to thomasdarimont/keycloak-health-checks development by creating an account on GitHub.
+* **tags**: [keycloak](../tagged/keycloak.md), [healthcheck](../tagged/healthcheck.md), [monitoring](../tagged/monitoring.md)
+* :octocat: **[source code](https://github.com/thomasdarimont/keycloak-health-checks)**
+---
 #### [Using Client Scope with RedHat SSO Keycloak - JANUA](http://www.janua.fr/using-client-scope-with-redhat-sso-keycloak/)
 _<sup>http://www.janua.fr/using-client-scope-with-redhat-sso-keycloak/</sup>_
 

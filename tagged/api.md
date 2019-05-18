@@ -2,6 +2,34 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/api](https://www.bookmarks.dev/tagged/api)</sup></sup>_
 ---
+#### [oauth-signature-js](https://github.com/bettiolo/oauth-signature-js)
+_<sup>https://github.com/bettiolo/oauth-signature-js</sup>_
+
+JavaScript OAuth 1.0a signature generator for node and the browser.
+* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [api](../tagged/api.md)
+* :octocat: **[source code](https://github.com/bettiolo/oauth-signature-js)**
+---
+#### [amygdala](https://github.com/lincolnloop/amygdala)
+_<sup>https://github.com/lincolnloop/amygdala</sup>_
+
+RESTful HTTP client for JavaScript powered web applications.
+* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [api](../tagged/api.md)
+* :octocat: **[source code](https://github.com/lincolnloop/amygdala)**
+---
+#### [jquery.rest](https://github.com/jpillora/jquery.rest)
+_<sup>https://github.com/jpillora/jquery.rest</sup>_
+
+A jQuery plugin for easy consumption of RESTful APIs.
+* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [api](../tagged/api.md)
+* :octocat: **[source code](https://github.com/jpillora/jquery.rest)**
+---
+#### [Rails Ranger](https://github.com/victor-am/rails-ranger)
+_<sup>https://github.com/victor-am/rails-ranger</sup>_
+
+An opinionated REST client for Ruby on Rails APIs.
+* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [api](../tagged/api.md)
+* :octocat: **[source code](https://github.com/victor-am/rails-ranger)**
+---
 #### [API Infrastructure at Knewton: What’s in an Edge Service?](https://medium.com/knerd/api-infrastructure-at-knewton-whats-in-an-edge-service-51a3777aeb41)
 _<sup>https://medium.com/knerd/api-infrastructure-at-knewton-whats-in-an-edge-service-51a3777aeb41</sup>_
 
