@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/nodejs](https://www.bookmarks.dev/tagged/nodejs)</sup></sup>_
 ---
+#### [Creating A GraphQL Server With Node.js And Express – CodingTheSmartWay.com Blog – Medium](https://medium.com/codingthesmartway-com-blog/creating-a-graphql-server-with-node-js-and-express-f6dddc5320e1)
+_<sup>https://medium.com/codingthesmartway-com-blog/creating-a-graphql-server-with-node-js-and-express-f6d...</sup>_
+
+In this tutorial you’ll learn how to setup a GraphQL server with Node.js and Express. We’ll be using the Express middleware `express-graphql` in our example. Furthermore you’ll learn how to use GraphQ...
+* :calendar: **published on**: 2018-01-21
+* **tags**: [graphql](../tagged/graphql.md), [nodejs](../tagged/nodejs.md), [expressjs](../tagged/expressjs.md)
+---
 #### [Reaction Commerce](https://github.com/reactioncommerce/reaction)
 _<sup>https://github.com/reactioncommerce/reaction</sup>_
 
@@ -3125,35 +3132,35 @@ JavaScript parser used in Babel.
 _<sup>https://github.com/jnordberg/wintersmith</sup>_
 
 Flexible, minimalistic, multi-platform static site generator.
-* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [static-site generators](../tagged/static-site generators.md)
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [static-site-generator](../tagged/static-site-generator.md)
 * :octocat: **[source code](https://github.com/jnordberg/wintersmith)**
 ---
 #### [Assemble](https://github.com/assemble/assemble/)
 _<sup>https://github.com/assemble/assemble/</sup>_
 
 Static site generator for Node.js, Grunt.js, and Yeoman.
-* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [static-site generators](../tagged/static-site generators.md)
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [static-site-generator](../tagged/static-site-generator.md)
 * :octocat: **[source code](https://github.com/assemble/assemble/)**
 ---
 #### [DocPad](https://github.com/docpad/docpad)
 _<sup>https://github.com/docpad/docpad</sup>_
 
 Static site generator with dynamic abilities and huge plugin ecosystem.
-* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [static-site generators](../tagged/static-site generators.md)
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [static-site-generator](../tagged/static-site-generator.md)
 * :octocat: **[source code](https://github.com/docpad/docpad)**
 ---
 #### [Phenomic](https://github.com/phenomic/phenomic)
 _<sup>https://github.com/phenomic/phenomic</sup>_
 
 Modern static website generator based on the React and Webpack ecosystem.
-* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [static-site generators](../tagged/static-site generators.md)
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [static-site-generator](../tagged/static-site-generator.md)
 * :octocat: **[source code](https://github.com/phenomic/phenomic)**
 ---
 #### [docsify](https://github.com/QingWei-Li/docsify)
 _<sup>https://github.com/QingWei-Li/docsify</sup>_
 
 Markdown documentation site generator with no statically built HTML files.
-* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [static-site generators](../tagged/static-site generators.md)
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [static-site-generator](../tagged/static-site-generator.md)
 * :octocat: **[source code](https://github.com/QingWei-Li/docsify)**
 ---
 #### [KeystoneJS](https://github.com/keystonejs/keystone)
@@ -3884,13 +3891,6 @@ _<sup>https://github.com/sindresorhus/awesome-npm</sup>_
 Resources and tips for using npm.
 * **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [awesome-list](../tagged/awesome-list.md)
 * :octocat: **[source code](https://github.com/sindresorhus/awesome-npm)**
----
-#### [awesome-cross-platform-nodejs](https://github.com/bcoe/awesome-cross-platform-nodejs)
-_<sup>https://github.com/bcoe/awesome-cross-platform-nodejs</sup>_
-
-Resources for writing and testing cross-platform code.
-* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [awesome-list](../tagged/awesome-list.md)
-* :octocat: **[source code](https://github.com/bcoe/awesome-cross-platform-nodejs)**
 ---
 #### [puppeteer home page](https://pptr.dev/)
 _<sup>https://pptr.dev/</sup>_

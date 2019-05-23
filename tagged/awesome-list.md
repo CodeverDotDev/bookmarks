@@ -9,13 +9,6 @@ Resources and tips for using npm.
 * **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [awesome-list](../tagged/awesome-list.md)
 * :octocat: **[source code](https://github.com/sindresorhus/awesome-npm)**
 ---
-#### [awesome-cross-platform-nodejs](https://github.com/bcoe/awesome-cross-platform-nodejs)
-_<sup>https://github.com/bcoe/awesome-cross-platform-nodejs</sup>_
-
-Resources for writing and testing cross-platform code.
-* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [awesome-list](../tagged/awesome-list.md)
-* :octocat: **[source code](https://github.com/bcoe/awesome-cross-platform-nodejs)**
----
 #### [Awesome Gradle Plugins](https://github.com/ksoichiro/awesome-gradle)
 _<sup>https://github.com/ksoichiro/awesome-gradle</sup>_
 

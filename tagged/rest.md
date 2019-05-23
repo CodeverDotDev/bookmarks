@@ -2,6 +2,14 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/rest](https://www.bookmarks.dev/tagged/rest)</sup></sup>_
 ---
+#### [From REST to GraphQL a real world experiment - blog.dev-area.net](https://blog.dev-area.net/2017/01/17/from-rest-to-graphql/)
+_<sup>https://blog.dev-area.net/2017/01/17/from-rest-to-graphql/</sup>_
+
+To try out GraphQL I am going to use the Hyperwallet REST V3 APIs and expose them via a GraphQL Server. This includes querying as well as updating data.
+* :calendar: **published on**: 2017-01-17
+* **tags**: [graphql](../tagged/graphql.md), [rest](../tagged/rest.md), [expressjs](../tagged/expressjs.md)
+* :octocat: **[source code](https://github.com/fkrauthan/hyperwallet-graphql-server)**
+---
 #### [django-rest-framework](http://www.django-rest-framework.org/)
 _<sup>http://www.django-rest-framework.org/</sup>_
 

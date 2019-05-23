@@ -3478,28 +3478,28 @@ A command line tool that can unpack archives easily.
 _<sup>https://github.com/mkdocs/mkdocs/</sup>_
 
 Markdown friendly documentation generator.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [static-site generator](../tagged/static-site generator.md)
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [static-site-generator](../tagged/static-site-generator.md)
 * :octocat: **[source code](https://github.com/mkdocs/mkdocs/)**
 ---
 #### [pelican](https://github.com/getpelican/pelican)
 _<sup>https://github.com/getpelican/pelican</sup>_
 
 Static site generator that supports Markdown and reST syntax.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [static-site generator](../tagged/static-site generator.md)
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [static-site-generator](../tagged/static-site-generator.md)
 * :octocat: **[source code](https://github.com/getpelican/pelican)**
 ---
 #### [lektor](https://github.com/lektor/lektor)
 _<sup>https://github.com/lektor/lektor</sup>_
 
 An easy to use static CMS and blog engine.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [static-site generator](../tagged/static-site generator.md)
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [static-site-generator](../tagged/static-site-generator.md)
 * :octocat: **[source code](https://github.com/lektor/lektor)**
 ---
 #### [nikola](https://github.com/getnikola/nikola)
 _<sup>https://github.com/getnikola/nikola</sup>_
 
 A static website and blog generator.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [static-site generator](../tagged/static-site generator.md)
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [static-site-generator](../tagged/static-site-generator.md)
 * :octocat: **[source code](https://github.com/getnikola/nikola)**
 ---
 #### [django-taggit](https://github.com/jazzband/django-taggit)
@@ -4048,63 +4048,63 @@ Bundles, optimizes, and manages unique cache-busting URLs for static resources.
 _<sup>https://github.com/Alir3z4/html2text</sup>_
 
 Convert HTML to Markdown-formatted text.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [web-content extracting](../tagged/web-content extracting.md)
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [web-content-extracting](../tagged/web-content-extracting.md)
 * :octocat: **[source code](https://github.com/Alir3z4/html2text)**
 ---
 #### [lassie](https://github.com/michaelhelmick/lassie)
 _<sup>https://github.com/michaelhelmick/lassie</sup>_
 
 Web Content Retrieval for Humans.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [web-content extracting](../tagged/web-content extracting.md)
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [web-content-extracting](../tagged/web-content-extracting.md)
 * :octocat: **[source code](https://github.com/michaelhelmick/lassie)**
 ---
 #### [micawber](https://github.com/coleifer/micawber)
 _<sup>https://github.com/coleifer/micawber</sup>_
 
 A small library for extracting rich content from URLs.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [web-content extracting](../tagged/web-content extracting.md)
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [web-content-extracting](../tagged/web-content-extracting.md)
 * :octocat: **[source code](https://github.com/coleifer/micawber)**
 ---
 #### [newspaper](https://github.com/codelucas/newspaper)
 _<sup>https://github.com/codelucas/newspaper</sup>_
 
 News extraction, article extraction and content curation in Python.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [web-content extracting](../tagged/web-content extracting.md)
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [web-content-extracting](../tagged/web-content-extracting.md)
 * :octocat: **[source code](https://github.com/codelucas/newspaper)**
 ---
 #### [python-readability](https://github.com/buriy/python-readability)
 _<sup>https://github.com/buriy/python-readability</sup>_
 
 Fast Python port of arc90's readability tool.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [web-content extracting](../tagged/web-content extracting.md)
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [web-content-extracting](../tagged/web-content-extracting.md)
 * :octocat: **[source code](https://github.com/buriy/python-readability)**
 ---
 #### [requests-html](https://github.com/kennethreitz/requests-html)
 _<sup>https://github.com/kennethreitz/requests-html</sup>_
 
 Pythonic HTML Parsing for Humans.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [web-content extracting](../tagged/web-content extracting.md)
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [web-content-extracting](../tagged/web-content-extracting.md)
 * :octocat: **[source code](https://github.com/kennethreitz/requests-html)**
 ---
 #### [sumy](https://github.com/miso-belica/sumy)
 _<sup>https://github.com/miso-belica/sumy</sup>_
 
 A module for automatic summarization of text documents and HTML pages.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [web-content extracting](../tagged/web-content extracting.md)
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [web-content-extracting](../tagged/web-content-extracting.md)
 * :octocat: **[source code](https://github.com/miso-belica/sumy)**
 ---
 #### [textract](https://github.com/deanmalmgren/textract)
 _<sup>https://github.com/deanmalmgren/textract</sup>_
 
 Extract text from any document, Word, PowerPoint, PDFs, etc.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [web-content extracting](../tagged/web-content extracting.md)
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [web-content-extracting](../tagged/web-content-extracting.md)
 * :octocat: **[source code](https://github.com/deanmalmgren/textract)**
 ---
 #### [toapi](https://github.com/gaojiuli/toapi)
 _<sup>https://github.com/gaojiuli/toapi</sup>_
 
 Every web site provides APIs.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [web-content extracting](../tagged/web-content extracting.md)
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [web-content-extracting](../tagged/web-content-extracting.md)
 * :octocat: **[source code](https://github.com/gaojiuli/toapi)**
 ---
 #### [cola](https://github.com/chineking/cola)

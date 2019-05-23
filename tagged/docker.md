@@ -2,6 +2,21 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/docker](https://www.bookmarks.dev/tagged/docker)</sup></sup>_
 ---
+#### [Keycloak - Blog - Keycloak Cluster Setup](https://www.keycloak.org/2019/05/keycloak-cluster-setup.html)
+_<sup>https://www.keycloak.org/2019/05/keycloak-cluster-setup.html</sup>_
+
+This post shares some solutions to setup Keycloak cluster in various scenarios (e.g. cross-DC, docker cross-host, Kubernetes).
+* :calendar: **published on**: 2019-05-10
+* **tags**: [keycloak](../tagged/keycloak.md), [cluster-computing](../tagged/cluster-computing.md), [kubernetes](../tagged/kubernetes.md), [docker](../tagged/docker.md)
+* :octocat: **[source code](https://github.com/fit2anything/keycloak-cluster-setup-and-configuration)**
+---
+#### [Deploy a Docker container to Kubernetes using YAML files - YouTube](https://www.youtube.com/watch?v=eHvKc6hNmhI)
+_<sup>https://www.youtube.com/watch?v=eHvKc6hNmhI</sup>_
+
+Deploy a Docker container to Kubernetes using YAML files. Nice explanation of attributes and what is their purpose.
+* :calendar: **published on**: 2018-09-08
+* **tags**: [docker](../tagged/docker.md), [yaml](../tagged/yaml.md)
+---
 #### [GitHub - GoogleContainerTools/distroless home page](https://github.com/GoogleContainerTools/distroless)
 _<sup>https://github.com/GoogleContainerTools/distroless</sup>_
 

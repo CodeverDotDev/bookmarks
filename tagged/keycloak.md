@@ -2,6 +2,28 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/keycloak](https://www.bookmarks.dev/tagged/keycloak)</sup></sup>_
 ---
+#### [keycloak helm charts from codecentric](https://github.com/codecentric/helm-charts/tree/master/charts/keycloak)
+_<sup>https://github.com/codecentric/helm-charts/tree/master/charts/keycloak</sup>_
+
+This chart bootstraps a Keycloak StatefulSet on a Kubernetes cluster using the Helm package manager. It provisions a fully featured Keycloak installation.
+* **tags**: [keycloak](../tagged/keycloak.md), [kubernetes](../tagged/kubernetes.md), [kubernetes-helm](../tagged/kubernetes-helm.md)
+* :octocat: **[source code](https://github.com/codecentric/helm-charts/tree/master/charts/keycloak)**
+---
+#### [Keycloak - Blog - Keycloak Cluster Setup](https://www.keycloak.org/2019/05/keycloak-cluster-setup.html)
+_<sup>https://www.keycloak.org/2019/05/keycloak-cluster-setup.html</sup>_
+
+This post shares some solutions to setup Keycloak cluster in various scenarios (e.g. cross-DC, docker cross-host, Kubernetes).
+* :calendar: **published on**: 2019-05-10
+* **tags**: [keycloak](../tagged/keycloak.md), [cluster-computing](../tagged/cluster-computing.md), [kubernetes](../tagged/kubernetes.md), [docker](../tagged/docker.md)
+* :octocat: **[source code](https://github.com/fit2anything/keycloak-cluster-setup-and-configuration)**
+---
+#### [Mapping LDAP Group and Roles to RedHat SSO Keycloak - JANUA](http://www.janua.fr/mapping-ldap-group-and-roles-to-redhat-sso-keycloak/)
+_<sup>http://www.janua.fr/mapping-ldap-group-and-roles-to-redhat-sso-keycloak/</sup>_
+
+Mapping LDAP Group and Roles to RedHat SSO Keycloak : the goal of this article is to showcase how it is possible to expose and to use LDAP roles at keycloak level.
+* :calendar: **published on**: 2018-12-25
+* **tags**: [keycloak](../tagged/keycloak.md), [rh-sso](../tagged/rh-sso.md), [ldap](../tagged/ldap.md)
+---
 #### [GitHub - thomasdarimont/keycloak-health-checks](https://github.com/thomasdarimont/keycloak-health-checks)
 _<sup>https://github.com/thomasdarimont/keycloak-health-checks</sup>_
 

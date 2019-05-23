@@ -2,6 +2,19 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/helm](https://www.bookmarks.dev/tagged/helm)</sup></sup>_
 ---
+#### [How to Create Your First Helm](https://docs.bitnami.com/kubernetes/how-to/create-your-first-helm-chart/)
+_<sup>https://docs.bitnami.com/kubernetes/how-to/create-your-first-helm-chart/</sup>_
+
+This guide walks you through the process of creating your first ever chart, explaining what goes inside these packages and the tools you use to develop them. By the end of it you should have an unders...
+* **tags**: [kubernetes](../tagged/kubernetes.md), [kubernetes-helm](../tagged/kubernetes-helm.md), [helm](../tagged/helm.md)
+---
+#### [Building Helm Charts From the Ground Up - An Introduction to Kubernetes [I] - Amy Chen, Heptio - YouTube](https://www.youtube.com/watch?v=vQX5nokoqrQ)
+_<sup>https://www.youtube.com/watch?v=vQX5nokoqrQ</sup>_
+
+Learn the basics of Kubernetes from the perspective of creating a Helm Chart from scratch! Really nice explanation for beginners. 
+* :calendar: **published on**: 2017-12-15
+* **tags**: [kubernetes](../tagged/kubernetes.md), [kubernetes-helm](../tagged/kubernetes-helm.md), [helm](../tagged/helm.md)
+---
 #### [Continuous Development with Java and Kubernetes - DEV Community 👩‍💻👨‍💻](https://dev.to/pozo/continuous-development-with-java-and-kubernetes-3d08)
 _<sup>https://dev.to/pozo/continuous-development-with-java-and-kubernetes-3d08</sup>_
 

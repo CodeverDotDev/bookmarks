@@ -2,6 +2,21 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/expressjs](https://www.bookmarks.dev/tagged/expressjs)</sup></sup>_
 ---
+#### [Creating A GraphQL Server With Node.js And Express – CodingTheSmartWay.com Blog – Medium](https://medium.com/codingthesmartway-com-blog/creating-a-graphql-server-with-node-js-and-express-f6dddc5320e1)
+_<sup>https://medium.com/codingthesmartway-com-blog/creating-a-graphql-server-with-node-js-and-express-f6d...</sup>_
+
+In this tutorial you’ll learn how to setup a GraphQL server with Node.js and Express. We’ll be using the Express middleware `express-graphql` in our example. Furthermore you’ll learn how to use GraphQ...
+* :calendar: **published on**: 2018-01-21
+* **tags**: [graphql](../tagged/graphql.md), [nodejs](../tagged/nodejs.md), [expressjs](../tagged/expressjs.md)
+---
+#### [From REST to GraphQL a real world experiment - blog.dev-area.net](https://blog.dev-area.net/2017/01/17/from-rest-to-graphql/)
+_<sup>https://blog.dev-area.net/2017/01/17/from-rest-to-graphql/</sup>_
+
+To try out GraphQL I am going to use the Hyperwallet REST V3 APIs and expose them via a GraphQL Server. This includes querying as well as updating data.
+* :calendar: **published on**: 2017-01-17
+* **tags**: [graphql](../tagged/graphql.md), [rest](../tagged/rest.md), [expressjs](../tagged/expressjs.md)
+* :octocat: **[source code](https://github.com/fkrauthan/hyperwallet-graphql-server)**
+---
 #### [Express Integration Testing with SuperTest · InVision Engineering Blog](https://engineering.invisionapp.com/post/express-integration-testing-supertest/)
 _<sup>https://engineering.invisionapp.com/post/express-integration-testing-supertest/</sup>_
 

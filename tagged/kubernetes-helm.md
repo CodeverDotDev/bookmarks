@@ -2,6 +2,26 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/kubernetes-helm](https://www.bookmarks.dev/tagged/kubernetes-helm)</sup></sup>_
 ---
+#### [How to Create Your First Helm](https://docs.bitnami.com/kubernetes/how-to/create-your-first-helm-chart/)
+_<sup>https://docs.bitnami.com/kubernetes/how-to/create-your-first-helm-chart/</sup>_
+
+This guide walks you through the process of creating your first ever chart, explaining what goes inside these packages and the tools you use to develop them. By the end of it you should have an unders...
+* **tags**: [kubernetes](../tagged/kubernetes.md), [kubernetes-helm](../tagged/kubernetes-helm.md), [helm](../tagged/helm.md)
+---
+#### [Building Helm Charts From the Ground Up - An Introduction to Kubernetes [I] - Amy Chen, Heptio - YouTube](https://www.youtube.com/watch?v=vQX5nokoqrQ)
+_<sup>https://www.youtube.com/watch?v=vQX5nokoqrQ</sup>_
+
+Learn the basics of Kubernetes from the perspective of creating a Helm Chart from scratch! Really nice explanation for beginners. 
+* :calendar: **published on**: 2017-12-15
+* **tags**: [kubernetes](../tagged/kubernetes.md), [kubernetes-helm](../tagged/kubernetes-helm.md), [helm](../tagged/helm.md)
+---
+#### [keycloak helm charts from codecentric](https://github.com/codecentric/helm-charts/tree/master/charts/keycloak)
+_<sup>https://github.com/codecentric/helm-charts/tree/master/charts/keycloak</sup>_
+
+This chart bootstraps a Keycloak StatefulSet on a Kubernetes cluster using the Helm package manager. It provisions a fully featured Keycloak installation.
+* **tags**: [keycloak](../tagged/keycloak.md), [kubernetes](../tagged/kubernetes.md), [kubernetes-helm](../tagged/kubernetes-helm.md)
+* :octocat: **[source code](https://github.com/codecentric/helm-charts/tree/master/charts/keycloak)**
+---
 #### [Draft vs Gitkube vs Helm vs Ksonnet vs Metaparticle vs Skaffold](https://blog.hasura.io/draft-vs-gitkube-vs-helm-vs-ksonnet-vs-metaparticle-vs-skaffold-f5aa9561f948/#ba14)
 _<sup>https://blog.hasura.io/draft-vs-gitkube-vs-helm-vs-ksonnet-vs-metaparticle-vs-skaffold-f5aa9561f948/...</sup>_
 

@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/architecture](https://www.bookmarks.dev/tagged/architecture)</sup></sup>_
 ---
+#### [Berufe der ICT – Berufe der ICT](https://www.berufe-der-ict.ch/)
+_<sup>https://www.berufe-der-ict.ch/</sup>_
+
+Branchenübliche ICT- und Organisations-Berufsbilder mit erforderlichen Kompetenzen und Ausbildungen
+* **tags**: [programming](../tagged/programming.md), [architecture](../tagged/architecture.md)
+---
 #### [awesome-software-architecture](https://github.com/simskij/awesome-software-architecture#readme)
 _<sup>https://github.com/simskij/awesome-software-architecture#readme</sup>_
 

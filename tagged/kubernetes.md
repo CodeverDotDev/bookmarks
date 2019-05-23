@@ -2,6 +2,43 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/kubernetes](https://www.bookmarks.dev/tagged/kubernetes)</sup></sup>_
 ---
+#### [How to Create Your First Helm](https://docs.bitnami.com/kubernetes/how-to/create-your-first-helm-chart/)
+_<sup>https://docs.bitnami.com/kubernetes/how-to/create-your-first-helm-chart/</sup>_
+
+This guide walks you through the process of creating your first ever chart, explaining what goes inside these packages and the tools you use to develop them. By the end of it you should have an unders...
+* **tags**: [kubernetes](../tagged/kubernetes.md), [kubernetes-helm](../tagged/kubernetes-helm.md), [helm](../tagged/helm.md)
+---
+#### [kubernetes configmaps for beginners - YouTube](https://www.youtube.com/watch?v=SJU8l3UmKZU)
+_<sup>https://www.youtube.com/watch?v=SJU8l3UmKZU</sup>_
+
+This is a tutorial on how to create Kubernetes ConfigMaps but first, let’s understand what ConfigMaps are. 
+
+Blog post - [How to Create Kubernetes ConfigMaps](https://www.cloudtechnologyexperts.com/cr...
+* :calendar: **published on**: 2018-06-28
+* **tags**: [kubernetes](../tagged/kubernetes.md)
+---
+#### [Building Helm Charts From the Ground Up - An Introduction to Kubernetes [I] - Amy Chen, Heptio - YouTube](https://www.youtube.com/watch?v=vQX5nokoqrQ)
+_<sup>https://www.youtube.com/watch?v=vQX5nokoqrQ</sup>_
+
+Learn the basics of Kubernetes from the perspective of creating a Helm Chart from scratch! Really nice explanation for beginners. 
+* :calendar: **published on**: 2017-12-15
+* **tags**: [kubernetes](../tagged/kubernetes.md), [kubernetes-helm](../tagged/kubernetes-helm.md), [helm](../tagged/helm.md)
+---
+#### [keycloak helm charts from codecentric](https://github.com/codecentric/helm-charts/tree/master/charts/keycloak)
+_<sup>https://github.com/codecentric/helm-charts/tree/master/charts/keycloak</sup>_
+
+This chart bootstraps a Keycloak StatefulSet on a Kubernetes cluster using the Helm package manager. It provisions a fully featured Keycloak installation.
+* **tags**: [keycloak](../tagged/keycloak.md), [kubernetes](../tagged/kubernetes.md), [kubernetes-helm](../tagged/kubernetes-helm.md)
+* :octocat: **[source code](https://github.com/codecentric/helm-charts/tree/master/charts/keycloak)**
+---
+#### [Keycloak - Blog - Keycloak Cluster Setup](https://www.keycloak.org/2019/05/keycloak-cluster-setup.html)
+_<sup>https://www.keycloak.org/2019/05/keycloak-cluster-setup.html</sup>_
+
+This post shares some solutions to setup Keycloak cluster in various scenarios (e.g. cross-DC, docker cross-host, Kubernetes).
+* :calendar: **published on**: 2019-05-10
+* **tags**: [keycloak](../tagged/keycloak.md), [cluster-computing](../tagged/cluster-computing.md), [kubernetes](../tagged/kubernetes.md), [docker](../tagged/docker.md)
+* :octocat: **[source code](https://github.com/fit2anything/keycloak-cluster-setup-and-configuration)**
+---
 #### [kube-shell](https://github.com/cloudnativelabs/kube-shell)
 _<sup>https://github.com/cloudnativelabs/kube-shell</sup>_
 

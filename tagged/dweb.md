@@ -1,6 +1,6 @@
-## Bookmarks tagged [[ipfs]](https://www.bookmarks.dev?q=[ipfs])
+## Bookmarks tagged [[dweb]](https://www.bookmarks.dev?q=[dweb])
 
-_<sup><sup>[www.bookmarks.dev/tagged/ipfs](https://www.bookmarks.dev/tagged/ipfs)</sup></sup>_
+_<sup><sup>[www.bookmarks.dev/tagged/dweb](https://www.bookmarks.dev/tagged/dweb)</sup></sup>_
 ---
 #### [The Complete Beginner's Guide to Deploying Your First Static Website to IPFS](https://interplanetarygatsby.com/ipfs-deploy/)
 _<sup>https://interplanetarygatsby.com/ipfs-deploy/</sup>_
@@ -16,11 +16,4 @@ _<sup>https://interplanetarygatsby.com</sup>_
 Space-Ready Publishing with Gatsby and IPFS
 * **tags**: [blog](../tagged/blog.md), [jamstack](../tagged/jamstack.md), [ipfs](../tagged/ipfs.md), [dweb](../tagged/dweb.md), [web3](../tagged/web3.md)
 * :octocat: **[source code](https://github.com/agentofuser/interplanetarygatsby.com)**
----
-#### [awesome-ipfs](https://github.com/ipfs/awesome-ipfs#readme)
-_<sup>https://github.com/ipfs/awesome-ipfs#readme</sup>_
-
-Useful resources for using IPFS and building things on top of it - ipfs/awesome-ipfs
-* **tags**: [awesome-list](../tagged/awesome-list.md), [platform](../tagged/platform.md), [ipfs](../tagged/ipfs.md)
-* :octocat: **[source code](https://github.com/ipfs/awesome-ipfs#readme)**
 ---

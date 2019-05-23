@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/programming](https://www.bookmarks.dev/tagged/programming)</sup></sup>_
 ---
+#### [Berufe der ICT – Berufe der ICT](https://www.berufe-der-ict.ch/)
+_<sup>https://www.berufe-der-ict.ch/</sup>_
+
+Branchenübliche ICT- und Organisations-Berufsbilder mit erforderlichen Kompetenzen und Ausbildungen
+* **tags**: [programming](../tagged/programming.md), [architecture](../tagged/architecture.md)
+---
 #### [Coding bookmarks, aka #codingmarks](https://www.codingmarks.org)
 _<sup>https://www.codingmarks.org</sup>_
 
