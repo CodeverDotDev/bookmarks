@@ -14,3 +14,5 @@ Public bookmarks, grouped by tags, shared from  <a href="https://www.bookmarks.d
 </div>
 
 <br>
+
+## Tags
