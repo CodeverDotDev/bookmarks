@@ -6,7 +6,7 @@
 
 <br>
 <p align="center">
-Public bookmarks, grouped by tags, shared with :heart: from<a href="https://www.bookmarks.dev" target="_blank">www.bookmarks.dev</a>.
+Public bookmarks, grouped by tags, shared with :heart: from <a href="https://www.bookmarks.dev" target="_blank">www.bookmarks.dev</a>.
 </p>
 
 <div align="center">
