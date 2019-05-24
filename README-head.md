@@ -1,6 +1,6 @@
 <div align="center">
-	<img width="300" height="300" src="images/bookmarks.dev-logo-md.png" alt="Dev Bookmarks">
-	<br>
+    <h2>Bookmarks for Developers & Co</h2>
+	<img width="200" height="200" src="images/bookmarks.dev-logo-md.png" alt="Dev Bookmarks">
 	<br>
 </div>
 
@@ -13,5 +13,4 @@ Public bookmarks, grouped by tags, shared from  <a href="https://www.bookmarks.d
 	<b>Follow the <a href="https://twitter.com/BookmarksDev">BookmarksDev account</a> for updates on new dev bookmarks additions.</b>
 </div>
 
-Bookmarks for Developers & Co
----
+<br>
