@@ -1,11 +1,23 @@
 Bookmarks for Developers & Co
 ---
-<img align="left" src="images/bookmarks.dev-logo-md.png">
 
-Public bookmarks, grouped by topics, shared from  [https://www.bookmarks.dev](https://www.bookmarks.dev). Save up to
-a work week a year by efficiently managing your dev bookmarks - see how by watching [this video](https://youtu.be/2jGRqGDwoTM)
+<div align="center">
+	<img width="300" height="300" src="media/images/bookmarks.dev-logo-md.png" alt="Dev Bookmarks">
+	<br>
+	<br>
+</div>
+
+<br>
+<p align="center">
+Public bookmarks, grouped by tags, shared from  [https://www.bookmarks.dev](https://www.bookmarks.dev).
+</p>
+
+<div align="center">
+	<b>Follow the <a href="https://twitter.com/BookmarksDev">BookmarksDev account</a> for updates on new dev bookmarks additions.</b>
+</div>
 
 ---
+
 Most | used | tags
 --- | --- | ---
  [[free-programming-books]](tagged/free-programming-books.md) x 2726 |  [[java]](tagged/java.md) x 940 |  [[javascript]](tagged/javascript.md) x 911
