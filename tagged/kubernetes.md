@@ -2,6 +2,26 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/kubernetes](https://www.bookmarks.dev/tagged/kubernetes)</sup></sup>_
 ---
+#### [Kubernetes Volumes 1: emptydir, NFS, YAML, volumes, and intro to Persistent Volume Claims - YouTube](https://www.youtube.com/watch?v=VB7vI9OT-WQ)
+_<sup>https://www.youtube.com/watch?v=VB7vI9OT-WQ</sup>_
+
+* [Kubernetes Volumes 1: emptydir, NFS, YAML, volumes, and intro to Persistent Volume Claims](https://www.youtube.com/watch?v=VB7vI9OT-WQ) - We look at volume types: emptydir, NFS, YAML, volumes, moun...
+* :calendar: **published on**: 2017-10-18
+* **tags**: [kubernetes](../tagged/kubernetes.md)
+---
+#### [GitHub - kubernetes/dashboard home page](https://github.com/kubernetes/dashboard)
+_<sup>https://github.com/kubernetes/dashboard</sup>_
+
+General-purpose web UI for Kubernetes clusters. Contribute to kubernetes/dashboard development by creating an account on GitHub.
+* **tags**: [kubernetes](../tagged/kubernetes.md), [dashboard](../tagged/dashboard.md)
+* :octocat: **[source code](https://github.com/kubernetes/dashboard)**
+---
+#### [Helm Chart Templates](https://helm.sh/docs/chart_template_guide/)
+_<sup>https://helm.sh/docs/chart_template_guide/</sup>_
+
+This guide provides an introduction to Helm’s chart templates, with emphasis on the template language.
+* **tags**: [kubernetes](../tagged/kubernetes.md), [kubernetes-helm](../tagged/kubernetes-helm.md), [helm](../tagged/helm.md), [go](../tagged/go.md)
+---
 #### [How to Create Your First Helm](https://docs.bitnami.com/kubernetes/how-to/create-your-first-helm-chart/)
 _<sup>https://docs.bitnami.com/kubernetes/how-to/create-your-first-helm-chart/</sup>_
 

@@ -189,7 +189,7 @@ A :tophat: list of network layer resources written pure JS. - Kikobeats/awesome-
 _<sup>https://github.com/MFatihMAR/Awesome-Game-Networking#readme</sup>_
 
 A Curated List of Game Network Programming Resources - MFatihMAR/Awesome-Game-Networking
-* **tags**: [awesome-list](../tagged/awesome-list.md), [game-dev](../tagged/game-dev.md), [networking](../tagged/networking.md)
+* **tags**: [awesome-list](../tagged/awesome-list.md), [game-development](../tagged/game-development.md), [networking](../tagged/networking.md)
 * :octocat: **[source code](https://github.com/MFatihMAR/Awesome-Game-Networking#readme)**
 ---
 #### [awesome-sdn](https://github.com/sdnds-tw/awesome-sdn#readme)
@@ -223,68 +223,74 @@ _<sup>https://en.wikipedia.org/wiki/Virtual_LAN</sup>_
 A virtual LAN (VLAN) is any broadcast domain that is partitioned and isolated in a computer network at the data link layer (OSI layer 2). VLANs work by applying tags to network packets and handling th...
 * **tags**: [security](../tagged/security.md), [networking](../tagged/networking.md)
 ---
+#### [Разъяснение HTTP2](https://github.com/vlet/http2-explained/blob/master/http2.ru.pdf?raw=true)
+_<sup>https://github.com/vlet/http2-explained/blob/master/http2.ru.pdf?raw=true</sup>_
+
+Даниэль Штенберг (PDF)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-ru](../tagged/free-programming-books-ru.md), [networking](../tagged/networking.md)
+---
 #### [ZeroMQ Guide](http://zguide.zeromq.org/page%3Aall)
 _<sup>http://zguide.zeromq.org/page%3Aall</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [language-agnostic](../tagged/language-agnostic.md), [networking](../tagged/networking.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [networking](../tagged/networking.md)
 ---
 #### [Understanding IP Addressing: Everything you ever wanted to know](http://pages.di.unipi.it/ricci/501302.pdf)
 _<sup>http://pages.di.unipi.it/ricci/501302.pdf</sup>_
 
 (PDF)
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [language-agnostic](../tagged/language-agnostic.md), [networking](../tagged/networking.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [networking](../tagged/networking.md)
 ---
 #### [The TCP/IP Guide](http://www.tcpipguide.com/free/t_toc.htm)
 _<sup>http://www.tcpipguide.com/free/t_toc.htm</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [language-agnostic](../tagged/language-agnostic.md), [networking](../tagged/networking.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [networking](../tagged/networking.md)
 ---
 #### [HTTP2 Explained](http://daniel.haxx.se/http2/)
 _<sup>http://daniel.haxx.se/http2/</sup>_
 
 Daniel Stenberg
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [language-agnostic](../tagged/language-agnostic.md), [networking](../tagged/networking.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [networking](../tagged/networking.md)
 ---
 #### [HTTP Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/http)
 _<sup>https://www.syncfusion.com/resources/techportal/ebooks/http</sup>_
 
 (PDF, Kindle) *(Just fill the fields with any values)*
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [language-agnostic](../tagged/language-agnostic.md), [networking](../tagged/networking.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [networking](../tagged/networking.md)
 ---
 #### [High-Performance Browser Networking](https://hpbn.co)
 _<sup>https://hpbn.co</sup>_
 
 Ilya Grigorik
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [language-agnostic](../tagged/language-agnostic.md), [networking](../tagged/networking.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [networking](../tagged/networking.md)
 ---
 #### [Computer Networking : Principles, Protocols and Practice](http://cnp3book.info.ucl.ac.be/1st/html/index.html)
 _<sup>http://cnp3book.info.ucl.ac.be/1st/html/index.html</sup>_
 
 (HTML, ePub, PDF, Kindle)
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [language-agnostic](../tagged/language-agnostic.md), [networking](../tagged/networking.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [networking](../tagged/networking.md)
 ---
 #### [Code Connected vol.1](http://hintjens.wdfiles.com/local--files/main%3Afiles/cc1pe.pdf)
 _<sup>http://hintjens.wdfiles.com/local--files/main%3Afiles/cc1pe.pdf</sup>_
 
 (PDF) (book on ZeroMQ)
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [language-agnostic](../tagged/language-agnostic.md), [networking](../tagged/networking.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [networking](../tagged/networking.md)
 ---
 #### [Bits, Signals, and Packets: An Introduction to Digital Communications and Networks](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/readings/)
 _<sup>http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-02-introduction-to-eecs-ii-...</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [language-agnostic](../tagged/language-agnostic.md), [networking](../tagged/networking.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [networking](../tagged/networking.md)
 ---
 #### [An Introduction to Computer Networks](http://intronetworks.cs.luc.edu)
 _<sup>http://intronetworks.cs.luc.edu</sup>_
 
 (HTML, PDF, Kindle)
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [language-agnostic](../tagged/language-agnostic.md), [networking](../tagged/networking.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [networking](../tagged/networking.md)
 ---
 #### [802.11ac: A Survival Guide](http://chimera.labs.oreilly.com/books/1234000001739)
 _<sup>http://chimera.labs.oreilly.com/books/1234000001739</sup>_
 
 Matthew Gast
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [language-agnostic](../tagged/language-agnostic.md), [networking](../tagged/networking.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [networking](../tagged/networking.md)
 ---
 #### [DNS Records: an Introduction](https://www.linode.com/docs/networking/dns/dns-records-an-introduction/)
 _<sup>https://www.linode.com/docs/networking/dns/dns-records-an-introduction/</sup>_

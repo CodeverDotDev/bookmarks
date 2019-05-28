@@ -13,7 +13,7 @@ _<sup>https://github.com/apollographql/apollo-ios</sup>_
 _<sup>https://github.com/apollographql/frontpage-ios-app</sup>_
 
 ðŸ“„ Apollo "hello world" app, for iOS
-* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [ios](../tagged/ios.md), [examples](../tagged/examples.md)
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [ios](../tagged/ios.md)
 * :octocat: **[source code](https://github.com/apollographql/frontpage-ios-app)**
 ---
 #### [awesome-ios](https://github.com/vsouza/awesome-ios#readme)

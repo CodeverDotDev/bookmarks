@@ -57,3 +57,15 @@ Jacob Kaplan-Moss is known for his work on Django but, as he would describe in h
 * :calendar: **published on**: 2014-04-25
 * **tags**: [programming](../tagged/programming.md)
 ---
+#### [計算機プログラムの構造と解釈](http://sicp.iijlab.net/fulltext/)
+_<sup>http://sicp.iijlab.net/fulltext/</sup>_
+
+Gerald Jay Sussman et al.
+* **tags**: [free-programming-books-ja](../tagged/free-programming-books-ja.md), [free-programming-books](../tagged/free-programming-books.md), [programming](../tagged/programming.md), [speech](../tagged/speech.md)
+---
+#### [Programming on SAT](https://ledyba.gitbooks.io/programming-on-sat/)
+_<sup>https://ledyba.gitbooks.io/programming-on-sat/</sup>_
+
+ψ（プサイ）
+* **tags**: [free-programming-books-ja](../tagged/free-programming-books-ja.md), [free-programming-books](../tagged/free-programming-books.md), [programming](../tagged/programming.md), [speech](../tagged/speech.md)
+---

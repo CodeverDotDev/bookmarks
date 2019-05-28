@@ -182,24 +182,24 @@ _<sup>http://openbook.rheinwerk-verlag.de/apps_programmieren_fuer_iphone_und_ipa
 #### [Self HTML](https://wiki.selfhtml.org/wiki/Startseite)
 _<sup>https://wiki.selfhtml.org/wiki/Startseite</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-de](../tagged/free-programming-books-de.md), [html-&-css](../tagged/html-&-css.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-de](../tagged/free-programming-books-de.md), [html](../tagged/html.md)
 ---
 #### [HTML5-Handbuch](http://webkompetenz.wikidot.com/docs:html-handbuch)
 _<sup>http://webkompetenz.wikidot.com/docs:html-handbuch</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-de](../tagged/free-programming-books-de.md), [html-&-css](../tagged/html-&-css.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-de](../tagged/free-programming-books-de.md), [html](../tagged/html.md)
 ---
 #### [HTML](http://www.peterkropff.de/site/html/html.htm)
 _<sup>http://www.peterkropff.de/site/html/html.htm</sup>_
 
 — Peter Kropff [Online, PDF]
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-de](../tagged/free-programming-books-de.md), [html-&-css](../tagged/html-&-css.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-de](../tagged/free-programming-books-de.md), [html](../tagged/html.md)
 ---
 #### [CSS](http://www.peterkropff.de/site/css/css.htm)
 _<sup>http://www.peterkropff.de/site/css/css.htm</sup>_
 
 — Peter Kropff (Grundlagen, OOP, MySQLi, PDO) [Online, PDF]
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-de](../tagged/free-programming-books-de.md), [html-&-css](../tagged/html-&-css.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-de](../tagged/free-programming-books-de.md), [html](../tagged/html.md)
 ---
 #### [Groovy für Java-Entwickler](http://examples.oreilly.de/openbooks/pdf_groovyger.pdf)
 _<sup>http://examples.oreilly.de/openbooks/pdf_groovyger.pdf</sup>_
@@ -304,15 +304,15 @@ _<sup>http://openbook.rheinwerk-verlag.de/actionscript/</sup>_
 _<sup>http://www.infoq.com/resource/news/2007/06/scrum-xp-book/en/resources/ScrumAndXpFromTheTrenchesonlin...</sup>_
 
 (PDF)
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [language-agnostic](../tagged/language-agnostic.md), [free-programming-books-de](../tagged/free-programming-books-de.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-de](../tagged/free-programming-books-de.md)
 ---
 #### [Objektorientierte Programmierung](http://openbook.rheinwerk-verlag.de/oop/)
 _<sup>http://openbook.rheinwerk-verlag.de/oop/</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [language-agnostic](../tagged/language-agnostic.md), [free-programming-books-de](../tagged/free-programming-books-de.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-de](../tagged/free-programming-books-de.md)
 ---
 #### [IT-Handbuch für Fachinformatiker](http://openbook.rheinwerk-verlag.de/it_handbuch/)
 _<sup>http://openbook.rheinwerk-verlag.de/it_handbuch/</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [language-agnostic](../tagged/language-agnostic.md), [free-programming-books-de](../tagged/free-programming-books-de.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-de](../tagged/free-programming-books-de.md)
 ---

@@ -41,42 +41,42 @@ A GraphQL client and DSL. Allowing to write queries in native Ruby.
 _<sup>https://github.com/rmosolgo/graphql-ruby-demo</sup>_
 
 Use graphql-ruby to expose a Rails app.
-* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [ruby](../tagged/ruby.md), [examples](../tagged/examples.md)
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [ruby](../tagged/ruby.md)
 * :octocat: **[source code](https://github.com/rmosolgo/graphql-ruby-demo)**
 ---
 #### [github-graphql-rails-example](https://github.com/github/github-graphql-rails-example)
 _<sup>https://github.com/github/github-graphql-rails-example</sup>_
 
 Example Rails app using GitHub's GraphQL API.
-* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [ruby](../tagged/ruby.md), [examples](../tagged/examples.md)
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [ruby](../tagged/ruby.md)
 * :octocat: **[source code](https://github.com/github/github-graphql-rails-example)**
 ---
 #### [relay-on-rails](https://github.com/nethsix/relay-on-rails)
 _<sup>https://github.com/nethsix/relay-on-rails</sup>_
 
 Barebones starter kit for Relay application with Rails GraphQL server.
-* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [ruby](../tagged/ruby.md), [examples](../tagged/examples.md)
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [ruby](../tagged/ruby.md)
 * :octocat: **[source code](https://github.com/nethsix/relay-on-rails)**
 ---
 #### [relay-rails-blog](https://github.com/gauravtiwari/relay-rails-blog)
 _<sup>https://github.com/gauravtiwari/relay-rails-blog</sup>_
 
 A graphql, relay and standard rails application powered demo weblog.
-* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [ruby](../tagged/ruby.md), [examples](../tagged/examples.md)
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [ruby](../tagged/ruby.md)
 * :octocat: **[source code](https://github.com/gauravtiwari/relay-rails-blog)**
 ---
 #### [to_eat_app](https://github.com/jcdavison/to_eat_app)
 _<sup>https://github.com/jcdavison/to_eat_app</sup>_
 
 A sample graphql/rails/relay application with a related 3-part article series.
-* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [ruby](../tagged/ruby.md), [examples](../tagged/examples.md)
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [ruby](../tagged/ruby.md)
 * :octocat: **[source code](https://github.com/jcdavison/to_eat_app)**
 ---
 #### [agoo-demo](https://github.com/ohler55/agoo/tree/develop/example/graphql)
 _<sup>https://github.com/ohler55/agoo/tree/develop/example/graphql</sup>_
 
 Use of the Agoo server to demonstrate a simple GraphQL application.
-* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [ruby](../tagged/ruby.md), [examples](../tagged/examples.md)
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [ruby](../tagged/ruby.md)
 * :octocat: **[source code](https://github.com/ohler55/agoo/tree/develop/example/graphql)**
 ---
 #### [awesome-ruby](https://github.com/markets/awesome-ruby#readme)

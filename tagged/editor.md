@@ -207,3 +207,23 @@ Vim is a highly configurable text editor for efficiently creating and changing a
 V...
 * **tags**: [vim](../tagged/vim.md), [editor](../tagged/editor.md)
 ---
+#### [笨方法学Vimscript 中译本](http://learnvimscriptthehardway.onefloweroneworld.com)
+_<sup>http://learnvimscriptthehardway.onefloweroneworld.com</sup>_
+
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [editor](../tagged/editor.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
+---
+#### [所需即所获：像 IDE 一样使用 vim](https://github.com/yangyangwithgnu/use_vim_as_ide)
+_<sup>https://github.com/yangyangwithgnu/use_vim_as_ide</sup>_
+
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [editor](../tagged/editor.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
+---
+#### [Vim中文文档](https://github.com/vimcn/vimcdoc)
+_<sup>https://github.com/vimcn/vimcdoc</sup>_
+
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [editor](../tagged/editor.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
+---
+#### [exvim--vim 改良成IDE项目](http://exvim.github.io/docs-zh/intro/)
+_<sup>http://exvim.github.io/docs-zh/intro/</sup>_
+
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [editor](../tagged/editor.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
+---

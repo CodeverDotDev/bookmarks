@@ -218,7 +218,7 @@ _<sup>http://www.pvsm.ru/download/mongodb-ru.pdf</sup>_
 _<sup>http://motivateme.ru/book/</sup>_
 
 Стас Давыдов
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-ru](../tagged/free-programming-books-ru.md), [misc](../tagged/misc.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-ru](../tagged/free-programming-books-ru.md)
 ---
 #### [Создание иллюстраций в MetaPost](http://www.inp.nsk.su/~baldin/mpost/index.html)
 _<sup>http://www.inp.nsk.su/~baldin/mpost/index.html</sup>_
@@ -396,51 +396,51 @@ _<sup>https://ru.wikibooks.org/wiki/Ассемблер_в_Linux_для_прог�
 _<sup>http://fprog.ru</sup>_
 
 журнал
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [language-agnostic](../tagged/language-agnostic.md), [free-programming-books-ru](../tagged/free-programming-books-ru.md), [парадигмы-программирования](../tagged/парадигмы-программирования.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-ru](../tagged/free-programming-books-ru.md), [paradigm-programming](../tagged/paradigm-programming.md)
 ---
 #### [Введение в функциональное программирование](http://funprog-ru.github.io)
 _<sup>http://funprog-ru.github.io</sup>_
 
 John Harrison
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [language-agnostic](../tagged/language-agnostic.md), [free-programming-books-ru](../tagged/free-programming-books-ru.md), [парадигмы-программирования](../tagged/парадигмы-программирования.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-ru](../tagged/free-programming-books-ru.md), [paradigm-programming](../tagged/paradigm-programming.md)
 ---
 #### [Разработка мультитенантных приложений для облака, издание 3-е](http://www.microsoft.com/ru-ru/download/details.aspx?id=29263)
 _<sup>http://www.microsoft.com/ru-ru/download/details.aspx?id=29263</sup>_
 
-* **tags**: [облачные-вычисления](../tagged/облачные-вычисления.md), [free-programming-books](../tagged/free-programming-books.md), [language-agnostic](../tagged/language-agnostic.md), [free-programming-books-ru](../tagged/free-programming-books-ru.md)
+* **tags**: [cloud](../tagged/cloud.md), [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-ru](../tagged/free-programming-books-ru.md)
 ---
 #### [Архитектура приложений с открытым исходным кодом](http://rus-linux.net/MyLDP/BOOKS/Architecture-Open-Source-Applications/index.html)
 _<sup>http://rus-linux.net/MyLDP/BOOKS/Architecture-Open-Source-Applications/index.html</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [language-agnostic](../tagged/language-agnostic.md), [free-programming-books-ru](../tagged/free-programming-books-ru.md), [open-source](../tagged/open-source.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-ru](../tagged/free-programming-books-ru.md), [open-source](../tagged/open-source.md)
 ---
 #### [Разъяснение HTTP2](https://github.com/vlet/http2-explained/blob/master/http2.ru.pdf?raw=true)
 _<sup>https://github.com/vlet/http2-explained/blob/master/http2.ru.pdf?raw=true</sup>_
 
 Даниэль Штенберг (PDF)
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [language-agnostic](../tagged/language-agnostic.md), [free-programming-books-ru](../tagged/free-programming-books-ru.md), [работа-с-сетью](../tagged/работа-с-сетью.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-ru](../tagged/free-programming-books-ru.md), [networking](../tagged/networking.md)
 ---
 #### [Эффективные алгоритмы и сложность вычислений](http://discopal.ispras.ru/Ru.book-advanced-algorithms.htm)
 _<sup>http://discopal.ispras.ru/Ru.book-advanced-algorithms.htm</sup>_
 
 Н. Н. Кузюрин, С. А. Фомин
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [language-agnostic](../tagged/language-agnostic.md), [free-programming-books-ru](../tagged/free-programming-books-ru.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-ru](../tagged/free-programming-books-ru.md)
 ---
 #### [Занимательное программирование. Самоучитель](http://padabum.com/x.php?id=35055)
 _<sup>http://padabum.com/x.php?id=35055</sup>_
 
 Мозговой М.В.
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [language-agnostic](../tagged/language-agnostic.md), [free-programming-books-ru](../tagged/free-programming-books-ru.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-ru](../tagged/free-programming-books-ru.md)
 ---
 #### [Scrum и XP: заметки с передовой](http://scrum.org.ua/wp-content/uploads/2008/12/scrum_xp-from-the-trenches-rus-final.pdf)
 _<sup>http://scrum.org.ua/wp-content/uploads/2008/12/scrum_xp-from-the-trenches-rus-final.pdf</sup>_
 
 (PDF)
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [language-agnostic](../tagged/language-agnostic.md), [free-programming-books-ru](../tagged/free-programming-books-ru.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-ru](../tagged/free-programming-books-ru.md)
 ---
 #### [E-maxx.ru: Сборник алгоритмов с примерами на C++](http://e-maxx.ru/upload/e-maxx_algo.pdf)
 _<sup>http://e-maxx.ru/upload/e-maxx_algo.pdf</sup>_
 
 (PDF)
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [language-agnostic](../tagged/language-agnostic.md), [free-programming-books-ru](../tagged/free-programming-books-ru.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-ru](../tagged/free-programming-books-ru.md)
 ---

@@ -27,7 +27,7 @@ Awesome online talks and screencasts. Contribute to JanVanRyswyck/awesome-talks 
 _<sup>https://github.com/hzoo/awesome-gametalks#readme</sup>_
 
 :speech_balloon: A curated list of gaming talks (development, design, etc) - hzoo/awesome-gametalks
-* **tags**: [awesome-list](../tagged/awesome-list.md), [game-dev](../tagged/game-dev.md), [talk](../tagged/talk.md)
+* **tags**: [awesome-list](../tagged/awesome-list.md), [game-development](../tagged/game-development.md), [talk](../tagged/talk.md)
 * :octocat: **[source code](https://github.com/hzoo/awesome-gametalks#readme)**
 ---
 #### [awesome-tech-videos](https://github.com/lucasviola/awesome-tech-videos#readme)

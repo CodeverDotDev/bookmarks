@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/helm](https://www.bookmarks.dev/tagged/helm)</sup></sup>_
 ---
+#### [Helm Chart Templates](https://helm.sh/docs/chart_template_guide/)
+_<sup>https://helm.sh/docs/chart_template_guide/</sup>_
+
+This guide provides an introduction to Helm’s chart templates, with emphasis on the template language.
+* **tags**: [kubernetes](../tagged/kubernetes.md), [kubernetes-helm](../tagged/kubernetes-helm.md), [helm](../tagged/helm.md), [go](../tagged/go.md)
+---
 #### [How to Create Your First Helm](https://docs.bitnami.com/kubernetes/how-to/create-your-first-helm-chart/)
 _<sup>https://docs.bitnami.com/kubernetes/how-to/create-your-first-helm-chart/</sup>_
 

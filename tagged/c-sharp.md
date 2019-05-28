@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/c-sharp](https://www.bookmarks.dev/tagged/c-sharp)</sup></sup>_
 ---
+#### [Why do interface names begin with “I” – Brad Abrams ](https://blogs.msdn.microsoft.com/brada/2004/02/03/why-do-interface-names-begin-with-i/)
+_<sup>https://blogs.msdn.microsoft.com/brada/2004/02/03/why-do-interface-names-begin-with-i/</sup>_
+
+I am in the having one of those very useless “what-should-we-have-done” debates with a guy on my team and I thought I suck you folks into it.   It is around naming of interfaces with an “I” prefix.  S...
+* **tags**: [c-sharp](../tagged/c-sharp.md), [.net](../tagged/.net.md), [coding-dispute](../tagged/coding-dispute.md)
+---
 #### [Visual C# 2012](http://openbook.rheinwerk-verlag.de/visual_csharp_2012/)
 _<sup>http://openbook.rheinwerk-verlag.de/visual_csharp_2012/</sup>_
 
@@ -51,6 +57,12 @@ _<sup>https://www.caelum.com.br/apostila-csharp-orientacao-objetos/</sup>_
 
 Caelum
 * **tags**: [free-programming-books](../tagged/free-programming-books.md), [c-sharp](../tagged/c-sharp.md), [free-programming-books-pt_br](../tagged/free-programming-books-pt_br.md)
+---
+#### [El lenguaje de programación C#](http://dis.um.es/~bmoros/privado/bibliografia/LibroCsharp.pdf)
+_<sup>http://dis.um.es/~bmoros/privado/bibliografia/LibroCsharp.pdf</sup>_
+
+(PDF)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-es](../tagged/free-programming-books-es.md), [.net](../tagged/.net.md), [c-sharp](../tagged/c-sharp.md)
 ---
 #### [AB..C# - Guida alla programmazione](http://www.youblisher.com/p/21542-ABC-Guida-alla-programmazione/)
 _<sup>http://www.youblisher.com/p/21542-ABC-Guida-alla-programmazione/</sup>_

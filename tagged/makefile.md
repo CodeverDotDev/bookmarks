@@ -18,11 +18,11 @@ Run and compile your programs more efficiently with this handy automation tool. 
 _<sup>http://eric.bachard.free.fr/UTBM_LO22/P07/C/Documentation/C/make/intro_makefile.pdf</sup>_
 
 (PDF)
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [makefile](../tagged/makefile.md), [free-programming-books-fr](../tagged/free-programming-books-fr.md), [non-dépendant-du-langage](../tagged/non-dépendant-du-langage.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [makefile](../tagged/makefile.md), [free-programming-books-fr](../tagged/free-programming-books-fr.md)
 ---
 #### [Concevoir un Makefile](http://icps.u-strasbg.fr/people/loechner/public_html/enseignement/GL/make.pdf)
 _<sup>http://icps.u-strasbg.fr/people/loechner/public_html/enseignement/GL/make.pdf</sup>_
 
 Vincent Loechner d'après Nicolas Zin (PDF)
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [makefile](../tagged/makefile.md), [free-programming-books-fr](../tagged/free-programming-books-fr.md), [non-dépendant-du-langage](../tagged/non-dépendant-du-langage.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [makefile](../tagged/makefile.md), [free-programming-books-fr](../tagged/free-programming-books-fr.md)
 ---

@@ -54,31 +54,31 @@ _<sup>http://www.root.cz/knihy/katedrala-a-trziste/</sup>_
 _<sup>http://www.root.cz/knihy/suse-linux-uzivatelska-prirucka/</sup>_
 
 (PDF)
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-cs](../tagged/free-programming-books-cs.md), [linux](../tagged/linux.md), [distribuce](../tagged/distribuce.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-cs](../tagged/free-programming-books-cs.md), [linux](../tagged/linux.md)
 ---
 #### [Příručka uživatele Fedora 17](http://www.root.cz/knihy/prirucka-uzivatele-fedora-17/)
 _<sup>http://www.root.cz/knihy/prirucka-uzivatele-fedora-17/</sup>_
 
 (PDF)
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-cs](../tagged/free-programming-books-cs.md), [linux](../tagged/linux.md), [distribuce](../tagged/distribuce.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-cs](../tagged/free-programming-books-cs.md), [linux](../tagged/linux.md)
 ---
 #### [Mandriva Linux 2008 CZ](http://www.root.cz/knihy/mandriva-linux-2008-cz/)
 _<sup>http://www.root.cz/knihy/mandriva-linux-2008-cz/</sup>_
 
 (PDF)
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-cs](../tagged/free-programming-books-cs.md), [linux](../tagged/linux.md), [distribuce](../tagged/distribuce.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-cs](../tagged/free-programming-books-cs.md), [linux](../tagged/linux.md)
 ---
 #### [Instalace a konfigurace Debian Linuxu](http://www.root.cz/knihy/instalace-a-konfigurace-debian-linuxu/)
 _<sup>http://www.root.cz/knihy/instalace-a-konfigurace-debian-linuxu/</sup>_
 
 (PDF)
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-cs](../tagged/free-programming-books-cs.md), [linux](../tagged/linux.md), [distribuce](../tagged/distribuce.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-cs](../tagged/free-programming-books-cs.md), [linux](../tagged/linux.md)
 ---
 #### [Gentoo Handbook česky](http://www.root.cz/knihy/gentoo-handbook-cesky/)
 _<sup>http://www.root.cz/knihy/gentoo-handbook-cesky/</sup>_
 
 (PDF)
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-cs](../tagged/free-programming-books-cs.md), [linux](../tagged/linux.md), [distribuce](../tagged/distribuce.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-cs](../tagged/free-programming-books-cs.md), [linux](../tagged/linux.md)
 ---
 #### [Učebnice ABCLinuxu](http://www.root.cz/knihy/ucebnice-abclinuxu/)
 _<sup>http://www.root.cz/knihy/ucebnice-abclinuxu/</sup>_
@@ -102,31 +102,31 @@ _<sup>http://www.root.cz/knihy/ne-prilis-strucny-uvod-do-systemu-latex-2e/</sup>
 _<sup>http://www.root.cz/knihy/regularni-vyrazy/</sup>_
 
 (PDF)
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [language-agnostic](../tagged/language-agnostic.md), [free-programming-books-cs](../tagged/free-programming-books-cs.md), [regulární-výrazy](../tagged/regulární-výrazy.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-cs](../tagged/free-programming-books-cs.md)
 ---
 #### [Think Stats: Pravděpodobnost a statistika pro programátory](http://eknihy.knihovna.cz/kniha/think-stats-pravdepodobnost-a-statistika-pro-programatory)
 _<sup>http://eknihy.knihovna.cz/kniha/think-stats-pravdepodobnost-a-statistika-pro-programatory</sup>_
 
 Allen B. Downey (PDF)
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [language-agnostic](../tagged/language-agnostic.md), [free-programming-books-cs](../tagged/free-programming-books-cs.md), [matematika](../tagged/matematika.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-cs](../tagged/free-programming-books-cs.md), [mathematics](../tagged/mathematics.md)
 ---
 #### [Matematika SŠ](http://www.realisticky.cz/ucebnice.php?id=3)
 _<sup>http://www.realisticky.cz/ucebnice.php?id=3</sup>_
 
 Martin Krynický (PDFs)
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [language-agnostic](../tagged/language-agnostic.md), [free-programming-books-cs](../tagged/free-programming-books-cs.md), [matematika](../tagged/matematika.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-cs](../tagged/free-programming-books-cs.md), [mathematics](../tagged/mathematics.md)
 ---
 #### [Diskrétní matematika](http://math.feld.cvut.cz/habala/teaching/dma.htm)
 _<sup>http://math.feld.cvut.cz/habala/teaching/dma.htm</sup>_
 
 Petr Habala (PDFs)
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [language-agnostic](../tagged/language-agnostic.md), [free-programming-books-cs](../tagged/free-programming-books-cs.md), [matematika](../tagged/matematika.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-cs](../tagged/free-programming-books-cs.md), [mathematics](../tagged/mathematics.md)
 ---
 #### [Základy algoritmizace](http://i.iinfo.cz/files/root/k/Zaklady_algorimizace.pdf)
 _<sup>http://i.iinfo.cz/files/root/k/Zaklady_algorimizace.pdf</sup>_
 
 (PDF)
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [language-agnostic](../tagged/language-agnostic.md), [free-programming-books-cs](../tagged/free-programming-books-cs.md), [algoritmy-a-datové-struktury](../tagged/algoritmy-a-datové-struktury.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-cs](../tagged/free-programming-books-cs.md), [algoritmy-a-datové-struktury](../tagged/algoritmy-a-datové-struktury.md)
 ---
 #### [Java 5.0, novinky jazyka a upgrade aplikací](http://i.iinfo.cz/files/root/k/java-5-0-novinky-jazyka-a-upgrade-aplikaci.pdf)
 _<sup>http://i.iinfo.cz/files/root/k/java-5-0-novinky-jazyka-a-upgrade-aplikaci.pdf</sup>_

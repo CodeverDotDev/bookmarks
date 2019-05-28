@@ -44,3 +44,34 @@ A curated list of awesome Apache Spark packages and resources. - awesome-spark/a
 * **tags**: [awesome-list](../tagged/awesome-list.md), [bigdata](../tagged/bigdata.md), [apache-spark](../tagged/apache-spark.md)
 * :octocat: **[source code](https://github.com/awesome-spark/awesome-spark#readme)**
 ---
+#### [The Essential Guide to Machine Data](https://www.splunk.com/pdfs/ebooks/the-essential-guide-to-machine-data.pdf)
+_<sup>https://www.splunk.com/pdfs/ebooks/the-essential-guide-to-machine-data.pdf</sup>_
+
+Whatever you call it, machine data is one of the most underused and undervalued assets of any organization. And, unfortunately, it’s usually kept for some minimum amount of time before being tossed ou...
+* **tags**: [security](../tagged/security.md), [splunk](../tagged/splunk.md), [bigdata](../tagged/bigdata.md), [cloud](../tagged/cloud.md)
+---
+#### [面向程序员的数据挖掘指南](http://dataminingguide.books.yourtion.com)
+_<sup>http://dataminingguide.books.yourtion.com</sup>_
+
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [bigdata](../tagged/bigdata.md)
+---
+#### [数据挖掘中经典的算法实现和详细的注释](https://github.com/linyiqun/DataMiningAlgorithm)
+_<sup>https://github.com/linyiqun/DataMiningAlgorithm</sup>_
+
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [bigdata](../tagged/bigdata.md)
+---
+#### [大数据/数据挖掘/推荐系统/机器学习相关资源](https://github.com/Flowerowl/Big-Data-Resources)
+_<sup>https://github.com/Flowerowl/Big-Data-Resources</sup>_
+
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [bigdata](../tagged/bigdata.md)
+---
+#### [大型集群上的快速和通用数据处理架构](https://code.csdn.net/CODE_Translation/spark_matei_phd)
+_<sup>https://code.csdn.net/CODE_Translation/spark_matei_phd</sup>_
+
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [bigdata](../tagged/bigdata.md)
+---
+#### [Spark 编程指南简体中文版](https://aiyanbo.gitbooks.io/spark-programming-guide-zh-cn/content/)
+_<sup>https://aiyanbo.gitbooks.io/spark-programming-guide-zh-cn/content/</sup>_
+
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [bigdata](../tagged/bigdata.md)
+---

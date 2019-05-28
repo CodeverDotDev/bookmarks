@@ -2,11 +2,18 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/typescript](https://www.bookmarks.dev/tagged/typescript)</sup></sup>_
 ---
+#### [NestJS - A progressive Node.js web framework](https://nestjs.com/)
+_<sup>https://nestjs.com/</sup>_
+
+NestJS is a framework for building efficient, scalable Node.js web applications. It uses modern JavaScript, is built with TypeScript and combines elements of OOP (Object Oriented Progamming), FP (Func...
+* **tags**: [nodejs](../tagged/nodejs.md), [typescript](../tagged/typescript.md), [functional-programming](../tagged/functional-programming.md), [oop](../tagged/oop.md)
+* :octocat: **[source code](https://github.com/nestjs/nest)**
+---
 #### [Basic Apollo Server](https://github.com/DxCx/webpack-graphql-server)
 _<sup>https://github.com/DxCx/webpack-graphql-server</sup>_
 
 Basic Starter for Apollo Server, Using typescript and Webpack.
-* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [typescript](../tagged/typescript.md), [examples](../tagged/examples.md)
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [typescript](../tagged/typescript.md)
 * :octocat: **[source code](https://github.com/DxCx/webpack-graphql-server)**
 ---
 #### [Adapter (TypeScript Design Patterns) - YouTube](https://www.youtube.com/watch?v=beU4i949YXU)

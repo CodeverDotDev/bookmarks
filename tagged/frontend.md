@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/frontend](https://www.bookmarks.dev/tagged/frontend)</sup></sup>_
 ---
+#### [What’s new in JavaScript (Google I/O ’19) - YouTube](https://www.youtube.com/watch?v=c0oy0vQKEZE)
+_<sup>https://www.youtube.com/watch?v=c0oy0vQKEZE</sup>_
+
+This presentation gives an overview of cutting-edge JavaScript development techniques to build modern web and Node.js apps. Discover which features to expect in Chrome and Node.js soon, how the V8 eng...
+* :calendar: **published on**: 2019-05-08
+* **tags**: [javascript](../tagged/javascript.md), [nodejs](../tagged/nodejs.md), [frontend](../tagged/frontend.md)
+---
 #### [java.libhunt.com](https://java.libhunt.com)
 _<sup>https://java.libhunt.com</sup>_
 

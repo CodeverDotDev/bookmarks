@@ -195,6 +195,18 @@ _<sup>http://whatis.techtarget.com/</sup>_
 Technology Definitions and Cheat Sheets from WhatIs.com - The Tech Dictionary and IT Encyclopedia
 * **tags**: [computer-science](../tagged/computer-science.md), [glossary](../tagged/glossary.md)
 ---
+#### [Breves Notas sobre Teoría de la Computación](http://lya.fciencias.unam.mx/jloa/publicaciones/teoria.pdf)
+_<sup>http://lya.fciencias.unam.mx/jloa/publicaciones/teoria.pdf</sup>_
+
+(PDF)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-es](../tagged/free-programming-books-es.md), [computer-science](../tagged/computer-science.md)
+---
+#### [Breves Notas sobre Autómatas y Lenguajes](http://lya.fciencias.unam.mx/jloa/publicaciones/automatasyLenguajes.pdf)
+_<sup>http://lya.fciencias.unam.mx/jloa/publicaciones/automatasyLenguajes.pdf</sup>_
+
+(PDF)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-es](../tagged/free-programming-books-es.md), [computer-science](../tagged/computer-science.md)
+---
 #### [CS50: Introduction to Computer Science | edX](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
 _<sup>https://www.edx.org/course/introduction-computer-science-harvardx-cs50x</sup>_
 

@@ -13,5 +13,5 @@ _<sup>https://github.com/lnishan/awesome-competitive-programming#readme</sup>_
 _<sup>https://sites.google.com/site/stevenhalim/</sup>_
 
 (PDF)
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [language-agnostic](../tagged/language-agnostic.md), [competitive-programming](../tagged/competitive-programming.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [competitive-programming](../tagged/competitive-programming.md)
 ---

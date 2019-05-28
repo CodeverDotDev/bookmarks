@@ -6,6 +6,6 @@ _<sup><sup>[www.bookmarks.dev/tagged/pico-8](https://www.bookmarks.dev/tagged/pi
 _<sup>https://github.com/pico-8/awesome-PICO-8#readme</sup>_
 
 A curated list of awesome PICO-8 resources, carts, tools and more - pico-8/awesome-PICO-8
-* **tags**: [awesome-list](../tagged/awesome-list.md), [game-dev](../tagged/game-dev.md), [pico-8](../tagged/pico-8.md)
+* **tags**: [awesome-list](../tagged/awesome-list.md), [game-development](../tagged/game-development.md), [pico-8](../tagged/pico-8.md)
 * :octocat: **[source code](https://github.com/pico-8/awesome-PICO-8#readme)**
 ---

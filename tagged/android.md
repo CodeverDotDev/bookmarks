@@ -13,7 +13,7 @@ _<sup>https://github.com/apollographql/apollo-android</sup>_
 _<sup>https://github.com/rnitame/apollo-frontpage-android-app</sup>_
 
 ðŸ“„ Apollo "hello world" app, for Android
-* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [android](../tagged/android.md), [examples](../tagged/examples.md)
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [android](../tagged/android.md)
 * :octocat: **[source code](https://github.com/rnitame/apollo-frontpage-android-app)**
 ---
 #### [awesome-android](https://github.com/JStumpp/awesome-android#readme)

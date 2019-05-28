@@ -20,7 +20,7 @@ _<sup>https://github.com/ossu/computer-science#readme</sup>_
 _<sup>https://github.com/leereilly/games#readme</sup>_
 
 :video_game: A list of popular/awesome videos games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine. - leereilly/games
-* **tags**: [awesome-list](../tagged/awesome-list.md), [game-dev](../tagged/game-dev.md), [open-source](../tagged/open-source.md)
+* **tags**: [awesome-list](../tagged/awesome-list.md), [game-development](../tagged/game-development.md), [open-source](../tagged/open-source.md)
 * :octocat: **[source code](https://github.com/leereilly/games#readme)**
 ---
 #### [awesome-creative-commons-media](https://github.com/shime/creative-commons-media#readme)
@@ -147,107 +147,107 @@ Google <3 Open Source
 #### [Архитектура приложений с открытым исходным кодом](http://rus-linux.net/MyLDP/BOOKS/Architecture-Open-Source-Applications/index.html)
 _<sup>http://rus-linux.net/MyLDP/BOOKS/Architecture-Open-Source-Applications/index.html</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [language-agnostic](../tagged/language-agnostic.md), [free-programming-books-ru](../tagged/free-programming-books-ru.md), [open-source](../tagged/open-source.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-ru](../tagged/free-programming-books-ru.md), [open-source](../tagged/open-source.md)
 ---
 #### [The Wealth of Networks: How Social Production Transforms Markets and Freedom](http://cyber.law.harvard.edu/wealth_of_networks/Main_Page)
 _<sup>http://cyber.law.harvard.edu/wealth_of_networks/Main_Page</sup>_
 
 Yochai Benkler
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [language-agnostic](../tagged/language-agnostic.md), [open-source](../tagged/open-source.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [open-source](../tagged/open-source.md)
 ---
 #### [The Open Source Way](http://www.theopensourceway.org/book/)
 _<sup>http://www.theopensourceway.org/book/</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [language-agnostic](../tagged/language-agnostic.md), [open-source](../tagged/open-source.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [open-source](../tagged/open-source.md)
 ---
 #### [The Future of the Internet](http://futureoftheinternet.org)
 _<sup>http://futureoftheinternet.org</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [language-agnostic](../tagged/language-agnostic.md), [open-source](../tagged/open-source.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [open-source](../tagged/open-source.md)
 ---
 #### [The Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar/)
 _<sup>http://www.catb.org/esr/writings/cathedral-bazaar/</sup>_
 
 Eric S. Raymond
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [language-agnostic](../tagged/language-agnostic.md), [open-source](../tagged/open-source.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [open-source](../tagged/open-source.md)
 ---
 #### [The Art of Community](http://artofcommunityonline.org/Art_of_Community_Second_Edition.pdf)
 _<sup>http://artofcommunityonline.org/Art_of_Community_Second_Edition.pdf</sup>_
 
 Jono Bacon (PDF)
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [language-agnostic](../tagged/language-agnostic.md), [open-source](../tagged/open-source.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [open-source](../tagged/open-source.md)
 ---
 #### [The Architecture of Open Source Applications: Vol. 1: Elegance, Evolution, and a Few Fearless Hacks; Vol. 2: Structure, Scale, and a Few More Feerless Hacks](http://www.aosabook.org/en/index.html)
 _<sup>http://www.aosabook.org/en/index.html</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [language-agnostic](../tagged/language-agnostic.md), [open-source](../tagged/open-source.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [open-source](../tagged/open-source.md)
 ---
 #### [Producing Open Source Software](http://producingoss.com)
 _<sup>http://producingoss.com</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [language-agnostic](../tagged/language-agnostic.md), [open-source](../tagged/open-source.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [open-source](../tagged/open-source.md)
 ---
 #### [Open Source in Brazil](http://www.oreilly.com/programming/free/open-source-in-brazil.csp)
 _<sup>http://www.oreilly.com/programming/free/open-source-in-brazil.csp</sup>_
 
 *(Just fill the fields with any values)*
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [language-agnostic](../tagged/language-agnostic.md), [open-source](../tagged/open-source.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [open-source](../tagged/open-source.md)
 ---
 #### [Open by Design](http://www.oreilly.com/programming/free/open-by-design.csp)
 _<sup>http://www.oreilly.com/programming/free/open-by-design.csp</sup>_
 
 *(Just fill the fields with any values)*
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [language-agnostic](../tagged/language-agnostic.md), [open-source](../tagged/open-source.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [open-source](../tagged/open-source.md)
 ---
 #### [Open Advice: FOSS: What We Wish We Had Known When We Started](http://open-advice.org)
 _<sup>http://open-advice.org</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [language-agnostic](../tagged/language-agnostic.md), [open-source](../tagged/open-source.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [open-source](../tagged/open-source.md)
 ---
 #### [Innovation Happens Elsewhere](http://dreamsongs.com/IHE/IHE.html)
 _<sup>http://dreamsongs.com/IHE/IHE.html</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [language-agnostic](../tagged/language-agnostic.md), [open-source](../tagged/open-source.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [open-source](../tagged/open-source.md)
 ---
 #### [How to get started with open source](https://opensource.com/resources/ebook/how-get-started-open-source)
 _<sup>https://opensource.com/resources/ebook/how-get-started-open-source</sup>_
 
 (ePub & ODT)
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [language-agnostic](../tagged/language-agnostic.md), [open-source](../tagged/open-source.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [open-source](../tagged/open-source.md)
 ---
 #### [Getting started with Open source development](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Getting_started_with_open_source_development_p2.pdf)
 _<sup>http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Getting_started_with_open_source_developmen...</sup>_
 
 (PDF)
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [language-agnostic](../tagged/language-agnostic.md), [open-source](../tagged/open-source.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [open-source](../tagged/open-source.md)
 ---
 #### [Getting Started with InnerSource](http://www.oreilly.com/programming/free/getting-started-with-innersource.csp)
 _<sup>http://www.oreilly.com/programming/free/getting-started-with-innersource.csp</sup>_
 
 *(Just fill the fields with any values)*
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [language-agnostic](../tagged/language-agnostic.md), [open-source](../tagged/open-source.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [open-source](../tagged/open-source.md)
 ---
 #### [Free Software, Free Society](http://shop.fsf.org/product/free-software-free-society-2/)
 _<sup>http://shop.fsf.org/product/free-software-free-society-2/</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [language-agnostic](../tagged/language-agnostic.md), [open-source](../tagged/open-source.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [open-source](../tagged/open-source.md)
 ---
 #### [Free as in Freedom](https://archive.org/details/faif-2.0)
 _<sup>https://archive.org/details/faif-2.0</sup>_
 
 (PDF)
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [language-agnostic](../tagged/language-agnostic.md), [open-source](../tagged/open-source.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [open-source](../tagged/open-source.md)
 ---
 #### [Fintech, Open Source, and Emerging Markets Digital Banking for Everyone](http://www.oreilly.com/programming/free/fintech-open-source-and-emerging-tech.csp)
 _<sup>http://www.oreilly.com/programming/free/fintech-open-source-and-emerging-tech.csp</sup>_
 
 *(Just fill the fields with any values)*
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [language-agnostic](../tagged/language-agnostic.md), [open-source](../tagged/open-source.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [open-source](../tagged/open-source.md)
 ---
 #### [Data Journalism Handbook](http://datajournalismhandbook.org)
 _<sup>http://datajournalismhandbook.org</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [language-agnostic](../tagged/language-agnostic.md), [open-source](../tagged/open-source.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [open-source](../tagged/open-source.md)
 ---
 #### [Kong - Open-Source API Management and Microservice Management](https://getkong.org/)
 _<sup>https://getkong.org/</sup>_

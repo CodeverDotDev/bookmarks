@@ -83,14 +83,14 @@ GraphQL implementation based on light-4j. Contribute to networknt/light-graphql-
 _<sup>https://github.com/networknt/light-example-4j/tree/master/graphql</sup>_
 
 Examples of Light Java GraphQL and tutorials.
-* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [java](../tagged/java.md), [examples](../tagged/examples.md)
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [java](../tagged/java.md)
 * :octocat: **[source code](https://github.com/networknt/light-example-4j/tree/master/graphql)**
 ---
 #### [graphql-spqr-samples](https://github.com/leangen/graphql-spqr-samples)
 _<sup>https://github.com/leangen/graphql-spqr-samples</sup>_
 
 An example GraphQL server written with Spring MVC and GraphQL-SPQR
-* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [java](../tagged/java.md), [examples](../tagged/examples.md)
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [java](../tagged/java.md)
 * :octocat: **[source code](https://github.com/leangen/graphql-spqr-samples)**
 ---
 #### [dOOv](https://github.com/doov-io/doov)
@@ -2287,32 +2287,32 @@ Browser extension which allows to navigate through code on GitHub more efficient
 _<sup>https://spotify.github.io/apollo</sup>_
 
 Libraries for writing composable microservices.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [microservice](../tagged/microservice.md)
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [microservices](../tagged/microservices.md)
 ---
 #### [consul-api](https://github.com/Ecwid/consul-api)
 _<sup>https://github.com/Ecwid/consul-api</sup>_
 
 Client for the [Consul](https://www.consul.io) API: a distributed, highly available and datacenter-aware registry/discovery service.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [microservice](../tagged/microservice.md)
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [microservices](../tagged/microservices.md)
 * :octocat: **[source code](https://github.com/Ecwid/consul-api)**
 ---
 #### [Helidon](https://helidon.io)
 _<sup>https://helidon.io</sup>_
 
 Two-style approach for writing microservices: Functional-reactive and as an implementation of [MicroProfile](https://microprofile.io).
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [microservice](../tagged/microservice.md)
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [microservices](../tagged/microservices.md)
 ---
 #### [Lagom](https://www.lightbend.com/lagom)
 _<sup>https://www.lightbend.com/lagom</sup>_
 
 Framework for creating microservice-based systems.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [microservice](../tagged/microservice.md)
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [microservices](../tagged/microservices.md)
 ---
 #### [Micronaut](http://micronaut.io)
 _<sup>http://micronaut.io</sup>_
 
 Modern full-stack framework with focus on modularity, minimal memory footprint and startup time.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [microservice](../tagged/microservice.md)
+* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [microservices](../tagged/microservices.md)
 ---
 #### [AppDynamics ![c](https://www.appdynamics.com)
 _<sup>https://www.appdynamics.com</sup>_

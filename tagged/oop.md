@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/oop](https://www.bookmarks.dev/tagged/oop)</sup></sup>_
 ---
+#### [NestJS - A progressive Node.js web framework](https://nestjs.com/)
+_<sup>https://nestjs.com/</sup>_
+
+NestJS is a framework for building efficient, scalable Node.js web applications. It uses modern JavaScript, is built with TypeScript and combines elements of OOP (Object Oriented Progamming), FP (Func...
+* **tags**: [nodejs](../tagged/nodejs.md), [typescript](../tagged/typescript.md), [functional-programming](../tagged/functional-programming.md), [oop](../tagged/oop.md)
+* :octocat: **[source code](https://github.com/nestjs/nest)**
+---
 #### [Composition versus Inheritance](https://www.artima.com/designtechniques/compoinh.html)
 _<sup>https://www.artima.com/designtechniques/compoinh.html</sup>_
 

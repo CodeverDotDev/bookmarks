@@ -6,5 +6,5 @@ _<sup><sup>[www.bookmarks.dev/tagged/free-programming-books-sk](https://www.book
 _<sup>https://knihy.nic.cz</sup>_
 
 Zodpovednosť na internete (PDF)
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [language-agnostic](../tagged/language-agnostic.md), [právo](../tagged/právo.md), [free-programming-books-sk](../tagged/free-programming-books-sk.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-sk](../tagged/free-programming-books-sk.md)
 ---

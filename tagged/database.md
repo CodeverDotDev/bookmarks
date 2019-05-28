@@ -83,63 +83,63 @@ MongoDB driver.
 _<sup>https://github.com/sequelize/sequelize</sup>_
 
 Multi-dialect ORM. Supports PostgreSQL, SQLite, MySQL.
-* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [database](../tagged/database.md), [drivers-odm / orm](../tagged/drivers-odm  orm.md)
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [database](../tagged/database.md), [driver](../tagged/driver.md), [odm](../tagged/odm.md), [orm](../tagged/orm.md)
 * :octocat: **[source code](https://github.com/sequelize/sequelize)**
 ---
 #### [Bookshelf](https://github.com/bookshelf/bookshelf)
 _<sup>https://github.com/bookshelf/bookshelf</sup>_
 
 ORM for PostgreSQL, MySQL and SQLite3 in the style of Backbone.js.
-* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [database](../tagged/database.md), [drivers-odm / orm](../tagged/drivers-odm  orm.md)
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [database](../tagged/database.md), [driver](../tagged/driver.md), [odm](../tagged/odm.md), [orm](../tagged/orm.md)
 * :octocat: **[source code](https://github.com/bookshelf/bookshelf)**
 ---
 #### [Massive](https://github.com/robconery/massive-js)
 _<sup>https://github.com/robconery/massive-js</sup>_
 
 PostgreSQL data access tool.
-* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [database](../tagged/database.md), [drivers-odm / orm](../tagged/drivers-odm  orm.md)
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [database](../tagged/database.md), [driver](../tagged/driver.md), [odm](../tagged/odm.md), [orm](../tagged/orm.md)
 * :octocat: **[source code](https://github.com/robconery/massive-js)**
 ---
 #### [Mongoose](https://github.com/Automattic/mongoose)
 _<sup>https://github.com/Automattic/mongoose</sup>_
 
 Elegant MongoDB object modeling.
-* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [database](../tagged/database.md), [drivers-odm / orm](../tagged/drivers-odm  orm.md)
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [database](../tagged/database.md), [driver](../tagged/driver.md), [odm](../tagged/odm.md), [orm](../tagged/orm.md)
 * :octocat: **[source code](https://github.com/Automattic/mongoose)**
 ---
 #### [Waterline](https://github.com/balderdashy/waterline)
 _<sup>https://github.com/balderdashy/waterline</sup>_
 
 Datastore-agnostic tool that dramatically simplifies interaction with one or more databases.
-* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [database](../tagged/database.md), [drivers-odm / orm](../tagged/drivers-odm  orm.md)
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [database](../tagged/database.md), [driver](../tagged/driver.md), [odm](../tagged/odm.md), [orm](../tagged/orm.md)
 * :octocat: **[source code](https://github.com/balderdashy/waterline)**
 ---
 #### [OpenRecord](https://github.com/PhilWaldmann/openrecord)
 _<sup>https://github.com/PhilWaldmann/openrecord</sup>_
 
 ORM for PostgreSQL, MySQL, SQLite3 and RESTful datastores. Similar to ActiveRecord.
-* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [database](../tagged/database.md), [drivers-odm / orm](../tagged/drivers-odm  orm.md)
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [database](../tagged/database.md), [odm](../tagged/odm.md), [orm](../tagged/orm.md), [driver](../tagged/driver.md)
 * :octocat: **[source code](https://github.com/PhilWaldmann/openrecord)**
 ---
 #### [pg-promise](https://github.com/vitaly-t/pg-promise)
 _<sup>https://github.com/vitaly-t/pg-promise</sup>_
 
 PostgreSQL framework for native SQL using promises.
-* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [database](../tagged/database.md), [drivers-odm / orm](../tagged/drivers-odm  orm.md)
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [database](../tagged/database.md), [driver](../tagged/driver.md), [odm](../tagged/odm.md), [orm](../tagged/orm.md)
 * :octocat: **[source code](https://github.com/vitaly-t/pg-promise)**
 ---
 #### [Objection.js](https://github.com/Vincit/objection.js)
 _<sup>https://github.com/Vincit/objection.js</sup>_
 
 Lightweight ORM built on the SQL query builder Knex.
-* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [database](../tagged/database.md), [drivers-odm / orm](../tagged/drivers-odm  orm.md)
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [database](../tagged/database.md), [driver](../tagged/driver.md), [odm](../tagged/odm.md), [orm](../tagged/orm.md)
 * :octocat: **[source code](https://github.com/Vincit/objection.js)**
 ---
 #### [TypeORM](https://github.com/typeorm/typeorm)
 _<sup>https://github.com/typeorm/typeorm</sup>_
 
 ORM for PostgreSQL, MariaDB, MySQL, SQLite, and more.
-* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [database](../tagged/database.md), [drivers-odm / orm](../tagged/drivers-odm  orm.md)
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [database](../tagged/database.md), [driver](../tagged/driver.md), [odm](../tagged/odm.md), [orm](../tagged/orm.md)
 * :octocat: **[source code](https://github.com/typeorm/typeorm)**
 ---
 #### [Knex](https://github.com/tgriesser/knex)
@@ -517,52 +517,63 @@ Redis is an open source (BSD licensed), in-memory data structure store, used as 
 * **tags**: [caching](../tagged/caching.md), [in-memory](../tagged/in-memory.md), [database](../tagged/database.md)
 * :octocat: **[source code](https://github.com/antirez/redis)**
 ---
+#### [データベース](http://www.ipa.go.jp/files/000018652.pdf)
+_<sup>http://www.ipa.go.jp/files/000018652.pdf</sup>_
+
+独立行政法人 情報処理推進機構(IPA) (PDF)
+* **tags**: [free-programming-books-ja](../tagged/free-programming-books-ja.md), [free-programming-books](../tagged/free-programming-books.md), [database](../tagged/database.md), [speech](../tagged/speech.md)
+---
 #### [What is Database Design, Anyway?](http://www.oreilly.com/data/free/what-is-database-design-anyway.csp)
 _<sup>http://www.oreilly.com/data/free/what-is-database-design-anyway.csp</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [database](../tagged/database.md), [language-agnostic](../tagged/language-agnostic.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [database](../tagged/database.md)
 ---
 #### [The Theory of Relational Databases](http://web.cecs.pdx.edu/~maier/TheoryBook/TRD.html)
 _<sup>http://web.cecs.pdx.edu/~maier/TheoryBook/TRD.html</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [database](../tagged/database.md), [language-agnostic](../tagged/language-agnostic.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [database](../tagged/database.md)
 ---
 #### [Temporal Database Management](http://people.cs.aau.dk/~csj/Thesis/)
 _<sup>http://people.cs.aau.dk/~csj/Thesis/</sup>_
 
 Christian S. Jensen
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [database](../tagged/database.md), [language-agnostic](../tagged/language-agnostic.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [database](../tagged/database.md)
 ---
 #### [Readings in Database Systems, 5th Ed.](http://www.redbook.io)
 _<sup>http://www.redbook.io</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [database](../tagged/database.md), [language-agnostic](../tagged/language-agnostic.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [database](../tagged/database.md)
 ---
 #### [Foundations of Databases](http://webdam.inria.fr/Alice/)
 _<sup>http://webdam.inria.fr/Alice/</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [database](../tagged/database.md), [language-agnostic](../tagged/language-agnostic.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [database](../tagged/database.md)
 ---
 #### [Databases, Types, and The Relational Model: The Third Manifesto](http://www.dcs.warwick.ac.uk/~hugh/TTM/DTATRM.pdf)
 _<sup>http://www.dcs.warwick.ac.uk/~hugh/TTM/DTATRM.pdf</sup>_
 
 (PDF)
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [database](../tagged/database.md), [language-agnostic](../tagged/language-agnostic.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [database](../tagged/database.md)
 ---
 #### [Database Fundamentals](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Database_fundamentals.pdf)
 _<sup>http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Database_fundamentals.pdf</sup>_
 
 (PDF)
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [database](../tagged/database.md), [language-agnostic](../tagged/language-agnostic.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [database](../tagged/database.md)
 ---
 #### [Database Explorations](http://www.dcs.warwick.ac.uk/~hugh/TTM/Database-Explorations-revision-2.pdf)
 _<sup>http://www.dcs.warwick.ac.uk/~hugh/TTM/Database-Explorations-revision-2.pdf</sup>_
 
 (PDF)
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [database](../tagged/database.md), [language-agnostic](../tagged/language-agnostic.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [database](../tagged/database.md)
 ---
 #### [Big Data Now: Current Perspectives from O'Reilly Radar](http://shop.oreilly.com/product/0636920022640.do)
 _<sup>http://shop.oreilly.com/product/0636920022640.do</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [database](../tagged/database.md), [language-agnostic](../tagged/language-agnostic.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [database](../tagged/database.md)
+---
+#### [The Little MongoDB Book 中文版](https://github.com/justinyhuang/the-little-mongodb-book-cn)
+_<sup>https://github.com/justinyhuang/the-little-mongodb-book-cn</sup>_
+
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [database](../tagged/database.md)
 ---

@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/go](https://www.bookmarks.dev/tagged/go)</sup></sup>_
 ---
+#### [Helm Chart Templates](https://helm.sh/docs/chart_template_guide/)
+_<sup>https://helm.sh/docs/chart_template_guide/</sup>_
+
+This guide provides an introduction to Helm’s chart templates, with emphasis on the template language.
+* **tags**: [kubernetes](../tagged/kubernetes.md), [kubernetes-helm](../tagged/kubernetes-helm.md), [helm](../tagged/helm.md), [go](../tagged/go.md)
+---
 #### [graphql](https://github.com/graphql-go/graphql)
 _<sup>https://github.com/graphql-go/graphql</sup>_
 
@@ -69,14 +75,14 @@ A powerful GraphQL server implementation for Golang
 _<sup>https://github.com/sogko/golang-relay-starter-kit</sup>_
 
 Barebones starting point for a Relay application with Golang GraphQL server.
-* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [go](../tagged/go.md), [examples](../tagged/examples.md)
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [go](../tagged/go.md)
 * :octocat: **[source code](https://github.com/sogko/golang-relay-starter-kit)**
 ---
 #### [todomvc-relay-go](https://github.com/sogko/todomvc-relay-go)
 _<sup>https://github.com/sogko/todomvc-relay-go</sup>_
 
 Port of the React/Relay TodoMVC app, driven by a Golang GraphQL backend.
-* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [go](../tagged/go.md), [examples](../tagged/examples.md)
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [go](../tagged/go.md)
 * :octocat: **[source code](https://github.com/sogko/todomvc-relay-go)**
 ---
 #### [awesome-go](https://github.com/avelino/awesome-go#readme)

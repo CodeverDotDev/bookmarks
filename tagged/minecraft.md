@@ -6,6 +6,6 @@ _<sup><sup>[www.bookmarks.dev/tagged/minecraft](https://www.bookmarks.dev/tagged
 _<sup>https://github.com/bs-community/awesome-minecraft#readme</sup>_
 
 📝 The curated list of awesome things related to Minecraft. - bs-community/awesome-minecraft
-* **tags**: [awesome-list](../tagged/awesome-list.md), [game-dev](../tagged/game-dev.md), [minecraft](../tagged/minecraft.md)
+* **tags**: [awesome-list](../tagged/awesome-list.md), [game-development](../tagged/game-development.md), [minecraft](../tagged/minecraft.md)
 * :octocat: **[source code](https://github.com/bs-community/awesome-minecraft#readme)**
 ---

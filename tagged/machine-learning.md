@@ -214,107 +214,124 @@ Learn how to build a perceptron model from scratch with Javascript!
 * **tags**: [javascript](../tagged/javascript.md), [machine-learning](../tagged/machine-learning.md)
 * :octocat: **[source code](https://github.com/jg-fisher/perceptronJS)**
 ---
+#### [機械学習 はじめよう](http://gihyo.jp/dev/serial/01/machine-learning)
+_<sup>http://gihyo.jp/dev/serial/01/machine-learning</sup>_
+
+中谷秀洋，恩田伊織
+* **tags**: [free-programming-books-ja](../tagged/free-programming-books-ja.md), [free-programming-books](../tagged/free-programming-books.md), [machine-learning](../tagged/machine-learning.md), [speech](../tagged/speech.md)
+---
+#### [Mahoutで体感する機械学習の実践](http://gihyo.jp/dev/serial/01/mahout)
+_<sup>http://gihyo.jp/dev/serial/01/mahout</sup>_
+
+やまかつ
+* **tags**: [free-programming-books-ja](../tagged/free-programming-books-ja.md), [free-programming-books](../tagged/free-programming-books.md), [machine-learning](../tagged/machine-learning.md), [speech](../tagged/speech.md)
+---
+#### [Jubatus : オンライン機械学習向け分散処理フレームワーク](http://jubat.us/ja/index.html#table-of-contents)
+_<sup>http://jubat.us/ja/index.html#table-of-contents</sup>_
+
+* **tags**: [free-programming-books-ja](../tagged/free-programming-books-ja.md), [free-programming-books](../tagged/free-programming-books.md), [machine-learning](../tagged/machine-learning.md), [speech](../tagged/speech.md)
+---
 #### [The Python Game Book](http://thepythongamebook.com/en%3Astart)
 _<sup>http://thepythongamebook.com/en%3Astart</sup>_
 
-* **tags**: [machine-learning](../tagged/machine-learning.md), [free-programming-books](../tagged/free-programming-books.md), [language-agnostic](../tagged/language-agnostic.md)
+* **tags**: [machine-learning](../tagged/machine-learning.md), [free-programming-books](../tagged/free-programming-books.md)
 ---
 #### [The LION Way: Machine Learning plus Intelligent Optimization](http://www.e-booksdirectory.com/details.php?ebook=9575)
 _<sup>http://www.e-booksdirectory.com/details.php?ebook=9575</sup>_
 
-* **tags**: [machine-learning](../tagged/machine-learning.md), [free-programming-books](../tagged/free-programming-books.md), [language-agnostic](../tagged/language-agnostic.md)
+* **tags**: [machine-learning](../tagged/machine-learning.md), [free-programming-books](../tagged/free-programming-books.md)
 ---
 #### [The Elements of Statistical Learning](http://www-stat.stanford.edu/~tibs/ElemStatLearn/)
 _<sup>http://www-stat.stanford.edu/~tibs/ElemStatLearn/</sup>_
 
 Trevor Hastie, Robert Tibshirani, and Jerome Friedman
-* **tags**: [machine-learning](../tagged/machine-learning.md), [free-programming-books](../tagged/free-programming-books.md), [language-agnostic](../tagged/language-agnostic.md)
+* **tags**: [machine-learning](../tagged/machine-learning.md), [free-programming-books](../tagged/free-programming-books.md)
 ---
 #### [Reinforcement Learning: An Introduction](http://webdocs.cs.ualberta.ca/~sutton/book/ebook/the-book.html)
 _<sup>http://webdocs.cs.ualberta.ca/~sutton/book/ebook/the-book.html</sup>_
 
-* **tags**: [machine-learning](../tagged/machine-learning.md), [free-programming-books](../tagged/free-programming-books.md), [language-agnostic](../tagged/language-agnostic.md)
+* **tags**: [machine-learning](../tagged/machine-learning.md), [free-programming-books](../tagged/free-programming-books.md)
 ---
 #### [Probabilistic Models in the Study of Language](http://idiom.ucsd.edu/~rlevy/pmsl_textbook/text.html)
 _<sup>http://idiom.ucsd.edu/~rlevy/pmsl_textbook/text.html</sup>_
 
 (Draft, with R code)
-* **tags**: [machine-learning](../tagged/machine-learning.md), [free-programming-books](../tagged/free-programming-books.md), [language-agnostic](../tagged/language-agnostic.md)
+* **tags**: [machine-learning](../tagged/machine-learning.md), [free-programming-books](../tagged/free-programming-books.md)
 ---
 #### [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com)
 _<sup>http://neuralnetworksanddeeplearning.com</sup>_
 
-* **tags**: [machine-learning](../tagged/machine-learning.md), [free-programming-books](../tagged/free-programming-books.md), [language-agnostic](../tagged/language-agnostic.md)
+* **tags**: [machine-learning](../tagged/machine-learning.md), [free-programming-books](../tagged/free-programming-books.md)
 ---
 #### [Machine Learning, Neural and Statistical Classification](http://www1.maths.leeds.ac.uk/~charles/statlog/)
 _<sup>http://www1.maths.leeds.ac.uk/~charles/statlog/</sup>_
 
-* **tags**: [machine-learning](../tagged/machine-learning.md), [free-programming-books](../tagged/free-programming-books.md), [language-agnostic](../tagged/language-agnostic.md)
+* **tags**: [machine-learning](../tagged/machine-learning.md), [free-programming-books](../tagged/free-programming-books.md)
 ---
 #### [Machine Learning](http://www.intechopen.com/books/machine_learning)
 _<sup>http://www.intechopen.com/books/machine_learning</sup>_
 
-* **tags**: [machine-learning](../tagged/machine-learning.md), [free-programming-books](../tagged/free-programming-books.md), [language-agnostic](../tagged/language-agnostic.md)
+* **tags**: [machine-learning](../tagged/machine-learning.md), [free-programming-books](../tagged/free-programming-books.md)
 ---
 #### [Learning Deep Architectures for AI](http://www.iro.umontreal.ca/~bengioy/papers/ftml_book.pdf)
 _<sup>http://www.iro.umontreal.ca/~bengioy/papers/ftml_book.pdf</sup>_
 
 (PDF)
-* **tags**: [machine-learning](../tagged/machine-learning.md), [free-programming-books](../tagged/free-programming-books.md), [language-agnostic](../tagged/language-agnostic.md)
+* **tags**: [machine-learning](../tagged/machine-learning.md), [free-programming-books](../tagged/free-programming-books.md)
 ---
 #### [Learn Tensorflow](https://bitbucket.org/hrojas/learn-tensorflow)
 _<sup>https://bitbucket.org/hrojas/learn-tensorflow</sup>_
 
 Jupyter Notebooks
-* **tags**: [machine-learning](../tagged/machine-learning.md), [free-programming-books](../tagged/free-programming-books.md), [language-agnostic](../tagged/language-agnostic.md)
+* **tags**: [machine-learning](../tagged/machine-learning.md), [free-programming-books](../tagged/free-programming-books.md)
 ---
 #### [Introduction to Machine Learning](http://arxiv.org/abs/0904.3664v1)
 _<sup>http://arxiv.org/abs/0904.3664v1</sup>_
 
 Amnon Shashua
-* **tags**: [machine-learning](../tagged/machine-learning.md), [free-programming-books](../tagged/free-programming-books.md), [language-agnostic](../tagged/language-agnostic.md)
+* **tags**: [machine-learning](../tagged/machine-learning.md), [free-programming-books](../tagged/free-programming-books.md)
 ---
 #### [Information Theory, Inference, and Learning Algorithms](http://www.inference.phy.cam.ac.uk/itila/)
 _<sup>http://www.inference.phy.cam.ac.uk/itila/</sup>_
 
-* **tags**: [machine-learning](../tagged/machine-learning.md), [free-programming-books](../tagged/free-programming-books.md), [language-agnostic](../tagged/language-agnostic.md)
+* **tags**: [machine-learning](../tagged/machine-learning.md), [free-programming-books](../tagged/free-programming-books.md)
 ---
 #### [Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/)
 _<sup>http://www.gaussianprocess.org/gpml/</sup>_
 
-* **tags**: [machine-learning](../tagged/machine-learning.md), [free-programming-books](../tagged/free-programming-books.md), [language-agnostic](../tagged/language-agnostic.md)
+* **tags**: [machine-learning](../tagged/machine-learning.md), [free-programming-books](../tagged/free-programming-books.md)
 ---
 #### [Deep Learning](http://www.deeplearningbook.org)
 _<sup>http://www.deeplearningbook.org</sup>_
 
 Ian Goodfellow, Yoshua Bengio and Aaron Courville
-* **tags**: [machine-learning](../tagged/machine-learning.md), [free-programming-books](../tagged/free-programming-books.md), [language-agnostic](../tagged/language-agnostic.md)
+* **tags**: [machine-learning](../tagged/machine-learning.md), [free-programming-books](../tagged/free-programming-books.md)
 ---
 #### [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage)
 _<sup>http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage</sup>_
 
-* **tags**: [machine-learning](../tagged/machine-learning.md), [free-programming-books](../tagged/free-programming-books.md), [language-agnostic](../tagged/language-agnostic.md)
+* **tags**: [machine-learning](../tagged/machine-learning.md), [free-programming-books](../tagged/free-programming-books.md)
 ---
 #### [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
 _<sup>http://www-bcf.usc.edu/~gareth/ISL/</sup>_
 
 Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani
-* **tags**: [machine-learning](../tagged/machine-learning.md), [free-programming-books](../tagged/free-programming-books.md), [language-agnostic](../tagged/language-agnostic.md)
+* **tags**: [machine-learning](../tagged/machine-learning.md), [free-programming-books](../tagged/free-programming-books.md)
 ---
 #### [A First Encounter with Machine Learning](https://www.ics.uci.edu/~welling/teaching/ICS273Afall11/IntroMLBook.pdf)
 _<sup>https://www.ics.uci.edu/~welling/teaching/ICS273Afall11/IntroMLBook.pdf</sup>_
 
 (PDF)
-* **tags**: [machine-learning](../tagged/machine-learning.md), [free-programming-books](../tagged/free-programming-books.md), [language-agnostic](../tagged/language-agnostic.md)
+* **tags**: [machine-learning](../tagged/machine-learning.md), [free-programming-books](../tagged/free-programming-books.md)
 ---
 #### [A Course in Machine Learning](http://ciml.info/dl/v0_9/ciml-v0_9-all.pdf)
 _<sup>http://ciml.info/dl/v0_9/ciml-v0_9-all.pdf</sup>_
 
 (PDF)
-* **tags**: [machine-learning](../tagged/machine-learning.md), [free-programming-books](../tagged/free-programming-books.md), [language-agnostic](../tagged/language-agnostic.md)
+* **tags**: [machine-learning](../tagged/machine-learning.md), [free-programming-books](../tagged/free-programming-books.md)
 ---
 #### [A Brief Introduction to Neural Networks](http://www.dkriesel.com/en/science/neural_networks)
 _<sup>http://www.dkriesel.com/en/science/neural_networks</sup>_
 
-* **tags**: [machine-learning](../tagged/machine-learning.md), [free-programming-books](../tagged/free-programming-books.md), [language-agnostic](../tagged/language-agnostic.md)
+* **tags**: [machine-learning](../tagged/machine-learning.md), [free-programming-books](../tagged/free-programming-books.md)
 ---

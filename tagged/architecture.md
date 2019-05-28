@@ -179,6 +179,24 @@ _<sup>https://gist.github.com/telent/9742059</sup>_
 App configuration in environment variables: for and against
 * **tags**: [architecture](../tagged/architecture.md)
 ---
+#### [デザインパターン](http://www.techscore.com/tech/DesignPattern/)
+_<sup>http://www.techscore.com/tech/DesignPattern/</sup>_
+
+シナジーマーケティング株式会社
+* **tags**: [architecture](../tagged/architecture.md), [free-programming-books-ja](../tagged/free-programming-books-ja.md), [free-programming-books](../tagged/free-programming-books.md), [speech](../tagged/speech.md)
+---
+#### [サルでもわかる 逆引きデザインパターン](http://www.nulab.co.jp/designPatterns/designPatterns1/designPatterns1-1.html)
+_<sup>http://www.nulab.co.jp/designPatterns/designPatterns1/designPatterns1-1.html</sup>_
+
+Agata Toshitaka
+* **tags**: [architecture](../tagged/architecture.md), [free-programming-books-ja](../tagged/free-programming-books-ja.md), [free-programming-books](../tagged/free-programming-books.md), [speech](../tagged/speech.md)
+---
+#### [ギコ猫とデザインパターン](http://www.hyuki.com/dp/cat_index.html)
+_<sup>http://www.hyuki.com/dp/cat_index.html</sup>_
+
+結城浩
+* **tags**: [architecture](../tagged/architecture.md), [free-programming-books-ja](../tagged/free-programming-books-ja.md), [free-programming-books](../tagged/free-programming-books.md), [speech](../tagged/speech.md)
+---
 #### [DesignStaminaHypothesis](https://martinfowler.com/bliki/DesignStaminaHypothesis.html)
 _<sup>https://martinfowler.com/bliki/DesignStaminaHypothesis.html</sup>_
 

@@ -2,6 +2,20 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/nodejs](https://www.bookmarks.dev/tagged/nodejs)</sup></sup>_
 ---
+#### [NestJS - A progressive Node.js web framework](https://nestjs.com/)
+_<sup>https://nestjs.com/</sup>_
+
+NestJS is a framework for building efficient, scalable Node.js web applications. It uses modern JavaScript, is built with TypeScript and combines elements of OOP (Object Oriented Progamming), FP (Func...
+* **tags**: [nodejs](../tagged/nodejs.md), [typescript](../tagged/typescript.md), [functional-programming](../tagged/functional-programming.md), [oop](../tagged/oop.md)
+* :octocat: **[source code](https://github.com/nestjs/nest)**
+---
+#### [What’s new in JavaScript (Google I/O ’19) - YouTube](https://www.youtube.com/watch?v=c0oy0vQKEZE)
+_<sup>https://www.youtube.com/watch?v=c0oy0vQKEZE</sup>_
+
+This presentation gives an overview of cutting-edge JavaScript development techniques to build modern web and Node.js apps. Discover which features to expect in Chrome and Node.js soon, how the V8 eng...
+* :calendar: **published on**: 2019-05-08
+* **tags**: [javascript](../tagged/javascript.md), [nodejs](../tagged/nodejs.md), [frontend](../tagged/frontend.md)
+---
 #### [Creating A GraphQL Server With Node.js And Express – CodingTheSmartWay.com Blog – Medium](https://medium.com/codingthesmartway-com-blog/creating-a-graphql-server-with-node-js-and-express-f6dddc5320e1)
 _<sup>https://medium.com/codingthesmartway-com-blog/creating-a-graphql-server-with-node-js-and-express-f6d...</sup>_
 
@@ -2581,63 +2595,63 @@ MongoDB driver.
 _<sup>https://github.com/sequelize/sequelize</sup>_
 
 Multi-dialect ORM. Supports PostgreSQL, SQLite, MySQL.
-* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [database](../tagged/database.md), [drivers-odm / orm](../tagged/drivers-odm  orm.md)
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [database](../tagged/database.md), [driver](../tagged/driver.md), [odm](../tagged/odm.md), [orm](../tagged/orm.md)
 * :octocat: **[source code](https://github.com/sequelize/sequelize)**
 ---
 #### [Bookshelf](https://github.com/bookshelf/bookshelf)
 _<sup>https://github.com/bookshelf/bookshelf</sup>_
 
 ORM for PostgreSQL, MySQL and SQLite3 in the style of Backbone.js.
-* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [database](../tagged/database.md), [drivers-odm / orm](../tagged/drivers-odm  orm.md)
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [database](../tagged/database.md), [driver](../tagged/driver.md), [odm](../tagged/odm.md), [orm](../tagged/orm.md)
 * :octocat: **[source code](https://github.com/bookshelf/bookshelf)**
 ---
 #### [Massive](https://github.com/robconery/massive-js)
 _<sup>https://github.com/robconery/massive-js</sup>_
 
 PostgreSQL data access tool.
-* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [database](../tagged/database.md), [drivers-odm / orm](../tagged/drivers-odm  orm.md)
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [database](../tagged/database.md), [driver](../tagged/driver.md), [odm](../tagged/odm.md), [orm](../tagged/orm.md)
 * :octocat: **[source code](https://github.com/robconery/massive-js)**
 ---
 #### [Mongoose](https://github.com/Automattic/mongoose)
 _<sup>https://github.com/Automattic/mongoose</sup>_
 
 Elegant MongoDB object modeling.
-* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [database](../tagged/database.md), [drivers-odm / orm](../tagged/drivers-odm  orm.md)
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [database](../tagged/database.md), [driver](../tagged/driver.md), [odm](../tagged/odm.md), [orm](../tagged/orm.md)
 * :octocat: **[source code](https://github.com/Automattic/mongoose)**
 ---
 #### [Waterline](https://github.com/balderdashy/waterline)
 _<sup>https://github.com/balderdashy/waterline</sup>_
 
 Datastore-agnostic tool that dramatically simplifies interaction with one or more databases.
-* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [database](../tagged/database.md), [drivers-odm / orm](../tagged/drivers-odm  orm.md)
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [database](../tagged/database.md), [driver](../tagged/driver.md), [odm](../tagged/odm.md), [orm](../tagged/orm.md)
 * :octocat: **[source code](https://github.com/balderdashy/waterline)**
 ---
 #### [OpenRecord](https://github.com/PhilWaldmann/openrecord)
 _<sup>https://github.com/PhilWaldmann/openrecord</sup>_
 
 ORM for PostgreSQL, MySQL, SQLite3 and RESTful datastores. Similar to ActiveRecord.
-* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [database](../tagged/database.md), [drivers-odm / orm](../tagged/drivers-odm  orm.md)
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [database](../tagged/database.md), [odm](../tagged/odm.md), [orm](../tagged/orm.md), [driver](../tagged/driver.md)
 * :octocat: **[source code](https://github.com/PhilWaldmann/openrecord)**
 ---
 #### [pg-promise](https://github.com/vitaly-t/pg-promise)
 _<sup>https://github.com/vitaly-t/pg-promise</sup>_
 
 PostgreSQL framework for native SQL using promises.
-* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [database](../tagged/database.md), [drivers-odm / orm](../tagged/drivers-odm  orm.md)
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [database](../tagged/database.md), [driver](../tagged/driver.md), [odm](../tagged/odm.md), [orm](../tagged/orm.md)
 * :octocat: **[source code](https://github.com/vitaly-t/pg-promise)**
 ---
 #### [Objection.js](https://github.com/Vincit/objection.js)
 _<sup>https://github.com/Vincit/objection.js</sup>_
 
 Lightweight ORM built on the SQL query builder Knex.
-* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [database](../tagged/database.md), [drivers-odm / orm](../tagged/drivers-odm  orm.md)
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [database](../tagged/database.md), [driver](../tagged/driver.md), [odm](../tagged/odm.md), [orm](../tagged/orm.md)
 * :octocat: **[source code](https://github.com/Vincit/objection.js)**
 ---
 #### [TypeORM](https://github.com/typeorm/typeorm)
 _<sup>https://github.com/typeorm/typeorm</sup>_
 
 ORM for PostgreSQL, MariaDB, MySQL, SQLite, and more.
-* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [database](../tagged/database.md), [drivers-odm / orm](../tagged/drivers-odm  orm.md)
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [database](../tagged/database.md), [driver](../tagged/driver.md), [odm](../tagged/odm.md), [orm](../tagged/orm.md)
 * :octocat: **[source code](https://github.com/typeorm/typeorm)**
 ---
 #### [Knex](https://github.com/tgriesser/knex)
@@ -3167,28 +3181,28 @@ Markdown documentation site generator with no statically built HTML files.
 _<sup>https://github.com/keystonejs/keystone</sup>_
 
 CMS and web application platform built on Express and MongoDB.
-* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [content-management system](../tagged/content-management system.md)
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [content-management-system](../tagged/content-management-system.md)
 * :octocat: **[source code](https://github.com/keystonejs/keystone)**
 ---
 #### [ApostropheCMS](https://github.com/apostrophecms/apostrophe)
 _<sup>https://github.com/apostrophecms/apostrophe</sup>_
 
 Content management system with an emphasis on intuitive front end content editing and administration built on Express and MongoDB.
-* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [content-management system](../tagged/content-management system.md)
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [content-management-system](../tagged/content-management-system.md)
 * :octocat: **[source code](https://github.com/apostrophecms/apostrophe)**
 ---
 #### [Strapi](https://github.com/strapi/strapi)
 _<sup>https://github.com/strapi/strapi</sup>_
 
 Content Management Framework (headless-CMS) to build powerful APIs.
-* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [content-management system](../tagged/content-management system.md)
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [content-management-system](../tagged/content-management-system.md)
 * :octocat: **[source code](https://github.com/strapi/strapi)**
 ---
 #### [Tipe](https://github.com/tipeio/tipe)
 _<sup>https://github.com/tipeio/tipe</sup>_
 
 Developer-first content management system with GraphQL and REST API from a schema file.
-* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [content-management system](../tagged/content-management system.md)
+* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [content-management-system](../tagged/content-management-system.md)
 * :octocat: **[source code](https://github.com/tipeio/tipe)**
 ---
 #### [nodeBB](https://github.com/NodeBB/NodeBB)
@@ -4864,12 +4878,6 @@ Author e...
 * :calendar: **published on**: 2015-07-13
 * **tags**: [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md), [tape](../tagged/tape.md)
 * :octocat: **[source code](https://github.com/substack/tape)**
----
-#### [NodeJS Systemübersicht](http://bkwiki.bkw-fmb.ch/pages/viewpage.action?pageId=46990219)
-_<sup>http://bkwiki.bkw-fmb.ch/pages/viewpage.action?pageId=46990219</sup>_
-
-NodeJS servers list
-* **tags**: [bkw](../tagged/bkw.md), [nodejs](../tagged/nodejs.md)
 ---
 #### [GitHub - foreverjs/forever: A simple CLI tool for ensuring that a given script runs continuously (i.e. forever)](https://github.com/foreverjs/forever)
 _<sup>https://github.com/foreverjs/forever</sup>_

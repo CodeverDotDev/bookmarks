@@ -23,7 +23,7 @@ _<sup>https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-accou
 $ pbcopy < ~/.ssh/id_rsa.pub
  Copies the contents of the id_rsa.pub file to your clipboard
 ```
-* **tags**: [git](../tagged/git.md), [ssh](../tagged/ssh.md), [utils](../tagged/utils.md)
+* **tags**: [git](../tagged/git.md), [ssh](../tagged/ssh.md)
 ---
 #### [How To Change SSH Port in Ubuntu - idroot](http://idroot.net/tutorials/how-to-change-ssh-port-in-ubuntu/)
 _<sup>http://idroot.net/tutorials/how-to-change-ssh-port-in-ubuntu/</sup>_

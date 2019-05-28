@@ -172,3 +172,33 @@ Error Tracking Software — JavaScript,...
 * **tags**: [error-handling](../tagged/error-handling.md), [monitoring](../tagged/monitoring.md)
 * :octocat: **[source code](https://github.com/getsentry/sentry)**
 ---
+#### [Puppet 2.7 Cookbook 中文版](https://www.gitbook.com/book/wizardforcel/puppet-27-cookbook/details)
+_<sup>https://www.gitbook.com/book/wizardforcel/puppet-27-cookbook/details</sup>_
+
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [monitoring](../tagged/monitoring.md)
+---
+#### [Mastering Elasticsearch(中文版)](http://udn.yyuap.com/doc/mastering-elasticsearch/)
+_<sup>http://udn.yyuap.com/doc/mastering-elasticsearch/</sup>_
+
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [monitoring](../tagged/monitoring.md)
+---
+#### [Logstash 最佳实践](https://github.com/chenryn/logstash-best-practice-cn)
+_<sup>https://github.com/chenryn/logstash-best-practice-cn</sup>_
+
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [monitoring](../tagged/monitoring.md)
+---
+#### [ELKstack 中文指南](http://kibana.logstash.es)
+_<sup>http://kibana.logstash.es</sup>_
+
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [monitoring](../tagged/monitoring.md)
+---
+#### [Elasticsearch 权威指南（中文版）](http://es.xiaoleilu.com)
+_<sup>http://es.xiaoleilu.com</sup>_
+
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [monitoring](../tagged/monitoring.md)
+---
+#### [ElasticSearch 权威指南](https://www.gitbook.com/book/fuxiaopang/learnelasticsearch/details)
+_<sup>https://www.gitbook.com/book/fuxiaopang/learnelasticsearch/details</sup>_
+
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [monitoring](../tagged/monitoring.md)
+---

@@ -6,5 +6,5 @@ _<sup><sup>[www.bookmarks.dev/tagged/algoritmy-a-datové-struktury](https://www.
 _<sup>http://i.iinfo.cz/files/root/k/Zaklady_algorimizace.pdf</sup>_
 
 (PDF)
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [language-agnostic](../tagged/language-agnostic.md), [free-programming-books-cs](../tagged/free-programming-books-cs.md), [algoritmy-a-datové-struktury](../tagged/algoritmy-a-datové-struktury.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-cs](../tagged/free-programming-books-cs.md), [algoritmy-a-datové-struktury](../tagged/algoritmy-a-datové-struktury.md)
 ---

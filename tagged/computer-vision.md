@@ -39,23 +39,23 @@ A curated list of deep learning resources for computer vision  - kjw0612/awesome
 _<sup>http://programmingcomputervision.com</sup>_
 
 Jan Erik Solem
-* **tags**: [computer-vision](../tagged/computer-vision.md), [free-programming-books](../tagged/free-programming-books.md), [language-agnostic](../tagged/language-agnostic.md)
+* **tags**: [computer-vision](../tagged/computer-vision.md), [free-programming-books](../tagged/free-programming-books.md)
 ---
 #### [Computer Vision: Models, Learning, and Inference](http://www.computervisionmodels.com)
 _<sup>http://www.computervisionmodels.com</sup>_
 
 Simon J.D. Prince
-* **tags**: [computer-vision](../tagged/computer-vision.md), [free-programming-books](../tagged/free-programming-books.md), [language-agnostic](../tagged/language-agnostic.md)
+* **tags**: [computer-vision](../tagged/computer-vision.md), [free-programming-books](../tagged/free-programming-books.md)
 ---
 #### [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/)
 _<sup>http://szeliski.org/Book/</sup>_
 
 Richard Szeliski
-* **tags**: [computer-vision](../tagged/computer-vision.md), [free-programming-books](../tagged/free-programming-books.md), [language-agnostic](../tagged/language-agnostic.md)
+* **tags**: [computer-vision](../tagged/computer-vision.md), [free-programming-books](../tagged/free-programming-books.md)
 ---
 #### [Computer Vision](http://homepages.inf.ed.ac.uk/rbf/BOOKS/BANDB/bandb.htm)
 _<sup>http://homepages.inf.ed.ac.uk/rbf/BOOKS/BANDB/bandb.htm</sup>_
 
 Dana Ballard, Chris Brown
-* **tags**: [computer-vision](../tagged/computer-vision.md), [free-programming-books](../tagged/free-programming-books.md), [language-agnostic](../tagged/language-agnostic.md)
+* **tags**: [computer-vision](../tagged/computer-vision.md), [free-programming-books](../tagged/free-programming-books.md)
 ---

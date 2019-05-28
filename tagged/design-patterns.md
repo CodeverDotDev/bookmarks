@@ -6,28 +6,28 @@ _<sup><sup>[www.bookmarks.dev/tagged/design-patterns](https://www.bookmarks.dev/
 _<sup>https://github.com/keon/algorithms</sup>_
 
 Minimal examples of data structures and algorithms in Python.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [algorithms](../tagged/algorithms.md), [design-patterns](../tagged/design-patterns.md)
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [algorithm](../tagged/algorithm.md), [design-patterns](../tagged/design-patterns.md)
 * :octocat: **[source code](https://github.com/keon/algorithms)**
 ---
 #### [PyPattyrn](https://github.com/tylerlaberge/PyPattyrn)
 _<sup>https://github.com/tylerlaberge/PyPattyrn</sup>_
 
 A simple yet effective library for implementing common design patterns.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [algorithms](../tagged/algorithms.md), [design-patterns](../tagged/design-patterns.md)
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [algorithm](../tagged/algorithm.md), [design-patterns](../tagged/design-patterns.md)
 * :octocat: **[source code](https://github.com/tylerlaberge/PyPattyrn)**
 ---
 #### [python-patterns](https://github.com/faif/python-patterns)
 _<sup>https://github.com/faif/python-patterns</sup>_
 
 A collection of design patterns in Python.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [algorithms](../tagged/algorithms.md), [design-patterns](../tagged/design-patterns.md)
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [algorithm](../tagged/algorithm.md), [design-patterns](../tagged/design-patterns.md)
 * :octocat: **[source code](https://github.com/faif/python-patterns)**
 ---
 #### [sortedcontainers](http://www.grantjenks.com/docs/sortedcontainers/)
 _<sup>http://www.grantjenks.com/docs/sortedcontainers/</sup>_
 
 Fast, pure-Python implementation of SortedList, SortedDict, and SortedSet types.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [algorithms](../tagged/algorithms.md), [design-patterns](../tagged/design-patterns.md)
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [algorithm](../tagged/algorithm.md), [design-patterns](../tagged/design-patterns.md)
 ---
 #### [The One Correct Way to do Dependency Injection](http://blog.schauderhaft.de/2012/01/01/the-one-correct-way-to-do-dependency-injection/)
 _<sup>http://blog.schauderhaft.de/2012/01/01/the-one-correct-way-to-do-dependency-injection/</sup>_
@@ -146,6 +146,16 @@ _<sup>https://8thlight.com/blog/uncle-bob/2014/05/08/SingleReponsibilityPrincipl
 When you write a software module, you want to make sure that when changes are requested, those changes can only originate from a single person, or rather, a single tightly coupled group of people repr...
 * :calendar: **published on**: 2014-08-05
 * **tags**: [design-patterns](../tagged/design-patterns.md)
+---
+#### [图说设计模式](https://github.com/me115/design_patterns)
+_<sup>https://github.com/me115/design_patterns</sup>_
+
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [design-patterns](../tagged/design-patterns.md)
+---
+#### [史上最全设计模式导学目录](http://blog.csdn.net/lovelion/article/details/17517213)
+_<sup>http://blog.csdn.net/lovelion/article/details/17517213</sup>_
+
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [design-patterns](../tagged/design-patterns.md)
 ---
 #### [Reactor pattern - Wikipedia](https://en.wikipedia.org/wiki/Reactor_pattern)
 _<sup>https://en.wikipedia.org/wiki/Reactor_pattern</sup>_

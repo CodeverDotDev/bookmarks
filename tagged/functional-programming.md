@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/functional-programming](https://www.bookmarks.dev/tagged/functional-programming)</sup></sup>_
 ---
+#### [NestJS - A progressive Node.js web framework](https://nestjs.com/)
+_<sup>https://nestjs.com/</sup>_
+
+NestJS is a framework for building efficient, scalable Node.js web applications. It uses modern JavaScript, is built with TypeScript and combines elements of OOP (Object Oriented Progamming), FP (Func...
+* **tags**: [nodejs](../tagged/nodejs.md), [typescript](../tagged/typescript.md), [functional-programming](../tagged/functional-programming.md), [oop](../tagged/oop.md)
+* :octocat: **[source code](https://github.com/nestjs/nest)**
+---
 #### [Coconut](http://coconut-lang.org/)
 _<sup>http://coconut-lang.org/</sup>_
 
@@ -238,6 +245,11 @@ _<sup>http://reactivex.io/learnrx/</sup>_
 This is a series of interactive exercises for learning Microsoft's Reactive Extensions (Rx) Library for Javascript. So why is the title "Functional Programming in Javascript"? Well it turns out that t...
 * **tags**: [javascript](../tagged/javascript.md), [functional-programming](../tagged/functional-programming.md)
 * :octocat: **[source code](https://github.com/ReactiveX/learnrx)**
+---
+#### [傻瓜函数编程](https://github.com/justinyhuang/Functional-Programming-For-The-Rest-of-Us-Cn)
+_<sup>https://github.com/justinyhuang/Functional-Programming-For-The-Rest-of-Us-Cn</sup>_
+
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [functional-programming](../tagged/functional-programming.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
 ---
 #### [Glossary of Modern JavaScript Concepts: Part 1Button - CloseLearn More](https://auth0.com/blog/glossary-of-modern-javascript-concepts/)
 _<sup>https://auth0.com/blog/glossary-of-modern-javascript-concepts/</sup>_

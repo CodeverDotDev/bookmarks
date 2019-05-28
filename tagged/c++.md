@@ -172,6 +172,30 @@ _<sup>http://www4.tecnun.es/asignaturas/Informat1/AyudaInf/aprendainf/cpp/avanza
 (PDF)
 * **tags**: [free-programming-books](../tagged/free-programming-books.md), [c++](../tagged/c++.md), [free-programming-books-es](../tagged/free-programming-books-es.md)
 ---
+#### [Le langage C](https://zestedesavoir.com/tutoriels/755/le-langage-c-1/)
+_<sup>https://zestedesavoir.com/tutoriels/755/le-langage-c-1/</sup>_
+
+Informaticienzero, Taure, Paraze et Lucas-84
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [c++](../tagged/c++.md), [free-programming-books-fr](../tagged/free-programming-books-fr.md)
+---
+#### [Le C en 20 heures](http://framabook.org/le-c-en-20-heures-2/)
+_<sup>http://framabook.org/le-c-en-20-heures-2/</sup>_
+
+Eric Berthomier et Daniel Schang
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [c++](../tagged/c++.md), [free-programming-books-fr](../tagged/free-programming-books-fr.md)
+---
+#### [Cours de C/C++](http://casteyde.christian.free.fr/cpp/cours/online/book1.html)
+_<sup>http://casteyde.christian.free.fr/cpp/cours/online/book1.html</sup>_
+
+Christian Casteyde
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [c++](../tagged/c++.md), [free-programming-books-fr](../tagged/free-programming-books-fr.md)
+---
+#### [C++ moderne](http://guillaume.belz.free.fr/doku.php?id=programmez_avec_le_langage_c)
+_<sup>http://guillaume.belz.free.fr/doku.php?id=programmez_avec_le_langage_c</sup>_
+
+Guillaume Belz
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [c++](../tagged/c++.md), [free-programming-books-fr](../tagged/free-programming-books-fr.md)
+---
 #### [Thinking in C++, Second Edition, Vol. 1.](http://www.mindviewinc.com/downloads/TICPP-2nd-ed-Vol-one.zip)
 _<sup>http://www.mindviewinc.com/downloads/TICPP-2nd-ed-Vol-one.zip</sup>_
 

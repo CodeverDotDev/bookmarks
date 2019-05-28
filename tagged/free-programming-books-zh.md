@@ -1048,531 +1048,531 @@ _<sup>http://www.apkbus.com/design/index.html</sup>_
 #### [追求代码质量](http://www.ibm.com/developerworks/cn/java/j-cq/)
 _<sup>http://www.ibm.com/developerworks/cn/java/j-cq/</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [项目相关](../tagged/项目相关.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
 ---
 #### [让开发自动化系列专栏](http://www.ibm.com/developerworks/cn/java/j-ap/)
 _<sup>http://www.ibm.com/developerworks/cn/java/j-ap/</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [项目相关](../tagged/项目相关.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
 ---
 #### [编码规范](https://github.com/ecomfe/spec)
 _<sup>https://github.com/ecomfe/spec</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [项目相关](../tagged/项目相关.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
 ---
 #### [約耳談軟體(Joel on Software)](http://local.joelonsoftware.com/wiki/%E9%A6%96%E9%A0%81)
 _<sup>http://local.joelonsoftware.com/wiki/%E9%A6%96%E9%A0%81</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [项目相关](../tagged/项目相关.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
 ---
 #### [持续集成（第二版）](http://article.yeeyan.org/view/2251/94882)
 _<sup>http://article.yeeyan.org/view/2251/94882</sup>_
 
 (译言网)
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [项目相关](../tagged/项目相关.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
 ---
 #### [开源软件架构](http://www.ituring.com.cn/book/1143)
 _<sup>http://www.ituring.com.cn/book/1143</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [项目相关](../tagged/项目相关.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
 ---
 #### [selenium 中文文档](https://github.com/fool2fish/selenium-doc)
 _<sup>https://github.com/fool2fish/selenium-doc</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [项目相关](../tagged/项目相关.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
 ---
 #### [Joel谈软件](http://local.joelonsoftware.com/wiki/Chinese_(Simplified)
 _<sup>http://local.joelonsoftware.com/wiki/Chinese_(Simplified</sup>_
 
 )
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [项目相关](../tagged/项目相关.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
 ---
 #### [Gradle 中文使用文档](http://yuedu.baidu.com/ebook/f23af265998fcc22bcd10da2)
 _<sup>http://yuedu.baidu.com/ebook/f23af265998fcc22bcd10da2</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [项目相关](../tagged/项目相关.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
 ---
 #### [Gradle 2 用户指南](https://github.com/waylau/Gradle-2-User-Guide)
 _<sup>https://github.com/waylau/Gradle-2-User-Guide</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [项目相关](../tagged/项目相关.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
 ---
 #### [GNU make 指南](http://docs.huihoo.com/gnu/linux/gmake.html)
 _<sup>http://docs.huihoo.com/gnu/linux/gmake.html</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [项目相关](../tagged/项目相关.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
 ---
 #### [硝烟中的 Scrum 和 XP](http://www.infoq.com/cn/minibooks/scrum-xp-from-the-trenches)
 _<sup>http://www.infoq.com/cn/minibooks/scrum-xp-from-the-trenches</sup>_
 
-* **tags**: [软件开发方法](../tagged/软件开发方法.md), [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
+* **tags**: [methodology](../tagged/methodology.md), [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
 ---
 #### [图说设计模式](https://github.com/me115/design_patterns)
 _<sup>https://github.com/me115/design_patterns</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [设计模式](../tagged/设计模式.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [design-patterns](../tagged/design-patterns.md)
 ---
 #### [史上最全设计模式导学目录](http://blog.csdn.net/lovelion/article/details/17517213)
 _<sup>http://blog.csdn.net/lovelion/article/details/17517213</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [设计模式](../tagged/设计模式.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [design-patterns](../tagged/design-patterns.md)
 ---
 #### [OpenGL 教程](https://github.com/zilongshanren/opengl-tutorials)
 _<sup>https://github.com/zilongshanren/opengl-tutorials</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [计算机图形学](../tagged/计算机图形学.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [graphics](../tagged/graphics.md)
 ---
 #### [LearnOpenGL CN](https://learnopengl-cn.github.io)
 _<sup>https://learnopengl-cn.github.io</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [计算机图形学](../tagged/计算机图形学.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [graphics](../tagged/graphics.md)
 ---
 #### [笨方法学Vimscript 中译本](http://learnvimscriptthehardway.onefloweroneworld.com)
 _<sup>http://learnvimscriptthehardway.onefloweroneworld.com</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [编辑器](../tagged/编辑器.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [editor](../tagged/editor.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
 ---
 #### [所需即所获：像 IDE 一样使用 vim](https://github.com/yangyangwithgnu/use_vim_as_ide)
 _<sup>https://github.com/yangyangwithgnu/use_vim_as_ide</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [编辑器](../tagged/编辑器.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [editor](../tagged/editor.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
 ---
 #### [Vim中文文档](https://github.com/vimcn/vimcdoc)
 _<sup>https://github.com/vimcn/vimcdoc</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [编辑器](../tagged/编辑器.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [editor](../tagged/editor.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
 ---
 #### [exvim--vim 改良成IDE项目](http://exvim.github.io/docs-zh/intro/)
 _<sup>http://exvim.github.io/docs-zh/intro/</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [编辑器](../tagged/编辑器.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [editor](../tagged/editor.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
 ---
 #### [《计算机程序的结构和解释》公开课 翻译项目](https://github.com/DeathKing/Learning-SICP)
 _<sup>https://github.com/DeathKing/Learning-SICP</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [编译原理](../tagged/编译原理.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [compilation](../tagged/compilation.md)
 ---
 #### [编程入门指南](http://www.kancloud.cn/kancloud/intro-to-prog/52592)
 _<sup>http://www.kancloud.cn/kancloud/intro-to-prog/52592</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [编程艺术](../tagged/编程艺术.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
 ---
 #### [程序员编程艺术](https://github.com/julycoding/The-Art-Of-Programming-by-July)
 _<sup>https://github.com/julycoding/The-Art-Of-Programming-by-July</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [编程艺术](../tagged/编程艺术.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
 ---
 #### [每个程序员都应该了解的内存知识(译)](http://www.oschina.net/translate/what-every-programmer-should-know-about-memory-part1?print)
 _<sup>http://www.oschina.net/translate/what-every-programmer-should-know-about-memory-part1?print</sup>_
 
 【第一部分】
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [编程艺术](../tagged/编程艺术.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
 ---
 #### [取悦的工序：如何理解游戏](http://read.douban.com/ebook/4972883/)
 _<sup>http://read.douban.com/ebook/4972883/</sup>_
 
 (豆瓣阅读，免费书籍)
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [编程艺术](../tagged/编程艺术.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
 ---
 #### [Puppet 2.7 Cookbook 中文版](https://www.gitbook.com/book/wizardforcel/puppet-27-cookbook/details)
 _<sup>https://www.gitbook.com/book/wizardforcel/puppet-27-cookbook/details</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [管理和监控](../tagged/管理和监控.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [monitoring](../tagged/monitoring.md)
 ---
 #### [Mastering Elasticsearch(中文版)](http://udn.yyuap.com/doc/mastering-elasticsearch/)
 _<sup>http://udn.yyuap.com/doc/mastering-elasticsearch/</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [管理和监控](../tagged/管理和监控.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [monitoring](../tagged/monitoring.md)
 ---
 #### [Logstash 最佳实践](https://github.com/chenryn/logstash-best-practice-cn)
 _<sup>https://github.com/chenryn/logstash-best-practice-cn</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [管理和监控](../tagged/管理和监控.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [monitoring](../tagged/monitoring.md)
 ---
 #### [ELKstack 中文指南](http://kibana.logstash.es)
 _<sup>http://kibana.logstash.es</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [管理和监控](../tagged/管理和监控.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [monitoring](../tagged/monitoring.md)
 ---
 #### [Elasticsearch 权威指南（中文版）](http://es.xiaoleilu.com)
 _<sup>http://es.xiaoleilu.com</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [管理和监控](../tagged/管理和监控.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [monitoring](../tagged/monitoring.md)
 ---
 #### [ElasticSearch 权威指南](https://www.gitbook.com/book/fuxiaopang/learnelasticsearch/details)
 _<sup>https://www.gitbook.com/book/fuxiaopang/learnelasticsearch/details</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [管理和监控](../tagged/管理和监控.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [monitoring](../tagged/monitoring.md)
 ---
 #### [程序员的自我修养](http://www.kancloud.cn/kancloud/a-programmer-prepares)
 _<sup>http://www.kancloud.cn/kancloud/a-programmer-prepares</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [程序员杂谈](../tagged/程序员杂谈.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
 ---
 #### [猴子都能懂的GIT入门](http://backlogtool.com/git-guide/cn/)
 _<sup>http://backlogtool.com/git-guide/cn/</sup>_
 
-* **tags**: [版本控制](../tagged/版本控制.md), [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
+* **tags**: [version-control](../tagged/version-control.md), [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
 ---
 #### [沉浸式学 Git](http://igit.linuxtoy.org/index.html)
 _<sup>http://igit.linuxtoy.org/index.html</sup>_
 
-* **tags**: [版本控制](../tagged/版本控制.md), [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
+* **tags**: [version-control](../tagged/version-control.md), [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
 ---
 #### [学习 Git 分支](http://pcottle.github.io/learnGitBranching/)
 _<sup>http://pcottle.github.io/learnGitBranching/</sup>_
 
 (点击右下角按钮可切换至简体及正体中文)
-* **tags**: [版本控制](../tagged/版本控制.md), [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
+* **tags**: [version-control](../tagged/version-control.md), [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
 ---
 #### [svn 手册](http://svnbook.red-bean.com/nightly/zh/index.html)
 _<sup>http://svnbook.red-bean.com/nightly/zh/index.html</sup>_
 
-* **tags**: [版本控制](../tagged/版本控制.md), [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
+* **tags**: [version-control](../tagged/version-control.md), [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
 ---
 #### [Pro Git 中文版](https://www.gitbook.com/book/0532/progit/details)
 _<sup>https://www.gitbook.com/book/0532/progit/details</sup>_
 
 (整理在gitbook上)
-* **tags**: [版本控制](../tagged/版本控制.md), [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
+* **tags**: [version-control](../tagged/version-control.md), [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
 ---
 #### [Pro Git](https://git-scm.com/book/zh/v2)
 _<sup>https://git-scm.com/book/zh/v2</sup>_
 
-* **tags**: [版本控制](../tagged/版本控制.md), [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
+* **tags**: [version-control](../tagged/version-control.md), [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
 ---
 #### [Mercurial 使用教程](https://www.mercurial-scm.org/wiki/ChineseTutorial)
 _<sup>https://www.mercurial-scm.org/wiki/ChineseTutorial</sup>_
 
-* **tags**: [版本控制](../tagged/版本控制.md), [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
+* **tags**: [version-control](../tagged/version-control.md), [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
 ---
 #### [HgInit (中文版)](https://zh-hginit.readthedocs.io/en/latest/)
 _<sup>https://zh-hginit.readthedocs.io/en/latest/</sup>_
 
-* **tags**: [版本控制](../tagged/版本控制.md), [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
+* **tags**: [version-control](../tagged/version-control.md), [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
 ---
 #### [GotGitHub](http://www.worldhello.net/gotgithub/index.html)
 _<sup>http://www.worldhello.net/gotgithub/index.html</sup>_
 
-* **tags**: [版本控制](../tagged/版本控制.md), [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
+* **tags**: [version-control](../tagged/version-control.md), [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
 ---
 #### [Got GitHub](https://github.com/gotgit/gotgithub)
 _<sup>https://github.com/gotgit/gotgithub</sup>_
 
-* **tags**: [版本控制](../tagged/版本控制.md), [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
+* **tags**: [version-control](../tagged/version-control.md), [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
 ---
 #### [Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 _<sup>http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000</sup>_
 
 （本文由 [@廖雪峰](http://weibo.com/liaoxuefeng) 创作，如果觉得本教程对您有帮助，可以去 [iTunes](https://itunes.apple.com/cn/app/git-jiao-cheng/id876420437) 购买）
-* **tags**: [版本控制](../tagged/版本控制.md), [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
+* **tags**: [version-control](../tagged/version-control.md), [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
 ---
 #### [GitHub秘籍](https://snowdream86.gitbooks.io/github-cheat-sheet/content/zh/)
 _<sup>https://snowdream86.gitbooks.io/github-cheat-sheet/content/zh/</sup>_
 
-* **tags**: [版本控制](../tagged/版本控制.md), [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
+* **tags**: [version-control](../tagged/version-control.md), [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
 ---
 #### [Github帮助文档](https://github.com/waylau/github-help)
 _<sup>https://github.com/waylau/github-help</sup>_
 
-* **tags**: [版本控制](../tagged/版本控制.md), [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
+* **tags**: [version-control](../tagged/version-control.md), [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
 ---
 #### [Git 参考手册](http://gitref.justjavac.com)
 _<sup>http://gitref.justjavac.com</sup>_
 
-* **tags**: [版本控制](../tagged/版本控制.md), [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
+* **tags**: [version-control](../tagged/version-control.md), [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
 ---
 #### [Git magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/)
 _<sup>http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/</sup>_
 
-* **tags**: [版本控制](../tagged/版本控制.md), [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
+* **tags**: [version-control](../tagged/version-control.md), [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
 ---
 #### [git-flow 备忘清单](http://danielkummer.github.io/git-flow-cheatsheet/index.zh_CN.html)
 _<sup>http://danielkummer.github.io/git-flow-cheatsheet/index.zh_CN.html</sup>_
 
-* **tags**: [版本控制](../tagged/版本控制.md), [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
+* **tags**: [version-control](../tagged/version-control.md), [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
 ---
 #### [Git Community Book 中文版](http://gitbook.liuhui998.com)
 _<sup>http://gitbook.liuhui998.com</sup>_
 
-* **tags**: [版本控制](../tagged/版本控制.md), [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
+* **tags**: [version-control](../tagged/version-control.md), [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
 ---
 #### [Git-Cheat-Sheet](https://github.com/flyhigher139/Git-Cheat-Sheet)
 _<sup>https://github.com/flyhigher139/Git-Cheat-Sheet</sup>_
 
 （感谢 @flyhigher139 翻译了中文版）
-* **tags**: [版本控制](../tagged/版本控制.md), [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
+* **tags**: [version-control](../tagged/version-control.md), [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
 ---
 #### [Git - 简易指南](http://rogerdudler.github.io/git-guide/index.zh.html)
 _<sup>http://rogerdudler.github.io/git-guide/index.zh.html</sup>_
 
-* **tags**: [版本控制](../tagged/版本控制.md), [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
+* **tags**: [version-control](../tagged/version-control.md), [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
 ---
 #### [一步步搭建物联网系统](https://github.com/phodal/designiot)
 _<sup>https://github.com/phodal/designiot</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [智能系统](../tagged/智能系统.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [smart-system](../tagged/smart-system.md)
 ---
 #### [The Little MongoDB Book 中文版](https://github.com/justinyhuang/the-little-mongodb-book-cn)
 _<sup>https://github.com/justinyhuang/the-little-mongodb-book-cn</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [数据库](../tagged/数据库.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [database](../tagged/database.md)
 ---
 #### [鸟哥的 Linux 私房菜 服务器架设篇](http://cn.linux.vbird.org/linux_server/)
 _<sup>http://cn.linux.vbird.org/linux_server/</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [操作系统](../tagged/操作系统.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [operating-system](../tagged/operating-system.md)
 ---
 #### [鸟哥的 Linux 私房菜 基础学习篇](http://cn.linux.vbird.org/linux_basic/linux_basic.php)
 _<sup>http://cn.linux.vbird.org/linux_basic/linux_basic.php</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [操作系统](../tagged/操作系统.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [operating-system](../tagged/operating-system.md)
 ---
 #### [理解Linux进程](https://github.com/tobegit3hub/understand_linux_process)
 _<sup>https://github.com/tobegit3hub/understand_linux_process</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [操作系统](../tagged/操作系统.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [operating-system](../tagged/operating-system.md)
 ---
 #### [开源世界旅行手册](http://i.linuxtoy.org/docs/guide/index.html)
 _<sup>http://i.linuxtoy.org/docs/guide/index.html</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [操作系统](../tagged/操作系统.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [operating-system](../tagged/operating-system.md)
 ---
 #### [嵌入式 Linux 知识库 (eLinux.org 中文版)](https://tinylab.gitbooks.io/elinux/content/zh/)
 _<sup>https://tinylab.gitbooks.io/elinux/content/zh/</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [操作系统](../tagged/操作系统.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [operating-system](../tagged/operating-system.md)
 ---
 #### [命令行的艺术](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)
 _<sup>https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [操作系统](../tagged/操作系统.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [operating-system](../tagged/operating-system.md)
 ---
 #### [UNIX TOOLBOX](http://cb.vu/unixtoolbox_zh_CN.xhtml)
 _<sup>http://cb.vu/unixtoolbox_zh_CN.xhtml</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [操作系统](../tagged/操作系统.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [operating-system](../tagged/operating-system.md)
 ---
 #### [uCore Lab: Operating System Course in Tsinghua University](https://www.gitbook.com/book/objectkuan/ucore-docs/details)
 _<sup>https://www.gitbook.com/book/objectkuan/ucore-docs/details</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [操作系统](../tagged/操作系统.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [operating-system](../tagged/operating-system.md)
 ---
 #### [Ubuntu 参考手册 ](http://wiki.ubuntu.org.cn/UbuntuManual)
 _<sup>http://wiki.ubuntu.org.cn/UbuntuManual</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [操作系统](../tagged/操作系统.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [operating-system](../tagged/operating-system.md)
 ---
 #### [The Linux Command Line](http://billie66.github.io/TLCL/index.html)
 _<sup>http://billie66.github.io/TLCL/index.html</sup>_
 
 (中英文版)
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [操作系统](../tagged/操作系统.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [operating-system](../tagged/operating-system.md)
 ---
 #### [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 _<sup>http://pages.cs.wisc.edu/~remzi/OSTEP/</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [操作系统](../tagged/操作系统.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [operating-system](../tagged/operating-system.md)
 ---
 #### [Mac 开发配置手册](https://aaaaaashu.gitbooks.io/mac-dev-setup/content/)
 _<sup>https://aaaaaashu.gitbooks.io/mac-dev-setup/content/</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [操作系统](../tagged/操作系统.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [operating-system](../tagged/operating-system.md)
 ---
 #### [Linux工具快速教程](https://github.com/me115/linuxtools_rst)
 _<sup>https://github.com/me115/linuxtools_rst</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [操作系统](../tagged/操作系统.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [operating-system](../tagged/operating-system.md)
 ---
 #### [Linux 系统高级编程](http://sourceforge.net/projects/elpi/)
 _<sup>http://sourceforge.net/projects/elpi/</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [操作系统](../tagged/操作系统.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [operating-system](../tagged/operating-system.md)
 ---
 #### [Linux 构建指南](http://works.jinbuguo.com/lfs/lfs62/index.html)
 _<sup>http://works.jinbuguo.com/lfs/lfs62/index.html</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [操作系统](../tagged/操作系统.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [operating-system](../tagged/operating-system.md)
 ---
 #### [Linux Guide for Complete Beginners](http://happypeter.github.io/LGCB/book/)
 _<sup>http://happypeter.github.io/LGCB/book/</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [操作系统](../tagged/操作系统.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [operating-system](../tagged/operating-system.md)
 ---
 #### [Linux Documentation (中文版)](https://tinylab.gitbooks.io/linux-doc/content/zh-cn/)
 _<sup>https://tinylab.gitbooks.io/linux-doc/content/zh-cn/</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [操作系统](../tagged/操作系统.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [operating-system](../tagged/operating-system.md)
 ---
 #### [FreeRADIUS新手入门](http://freeradius.akagi201.org)
 _<sup>http://freeradius.akagi201.org</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [操作系统](../tagged/操作系统.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [operating-system](../tagged/operating-system.md)
 ---
 #### [FreeBSD 使用手册](http://www.freebsd.org/doc/zh_CN.UTF-8/books/handbook/)
 _<sup>http://www.freebsd.org/doc/zh_CN.UTF-8/books/handbook/</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [操作系统](../tagged/操作系统.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [operating-system](../tagged/operating-system.md)
 ---
 #### [Docker入门实战](http://yuedu.baidu.com/ebook/d817967416fc700abb68fca1)
 _<sup>http://yuedu.baidu.com/ebook/d817967416fc700abb68fca1</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [操作系统](../tagged/操作系统.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [operating-system](../tagged/operating-system.md)
 ---
 #### [Docker中文指南](https://github.com/widuu/chinese_docker)
 _<sup>https://github.com/widuu/chinese_docker</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [操作系统](../tagged/操作系统.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [operating-system](../tagged/operating-system.md)
 ---
 #### [Docker —— 从入门到实践](https://github.com/yeasy/docker_practice)
 _<sup>https://github.com/yeasy/docker_practice</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [操作系统](../tagged/操作系统.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [operating-system](../tagged/operating-system.md)
 ---
 #### [Debian 参考手册 ](http://man.chinaunix.net/linux/debian/reference/reference.zh-cn.html)
 _<sup>http://man.chinaunix.net/linux/debian/reference/reference.zh-cn.html</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [操作系统](../tagged/操作系统.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [operating-system](../tagged/operating-system.md)
 ---
 #### [面向程序员的数据挖掘指南](http://dataminingguide.books.yourtion.com)
 _<sup>http://dataminingguide.books.yourtion.com</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [大数据](../tagged/大数据.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [bigdata](../tagged/bigdata.md)
 ---
 #### [数据挖掘中经典的算法实现和详细的注释](https://github.com/linyiqun/DataMiningAlgorithm)
 _<sup>https://github.com/linyiqun/DataMiningAlgorithm</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [大数据](../tagged/大数据.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [bigdata](../tagged/bigdata.md)
 ---
 #### [大数据/数据挖掘/推荐系统/机器学习相关资源](https://github.com/Flowerowl/Big-Data-Resources)
 _<sup>https://github.com/Flowerowl/Big-Data-Resources</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [大数据](../tagged/大数据.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [bigdata](../tagged/bigdata.md)
 ---
 #### [大型集群上的快速和通用数据处理架构](https://code.csdn.net/CODE_Translation/spark_matei_phd)
 _<sup>https://code.csdn.net/CODE_Translation/spark_matei_phd</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [大数据](../tagged/大数据.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [bigdata](../tagged/bigdata.md)
 ---
 #### [Spark 编程指南简体中文版](https://aiyanbo.gitbooks.io/spark-programming-guide-zh-cn/content/)
 _<sup>https://aiyanbo.gitbooks.io/spark-programming-guide-zh-cn/content/</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [大数据](../tagged/大数据.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [bigdata](../tagged/bigdata.md)
 ---
 #### [计蒜客](http://www.jisuanke.com)
 _<sup>http://www.jisuanke.com</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [在线教育](../tagged/在线教育.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [online-education](../tagged/online-education.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
 ---
 #### [汇智网](http://www.hubwiz.com)
 _<sup>http://www.hubwiz.com</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [在线教育](../tagged/在线教育.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [online-education](../tagged/online-education.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
 ---
 #### [极客学院](http://www.jikexueyuan.com)
 _<sup>http://www.jikexueyuan.com</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [在线教育](../tagged/在线教育.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [online-education](../tagged/online-education.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
 ---
 #### [慕课网](http://www.imooc.com/course/list)
 _<sup>http://www.imooc.com/course/list</sup>_
 
 (丰富的移动端开发、php开发、web前端、html5教程以及css3视频教程等课程资源)
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [在线教育](../tagged/在线教育.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [online-education](../tagged/online-education.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
 ---
 #### [xuetangX](https://www.xuetangx.com)
 _<sup>https://www.xuetangx.com</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [在线教育](../tagged/在线教育.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [online-education](../tagged/online-education.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
 ---
 #### [Udacity](https://www.udacity.com)
 _<sup>https://www.udacity.com</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [在线教育](../tagged/在线教育.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [online-education](../tagged/online-education.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
 ---
 #### [TeamTreeHouse](https://teamtreehouse.com)
 _<sup>https://teamtreehouse.com</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [在线教育](../tagged/在线教育.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [online-education](../tagged/online-education.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
 ---
 #### [shiyanlou](https://www.shiyanlou.com)
 _<sup>https://www.shiyanlou.com</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [在线教育](../tagged/在线教育.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [online-education](../tagged/online-education.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
 ---
 #### [Learn X in Y minutes](https://learnxinyminutes.com)
 _<sup>https://learnxinyminutes.com</sup>_
 
 (数十种语言快速入门教程)
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [在线教育](../tagged/在线教育.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [online-education](../tagged/online-education.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
 ---
 #### [Coursera](https://www.coursera.org/courses?orderby=upcoming&lngs=zh)
 _<sup>https://www.coursera.org/courses?orderby=upcoming&lngs=zh</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [在线教育](../tagged/在线教育.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [online-education](../tagged/online-education.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
 ---
 #### [CodeSchool](https://www.codeschool.com)
 _<sup>https://www.codeschool.com</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [在线教育](../tagged/在线教育.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [online-education](../tagged/online-education.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
 ---
 #### [Codecademy](https://www.codecademy.com/?locale_code=zh)
 _<sup>https://www.codecademy.com/?locale_code=zh</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [在线教育](../tagged/在线教育.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [online-education](../tagged/online-education.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
 ---
 #### [51CTO学院](http://edu.51cto.com)
 _<sup>http://edu.51cto.com</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [在线教育](../tagged/在线教育.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [online-education](../tagged/online-education.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
 ---
 #### [走向分布式](http://dcaoyuan.github.io/papers/pdfs/Scalability.pdf)
 _<sup>http://dcaoyuan.github.io/papers/pdfs/Scalability.pdf</sup>_
 
 (PDF)
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [分布式系统](../tagged/分布式系统.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [distributed-system](../tagged/distributed-system.md)
 ---
 #### [傻瓜函数编程](https://github.com/justinyhuang/Functional-Programming-For-The-Rest-of-Us-Cn)
 _<sup>https://github.com/justinyhuang/Functional-Programming-For-The-Rest-of-Us-Cn</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [函数式概念](../tagged/函数式概念.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [functional-programming](../tagged/functional-programming.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
 ---
 #### [深入理解并行编程](http://ifeve.com/perfbook/)
 _<sup>http://ifeve.com/perfbook/</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [其它](../tagged/其它.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
 ---
 #### [Sketch 中文手册](http://sketchcn.com/sketch-chinese-user-manual.html#introduce)
 _<sup>http://sketchcn.com/sketch-chinese-user-manual.html#introduce</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [其它](../tagged/其它.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
 ---
 #### [SAN 管理入门系列](https://community.emc.com/docs/DOC-16067)
 _<sup>https://community.emc.com/docs/DOC-16067</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [其它](../tagged/其它.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
 ---
 #### [OpenWrt智能、自动、透明翻墙路由器教程](https://softwaredownload.gitbooks.io/openwrt-fanqiang/content/)
 _<sup>https://softwaredownload.gitbooks.io/openwrt-fanqiang/content/</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [其它](../tagged/其它.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
 ---
 #### [Nginx教程从入门到精通](http://www.ttlsa.com/nginx/nginx-stu-pdf/)
 _<sup>http://www.ttlsa.com/nginx/nginx-stu-pdf/</sup>_
 
 (PDF版本，运维生存时间出品)
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [web服务器](../tagged/web服务器.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
 ---
 #### [Nginx开发从入门到精通](http://tengine.taobao.org/book/index.html)
 _<sup>http://tengine.taobao.org/book/index.html</sup>_
 
 (淘宝团队出品)
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [web服务器](../tagged/web服务器.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
 ---
 #### [Apache 中文手册](http://works.jinbuguo.com/apache/menu22/index.html)
 _<sup>http://works.jinbuguo.com/apache/menu22/index.html</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md), [web服务器](../tagged/web服务器.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-zh](../tagged/free-programming-books-zh.md)
 ---
 #### [移动前端开发收藏夹](https://github.com/hoosin/mobile-web-favorites)
 _<sup>https://github.com/hoosin/mobile-web-favorites</sup>_

@@ -59,6 +59,28 @@ _<sup>http://nagygusztav.hu/webes-szabvanyok</sup>_
 Chris Mills, Ben Buchanan, Tom Hughes-Croucher, Mark Norman "Norm" Francis, Linda Goin, Paul Haine, Jen Hanen, Benjamin Hawkes-Lewis, Ben Henick, Christian Heilmann, Roger Johansson, Peter-Paul Koch, ...
 * **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-hu](../tagged/free-programming-books-hu.md), [html](../tagged/html.md), [css](../tagged/css.md)
 ---
+#### [Self HTML](https://wiki.selfhtml.org/wiki/Startseite)
+_<sup>https://wiki.selfhtml.org/wiki/Startseite</sup>_
+
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-de](../tagged/free-programming-books-de.md), [html](../tagged/html.md)
+---
+#### [HTML5-Handbuch](http://webkompetenz.wikidot.com/docs:html-handbuch)
+_<sup>http://webkompetenz.wikidot.com/docs:html-handbuch</sup>_
+
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-de](../tagged/free-programming-books-de.md), [html](../tagged/html.md)
+---
+#### [HTML](http://www.peterkropff.de/site/html/html.htm)
+_<sup>http://www.peterkropff.de/site/html/html.htm</sup>_
+
+— Peter Kropff [Online, PDF]
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-de](../tagged/free-programming-books-de.md), [html](../tagged/html.md)
+---
+#### [CSS](http://www.peterkropff.de/site/css/css.htm)
+_<sup>http://www.peterkropff.de/site/css/css.htm</sup>_
+
+— Peter Kropff (Grundlagen, OOP, MySQLi, PDO) [Online, PDF]
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-de](../tagged/free-programming-books-de.md), [html](../tagged/html.md)
+---
 #### [HTML](http://ilkaddimlar.com/HTML/36/Esas-aletler-El-ile-islemeyi-oyrenirik)
 _<sup>http://ilkaddimlar.com/HTML/36/Esas-aletler-El-ile-islemeyi-oyrenirik</sup>_
 
@@ -116,6 +138,11 @@ _<sup>http://canoro.altervista.org/guide/html/GuidaHTML22.pdf</sup>_
 
 (PDF)
 * **tags**: [free-programming-books](../tagged/free-programming-books.md), [html](../tagged/html.md), [free-programming-books-it](../tagged/free-programming-books-it.md)
+---
+#### [Belajar HTML dan CSS](http://www.ariona.net/ebook-belajar-html-dan-css/)
+_<sup>http://www.ariona.net/ebook-belajar-html-dan-css/</sup>_
+
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [html](../tagged/html.md), [free-programming-books-id](../tagged/free-programming-books-id.md)
 ---
 #### [Twitter Bootstrap Succinctly](https://www.syncfusion.com/resources/techportal/ebooks/twitterbootstrap)
 _<sup>https://www.syncfusion.com/resources/techportal/ebooks/twitterbootstrap</sup>_

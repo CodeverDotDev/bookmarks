@@ -6,6 +6,6 @@ _<sup><sup>[www.bookmarks.dev/tagged/chess](https://www.bookmarks.dev/tagged/che
 _<sup>https://github.com/hkirat/awesome-chess#readme</sup>_
 
 Chess! Contribute to hkirat/awesome-chess development by creating an account on GitHub.
-* **tags**: [awesome-list](../tagged/awesome-list.md), [game-dev](../tagged/game-dev.md), [chess](../tagged/chess.md)
+* **tags**: [awesome-list](../tagged/awesome-list.md), [game-development](../tagged/game-development.md), [chess](../tagged/chess.md)
 * :octocat: **[source code](https://github.com/hkirat/awesome-chess#readme)**
 ---

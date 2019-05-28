@@ -27,14 +27,14 @@ An attempt to get GraphQL going with Scala.
 _<sup>https://github.com/sangria-graphql/sangria-akka-http-example</sup>_
 
 An example GraphQL server written with akka-http and [sangria](https://sangria-graphql.org/)
-* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [scala](../tagged/scala.md), [examples](../tagged/examples.md)
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [scala](../tagged/scala.md)
 * :octocat: **[source code](https://github.com/sangria-graphql/sangria-akka-http-example)**
 ---
 #### [sangria-playground](https://github.com/sangria-graphql/sangria-playground)
 _<sup>https://github.com/sangria-graphql/sangria-playground</sup>_
 
 An example of GraphQL server written with Play and sangria.
-* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [scala](../tagged/scala.md), [examples](../tagged/examples.md)
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [scala](../tagged/scala.md)
 * :octocat: **[source code](https://github.com/sangria-graphql/sangria-playground)**
 ---
 #### [awesome-scala](https://github.com/lauris/awesome-scala#readme)

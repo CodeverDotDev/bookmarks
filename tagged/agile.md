@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/agile](https://www.bookmarks.dev/tagged/agile)</sup></sup>_
 ---
+#### [Lean Coffee   Jim Benson - YouTube](https://www.youtube.com/watch?v=d0VBsZOBc_0)
+_<sup>https://www.youtube.com/watch?v=d0VBsZOBc_0</sup>_
+
+Clear explanation of Lean Coffee procedure
+* :calendar: **published on**: 2015-07-21
+* **tags**: [agile](../tagged/agile.md)
+---
 #### [Exploring Key Elements of Spotify's Agile Scaling Model - Scaling Agile Tool for Scaled Agile Framework, Large Scale Scrum, Program Increments, Nexus Scrum.org and Scrum of Scrum](https://kendis.io/spotify/exploring-key-elements-spotifys-agile-scaling-model/)
 _<sup>https://kendis.io/spotify/exploring-key-elements-spotifys-agile-scaling-model/</sup>_
 
@@ -46,6 +53,13 @@ _<sup>https://www.scrumguides.org/</sup>_
 
 Scrum is a framework for developing and sustaining complex products. This Guide contains the definition of Scrum. This definition consists of Scrum’s roles, events, artifacts, and the rules that bind ...
 * **tags**: [scrum](../tagged/scrum.md), [agile](../tagged/agile.md)
+---
+#### [Agile Is The New Waterfall – The Startup – Medium](https://medium.com/swlh/agile-is-the-new-waterfall-f7baef5d026d)
+_<sup>https://medium.com/swlh/agile-is-the-new-waterfall-f7baef5d026d</sup>_
+
+Critical view on agile development...
+* :calendar: **published on**: 2015-10-13
+* **tags**: [agile](../tagged/agile.md)
 ---
 #### [Agile is not now, nor was it ever, Waterfall. | 8th Light](https://8thlight.com/blog/uncle-bob/2015/10/16/agile-and-waterfall.html)
 _<sup>https://8thlight.com/blog/uncle-bob/2015/10/16/agile-and-waterfall.html</sup>_

@@ -55,7 +55,7 @@ GraphQL parser and resolver for Elixir.
 _<sup>https://github.com/graphql-elixir/hello_graphql_phoenix</sup>_
 
 Examples of GraphQL Elixir Plug endpoints mounted in Phoenix - [View demo online](http://playground.graphql-elixir.org).
-* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [elixir](../tagged/elixir.md), [examples](../tagged/examples.md)
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [elixir](../tagged/elixir.md)
 * :octocat: **[source code](https://github.com/graphql-elixir/hello_graphql_phoenix)**
 ---
 #### [awesome-elixir](https://github.com/h4cc/awesome-elixir#readme)

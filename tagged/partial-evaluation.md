@@ -6,5 +6,5 @@ _<sup><sup>[www.bookmarks.dev/tagged/partial-evaluation](https://www.bookmarks.d
 _<sup>http://www.itu.dk/people/sestoft/pebook/</sup>_
 
 (PDF) Jones, Gomard and Sestoft
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [language-agnostic](../tagged/language-agnostic.md), [partial-evaluation](../tagged/partial-evaluation.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [partial-evaluation](../tagged/partial-evaluation.md)
 ---

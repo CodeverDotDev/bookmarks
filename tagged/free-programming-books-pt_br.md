@@ -342,25 +342,25 @@ _<sup>http://www.slideshare.net/bismarckjunior/aprendendo-git</sup>_
 #### [Primeiros passos com Padrões de Projeto](https://leanpub.com/primeiros-passos-com-padroes-de-projeto/)
 _<sup>https://leanpub.com/primeiros-passos-com-padroes-de-projeto/</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [outros](../tagged/outros.md), [free-programming-books-pt_br](../tagged/free-programming-books-pt_br.md), [engenharia-de-software](../tagged/engenharia-de-software.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [outros](../tagged/outros.md), [free-programming-books-pt_br](../tagged/free-programming-books-pt_br.md)
 ---
 #### [Scrum e XP direto das Trincheiras](http://www.infoq.com/br/minibooks/scrum-xp-from-the-trenches)
 _<sup>http://www.infoq.com/br/minibooks/scrum-xp-from-the-trenches</sup>_
 
 *(account required)*
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [metodologias-de-desenvolvimento-de-software](../tagged/metodologias-de-desenvolvimento-de-software.md), [free-programming-books-pt_br](../tagged/free-programming-books-pt_br.md), [engenharia-de-software](../tagged/engenharia-de-software.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-pt_br](../tagged/free-programming-books-pt_br.md)
 ---
 #### [Kanban em 10 Passos](http://www.infoq.com/br/minibooks/priming-kanban-jesper-boeg)
 _<sup>http://www.infoq.com/br/minibooks/priming-kanban-jesper-boeg</sup>_
 
 *(account required)*
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [metodologias-de-desenvolvimento-de-software](../tagged/metodologias-de-desenvolvimento-de-software.md), [free-programming-books-pt_br](../tagged/free-programming-books-pt_br.md), [engenharia-de-software](../tagged/engenharia-de-software.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-pt_br](../tagged/free-programming-books-pt_br.md)
 ---
 #### [Kanban e Scrum - obtendo o melhor de ambos](http://www.infoq.com/br/minibooks/kanban-scrum-minibook)
 _<sup>http://www.infoq.com/br/minibooks/kanban-scrum-minibook</sup>_
 
 *(account required)*
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [metodologias-de-desenvolvimento-de-software](../tagged/metodologias-de-desenvolvimento-de-software.md), [free-programming-books-pt_br](../tagged/free-programming-books-pt_br.md), [engenharia-de-software](../tagged/engenharia-de-software.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-pt_br](../tagged/free-programming-books-pt_br.md)
 ---
 #### [Programação Orientada a Objetos em C++](http://webserver2.tecgraf.puc-rio.br/~manuel/Download/Programacao%20Orientada%20a%20Objetos%20em%20C++.pdf)
 _<sup>http://webserver2.tecgraf.puc-rio.br/~manuel/Download/Programacao%20Orientada%20a%20Objetos%20em%20C...</sup>_
@@ -442,85 +442,85 @@ K19
 #### [Vim](#vim)
 _<sup>#vim</sup>_
 
-* **tags**: [índice](../tagged/índice.md), [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-pt_br](../tagged/free-programming-books-pt_br.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-pt_br](../tagged/free-programming-books-pt_br.md)
 ---
 #### [Shell Script](#shell)
 _<sup>#shell</sup>_
 
-* **tags**: [índice](../tagged/índice.md), [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-pt_br](../tagged/free-programming-books-pt_br.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-pt_br](../tagged/free-programming-books-pt_br.md)
 ---
 #### [Ruby](#ruby)
 _<sup>#ruby</sup>_
 
-* **tags**: [índice](../tagged/índice.md), [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-pt_br](../tagged/free-programming-books-pt_br.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-pt_br](../tagged/free-programming-books-pt_br.md)
 ---
 #### [RegEx](#regex)
 _<sup>#regex</sup>_
 
-* **tags**: [índice](../tagged/índice.md), [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-pt_br](../tagged/free-programming-books-pt_br.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-pt_br](../tagged/free-programming-books-pt_br.md)
 ---
 #### [Perl](#perl)
 _<sup>#perl</sup>_
 
-* **tags**: [índice](../tagged/índice.md), [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-pt_br](../tagged/free-programming-books-pt_br.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-pt_br](../tagged/free-programming-books-pt_br.md)
 ---
 #### [Lua](#lua)
 _<sup>#lua</sup>_
 
-* **tags**: [índice](../tagged/índice.md), [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-pt_br](../tagged/free-programming-books-pt_br.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-pt_br](../tagged/free-programming-books-pt_br.md)
 ---
 #### [LISP](#lisp)
 _<sup>#lisp</sup>_
 
-* **tags**: [índice](../tagged/índice.md), [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-pt_br](../tagged/free-programming-books-pt_br.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-pt_br](../tagged/free-programming-books-pt_br.md)
 ---
 #### [JavaScript](#javascript)
 _<sup>#javascript</sup>_
 
-* **tags**: [índice](../tagged/índice.md), [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-pt_br](../tagged/free-programming-books-pt_br.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-pt_br](../tagged/free-programming-books-pt_br.md)
 ---
 #### [Java](#java)
 _<sup>#java</sup>_
 
-* **tags**: [índice](../tagged/índice.md), [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-pt_br](../tagged/free-programming-books-pt_br.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-pt_br](../tagged/free-programming-books-pt_br.md)
 ---
 #### [HTML / CSS](#html--css)
 _<sup>#html--css</sup>_
 
-* **tags**: [índice](../tagged/índice.md), [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-pt_br](../tagged/free-programming-books-pt_br.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-pt_br](../tagged/free-programming-books-pt_br.md)
 ---
 #### [Git](#git)
 _<sup>#git</sup>_
 
-* **tags**: [índice](../tagged/índice.md), [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-pt_br](../tagged/free-programming-books-pt_br.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-pt_br](../tagged/free-programming-books-pt_br.md)
 ---
 #### [Outros](#outros)
 _<sup>#outros</sup>_
 
-* **tags**: [índice](../tagged/índice.md), [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-pt_br](../tagged/free-programming-books-pt_br.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-pt_br](../tagged/free-programming-books-pt_br.md)
 ---
 #### [Metodologias de Desenvolvimento de Software](#metodologias-de-desenvolvimento-de-software)
 _<sup>#metodologias-de-desenvolvimento-de-software</sup>_
 
-* **tags**: [índice](../tagged/índice.md), [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-pt_br](../tagged/free-programming-books-pt_br.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-pt_br](../tagged/free-programming-books-pt_br.md)
 ---
 #### [Engenharia de software](#engenharia-de-software)
 _<sup>#engenharia-de-software</sup>_
 
-* **tags**: [índice](../tagged/índice.md), [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-pt_br](../tagged/free-programming-books-pt_br.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-pt_br](../tagged/free-programming-books-pt_br.md)
 ---
 #### [C++](#c-1)
 _<sup>#c-1</sup>_
 
-* **tags**: [índice](../tagged/índice.md), [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-pt_br](../tagged/free-programming-books-pt_br.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-pt_br](../tagged/free-programming-books-pt_br.md)
 ---
 #### [C](#c)
 _<sup>#c</sup>_
 
-* **tags**: [índice](../tagged/índice.md), [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-pt_br](../tagged/free-programming-books-pt_br.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-pt_br](../tagged/free-programming-books-pt_br.md)
 ---
 #### [Android](#android)
 _<sup>#android</sup>_
 
-* **tags**: [índice](../tagged/índice.md), [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-pt_br](../tagged/free-programming-books-pt_br.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-pt_br](../tagged/free-programming-books-pt_br.md)
 ---

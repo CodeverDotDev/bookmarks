@@ -20,7 +20,7 @@ GraphQL implementation in pure Clojure.
 _<sup>https://github.com/walmartlabs/clojure-game-geek</sup>_
 
 Example code for the Lacinia GraphQL framework tutorial.
-* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [clojure](../tagged/clojure.md), [examples](../tagged/examples.md)
+* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [clojure](../tagged/clojure.md)
 * :octocat: **[source code](https://github.com/walmartlabs/clojure-game-geek)**
 ---
 #### [awesome-clojure](https://github.com/razum2um/awesome-clojure#readme)

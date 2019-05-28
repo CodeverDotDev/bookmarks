@@ -109,7 +109,7 @@ _<sup>https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-accou
 $ pbcopy < ~/.ssh/id_rsa.pub
  Copies the contents of the id_rsa.pub file to your clipboard
 ```
-* **tags**: [git](../tagged/git.md), [ssh](../tagged/ssh.md), [utils](../tagged/utils.md)
+* **tags**: [git](../tagged/git.md), [ssh](../tagged/ssh.md)
 ---
 #### [How to build the right smoke test REST service in Java EE with Maven – CodingpediaOrg](http://www.codingpedia.org/ama/how-to-build-the-right-smoke-test-rest-service-in-java-ee-with-maven)
 _<sup>http://www.codingpedia.org/ama/how-to-build-the-right-smoke-test-rest-service-in-java-ee-with-maven</sup>_

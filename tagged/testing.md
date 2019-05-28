@@ -200,7 +200,7 @@ Generate random datetime / time.
 _<sup>https://github.com/ajalt/fuckitpy</sup>_
 
 FuckIt.py uses state-of-the-art technology to make sure your Python code runs whether it has any right to or not.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [testing](../tagged/testing.md), [error-handler](../tagged/error-handler.md)
+* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [testing](../tagged/testing.md), [error-handling](../tagged/error-handling.md)
 * :octocat: **[source code](https://github.com/ajalt/fuckitpy)**
 ---
 #### [mocha](https://github.com/mochajs/mocha)

@@ -18,7 +18,7 @@ _<sup>https://uk.wikibooks.org/wiki/Пориньте_у_Python_3</sup>_
 _<sup>http://designpatterns.andriybuday.com</sup>_
 
 А. Будай
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [language-agnostic](../tagged/language-agnostic.md), [free-programming-books-ua](../tagged/free-programming-books-ua.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-ua](../tagged/free-programming-books-ua.md)
 ---
 #### [Розуміння ECMAScript 6](http://understandinges6.denysdovhan.com)
 _<sup>http://understandinges6.denysdovhan.com</sup>_

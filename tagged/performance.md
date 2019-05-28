@@ -126,6 +126,18 @@ _<sup>https://aws.amazon.com/blogs/architecture/exponential-backoff-and-jitter/<
 * :calendar: **published on**: 2015-03-04
 * **tags**: [scalability](../tagged/scalability.md), [performance](../tagged/performance.md)
 ---
+#### [正規表現メモ](http://www.kt.rim.or.jp/~kbk/regex/regex.html)
+_<sup>http://www.kt.rim.or.jp/~kbk/regex/regex.html</sup>_
+
+木村浩一
+* **tags**: [free-programming-books-ja](../tagged/free-programming-books-ja.md), [free-programming-books](../tagged/free-programming-books.md), [performance](../tagged/performance.md), [speech](../tagged/speech.md)
+---
+#### [.NET Framework の正規表現](https://msdn.microsoft.com/library/hs600312.aspx)
+_<sup>https://msdn.microsoft.com/library/hs600312.aspx</sup>_
+
+MSDN Library
+* **tags**: [free-programming-books-ja](../tagged/free-programming-books-ja.md), [free-programming-books](../tagged/free-programming-books.md), [performance](../tagged/performance.md), [speech](../tagged/speech.md)
+---
 #### [GitHub - mgechev/angular-performance-checklist: Cheatsheet for developing ⚡lightning⚡ fast Angular applications.](https://github.com/mgechev/angular-performance-checklist)
 _<sup>https://github.com/mgechev/angular-performance-checklist</sup>_
 

@@ -9,3 +9,9 @@ A curated list of awesome Assembler. Contribute to lurumdare/awesome-asm develop
 * **tags**: [awesome-list](../tagged/awesome-list.md), [programming-languages](../tagged/programming-languages.md), [assembler](../tagged/assembler.md)
 * :octocat: **[source code](https://github.com/jaspergould/awesome-asm#readme)**
 ---
+#### [Código de Máquina para Principiantes [Z80 and 6502 CPUs](http://www.worldofspectrum.org/infoseekid.cgi?id=2000227)
+_<sup>http://www.worldofspectrum.org/infoseekid.cgi?id=2000227</sup>_
+
+Lisa Watts y Mike Wharton (PDF)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-es](../tagged/free-programming-books-es.md), [assembler](../tagged/assembler.md)
+---

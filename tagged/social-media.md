@@ -2,6 +2,14 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/social-media](https://www.bookmarks.dev/tagged/social-media)</sup></sup>_
 ---
+#### [Angular 2+ Social Sharing Buttons for Facebook, Google Plus, Twitter, LinkedIn and Pinterest](https://jasonwatmore.com/post/2018/06/01/angular-2-social-sharing-buttons-for-facebook-google-plus-twitter-linkedin-and-pinterest)
+_<sup>https://jasonwatmore.com/post/2018/06/01/angular-2-social-sharing-buttons-for-facebook-google-plus-t...</sup>_
+
+Social sharing buttons for Angular 2+ available on npm. Buttons include Facebook Like, Google Plus, Twitter, LinkedIn and Pinterest.
+* :calendar: **published on**: 2018-06-01
+* **tags**: [angular](../tagged/angular.md), [social-media](../tagged/social-media.md)
+* :octocat: **[source code](https://github.com/cornflourblue/jw-angular-social-buttons)**
+---
 #### [awesome-shareable-links](https://github.com/vinkla/shareable-links#readme)
 _<sup>https://github.com/vinkla/shareable-links#readme</sup>_
 

@@ -444,7 +444,7 @@ In computer systems security, **role-based access control (RBAC** is an approach
 _<sup>https://www.splunk.com/pdfs/ebooks/the-essential-guide-to-machine-data.pdf</sup>_
 
 Whatever you call it, machine data is one of the most underused and undervalued assets of any organization. And, unfortunately, it’s usually kept for some minimum amount of time before being tossed ou...
-* **tags**: [security](../tagged/security.md), [splunk](../tagged/splunk.md), [big-data](../tagged/big-data.md), [cloud](../tagged/cloud.md)
+* **tags**: [security](../tagged/security.md), [splunk](../tagged/splunk.md), [bigdata](../tagged/bigdata.md), [cloud](../tagged/cloud.md)
 ---
 #### [An Introduction To Securing a Cloud Environment](https://www.sans.org/reading-room/whitepapers/cloud/introduction-securing-cloud-environment-34052)
 _<sup>https://www.sans.org/reading-room/whitepapers/cloud/introduction-securing-cloud-environment-34052</sup>_
@@ -675,46 +675,94 @@ _<sup>http://librebooks.org/secure-wireless-networks-for-home-users/</sup>_
 
 * **tags**: [free-programming-books](../tagged/free-programming-books.md), [security](../tagged/security.md), [free-programming-books-ar](../tagged/free-programming-books-ar.md)
 ---
+#### [暗号化アルゴリズム](http://fussy.web.fc2.com/algo/algo9-1.htm)
+_<sup>http://fussy.web.fc2.com/algo/algo9-1.htm</sup>_
+
+Fussy ([2](http://fussy.web.fc2.com/algo/algo9-2.htm)),  ([3](http://fussy.web.fc2.com/algo/algo9-3.htm)), ([4](http://fussy.web.fc2.com/algo/cipher4_elgamal.htm))
+* **tags**: [free-programming-books-ja](../tagged/free-programming-books-ja.md), [free-programming-books](../tagged/free-programming-books.md), [security](../tagged/security.md), [speech](../tagged/speech.md)
+---
+#### [安全なウェブサイトの作り方](http://www.ipa.go.jp/files/000017316.pdf)
+_<sup>http://www.ipa.go.jp/files/000017316.pdf</sup>_
+
+独立行政法人 情報処理推進機構(IPA) (PDF)
+* **tags**: [free-programming-books-ja](../tagged/free-programming-books-ja.md), [free-programming-books](../tagged/free-programming-books.md), [security](../tagged/security.md), [speech](../tagged/speech.md)
+---
+#### [安全なSQLの呼び出し方](http://www.ipa.go.jp/files/000017320.pdf)
+_<sup>http://www.ipa.go.jp/files/000017320.pdf</sup>_
+
+独立行政法人 情報処理推進機構(IPA) (PDF)
+* **tags**: [free-programming-books-ja](../tagged/free-programming-books-ja.md), [free-programming-books](../tagged/free-programming-books.md), [security](../tagged/security.md), [speech](../tagged/speech.md)
+---
+#### [はやわかり RSA](http://www.mew.org/~kazu/doc/rsa.html)
+_<sup>http://www.mew.org/~kazu/doc/rsa.html</sup>_
+
+山本和彦
+* **tags**: [free-programming-books-ja](../tagged/free-programming-books-ja.md), [free-programming-books](../tagged/free-programming-books.md), [security](../tagged/security.md), [speech](../tagged/speech.md)
+---
+#### [ネットワークプログラミングの基礎知識](http://x68000.q-e-d.net/~68user/net/)
+_<sup>http://x68000.q-e-d.net/~68user/net/</sup>_
+
+68user
+* **tags**: [free-programming-books-ja](../tagged/free-programming-books-ja.md), [free-programming-books](../tagged/free-programming-books.md), [security](../tagged/security.md), [speech](../tagged/speech.md)
+---
+#### [セキュア・プログラミング講座](http://www.ipa.go.jp/security/awareness/vendor/programmingv2/index.html)
+_<sup>http://www.ipa.go.jp/security/awareness/vendor/programmingv2/index.html</sup>_
+
+独立行政法人情報処理推進機構(IPA)
+* **tags**: [free-programming-books-ja](../tagged/free-programming-books-ja.md), [free-programming-books](../tagged/free-programming-books.md), [security](../tagged/security.md), [speech](../tagged/speech.md)
+---
+#### [RSA暗号体験入門](http://www.cybersyndrome.net/rsa/)
+_<sup>http://www.cybersyndrome.net/rsa/</sup>_
+
+CyberSyndrome
+* **tags**: [free-programming-books-ja](../tagged/free-programming-books-ja.md), [free-programming-books](../tagged/free-programming-books.md), [security](../tagged/security.md), [speech](../tagged/speech.md)
+---
+#### [ウェブ健康診断仕様](http://www.ipa.go.jp/files/000017319.pdf)
+_<sup>http://www.ipa.go.jp/files/000017319.pdf</sup>_
+
+独立行政法人 情報処理推進機構(IPA) (PDF)
+* **tags**: [free-programming-books-ja](../tagged/free-programming-books-ja.md), [free-programming-books](../tagged/free-programming-books.md), [security](../tagged/security.md), [speech](../tagged/speech.md)
+---
 #### [OWASP Top 10 for .NET Developers](http://www.troyhunt.com/2011/12/free-ebook-owasp-top-10-for-net.html)
 _<sup>http://www.troyhunt.com/2011/12/free-ebook-owasp-top-10-for-net.html</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [security](../tagged/security.md), [language-agnostic](../tagged/language-agnostic.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [security](../tagged/security.md)
 ---
 #### [OpenSSL Cookbook](https://www.feistyduck.com/library/openssl-cookbook/)
 _<sup>https://www.feistyduck.com/library/openssl-cookbook/</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [security](../tagged/security.md), [language-agnostic](../tagged/language-agnostic.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [security](../tagged/security.md)
 ---
 #### [Intrusion Detection Systems with Snort](http://ptgmedia.pearsoncmg.com/images/0131407333/downloads/0131407333.pdf)
 _<sup>http://ptgmedia.pearsoncmg.com/images/0131407333/downloads/0131407333.pdf</sup>_
 
 (PDF)
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [security](../tagged/security.md), [language-agnostic](../tagged/language-agnostic.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [security](../tagged/security.md)
 ---
 #### [How to deal with Passwords](https://github.com/MHM5000/pass)
 _<sup>https://github.com/MHM5000/pass</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [security](../tagged/security.md), [language-agnostic](../tagged/language-agnostic.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [security](../tagged/security.md)
 ---
 #### [Handbook of Applied Cryptography](http://cacr.uwaterloo.ca/hac/index.html)
 _<sup>http://cacr.uwaterloo.ca/hac/index.html</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [security](../tagged/security.md), [language-agnostic](../tagged/language-agnostic.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [security](../tagged/security.md)
 ---
 #### [CryptoParty Handbook](https://unglue.it/work/141611/)
 _<sup>https://unglue.it/work/141611/</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [security](../tagged/security.md), [language-agnostic](../tagged/language-agnostic.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [security](../tagged/security.md)
 ---
 #### [Crypto 101 - Crypto for everyone](https://www.crypto101.io)
 _<sup>https://www.crypto101.io</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [security](../tagged/security.md), [language-agnostic](../tagged/language-agnostic.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [security](../tagged/security.md)
 ---
 #### [A Graduate Course in Applied Cryptography](http://toc.cryptobook.us)
 _<sup>http://toc.cryptobook.us</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [security](../tagged/security.md), [language-agnostic](../tagged/language-agnostic.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [security](../tagged/security.md)
 ---
 #### [UncomplicatedFirewall - Ubuntu Wiki](https://wiki.ubuntu.com/UncomplicatedFirewall)
 _<sup>https://wiki.ubuntu.com/UncomplicatedFirewall</sup>_

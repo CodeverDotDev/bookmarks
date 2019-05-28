@@ -35,7 +35,7 @@ _<sup>http://masputih.com/2013/01/ebook-gratis-mengenal-javascript</sup>_
 #### [Belajar HTML dan CSS](http://www.ariona.net/ebook-belajar-html-dan-css/)
 _<sup>http://www.ariona.net/ebook-belajar-html-dan-css/</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [html-css](../tagged/html-css.md), [free-programming-books-id](../tagged/free-programming-books-id.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [html](../tagged/html.md), [free-programming-books-id](../tagged/free-programming-books-id.md)
 ---
 #### [Kontrol Versi dengan Git](https://leanpub.com/kontrol-versi-git)
 _<sup>https://leanpub.com/kontrol-versi-git</sup>_
