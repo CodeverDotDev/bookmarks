@@ -323,17 +323,17 @@ MSDN Library
 _<sup>https://msdn.microsoft.com/ja-jp/library/windows/apps/hh700407.aspx</sup>_
 
 MSDN Library
-* **tags**: [free-programming-books-ja](../tagged/free-programming-books-ja.md), [free-programming-books](../tagged/free-programming-books.md), [アクセシビリティ](../tagged/アクセシビリティ.md), [speech](../tagged/speech.md)
+* **tags**: [free-programming-books-ja](../tagged/free-programming-books-ja.md), [free-programming-books](../tagged/free-programming-books.md), [accessibility](../tagged/accessibility.md), [speech](../tagged/speech.md)
 ---
 #### [iOS アクセシビリティ プログラミング ガイド](https://developer.apple.com/jp/devcenter/ios/library/documentation/iPhoneAccessibility.pdf)
 _<sup>https://developer.apple.com/jp/devcenter/ios/library/documentation/iPhoneAccessibility.pdf</sup>_
 
 Apple Developer (PDF)
-* **tags**: [free-programming-books-ja](../tagged/free-programming-books-ja.md), [free-programming-books](../tagged/free-programming-books.md), [アクセシビリティ](../tagged/アクセシビリティ.md), [speech](../tagged/speech.md)
+* **tags**: [free-programming-books-ja](../tagged/free-programming-books-ja.md), [free-programming-books](../tagged/free-programming-books.md), [accessibility](../tagged/accessibility.md), [speech](../tagged/speech.md)
 ---
 #### [Accessible Rich Internet Applications](https://developer.mozilla.org/ja/docs/ARIA/Accessible_Rich_Internet_Applications)
 _<sup>https://developer.mozilla.org/ja/docs/ARIA/Accessible_Rich_Internet_Applications</sup>_
 
 MDN
-* **tags**: [free-programming-books-ja](../tagged/free-programming-books-ja.md), [free-programming-books](../tagged/free-programming-books.md), [アクセシビリティ](../tagged/アクセシビリティ.md), [speech](../tagged/speech.md)
+* **tags**: [free-programming-books-ja](../tagged/free-programming-books-ja.md), [free-programming-books](../tagged/free-programming-books.md), [accessibility](../tagged/accessibility.md), [speech](../tagged/speech.md)
 ---

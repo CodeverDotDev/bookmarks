@@ -91,6 +91,24 @@ _<sup>http://andrzejklusiewicz.blogspot.com/2010/11/kurs-oracle-plsql.html</sup>
 
 * **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-pl](../tagged/free-programming-books-pl.md), [sql](../tagged/sql.md)
 ---
+#### [SQLプログラミング作法](http://www.geocities.jp/mickindex/database/db_manner.html)
+_<sup>http://www.geocities.jp/mickindex/database/db_manner.html</sup>_
+
+ミック
+* **tags**: [free-programming-books-ja](../tagged/free-programming-books-ja.md), [free-programming-books](../tagged/free-programming-books.md), [sql](../tagged/sql.md)
+---
+#### [SQLアタマ養成講座](http://www.geocities.jp/mickindex/database/WDP/WDP_44.pdf)
+_<sup>http://www.geocities.jp/mickindex/database/WDP/WDP_44.pdf</sup>_
+
+ミック WEB+DB Press Vol.44 (2008) p.47-72 (PDF)
+* **tags**: [free-programming-books-ja](../tagged/free-programming-books-ja.md), [free-programming-books](../tagged/free-programming-books.md), [sql](../tagged/sql.md)
+---
+#### [SQL](http://www.techscore.com/tech/sql/)
+_<sup>http://www.techscore.com/tech/sql/</sup>_
+
+シナジーマーケティング株式会社
+* **tags**: [free-programming-books-ja](../tagged/free-programming-books-ja.md), [free-programming-books](../tagged/free-programming-books.md), [sql](../tagged/sql.md)
+---
 #### [Tutorial de SQL](http://www.desarrolloweb.com/manuales/9/)
 _<sup>http://www.desarrolloweb.com/manuales/9/</sup>_
 
