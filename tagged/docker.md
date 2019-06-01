@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/docker](https://www.bookmarks.dev/tagged/docker)</sup></sup>_
 ---
+#### [GOTO 2018 • Kubernetes-ize your Java Application • Arun Gupta - YouTube](https://www.youtube.com/watch?v=QgMwcpAT49M)
+_<sup>https://www.youtube.com/watch?v=QgMwcpAT49M</sup>_
+
+Deploying your Java application in a Kubernetes cluster could feel like Alice in Wonderland. You keep going down the rabbit hole and don’t know how to make that ride comfortable. This no-slide and cod...
+* :calendar: **published on**: 2019-01-25
+* **tags**: [java](../tagged/java.md), [kubernetes](../tagged/kubernetes.md), [istio](../tagged/istio.md), [docker](../tagged/docker.md)
+---
 #### [Keycloak - Blog - Keycloak Cluster Setup](https://www.keycloak.org/2019/05/keycloak-cluster-setup.html)
 _<sup>https://www.keycloak.org/2019/05/keycloak-cluster-setup.html</sup>_
 

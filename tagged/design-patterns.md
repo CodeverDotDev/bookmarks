@@ -92,7 +92,7 @@ _<sup>https://abdulapopoola.com/2013/03/12/design-patterns-pub-sub-explained/</s
 
 I actually wanted to write about PubSub alone: it’s a fascinating design pattern to me however, the thought occurred to me, why not write a design patterns’ series? It’ll be good knowledge for me and ...
 * :calendar: **published on**: 2013-03-12
-* **tags**: [archicture](../tagged/archicture.md), [design-patterns](../tagged/design-patterns.md)
+* **tags**: [architecture](../tagged/architecture.md), [design-patterns](../tagged/design-patterns.md)
 ---
 #### [Observer vs Pub-Sub pattern – Hacker Noon](https://hackernoon.com/observer-vs-pub-sub-pattern-50d3b27f838c)
 _<sup>https://hackernoon.com/observer-vs-pub-sub-pattern-50d3b27f838c</sup>_

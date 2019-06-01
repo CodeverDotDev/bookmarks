@@ -95,6 +95,13 @@ Traditionally, a tug of war has existed between service reliability (availabilit
 * :calendar: **published on**: 2017-08-01
 * **tags**: [nodejs](../tagged/nodejs.md), [paas](../tagged/paas.md), [architecture](../tagged/architecture.md)
 ---
+#### [Design Patterns: PubSub Explained – CodeKraft](https://abdulapopoola.com/2013/03/12/design-patterns-pub-sub-explained/)
+_<sup>https://abdulapopoola.com/2013/03/12/design-patterns-pub-sub-explained/</sup>_
+
+I actually wanted to write about PubSub alone: it’s a fascinating design pattern to me however, the thought occurred to me, why not write a design patterns’ series? It’ll be good knowledge for me and ...
+* :calendar: **published on**: 2013-03-12
+* **tags**: [architecture](../tagged/architecture.md), [design-patterns](../tagged/design-patterns.md)
+---
 #### [Angular  Architecture - Smart Components vs Presentational Components](https://blog.angular-university.io/angular-2-smart-components-vs-presentation-components-whats-the-difference-when-to-use-each-and-why/)
 _<sup>https://blog.angular-university.io/angular-2-smart-components-vs-presentation-components-whats-the-d...</sup>_
 
@@ -150,6 +157,12 @@ _<sup>https://docs.microsoft.com/en-us/azure/sql-database/saas-tenancy-app-desig
 
 Learn about the requirements and common data architecture patterns of multi-tenant software as a service (SaaS) database applications that run in the Azure cloud environment.
 * **tags**: [architecture](../tagged/architecture.md), [azure](../tagged/azure.md), [cloud](../tagged/cloud.md), [multi-tenant](../tagged/multi-tenant.md)
+---
+#### [The Architecture of Open Source Applications (Volume 2) - nginx](http://www.aosabook.org/en/nginx.html)
+_<sup>http://www.aosabook.org/en/nginx.html</sup>_
+
+nginx (pronounced "engine x") is a free open source web server written by Igor Sysoev, a Russian software engineer. Since its public launch in 2004, nginx has focused on high performance, high concurr...
+* **tags**: [nginx](../tagged/nginx.md), [architecture](../tagged/architecture.md), [performance](../tagged/performance.md), [optimization](../tagged/optimization.md)
 ---
 #### [Sidecar pattern | Microsoft Docs](https://docs.microsoft.com/en-us/azure/architecture/patterns/sidecar)
 _<sup>https://docs.microsoft.com/en-us/azure/architecture/patterns/sidecar</sup>_

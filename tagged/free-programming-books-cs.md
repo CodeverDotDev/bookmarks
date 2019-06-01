@@ -126,7 +126,7 @@ Petr Habala (PDFs)
 _<sup>http://i.iinfo.cz/files/root/k/Zaklady_algorimizace.pdf</sup>_
 
 (PDF)
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-cs](../tagged/free-programming-books-cs.md), [algoritmy-a-datové-struktury](../tagged/algoritmy-a-datové-struktury.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-cs](../tagged/free-programming-books-cs.md), [algorithm](../tagged/algorithm.md)
 ---
 #### [Java 5.0, novinky jazyka a upgrade aplikací](http://i.iinfo.cz/files/root/k/java-5-0-novinky-jazyka-a-upgrade-aplikaci.pdf)
 _<sup>http://i.iinfo.cz/files/root/k/java-5-0-novinky-jazyka-a-upgrade-aplikaci.pdf</sup>_

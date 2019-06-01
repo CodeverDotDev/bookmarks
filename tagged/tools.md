@@ -522,5 +522,5 @@ Hemingway makes your writing bold and clear. It's like a spellchecker, but for s
 #### [38 tools for data visualization](http://www.creativebloq.com/design-tools/data-visualization-712402)
 _<sup>http://www.creativebloq.com/design-tools/data-visualization-712402</sup>_
 
-* **tags**: [data-visualisation](../tagged/data-visualisation.md), [visualization](../tagged/visualization.md), [tools](../tagged/tools.md)
+* **tags**: [data-visualiation](../tagged/data-visualiation.md), [visualization](../tagged/visualization.md), [tools](../tagged/tools.md)
 ---

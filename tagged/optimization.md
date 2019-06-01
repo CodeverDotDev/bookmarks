@@ -20,5 +20,5 @@ Achieve high performance with node.js applications with these 5 tips from NGINX,
 _<sup>http://www.aosabook.org/en/nginx.html</sup>_
 
 nginx (pronounced "engine x") is a free open source web server written by Igor Sysoev, a Russian software engineer. Since its public launch in 2004, nginx has focused on high performance, high concurr...
-* **tags**: [nginx](../tagged/nginx.md), [archicture](../tagged/archicture.md), [performance](../tagged/performance.md), [optimization](../tagged/optimization.md)
+* **tags**: [nginx](../tagged/nginx.md), [architecture](../tagged/architecture.md), [performance](../tagged/performance.md), [optimization](../tagged/optimization.md)
 ---

@@ -52,7 +52,7 @@ _<sup>http://librebooks.org/learn-programming-with-php/</sup>_
 #### [المقدمة في تحليل وتصميم أنظمة ](http://librebooks.org/intro-to-os-analysis-and-design/)
 _<sup>http://librebooks.org/intro-to-os-analysis-and-design/</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [operating-systems](../tagged/operating-systems.md), [free-programming-books-ar](../tagged/free-programming-books-ar.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [operating-system](../tagged/operating-system.md), [free-programming-books-ar](../tagged/free-programming-books-ar.md)
 ---
 #### [نبذة عن رخص البرمجيات الحرة ](http://librebooks.org/bref-about-foss-licenses/)
 _<sup>http://librebooks.org/bref-about-foss-licenses/</sup>_

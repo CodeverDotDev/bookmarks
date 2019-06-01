@@ -831,7 +831,7 @@ _<sup>http://librebooks.org/learn-programming-with-php/</sup>_
 #### [المقدمة في تحليل وتصميم أنظمة ](http://librebooks.org/intro-to-os-analysis-and-design/)
 _<sup>http://librebooks.org/intro-to-os-analysis-and-design/</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [operating-systems](../tagged/operating-systems.md), [free-programming-books-ar](../tagged/free-programming-books-ar.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [operating-system](../tagged/operating-system.md), [free-programming-books-ar](../tagged/free-programming-books-ar.md)
 ---
 #### [نبذة عن رخص البرمجيات الحرة ](http://librebooks.org/bref-about-foss-licenses/)
 _<sup>http://librebooks.org/bref-about-foss-licenses/</sup>_
@@ -4406,13 +4406,13 @@ Adrian Catalán (HTML)
 _<sup>http://exa.unne.edu.ar/depar/areas/informatica/SistemasOperativos/sistope2.PDF</sup>_
 
 Dr. David Luis la Red (PDF)
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [sistemas-operativos](../tagged/sistemas-operativos.md), [free-programming-books-es](../tagged/free-programming-books-es.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [operating-system](../tagged/operating-system.md), [free-programming-books-es](../tagged/free-programming-books-es.md)
 ---
 #### [Fundamentos de Sistemas Operativos](http://sistop.org/pdf/sistemas_operativos.pdf)
 _<sup>http://sistop.org/pdf/sistemas_operativos.pdf</sup>_
 
 Gunnar Wolf et al (PDF)
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [sistemas-operativos](../tagged/sistemas-operativos.md), [free-programming-books-es](../tagged/free-programming-books-es.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [operating-system](../tagged/operating-system.md), [free-programming-books-es](../tagged/free-programming-books-es.md)
 ---
 #### [Programación Funcional](http://www.staff.science.uu.nl/~fokke101/courses/fp-sp.pdf)
 _<sup>http://www.staff.science.uu.nl/~fokke101/courses/fp-sp.pdf</sup>_
@@ -4766,7 +4766,7 @@ _<sup>http://www.sprik.it/download/guida-programmazione-android-4-2/</sup>_
 _<sup>http://www.dmi.unict.it/nicosia/lectures/programmazione-scientifica/algo.pdf</sup>_
 
 (PDF)
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [agnostico](../tagged/agnostico.md), [algoritmi-e-strutture-dati](../tagged/algoritmi-e-strutture-dati.md), [free-programming-books-it](../tagged/free-programming-books-it.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [agnostico](../tagged/agnostico.md), [algorithm](../tagged/algorithm.md), [free-programming-books-it](../tagged/free-programming-books-it.md)
 ---
 #### [Scrum e XP dalle trincee](http://www.open-ware.org/ita/news/kniberg1.htm)
 _<sup>http://www.open-ware.org/ita/news/kniberg1.htm</sup>_
@@ -5289,7 +5289,7 @@ Petr Habala (PDFs)
 _<sup>http://i.iinfo.cz/files/root/k/Zaklady_algorimizace.pdf</sup>_
 
 (PDF)
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-cs](../tagged/free-programming-books-cs.md), [algoritmy-a-datové-struktury](../tagged/algoritmy-a-datové-struktury.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-cs](../tagged/free-programming-books-cs.md), [algorithm](../tagged/algorithm.md)
 ---
 #### [Java 5.0, novinky jazyka a upgrade aplikací](http://i.iinfo.cz/files/root/k/java-5-0-novinky-jazyka-a-upgrade-aplikaci.pdf)
 _<sup>http://i.iinfo.cz/files/root/k/java-5-0-novinky-jazyka-a-upgrade-aplikaci.pdf</sup>_
@@ -7751,34 +7751,34 @@ _<sup>http://guide.couchdb.org</sup>_
 _<sup>http://www.infoq.com/minibooks/vsnettt</sup>_
 
 (VS 2003-2005 only)
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [.net-framework](../tagged/.net-framework.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [.net](../tagged/.net.md)
 ---
 #### [Under the Hood of .NET Memory Management](http://download.red-gate.com/ebooks/DotNet/Under_the_Hood_of_.NET_Management.pdf)
 _<sup>http://download.red-gate.com/ebooks/DotNet/Under_the_Hood_of_.NET_Management.pdf</sup>_
 
 (PDF) *(RedGate, By Chris Farrell and Nick Harrison)*
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [.net-framework](../tagged/.net-framework.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [.net](../tagged/.net.md)
 ---
 #### [.NET Performance Testing and Optimization - The Complete Guide](http://download.red-gate.com/ebooks/DotNet/Perf_Test_and_opt_eBook.zip)
 _<sup>http://download.red-gate.com/ebooks/DotNet/Perf_Test_and_opt_eBook.zip</sup>_
 
 *(RedGate, By Paul Glavich and Chris Farrell)*
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [.net-framework](../tagged/.net-framework.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [.net](../tagged/.net.md)
 ---
 #### [.NET for Visual FoxPro Developers](http://foxcentral.net/microsoft/NETforVFPDevelopers.htm)
 _<sup>http://foxcentral.net/microsoft/NETforVFPDevelopers.htm</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [.net-framework](../tagged/.net-framework.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [.net](../tagged/.net.md)
 ---
 #### [Game Creation with XNA](https://en.wikibooks.org/wiki/Game_Creation_with_XNA)
 _<sup>https://en.wikibooks.org/wiki/Game_Creation_with_XNA</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [.net-framework](../tagged/.net-framework.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [.net](../tagged/.net.md)
 ---
 #### [Entity Framework](http://weblogs.asp.net/zeeshanhirani/my-christmas-present-to-the-entity-framework-community)
 _<sup>http://weblogs.asp.net/zeeshanhirani/my-christmas-present-to-the-entity-framework-community</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [.net-framework](../tagged/.net-framework.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [.net](../tagged/.net.md)
 ---
 #### [Graph Databases 2nd edition](http://neo4j.com/books/graph-databases/)
 _<sup>http://neo4j.com/books/graph-databases/</sup>_
@@ -11112,89 +11112,89 @@ Charles Severance & Kevin Dowd (PDF, ePUB)
 #### [Xv6, a simple Unix-like teaching operating system](https://pdos.csail.mit.edu/6.828/2012/xv6.html)
 _<sup>https://pdos.csail.mit.edu/6.828/2012/xv6.html</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [operating-systems](../tagged/operating-systems.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [operating-system](../tagged/operating-system.md)
 ---
 #### [Writing a Simple Operating System from Scratch](http://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf)
 _<sup>http://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf</sup>_
 
 Nick Blundell (PDF)
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [operating-systems](../tagged/operating-systems.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [operating-system](../tagged/operating-system.md)
 ---
 #### [UNIX Application and System Programming, lecture notes](http://www.compsci.hunter.cuny.edu/~sweiss/course_materials/unix_lecture_notes.php)
 _<sup>http://www.compsci.hunter.cuny.edu/~sweiss/course_materials/unix_lecture_notes.php</sup>_
 
 Prof. Stewart Weiss (PDF)
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [operating-systems](../tagged/operating-systems.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [operating-system](../tagged/operating-system.md)
 ---
 #### [Think OS: A Brief Introduction to Operating Systems](http://www.greenteapress.com/thinkos/index.html)
 _<sup>http://www.greenteapress.com/thinkos/index.html</sup>_
 
 Allen B. Downey (PDF)
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [operating-systems](../tagged/operating-systems.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [operating-system](../tagged/operating-system.md)
 ---
 #### [The Little Book of Semaphores](http://greenteapress.com/semaphores/)
 _<sup>http://greenteapress.com/semaphores/</sup>_
 
 Allen B. Downey
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [operating-systems](../tagged/operating-systems.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [operating-system](../tagged/operating-system.md)
 ---
 #### [The little book about OS development](https://littleosbook.github.io)
 _<sup>https://littleosbook.github.io</sup>_
 
 Erik Helin, Adam Renberg
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [operating-systems](../tagged/operating-systems.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [operating-system](../tagged/operating-system.md)
 ---
 #### [The Design and Implementation of the Anykernel and Rump Kernels](http://www.fixup.fi/misc/rumpkernel-book/)
 _<sup>http://www.fixup.fi/misc/rumpkernel-book/</sup>_
 
 Antti Kantee
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [operating-systems](../tagged/operating-systems.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [operating-system](../tagged/operating-system.md)
 ---
 #### [The Art of Unix Programming](http://catb.org/esr/writings/taoup/html/)
 _<sup>http://catb.org/esr/writings/taoup/html/</sup>_
 
 Eric S. Raymond
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [operating-systems](../tagged/operating-systems.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [operating-system](../tagged/operating-system.md)
 ---
 #### [Project Oberon: The Design of an Operating System, a Compiler, and a Computer](http://people.inf.ethz.ch/wirth/ProjectOberon/index.html)
 _<sup>http://people.inf.ethz.ch/wirth/ProjectOberon/index.html</sup>_
 
 Niklaus Wirth & Jürg Gutknecht (PDF)
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [operating-systems](../tagged/operating-systems.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [operating-system](../tagged/operating-system.md)
 ---
 #### [Practical File System Design: The Be File System](http://www.nobius.org/~dbg/practical-file-system-design.pdf)
 _<sup>http://www.nobius.org/~dbg/practical-file-system-design.pdf</sup>_
 
 Dominic Giampaolo (PDF)
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [operating-systems](../tagged/operating-systems.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [operating-system](../tagged/operating-system.md)
 ---
 #### [Operating Systems Concept 9th edition](http://codex.cs.yale.edu/avi/os-book/OS9/slide-dir/)
 _<sup>http://codex.cs.yale.edu/avi/os-book/OS9/slide-dir/</sup>_
 
 Avi Silberschatz, Peter Baer, Galvin Greg Gagne (PDF)
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [operating-systems](../tagged/operating-systems.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [operating-system](../tagged/operating-system.md)
 ---
 #### [Operating Systems and Middleware](https://gustavus.edu/mcs/max/os-book/)
 _<sup>https://gustavus.edu/mcs/max/os-book/</sup>_
 
 (PDF and LaTeX)
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [operating-systems](../tagged/operating-systems.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [operating-system](../tagged/operating-system.md)
 ---
 #### [How to write a simple operating system in assembly language](http://mikeos.sourceforge.net/write-your-own-os.html)
 _<sup>http://mikeos.sourceforge.net/write-your-own-os.html</sup>_
 
 Mike Saunders (HTML)
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [operating-systems](../tagged/operating-systems.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [operating-system](../tagged/operating-system.md)
 ---
 #### [How to Make a Computer Operating System (Work in Progress)](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System)
 _<sup>https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [operating-systems](../tagged/operating-systems.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [operating-system](../tagged/operating-system.md)
 ---
 #### [Computer Science from the Bottom Up](http://www.bottomupcs.com)
 _<sup>http://www.bottomupcs.com</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [operating-systems](../tagged/operating-systems.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [operating-system](../tagged/operating-system.md)
 ---
 #### [The Wealth of Networks: How Social Production Transforms Markets and Freedom](http://cyber.law.harvard.edu/wealth_of_networks/Main_Page)
 _<sup>http://cyber.law.harvard.edu/wealth_of_networks/Main_Page</sup>_
@@ -12367,196 +12367,196 @@ Stephen Wolfram
 _<sup>http://greenteapress.com/complexity/</sup>_
 
 (PDF)
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [algorithms-&-data-structures](../tagged/algorithms-&-data-structures.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [algorithm](../tagged/algorithm.md)
 ---
 #### [The Great Tree List Recursion Problem](http://cslibrary.stanford.edu/109/TreeListRecursion.pdf)
 _<sup>http://cslibrary.stanford.edu/109/TreeListRecursion.pdf</sup>_
 
 (PDF)
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [algorithms-&-data-structures](../tagged/algorithms-&-data-structures.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [algorithm](../tagged/algorithm.md)
 ---
 #### [The Design of Approximation Algorithms](http://www.designofapproxalgs.com/book.pdf)
 _<sup>http://www.designofapproxalgs.com/book.pdf</sup>_
 
 (PDF)
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [algorithms-&-data-structures](../tagged/algorithms-&-data-structures.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [algorithm](../tagged/algorithm.md)
 ---
 #### [The Art of Computer Programming](http://www.cs.utsa.edu/~wagner/knuth/)
 _<sup>http://www.cs.utsa.edu/~wagner/knuth/</sup>_
 
 Donald Knuth (fascicles, mostly volume 4)
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [algorithms-&-data-structures](../tagged/algorithms-&-data-structures.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [algorithm](../tagged/algorithm.md)
 ---
 #### [The Algorithm Design Manual](http://www8.cs.umu.se/kurser/TDBAfl/VT06/algorithms/BOOK/BOOK/BOOK.HTM)
 _<sup>http://www8.cs.umu.se/kurser/TDBAfl/VT06/algorithms/BOOK/BOOK/BOOK.HTM</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [algorithms-&-data-structures](../tagged/algorithms-&-data-structures.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [algorithm](../tagged/algorithm.md)
 ---
 #### [Text Algorithms](http://igm.univ-mlv.fr/~mac/REC/text-algorithms.pdf)
 _<sup>http://igm.univ-mlv.fr/~mac/REC/text-algorithms.pdf</sup>_
 
 (PDF)
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [algorithms-&-data-structures](../tagged/algorithms-&-data-structures.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [algorithm](../tagged/algorithm.md)
 ---
 #### [Sequential and parallel sorting algorithms](http://www.inf.fh-flensburg.de/lang/algorithmen/sortieren/algoen.htm)
 _<sup>http://www.inf.fh-flensburg.de/lang/algorithmen/sortieren/algoen.htm</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [algorithms-&-data-structures](../tagged/algorithms-&-data-structures.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [algorithm](../tagged/algorithm.md)
 ---
 #### [Purely Functional Data Structures](http://www.cs.cmu.edu/~rwh/theses/okasaki.pdf)
 _<sup>http://www.cs.cmu.edu/~rwh/theses/okasaki.pdf</sup>_
 
 (PDF)
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [algorithms-&-data-structures](../tagged/algorithms-&-data-structures.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [algorithm](../tagged/algorithm.md)
 ---
 #### [Planning Algorithms](http://planning.cs.uiuc.edu)
 _<sup>http://planning.cs.uiuc.edu</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [algorithms-&-data-structures](../tagged/algorithms-&-data-structures.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [algorithm](../tagged/algorithm.md)
 ---
 #### [Open Data Structures: An Introduction](http://opendatastructures.org)
 _<sup>http://opendatastructures.org</sup>_
 
 Pat Morin
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [algorithms-&-data-structures](../tagged/algorithms-&-data-structures.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [algorithm](../tagged/algorithm.md)
 ---
 #### [Matters Computational: Ideas, Algorithms, Source Code](http://www.jjj.de/fxt/fxtbook.pdf)
 _<sup>http://www.jjj.de/fxt/fxtbook.pdf</sup>_
 
 (PDF)
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [algorithms-&-data-structures](../tagged/algorithms-&-data-structures.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [algorithm](../tagged/algorithm.md)
 ---
 #### [Linked List Problems](http://cslibrary.stanford.edu/105/LinkedListProblems.pdf)
 _<sup>http://cslibrary.stanford.edu/105/LinkedListProblems.pdf</sup>_
 
 (PDF)
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [algorithms-&-data-structures](../tagged/algorithms-&-data-structures.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [algorithm](../tagged/algorithm.md)
 ---
 #### [Linked List Basics](http://cslibrary.stanford.edu/103/LinkedListBasics.pdf)
 _<sup>http://cslibrary.stanford.edu/103/LinkedListBasics.pdf</sup>_
 
 (PDF)
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [algorithms-&-data-structures](../tagged/algorithms-&-data-structures.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [algorithm](../tagged/algorithm.md)
 ---
 #### [LEDA: A Platform for Combinatorial and Geometric Computing](http://people.mpi-inf.mpg.de/~mehlhorn/LEDAbook.html)
 _<sup>http://people.mpi-inf.mpg.de/~mehlhorn/LEDAbook.html</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [algorithms-&-data-structures](../tagged/algorithms-&-data-structures.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [algorithm](../tagged/algorithm.md)
 ---
 #### [Lectures Notes on Algorithm Analysis and Computational Complexity (Fourth Edition)](https://larc.unt.edu/ian/books/free/license.html)
 _<sup>https://larc.unt.edu/ian/books/free/license.html</sup>_
 
 Ian Parberry (use form at bottom of license)
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [algorithms-&-data-structures](../tagged/algorithms-&-data-structures.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [algorithm](../tagged/algorithm.md)
 ---
 #### [Handbook of Graph Drawing and Visualization](https://cs.brown.edu/~rt/gdhandbook/)
 _<sup>https://cs.brown.edu/~rt/gdhandbook/</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [algorithms-&-data-structures](../tagged/algorithms-&-data-structures.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [algorithm](../tagged/algorithm.md)
 ---
 #### [Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html)
 _<sup>http://infolab.stanford.edu/~ullman/focs.html</sup>_
 
 Al Aho and Jeff Ullman
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [algorithms-&-data-structures](../tagged/algorithms-&-data-structures.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [algorithm](../tagged/algorithm.md)
 ---
 #### [Elementary Algorithms](https://github.com/liuxinyu95/AlgoXY)
 _<sup>https://github.com/liuxinyu95/AlgoXY</sup>_
 
 Larry LIU Xinyu
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [algorithms-&-data-structures](../tagged/algorithms-&-data-structures.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [algorithm](../tagged/algorithm.md)
 ---
 #### [Data Structures Succinctly Part 2, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/datastructurespart2)
 _<sup>https://www.syncfusion.com/resources/techportal/ebooks/datastructurespart2</sup>_
 
 (PDF, Kindle) *(Just fill the fields with any values)*
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [algorithms-&-data-structures](../tagged/algorithms-&-data-structures.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [algorithm](../tagged/algorithm.md)
 ---
 #### [Data Structures Succinctly Part 1, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/datastructurespart1)
 _<sup>https://www.syncfusion.com/resources/techportal/ebooks/datastructurespart1</sup>_
 
 (PDF, Kindle) *(Just fill the fields with any values)*
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [algorithms-&-data-structures](../tagged/algorithms-&-data-structures.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [algorithm](../tagged/algorithm.md)
 ---
 #### [Data Structures and Algorithms: Annotated Reference with Examples](http://lib.mdp.ac.id/ebook/Karya%20Umum/Dsa.pdf)
 _<sup>http://lib.mdp.ac.id/ebook/Karya%20Umum/Dsa.pdf</sup>_
 
 G. Barnett and L. Del Tongo (PDF)
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [algorithms-&-data-structures](../tagged/algorithms-&-data-structures.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [algorithm](../tagged/algorithm.md)
 ---
 #### [Data Structures (Into Java) - Paul N. Hilfinger](http://www-inst.eecs.berkeley.edu/~cs61b/fa14/book2/data-structures.pdf)
 _<sup>http://www-inst.eecs.berkeley.edu/~cs61b/fa14/book2/data-structures.pdf</sup>_
 
 (PDF)
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [algorithms-&-data-structures](../tagged/algorithms-&-data-structures.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [algorithm](../tagged/algorithm.md)
 ---
 #### [Data Structures](http://www.cse.iitd.ernet.in/~suban/cs130/index.html)
 _<sup>http://www.cse.iitd.ernet.in/~suban/cs130/index.html</sup>_
 
 Prof. Subhashis Banerjee, IIT Delhi
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [algorithms-&-data-structures](../tagged/algorithms-&-data-structures.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [algorithm](../tagged/algorithm.md)
 ---
 #### [CS Unplugged: Computer Science without a computer](http://csunplugged.org/books/)
 _<sup>http://csunplugged.org/books/</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [algorithms-&-data-structures](../tagged/algorithms-&-data-structures.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [algorithm](../tagged/algorithm.md)
 ---
 #### [Clever Algorithms](http://www.cleveralgorithms.com/nature-inspired/)
 _<sup>http://www.cleveralgorithms.com/nature-inspired/</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [algorithms-&-data-structures](../tagged/algorithms-&-data-structures.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [algorithm](../tagged/algorithm.md)
 ---
 #### [Binary Trees](http://cslibrary.stanford.edu/110/BinaryTrees.pdf)
 _<sup>http://cslibrary.stanford.edu/110/BinaryTrees.pdf</sup>_
 
 (PDF)
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [algorithms-&-data-structures](../tagged/algorithms-&-data-structures.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [algorithm](../tagged/algorithm.md)
 ---
 #### [Animated Algorithm and Data Structure Visualization](http://visualgo.net)
 _<sup>http://visualgo.net</sup>_
 
 (Resource)
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [algorithms-&-data-structures](../tagged/algorithms-&-data-structures.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [algorithm](../tagged/algorithm.md)
 ---
 #### [Analysis and Design of Algorithms](http://www.cse.iitd.ernet.in/~ssen/csl356/admin356.html)
 _<sup>http://www.cse.iitd.ernet.in/~ssen/csl356/admin356.html</sup>_
 
 Sandeep Sen, IIT Delhi
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [algorithms-&-data-structures](../tagged/algorithms-&-data-structures.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [algorithm](../tagged/algorithm.md)
 ---
 #### [Algorithms Course Materials](http://jeffe.cs.illinois.edu/teaching/algorithms/)
 _<sup>http://jeffe.cs.illinois.edu/teaching/algorithms/</sup>_
 
 Jeff Erickson
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [algorithms-&-data-structures](../tagged/algorithms-&-data-structures.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [algorithm](../tagged/algorithm.md)
 ---
 #### [Algorithms and Complexity](https://www.math.upenn.edu/~wilf/AlgoComp.pdf)
 _<sup>https://www.math.upenn.edu/~wilf/AlgoComp.pdf</sup>_
 
 (PDF)
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [algorithms-&-data-structures](../tagged/algorithms-&-data-structures.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [algorithm](../tagged/algorithm.md)
 ---
 #### [Algorithms and Automatic Computing Machines (1963)](https://archive.org/details/Algorithms_And_Automatic_Computing_Machines)
 _<sup>https://archive.org/details/Algorithms_And_Automatic_Computing_Machines</sup>_
 
 B. A. Trakhtenbrot
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [algorithms-&-data-structures](../tagged/algorithms-&-data-structures.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [algorithm](../tagged/algorithm.md)
 ---
 #### [Algorithms, 4th Edition](http://algs4.cs.princeton.edu/home/)
 _<sup>http://algs4.cs.princeton.edu/home/</sup>_
 
 Robert Sedgewick and Kevin Wayne
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [algorithms-&-data-structures](../tagged/algorithms-&-data-structures.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [algorithm](../tagged/algorithm.md)
 ---
 #### [Algorithmic Graph Theory](http://code.google.com/p/graphbook/)
 _<sup>http://code.google.com/p/graphbook/</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [algorithms-&-data-structures](../tagged/algorithms-&-data-structures.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [algorithm](../tagged/algorithm.md)
 ---
 #### [A Field Guide To Genetic Programming](http://dces.essex.ac.uk/staff/rpoli/gp-field-guide/toc.html)
 _<sup>http://dces.essex.ac.uk/staff/rpoli/gp-field-guide/toc.html</sup>_
 
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [algorithms-&-data-structures](../tagged/algorithms-&-data-structures.md)
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [algorithm](../tagged/algorithm.md)
 ---
 #### [Search User Interfaces](http://searchuserinterfaces.com/book/)
 _<sup>http://searchuserinterfaces.com/book/</sup>_

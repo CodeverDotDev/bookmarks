@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/monitoring](https://www.bookmarks.dev/tagged/monitoring)</sup></sup>_
 ---
+#### [Kubernetes best practices: Setting up health checks with readiness and liveness probes](https://cloud.google.com/blog/products/gcp/kubernetes-best-practices-setting-up-health-checks-with-readiness-and-liveness-probes)
+_<sup>https://cloud.google.com/blog/products/gcp/kubernetes-best-practices-setting-up-health-checks-with-r...</sup>_
+
+In this episode of “Kubernetes Best Practices”, let’s learn about the subtleties of [readiness and liveness probes](https://kubernetes.io/docs/tasks/configure-pod-container/configure-liveness-readines...
+* :calendar: **published on**: 2018-05-04
+* **tags**: [kubernetes](../tagged/kubernetes.md), [monitoring](../tagged/monitoring.md), [healthcheck](../tagged/healthcheck.md), [distributed-computing](../tagged/distributed-computing.md), [cloud](../tagged/cloud.md)
+---
 #### [GitHub - thomasdarimont/keycloak-health-checks](https://github.com/thomasdarimont/keycloak-health-checks)
 _<sup>https://github.com/thomasdarimont/keycloak-health-checks</sup>_
 

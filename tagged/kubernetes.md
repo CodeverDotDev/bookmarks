@@ -2,6 +2,20 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/kubernetes](https://www.bookmarks.dev/tagged/kubernetes)</sup></sup>_
 ---
+#### [GOTO 2018 • Kubernetes-ize your Java Application • Arun Gupta - YouTube](https://www.youtube.com/watch?v=QgMwcpAT49M)
+_<sup>https://www.youtube.com/watch?v=QgMwcpAT49M</sup>_
+
+Deploying your Java application in a Kubernetes cluster could feel like Alice in Wonderland. You keep going down the rabbit hole and don’t know how to make that ride comfortable. This no-slide and cod...
+* :calendar: **published on**: 2019-01-25
+* **tags**: [java](../tagged/java.md), [kubernetes](../tagged/kubernetes.md), [istio](../tagged/istio.md), [docker](../tagged/docker.md)
+---
+#### [Kubernetes best practices: Setting up health checks with readiness and liveness probes](https://cloud.google.com/blog/products/gcp/kubernetes-best-practices-setting-up-health-checks-with-readiness-and-liveness-probes)
+_<sup>https://cloud.google.com/blog/products/gcp/kubernetes-best-practices-setting-up-health-checks-with-r...</sup>_
+
+In this episode of “Kubernetes Best Practices”, let’s learn about the subtleties of [readiness and liveness probes](https://kubernetes.io/docs/tasks/configure-pod-container/configure-liveness-readines...
+* :calendar: **published on**: 2018-05-04
+* **tags**: [kubernetes](../tagged/kubernetes.md), [monitoring](../tagged/monitoring.md), [healthcheck](../tagged/healthcheck.md), [distributed-computing](../tagged/distributed-computing.md), [cloud](../tagged/cloud.md)
+---
 #### [Kubernetes Volumes 1: emptydir, NFS, YAML, volumes, and intro to Persistent Volume Claims - YouTube](https://www.youtube.com/watch?v=VB7vI9OT-WQ)
 _<sup>https://www.youtube.com/watch?v=VB7vI9OT-WQ</sup>_
 
