@@ -312,776 +312,776 @@ Who has time to write tests? This is a revolutionary tool to make them write the
 _<sup>https://docs.pytest.org/en/latest/</sup>_
 
 A mature full-featured Python testing tool.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [testing](../tagged/testing.md), [frameworks](../tagged/frameworks.md)
+* **tags**: [python](../tagged/python.md), [testing](../tagged/testing.md), [frameworks](../tagged/frameworks.md)
 ---
 #### [hypothesis](https://github.com/HypothesisWorks/hypothesis)
 _<sup>https://github.com/HypothesisWorks/hypothesis</sup>_
 
 Hypothesis is an advanced Quickcheck style property based testing library.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [testing](../tagged/testing.md), [frameworks](../tagged/frameworks.md)
+* **tags**: [python](../tagged/python.md), [testing](../tagged/testing.md), [frameworks](../tagged/frameworks.md)
 * :octocat: **[source code](https://github.com/HypothesisWorks/hypothesis)**
 ---
 #### [nose2](https://github.com/nose-devs/nose2)
 _<sup>https://github.com/nose-devs/nose2</sup>_
 
 The successor to `nose`, based on `unittest2.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [testing](../tagged/testing.md), [frameworks](../tagged/frameworks.md)
+* **tags**: [python](../tagged/python.md), [testing](../tagged/testing.md), [frameworks](../tagged/frameworks.md)
 * :octocat: **[source code](https://github.com/nose-devs/nose2)**
 ---
 #### [Robot Framework](https://github.com/robotframework/robotframework)
 _<sup>https://github.com/robotframework/robotframework</sup>_
 
 A generic test automation framework.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [testing](../tagged/testing.md), [frameworks](../tagged/frameworks.md)
+* **tags**: [python](../tagged/python.md), [testing](../tagged/testing.md), [frameworks](../tagged/frameworks.md)
 * :octocat: **[source code](https://github.com/robotframework/robotframework)**
 ---
 #### [unittest](https://docs.python.org/3/library/unittest.html)
 _<sup>https://docs.python.org/3/library/unittest.html</sup>_
 
 (Python standard library) Unit testing framework.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [testing](../tagged/testing.md), [frameworks](../tagged/frameworks.md)
+* **tags**: [python](../tagged/python.md), [testing](../tagged/testing.md), [frameworks](../tagged/frameworks.md)
 ---
 #### [green](https://github.com/CleanCut/green)
 _<sup>https://github.com/CleanCut/green</sup>_
 
 A clean, colorful test runner.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [testing](../tagged/testing.md), [test-runner](../tagged/test-runner.md)
+* **tags**: [python](../tagged/python.md), [testing](../tagged/testing.md), [test-runner](../tagged/test-runner.md)
 * :octocat: **[source code](https://github.com/CleanCut/green)**
 ---
 #### [mamba](http://nestorsalceda.github.io/mamba/)
 _<sup>http://nestorsalceda.github.io/mamba/</sup>_
 
 The definitive testing tool for Python. Born under the banner of BDD.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [testing](../tagged/testing.md), [test-runner](../tagged/test-runner.md)
+* **tags**: [python](../tagged/python.md), [testing](../tagged/testing.md), [test-runner](../tagged/test-runner.md)
 ---
 #### [tox](https://tox.readthedocs.io/en/latest/)
 _<sup>https://tox.readthedocs.io/en/latest/</sup>_
 
 Auto builds and tests distributions in multiple Python versions
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [testing](../tagged/testing.md), [test-runner](../tagged/test-runner.md)
+* **tags**: [python](../tagged/python.md), [testing](../tagged/testing.md), [test-runner](../tagged/test-runner.md)
 ---
 #### [locust](https://github.com/locustio/locust)
 _<sup>https://github.com/locustio/locust</sup>_
 
 Scalable user load testing tool written in Python.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [testing](../tagged/testing.md), [gui](../tagged/gui.md), [web](../tagged/web.md)
+* **tags**: [python](../tagged/python.md), [testing](../tagged/testing.md), [gui](../tagged/gui.md), [web](../tagged/web.md)
 * :octocat: **[source code](https://github.com/locustio/locust)**
 ---
 #### [PyAutoGUI](https://github.com/asweigart/pyautogui)
 _<sup>https://github.com/asweigart/pyautogui</sup>_
 
 PyAutoGUI is a cross-platform GUI automation Python module for human beings.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [testing](../tagged/testing.md), [gui](../tagged/gui.md), [web](../tagged/web.md)
+* **tags**: [python](../tagged/python.md), [testing](../tagged/testing.md), [gui](../tagged/gui.md), [web](../tagged/web.md)
 * :octocat: **[source code](https://github.com/asweigart/pyautogui)**
 ---
 #### [Selenium](https://pypi.python.org/pypi/selenium)
 _<sup>https://pypi.python.org/pypi/selenium</sup>_
 
 Python bindings for [Selenium](http://www.seleniumhq.org/) WebDriver.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [testing](../tagged/testing.md), [gui](../tagged/gui.md), [web](../tagged/web.md)
+* **tags**: [python](../tagged/python.md), [testing](../tagged/testing.md), [gui](../tagged/gui.md), [web](../tagged/web.md)
 ---
 #### [sixpack](https://github.com/seatgeek/sixpack)
 _<sup>https://github.com/seatgeek/sixpack</sup>_
 
 A language-agnostic A/B Testing framework.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [testing](../tagged/testing.md), [gui](../tagged/gui.md), [web](../tagged/web.md)
+* **tags**: [python](../tagged/python.md), [testing](../tagged/testing.md), [gui](../tagged/gui.md), [web](../tagged/web.md)
 * :octocat: **[source code](https://github.com/seatgeek/sixpack)**
 ---
 #### [splinter](https://github.com/cobrateam/splinter)
 _<sup>https://github.com/cobrateam/splinter</sup>_
 
 Open source tool for testing web applications.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [testing](../tagged/testing.md), [gui](../tagged/gui.md), [web](../tagged/web.md)
+* **tags**: [python](../tagged/python.md), [testing](../tagged/testing.md), [gui](../tagged/gui.md), [web](../tagged/web.md)
 * :octocat: **[source code](https://github.com/cobrateam/splinter)**
 ---
 #### [doublex](https://pypi.python.org/pypi/doublex)
 _<sup>https://pypi.python.org/pypi/doublex</sup>_
 
 Powerful test doubles framework for Python.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
+* **tags**: [python](../tagged/python.md), [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
 ---
 #### [freezegun](https://github.com/spulec/freezegun)
 _<sup>https://github.com/spulec/freezegun</sup>_
 
 Travel through time by mocking the datetime module.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
+* **tags**: [python](../tagged/python.md), [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
 * :octocat: **[source code](https://github.com/spulec/freezegun)**
 ---
 #### [httmock](https://github.com/patrys/httmock)
 _<sup>https://github.com/patrys/httmock</sup>_
 
 A mocking library for requests for Python 2.6+ and 3.2+.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
+* **tags**: [python](../tagged/python.md), [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
 * :octocat: **[source code](https://github.com/patrys/httmock)**
 ---
 #### [httpretty](https://github.com/gabrielfalcao/HTTPretty)
 _<sup>https://github.com/gabrielfalcao/HTTPretty</sup>_
 
 HTTP request mock tool for Python.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
+* **tags**: [python](../tagged/python.md), [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
 * :octocat: **[source code](https://github.com/gabrielfalcao/HTTPretty)**
 ---
 #### [mock](https://docs.python.org/3/library/unittest.mock.html)
 _<sup>https://docs.python.org/3/library/unittest.mock.html</sup>_
 
 (Python standard library) A mocking and patching library.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
+* **tags**: [python](../tagged/python.md), [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
 ---
 #### [Mocket](https://github.com/mindflayer/python-mocket)
 _<sup>https://github.com/mindflayer/python-mocket</sup>_
 
 Socket Mock Framework plus HTTP[S]/asyncio/gevent mocking library with recording/replaying capability.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
+* **tags**: [python](../tagged/python.md), [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
 * :octocat: **[source code](https://github.com/mindflayer/python-mocket)**
 ---
 #### [responses](https://github.com/getsentry/responses)
 _<sup>https://github.com/getsentry/responses</sup>_
 
 A utility library for mocking out the requests Python library.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
+* **tags**: [python](../tagged/python.md), [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
 * :octocat: **[source code](https://github.com/getsentry/responses)**
 ---
 #### [VCR.py](https://github.com/kevin1024/vcrpy)
 _<sup>https://github.com/kevin1024/vcrpy</sup>_
 
 Record and replay HTTP interactions on your tests.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
+* **tags**: [python](../tagged/python.md), [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
 * :octocat: **[source code](https://github.com/kevin1024/vcrpy)**
 ---
 #### [factory_boy](https://github.com/FactoryBoy/factory_boy)
 _<sup>https://github.com/FactoryBoy/factory_boy</sup>_
 
 A test fixtures replacement for Python.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [testing](../tagged/testing.md), [objectfactory](../tagged/objectfactory.md)
+* **tags**: [python](../tagged/python.md), [testing](../tagged/testing.md), [objectfactory](../tagged/objectfactory.md)
 * :octocat: **[source code](https://github.com/FactoryBoy/factory_boy)**
 ---
 #### [mixer](https://github.com/klen/mixer)
 _<sup>https://github.com/klen/mixer</sup>_
 
 Another fixtures replacement. Supported Django, Flask, SQLAlchemy, Peewee and etc.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [testing](../tagged/testing.md), [objectfactory](../tagged/objectfactory.md)
+* **tags**: [python](../tagged/python.md), [testing](../tagged/testing.md), [objectfactory](../tagged/objectfactory.md)
 * :octocat: **[source code](https://github.com/klen/mixer)**
 ---
 #### [model_mommy](https://github.com/vandersonmota/model_mommy)
 _<sup>https://github.com/vandersonmota/model_mommy</sup>_
 
 Creating random fixtures for testing in Django.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [testing](../tagged/testing.md), [objectfactory](../tagged/objectfactory.md)
+* **tags**: [python](../tagged/python.md), [testing](../tagged/testing.md), [objectfactory](../tagged/objectfactory.md)
 * :octocat: **[source code](https://github.com/vandersonmota/model_mommy)**
 ---
 #### [coverage](https://pypi.python.org/pypi/coverage)
 _<sup>https://pypi.python.org/pypi/coverage</sup>_
 
 Code coverage measurement.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [testing](../tagged/testing.md), [code-coverage](../tagged/code-coverage.md)
+* **tags**: [python](../tagged/python.md), [testing](../tagged/testing.md), [code-coverage](../tagged/code-coverage.md)
 ---
 #### [mimesis](https://github.com/lk-geimfari/mimesis)
 _<sup>https://github.com/lk-geimfari/mimesis</sup>_
 
 is a Python library that help you generate fake data.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [testing](../tagged/testing.md), [fake-data](../tagged/fake-data.md)
+* **tags**: [python](../tagged/python.md), [testing](../tagged/testing.md), [fake-data](../tagged/fake-data.md)
 * :octocat: **[source code](https://github.com/lk-geimfari/mimesis)**
 ---
 #### [fake2db](https://github.com/emirozer/fake2db)
 _<sup>https://github.com/emirozer/fake2db</sup>_
 
 Fake database generator.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [testing](../tagged/testing.md), [fake-data](../tagged/fake-data.md)
+* **tags**: [python](../tagged/python.md), [testing](../tagged/testing.md), [fake-data](../tagged/fake-data.md)
 * :octocat: **[source code](https://github.com/emirozer/fake2db)**
 ---
 #### [faker](https://github.com/joke2k/faker)
 _<sup>https://github.com/joke2k/faker</sup>_
 
 A Python package that generates fake data.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [testing](../tagged/testing.md), [fake-data](../tagged/fake-data.md)
+* **tags**: [python](../tagged/python.md), [testing](../tagged/testing.md), [fake-data](../tagged/fake-data.md)
 * :octocat: **[source code](https://github.com/joke2k/faker)**
 ---
 #### [radar](https://pypi.python.org/pypi/radar)
 _<sup>https://pypi.python.org/pypi/radar</sup>_
 
 Generate random datetime / time.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [testing](../tagged/testing.md), [fake-data](../tagged/fake-data.md)
+* **tags**: [python](../tagged/python.md), [testing](../tagged/testing.md), [fake-data](../tagged/fake-data.md)
 ---
 #### [FuckIt.py](https://github.com/ajalt/fuckitpy)
 _<sup>https://github.com/ajalt/fuckitpy</sup>_
 
 FuckIt.py uses state-of-the-art technology to make sure your Python code runs whether it has any right to or not.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [testing](../tagged/testing.md), [error-handling](../tagged/error-handling.md)
+* **tags**: [python](../tagged/python.md), [testing](../tagged/testing.md), [error-handling](../tagged/error-handling.md)
 * :octocat: **[source code](https://github.com/ajalt/fuckitpy)**
 ---
 #### [mocha](https://github.com/mochajs/mocha)
 _<sup>https://github.com/mochajs/mocha</sup>_
 
 Simple, flexible, fun javascript test framework for node.js & the browser.
-* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [testing](../tagged/testing.md), [frameworks](../tagged/frameworks.md)
+* **tags**: [javascript](../tagged/javascript.md), [testing](../tagged/testing.md), [frameworks](../tagged/frameworks.md)
 * :octocat: **[source code](https://github.com/mochajs/mocha)**
 ---
 #### [jasmine](https://github.com/jasmine/jasmine)
 _<sup>https://github.com/jasmine/jasmine</sup>_
 
 DOM-less simple JavaScript testing framework.
-* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [testing](../tagged/testing.md), [frameworks](../tagged/frameworks.md)
+* **tags**: [javascript](../tagged/javascript.md), [testing](../tagged/testing.md), [frameworks](../tagged/frameworks.md)
 * :octocat: **[source code](https://github.com/jasmine/jasmine)**
 ---
 #### [qunit](https://github.com/jquery/qunit)
 _<sup>https://github.com/jquery/qunit</sup>_
 
 An easy-to-use JavaScript Unit Testing framework.
-* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [testing](../tagged/testing.md), [frameworks](../tagged/frameworks.md)
+* **tags**: [javascript](../tagged/javascript.md), [testing](../tagged/testing.md), [frameworks](../tagged/frameworks.md)
 * :octocat: **[source code](https://github.com/jquery/qunit)**
 ---
 #### [prova](https://github.com/azer/prova)
 _<sup>https://github.com/azer/prova</sup>_
 
 Node & Browser test runner based on Tape and Browserify
-* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [testing](../tagged/testing.md), [frameworks](../tagged/frameworks.md)
+* **tags**: [javascript](../tagged/javascript.md), [testing](../tagged/testing.md), [frameworks](../tagged/frameworks.md)
 * :octocat: **[source code](https://github.com/azer/prova)**
 ---
 #### [DalekJS](https://github.com/dalekjs/dalek)
 _<sup>https://github.com/dalekjs/dalek</sup>_
 
 Automated cross browser functional testing with JavaScript
-* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [testing](../tagged/testing.md), [frameworks](../tagged/frameworks.md)
+* **tags**: [javascript](../tagged/javascript.md), [testing](../tagged/testing.md), [frameworks](../tagged/frameworks.md)
 * :octocat: **[source code](https://github.com/dalekjs/dalek)**
 ---
 #### [Protractor](https://github.com/angular/protractor)
 _<sup>https://github.com/angular/protractor</sup>_
 
 Protractor is an end-to-end test framework for AngularJS applications.
-* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [testing](../tagged/testing.md), [frameworks](../tagged/frameworks.md)
+* **tags**: [javascript](../tagged/javascript.md), [testing](../tagged/testing.md), [frameworks](../tagged/frameworks.md)
 * :octocat: **[source code](https://github.com/angular/protractor)**
 ---
 #### [ava](https://github.com/avajs/ava)
 _<sup>https://github.com/avajs/ava</sup>_
 
 🚀 Futuristic JavaScript test runner
-* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [testing](../tagged/testing.md), [frameworks](../tagged/frameworks.md)
+* **tags**: [javascript](../tagged/javascript.md), [testing](../tagged/testing.md), [frameworks](../tagged/frameworks.md)
 * :octocat: **[source code](https://github.com/avajs/ava)**
 ---
 #### [chai](https://github.com/chaijs/chai)
 _<sup>https://github.com/chaijs/chai</sup>_
 
 BDD / TDD assertion framework for node.js and the browser that can be paired with any testing framework.
-* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [testing](../tagged/testing.md), [assertion](../tagged/assertion.md)
+* **tags**: [javascript](../tagged/javascript.md), [testing](../tagged/testing.md), [assertion](../tagged/assertion.md)
 * :octocat: **[source code](https://github.com/chaijs/chai)**
 ---
 #### [Enzyme](http://airbnb.io/enzyme/index.html)
 _<sup>http://airbnb.io/enzyme/index.html</sup>_
 
 Enzyme is a JavaScript Testing utility for React that makes it easier to assert, manipulate, and traverse your React Components' output.
-* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [testing](../tagged/testing.md), [assertion](../tagged/assertion.md)
+* **tags**: [javascript](../tagged/javascript.md), [testing](../tagged/testing.md), [assertion](../tagged/assertion.md)
 ---
 #### [react testing library](https://github.com/kentcdodds/react-testing-library)
 _<sup>https://github.com/kentcdodds/react-testing-library</sup>_
 
 Simple and complete React DOM testing utilities that encourage good testing practices.
-* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [testing](../tagged/testing.md), [assertion](../tagged/assertion.md)
+* **tags**: [javascript](../tagged/javascript.md), [testing](../tagged/testing.md), [assertion](../tagged/assertion.md)
 * :octocat: **[source code](https://github.com/kentcdodds/react-testing-library)**
 ---
 #### [expect.js](https://github.com/Automattic/expect.js)
 _<sup>https://github.com/Automattic/expect.js</sup>_
 
 Minimalistic BDD-style assertions for Node.JS and the browser.
-* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [testing](../tagged/testing.md), [assertion](../tagged/assertion.md)
+* **tags**: [javascript](../tagged/javascript.md), [testing](../tagged/testing.md), [assertion](../tagged/assertion.md)
 * :octocat: **[source code](https://github.com/Automattic/expect.js)**
 ---
 #### [istanbul](https://github.com/gotwarlost/istanbul)
 _<sup>https://github.com/gotwarlost/istanbul</sup>_
 
 Yet another JS code coverage tool.
-* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [testing](../tagged/testing.md), [coverage](../tagged/coverage.md)
+* **tags**: [javascript](../tagged/javascript.md), [testing](../tagged/testing.md), [coverage](../tagged/coverage.md)
 * :octocat: **[source code](https://github.com/gotwarlost/istanbul)**
 ---
 #### [blanket](https://github.com/alex-seville/blanket)
 _<sup>https://github.com/alex-seville/blanket</sup>_
 
 A simple code coverage library for javascript. Designed to be easy to install and use, for both browser and nodejs.
-* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [testing](../tagged/testing.md), [coverage](../tagged/coverage.md)
+* **tags**: [javascript](../tagged/javascript.md), [testing](../tagged/testing.md), [coverage](../tagged/coverage.md)
 * :octocat: **[source code](https://github.com/alex-seville/blanket)**
 ---
 #### [JSCover](https://github.com/tntim96/JSCover)
 _<sup>https://github.com/tntim96/JSCover</sup>_
 
 JSCover is a tool that measures code coverage for JavaScript programs.
-* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [testing](../tagged/testing.md), [coverage](../tagged/coverage.md)
+* **tags**: [javascript](../tagged/javascript.md), [testing](../tagged/testing.md), [coverage](../tagged/coverage.md)
 * :octocat: **[source code](https://github.com/tntim96/JSCover)**
 ---
 #### [phantomjs](https://github.com/ariya/phantomjs)
 _<sup>https://github.com/ariya/phantomjs</sup>_
 
 Scriptable Headless WebKit.
-* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [testing](../tagged/testing.md), [runner](../tagged/runner.md)
+* **tags**: [javascript](../tagged/javascript.md), [testing](../tagged/testing.md), [runner](../tagged/runner.md)
 * :octocat: **[source code](https://github.com/ariya/phantomjs)**
 ---
 #### [slimerjs](https://github.com/laurentj/slimerjs)
 _<sup>https://github.com/laurentj/slimerjs</sup>_
 
 A PhantomJS-like tool running Gecko.
-* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [testing](../tagged/testing.md), [runner](../tagged/runner.md)
+* **tags**: [javascript](../tagged/javascript.md), [testing](../tagged/testing.md), [runner](../tagged/runner.md)
 * :octocat: **[source code](https://github.com/laurentj/slimerjs)**
 ---
 #### [casperjs](https://github.com/casperjs/casperjs)
 _<sup>https://github.com/casperjs/casperjs</sup>_
 
 Navigation scripting & testing utility for PhantomJS and SlimerJS.
-* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [testing](../tagged/testing.md), [runner](../tagged/runner.md)
+* **tags**: [javascript](../tagged/javascript.md), [testing](../tagged/testing.md), [runner](../tagged/runner.md)
 * :octocat: **[source code](https://github.com/casperjs/casperjs)**
 ---
 #### [zombie](https://github.com/assaf/zombie)
 _<sup>https://github.com/assaf/zombie</sup>_
 
 Insanely fast, full-stack, headless browser testing using node.js.
-* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [testing](../tagged/testing.md), [runner](../tagged/runner.md)
+* **tags**: [javascript](../tagged/javascript.md), [testing](../tagged/testing.md), [runner](../tagged/runner.md)
 * :octocat: **[source code](https://github.com/assaf/zombie)**
 ---
 #### [totoro](https://github.com/totorojs/totoro)
 _<sup>https://github.com/totorojs/totoro</sup>_
 
 A simple and stable cross-browser testing tool.
-* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [testing](../tagged/testing.md), [runner](../tagged/runner.md)
+* **tags**: [javascript](../tagged/javascript.md), [testing](../tagged/testing.md), [runner](../tagged/runner.md)
 * :octocat: **[source code](https://github.com/totorojs/totoro)**
 ---
 #### [karma](https://github.com/karma-runner/karma)
 _<sup>https://github.com/karma-runner/karma</sup>_
 
 Spectacular Test Runner for JavaScript.
-* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [testing](../tagged/testing.md), [runner](../tagged/runner.md)
+* **tags**: [javascript](../tagged/javascript.md), [testing](../tagged/testing.md), [runner](../tagged/runner.md)
 * :octocat: **[source code](https://github.com/karma-runner/karma)**
 ---
 #### [yolpo](http://www.yolpo.com)
 _<sup>http://www.yolpo.com</sup>_
 
 A statement-by-statement javascript interpreter in the browser.
-* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [testing](../tagged/testing.md), [runner](../tagged/runner.md)
+* **tags**: [javascript](../tagged/javascript.md), [testing](../tagged/testing.md), [runner](../tagged/runner.md)
 ---
 #### [AVA](https://ava.li)
 _<sup>https://ava.li</sup>_
 
 Futuristic test runner.
-* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md)
+* **tags**: [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md)
 ---
 #### [Mocha](http://mochajs.org)
 _<sup>http://mochajs.org</sup>_
 
 Feature-rich test framework making asynchronous testing simple and fun.
-* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md)
+* **tags**: [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md)
 ---
 #### [nyc](https://github.com/bcoe/nyc)
 _<sup>https://github.com/bcoe/nyc</sup>_
 
 Code coverage tool built on istanbul that works with subprocesses.
-* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md)
+* **tags**: [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md)
 * :octocat: **[source code](https://github.com/bcoe/nyc)**
 ---
 #### [tap](https://github.com/isaacs/node-tap)
 _<sup>https://github.com/isaacs/node-tap</sup>_
 
 TAP test framework.
-* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md)
+* **tags**: [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md)
 * :octocat: **[source code](https://github.com/isaacs/node-tap)**
 ---
 #### [power-assert](https://github.com/power-assert-js/power-assert)
 _<sup>https://github.com/power-assert-js/power-assert</sup>_
 
 Provides descriptive assertion messages through the standard assert interface.
-* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md)
+* **tags**: [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md)
 * :octocat: **[source code](https://github.com/power-assert-js/power-assert)**
 ---
 #### [Mochify](https://github.com/mantoni/mochify.js)
 _<sup>https://github.com/mantoni/mochify.js</sup>_
 
 TDD with Browserify, Mocha, PhantomJS and WebDriver.
-* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md)
+* **tags**: [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md)
 * :octocat: **[source code](https://github.com/mantoni/mochify.js)**
 ---
 #### [trevor](https://github.com/vdemedes/trevor)
 _<sup>https://github.com/vdemedes/trevor</sup>_
 
 Run tests against multiple versions of Node.js without switching versions manually or pushing to Travis CI.
-* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md)
+* **tags**: [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md)
 * :octocat: **[source code](https://github.com/vdemedes/trevor)**
 ---
 #### [loadtest](https://github.com/alexfernandez/loadtest)
 _<sup>https://github.com/alexfernandez/loadtest</sup>_
 
 Run load tests for your web application, with an API for automation.
-* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md)
+* **tags**: [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md)
 * :octocat: **[source code](https://github.com/alexfernandez/loadtest)**
 ---
 #### [Sinon.JS](https://github.com/sinonjs/sinon)
 _<sup>https://github.com/sinonjs/sinon</sup>_
 
 Test spies, stubs and mocks.
-* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md)
+* **tags**: [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md)
 * :octocat: **[source code](https://github.com/sinonjs/sinon)**
 ---
 #### [navit](https://github.com/nodeca/navit)
 _<sup>https://github.com/nodeca/navit</sup>_
 
 PhantomJS / SlimerJS wrapper to simplify browser test scripting.
-* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md)
+* **tags**: [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md)
 * :octocat: **[source code](https://github.com/nodeca/navit)**
 ---
 #### [Nock](https://github.com/pgte/nock)
 _<sup>https://github.com/pgte/nock</sup>_
 
 HTTP mocking and expectations.
-* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md)
+* **tags**: [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md)
 * :octocat: **[source code](https://github.com/pgte/nock)**
 ---
 #### [intern](https://github.com/theintern/intern)
 _<sup>https://github.com/theintern/intern</sup>_
 
 Code testing stack.
-* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md)
+* **tags**: [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md)
 * :octocat: **[source code](https://github.com/theintern/intern)**
 ---
 #### [toxy](https://github.com/h2non/toxy)
 _<sup>https://github.com/h2non/toxy</sup>_
 
 Hackable HTTP proxy to simulate failure scenarios and network conditions.
-* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md)
+* **tags**: [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md)
 * :octocat: **[source code](https://github.com/h2non/toxy)**
 ---
 #### [hook-std](https://github.com/sindresorhus/hook-std)
 _<sup>https://github.com/sindresorhus/hook-std</sup>_
 
 Hook and modify stdout/stderr.
-* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md)
+* **tags**: [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md)
 * :octocat: **[source code](https://github.com/sindresorhus/hook-std)**
 ---
 #### [testen](https://github.com/egoist/testen)
 _<sup>https://github.com/egoist/testen</sup>_
 
 Run tests for multiple versions of Node.js locally with NVM.
-* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md)
+* **tags**: [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md)
 * :octocat: **[source code](https://github.com/egoist/testen)**
 ---
 #### [Nightwatch](https://github.com/nightwatchjs/nightwatch)
 _<sup>https://github.com/nightwatchjs/nightwatch</sup>_
 
 Automated UI testing framework based on Selenium WebDriver.
-* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md)
+* **tags**: [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md)
 * :octocat: **[source code](https://github.com/nightwatchjs/nightwatch)**
 ---
 #### [WebdriverIO](https://github.com/webdriverio/webdriverio)
 _<sup>https://github.com/webdriverio/webdriverio</sup>_
 
 Automated testing based on the WebDriver protocol.
-* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md)
+* **tags**: [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md)
 * :octocat: **[source code](https://github.com/webdriverio/webdriverio)**
 ---
 #### [Jest](https://github.com/facebook/jest)
 _<sup>https://github.com/facebook/jest</sup>_
 
 Painless JavaScript testing.
-* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md)
+* **tags**: [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md)
 * :octocat: **[source code](https://github.com/facebook/jest)**
 ---
 #### [TestCafe](https://github.com/DevExpress/testcafe)
 _<sup>https://github.com/DevExpress/testcafe</sup>_
 
 Automated browser testing.
-* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md)
+* **tags**: [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md)
 * :octocat: **[source code](https://github.com/DevExpress/testcafe)**
 ---
 #### [abstruse](https://github.com/bleenco/abstruse)
 _<sup>https://github.com/bleenco/abstruse</sup>_
 
 Continuous Integration server.
-* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md)
+* **tags**: [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md)
 * :octocat: **[source code](https://github.com/bleenco/abstruse)**
 ---
 #### [Awaitility](https://github.com/jayway/awaitility)
 _<sup>https://github.com/jayway/awaitility</sup>_
 
 DSL for synchronizing asynchronous operations.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [asynchronous](../tagged/asynchronous.md)
+* **tags**: [java](../tagged/java.md), [testing](../tagged/testing.md), [asynchronous](../tagged/asynchronous.md)
 * :octocat: **[source code](https://github.com/jayway/awaitility)**
 ---
 #### [ConcurrentUnit](https://github.com/jhalterman/concurrentunit)
 _<sup>https://github.com/jhalterman/concurrentunit</sup>_
 
 Toolkit for testing multi-threaded and asynchronous applications.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [asynchronous](../tagged/asynchronous.md)
+* **tags**: [java](../tagged/java.md), [testing](../tagged/testing.md), [asynchronous](../tagged/asynchronous.md)
 * :octocat: **[source code](https://github.com/jhalterman/concurrentunit)**
 ---
 #### [GreenMail](http://www.icegreen.com/greenmail)
 _<sup>http://www.icegreen.com/greenmail</sup>_
 
 In-memory email server for integration testing. Supports SMTP, POP3 and IMAP including SSL.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [asynchronous](../tagged/asynchronous.md)
+* **tags**: [java](../tagged/java.md), [testing](../tagged/testing.md), [asynchronous](../tagged/asynchronous.md)
 ---
 #### [Hoverfly Java](https://github.com/SpectoLabs/hoverfly-java)
 _<sup>https://github.com/SpectoLabs/hoverfly-java</sup>_
 
 Native bindings for Hoverfly, a proxy which allows you to simulate HTTP services.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [asynchronous](../tagged/asynchronous.md)
+* **tags**: [java](../tagged/java.md), [testing](../tagged/testing.md), [asynchronous](../tagged/asynchronous.md)
 * :octocat: **[source code](https://github.com/SpectoLabs/hoverfly-java)**
 ---
 #### [REST Assured](https://github.com/jayway/rest-assured)
 _<sup>https://github.com/jayway/rest-assured</sup>_
 
 DSL for easy testing of REST/HTTP services.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [asynchronous](../tagged/asynchronous.md)
+* **tags**: [java](../tagged/java.md), [testing](../tagged/testing.md), [asynchronous](../tagged/asynchronous.md)
 * :octocat: **[source code](https://github.com/jayway/rest-assured)**
 ---
 #### [Cucumber](https://github.com/cucumber/cucumber-jvm)
 _<sup>https://github.com/cucumber/cucumber-jvm</sup>_
 
 Provides a way to describe features in a plain language which customers can understand.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [bdd](../tagged/bdd.md)
+* **tags**: [java](../tagged/java.md), [testing](../tagged/testing.md), [bdd](../tagged/bdd.md)
 * :octocat: **[source code](https://github.com/cucumber/cucumber-jvm)**
 ---
 #### [Cukes-REST](https://github.com/ctco/cukes-rest)
 _<sup>https://github.com/ctco/cukes-rest</sup>_
 
 A collection of Gherkin steps for REST-service testing using Cucumber.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [bdd](../tagged/bdd.md)
+* **tags**: [java](../tagged/java.md), [testing](../tagged/testing.md), [bdd](../tagged/bdd.md)
 * :octocat: **[source code](https://github.com/ctco/cukes-rest)**
 ---
 #### [J8Spec](https://github.com/j8spec/j8spec)
 _<sup>https://github.com/j8spec/j8spec</sup>_
 
 Follows a Jasmine-like syntax.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [bdd](../tagged/bdd.md)
+* **tags**: [java](../tagged/java.md), [testing](../tagged/testing.md), [bdd](../tagged/bdd.md)
 * :octocat: **[source code](https://github.com/j8spec/j8spec)**
 ---
 #### [JBehave](http://jbehave.org)
 _<sup>http://jbehave.org</sup>_
 
 Extensively configurable framework that describes stories.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [bdd](../tagged/bdd.md)
+* **tags**: [java](../tagged/java.md), [testing](../tagged/testing.md), [bdd](../tagged/bdd.md)
 ---
 #### [JGiven](http://jgiven.org)
 _<sup>http://jgiven.org</sup>_
 
 Provides a fluent API which allows for simpler composition.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [bdd](../tagged/bdd.md)
+* **tags**: [java](../tagged/java.md), [testing](../tagged/testing.md), [bdd](../tagged/bdd.md)
 ---
 #### [Lamdba Behave](https://github.com/RichardWarburton/lambda-behave)
 _<sup>https://github.com/RichardWarburton/lambda-behave</sup>_
 
 Aims to provide a fluent API to write tests in long and descriptive sentences that read like plain English.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [bdd](../tagged/bdd.md)
+* **tags**: [java](../tagged/java.md), [testing](../tagged/testing.md), [bdd](../tagged/bdd.md)
 * :octocat: **[source code](https://github.com/RichardWarburton/lambda-behave)**
 ---
 #### [Beanmother](https://github.com/keepcosmos/beanmother)
 _<sup>https://github.com/keepcosmos/beanmother</sup>_
 
 Sets up beans from YAML fixtures.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [fixtures](../tagged/fixtures.md)
+* **tags**: [java](../tagged/java.md), [testing](../tagged/testing.md), [fixtures](../tagged/fixtures.md)
 * :octocat: **[source code](https://github.com/keepcosmos/beanmother)**
 ---
 #### [Fixture Factory](https://github.com/six2six/fixture-factory)
 _<sup>https://github.com/six2six/fixture-factory</sup>_
 
 Generates fake objects from a template.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [fixtures](../tagged/fixtures.md)
+* **tags**: [java](../tagged/java.md), [testing](../tagged/testing.md), [fixtures](../tagged/fixtures.md)
 * :octocat: **[source code](https://github.com/six2six/fixture-factory)**
 ---
 #### [JFairy](https://github.com/Codearte/jfairy)
 _<sup>https://github.com/Codearte/jfairy</sup>_
 
 Fake data generator.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [fixtures](../tagged/fixtures.md)
+* **tags**: [java](../tagged/java.md), [testing](../tagged/testing.md), [fixtures](../tagged/fixtures.md)
 * :octocat: **[source code](https://github.com/Codearte/jfairy)**
 ---
 #### [Randomized Testing](https://github.com/randomizedtesting/randomizedtesting)
 _<sup>https://github.com/randomizedtesting/randomizedtesting</sup>_
 
 JUnit test runner and plugins for running JUnit tests with pseudo-randomness.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [fixtures](../tagged/fixtures.md)
+* **tags**: [java](../tagged/java.md), [testing](../tagged/testing.md), [fixtures](../tagged/fixtures.md)
 * :octocat: **[source code](https://github.com/randomizedtesting/randomizedtesting)**
 ---
 #### [Java Faker](https://github.com/DiUS/java-faker)
 _<sup>https://github.com/DiUS/java-faker</sup>_
 
 A port of Ruby's fake data generator.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [fixtures](../tagged/fixtures.md)
+* **tags**: [java](../tagged/java.md), [testing](../tagged/testing.md), [fixtures](../tagged/fixtures.md)
 * :octocat: **[source code](https://github.com/DiUS/java-faker)**
 ---
 #### [ArchUnit](https://github.com/TNG/ArchUnit)
 _<sup>https://github.com/TNG/ArchUnit</sup>_
 
 Test library for specifying and asserting architecture rules.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [frameworks](../tagged/frameworks.md)
+* **tags**: [java](../tagged/java.md), [testing](../tagged/testing.md), [frameworks](../tagged/frameworks.md)
 * :octocat: **[source code](https://github.com/TNG/ArchUnit)**
 ---
 #### [Apache JMeter](http://jmeter.apache.org)
 _<sup>http://jmeter.apache.org</sup>_
 
 Functional testing and performance measurements.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [frameworks](../tagged/frameworks.md)
+* **tags**: [java](../tagged/java.md), [testing](../tagged/testing.md), [frameworks](../tagged/frameworks.md)
 ---
 #### [Arquillian](http://arquillian.org)
 _<sup>http://arquillian.org</sup>_
 
 Integration and functional testing platform for Java EE containers.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [frameworks](../tagged/frameworks.md)
+* **tags**: [java](../tagged/java.md), [testing](../tagged/testing.md), [frameworks](../tagged/frameworks.md)
 ---
 #### [Citrus](https://citrusframework.org)
 _<sup>https://citrusframework.org</sup>_
 
 Integration testing framework that focuses on both client- and server-side messaging.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [frameworks](../tagged/frameworks.md)
+* **tags**: [java](../tagged/java.md), [testing](../tagged/testing.md), [frameworks](../tagged/frameworks.md)
 ---
 #### [Gatling](https://gatling.io)
 _<sup>https://gatling.io</sup>_
 
 Load testing tool designed for ease of use, maintainability and high performance.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [frameworks](../tagged/frameworks.md)
+* **tags**: [java](../tagged/java.md), [testing](../tagged/testing.md), [frameworks](../tagged/frameworks.md)
 ---
 #### [JUnit](http://junit.org)
 _<sup>http://junit.org</sup>_
 
 Common testing framework.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [frameworks](../tagged/frameworks.md)
+* **tags**: [java](../tagged/java.md), [testing](../tagged/testing.md), [frameworks](../tagged/frameworks.md)
 ---
 #### [Pact JVM](https://github.com/DiUS/pact-jvm)
 _<sup>https://github.com/DiUS/pact-jvm</sup>_
 
 Consumer-driven contract testing.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [frameworks](../tagged/frameworks.md)
+* **tags**: [java](../tagged/java.md), [testing](../tagged/testing.md), [frameworks](../tagged/frameworks.md)
 * :octocat: **[source code](https://github.com/DiUS/pact-jvm)**
 ---
 #### [PIT](http://pitest.org)
 _<sup>http://pitest.org</sup>_
 
 Fast mutation-testing framework for evaluating fault-detection abilities of existing JUnit or TestNG test suites.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [frameworks](../tagged/frameworks.md)
+* **tags**: [java](../tagged/java.md), [testing](../tagged/testing.md), [frameworks](../tagged/frameworks.md)
 ---
 #### [AssertJ](https://joel-costigliola.github.io/assertj)
 _<sup>https://joel-costigliola.github.io/assertj</sup>_
 
 Fluent assertions that improve readability.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [matchers](../tagged/matchers.md)
+* **tags**: [java](../tagged/java.md), [testing](../tagged/testing.md), [matchers](../tagged/matchers.md)
 ---
 #### [JSONAssert](http://jsonassert.skyscreamer.org)
 _<sup>http://jsonassert.skyscreamer.org</sup>_
 
 Simplifies testing JSON strings.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [matchers](../tagged/matchers.md)
+* **tags**: [java](../tagged/java.md), [testing](../tagged/testing.md), [matchers](../tagged/matchers.md)
 ---
 #### [Truth](https://github.com/google/truth)
 _<sup>https://github.com/google/truth</sup>_
 
 Google's assertion and proposition framework.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [matchers](../tagged/matchers.md)
+* **tags**: [java](../tagged/java.md), [testing](../tagged/testing.md), [matchers](../tagged/matchers.md)
 * :octocat: **[source code](https://github.com/google/truth)**
 ---
 #### [Mutability Detector](https://github.com/MutabilityDetector/MutabilityDetector)
 _<sup>https://github.com/MutabilityDetector/MutabilityDetector</sup>_
 
 Reports whether instances of a given class are immutable.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [testing](../tagged/testing.md)
+* **tags**: [java](../tagged/java.md), [testing](../tagged/testing.md), [testing](../tagged/testing.md)
 * :octocat: **[source code](https://github.com/MutabilityDetector/MutabilityDetector)**
 ---
 #### [Mutability Detector](https://github.com/MutabilityDetector/MutabilityDetector)
 _<sup>https://github.com/MutabilityDetector/MutabilityDetector</sup>_
 
 Reports whether instances of a given class are immutable.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [testing](../tagged/testing.md)
+* **tags**: [java](../tagged/java.md), [testing](../tagged/testing.md), [testing](../tagged/testing.md)
 * :octocat: **[source code](https://github.com/MutabilityDetector/MutabilityDetector)**
 ---
 #### [raml-tester](https://github.com/nidi3/raml-tester)
 _<sup>https://github.com/nidi3/raml-tester</sup>_
 
 Tests if a request/response matches a given RAML definition.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [testing](../tagged/testing.md)
+* **tags**: [java](../tagged/java.md), [testing](../tagged/testing.md), [testing](../tagged/testing.md)
 * :octocat: **[source code](https://github.com/nidi3/raml-tester)**
 ---
 #### [raml-tester](https://github.com/nidi3/raml-tester)
 _<sup>https://github.com/nidi3/raml-tester</sup>_
 
 Tests if a request/response matches a given RAML definition.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [testing](../tagged/testing.md)
+* **tags**: [java](../tagged/java.md), [testing](../tagged/testing.md), [testing](../tagged/testing.md)
 * :octocat: **[source code](https://github.com/nidi3/raml-tester)**
 ---
 #### [TestContainers](https://github.com/testcontainers/testcontainers-java)
 _<sup>https://github.com/testcontainers/testcontainers-java</sup>_
 
 Provides throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [testing](../tagged/testing.md)
+* **tags**: [java](../tagged/java.md), [testing](../tagged/testing.md), [testing](../tagged/testing.md)
 * :octocat: **[source code](https://github.com/testcontainers/testcontainers-java)**
 ---
 #### [TestContainers](https://github.com/testcontainers/testcontainers-java)
 _<sup>https://github.com/testcontainers/testcontainers-java</sup>_
 
 Provides throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [testing](../tagged/testing.md)
+* **tags**: [java](../tagged/java.md), [testing](../tagged/testing.md), [testing](../tagged/testing.md)
 * :octocat: **[source code](https://github.com/testcontainers/testcontainers-java)**
 ---
 #### [pojo-tester](http://www.pojo.pl)
 _<sup>http://www.pojo.pl</sup>_
 
 Automatically performs tests on basic POJO methods.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [testing](../tagged/testing.md)
+* **tags**: [java](../tagged/java.md), [testing](../tagged/testing.md), [testing](../tagged/testing.md)
 ---
 #### [pojo-tester](http://www.pojo.pl)
 _<sup>http://www.pojo.pl</sup>_
 
 Automatically performs tests on basic POJO methods.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [testing](../tagged/testing.md)
+* **tags**: [java](../tagged/java.md), [testing](../tagged/testing.md), [testing](../tagged/testing.md)
 ---
 #### [JMockit](http://jmockit.github.io)
 _<sup>http://jmockit.github.io</sup>_
 
 Integration testing, API mocking and faking, and code coverage.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
+* **tags**: [java](../tagged/java.md), [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
 ---
 #### [Mockito](https://github.com/mockito/mockito)
 _<sup>https://github.com/mockito/mockito</sup>_
 
 Mocking framework that lets you write tests with a clean and simple API.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
+* **tags**: [java](../tagged/java.md), [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
 * :octocat: **[source code](https://github.com/mockito/mockito)**
 ---
 #### [MockServer](https://www.mock-server.com)
 _<sup>https://www.mock-server.com</sup>_
 
 Allows mocking of systems integrated with HTTPS.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
+* **tags**: [java](../tagged/java.md), [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
 ---
 #### [Moco](https://github.com/dreamhead/moco)
 _<sup>https://github.com/dreamhead/moco</sup>_
 
 Concise web services for stubs and mocks.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
+* **tags**: [java](../tagged/java.md), [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
 * :octocat: **[source code](https://github.com/dreamhead/moco)**
 ---
 #### [PowerMock](https://github.com/jayway/powermock)
 _<sup>https://github.com/jayway/powermock</sup>_
 
 Mocks static methods, constructors, final classes and methods, private methods, and removal of static initializers.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
+* **tags**: [java](../tagged/java.md), [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
 * :octocat: **[source code](https://github.com/jayway/powermock)**
 ---
 #### [WireMock](http://wiremock.org)
 _<sup>http://wiremock.org</sup>_
 
 Stubs and mocks web services.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
+* **tags**: [java](../tagged/java.md), [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
 ---
 #### [Burst](https://github.com/square/burst)
 _<sup>https://github.com/square/burst</sup>_
 
 A unit testing library for varying test data.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [parameterization](../tagged/parameterization.md)
+* **tags**: [java](../tagged/java.md), [testing](../tagged/testing.md), [parameterization](../tagged/parameterization.md)
 * :octocat: **[source code](https://github.com/square/burst)**
 ---
 #### [junit-dataprovider](https://github.com/TNG/junit-dataprovider)
 _<sup>https://github.com/TNG/junit-dataprovider</sup>_
 
 A TestNG-like data provider/runner for JUnit.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [parameterization](../tagged/parameterization.md)
+* **tags**: [java](../tagged/java.md), [testing](../tagged/testing.md), [parameterization](../tagged/parameterization.md)
 * :octocat: **[source code](https://github.com/TNG/junit-dataprovider)**
 ---
 #### [JUnitParams](https://pragmatists.github.io/JUnitParams)
 _<sup>https://pragmatists.github.io/JUnitParams</sup>_
 
 Creates readable and maintainable parametrised tests.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [parameterization](../tagged/parameterization.md)
+* **tags**: [java](../tagged/java.md), [testing](../tagged/testing.md), [parameterization](../tagged/parameterization.md)
 ---
 #### [awesome-software-quality](https://github.com/ligurio/awesome-software-quality#readme)
 _<sup>https://github.com/ligurio/awesome-software-quality#readme</sup>_

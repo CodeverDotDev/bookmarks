@@ -6,7 +6,7 @@ _<sup><sup>[www.bookmarks.dev/tagged/visual-studio-code](https://www.bookmarks.d
 _<sup>https://marketplace.visualstudio.com/items?itemName=ms-python.python</sup>_
 
 An extension with rich support for the Python language, with features including linting, IntelliSense, formatting, refactoring, debugging, unit tests, and jupyter support.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [editor-plugins](../tagged/editor-plugins.md), [ide](../tagged/ide.md), [visual-studio-code](../tagged/visual-studio-code.md)
+* **tags**: [python](../tagged/python.md), [editor-plugins](../tagged/editor-plugins.md), [ide](../tagged/ide.md), [visual-studio-code](../tagged/visual-studio-code.md)
 ---
 #### [awesome-vscode](https://github.com/viatsko/awesome-vscode#readme)
 _<sup>https://github.com/viatsko/awesome-vscode#readme</sup>_

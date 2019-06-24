@@ -6,35 +6,35 @@ _<sup><sup>[www.bookmarks.dev/tagged/scala](https://www.bookmarks.dev/tagged/sca
 _<sup>https://github.com/sangria-graphql/sangria</sup>_
 
 Scala GraphQL server implementation.
-* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [scala](../tagged/scala.md), [libraries](../tagged/libraries.md)
+* **tags**: [graphql](../tagged/graphql.md), [scala](../tagged/scala.md), [libraries](../tagged/libraries.md)
 * :octocat: **[source code](https://github.com/sangria-graphql/sangria)**
 ---
 #### [sangria-relay](https://github.com/sangria-graphql/sangria-relay)
 _<sup>https://github.com/sangria-graphql/sangria-relay</sup>_
 
 Sangria Relay Support.
-* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [scala](../tagged/scala.md), [libraries](../tagged/libraries.md)
+* **tags**: [graphql](../tagged/graphql.md), [scala](../tagged/scala.md), [libraries](../tagged/libraries.md)
 * :octocat: **[source code](https://github.com/sangria-graphql/sangria-relay)**
 ---
 #### [graphql-scala](https://github.com/hrosenhorn/graphql-scala)
 _<sup>https://github.com/hrosenhorn/graphql-scala</sup>_
 
 An attempt to get GraphQL going with Scala.
-* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [scala](../tagged/scala.md), [libraries](../tagged/libraries.md)
+* **tags**: [graphql](../tagged/graphql.md), [scala](../tagged/scala.md), [libraries](../tagged/libraries.md)
 * :octocat: **[source code](https://github.com/hrosenhorn/graphql-scala)**
 ---
 #### [sangria-akka-http-example](https://github.com/sangria-graphql/sangria-akka-http-example)
 _<sup>https://github.com/sangria-graphql/sangria-akka-http-example</sup>_
 
 An example GraphQL server written with akka-http and [sangria](https://sangria-graphql.org/)
-* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [scala](../tagged/scala.md)
+* **tags**: [graphql](../tagged/graphql.md), [scala](../tagged/scala.md)
 * :octocat: **[source code](https://github.com/sangria-graphql/sangria-akka-http-example)**
 ---
 #### [sangria-playground](https://github.com/sangria-graphql/sangria-playground)
 _<sup>https://github.com/sangria-graphql/sangria-playground</sup>_
 
 An example of GraphQL server written with Play and sangria.
-* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [scala](../tagged/scala.md)
+* **tags**: [graphql](../tagged/graphql.md), [scala](../tagged/scala.md)
 * :octocat: **[source code](https://github.com/sangria-graphql/sangria-playground)**
 ---
 #### [awesome-scala](https://github.com/lauris/awesome-scala#readme)

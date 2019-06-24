@@ -102,115 +102,115 @@ YARD enables the user to generate consistent, usable documentation that can be e
 _<sup>https://github.com/sphinx-doc/sphinx/</sup>_
 
 Python Documentation generator.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [documentation](../tagged/documentation.md)
+* **tags**: [python](../tagged/python.md), [documentation](../tagged/documentation.md)
 * :octocat: **[source code](https://github.com/sphinx-doc/sphinx/)**
 ---
 #### [awesome-sphinxdoc](https://github.com/yoloseem/awesome-sphinxdoc)
 _<sup>https://github.com/yoloseem/awesome-sphinxdoc</sup>_
 
 A curated list of awesome tools for Sphinx Python Documentation Generator - yoloseem/awesome-sphinxdoc
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [documentation](../tagged/documentation.md)
+* **tags**: [python](../tagged/python.md), [documentation](../tagged/documentation.md)
 * :octocat: **[source code](https://github.com/yoloseem/awesome-sphinxdoc)**
 ---
 #### [pdoc](https://github.com/mitmproxy/pdoc)
 _<sup>https://github.com/mitmproxy/pdoc</sup>_
 
 Epydoc replacement to auto generate API documentation for Python libraries.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [documentation](../tagged/documentation.md)
+* **tags**: [python](../tagged/python.md), [documentation](../tagged/documentation.md)
 * :octocat: **[source code](https://github.com/mitmproxy/pdoc)**
 ---
 #### [pycco](https://github.com/pycco-docs/pycco)
 _<sup>https://github.com/pycco-docs/pycco</sup>_
 
 The literate-programming-style documentation generator.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [documentation](../tagged/documentation.md)
+* **tags**: [python](../tagged/python.md), [documentation](../tagged/documentation.md)
 * :octocat: **[source code](https://github.com/pycco-docs/pycco)**
 ---
 #### [DevDocs](http://devdocs.io/)
 _<sup>http://devdocs.io/</sup>_
 
 Fast, offline, and free documentation browser for developers. Search 100+ docs in one web app: HTML, CSS, JavaScript, PHP, Ruby, Python, Go, C, C++…
-* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [documentation](../tagged/documentation.md)
+* **tags**: [javascript](../tagged/javascript.md), [documentation](../tagged/documentation.md)
 ---
 #### [styledocco](http://jacobrask.github.io/styledocco/)
 _<sup>http://jacobrask.github.io/styledocco/</sup>_
 
-* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [documentation](../tagged/documentation.md)
+* **tags**: [javascript](../tagged/javascript.md), [documentation](../tagged/documentation.md)
 ---
 #### [Ronn](https://github.com/rtomayko/ronn)
 _<sup>https://github.com/rtomayko/ronn</sup>_
 
 the opposite of roff. Contribute to rtomayko/ronn development by creating an account on GitHub.
-* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [documentation](../tagged/documentation.md)
+* **tags**: [javascript](../tagged/javascript.md), [documentation](../tagged/documentation.md)
 * :octocat: **[source code](https://github.com/rtomayko/ronn)**
 ---
 #### [dox](https://github.com/tj/dox)
 _<sup>https://github.com/tj/dox</sup>_
 
 JavaScript documentation generator for node using markdown and jsdoc - tj/dox
-* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [documentation](../tagged/documentation.md)
+* **tags**: [javascript](../tagged/javascript.md), [documentation](../tagged/documentation.md)
 * :octocat: **[source code](https://github.com/tj/dox)**
 ---
 #### [jsdox](https://github.com/sutoiku/jsdox)
 _<sup>https://github.com/sutoiku/jsdox</sup>_
 
 simplified jsdoc 3. Contribute to sutoiku/jsdox development by creating an account on GitHub.
-* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [documentation](../tagged/documentation.md)
+* **tags**: [javascript](../tagged/javascript.md), [documentation](../tagged/documentation.md)
 * :octocat: **[source code](https://github.com/sutoiku/jsdox)**
 ---
 #### [YUIDoc](http://yui.github.io/yuidoc/)
 _<sup>http://yui.github.io/yuidoc/</sup>_
 
-* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [documentation](../tagged/documentation.md)
+* **tags**: [javascript](../tagged/javascript.md), [documentation](../tagged/documentation.md)
 ---
 #### [coddoc](http://doug-martin.github.io/coddoc/)
 _<sup>http://doug-martin.github.io/coddoc/</sup>_
 
-* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [documentation](../tagged/documentation.md)
+* **tags**: [javascript](../tagged/javascript.md), [documentation](../tagged/documentation.md)
 ---
 #### [sphinx](http://www.sphinx-doc.org/)
 _<sup>http://www.sphinx-doc.org/</sup>_
 
-* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [documentation](../tagged/documentation.md)
+* **tags**: [javascript](../tagged/javascript.md), [documentation](../tagged/documentation.md)
 ---
 #### [documentation.js](http://documentation.js.org)
 _<sup>http://documentation.js.org</sup>_
 
 API documentation generator with support for ES2015+ and flow annotation.
-* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [documentation](../tagged/documentation.md)
+* **tags**: [javascript](../tagged/javascript.md), [documentation](../tagged/documentation.md)
 ---
 #### [jsduck](https://github.com/senchalabs/jsduck)
 _<sup>https://github.com/senchalabs/jsduck</sup>_
 
 API documentation generator made for Sencha JavaScript frameworks, but can be used for other frameworks too.
-* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [documentation](../tagged/documentation.md)
+* **tags**: [javascript](../tagged/javascript.md), [documentation](../tagged/documentation.md)
 * :octocat: **[source code](https://github.com/senchalabs/jsduck)**
 ---
 #### [documentation.js](https://github.com/documentationjs/documentation)
 _<sup>https://github.com/documentationjs/documentation</sup>_
 
 API documentation generator with support for ES2015+ and flow annotation.
-* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [documentation](../tagged/documentation.md)
+* **tags**: [nodejs](../tagged/nodejs.md), [documentation](../tagged/documentation.md)
 * :octocat: **[source code](https://github.com/documentationjs/documentation)**
 ---
 #### [ESDoc](https://github.com/esdoc/esdoc)
 _<sup>https://github.com/esdoc/esdoc</sup>_
 
 Documentation generator targeting ES2015, attaching test code and measuring documentation coverage.
-* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [documentation](../tagged/documentation.md)
+* **tags**: [nodejs](../tagged/nodejs.md), [documentation](../tagged/documentation.md)
 * :octocat: **[source code](https://github.com/esdoc/esdoc)**
 ---
 #### [Docco](http://jashkenas.github.io/docco/)
 _<sup>http://jashkenas.github.io/docco/</sup>_
 
 Documentation generator which produces an HTML document that displays your comments intermingled with your code.
-* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [documentation](../tagged/documentation.md)
+* **tags**: [nodejs](../tagged/nodejs.md), [documentation](../tagged/documentation.md)
 ---
 #### [JSDoc](http://usejsdoc.org)
 _<sup>http://usejsdoc.org</sup>_
 
 API documentation generator similar to JavaDoc or PHPDoc.
-* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [documentation](../tagged/documentation.md)
+* **tags**: [nodejs](../tagged/nodejs.md), [documentation](../tagged/documentation.md)
 ---
 #### [mermaid docs](https://mermaidjs.github.io/)
 _<sup>https://mermaidjs.github.io/</sup>_

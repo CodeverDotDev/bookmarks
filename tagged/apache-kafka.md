@@ -6,7 +6,7 @@ _<sup><sup>[www.bookmarks.dev/tagged/apache-kafka](https://www.bookmarks.dev/tag
 _<sup>https://github.com/dpkp/kafka-python</sup>_
 
 The Python client for Apache Kafka.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [database-drivers](../tagged/database-drivers.md), [apache-kafka](../tagged/apache-kafka.md)
+* **tags**: [python](../tagged/python.md), [database-drivers](../tagged/database-drivers.md), [apache-kafka](../tagged/apache-kafka.md)
 * :octocat: **[source code](https://github.com/dpkp/kafka-python)**
 ---
 #### [Apache Kafka as an Event-Driven Backbone for Service Architectures](https://www.confluent.io/blog/apache-kafka-for-service-architectures/)

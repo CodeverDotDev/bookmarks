@@ -6,7 +6,7 @@ _<sup><sup>[www.bookmarks.dev/tagged/ocaml](https://www.bookmarks.dev/tagged/oca
 _<sup>https://github.com/andreas/ocaml-graphql-server</sup>_
 
 GraphQL servers in OCaml.
-* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [ocaml](../tagged/ocaml.md), [libraries](../tagged/libraries.md)
+* **tags**: [graphql](../tagged/graphql.md), [ocaml](../tagged/ocaml.md), [libraries](../tagged/libraries.md)
 * :octocat: **[source code](https://github.com/andreas/ocaml-graphql-server)**
 ---
 #### [awesome-ocaml](https://github.com/ocaml-community/awesome-ocaml#readme)

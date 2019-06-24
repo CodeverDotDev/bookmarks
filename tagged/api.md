@@ -130,76 +130,76 @@ A plugin for versioning Rails based RESTful APIs.
 _<sup>https://libcloud.apache.org/</sup>_
 
 One Python library for all clouds.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [api](../tagged/api.md)
+* **tags**: [python](../tagged/python.md), [api](../tagged/api.md)
 ---
 #### [boto3](https://github.com/boto/boto3)
 _<sup>https://github.com/boto/boto3</sup>_
 
 Python interface to Amazon Web Services.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [api](../tagged/api.md)
+* **tags**: [python](../tagged/python.md), [api](../tagged/api.md)
 * :octocat: **[source code](https://github.com/boto/boto3)**
 ---
 #### [django-wordpress](https://github.com/istrategylabs/django-wordpress)
 _<sup>https://github.com/istrategylabs/django-wordpress</sup>_
 
 WordPress models and views for Django.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [api](../tagged/api.md)
+* **tags**: [python](../tagged/python.md), [api](../tagged/api.md)
 * :octocat: **[source code](https://github.com/istrategylabs/django-wordpress)**
 ---
 #### [facebook-sdk](https://github.com/mobolic/facebook-sdk)
 _<sup>https://github.com/mobolic/facebook-sdk</sup>_
 
 Facebook Platform Python SDK.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [api](../tagged/api.md)
+* **tags**: [python](../tagged/python.md), [api](../tagged/api.md)
 * :octocat: **[source code](https://github.com/mobolic/facebook-sdk)**
 ---
 #### [google-api-python-client](https://github.com/google/google-api-python-client)
 _<sup>https://github.com/google/google-api-python-client</sup>_
 
 Google APIs Client Library for Python.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [api](../tagged/api.md)
+* **tags**: [python](../tagged/python.md), [api](../tagged/api.md)
 * :octocat: **[source code](https://github.com/google/google-api-python-client)**
 ---
 #### [gspread](https://github.com/burnash/gspread)
 _<sup>https://github.com/burnash/gspread</sup>_
 
 Google Spreadsheets Python API.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [api](../tagged/api.md)
+* **tags**: [python](../tagged/python.md), [api](../tagged/api.md)
 * :octocat: **[source code](https://github.com/burnash/gspread)**
 ---
 #### [twython](https://github.com/ryanmcgrath/twython)
 _<sup>https://github.com/ryanmcgrath/twython</sup>_
 
 A Python wrapper for the Twitter API.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [api](../tagged/api.md)
+* **tags**: [python](../tagged/python.md), [api](../tagged/api.md)
 * :octocat: **[source code](https://github.com/ryanmcgrath/twython)**
 ---
 #### [oauth-signature-js](https://github.com/bettiolo/oauth-signature-js)
 _<sup>https://github.com/bettiolo/oauth-signature-js</sup>_
 
 JavaScript OAuth 1.0a signature generator for node and the browser.
-* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [api](../tagged/api.md)
+* **tags**: [javascript](../tagged/javascript.md), [api](../tagged/api.md)
 * :octocat: **[source code](https://github.com/bettiolo/oauth-signature-js)**
 ---
 #### [amygdala](https://github.com/lincolnloop/amygdala)
 _<sup>https://github.com/lincolnloop/amygdala</sup>_
 
 RESTful HTTP client for JavaScript powered web applications.
-* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [api](../tagged/api.md)
+* **tags**: [javascript](../tagged/javascript.md), [api](../tagged/api.md)
 * :octocat: **[source code](https://github.com/lincolnloop/amygdala)**
 ---
 #### [jquery.rest](https://github.com/jpillora/jquery.rest)
 _<sup>https://github.com/jpillora/jquery.rest</sup>_
 
 A jQuery plugin for easy consumption of RESTful APIs.
-* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [api](../tagged/api.md)
+* **tags**: [javascript](../tagged/javascript.md), [api](../tagged/api.md)
 * :octocat: **[source code](https://github.com/jpillora/jquery.rest)**
 ---
 #### [Rails Ranger](https://github.com/victor-am/rails-ranger)
 _<sup>https://github.com/victor-am/rails-ranger</sup>_
 
 An opinionated REST client for Ruby on Rails APIs.
-* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [api](../tagged/api.md)
+* **tags**: [javascript](../tagged/javascript.md), [api](../tagged/api.md)
 * :octocat: **[source code](https://github.com/victor-am/rails-ranger)**
 ---
 #### [API Infrastructure at Knewton: What’s in an Edge Service?](https://medium.com/knerd/api-infrastructure-at-knewton-whats-in-an-edge-service-51a3777aeb41)

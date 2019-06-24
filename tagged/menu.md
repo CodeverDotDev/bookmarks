@@ -6,27 +6,27 @@ _<sup><sup>[www.bookmarks.dev/tagged/menu](https://www.bookmarks.dev/tagged/menu
 _<sup>https://github.com/kamens/jQuery-menu-aim</sup>_
 
 jQuery plugin to fire events when user's cursor aims at particular dropdown menu items. For making responsive mega dropdowns like Amazon's.
-* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [menu](../tagged/menu.md)
+* **tags**: [javascript](../tagged/javascript.md), [menu](../tagged/menu.md)
 * :octocat: **[source code](https://github.com/kamens/jQuery-menu-aim)**
 ---
 #### [jQuery contextMenu](https://github.com/swisnl/jQuery-contextMenu)
 _<sup>https://github.com/swisnl/jQuery-contextMenu</sup>_
 
 contextMenu manager.
-* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [menu](../tagged/menu.md)
+* **tags**: [javascript](../tagged/javascript.md), [menu](../tagged/menu.md)
 * :octocat: **[source code](https://github.com/swisnl/jQuery-contextMenu)**
 ---
 #### [Slideout](https://github.com/mango/slideout)
 _<sup>https://github.com/mango/slideout</sup>_
 
 A responsive touch slideout navigation menu for mobile web apps.
-* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [menu](../tagged/menu.md)
+* **tags**: [javascript](../tagged/javascript.md), [menu](../tagged/menu.md)
 * :octocat: **[source code](https://github.com/mango/slideout)**
 ---
 #### [Slide and swipe](https://github.com/JoanClaret/slide-and-swipe-menu)
 _<sup>https://github.com/JoanClaret/slide-and-swipe-menu</sup>_
 
 A sliding swipe menu that works with touchSwipe library.
-* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [menu](../tagged/menu.md)
+* **tags**: [javascript](../tagged/javascript.md), [menu](../tagged/menu.md)
 * :octocat: **[source code](https://github.com/JoanClaret/slide-and-swipe-menu)**
 ---

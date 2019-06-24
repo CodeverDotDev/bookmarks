@@ -6,27 +6,27 @@ _<sup><sup>[www.bookmarks.dev/tagged/json-processing](https://www.bookmarks.dev/
 _<sup>https://github.com/alibaba/fastjson</sup>_
 
 Very fast processor with no additional dependencies and full data binding.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [json-processing](../tagged/json-processing.md)
+* **tags**: [java](../tagged/java.md), [json-processing](../tagged/json-processing.md)
 * :octocat: **[source code](https://github.com/alibaba/fastjson)**
 ---
 #### [Jolt](https://github.com/bazaarvoice/jolt)
 _<sup>https://github.com/bazaarvoice/jolt</sup>_
 
 JSON to JSON transformation tool.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [json-processing](../tagged/json-processing.md)
+* **tags**: [java](../tagged/java.md), [json-processing](../tagged/json-processing.md)
 * :octocat: **[source code](https://github.com/bazaarvoice/jolt)**
 ---
 #### [JsonPath](https://github.com/jayway/JsonPath)
 _<sup>https://github.com/jayway/JsonPath</sup>_
 
 Extract data from JSON using XPATH-like syntax.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [json-processing](../tagged/json-processing.md)
+* **tags**: [java](../tagged/java.md), [json-processing](../tagged/json-processing.md)
 * :octocat: **[source code](https://github.com/jayway/JsonPath)**
 ---
 #### [JsonSurfer](https://github.com/jsurfer/JsonSurfer)
 _<sup>https://github.com/jsurfer/JsonSurfer</sup>_
 
 Streaming JsonPath processor dedicated to processing big and complicated JSON data.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [json-processing](../tagged/json-processing.md)
+* **tags**: [java](../tagged/java.md), [json-processing](../tagged/json-processing.md)
 * :octocat: **[source code](https://github.com/jsurfer/JsonSurfer)**
 ---

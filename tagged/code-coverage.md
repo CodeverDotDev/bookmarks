@@ -6,25 +6,25 @@ _<sup><sup>[www.bookmarks.dev/tagged/code-coverage](https://www.bookmarks.dev/ta
 _<sup>https://pypi.python.org/pypi/coverage</sup>_
 
 Code coverage measurement.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [testing](../tagged/testing.md), [code-coverage](../tagged/code-coverage.md)
+* **tags**: [python](../tagged/python.md), [testing](../tagged/testing.md), [code-coverage](../tagged/code-coverage.md)
 ---
 #### [Clover ![c](https://www.atlassian.com/software/clover/overview)
 _<sup>https://www.atlassian.com/software/clover/overview</sup>_
 
 Relies on source-code instrumentation instead of bytecode instrumentation.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [code-coverage](../tagged/code-coverage.md)
+* **tags**: [java](../tagged/java.md), [code-coverage](../tagged/code-coverage.md)
 ---
 #### [Cobertura](https://cobertura.github.io/cobertura)
 _<sup>https://cobertura.github.io/cobertura</sup>_
 
 Relies on offline (or static) bytecode instrumentation and class loading to collect code coverage metrics.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [code-coverage](../tagged/code-coverage.md)
+* **tags**: [java](../tagged/java.md), [code-coverage](../tagged/code-coverage.md)
 ---
 #### [JaCoCo](http://eclemma.org/jacoco)
 _<sup>http://eclemma.org/jacoco</sup>_
 
 Framework that enables collection of code coverage metrics, using both offline and runtime bytecode instrumentation.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [code-coverage](../tagged/code-coverage.md)
+* **tags**: [java](../tagged/java.md), [code-coverage](../tagged/code-coverage.md)
 ---
 #### [Setting up test coverage using Mocha, Istanbul, NYC with TypeScript](http://azimi.me/2016/09/30/nyc-mocha-typescript.1.html)
 _<sup>http://azimi.me/2016/09/30/nyc-mocha-typescript.1.html</sup>_

@@ -19,6 +19,6 @@ Hoe is a Rake/RubyGems helper for project Rakefiles.
 _<sup>https://github.com/gatsbyjs/gatsby</sup>_
 
 React-based static site generator.
-* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [generator](../tagged/generator.md)
+* **tags**: [javascript](../tagged/javascript.md), [generator](../tagged/generator.md)
 * :octocat: **[source code](https://github.com/gatsbyjs/gatsby)**
 ---

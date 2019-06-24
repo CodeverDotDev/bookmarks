@@ -6,13 +6,13 @@ _<sup><sup>[www.bookmarks.dev/tagged/uuid](https://www.bookmarks.dev/tagged/uuid
 _<sup>https://github.com/davidaurelio/hashids-python</sup>_
 
 Implementation of [hashids](http://hashids.org) in Python.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [text-processing](../tagged/text-processing.md), [uuid](../tagged/uuid.md)
+* **tags**: [python](../tagged/python.md), [text-processing](../tagged/text-processing.md), [uuid](../tagged/uuid.md)
 * :octocat: **[source code](https://github.com/davidaurelio/hashids-python)**
 ---
 #### [shortuuid](https://github.com/skorokithakis/shortuuid)
 _<sup>https://github.com/skorokithakis/shortuuid</sup>_
 
 A generator library for concise, unambiguous and URL-safe UUIDs.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [text-processing](../tagged/text-processing.md), [uuid](../tagged/uuid.md)
+* **tags**: [python](../tagged/python.md), [text-processing](../tagged/text-processing.md), [uuid](../tagged/uuid.md)
 * :octocat: **[source code](https://github.com/skorokithakis/shortuuid)**
 ---

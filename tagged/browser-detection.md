@@ -6,6 +6,6 @@ _<sup><sup>[www.bookmarks.dev/tagged/browser-detection](https://www.bookmarks.de
 _<sup>https://github.com/ded/bowser</sup>_
 
 a browser detector
-* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [browser-detection](../tagged/browser-detection.md)
+* **tags**: [javascript](../tagged/javascript.md), [browser-detection](../tagged/browser-detection.md)
 * :octocat: **[source code](https://github.com/ded/bowser)**
 ---

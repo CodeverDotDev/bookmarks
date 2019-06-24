@@ -40,6 +40,6 @@ Read text and metadata from files and documents (.doc, .docx, .pages, .odt, .rtf
 _<sup>https://github.com/handsontable/handsontable</sup>_
 
 Handsontable is a JavaScript/HTML5 Spreadsheet Library for Developers
-* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [spreadsheet](../tagged/spreadsheet.md)
+* **tags**: [javascript](../tagged/javascript.md), [spreadsheet](../tagged/spreadsheet.md)
 * :octocat: **[source code](https://github.com/handsontable/handsontable)**
 ---

@@ -6,25 +6,25 @@ _<sup><sup>[www.bookmarks.dev/tagged/continuous-integration](https://www.bookmar
 _<sup>https://circleci.com/</sup>_
 
 A CI service that can run very fast parallel testing. (GitHub only)
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [continuous-integration](../tagged/continuous-integration.md)
+* **tags**: [python](../tagged/python.md), [continuous-integration](../tagged/continuous-integration.md)
 ---
 #### [Travis CI](https://travis-ci.org)
 _<sup>https://travis-ci.org</sup>_
 
 A popular CI service for your open source and [private](https://travis-ci.com) projects. (GitHub only)
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [continuous-integration](../tagged/continuous-integration.md)
+* **tags**: [python](../tagged/python.md), [continuous-integration](../tagged/continuous-integration.md)
 ---
 #### [Vexor CI](https://vexor.io)
 _<sup>https://vexor.io</sup>_
 
 A continuous integration tool for private apps with pay-per-minute billing model.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [continuous-integration](../tagged/continuous-integration.md)
+* **tags**: [python](../tagged/python.md), [continuous-integration](../tagged/continuous-integration.md)
 ---
 #### [Wercker](http://www.wercker.com/)
 _<sup>http://www.wercker.com/</sup>_
 
 A Docker-based platform for building and deploying applications and microservices.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [continuous-integration](../tagged/continuous-integration.md)
+* **tags**: [python](../tagged/python.md), [continuous-integration](../tagged/continuous-integration.md)
 ---
 #### [awesome-ciandcd](https://github.com/ciandcd/awesome-ciandcd#readme)
 _<sup>https://github.com/ciandcd/awesome-ciandcd#readme</sup>_

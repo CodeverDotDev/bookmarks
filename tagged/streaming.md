@@ -6,7 +6,7 @@ _<sup><sup>[www.bookmarks.dev/tagged/streaming](https://www.bookmarks.dev/tagged
 _<sup>https://github.com/zalando/tailor</sup>_
 
 Streaming layout service for front-end microservices, inspired by Facebook's BigPipe.
-* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [streaming](../tagged/streaming.md)
+* **tags**: [javascript](../tagged/javascript.md), [streaming](../tagged/streaming.md)
 * :octocat: **[source code](https://github.com/zalando/tailor)**
 ---
 #### [awesome-streaming](https://github.com/manuzhang/awesome-streaming#readme)

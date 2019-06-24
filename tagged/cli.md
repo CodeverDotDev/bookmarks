@@ -104,145 +104,145 @@ A simple, colorful and customizable terminal spinner library for Ruby.
 _<sup>http://builtoncement.com/</sup>_
 
 CLI Application Framework for Python.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [command-line-tools](../tagged/command-line-tools.md), [cli](../tagged/cli.md)
+* **tags**: [python](../tagged/python.md), [command-line-tools](../tagged/command-line-tools.md), [cli](../tagged/cli.md)
 ---
 #### [click](http://click.pocoo.org/dev/)
 _<sup>http://click.pocoo.org/dev/</sup>_
 
 A package for creating beautiful command line interfaces in a composable way.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [command-line-tools](../tagged/command-line-tools.md), [cli](../tagged/cli.md)
+* **tags**: [python](../tagged/python.md), [command-line-tools](../tagged/command-line-tools.md), [cli](../tagged/cli.md)
 ---
 #### [cliff](https://docs.openstack.org/developer/cliff/)
 _<sup>https://docs.openstack.org/developer/cliff/</sup>_
 
 A framework for creating command-line programs with multi-level commands.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [command-line-tools](../tagged/command-line-tools.md), [cli](../tagged/cli.md)
+* **tags**: [python](../tagged/python.md), [command-line-tools](../tagged/command-line-tools.md), [cli](../tagged/cli.md)
 ---
 #### [clint](https://github.com/kennethreitz/clint)
 _<sup>https://github.com/kennethreitz/clint</sup>_
 
 Python Command-line Application Tools.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [command-line-tools](../tagged/command-line-tools.md), [cli](../tagged/cli.md)
+* **tags**: [python](../tagged/python.md), [command-line-tools](../tagged/command-line-tools.md), [cli](../tagged/cli.md)
 * :octocat: **[source code](https://github.com/kennethreitz/clint)**
 ---
 #### [docopt](http://docopt.org/)
 _<sup>http://docopt.org/</sup>_
 
 Pythonic command line arguments parser.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [command-line-tools](../tagged/command-line-tools.md), [cli](../tagged/cli.md)
+* **tags**: [python](../tagged/python.md), [command-line-tools](../tagged/command-line-tools.md), [cli](../tagged/cli.md)
 ---
 #### [python-fire](https://github.com/google/python-fire)
 _<sup>https://github.com/google/python-fire</sup>_
 
 A library for creating command line interfaces from absolutely any Python object.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [command-line-tools](../tagged/command-line-tools.md), [cli](../tagged/cli.md)
+* **tags**: [python](../tagged/python.md), [command-line-tools](../tagged/command-line-tools.md), [cli](../tagged/cli.md)
 * :octocat: **[source code](https://github.com/google/python-fire)**
 ---
 #### [python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit)
 _<sup>https://github.com/jonathanslenders/python-prompt-toolkit</sup>_
 
 A library for building powerful interactive command lines.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [command-line-tools](../tagged/command-line-tools.md), [cli](../tagged/cli.md)
+* **tags**: [python](../tagged/python.md), [command-line-tools](../tagged/command-line-tools.md), [cli](../tagged/cli.md)
 * :octocat: **[source code](https://github.com/jonathanslenders/python-prompt-toolkit)**
 ---
 #### [asciimatics](https://github.com/peterbrittain/asciimatics)
 _<sup>https://github.com/peterbrittain/asciimatics</sup>_
 
 A package to create full-screen text UIs (from interactive forms to ASCII animations).
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [command-line-tools](../tagged/command-line-tools.md), [cli](../tagged/cli.md), [terminal](../tagged/terminal.md)
+* **tags**: [python](../tagged/python.md), [command-line-tools](../tagged/command-line-tools.md), [cli](../tagged/cli.md), [terminal](../tagged/terminal.md)
 * :octocat: **[source code](https://github.com/peterbrittain/asciimatics)**
 ---
 #### [bashplotlib](https://github.com/glamp/bashplotlib)
 _<sup>https://github.com/glamp/bashplotlib</sup>_
 
 Making basic plots in the terminal.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [command-line-tools](../tagged/command-line-tools.md), [cli](../tagged/cli.md), [terminal](../tagged/terminal.md)
+* **tags**: [python](../tagged/python.md), [command-line-tools](../tagged/command-line-tools.md), [cli](../tagged/cli.md), [terminal](../tagged/terminal.md)
 * :octocat: **[source code](https://github.com/glamp/bashplotlib)**
 ---
 #### [colorama](https://pypi.python.org/pypi/colorama)
 _<sup>https://pypi.python.org/pypi/colorama</sup>_
 
 Cross-platform colored terminal text.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [command-line-tools](../tagged/command-line-tools.md), [cli](../tagged/cli.md), [terminal](../tagged/terminal.md)
+* **tags**: [python](../tagged/python.md), [command-line-tools](../tagged/command-line-tools.md), [cli](../tagged/cli.md), [terminal](../tagged/terminal.md)
 ---
 #### [ASCII Table](https://github.com/vdmeer/asciitable)
 _<sup>https://github.com/vdmeer/asciitable</sup>_
 
 Library to draw tables in ASCII.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [cli](../tagged/cli.md)
+* **tags**: [java](../tagged/java.md), [cli](../tagged/cli.md)
 * :octocat: **[source code](https://github.com/vdmeer/asciitable)**
 ---
 #### [Airline](https://github.com/airlift/airline)
 _<sup>https://github.com/airlift/airline</sup>_
 
 Annotation-based framework for parsing Git-like command-line arguments.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [cli](../tagged/cli.md)
+* **tags**: [java](../tagged/java.md), [cli](../tagged/cli.md)
 * :octocat: **[source code](https://github.com/airlift/airline)**
 ---
 #### [args4j](http://args4j.kohsuke.org)
 _<sup>http://args4j.kohsuke.org</sup>_
 
 Small library to parse command-line arguments.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [cli](../tagged/cli.md)
+* **tags**: [java](../tagged/java.md), [cli](../tagged/cli.md)
 ---
 #### [Jansi](https://github.com/fusesource/jansi)
 _<sup>https://github.com/fusesource/jansi</sup>_
 
 ANSI escape codes to format console output.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [cli](../tagged/cli.md)
+* **tags**: [java](../tagged/java.md), [cli](../tagged/cli.md)
 * :octocat: **[source code](https://github.com/fusesource/jansi)**
 ---
 #### [Java ASCII Render](https://github.com/indvd00m/java-ascii-render)
 _<sup>https://github.com/indvd00m/java-ascii-render</sup>_
 
 Graphical primitives for the console.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [cli](../tagged/cli.md)
+* **tags**: [java](../tagged/java.md), [cli](../tagged/cli.md)
 * :octocat: **[source code](https://github.com/indvd00m/java-ascii-render)**
 ---
 #### [JCommander](http://jcommander.org)
 _<sup>http://jcommander.org</sup>_
 
 Command-line argument-parsing framework with custom types and validation via implementing interfaces.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [cli](../tagged/cli.md)
+* **tags**: [java](../tagged/java.md), [cli](../tagged/cli.md)
 ---
 #### [jbock](https://github.com/h908714124/jbock)
 _<sup>https://github.com/h908714124/jbock</sup>_
 
 Typesafe, reflection-free, annotation based command-line parser
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [cli](../tagged/cli.md)
+* **tags**: [java](../tagged/java.md), [cli](../tagged/cli.md)
 * :octocat: **[source code](https://github.com/h908714124/jbock)**
 ---
 #### [JLine](https://github.com/jline/jline3)
 _<sup>https://github.com/jline/jline3</sup>_
 
 Includes features from modern shells like completion or history.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [cli](../tagged/cli.md)
+* **tags**: [java](../tagged/java.md), [cli](../tagged/cli.md)
 * :octocat: **[source code](https://github.com/jline/jline3)**
 ---
 #### [JOpt Simple](https://pholser.github.io/jopt-simple)
 _<sup>https://pholser.github.io/jopt-simple</sup>_
 
 Fluent parser that uses the POSIXgetopt and GNUgetopt_long syntaxes.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [cli](../tagged/cli.md)
+* **tags**: [java](../tagged/java.md), [cli](../tagged/cli.md)
 ---
 #### [picocli](http://picocli.info)
 _<sup>http://picocli.info</sup>_
 
 ANSI colors and styles in usage help with annotation-based POSIX/GNU/any syntax, subcommands, strong typing for both options and positional args.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [cli](../tagged/cli.md)
+* **tags**: [java](../tagged/java.md), [cli](../tagged/cli.md)
 ---
 #### [Text-IO](https://github.com/beryx/text-io)
 _<sup>https://github.com/beryx/text-io</sup>_
 
 Aids the creation of full console-based applications.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [cli](../tagged/cli.md)
+* **tags**: [java](../tagged/java.md), [cli](../tagged/cli.md)
 * :octocat: **[source code](https://github.com/beryx/text-io)**
 ---
 #### [Lanterna](https://github.com/mabe02/lanterna)
 _<sup>https://github.com/mabe02/lanterna</sup>_
 
 Easy console text-GUI library, similar to curses.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [cli](../tagged/cli.md)
+* **tags**: [java](../tagged/java.md), [cli](../tagged/cli.md)
 * :octocat: **[source code](https://github.com/mabe02/lanterna)**
 ---
 #### [Create React App · Set up a modern web app by running one command.](https://facebook.github.io/create-react-app/)

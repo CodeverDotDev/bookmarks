@@ -6,7 +6,7 @@ _<sup><sup>[www.bookmarks.dev/tagged/elm](https://www.bookmarks.dev/tagged/elm)<
 _<sup>https://github.com/dillonkearns/elm-graphql</sup>_
 
 GraphQL for Elm.
-* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [elm](../tagged/elm.md), [libraries](../tagged/libraries.md)
+* **tags**: [graphql](../tagged/graphql.md), [elm](../tagged/elm.md), [libraries](../tagged/libraries.md)
 * :octocat: **[source code](https://github.com/dillonkearns/elm-graphql)**
 ---
 #### [awesome-elm](https://github.com/isRuslan/awesome-elm#readme)

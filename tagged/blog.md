@@ -13,30 +13,30 @@ Space-Ready Publishing with Gatsby and IPFS
 _<sup>https://nodejs.org/en/blog/</sup>_
 
 Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.
-* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [blog](../tagged/blog.md)
+* **tags**: [nodejs](../tagged/nodejs.md), [blog](../tagged/blog.md)
 ---
 #### [webapplog.com](http://webapplog.com/tag/node-js/)
 _<sup>http://webapplog.com/tag/node-js/</sup>_
 
 Blog posts on Node.js and JavaScript from the author of Practical Node.js and Pro Express.js Azat Mardan.
-* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [blog](../tagged/blog.md)
+* **tags**: [nodejs](../tagged/nodejs.md), [blog](../tagged/blog.md)
 ---
 #### [Official GraphQL blog](https://graphql.org/blog/)
 _<sup>https://graphql.org/blog/</sup>_
 
-* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [blog](../tagged/blog.md)
+* **tags**: [graphql](../tagged/graphql.md), [blog](../tagged/blog.md)
 ---
 #### [Building Apollo](https://blog.apollographql.com/)
 _<sup>https://blog.apollographql.com/</sup>_
 
 We build the Apollo Platform to help developers adopt GraphQL the right way.
-* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [blog](../tagged/blog.md)
+* **tags**: [graphql](../tagged/graphql.md), [blog](../tagged/blog.md)
 ---
 #### [The Guild blog](https://medium.com/the-guild)
 _<sup>https://medium.com/the-guild</sup>_
 
 The Guild.
-* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [blog](../tagged/blog.md)
+* **tags**: [graphql](../tagged/graphql.md), [blog](../tagged/blog.md)
 ---
 #### [awesome-engineering-blogs](https://github.com/kilimchoi/engineering-blogs#readme)
 _<sup>https://github.com/kilimchoi/engineering-blogs#readme</sup>_

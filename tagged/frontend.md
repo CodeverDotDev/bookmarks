@@ -13,7 +13,7 @@ This presentation gives an overview of cutting-edge JavaScript development techn
 _<sup>https://java.libhunt.com</sup>_
 
 Your go-to Java Toolbox. A curated list of awesome Java frameworks, libraries and software. 706 projects organized into 80 categories.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [frontend](../tagged/frontend.md)
+* **tags**: [java](../tagged/java.md), [frontend](../tagged/frontend.md)
 ---
 #### [awesome-frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks#readme)
 _<sup>https://github.com/dypsilon/frontend-dev-bookmarks#readme</sup>_

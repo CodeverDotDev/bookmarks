@@ -6,13 +6,13 @@ _<sup><sup>[www.bookmarks.dev/tagged/hypermedia-types](https://www.bookmarks.dev
 _<sup>https://github.com/jsonld-java/jsonld-java</sup>_
 
 JSON-LD implementation.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [hypermedia-types](../tagged/hypermedia-types.md)
+* **tags**: [java](../tagged/java.md), [hypermedia-types](../tagged/hypermedia-types.md)
 * :octocat: **[source code](https://github.com/jsonld-java/jsonld-java)**
 ---
 #### [Siren4J](https://github.com/eserating/siren4j)
 _<sup>https://github.com/eserating/siren4j</sup>_
 
 Library for the Siren specification.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [hypermedia-types](../tagged/hypermedia-types.md)
+* **tags**: [java](../tagged/java.md), [hypermedia-types](../tagged/hypermedia-types.md)
 * :octocat: **[source code](https://github.com/eserating/siren4j)**
 ---

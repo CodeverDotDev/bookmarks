@@ -6,7 +6,7 @@ _<sup><sup>[www.bookmarks.dev/tagged/chatops](https://www.bookmarks.dev/tagged/c
 _<sup>https://github.com/errbotio/errbot/</sup>_
 
 The easiest and most popular chatbot to implement ChatOps.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [chatops](../tagged/chatops.md), [tools](../tagged/tools.md)
+* **tags**: [python](../tagged/python.md), [chatops](../tagged/chatops.md), [tools](../tagged/tools.md)
 * :octocat: **[source code](https://github.com/errbotio/errbot/)**
 ---
 #### [awesome-chatops](https://github.com/exAspArk/awesome-chatops#readme)

@@ -6,13 +6,13 @@ _<sup><sup>[www.bookmarks.dev/tagged/ast](https://www.bookmarks.dev/tagged/ast)<
 _<sup>https://github.com/ternjs/acorn</sup>_
 
 Tiny, fast JavaScript parser.
-* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [ast](../tagged/ast.md)
+* **tags**: [nodejs](../tagged/nodejs.md), [ast](../tagged/ast.md)
 * :octocat: **[source code](https://github.com/ternjs/acorn)**
 ---
 #### [babel-parser](https://github.com/babel/babel/tree/master/packages/babel-parser)
 _<sup>https://github.com/babel/babel/tree/master/packages/babel-parser</sup>_
 
 JavaScript parser used in Babel.
-* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [ast](../tagged/ast.md)
+* **tags**: [nodejs](../tagged/nodejs.md), [ast](../tagged/ast.md)
 * :octocat: **[source code](https://github.com/babel/babel/tree/master/packages/babel-parser)**
 ---

@@ -6,40 +6,40 @@ _<sup><sup>[www.bookmarks.dev/tagged/bdd](https://www.bookmarks.dev/tagged/bdd)<
 _<sup>https://github.com/cucumber/cucumber-jvm</sup>_
 
 Provides a way to describe features in a plain language which customers can understand.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [bdd](../tagged/bdd.md)
+* **tags**: [java](../tagged/java.md), [testing](../tagged/testing.md), [bdd](../tagged/bdd.md)
 * :octocat: **[source code](https://github.com/cucumber/cucumber-jvm)**
 ---
 #### [Cukes-REST](https://github.com/ctco/cukes-rest)
 _<sup>https://github.com/ctco/cukes-rest</sup>_
 
 A collection of Gherkin steps for REST-service testing using Cucumber.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [bdd](../tagged/bdd.md)
+* **tags**: [java](../tagged/java.md), [testing](../tagged/testing.md), [bdd](../tagged/bdd.md)
 * :octocat: **[source code](https://github.com/ctco/cukes-rest)**
 ---
 #### [J8Spec](https://github.com/j8spec/j8spec)
 _<sup>https://github.com/j8spec/j8spec</sup>_
 
 Follows a Jasmine-like syntax.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [bdd](../tagged/bdd.md)
+* **tags**: [java](../tagged/java.md), [testing](../tagged/testing.md), [bdd](../tagged/bdd.md)
 * :octocat: **[source code](https://github.com/j8spec/j8spec)**
 ---
 #### [JBehave](http://jbehave.org)
 _<sup>http://jbehave.org</sup>_
 
 Extensively configurable framework that describes stories.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [bdd](../tagged/bdd.md)
+* **tags**: [java](../tagged/java.md), [testing](../tagged/testing.md), [bdd](../tagged/bdd.md)
 ---
 #### [JGiven](http://jgiven.org)
 _<sup>http://jgiven.org</sup>_
 
 Provides a fluent API which allows for simpler composition.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [bdd](../tagged/bdd.md)
+* **tags**: [java](../tagged/java.md), [testing](../tagged/testing.md), [bdd](../tagged/bdd.md)
 ---
 #### [Lamdba Behave](https://github.com/RichardWarburton/lambda-behave)
 _<sup>https://github.com/RichardWarburton/lambda-behave</sup>_
 
 Aims to provide a fluent API to write tests in long and descriptive sentences that read like plain English.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [testing](../tagged/testing.md), [bdd](../tagged/bdd.md)
+* **tags**: [java](../tagged/java.md), [testing](../tagged/testing.md), [bdd](../tagged/bdd.md)
 * :octocat: **[source code](https://github.com/RichardWarburton/lambda-behave)**
 ---
 #### [Should.js API Documentation](http://shouldjs.github.io/)

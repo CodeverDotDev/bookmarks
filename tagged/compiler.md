@@ -41,19 +41,19 @@ A high performance implementation of the Ruby programming language. Built on the
 _<sup>http://www.antlr.org</sup>_
 
 Complex full-featured framework for top-down parsing.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [compiler](../tagged/compiler.md)
+* **tags**: [java](../tagged/java.md), [compiler](../tagged/compiler.md)
 ---
 #### [JavaCC](https://javacc.org)
 _<sup>https://javacc.org</sup>_
 
 Parser generator that generates top-down parsers. Allows lexical state switching and permits extended BNF specifications.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [compiler](../tagged/compiler.md)
+* **tags**: [java](../tagged/java.md), [compiler](../tagged/compiler.md)
 ---
 #### [JFlex](http://jflex.de)
 _<sup>http://jflex.de</sup>_
 
 A lexical analyzer generator.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [compiler](../tagged/compiler.md)
+* **tags**: [java](../tagged/java.md), [compiler](../tagged/compiler.md)
 ---
 #### [Abstract syntax tree - Wikipedia](https://en.wikipedia.org/wiki/Abstract_syntax_tree)
 _<sup>https://en.wikipedia.org/wiki/Abstract_syntax_tree</sup>_

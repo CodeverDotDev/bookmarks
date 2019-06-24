@@ -14,177 +14,177 @@ To try out GraphQL I am going to use the Hyperwallet REST V3 APIs and expose the
 _<sup>http://www.django-rest-framework.org/</sup>_
 
 A powerful and flexible toolkit to build web APIs.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [rest](../tagged/rest.md), [django](../tagged/django.md)
+* **tags**: [python](../tagged/python.md), [rest](../tagged/rest.md), [django](../tagged/django.md)
 ---
 #### [django-tastypie](http://tastypieapi.org/)
 _<sup>http://tastypieapi.org/</sup>_
 
 Creating delicious APIs for Django apps.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [rest](../tagged/rest.md), [django](../tagged/django.md)
+* **tags**: [python](../tagged/python.md), [rest](../tagged/rest.md), [django](../tagged/django.md)
 ---
 #### [eve](https://github.com/pyeve/eve)
 _<sup>https://github.com/pyeve/eve</sup>_
 
 REST API framework powered by Flask, MongoDB and good intentions.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [rest](../tagged/rest.md), [flask](../tagged/flask.md)
+* **tags**: [python](../tagged/python.md), [rest](../tagged/rest.md), [flask](../tagged/flask.md)
 * :octocat: **[source code](https://github.com/pyeve/eve)**
 ---
 #### [flask-api-utils](https://github.com/marselester/flask-api-utils)
 _<sup>https://github.com/marselester/flask-api-utils</sup>_
 
 Taking care of API representation and authentication for Flask.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [rest](../tagged/rest.md), [flask](../tagged/flask.md)
+* **tags**: [python](../tagged/python.md), [rest](../tagged/rest.md), [flask](../tagged/flask.md)
 * :octocat: **[source code](https://github.com/marselester/flask-api-utils)**
 ---
 #### [flask-api](http://www.flaskapi.org/)
 _<sup>http://www.flaskapi.org/</sup>_
 
 Browsable Web APIs for Flask.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [rest](../tagged/rest.md), [flask](../tagged/flask.md)
+* **tags**: [python](../tagged/python.md), [rest](../tagged/rest.md), [flask](../tagged/flask.md)
 ---
 #### [flask-restful](https://github.com/flask-restful/flask-restful)
 _<sup>https://github.com/flask-restful/flask-restful</sup>_
 
 Quickly building REST APIs for Flask.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [rest](../tagged/rest.md), [flask](../tagged/flask.md)
+* **tags**: [python](../tagged/python.md), [rest](../tagged/rest.md), [flask](../tagged/flask.md)
 * :octocat: **[source code](https://github.com/flask-restful/flask-restful)**
 ---
 #### [flask-restless](https://github.com/jfinkels/flask-restless)
 _<sup>https://github.com/jfinkels/flask-restless</sup>_
 
 Generating RESTful APIs for database models defined with SQLAlchemy.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [rest](../tagged/rest.md), [flask](../tagged/flask.md)
+* **tags**: [python](../tagged/python.md), [rest](../tagged/rest.md), [flask](../tagged/flask.md)
 * :octocat: **[source code](https://github.com/jfinkels/flask-restless)**
 ---
 #### [cornice](https://github.com/Cornices/cornice)
 _<sup>https://github.com/Cornices/cornice</sup>_
 
 A RESTful framework for Pyramid.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [rest](../tagged/rest.md), [pyramid](../tagged/pyramid.md)
+* **tags**: [python](../tagged/python.md), [rest](../tagged/rest.md), [pyramid](../tagged/pyramid.md)
 * :octocat: **[source code](https://github.com/Cornices/cornice)**
 ---
 #### [apistar](https://github.com/encode/apistar)
 _<sup>https://github.com/encode/apistar</sup>_
 
 A smart Web API framework, designed for Python 3.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [rest](../tagged/rest.md)
+* **tags**: [python](../tagged/python.md), [rest](../tagged/rest.md)
 * :octocat: **[source code](https://github.com/encode/apistar)**
 ---
 #### [falcon](http://falconframework.org/)
 _<sup>http://falconframework.org/</sup>_
 
 A high-performance framework for building cloud APIs and web app backends.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [rest](../tagged/rest.md)
+* **tags**: [python](../tagged/python.md), [rest](../tagged/rest.md)
 ---
 #### [hug](https://github.com/timothycrosley/hug)
 _<sup>https://github.com/timothycrosley/hug</sup>_
 
 A Python3 framework for cleanly exposing APIs over HTTP and the Command Line with automatic documentation and validation.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [rest](../tagged/rest.md)
+* **tags**: [python](../tagged/python.md), [rest](../tagged/rest.md)
 * :octocat: **[source code](https://github.com/timothycrosley/hug)**
 ---
 #### [restless](https://github.com/toastdriven/restless)
 _<sup>https://github.com/toastdriven/restless</sup>_
 
 Framework agnostic REST framework based on lessons learned from Tastypie.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [rest](../tagged/rest.md)
+* **tags**: [python](../tagged/python.md), [rest](../tagged/rest.md)
 * :octocat: **[source code](https://github.com/toastdriven/restless)**
 ---
 #### [ripozo](https://github.com/vertical-knowledge/ripozo)
 _<sup>https://github.com/vertical-knowledge/ripozo</sup>_
 
 Quickly creating REST/HATEOAS/Hypermedia APIs.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [rest](../tagged/rest.md)
+* **tags**: [python](../tagged/python.md), [rest](../tagged/rest.md)
 * :octocat: **[source code](https://github.com/vertical-knowledge/ripozo)**
 ---
 #### [sandman](https://github.com/jeffknupp/sandman)
 _<sup>https://github.com/jeffknupp/sandman</sup>_
 
 Automated REST APIs for existing database-driven systems.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [rest](../tagged/rest.md)
+* **tags**: [python](../tagged/python.md), [rest](../tagged/rest.md)
 * :octocat: **[source code](https://github.com/jeffknupp/sandman)**
 ---
 #### [Dropwizard](https://dropwizard.github.io/dropwizard)
 _<sup>https://dropwizard.github.io/dropwizard</sup>_
 
 Opinionated framework for setting up modern web applications with Jetty, Jackson, Jersey and Metrics.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [rest](../tagged/rest.md)
+* **tags**: [java](../tagged/java.md), [rest](../tagged/rest.md)
 ---
 #### [Elide](http://elide.io/)
 _<sup>http://elide.io/</sup>_
 
 Opinionated framework for JSON- or GraphQL-APIs based on a JPA data model.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [rest](../tagged/rest.md)
+* **tags**: [java](../tagged/java.md), [rest](../tagged/rest.md)
 ---
 #### [javalin](https://javalin.io)
 _<sup>https://javalin.io</sup>_
 
 Javalin is just a few thousand lines of code on top of Jetty, which means its performance is almost equivalent to pure Jetty.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [rest](../tagged/rest.md)
+* **tags**: [java](../tagged/java.md), [rest](../tagged/rest.md)
 ---
 #### [Jersey](https://jersey.github.io)
 _<sup>https://jersey.github.io</sup>_
 
 JAX-RS reference implementation.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [rest](../tagged/rest.md)
+* **tags**: [java](../tagged/java.md), [rest](../tagged/rest.md)
 ---
 #### [Microserver](https://github.com/aol/micro-server)
 _<sup>https://github.com/aol/micro-server</sup>_
 
 Microserver is a Java 8 native, zero configuration, standards based, battle hardened library to run Java Rest Microservices via a standard Java main class. Supporting pure Microservice or Micro-monoli...
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [rest](../tagged/rest.md)
+* **tags**: [java](../tagged/java.md), [rest](../tagged/rest.md)
 * :octocat: **[source code](https://github.com/aol/micro-server)**
 ---
 #### [Rapidoid](https://www.rapidoid.org)
 _<sup>https://www.rapidoid.org</sup>_
 
 A simple, secure and extremely fast framework consisting of an embedded HTTP server, GUI components and dependency injection.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [rest](../tagged/rest.md)
+* **tags**: [java](../tagged/java.md), [rest](../tagged/rest.md)
 ---
 #### [rest.li](https://github.com/linkedin/rest.li)
 _<sup>https://github.com/linkedin/rest.li</sup>_
 
 Framework for building robust, scalable RESTful architectures using typesafe bindings and asynchronous, non-blocking IO with an end-to-end developer workflow that promotes clean practices, uniform int...
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [rest](../tagged/rest.md)
+* **tags**: [java](../tagged/java.md), [rest](../tagged/rest.md)
 * :octocat: **[source code](https://github.com/linkedin/rest.li)**
 ---
 #### [RESTEasy](https://resteasy.jboss.org)
 _<sup>https://resteasy.jboss.org</sup>_
 
 Fully certified and portable implementation of the JAX-RS specification.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [rest](../tagged/rest.md)
+* **tags**: [java](../tagged/java.md), [rest](../tagged/rest.md)
 ---
 #### [RestExpress](https://github.com/RestExpress/RestExpress)
 _<sup>https://github.com/RestExpress/RestExpress</sup>_
 
 Thin wrapper on the JBoss Netty HTTP stack that provides scaling and performance.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [rest](../tagged/rest.md)
+* **tags**: [java](../tagged/java.md), [rest](../tagged/rest.md)
 * :octocat: **[source code](https://github.com/RestExpress/RestExpress)**
 ---
 #### [Restlet Framework](https://github.com/restlet/restlet-framework-java)
 _<sup>https://github.com/restlet/restlet-framework-java</sup>_
 
 Pioneering framework with powerful routing and filtering capabilities, and a unified client and server API.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [rest](../tagged/rest.md)
+* **tags**: [java](../tagged/java.md), [rest](../tagged/rest.md)
 * :octocat: **[source code](https://github.com/restlet/restlet-framework-java)**
 ---
 #### [Spark](http://sparkjava.com)
 _<sup>http://sparkjava.com</sup>_
 
 Sinatra inspired framework.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [rest](../tagged/rest.md)
+* **tags**: [java](../tagged/java.md), [rest](../tagged/rest.md)
 ---
 #### [Crnk](http://www.crnk.io)
 _<sup>http://www.crnk.io</sup>_
 
 Implementation of the JSON API specification to build resource-oriented REST endpoints with sorting, filtering, paging, linking, object graphs, type-safety, bulk updates, integrations and more.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [rest](../tagged/rest.md)
+* **tags**: [java](../tagged/java.md), [rest](../tagged/rest.md)
 ---
 #### [Swagger](https://swagger.io)
 _<sup>https://swagger.io</sup>_
 
 Standard, language-agnostic interface to REST APIs.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [rest](../tagged/rest.md)
+* **tags**: [java](../tagged/java.md), [rest](../tagged/rest.md)
 ---
 #### [awesome-rest](https://github.com/marmelab/awesome-rest#readme)
 _<sup>https://github.com/marmelab/awesome-rest#readme</sup>_

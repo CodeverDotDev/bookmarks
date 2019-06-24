@@ -6,14 +6,14 @@ _<sup><sup>[www.bookmarks.dev/tagged/ios](https://www.bookmarks.dev/tagged/ios)<
 _<sup>https://github.com/apollographql/apollo-ios</sup>_
 
 ðŸ“± A strongly-typed, caching GraphQL client for iOS, written in Swift
-* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [ios](../tagged/ios.md), [libraries](../tagged/libraries.md)
+* **tags**: [graphql](../tagged/graphql.md), [ios](../tagged/ios.md), [libraries](../tagged/libraries.md)
 * :octocat: **[source code](https://github.com/apollographql/apollo-ios)**
 ---
 #### [frontpage-ios-app](https://github.com/apollographql/frontpage-ios-app)
 _<sup>https://github.com/apollographql/frontpage-ios-app</sup>_
 
 ðŸ“„ Apollo "hello world" app, for iOS
-* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [ios](../tagged/ios.md)
+* **tags**: [graphql](../tagged/graphql.md), [ios](../tagged/ios.md)
 * :octocat: **[source code](https://github.com/apollographql/frontpage-ios-app)**
 ---
 #### [awesome-ios](https://github.com/vsouza/awesome-ios#readme)

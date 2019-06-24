@@ -182,7 +182,7 @@ This post shares some solutions to setup Keycloak cluster in various scenarios (
 _<sup>https://github.com/cloudnativelabs/kube-shell</sup>_
 
 An integrated shell for working with the Kubernetes CLI.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [command-line-tools](../tagged/command-line-tools.md), [cli-enhancements](../tagged/cli-enhancements.md), [kubernetes](../tagged/kubernetes.md)
+* **tags**: [python](../tagged/python.md), [command-line-tools](../tagged/command-line-tools.md), [cli-enhancements](../tagged/cli-enhancements.md), [kubernetes](../tagged/kubernetes.md)
 * :octocat: **[source code](https://github.com/cloudnativelabs/kube-shell)**
 ---
 #### [An Introduction to Kubernetes](https://www.digitalocean.com/community/tutorials/an-introduction-to-kubernetes)

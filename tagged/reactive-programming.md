@@ -6,48 +6,48 @@ _<sup><sup>[www.bookmarks.dev/tagged/reactive-programming](https://www.bookmarks
 _<sup>https://github.com/Reactive-Extensions/RxJS</sup>_
 
 The Reactive Extensions for JavaScript.
-* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [reactive-programming](../tagged/reactive-programming.md)
+* **tags**: [javascript](../tagged/javascript.md), [reactive-programming](../tagged/reactive-programming.md)
 * :octocat: **[source code](https://github.com/Reactive-Extensions/RxJS)**
 ---
 #### [Bacon](https://github.com/baconjs/bacon.js)
 _<sup>https://github.com/baconjs/bacon.js</sup>_
 
 FRP (functional reactive programming) library for Javascript.
-* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [reactive-programming](../tagged/reactive-programming.md)
+* **tags**: [javascript](../tagged/javascript.md), [reactive-programming](../tagged/reactive-programming.md)
 * :octocat: **[source code](https://github.com/baconjs/bacon.js)**
 ---
 #### [Kefir](https://github.com/pozadi/kefir)
 _<sup>https://github.com/pozadi/kefir</sup>_
 
 FRP library for JavaScript inspired by Bacon.js and RxJS with focus on high performance and low memory consumption.
-* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [reactive-programming](../tagged/reactive-programming.md)
+* **tags**: [javascript](../tagged/javascript.md), [reactive-programming](../tagged/reactive-programming.md)
 * :octocat: **[source code](https://github.com/pozadi/kefir)**
 ---
 #### [Highland](http://highlandjs.org/)
 _<sup>http://highlandjs.org/</sup>_
 
 Re-thinking the JavaScript utility belt, Highland manages synchronous and asynchronous code easily, using nothing more than standard JavaScript and Node-like Streams.
-* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [reactive-programming](../tagged/reactive-programming.md)
+* **tags**: [javascript](../tagged/javascript.md), [reactive-programming](../tagged/reactive-programming.md)
 ---
 #### [Most.js](https://github.com/cujojs/most)
 _<sup>https://github.com/cujojs/most</sup>_
 
 high performance FRP library.
-* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [reactive-programming](../tagged/reactive-programming.md)
+* **tags**: [javascript](../tagged/javascript.md), [reactive-programming](../tagged/reactive-programming.md)
 * :octocat: **[source code](https://github.com/cujojs/most)**
 ---
 #### [MobX](https://github.com/mobxjs/mobx)
 _<sup>https://github.com/mobxjs/mobx</sup>_
 
 TFRP library for simple, scalable state management.
-* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [reactive-programming](../tagged/reactive-programming.md)
+* **tags**: [javascript](../tagged/javascript.md), [reactive-programming](../tagged/reactive-programming.md)
 * :octocat: **[source code](https://github.com/mobxjs/mobx)**
 ---
 #### [Cycle.js](https://cycle.js.org)
 _<sup>https://cycle.js.org</sup>_
 
 A functional and reactive JavaScript library for cleaner code.
-* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [reactive-programming](../tagged/reactive-programming.md)
+* **tags**: [javascript](../tagged/javascript.md), [reactive-programming](../tagged/reactive-programming.md)
 ---
 #### [Build Reactive APIs with Spring WebFlux](https://developer.okta.com/blog/2018/09/24/reactive-apis-with-spring-webflux#secure-your-spring-webflux-reactive-api-with-oidc)
 _<sup>https://developer.okta.com/blog/2018/09/24/reactive-apis-with-spring-webflux#secure-your-spring-webf...</sup>_

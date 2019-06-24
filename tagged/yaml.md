@@ -20,5 +20,5 @@ In this tutorial, you'll learn the basics of writing YAML syntax
 _<sup>http://pyyaml.org/</sup>_
 
 YAML implementations for Python.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [text-parsing](../tagged/text-parsing.md), [yaml](../tagged/yaml.md)
+* **tags**: [python](../tagged/python.md), [text-parsing](../tagged/text-parsing.md), [yaml](../tagged/yaml.md)
 ---

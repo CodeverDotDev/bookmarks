@@ -55,14 +55,14 @@ Minimal authorization through OO design and pure Ruby classes.
 _<sup>https://github.com/stalniy/casl</sup>_
 
 Isomorphic authorization for UI and API.
-* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [authorization](../tagged/authorization.md)
+* **tags**: [nodejs](../tagged/nodejs.md), [authorization](../tagged/authorization.md)
 * :octocat: **[source code](https://github.com/stalniy/casl)**
 ---
 #### [node-casbin](https://github.com/casbin/node-casbin)
 _<sup>https://github.com/casbin/node-casbin</sup>_
 
 Authorization library that supports access control models like ACL, RBAC and ABAC.
-* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [authorization](../tagged/authorization.md)
+* **tags**: [nodejs](../tagged/nodejs.md), [authorization](../tagged/authorization.md)
 * :octocat: **[source code](https://github.com/casbin/node-casbin)**
 ---
 #### [OAuth 2.0 and OpenID Connect (in plain English) - YouTube](https://www.youtube.com/watch?v=996OiexHze0)

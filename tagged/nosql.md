@@ -6,28 +6,28 @@ _<sup><sup>[www.bookmarks.dev/tagged/nosql](https://www.bookmarks.dev/tagged/nos
 _<sup>https://github.com/stephenmcd/hot-redis</sup>_
 
 Rich Python data types for Redis.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [orm](../tagged/orm.md), [nosql](../tagged/nosql.md)
+* **tags**: [python](../tagged/python.md), [orm](../tagged/orm.md), [nosql](../tagged/nosql.md)
 * :octocat: **[source code](https://github.com/stephenmcd/hot-redis)**
 ---
 #### [mongoengine](https://github.com/MongoEngine/mongoengine)
 _<sup>https://github.com/MongoEngine/mongoengine</sup>_
 
 A Python Object-Document-Mapper for working with MongoDB.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [orm](../tagged/orm.md), [nosql](../tagged/nosql.md)
+* **tags**: [python](../tagged/python.md), [orm](../tagged/orm.md), [nosql](../tagged/nosql.md)
 * :octocat: **[source code](https://github.com/MongoEngine/mongoengine)**
 ---
 #### [PynamoDB](https://github.com/pynamodb/PynamoDB)
 _<sup>https://github.com/pynamodb/PynamoDB</sup>_
 
 A Pythonic interface for [Amazon DynamoDB](https://aws.amazon.com/dynamodb/).
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [orm](../tagged/orm.md), [nosql](../tagged/nosql.md)
+* **tags**: [python](../tagged/python.md), [orm](../tagged/orm.md), [nosql](../tagged/nosql.md)
 * :octocat: **[source code](https://github.com/pynamodb/PynamoDB)**
 ---
 #### [redisco](https://github.com/kiddouk/redisco)
 _<sup>https://github.com/kiddouk/redisco</sup>_
 
 A Python Library for Simple Models and Containers Persisted in Redis.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [orm](../tagged/orm.md), [nosql](../tagged/nosql.md)
+* **tags**: [python](../tagged/python.md), [orm](../tagged/orm.md), [nosql](../tagged/nosql.md)
 * :octocat: **[source code](https://github.com/kiddouk/redisco)**
 ---
 #### [awesome-nosql-guides](https://github.com/erictleung/awesome-nosql-guides#readme)

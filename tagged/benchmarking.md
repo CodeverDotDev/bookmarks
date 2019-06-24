@@ -6,14 +6,14 @@ _<sup><sup>[www.bookmarks.dev/tagged/benchmarking](https://www.bookmarks.dev/tag
 _<sup>https://github.com/bestiejs/benchmark.js</sup>_
 
 Benchmarking library that supports high-resolution timers and returns statistically significant results.
-* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [benchmarking](../tagged/benchmarking.md)
+* **tags**: [nodejs](../tagged/nodejs.md), [benchmarking](../tagged/benchmarking.md)
 * :octocat: **[source code](https://github.com/bestiejs/benchmark.js)**
 ---
 #### [matcha](https://github.com/logicalparadox/matcha)
 _<sup>https://github.com/logicalparadox/matcha</sup>_
 
 Simplistic approach to benchmarking.
-* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [benchmarking](../tagged/benchmarking.md)
+* **tags**: [nodejs](../tagged/nodejs.md), [benchmarking](../tagged/benchmarking.md)
 * :octocat: **[source code](https://github.com/logicalparadox/matcha)**
 ---
 #### [Richard Clayton - Speaking Intelligently about "Java vs Node" Performance](https://rclayton.silvrback.com/speaking-intelligently-about-java-vs-node-performance)

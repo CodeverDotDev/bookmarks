@@ -6,6 +6,6 @@ _<sup><sup>[www.bookmarks.dev/tagged/bundler](https://www.bookmarks.dev/tagged/b
 _<sup>https://github.com/substack/node-browserify</sup>_
 
 Browserify lets you require('modules') in the browser by bundling up all of your dependencies.
-* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [bundler](../tagged/bundler.md)
+* **tags**: [javascript](../tagged/javascript.md), [bundler](../tagged/bundler.md)
 * :octocat: **[source code](https://github.com/substack/node-browserify)**
 ---

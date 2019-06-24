@@ -6,7 +6,7 @@ _<sup><sup>[www.bookmarks.dev/tagged/swift](https://www.bookmarks.dev/tagged/swi
 _<sup>https://github.com/GraphQLSwift/GraphQL</sup>_
 
 The Swift implementation for GraphQL.
-* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [swift](../tagged/swift.md), [libraries](../tagged/libraries.md)
+* **tags**: [graphql](../tagged/graphql.md), [swift](../tagged/swift.md), [libraries](../tagged/libraries.md)
 * :octocat: **[source code](https://github.com/GraphQLSwift/GraphQL)**
 ---
 #### [awesome-swift](https://github.com/matteocrippa/awesome-swift#readme)

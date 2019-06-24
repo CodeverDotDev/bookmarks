@@ -12,14 +12,14 @@ Next generation robotics framework with support for different platforms: Arduino
 _<sup>https://github.com/AtsushiSakai/PythonRobotics</sup>_
 
 This is a compilation of various robotics algorithms with visualizations.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [robotics](../tagged/robotics.md)
+* **tags**: [python](../tagged/python.md), [robotics](../tagged/robotics.md)
 * :octocat: **[source code](https://github.com/AtsushiSakai/PythonRobotics)**
 ---
 #### [rospy](http://wiki.ros.org/rospy)
 _<sup>http://wiki.ros.org/rospy</sup>_
 
 This is a library for ROS (Robot Operating System).
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [robotics](../tagged/robotics.md)
+* **tags**: [python](../tagged/python.md), [robotics](../tagged/robotics.md)
 ---
 #### [awesome-robotics](https://github.com/Kiloreux/awesome-robotics#readme)
 _<sup>https://github.com/Kiloreux/awesome-robotics#readme</sup>_

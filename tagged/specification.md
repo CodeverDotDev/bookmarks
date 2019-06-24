@@ -6,7 +6,7 @@ _<sup><sup>[www.bookmarks.dev/tagged/specification](https://www.bookmarks.dev/ta
 _<sup>https://facebook.github.io/graphql/</sup>_
 
 Working Draft of the Specification for GraphQL created by Facebook.
-* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [specification](../tagged/specification.md), [specifications](../tagged/specifications.md)
+* **tags**: [graphql](../tagged/graphql.md), [specification](../tagged/specification.md), [specifications](../tagged/specifications.md)
 ---
 #### [HTML Standard - Websocket](https://html.spec.whatwg.org/multipage/web-sockets.html)
 _<sup>https://html.spec.whatwg.org/multipage/web-sockets.html</sup>_

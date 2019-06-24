@@ -20,6 +20,6 @@ Huginn is a system for building agents that perform automated tasks for you onli
 _<sup>https://github.com/octalmage/robotjs</sup>_
 
 Desktop Automation: control the mouse, keyboard and read the screen.
-* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [automation](../tagged/automation.md)
+* **tags**: [nodejs](../tagged/nodejs.md), [automation](../tagged/automation.md)
 * :octocat: **[source code](https://github.com/octalmage/robotjs)**
 ---

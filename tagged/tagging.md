@@ -6,6 +6,6 @@ _<sup><sup>[www.bookmarks.dev/tagged/tagging](https://www.bookmarks.dev/tagged/t
 _<sup>https://github.com/jazzband/django-taggit</sup>_
 
 Simple tagging for Django.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [tagging](../tagged/tagging.md)
+* **tags**: [python](../tagged/python.md), [tagging](../tagged/tagging.md)
 * :octocat: **[source code](https://github.com/jazzband/django-taggit)**
 ---

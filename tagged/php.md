@@ -530,118 +530,118 @@ A monthly magazine dedicated to PHP.
 _<sup>https://github.com/webonyx/graphql-php</sup>_
 
 A PHP port of GraphQL reference implementation.
-* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [php](../tagged/php.md), [libraries](../tagged/libraries.md)
+* **tags**: [graphql](../tagged/graphql.md), [php](../tagged/php.md), [libraries](../tagged/libraries.md)
 * :octocat: **[source code](https://github.com/webonyx/graphql-php)**
 ---
 #### [Railt](https://github.com/railt/railt)
 _<sup>https://github.com/railt/railt</sup>_
 
 High quality and loosely coupled framework for developing GraphQL applications using all the modern qualities of the language.
-* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [php](../tagged/php.md), [libraries](../tagged/libraries.md)
+* **tags**: [graphql](../tagged/graphql.md), [php](../tagged/php.md), [libraries](../tagged/libraries.md)
 * :octocat: **[source code](https://github.com/railt/railt)**
 ---
 #### [digiaonline](https://github.com/digiaonline/graphql-php)
 _<sup>https://github.com/digiaonline/graphql-php</sup>_
 
 Yet another PHP port of GraphQL reference implementation.
-* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [php](../tagged/php.md), [libraries](../tagged/libraries.md)
+* **tags**: [graphql](../tagged/graphql.md), [php](../tagged/php.md), [libraries](../tagged/libraries.md)
 * :octocat: **[source code](https://github.com/digiaonline/graphql-php)**
 ---
 #### [GraphQL](https://github.com/youshido-php/GraphQL)
 _<sup>https://github.com/youshido-php/GraphQL</sup>_
 
 Well documented PHP implementation with no dependencies.
-* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [php](../tagged/php.md), [libraries](../tagged/libraries.md)
+* **tags**: [graphql](../tagged/graphql.md), [php](../tagged/php.md), [libraries](../tagged/libraries.md)
 * :octocat: **[source code](https://github.com/youshido-php/GraphQL)**
 ---
 #### [graphql-relay-php](https://github.com/ivome/graphql-relay-php)
 _<sup>https://github.com/ivome/graphql-relay-php</sup>_
 
 Relay helpers for webonyx/graphql-php implementation of GraphQL.
-* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [php](../tagged/php.md), [libraries](../tagged/libraries.md)
+* **tags**: [graphql](../tagged/graphql.md), [php](../tagged/php.md), [libraries](../tagged/libraries.md)
 * :octocat: **[source code](https://github.com/ivome/graphql-relay-php)**
 ---
 #### [lighthouse](https://github.com/nuwave/lighthouse)
 _<sup>https://github.com/nuwave/lighthouse</sup>_
 
 A PHP package that allows to serve a GraphQL endpoint from your Laravel application.
-* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [php](../tagged/php.md), [libraries](../tagged/libraries.md)
+* **tags**: [graphql](../tagged/graphql.md), [php](../tagged/php.md), [libraries](../tagged/libraries.md)
 * :octocat: **[source code](https://github.com/nuwave/lighthouse)**
 ---
 #### [laravel-graphql](https://github.com/folkloreinc/laravel-graphql)
 _<sup>https://github.com/folkloreinc/laravel-graphql</sup>_
 
 Facebook GraphQL for Laravel 5.
-* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [php](../tagged/php.md), [libraries](../tagged/libraries.md)
+* **tags**: [graphql](../tagged/graphql.md), [php](../tagged/php.md), [libraries](../tagged/libraries.md)
 * :octocat: **[source code](https://github.com/folkloreinc/laravel-graphql)**
 ---
 #### [laravel-graphql-relay](https://github.com/nuwave/laravel-graphql-relay)
 _<sup>https://github.com/nuwave/laravel-graphql-relay</sup>_
 
 A Laravel library to help construct a server supporting react-relay.
-* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [php](../tagged/php.md), [libraries](../tagged/libraries.md)
+* **tags**: [graphql](../tagged/graphql.md), [php](../tagged/php.md), [libraries](../tagged/libraries.md)
 * :octocat: **[source code](https://github.com/nuwave/laravel-graphql-relay)**
 ---
 #### [graphql-mapper](https://github.com/4rthem/graphql-mapper)
 _<sup>https://github.com/4rthem/graphql-mapper</sup>_
 
 This library allows to build a GraphQL schema based on your model.
-* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [php](../tagged/php.md), [libraries](../tagged/libraries.md)
+* **tags**: [graphql](../tagged/graphql.md), [php](../tagged/php.md), [libraries](../tagged/libraries.md)
 * :octocat: **[source code](https://github.com/4rthem/graphql-mapper)**
 ---
 #### [graphql-bundle](https://github.com/hoticeking/GraphQLBundle)
 _<sup>https://github.com/hoticeking/GraphQLBundle</sup>_
 
 GraphQL Bundle for Symfony 2.
-* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [php](../tagged/php.md), [libraries](../tagged/libraries.md)
+* **tags**: [graphql](../tagged/graphql.md), [php](../tagged/php.md), [libraries](../tagged/libraries.md)
 * :octocat: **[source code](https://github.com/hoticeking/GraphQLBundle)**
 ---
 #### [overblog/graphql-bundle](https://github.com/overblog/GraphQLBundle)
 _<sup>https://github.com/overblog/GraphQLBundle</sup>_
 
 This bundle provides tools to build a complete GraphQL server in your Symfony App. Supports react-relay.
-* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [php](../tagged/php.md), [libraries](../tagged/libraries.md)
+* **tags**: [graphql](../tagged/graphql.md), [php](../tagged/php.md), [libraries](../tagged/libraries.md)
 * :octocat: **[source code](https://github.com/overblog/GraphQLBundle)**
 ---
 #### [GraphQL Symfony Bundle](https://github.com/youshido-php/GraphQLBundle)
 _<sup>https://github.com/youshido-php/GraphQLBundle</sup>_
 
 GraphQL Bundle for the Symfony 3 (supports 2.6+).
-* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [php](../tagged/php.md), [libraries](../tagged/libraries.md)
+* **tags**: [graphql](../tagged/graphql.md), [php](../tagged/php.md), [libraries](../tagged/libraries.md)
 * :octocat: **[source code](https://github.com/youshido-php/GraphQLBundle)**
 ---
 #### [graphql-wp](https://github.com/tim-field/graphql-wp)
 _<sup>https://github.com/tim-field/graphql-wp</sup>_
 
 WordPress plugin that exposes a GraphQL endpoint.
-* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [php](../tagged/php.md), [libraries](../tagged/libraries.md)
+* **tags**: [graphql](../tagged/graphql.md), [php](../tagged/php.md), [libraries](../tagged/libraries.md)
 * :octocat: **[source code](https://github.com/tim-field/graphql-wp)**
 ---
 #### [eZ Platform GraphQL Bundle](https://www.symfony.fi/entry/graphql-bundle-adds-protocol-support-to-ez-platform-symfony-cms)
 _<sup>https://www.symfony.fi/entry/graphql-bundle-adds-protocol-support-to-ez-platform-symfony-cms</sup>_
 
 GraphQL Bundle for the eZ Platform Symfony CMS.
-* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [php](../tagged/php.md), [libraries](../tagged/libraries.md)
+* **tags**: [graphql](../tagged/graphql.md), [php](../tagged/php.md), [libraries](../tagged/libraries.md)
 ---
 #### [GraphQL Middleware](https://github.com/stefanorg/graphql-middleware)
 _<sup>https://github.com/stefanorg/graphql-middleware</sup>_
 
 GraphQL Psr7 Middleware
-* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [php](../tagged/php.md), [libraries](../tagged/libraries.md)
+* **tags**: [graphql](../tagged/graphql.md), [php](../tagged/php.md), [libraries](../tagged/libraries.md)
 * :octocat: **[source code](https://github.com/stefanorg/graphql-middleware)**
 ---
 #### [Zend Expressive GraphiQL Extension](https://github.com/stefanorg/zend-expressive-graphiql)
 _<sup>https://github.com/stefanorg/zend-expressive-graphiql</sup>_
 
 GraphiQL extension for zend expressive
-* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [php](../tagged/php.md), [libraries](../tagged/libraries.md)
+* **tags**: [graphql](../tagged/graphql.md), [php](../tagged/php.md), [libraries](../tagged/libraries.md)
 * :octocat: **[source code](https://github.com/stefanorg/zend-expressive-graphiql)**
 ---
 #### [GraphQLite](https://github.com/thecodingmachine/graphqlite)
 _<sup>https://github.com/thecodingmachine/graphqlite</sup>_
 
 Framework agnostic library that allows you to write GraphQL server by annotating your PHP classes.
-* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [php](../tagged/php.md), [libraries](../tagged/libraries.md)
+* **tags**: [graphql](../tagged/graphql.md), [php](../tagged/php.md), [libraries](../tagged/libraries.md)
 * :octocat: **[source code](https://github.com/thecodingmachine/graphqlite)**
 ---
 #### [awesome-php](https://github.com/ziadoz/awesome-php#readme)

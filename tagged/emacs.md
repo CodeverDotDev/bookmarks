@@ -6,7 +6,7 @@ _<sup><sup>[www.bookmarks.dev/tagged/emacs](https://www.bookmarks.dev/tagged/ema
 _<sup>https://github.com/jorgenschaefer/elpy</sup>_
 
 Emacs Python Development Environment.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [editor-plugins](../tagged/editor-plugins.md), [ide](../tagged/ide.md), [emacs](../tagged/emacs.md)
+* **tags**: [python](../tagged/python.md), [editor-plugins](../tagged/editor-plugins.md), [ide](../tagged/ide.md), [emacs](../tagged/emacs.md)
 * :octocat: **[source code](https://github.com/jorgenschaefer/elpy)**
 ---
 #### [awesome-emacs](https://github.com/emacs-tw/awesome-emacs#readme)

@@ -68,65 +68,65 @@ Write-Through and Read-Through caching library for ActiveRecord 4.
 _<sup>https://github.com/bbangert/beaker</sup>_
 
 A WSGI middleware for sessions and caching.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [caching](../tagged/caching.md)
+* **tags**: [python](../tagged/python.md), [caching](../tagged/caching.md)
 * :octocat: **[source code](https://github.com/bbangert/beaker)**
 ---
 #### [django-cache-machine](https://github.com/django-cache-machine/django-cache-machine)
 _<sup>https://github.com/django-cache-machine/django-cache-machine</sup>_
 
 Automatic caching and invalidation for Django models.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [caching](../tagged/caching.md)
+* **tags**: [python](../tagged/python.md), [caching](../tagged/caching.md)
 * :octocat: **[source code](https://github.com/django-cache-machine/django-cache-machine)**
 ---
 #### [django-cacheops](https://github.com/Suor/django-cacheops)
 _<sup>https://github.com/Suor/django-cacheops</sup>_
 
 A slick ORM cache with automatic granular event-driven invalidation.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [caching](../tagged/caching.md)
+* **tags**: [python](../tagged/python.md), [caching](../tagged/caching.md)
 * :octocat: **[source code](https://github.com/Suor/django-cacheops)**
 ---
 #### [dogpile.cache](http://dogpilecache.readthedocs.io/en/latest/)
 _<sup>http://dogpilecache.readthedocs.io/en/latest/</sup>_
 
 dogpile.cache is next generation replacement for Beaker made by same authors.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [caching](../tagged/caching.md)
+* **tags**: [python](../tagged/python.md), [caching](../tagged/caching.md)
 ---
 #### [HermesCache](https://pypi.python.org/pypi/HermesCache)
 _<sup>https://pypi.python.org/pypi/HermesCache</sup>_
 
 Python caching library with tag-based invalidation and dogpile effect prevention.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [caching](../tagged/caching.md)
+* **tags**: [python](../tagged/python.md), [caching](../tagged/caching.md)
 ---
 #### [pylibmc](https://github.com/lericson/pylibmc)
 _<sup>https://github.com/lericson/pylibmc</sup>_
 
 A Python wrapper around the [libmemcached](https://libmemcached.org/libMemcached.html) interface.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [caching](../tagged/caching.md)
+* **tags**: [python](../tagged/python.md), [caching](../tagged/caching.md)
 * :octocat: **[source code](https://github.com/lericson/pylibmc)**
 ---
 #### [python-diskcache](http://www.grantjenks.com/docs/diskcache/)
 _<sup>http://www.grantjenks.com/docs/diskcache/</sup>_
 
 SQLite and file backed cache backend with faster lookups than memcached and redis.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [caching](../tagged/caching.md)
+* **tags**: [python](../tagged/python.md), [caching](../tagged/caching.md)
 ---
 #### [cache2k](https://cache2k.org)
 _<sup>https://cache2k.org</sup>_
 
 In-memory high performance caching library.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [caching](../tagged/caching.md)
+* **tags**: [java](../tagged/java.md), [caching](../tagged/caching.md)
 ---
 #### [Ehcache](http://www.ehcache.org)
 _<sup>http://www.ehcache.org</sup>_
 
 Distributed general-purpose cache.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [caching](../tagged/caching.md)
+* **tags**: [java](../tagged/java.md), [caching](../tagged/caching.md)
 ---
 #### [Infinispan](http://infinispan.org)
 _<sup>http://infinispan.org</sup>_
 
 Highly concurrent key/value datastore used for caching.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [caching](../tagged/caching.md)
+* **tags**: [java](../tagged/java.md), [caching](../tagged/caching.md)
 ---
 #### [Advanced caching with RxJS by thoughtram](https://blog.thoughtram.io/angular/2018/03/05/advanced-caching-with-rxjs.html)
 _<sup>https://blog.thoughtram.io/angular/2018/03/05/advanced-caching-with-rxjs.html</sup>_

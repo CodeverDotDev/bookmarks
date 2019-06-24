@@ -6,7 +6,7 @@ _<sup><sup>[www.bookmarks.dev/tagged/pyramid](https://www.bookmarks.dev/tagged/p
 _<sup>https://github.com/Cornices/cornice</sup>_
 
 A RESTful framework for Pyramid.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [rest](../tagged/rest.md), [pyramid](../tagged/pyramid.md)
+* **tags**: [python](../tagged/python.md), [rest](../tagged/rest.md), [pyramid](../tagged/pyramid.md)
 * :octocat: **[source code](https://github.com/Cornices/cornice)**
 ---
 #### [awesome-pyramid](https://github.com/uralbash/awesome-pyramid#readme)

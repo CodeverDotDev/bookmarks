@@ -6,13 +6,13 @@ _<sup><sup>[www.bookmarks.dev/tagged/vision-detection](https://www.bookmarks.dev
 _<sup>https://github.com/eduardolundgren/tracking.js</sup>_
 
 A modern approach for Computer Vision on the web.
-* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [vision-detection](../tagged/vision-detection.md)
+* **tags**: [javascript](../tagged/javascript.md), [vision-detection](../tagged/vision-detection.md)
 * :octocat: **[source code](https://github.com/eduardolundgren/tracking.js)**
 ---
 #### [ocrad.js](https://github.com/antimatter15/ocrad.js)
 _<sup>https://github.com/antimatter15/ocrad.js</sup>_
 
 OCR in Javascript via Emscripten.
-* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [vision-detection](../tagged/vision-detection.md)
+* **tags**: [javascript](../tagged/javascript.md), [vision-detection](../tagged/vision-detection.md)
 * :octocat: **[source code](https://github.com/antimatter15/ocrad.js)**
 ---

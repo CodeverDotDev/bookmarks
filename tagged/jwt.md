@@ -6,21 +6,21 @@ _<sup><sup>[www.bookmarks.dev/tagged/jwt](https://www.bookmarks.dev/tagged/jwt)<
 _<sup>https://github.com/jpadilla/pyjwt</sup>_
 
 JSON Web Token implementation in Python.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [authentication](../tagged/authentication.md), [jwt](../tagged/jwt.md)
+* **tags**: [python](../tagged/python.md), [authentication](../tagged/authentication.md), [jwt](../tagged/jwt.md)
 * :octocat: **[source code](https://github.com/jpadilla/pyjwt)**
 ---
 #### [python-jose](https://github.com/mpdavis/python-jose/)
 _<sup>https://github.com/mpdavis/python-jose/</sup>_
 
 A JOSE implementation in Python.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [authentication](../tagged/authentication.md), [jwt](../tagged/jwt.md)
+* **tags**: [python](../tagged/python.md), [authentication](../tagged/authentication.md), [jwt](../tagged/jwt.md)
 * :octocat: **[source code](https://github.com/mpdavis/python-jose/)**
 ---
 #### [python-jwt](https://github.com/davedoesdev/python-jwt)
 _<sup>https://github.com/davedoesdev/python-jwt</sup>_
 
 A module for generating and verifying JSON Web Tokens.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [authentication](../tagged/authentication.md), [jwt](../tagged/jwt.md)
+* **tags**: [python](../tagged/python.md), [authentication](../tagged/authentication.md), [jwt](../tagged/jwt.md)
 * :octocat: **[source code](https://github.com/davedoesdev/python-jwt)**
 ---
 #### [JWT, JWS and JWE for Not So Dummies! (Part I)](https://medium.facilelogin.com/jwt-jws-and-jwe-for-not-so-dummies-b63310d201a3)

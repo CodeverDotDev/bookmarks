@@ -6,20 +6,20 @@ _<sup><sup>[www.bookmarks.dev/tagged/computer-vision](https://www.bookmarks.dev/
 _<sup>https://opencv.org/</sup>_
 
 Open Source Computer Vision Library.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [computer-vision](../tagged/computer-vision.md)
+* **tags**: [python](../tagged/python.md), [computer-vision](../tagged/computer-vision.md)
 ---
 #### [pytesseract](https://github.com/madmaze/pytesseract)
 _<sup>https://github.com/madmaze/pytesseract</sup>_
 
 Another wrapper for [Google Tesseract OCR](https://github.com/tesseract-ocr).
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [computer-vision](../tagged/computer-vision.md)
+* **tags**: [python](../tagged/python.md), [computer-vision](../tagged/computer-vision.md)
 * :octocat: **[source code](https://github.com/madmaze/pytesseract)**
 ---
 #### [SimpleCV](http://simplecv.org/)
 _<sup>http://simplecv.org/</sup>_
 
 An open source framework for building computer vision applications.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [computer-vision](../tagged/computer-vision.md)
+* **tags**: [python](../tagged/python.md), [computer-vision](../tagged/computer-vision.md)
 ---
 #### [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision#readme)
 _<sup>https://github.com/jbhuang0604/awesome-computer-vision#readme</sup>_

@@ -13,189 +13,189 @@ NestJS is a framework for building efficient, scalable Node.js web applications.
 _<sup>http://coconut-lang.org/</sup>_
 
 Coconut is a variant of Python built for simple, elegant, Pythonic functional programming.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [functional-programming](../tagged/functional-programming.md)
+* **tags**: [python](../tagged/python.md), [functional-programming](../tagged/functional-programming.md)
 ---
 #### [CyToolz](https://github.com/pytoolz/cytoolz/)
 _<sup>https://github.com/pytoolz/cytoolz/</sup>_
 
 Cython implementation of Toolz: High performance functional utilities.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [functional-programming](../tagged/functional-programming.md)
+* **tags**: [python](../tagged/python.md), [functional-programming](../tagged/functional-programming.md)
 * :octocat: **[source code](https://github.com/pytoolz/cytoolz/)**
 ---
 #### [fn.py](https://github.com/kachayev/fn.py)
 _<sup>https://github.com/kachayev/fn.py</sup>_
 
 Functional programming in Python: implementation of missing features to enjoy FP.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [functional-programming](../tagged/functional-programming.md)
+* **tags**: [python](../tagged/python.md), [functional-programming](../tagged/functional-programming.md)
 * :octocat: **[source code](https://github.com/kachayev/fn.py)**
 ---
 #### [funcy](https://github.com/Suor/funcy)
 _<sup>https://github.com/Suor/funcy</sup>_
 
 A fancy and practical functional tools.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [functional-programming](../tagged/functional-programming.md)
+* **tags**: [python](../tagged/python.md), [functional-programming](../tagged/functional-programming.md)
 * :octocat: **[source code](https://github.com/Suor/funcy)**
 ---
 #### [Toolz](https://github.com/pytoolz/toolz)
 _<sup>https://github.com/pytoolz/toolz</sup>_
 
 A collection of functional utilities for iterators, functions, and dictionaries.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [functional-programming](../tagged/functional-programming.md)
+* **tags**: [python](../tagged/python.md), [functional-programming](../tagged/functional-programming.md)
 * :octocat: **[source code](https://github.com/pytoolz/toolz)**
 ---
 #### [underscore](https://github.com/jashkenas/underscore)
 _<sup>https://github.com/jashkenas/underscore</sup>_
 
 JavaScript's utility _ belt.
-* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [functional-programming](../tagged/functional-programming.md)
+* **tags**: [javascript](../tagged/javascript.md), [functional-programming](../tagged/functional-programming.md)
 * :octocat: **[source code](https://github.com/jashkenas/underscore)**
 ---
 #### [lodash](https://github.com/lodash/lodash)
 _<sup>https://github.com/lodash/lodash</sup>_
 
 A utility library delivering consistency, customization, performance, & extras.
-* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [functional-programming](../tagged/functional-programming.md)
+* **tags**: [javascript](../tagged/javascript.md), [functional-programming](../tagged/functional-programming.md)
 * :octocat: **[source code](https://github.com/lodash/lodash)**
 ---
 #### [Sugar](https://github.com/andrewplummer/Sugar)
 _<sup>https://github.com/andrewplummer/Sugar</sup>_
 
 A Javascript library for working with native objects.
-* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [functional-programming](../tagged/functional-programming.md)
+* **tags**: [javascript](../tagged/javascript.md), [functional-programming](../tagged/functional-programming.md)
 * :octocat: **[source code](https://github.com/andrewplummer/Sugar)**
 ---
 #### [ramda](https://github.com/CrossEye/ramda)
 _<sup>https://github.com/CrossEye/ramda</sup>_
 
 A practical functional library for Javascript programmers.
-* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [functional-programming](../tagged/functional-programming.md)
+* **tags**: [javascript](../tagged/javascript.md), [functional-programming](../tagged/functional-programming.md)
 * :octocat: **[source code](https://github.com/CrossEye/ramda)**
 ---
 #### [mesh](https://github.com/crcn/mesh.js)
 _<sup>https://github.com/crcn/mesh.js</sup>_
 
 Streamable data synchronization utility.
-* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [functional-programming](../tagged/functional-programming.md)
+* **tags**: [javascript](../tagged/javascript.md), [functional-programming](../tagged/functional-programming.md)
 * :octocat: **[source code](https://github.com/crcn/mesh.js)**
 ---
 #### [preludejs](https://github.com/alanrsoares/prelude-js)
 _<sup>https://github.com/alanrsoares/prelude-js</sup>_
 
 Hardcore Functional Programming for JavaScript.
-* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [functional-programming](../tagged/functional-programming.md)
+* **tags**: [javascript](../tagged/javascript.md), [functional-programming](../tagged/functional-programming.md)
 * :octocat: **[source code](https://github.com/alanrsoares/prelude-js)**
 ---
 #### [lodash](https://lodash.com)
 _<sup>https://lodash.com</sup>_
 
 Utility library delivering consistency, customization, performance, & extras. A better and faster Underscore.js.
-* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [functional-programming](../tagged/functional-programming.md)
+* **tags**: [nodejs](../tagged/nodejs.md), [functional-programming](../tagged/functional-programming.md)
 ---
 #### [immutable](https://github.com/facebook/immutable-js)
 _<sup>https://github.com/facebook/immutable-js</sup>_
 
 Immutable data collections.
-* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [functional-programming](../tagged/functional-programming.md)
+* **tags**: [nodejs](../tagged/nodejs.md), [functional-programming](../tagged/functional-programming.md)
 * :octocat: **[source code](https://github.com/facebook/immutable-js)**
 ---
 #### [Ramda](https://github.com/ramda/ramda)
 _<sup>https://github.com/ramda/ramda</sup>_
 
 Utility library with a focus on flexible functional composition enabled by automatic currying and reversed argument order. Avoids mutating data.
-* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [functional-programming](../tagged/functional-programming.md)
+* **tags**: [nodejs](../tagged/nodejs.md), [functional-programming](../tagged/functional-programming.md)
 * :octocat: **[source code](https://github.com/ramda/ramda)**
 ---
 #### [Folktale](http://folktale.origamitower.com)
 _<sup>http://folktale.origamitower.com</sup>_
 
 Suite of libraries for generic functional programming in JavaScript that allows you to write elegant, modular applications with fewer bugs, and more reuse.
-* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [functional-programming](../tagged/functional-programming.md)
+* **tags**: [nodejs](../tagged/nodejs.md), [functional-programming](../tagged/functional-programming.md)
 ---
 #### [Mout](https://github.com/mout/mout)
 _<sup>https://github.com/mout/mout</sup>_
 
 Utility library with the biggest difference between other existing solutions is that you can choose to load only the modules/functions that you need, no extra overhead.
-* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [functional-programming](../tagged/functional-programming.md)
+* **tags**: [nodejs](../tagged/nodejs.md), [functional-programming](../tagged/functional-programming.md)
 * :octocat: **[source code](https://github.com/mout/mout)**
 ---
 #### [Bacon.js](http://baconjs.github.io)
 _<sup>http://baconjs.github.io</sup>_
 
 Functional reactive programming.
-* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [functional-programming](../tagged/functional-programming.md)
+* **tags**: [nodejs](../tagged/nodejs.md), [functional-programming](../tagged/functional-programming.md)
 ---
 #### [RxJS](http://reactivex.io)
 _<sup>http://reactivex.io</sup>_
 
 Functional reactive library for transforming, composing, and querying various kinds of data.
-* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [functional-programming](../tagged/functional-programming.md)
+* **tags**: [nodejs](../tagged/nodejs.md), [functional-programming](../tagged/functional-programming.md)
 ---
 #### [Lazy.js](https://github.com/dtao/lazy.js)
 _<sup>https://github.com/dtao/lazy.js</sup>_
 
 Utility library similar to lodash/Underscore but with lazy evaluation, which can translate to superior performance in many cases.
-* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [functional-programming](../tagged/functional-programming.md)
+* **tags**: [nodejs](../tagged/nodejs.md), [functional-programming](../tagged/functional-programming.md)
 * :octocat: **[source code](https://github.com/dtao/lazy.js)**
 ---
 #### [Kefir.js](https://github.com/kefirjs/kefir)
 _<sup>https://github.com/kefirjs/kefir</sup>_
 
 Reactive library with focus on high performance and low memory usage.
-* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [functional-programming](../tagged/functional-programming.md)
+* **tags**: [nodejs](../tagged/nodejs.md), [functional-programming](../tagged/functional-programming.md)
 * :octocat: **[source code](https://github.com/kefirjs/kefir)**
 ---
 #### [cyclops-react](https://github.com/aol/cyclops-react)
 _<sup>https://github.com/aol/cyclops-react</sup>_
 
 Monad and stream utilities, comprehensions, pattern matching, functional extensions for all JDK collections, future streams, trampolines and much more.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [functional-programming](../tagged/functional-programming.md)
+* **tags**: [java](../tagged/java.md), [functional-programming](../tagged/functional-programming.md)
 * :octocat: **[source code](https://github.com/aol/cyclops-react)**
 ---
 #### [derive4j](https://github.com/derive4j/derive4j)
 _<sup>https://github.com/derive4j/derive4j</sup>_
 
 Java 8 annotation processor and framework for deriving algebraic data types constructors, pattern-matching and morphisms.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [functional-programming](../tagged/functional-programming.md)
+* **tags**: [java](../tagged/java.md), [functional-programming](../tagged/functional-programming.md)
 * :octocat: **[source code](https://github.com/derive4j/derive4j)**
 ---
 #### [Fugue](https://bitbucket.org/atlassian/fugue)
 _<sup>https://bitbucket.org/atlassian/fugue</sup>_
 
 Functional extensions to Guava.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [functional-programming](../tagged/functional-programming.md)
+* **tags**: [java](../tagged/java.md), [functional-programming](../tagged/functional-programming.md)
 ---
 #### [Functional Java](http://www.functionaljava.org)
 _<sup>http://www.functionaljava.org</sup>_
 
 Implements numerous basic and advanced programming abstractions that assist composition-oriented development.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [functional-programming](../tagged/functional-programming.md)
+* **tags**: [java](../tagged/java.md), [functional-programming](../tagged/functional-programming.md)
 ---
 #### [jOOλ](https://github.com/jOOQ/jOOL)
 _<sup>https://github.com/jOOQ/jOOL</sup>_
 
 Extension to Java 8 that aims to fix gaps in lambda by providing numerous missing types and a rich set of sequential Stream API additions.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [functional-programming](../tagged/functional-programming.md)
+* **tags**: [java](../tagged/java.md), [functional-programming](../tagged/functional-programming.md)
 * :octocat: **[source code](https://github.com/jOOQ/jOOL)**
 ---
 #### [protonpack](https://github.com/poetix/protonpack)
 _<sup>https://github.com/poetix/protonpack</sup>_
 
 Collection of stream utilities.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [functional-programming](../tagged/functional-programming.md)
+* **tags**: [java](../tagged/java.md), [functional-programming](../tagged/functional-programming.md)
 * :octocat: **[source code](https://github.com/poetix/protonpack)**
 ---
 #### [StreamEx](https://github.com/amaembo/streamex)
 _<sup>https://github.com/amaembo/streamex</sup>_
 
 Enhances Java 8 Streams.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [functional-programming](../tagged/functional-programming.md)
+* **tags**: [java](../tagged/java.md), [functional-programming](../tagged/functional-programming.md)
 * :octocat: **[source code](https://github.com/amaembo/streamex)**
 ---
 #### [Vavr](http://www.vavr.io)
 _<sup>http://www.vavr.io</sup>_
 
 Functional component library that provides persistent data types and functional control structures.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [functional-programming](../tagged/functional-programming.md)
+* **tags**: [java](../tagged/java.md), [functional-programming](../tagged/functional-programming.md)
 ---
 #### [awesome-functional-programming](https://github.com/lucasviola/awesome-functional-programming#readme)
 _<sup>https://github.com/lucasviola/awesome-functional-programming#readme</sup>_

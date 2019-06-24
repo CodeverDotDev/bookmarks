@@ -20,169 +20,169 @@ A high-performance DNS server which can be easily integrated into other projects
 _<sup>https://docs.python.org/3/library/asyncio.html</sup>_
 
 (Python standard library) Asynchronous I/O, event loop, coroutines and tasks.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [networking](../tagged/networking.md)
+* **tags**: [python](../tagged/python.md), [networking](../tagged/networking.md)
 ---
 #### [awesome-asyncio](https://github.com/timofurrer/awesome-asyncio)
 _<sup>https://github.com/timofurrer/awesome-asyncio</sup>_
 
 A curated list of awesome Python asyncio frameworks, libraries, software and resources - timofurrer/awesome-asyncio
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [networking](../tagged/networking.md)
+* **tags**: [python](../tagged/python.md), [networking](../tagged/networking.md)
 * :octocat: **[source code](https://github.com/timofurrer/awesome-asyncio)**
 ---
 #### [pulsar](https://github.com/quantmind/pulsar)
 _<sup>https://github.com/quantmind/pulsar</sup>_
 
 Event-driven concurrent framework for Python.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [networking](../tagged/networking.md)
+* **tags**: [python](../tagged/python.md), [networking](../tagged/networking.md)
 * :octocat: **[source code](https://github.com/quantmind/pulsar)**
 ---
 #### [pyzmq](https://github.com/zeromq/pyzmq)
 _<sup>https://github.com/zeromq/pyzmq</sup>_
 
 A Python wrapper for the ZeroMQ message library.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [networking](../tagged/networking.md)
+* **tags**: [python](../tagged/python.md), [networking](../tagged/networking.md)
 * :octocat: **[source code](https://github.com/zeromq/pyzmq)**
 ---
 #### [Twisted](https://twistedmatrix.com/trac/)
 _<sup>https://twistedmatrix.com/trac/</sup>_
 
 An event-driven networking engine.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [networking](../tagged/networking.md)
+* **tags**: [python](../tagged/python.md), [networking](../tagged/networking.md)
 ---
 #### [napalm](https://github.com/napalm-automation/napalm)
 _<sup>https://github.com/napalm-automation/napalm</sup>_
 
 Cross-vendor API to manipulate network devices.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [networking](../tagged/networking.md)
+* **tags**: [python](../tagged/python.md), [networking](../tagged/networking.md)
 * :octocat: **[source code](https://github.com/napalm-automation/napalm)**
 ---
 #### [get-port](https://github.com/sindresorhus/get-port)
 _<sup>https://github.com/sindresorhus/get-port</sup>_
 
 Get an available port.
-* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [networking](../tagged/networking.md)
+* **tags**: [nodejs](../tagged/nodejs.md), [networking](../tagged/networking.md)
 * :octocat: **[source code](https://github.com/sindresorhus/get-port)**
 ---
 #### [ipify](https://github.com/sindresorhus/ipify)
 _<sup>https://github.com/sindresorhus/ipify</sup>_
 
 Get your public IP address.
-* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [networking](../tagged/networking.md)
+* **tags**: [nodejs](../tagged/nodejs.md), [networking](../tagged/networking.md)
 * :octocat: **[source code](https://github.com/sindresorhus/ipify)**
 ---
 #### [getmac](https://github.com/bevry/getmac)
 _<sup>https://github.com/bevry/getmac</sup>_
 
 Get the computer MAC address.
-* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [networking](../tagged/networking.md)
+* **tags**: [nodejs](../tagged/nodejs.md), [networking](../tagged/networking.md)
 * :octocat: **[source code](https://github.com/bevry/getmac)**
 ---
 #### [DHCP](https://github.com/infusion/node-dhcp)
 _<sup>https://github.com/infusion/node-dhcp</sup>_
 
 DHCP client and server.
-* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [networking](../tagged/networking.md)
+* **tags**: [nodejs](../tagged/nodejs.md), [networking](../tagged/networking.md)
 * :octocat: **[source code](https://github.com/infusion/node-dhcp)**
 ---
 #### [netcat](https://github.com/roccomuso/netcat)
 _<sup>https://github.com/roccomuso/netcat</sup>_
 
 Netcat port in pure JS.
-* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [networking](../tagged/networking.md)
+* **tags**: [nodejs](../tagged/nodejs.md), [networking](../tagged/networking.md)
 * :octocat: **[source code](https://github.com/roccomuso/netcat)**
 ---
 #### [AkkaGRPC](https://github.com/akka/akka-grpc)
 _<sup>https://github.com/akka/akka-grpc</sup>_
 
 Support for building streaming gRPC servers and clients on top of Akka Streams.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [networking](../tagged/networking.md)
+* **tags**: [java](../tagged/java.md), [networking](../tagged/networking.md)
 * :octocat: **[source code](https://github.com/akka/akka-grpc)**
 ---
 #### [Comsat](https://github.com/puniverse/comsat)
 _<sup>https://github.com/puniverse/comsat</sup>_
 
 Integrates standard Java web-related APIs with Quasar fibers and actors.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [networking](../tagged/networking.md)
+* **tags**: [java](../tagged/java.md), [networking](../tagged/networking.md)
 * :octocat: **[source code](https://github.com/puniverse/comsat)**
 ---
 #### [Dubbo](https://github.com/alibaba/dubbo)
 _<sup>https://github.com/alibaba/dubbo</sup>_
 
 High-performance RPC framework.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [networking](../tagged/networking.md)
+* **tags**: [java](../tagged/java.md), [networking](../tagged/networking.md)
 * :octocat: **[source code](https://github.com/alibaba/dubbo)**
 ---
 #### [Finagle](https://github.com/twitter/finagle)
 _<sup>https://github.com/twitter/finagle</sup>_
 
 Extensible RPC system for constructing high-concurrency servers. It implements uniform client and server APIs for several protocols, and is protocol-agnostic to simplify implementation of new protocol...
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [networking](../tagged/networking.md)
+* **tags**: [java](../tagged/java.md), [networking](../tagged/networking.md)
 * :octocat: **[source code](https://github.com/twitter/finagle)**
 ---
 #### [Grizzly](https://javaee.github.io/grizzly)
 _<sup>https://javaee.github.io/grizzly</sup>_
 
 NIO framework. Used as a network layer in Glassfish.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [networking](../tagged/networking.md)
+* **tags**: [java](../tagged/java.md), [networking](../tagged/networking.md)
 ---
 #### [gRPC](https://github.com/grpc/grpc-java)
 _<sup>https://github.com/grpc/grpc-java</sup>_
 
 RPC framework based on protobuf and HTTP/2.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [networking](../tagged/networking.md)
+* **tags**: [java](../tagged/java.md), [networking](../tagged/networking.md)
 * :octocat: **[source code](https://github.com/grpc/grpc-java)**
 ---
 #### [KryoNet](https://github.com/EsotericSoftware/kryonet)
 _<sup>https://github.com/EsotericSoftware/kryonet</sup>_
 
 Provides a clean and simple API for efficient TCP and UDP client/server network communication using NIO and Kryo.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [networking](../tagged/networking.md)
+* **tags**: [java](../tagged/java.md), [networking](../tagged/networking.md)
 * :octocat: **[source code](https://github.com/EsotericSoftware/kryonet)**
 ---
 #### [MINA](https://mina.apache.org)
 _<sup>https://mina.apache.org</sup>_
 
 Abstract, event-driven async I/O API for network operations over TCP/IP and UDP/IP via Java NIO.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [networking](../tagged/networking.md)
+* **tags**: [java](../tagged/java.md), [networking](../tagged/networking.md)
 ---
 #### [Netty](https://netty.io)
 _<sup>https://netty.io</sup>_
 
 Framework for building high-performance network applications.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [networking](../tagged/networking.md)
+* **tags**: [java](../tagged/java.md), [networking](../tagged/networking.md)
 ---
 #### [Nifty](https://github.com/facebook/nifty)
 _<sup>https://github.com/facebook/nifty</sup>_
 
 Implementation of Thrift clients and servers on Netty.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [networking](../tagged/networking.md)
+* **tags**: [java](../tagged/java.md), [networking](../tagged/networking.md)
 * :octocat: **[source code](https://github.com/facebook/nifty)**
 ---
 #### [sshj](https://github.com/hierynomus/sshj)
 _<sup>https://github.com/hierynomus/sshj</sup>_
 
 Programatically use SSH, SCP or SFTP.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [networking](../tagged/networking.md)
+* **tags**: [java](../tagged/java.md), [networking](../tagged/networking.md)
 * :octocat: **[source code](https://github.com/hierynomus/sshj)**
 ---
 #### [TLS Channel](https://github.com/marianobarrios/tls-channel)
 _<sup>https://github.com/marianobarrios/tls-channel</sup>_
 
 Implements a ByteChannel interface over SSLEngine, enabling easy-to-use (socket-like) TLS.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [networking](../tagged/networking.md)
+* **tags**: [java](../tagged/java.md), [networking](../tagged/networking.md)
 * :octocat: **[source code](https://github.com/marianobarrios/tls-channel)**
 ---
 #### [Undertow](http://undertow.io)
 _<sup>http://undertow.io</sup>_
 
 Web server providing both blocking and non-blocking APIs based on NIO. Used as a network layer in WildFly.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [networking](../tagged/networking.md)
+* **tags**: [java](../tagged/java.md), [networking](../tagged/networking.md)
 ---
 #### [urnlib](https://github.com/slub/urnlib)
 _<sup>https://github.com/slub/urnlib</sup>_
 
 Represent, parse and encode URNs, as in RFC 2141.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [networking](../tagged/networking.md)
+* **tags**: [java](../tagged/java.md), [networking](../tagged/networking.md)
 * :octocat: **[source code](https://github.com/slub/urnlib)**
 ---
 #### [How To Inspect Kubernetes Networking](https://www.digitalocean.com/community/tutorials/how-to-inspect-kubernetes-networking)

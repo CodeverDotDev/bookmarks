@@ -6,46 +6,46 @@ _<sup><sup>[www.bookmarks.dev/tagged/dependency-injection](https://www.bookmarks
 _<sup>https://deltaspike.apache.org</sup>_
 
 CDI extension framework.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [dependency-injection](../tagged/dependency-injection.md)
+* **tags**: [java](../tagged/java.md), [dependency-injection](../tagged/dependency-injection.md)
 ---
 #### [Dagger2](https://google.github.io/dagger)
 _<sup>https://google.github.io/dagger</sup>_
 
 Compile-time injection framework without reflection.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [dependency-injection](../tagged/dependency-injection.md)
+* **tags**: [java](../tagged/java.md), [dependency-injection](../tagged/dependency-injection.md)
 ---
 #### [Feather](https://github.com/zsoltherpai/feather)
 _<sup>https://github.com/zsoltherpai/feather</sup>_
 
 Ultra-lightweight, JSR-330-compliant dependency injection library.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [dependency-injection](../tagged/dependency-injection.md)
+* **tags**: [java](../tagged/java.md), [dependency-injection](../tagged/dependency-injection.md)
 * :octocat: **[source code](https://github.com/zsoltherpai/feather)**
 ---
 #### [Governator](https://github.com/Netflix/governator)
 _<sup>https://github.com/Netflix/governator</sup>_
 
 Extensions and utilities that enhance Google Guice.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [dependency-injection](../tagged/dependency-injection.md)
+* **tags**: [java](../tagged/java.md), [dependency-injection](../tagged/dependency-injection.md)
 * :octocat: **[source code](https://github.com/Netflix/governator)**
 ---
 #### [Guice](https://github.com/google/guice)
 _<sup>https://github.com/google/guice</sup>_
 
 Lightweight and opinionated framework that completes Dagger.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [dependency-injection](../tagged/dependency-injection.md)
+* **tags**: [java](../tagged/java.md), [dependency-injection](../tagged/dependency-injection.md)
 * :octocat: **[source code](https://github.com/google/guice)**
 ---
 #### [HK2](https://javaee.github.io/hk2)
 _<sup>https://javaee.github.io/hk2</sup>_
 
 Lightweight and dynamic dependency injection framework.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [dependency-injection](../tagged/dependency-injection.md)
+* **tags**: [java](../tagged/java.md), [dependency-injection](../tagged/dependency-injection.md)
 ---
 #### [JayWire](https://github.com/vanillasource/jaywire)
 _<sup>https://github.com/vanillasource/jaywire</sup>_
 
 Lightweight dependency injection framework.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [dependency-injection](../tagged/dependency-injection.md)
+* **tags**: [java](../tagged/java.md), [dependency-injection](../tagged/dependency-injection.md)
 * :octocat: **[source code](https://github.com/vanillasource/jaywire)**
 ---
 #### [ CDI Reference Implementation](http://docs.jboss.org/weld/reference/latest/en-US/html_single/)

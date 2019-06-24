@@ -6,13 +6,13 @@ _<sup><sup>[www.bookmarks.dev/tagged/sdk](https://www.bookmarks.dev/tagged/sdk)<
 _<sup>https://github.com/huei90/javascript-sdk-design</sup>_
 
 Javascript SDK design guide extracted from work and personal experience
-* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [sdk](../tagged/sdk.md)
+* **tags**: [javascript](../tagged/javascript.md), [sdk](../tagged/sdk.md)
 * :octocat: **[source code](https://github.com/huei90/javascript-sdk-design)**
 ---
 #### [Spotify SDK](https://github.com/loverajoel/spotify-sdk)
 _<sup>https://github.com/loverajoel/spotify-sdk</sup>_
 
 Entity oriented SDK to work with the Spotify Web API.
-* **tags**: [awesome-javascript](../tagged/awesome-javascript.md), [javascript](../tagged/javascript.md), [sdk](../tagged/sdk.md)
+* **tags**: [javascript](../tagged/javascript.md), [sdk](../tagged/sdk.md)
 * :octocat: **[source code](https://github.com/loverajoel/spotify-sdk)**
 ---

@@ -103,47 +103,47 @@ Typhoeus wraps libcurl in order to make fast and reliable requests.
 _<sup>https://github.com/AsyncHttpClient/async-http-client</sup>_
 
 Asynchronous HTTP and WebSocket client library.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [http-client](../tagged/http-client.md)
+* **tags**: [java](../tagged/java.md), [http-client](../tagged/http-client.md)
 * :octocat: **[source code](https://github.com/AsyncHttpClient/async-http-client)**
 ---
 #### [Feign](https://github.com/Netflix/feign)
 _<sup>https://github.com/Netflix/feign</sup>_
 
 HTTP client binder inspired by Retrofit, JAXRS-2.0, and WebSocket.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [http-client](../tagged/http-client.md)
+* **tags**: [java](../tagged/java.md), [http-client](../tagged/http-client.md)
 * :octocat: **[source code](https://github.com/Netflix/feign)**
 ---
 #### [OkHttp](https://square.github.io/okhttp)
 _<sup>https://square.github.io/okhttp</sup>_
 
 HTTP+SPDY client.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [http-client](../tagged/http-client.md)
+* **tags**: [java](../tagged/java.md), [http-client](../tagged/http-client.md)
 ---
 #### [Play WS](https://github.com/playframework/play-ws)
 _<sup>https://github.com/playframework/play-ws</sup>_
 
 Typesafe client with reactive streams and caching.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [http-client](../tagged/http-client.md)
+* **tags**: [java](../tagged/java.md), [http-client](../tagged/http-client.md)
 * :octocat: **[source code](https://github.com/playframework/play-ws)**
 ---
 #### [restQL-core](https://github.com/B2W-BIT/restQL-core)
 _<sup>https://github.com/B2W-BIT/restQL-core</sup>_
 
 Microservice query language that fetches information from multiple services.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [http-client](../tagged/http-client.md)
+* **tags**: [java](../tagged/java.md), [http-client](../tagged/http-client.md)
 * :octocat: **[source code](https://github.com/B2W-BIT/restQL-core)**
 ---
 #### [Retrofit](https://square.github.io/retrofit)
 _<sup>https://square.github.io/retrofit</sup>_
 
 Typesafe REST client.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [http-client](../tagged/http-client.md)
+* **tags**: [java](../tagged/java.md), [http-client](../tagged/http-client.md)
 ---
 #### [Riptide](https://github.com/zalando/riptide)
 _<sup>https://github.com/zalando/riptide</sup>_
 
 Client-side response routing for Spring's RestTemplate.
-* **tags**: [awesome-java](../tagged/awesome-java.md), [java](../tagged/java.md), [http-client](../tagged/http-client.md)
+* **tags**: [java](../tagged/java.md), [http-client](../tagged/http-client.md)
 * :octocat: **[source code](https://github.com/zalando/riptide)**
 ---
 #### [HTTPie – command line HTTP client home page](https://httpie.org/)

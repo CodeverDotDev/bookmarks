@@ -13,7 +13,7 @@ NestJS is a framework for building efficient, scalable Node.js web applications.
 _<sup>https://github.com/DxCx/webpack-graphql-server</sup>_
 
 Basic Starter for Apollo Server, Using typescript and Webpack.
-* **tags**: [awesome-graphql](../tagged/awesome-graphql.md), [graphql](../tagged/graphql.md), [typescript](../tagged/typescript.md)
+* **tags**: [graphql](../tagged/graphql.md), [typescript](../tagged/typescript.md)
 * :octocat: **[source code](https://github.com/DxCx/webpack-graphql-server)**
 ---
 #### [Adapter (TypeScript Design Patterns) - YouTube](https://www.youtube.com/watch?v=beU4i949YXU)

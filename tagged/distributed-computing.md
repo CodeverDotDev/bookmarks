@@ -27,48 +27,48 @@ In this episode of “Kubernetes Best Practices”, let’s learn about the subt
 _<sup>https://pypi.python.org/pypi/pyspark/</sup>_
 
 [Apache Spark](https://spark.apache.org/) Python API.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [distributed-computing](../tagged/distributed-computing.md), [batch-processing](../tagged/batch-processing.md)
+* **tags**: [python](../tagged/python.md), [distributed-computing](../tagged/distributed-computing.md), [batch-processing](../tagged/batch-processing.md)
 ---
 #### [dask](https://github.com/dask/dask)
 _<sup>https://github.com/dask/dask</sup>_
 
 A flexible parallel computing library for analytic computing.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [distributed-computing](../tagged/distributed-computing.md), [batch-processing](../tagged/batch-processing.md)
+* **tags**: [python](../tagged/python.md), [distributed-computing](../tagged/distributed-computing.md), [batch-processing](../tagged/batch-processing.md)
 * :octocat: **[source code](https://github.com/dask/dask)**
 ---
 #### [luigi](https://github.com/spotify/luigi)
 _<sup>https://github.com/spotify/luigi</sup>_
 
 A module that helps you build complex pipelines of batch jobs.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [distributed-computing](../tagged/distributed-computing.md), [batch-processing](../tagged/batch-processing.md)
+* **tags**: [python](../tagged/python.md), [distributed-computing](../tagged/distributed-computing.md), [batch-processing](../tagged/batch-processing.md)
 * :octocat: **[source code](https://github.com/spotify/luigi)**
 ---
 #### [mrjob](https://github.com/Yelp/mrjob)
 _<sup>https://github.com/Yelp/mrjob</sup>_
 
 Run MapReduce jobs on Hadoop or Amazon Web Services.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [distributed-computing](../tagged/distributed-computing.md), [batch-processing](../tagged/batch-processing.md)
+* **tags**: [python](../tagged/python.md), [distributed-computing](../tagged/distributed-computing.md), [batch-processing](../tagged/batch-processing.md)
 * :octocat: **[source code](https://github.com/Yelp/mrjob)**
 ---
 #### [Ray](https://github.com/ray-project/ray/)
 _<sup>https://github.com/ray-project/ray/</sup>_
 
 A system for parallel and distributed Python that unifies the machine learning ecosystem.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [distributed-computing](../tagged/distributed-computing.md), [batch-processing](../tagged/batch-processing.md)
+* **tags**: [python](../tagged/python.md), [distributed-computing](../tagged/distributed-computing.md), [batch-processing](../tagged/batch-processing.md)
 * :octocat: **[source code](https://github.com/ray-project/ray/)**
 ---
 #### [faust](https://github.com/robinhood/faust)
 _<sup>https://github.com/robinhood/faust</sup>_
 
 A stream processing library, porting the ideas from [Kafka Streams](https://kafka.apache.org/documentation/streams/) to Python.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [distributed-computing](../tagged/distributed-computing.md), [stream-processing](../tagged/stream-processing.md)
+* **tags**: [python](../tagged/python.md), [distributed-computing](../tagged/distributed-computing.md), [stream-processing](../tagged/stream-processing.md)
 * :octocat: **[source code](https://github.com/robinhood/faust)**
 ---
 #### [streamparse](https://github.com/Parsely/streamparse)
 _<sup>https://github.com/Parsely/streamparse</sup>_
 
 Run Python code against real-time streams of data via [Apache Storm](http://storm.apache.org/).
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [distributed-computing](../tagged/distributed-computing.md), [stream-processing](../tagged/stream-processing.md)
+* **tags**: [python](../tagged/python.md), [distributed-computing](../tagged/distributed-computing.md), [stream-processing](../tagged/stream-processing.md)
 * :octocat: **[source code](https://github.com/Parsely/streamparse)**
 ---
 #### [Consul Home](https://www.consul.io/)

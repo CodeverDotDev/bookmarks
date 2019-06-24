@@ -34,14 +34,14 @@ Gem to convert Microsoft Word documents to Markdown.
 _<sup>https://github.com/lepture/mistune</sup>_
 
 Fastest and full featured pure Python parsers of Markdown.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [text-parsing](../tagged/text-parsing.md), [markdown](../tagged/markdown.md)
+* **tags**: [python](../tagged/python.md), [text-parsing](../tagged/text-parsing.md), [markdown](../tagged/markdown.md)
 * :octocat: **[source code](https://github.com/lepture/mistune)**
 ---
 #### [Python-Markdown](https://github.com/waylan/Python-Markdown)
 _<sup>https://github.com/waylan/Python-Markdown</sup>_
 
 A Python implementation of John Gruber’s Markdown.
-* **tags**: [awesome-python](../tagged/awesome-python.md), [python](../tagged/python.md), [text-parsing](../tagged/text-parsing.md), [markdown](../tagged/markdown.md)
+* **tags**: [python](../tagged/python.md), [text-parsing](../tagged/text-parsing.md), [markdown](../tagged/markdown.md)
 * :octocat: **[source code](https://github.com/waylan/Python-Markdown)**
 ---
 #### [Complete list of github markdown emoji markup ](https://gist.github.com/rxaviers/7360908)

@@ -6,14 +6,14 @@ _<sup><sup>[www.bookmarks.dev/tagged/blogging](https://www.bookmarks.dev/tagged/
 _<sup>https://github.com/TryGhost/Ghost</sup>_
 
 Simple, powerful publishing platform.
-* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [blogging](../tagged/blogging.md)
+* **tags**: [nodejs](../tagged/nodejs.md), [blogging](../tagged/blogging.md)
 * :octocat: **[source code](https://github.com/TryGhost/Ghost)**
 ---
 #### [Hexo](https://github.com/hexojs/hexo)
 _<sup>https://github.com/hexojs/hexo</sup>_
 
 Fast, simple and powerful blogging framework.
-* **tags**: [awesome-nodejs](../tagged/awesome-nodejs.md), [nodejs](../tagged/nodejs.md), [blogging](../tagged/blogging.md)
+* **tags**: [nodejs](../tagged/nodejs.md), [blogging](../tagged/blogging.md)
 * :octocat: **[source code](https://github.com/hexojs/hexo)**
 ---
 #### [The world’s fastest framework for building websites](https://gohugo.io/)
