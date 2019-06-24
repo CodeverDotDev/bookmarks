@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/robotics](https://www.bookmarks.dev/tagged/robotics)</sup></sup>_
 ---
+#### [Artoo](http://artoo.io)
+_<sup>http://artoo.io</sup>_
+
+Next generation robotics framework with support for different platforms: Arduino, Leap Motion, Pebble, Raspberry Pi, etc.
+* **tags**: [ruby](../tagged/ruby.md), [robotics](../tagged/robotics.md)
+---
 #### [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics)
 _<sup>https://github.com/AtsushiSakai/PythonRobotics</sup>_
 

@@ -2,6 +2,34 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/seo](https://www.bookmarks.dev/tagged/seo)</sup></sup>_
 ---
+#### [FriendlyId](https://github.com/norman/friendly_id)
+_<sup>https://github.com/norman/friendly_id</sup>_
+
+The "Swiss Army bulldozer" of slugging and permalink plugins for Active Record.
+* **tags**: [ruby](../tagged/ruby.md), [seo](../tagged/seo.md)
+* :octocat: **[source code](https://github.com/norman/friendly_id)**
+---
+#### [MetaTags](https://github.com/kpumuk/meta-tags)
+_<sup>https://github.com/kpumuk/meta-tags</sup>_
+
+A gem to make your Rails application SEO-friendly.
+* **tags**: [ruby](../tagged/ruby.md), [seo](../tagged/seo.md)
+* :octocat: **[source code](https://github.com/kpumuk/meta-tags)**
+---
+#### [prerender_rails](https://github.com/prerender/prerender_rails)
+_<sup>https://github.com/prerender/prerender_rails</sup>_
+
+Rails middleware gem for prerendering javascript-rendered pages on the fly for SEO.
+* **tags**: [ruby](../tagged/ruby.md), [seo](../tagged/seo.md)
+* :octocat: **[source code](https://github.com/prerender/prerender_rails)**
+---
+#### [SitemapGenerator](https://github.com/kjvarga/sitemap_generator)
+_<sup>https://github.com/kjvarga/sitemap_generator</sup>_
+
+A framework-agnostic XML Sitemap generator written in Ruby.
+* **tags**: [ruby](../tagged/ruby.md), [seo](../tagged/seo.md)
+* :octocat: **[source code](https://github.com/kjvarga/sitemap_generator)**
+---
 #### [awesome-search-engine-optimization](https://github.com/marcobiedermann/search-engine-optimization#readme)
 _<sup>https://github.com/marcobiedermann/search-engine-optimization#readme</sup>_
 

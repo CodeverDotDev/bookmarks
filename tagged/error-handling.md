@@ -2,6 +2,68 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/error-handling](https://www.bookmarks.dev/tagged/error-handling)</sup></sup>_
 ---
+#### [Airbrake](https://github.com/airbrake/airbrake)
+_<sup>https://github.com/airbrake/airbrake</sup>_
+
+The official Airbrake library for Ruby on Rails (and other Rack based frameworks).
+* **tags**: [ruby](../tagged/ruby.md), [error-handling](../tagged/error-handling.md)
+* :octocat: **[source code](https://github.com/airbrake/airbrake)**
+---
+#### [Better Errors](https://github.com/charliesome/better_errors)
+_<sup>https://github.com/charliesome/better_errors</sup>_
+
+Better error page for Rack apps.
+* **tags**: [ruby](../tagged/ruby.md), [error-handling](../tagged/error-handling.md)
+* :octocat: **[source code](https://github.com/charliesome/better_errors)**
+---
+#### [Bugsnag](https://github.com/bugsnag/bugsnag-ruby)
+_<sup>https://github.com/bugsnag/bugsnag-ruby</sup>_
+
+Error monitoring for Rails, Sinatra, Rack, and plain Ruby apps.
+* **tags**: [ruby](../tagged/ruby.md), [error-handling](../tagged/error-handling.md)
+* :octocat: **[source code](https://github.com/bugsnag/bugsnag-ruby)**
+---
+#### [Errbit](https://github.com/errbit/errbit)
+_<sup>https://github.com/errbit/errbit</sup>_
+
+The open source, self-hosted error catcher.
+* **tags**: [ruby](../tagged/ruby.md), [error-handling](../tagged/error-handling.md)
+* :octocat: **[source code](https://github.com/errbit/errbit)**
+---
+#### [Exception Handler](https://github.com/richpeck/exception_handler)
+_<sup>https://github.com/richpeck/exception_handler</sup>_
+
+Custom error pages.
+* **tags**: [ruby](../tagged/ruby.md), [error-handling](../tagged/error-handling.md)
+* :octocat: **[source code](https://github.com/richpeck/exception_handler)**
+---
+#### [Exception Notification](https://github.com/smartinez87/exception_notification)
+_<sup>https://github.com/smartinez87/exception_notification</sup>_
+
+A set of notifiers for sending notifications when errors occur in a Rack/Rails application.
+* **tags**: [ruby](../tagged/ruby.md), [error-handling](../tagged/error-handling.md)
+* :octocat: **[source code](https://github.com/smartinez87/exception_notification)**
+---
+#### [Honeybadger](https://www.honeybadger.io/)
+_<sup>https://www.honeybadger.io/</sup>_
+
+Exception, uptime, and performance monitoring for Ruby.
+* **tags**: [ruby](../tagged/ruby.md), [error-handling](../tagged/error-handling.md)
+---
+#### [Nesty](https://github.com/skorks/nesty)
+_<sup>https://github.com/skorks/nesty</sup>_
+
+Nested exceptions for Ruby.
+* **tags**: [ruby](../tagged/ruby.md), [error-handling](../tagged/error-handling.md)
+* :octocat: **[source code](https://github.com/skorks/nesty)**
+---
+#### [Raven Ruby](https://github.com/getsentry/raven-ruby)
+_<sup>https://github.com/getsentry/raven-ruby</sup>_
+
+Raven is a Ruby client for Sentry.
+* **tags**: [ruby](../tagged/ruby.md), [error-handling](../tagged/error-handling.md)
+* :octocat: **[source code](https://github.com/getsentry/raven-ruby)**
+---
 #### [FuckIt.py](https://github.com/ajalt/fuckitpy)
 _<sup>https://github.com/ajalt/fuckitpy</sup>_
 

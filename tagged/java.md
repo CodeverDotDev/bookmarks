@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/java](https://www.bookmarks.dev/tagged/java)</sup></sup>_
 ---
+#### [The State of Logging in Java](https://stackify.com/logging-java/)
+_<sup>https://stackify.com/logging-java/</sup>_
+
+When developing an application, chances are that it won’t perform as expected on the first run. Developers know that if it happens in production, debuggers won’t be available. Hence, logging statement...
+* :calendar: **published on**: 2018-05-15
+* **tags**: [java](../tagged/java.md), [logging](../tagged/logging.md), [slf4j](../tagged/slf4j.md), [log4j](../tagged/log4j.md)
+---
 #### [GOTO 2018 • Kubernetes-ize your Java Application • Arun Gupta - YouTube](https://www.youtube.com/watch?v=QgMwcpAT49M)
 _<sup>https://www.youtube.com/watch?v=QgMwcpAT49M</sup>_
 
@@ -4641,9 +4648,7 @@ _<sup>https://github.com/GoogleContainerTools/jib</sup>_
 
 :sailboat: Build container images for your Java applications. - GoogleContainerTools/jib
 
- Quickstart
-
-* **Maven** - See the jib-maven-plugin [Quickstart](https://github.com/GoogleContainerTools/jib...
+* **Maven** - See the jib-maven-plugin [Quickstart](https://github.com/GoogleContainerTools/jib/tree/master/ji...
 * **tags**: [docker](../tagged/docker.md), [maven-plugin](../tagged/maven-plugin.md), [java](../tagged/java.md), [gradle](../tagged/gradle.md)
 * :octocat: **[source code](https://github.com/GoogleContainerTools/jib)**
 ---

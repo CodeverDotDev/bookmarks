@@ -2,6 +2,102 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/documentation](https://www.bookmarks.dev/tagged/documentation)</sup></sup>_
 ---
+#### [Annotate](https://github.com/ctran/annotate_models)
+_<sup>https://github.com/ctran/annotate_models</sup>_
+
+Add a comment documenting the current schema to the top or bottom of each of your ActiveRecord models.
+* **tags**: [ruby](../tagged/ruby.md), [documentation](../tagged/documentation.md)
+* :octocat: **[source code](https://github.com/ctran/annotate_models)**
+---
+#### [Apipie](https://github.com/Apipie/apipie-rails)
+_<sup>https://github.com/Apipie/apipie-rails</sup>_
+
+Rails API documentation and display tool using Ruby syntax.
+* **tags**: [ruby](../tagged/ruby.md), [documentation](../tagged/documentation.md)
+* :octocat: **[source code](https://github.com/Apipie/apipie-rails)**
+---
+#### [Asciidoctor](https://asciidoctor.org)
+_<sup>https://asciidoctor.org</sup>_
+
+A fast, Ruby-based text processor & publishing toolchain for converting AsciiDoc to HTML5, DocBook, EPUB3, PDF & more.
+* **tags**: [ruby](../tagged/ruby.md), [documentation](../tagged/documentation.md)
+---
+#### [Doctor](https://github.com/minio/doctor)
+_<sup>https://github.com/minio/doctor</sup>_
+
+Doctor is a Documentation Server for all your docs in github.
+* **tags**: [ruby](../tagged/ruby.md), [documentation](../tagged/documentation.md)
+* :octocat: **[source code](https://github.com/minio/doctor)**
+---
+#### [Documentation](https://github.com/adamcooke/documentation)
+_<sup>https://github.com/adamcooke/documentation</sup>_
+
+A Rails engine to provider the ability to add documentation to a Rails application.
+* **tags**: [ruby](../tagged/ruby.md), [documentation](../tagged/documentation.md)
+* :octocat: **[source code](https://github.com/adamcooke/documentation)**
+---
+#### [GitHub Changelog Generator](https://github.com/skywinder/github-changelog-generator)
+_<sup>https://github.com/skywinder/github-changelog-generator</sup>_
+
+Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
+* **tags**: [ruby](../tagged/ruby.md), [documentation](../tagged/documentation.md)
+* :octocat: **[source code](https://github.com/skywinder/github-changelog-generator)**
+---
+#### [Gollum](https://github.com/gollum/gollum)
+_<sup>https://github.com/gollum/gollum</sup>_
+
+A simple, Git-powered wiki with a sweet API and local frontend.
+* **tags**: [ruby](../tagged/ruby.md), [documentation](../tagged/documentation.md)
+* :octocat: **[source code](https://github.com/gollum/gollum)**
+---
+#### [grape-swagger](https://github.com/ruby-grape/grape-swagger)
+_<sup>https://github.com/ruby-grape/grape-swagger</sup>_
+
+Add swagger compliant documentation to your Grape API.
+* **tags**: [ruby](../tagged/ruby.md), [documentation](../tagged/documentation.md)
+* :octocat: **[source code](https://github.com/ruby-grape/grape-swagger)**
+---
+#### [Hanna](https://github.com/rdoc/hanna-nouveau)
+_<sup>https://github.com/rdoc/hanna-nouveau</sup>_
+
+An RDoc formatter built with simplicity, beauty and ease of browsing in mind.
+* **tags**: [ruby](../tagged/ruby.md), [documentation](../tagged/documentation.md)
+* :octocat: **[source code](https://github.com/rdoc/hanna-nouveau)**
+---
+#### [Hologram](https://github.com/trulia/hologram)
+_<sup>https://github.com/trulia/hologram</sup>_
+
+A markdown based documentation system for style guides. It parses comments in your CSS and helps you turn them into a beautiful style guide.
+* **tags**: [ruby](../tagged/ruby.md), [documentation](../tagged/documentation.md)
+* :octocat: **[source code](https://github.com/trulia/hologram)**
+---
+#### [Inch](https://github.com/rrrene/inch)
+_<sup>https://github.com/rrrene/inch</sup>_
+
+Inch is a documentation measurement and evalutation tool for Ruby code, based on YARD.
+* **tags**: [ruby](../tagged/ruby.md), [documentation](../tagged/documentation.md)
+* :octocat: **[source code](https://github.com/rrrene/inch)**
+---
+#### [RDoc](https://github.com/ruby/rdoc)
+_<sup>https://github.com/ruby/rdoc</sup>_
+
+RDoc produces HTML and command-line documentation for Ruby projects.
+* **tags**: [ruby](../tagged/ruby.md), [documentation](../tagged/documentation.md)
+* :octocat: **[source code](https://github.com/ruby/rdoc)**
+---
+#### [rspec_api_documentation](https://github.com/zipmark/rspec_api_documentation)
+_<sup>https://github.com/zipmark/rspec_api_documentation</sup>_
+
+Automatically generate API documentation from RSpec.
+* **tags**: [ruby](../tagged/ruby.md), [documentation](../tagged/documentation.md)
+* :octocat: **[source code](https://github.com/zipmark/rspec_api_documentation)**
+---
+#### [YARD](http://yardoc.org)
+_<sup>http://yardoc.org</sup>_
+
+YARD enables the user to generate consistent, usable documentation that can be exported to a number of formats very easily.
+* **tags**: [ruby](../tagged/ruby.md), [documentation](../tagged/documentation.md)
+---
 #### [sphinx](https://github.com/sphinx-doc/sphinx/)
 _<sup>https://github.com/sphinx-doc/sphinx/</sup>_
 

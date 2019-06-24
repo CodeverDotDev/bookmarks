@@ -2,6 +2,55 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/machine-learning](https://www.bookmarks.dev/tagged/machine-learning)</sup></sup>_
 ---
+#### [AI4R](https://github.com/sergiofierens/ai4r)
+_<sup>https://github.com/sergiofierens/ai4r</sup>_
+
+Algorithms covering several Artificial intelligence fields.
+* **tags**: [ruby](../tagged/ruby.md), [machine-learning](../tagged/machine-learning.md)
+* :octocat: **[source code](https://github.com/sergiofierens/ai4r)**
+---
+#### [Awesome Machine Learning with Ruby](https://github.com/arbox/machine-learning-with-ruby)
+_<sup>https://github.com/arbox/machine-learning-with-ruby</sup>_
+
+A Curated List of Ruby Machine Learning Links and Resources.
+* **tags**: [ruby](../tagged/ruby.md), [machine-learning](../tagged/machine-learning.md)
+* :octocat: **[source code](https://github.com/arbox/machine-learning-with-ruby)**
+---
+#### [PredictionIO Ruby SDK](https://github.com/PredictionIO/PredictionIO-Ruby-SDK)
+_<sup>https://github.com/PredictionIO/PredictionIO-Ruby-SDK</sup>_
+
+The PredictionIO Ruby SDK provides a convenient API to quickly record your users' behavior and retrieve personalized predictions for them.
+* **tags**: [ruby](../tagged/ruby.md), [machine-learning](../tagged/machine-learning.md)
+* :octocat: **[source code](https://github.com/PredictionIO/PredictionIO-Ruby-SDK)**
+---
+#### [rb-libsvm](https://github.com/febeling/rb-libsvm)
+_<sup>https://github.com/febeling/rb-libsvm</sup>_
+
+Ruby language bindings for LIBSVM. SVM is a machine learning and classification algorithm.
+* **tags**: [ruby](../tagged/ruby.md), [machine-learning](../tagged/machine-learning.md)
+* :octocat: **[source code](https://github.com/febeling/rb-libsvm)**
+---
+#### [ruby-fann](https://github.com/tangledpath/ruby-fann)
+_<sup>https://github.com/tangledpath/ruby-fann</sup>_
+
+Ruby library for interfacing with FANN (Fast Artificial Neural Network).
+* **tags**: [ruby](../tagged/ruby.md), [machine-learning](../tagged/machine-learning.md)
+* :octocat: **[source code](https://github.com/tangledpath/ruby-fann)**
+---
+#### [rumale](https://github.com/yoshoku/rumale)
+_<sup>https://github.com/yoshoku/rumale</sup>_
+
+A machine learninig library with interfaces similar to Scikit-Learn.
+* **tags**: [ruby](../tagged/ruby.md), [machine-learning](../tagged/machine-learning.md)
+* :octocat: **[source code](https://github.com/yoshoku/rumale)**
+---
+#### [weka](https://github.com/paulgoetze/weka-jruby)
+_<sup>https://github.com/paulgoetze/weka-jruby</sup>_
+
+Machine learning and data mining algorithms for JRuby.
+* **tags**: [ruby](../tagged/ruby.md), [machine-learning](../tagged/machine-learning.md)
+* :octocat: **[source code](https://github.com/paulgoetze/weka-jruby)**
+---
 #### [H2O](https://github.com/h2oai/h2o-3)
 _<sup>https://github.com/h2oai/h2o-3</sup>_
 

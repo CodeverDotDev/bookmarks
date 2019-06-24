@@ -2,6 +2,111 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/kubernetes](https://www.bookmarks.dev/tagged/kubernetes)</sup></sup>_
 ---
+#### [Using Kustomize for per-environment deployment of cert-manager resources](https://blog.jetstack.io/blog/kustomize-cert-manager/)
+_<sup>https://blog.jetstack.io/blog/kustomize-cert-manager/</sup>_
+
+Using Kubectl's new Kustomize support for per-environment deployment of cert-manager resources.
+* :calendar: **published on**: 2019-04-01
+* **tags**: [kubernetes](../tagged/kubernetes.md), [kustomize](../tagged/kustomize.md), [cert-manager](../tagged/cert-manager.md)
+* :octocat: **[source code](https://github.com/jetstack/kustomize-cert-manager-demo)**
+---
+#### [Kustomize Home Page](https://kustomize.io/)
+_<sup>https://kustomize.io/</sup>_
+
+Kustomize traverses a Kubernetes manifest to add, remove or update configuration options without forking. It is available both as a standalone binary and as a native feature of `kubectl`.
+
+Docs:
+* [gi...
+* **tags**: [kubernetes](../tagged/kubernetes.md), [kustomize](../tagged/kustomize.md), [kubectl](../tagged/kubectl.md)
+* :octocat: **[source code](https://github.com/kubernetes-sigs/kustomize/)**
+---
+#### [Deploy Your App with Template Free YAML - Ryan Cox, Lyft - YouTube](https://www.youtube.com/watch?v=ahMIBxufNR0)
+_<sup>https://www.youtube.com/watch?v=ahMIBxufNR0</sup>_
+
+This talk will introduce Kustomize, a declarative application management system, that allows deployments to be described as template free YAML. It's approach will be contrasted with DSLs and template ...
+* :calendar: **published on**: 2018-12-15
+* **tags**: [kubernetes](../tagged/kubernetes.md), [kustomize](../tagged/kustomize.md), [kubernetes-helm](../tagged/kubernetes-helm.md)
+* :octocat: **[source code](https://github.com/ryancox/gitea)**
+---
+#### [Declarative application management in Kubernetes](https://github.com/kubernetes/community/blob/master/contributors/design-proposals/architecture/declarative-application-management.md)
+_<sup>https://github.com/kubernetes/community/blob/master/contributors/design-proposals/architecture/decla...</sup>_
+
+This document proposes a unified method of managing both bespoke and off-the-shelf applications declaratively using the same tools and application operator workflow, while leveraging developer-friendl...
+* :calendar: **published on**: 2017-02-08
+* **tags**: [kubernetes](../tagged/kubernetes.md), [application-management](../tagged/application-management.md)
+---
+#### [GoogleContainerTools Kaniko Home Page](https://github.com/GoogleContainerTools/kaniko)
+_<sup>https://github.com/GoogleContainerTools/kaniko</sup>_
+
+Build Container Images In Kubernetes. Contribute to GoogleContainerTools/kaniko development by creating an account on GitHub.
+* **tags**: [kubernetes](../tagged/kubernetes.md), [devops](../tagged/devops.md), [devops-tools](../tagged/devops-tools.md), [docker](../tagged/docker.md), [dockerfile](../tagged/dockerfile.md)
+* :octocat: **[source code](https://github.com/GoogleContainerTools/kaniko)**
+---
+#### [Kubernetes Ingress Explained For Beginners - YouTube](https://www.youtube.com/watch?v=VicH6KojwCI)
+_<sup>https://www.youtube.com/watch?v=VicH6KojwCI</sup>_
+
+Nice and explanation of kubernetes ingress with different sample scenarios. 
+* :calendar: **published on**: 2019-01-17
+* **tags**: [kubernetes](../tagged/kubernetes.md)
+---
+#### [kubetail - Bash script to tail Kubernetes logs from multiple pods at the same time](https://github.com/johanhaleby/kubetail)
+_<sup>https://github.com/johanhaleby/kubetail</sup>_
+
+Bash script to tail Kubernetes logs from multiple pods at the same time - johanhaleby/kubetail
+* **tags**: [kubernetes](../tagged/kubernetes.md), [kubectl](../tagged/kubectl.md), [devops](../tagged/devops.md), [devops-tools](../tagged/devops-tools.md)
+* :octocat: **[source code](https://github.com/johanhaleby/kubetail)**
+---
+#### [kubectx - Switch faster between clusters and namespaces in kubectl](https://kubectx.dev/)
+_<sup>https://kubectx.dev/</sup>_
+
+Switch faster between clusters and namespaces in kubectl - ahmetb/kubectx
+* **tags**: [kubernetes](../tagged/kubernetes.md), [tools](../tagged/tools.md), [devops-tools](../tagged/devops-tools.md), [devops](../tagged/devops.md)
+* :octocat: **[source code](https://github.com/ahmetb/kubectx/)**
+---
+#### [Organizing Kubernetes with Namespaces (Kubernetes Best Practices) - YouTube](https://www.youtube.com/watch?v=xpnZX3if9Tc)
+_<sup>https://www.youtube.com/watch?v=xpnZX3if9Tc</sup>_
+
+In this episode of Kubernetes Best Practices, Sandeep Dinesh shows how to work with Namespaces and how they can help you manage your Kubernetes resources.
+
+* See the associated article here → [https:/...
+* :calendar: **published on**: 2018-04-27
+* **tags**: [kubernetes](../tagged/kubernetes.md), [namespaces](../tagged/namespaces.md)
+---
+#### [Welcome to Knative home page](https://knative.dev/docs/)
+_<sup>https://knative.dev/docs/</sup>_
+
+Knative (pronounced kay-nay-tiv) extends Kubernetes to provide a set of middleware components that are essential to build modern, source-centric, and container-based applications that can run anywhere...
+* **tags**: [docs](../tagged/docs.md), [kubernetes](../tagged/kubernetes.md), [knative](../tagged/knative.md)
+* :octocat: **[source code](https://github.com/knative/docs)**
+---
+#### [Replicated Ship - Manage 3rd-party Kubernetes apps home page](https://www.replicated.com/ship)
+_<sup>https://www.replicated.com/ship</sup>_
+
+Replicated Ship Open Source is a free tool for customizing 3rd-party Kubernetes components for production grade deployments without forking.
+* **tags**: [kubernetes](../tagged/kubernetes.md), [kubernetes-ship](../tagged/kubernetes-ship.md), [devops-tools](../tagged/devops-tools.md)
+* :octocat: **[source code](https://github.com/replicatedhq/ship)**
+---
+#### [Stop Forking Helm Charts, an Intro to Replicated Ship - K8s, Kustomize & Ship SF Meetup - YouTube](https://www.youtube.com/watch?v=pRG47EQ5OAg)
+_<sup>https://www.youtube.com/watch?v=pRG47EQ5OAg</sup>_
+
+This presentation by Marc Campbell, CTO and Founder of Replicated, is from the Kubernetes, Kustomize & Ship Meetup in SF - ship video reference
+* :calendar: **published on**: 2018-11-15
+* **tags**: [kubernetes](../tagged/kubernetes.md), [kustomize](../tagged/kustomize.md), [kubernetes-helm](../tagged/kubernetes-helm.md), [kubernetes-ship](../tagged/kubernetes-ship.md), [devops](../tagged/devops.md), [devops-tools](../tagged/devops-tools.md)
+* :octocat: **[source code](https://github.com/replicatedhq/ship)**
+---
+#### [GitHub - jetstack/cert-manager home page](https://github.com/jetstack/cert-manager)
+_<sup>https://github.com/jetstack/cert-manager</sup>_
+
+Automatically provision and manage TLS certificates in Kubernetes - jetstack/cert-manager
+* **tags**: [kubernetes](../tagged/kubernetes.md), [tls](../tagged/tls.md), [certificate](../tagged/certificate.md)
+* :octocat: **[source code](https://github.com/jetstack/cert-manager)**
+---
+#### [GitOps](https://www.weave.works/technologies/gitops/)
+_<sup>https://www.weave.works/technologies/gitops/</sup>_
+
+Learn what is GitOps and how you can implement GitOps workflows to reliably run Kubernetes in production and at scale. Also find out why GitOps is the more secure way to deploy apps to Kubernetes.
+* **tags**: [gitops](../tagged/gitops.md), [devops](../tagged/devops.md), [kubernetes](../tagged/kubernetes.md), [git](../tagged/git.md)
+---
 #### [GOTO 2018 • Kubernetes-ize your Java Application • Arun Gupta - YouTube](https://www.youtube.com/watch?v=QgMwcpAT49M)
 _<sup>https://www.youtube.com/watch?v=QgMwcpAT49M</sup>_
 
@@ -45,9 +150,9 @@ This guide walks you through the process of creating your first ever chart, expl
 #### [kubernetes configmaps for beginners - YouTube](https://www.youtube.com/watch?v=SJU8l3UmKZU)
 _<sup>https://www.youtube.com/watch?v=SJU8l3UmKZU</sup>_
 
-This is a tutorial on how to create Kubernetes ConfigMaps but first, let’s understand what ConfigMaps are. 
+This is a tutorial on how to create Kubernetes ConfigMaps but first, let’s understand what ConfigMaps are. Configmap
 
-Blog post - [How to Create Kubernetes ConfigMaps](https://www.cloudtechnologyexperts.com/cr...
+Blog post - [How to Create Kubernetes ConfigMaps](https://www.cloudtechnologyexper...
 * :calendar: **published on**: 2018-06-28
 * **tags**: [kubernetes](../tagged/kubernetes.md)
 ---
@@ -167,7 +272,7 @@ Draft is a tool for developers to create cloud-native applications on Kubernetes
 * **tags**: [kubernetes](../tagged/kubernetes.md), [kubernetes-helm](../tagged/kubernetes-helm.md), [draft](../tagged/draft.md)
 * :octocat: **[source code](https://github.com/azure/draft)**
 ---
-#### [Skaffold home page](https://skaffold.dev/)
+#### [Skaffold Home Page](https://skaffold.dev/)
 _<sup>https://skaffold.dev/</sup>_
 
 Easy and Repeatable Kubernetes Development

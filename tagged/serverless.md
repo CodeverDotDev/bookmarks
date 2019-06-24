@@ -2,6 +2,19 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/serverless](https://www.bookmarks.dev/tagged/serverless)</sup></sup>_
 ---
+#### [FaaStRuby](https://faastruby.io)
+_<sup>https://faastruby.io</sup>_
+
+Serverless Software Development Platform for Ruby and Crystal developers.
+* **tags**: [ruby](../tagged/ruby.md), [serverless](../tagged/serverless.md)
+---
+#### [Jets](https://github.com/tongueroo/jets)
+_<sup>https://github.com/tongueroo/jets</sup>_
+
+A Ruby Serverless Framework to create and deploy serverless microservices with ease, and to seamlessly glue AWS services.
+* **tags**: [ruby](../tagged/ruby.md), [serverless](../tagged/serverless.md)
+* :octocat: **[source code](https://github.com/tongueroo/jets)**
+---
 #### [python-lambda](https://github.com/nficano/python-lambda)
 _<sup>https://github.com/nficano/python-lambda</sup>_
 

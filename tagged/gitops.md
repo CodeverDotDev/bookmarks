@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/gitops](https://www.bookmarks.dev/tagged/gitops)</sup></sup>_
 ---
+#### [GitOps](https://www.weave.works/technologies/gitops/)
+_<sup>https://www.weave.works/technologies/gitops/</sup>_
+
+Learn what is GitOps and how you can implement GitOps workflows to reliably run Kubernetes in production and at scale. Also find out why GitOps is the more secure way to deploy apps to Kubernetes.
+* **tags**: [gitops](../tagged/gitops.md), [devops](../tagged/devops.md), [kubernetes](../tagged/kubernetes.md), [git](../tagged/git.md)
+---
 #### [What Is GitOps Really?](https://www.weave.works/blog/what-is-gitops-really)
 _<sup>https://www.weave.works/blog/what-is-gitops-really</sup>_
 

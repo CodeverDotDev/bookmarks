@@ -2,6 +2,20 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/distributed-computing](https://www.bookmarks.dev/tagged/distributed-computing)</sup></sup>_
 ---
+#### [Level-triggered and edge-triggered](https://gengnosis.blogspot.com/2007/01/level-triggered-and-edge-triggered.html)
+_<sup>https://gengnosis.blogspot.com/2007/01/level-triggered-and-edge-triggered.html</sup>_
+
+Edge triggered things happen when some stimulus changes; level-triggered things happen when some stimulus crosses a threshold. 
+* :calendar: **published on**: 2007-10-21
+* **tags**: [distributed-computing](../tagged/distributed-computing.md), [programming](../tagged/programming.md), [architecture](../tagged/architecture.md)
+---
+#### [etcd home page](https://etcd.io/)
+_<sup>https://etcd.io/</sup>_
+
+**etcd** is a strongly consistent, distributed key-value store that provides a reliable way to store data that needs to be accessed by a distributed system or cluster of machines. It gracefully handle...
+* **tags**: [etcd](../tagged/etcd.md), [distributed-storage](../tagged/distributed-storage.md), [distributed-computing](../tagged/distributed-computing.md), [key-value-store](../tagged/key-value-store.md)
+* :octocat: **[source code](https://github.com/etcd-io/etcd)**
+---
 #### [Kubernetes best practices: Setting up health checks with readiness and liveness probes](https://cloud.google.com/blog/products/gcp/kubernetes-best-practices-setting-up-health-checks-with-readiness-and-liveness-probes)
 _<sup>https://cloud.google.com/blog/products/gcp/kubernetes-best-practices-setting-up-health-checks-with-r...</sup>_
 

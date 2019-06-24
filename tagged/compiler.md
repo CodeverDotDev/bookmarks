@@ -2,6 +2,41 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/compiler](https://www.bookmarks.dev/tagged/compiler)</sup></sup>_
 ---
+#### [JRuby](https://github.com/jruby/jruby)
+_<sup>https://github.com/jruby/jruby</sup>_
+
+A Java implementation of the Ruby language.
+* **tags**: [ruby](../tagged/ruby.md), [implementation](../tagged/implementation.md), [compiler](../tagged/compiler.md)
+* :octocat: **[source code](https://github.com/jruby/jruby)**
+---
+#### [MRuby](https://github.com/mruby/mruby)
+_<sup>https://github.com/mruby/mruby</sup>_
+
+Lightweight Ruby. Can be linked and embedded in your application.
+* **tags**: [ruby](../tagged/ruby.md), [implementation](../tagged/implementation.md), [compiler](../tagged/compiler.md)
+* :octocat: **[source code](https://github.com/mruby/mruby)**
+---
+#### [Opal](https://github.com/opal/opal)
+_<sup>https://github.com/opal/opal</sup>_
+
+Ruby to Javascript compiler.
+* **tags**: [ruby](../tagged/ruby.md), [implementation](../tagged/implementation.md), [compiler](../tagged/compiler.md)
+* :octocat: **[source code](https://github.com/opal/opal)**
+---
+#### [Rubinius](https://github.com/rubinius/rubinius)
+_<sup>https://github.com/rubinius/rubinius</sup>_
+
+An implementation of the Ruby programming language. Rubinius includes a bytecode virtual machine, Ruby syntax parser, bytecode compiler, generational garbage collector, just-in-time (JIT) native machi...
+* **tags**: [ruby](../tagged/ruby.md), [implementation](../tagged/implementation.md), [compiler](../tagged/compiler.md)
+* :octocat: **[source code](https://github.com/rubinius/rubinius)**
+---
+#### [TruffleRuby](https://github.com/oracle/truffleruby)
+_<sup>https://github.com/oracle/truffleruby</sup>_
+
+A high performance implementation of the Ruby programming language. Built on the GraalVM by Oracle Labs.
+* **tags**: [ruby](../tagged/ruby.md), [implementation](../tagged/implementation.md), [compiler](../tagged/compiler.md)
+* :octocat: **[source code](https://github.com/oracle/truffleruby)**
+---
 #### [ANTLR](http://www.antlr.org)
 _<sup>http://www.antlr.org</sup>_
 

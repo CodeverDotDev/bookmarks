@@ -2,6 +2,89 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/logging](https://www.bookmarks.dev/tagged/logging)</sup></sup>_
 ---
+#### [Cabin](https://github.com/jordansissel/ruby-cabin)
+_<sup>https://github.com/jordansissel/ruby-cabin</sup>_
+
+Structured+contextual logging experiments in Ruby.
+* **tags**: [ruby](../tagged/ruby.md), [logging](../tagged/logging.md)
+* :octocat: **[source code](https://github.com/jordansissel/ruby-cabin)**
+---
+#### [Fluentd](https://github.com/fluent/fluentd)
+_<sup>https://github.com/fluent/fluentd</sup>_
+
+Fluentd collects events from various data sources and writes them to files, database or other types of storages.
+* **tags**: [ruby](../tagged/ruby.md), [logging](../tagged/logging.md)
+* :octocat: **[source code](https://github.com/fluent/fluentd)**
+---
+#### [HttpLog](https://github.com/trusche/httplog)
+_<sup>https://github.com/trusche/httplog</sup>_
+
+Log outgoing HTTP requests.
+* **tags**: [ruby](../tagged/ruby.md), [logging](../tagged/logging.md)
+* :octocat: **[source code](https://github.com/trusche/httplog)**
+---
+#### [Log4r](https://github.com/colbygk/log4r)
+_<sup>https://github.com/colbygk/log4r</sup>_
+
+Log4r is a comprehensive and flexible logging library for use in Ruby programs.
+* **tags**: [ruby](../tagged/ruby.md), [logging](../tagged/logging.md)
+* :octocat: **[source code](https://github.com/colbygk/log4r)**
+---
+#### [Logging](https://github.com/TwP/logging)
+_<sup>https://github.com/TwP/logging</sup>_
+
+A flexible logging library for use in Ruby programs based on the design of Java's log4j library.
+* **tags**: [ruby](../tagged/ruby.md), [logging](../tagged/logging.md)
+* :octocat: **[source code](https://github.com/TwP/logging)**
+---
+#### [Lograge](https://github.com/roidrage/lograge)
+_<sup>https://github.com/roidrage/lograge</sup>_
+
+An attempt to tame Rails' default policy to log everything.
+* **tags**: [ruby](../tagged/ruby.md), [logging](../tagged/logging.md)
+* :octocat: **[source code](https://github.com/roidrage/lograge)**
+---
+#### [MongoDB Logger](https://github.com/le0pard/mongodb_logger)
+_<sup>https://github.com/le0pard/mongodb_logger</sup>_
+
+MongoDB logger for Rails.
+* **tags**: [ruby](../tagged/ruby.md), [logging](../tagged/logging.md)
+* :octocat: **[source code](https://github.com/le0pard/mongodb_logger)**
+---
+#### [Scrolls](https://github.com/asenchi/scrolls)
+_<sup>https://github.com/asenchi/scrolls</sup>_
+
+Simple logging.
+* **tags**: [ruby](../tagged/ruby.md), [logging](../tagged/logging.md)
+* :octocat: **[source code](https://github.com/asenchi/scrolls)**
+---
+#### [Semantic Logger](https://rocketjob.github.io/semantic_logger/)
+_<sup>https://rocketjob.github.io/semantic_logger/</sup>_
+
+Scalable, next generation enterprise logging for Ruby.
+* **tags**: [ruby](../tagged/ruby.md), [logging](../tagged/logging.md)
+---
+#### [Syslogger](https://github.com/crohr/syslogger)
+_<sup>https://github.com/crohr/syslogger</sup>_
+
+A drop-in replacement for the standard Logger Ruby library, that logs to the syslog instead of a log file.
+* **tags**: [ruby](../tagged/ruby.md), [logging](../tagged/logging.md)
+* :octocat: **[source code](https://github.com/crohr/syslogger)**
+---
+#### [Yell](https://github.com/rudionrails/yell)
+_<sup>https://github.com/rudionrails/yell</sup>_
+
+Your Extensible Logging Library.
+* **tags**: [ruby](../tagged/ruby.md), [logging](../tagged/logging.md)
+* :octocat: **[source code](https://github.com/rudionrails/yell)**
+---
+#### [The State of Logging in Java](https://stackify.com/logging-java/)
+_<sup>https://stackify.com/logging-java/</sup>_
+
+When developing an application, chances are that it won’t perform as expected on the first run. Developers know that if it happens in production, debuggers won’t be available. Hence, logging statement...
+* :calendar: **published on**: 2018-05-15
+* **tags**: [java](../tagged/java.md), [logging](../tagged/logging.md), [slf4j](../tagged/slf4j.md), [log4j](../tagged/log4j.md)
+---
 #### [Eliot](https://github.com/ScatterHQ/eliot)
 _<sup>https://github.com/ScatterHQ/eliot</sup>_
 

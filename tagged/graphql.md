@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/graphql](https://www.bookmarks.dev/tagged/graphql)</sup></sup>_
 ---
+#### [graphql-guard](https://github.com/exAspArk/graphql-guard)
+_<sup>https://github.com/exAspArk/graphql-guard</sup>_
+
+A simple field-level authorization.
+* **tags**: [ruby](../tagged/ruby.md), [graphql](../tagged/graphql.md)
+* :octocat: **[source code](https://github.com/exAspArk/graphql-guard)**
+---
 #### [Creating A GraphQL Server With Node.js And Express – CodingTheSmartWay.com Blog – Medium](https://medium.com/codingthesmartway-com-blog/creating-a-graphql-server-with-node-js-and-express-f6dddc5320e1)
 _<sup>https://medium.com/codingthesmartway-com-blog/creating-a-graphql-server-with-node-js-and-express-f6d...</sup>_
 

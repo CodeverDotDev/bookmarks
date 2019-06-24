@@ -2,6 +2,24 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/angular](https://www.bookmarks.dev/tagged/angular)</sup></sup>_
 ---
+#### [Handling Observables with NgIf and the Async Pipe](https://ultimatecourses.com/blog/angular-ngif-async-pipe)
+_<sup>https://ultimatecourses.com/blog/angular-ngif-async-pipe</sup>_
+
+Dealing with async operations with the async pipe takes care of subscribing to Observable streams/async stuff like Promises for us.
+
+There are a few common gotchas when dealing with purely cold Observ...
+* :calendar: **published on**: 2018-07-18
+* **tags**: [angular](../tagged/angular.md), [async](../tagged/async.md), [asynchronous](../tagged/asynchronous.md), [observable](../tagged/observable.md)
+---
+#### [When To Subscribe – Angular In Depth](https://blog.angularindepth.com/when-to-subscribe-a83332ae053)
+_<sup>https://blog.angularindepth.com/when-to-subscribe-a83332ae053</sup>_
+
+When should you subscribe? The answer to that question is, “Only when you absolutely have to.” Because (among other reasons) if you don’t subscribe, you don’t have to unsubscribe.
+
+So, when do you abs...
+* :calendar: **published on**: 2019-01-08
+* **tags**: [angular](../tagged/angular.md), [rxjs](../tagged/rxjs.md), [observable](../tagged/observable.md)
+---
 #### [Angular 2+ Social Sharing Buttons for Facebook, Google Plus, Twitter, LinkedIn and Pinterest](https://jasonwatmore.com/post/2018/06/01/angular-2-social-sharing-buttons-for-facebook-google-plus-twitter-linkedin-and-pinterest)
 _<sup>https://jasonwatmore.com/post/2018/06/01/angular-2-social-sharing-buttons-for-facebook-google-plus-t...</sup>_
 

@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/log4j](https://www.bookmarks.dev/tagged/log4j)</sup></sup>_
 ---
+#### [The State of Logging in Java](https://stackify.com/logging-java/)
+_<sup>https://stackify.com/logging-java/</sup>_
+
+When developing an application, chances are that it won’t perform as expected on the first run. Developers know that if it happens in production, debuggers won’t be available. Hence, logging statement...
+* :calendar: **published on**: 2018-05-15
+* **tags**: [java](../tagged/java.md), [logging](../tagged/logging.md), [slf4j](../tagged/slf4j.md), [log4j](../tagged/log4j.md)
+---
 #### [Apache Log4j 2](https://logging.apache.org/log4j/2.x/)
 _<sup>https://logging.apache.org/log4j/2.x/</sup>_
 

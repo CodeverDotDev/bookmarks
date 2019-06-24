@@ -2,6 +2,48 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/web-crawling](https://www.bookmarks.dev/tagged/web-crawling)</sup></sup>_
 ---
+#### [anemone](https://github.com/chriskite/anemone)
+_<sup>https://github.com/chriskite/anemone</sup>_
+
+Ruby library and CLI for crawling websites.
+* **tags**: [ruby](../tagged/ruby.md), [web-crawling](../tagged/web-crawling.md)
+* :octocat: **[source code](https://github.com/chriskite/anemone)**
+---
+#### [LinkThumbnailer](https://github.com/gottfrois/link_thumbnailer)
+_<sup>https://github.com/gottfrois/link_thumbnailer</sup>_
+
+Ruby gem that generates thumbnail images and videos from a given URL. Much like popular social website with link preview.
+* **tags**: [ruby](../tagged/ruby.md), [web-crawling](../tagged/web-crawling.md)
+* :octocat: **[source code](https://github.com/gottfrois/link_thumbnailer)**
+---
+#### [Mechanize](https://github.com/sparklemotion/mechanize)
+_<sup>https://github.com/sparklemotion/mechanize</sup>_
+
+Mechanize is a ruby library that makes automated web interaction easy.
+* **tags**: [ruby](../tagged/ruby.md), [web-crawling](../tagged/web-crawling.md)
+* :octocat: **[source code](https://github.com/sparklemotion/mechanize)**
+---
+#### [MetaInspector](https://github.com/jaimeiniesta/metainspector)
+_<sup>https://github.com/jaimeiniesta/metainspector</sup>_
+
+Ruby gem for web scraping purposes.
+* **tags**: [ruby](../tagged/ruby.md), [web-crawling](../tagged/web-crawling.md)
+* :octocat: **[source code](https://github.com/jaimeiniesta/metainspector)**
+---
+#### [Upton](https://github.com/propublica/upton)
+_<sup>https://github.com/propublica/upton</sup>_
+
+A batteries-included framework for easy web-scraping.
+* **tags**: [ruby](../tagged/ruby.md), [web-crawling](../tagged/web-crawling.md)
+* :octocat: **[source code](https://github.com/propublica/upton)**
+---
+#### [Wombat](https://github.com/felipecsl/wombat)
+_<sup>https://github.com/felipecsl/wombat</sup>_
+
+Web scraper with an elegant DSL that parses structured data from web pages.
+* **tags**: [ruby](../tagged/ruby.md), [web-crawling](../tagged/web-crawling.md)
+* :octocat: **[source code](https://github.com/felipecsl/wombat)**
+---
 #### [cola](https://github.com/chineking/cola)
 _<sup>https://github.com/chineking/cola</sup>_
 

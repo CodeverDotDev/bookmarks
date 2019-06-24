@@ -2,6 +2,359 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/tools](https://www.bookmarks.dev/tagged/tools)</sup></sup>_
 ---
+#### [Byebug](https://github.com/deivid-rodriguez/byebug)
+_<sup>https://github.com/deivid-rodriguez/byebug</sup>_
+
+A simple to use, feature rich debugger for Ruby 2.
+* **tags**: [ruby](../tagged/ruby.md), [debugging](../tagged/debugging.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/deivid-rodriguez/byebug)**
+---
+#### [did_you_mean](https://github.com/yuki24/did_you_mean)
+_<sup>https://github.com/yuki24/did_you_mean</sup>_
+
+Adds class, method & attribute suggestions to error messages.
+* **tags**: [ruby](../tagged/ruby.md), [debugging](../tagged/debugging.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/yuki24/did_you_mean)**
+---
+#### [Pry Byebug](https://github.com/deivid-rodriguez/pry-byebug)
+_<sup>https://github.com/deivid-rodriguez/pry-byebug</sup>_
+
+Pry navigation commands via byebug.
+* **tags**: [ruby](../tagged/ruby.md), [debugging](../tagged/debugging.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/deivid-rodriguez/pry-byebug)**
+---
+#### [pry-rails](https://github.com/rweng/pry-rails)
+_<sup>https://github.com/rweng/pry-rails</sup>_
+
+Avoid repeating yourself, use pry-rails instead of copying the initializer to every rails project. This is a small gem which causes rails console to open pry. It therefore depends on pry.
+* **tags**: [ruby](../tagged/ruby.md), [debugging](../tagged/debugging.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/rweng/pry-rails)**
+---
+#### [Rails Footnotes](https://github.com/josevalim/rails-footnotes)
+_<sup>https://github.com/josevalim/rails-footnotes</sup>_
+
+Rails footnotes displays footnotes in your application for easy debugging, such as sessions, request parameters, cookies, filter chain, routes, queries, etc.
+* **tags**: [ruby](../tagged/ruby.md), [debugging](../tagged/debugging.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/josevalim/rails-footnotes)**
+---
+#### [Seeing Is Believing](https://github.com/JoshCheek/seeing_is_believing)
+_<sup>https://github.com/JoshCheek/seeing_is_believing</sup>_
+
+Displays the results of every line of code in your file.
+* **tags**: [ruby](../tagged/ruby.md), [debugging](../tagged/debugging.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/JoshCheek/seeing_is_believing)**
+---
+#### [Xray](https://github.com/brentd/xray-rails)
+_<sup>https://github.com/brentd/xray-rails</sup>_
+
+A development tool that reveals your UI's bones.
+* **tags**: [ruby](../tagged/ruby.md), [debugging](../tagged/debugging.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/brentd/xray-rails)**
+---
+#### [Backup](https://github.com/backup/backup)
+_<sup>https://github.com/backup/backup</sup>_
+
+Provides an elegant DSL in Ruby for performing backups on UNIX-like systems.
+* **tags**: [ruby](../tagged/ruby.md), [devops](../tagged/devops.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/backup/backup)**
+---
+#### [Blender](https://github.com/PagerDuty/blender)
+_<sup>https://github.com/PagerDuty/blender</sup>_
+
+A modular system orchestration framework with pluggable driver and host discovery.
+* **tags**: [ruby](../tagged/ruby.md), [devops](../tagged/devops.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/PagerDuty/blender)**
+---
+#### [BOSH](https://github.com/cloudfoundry/bosh)
+_<sup>https://github.com/cloudfoundry/bosh</sup>_
+
+Cloud Foundry BOSH is an open source tool chain for release engineering, deployment and lifecycle management of large scale distributed services.
+* **tags**: [ruby](../tagged/ruby.md), [devops](../tagged/devops.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/cloudfoundry/bosh)**
+---
+#### [Capistrano](http://capistranorb.com)
+_<sup>http://capistranorb.com</sup>_
+
+A remote server automation and deployment tool written in Ruby.
+* **tags**: [ruby](../tagged/ruby.md), [devops](../tagged/devops.md), [tools](../tagged/tools.md)
+---
+#### [Centurion](https://github.com/newrelic/centurion)
+_<sup>https://github.com/newrelic/centurion</sup>_
+
+A mass deployment tool for Docker fleets.
+* **tags**: [ruby](../tagged/ruby.md), [devops](../tagged/devops.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/newrelic/centurion)**
+---
+#### [Chef](https://github.com/chef/chef)
+_<sup>https://github.com/chef/chef</sup>_
+
+A systems integration framework, built to bring the benefits of configuration management to your entire infrastructure.
+* **tags**: [ruby](../tagged/ruby.md), [devops](../tagged/devops.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/chef/chef)**
+---
+#### [Deployinator](https://github.com/etsy/deployinator)
+_<sup>https://github.com/etsy/deployinator</sup>_
+
+Deployinator is a deployment framework extracted from Etsy.
+* **tags**: [ruby](../tagged/ruby.md), [devops](../tagged/devops.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/etsy/deployinator)**
+---
+#### [Einhorn](https://github.com/stripe/einhorn)
+_<sup>https://github.com/stripe/einhorn</sup>_
+
+Einhorn will open one or more shared sockets and run multiple copies of your process. You can seamlessly reload your code, dynamically reconfigure Einhorn, and more.
+* **tags**: [ruby](../tagged/ruby.md), [devops](../tagged/devops.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/stripe/einhorn)**
+---
+#### [Itamae](https://github.com/itamae-kitchen/itamae)
+_<sup>https://github.com/itamae-kitchen/itamae</sup>_
+
+Simple and lightweight configuration management tool inspired by Chef.
+* **tags**: [ruby](../tagged/ruby.md), [devops](../tagged/devops.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/itamae-kitchen/itamae)**
+---
+#### [Kochiku](https://github.com/square/kochiku)
+_<sup>https://github.com/square/kochiku</sup>_
+
+Kochiku is a distributed platform for test automation.
+* **tags**: [ruby](../tagged/ruby.md), [devops](../tagged/devops.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/square/kochiku)**
+---
+#### [Lita](https://www.lita.io/)
+_<sup>https://www.lita.io/</sup>_
+
+ChatOps for Ruby: A pluggable chat bot framework usable with any chat service.
+* **tags**: [ruby](../tagged/ruby.md), [devops](../tagged/devops.md), [tools](../tagged/tools.md)
+---
+#### [Logstash](https://github.com/elastic/logstash)
+_<sup>https://github.com/elastic/logstash</sup>_
+
+Logs/event transport, processing, management, search.
+* **tags**: [ruby](../tagged/ruby.md), [devops](../tagged/devops.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/elastic/logstash)**
+---
+#### [Mina](https://github.com/mina-deploy/mina)
+_<sup>https://github.com/mina-deploy/mina</sup>_
+
+Really fast deployer and server automation tool.
+* **tags**: [ruby](../tagged/ruby.md), [devops](../tagged/devops.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/mina-deploy/mina)**
+---
+#### [Puppet](https://github.com/puppetlabs/puppet)
+_<sup>https://github.com/puppetlabs/puppet</sup>_
+
+An automated administrative engine for your Linux, Unix, and Windows systems, performs administrative tasks (such as adding users, installing packages, and updating server configurations) based on a c...
+* **tags**: [ruby](../tagged/ruby.md), [devops](../tagged/devops.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/puppetlabs/puppet)**
+---
+#### [Request-log-analyzer](https://github.com/wvanbergen/request-log-analyzer)
+_<sup>https://github.com/wvanbergen/request-log-analyzer</sup>_
+
+Create reports based on your log files. Supports Rails, Apache, MySQL, Delayed::Job, and other formats.
+* **tags**: [ruby](../tagged/ruby.md), [devops](../tagged/devops.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/wvanbergen/request-log-analyzer)**
+---
+#### [Rubber](https://github.com/rubber/rubber)
+_<sup>https://github.com/rubber/rubber</sup>_
+
+The rubber plugin enables relatively complex multi-instance deployments of RubyOnRails applications to Amazon's Elastic Compute Cloud (EC2).
+* **tags**: [ruby](../tagged/ruby.md), [devops](../tagged/devops.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/rubber/rubber)**
+---
+#### [SSHKey](https://github.com/bensie/sshkey)
+_<sup>https://github.com/bensie/sshkey</sup>_
+
+SSH private and public key generator in pure Ruby (RSA & DSA).
+* **tags**: [ruby](../tagged/ruby.md), [devops](../tagged/devops.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/bensie/sshkey)**
+---
+#### [Sunzi](https://github.com/kenn/sunzi)
+_<sup>https://github.com/kenn/sunzi</sup>_
+
+Server provisioning utility for minimalists
+* **tags**: [ruby](../tagged/ruby.md), [devops](../tagged/devops.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/kenn/sunzi)**
+---
+#### [Ruby-LXC](https://github.com/lxc/ruby-lxc)
+_<sup>https://github.com/lxc/ruby-lxc</sup>_
+
+Native ruby binding for Linux containers.
+* **tags**: [ruby](../tagged/ruby.md), [devops](../tagged/devops.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/lxc/ruby-lxc)**
+---
+#### [Vagrant](http://www.vagrantup.com)
+_<sup>http://www.vagrantup.com</sup>_
+
+Create and configure lightweight, reproducible, and portable development environments.
+* **tags**: [ruby](../tagged/ruby.md), [devops](../tagged/devops.md), [tools](../tagged/tools.md)
+---
+#### [ginatra](https://github.com/NARKOZ/ginatra)
+_<sup>https://github.com/NARKOZ/ginatra</sup>_
+
+A web frontend for Git repositories.
+* **tags**: [ruby](../tagged/ruby.md), [git](../tagged/git.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/NARKOZ/ginatra)**
+---
+#### [git-auto-bisect](https://github.com/grosser/git-autobisect)
+_<sup>https://github.com/grosser/git-autobisect</sup>_
+
+Find the commit that broke master.
+* **tags**: [ruby](../tagged/ruby.md), [git](../tagged/git.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/grosser/git-autobisect)**
+---
+#### [git_reflow](https://github.com/reenhanced/gitreflow)
+_<sup>https://github.com/reenhanced/gitreflow</sup>_
+
+An automated quality control workflow for Agile teams.
+* **tags**: [ruby](../tagged/ruby.md), [git](../tagged/git.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/reenhanced/gitreflow)**
+---
+#### [git-spelunk](https://github.com/osheroff/git-spelunk)
+_<sup>https://github.com/osheroff/git-spelunk</sup>_
+
+Dig through git blame history.
+* **tags**: [ruby](../tagged/ruby.md), [git](../tagged/git.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/osheroff/git-spelunk)**
+---
+#### [git-up](https://github.com/aanand/git-up)
+_<sup>https://github.com/aanand/git-up</sup>_
+
+Fetch and rebase all locally-tracked remote branches.
+* **tags**: [ruby](../tagged/ruby.md), [git](../tagged/git.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/aanand/git-up)**
+---
+#### [git-whence](https://github.com/grosser/git-whence)
+_<sup>https://github.com/grosser/git-whence</sup>_
+
+Find which merge a commit came from.
+* **tags**: [ruby](../tagged/ruby.md), [git](../tagged/git.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/grosser/git-whence)**
+---
+#### [Git Cop](https://github.com/bkuhlmann/git-cop)
+_<sup>https://github.com/bkuhlmann/git-cop</sup>_
+
+Enforces consistent Git commits.
+* **tags**: [ruby](../tagged/ruby.md), [git](../tagged/git.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/bkuhlmann/git-cop)**
+---
+#### [Overcommit](https://github.com/brigade/overcommit)
+_<sup>https://github.com/brigade/overcommit</sup>_
+
+A fully configurable and extendable Git hook manager.
+* **tags**: [ruby](../tagged/ruby.md), [git](../tagged/git.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/brigade/overcommit)**
+---
+#### [Rugged](https://github.com/libgit2/rugged)
+_<sup>https://github.com/libgit2/rugged</sup>_
+
+Ruby bindings to libgit2.
+* **tags**: [ruby](../tagged/ruby.md), [git](../tagged/git.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/libgit2/rugged)**
+---
+#### [excon](https://github.com/excon/excon)
+_<sup>https://github.com/excon/excon</sup>_
+
+Usable, fast, simple Ruby HTTP 1.1. It works great as a general HTTP(s) client and is particularly well suited to usage in API clients.
+* **tags**: [ruby](../tagged/ruby.md), [http-client](../tagged/http-client.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/excon/excon)**
+---
+#### [Faraday](https://github.com/lostisland/faraday)
+_<sup>https://github.com/lostisland/faraday</sup>_
+
+an HTTP client lib that provides a common interface over many adapters (such as Net::HTTP) and embraces the concept of Rack middleware when processing the request/response cycle.
+* **tags**: [ruby](../tagged/ruby.md), [http-client](../tagged/http-client.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/lostisland/faraday)**
+---
+#### [Device Detector](https://github.com/podigee/device_detector)
+_<sup>https://github.com/podigee/device_detector</sup>_
+
+A precise and fast user agent parser and device detector, backed by the largest and most up-to-date user agent database.
+* **tags**: [ruby](../tagged/ruby.md), [http-client](../tagged/http-client.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/podigee/device_detector)**
+---
+#### [Http Client](https://github.com/nahi/httpclient)
+_<sup>https://github.com/nahi/httpclient</sup>_
+
+Gives something like the functionality of libwww-perl (LWP) in Ruby.
+* **tags**: [ruby](../tagged/ruby.md), [http-client](../tagged/http-client.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/nahi/httpclient)**
+---
+#### [HTTP](https://github.com/httprb/http)
+_<sup>https://github.com/httprb/http</sup>_
+
+The HTTP Gem: a simple Ruby DSL for making HTTP requests.
+* **tags**: [ruby](../tagged/ruby.md), [http-client](../tagged/http-client.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/httprb/http)**
+---
+#### [HTTPX](https://gitlab.com/honeyryderchuck/httpx)
+_<sup>https://gitlab.com/honeyryderchuck/httpx</sup>_
+
+acknowledges the ease-of-use of the [http](https://github.com/httprb/http) gem API (itself inspired by python requests library) which aims at reusing the same facade, extending it for the use cases wh...
+* **tags**: [ruby](../tagged/ruby.md), [http-client](../tagged/http-client.md), [tools](../tagged/tools.md)
+---
+#### [httparty](https://github.com/jnunemaker/httparty)
+_<sup>https://github.com/jnunemaker/httparty</sup>_
+
+Makes http fun again!
+* **tags**: [ruby](../tagged/ruby.md), [http-client](../tagged/http-client.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/jnunemaker/httparty)**
+---
+#### [Http-2](https://github.com/igrigorik/http-2)
+_<sup>https://github.com/igrigorik/http-2</sup>_
+
+Pure Ruby implementation of HTTP/2 protocol
+* **tags**: [ruby](../tagged/ruby.md), [http-client](../tagged/http-client.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/igrigorik/http-2)**
+---
+#### [Patron](https://github.com/toland/patron)
+_<sup>https://github.com/toland/patron</sup>_
+
+Patron is a Ruby HTTP client library based on libcurl.
+* **tags**: [ruby](../tagged/ruby.md), [http-client](../tagged/http-client.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/toland/patron)**
+---
+#### [RESTClient](https://github.com/rest-client/rest-client)
+_<sup>https://github.com/rest-client/rest-client</sup>_
+
+Simple HTTP and REST client for Ruby, inspired by microframework syntax for specifying actions.
+* **tags**: [ruby](../tagged/ruby.md), [http-client](../tagged/http-client.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/rest-client/rest-client)**
+---
+#### [Savon](https://github.com/savonrb/savon)
+_<sup>https://github.com/savonrb/savon</sup>_
+
+Savon is a SOAP client for the Ruby programming language.
+* **tags**: [ruby](../tagged/ruby.md), [http-client](../tagged/http-client.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/savonrb/savon)**
+---
+#### [Sawyer](https://github.com/lostisland/sawyer)
+_<sup>https://github.com/lostisland/sawyer</sup>_
+
+Secret user agent of HTTP, built on top of Faraday.
+* **tags**: [ruby](../tagged/ruby.md), [http-client](../tagged/http-client.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/lostisland/sawyer)**
+---
+#### [Sniffer](https://github.com/aderyabin/sniffer)
+_<sup>https://github.com/aderyabin/sniffer</sup>_
+
+Log and Analyze Outgoing HTTP Requests. Contribute to aderyabin/sniffer development by creating an account on GitHub.
+* **tags**: [ruby](../tagged/ruby.md), [http-client](../tagged/http-client.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/aderyabin/sniffer)**
+---
+#### [Typhoeus](https://github.com/typhoeus/typhoeus)
+_<sup>https://github.com/typhoeus/typhoeus</sup>_
+
+Typhoeus wraps libcurl in order to make fast and reliable requests.
+* **tags**: [ruby](../tagged/ruby.md), [http-client](../tagged/http-client.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/typhoeus/typhoeus)**
+---
+#### [kubectx - Switch faster between clusters and namespaces in kubectl](https://kubectx.dev/)
+_<sup>https://kubectx.dev/</sup>_
+
+Switch faster between clusters and namespaces in kubectl - ahmetb/kubectx
+* **tags**: [kubernetes](../tagged/kubernetes.md), [tools](../tagged/tools.md), [devops-tools](../tagged/devops-tools.md), [devops](../tagged/devops.md)
+* :octocat: **[source code](https://github.com/ahmetb/kubectx/)**
+---
 #### [errbot](https://github.com/errbotio/errbot/)
 _<sup>https://github.com/errbotio/errbot/</sup>_
 

@@ -2,6 +2,46 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/websocket](https://www.bookmarks.dev/tagged/websocket)</sup></sup>_
 ---
+#### [AnyCable](http://anycable.io)
+_<sup>http://anycable.io</sup>_
+
+Action Cable on steroids!
+* **tags**: [ruby](../tagged/ruby.md), [websocket](../tagged/websocket.md)
+---
+#### [Faye](http://faye.jcoglan.com/ruby.html)
+_<sup>http://faye.jcoglan.com/ruby.html</sup>_
+
+A set of tools for simple publish-subscribe messaging between web clients.
+* **tags**: [ruby](../tagged/ruby.md), [websocket](../tagged/websocket.md)
+---
+#### [Firehose](https://github.com/firehoseio/firehose)
+_<sup>https://github.com/firehoseio/firehose</sup>_
+
+Build realtime Ruby web applications.
+* **tags**: [ruby](../tagged/ruby.md), [websocket](../tagged/websocket.md)
+* :octocat: **[source code](https://github.com/firehoseio/firehose)**
+---
+#### [Slanger](https://github.com/stevegraham/slanger)
+_<sup>https://github.com/stevegraham/slanger</sup>_
+
+Open Pusher implementation compatible with Pusher libraries.
+* **tags**: [ruby](../tagged/ruby.md), [websocket](../tagged/websocket.md)
+* :octocat: **[source code](https://github.com/stevegraham/slanger)**
+---
+#### [RenderSync](https://github.com/chrismccord/render_sync)
+_<sup>https://github.com/chrismccord/render_sync</sup>_
+
+Real-time Rails Partials.
+* **tags**: [ruby](../tagged/ruby.md), [websocket](../tagged/websocket.md)
+* :octocat: **[source code](https://github.com/chrismccord/render_sync)**
+---
+#### [Websocket-Rails](https://github.com/websocket-rails/websocket-rails)
+_<sup>https://github.com/websocket-rails/websocket-rails</sup>_
+
+Creates a built in WebSocket server inside a Rails application with ease, and also support streaming HTTP.
+* **tags**: [ruby](../tagged/ruby.md), [websocket](../tagged/websocket.md)
+* :octocat: **[source code](https://github.com/websocket-rails/websocket-rails)**
+---
 #### [autobahn-python](https://github.com/crossbario/autobahn-python)
 _<sup>https://github.com/crossbario/autobahn-python</sup>_
 

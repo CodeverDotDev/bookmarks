@@ -2,6 +2,28 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/programming](https://www.bookmarks.dev/tagged/programming)</sup></sup>_
 ---
+#### [Level-triggered and edge-triggered](https://gengnosis.blogspot.com/2007/01/level-triggered-and-edge-triggered.html)
+_<sup>https://gengnosis.blogspot.com/2007/01/level-triggered-and-edge-triggered.html</sup>_
+
+Edge triggered things happen when some stimulus changes; level-triggered things happen when some stimulus crosses a threshold. 
+* :calendar: **published on**: 2007-10-21
+* **tags**: [distributed-computing](../tagged/distributed-computing.md), [programming](../tagged/programming.md), [architecture](../tagged/architecture.md)
+---
+#### [Code Smells](https://blog.codinghorror.com/code-smells/)
+_<sup>https://blog.codinghorror.com/code-smells/</sup>_
+
+Developing your "code nose" is something that happens early in your programming career, if it's going to happen at all. I combined all the documented code smells I could find into this reference; most...
+* :calendar: **published on**: 2006-05-18
+* **tags**: [programming](../tagged/programming.md)
+---
+#### [Perlisisms - "Epigrams in Programming" by Alan J. Perlis](http://www.cs.yale.edu/homes/perlis-alan/quotes.html)
+_<sup>http://www.cs.yale.edu/homes/perlis-alan/quotes.html</sup>_
+
+1. One man's constant is another man's variable.
+2. Functions delay binding; data structures induce binding. Moral: Structure data late in the programming process.
+3. Syntactic sugar causes cancer of ...
+* **tags**: [programming](../tagged/programming.md)
+---
 #### [Berufe der ICT – Berufe der ICT](https://www.berufe-der-ict.ch/)
 _<sup>https://www.berufe-der-ict.ch/</sup>_
 

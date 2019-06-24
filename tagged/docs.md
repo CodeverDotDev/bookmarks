@@ -2,6 +2,23 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/docs](https://www.bookmarks.dev/tagged/docs)</sup></sup>_
 ---
+#### [The Kubectl Book - kubectl docs](https://kubectl.docs.kubernetes.io/)
+_<sup>https://kubectl.docs.kubernetes.io/</sup>_
+
+TL;DR
+* Kubectl is the Kubernetes cli
+* Kubectl provides a swiss army knife of functionality for working with Kubernetes clusters
+* Kubectl may be used to deploy and manage applications on Kubernetes
+...
+* **tags**: [kubectl](../tagged/kubectl.md), [docs](../tagged/docs.md)
+---
+#### [Welcome to Knative home page](https://knative.dev/docs/)
+_<sup>https://knative.dev/docs/</sup>_
+
+Knative (pronounced kay-nay-tiv) extends Kubernetes to provide a set of middleware components that are essential to build modern, source-centric, and container-based applications that can run anywhere...
+* **tags**: [docs](../tagged/docs.md), [kubernetes](../tagged/kubernetes.md), [knative](../tagged/knative.md)
+* :octocat: **[source code](https://github.com/knative/docs)**
+---
 #### [Manage data in Docker](https://docs.docker.com/storage/)
 _<sup>https://docs.docker.com/storage/</sup>_
 

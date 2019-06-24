@@ -2,6 +2,20 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/video](https://www.bookmarks.dev/tagged/video)</sup></sup>_
 ---
+#### [Streamio FFMPEG](https://github.com/streamio/streamio-ffmpeg)
+_<sup>https://github.com/streamio/streamio-ffmpeg</sup>_
+
+Simple yet powerful wrapper around the ffmpeg command for reading metadata and transcoding movies.
+* **tags**: [ruby](../tagged/ruby.md), [video](../tagged/video.md)
+* :octocat: **[source code](https://github.com/streamio/streamio-ffmpeg)**
+---
+#### [Video Transcoding](https://github.com/donmelton/video_transcoding)
+_<sup>https://github.com/donmelton/video_transcoding</sup>_
+
+Tools to transcode, inspect and convert videos.
+* **tags**: [ruby](../tagged/ruby.md), [video](../tagged/video.md)
+* :octocat: **[source code](https://github.com/donmelton/video_transcoding)**
+---
 #### [moviepy](https://zulko.github.io/moviepy/)
 _<sup>https://zulko.github.io/moviepy/</sup>_
 

@@ -2,6 +2,42 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/devops-tools](https://www.bookmarks.dev/tagged/devops-tools)</sup></sup>_
 ---
+#### [GoogleContainerTools Kaniko Home Page](https://github.com/GoogleContainerTools/kaniko)
+_<sup>https://github.com/GoogleContainerTools/kaniko</sup>_
+
+Build Container Images In Kubernetes. Contribute to GoogleContainerTools/kaniko development by creating an account on GitHub.
+* **tags**: [kubernetes](../tagged/kubernetes.md), [devops](../tagged/devops.md), [devops-tools](../tagged/devops-tools.md), [docker](../tagged/docker.md), [dockerfile](../tagged/dockerfile.md)
+* :octocat: **[source code](https://github.com/GoogleContainerTools/kaniko)**
+---
+#### [kubetail - Bash script to tail Kubernetes logs from multiple pods at the same time](https://github.com/johanhaleby/kubetail)
+_<sup>https://github.com/johanhaleby/kubetail</sup>_
+
+Bash script to tail Kubernetes logs from multiple pods at the same time - johanhaleby/kubetail
+* **tags**: [kubernetes](../tagged/kubernetes.md), [kubectl](../tagged/kubectl.md), [devops](../tagged/devops.md), [devops-tools](../tagged/devops-tools.md)
+* :octocat: **[source code](https://github.com/johanhaleby/kubetail)**
+---
+#### [kubectx - Switch faster between clusters and namespaces in kubectl](https://kubectx.dev/)
+_<sup>https://kubectx.dev/</sup>_
+
+Switch faster between clusters and namespaces in kubectl - ahmetb/kubectx
+* **tags**: [kubernetes](../tagged/kubernetes.md), [tools](../tagged/tools.md), [devops-tools](../tagged/devops-tools.md), [devops](../tagged/devops.md)
+* :octocat: **[source code](https://github.com/ahmetb/kubectx/)**
+---
+#### [Replicated Ship - Manage 3rd-party Kubernetes apps home page](https://www.replicated.com/ship)
+_<sup>https://www.replicated.com/ship</sup>_
+
+Replicated Ship Open Source is a free tool for customizing 3rd-party Kubernetes components for production grade deployments without forking.
+* **tags**: [kubernetes](../tagged/kubernetes.md), [kubernetes-ship](../tagged/kubernetes-ship.md), [devops-tools](../tagged/devops-tools.md)
+* :octocat: **[source code](https://github.com/replicatedhq/ship)**
+---
+#### [Stop Forking Helm Charts, an Intro to Replicated Ship - K8s, Kustomize & Ship SF Meetup - YouTube](https://www.youtube.com/watch?v=pRG47EQ5OAg)
+_<sup>https://www.youtube.com/watch?v=pRG47EQ5OAg</sup>_
+
+This presentation by Marc Campbell, CTO and Founder of Replicated, is from the Kubernetes, Kustomize & Ship Meetup in SF - ship video reference
+* :calendar: **published on**: 2018-11-15
+* **tags**: [kubernetes](../tagged/kubernetes.md), [kustomize](../tagged/kustomize.md), [kubernetes-helm](../tagged/kubernetes-helm.md), [kubernetes-ship](../tagged/kubernetes-ship.md), [devops](../tagged/devops.md), [devops-tools](../tagged/devops-tools.md)
+* :octocat: **[source code](https://github.com/replicatedhq/ship)**
+---
 #### [ansible](https://github.com/ansible/ansible)
 _<sup>https://github.com/ansible/ansible</sup>_
 

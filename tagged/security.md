@@ -2,6 +2,54 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/security](https://www.bookmarks.dev/tagged/security)</sup></sup>_
 ---
+#### [BeEF](http://beefproject.com)
+_<sup>http://beefproject.com</sup>_
+
+BeEF is short for The Browser Exploitation Framework. It is a penetration testing tool that focuses on the web browser.
+* **tags**: [ruby](../tagged/ruby.md), [security](../tagged/security.md)
+---
+#### [bundler-audit](https://github.com/rubysec/bundler-audit)
+_<sup>https://github.com/rubysec/bundler-audit</sup>_
+
+Patch-level security verification for Bundler.
+* **tags**: [ruby](../tagged/ruby.md), [security](../tagged/security.md)
+* :octocat: **[source code](https://github.com/rubysec/bundler-audit)**
+---
+#### [Gitrob](https://github.com/michenriksen/gitrob)
+_<sup>https://github.com/michenriksen/gitrob</sup>_
+
+Reconnaissance tool for GitHub organizations.
+* **tags**: [ruby](../tagged/ruby.md), [security](../tagged/security.md)
+* :octocat: **[source code](https://github.com/michenriksen/gitrob)**
+---
+#### [Metasploit](https://github.com/rapid7/metasploit-framework)
+_<sup>https://github.com/rapid7/metasploit-framework</sup>_
+
+World's most used penetration testing software.
+* **tags**: [ruby](../tagged/ruby.md), [security](../tagged/security.md)
+* :octocat: **[source code](https://github.com/rapid7/metasploit-framework)**
+---
+#### [Rack::Attack](https://github.com/kickstarter/rack-attack)
+_<sup>https://github.com/kickstarter/rack-attack</sup>_
+
+Rack middleware for blocking & throttling abusive requests.
+* **tags**: [ruby](../tagged/ruby.md), [security](../tagged/security.md)
+* :octocat: **[source code](https://github.com/kickstarter/rack-attack)**
+---
+#### [Rack::Protection](https://github.com/sinatra/rack-protection)
+_<sup>https://github.com/sinatra/rack-protection</sup>_
+
+Rack middleware for protecting against typical Web attacks.
+* **tags**: [ruby](../tagged/ruby.md), [security](../tagged/security.md)
+* :octocat: **[source code](https://github.com/sinatra/rack-protection)**
+---
+#### [SecureHeaders](https://github.com/twitter/secureheaders)
+_<sup>https://github.com/twitter/secureheaders</sup>_
+
+Automatically apply several headers that are related to security, including: Content Security Policy (CSP), HTTP Strict Transport Security (HSTS), X-Frame-Options (XFO), X-XSS-Protection, X-Content-Ty...
+* **tags**: [ruby](../tagged/ruby.md), [security](../tagged/security.md)
+* :octocat: **[source code](https://github.com/twitter/secureheaders)**
+---
 #### [DOMPurify](https://github.com/cure53/DOMPurify)
 _<sup>https://github.com/cure53/DOMPurify</sup>_
 

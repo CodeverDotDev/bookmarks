@@ -2,6 +2,68 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/natural-language-processing](https://www.bookmarks.dev/tagged/natural-language-processing)</sup></sup>_
 ---
+#### [Awesome NLP with Ruby](https://github.com/arbox/nlp-with-ruby)
+_<sup>https://github.com/arbox/nlp-with-ruby</sup>_
+
+Awesome List for Practical Natural Language Processing done in Ruby.
+* **tags**: [ruby](../tagged/ruby.md), [natural-language-processing](../tagged/natural-language-processing.md)
+* :octocat: **[source code](https://github.com/arbox/nlp-with-ruby)**
+---
+#### [Parslet](http://kschiess.github.io/parslet/)
+_<sup>http://kschiess.github.io/parslet/</sup>_
+
+A small Ruby library for constructing parsers in the PEG (Parsing Expression Grammar) fashion.
+* **tags**: [ruby](../tagged/ruby.md), [natural-language-processing](../tagged/natural-language-processing.md)
+---
+#### [pocketsphinx-ruby](https://github.com/watsonbox/pocketsphinx-ruby)
+_<sup>https://github.com/watsonbox/pocketsphinx-ruby</sup>_
+
+Ruby speech recognition with Pocketsphinx.
+* **tags**: [ruby](../tagged/ruby.md), [natural-language-processing](../tagged/natural-language-processing.md)
+* :octocat: **[source code](https://github.com/watsonbox/pocketsphinx-ruby)**
+---
+#### [Pragmatic Segmenter](https://github.com/diasks2/pragmatic_segmenter)
+_<sup>https://github.com/diasks2/pragmatic_segmenter</sup>_
+
+Pragmatic Segmenter is a rule-based sentence boundary detection gem that works out-of-the-box across many languages.
+* **tags**: [ruby](../tagged/ruby.md), [natural-language-processing](../tagged/natural-language-processing.md)
+* :octocat: **[source code](https://github.com/diasks2/pragmatic_segmenter)**
+---
+#### [Ruby Natural Language Processing Resources](https://github.com/diasks2/ruby-nlp)
+_<sup>https://github.com/diasks2/ruby-nlp</sup>_
+
+Collection of links to Ruby Natural Language Processing (NLP) libraries, tools and software.
+* **tags**: [ruby](../tagged/ruby.md), [natural-language-processing](../tagged/natural-language-processing.md)
+* :octocat: **[source code](https://github.com/diasks2/ruby-nlp)**
+---
+#### [Text](https://github.com/threedaymonk/text)
+_<sup>https://github.com/threedaymonk/text</sup>_
+
+A collection of text algorithms including Levenshtein distance, Metaphone, Soundex 2, Porter stemming & White similarity.
+* **tags**: [ruby](../tagged/ruby.md), [natural-language-processing](../tagged/natural-language-processing.md)
+* :octocat: **[source code](https://github.com/threedaymonk/text)**
+---
+#### [Treat](https://github.com/louismullie/treat)
+_<sup>https://github.com/louismullie/treat</sup>_
+
+Treat is a toolkit for natural language processing and computational linguistics in Ruby.
+* **tags**: [ruby](../tagged/ruby.md), [natural-language-processing](../tagged/natural-language-processing.md)
+* :octocat: **[source code](https://github.com/louismullie/treat)**
+---
+#### [Treetop](https://github.com/cjheath/treetop)
+_<sup>https://github.com/cjheath/treetop</sup>_
+
+PEG (Parsing Expression Grammar) parser.
+* **tags**: [ruby](../tagged/ruby.md), [natural-language-processing](../tagged/natural-language-processing.md)
+* :octocat: **[source code](https://github.com/cjheath/treetop)**
+---
+#### [Words Counted](https://github.com/abitdodgy/words_counted)
+_<sup>https://github.com/abitdodgy/words_counted</sup>_
+
+A highly customisable Ruby text analyser and word counter.
+* **tags**: [ruby](../tagged/ruby.md), [natural-language-processing](../tagged/natural-language-processing.md)
+* :octocat: **[source code](https://github.com/abitdodgy/words_counted)**
+---
 #### [gensim](https://github.com/RaRe-Technologies/gensim)
 _<sup>https://github.com/RaRe-Technologies/gensim</sup>_
 

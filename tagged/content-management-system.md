@@ -2,6 +2,76 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/content-management-system](https://www.bookmarks.dev/tagged/content-management-system)</sup></sup>_
 ---
+#### [Alchemy CMS](https://alchemy-cms.com)
+_<sup>https://alchemy-cms.com</sup>_
+
+A powerful, userfriendly and flexible Open Source Rails CMS.
+* **tags**: [ruby](../tagged/ruby.md), [content-management-system](../tagged/content-management-system.md)
+---
+#### [Camaleon CMS](http://camaleon.tuzitio.com/)
+_<sup>http://camaleon.tuzitio.com/</sup>_
+
+A dynamic and advanced content management system based on Ruby on Rails 4.
+* **tags**: [ruby](../tagged/ruby.md), [content-management-system](../tagged/content-management-system.md)
+---
+#### [ComfortableMexicanSofa](https://github.com/comfy/comfortable-mexican-sofa)
+_<sup>https://github.com/comfy/comfortable-mexican-sofa</sup>_
+
+Powerful Rails 5.2+ CMS Engine.
+* **tags**: [ruby](../tagged/ruby.md), [content-management-system](../tagged/content-management-system.md)
+* :octocat: **[source code](https://github.com/comfy/comfortable-mexican-sofa)**
+---
+#### [Fae](https://github.com/wearefine/fae)
+_<sup>https://github.com/wearefine/fae</sup>_
+
+Flexible, open source, Rails CMS engine.
+* **tags**: [ruby](../tagged/ruby.md), [content-management-system](../tagged/content-management-system.md)
+* :octocat: **[source code](https://github.com/wearefine/fae)**
+---
+#### [LocomotiveCMS](https://www.locomotivecms.com)
+_<sup>https://www.locomotivecms.com</sup>_
+
+A simple but powerful CMS based on Liquid templates and Mongodb database.
+* **tags**: [ruby](../tagged/ruby.md), [content-management-system](../tagged/content-management-system.md)
+---
+#### [Publify](https://github.com/publify/publify)
+_<sup>https://github.com/publify/publify</sup>_
+
+A self hosted Web publishing platform on Rails.
+* **tags**: [ruby](../tagged/ruby.md), [content-management-system](../tagged/content-management-system.md)
+* :octocat: **[source code](https://github.com/publify/publify)**
+---
+#### [PushType](http://www.pushtype.org/)
+_<sup>http://www.pushtype.org/</sup>_
+
+A next generation, open source content management system for Ruby on Rails.
+* **tags**: [ruby](../tagged/ruby.md), [content-management-system](../tagged/content-management-system.md)
+---
+#### [Radiant](http://radiantcms.org)
+_<sup>http://radiantcms.org</sup>_
+
+A no-fluff, open source content management system designed for small teams.
+* **tags**: [ruby](../tagged/ruby.md), [content-management-system](../tagged/content-management-system.md)
+---
+#### [Refinery CMS](https://www.refinerycms.com)
+_<sup>https://www.refinerycms.com</sup>_
+
+An open source Ruby on Rails content management system for Rails 3 and 4.
+* **tags**: [ruby](../tagged/ruby.md), [content-management-system](../tagged/content-management-system.md)
+---
+#### [Spina CMS](https://www.spinacms.com)
+_<sup>https://www.spinacms.com</sup>_
+
+A beautiful CMS for Rails developers.
+* **tags**: [ruby](../tagged/ruby.md), [content-management-system](../tagged/content-management-system.md)
+---
+#### [Storytime](https://github.com/CultivateLabs/storytime)
+_<sup>https://github.com/CultivateLabs/storytime</sup>_
+
+Rails 4+ CMS and bloging engine, with a core focus on content.
+* **tags**: [ruby](../tagged/ruby.md), [content-management-system](../tagged/content-management-system.md)
+* :octocat: **[source code](https://github.com/CultivateLabs/storytime)**
+---
 #### [KeystoneJS](https://github.com/keystonejs/keystone)
 _<sup>https://github.com/keystonejs/keystone</sup>_
 

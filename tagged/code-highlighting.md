@@ -2,6 +2,27 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/code-highlighting](https://www.bookmarks.dev/tagged/code-highlighting)</sup></sup>_
 ---
+#### [CodeRay](https://github.com/rubychan/coderay)
+_<sup>https://github.com/rubychan/coderay</sup>_
+
+Fast and easy syntax highlighting for selected languages.
+* **tags**: [ruby](../tagged/ruby.md), [code-highlighting](../tagged/code-highlighting.md)
+* :octocat: **[source code](https://github.com/rubychan/coderay)**
+---
+#### [pygments.rb](https://github.com/tmm1/pygments.rb)
+_<sup>https://github.com/tmm1/pygments.rb</sup>_
+
+A Ruby wrapper for the Python pygments syntax highlighter.
+* **tags**: [ruby](../tagged/ruby.md), [code-highlighting](../tagged/code-highlighting.md)
+* :octocat: **[source code](https://github.com/tmm1/pygments.rb)**
+---
+#### [Rouge](https://github.com/jneen/rouge)
+_<sup>https://github.com/jneen/rouge</sup>_
+
+A pure Ruby code highlighter that is compatible with Pygments.
+* **tags**: [ruby](../tagged/ruby.md), [code-highlighting](../tagged/code-highlighting.md)
+* :octocat: **[source code](https://github.com/jneen/rouge)**
+---
 #### [Highlight.js](https://github.com/isagalaev/highlight.js)
 _<sup>https://github.com/isagalaev/highlight.js</sup>_
 

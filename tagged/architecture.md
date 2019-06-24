@@ -2,6 +2,26 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/architecture](https://www.bookmarks.dev/tagged/architecture)</sup></sup>_
 ---
+#### [Level-triggered and edge-triggered](https://gengnosis.blogspot.com/2007/01/level-triggered-and-edge-triggered.html)
+_<sup>https://gengnosis.blogspot.com/2007/01/level-triggered-and-edge-triggered.html</sup>_
+
+Edge triggered things happen when some stimulus changes; level-triggered things happen when some stimulus crosses a threshold. 
+* :calendar: **published on**: 2007-10-21
+* **tags**: [distributed-computing](../tagged/distributed-computing.md), [programming](../tagged/programming.md), [architecture](../tagged/architecture.md)
+---
+#### [SCS - Self-Contained Systems home page](https://scs-architecture.org/)
+_<sup>https://scs-architecture.org/</sup>_
+
+Self-contained Systems (SCS) is a software architecture focused on a separation into independent systems - similar to microservices
+* **tags**: [self-contained-systems](../tagged/self-contained-systems.md), [architecture](../tagged/architecture.md), [microservices](../tagged/microservices.md)
+---
+#### [Self Contained Systems (SCS) - Microservices Done Right](https://www.infoq.com/articles/scs-microservices-done-right/)
+_<sup>https://www.infoq.com/articles/scs-microservices-done-right/</sup>_
+
+Everybody seems to be building microservices these days, and Self-contained Systems (SCS) are an opinionated approach to building services. Each SCS is effectively an autonomous web application.
+* :calendar: **published on**: 2017-05-03
+* **tags**: [self-contained-systems](../tagged/self-contained-systems.md), [microservices](../tagged/microservices.md), [architecture](../tagged/architecture.md)
+---
 #### [Berufe der ICT – Berufe der ICT](https://www.berufe-der-ict.ch/)
 _<sup>https://www.berufe-der-ict.ch/</sup>_
 

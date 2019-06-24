@@ -2,6 +2,83 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/configuration](https://www.bookmarks.dev/tagged/configuration)</sup></sup>_
 ---
+#### [Chamber](https://github.com/thekompanee/chamber)
+_<sup>https://github.com/thekompanee/chamber</sup>_
+
+Surprisingly customizable convention-based approach to managing your app's configuration.
+* **tags**: [ruby](../tagged/ruby.md), [configuration](../tagged/configuration.md)
+* :octocat: **[source code](https://github.com/thekompanee/chamber)**
+---
+#### [Configatron](https://github.com/markbates/configatron)
+_<sup>https://github.com/markbates/configatron</sup>_
+
+Simple and feature rich configuration system for Ruby apps.
+* **tags**: [ruby](../tagged/ruby.md), [configuration](../tagged/configuration.md)
+* :octocat: **[source code](https://github.com/markbates/configatron)**
+---
+#### [Configus](https://github.com/kaize/configus)
+_<sup>https://github.com/kaize/configus</sup>_
+
+Helps you easily manage environment specific settings.
+* **tags**: [ruby](../tagged/ruby.md), [configuration](../tagged/configuration.md)
+* :octocat: **[source code](https://github.com/kaize/configus)**
+---
+#### [dotenv](https://github.com/bkeepers/dotenv)
+_<sup>https://github.com/bkeepers/dotenv</sup>_
+
+Loads environment variables from `.env`.
+* **tags**: [ruby](../tagged/ruby.md), [configuration](../tagged/configuration.md)
+* :octocat: **[source code](https://github.com/bkeepers/dotenv)**
+---
+#### [Econfig](https://github.com/elabs/econfig)
+_<sup>https://github.com/elabs/econfig</sup>_
+
+Flexible configuration for Rails applications.
+* **tags**: [ruby](../tagged/ruby.md), [configuration](../tagged/configuration.md)
+* :octocat: **[source code](https://github.com/elabs/econfig)**
+---
+#### [ENVied](https://github.com/eval/envied)
+_<sup>https://github.com/eval/envied</sup>_
+
+ensure presence and type of your app's ENV-variables
+* **tags**: [ruby](../tagged/ruby.md), [configuration](../tagged/configuration.md)
+* :octocat: **[source code](https://github.com/eval/envied)**
+---
+#### [Envyable](https://github.com/philnash/envyable)
+_<sup>https://github.com/philnash/envyable</sup>_
+
+The simplest YAML to ENV config loader.
+* **tags**: [ruby](../tagged/ruby.md), [configuration](../tagged/configuration.md)
+* :octocat: **[source code](https://github.com/philnash/envyable)**
+---
+#### [Figaro](https://github.com/laserlemon/figaro)
+_<sup>https://github.com/laserlemon/figaro</sup>_
+
+Simple, Heroku-friendly Rails app configuration using `ENV` and a single YAML file.
+* **tags**: [ruby](../tagged/ruby.md), [configuration](../tagged/configuration.md)
+* :octocat: **[source code](https://github.com/laserlemon/figaro)**
+---
+#### [Global](https://github.com/railsware/global)
+_<sup>https://github.com/railsware/global</sup>_
+
+Provides accessor methods for your configuration data.
+* **tags**: [ruby](../tagged/ruby.md), [configuration](../tagged/configuration.md)
+* :octocat: **[source code](https://github.com/railsware/global)**
+---
+#### [RailsConfig](https://github.com/railsconfig/config)
+_<sup>https://github.com/railsconfig/config</sup>_
+
+Multi-environment yaml settings for Rails3.
+* **tags**: [ruby](../tagged/ruby.md), [configuration](../tagged/configuration.md)
+* :octocat: **[source code](https://github.com/railsconfig/config)**
+---
+#### [Sail](https://github.com/vinistock/sail)
+_<sup>https://github.com/vinistock/sail</sup>_
+
+A lightweight Rails engine that brings an admin panel for managing configuration settings on a live Rails app.
+* **tags**: [ruby](../tagged/ruby.md), [configuration](../tagged/configuration.md)
+* :octocat: **[source code](https://github.com/vinistock/sail)**
+---
 #### [configobj](https://github.com/DiffSK/configobj)
 _<sup>https://github.com/DiffSK/configobj</sup>_
 

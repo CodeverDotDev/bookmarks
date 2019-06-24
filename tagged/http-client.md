@@ -2,6 +2,103 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/http-client](https://www.bookmarks.dev/tagged/http-client)</sup></sup>_
 ---
+#### [excon](https://github.com/excon/excon)
+_<sup>https://github.com/excon/excon</sup>_
+
+Usable, fast, simple Ruby HTTP 1.1. It works great as a general HTTP(s) client and is particularly well suited to usage in API clients.
+* **tags**: [ruby](../tagged/ruby.md), [http-client](../tagged/http-client.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/excon/excon)**
+---
+#### [Faraday](https://github.com/lostisland/faraday)
+_<sup>https://github.com/lostisland/faraday</sup>_
+
+an HTTP client lib that provides a common interface over many adapters (such as Net::HTTP) and embraces the concept of Rack middleware when processing the request/response cycle.
+* **tags**: [ruby](../tagged/ruby.md), [http-client](../tagged/http-client.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/lostisland/faraday)**
+---
+#### [Device Detector](https://github.com/podigee/device_detector)
+_<sup>https://github.com/podigee/device_detector</sup>_
+
+A precise and fast user agent parser and device detector, backed by the largest and most up-to-date user agent database.
+* **tags**: [ruby](../tagged/ruby.md), [http-client](../tagged/http-client.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/podigee/device_detector)**
+---
+#### [Http Client](https://github.com/nahi/httpclient)
+_<sup>https://github.com/nahi/httpclient</sup>_
+
+Gives something like the functionality of libwww-perl (LWP) in Ruby.
+* **tags**: [ruby](../tagged/ruby.md), [http-client](../tagged/http-client.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/nahi/httpclient)**
+---
+#### [HTTP](https://github.com/httprb/http)
+_<sup>https://github.com/httprb/http</sup>_
+
+The HTTP Gem: a simple Ruby DSL for making HTTP requests.
+* **tags**: [ruby](../tagged/ruby.md), [http-client](../tagged/http-client.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/httprb/http)**
+---
+#### [HTTPX](https://gitlab.com/honeyryderchuck/httpx)
+_<sup>https://gitlab.com/honeyryderchuck/httpx</sup>_
+
+acknowledges the ease-of-use of the [http](https://github.com/httprb/http) gem API (itself inspired by python requests library) which aims at reusing the same facade, extending it for the use cases wh...
+* **tags**: [ruby](../tagged/ruby.md), [http-client](../tagged/http-client.md), [tools](../tagged/tools.md)
+---
+#### [httparty](https://github.com/jnunemaker/httparty)
+_<sup>https://github.com/jnunemaker/httparty</sup>_
+
+Makes http fun again!
+* **tags**: [ruby](../tagged/ruby.md), [http-client](../tagged/http-client.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/jnunemaker/httparty)**
+---
+#### [Http-2](https://github.com/igrigorik/http-2)
+_<sup>https://github.com/igrigorik/http-2</sup>_
+
+Pure Ruby implementation of HTTP/2 protocol
+* **tags**: [ruby](../tagged/ruby.md), [http-client](../tagged/http-client.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/igrigorik/http-2)**
+---
+#### [Patron](https://github.com/toland/patron)
+_<sup>https://github.com/toland/patron</sup>_
+
+Patron is a Ruby HTTP client library based on libcurl.
+* **tags**: [ruby](../tagged/ruby.md), [http-client](../tagged/http-client.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/toland/patron)**
+---
+#### [RESTClient](https://github.com/rest-client/rest-client)
+_<sup>https://github.com/rest-client/rest-client</sup>_
+
+Simple HTTP and REST client for Ruby, inspired by microframework syntax for specifying actions.
+* **tags**: [ruby](../tagged/ruby.md), [http-client](../tagged/http-client.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/rest-client/rest-client)**
+---
+#### [Savon](https://github.com/savonrb/savon)
+_<sup>https://github.com/savonrb/savon</sup>_
+
+Savon is a SOAP client for the Ruby programming language.
+* **tags**: [ruby](../tagged/ruby.md), [http-client](../tagged/http-client.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/savonrb/savon)**
+---
+#### [Sawyer](https://github.com/lostisland/sawyer)
+_<sup>https://github.com/lostisland/sawyer</sup>_
+
+Secret user agent of HTTP, built on top of Faraday.
+* **tags**: [ruby](../tagged/ruby.md), [http-client](../tagged/http-client.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/lostisland/sawyer)**
+---
+#### [Sniffer](https://github.com/aderyabin/sniffer)
+_<sup>https://github.com/aderyabin/sniffer</sup>_
+
+Log and Analyze Outgoing HTTP Requests. Contribute to aderyabin/sniffer development by creating an account on GitHub.
+* **tags**: [ruby](../tagged/ruby.md), [http-client](../tagged/http-client.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/aderyabin/sniffer)**
+---
+#### [Typhoeus](https://github.com/typhoeus/typhoeus)
+_<sup>https://github.com/typhoeus/typhoeus</sup>_
+
+Typhoeus wraps libcurl in order to make fast and reliable requests.
+* **tags**: [ruby](../tagged/ruby.md), [http-client](../tagged/http-client.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/typhoeus/typhoeus)**
+---
 #### [Async Http Client](https://github.com/AsyncHttpClient/async-http-client)
 _<sup>https://github.com/AsyncHttpClient/async-http-client</sup>_
 

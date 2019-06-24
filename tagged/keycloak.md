@@ -113,7 +113,7 @@ _<sup>http://www.keycloak.org/docs/latest/server_development/topics/user-storage
 The User Storage SPI allows you to write extensions to Keycloak to connect to external user databases and credential stores. The built-in LDAP and ActiveDirectory support is an implementation of this ...
 * **tags**: [keycloak](../tagged/keycloak.md)
 ---
-#### [Keycloak](http://www.keycloak.org/)
+#### [Keycloak home page](http://www.keycloak.org/)
 _<sup>http://www.keycloak.org/</sup>_
 
 Open Source Identity and Access Management

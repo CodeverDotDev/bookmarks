@@ -2,6 +2,27 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/cloud](https://www.bookmarks.dev/tagged/cloud)</sup></sup>_
 ---
+#### [AWS SDK for Ruby](https://github.com/aws/aws-sdk-ruby)
+_<sup>https://github.com/aws/aws-sdk-ruby</sup>_
+
+The official AWS SDK for Ruby.
+* **tags**: [ruby](../tagged/ruby.md), [cloud](../tagged/cloud.md)
+* :octocat: **[source code](https://github.com/aws/aws-sdk-ruby)**
+---
+#### [browse-everything](https://github.com/projecthydra/browse-everything)
+_<sup>https://github.com/projecthydra/browse-everything</sup>_
+
+Multi-provider Rails engine providing access to files in cloud storage.
+* **tags**: [ruby](../tagged/ruby.md), [cloud](../tagged/cloud.md)
+* :octocat: **[source code](https://github.com/projecthydra/browse-everything)**
+---
+#### [Fog](https://github.com/fog/fog)
+_<sup>https://github.com/fog/fog</sup>_
+
+The Ruby cloud services library.
+* **tags**: [ruby](../tagged/ruby.md), [cloud](../tagged/cloud.md)
+* :octocat: **[source code](https://github.com/fog/fog)**
+---
 #### [Kubernetes best practices: Setting up health checks with readiness and liveness probes](https://cloud.google.com/blog/products/gcp/kubernetes-best-practices-setting-up-health-checks-with-readiness-and-liveness-probes)
 _<sup>https://cloud.google.com/blog/products/gcp/kubernetes-best-practices-setting-up-health-checks-with-r...</sup>_
 

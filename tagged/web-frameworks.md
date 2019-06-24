@@ -2,6 +2,101 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/web-frameworks](https://www.bookmarks.dev/tagged/web-frameworks)</sup></sup>_
 ---
+#### [Camping](https://github.com/camping/camping)
+_<sup>https://github.com/camping/camping</sup>_
+
+A web microframework which consistently stays at less than 4kB of code.
+* **tags**: [ruby](../tagged/ruby.md), [web-frameworks](../tagged/web-frameworks.md)
+* :octocat: **[source code](https://github.com/camping/camping)**
+---
+#### [Cuba](http://cuba.is)
+_<sup>http://cuba.is</sup>_
+
+A microframework for web development.
+* **tags**: [ruby](../tagged/ruby.md), [web-frameworks](../tagged/web-frameworks.md)
+---
+#### [Hobbit](https://github.com/patriciomacadden/hobbit)
+_<sup>https://github.com/patriciomacadden/hobbit</sup>_
+
+A minimalistic microframework built on top of Rack.
+* **tags**: [ruby](../tagged/ruby.md), [web-frameworks](../tagged/web-frameworks.md)
+* :octocat: **[source code](https://github.com/patriciomacadden/hobbit)**
+---
+#### [Hanami](http://hanamirb.org)
+_<sup>http://hanamirb.org</sup>_
+
+It aims to bring back Object Oriented Programming to web development, leveraging on a stable API, a minimal DSL, and plain objects.
+* **tags**: [ruby](../tagged/ruby.md), [web-frameworks](../tagged/web-frameworks.md)
+---
+#### [Hyperstack](https://hyperstack.org/)
+_<sup>https://hyperstack.org/</sup>_
+
+A Complete Isomorphic Ruby Framework using React and Opal.
+* **tags**: [ruby](../tagged/ruby.md), [web-frameworks](../tagged/web-frameworks.md)
+---
+#### [Padrino](http://www.padrinorb.com)
+_<sup>http://www.padrinorb.com</sup>_
+
+A full-stack ruby framework built upon Sinatra.
+* **tags**: [ruby](../tagged/ruby.md), [web-frameworks](../tagged/web-frameworks.md)
+---
+#### [Pakyow](https://www.pakyow.org/)
+_<sup>https://www.pakyow.org/</sup>_
+
+A framework for building modern web-apps in Ruby. It helps you build working software faster with a development process that remains friendly to both designers and developers.
+* **tags**: [ruby](../tagged/ruby.md), [web-frameworks](../tagged/web-frameworks.md)
+---
+#### [Rack::App](https://github.com/rack-app/rack-app)
+_<sup>https://github.com/rack-app/rack-app</sup>_
+
+Bare bone minimalistic framework for building rack apps.
+* **tags**: [ruby](../tagged/ruby.md), [web-frameworks](../tagged/web-frameworks.md)
+* :octocat: **[source code](https://github.com/rack-app/rack-app)**
+---
+#### [Ramaze](http://ramaze.net/)
+_<sup>http://ramaze.net/</sup>_
+
+A simple, light and modular open-source web application framework written in Ruby.
+* **tags**: [ruby](../tagged/ruby.md), [web-frameworks](../tagged/web-frameworks.md)
+---
+#### [Roda](http://roda.jeremyevans.net/)
+_<sup>http://roda.jeremyevans.net/</sup>_
+
+A routing tree web framework.
+* **tags**: [ruby](../tagged/ruby.md), [web-frameworks](../tagged/web-frameworks.md)
+---
+#### [Ruby on Rails](http://rubyonrails.org)
+_<sup>http://rubyonrails.org</sup>_
+
+A web-application framework that includes everything needed to create database-backed web applications according to the Model-View-Controller (MVC) pattern.
+* **tags**: [ruby](../tagged/ruby.md), [web-frameworks](../tagged/web-frameworks.md)
+---
+#### [Scorched](http://scorchedrb.com)
+_<sup>http://scorchedrb.com</sup>_
+
+Light-weight, inheritable and composable web framework, inspired by Sinatra.
+* **tags**: [ruby](../tagged/ruby.md), [web-frameworks](../tagged/web-frameworks.md)
+---
+#### [Sinatra](http://www.sinatrarb.com)
+_<sup>http://www.sinatrarb.com</sup>_
+
+Classy web-development dressed in a DSL.
+* **tags**: [ruby](../tagged/ruby.md), [web-frameworks](../tagged/web-frameworks.md)
+---
+#### [Syro](https://github.com/soveran/syro/)
+_<sup>https://github.com/soveran/syro/</sup>_
+
+Simple router for web applications.
+* **tags**: [ruby](../tagged/ruby.md), [web-frameworks](../tagged/web-frameworks.md)
+* :octocat: **[source code](https://github.com/soveran/syro/)**
+---
+#### [Volt](https://github.com/voltrb/volt)
+_<sup>https://github.com/voltrb/volt</sup>_
+
+A Ruby web framework where your ruby code runs on both the server and the client.
+* **tags**: [ruby](../tagged/ruby.md), [web-frameworks](../tagged/web-frameworks.md)
+* :octocat: **[source code](https://github.com/voltrb/volt)**
+---
 #### [Django](https://www.djangoproject.com/)
 _<sup>https://www.djangoproject.com/</sup>_
 

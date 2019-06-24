@@ -2,6 +2,48 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/image-processing](https://www.bookmarks.dev/tagged/image-processing)</sup></sup>_
 ---
+#### [MiniMagick](https://github.com/minimagick/minimagick)
+_<sup>https://github.com/minimagick/minimagick</sup>_
+
+A ruby wrapper for ImageMagick or GraphicsMagick command line.
+* **tags**: [ruby](../tagged/ruby.md), [image-processing](../tagged/image-processing.md)
+* :octocat: **[source code](https://github.com/minimagick/minimagick)**
+---
+#### [Phasion](https://github.com/westonplatter/phashion)
+_<sup>https://github.com/westonplatter/phashion</sup>_
+
+Ruby wrapper around pHash, the perceptual hash library for detecting duplicate multimedia files.
+* **tags**: [ruby](../tagged/ruby.md), [image-processing](../tagged/image-processing.md)
+* :octocat: **[source code](https://github.com/westonplatter/phashion)**
+---
+#### [PSD.rb](https://github.com/layervault/psd.rb)
+_<sup>https://github.com/layervault/psd.rb</sup>_
+
+Parse Photoshop files in Ruby with ease.
+* **tags**: [ruby](../tagged/ruby.md), [image-processing](../tagged/image-processing.md)
+* :octocat: **[source code](https://github.com/layervault/psd.rb)**
+---
+#### [RMagick](https://github.com/rmagick/rmagick)
+_<sup>https://github.com/rmagick/rmagick</sup>_
+
+RMagick is an interface between Ruby and ImageMagick.
+* **tags**: [ruby](../tagged/ruby.md), [image-processing](../tagged/image-processing.md)
+* :octocat: **[source code](https://github.com/rmagick/rmagick)**
+---
+#### [ruby-vips](https://github.com/jcupitt/ruby-vips)
+_<sup>https://github.com/jcupitt/ruby-vips</sup>_
+
+A binding for the libvips image processing library.
+* **tags**: [ruby](../tagged/ruby.md), [image-processing](../tagged/image-processing.md)
+* :octocat: **[source code](https://github.com/jcupitt/ruby-vips)**
+---
+#### [Skeptick](https://github.com/maxim/skeptick)
+_<sup>https://github.com/maxim/skeptick</sup>_
+
+Skeptick is an all-purpose DSL for building and running ImageMagick commands.
+* **tags**: [ruby](../tagged/ruby.md), [image-processing](../tagged/image-processing.md)
+* :octocat: **[source code](https://github.com/maxim/skeptick)**
+---
 #### [hmap](https://github.com/rossgoodwin/hmap)
 _<sup>https://github.com/rossgoodwin/hmap</sup>_
 

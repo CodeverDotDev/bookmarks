@@ -2,6 +2,68 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/caching](https://www.bookmarks.dev/tagged/caching)</sup></sup>_
 ---
+#### [Action caching for Action Pack](https://github.com/rails/actionpack-action_caching)
+_<sup>https://github.com/rails/actionpack-action_caching</sup>_
+
+Action caching for Action Pack.
+* **tags**: [ruby](../tagged/ruby.md), [caching](../tagged/caching.md)
+* :octocat: **[source code](https://github.com/rails/actionpack-action_caching)**
+---
+#### [Dalli](https://github.com/mperham/dalli)
+_<sup>https://github.com/mperham/dalli</sup>_
+
+A high performance pure Ruby client for accessing memcached servers.
+* **tags**: [ruby](../tagged/ruby.md), [caching](../tagged/caching.md)
+* :octocat: **[source code](https://github.com/mperham/dalli)**
+---
+#### [Garner](https://github.com/artsy/garner)
+_<sup>https://github.com/artsy/garner</sup>_
+
+A set of Rack middleware and cache helpers that implement various caching strategies.
+* **tags**: [ruby](../tagged/ruby.md), [caching](../tagged/caching.md)
+* :octocat: **[source code](https://github.com/artsy/garner)**
+---
+#### [IdentityCache](https://github.com/Shopify/identity_cache)
+_<sup>https://github.com/Shopify/identity_cache</sup>_
+
+A blob level caching solution to plug into ActiveRecord.
+* **tags**: [ruby](../tagged/ruby.md), [caching](../tagged/caching.md)
+* :octocat: **[source code](https://github.com/Shopify/identity_cache)**
+---
+#### [Kashmir](https://github.com/IFTTT/kashmir)
+_<sup>https://github.com/IFTTT/kashmir</sup>_
+
+Kashmir is a Ruby DSL that makes serializing and caching objects a snap.
+* **tags**: [ruby](../tagged/ruby.md), [caching](../tagged/caching.md)
+* :octocat: **[source code](https://github.com/IFTTT/kashmir)**
+---
+#### [Readthis](https://github.com/sorentwo/readthis)
+_<sup>https://github.com/sorentwo/readthis</sup>_
+
+High performance, pooled, ActiveSupport compliant caching with Redis.
+* **tags**: [ruby](../tagged/ruby.md), [caching](../tagged/caching.md)
+* :octocat: **[source code](https://github.com/sorentwo/readthis)**
+---
+#### [Record Cache](https://github.com/orslumen/record-cache)
+_<sup>https://github.com/orslumen/record-cache</sup>_
+
+Cache Active Model Records in Rails 3.
+* **tags**: [ruby](../tagged/ruby.md), [caching](../tagged/caching.md)
+* :octocat: **[source code](https://github.com/orslumen/record-cache)**
+---
+#### [redis-store](http://redis-store.org/)
+_<sup>http://redis-store.org/</sup>_
+
+Redis Store provides a full set of stores (Cache, I18n, Session, HTTP Cache) for modern Ruby frameworks like: Ruby on Rails, Sinatra, Rack, Rack::Cache and I18n. It supports object marshalling, timeou...
+* **tags**: [ruby](../tagged/ruby.md), [caching](../tagged/caching.md)
+---
+#### [Second Level Cache](https://github.com/hooopo/second_level_cache)
+_<sup>https://github.com/hooopo/second_level_cache</sup>_
+
+Write-Through and Read-Through caching library for ActiveRecord 4.
+* **tags**: [ruby](../tagged/ruby.md), [caching](../tagged/caching.md)
+* :octocat: **[source code](https://github.com/hooopo/second_level_cache)**
+---
 #### [beaker](https://github.com/bbangert/beaker)
 _<sup>https://github.com/bbangert/beaker</sup>_
 

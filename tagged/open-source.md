@@ -79,7 +79,7 @@ Open source technology for agriculture, farming, and gardening - beaorn/awesome-
 * **tags**: [awesome-list](../tagged/awesome-list.md), [open-source](../tagged/open-source.md)
 * :octocat: **[source code](https://github.com/beaorn/awesome-agriculture#readme)**
 ---
-#### [Contributor Covenant: A Code of Conduct for Open Source Projects](http://www.contributor-covenant.org/)
+#### [Contributor Covenant - A Code of Conduct for Open Source Projects](http://www.contributor-covenant.org/)
 _<sup>http://www.contributor-covenant.org/</sup>_
 
 Open Source has always been a foundation of the Internet, and with the advent of social open source networks this is more true than ever. But free, libre, and open source projects suffer from a startl...

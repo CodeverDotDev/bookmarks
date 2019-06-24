@@ -2,6 +2,33 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/encryption](https://www.bookmarks.dev/tagged/encryption)</sup></sup>_
 ---
+#### [bcrypt-ruby](https://github.com/codahale/bcrypt-ruby)
+_<sup>https://github.com/codahale/bcrypt-ruby</sup>_
+
+bcrypt-ruby is a Ruby binding for the OpenBSD bcrypt() password hashing algorithm.
+* **tags**: [ruby](../tagged/ruby.md), [encryption](../tagged/encryption.md)
+* :octocat: **[source code](https://github.com/codahale/bcrypt-ruby)**
+---
+#### [RbNaCl](https://github.com/cryptosphere/rbnacl)
+_<sup>https://github.com/cryptosphere/rbnacl</sup>_
+
+Ruby binding to the Networking and Cryptography (NaCl) library.
+* **tags**: [ruby](../tagged/ruby.md), [encryption](../tagged/encryption.md)
+* :octocat: **[source code](https://github.com/cryptosphere/rbnacl)**
+---
+#### [Sym](https://github.com/kigster/sym)
+_<sup>https://github.com/kigster/sym</sup>_
+
+A time-saving symmetric encryption gem based on OpenSSL that uses 256bit (password-encrypted) keys. Read the key from STDIN, a file, ENV or, on a Mac: OS-X Keychain.
+* **tags**: [ruby](../tagged/ruby.md), [encryption](../tagged/encryption.md)
+* :octocat: **[source code](https://github.com/kigster/sym)**
+---
+#### [Symmetric Encryption](http://rocketjob.github.io/symmetric-encryption/)
+_<sup>http://rocketjob.github.io/symmetric-encryption/</sup>_
+
+Transparently encrypt ActiveRecord, Mongoid, and MongoMapper attributes. Encrypt passwords in configuration files. Encrypt entire files at rest.
+* **tags**: [ruby](../tagged/ruby.md), [encryption](../tagged/encryption.md)
+---
 #### [JWT, JWS and JWE for Not So Dummies! (Part I)](https://medium.facilelogin.com/jwt-jws-and-jwe-for-not-so-dummies-b63310d201a3)
 _<sup>https://medium.facilelogin.com/jwt-jws-and-jwe-for-not-so-dummies-b63310d201a3</sup>_
 

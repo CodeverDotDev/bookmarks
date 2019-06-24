@@ -2,6 +2,75 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/git](https://www.bookmarks.dev/tagged/git)</sup></sup>_
 ---
+#### [ginatra](https://github.com/NARKOZ/ginatra)
+_<sup>https://github.com/NARKOZ/ginatra</sup>_
+
+A web frontend for Git repositories.
+* **tags**: [ruby](../tagged/ruby.md), [git](../tagged/git.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/NARKOZ/ginatra)**
+---
+#### [git-auto-bisect](https://github.com/grosser/git-autobisect)
+_<sup>https://github.com/grosser/git-autobisect</sup>_
+
+Find the commit that broke master.
+* **tags**: [ruby](../tagged/ruby.md), [git](../tagged/git.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/grosser/git-autobisect)**
+---
+#### [git_reflow](https://github.com/reenhanced/gitreflow)
+_<sup>https://github.com/reenhanced/gitreflow</sup>_
+
+An automated quality control workflow for Agile teams.
+* **tags**: [ruby](../tagged/ruby.md), [git](../tagged/git.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/reenhanced/gitreflow)**
+---
+#### [git-spelunk](https://github.com/osheroff/git-spelunk)
+_<sup>https://github.com/osheroff/git-spelunk</sup>_
+
+Dig through git blame history.
+* **tags**: [ruby](../tagged/ruby.md), [git](../tagged/git.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/osheroff/git-spelunk)**
+---
+#### [git-up](https://github.com/aanand/git-up)
+_<sup>https://github.com/aanand/git-up</sup>_
+
+Fetch and rebase all locally-tracked remote branches.
+* **tags**: [ruby](../tagged/ruby.md), [git](../tagged/git.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/aanand/git-up)**
+---
+#### [git-whence](https://github.com/grosser/git-whence)
+_<sup>https://github.com/grosser/git-whence</sup>_
+
+Find which merge a commit came from.
+* **tags**: [ruby](../tagged/ruby.md), [git](../tagged/git.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/grosser/git-whence)**
+---
+#### [Git Cop](https://github.com/bkuhlmann/git-cop)
+_<sup>https://github.com/bkuhlmann/git-cop</sup>_
+
+Enforces consistent Git commits.
+* **tags**: [ruby](../tagged/ruby.md), [git](../tagged/git.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/bkuhlmann/git-cop)**
+---
+#### [Overcommit](https://github.com/brigade/overcommit)
+_<sup>https://github.com/brigade/overcommit</sup>_
+
+A fully configurable and extendable Git hook manager.
+* **tags**: [ruby](../tagged/ruby.md), [git](../tagged/git.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/brigade/overcommit)**
+---
+#### [Rugged](https://github.com/libgit2/rugged)
+_<sup>https://github.com/libgit2/rugged</sup>_
+
+Ruby bindings to libgit2.
+* **tags**: [ruby](../tagged/ruby.md), [git](../tagged/git.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/libgit2/rugged)**
+---
+#### [GitOps](https://www.weave.works/technologies/gitops/)
+_<sup>https://www.weave.works/technologies/gitops/</sup>_
+
+Learn what is GitOps and how you can implement GitOps workflows to reliably run Kubernetes in production and at scale. Also find out why GitOps is the more secure way to deploy apps to Kubernetes.
+* **tags**: [gitops](../tagged/gitops.md), [devops](../tagged/devops.md), [kubernetes](../tagged/kubernetes.md), [git](../tagged/git.md)
+---
 #### [awesome-tips](https://github.com/git-tips/tips#readme)
 _<sup>https://github.com/git-tips/tips#readme</sup>_
 
@@ -37,13 +106,6 @@ _<sup>https://github.com/bobthecow/git-flow-completion/wiki/Install-Bash-git-com
 
 How to install git completion on different platforms...
 * **tags**: [git](../tagged/git.md), [bash](../tagged/bash.md), [osx](../tagged/osx.md), [windows](../tagged/windows.md), [linux](../tagged/linux.md)
----
-#### [How to change the URI (URL) for a remote Git repository? - Stack Overflow](https://stackoverflow.com/questions/2432764/how-to-change-the-uri-url-for-a-remote-git-repository)
-_<sup>https://stackoverflow.com/questions/2432764/how-to-change-the-uri-url-for-a-remote-git-repository</sup>_
-
-You can use the following command
-...
-* **tags**: [git](../tagged/git.md)
 ---
 #### [Merging vs. Rebasing - Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
 _<sup>https://www.atlassian.com/git/tutorials/merging-vs-rebasing</sup>_

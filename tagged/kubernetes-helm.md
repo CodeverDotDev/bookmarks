@@ -2,6 +2,22 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/kubernetes-helm](https://www.bookmarks.dev/tagged/kubernetes-helm)</sup></sup>_
 ---
+#### [Deploy Your App with Template Free YAML - Ryan Cox, Lyft - YouTube](https://www.youtube.com/watch?v=ahMIBxufNR0)
+_<sup>https://www.youtube.com/watch?v=ahMIBxufNR0</sup>_
+
+This talk will introduce Kustomize, a declarative application management system, that allows deployments to be described as template free YAML. It's approach will be contrasted with DSLs and template ...
+* :calendar: **published on**: 2018-12-15
+* **tags**: [kubernetes](../tagged/kubernetes.md), [kustomize](../tagged/kustomize.md), [kubernetes-helm](../tagged/kubernetes-helm.md)
+* :octocat: **[source code](https://github.com/ryancox/gitea)**
+---
+#### [Stop Forking Helm Charts, an Intro to Replicated Ship - K8s, Kustomize & Ship SF Meetup - YouTube](https://www.youtube.com/watch?v=pRG47EQ5OAg)
+_<sup>https://www.youtube.com/watch?v=pRG47EQ5OAg</sup>_
+
+This presentation by Marc Campbell, CTO and Founder of Replicated, is from the Kubernetes, Kustomize & Ship Meetup in SF - ship video reference
+* :calendar: **published on**: 2018-11-15
+* **tags**: [kubernetes](../tagged/kubernetes.md), [kustomize](../tagged/kustomize.md), [kubernetes-helm](../tagged/kubernetes-helm.md), [kubernetes-ship](../tagged/kubernetes-ship.md), [devops](../tagged/devops.md), [devops-tools](../tagged/devops-tools.md)
+* :octocat: **[source code](https://github.com/replicatedhq/ship)**
+---
 #### [Helm Chart Templates](https://helm.sh/docs/chart_template_guide/)
 _<sup>https://helm.sh/docs/chart_template_guide/</sup>_
 

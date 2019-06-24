@@ -2,6 +2,20 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/networking](https://www.bookmarks.dev/tagged/networking)</sup></sup>_
 ---
+#### [Dnsruby](https://github.com/alexdalitz/dnsruby)
+_<sup>https://github.com/alexdalitz/dnsruby</sup>_
+
+A pure Ruby DNS client library which implements a stub resolver. It aims to comply with all DNS RFCs.
+* **tags**: [ruby](../tagged/ruby.md), [networking](../tagged/networking.md)
+* :octocat: **[source code](https://github.com/alexdalitz/dnsruby)**
+---
+#### [RubyDNS](https://github.com/ioquatix/rubydns)
+_<sup>https://github.com/ioquatix/rubydns</sup>_
+
+A high-performance DNS server which can be easily integrated into other projects or used as a stand-alone daemon.
+* **tags**: [ruby](../tagged/ruby.md), [networking](../tagged/networking.md)
+* :octocat: **[source code](https://github.com/ioquatix/rubydns)**
+---
 #### [asyncio](https://docs.python.org/3/library/asyncio.html)
 _<sup>https://docs.python.org/3/library/asyncio.html</sup>_
 

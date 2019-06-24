@@ -27,7 +27,7 @@ Draft
 - needs draft cli, helm cli, t...
 * **tags**: [kubernetes](../tagged/kubernetes.md), [kubernetes-helm](../tagged/kubernetes-helm.md), [skaffold](../tagged/skaffold.md)
 ---
-#### [Skaffold home page](https://skaffold.dev/)
+#### [Skaffold Home Page](https://skaffold.dev/)
 _<sup>https://skaffold.dev/</sup>_
 
 Easy and Repeatable Kubernetes Development

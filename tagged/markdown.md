@@ -2,6 +2,34 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/markdown](https://www.bookmarks.dev/tagged/markdown)</sup></sup>_
 ---
+#### [kramdown](https://github.com/gettalong/kramdown)
+_<sup>https://github.com/gettalong/kramdown</sup>_
+
+Kramdown is yet-another-markdown-parser but fast, pure Ruby, using a strict syntax definition and supporting several common extensions.
+* **tags**: [ruby](../tagged/ruby.md), [markdown](../tagged/markdown.md)
+* :octocat: **[source code](https://github.com/gettalong/kramdown)**
+---
+#### [Maruku](https://github.com/bhollis/maruku)
+_<sup>https://github.com/bhollis/maruku</sup>_
+
+A pure-Ruby Markdown-superset interpreter.
+* **tags**: [ruby](../tagged/ruby.md), [markdown](../tagged/markdown.md)
+* :octocat: **[source code](https://github.com/bhollis/maruku)**
+---
+#### [Redcarpet](https://github.com/vmg/redcarpet)
+_<sup>https://github.com/vmg/redcarpet</sup>_
+
+A fast, safe and extensible Markdown to (X)HTML parser.
+* **tags**: [ruby](../tagged/ruby.md), [markdown](../tagged/markdown.md)
+* :octocat: **[source code](https://github.com/vmg/redcarpet)**
+---
+#### [word-to-markdown](https://github.com/benbalter/word-to-markdown)
+_<sup>https://github.com/benbalter/word-to-markdown</sup>_
+
+Gem to convert Microsoft Word documents to Markdown.
+* **tags**: [ruby](../tagged/ruby.md), [markdown](../tagged/markdown.md)
+* :octocat: **[source code](https://github.com/benbalter/word-to-markdown)**
+---
 #### [Mistune](https://github.com/lepture/mistune)
 _<sup>https://github.com/lepture/mistune</sup>_
 

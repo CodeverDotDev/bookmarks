@@ -2,6 +2,41 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/scheduling](https://www.bookmarks.dev/tagged/scheduling)</sup></sup>_
 ---
+#### [minicron](https://github.com/jamesrwhite/minicron)
+_<sup>https://github.com/jamesrwhite/minicron</sup>_
+
+A system to manage and monitor cron jobs.
+* **tags**: [ruby](../tagged/ruby.md), [scheduling](../tagged/scheduling.md)
+* :octocat: **[source code](https://github.com/jamesrwhite/minicron)**
+---
+#### [resque-scheduler](https://github.com/resque/resque-scheduler)
+_<sup>https://github.com/resque/resque-scheduler</sup>_
+
+A light-weight job scheduling system built on top of Resque.
+* **tags**: [ruby](../tagged/ruby.md), [scheduling](../tagged/scheduling.md)
+* :octocat: **[source code](https://github.com/resque/resque-scheduler)**
+---
+#### [rufus-scheduler](https://github.com/jmettraux/rufus-scheduler)
+_<sup>https://github.com/jmettraux/rufus-scheduler</sup>_
+
+Job scheduler for Ruby (at, cron, in and every jobs).
+* **tags**: [ruby](../tagged/ruby.md), [scheduling](../tagged/scheduling.md)
+* :octocat: **[source code](https://github.com/jmettraux/rufus-scheduler)**
+---
+#### [Sidekiq-Cron](https://github.com/ondrejbartas/sidekiq-cron)
+_<sup>https://github.com/ondrejbartas/sidekiq-cron</sup>_
+
+A scheduling add-on for Sidekiq.
+* **tags**: [ruby](../tagged/ruby.md), [scheduling](../tagged/scheduling.md)
+* :octocat: **[source code](https://github.com/ondrejbartas/sidekiq-cron)**
+---
+#### [Whenever](https://github.com/javan/whenever)
+_<sup>https://github.com/javan/whenever</sup>_
+
+A Ruby gem that provides a clear syntax for writing and deploying cron jobs.
+* **tags**: [ruby](../tagged/ruby.md), [scheduling](../tagged/scheduling.md)
+* :octocat: **[source code](https://github.com/javan/whenever)**
+---
 #### [Node-cron](http://merencia.github.io/node-cron/)
 _<sup>http://merencia.github.io/node-cron/</sup>_
 

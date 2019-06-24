@@ -2,6 +2,48 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/template-engine](https://www.bookmarks.dev/tagged/template-engine)</sup></sup>_
 ---
+#### [Curly](https://github.com/zendesk/curly)
+_<sup>https://github.com/zendesk/curly</sup>_
+
+A template language that completely separates structure and logic.
+* **tags**: [ruby](../tagged/ruby.md), [template-engine](../tagged/template-engine.md)
+* :octocat: **[source code](https://github.com/zendesk/curly)**
+---
+#### [Haml](https://github.com/haml/haml)
+_<sup>https://github.com/haml/haml</sup>_
+
+HTML Abstraction Markup Language.
+* **tags**: [ruby](../tagged/ruby.md), [template-engine](../tagged/template-engine.md)
+* :octocat: **[source code](https://github.com/haml/haml)**
+---
+#### [Liquid](https://github.com/Shopify/liquid)
+_<sup>https://github.com/Shopify/liquid</sup>_
+
+Safe, customer facing template language for flexible web apps.
+* **tags**: [ruby](../tagged/ruby.md), [template-engine](../tagged/template-engine.md)
+* :octocat: **[source code](https://github.com/Shopify/liquid)**
+---
+#### [Mustache](https://github.com/mustache/mustache)
+_<sup>https://github.com/mustache/mustache</sup>_
+
+Logic-less Ruby templates.
+* **tags**: [ruby](../tagged/ruby.md), [template-engine](../tagged/template-engine.md)
+* :octocat: **[source code](https://github.com/mustache/mustache)**
+---
+#### [Slim](https://github.com/slim-template/slim)
+_<sup>https://github.com/slim-template/slim</sup>_
+
+A template language whose goal is reduce the syntax to the essential parts without becoming cryptic.
+* **tags**: [ruby](../tagged/ruby.md), [template-engine](../tagged/template-engine.md)
+* :octocat: **[source code](https://github.com/slim-template/slim)**
+---
+#### [Tilt](https://github.com/rtomayko/tilt)
+_<sup>https://github.com/rtomayko/tilt</sup>_
+
+Generic interface to multiple Ruby template engines.
+* **tags**: [ruby](../tagged/ruby.md), [template-engine](../tagged/template-engine.md)
+* :octocat: **[source code](https://github.com/rtomayko/tilt)**
+---
 #### [Jinja2](https://github.com/pallets/jinja)
 _<sup>https://github.com/pallets/jinja</sup>_
 

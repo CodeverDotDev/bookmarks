@@ -2,6 +2,55 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/debugging](https://www.bookmarks.dev/tagged/debugging)</sup></sup>_
 ---
+#### [Byebug](https://github.com/deivid-rodriguez/byebug)
+_<sup>https://github.com/deivid-rodriguez/byebug</sup>_
+
+A simple to use, feature rich debugger for Ruby 2.
+* **tags**: [ruby](../tagged/ruby.md), [debugging](../tagged/debugging.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/deivid-rodriguez/byebug)**
+---
+#### [did_you_mean](https://github.com/yuki24/did_you_mean)
+_<sup>https://github.com/yuki24/did_you_mean</sup>_
+
+Adds class, method & attribute suggestions to error messages.
+* **tags**: [ruby](../tagged/ruby.md), [debugging](../tagged/debugging.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/yuki24/did_you_mean)**
+---
+#### [Pry Byebug](https://github.com/deivid-rodriguez/pry-byebug)
+_<sup>https://github.com/deivid-rodriguez/pry-byebug</sup>_
+
+Pry navigation commands via byebug.
+* **tags**: [ruby](../tagged/ruby.md), [debugging](../tagged/debugging.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/deivid-rodriguez/pry-byebug)**
+---
+#### [pry-rails](https://github.com/rweng/pry-rails)
+_<sup>https://github.com/rweng/pry-rails</sup>_
+
+Avoid repeating yourself, use pry-rails instead of copying the initializer to every rails project. This is a small gem which causes rails console to open pry. It therefore depends on pry.
+* **tags**: [ruby](../tagged/ruby.md), [debugging](../tagged/debugging.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/rweng/pry-rails)**
+---
+#### [Rails Footnotes](https://github.com/josevalim/rails-footnotes)
+_<sup>https://github.com/josevalim/rails-footnotes</sup>_
+
+Rails footnotes displays footnotes in your application for easy debugging, such as sessions, request parameters, cookies, filter chain, routes, queries, etc.
+* **tags**: [ruby](../tagged/ruby.md), [debugging](../tagged/debugging.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/josevalim/rails-footnotes)**
+---
+#### [Seeing Is Believing](https://github.com/JoshCheek/seeing_is_believing)
+_<sup>https://github.com/JoshCheek/seeing_is_believing</sup>_
+
+Displays the results of every line of code in your file.
+* **tags**: [ruby](../tagged/ruby.md), [debugging](../tagged/debugging.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/JoshCheek/seeing_is_believing)**
+---
+#### [Xray](https://github.com/brentd/xray-rails)
+_<sup>https://github.com/brentd/xray-rails</sup>_
+
+A development tool that reveals your UI's bones.
+* **tags**: [ruby](../tagged/ruby.md), [debugging](../tagged/debugging.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/brentd/xray-rails)**
+---
 #### [ipdb](https://github.com/gotcha/ipdb)
 _<sup>https://github.com/gotcha/ipdb</sup>_
 

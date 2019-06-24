@@ -2,6 +2,25 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/gui](https://www.bookmarks.dev/tagged/gui)</sup></sup>_
 ---
+#### [qtbindings](https://github.com/ryanmelt/qtbindings)
+_<sup>https://github.com/ryanmelt/qtbindings</sup>_
+
+Allows the QT Gui toolkit to be used from Ruby.
+* **tags**: [ruby](../tagged/ruby.md), [gui](../tagged/gui.md)
+* :octocat: **[source code](https://github.com/ryanmelt/qtbindings)**
+---
+#### [RubyGnome2](http://ruby-gnome2.sourceforge.jp/)
+_<sup>http://ruby-gnome2.sourceforge.jp/</sup>_
+
+Ruby language bindings for the GNOME 2.0 development environment.
+* **tags**: [ruby](../tagged/ruby.md), [gui](../tagged/gui.md)
+---
+#### [Shoes](http://shoesrb.com)
+_<sup>http://shoesrb.com</sup>_
+
+Shoes makes building little graphical programs for Mac, Windows, and Linux super simple.
+* **tags**: [ruby](../tagged/ruby.md), [gui](../tagged/gui.md)
+---
 #### [curses](https://docs.python.org/3/library/curses.html)
 _<sup>https://docs.python.org/3/library/curses.html</sup>_
 

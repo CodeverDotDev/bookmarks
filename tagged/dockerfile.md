@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/dockerfile](https://www.bookmarks.dev/tagged/dockerfile)</sup></sup>_
 ---
+#### [GoogleContainerTools Kaniko Home Page](https://github.com/GoogleContainerTools/kaniko)
+_<sup>https://github.com/GoogleContainerTools/kaniko</sup>_
+
+Build Container Images In Kubernetes. Contribute to GoogleContainerTools/kaniko development by creating an account on GitHub.
+* **tags**: [kubernetes](../tagged/kubernetes.md), [devops](../tagged/devops.md), [devops-tools](../tagged/devops-tools.md), [docker](../tagged/docker.md), [dockerfile](../tagged/dockerfile.md)
+* :octocat: **[source code](https://github.com/GoogleContainerTools/kaniko)**
+---
 #### [Use multi-stage builds with docker](https://docs.docker.com/develop/develop-images/multistage-build/)
 _<sup>https://docs.docker.com/develop/develop-images/multistage-build/</sup>_
 

@@ -2,6 +2,15 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/asynchronous](https://www.bookmarks.dev/tagged/asynchronous)</sup></sup>_
 ---
+#### [Handling Observables with NgIf and the Async Pipe](https://ultimatecourses.com/blog/angular-ngif-async-pipe)
+_<sup>https://ultimatecourses.com/blog/angular-ngif-async-pipe</sup>_
+
+Dealing with async operations with the async pipe takes care of subscribing to Observable streams/async stuff like Promises for us.
+
+There are a few common gotchas when dealing with purely cold Observ...
+* :calendar: **published on**: 2018-07-18
+* **tags**: [angular](../tagged/angular.md), [async](../tagged/async.md), [asynchronous](../tagged/asynchronous.md), [observable](../tagged/observable.md)
+---
 #### [Awaitility](https://github.com/jayway/awaitility)
 _<sup>https://github.com/jayway/awaitility</sup>_
 

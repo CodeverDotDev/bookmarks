@@ -2,6 +2,47 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/data-visualization](https://www.bookmarks.dev/tagged/data-visualization)</sup></sup>_
 ---
+#### [Chartkick](http://ankane.github.io/chartkick/)
+_<sup>http://ankane.github.io/chartkick/</sup>_
+
+Create beautiful Javascript charts with one line of Ruby. Works with Rails, Sinatra and most browsers (including IE 6).
+* **tags**: [ruby](../tagged/ruby.md), [data-visualization](../tagged/data-visualization.md)
+---
+#### [GeoPattern](https://github.com/jasonlong/geo_pattern)
+_<sup>https://github.com/jasonlong/geo_pattern</sup>_
+
+Create beautiful generative geometric background images from a string.
+* **tags**: [ruby](../tagged/ruby.md), [data-visualization](../tagged/data-visualization.md)
+* :octocat: **[source code](https://github.com/jasonlong/geo_pattern)**
+---
+#### [LazyHighCharts](https://github.com/michelson/lazy_high_charts)
+_<sup>https://github.com/michelson/lazy_high_charts</sup>_
+
+A simple and extremely flexible way to use HighCharts from ruby code. Tested on Ruby on Rails, Sinatra and Nanoc, but it should work with others too.
+* **tags**: [ruby](../tagged/ruby.md), [data-visualization](../tagged/data-visualization.md)
+* :octocat: **[source code](https://github.com/michelson/lazy_high_charts)**
+---
+#### [RailRoady](https://github.com/preston/railroady)
+_<sup>https://github.com/preston/railroady</sup>_
+
+Ruby on Rails 3/4 model and controller UML class diagram generator.
+* **tags**: [ruby](../tagged/ruby.md), [data-visualization](../tagged/data-visualization.md)
+* :octocat: **[source code](https://github.com/preston/railroady)**
+---
+#### [Rails Erd](https://github.com/voormedia/rails-erd)
+_<sup>https://github.com/voormedia/rails-erd</sup>_
+
+Generate Entity-Relationship Diagrams for Rails applications.
+* **tags**: [ruby](../tagged/ruby.md), [data-visualization](../tagged/data-visualization.md)
+* :octocat: **[source code](https://github.com/voormedia/rails-erd)**
+---
+#### [Ruby/GraphViz](https://github.com/glejeune/Ruby-Graphviz)
+_<sup>https://github.com/glejeune/Ruby-Graphviz</sup>_
+
+Ruby interface to the GraphViz graphing tool.
+* **tags**: [ruby](../tagged/ruby.md), [data-visualization](../tagged/data-visualization.md)
+* :octocat: **[source code](https://github.com/glejeune/Ruby-Graphviz)**
+---
 #### [Altair](https://github.com/altair-viz/altair)
 _<sup>https://github.com/altair-viz/altair</sup>_
 

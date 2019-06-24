@@ -2,6 +2,19 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/game-development](https://www.bookmarks.dev/tagged/game-development)</sup></sup>_
 ---
+#### [Gosu](http://www.libgosu.org)
+_<sup>http://www.libgosu.org</sup>_
+
+A 2D game development library for the Ruby and C++ programming languages.
+* **tags**: [ruby](../tagged/ruby.md), [game-development](../tagged/game-development.md)
+---
+#### [Yeah](https://github.com/yeahrb/yeah)
+_<sup>https://github.com/yeahrb/yeah</sup>_
+
+Practical Ruby video game framework.
+* **tags**: [ruby](../tagged/ruby.md), [game-development](../tagged/game-development.md)
+* :octocat: **[source code](https://github.com/yeahrb/yeah)**
+---
 #### [Cocos2d](http://cocos2d.org/)
 _<sup>http://cocos2d.org/</sup>_
 

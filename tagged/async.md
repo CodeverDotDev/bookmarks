@@ -2,6 +2,15 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/async](https://www.bookmarks.dev/tagged/async)</sup></sup>_
 ---
+#### [Handling Observables with NgIf and the Async Pipe](https://ultimatecourses.com/blog/angular-ngif-async-pipe)
+_<sup>https://ultimatecourses.com/blog/angular-ngif-async-pipe</sup>_
+
+Dealing with async operations with the async pipe takes care of subscribing to Observable streams/async stuff like Promises for us.
+
+There are a few common gotchas when dealing with purely cold Observ...
+* :calendar: **published on**: 2018-07-18
+* **tags**: [angular](../tagged/angular.md), [async](../tagged/async.md), [asynchronous](../tagged/asynchronous.md), [observable](../tagged/observable.md)
+---
 #### [Java 8: Definitive guide to CompletableFuture](https://www.nurkiewicz.com/2013/05/java-8-definitive-guide-to.html)
 _<sup>https://www.nurkiewicz.com/2013/05/java-8-definitive-guide-to.html</sup>_
 

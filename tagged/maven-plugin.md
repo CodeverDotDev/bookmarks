@@ -22,9 +22,7 @@ _<sup>https://github.com/GoogleContainerTools/jib</sup>_
 
 :sailboat: Build container images for your Java applications. - GoogleContainerTools/jib
 
- Quickstart
-
-* **Maven** - See the jib-maven-plugin [Quickstart](https://github.com/GoogleContainerTools/jib...
+* **Maven** - See the jib-maven-plugin [Quickstart](https://github.com/GoogleContainerTools/jib/tree/master/ji...
 * **tags**: [docker](../tagged/docker.md), [maven-plugin](../tagged/maven-plugin.md), [java](../tagged/java.md), [gradle](../tagged/gradle.md)
 * :octocat: **[source code](https://github.com/GoogleContainerTools/jib)**
 ---

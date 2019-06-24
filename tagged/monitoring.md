@@ -2,6 +2,48 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/monitoring](https://www.bookmarks.dev/tagged/monitoring)</sup></sup>_
 ---
+#### [Bluepill](https://github.com/bluepill-rb/bluepill)
+_<sup>https://github.com/bluepill-rb/bluepill</sup>_
+
+Simple process monitoring tool.
+* **tags**: [ruby](../tagged/ruby.md), [process-management](../tagged/process-management.md), [monitoring](../tagged/monitoring.md)
+* :octocat: **[source code](https://github.com/bluepill-rb/bluepill)**
+---
+#### [Eye](https://github.com/kostya/eye)
+_<sup>https://github.com/kostya/eye</sup>_
+
+Process monitoring tool. Inspired from Bluepill and God.
+* **tags**: [ruby](../tagged/ruby.md), [process-management](../tagged/process-management.md), [monitoring](../tagged/monitoring.md)
+* :octocat: **[source code](https://github.com/kostya/eye)**
+---
+#### [Foreman](https://github.com/ddollar/foreman)
+_<sup>https://github.com/ddollar/foreman</sup>_
+
+Manage Procfile-based applications.
+* **tags**: [ruby](../tagged/ruby.md), [process-management](../tagged/process-management.md), [monitoring](../tagged/monitoring.md)
+* :octocat: **[source code](https://github.com/ddollar/foreman)**
+---
+#### [God](https://github.com/mojombo/god)
+_<sup>https://github.com/mojombo/god</sup>_
+
+An easy to configure, easy to extend monitoring framework written in Ruby.
+* **tags**: [ruby](../tagged/ruby.md), [process-management](../tagged/process-management.md), [monitoring](../tagged/monitoring.md)
+* :octocat: **[source code](https://github.com/mojombo/god)**
+---
+#### [Health Monitor Rails](https://github.com/lbeder/health-monitor-rails)
+_<sup>https://github.com/lbeder/health-monitor-rails</sup>_
+
+A mountable Rails plug-in to check health of services (Database, Cache, Sidekiq, Redis, e.t.c.) used by the Rails app.
+* **tags**: [ruby](../tagged/ruby.md), [process-management](../tagged/process-management.md), [monitoring](../tagged/monitoring.md)
+* :octocat: **[source code](https://github.com/lbeder/health-monitor-rails)**
+---
+#### [Procodile](https://github.com/adamcooke/procodile)
+_<sup>https://github.com/adamcooke/procodile</sup>_
+
+Run processes in the background (and foreground) on Mac & Linux from a Procfile.
+* **tags**: [ruby](../tagged/ruby.md), [process-management](../tagged/process-management.md), [monitoring](../tagged/monitoring.md)
+* :octocat: **[source code](https://github.com/adamcooke/procodile)**
+---
 #### [Kubernetes best practices: Setting up health checks with readiness and liveness probes](https://cloud.google.com/blog/products/gcp/kubernetes-best-practices-setting-up-health-checks-with-readiness-and-liveness-probes)
 _<sup>https://cloud.google.com/blog/products/gcp/kubernetes-best-practices-setting-up-health-checks-with-r...</sup>_
 

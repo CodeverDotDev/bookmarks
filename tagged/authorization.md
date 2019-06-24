@@ -2,6 +2,55 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/authorization](https://www.bookmarks.dev/tagged/authorization)</sup></sup>_
 ---
+#### [acl9](https://github.com/be9/acl9)
+_<sup>https://github.com/be9/acl9</sup>_
+
+Acl9 is a role-based authorization system that provides a concise DSL for securing your Rails application.
+* **tags**: [ruby](../tagged/ruby.md), [authorization](../tagged/authorization.md)
+* :octocat: **[source code](https://github.com/be9/acl9)**
+---
+#### [AccessGranted](https://github.com/chaps-io/access-granted)
+_<sup>https://github.com/chaps-io/access-granted</sup>_
+
+Multi-role and whitelist based authorization gem for Rails.
+* **tags**: [ruby](../tagged/ruby.md), [authorization](../tagged/authorization.md)
+* :octocat: **[source code](https://github.com/chaps-io/access-granted)**
+---
+#### [Authority](https://github.com/nathanl/authority)
+_<sup>https://github.com/nathanl/authority</sup>_
+
+ORM-neutral way to authorize actions in your Rails app.
+* **tags**: [ruby](../tagged/ruby.md), [authorization](../tagged/authorization.md)
+* :octocat: **[source code](https://github.com/nathanl/authority)**
+---
+#### [CanCanCan](https://github.com/CanCanCommunity/cancancan)
+_<sup>https://github.com/CanCanCommunity/cancancan</sup>_
+
+Continuation of CanCan, an authorization Gem for Ruby on Rails.
+* **tags**: [ruby](../tagged/ruby.md), [authorization](../tagged/authorization.md)
+* :octocat: **[source code](https://github.com/CanCanCommunity/cancancan)**
+---
+#### [Declarative Authorization](https://github.com/stffn/declarative_authorization)
+_<sup>https://github.com/stffn/declarative_authorization</sup>_
+
+An authorization Rails plugin using a declarative DSL for specifying authorization rules in one place.
+* **tags**: [ruby](../tagged/ruby.md), [authorization](../tagged/authorization.md)
+* :octocat: **[source code](https://github.com/stffn/declarative_authorization)**
+---
+#### [Petergate](https://github.com/elorest/petergate)
+_<sup>https://github.com/elorest/petergate</sup>_
+
+Easy to use and read action and content based authorizations.
+* **tags**: [ruby](../tagged/ruby.md), [authorization](../tagged/authorization.md)
+* :octocat: **[source code](https://github.com/elorest/petergate)**
+---
+#### [Pundit](https://github.com/elabs/pundit)
+_<sup>https://github.com/elabs/pundit</sup>_
+
+Minimal authorization through OO design and pure Ruby classes.
+* **tags**: [ruby](../tagged/ruby.md), [authorization](../tagged/authorization.md)
+* :octocat: **[source code](https://github.com/elabs/pundit)**
+---
 #### [CASL](https://github.com/stalniy/casl)
 _<sup>https://github.com/stalniy/casl</sup>_
 

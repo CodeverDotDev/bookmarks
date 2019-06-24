@@ -2,6 +2,20 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/blockchain](https://www.bookmarks.dev/tagged/blockchain)</sup></sup>_
 ---
+#### [Blockchain Lite](https://github.com/openblockchains/blockchain.lite.rb)
+_<sup>https://github.com/openblockchains/blockchain.lite.rb</sup>_
+
+Build your own blockchains with crypto hashes; revolutionize the world with blockchains, blockchains, blockchains one block at a time.
+* **tags**: [ruby](../tagged/ruby.md), [crypto](../tagged/crypto.md), [blockchain](../tagged/blockchain.md)
+* :octocat: **[source code](https://github.com/openblockchains/blockchain.lite.rb)**
+---
+#### [Peatio](https://github.com/rubykube/peatio)
+_<sup>https://github.com/rubykube/peatio</sup>_
+
+Most Advanced Cryptocurrency open-source assets exchange.
+* **tags**: [ruby](../tagged/ruby.md), [crypto](../tagged/crypto.md), [blockchain](../tagged/blockchain.md)
+* :octocat: **[source code](https://github.com/rubykube/peatio)**
+---
 #### [awesome-non-financial-blockchain](https://github.com/machinomy/awesome-non-financial-blockchain#readme)
 _<sup>https://github.com/machinomy/awesome-non-financial-blockchain#readme</sup>_
 

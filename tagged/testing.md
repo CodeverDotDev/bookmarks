@@ -2,6 +2,312 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/testing](https://www.bookmarks.dev/tagged/testing)</sup></sup>_
 ---
+#### [RSpec](https://github.com/rspec/rspec)
+_<sup>https://github.com/rspec/rspec</sup>_
+
+Behaviour Driven Development for Ruby.
+* **tags**: [ruby](../tagged/ruby.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/rspec/rspec)**
+---
+#### [Emoji-RSpec](https://github.com/cupakromer/emoji-rspec)
+_<sup>https://github.com/cupakromer/emoji-rspec</sup>_
+
+Custom Emoji Formatters for RSpec.
+* **tags**: [ruby](../tagged/ruby.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/cupakromer/emoji-rspec)**
+---
+#### [Fuubar](https://github.com/thekompanee/fuubar)
+_<sup>https://github.com/thekompanee/fuubar</sup>_
+
+The instafailing RSpec progress bar formatter.
+* **tags**: [ruby](../tagged/ruby.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/thekompanee/fuubar)**
+---
+#### [Nyan Cat](https://github.com/mattsears/nyan-cat-formatter)
+_<sup>https://github.com/mattsears/nyan-cat-formatter</sup>_
+
+Nyan Cat inspired RSpec formatter!
+* **tags**: [ruby](../tagged/ruby.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/mattsears/nyan-cat-formatter)**
+---
+#### [Aruba](https://github.com/cucumber/aruba)
+_<sup>https://github.com/cucumber/aruba</sup>_
+
+Testing command line applications with cucumber and rspec.
+* **tags**: [ruby](../tagged/ruby.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/cucumber/aruba)**
+---
+#### [Bacon](https://github.com/chneukirchen/bacon)
+_<sup>https://github.com/chneukirchen/bacon</sup>_
+
+A small RSpec clone.
+* **tags**: [ruby](../tagged/ruby.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/chneukirchen/bacon)**
+---
+#### [Capybara](https://github.com/teamcapybara/capybara)
+_<sup>https://github.com/teamcapybara/capybara</sup>_
+
+Acceptance test framework for web applications.
+* **tags**: [ruby](../tagged/ruby.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/teamcapybara/capybara)**
+---
+#### [Cucumber](https://github.com/cucumber/cucumber)
+_<sup>https://github.com/cucumber/cucumber</sup>_
+
+BDD that talks to domain experts first and code second.
+* **tags**: [ruby](../tagged/ruby.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/cucumber/cucumber)**
+---
+#### [Cutest](https://github.com/djanowski/cutest)
+_<sup>https://github.com/djanowski/cutest</sup>_
+
+Isolated tests in Ruby.
+* **tags**: [ruby](../tagged/ruby.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/djanowski/cutest)**
+---
+#### [Howitzer](https://github.com/strongqa/howitzer)
+_<sup>https://github.com/strongqa/howitzer</sup>_
+
+Ruby based framework for acceptance testing
+* **tags**: [ruby](../tagged/ruby.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/strongqa/howitzer)**
+---
+#### [Konacha](https://github.com/jfirebaugh/konacha)
+_<sup>https://github.com/jfirebaugh/konacha</sup>_
+
+Test your Rails application's JavaScript with the mocha test framework and chai assertion library.
+* **tags**: [ruby](../tagged/ruby.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/jfirebaugh/konacha)**
+---
+#### [minitest](https://github.com/seattlerb/minitest)
+_<sup>https://github.com/seattlerb/minitest</sup>_
+
+minitest provides a complete suite of testing facilities supporting TDD, BDD, mocking, and benchmarking.
+* **tags**: [ruby](../tagged/ruby.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/seattlerb/minitest)**
+---
+#### [Mocha](https://github.com/freerange/mocha)
+_<sup>https://github.com/freerange/mocha</sup>_
+
+Mocha is a mocking and stubbing library for Ruby.
+* **tags**: [ruby](../tagged/ruby.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/freerange/mocha)**
+---
+#### [RR](https://github.com/rr/rr)
+_<sup>https://github.com/rr/rr</sup>_
+
+A test double framework that features a rich selection of double techniques and a terse syntax.
+* **tags**: [ruby](../tagged/ruby.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/rr/rr)**
+---
+#### [shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers)
+_<sup>https://github.com/thoughtbot/shoulda-matchers</sup>_
+
+Provides Test::Unit- and RSpec-compatible one-liners that test common Rails functionality. These tests would otherwise be much longer, more complex, and error-prone.
+* **tags**: [ruby](../tagged/ruby.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/thoughtbot/shoulda-matchers)**
+---
+#### [Spinach](https://github.com/codegram/spinach)
+_<sup>https://github.com/codegram/spinach</sup>_
+
+Spinach is a high-level BDD framework that leverages the expressive Gherkin language (used by Cucumber) to help you define executable specifications of your application or library's acceptance criteri...
+* **tags**: [ruby](../tagged/ruby.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/codegram/spinach)**
+---
+#### [Spork](https://github.com/sporkrb/spork)
+_<sup>https://github.com/sporkrb/spork</sup>_
+
+A DRb server for testing frameworks (RSpec / Cucumber currently).
+* **tags**: [ruby](../tagged/ruby.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/sporkrb/spork)**
+---
+#### [Test::Unit](http://test-unit.github.io)
+_<sup>http://test-unit.github.io</sup>_
+
+Test::Unit is a xUnit family unit testing framework for Ruby.
+* **tags**: [ruby](../tagged/ruby.md), [testing](../tagged/testing.md)
+---
+#### [Fabrication](http://fabricationgem.org/)
+_<sup>http://fabricationgem.org/</sup>_
+
+A simple and powerful object generation library.
+* **tags**: [ruby](../tagged/ruby.md), [testing](../tagged/testing.md)
+---
+#### [factory_bot](https://github.com/thoughtbot/factory_bot)
+_<sup>https://github.com/thoughtbot/factory_bot</sup>_
+
+A library for setting up Ruby objects as test data.
+* **tags**: [ruby](../tagged/ruby.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/thoughtbot/factory_bot)**
+---
+#### [Fake Person](https://github.com/adamcooke/fake-person)
+_<sup>https://github.com/adamcooke/fake-person</sup>_
+
+Uses some of the most popular given & surnames in the US & UK.
+* **tags**: [ruby](../tagged/ruby.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/adamcooke/fake-person)**
+---
+#### [faker](https://github.com/stympy/faker)
+_<sup>https://github.com/stympy/faker</sup>_
+
+A library for generating fake data such as names, addresses, and phone numbers.
+* **tags**: [ruby](../tagged/ruby.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/stympy/faker)**
+---
+#### [ffaker](https://github.com/ffaker/ffaker)
+_<sup>https://github.com/ffaker/ffaker</sup>_
+
+A faster Faker, generates dummy data, rewrite of faker.
+* **tags**: [ruby](../tagged/ruby.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/ffaker/ffaker)**
+---
+#### [Forgery](https://github.com/sevenwire/forgery)
+_<sup>https://github.com/sevenwire/forgery</sup>_
+
+Easy and customizable generation of forged data.
+* **tags**: [ruby](../tagged/ruby.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/sevenwire/forgery)**
+---
+#### [Machinist](https://github.com/notahat/machinist)
+_<sup>https://github.com/notahat/machinist</sup>_
+
+Fixtures aren't fun. Machinist is.
+* **tags**: [ruby](../tagged/ruby.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/notahat/machinist)**
+---
+#### [ActiveMocker](https://github.com/zeisler/active_mocker)
+_<sup>https://github.com/zeisler/active_mocker</sup>_
+
+Generate mocks from ActiveRecord models for unit tests that run fast because they don’t need to load Rails or a database.
+* **tags**: [ruby](../tagged/ruby.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/zeisler/active_mocker)**
+---
+#### [DuckRails](https://github.com/iridakos/duckrails)
+_<sup>https://github.com/iridakos/duckrails</sup>_
+
+Tool for mocking API endpoints quickly & dynamically.
+* **tags**: [ruby](../tagged/ruby.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/iridakos/duckrails)**
+---
+#### [TestXml](https://github.com/alovak/test_xml)
+_<sup>https://github.com/alovak/test_xml</sup>_
+
+TestXml is a small extension for testing XML/HTML.
+* **tags**: [ruby](../tagged/ruby.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/alovak/test_xml)**
+---
+#### [WebMock](https://github.com/bblimke/webmock)
+_<sup>https://github.com/bblimke/webmock</sup>_
+
+Library for stubbing and setting expectations on HTTP requests.
+* **tags**: [ruby](../tagged/ruby.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/bblimke/webmock)**
+---
+#### [Selenium WebDriver](https://github.com/SeleniumHQ/selenium/tree/master/rb)
+_<sup>https://github.com/SeleniumHQ/selenium/tree/master/rb</sup>_
+
+Ruby bindings for WebDriver.
+* **tags**: [ruby](../tagged/ruby.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/SeleniumHQ/selenium/tree/master/rb)**
+---
+#### [API Taster](https://github.com/fredwu/api_taster)
+_<sup>https://github.com/fredwu/api_taster</sup>_
+
+A quick and easy way to visually test your Rails application's API.
+* **tags**: [ruby](../tagged/ruby.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/fredwu/api_taster)**
+---
+#### [Poltergeist](https://github.com/teampoltergeist/poltergeist)
+_<sup>https://github.com/teampoltergeist/poltergeist</sup>_
+
+A PhantomJS driver for Capybara.
+* **tags**: [ruby](../tagged/ruby.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/teampoltergeist/poltergeist)**
+---
+#### [Watir](https://github.com/watir/watir/)
+_<sup>https://github.com/watir/watir/</sup>_
+
+Web application testing in Ruby.
+* **tags**: [ruby](../tagged/ruby.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/watir/watir/)**
+---
+#### [Appraisal](https://github.com/thoughtbot/appraisal)
+_<sup>https://github.com/thoughtbot/appraisal</sup>_
+
+Appraisal integrates with bundler and rake to test your library against different versions of dependencies.
+* **tags**: [ruby](../tagged/ruby.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/thoughtbot/appraisal)**
+---
+#### [gitarro](https://github.com/openSUSE/gitarro)
+_<sup>https://github.com/openSUSE/gitarro</sup>_
+
+Run, retrigger, handle all type and OS-independent tests against your GitHub Pull Requests.
+* **tags**: [ruby](../tagged/ruby.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/openSUSE/gitarro)**
+---
+#### [Knapsack](https://github.com/ArturT/knapsack)
+_<sup>https://github.com/ArturT/knapsack</sup>_
+
+Optimal test suite parallelisation across CI nodes for RSpec, Cucumber, Minitest, Spinach and Turnip.
+* **tags**: [ruby](../tagged/ruby.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/ArturT/knapsack)**
+---
+#### [mutant](https://github.com/mbj/mutant)
+_<sup>https://github.com/mbj/mutant</sup>_
+
+Mutant is a mutation testing tool for Ruby.
+* **tags**: [ruby](../tagged/ruby.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/mbj/mutant)**
+---
+#### [Parallel Tests](https://github.com/grosser/parallel_tests)
+_<sup>https://github.com/grosser/parallel_tests</sup>_
+
+Speedup Test::Unit + RSpec + Cucumber by running parallel on multiple CPUs (or cores).
+* **tags**: [ruby](../tagged/ruby.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/grosser/parallel_tests)**
+---
+#### [power_assert](https://github.com/k-tsj/power_assert)
+_<sup>https://github.com/k-tsj/power_assert</sup>_
+
+Power Assert for Ruby.
+* **tags**: [ruby](../tagged/ruby.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/k-tsj/power_assert)**
+---
+#### [Ruby-JMeter](https://github.com/flood-io/ruby-jmeter)
+_<sup>https://github.com/flood-io/ruby-jmeter</sup>_
+
+A Ruby based DSL for building JMeter test plans.
+* **tags**: [ruby](../tagged/ruby.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/flood-io/ruby-jmeter)**
+---
+#### [Spring](https://github.com/rails/spring)
+_<sup>https://github.com/rails/spring</sup>_
+
+Preloads your rails environment in the background for faster testing and Rake tasks.
+* **tags**: [ruby](../tagged/ruby.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/rails/spring)**
+---
+#### [timecop](https://github.com/travisjeffery/timecop)
+_<sup>https://github.com/travisjeffery/timecop</sup>_
+
+Provides "time travel" and "time freezing" capabilities, making it dead simple to test time-dependent code.
+* **tags**: [ruby](../tagged/ruby.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/travisjeffery/timecop)**
+---
+#### [vcr](https://github.com/vcr/vcr)
+_<sup>https://github.com/vcr/vcr</sup>_
+
+Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests.
+* **tags**: [ruby](../tagged/ruby.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/vcr/vcr)**
+---
+#### [Zapata](https://github.com/Nedomas/zapata)
+_<sup>https://github.com/Nedomas/zapata</sup>_
+
+Who has time to write tests? This is a revolutionary tool to make them write themselves.
+* **tags**: [ruby](../tagged/ruby.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/Nedomas/zapata)**
+---
 #### [pytest](https://docs.pytest.org/en/latest/)
 _<sup>https://docs.pytest.org/en/latest/</sup>_
 

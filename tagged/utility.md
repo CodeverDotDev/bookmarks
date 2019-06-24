@@ -2,6 +2,104 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/utility](https://www.bookmarks.dev/tagged/utility)</sup></sup>_
 ---
+#### [Awesome Print](https://github.com/awesome-print/awesome_print)
+_<sup>https://github.com/awesome-print/awesome_print</sup>_
+
+Pretty print your Ruby objects with style -- in full color and with proper indentation
+* **tags**: [ruby](../tagged/ruby.md), [cli](../tagged/cli.md), [utility](../tagged/utility.md)
+* :octocat: **[source code](https://github.com/awesome-print/awesome_print)**
+---
+#### [Betty](https://github.com/pickhardt/betty)
+_<sup>https://github.com/pickhardt/betty</sup>_
+
+Friendly English-like interface for your command line. Don't remember a command? Ask Betty.
+* **tags**: [ruby](../tagged/ruby.md), [cli](../tagged/cli.md), [utility](../tagged/utility.md)
+* :octocat: **[source code](https://github.com/pickhardt/betty)**
+---
+#### [colorize](https://github.com/fazibear/colorize)
+_<sup>https://github.com/fazibear/colorize</sup>_
+
+Extends String class or add a ColorizedString with methods to set text color, background color and text effects.
+* **tags**: [ruby](../tagged/ruby.md), [cli](../tagged/cli.md), [utility](../tagged/utility.md)
+* :octocat: **[source code](https://github.com/fazibear/colorize)**
+---
+#### [colorls](https://github.com/athityakumar/colorls)
+_<sup>https://github.com/athityakumar/colorls</sup>_
+
+Beautifies the `ls` command, with color and font-awesome icons.
+* **tags**: [ruby](../tagged/ruby.md), [cli](../tagged/cli.md), [utility](../tagged/utility.md)
+* :octocat: **[source code](https://github.com/athityakumar/colorls)**
+---
+#### [formatador](https://github.com/geemus/formatador)
+_<sup>https://github.com/geemus/formatador</sup>_
+
+STDOUT text formatting.
+* **tags**: [ruby](../tagged/ruby.md), [cli](../tagged/cli.md), [utility](../tagged/utility.md)
+* :octocat: **[source code](https://github.com/geemus/formatador)**
+---
+#### [Paint](https://github.com/janlelis/paint)
+_<sup>https://github.com/janlelis/paint</sup>_
+
+Simple and fast way to set ANSI terminal colors.
+* **tags**: [ruby](../tagged/ruby.md), [cli](../tagged/cli.md), [utility](../tagged/utility.md)
+* :octocat: **[source code](https://github.com/janlelis/paint)**
+---
+#### [Pastel](https://github.com/peter-murach/pastel)
+_<sup>https://github.com/peter-murach/pastel</sup>_
+
+Terminal output styling with intuitive and clean API.
+* **tags**: [ruby](../tagged/ruby.md), [cli](../tagged/cli.md), [utility](../tagged/utility.md)
+* :octocat: **[source code](https://github.com/peter-murach/pastel)**
+---
+#### [Ru](https://github.com/tombenner/ru)
+_<sup>https://github.com/tombenner/ru</sup>_
+
+Ruby in your shell.
+* **tags**: [ruby](../tagged/ruby.md), [cli](../tagged/cli.md), [utility](../tagged/utility.md)
+* :octocat: **[source code](https://github.com/tombenner/ru)**
+---
+#### [Ruby/Progressbar](https://github.com/jfelchner/ruby-progressbar)
+_<sup>https://github.com/jfelchner/ruby-progressbar</sup>_
+
+The most flexible text progress bar library for Ruby.
+* **tags**: [ruby](../tagged/ruby.md), [cli](../tagged/cli.md), [utility](../tagged/utility.md)
+* :octocat: **[source code](https://github.com/jfelchner/ruby-progressbar)**
+---
+#### [Tabulo](https://github.com/matt-harvey/tabulo)
+_<sup>https://github.com/matt-harvey/tabulo</sup>_
+
+Ruby ASCII table generator. Produce highly readable terminal tables, even from large, unwieldy data sets and streams.
+* **tags**: [ruby](../tagged/ruby.md), [cli](../tagged/cli.md), [utility](../tagged/utility.md)
+* :octocat: **[source code](https://github.com/matt-harvey/tabulo)**
+---
+#### [TablePrint](https://github.com/arches/table_print)
+_<sup>https://github.com/arches/table_print</sup>_
+
+Slice your data from multiple DB tables into a single CLI view.
+* **tags**: [ruby](../tagged/ruby.md), [cli](../tagged/cli.md), [utility](../tagged/utility.md)
+* :octocat: **[source code](https://github.com/arches/table_print)**
+---
+#### [Terminal Table](https://github.com/tj/terminal-table)
+_<sup>https://github.com/tj/terminal-table</sup>_
+
+Ruby ASCII Table Generator, simple and feature rich.
+* **tags**: [ruby](../tagged/ruby.md), [cli](../tagged/cli.md), [utility](../tagged/utility.md)
+* :octocat: **[source code](https://github.com/tj/terminal-table)**
+---
+#### [Tmuxinator](https://github.com/tmuxinator/tmuxinator)
+_<sup>https://github.com/tmuxinator/tmuxinator</sup>_
+
+Create and manage complex tmux sessions easily.
+* **tags**: [ruby](../tagged/ruby.md), [cli](../tagged/cli.md), [utility](../tagged/utility.md)
+* :octocat: **[source code](https://github.com/tmuxinator/tmuxinator)**
+---
+#### [Whirly](https://github.com/janlelis/whirly)
+_<sup>https://github.com/janlelis/whirly</sup>_
+
+A simple, colorful and customizable terminal spinner library for Ruby.
+* **tags**: [ruby](../tagged/ruby.md), [cli](../tagged/cli.md), [utility](../tagged/utility.md)
+* :octocat: **[source code](https://github.com/janlelis/whirly)**
+---
 #### [chalk](https://github.com/chalk/chalk)
 _<sup>https://github.com/chalk/chalk</sup>_
 

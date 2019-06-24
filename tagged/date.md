@@ -2,6 +2,104 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/date](https://www.bookmarks.dev/tagged/date)</sup></sup>_
 ---
+#### [biz](https://github.com/zendesk/biz)
+_<sup>https://github.com/zendesk/biz</sup>_
+
+Time calculations using business hours.
+* **tags**: [ruby](../tagged/ruby.md), [date](../tagged/date.md), [time](../tagged/time.md)
+* :octocat: **[source code](https://github.com/zendesk/biz)**
+---
+#### [business_time](https://github.com/bokmann/business_time)
+_<sup>https://github.com/bokmann/business_time</sup>_
+
+Support for doing time math in business hours and days.
+* **tags**: [ruby](../tagged/ruby.md), [date](../tagged/date.md), [time](../tagged/time.md)
+* :octocat: **[source code](https://github.com/bokmann/business_time)**
+---
+#### [ByStar](https://github.com/radar/by_star)
+_<sup>https://github.com/radar/by_star</sup>_
+
+Find ActiveRecord objects by year, month, fortnight, week and more!
+* **tags**: [ruby](../tagged/ruby.md), [date](../tagged/date.md), [time](../tagged/time.md)
+* :octocat: **[source code](https://github.com/radar/by_star)**
+---
+#### [Chronic](https://github.com/mojombo/chronic)
+_<sup>https://github.com/mojombo/chronic</sup>_
+
+A natural language date/time parser written in pure Ruby.
+* **tags**: [ruby](../tagged/ruby.md), [date](../tagged/date.md), [time](../tagged/time.md)
+* :octocat: **[source code](https://github.com/mojombo/chronic)**
+---
+#### [groupdate](https://github.com/ankane/groupdate)
+_<sup>https://github.com/ankane/groupdate</sup>_
+
+The simplest way to group temporal data in ActiveRecord, arrays and hashes.
+* **tags**: [ruby](../tagged/ruby.md), [date](../tagged/date.md), [time](../tagged/time.md)
+* :octocat: **[source code](https://github.com/ankane/groupdate)**
+---
+#### [ice_cube](https://github.com/seejohnrun/ice_cube)
+_<sup>https://github.com/seejohnrun/ice_cube</sup>_
+
+A date recurrence library which allows easy creation of recurrence rules and fast querying.
+* **tags**: [ruby](../tagged/ruby.md), [date](../tagged/date.md), [time](../tagged/time.md)
+* :octocat: **[source code](https://github.com/seejohnrun/ice_cube)**
+---
+#### [local_time](https://github.com/basecamp/local_time)
+_<sup>https://github.com/basecamp/local_time</sup>_
+
+Rails Engine for cache-friendly, client-side local time.
+* **tags**: [ruby](../tagged/ruby.md), [date](../tagged/date.md), [time](../tagged/time.md)
+* :octocat: **[source code](https://github.com/basecamp/local_time)**
+---
+#### [montrose](https://github.com/rossta/montrose)
+_<sup>https://github.com/rossta/montrose</sup>_
+
+a simple library for expressing, serializing, and enumerating recurring events in Ruby
+* **tags**: [ruby](../tagged/ruby.md), [date](../tagged/date.md), [time](../tagged/time.md)
+* :octocat: **[source code](https://github.com/rossta/montrose)**
+---
+#### [time-lord](https://github.com/krainboltgreene/time-lord)
+_<sup>https://github.com/krainboltgreene/time-lord</sup>_
+
+Adds extra functionality to the time class.
+* **tags**: [ruby](../tagged/ruby.md), [date](../tagged/date.md), [time](../tagged/time.md)
+* :octocat: **[source code](https://github.com/krainboltgreene/time-lord)**
+---
+#### [time_diff](https://github.com/abhidsm/time_diff)
+_<sup>https://github.com/abhidsm/time_diff</sup>_
+
+Calculates the difference between two time.
+* **tags**: [ruby](../tagged/ruby.md), [date](../tagged/date.md), [time](../tagged/time.md)
+* :octocat: **[source code](https://github.com/abhidsm/time_diff)**
+---
+#### [timezone](https://github.com/panthomakos/timezone)
+_<sup>https://github.com/panthomakos/timezone</sup>_
+
+Accurate current and historical timezones and transformations, with support for Geonames and Google latitude - longitude timezone lookups.
+* **tags**: [ruby](../tagged/ruby.md), [date](../tagged/date.md), [time](../tagged/time.md)
+* :octocat: **[source code](https://github.com/panthomakos/timezone)**
+---
+#### [TZinfo](https://github.com/tzinfo/tzinfo)
+_<sup>https://github.com/tzinfo/tzinfo</sup>_
+
+Provides daylight savings aware transformations between times in different timezones.
+* **tags**: [ruby](../tagged/ruby.md), [date](../tagged/date.md), [time](../tagged/time.md)
+* :octocat: **[source code](https://github.com/tzinfo/tzinfo)**
+---
+#### [validates_timeliness](https://github.com/adzap/validates_timeliness)
+_<sup>https://github.com/adzap/validates_timeliness</sup>_
+
+Date and time validation plugin for ActiveModel and Rails.
+* **tags**: [ruby](../tagged/ruby.md), [date](../tagged/date.md), [time](../tagged/time.md)
+* :octocat: **[source code](https://github.com/adzap/validates_timeliness)**
+---
+#### [yymmdd](https://github.com/sshaw/yymmdd)
+_<sup>https://github.com/sshaw/yymmdd</sup>_
+
+Tiny DSL for idiomatic date parsing and formatting.
+* **tags**: [ruby](../tagged/ruby.md), [date](../tagged/date.md), [time](../tagged/time.md)
+* :octocat: **[source code](https://github.com/sshaw/yymmdd)**
+---
 #### [Chronyk](https://github.com/KoffeinFlummi/Chronyk)
 _<sup>https://github.com/KoffeinFlummi/Chronyk</sup>_
 

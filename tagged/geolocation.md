@@ -2,6 +2,41 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/geolocation](https://www.bookmarks.dev/tagged/geolocation)</sup></sup>_
 ---
+#### [Geocoder](https://github.com/alexreisner/geocoder)
+_<sup>https://github.com/alexreisner/geocoder</sup>_
+
+A complete geocoding solution for Ruby. With Rails it adds geocoding (by street or IP address), reverse geocoding (find street address based on given coordinates), and distance queries.
+* **tags**: [ruby](../tagged/ruby.md), [geolocation](../tagged/geolocation.md)
+* :octocat: **[source code](https://github.com/alexreisner/geocoder)**
+---
+#### [geoip](https://github.com/cjheath/geoip)
+_<sup>https://github.com/cjheath/geoip</sup>_
+
+Searches a GeoIP database for a given host or IP address, and returns information about the country where the IP address is allocated, and the city, ISP and other information.
+* **tags**: [ruby](../tagged/ruby.md), [geolocation](../tagged/geolocation.md)
+* :octocat: **[source code](https://github.com/cjheath/geoip)**
+---
+#### [Geokit](https://github.com/geokit/geokit)
+_<sup>https://github.com/geokit/geokit</sup>_
+
+Geokit gem provides geocoding and distance/heading calculations.
+* **tags**: [ruby](../tagged/ruby.md), [geolocation](../tagged/geolocation.md)
+* :octocat: **[source code](https://github.com/geokit/geokit)**
+---
+#### [Google Maps for Rails](https://github.com/apneadiving/Google-Maps-for-Rails)
+_<sup>https://github.com/apneadiving/Google-Maps-for-Rails</sup>_
+
+Enables easy Google map + overlays creation in Ruby apps.
+* **tags**: [ruby](../tagged/ruby.md), [geolocation](../tagged/geolocation.md)
+* :octocat: **[source code](https://github.com/apneadiving/Google-Maps-for-Rails)**
+---
+#### [rgeo](https://github.com/rgeo/rgeo)
+_<sup>https://github.com/rgeo/rgeo</sup>_
+
+Geospatial data library. Spatial data types, geometric and spherical calculations, and WKT/WKB serialization.
+* **tags**: [ruby](../tagged/ruby.md), [geolocation](../tagged/geolocation.md)
+* :octocat: **[source code](https://github.com/rgeo/rgeo)**
+---
 #### [django-countries](https://github.com/SmileyChris/django-countries)
 _<sup>https://github.com/SmileyChris/django-countries</sup>_
 
