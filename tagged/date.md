@@ -2,6 +2,118 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/date](https://www.bookmarks.dev/tagged/date)</sup></sup>_
 ---
+#### [carbon](https://github.com/uniplaces/carbon)
+_<sup>https://github.com/uniplaces/carbon</sup>_
+
+Simple Time extension with a lot of util methods, ported from PHP Carbon library.
+* **tags**: [go](../tagged/go.md), [date](../tagged/date.md), [time](../tagged/time.md)
+* :octocat: **[source code](https://github.com/uniplaces/carbon)**
+---
+#### [date](https://github.com/rickb777/date)
+_<sup>https://github.com/rickb777/date</sup>_
+
+Augments Time for working with dates, date ranges, time spans, periods, and time-of-day.
+* **tags**: [go](../tagged/go.md), [date](../tagged/date.md), [time](../tagged/time.md)
+* :octocat: **[source code](https://github.com/rickb777/date)**
+---
+#### [dateparse](https://github.com/araddon/dateparse)
+_<sup>https://github.com/araddon/dateparse</sup>_
+
+Parse date's without knowing format in advance.
+* **tags**: [go](../tagged/go.md), [date](../tagged/date.md), [time](../tagged/time.md)
+* :octocat: **[source code](https://github.com/araddon/dateparse)**
+---
+#### [durafmt](https://github.com/hako/durafmt)
+_<sup>https://github.com/hako/durafmt</sup>_
+
+Time duration formatting library for Go.
+* **tags**: [go](../tagged/go.md), [date](../tagged/date.md), [time](../tagged/time.md)
+* :octocat: **[source code](https://github.com/hako/durafmt)**
+---
+#### [feiertage](https://github.com/wlbr/feiertage)
+_<sup>https://github.com/wlbr/feiertage</sup>_
+
+Set of functions to calculate public holidays in Germany, incl. specialization on the states of Germany (Bundesländer). Things like Easter, Pentecost, Thanksgiving...
+* **tags**: [go](../tagged/go.md), [date](../tagged/date.md), [time](../tagged/time.md)
+* :octocat: **[source code](https://github.com/wlbr/feiertage)**
+---
+#### [go-persian-calendar](https://github.com/yaa110/go-persian-calendar)
+_<sup>https://github.com/yaa110/go-persian-calendar</sup>_
+
+The implementation of the Persian (Solar Hijri) Calendar in Go (golang).
+* **tags**: [go](../tagged/go.md), [date](../tagged/date.md), [time](../tagged/time.md)
+* :octocat: **[source code](https://github.com/yaa110/go-persian-calendar)**
+---
+#### [go-sunrise](https://github.com/nathan-osman/go-sunrise)
+_<sup>https://github.com/nathan-osman/go-sunrise</sup>_
+
+Calculate the sunrise and sunset times for a given location.
+* **tags**: [go](../tagged/go.md), [date](../tagged/date.md), [time](../tagged/time.md)
+* :octocat: **[source code](https://github.com/nathan-osman/go-sunrise)**
+---
+#### [goweek](https://github.com/grsmv/goweek)
+_<sup>https://github.com/grsmv/goweek</sup>_
+
+Library for working with week entity in golang.
+* **tags**: [go](../tagged/go.md), [date](../tagged/date.md), [time](../tagged/time.md)
+* :octocat: **[source code](https://github.com/grsmv/goweek)**
+---
+#### [iso8601](https://github.com/relvacode/iso8601)
+_<sup>https://github.com/relvacode/iso8601</sup>_
+
+Efficiently parse ISO8601 date-times without regex.
+* **tags**: [go](../tagged/go.md), [date](../tagged/date.md), [time](../tagged/time.md)
+* :octocat: **[source code](https://github.com/relvacode/iso8601)**
+---
+#### [kair](https://github.com/GuilhermeCaruso/kair)
+_<sup>https://github.com/GuilhermeCaruso/kair</sup>_
+
+Date and Time - Golang Formatting Library.
+* **tags**: [go](../tagged/go.md), [date](../tagged/date.md), [time](../tagged/time.md)
+* :octocat: **[source code](https://github.com/GuilhermeCaruso/kair)**
+---
+#### [now](https://github.com/jinzhu/now)
+_<sup>https://github.com/jinzhu/now</sup>_
+
+Now is a time toolkit for golang.
+* **tags**: [go](../tagged/go.md), [date](../tagged/date.md), [time](../tagged/time.md)
+* :octocat: **[source code](https://github.com/jinzhu/now)**
+---
+#### [NullTime](https://github.com/kirillDanshin/nulltime)
+_<sup>https://github.com/kirillDanshin/nulltime</sup>_
+
+Nullable `time.Time`.
+* **tags**: [go](../tagged/go.md), [date](../tagged/date.md), [time](../tagged/time.md)
+* :octocat: **[source code](https://github.com/kirillDanshin/nulltime)**
+---
+#### [strftime](https://github.com/awoodbeck/strftime)
+_<sup>https://github.com/awoodbeck/strftime</sup>_
+
+C99-compatible strftime formatter.
+* **tags**: [go](../tagged/go.md), [date](../tagged/date.md), [time](../tagged/time.md)
+* :octocat: **[source code](https://github.com/awoodbeck/strftime)**
+---
+#### [timespan](https://github.com/SaidinWoT/timespan)
+_<sup>https://github.com/SaidinWoT/timespan</sup>_
+
+For interacting with intervals of time, defined as a start time and a duration.
+* **tags**: [go](../tagged/go.md), [date](../tagged/date.md), [time](../tagged/time.md)
+* :octocat: **[source code](https://github.com/SaidinWoT/timespan)**
+---
+#### [timeutil](https://github.com/leekchan/timeutil)
+_<sup>https://github.com/leekchan/timeutil</sup>_
+
+Useful extensions (Timedelta, Strftime, ...) to the golang's time package.
+* **tags**: [go](../tagged/go.md), [date](../tagged/date.md), [time](../tagged/time.md)
+* :octocat: **[source code](https://github.com/leekchan/timeutil)**
+---
+#### [tuesday](https://github.com/osteele/tuesday)
+_<sup>https://github.com/osteele/tuesday</sup>_
+
+Ruby-compatible Strftime function.
+* **tags**: [go](../tagged/go.md), [date](../tagged/date.md), [time](../tagged/time.md)
+* :octocat: **[source code](https://github.com/osteele/tuesday)**
+---
 #### [biz](https://github.com/zendesk/biz)
 _<sup>https://github.com/zendesk/biz</sup>_
 

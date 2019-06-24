@@ -2,6 +2,125 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/orm](https://www.bookmarks.dev/tagged/orm)</sup></sup>_
 ---
+#### [beego orm](https://github.com/astaxie/beego/tree/master/orm)
+_<sup>https://github.com/astaxie/beego/tree/master/orm</sup>_
+
+Powerful orm framework for go. Support: pq/mysql/sqlite3.
+* **tags**: [go](../tagged/go.md), [orm](../tagged/orm.md)
+* :octocat: **[source code](https://github.com/astaxie/beego/tree/master/orm)**
+---
+#### [go-pg](https://github.com/go-pg/pg)
+_<sup>https://github.com/go-pg/pg</sup>_
+
+PostgreSQL ORM with focus on PostgreSQL specific features and performance.
+* **tags**: [go](../tagged/go.md), [orm](../tagged/orm.md)
+* :octocat: **[source code](https://github.com/go-pg/pg)**
+---
+#### [go-queryset](https://github.com/jirfag/go-queryset)
+_<sup>https://github.com/jirfag/go-queryset</sup>_
+
+100% type-safe ORM with code generation and MySQL, PostgreSQL, Sqlite3, SQL Server support based on GORM.
+* **tags**: [go](../tagged/go.md), [orm](../tagged/orm.md)
+* :octocat: **[source code](https://github.com/jirfag/go-queryset)**
+---
+#### [go-sqlbuilder](https://github.com/huandu/go-sqlbuilder)
+_<sup>https://github.com/huandu/go-sqlbuilder</sup>_
+
+A flexible and powerful SQL string builder library plus a zero-config ORM.
+* **tags**: [go](../tagged/go.md), [orm](../tagged/orm.md)
+* :octocat: **[source code](https://github.com/huandu/go-sqlbuilder)**
+---
+#### [go-store](https://github.com/gosuri/go-store)
+_<sup>https://github.com/gosuri/go-store</sup>_
+
+Simple and fast Redis backed key-value store library for Go.
+* **tags**: [go](../tagged/go.md), [orm](../tagged/orm.md)
+* :octocat: **[source code](https://github.com/gosuri/go-store)**
+---
+#### [GORM](https://github.com/jinzhu/gorm)
+_<sup>https://github.com/jinzhu/gorm</sup>_
+
+The fantastic ORM library for Golang, aims to be developer friendly.
+* **tags**: [go](../tagged/go.md), [orm](../tagged/orm.md)
+* :octocat: **[source code](https://github.com/jinzhu/gorm)**
+---
+#### [gorp](https://github.com/go-gorp/gorp)
+_<sup>https://github.com/go-gorp/gorp</sup>_
+
+Go Relational Persistence, ORM-ish library for Go.
+* **tags**: [go](../tagged/go.md), [orm](../tagged/orm.md)
+* :octocat: **[source code](https://github.com/go-gorp/gorp)**
+---
+#### [grimoire](https://github.com/Fs02/grimoire)
+_<sup>https://github.com/Fs02/grimoire</sup>_
+
+Grimoire is a database access layer and validation for golang. (Support: MySQL, PostgreSQL and SQLite3).
+* **tags**: [go](../tagged/go.md), [orm](../tagged/orm.md)
+* :octocat: **[source code](https://github.com/Fs02/grimoire)**
+---
+#### [lore](https://github.com/abrahambotros/lore)
+_<sup>https://github.com/abrahambotros/lore</sup>_
+
+Simple and lightweight pseudo-ORM/pseudo-struct-mapping environment for Go.
+* **tags**: [go](../tagged/go.md), [orm](../tagged/orm.md)
+* :octocat: **[source code](https://github.com/abrahambotros/lore)**
+---
+#### [Marlow](https://github.com/dadleyy/marlow)
+_<sup>https://github.com/dadleyy/marlow</sup>_
+
+Generated ORM from project structs for compile time safety assurances.
+* **tags**: [go](../tagged/go.md), [orm](../tagged/orm.md)
+* :octocat: **[source code](https://github.com/dadleyy/marlow)**
+---
+#### [pop/soda](https://github.com/gobuffalo/pop)
+_<sup>https://github.com/gobuffalo/pop</sup>_
+
+Database migration, creation, ORM, etc... for MySQL, PostgreSQL, and SQLite.
+* **tags**: [go](../tagged/go.md), [orm](../tagged/orm.md)
+* :octocat: **[source code](https://github.com/gobuffalo/pop)**
+---
+#### [QBS](https://github.com/coocood/qbs)
+_<sup>https://github.com/coocood/qbs</sup>_
+
+Stands for Query By Struct. A Go ORM.
+* **tags**: [go](../tagged/go.md), [orm](../tagged/orm.md)
+* :octocat: **[source code](https://github.com/coocood/qbs)**
+---
+#### [reform](https://github.com/go-reform/reform)
+_<sup>https://github.com/go-reform/reform</sup>_
+
+Better ORM for Go, based on non-empty interfaces and code generation.
+* **tags**: [go](../tagged/go.md), [orm](../tagged/orm.md)
+* :octocat: **[source code](https://github.com/go-reform/reform)**
+---
+#### [SQLBoiler](https://github.com/volatiletech/sqlboiler)
+_<sup>https://github.com/volatiletech/sqlboiler</sup>_
+
+ORM generator. Generate a featureful and blazing-fast ORM tailored to your database schema.
+* **tags**: [go](../tagged/go.md), [orm](../tagged/orm.md)
+* :octocat: **[source code](https://github.com/volatiletech/sqlboiler)**
+---
+#### [upper.io/db](https://github.com/upper/db)
+_<sup>https://github.com/upper/db</sup>_
+
+Single interface for interacting with different data sources through the use of adapters that wrap mature database drivers.
+* **tags**: [go](../tagged/go.md), [orm](../tagged/orm.md)
+* :octocat: **[source code](https://github.com/upper/db)**
+---
+#### [Xorm](https://github.com/go-xorm/xorm)
+_<sup>https://github.com/go-xorm/xorm</sup>_
+
+Simple and powerful ORM for Go.
+* **tags**: [go](../tagged/go.md), [orm](../tagged/orm.md)
+* :octocat: **[source code](https://github.com/go-xorm/xorm)**
+---
+#### [Zoom](https://github.com/albrow/zoom)
+_<sup>https://github.com/albrow/zoom</sup>_
+
+Blazing-fast datastore and querying engine built on Redis.
+* **tags**: [go](../tagged/go.md), [orm](../tagged/orm.md)
+* :octocat: **[source code](https://github.com/albrow/zoom)**
+---
 #### [ActiveRecord](https://github.com/rails/rails/tree/master/activerecord)
 _<sup>https://github.com/rails/rails/tree/master/activerecord</sup>_
 

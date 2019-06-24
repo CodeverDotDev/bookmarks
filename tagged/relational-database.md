@@ -2,6 +2,90 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/relational-database](https://www.bookmarks.dev/tagged/relational-database)</sup></sup>_
 ---
+#### [avatica](https://github.com/apache/calcite-avatica-go)
+_<sup>https://github.com/apache/calcite-avatica-go</sup>_
+
+Apache Avatica/Phoenix SQL driver for database/sql.
+* **tags**: [go](../tagged/go.md), [database-drivers](../tagged/database-drivers.md), [relational-database](../tagged/relational-database.md)
+* :octocat: **[source code](https://github.com/apache/calcite-avatica-go)**
+---
+#### [bgc](https://github.com/viant/bgc)
+_<sup>https://github.com/viant/bgc</sup>_
+
+Datastore Connectivity for BigQuery for go.
+* **tags**: [go](../tagged/go.md), [database-drivers](../tagged/database-drivers.md), [relational-database](../tagged/relational-database.md)
+* :octocat: **[source code](https://github.com/viant/bgc)**
+---
+#### [firebirdsql](https://github.com/nakagami/firebirdsql)
+_<sup>https://github.com/nakagami/firebirdsql</sup>_
+
+Firebird RDBMS SQL driver for Go.
+* **tags**: [go](../tagged/go.md), [database-drivers](../tagged/database-drivers.md), [relational-database](../tagged/relational-database.md)
+* :octocat: **[source code](https://github.com/nakagami/firebirdsql)**
+---
+#### [go-adodb](https://github.com/mattn/go-adodb)
+_<sup>https://github.com/mattn/go-adodb</sup>_
+
+Microsoft ActiveX Object DataBase driver for go that uses database/sql.
+* **tags**: [go](../tagged/go.md), [database-drivers](../tagged/database-drivers.md), [relational-database](../tagged/relational-database.md)
+* :octocat: **[source code](https://github.com/mattn/go-adodb)**
+---
+#### [go-mssqldb](https://github.com/denisenkom/go-mssqldb)
+_<sup>https://github.com/denisenkom/go-mssqldb</sup>_
+
+Microsoft MSSQL driver for Go.
+* **tags**: [go](../tagged/go.md), [database-drivers](../tagged/database-drivers.md), [relational-database](../tagged/relational-database.md)
+* :octocat: **[source code](https://github.com/denisenkom/go-mssqldb)**
+---
+#### [go-oci8](https://github.com/mattn/go-oci8)
+_<sup>https://github.com/mattn/go-oci8</sup>_
+
+Oracle driver for go that uses database/sql.
+* **tags**: [go](../tagged/go.md), [database-drivers](../tagged/database-drivers.md), [relational-database](../tagged/relational-database.md)
+* :octocat: **[source code](https://github.com/mattn/go-oci8)**
+---
+#### [go-sql-driver/mysql](https://github.com/go-sql-driver/mysql)
+_<sup>https://github.com/go-sql-driver/mysql</sup>_
+
+MySQL driver for Go.
+* **tags**: [go](../tagged/go.md), [database-drivers](../tagged/database-drivers.md), [relational-database](../tagged/relational-database.md)
+* :octocat: **[source code](https://github.com/go-sql-driver/mysql)**
+---
+#### [go-sqlite3](https://github.com/mattn/go-sqlite3)
+_<sup>https://github.com/mattn/go-sqlite3</sup>_
+
+SQLite3 driver for go that uses database/sql.
+* **tags**: [go](../tagged/go.md), [database-drivers](../tagged/database-drivers.md), [relational-database](../tagged/relational-database.md)
+* :octocat: **[source code](https://github.com/mattn/go-sqlite3)**
+---
+#### [gofreetds](https://github.com/minus5/gofreetds)
+_<sup>https://github.com/minus5/gofreetds</sup>_
+
+Microsoft MSSQL driver. Go wrapper over [FreeTDS](http://www.freetds.org).
+* **tags**: [go](../tagged/go.md), [database-drivers](../tagged/database-drivers.md), [relational-database](../tagged/relational-database.md)
+* :octocat: **[source code](https://github.com/minus5/gofreetds)**
+---
+#### [goracle](https://github.com/go-goracle/goracle)
+_<sup>https://github.com/go-goracle/goracle</sup>_
+
+Oracle driver for Go, using the ODPI-C driver.
+* **tags**: [go](../tagged/go.md), [database-drivers](../tagged/database-drivers.md), [relational-database](../tagged/relational-database.md)
+* :octocat: **[source code](https://github.com/go-goracle/goracle)**
+---
+#### [pgx](https://github.com/jackc/pgx)
+_<sup>https://github.com/jackc/pgx</sup>_
+
+PostgreSQL driver supporting features beyond those exposed by database/sql.
+* **tags**: [go](../tagged/go.md), [database-drivers](../tagged/database-drivers.md), [relational-database](../tagged/relational-database.md)
+* :octocat: **[source code](https://github.com/jackc/pgx)**
+---
+#### [pq](https://github.com/lib/pq)
+_<sup>https://github.com/lib/pq</sup>_
+
+Pure Go Postgres driver for database/sql.
+* **tags**: [go](../tagged/go.md), [database-drivers](../tagged/database-drivers.md), [relational-database](../tagged/relational-database.md)
+* :octocat: **[source code](https://github.com/lib/pq)**
+---
 #### [Django Models](https://docs.djangoproject.com/en/dev/topics/db/models/)
 _<sup>https://docs.djangoproject.com/en/dev/topics/db/models/</sup>_
 

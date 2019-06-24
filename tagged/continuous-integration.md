@@ -2,6 +2,48 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/continuous-integration](https://www.bookmarks.dev/tagged/continuous-integration)</sup></sup>_
 ---
+#### [drone](https://github.com/drone/drone)
+_<sup>https://github.com/drone/drone</sup>_
+
+Drone is a Continuous Integration platform built on Docker, written in Go.
+* **tags**: [go](../tagged/go.md), [continuous-integration](../tagged/continuous-integration.md)
+* :octocat: **[source code](https://github.com/drone/drone)**
+---
+#### [duci](https://github.com/duck8823/duci)
+_<sup>https://github.com/duck8823/duci</sup>_
+
+A simple ci server no needs domain specific languages.
+* **tags**: [go](../tagged/go.md), [continuous-integration](../tagged/continuous-integration.md)
+* :octocat: **[source code](https://github.com/duck8823/duci)**
+---
+#### [gomason](https://github.com/nikogura/gomason)
+_<sup>https://github.com/nikogura/gomason</sup>_
+
+Test, Build, Sign, and Publish your go binaries from a clean workspace.
+* **tags**: [go](../tagged/go.md), [continuous-integration](../tagged/continuous-integration.md)
+* :octocat: **[source code](https://github.com/nikogura/gomason)**
+---
+#### [goveralls](https://github.com/mattn/goveralls)
+_<sup>https://github.com/mattn/goveralls</sup>_
+
+Go integration for Coveralls.io continuous code coverage tracking system.
+* **tags**: [go](../tagged/go.md), [continuous-integration](../tagged/continuous-integration.md)
+* :octocat: **[source code](https://github.com/mattn/goveralls)**
+---
+#### [overalls](https://github.com/go-playground/overalls)
+_<sup>https://github.com/go-playground/overalls</sup>_
+
+Multi-Package go project coverprofile for tools like goveralls.
+* **tags**: [go](../tagged/go.md), [continuous-integration](../tagged/continuous-integration.md)
+* :octocat: **[source code](https://github.com/go-playground/overalls)**
+---
+#### [roveralls](https://github.com/LawrenceWoodman/roveralls)
+_<sup>https://github.com/LawrenceWoodman/roveralls</sup>_
+
+Recursive coverage testing tool.
+* **tags**: [go](../tagged/go.md), [continuous-integration](../tagged/continuous-integration.md)
+* :octocat: **[source code](https://github.com/LawrenceWoodman/roveralls)**
+---
 #### [CircleCI](https://circleci.com/)
 _<sup>https://circleci.com/</sup>_
 

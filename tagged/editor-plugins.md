@@ -2,6 +2,102 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/editor-plugins](https://www.bookmarks.dev/tagged/editor-plugins)</sup></sup>_
 ---
+#### [Go plugin for JetBrains IDEs](https://plugins.jetbrains.com/plugin/9568-go)
+_<sup>https://plugins.jetbrains.com/plugin/9568-go</sup>_
+
+Go plugin for JetBrains IDEs.
+* **tags**: [go](../tagged/go.md), [editor-plugins](../tagged/editor-plugins.md)
+---
+#### [go-language-server](https://github.com/theia-ide/go-language-server)
+_<sup>https://github.com/theia-ide/go-language-server</sup>_
+
+A wrapper to turn the VSCode go extension into a language server supporting the language-server-protocol.
+* **tags**: [go](../tagged/go.md), [editor-plugins](../tagged/editor-plugins.md)
+* :octocat: **[source code](https://github.com/theia-ide/go-language-server)**
+---
+#### [go-mode](https://github.com/dominikh/go-mode.el)
+_<sup>https://github.com/dominikh/go-mode.el</sup>_
+
+Go mode for GNU/Emacs.
+* **tags**: [go](../tagged/go.md), [editor-plugins](../tagged/editor-plugins.md)
+* :octocat: **[source code](https://github.com/dominikh/go-mode.el)**
+---
+#### [go-plus](https://github.com/joefitzgerald/go-plus)
+_<sup>https://github.com/joefitzgerald/go-plus</sup>_
+
+Go (Golang) Package For Atom That Adds Autocomplete, Formatting, Syntax Checking, Linting and Vetting.
+* **tags**: [go](../tagged/go.md), [editor-plugins](../tagged/editor-plugins.md)
+* :octocat: **[source code](https://github.com/joefitzgerald/go-plus)**
+---
+#### [gocode](https://github.com/nsf/gocode)
+_<sup>https://github.com/nsf/gocode</sup>_
+
+Autocompletion daemon for the Go programming language.
+* **tags**: [go](../tagged/go.md), [editor-plugins](../tagged/editor-plugins.md)
+* :octocat: **[source code](https://github.com/nsf/gocode)**
+---
+#### [goprofiling](https://marketplace.visualstudio.com/items?itemName=MaxMedia.go-prof)
+_<sup>https://marketplace.visualstudio.com/items?itemName=MaxMedia.go-prof</sup>_
+
+This extension adds benchmark profiling support for the Go language to VS Code.
+* **tags**: [go](../tagged/go.md), [editor-plugins](../tagged/editor-plugins.md)
+---
+#### [GoSublime](https://github.com/DisposaBoy/GoSublime)
+_<sup>https://github.com/DisposaBoy/GoSublime</sup>_
+
+Golang plugin collection for the text editor SublimeText 3 providing code completion and other IDE-like features.
+* **tags**: [go](../tagged/go.md), [editor-plugins](../tagged/editor-plugins.md)
+* :octocat: **[source code](https://github.com/DisposaBoy/GoSublime)**
+---
+#### [gounit-vim](https://github.com/hexdigest/gounit-vim)
+_<sup>https://github.com/hexdigest/gounit-vim</sup>_
+
+Vim plugin for generating Go tests based on the function's or method's signature.
+* **tags**: [go](../tagged/go.md), [editor-plugins](../tagged/editor-plugins.md)
+* :octocat: **[source code](https://github.com/hexdigest/gounit-vim)**
+---
+#### [theia-go-extension](https://github.com/theia-ide/theia-go-extension)
+_<sup>https://github.com/theia-ide/theia-go-extension</sup>_
+
+Go language support for the Theia IDE.
+* **tags**: [go](../tagged/go.md), [editor-plugins](../tagged/editor-plugins.md)
+* :octocat: **[source code](https://github.com/theia-ide/theia-go-extension)**
+---
+#### [velour](https://github.com/velour/velour)
+_<sup>https://github.com/velour/velour</sup>_
+
+IRC client for the acme editor.
+* **tags**: [go](../tagged/go.md), [editor-plugins](../tagged/editor-plugins.md)
+* :octocat: **[source code](https://github.com/velour/velour)**
+---
+#### [vim-compiler-go](https://github.com/rjohnsondev/vim-compiler-go)
+_<sup>https://github.com/rjohnsondev/vim-compiler-go</sup>_
+
+Vim plugin to highlight syntax errors on save.
+* **tags**: [go](../tagged/go.md), [editor-plugins](../tagged/editor-plugins.md)
+* :octocat: **[source code](https://github.com/rjohnsondev/vim-compiler-go)**
+---
+#### [vim-go](https://github.com/fatih/vim-go)
+_<sup>https://github.com/fatih/vim-go</sup>_
+
+Go development plugin for Vim.
+* **tags**: [go](../tagged/go.md), [editor-plugins](../tagged/editor-plugins.md)
+* :octocat: **[source code](https://github.com/fatih/vim-go)**
+---
+#### [vscode-go](https://github.com/Microsoft/vscode-go)
+_<sup>https://github.com/Microsoft/vscode-go</sup>_
+
+Extension for Visual Studio Code (VS Code) which provides support for the Go language.
+* **tags**: [go](../tagged/go.md), [editor-plugins](../tagged/editor-plugins.md)
+* :octocat: **[source code](https://github.com/Microsoft/vscode-go)**
+---
+#### [Watch](https://github.com/eaburns/Watch)
+_<sup>https://github.com/eaburns/Watch</sup>_
+
+Runs a command in an acme win on file changes.
+* **tags**: [go](../tagged/go.md), [editor-plugins](../tagged/editor-plugins.md)
+* :octocat: **[source code](https://github.com/eaburns/Watch)**
+---
 #### [elpy](https://github.com/jorgenschaefer/elpy)
 _<sup>https://github.com/jorgenschaefer/elpy</sup>_
 

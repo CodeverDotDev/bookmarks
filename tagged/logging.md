@@ -2,6 +2,293 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/logging](https://www.bookmarks.dev/tagged/logging)</sup></sup>_
 ---
+#### [distillog](https://github.com/amoghe/distillog)
+_<sup>https://github.com/amoghe/distillog</sup>_
+
+distilled levelled logging (think of it as stdlib + log levels).
+* **tags**: [go](../tagged/go.md), [logging](../tagged/logging.md)
+* :octocat: **[source code](https://github.com/amoghe/distillog)**
+---
+#### [glg](https://github.com/kpango/glg)
+_<sup>https://github.com/kpango/glg</sup>_
+
+glg is simple and fast leveled logging library for Go.
+* **tags**: [go](../tagged/go.md), [logging](../tagged/logging.md)
+* :octocat: **[source code](https://github.com/kpango/glg)**
+---
+#### [glo](https://github.com/lajosbencz/glo)
+_<sup>https://github.com/lajosbencz/glo</sup>_
+
+PHP Monolog inspired logging facility with identical severity levels.
+* **tags**: [go](../tagged/go.md), [logging](../tagged/logging.md)
+* :octocat: **[source code](https://github.com/lajosbencz/glo)**
+---
+#### [glog](https://github.com/golang/glog)
+_<sup>https://github.com/golang/glog</sup>_
+
+Leveled execution logs for Go.
+* **tags**: [go](../tagged/go.md), [logging](../tagged/logging.md)
+* :octocat: **[source code](https://github.com/golang/glog)**
+---
+#### [go-cronowriter](https://github.com/utahta/go-cronowriter)
+_<sup>https://github.com/utahta/go-cronowriter</sup>_
+
+Simple writer that rotate log files automatically based on current date and time, like cronolog.
+* **tags**: [go](../tagged/go.md), [logging](../tagged/logging.md)
+* :octocat: **[source code](https://github.com/utahta/go-cronowriter)**
+---
+#### [go-log](https://github.com/subchen/go-log)
+_<sup>https://github.com/subchen/go-log</sup>_
+
+Simple and configurable Logging in Go, with level, formatters and writers.
+* **tags**: [go](../tagged/go.md), [logging](../tagged/logging.md)
+* :octocat: **[source code](https://github.com/subchen/go-log)**
+---
+#### [go-log](https://github.com/siddontang/go-log)
+_<sup>https://github.com/siddontang/go-log</sup>_
+
+Log lib supports level and multi handlers.
+* **tags**: [go](../tagged/go.md), [logging](../tagged/logging.md)
+* :octocat: **[source code](https://github.com/siddontang/go-log)**
+---
+#### [go-log](https://github.com/ian-kent/go-log)
+_<sup>https://github.com/ian-kent/go-log</sup>_
+
+Log4j implementation in Go.
+* **tags**: [go](../tagged/go.md), [logging](../tagged/logging.md)
+* :octocat: **[source code](https://github.com/ian-kent/go-log)**
+---
+#### [go-logger](https://github.com/apsdehal/go-logger)
+_<sup>https://github.com/apsdehal/go-logger</sup>_
+
+Simple logger of Go Programs, with level handlers.
+* **tags**: [go](../tagged/go.md), [logging](../tagged/logging.md)
+* :octocat: **[source code](https://github.com/apsdehal/go-logger)**
+---
+#### [gologger](https://github.com/sadlil/gologger)
+_<sup>https://github.com/sadlil/gologger</sup>_
+
+Simple easy to use log lib for go, logs in Colored Console, Simple Console, File or Elasticsearch.
+* **tags**: [go](../tagged/go.md), [logging](../tagged/logging.md)
+* :octocat: **[source code](https://github.com/sadlil/gologger)**
+---
+#### [gomol](https://github.com/aphistic/gomol)
+_<sup>https://github.com/aphistic/gomol</sup>_
+
+Multiple-output, structured logging for Go with extensible logging outputs.
+* **tags**: [go](../tagged/go.md), [logging](../tagged/logging.md)
+* :octocat: **[source code](https://github.com/aphistic/gomol)**
+---
+#### [gone/log](https://github.com/One-com/gone/tree/master/log)
+_<sup>https://github.com/One-com/gone/tree/master/log</sup>_
+
+Fast, extendable, full-featured, std-lib source compatible log library.
+* **tags**: [go](../tagged/go.md), [logging](../tagged/logging.md)
+* :octocat: **[source code](https://github.com/One-com/gone/tree/master/log)**
+---
+#### [journald](https://github.com/ssgreg/journald)
+_<sup>https://github.com/ssgreg/journald</sup>_
+
+Go implementation of systemd Journal's native API for logging.
+* **tags**: [go](../tagged/go.md), [logging](../tagged/logging.md)
+* :octocat: **[source code](https://github.com/ssgreg/journald)**
+---
+#### [log](https://github.com/aerogo/log)
+_<sup>https://github.com/aerogo/log</sup>_
+
+An O(1) logging system that allows you to connect one log to multiple writers (e.g. stdout, a file and a TCP connection).
+* **tags**: [go](../tagged/go.md), [logging](../tagged/logging.md)
+* :octocat: **[source code](https://github.com/aerogo/log)**
+---
+#### [log](https://github.com/apex/log)
+_<sup>https://github.com/apex/log</sup>_
+
+Structured logging package for Go.
+* **tags**: [go](../tagged/go.md), [logging](../tagged/logging.md)
+* :octocat: **[source code](https://github.com/apex/log)**
+---
+#### [log](https://github.com/go-playground/log)
+_<sup>https://github.com/go-playground/log</sup>_
+
+Simple, configurable and scalable Structured Logging for Go.
+* **tags**: [go](../tagged/go.md), [logging](../tagged/logging.md)
+* :octocat: **[source code](https://github.com/go-playground/log)**
+---
+#### [log](https://github.com/teris-io/log)
+_<sup>https://github.com/teris-io/log</sup>_
+
+Structured log interface for Go cleanly separates logging facade from its implementation.
+* **tags**: [go](../tagged/go.md), [logging](../tagged/logging.md)
+* :octocat: **[source code](https://github.com/teris-io/log)**
+---
+#### [log-voyage](https://github.com/firstrow/logvoyage)
+_<sup>https://github.com/firstrow/logvoyage</sup>_
+
+Full-featured logging saas written in golang.
+* **tags**: [go](../tagged/go.md), [logging](../tagged/logging.md)
+* :octocat: **[source code](https://github.com/firstrow/logvoyage)**
+---
+#### [log15](https://github.com/inconshreveable/log15)
+_<sup>https://github.com/inconshreveable/log15</sup>_
+
+Simple, powerful logging for Go.
+* **tags**: [go](../tagged/go.md), [logging](../tagged/logging.md)
+* :octocat: **[source code](https://github.com/inconshreveable/log15)**
+---
+#### [logdump](https://github.com/ewwwwwqm/logdump)
+_<sup>https://github.com/ewwwwwqm/logdump</sup>_
+
+Package for multi-level logging.
+* **tags**: [go](../tagged/go.md), [logging](../tagged/logging.md)
+* :octocat: **[source code](https://github.com/ewwwwwqm/logdump)**
+---
+#### [logex](https://github.com/chzyer/logex)
+_<sup>https://github.com/chzyer/logex</sup>_
+
+Golang log lib, supports tracking and level, wrap by standard log lib.
+* **tags**: [go](../tagged/go.md), [logging](../tagged/logging.md)
+* :octocat: **[source code](https://github.com/chzyer/logex)**
+---
+#### [logger](https://github.com/azer/logger)
+_<sup>https://github.com/azer/logger</sup>_
+
+Minimalistic logging library for Go.
+* **tags**: [go](../tagged/go.md), [logging](../tagged/logging.md)
+* :octocat: **[source code](https://github.com/azer/logger)**
+---
+#### [logmatic](https://github.com/borderstech/logmatic)
+_<sup>https://github.com/borderstech/logmatic</sup>_
+
+Colorized logger for Golang with dynamic log level configuration.
+* **tags**: [go](../tagged/go.md), [logging](../tagged/logging.md)
+* :octocat: **[source code](https://github.com/borderstech/logmatic)**
+---
+#### [logo](https://github.com/mbndr/logo)
+_<sup>https://github.com/mbndr/logo</sup>_
+
+Golang logger to different configurable writers.
+* **tags**: [go](../tagged/go.md), [logging](../tagged/logging.md)
+* :octocat: **[source code](https://github.com/mbndr/logo)**
+---
+#### [logrus](https://github.com/Sirupsen/logrus)
+_<sup>https://github.com/Sirupsen/logrus</sup>_
+
+Structured logger for Go.
+* **tags**: [go](../tagged/go.md), [logging](../tagged/logging.md)
+* :octocat: **[source code](https://github.com/Sirupsen/logrus)**
+---
+#### [logrusly](https://github.com/sebest/logrusly)
+_<sup>https://github.com/sebest/logrusly</sup>_
+
+[logrus](https://github.com/sirupsen/logrus) plug-in to send errors to a [Loggly](https://www.loggly.com/).
+* **tags**: [go](../tagged/go.md), [logging](../tagged/logging.md)
+* :octocat: **[source code](https://github.com/sebest/logrusly)**
+---
+#### [logutils](https://github.com/hashicorp/logutils)
+_<sup>https://github.com/hashicorp/logutils</sup>_
+
+Utilities for slightly better logging in Go (Golang) extending the standard logger.
+* **tags**: [go](../tagged/go.md), [logging](../tagged/logging.md)
+* :octocat: **[source code](https://github.com/hashicorp/logutils)**
+---
+#### [logxi](https://github.com/mgutz/logxi)
+_<sup>https://github.com/mgutz/logxi</sup>_
+
+12-factor app logger that is fast and makes you happy.
+* **tags**: [go](../tagged/go.md), [logging](../tagged/logging.md)
+* :octocat: **[source code](https://github.com/mgutz/logxi)**
+---
+#### [lumberjack](https://github.com/natefinch/lumberjack)
+_<sup>https://github.com/natefinch/lumberjack</sup>_
+
+Simple rolling logger, implements io.WriteCloser.
+* **tags**: [go](../tagged/go.md), [logging](../tagged/logging.md)
+* :octocat: **[source code](https://github.com/natefinch/lumberjack)**
+---
+#### [mlog](https://github.com/jbrodriguez/mlog)
+_<sup>https://github.com/jbrodriguez/mlog</sup>_
+
+Simple logging module for go, with 5 levels, an optional rotating logfile feature and stdout/stderr output.
+* **tags**: [go](../tagged/go.md), [logging](../tagged/logging.md)
+* :octocat: **[source code](https://github.com/jbrodriguez/mlog)**
+---
+#### [onelog](https://github.com/francoispqt/onelog)
+_<sup>https://github.com/francoispqt/onelog</sup>_
+
+Onelog is a dead simple but very efficient JSON logger. It is the fastest JSON logger out there in all scenario. Also, it is one of the logger with the lowest allocation.
+* **tags**: [go](../tagged/go.md), [logging](../tagged/logging.md)
+* :octocat: **[source code](https://github.com/francoispqt/onelog)**
+---
+#### [ozzo-log](https://github.com/go-ozzo/ozzo-log)
+_<sup>https://github.com/go-ozzo/ozzo-log</sup>_
+
+High performance logging supporting log severity, categorization, and filtering. Can send filtered log messages to various targets (e.g. console, network, mail).
+* **tags**: [go](../tagged/go.md), [logging](../tagged/logging.md)
+* :octocat: **[source code](https://github.com/go-ozzo/ozzo-log)**
+---
+#### [rollingwriter](https://github.com/arthurkiller/rollingWriter)
+_<sup>https://github.com/arthurkiller/rollingWriter</sup>_
+
+RollingWriter is an auto-rotate `io.Writer` implementation with multi policies to provide log file rotation.
+* **tags**: [go](../tagged/go.md), [logging](../tagged/logging.md)
+* :octocat: **[source code](https://github.com/arthurkiller/rollingWriter)**
+---
+#### [seelog](https://github.com/cihub/seelog)
+_<sup>https://github.com/cihub/seelog</sup>_
+
+Logging functionality with flexible dispatching, filtering, and formatting.
+* **tags**: [go](../tagged/go.md), [logging](../tagged/logging.md)
+* :octocat: **[source code](https://github.com/cihub/seelog)**
+---
+#### [spew](https://github.com/davecgh/go-spew)
+_<sup>https://github.com/davecgh/go-spew</sup>_
+
+Implements a deep pretty printer for Go data structures to aid in debugging.
+* **tags**: [go](../tagged/go.md), [logging](../tagged/logging.md)
+* :octocat: **[source code](https://github.com/davecgh/go-spew)**
+---
+#### [stdlog](https://github.com/alexcesaro/log)
+_<sup>https://github.com/alexcesaro/log</sup>_
+
+Stdlog is an object-oriented library providing leveled logging. It is very useful for cron jobs.
+* **tags**: [go](../tagged/go.md), [logging](../tagged/logging.md)
+* :octocat: **[source code](https://github.com/alexcesaro/log)**
+---
+#### [tail](https://github.com/hpcloud/tail)
+_<sup>https://github.com/hpcloud/tail</sup>_
+
+Go package striving to emulate the features of the BSD tail program.
+* **tags**: [go](../tagged/go.md), [logging](../tagged/logging.md)
+* :octocat: **[source code](https://github.com/hpcloud/tail)**
+---
+#### [xlog](https://github.com/xfxdev/xlog)
+_<sup>https://github.com/xfxdev/xlog</sup>_
+
+Plugin architecture and flexible log system for Go, with level ctrl, multiple log target and custom log format.
+* **tags**: [go](../tagged/go.md), [logging](../tagged/logging.md)
+* :octocat: **[source code](https://github.com/xfxdev/xlog)**
+---
+#### [xlog](https://github.com/rs/xlog)
+_<sup>https://github.com/rs/xlog</sup>_
+
+Structured logger for `net/context` aware HTTP handlers with flexible dispatching.
+* **tags**: [go](../tagged/go.md), [logging](../tagged/logging.md)
+* :octocat: **[source code](https://github.com/rs/xlog)**
+---
+#### [zap](https://github.com/uber-go/zap)
+_<sup>https://github.com/uber-go/zap</sup>_
+
+Fast, structured, leveled logging in Go.
+* **tags**: [go](../tagged/go.md), [logging](../tagged/logging.md)
+* :octocat: **[source code](https://github.com/uber-go/zap)**
+---
+#### [zerolog](https://github.com/rs/zerolog)
+_<sup>https://github.com/rs/zerolog</sup>_
+
+Zero-allocation JSON logger.
+* **tags**: [go](../tagged/go.md), [logging](../tagged/logging.md)
+* :octocat: **[source code](https://github.com/rs/zerolog)**
+---
 #### [Cabin](https://github.com/jordansissel/ruby-cabin)
 _<sup>https://github.com/jordansissel/ruby-cabin</sup>_
 

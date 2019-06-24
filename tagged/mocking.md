@@ -2,6 +2,76 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/mocking](https://www.bookmarks.dev/tagged/mocking)</sup></sup>_
 ---
+#### [counterfeiter](https://github.com/maxbrunsfeld/counterfeiter)
+_<sup>https://github.com/maxbrunsfeld/counterfeiter</sup>_
+
+Tool for generating self-contained mock objects.
+* **tags**: [go](../tagged/go.md), [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
+* :octocat: **[source code](https://github.com/maxbrunsfeld/counterfeiter)**
+---
+#### [go-sqlmock](https://github.com/DATA-DOG/go-sqlmock)
+_<sup>https://github.com/DATA-DOG/go-sqlmock</sup>_
+
+Mock SQL driver for testing database interactions.
+* **tags**: [go](../tagged/go.md), [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
+* :octocat: **[source code](https://github.com/DATA-DOG/go-sqlmock)**
+---
+#### [go-txdb](https://github.com/DATA-DOG/go-txdb)
+_<sup>https://github.com/DATA-DOG/go-txdb</sup>_
+
+Single transaction based database driver mainly for testing purposes.
+* **tags**: [go](../tagged/go.md), [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
+* :octocat: **[source code](https://github.com/DATA-DOG/go-txdb)**
+---
+#### [gock](https://github.com/h2non/gock)
+_<sup>https://github.com/h2non/gock</sup>_
+
+Versatile HTTP mocking made easy.
+* **tags**: [go](../tagged/go.md), [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
+* :octocat: **[source code](https://github.com/h2non/gock)**
+---
+#### [gomock](https://github.com/golang/mock)
+_<sup>https://github.com/golang/mock</sup>_
+
+Mocking framework for the Go programming language.
+* **tags**: [go](../tagged/go.md), [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
+* :octocat: **[source code](https://github.com/golang/mock)**
+---
+#### [govcr](https://github.com/seborama/govcr)
+_<sup>https://github.com/seborama/govcr</sup>_
+
+HTTP mock for Golang: record and replay HTTP interactions for offline testing.
+* **tags**: [go](../tagged/go.md), [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
+* :octocat: **[source code](https://github.com/seborama/govcr)**
+---
+#### [hoverfly](https://github.com/SpectoLabs/hoverfly)
+_<sup>https://github.com/SpectoLabs/hoverfly</sup>_
+
+HTTP(S) proxy for recording and simulating REST/SOAP APIs with extensible middleware and easy-to-use CLI.
+* **tags**: [go](../tagged/go.md), [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
+* :octocat: **[source code](https://github.com/SpectoLabs/hoverfly)**
+---
+#### [httpmock](https://github.com/jarcoal/httpmock)
+_<sup>https://github.com/jarcoal/httpmock</sup>_
+
+Easy mocking of HTTP responses from external resources.
+* **tags**: [go](../tagged/go.md), [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
+* :octocat: **[source code](https://github.com/jarcoal/httpmock)**
+---
+#### [minimock](https://github.com/gojuno/minimock)
+_<sup>https://github.com/gojuno/minimock</sup>_
+
+Mock generator for Go interfaces.
+* **tags**: [go](../tagged/go.md), [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
+* :octocat: **[source code](https://github.com/gojuno/minimock)**
+---
+#### [mockhttp](https://github.com/tv42/mockhttp)
+_<sup>https://github.com/tv42/mockhttp</sup>_
+
+Mock object for Go http.ResponseWriter.
+* **tags**: [go](../tagged/go.md), [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
+* :octocat: **[source code](https://github.com/tv42/mockhttp)**
+---
 #### [doublex](https://pypi.python.org/pypi/doublex)
 _<sup>https://pypi.python.org/pypi/doublex</sup>_
 

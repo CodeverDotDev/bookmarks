@@ -2,6 +2,55 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/http-client](https://www.bookmarks.dev/tagged/http-client)</sup></sup>_
 ---
+#### [gentleman](https://github.com/h2non/gentleman)
+_<sup>https://github.com/h2non/gentleman</sup>_
+
+Full-featured plugin-driven HTTP client library.
+* **tags**: [go](../tagged/go.md), [http-client](../tagged/http-client.md)
+* :octocat: **[source code](https://github.com/h2non/gentleman)**
+---
+#### [goreq](https://github.com/smallnest/goreq)
+_<sup>https://github.com/smallnest/goreq</sup>_
+
+Enhanced simplified HTTP client based on gorequest.
+* **tags**: [go](../tagged/go.md), [http-client](../tagged/http-client.md)
+* :octocat: **[source code](https://github.com/smallnest/goreq)**
+---
+#### [grequests](https://github.com/levigross/grequests)
+_<sup>https://github.com/levigross/grequests</sup>_
+
+A Go "clone" of the great and famous Requests library.
+* **tags**: [go](../tagged/go.md), [http-client](../tagged/http-client.md)
+* :octocat: **[source code](https://github.com/levigross/grequests)**
+---
+#### [heimdall](https://github.com/gojektech/heimdall)
+_<sup>https://github.com/gojektech/heimdall</sup>_
+
+An enchanced http client with retry and hystrix capabilities.
+* **tags**: [go](../tagged/go.md), [http-client](../tagged/http-client.md)
+* :octocat: **[source code](https://github.com/gojektech/heimdall)**
+---
+#### [pester](https://github.com/sethgrid/pester)
+_<sup>https://github.com/sethgrid/pester</sup>_
+
+Go HTTP client calls with retries, backoff, and concurrency.
+* **tags**: [go](../tagged/go.md), [http-client](../tagged/http-client.md)
+* :octocat: **[source code](https://github.com/sethgrid/pester)**
+---
+#### [rq](https://github.com/ddo/rq)
+_<sup>https://github.com/ddo/rq</sup>_
+
+A nicer interface for golang stdlib HTTP client.
+* **tags**: [go](../tagged/go.md), [http-client](../tagged/http-client.md)
+* :octocat: **[source code](https://github.com/ddo/rq)**
+---
+#### [sling](https://github.com/dghubble/sling)
+_<sup>https://github.com/dghubble/sling</sup>_
+
+Sling is a Go HTTP client library for creating and sending API requests.
+* **tags**: [go](../tagged/go.md), [http-client](../tagged/http-client.md)
+* :octocat: **[source code](https://github.com/dghubble/sling)**
+---
 #### [excon](https://github.com/excon/excon)
 _<sup>https://github.com/excon/excon</sup>_
 

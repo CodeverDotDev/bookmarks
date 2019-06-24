@@ -2,6 +2,501 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/api](https://www.bookmarks.dev/tagged/api)</sup></sup>_
 ---
+#### [amazon-product-advertising-api](https://github.com/ngs/go-amazon-product-advertising-api)
+_<sup>https://github.com/ngs/go-amazon-product-advertising-api</sup>_
+
+Go Client Library for [Amazon Product Advertising API](https://affiliate-program.amazon.com/gp/advertising/api/detail/main.html).
+* **tags**: [go](../tagged/go.md), [api](../tagged/api.md)
+* :octocat: **[source code](https://github.com/ngs/go-amazon-product-advertising-api)**
+---
+#### [anaconda](https://github.com/ChimeraCoder/anaconda)
+_<sup>https://github.com/ChimeraCoder/anaconda</sup>_
+
+Go client library for the Twitter 1.1 API.
+* **tags**: [go](../tagged/go.md), [api](../tagged/api.md)
+* :octocat: **[source code](https://github.com/ChimeraCoder/anaconda)**
+---
+#### [aws-sdk-go](https://github.com/aws/aws-sdk-go)
+_<sup>https://github.com/aws/aws-sdk-go</sup>_
+
+The official AWS SDK for the Go programming language.
+* **tags**: [go](../tagged/go.md), [api](../tagged/api.md)
+* :octocat: **[source code](https://github.com/aws/aws-sdk-go)**
+---
+#### [brewerydb](https://github.com/naegelejd/brewerydb)
+_<sup>https://github.com/naegelejd/brewerydb</sup>_
+
+Go library for accessing the BreweryDB API.
+* **tags**: [go](../tagged/go.md), [api](../tagged/api.md)
+* :octocat: **[source code](https://github.com/naegelejd/brewerydb)**
+---
+#### [cachet](https://github.com/andygrunwald/cachet)
+_<sup>https://github.com/andygrunwald/cachet</sup>_
+
+Go client library for [Cachet (open source status page system)](https://cachethq.io/).
+* **tags**: [go](../tagged/go.md), [api](../tagged/api.md)
+* :octocat: **[source code](https://github.com/andygrunwald/cachet)**
+---
+#### [circleci](https://github.com/jszwedko/go-circleci)
+_<sup>https://github.com/jszwedko/go-circleci</sup>_
+
+Go client library for interacting with CircleCI's API.
+* **tags**: [go](../tagged/go.md), [api](../tagged/api.md)
+* :octocat: **[source code](https://github.com/jszwedko/go-circleci)**
+---
+#### [clarifai](https://github.com/samuelcouch/clarifai)
+_<sup>https://github.com/samuelcouch/clarifai</sup>_
+
+Go client library for interfacing with the Clarifai API.
+* **tags**: [go](../tagged/go.md), [api](../tagged/api.md)
+* :octocat: **[source code](https://github.com/samuelcouch/clarifai)**
+---
+#### [codeship-go](https://github.com/codeship/codeship-go)
+_<sup>https://github.com/codeship/codeship-go</sup>_
+
+Go client library for interacting with Codeship's API v2.
+* **tags**: [go](../tagged/go.md), [api](../tagged/api.md)
+* :octocat: **[source code](https://github.com/codeship/codeship-go)**
+---
+#### [coinpaprika-go](https://github.com/coinpaprika/coinpaprika-api-go-client)
+_<sup>https://github.com/coinpaprika/coinpaprika-api-go-client</sup>_
+
+Go client library for interacting with Coinpaprika's API.
+* **tags**: [go](../tagged/go.md), [api](../tagged/api.md)
+* :octocat: **[source code](https://github.com/coinpaprika/coinpaprika-api-go-client)**
+---
+#### [discordgo](https://github.com/bwmarrin/discordgo)
+_<sup>https://github.com/bwmarrin/discordgo</sup>_
+
+Go bindings for the Discord Chat API.
+* **tags**: [go](../tagged/go.md), [api](../tagged/api.md)
+* :octocat: **[source code](https://github.com/bwmarrin/discordgo)**
+---
+#### [ethrpc](https://github.com/onrik/ethrpc)
+_<sup>https://github.com/onrik/ethrpc</sup>_
+
+Go bindings for Ethereum JSON RPC API.
+* **tags**: [go](../tagged/go.md), [api](../tagged/api.md)
+* :octocat: **[source code](https://github.com/onrik/ethrpc)**
+---
+#### [facebook](https://github.com/huandu/facebook)
+_<sup>https://github.com/huandu/facebook</sup>_
+
+Go Library that supports the Facebook Graph API.
+* **tags**: [go](../tagged/go.md), [api](../tagged/api.md)
+* :octocat: **[source code](https://github.com/huandu/facebook)**
+---
+#### [fcm](https://github.com/maddevsio/fcm)
+_<sup>https://github.com/maddevsio/fcm</sup>_
+
+Go library for Firebase Cloud Messaging.
+* **tags**: [go](../tagged/go.md), [api](../tagged/api.md)
+* :octocat: **[source code](https://github.com/maddevsio/fcm)**
+---
+#### [gads](https://github.com/emiddleton/gads)
+_<sup>https://github.com/emiddleton/gads</sup>_
+
+Google Adwords Unofficial API.
+* **tags**: [go](../tagged/go.md), [api](../tagged/api.md)
+* :octocat: **[source code](https://github.com/emiddleton/gads)**
+---
+#### [gami](https://github.com/bit4bit/gami)
+_<sup>https://github.com/bit4bit/gami</sup>_
+
+Go library for Asterisk Manager Interface.
+* **tags**: [go](../tagged/go.md), [api](../tagged/api.md)
+* :octocat: **[source code](https://github.com/bit4bit/gami)**
+---
+#### [gcm](https://github.com/Aorioli/gcm)
+_<sup>https://github.com/Aorioli/gcm</sup>_
+
+Go library for Google Cloud Messaging.
+* **tags**: [go](../tagged/go.md), [api](../tagged/api.md)
+* :octocat: **[source code](https://github.com/Aorioli/gcm)**
+---
+#### [geo-golang](https://github.com/codingsince1985/geo-golang)
+_<sup>https://github.com/codingsince1985/geo-golang</sup>_
+
+Go Library to access [Google Maps](https://developers.google.com/maps/documentation/geocoding/intro), [MapQuest](http://open.mapquestapi.com/geocoding/), [Nominatim](https://developer.mapquest.com/doc...
+* **tags**: [go](../tagged/go.md), [api](../tagged/api.md)
+* :octocat: **[source code](https://github.com/codingsince1985/geo-golang)**
+---
+#### [github](https://github.com/google/go-github)
+_<sup>https://github.com/google/go-github</sup>_
+
+Go library for accessing the GitHub REST API v3.
+* **tags**: [go](../tagged/go.md), [api](../tagged/api.md)
+* :octocat: **[source code](https://github.com/google/go-github)**
+---
+#### [githubql](https://github.com/shurcooL/githubql)
+_<sup>https://github.com/shurcooL/githubql</sup>_
+
+Go library for accessing the GitHub GraphQL API v4.
+* **tags**: [go](../tagged/go.md), [api](../tagged/api.md)
+* :octocat: **[source code](https://github.com/shurcooL/githubql)**
+---
+#### [go-chronos](https://github.com/axelspringer/go-chronos)
+_<sup>https://github.com/axelspringer/go-chronos</sup>_
+
+Go library for interacting with the [Chronos](https://mesos.github.io/chronos/) Job Scheduler
+* **tags**: [go](../tagged/go.md), [api](../tagged/api.md)
+* :octocat: **[source code](https://github.com/axelspringer/go-chronos)**
+---
+#### [go-hacknews](https://github.com/PaulRosset/go-hacknews)
+_<sup>https://github.com/PaulRosset/go-hacknews</sup>_
+
+Tiny Go client for HackerNews API.
+* **tags**: [go](../tagged/go.md), [api](../tagged/api.md)
+* :octocat: **[source code](https://github.com/PaulRosset/go-hacknews)**
+---
+#### [go-imgur](https://github.com/koffeinsource/go-imgur)
+_<sup>https://github.com/koffeinsource/go-imgur</sup>_
+
+Go client library for [imgur](https://imgur.com)
+* **tags**: [go](../tagged/go.md), [api](../tagged/api.md)
+* :octocat: **[source code](https://github.com/koffeinsource/go-imgur)**
+---
+#### [go-jira](https://github.com/andygrunwald/go-jira)
+_<sup>https://github.com/andygrunwald/go-jira</sup>_
+
+Go client library for [Atlassian JIRA](https://www.atlassian.com/software/jira)
+* **tags**: [go](../tagged/go.md), [api](../tagged/api.md)
+* :octocat: **[source code](https://github.com/andygrunwald/go-jira)**
+---
+#### [go-marathon](https://github.com/gambol99/go-marathon)
+_<sup>https://github.com/gambol99/go-marathon</sup>_
+
+Go library for interacting with Mesosphere's Marathon PAAS.
+* **tags**: [go](../tagged/go.md), [api](../tagged/api.md)
+* :octocat: **[source code](https://github.com/gambol99/go-marathon)**
+---
+#### [go-myanimelist](https://github.com/nstratos/go-myanimelist)
+_<sup>https://github.com/nstratos/go-myanimelist</sup>_
+
+Go client library for accessing the [MyAnimeList API](http://myanimelist.net/modules.php?go=api).
+* **tags**: [go](../tagged/go.md), [api](../tagged/api.md)
+* :octocat: **[source code](https://github.com/nstratos/go-myanimelist)**
+---
+#### [go-sophos](https://github.com/esurdam/go-sophos)
+_<sup>https://github.com/esurdam/go-sophos</sup>_
+
+Go client library for the [Sophos UTM REST API](https://www.sophos.com/en-us/medialibrary/PDFs/documentation/UTMonAWS/Sophos-UTM-RESTful-API.pdf?la=en) with zero dependencies.
+* **tags**: [go](../tagged/go.md), [api](../tagged/api.md)
+* :octocat: **[source code](https://github.com/esurdam/go-sophos)**
+---
+#### [go-sptrans](https://github.com/sergioaugrod/go-sptrans)
+_<sup>https://github.com/sergioaugrod/go-sptrans</sup>_
+
+Go client library for the SPTrans Olho Vivo API.
+* **tags**: [go](../tagged/go.md), [api](../tagged/api.md)
+* :octocat: **[source code](https://github.com/sergioaugrod/go-sptrans)**
+---
+#### [go-telegraph](https://gitlab.com/toby3d/telegraph)
+_<sup>https://gitlab.com/toby3d/telegraph</sup>_
+
+Telegraph publishing platform API client.
+* **tags**: [go](../tagged/go.md), [api](../tagged/api.md)
+---
+#### [go-trending](https://github.com/andygrunwald/go-trending)
+_<sup>https://github.com/andygrunwald/go-trending</sup>_
+
+Go library for accessing [trending repositories](https://github.com/trending) and [developers](https://github.com/trending/developers) at Github.
+* **tags**: [go](../tagged/go.md), [api](../tagged/api.md)
+* :octocat: **[source code](https://github.com/andygrunwald/go-trending)**
+---
+#### [go-twitch](https://github.com/knspriggs/go-twitch)
+_<sup>https://github.com/knspriggs/go-twitch</sup>_
+
+Go client for interacting with the Twitch v3 API.
+* **tags**: [go](../tagged/go.md), [api](../tagged/api.md)
+* :octocat: **[source code](https://github.com/knspriggs/go-twitch)**
+---
+#### [go-twitter](https://github.com/dghubble/go-twitter)
+_<sup>https://github.com/dghubble/go-twitter</sup>_
+
+Go client library for the Twitter v1.1 APIs.
+* **tags**: [go](../tagged/go.md), [api](../tagged/api.md)
+* :octocat: **[source code](https://github.com/dghubble/go-twitter)**
+---
+#### [go-unsplash](https://github.com/hbagdi/go-unsplash)
+_<sup>https://github.com/hbagdi/go-unsplash</sup>_
+
+Go client library for the [Unsplash.com](https://unsplash.com) API.
+* **tags**: [go](../tagged/go.md), [api](../tagged/api.md)
+* :octocat: **[source code](https://github.com/hbagdi/go-unsplash)**
+---
+#### [go-xkcd](https://github.com/nishanths/go-xkcd)
+_<sup>https://github.com/nishanths/go-xkcd</sup>_
+
+Go client for the xkcd API.
+* **tags**: [go](../tagged/go.md), [api](../tagged/api.md)
+* :octocat: **[source code](https://github.com/nishanths/go-xkcd)**
+---
+#### [golyrics](https://github.com/mamal72/golyrics)
+_<sup>https://github.com/mamal72/golyrics</sup>_
+
+Golyrics is a Go library to fetch music lyrics data from the Wikia website.
+* **tags**: [go](../tagged/go.md), [api](../tagged/api.md)
+* :octocat: **[source code](https://github.com/mamal72/golyrics)**
+---
+#### [gomalshare](https://github.com/MonaxGT/gomalshare)
+_<sup>https://github.com/MonaxGT/gomalshare</sup>_
+
+Go library MalShare API [malshare.com](http://www.malshare.com/)
+* **tags**: [go](../tagged/go.md), [api](../tagged/api.md)
+* :octocat: **[source code](https://github.com/MonaxGT/gomalshare)**
+---
+#### [GoMusicBrainz](https://github.com/michiwend/gomusicbrainz)
+_<sup>https://github.com/michiwend/gomusicbrainz</sup>_
+
+Go MusicBrainz WS2 client library.
+* **tags**: [go](../tagged/go.md), [api](../tagged/api.md)
+* :octocat: **[source code](https://github.com/michiwend/gomusicbrainz)**
+---
+#### [google](https://github.com/google/google-api-go-client)
+_<sup>https://github.com/google/google-api-go-client</sup>_
+
+Auto-generated Google APIs for Go.
+* **tags**: [go](../tagged/go.md), [api](../tagged/api.md)
+* :octocat: **[source code](https://github.com/google/google-api-go-client)**
+---
+#### [google-analytics](https://github.com/chonthu/go-google-analytics)
+_<sup>https://github.com/chonthu/go-google-analytics</sup>_
+
+Simple wrapper for easy google analytics reporting.
+* **tags**: [go](../tagged/go.md), [api](../tagged/api.md)
+* :octocat: **[source code](https://github.com/chonthu/go-google-analytics)**
+---
+#### [google-cloud](https://github.com/GoogleCloudPlatform/gcloud-golang)
+_<sup>https://github.com/GoogleCloudPlatform/gcloud-golang</sup>_
+
+Google Cloud APIs Go Client Library.
+* **tags**: [go](../tagged/go.md), [api](../tagged/api.md)
+* :octocat: **[source code](https://github.com/GoogleCloudPlatform/gcloud-golang)**
+---
+#### [google-email-audit-api](https://github.com/ngs/go-google-email-audit-api)
+_<sup>https://github.com/ngs/go-google-email-audit-api</sup>_
+
+Go client library for [Google G Suite Email Audit API](https://developers.google.com/admin-sdk/email-audit/).
+* **tags**: [go](../tagged/go.md), [api](../tagged/api.md)
+* :octocat: **[source code](https://github.com/ngs/go-google-email-audit-api)**
+---
+#### [gostorm](https://github.com/jsgilmore/gostorm)
+_<sup>https://github.com/jsgilmore/gostorm</sup>_
+
+GoStorm is a Go library that implements the communications protocol required to write Storm spouts and Bolts in Go that communicate with the Storm shells.
+* **tags**: [go](../tagged/go.md), [api](../tagged/api.md)
+* :octocat: **[source code](https://github.com/jsgilmore/gostorm)**
+---
+#### [hipchat](https://github.com/andybons/hipchat)
+_<sup>https://github.com/andybons/hipchat</sup>_
+
+This project implements a golang client library for the Hipchat API.
+* **tags**: [go](../tagged/go.md), [api](../tagged/api.md)
+* :octocat: **[source code](https://github.com/andybons/hipchat)**
+---
+#### [hipchat (xmpp)](xmpp)
+_<sup>xmpp</sup>_
+
+A golang package to communicate with HipChat over XMPP.
+* **tags**: [go](../tagged/go.md), [api](../tagged/api.md)
+---
+#### [igdb](https://github.com/Henry-Sarabia/igdb)
+_<sup>https://github.com/Henry-Sarabia/igdb</sup>_
+
+Go client for the [Internet Game Database API](https://api.igdb.com/).
+* **tags**: [go](../tagged/go.md), [api](../tagged/api.md)
+* :octocat: **[source code](https://github.com/Henry-Sarabia/igdb)**
+---
+#### [Medium](https://github.com/Medium/medium-sdk-go)
+_<sup>https://github.com/Medium/medium-sdk-go</sup>_
+
+Golang SDK for Medium's OAuth2 API.
+* **tags**: [go](../tagged/go.md), [api](../tagged/api.md)
+* :octocat: **[source code](https://github.com/Medium/medium-sdk-go)**
+---
+#### [megos](https://github.com/andygrunwald/megos)
+_<sup>https://github.com/andygrunwald/megos</sup>_
+
+Client library for accessing an [Apache Mesos](http://mesos.apache.org/) cluster.
+* **tags**: [go](../tagged/go.md), [api](../tagged/api.md)
+* :octocat: **[source code](https://github.com/andygrunwald/megos)**
+---
+#### [minio-go](https://github.com/minio/minio-go)
+_<sup>https://github.com/minio/minio-go</sup>_
+
+Minio Go Library for Amazon S3 compatible cloud storage.
+* **tags**: [go](../tagged/go.md), [api](../tagged/api.md)
+* :octocat: **[source code](https://github.com/minio/minio-go)**
+---
+#### [mixpanel](https://github.com/dukex/mixpanel)
+_<sup>https://github.com/dukex/mixpanel</sup>_
+
+Mixpanel is a library for tracking events and sending Mixpanel profile updates to Mixpanel from your go applications.
+* **tags**: [go](../tagged/go.md), [api](../tagged/api.md)
+* :octocat: **[source code](https://github.com/dukex/mixpanel)**
+---
+#### [patreon-go](https://github.com/mxpv/patreon-go)
+_<sup>https://github.com/mxpv/patreon-go</sup>_
+
+Go library for Patreon API.
+* **tags**: [go](../tagged/go.md), [api](../tagged/api.md)
+* :octocat: **[source code](https://github.com/mxpv/patreon-go)**
+---
+#### [paypal](https://github.com/logpacker/PayPal-Go-SDK)
+_<sup>https://github.com/logpacker/PayPal-Go-SDK</sup>_
+
+Wrapper for PayPal payment API.
+* **tags**: [go](../tagged/go.md), [api](../tagged/api.md)
+* :octocat: **[source code](https://github.com/logpacker/PayPal-Go-SDK)**
+---
+#### [playlyfe](https://github.com/playlyfe/playlyfe-go-sdk)
+_<sup>https://github.com/playlyfe/playlyfe-go-sdk</sup>_
+
+The Playlyfe Rest API Go SDK.
+* **tags**: [go](../tagged/go.md), [api](../tagged/api.md)
+* :octocat: **[source code](https://github.com/playlyfe/playlyfe-go-sdk)**
+---
+#### [pushover](https://github.com/gregdel/pushover)
+_<sup>https://github.com/gregdel/pushover</sup>_
+
+Go wrapper for the Pushover API.
+* **tags**: [go](../tagged/go.md), [api](../tagged/api.md)
+* :octocat: **[source code](https://github.com/gregdel/pushover)**
+---
+#### [rrdaclient](https://github.com/Omie/rrdaclient)
+_<sup>https://github.com/Omie/rrdaclient</sup>_
+
+Go Library to access statdns.com API, which is in turn RRDA API. DNS Queries over HTTP.
+* **tags**: [go](../tagged/go.md), [api](../tagged/api.md)
+* :octocat: **[source code](https://github.com/Omie/rrdaclient)**
+---
+#### [shopify](https://github.com/rapito/go-shopify)
+_<sup>https://github.com/rapito/go-shopify</sup>_
+
+Go Library to make CRUD request to the Shopify API.
+* **tags**: [go](../tagged/go.md), [api](../tagged/api.md)
+* :octocat: **[source code](https://github.com/rapito/go-shopify)**
+---
+#### [simples3](https://github.com/rhnvrm/simples3)
+_<sup>https://github.com/rhnvrm/simples3</sup>_
+
+Simple no frills AWS S3 Library using REST with V4 Signing written in Go.
+* **tags**: [go](../tagged/go.md), [api](../tagged/api.md)
+* :octocat: **[source code](https://github.com/rhnvrm/simples3)**
+---
+#### [slack](https://github.com/nlopes/slack)
+_<sup>https://github.com/nlopes/slack</sup>_
+
+Slack API in Go.
+* **tags**: [go](../tagged/go.md), [api](../tagged/api.md)
+* :octocat: **[source code](https://github.com/nlopes/slack)**
+---
+#### [smite](https://github.com/sergiotapia/smitego)
+_<sup>https://github.com/sergiotapia/smitego</sup>_
+
+Go package to wraps access to the Smite game API.
+* **tags**: [go](../tagged/go.md), [api](../tagged/api.md)
+* :octocat: **[source code](https://github.com/sergiotapia/smitego)**
+---
+#### [spotify](https://github.com/rapito/go-spotify)
+_<sup>https://github.com/rapito/go-spotify</sup>_
+
+Go Library to access Spotify WEB API.
+* **tags**: [go](../tagged/go.md), [api](../tagged/api.md)
+* :octocat: **[source code](https://github.com/rapito/go-spotify)**
+---
+#### [steam](https://github.com/sostronk/go-steam)
+_<sup>https://github.com/sostronk/go-steam</sup>_
+
+Go Library to interact with Steam game servers.
+* **tags**: [go](../tagged/go.md), [api](../tagged/api.md)
+* :octocat: **[source code](https://github.com/sostronk/go-steam)**
+---
+#### [stripe](https://github.com/stripe/stripe-go)
+_<sup>https://github.com/stripe/stripe-go</sup>_
+
+Go client for the Stripe API.
+* **tags**: [go](../tagged/go.md), [api](../tagged/api.md)
+* :octocat: **[source code](https://github.com/stripe/stripe-go)**
+---
+#### [textbelt](https://github.com/dietsche/textbelt)
+_<sup>https://github.com/dietsche/textbelt</sup>_
+
+Go client for the textbelt.com txt messaging API.
+* **tags**: [go](../tagged/go.md), [api](../tagged/api.md)
+* :octocat: **[source code](https://github.com/dietsche/textbelt)**
+---
+#### [TheMovieDb](https://github.com/jbrodriguez/go-tmdb)
+_<sup>https://github.com/jbrodriguez/go-tmdb</sup>_
+
+Simple golang package to communicate with [themoviedb.org](https://themoviedb.org).
+* **tags**: [go](../tagged/go.md), [api](../tagged/api.md)
+* :octocat: **[source code](https://github.com/jbrodriguez/go-tmdb)**
+---
+#### [translate](https://github.com/poorny/translate)
+_<sup>https://github.com/poorny/translate</sup>_
+
+Go online translation package.
+* **tags**: [go](../tagged/go.md), [api](../tagged/api.md)
+* :octocat: **[source code](https://github.com/poorny/translate)**
+---
+#### [Trello](https://github.com/adlio/trello)
+_<sup>https://github.com/adlio/trello</sup>_
+
+Go wrapper for the Trello API.
+* **tags**: [go](../tagged/go.md), [api](../tagged/api.md)
+* :octocat: **[source code](https://github.com/adlio/trello)**
+---
+#### [TripAdvisor](https://github.com/mrbenosborne/tripadvisor-golang)
+_<sup>https://github.com/mrbenosborne/tripadvisor-golang</sup>_
+
+Go wrapper for the TripAdvisor API.
+* **tags**: [go](../tagged/go.md), [api](../tagged/api.md)
+* :octocat: **[source code](https://github.com/mrbenosborne/tripadvisor-golang)**
+---
+#### [tumblr](https://github.com/mattcunningham/gumblr)
+_<sup>https://github.com/mattcunningham/gumblr</sup>_
+
+Go wrapper for the Tumblr v2 API.
+* **tags**: [go](../tagged/go.md), [api](../tagged/api.md)
+* :octocat: **[source code](https://github.com/mattcunningham/gumblr)**
+---
+#### [uptimerobot](https://github.com/bitfield/uptimerobot)
+_<sup>https://github.com/bitfield/uptimerobot</sup>_
+
+Go wrapper and command-line client for the Uptime Robot v2 API.
+* **tags**: [go](../tagged/go.md), [api](../tagged/api.md)
+* :octocat: **[source code](https://github.com/bitfield/uptimerobot)**
+---
+#### [webhooks](https://github.com/go-playground/webhooks)
+_<sup>https://github.com/go-playground/webhooks</sup>_
+
+Webhook receiver for GitHub and Bitbucket.
+* **tags**: [go](../tagged/go.md), [api](../tagged/api.md)
+* :octocat: **[source code](https://github.com/go-playground/webhooks)**
+---
+#### [wit-go](https://github.com/wit-ai/wit-go)
+_<sup>https://github.com/wit-ai/wit-go</sup>_
+
+Go client for wit.ai HTTP API.
+* **tags**: [go](../tagged/go.md), [api](../tagged/api.md)
+* :octocat: **[source code](https://github.com/wit-ai/wit-go)**
+---
+#### [ynab](https://github.com/brunomvsouza/ynab.go)
+_<sup>https://github.com/brunomvsouza/ynab.go</sup>_
+
+Go wrapper for the YNAB API.
+* **tags**: [go](../tagged/go.md), [api](../tagged/api.md)
+* :octocat: **[source code](https://github.com/brunomvsouza/ynab.go)**
+---
+#### [zooz](https://github.com/gojuno/go-zooz)
+_<sup>https://github.com/gojuno/go-zooz</sup>_
+
+Go client for the Zooz API.
+* **tags**: [go](../tagged/go.md), [api](../tagged/api.md)
+* :octocat: **[source code](https://github.com/gojuno/go-zooz)**
+---
 #### [ActiveModel::Serializers](https://github.com/rails-api/active_model_serializers)
 _<sup>https://github.com/rails-api/active_model_serializers</sup>_
 

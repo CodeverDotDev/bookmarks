@@ -2,6 +2,116 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/package-management](https://www.bookmarks.dev/tagged/package-management)</sup></sup>_
 ---
+#### [go modules](https://golang.org/cmd/go/#hdr-Modules__module_versions__and_more)
+_<sup>https://golang.org/cmd/go/#hdr-Modules__module_versions__and_more</sup>_
+
+Modules are the unit of source code interchange and versioning. The go command has direct support for working with modules, including recording and resolving dependencies on other modules.
+* **tags**: [go](../tagged/go.md), [package-management](../tagged/package-management.md)
+---
+#### [dep](https://github.com/golang/dep)
+_<sup>https://github.com/golang/dep</sup>_
+
+Go dependency tool.
+* **tags**: [go](../tagged/go.md), [package-management](../tagged/package-management.md)
+* :octocat: **[source code](https://github.com/golang/dep)**
+---
+#### [vgo](https://go.googlesource.com/vgo/)
+_<sup>https://go.googlesource.com/vgo/</sup>_
+
+Versioned Go.
+* **tags**: [go](../tagged/go.md), [package-management](../tagged/package-management.md)
+---
+#### [gigo](https://github.com/LyricalSecurity/gigo)
+_<sup>https://github.com/LyricalSecurity/gigo</sup>_
+
+PIP-like dependency tool for golang, with support for private repositories and hashes.
+* **tags**: [go](../tagged/go.md), [package-management](../tagged/package-management.md)
+* :octocat: **[source code](https://github.com/LyricalSecurity/gigo)**
+---
+#### [glide](https://github.com/Masterminds/glide)
+_<sup>https://github.com/Masterminds/glide</sup>_
+
+Manage your golang vendor and vendored packages with ease. Inspired by tools like Maven, Bundler, and Pip.
+* **tags**: [go](../tagged/go.md), [package-management](../tagged/package-management.md)
+* :octocat: **[source code](https://github.com/Masterminds/glide)**
+---
+#### [godep](https://github.com/tools/godep)
+_<sup>https://github.com/tools/godep</sup>_
+
+dependency tool for go, godep helps build packages reproducibly by fixing their dependencies.
+* **tags**: [go](../tagged/go.md), [package-management](../tagged/package-management.md)
+* :octocat: **[source code](https://github.com/tools/godep)**
+---
+#### [gom](https://github.com/mattn/gom)
+_<sup>https://github.com/mattn/gom</sup>_
+
+Go Manager - bundle for go.
+* **tags**: [go](../tagged/go.md), [package-management](../tagged/package-management.md)
+* :octocat: **[source code](https://github.com/mattn/gom)**
+---
+#### [goop](https://github.com/nitrous-io/goop)
+_<sup>https://github.com/nitrous-io/goop</sup>_
+
+Simple dependency manager for Go (golang), inspired by Bundler.
+* **tags**: [go](../tagged/go.md), [package-management](../tagged/package-management.md)
+* :octocat: **[source code](https://github.com/nitrous-io/goop)**
+---
+#### [gop](https://github.com/lunny/gop)
+_<sup>https://github.com/lunny/gop</sup>_
+
+Build and manage your Go applications out of GOPATH.
+* **tags**: [go](../tagged/go.md), [package-management](../tagged/package-management.md)
+* :octocat: **[source code](https://github.com/lunny/gop)**
+---
+#### [gopm](https://github.com/gpmgo/gopm)
+_<sup>https://github.com/gpmgo/gopm</sup>_
+
+Go Package Manager.
+* **tags**: [go](../tagged/go.md), [package-management](../tagged/package-management.md)
+* :octocat: **[source code](https://github.com/gpmgo/gopm)**
+---
+#### [govendor](https://github.com/kardianos/govendor)
+_<sup>https://github.com/kardianos/govendor</sup>_
+
+Go Package Manager. Go vendor tool that works with the standard vendor file.
+* **tags**: [go](../tagged/go.md), [package-management](../tagged/package-management.md)
+* :octocat: **[source code](https://github.com/kardianos/govendor)**
+---
+#### [gpm](https://github.com/pote/gpm)
+_<sup>https://github.com/pote/gpm</sup>_
+
+Barebones dependency manager for Go.
+* **tags**: [go](../tagged/go.md), [package-management](../tagged/package-management.md)
+* :octocat: **[source code](https://github.com/pote/gpm)**
+---
+#### [johnny-deps](https://github.com/VividCortex/johnny-deps)
+_<sup>https://github.com/VividCortex/johnny-deps</sup>_
+
+Minimal dependency version using Git.
+* **tags**: [go](../tagged/go.md), [package-management](../tagged/package-management.md)
+* :octocat: **[source code](https://github.com/VividCortex/johnny-deps)**
+---
+#### [mvn-golang](https://github.com/raydac/mvn-golang)
+_<sup>https://github.com/raydac/mvn-golang</sup>_
+
+plugin that provides way for auto-loading of Golang SDK, dependency management and start build environment in Maven project infrastructure.
+* **tags**: [go](../tagged/go.md), [package-management](../tagged/package-management.md)
+* :octocat: **[source code](https://github.com/raydac/mvn-golang)**
+---
+#### [nut](https://github.com/jingweno/nut)
+_<sup>https://github.com/jingweno/nut</sup>_
+
+Vendor Go dependencies.
+* **tags**: [go](../tagged/go.md), [package-management](../tagged/package-management.md)
+* :octocat: **[source code](https://github.com/jingweno/nut)**
+---
+#### [VenGO](https://github.com/DamnWidget/VenGO)
+_<sup>https://github.com/DamnWidget/VenGO</sup>_
+
+create and manage exportable isolated go virtual environments.
+* **tags**: [go](../tagged/go.md), [package-management](../tagged/package-management.md)
+* :octocat: **[source code](https://github.com/DamnWidget/VenGO)**
+---
 #### [Bundler](https://bundler.io)
 _<sup>https://bundler.io</sup>_
 

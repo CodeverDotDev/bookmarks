@@ -2,6 +2,530 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/database](https://www.bookmarks.dev/tagged/database)</sup></sup>_
 ---
+#### [badger](https://github.com/dgraph-io/badger)
+_<sup>https://github.com/dgraph-io/badger</sup>_
+
+Fast key-value store in Go.
+* **tags**: [go](../tagged/go.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/dgraph-io/badger)**
+---
+#### [bcache](https://github.com/iwanbk/bcache)
+_<sup>https://github.com/iwanbk/bcache</sup>_
+
+Eventually consistent distributed in-memory  cache Go library.
+* **tags**: [go](../tagged/go.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/iwanbk/bcache)**
+---
+#### [BigCache](https://github.com/allegro/bigcache)
+_<sup>https://github.com/allegro/bigcache</sup>_
+
+Efficient key/value cache for gigabytes of data.
+* **tags**: [go](../tagged/go.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/allegro/bigcache)**
+---
+#### [bolt](https://github.com/boltdb/bolt)
+_<sup>https://github.com/boltdb/bolt</sup>_
+
+Low-level key/value database for Go.
+* **tags**: [go](../tagged/go.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/boltdb/bolt)**
+---
+#### [buntdb](https://github.com/tidwall/buntdb)
+_<sup>https://github.com/tidwall/buntdb</sup>_
+
+Fast, embeddable, in-memory key/value database for Go with custom indexing and spatial support.
+* **tags**: [go](../tagged/go.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/tidwall/buntdb)**
+---
+#### [cache](https://github.com/akyoto/cache)
+_<sup>https://github.com/akyoto/cache</sup>_
+
+In-memory key:value store with expiration time, 0 dependencies, <100 LoC, 100% coverage.
+* **tags**: [go](../tagged/go.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/akyoto/cache)**
+---
+#### [cache2go](https://github.com/muesli/cache2go)
+_<sup>https://github.com/muesli/cache2go</sup>_
+
+In-memory key:value cache which supports automatic invalidation based on timeouts.
+* **tags**: [go](../tagged/go.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/muesli/cache2go)**
+---
+#### [clusteredBigCache](https://github.com/oaStuff/clusteredBigCache)
+_<sup>https://github.com/oaStuff/clusteredBigCache</sup>_
+
+BigCache with clustering support and individual item expiration.
+* **tags**: [go](../tagged/go.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/oaStuff/clusteredBigCache)**
+---
+#### [cockroach](https://github.com/cockroachdb/cockroach)
+_<sup>https://github.com/cockroachdb/cockroach</sup>_
+
+Scalable, Geo-Replicated, Transactional Datastore.
+* **tags**: [go](../tagged/go.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/cockroachdb/cockroach)**
+---
+#### [couchcache](https://github.com/codingsince1985/couchcache)
+_<sup>https://github.com/codingsince1985/couchcache</sup>_
+
+RESTful caching micro-service backed by Couchbase server.
+* **tags**: [go](../tagged/go.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/codingsince1985/couchcache)**
+---
+#### [CovenantSQL](https://github.com/CovenantSQL/CovenantSQL)
+_<sup>https://github.com/CovenantSQL/CovenantSQL</sup>_
+
+CovenantSQL is a SQL database on blockchain.
+* **tags**: [go](../tagged/go.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/CovenantSQL/CovenantSQL)**
+---
+#### [dgraph](https://github.com/dgraph-io/dgraph)
+_<sup>https://github.com/dgraph-io/dgraph</sup>_
+
+Scalable, Distributed, Low Latency, High Throughput Graph Database.
+* **tags**: [go](../tagged/go.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/dgraph-io/dgraph)**
+---
+#### [diskv](https://github.com/peterbourgon/diskv)
+_<sup>https://github.com/peterbourgon/diskv</sup>_
+
+Home-grown disk-backed key-value store.
+* **tags**: [go](../tagged/go.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/peterbourgon/diskv)**
+---
+#### [eliasdb](https://github.com/krotik/eliasdb)
+_<sup>https://github.com/krotik/eliasdb</sup>_
+
+Dependency-free, transactional graph database with REST API, phrase search and SQL-like query language.
+* **tags**: [go](../tagged/go.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/krotik/eliasdb)**
+---
+#### [fastcache](https://github.com/VictoriaMetrics/fastcache)
+_<sup>https://github.com/VictoriaMetrics/fastcache</sup>_
+
+fast thread-safe inmemory cache for big number of entries. Minimizes GC overhead.
+* **tags**: [go](../tagged/go.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/VictoriaMetrics/fastcache)**
+---
+#### [GCache](https://github.com/bluele/gcache)
+_<sup>https://github.com/bluele/gcache</sup>_
+
+Cache library with support for expirable Cache, LFU, LRU and ARC.
+* **tags**: [go](../tagged/go.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/bluele/gcache)**
+---
+#### [go-cache](https://github.com/pmylund/go-cache)
+_<sup>https://github.com/pmylund/go-cache</sup>_
+
+In-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.
+* **tags**: [go](../tagged/go.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/pmylund/go-cache)**
+---
+#### [goleveldb](https://github.com/syndtr/goleveldb)
+_<sup>https://github.com/syndtr/goleveldb</sup>_
+
+Implementation of the [LevelDB](https://github.com/google/leveldb) key/value database in Go.
+* **tags**: [go](../tagged/go.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/syndtr/goleveldb)**
+---
+#### [gorocksdb](https://github.com/kapitan-k/gorocksdb)
+_<sup>https://github.com/kapitan-k/gorocksdb</sup>_
+
+Gorocksdb is a wrapper for [RocksDB](https://rocksdb.org) written in Go.
+* **tags**: [go](../tagged/go.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/kapitan-k/gorocksdb)**
+---
+#### [groupcache](https://github.com/golang/groupcache)
+_<sup>https://github.com/golang/groupcache</sup>_
+
+Groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
+* **tags**: [go](../tagged/go.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/golang/groupcache)**
+---
+#### [influxdb](https://github.com/influxdb/influxdb)
+_<sup>https://github.com/influxdb/influxdb</sup>_
+
+Scalable datastore for metrics, events, and real-time analytics.
+* **tags**: [go](../tagged/go.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/influxdb/influxdb)**
+---
+#### [ledisdb](https://github.com/siddontang/ledisdb)
+_<sup>https://github.com/siddontang/ledisdb</sup>_
+
+Ledisdb is a high performance NoSQL like Redis based on LevelDB.
+* **tags**: [go](../tagged/go.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/siddontang/ledisdb)**
+---
+#### [levigo](https://github.com/jmhodges/levigo)
+_<sup>https://github.com/jmhodges/levigo</sup>_
+
+Levigo is a Go wrapper for LevelDB.
+* **tags**: [go](../tagged/go.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/jmhodges/levigo)**
+---
+#### [moss](https://github.com/couchbase/moss)
+_<sup>https://github.com/couchbase/moss</sup>_
+
+Moss is a simple LSM key-value storage engine written in 100% Go.
+* **tags**: [go](../tagged/go.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/couchbase/moss)**
+---
+#### [nutsdb](https://github.com/xujiajun/nutsdb)
+_<sup>https://github.com/xujiajun/nutsdb</sup>_
+
+Nutsdb is a simple, fast, embeddable, persistent key/value store written in pure Go. It supports fully serializable transactions and many data structures such as  list, set, sorted set.
+* **tags**: [go](../tagged/go.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/xujiajun/nutsdb)**
+---
+#### [piladb](https://github.com/fern4lvarez/piladb)
+_<sup>https://github.com/fern4lvarez/piladb</sup>_
+
+Lightweight RESTful database engine based on stack data structures.
+* **tags**: [go](../tagged/go.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/fern4lvarez/piladb)**
+---
+#### [prometheus](https://github.com/prometheus/prometheus)
+_<sup>https://github.com/prometheus/prometheus</sup>_
+
+Monitoring system and time series database.
+* **tags**: [go](../tagged/go.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/prometheus/prometheus)**
+---
+#### [pudge](https://github.com/recoilme/pudge)
+_<sup>https://github.com/recoilme/pudge</sup>_
+
+Fast and simple  key/value store written using Go's standard library.
+* **tags**: [go](../tagged/go.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/recoilme/pudge)**
+---
+#### [rqlite](https://github.com/rqlite/rqlite)
+_<sup>https://github.com/rqlite/rqlite</sup>_
+
+The lightweight, distributed, relational database built on SQLite.
+* **tags**: [go](../tagged/go.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/rqlite/rqlite)**
+---
+#### [Scribble](https://github.com/nanobox-io/golang-scribble)
+_<sup>https://github.com/nanobox-io/golang-scribble</sup>_
+
+Tiny flat file JSON store.
+* **tags**: [go](../tagged/go.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/nanobox-io/golang-scribble)**
+---
+#### [slowpoke](https://github.com/recoilme/slowpoke)
+_<sup>https://github.com/recoilme/slowpoke</sup>_
+
+Key-value store with persistence.
+* **tags**: [go](../tagged/go.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/recoilme/slowpoke)**
+---
+#### [tempdb](https://github.com/rafaeljesus/tempdb)
+_<sup>https://github.com/rafaeljesus/tempdb</sup>_
+
+Key-value store for temporary items.
+* **tags**: [go](../tagged/go.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/rafaeljesus/tempdb)**
+---
+#### [tidb](https://github.com/pingcap/tidb)
+_<sup>https://github.com/pingcap/tidb</sup>_
+
+TiDB is a distributed SQL database. Inspired by the design of Google F1.
+* **tags**: [go](../tagged/go.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/pingcap/tidb)**
+---
+#### [tiedot](https://github.com/HouzuoGuo/tiedot)
+_<sup>https://github.com/HouzuoGuo/tiedot</sup>_
+
+Your NoSQL database powered by Golang.
+* **tags**: [go](../tagged/go.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/HouzuoGuo/tiedot)**
+---
+#### [Vasto](https://github.com/chrislusf/vasto)
+_<sup>https://github.com/chrislusf/vasto</sup>_
+
+A distributed high-performance key-value store. On Disk. Eventual consistent. HA. Able to grow or shrink without service interruption.
+* **tags**: [go](../tagged/go.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/chrislusf/vasto)**
+---
+#### [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics)
+_<sup>https://github.com/VictoriaMetrics/VictoriaMetrics</sup>_
+
+fast, resource-effective and scalable open source time series database. May be used as long-term remote storage for Prometheus. Supports PromQL.
+* **tags**: [go](../tagged/go.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/VictoriaMetrics/VictoriaMetrics)**
+---
+#### [avro](https://github.com/khezen/avro)
+_<sup>https://github.com/khezen/avro</sup>_
+
+Discover SQL schemas and convert them to AVRO schemas. Query SQL records into AVRO bytes.
+* **tags**: [go](../tagged/go.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/khezen/avro)**
+---
+#### [darwin](https://github.com/GuiaBolso/darwin)
+_<sup>https://github.com/GuiaBolso/darwin</sup>_
+
+Database schema evolution library for Go.
+* **tags**: [go](../tagged/go.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/GuiaBolso/darwin)**
+---
+#### [go-fixtures](https://github.com/RichardKnop/go-fixtures)
+_<sup>https://github.com/RichardKnop/go-fixtures</sup>_
+
+Django style fixtures for Golang's excellent built-in database/sql library.
+* **tags**: [go](../tagged/go.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/RichardKnop/go-fixtures)**
+---
+#### [go-pg-migrations](https://github.com/robinjoseph08/go-pg-migrations)
+_<sup>https://github.com/robinjoseph08/go-pg-migrations</sup>_
+
+A Go package to help write migrations with go-pg/pg.
+* **tags**: [go](../tagged/go.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/robinjoseph08/go-pg-migrations)**
+---
+#### [gondolier](https://github.com/emvi/gondolier)
+_<sup>https://github.com/emvi/gondolier</sup>_
+
+Database migration library using struct decorators.
+* **tags**: [go](../tagged/go.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/emvi/gondolier)**
+---
+#### [goose](https://github.com/steinbacher/goose)
+_<sup>https://github.com/steinbacher/goose</sup>_
+
+Database migration tool. You can manage your database's evolution by creating incremental SQL or Go scripts.
+* **tags**: [go](../tagged/go.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/steinbacher/goose)**
+---
+#### [gormigrate](https://github.com/go-gormigrate/gormigrate)
+_<sup>https://github.com/go-gormigrate/gormigrate</sup>_
+
+Database schema migration helper for Gorm ORM.
+* **tags**: [go](../tagged/go.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/go-gormigrate/gormigrate)**
+---
+#### [migrate](https://github.com/golang-migrate/migrate)
+_<sup>https://github.com/golang-migrate/migrate</sup>_
+
+Database migrations. CLI and Golang library.
+* **tags**: [go](../tagged/go.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/golang-migrate/migrate)**
+---
+#### [migrator](https://github.com/lopezator/migrator)
+_<sup>https://github.com/lopezator/migrator</sup>_
+
+Dead simple Go database migration library.
+* **tags**: [go](../tagged/go.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/lopezator/migrator)**
+---
+#### [pravasan](https://github.com/pravasan/pravasan)
+_<sup>https://github.com/pravasan/pravasan</sup>_
+
+Simple Migration tool - currently for MySQL but planning to soon support Postgres, SQLite, MongoDB, etc.
+* **tags**: [go](../tagged/go.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/pravasan/pravasan)**
+---
+#### [soda](https://github.com/gobuffalo/pop/tree/master/soda)
+_<sup>https://github.com/gobuffalo/pop/tree/master/soda</sup>_
+
+Database migration, creation, ORM, etc... for MySQL, PostgreSQL, and SQLite.
+* **tags**: [go](../tagged/go.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/gobuffalo/pop/tree/master/soda)**
+---
+#### [sql-migrate](https://github.com/rubenv/sql-migrate)
+_<sup>https://github.com/rubenv/sql-migrate</sup>_
+
+Database migration tool. Allows embedding migrations into the application using go-bindata.
+* **tags**: [go](../tagged/go.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/rubenv/sql-migrate)**
+---
+#### [chproxy](https://github.com/Vertamedia/chproxy)
+_<sup>https://github.com/Vertamedia/chproxy</sup>_
+
+HTTP proxy for ClickHouse database.
+* **tags**: [go](../tagged/go.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/Vertamedia/chproxy)**
+---
+#### [clickhouse-bulk](https://github.com/nikepan/clickhouse-bulk)
+_<sup>https://github.com/nikepan/clickhouse-bulk</sup>_
+
+Collects small insterts and sends big requests to ClickHouse servers.
+* **tags**: [go](../tagged/go.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/nikepan/clickhouse-bulk)**
+---
+#### [datagen](https://github.com/codingconcepts/datagen)
+_<sup>https://github.com/codingconcepts/datagen</sup>_
+
+A fast data generator that's multi-table aware and supports multi-row DML.
+* **tags**: [go](../tagged/go.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/codingconcepts/datagen)**
+---
+#### [dbbench](https://github.com/sj14/dbbench)
+_<sup>https://github.com/sj14/dbbench</sup>_
+
+Database benchmarking tool with support for several databases and scripts.
+* **tags**: [go](../tagged/go.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/sj14/dbbench)**
+---
+#### [go-mysql](https://github.com/siddontang/go-mysql)
+_<sup>https://github.com/siddontang/go-mysql</sup>_
+
+Go toolset to handle MySQL protocol and replication.
+* **tags**: [go](../tagged/go.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/siddontang/go-mysql)**
+---
+#### [go-mysql-elasticsearch](https://github.com/siddontang/go-mysql-elasticsearch)
+_<sup>https://github.com/siddontang/go-mysql-elasticsearch</sup>_
+
+Sync your MySQL data into Elasticsearch automatically.
+* **tags**: [go](../tagged/go.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/siddontang/go-mysql-elasticsearch)**
+---
+#### [kingshard](https://github.com/flike/kingshard)
+_<sup>https://github.com/flike/kingshard</sup>_
+
+kingshard is a high performance proxy for MySQL powered by Golang.
+* **tags**: [go](../tagged/go.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/flike/kingshard)**
+---
+#### [myreplication](https://github.com/2tvenom/myreplication)
+_<sup>https://github.com/2tvenom/myreplication</sup>_
+
+MySql binary log replication listener. Supports statement and row based replication.
+* **tags**: [go](../tagged/go.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/2tvenom/myreplication)**
+---
+#### [octillery](https://github.com/knocknote/octillery)
+_<sup>https://github.com/knocknote/octillery</sup>_
+
+Go package for sharding databases ( Supports every ORM or raw SQL ).
+* **tags**: [go](../tagged/go.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/knocknote/octillery)**
+---
+#### [orchestrator](https://github.com/github/orchestrator)
+_<sup>https://github.com/github/orchestrator</sup>_
+
+MySQL replication topology manager & visualizer.
+* **tags**: [go](../tagged/go.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/github/orchestrator)**
+---
+#### [pgweb](https://github.com/sosedoff/pgweb)
+_<sup>https://github.com/sosedoff/pgweb</sup>_
+
+Web-based PostgreSQL database browser.
+* **tags**: [go](../tagged/go.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/sosedoff/pgweb)**
+---
+#### [prep](https://github.com/hexdigest/prep)
+_<sup>https://github.com/hexdigest/prep</sup>_
+
+Use prepared SQL statements without changing your code.
+* **tags**: [go](../tagged/go.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/hexdigest/prep)**
+---
+#### [pREST](https://github.com/nuveo/prest)
+_<sup>https://github.com/nuveo/prest</sup>_
+
+Serve a RESTful API from any PostgreSQL database.
+* **tags**: [go](../tagged/go.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/nuveo/prest)**
+---
+#### [rwdb](https://github.com/andizzle/rwdb)
+_<sup>https://github.com/andizzle/rwdb</sup>_
+
+rwdb provides read replica capability for multiple database servers setup.
+* **tags**: [go](../tagged/go.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/andizzle/rwdb)**
+---
+#### [vitess](https://github.com/youtube/vitess)
+_<sup>https://github.com/youtube/vitess</sup>_
+
+vitess provides servers and tools which facilitate scaling of MySQL databases for large scale web services.
+* **tags**: [go](../tagged/go.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/youtube/vitess)**
+---
+#### [Dotsql](https://github.com/gchaincl/dotsql)
+_<sup>https://github.com/gchaincl/dotsql</sup>_
+
+Go library that helps you keep sql files in one place and use them with ease.
+* **tags**: [go](../tagged/go.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/gchaincl/dotsql)**
+---
+#### [gendry](https://github.com/didi/gendry)
+_<sup>https://github.com/didi/gendry</sup>_
+
+Non-invasive SQL builder and powerful data binder.
+* **tags**: [go](../tagged/go.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/didi/gendry)**
+---
+#### [godbal](https://github.com/xujiajun/godbal)
+_<sup>https://github.com/xujiajun/godbal</sup>_
+
+Database Abstraction Layer (dbal) for go. Support SQL builder and get result easily.
+* **tags**: [go](../tagged/go.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/xujiajun/godbal)**
+---
+#### [goqu](https://github.com/doug-martin/goqu)
+_<sup>https://github.com/doug-martin/goqu</sup>_
+
+Idiomatic SQL builder and query library.
+* **tags**: [go](../tagged/go.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/doug-martin/goqu)**
+---
+#### [igor](https://github.com/galeone/igor)
+_<sup>https://github.com/galeone/igor</sup>_
+
+Abstraction layer for PostgreSQL that supports advanced functionality and uses gorm-like syntax.
+* **tags**: [go](../tagged/go.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/galeone/igor)**
+---
+#### [ormlite](https://github.com/pupizoid/ormlite)
+_<sup>https://github.com/pupizoid/ormlite</sup>_
+
+Lightweight package containing some ORM-like features and helpers for sqlite databases.
+* **tags**: [go](../tagged/go.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/pupizoid/ormlite)**
+---
+#### [ozzo-dbx](https://github.com/go-ozzo/ozzo-dbx)
+_<sup>https://github.com/go-ozzo/ozzo-dbx</sup>_
+
+Powerful data retrieval methods as well as DB-agnostic query building capabilities.
+* **tags**: [go](../tagged/go.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/go-ozzo/ozzo-dbx)**
+---
+#### [scaneo](https://github.com/variadico/scaneo)
+_<sup>https://github.com/variadico/scaneo</sup>_
+
+Generate Go code to convert database rows into arbitrary structs.
+* **tags**: [go](../tagged/go.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/variadico/scaneo)**
+---
+#### [sqrl](https://github.com/elgris/sqrl)
+_<sup>https://github.com/elgris/sqrl</sup>_
+
+SQL query builder, fork of Squirrel with improved performance.
+* **tags**: [go](../tagged/go.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/elgris/sqrl)**
+---
+#### [Squalus](https://gitlab.com/qosenergy/squalus)
+_<sup>https://gitlab.com/qosenergy/squalus</sup>_
+
+Thin layer over the Go SQL package that makes it easier to perform queries.
+* **tags**: [go](../tagged/go.md), [database](../tagged/database.md)
+---
+#### [Squirrel](https://github.com/Masterminds/squirrel)
+_<sup>https://github.com/Masterminds/squirrel</sup>_
+
+Go library that helps you build SQL queries.
+* **tags**: [go](../tagged/go.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/Masterminds/squirrel)**
+---
+#### [xo](https://github.com/knq/xo)
+_<sup>https://github.com/knq/xo</sup>_
+
+Generate idiomatic Go code for databases based on existing schema definitions or custom queries supporting PostgreSQL, MySQL, SQLite, Oracle, and Microsoft SQL Server.
+* **tags**: [go](../tagged/go.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/knq/xo)**
+---
 #### [pickleDB](https://github.com/patx/pickledb)
 _<sup>https://github.com/patx/pickledb</sup>_
 

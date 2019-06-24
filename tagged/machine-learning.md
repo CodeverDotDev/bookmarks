@@ -2,6 +2,237 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/machine-learning](https://www.bookmarks.dev/tagged/machine-learning)</sup></sup>_
 ---
+#### [bayesian](https://github.com/jbrukh/bayesian)
+_<sup>https://github.com/jbrukh/bayesian</sup>_
+
+Naive Bayesian Classification for Golang.
+* **tags**: [go](../tagged/go.md), [machine-learning](../tagged/machine-learning.md)
+* :octocat: **[source code](https://github.com/jbrukh/bayesian)**
+---
+#### [CloudForest](https://github.com/ryanbressler/CloudForest)
+_<sup>https://github.com/ryanbressler/CloudForest</sup>_
+
+Fast, flexible, multi-threaded ensembles of decision trees for machine learning in pure Go.
+* **tags**: [go](../tagged/go.md), [machine-learning](../tagged/machine-learning.md)
+* :octocat: **[source code](https://github.com/ryanbressler/CloudForest)**
+---
+#### [eaopt](https://github.com/MaxHalford/eaopt)
+_<sup>https://github.com/MaxHalford/eaopt</sup>_
+
+An evolutionary optimization library.
+* **tags**: [go](../tagged/go.md), [machine-learning](../tagged/machine-learning.md)
+* :octocat: **[source code](https://github.com/MaxHalford/eaopt)**
+---
+#### [evoli](https://github.com/khezen/evoli)
+_<sup>https://github.com/khezen/evoli</sup>_
+
+Genetic Algorithm and Particle Swarm Optimization library.
+* **tags**: [go](../tagged/go.md), [machine-learning](../tagged/machine-learning.md)
+* :octocat: **[source code](https://github.com/khezen/evoli)**
+---
+#### [fonet](https://github.com/Fontinalis/fonet)
+_<sup>https://github.com/Fontinalis/fonet</sup>_
+
+A Deep Neural Network library written in Go.
+* **tags**: [go](../tagged/go.md), [machine-learning](../tagged/machine-learning.md)
+* :octocat: **[source code](https://github.com/Fontinalis/fonet)**
+---
+#### [go-cluster](https://github.com/e-XpertSolutions/go-cluster)
+_<sup>https://github.com/e-XpertSolutions/go-cluster</sup>_
+
+Go implementation of the k-modes and k-prototypes clustering algorithms.
+* **tags**: [go](../tagged/go.md), [machine-learning](../tagged/machine-learning.md)
+* :octocat: **[source code](https://github.com/e-XpertSolutions/go-cluster)**
+---
+#### [go-deep](https://github.com/patrikeh/go-deep)
+_<sup>https://github.com/patrikeh/go-deep</sup>_
+
+A feature-rich neural network library in Go.
+* **tags**: [go](../tagged/go.md), [machine-learning](../tagged/machine-learning.md)
+* :octocat: **[source code](https://github.com/patrikeh/go-deep)**
+---
+#### [go-fann](https://github.com/white-pony/go-fann)
+_<sup>https://github.com/white-pony/go-fann</sup>_
+
+Go bindings for Fast Artificial Neural Networks(FANN) library.
+* **tags**: [go](../tagged/go.md), [machine-learning](../tagged/machine-learning.md)
+* :octocat: **[source code](https://github.com/white-pony/go-fann)**
+---
+#### [go-galib](https://github.com/thoj/go-galib)
+_<sup>https://github.com/thoj/go-galib</sup>_
+
+Genetic Algorithms library written in Go / golang.
+* **tags**: [go](../tagged/go.md), [machine-learning](../tagged/machine-learning.md)
+* :octocat: **[source code](https://github.com/thoj/go-galib)**
+---
+#### [go-pr](https://github.com/daviddengcn/go-pr)
+_<sup>https://github.com/daviddengcn/go-pr</sup>_
+
+Pattern recognition package in Go lang.
+* **tags**: [go](../tagged/go.md), [machine-learning](../tagged/machine-learning.md)
+* :octocat: **[source code](https://github.com/daviddengcn/go-pr)**
+---
+#### [gobrain](https://github.com/goml/gobrain)
+_<sup>https://github.com/goml/gobrain</sup>_
+
+Neural Networks written in go.
+* **tags**: [go](../tagged/go.md), [machine-learning](../tagged/machine-learning.md)
+* :octocat: **[source code](https://github.com/goml/gobrain)**
+---
+#### [godist](https://github.com/e-dard/godist)
+_<sup>https://github.com/e-dard/godist</sup>_
+
+Various probability distributions, and associated methods.
+* **tags**: [go](../tagged/go.md), [machine-learning](../tagged/machine-learning.md)
+* :octocat: **[source code](https://github.com/e-dard/godist)**
+---
+#### [goga](https://github.com/tomcraven/goga)
+_<sup>https://github.com/tomcraven/goga</sup>_
+
+Genetic algorithm library for Go.
+* **tags**: [go](../tagged/go.md), [machine-learning](../tagged/machine-learning.md)
+* :octocat: **[source code](https://github.com/tomcraven/goga)**
+---
+#### [GoLearn](https://github.com/sjwhitworth/golearn)
+_<sup>https://github.com/sjwhitworth/golearn</sup>_
+
+General Machine Learning library for Go.
+* **tags**: [go](../tagged/go.md), [machine-learning](../tagged/machine-learning.md)
+* :octocat: **[source code](https://github.com/sjwhitworth/golearn)**
+---
+#### [golinear](https://github.com/danieldk/golinear)
+_<sup>https://github.com/danieldk/golinear</sup>_
+
+liblinear bindings for Go.
+* **tags**: [go](../tagged/go.md), [machine-learning](../tagged/machine-learning.md)
+* :octocat: **[source code](https://github.com/danieldk/golinear)**
+---
+#### [GoMind](https://github.com/surenderthakran/gomind)
+_<sup>https://github.com/surenderthakran/gomind</sup>_
+
+A simplistic Neural Network Library in Go.
+* **tags**: [go](../tagged/go.md), [machine-learning](../tagged/machine-learning.md)
+* :octocat: **[source code](https://github.com/surenderthakran/gomind)**
+---
+#### [goml](https://github.com/cdipaolo/goml)
+_<sup>https://github.com/cdipaolo/goml</sup>_
+
+On-line Machine Learning in Go.
+* **tags**: [go](../tagged/go.md), [machine-learning](../tagged/machine-learning.md)
+* :octocat: **[source code](https://github.com/cdipaolo/goml)**
+---
+#### [goRecommend](https://github.com/timkaye11/goRecommend)
+_<sup>https://github.com/timkaye11/goRecommend</sup>_
+
+Recommendation Algorithms library written in Go.
+* **tags**: [go](../tagged/go.md), [machine-learning](../tagged/machine-learning.md)
+* :octocat: **[source code](https://github.com/timkaye11/goRecommend)**
+---
+#### [gorgonia](https://github.com/chewxy/gorgonia)
+_<sup>https://github.com/chewxy/gorgonia</sup>_
+
+graph-based computational library like Theano for Go that provides primitives for building various machine learning and neural network algorithms.
+* **tags**: [go](../tagged/go.md), [machine-learning](../tagged/machine-learning.md)
+* :octocat: **[source code](https://github.com/chewxy/gorgonia)**
+---
+#### [gorse](https://github.com/zhenghaoz/gorse)
+_<sup>https://github.com/zhenghaoz/gorse</sup>_
+
+A High Performance Recommender System Package based on Collaborative Filtering for Go.
+* **tags**: [go](../tagged/go.md), [machine-learning](../tagged/machine-learning.md)
+* :octocat: **[source code](https://github.com/zhenghaoz/gorse)**
+---
+#### [goscore](https://github.com/asafschers/goscore)
+_<sup>https://github.com/asafschers/goscore</sup>_
+
+Go Scoring API for PMML.
+* **tags**: [go](../tagged/go.md), [machine-learning](../tagged/machine-learning.md)
+* :octocat: **[source code](https://github.com/asafschers/goscore)**
+---
+#### [gosseract](https://github.com/otiai10/gosseract)
+_<sup>https://github.com/otiai10/gosseract</sup>_
+
+Go package for OCR (Optical Character Recognition), by using Tesseract C++ library.
+* **tags**: [go](../tagged/go.md), [machine-learning](../tagged/machine-learning.md)
+* :octocat: **[source code](https://github.com/otiai10/gosseract)**
+---
+#### [libsvm](https://github.com/datastream/libsvm)
+_<sup>https://github.com/datastream/libsvm</sup>_
+
+libsvm golang version derived work based on LIBSVM 3.14.
+* **tags**: [go](../tagged/go.md), [machine-learning](../tagged/machine-learning.md)
+* :octocat: **[source code](https://github.com/datastream/libsvm)**
+---
+#### [mlgo](https://github.com/NullHypothesis/mlgo)
+_<sup>https://github.com/NullHypothesis/mlgo</sup>_
+
+This project aims to provide minimalistic machine learning algorithms in Go.
+* **tags**: [go](../tagged/go.md), [machine-learning](../tagged/machine-learning.md)
+* :octocat: **[source code](https://github.com/NullHypothesis/mlgo)**
+---
+#### [neat](https://github.com/jinyeom/neat)
+_<sup>https://github.com/jinyeom/neat</sup>_
+
+Plug-and-play, parallel Go framework for NeuroEvolution of Augmenting Topologies (NEAT).
+* **tags**: [go](../tagged/go.md), [machine-learning](../tagged/machine-learning.md)
+* :octocat: **[source code](https://github.com/jinyeom/neat)**
+---
+#### [neural-go](https://github.com/schuyler/neural-go)
+_<sup>https://github.com/schuyler/neural-go</sup>_
+
+Multilayer perceptron network implemented in Go, with training via backpropagation.
+* **tags**: [go](../tagged/go.md), [machine-learning](../tagged/machine-learning.md)
+* :octocat: **[source code](https://github.com/schuyler/neural-go)**
+---
+#### [ocrserver](https://github.com/otiai10/ocrserver)
+_<sup>https://github.com/otiai10/ocrserver</sup>_
+
+A simple OCR API server, seriously easy to be deployed by Docker and Heroku.
+* **tags**: [go](../tagged/go.md), [machine-learning](../tagged/machine-learning.md)
+* :octocat: **[source code](https://github.com/otiai10/ocrserver)**
+---
+#### [onnx-go](https://github.com/owulveryck/onnx-go)
+_<sup>https://github.com/owulveryck/onnx-go</sup>_
+
+Go Interface to Open Neural Network Exchange (ONNX).
+* **tags**: [go](../tagged/go.md), [machine-learning](../tagged/machine-learning.md)
+* :octocat: **[source code](https://github.com/owulveryck/onnx-go)**
+---
+#### [probab](https://github.com/ThePaw/probab)
+_<sup>https://github.com/ThePaw/probab</sup>_
+
+Probability distribution functions. Bayesian inference. Written in pure Go.
+* **tags**: [go](../tagged/go.md), [machine-learning](../tagged/machine-learning.md)
+* :octocat: **[source code](https://github.com/ThePaw/probab)**
+---
+#### [regommend](https://github.com/muesli/regommend)
+_<sup>https://github.com/muesli/regommend</sup>_
+
+Recommendation & collaborative filtering engine.
+* **tags**: [go](../tagged/go.md), [machine-learning](../tagged/machine-learning.md)
+* :octocat: **[source code](https://github.com/muesli/regommend)**
+---
+#### [shield](https://github.com/eaigner/shield)
+_<sup>https://github.com/eaigner/shield</sup>_
+
+Bayesian text classifier with flexible tokenizers and storage backends for Go.
+* **tags**: [go](../tagged/go.md), [machine-learning](../tagged/machine-learning.md)
+* :octocat: **[source code](https://github.com/eaigner/shield)**
+---
+#### [tfgo](https://github.com/galeone/tfgo)
+_<sup>https://github.com/galeone/tfgo</sup>_
+
+Easy to use Tensorflow bindings: simplifies the usage of the official Tensorflow Go bindings. Define computational graphs in Go, load and execute models trained in Python.
+* **tags**: [go](../tagged/go.md), [machine-learning](../tagged/machine-learning.md)
+* :octocat: **[source code](https://github.com/galeone/tfgo)**
+---
+#### [Varis](https://github.com/Xamber/Varis)
+_<sup>https://github.com/Xamber/Varis</sup>_
+
+Golang Neural Network.
+* **tags**: [go](../tagged/go.md), [machine-learning](../tagged/machine-learning.md)
+* :octocat: **[source code](https://github.com/Xamber/Varis)**
+---
 #### [AI4R](https://github.com/sergiofierens/ai4r)
 _<sup>https://github.com/sergiofierens/ai4r</sup>_
 

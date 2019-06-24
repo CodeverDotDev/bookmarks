@@ -2,6 +2,96 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/email](https://www.bookmarks.dev/tagged/email)</sup></sup>_
 ---
+#### [chasquid](https://blitiri.com.ar/p/chasquid)
+_<sup>https://blitiri.com.ar/p/chasquid</sup>_
+
+SMTP server written in Go.
+* **tags**: [go](../tagged/go.md), [email](../tagged/email.md)
+---
+#### [douceur](https://github.com/aymerick/douceur)
+_<sup>https://github.com/aymerick/douceur</sup>_
+
+CSS inliner for your HTML emails.
+* **tags**: [go](../tagged/go.md), [email](../tagged/email.md)
+* :octocat: **[source code](https://github.com/aymerick/douceur)**
+---
+#### [email](https://github.com/jordan-wright/email)
+_<sup>https://github.com/jordan-wright/email</sup>_
+
+A robust and flexible email library for Go.
+* **tags**: [go](../tagged/go.md), [email](../tagged/email.md)
+* :octocat: **[source code](https://github.com/jordan-wright/email)**
+---
+#### [go-dkim](https://github.com/toorop/go-dkim)
+_<sup>https://github.com/toorop/go-dkim</sup>_
+
+DKIM library, to sign & verify email.
+* **tags**: [go](../tagged/go.md), [email](../tagged/email.md)
+* :octocat: **[source code](https://github.com/toorop/go-dkim)**
+---
+#### [go-imap](https://github.com/emersion/go-imap)
+_<sup>https://github.com/emersion/go-imap</sup>_
+
+IMAP library for clients and servers.
+* **tags**: [go](../tagged/go.md), [email](../tagged/email.md)
+* :octocat: **[source code](https://github.com/emersion/go-imap)**
+---
+#### [go-message](https://github.com/emersion/go-message)
+_<sup>https://github.com/emersion/go-message</sup>_
+
+Streaming library for the Internet Message Format and mail messages.
+* **tags**: [go](../tagged/go.md), [email](../tagged/email.md)
+* :octocat: **[source code](https://github.com/emersion/go-message)**
+---
+#### [go-premailer](https://github.com/vanng822/go-premailer)
+_<sup>https://github.com/vanng822/go-premailer</sup>_
+
+Inline styling for HTML mail in Go.
+* **tags**: [go](../tagged/go.md), [email](../tagged/email.md)
+* :octocat: **[source code](https://github.com/vanng822/go-premailer)**
+---
+#### [Gomail](https://github.com/go-gomail/gomail/)
+_<sup>https://github.com/go-gomail/gomail/</sup>_
+
+Gomail is a very simple and powerful package to send emails.
+* **tags**: [go](../tagged/go.md), [email](../tagged/email.md)
+* :octocat: **[source code](https://github.com/go-gomail/gomail/)**
+---
+#### [Hectane](https://github.com/hectane/hectane)
+_<sup>https://github.com/hectane/hectane</sup>_
+
+Lightweight SMTP client providing an HTTP API.
+* **tags**: [go](../tagged/go.md), [email](../tagged/email.md)
+* :octocat: **[source code](https://github.com/hectane/hectane)**
+---
+#### [hermes](https://github.com/matcornic/hermes)
+_<sup>https://github.com/matcornic/hermes</sup>_
+
+Golang package that generates clean, responsive HTML e-mails.
+* **tags**: [go](../tagged/go.md), [email](../tagged/email.md)
+* :octocat: **[source code](https://github.com/matcornic/hermes)**
+---
+#### [MailHog](https://github.com/mailhog/MailHog)
+_<sup>https://github.com/mailhog/MailHog</sup>_
+
+Email and SMTP testing with web and API interface.
+* **tags**: [go](../tagged/go.md), [email](../tagged/email.md)
+* :octocat: **[source code](https://github.com/mailhog/MailHog)**
+---
+#### [SendGrid](https://github.com/sendgrid/sendgrid-go)
+_<sup>https://github.com/sendgrid/sendgrid-go</sup>_
+
+SendGrid's Go library for sending email.
+* **tags**: [go](../tagged/go.md), [email](../tagged/email.md)
+* :octocat: **[source code](https://github.com/sendgrid/sendgrid-go)**
+---
+#### [smtp](https://github.com/mailhog/smtp)
+_<sup>https://github.com/mailhog/smtp</sup>_
+
+SMTP server protocol state machine.
+* **tags**: [go](../tagged/go.md), [email](../tagged/email.md)
+* :octocat: **[source code](https://github.com/mailhog/smtp)**
+---
 #### [Gibbon](https://github.com/amro/gibbon)
 _<sup>https://github.com/amro/gibbon</sup>_
 

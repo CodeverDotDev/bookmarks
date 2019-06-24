@@ -2,6 +2,48 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/error-handling](https://www.bookmarks.dev/tagged/error-handling)</sup></sup>_
 ---
+#### [errlog](https://github.com/snwfdhmp/errlog)
+_<sup>https://github.com/snwfdhmp/errlog</sup>_
+
+Hackable package that determines responsible source code for an error (and some other fast-debugging features). Pluggable to any logger in-place.
+* **tags**: [go](../tagged/go.md), [error-handling](../tagged/error-handling.md)
+* :octocat: **[source code](https://github.com/snwfdhmp/errlog)**
+---
+#### [errors](https://github.com/pkg/errors)
+_<sup>https://github.com/pkg/errors</sup>_
+
+Package that provides simple error handling primitives.
+* **tags**: [go](../tagged/go.md), [error-handling](../tagged/error-handling.md)
+* :octocat: **[source code](https://github.com/pkg/errors)**
+---
+#### [errorx](https://github.com/joomcode/errorx)
+_<sup>https://github.com/joomcode/errorx</sup>_
+
+A feature rich error package with stack traces, composition of errors and more.
+* **tags**: [go](../tagged/go.md), [error-handling](../tagged/error-handling.md)
+* :octocat: **[source code](https://github.com/joomcode/errorx)**
+---
+#### [go-multierror](https://github.com/hashicorp/go-multierror)
+_<sup>https://github.com/hashicorp/go-multierror</sup>_
+
+Go (golang) package for representing a list of errors as a single error.
+* **tags**: [go](../tagged/go.md), [error-handling](../tagged/error-handling.md)
+* :octocat: **[source code](https://github.com/hashicorp/go-multierror)**
+---
+#### [tracerr](https://github.com/ztrue/tracerr)
+_<sup>https://github.com/ztrue/tracerr</sup>_
+
+Golang errors with stack trace and source fragments.
+* **tags**: [go](../tagged/go.md), [error-handling](../tagged/error-handling.md)
+* :octocat: **[source code](https://github.com/ztrue/tracerr)**
+---
+#### [werr](https://github.com/txgruppi/werr)
+_<sup>https://github.com/txgruppi/werr</sup>_
+
+Error Wrapper creates an wrapper for the error type in Go which captures the File, Line and Stack of where it was called.
+* **tags**: [go](../tagged/go.md), [error-handling](../tagged/error-handling.md)
+* :octocat: **[source code](https://github.com/txgruppi/werr)**
+---
 #### [Airbrake](https://github.com/airbrake/airbrake)
 _<sup>https://github.com/airbrake/airbrake</sup>_
 

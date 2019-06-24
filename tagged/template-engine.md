@@ -2,6 +2,139 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/template-engine](https://www.bookmarks.dev/tagged/template-engine)</sup></sup>_
 ---
+#### [ace](https://github.com/yosssi/ace)
+_<sup>https://github.com/yosssi/ace</sup>_
+
+Ace is an HTML template engine for Go, inspired by Slim and Jade. Ace is a refinement of Gold.
+* **tags**: [go](../tagged/go.md), [template-engine](../tagged/template-engine.md)
+* :octocat: **[source code](https://github.com/yosssi/ace)**
+---
+#### [amber](https://github.com/eknkc/amber)
+_<sup>https://github.com/eknkc/amber</sup>_
+
+Amber is an elegant templating engine for Go Programming Language It is inspired from HAML and Jade.
+* **tags**: [go](../tagged/go.md), [template-engine](../tagged/template-engine.md)
+* :octocat: **[source code](https://github.com/eknkc/amber)**
+---
+#### [damsel](https://github.com/dskinner/damsel)
+_<sup>https://github.com/dskinner/damsel</sup>_
+
+Markup language featuring html outlining via css-selectors, extensible via pkg html/template and others.
+* **tags**: [go](../tagged/go.md), [template-engine](../tagged/template-engine.md)
+* :octocat: **[source code](https://github.com/dskinner/damsel)**
+---
+#### [ego](https://github.com/benbjohnson/ego)
+_<sup>https://github.com/benbjohnson/ego</sup>_
+
+Lightweight templating language that lets you write templates in Go. Templates are translated into Go and compiled.
+* **tags**: [go](../tagged/go.md), [template-engine](../tagged/template-engine.md)
+* :octocat: **[source code](https://github.com/benbjohnson/ego)**
+---
+#### [extemplate](https://github.com/dannyvankooten/extemplate)
+_<sup>https://github.com/dannyvankooten/extemplate</sup>_
+
+Tiny wrapper around html/template to allow for easy file-based template inheritance.
+* **tags**: [go](../tagged/go.md), [template-engine](../tagged/template-engine.md)
+* :octocat: **[source code](https://github.com/dannyvankooten/extemplate)**
+---
+#### [fasttemplate](https://github.com/valyala/fasttemplate)
+_<sup>https://github.com/valyala/fasttemplate</sup>_
+
+Simple and fast template engine. Substitutes template placeholders up to 10x faster than [text/template](http://golang.org/pkg/text/template/).
+* **tags**: [go](../tagged/go.md), [template-engine](../tagged/template-engine.md)
+* :octocat: **[source code](https://github.com/valyala/fasttemplate)**
+---
+#### [gofpdf](https://github.com/jung-kurt/gofpdf)
+_<sup>https://github.com/jung-kurt/gofpdf</sup>_
+
+PDF document generator with high level support for text, drawing and images.
+* **tags**: [go](../tagged/go.md), [template-engine](../tagged/template-engine.md)
+* :octocat: **[source code](https://github.com/jung-kurt/gofpdf)**
+---
+#### [goview](https://github.com/foolin/goview)
+_<sup>https://github.com/foolin/goview</sup>_
+
+Goview is a lightweight, minimalist and idiomatic template library based on golang html/template for building Go web application.
+* **tags**: [go](../tagged/go.md), [template-engine](../tagged/template-engine.md)
+* :octocat: **[source code](https://github.com/foolin/goview)**
+---
+#### [hero](https://github.com/shiyanhui/hero)
+_<sup>https://github.com/shiyanhui/hero</sup>_
+
+Hero is a handy, fast and powerful go template engine.
+* **tags**: [go](../tagged/go.md), [template-engine](../tagged/template-engine.md)
+* :octocat: **[source code](https://github.com/shiyanhui/hero)**
+---
+#### [jet](https://github.com/CloudyKit/jet)
+_<sup>https://github.com/CloudyKit/jet</sup>_
+
+Jet template engine.
+* **tags**: [go](../tagged/go.md), [template-engine](../tagged/template-engine.md)
+* :octocat: **[source code](https://github.com/CloudyKit/jet)**
+---
+#### [kasia.go](https://github.com/ziutek/kasia.go)
+_<sup>https://github.com/ziutek/kasia.go</sup>_
+
+Templating system for HTML and other text documents - go implementation.
+* **tags**: [go](../tagged/go.md), [template-engine](../tagged/template-engine.md)
+* :octocat: **[source code](https://github.com/ziutek/kasia.go)**
+---
+#### [liquid](https://github.com/osteele/liquid)
+_<sup>https://github.com/osteele/liquid</sup>_
+
+Go implementation of Shopify Liquid templates.
+* **tags**: [go](../tagged/go.md), [template-engine](../tagged/template-engine.md)
+* :octocat: **[source code](https://github.com/osteele/liquid)**
+---
+#### [mustache](https://github.com/hoisie/mustache)
+_<sup>https://github.com/hoisie/mustache</sup>_
+
+Go implementation of the Mustache template language.
+* **tags**: [go](../tagged/go.md), [template-engine](../tagged/template-engine.md)
+* :octocat: **[source code](https://github.com/hoisie/mustache)**
+---
+#### [pongo2](https://github.com/flosch/pongo2)
+_<sup>https://github.com/flosch/pongo2</sup>_
+
+Django-like template-engine for Go.
+* **tags**: [go](../tagged/go.md), [template-engine](../tagged/template-engine.md)
+* :octocat: **[source code](https://github.com/flosch/pongo2)**
+---
+#### [quicktemplate](https://github.com/valyala/quicktemplate)
+_<sup>https://github.com/valyala/quicktemplate</sup>_
+
+Fast, powerful, yet easy to use template engine. Converts templates into Go code and then compiles it.
+* **tags**: [go](../tagged/go.md), [template-engine](../tagged/template-engine.md)
+* :octocat: **[source code](https://github.com/valyala/quicktemplate)**
+---
+#### [raymond](https://github.com/aymerick/raymond)
+_<sup>https://github.com/aymerick/raymond</sup>_
+
+Complete handlebars implementation in Go.
+* **tags**: [go](../tagged/go.md), [template-engine](../tagged/template-engine.md)
+* :octocat: **[source code](https://github.com/aymerick/raymond)**
+---
+#### [Razor](https://github.com/sipin/gorazor)
+_<sup>https://github.com/sipin/gorazor</sup>_
+
+Razor view engine for Golang.
+* **tags**: [go](../tagged/go.md), [template-engine](../tagged/template-engine.md)
+* :octocat: **[source code](https://github.com/sipin/gorazor)**
+---
+#### [Soy](https://github.com/robfig/soy)
+_<sup>https://github.com/robfig/soy</sup>_
+
+Closure templates (aka Soy templates) for Go, following the [official spec](https://developers.google.com/closure/templates/).
+* **tags**: [go](../tagged/go.md), [template-engine](../tagged/template-engine.md)
+* :octocat: **[source code](https://github.com/robfig/soy)**
+---
+#### [velvet](https://github.com/gobuffalo/velvet)
+_<sup>https://github.com/gobuffalo/velvet</sup>_
+
+Complete handlebars implementation in Go.
+* **tags**: [go](../tagged/go.md), [template-engine](../tagged/template-engine.md)
+* :octocat: **[source code](https://github.com/gobuffalo/velvet)**
+---
 #### [Curly](https://github.com/zendesk/curly)
 _<sup>https://github.com/zendesk/curly</sup>_
 

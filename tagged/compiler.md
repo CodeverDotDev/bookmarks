@@ -2,6 +2,41 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/compiler](https://www.bookmarks.dev/tagged/compiler)</sup></sup>_
 ---
+#### [c4go](https://github.com/Konstantin8105/c4go)
+_<sup>https://github.com/Konstantin8105/c4go</sup>_
+
+Transpile C code to Go code.
+* **tags**: [go](../tagged/go.md), [compiler](../tagged/compiler.md)
+* :octocat: **[source code](https://github.com/Konstantin8105/c4go)**
+---
+#### [f4go](https://github.com/Konstantin8105/f4go)
+_<sup>https://github.com/Konstantin8105/f4go</sup>_
+
+Transpile FORTRAN 77 code to Go code.
+* **tags**: [go](../tagged/go.md), [compiler](../tagged/compiler.md)
+* :octocat: **[source code](https://github.com/Konstantin8105/f4go)**
+---
+#### [gopherjs](https://github.com/gopherjs/gopherjs)
+_<sup>https://github.com/gopherjs/gopherjs</sup>_
+
+Compiler from Go to JavaScript.
+* **tags**: [go](../tagged/go.md), [compiler](../tagged/compiler.md)
+* :octocat: **[source code](https://github.com/gopherjs/gopherjs)**
+---
+#### [llgo](https://github.com/go-llvm/llgo)
+_<sup>https://github.com/go-llvm/llgo</sup>_
+
+LLVM-based compiler for Go.
+* **tags**: [go](../tagged/go.md), [compiler](../tagged/compiler.md)
+* :octocat: **[source code](https://github.com/go-llvm/llgo)**
+---
+#### [tardisgo](https://github.com/tardisgo/tardisgo)
+_<sup>https://github.com/tardisgo/tardisgo</sup>_
+
+Golang to Haxe to CPP/CSharp/Java/JavaScript transpiler.
+* **tags**: [go](../tagged/go.md), [compiler](../tagged/compiler.md)
+* :octocat: **[source code](https://github.com/tardisgo/tardisgo)**
+---
 #### [JRuby](https://github.com/jruby/jruby)
 _<sup>https://github.com/jruby/jruby</sup>_
 

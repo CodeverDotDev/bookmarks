@@ -2,6 +2,69 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/video](https://www.bookmarks.dev/tagged/video)</sup></sup>_
 ---
+#### [gmf](https://github.com/3d0c/gmf)
+_<sup>https://github.com/3d0c/gmf</sup>_
+
+Go bindings for FFmpeg av\* libraries.
+* **tags**: [go](../tagged/go.md), [video](../tagged/video.md)
+* :octocat: **[source code](https://github.com/3d0c/gmf)**
+---
+#### [go-astisub](https://github.com/asticode/go-astisub)
+_<sup>https://github.com/asticode/go-astisub</sup>_
+
+Manipulate subtitles in GO (.srt, .stl, .ttml, .webvtt, .ssa/.ass, teletext, .smi, etc.).
+* **tags**: [go](../tagged/go.md), [video](../tagged/video.md)
+* :octocat: **[source code](https://github.com/asticode/go-astisub)**
+---
+#### [go-astits](https://github.com/asticode/go-astits)
+_<sup>https://github.com/asticode/go-astits</sup>_
+
+Parse and demux MPEG Transport Streams (.ts) natively in GO.
+* **tags**: [go](../tagged/go.md), [video](../tagged/video.md)
+* :octocat: **[source code](https://github.com/asticode/go-astits)**
+---
+#### [go-m3u8](https://github.com/quangngotan95/go-m3u8)
+_<sup>https://github.com/quangngotan95/go-m3u8</sup>_
+
+Parser and generator library for Apple m3u8 playlists.
+* **tags**: [go](../tagged/go.md), [video](../tagged/video.md)
+* :octocat: **[source code](https://github.com/quangngotan95/go-m3u8)**
+---
+#### [goav](https://github.com/giorgisio/goav)
+_<sup>https://github.com/giorgisio/goav</sup>_
+
+Comphrensive Go bindings for FFmpeg.
+* **tags**: [go](../tagged/go.md), [video](../tagged/video.md)
+* :octocat: **[source code](https://github.com/giorgisio/goav)**
+---
+#### [gst](https://github.com/ziutek/gst)
+_<sup>https://github.com/ziutek/gst</sup>_
+
+Go bindings for GStreamer.
+* **tags**: [go](../tagged/go.md), [video](../tagged/video.md)
+* :octocat: **[source code](https://github.com/ziutek/gst)**
+---
+#### [libgosubs](https://github.com/wargarblgarbl/libgosubs)
+_<sup>https://github.com/wargarblgarbl/libgosubs</sup>_
+
+Subtitle format support for go. Supports .srt, .ttml, and .ass.
+* **tags**: [go](../tagged/go.md), [video](../tagged/video.md)
+* :octocat: **[source code](https://github.com/wargarblgarbl/libgosubs)**
+---
+#### [libvlc-go](https://github.com/adrg/libvlc-go)
+_<sup>https://github.com/adrg/libvlc-go</sup>_
+
+Go bindings for libvlc 2.X/3.X/4.X (used by the VLC media player).
+* **tags**: [go](../tagged/go.md), [video](../tagged/video.md)
+* :octocat: **[source code](https://github.com/adrg/libvlc-go)**
+---
+#### [v4l](https://github.com/korandiz/v4l)
+_<sup>https://github.com/korandiz/v4l</sup>_
+
+Video capture library for Linux, written in Go.
+* **tags**: [go](../tagged/go.md), [video](../tagged/video.md)
+* :octocat: **[source code](https://github.com/korandiz/v4l)**
+---
 #### [Streamio FFMPEG](https://github.com/streamio/streamio-ffmpeg)
 _<sup>https://github.com/streamio/streamio-ffmpeg</sup>_
 

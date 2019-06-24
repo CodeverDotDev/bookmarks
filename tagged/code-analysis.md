@@ -2,6 +2,177 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/code-analysis](https://www.bookmarks.dev/tagged/code-analysis)</sup></sup>_
 ---
+#### [apicompat](https://github.com/bradleyfalzon/apicompat)
+_<sup>https://github.com/bradleyfalzon/apicompat</sup>_
+
+Checks recent changes to a Go project for backwards incompatible changes.
+* **tags**: [go](../tagged/go.md), [tools](../tagged/tools.md), [code-analysis](../tagged/code-analysis.md)
+* :octocat: **[source code](https://github.com/bradleyfalzon/apicompat)**
+---
+#### [dupl](https://github.com/mibk/dupl)
+_<sup>https://github.com/mibk/dupl</sup>_
+
+Tool for code clone detection.
+* **tags**: [go](../tagged/go.md), [tools](../tagged/tools.md), [code-analysis](../tagged/code-analysis.md)
+* :octocat: **[source code](https://github.com/mibk/dupl)**
+---
+#### [errcheck](https://github.com/kisielk/errcheck)
+_<sup>https://github.com/kisielk/errcheck</sup>_
+
+Errcheck is a program for checking for unchecked errors in Go programs.
+* **tags**: [go](../tagged/go.md), [tools](../tagged/tools.md), [code-analysis](../tagged/code-analysis.md)
+* :octocat: **[source code](https://github.com/kisielk/errcheck)**
+---
+#### [gcvis](https://github.com/davecheney/gcvis)
+_<sup>https://github.com/davecheney/gcvis</sup>_
+
+Visualise Go program GC trace data in real time.
+* **tags**: [go](../tagged/go.md), [tools](../tagged/tools.md), [code-analysis](../tagged/code-analysis.md)
+* :octocat: **[source code](https://github.com/davecheney/gcvis)**
+---
+#### [go-checkstyle](https://github.com/qiniu/checkstyle)
+_<sup>https://github.com/qiniu/checkstyle</sup>_
+
+checkstyle is a style check tool like java checkstyle. This tool inspired by java checkstyle, golint. The style refered to some points in Go Code Review Comments.
+* **tags**: [go](../tagged/go.md), [tools](../tagged/tools.md), [code-analysis](../tagged/code-analysis.md)
+* :octocat: **[source code](https://github.com/qiniu/checkstyle)**
+---
+#### [go-cleanarch](https://github.com/roblaszczak/go-cleanarch)
+_<sup>https://github.com/roblaszczak/go-cleanarch</sup>_
+
+go-cleanarch was created to validate Clean Architecture rules, like a The Dependency Rule and interaction between packages in your Go projects.
+* **tags**: [go](../tagged/go.md), [tools](../tagged/tools.md), [code-analysis](../tagged/code-analysis.md)
+* :octocat: **[source code](https://github.com/roblaszczak/go-cleanarch)**
+---
+#### [go-critic](https://github.com/go-critic/go-critic)
+_<sup>https://github.com/go-critic/go-critic</sup>_
+
+source code linter that brings checks that are currently not implemented in other linters.
+* **tags**: [go](../tagged/go.md), [tools](../tagged/tools.md), [code-analysis](../tagged/code-analysis.md)
+* :octocat: **[source code](https://github.com/go-critic/go-critic)**
+---
+#### [go-mod-outdated](https://github.com/psampaz/go-mod-outdated)
+_<sup>https://github.com/psampaz/go-mod-outdated</sup>_
+
+An easy way to find outdated dependencies of your Go projects.
+* **tags**: [go](../tagged/go.md), [tools](../tagged/tools.md), [code-analysis](../tagged/code-analysis.md)
+* :octocat: **[source code](https://github.com/psampaz/go-mod-outdated)**
+---
+#### [go-outdated](https://github.com/firstrow/go-outdated)
+_<sup>https://github.com/firstrow/go-outdated</sup>_
+
+Console application that displays outdated packages.
+* **tags**: [go](../tagged/go.md), [tools](../tagged/tools.md), [code-analysis](../tagged/code-analysis.md)
+* :octocat: **[source code](https://github.com/firstrow/go-outdated)**
+---
+#### [goast-viewer](https://github.com/yuroyoro/goast-viewer)
+_<sup>https://github.com/yuroyoro/goast-viewer</sup>_
+
+Web based Golang AST visualizer.
+* **tags**: [go](../tagged/go.md), [tools](../tagged/tools.md), [code-analysis](../tagged/code-analysis.md)
+* :octocat: **[source code](https://github.com/yuroyoro/goast-viewer)**
+---
+#### [GoCover.io](http://gocover.io/)
+_<sup>http://gocover.io/</sup>_
+
+GoCover.io offers the code coverage of any golang package as a service.
+* **tags**: [go](../tagged/go.md), [tools](../tagged/tools.md), [code-analysis](../tagged/code-analysis.md)
+---
+#### [goimports](https://godoc.org/golang.org/x/tools/cmd/goimports)
+_<sup>https://godoc.org/golang.org/x/tools/cmd/goimports</sup>_
+
+Tool to fix (add, remove) your Go imports automatically.
+* **tags**: [go](../tagged/go.md), [tools](../tagged/tools.md), [code-analysis](../tagged/code-analysis.md)
+---
+#### [GolangCI](https://golangci.com/)
+_<sup>https://golangci.com/</sup>_
+
+GolangCI is an automated Golang code review service for GitHub pull requests. Service is open source and it's free for open source projects.
+* **tags**: [go](../tagged/go.md), [tools](../tagged/tools.md), [code-analysis](../tagged/code-analysis.md)
+---
+#### [GoLint](https://github.com/golang/lint)
+_<sup>https://github.com/golang/lint</sup>_
+
+Golint is a linter for Go source code.
+* **tags**: [go](../tagged/go.md), [tools](../tagged/tools.md), [code-analysis](../tagged/code-analysis.md)
+* :octocat: **[source code](https://github.com/golang/lint)**
+---
+#### [Golint online](http://go-lint.appspot.com/)
+_<sup>http://go-lint.appspot.com/</sup>_
+
+Lints online Go source files on GitHub, Bitbucket and Google Project Hosting using the golint package.
+* **tags**: [go](../tagged/go.md), [tools](../tagged/tools.md), [code-analysis](../tagged/code-analysis.md)
+---
+#### [goreturns](https://sourcegraph.com/github.com/sqs/goreturns)
+_<sup>https://sourcegraph.com/github.com/sqs/goreturns</sup>_
+
+Adds zero-value return statements to match the func return types.
+* **tags**: [go](../tagged/go.md), [tools](../tagged/tools.md), [code-analysis](../tagged/code-analysis.md)
+* :octocat: **[source code](https://sourcegraph.com/github.com/sqs/goreturns)**
+---
+#### [gosimple](https://github.com/dominikh/go-tools/tree/master/cmd/gosimple)
+_<sup>https://github.com/dominikh/go-tools/tree/master/cmd/gosimple</sup>_
+
+gosimple is a linter for Go source code that specialises on simplifying code.
+* **tags**: [go](../tagged/go.md), [tools](../tagged/tools.md), [code-analysis](../tagged/code-analysis.md)
+* :octocat: **[source code](https://github.com/dominikh/go-tools/tree/master/cmd/gosimple)**
+---
+#### [gostatus](https://github.com/shurcooL/gostatus)
+_<sup>https://github.com/shurcooL/gostatus</sup>_
+
+Command line tool, shows the status of repositories that contain Go packages.
+* **tags**: [go](../tagged/go.md), [tools](../tagged/tools.md), [code-analysis](../tagged/code-analysis.md)
+* :octocat: **[source code](https://github.com/shurcooL/gostatus)**
+---
+#### [lint](https://github.com/surullabs/lint)
+_<sup>https://github.com/surullabs/lint</sup>_
+
+Run linters as part of go test.
+* **tags**: [go](../tagged/go.md), [tools](../tagged/tools.md), [code-analysis](../tagged/code-analysis.md)
+* :octocat: **[source code](https://github.com/surullabs/lint)**
+---
+#### [php-parser](https://github.com/z7zmey/php-parser)
+_<sup>https://github.com/z7zmey/php-parser</sup>_
+
+A Parser for PHP written in Go.
+* **tags**: [go](../tagged/go.md), [tools](../tagged/tools.md), [code-analysis](../tagged/code-analysis.md)
+* :octocat: **[source code](https://github.com/z7zmey/php-parser)**
+---
+#### [staticcheck](https://github.com/dominikh/go-tools/tree/master/cmd/staticcheck)
+_<sup>https://github.com/dominikh/go-tools/tree/master/cmd/staticcheck</sup>_
+
+staticcheck is `go vet` on steroids, applying a ton of static analysis checks you might be used to from tools like ReSharper for C.
+* **tags**: [go](../tagged/go.md), [tools](../tagged/tools.md), [code-analysis](../tagged/code-analysis.md)
+* :octocat: **[source code](https://github.com/dominikh/go-tools/tree/master/cmd/staticcheck)**
+---
+#### [tarp](https://github.com/verygoodsoftwarenotvirus/tarp)
+_<sup>https://github.com/verygoodsoftwarenotvirus/tarp</sup>_
+
+tarp finds functions and methods without direct unit tests in Go source code.
+* **tags**: [go](../tagged/go.md), [tools](../tagged/tools.md), [code-analysis](../tagged/code-analysis.md)
+* :octocat: **[source code](https://github.com/verygoodsoftwarenotvirus/tarp)**
+---
+#### [unconvert](https://github.com/mdempsky/unconvert)
+_<sup>https://github.com/mdempsky/unconvert</sup>_
+
+Remove unnecessary type conversions from Go source.
+* **tags**: [go](../tagged/go.md), [tools](../tagged/tools.md), [code-analysis](../tagged/code-analysis.md)
+* :octocat: **[source code](https://github.com/mdempsky/unconvert)**
+---
+#### [unused](https://github.com/dominikh/go-tools/tree/master/cmd/unused)
+_<sup>https://github.com/dominikh/go-tools/tree/master/cmd/unused</sup>_
+
+unused checks Go code for unused constants, variables, functions and types.
+* **tags**: [go](../tagged/go.md), [tools](../tagged/tools.md), [code-analysis](../tagged/code-analysis.md)
+* :octocat: **[source code](https://github.com/dominikh/go-tools/tree/master/cmd/unused)**
+---
+#### [validate](https://github.com/mccoyst/validate)
+_<sup>https://github.com/mccoyst/validate</sup>_
+
+Automatically validates struct fields with tags.
+* **tags**: [go](../tagged/go.md), [tools](../tagged/tools.md), [code-analysis](../tagged/code-analysis.md)
+* :octocat: **[source code](https://github.com/mccoyst/validate)**
+---
 #### [Barkeep](https://github.com/ooyala/barkeep)
 _<sup>https://github.com/ooyala/barkeep</sup>_
 

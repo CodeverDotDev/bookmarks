@@ -2,6 +2,36 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/twitter-accounts](https://www.bookmarks.dev/tagged/twitter-accounts)</sup></sup>_
 ---
+#### [@golang](https://twitter.com/golang)
+_<sup>https://twitter.com/golang</sup>_
+
+Die neuesten Tweets von Go (@golang). Go will make you love programming again. I promise
+* **tags**: [go](../tagged/go.md), [twitter-accounts](../tagged/twitter-accounts.md)
+---
+#### [@golang_news](https://twitter.com/golang_news)
+_<sup>https://twitter.com/golang_news</sup>_
+
+Die neuesten Tweets von Go News (@golang_news). Keep up to date with the latest Go news from HackerNews, Reddit and the official Go blog
+* **tags**: [go](../tagged/go.md), [twitter-accounts](../tagged/twitter-accounts.md)
+---
+#### [@golangch](https://twitter.com/golangch)
+_<sup>https://twitter.com/golangch</sup>_
+
+Die neuesten Tweets von Golang News & Libs (@golangch). golang news, interesting libs and projects, blog links and some fun. ( from https://t.co/9ETZNeBdd8 )
+* **tags**: [go](../tagged/go.md), [twitter-accounts](../tagged/twitter-accounts.md)
+---
+#### [@golangflow](https://twitter.com/golangflow)
+_<sup>https://twitter.com/golangflow</sup>_
+
+Die neuesten Tweets von Golang Flow (Go) (@GolangFlow). https://t.co/rcIRGbvk5F - Post news, Updates, libraries and more about the Go Programming language!. We’re humans :)
+* **tags**: [go](../tagged/go.md), [twitter-accounts](../tagged/twitter-accounts.md)
+---
+#### [@golangweekly](https://twitter.com/golangweekly)
+_<sup>https://twitter.com/golangweekly</sup>_
+
+Die neuesten Tweets von Golang Weekly (@golangweekly). Daily Go / golang news and links. Logo by Renée French. Published by the @Cooperpress team
+* **tags**: [go](../tagged/go.md), [twitter-accounts](../tagged/twitter-accounts.md)
+---
 #### [@codetengu](https://twitter.com/codetengu)
 _<sup>https://twitter.com/codetengu</sup>_
 

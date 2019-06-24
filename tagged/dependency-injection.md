@@ -2,6 +2,41 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/dependency-injection](https://www.bookmarks.dev/tagged/dependency-injection)</sup></sup>_
 ---
+#### [alice](https://github.com/magic003/alice)
+_<sup>https://github.com/magic003/alice</sup>_
+
+Additive dependency injection container for Golang.
+* **tags**: [go](../tagged/go.md), [dependency-injection](../tagged/dependency-injection.md)
+* :octocat: **[source code](https://github.com/magic003/alice)**
+---
+#### [dig](https://github.com/uber-go/dig)
+_<sup>https://github.com/uber-go/dig</sup>_
+
+A reflection based dependency injection toolkit for Go.
+* **tags**: [go](../tagged/go.md), [dependency-injection](../tagged/dependency-injection.md)
+* :octocat: **[source code](https://github.com/uber-go/dig)**
+---
+#### [fx](https://github.com/uber-go/fx)
+_<sup>https://github.com/uber-go/fx</sup>_
+
+A dependency injection based application framework for Go (built on top of dig).
+* **tags**: [go](../tagged/go.md), [dependency-injection](../tagged/dependency-injection.md)
+* :octocat: **[source code](https://github.com/uber-go/fx)**
+---
+#### [inject](https://github.com/defval/inject)
+_<sup>https://github.com/defval/inject</sup>_
+
+A reflection based dependency injection container with simple interface.
+* **tags**: [go](../tagged/go.md), [dependency-injection](../tagged/dependency-injection.md)
+* :octocat: **[source code](https://github.com/defval/inject)**
+---
+#### [wire](https://github.com/Fs02/wire)
+_<sup>https://github.com/Fs02/wire</sup>_
+
+Strict Runtime Dependency Injection for Golang.
+* **tags**: [go](../tagged/go.md), [dependency-injection](../tagged/dependency-injection.md)
+* :octocat: **[source code](https://github.com/Fs02/wire)**
+---
 #### [Apache DeltaSpike](https://deltaspike.apache.org)
 _<sup>https://deltaspike.apache.org</sup>_
 

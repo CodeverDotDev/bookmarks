@@ -2,6 +2,144 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/security](https://www.bookmarks.dev/tagged/security)</sup></sup>_
 ---
+#### [acmetool](https://github.com/hlandau/acme)
+_<sup>https://github.com/hlandau/acme</sup>_
+
+ACME (Let's Encrypt) client tool with automatic renewal.
+* **tags**: [go](../tagged/go.md), [security](../tagged/security.md)
+* :octocat: **[source code](https://github.com/hlandau/acme)**
+---
+#### [acra](https://github.com/cossacklabs/acra)
+_<sup>https://github.com/cossacklabs/acra</sup>_
+
+Network encryption proxy to protect database-based applications from data leaks: strong selective encryption, SQL injections prevention, intrusion detection system.
+* **tags**: [go](../tagged/go.md), [security](../tagged/security.md)
+* :octocat: **[source code](https://github.com/cossacklabs/acra)**
+---
+#### [argon2pw](https://github.com/raja/argon2pw)
+_<sup>https://github.com/raja/argon2pw</sup>_
+
+Argon2 password hash generation with constant-time password comparison.
+* **tags**: [go](../tagged/go.md), [security](../tagged/security.md)
+* :octocat: **[source code](https://github.com/raja/argon2pw)**
+---
+#### [autocert](https://godoc.org/golang.org/x/crypto/acme/autocert)
+_<sup>https://godoc.org/golang.org/x/crypto/acme/autocert</sup>_
+
+Auto provision Let's Encrypt certificates and start a TLS server.
+* **tags**: [go](../tagged/go.md), [security](../tagged/security.md)
+---
+#### [BadActor](https://github.com/jaredfolkins/badactor)
+_<sup>https://github.com/jaredfolkins/badactor</sup>_
+
+In-memory, application-driven jailer built in the spirit of fail2ban.
+* **tags**: [go](../tagged/go.md), [security](../tagged/security.md)
+* :octocat: **[source code](https://github.com/jaredfolkins/badactor)**
+---
+#### [Cameradar](https://github.com/Ullaakut/cameradar)
+_<sup>https://github.com/Ullaakut/cameradar</sup>_
+
+Tool and library to remotely hack RTSP streams from surveillance cameras.
+* **tags**: [go](../tagged/go.md), [security](../tagged/security.md)
+* :octocat: **[source code](https://github.com/Ullaakut/cameradar)**
+---
+#### [certificates](https://github.com/mvmaasakkers/certificates)
+_<sup>https://github.com/mvmaasakkers/certificates</sup>_
+
+An opinionated tool for generating tls certificates.
+* **tags**: [go](../tagged/go.md), [security](../tagged/security.md)
+* :octocat: **[source code](https://github.com/mvmaasakkers/certificates)**
+---
+#### [go-yara](https://github.com/hillu/go-yara)
+_<sup>https://github.com/hillu/go-yara</sup>_
+
+Go Bindings for [YARA](https://github.com/plusvic/yara), the "pattern matching swiss knife for malware researchers (and everyone else)".
+* **tags**: [go](../tagged/go.md), [security](../tagged/security.md)
+* :octocat: **[source code](https://github.com/hillu/go-yara)**
+---
+#### [goArgonPass](https://github.com/dwin/goArgonPass)
+_<sup>https://github.com/dwin/goArgonPass</sup>_
+
+Argon2 password hash and verification designed to be compatible with existing Python and PHP implementations.
+* **tags**: [go](../tagged/go.md), [security](../tagged/security.md)
+* :octocat: **[source code](https://github.com/dwin/goArgonPass)**
+---
+#### [goSecretBoxPassword](https://github.com/dwin/goSecretBoxPassword)
+_<sup>https://github.com/dwin/goSecretBoxPassword</sup>_
+
+A probably paranoid package for securely hashing and encrypting passwords.
+* **tags**: [go](../tagged/go.md), [security](../tagged/security.md)
+* :octocat: **[source code](https://github.com/dwin/goSecretBoxPassword)**
+---
+#### [Interpol](https://bitbucket.org/vahidi/interpol)
+_<sup>https://bitbucket.org/vahidi/interpol</sup>_
+
+Rule-based data generator for fuzzing and penetration testing.
+* **tags**: [go](../tagged/go.md), [security](../tagged/security.md)
+---
+#### [jwc](https://github.com/khezen/jwc)
+_<sup>https://github.com/khezen/jwc</sup>_
+
+JSON Web Cryptography library.
+* **tags**: [go](../tagged/go.md), [security](../tagged/security.md)
+* :octocat: **[source code](https://github.com/khezen/jwc)**
+---
+#### [lego](https://github.com/xenolf/lego)
+_<sup>https://github.com/xenolf/lego</sup>_
+
+Pure Go ACME client library and CLI tool (for use with Let's Encrypt).
+* **tags**: [go](../tagged/go.md), [security](../tagged/security.md)
+* :octocat: **[source code](https://github.com/xenolf/lego)**
+---
+#### [memguard](https://github.com/awnumar/memguard)
+_<sup>https://github.com/awnumar/memguard</sup>_
+
+A pure Go library for handling sensitive values in memory.
+* **tags**: [go](../tagged/go.md), [security](../tagged/security.md)
+* :octocat: **[source code](https://github.com/awnumar/memguard)**
+---
+#### [nacl](https://github.com/kevinburke/nacl)
+_<sup>https://github.com/kevinburke/nacl</sup>_
+
+Go implementation of the NaCL set of API's.
+* **tags**: [go](../tagged/go.md), [security](../tagged/security.md)
+* :octocat: **[source code](https://github.com/kevinburke/nacl)**
+---
+#### [passlib](https://github.com/hlandau/passlib)
+_<sup>https://github.com/hlandau/passlib</sup>_
+
+Futureproof password hashing library.
+* **tags**: [go](../tagged/go.md), [security](../tagged/security.md)
+* :octocat: **[source code](https://github.com/hlandau/passlib)**
+---
+#### [secure](https://github.com/unrolled/secure)
+_<sup>https://github.com/unrolled/secure</sup>_
+
+HTTP middleware for Go that facilitates some quick security wins.
+* **tags**: [go](../tagged/go.md), [security](../tagged/security.md)
+* :octocat: **[source code](https://github.com/unrolled/secure)**
+---
+#### [simple-scrypt](https://github.com/elithrar/simple-scrypt)
+_<sup>https://github.com/elithrar/simple-scrypt</sup>_
+
+Scrypt package with a simple, obvious API and automatic cost calibration built-in.
+* **tags**: [go](../tagged/go.md), [security](../tagged/security.md)
+* :octocat: **[source code](https://github.com/elithrar/simple-scrypt)**
+---
+#### [ssh-vault](https://github.com/ssh-vault/ssh-vault)
+_<sup>https://github.com/ssh-vault/ssh-vault</sup>_
+
+encrypt/decrypt using ssh keys.
+* **tags**: [go](../tagged/go.md), [security](../tagged/security.md)
+* :octocat: **[source code](https://github.com/ssh-vault/ssh-vault)**
+---
+#### [sslmgr](https://github.com/adrianosela/sslmgr)
+_<sup>https://github.com/adrianosela/sslmgr</sup>_
+
+SSL certificates made easy with a high level wrapper around acme/autocert.
+* **tags**: [go](../tagged/go.md), [security](../tagged/security.md)
+* :octocat: **[source code](https://github.com/adrianosela/sslmgr)**
+---
 #### [BeEF](http://beefproject.com)
 _<sup>http://beefproject.com</sup>_
 

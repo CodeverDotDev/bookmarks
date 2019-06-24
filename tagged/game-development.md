@@ -2,6 +2,139 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/game-development](https://www.bookmarks.dev/tagged/game-development)</sup></sup>_
 ---
+#### [Azul3D](https://github.com/azul3d/engine)
+_<sup>https://github.com/azul3d/engine</sup>_
+
+3D game engine written in Go.
+* **tags**: [go](../tagged/go.md), [game-development](../tagged/game-development.md)
+* :octocat: **[source code](https://github.com/azul3d/engine)**
+---
+#### [Ebiten](https://github.com/hajimehoshi/ebiten)
+_<sup>https://github.com/hajimehoshi/ebiten</sup>_
+
+dead simple 2D game library in Go.
+* **tags**: [go](../tagged/go.md), [game-development](../tagged/game-development.md)
+* :octocat: **[source code](https://github.com/hajimehoshi/ebiten)**
+---
+#### [engo](https://github.com/EngoEngine/engo)
+_<sup>https://github.com/EngoEngine/engo</sup>_
+
+Engo is an open-source 2D game engine written in Go. It follows the Entity-Component-System paradigm.
+* **tags**: [go](../tagged/go.md), [game-development](../tagged/game-development.md)
+* :octocat: **[source code](https://github.com/EngoEngine/engo)**
+---
+#### [g3n](https://github.com/g3n/engine)
+_<sup>https://github.com/g3n/engine</sup>_
+
+Go 3D Game Engine.
+* **tags**: [go](../tagged/go.md), [game-development](../tagged/game-development.md)
+* :octocat: **[source code](https://github.com/g3n/engine)**
+---
+#### [GarageEngine](https://github.com/vova616/GarageEngine)
+_<sup>https://github.com/vova616/GarageEngine</sup>_
+
+2d game engine written in Go working on OpenGL.
+* **tags**: [go](../tagged/go.md), [game-development](../tagged/game-development.md)
+* :octocat: **[source code](https://github.com/vova616/GarageEngine)**
+---
+#### [glop](https://github.com/runningwild/glop)
+_<sup>https://github.com/runningwild/glop</sup>_
+
+Glop (Game Library Of Power) is a fairly simple cross-platform game library.
+* **tags**: [go](../tagged/go.md), [game-development](../tagged/game-development.md)
+* :octocat: **[source code](https://github.com/runningwild/glop)**
+---
+#### [go-astar](https://github.com/beefsack/go-astar)
+_<sup>https://github.com/beefsack/go-astar</sup>_
+
+Go implementation of the A\* path finding algorithm.
+* **tags**: [go](../tagged/go.md), [game-development](../tagged/game-development.md)
+* :octocat: **[source code](https://github.com/beefsack/go-astar)**
+---
+#### [go-collada](https://github.com/GlenKelley/go-collada)
+_<sup>https://github.com/GlenKelley/go-collada</sup>_
+
+Go package for working with the Collada file format.
+* **tags**: [go](../tagged/go.md), [game-development](../tagged/game-development.md)
+* :octocat: **[source code](https://github.com/GlenKelley/go-collada)**
+---
+#### [go-sdl2](https://github.com/veandco/go-sdl2)
+_<sup>https://github.com/veandco/go-sdl2</sup>_
+
+Go bindings for the [Simple DirectMedia Layer](https://www.libsdl.org/).
+* **tags**: [go](../tagged/go.md), [game-development](../tagged/game-development.md)
+* :octocat: **[source code](https://github.com/veandco/go-sdl2)**
+---
+#### [go3d](https://github.com/ungerik/go3d)
+_<sup>https://github.com/ungerik/go3d</sup>_
+
+Performance oriented 2D/3D math package for Go.
+* **tags**: [go](../tagged/go.md), [game-development](../tagged/game-development.md)
+* :octocat: **[source code](https://github.com/ungerik/go3d)**
+---
+#### [gonet](https://github.com/xtaci/gonet)
+_<sup>https://github.com/xtaci/gonet</sup>_
+
+Game server skeleton implemented with golang.
+* **tags**: [go](../tagged/go.md), [game-development](../tagged/game-development.md)
+* :octocat: **[source code](https://github.com/xtaci/gonet)**
+---
+#### [goworld](https://github.com/xiaonanln/goworld)
+_<sup>https://github.com/xiaonanln/goworld</sup>_
+
+Scalable game server engine, featuring space-entity framework and hot-swapping.
+* **tags**: [go](../tagged/go.md), [game-development](../tagged/game-development.md)
+* :octocat: **[source code](https://github.com/xiaonanln/goworld)**
+---
+#### [Leaf](https://github.com/name5566/leaf)
+_<sup>https://github.com/name5566/leaf</sup>_
+
+Lightweight game server framework.
+* **tags**: [go](../tagged/go.md), [game-development](../tagged/game-development.md)
+* :octocat: **[source code](https://github.com/name5566/leaf)**
+---
+#### [nano](https://github.com/lonng/nano)
+_<sup>https://github.com/lonng/nano</sup>_
+
+Lightweight, facility, high performance golang based game server framework.
+* **tags**: [go](../tagged/go.md), [game-development](../tagged/game-development.md)
+* :octocat: **[source code](https://github.com/lonng/nano)**
+---
+#### [Oak](https://github.com/oakmound/oak)
+_<sup>https://github.com/oakmound/oak</sup>_
+
+Pure Go game engine.
+* **tags**: [go](../tagged/go.md), [game-development](../tagged/game-development.md)
+* :octocat: **[source code](https://github.com/oakmound/oak)**
+---
+#### [Pitaya](https://github.com/topfreegames/pitaya)
+_<sup>https://github.com/topfreegames/pitaya</sup>_
+
+Scalable game server framework with clustering support and client libraries for iOS, Android, Unity and others through the C SDK.
+* **tags**: [go](../tagged/go.md), [game-development](../tagged/game-development.md)
+* :octocat: **[source code](https://github.com/topfreegames/pitaya)**
+---
+#### [Pixel](https://github.com/faiface/pixel)
+_<sup>https://github.com/faiface/pixel</sup>_
+
+Hand-crafted 2D game library in Go.
+* **tags**: [go](../tagged/go.md), [game-development](../tagged/game-development.md)
+* :octocat: **[source code](https://github.com/faiface/pixel)**
+---
+#### [raylib-go](https://github.com/gen2brain/raylib-go)
+_<sup>https://github.com/gen2brain/raylib-go</sup>_
+
+Go bindings for [raylib](http://www.raylib.com/), a simple and easy-to-use library to learn videogames programming.
+* **tags**: [go](../tagged/go.md), [game-development](../tagged/game-development.md)
+* :octocat: **[source code](https://github.com/gen2brain/raylib-go)**
+---
+#### [termloop](https://github.com/JoelOtter/termloop)
+_<sup>https://github.com/JoelOtter/termloop</sup>_
+
+Terminal-based game engine for Go, built on top of Termbox.
+* **tags**: [go](../tagged/go.md), [game-development](../tagged/game-development.md)
+* :octocat: **[source code](https://github.com/JoelOtter/termloop)**
+---
 #### [Gosu](http://www.libgosu.org)
 _<sup>http://www.libgosu.org</sup>_
 

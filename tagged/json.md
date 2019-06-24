@@ -2,6 +2,103 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/json](https://www.bookmarks.dev/tagged/json)</sup></sup>_
 ---
+#### [ajson](https://github.com/spyzhov/ajson)
+_<sup>https://github.com/spyzhov/ajson</sup>_
+
+Abstract JSON for golang with JSONPath support.
+* **tags**: [go](../tagged/go.md), [json](../tagged/json.md)
+* :octocat: **[source code](https://github.com/spyzhov/ajson)**
+---
+#### [gjo](https://github.com/skanehira/gjo)
+_<sup>https://github.com/skanehira/gjo</sup>_
+
+Small utility to create JSON objects.
+* **tags**: [go](../tagged/go.md), [json](../tagged/json.md)
+* :octocat: **[source code](https://github.com/skanehira/gjo)**
+---
+#### [GJSON](https://github.com/tidwall/gjson)
+_<sup>https://github.com/tidwall/gjson</sup>_
+
+Get a JSON value with one line of code.
+* **tags**: [go](../tagged/go.md), [json](../tagged/json.md)
+* :octocat: **[source code](https://github.com/tidwall/gjson)**
+---
+#### [go-respond](https://github.com/nicklaw5/go-respond)
+_<sup>https://github.com/nicklaw5/go-respond</sup>_
+
+Go package for handling common HTTP JSON responses.
+* **tags**: [go](../tagged/go.md), [json](../tagged/json.md)
+* :octocat: **[source code](https://github.com/nicklaw5/go-respond)**
+---
+#### [gojq](https://github.com/elgs/gojq)
+_<sup>https://github.com/elgs/gojq</sup>_
+
+JSON query in Golang.
+* **tags**: [go](../tagged/go.md), [json](../tagged/json.md)
+* :octocat: **[source code](https://github.com/elgs/gojq)**
+---
+#### [gojson](https://github.com/ChimeraCoder/gojson)
+_<sup>https://github.com/ChimeraCoder/gojson</sup>_
+
+Automatically generate Go (golang) struct definitions from example JSON.
+* **tags**: [go](../tagged/go.md), [json](../tagged/json.md)
+* :octocat: **[source code](https://github.com/ChimeraCoder/gojson)**
+---
+#### [JayDiff](https://github.com/yazgazan/jaydiff)
+_<sup>https://github.com/yazgazan/jaydiff</sup>_
+
+JSON diff utility written in Go.
+* **tags**: [go](../tagged/go.md), [json](../tagged/json.md)
+* :octocat: **[source code](https://github.com/yazgazan/jaydiff)**
+---
+#### [JSON-to-Go](https://mholt.github.io/json-to-go/)
+_<sup>https://mholt.github.io/json-to-go/</sup>_
+
+Convert JSON to Go struct.
+* **tags**: [go](../tagged/go.md), [json](../tagged/json.md)
+---
+#### [jsonapi-errors](https://github.com/AmuzaTkts/jsonapi-errors)
+_<sup>https://github.com/AmuzaTkts/jsonapi-errors</sup>_
+
+Go bindings based on the JSON API errors reference.
+* **tags**: [go](../tagged/go.md), [json](../tagged/json.md)
+* :octocat: **[source code](https://github.com/AmuzaTkts/jsonapi-errors)**
+---
+#### [jsonf](https://github.com/miolini/jsonf)
+_<sup>https://github.com/miolini/jsonf</sup>_
+
+Console tool for highlighted formatting and struct query fetching JSON.
+* **tags**: [go](../tagged/go.md), [json](../tagged/json.md)
+* :octocat: **[source code](https://github.com/miolini/jsonf)**
+---
+#### [jsongo](https://github.com/ricardolonga/jsongo)
+_<sup>https://github.com/ricardolonga/jsongo</sup>_
+
+Fluent API to make it easier to create Json objects.
+* **tags**: [go](../tagged/go.md), [json](../tagged/json.md)
+* :octocat: **[source code](https://github.com/ricardolonga/jsongo)**
+---
+#### [jsonhal](https://github.com/RichardKnop/jsonhal)
+_<sup>https://github.com/RichardKnop/jsonhal</sup>_
+
+Simple Go package to make custom structs marshal into HAL compatible JSON responses.
+* **tags**: [go](../tagged/go.md), [json](../tagged/json.md)
+* :octocat: **[source code](https://github.com/RichardKnop/jsonhal)**
+---
+#### [kazaam](https://github.com/Qntfy/kazaam)
+_<sup>https://github.com/Qntfy/kazaam</sup>_
+
+API for arbitrary transformation of JSON documents.
+* **tags**: [go](../tagged/go.md), [json](../tagged/json.md)
+* :octocat: **[source code](https://github.com/Qntfy/kazaam)**
+---
+#### [mp](https://github.com/sanbornm/mp)
+_<sup>https://github.com/sanbornm/mp</sup>_
+
+Simple cli email parser. It currently takes stdin and outputs JSON.
+* **tags**: [go](../tagged/go.md), [json](../tagged/json.md)
+* :octocat: **[source code](https://github.com/sanbornm/mp)**
+---
 #### [DSL-JSON](https://github.com/ngs-doo/dsl-json)
 _<sup>https://github.com/ngs-doo/dsl-json</sup>_
 

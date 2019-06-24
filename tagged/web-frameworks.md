@@ -2,6 +2,563 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/web-frameworks](https://www.bookmarks.dev/tagged/web-frameworks)</sup></sup>_
 ---
+#### [aah](https://aahframework.org)
+_<sup>https://aahframework.org</sup>_
+
+Scalable, performant, rapid development Web framework for Go.
+* **tags**: [go](../tagged/go.md), [web-frameworks](../tagged/web-frameworks.md)
+---
+#### [Aero](https://github.com/aerogo/aero)
+_<sup>https://github.com/aerogo/aero</sup>_
+
+High-performance web framework for Go, reaches top scores in Lighthouse.
+* **tags**: [go](../tagged/go.md), [web-frameworks](../tagged/web-frameworks.md)
+* :octocat: **[source code](https://github.com/aerogo/aero)**
+---
+#### [Air](https://github.com/aofei/air)
+_<sup>https://github.com/aofei/air</sup>_
+
+An ideally refined web framework for Go.
+* **tags**: [go](../tagged/go.md), [web-frameworks](../tagged/web-frameworks.md)
+* :octocat: **[source code](https://github.com/aofei/air)**
+---
+#### [Banjo](https://github.com/nsheremet/banjo)
+_<sup>https://github.com/nsheremet/banjo</sup>_
+
+Very simple and fast web framework for Go.
+* **tags**: [go](../tagged/go.md), [web-frameworks](../tagged/web-frameworks.md)
+* :octocat: **[source code](https://github.com/nsheremet/banjo)**
+---
+#### [Beego](https://github.com/astaxie/beego)
+_<sup>https://github.com/astaxie/beego</sup>_
+
+beego is an open-source, high-performance web framework for the Go programming language.
+* **tags**: [go](../tagged/go.md), [web-frameworks](../tagged/web-frameworks.md)
+* :octocat: **[source code](https://github.com/astaxie/beego)**
+---
+#### [Buffalo](http://gobuffalo.io)
+_<sup>http://gobuffalo.io</sup>_
+
+Bringing the productivity of Rails to Go!
+* **tags**: [go](../tagged/go.md), [web-frameworks](../tagged/web-frameworks.md)
+---
+#### [Echo](https://github.com/labstack/echo)
+_<sup>https://github.com/labstack/echo</sup>_
+
+High performance, minimalist Go web framework.
+* **tags**: [go](../tagged/go.md), [web-frameworks](../tagged/web-frameworks.md)
+* :octocat: **[source code](https://github.com/labstack/echo)**
+---
+#### [Fireball](https://github.com/zpatrick/fireball)
+_<sup>https://github.com/zpatrick/fireball</sup>_
+
+More "natural" feeling web framework.
+* **tags**: [go](../tagged/go.md), [web-frameworks](../tagged/web-frameworks.md)
+* :octocat: **[source code](https://github.com/zpatrick/fireball)**
+---
+#### [Gem](https://github.com/go-gem/gem)
+_<sup>https://github.com/go-gem/gem</sup>_
+
+Simple and fast web framework, friendly to REST API.
+* **tags**: [go](../tagged/go.md), [web-frameworks](../tagged/web-frameworks.md)
+* :octocat: **[source code](https://github.com/go-gem/gem)**
+---
+#### [Gin](https://github.com/gin-gonic/gin)
+_<sup>https://github.com/gin-gonic/gin</sup>_
+
+Gin is a web framework written in Go! It features a martini-like API with much better performance, up to 40 times faster. If you need performance and good productivity.
+* **tags**: [go](../tagged/go.md), [web-frameworks](../tagged/web-frameworks.md)
+* :octocat: **[source code](https://github.com/gin-gonic/gin)**
+---
+#### [Gizmo](https://github.com/NYTimes/gizmo)
+_<sup>https://github.com/NYTimes/gizmo</sup>_
+
+Microservice toolkit used by the New York Times.
+* **tags**: [go](../tagged/go.md), [web-frameworks](../tagged/web-frameworks.md)
+* :octocat: **[source code](https://github.com/NYTimes/gizmo)**
+---
+#### [go-json-rest](https://github.com/ant0ine/go-json-rest)
+_<sup>https://github.com/ant0ine/go-json-rest</sup>_
+
+Quick and easy way to setup a RESTful JSON API.
+* **tags**: [go](../tagged/go.md), [web-frameworks](../tagged/web-frameworks.md)
+* :octocat: **[source code](https://github.com/ant0ine/go-json-rest)**
+---
+#### [go-rest](https://github.com/ungerik/go-rest)
+_<sup>https://github.com/ungerik/go-rest</sup>_
+
+Small and evil REST framework for Go.
+* **tags**: [go](../tagged/go.md), [web-frameworks](../tagged/web-frameworks.md)
+* :octocat: **[source code](https://github.com/ungerik/go-rest)**
+---
+#### [Goa](https://github.com/goadesign/goa)
+_<sup>https://github.com/goadesign/goa</sup>_
+
+Goa provides a holistic approach for developing remote APIs and microservices in Go.
+* **tags**: [go](../tagged/go.md), [web-frameworks](../tagged/web-frameworks.md)
+* :octocat: **[source code](https://github.com/goadesign/goa)**
+---
+#### [Golax](https://github.com/fulldump/golax)
+_<sup>https://github.com/fulldump/golax</sup>_
+
+A non Sinatra fast HTTP framework with support for Google custom methods, deep interceptors, recursion and more.
+* **tags**: [go](../tagged/go.md), [web-frameworks](../tagged/web-frameworks.md)
+* :octocat: **[source code](https://github.com/fulldump/golax)**
+---
+#### [Golf](https://github.com/dinever/golf)
+_<sup>https://github.com/dinever/golf</sup>_
+
+Golf is a fast, simple and lightweight micro-web framework for Go. It comes with powerful features and has no dependencies other than the Go Standard Library.
+* **tags**: [go](../tagged/go.md), [web-frameworks](../tagged/web-frameworks.md)
+* :octocat: **[source code](https://github.com/dinever/golf)**
+---
+#### [Gondola](https://github.com/rainycape/gondola)
+_<sup>https://github.com/rainycape/gondola</sup>_
+
+The web framework for writing faster sites, faster.
+* **tags**: [go](../tagged/go.md), [web-frameworks](../tagged/web-frameworks.md)
+* :octocat: **[source code](https://github.com/rainycape/gondola)**
+---
+#### [gongular](https://github.com/mustafaakin/gongular)
+_<sup>https://github.com/mustafaakin/gongular</sup>_
+
+Fast Go web framework with input mapping/validation and (DI) Dependency Injection.
+* **tags**: [go](../tagged/go.md), [web-frameworks](../tagged/web-frameworks.md)
+* :octocat: **[source code](https://github.com/mustafaakin/gongular)**
+---
+#### [hiboot](https://github.com/hidevopsio/hiboot)
+_<sup>https://github.com/hidevopsio/hiboot</sup>_
+
+hiboot is a high performance web application framework with auto configuration and dependency injection support.
+* **tags**: [go](../tagged/go.md), [web-frameworks](../tagged/web-frameworks.md)
+* :octocat: **[source code](https://github.com/hidevopsio/hiboot)**
+---
+#### [Macaron](https://github.com/go-macaron/macaron)
+_<sup>https://github.com/go-macaron/macaron</sup>_
+
+Macaron is a high productive and modular design web framework in Go.
+* **tags**: [go](../tagged/go.md), [web-frameworks](../tagged/web-frameworks.md)
+* :octocat: **[source code](https://github.com/go-macaron/macaron)**
+---
+#### [mango](https://github.com/paulbellamy/mango)
+_<sup>https://github.com/paulbellamy/mango</sup>_
+
+Mango is a modular web-application framework for Go, inspired by Rack, and PEP333.
+* **tags**: [go](../tagged/go.md), [web-frameworks](../tagged/web-frameworks.md)
+* :octocat: **[source code](https://github.com/paulbellamy/mango)**
+---
+#### [Microservice](https://github.com/claygod/microservice)
+_<sup>https://github.com/claygod/microservice</sup>_
+
+The framework for the creation of microservices, written in Golang.
+* **tags**: [go](../tagged/go.md), [web-frameworks](../tagged/web-frameworks.md)
+* :octocat: **[source code](https://github.com/claygod/microservice)**
+---
+#### [neo](https://github.com/ivpusic/neo)
+_<sup>https://github.com/ivpusic/neo</sup>_
+
+Neo is minimal and fast Go Web Framework with extremely simple API.
+* **tags**: [go](../tagged/go.md), [web-frameworks](../tagged/web-frameworks.md)
+* :octocat: **[source code](https://github.com/ivpusic/neo)**
+---
+#### [nio](https://github.com/go-nio/nio)
+_<sup>https://github.com/go-nio/nio</sup>_
+
+Modern, minimal and productive Go HTTP framework.
+* **tags**: [go](../tagged/go.md), [web-frameworks](../tagged/web-frameworks.md)
+* :octocat: **[source code](https://github.com/go-nio/nio)**
+---
+#### [Resoursea](https://github.com/resoursea/api)
+_<sup>https://github.com/resoursea/api</sup>_
+
+REST framework for quickly writing resource based services.
+* **tags**: [go](../tagged/go.md), [web-frameworks](../tagged/web-frameworks.md)
+* :octocat: **[source code](https://github.com/resoursea/api)**
+---
+#### [REST Layer](http://rest-layer.io)
+_<sup>http://rest-layer.io</sup>_
+
+Framework to build REST/GraphQL API on top of databases with mostly configuration over code.
+* **tags**: [go](../tagged/go.md), [web-frameworks](../tagged/web-frameworks.md)
+---
+#### [Revel](https://github.com/revel/revel)
+_<sup>https://github.com/revel/revel</sup>_
+
+High-productivity web framework for the Go language.
+* **tags**: [go](../tagged/go.md), [web-frameworks](../tagged/web-frameworks.md)
+* :octocat: **[source code](https://github.com/revel/revel)**
+---
+#### [rex](https://github.com/goanywhere/rex)
+_<sup>https://github.com/goanywhere/rex</sup>_
+
+Rex is a library for modular development built upon gorilla/mux, fully compatible with `net/http`.
+* **tags**: [go](../tagged/go.md), [web-frameworks](../tagged/web-frameworks.md)
+* :octocat: **[source code](https://github.com/goanywhere/rex)**
+---
+#### [sawsij](https://github.com/jaybill/sawsij)
+_<sup>https://github.com/jaybill/sawsij</sup>_
+
+lightweight, open-source web framework for building high-performance, data-driven web applications.
+* **tags**: [go](../tagged/go.md), [web-frameworks](../tagged/web-frameworks.md)
+* :octocat: **[source code](https://github.com/jaybill/sawsij)**
+---
+#### [tango](https://github.com/lunny/tango)
+_<sup>https://github.com/lunny/tango</sup>_
+
+Micro & pluggable web framework for Go.
+* **tags**: [go](../tagged/go.md), [web-frameworks](../tagged/web-frameworks.md)
+* :octocat: **[source code](https://github.com/lunny/tango)**
+---
+#### [tigertonic](https://github.com/rcrowley/go-tigertonic)
+_<sup>https://github.com/rcrowley/go-tigertonic</sup>_
+
+Go framework for building JSON web services inspired by Dropwizard.
+* **tags**: [go](../tagged/go.md), [web-frameworks](../tagged/web-frameworks.md)
+* :octocat: **[source code](https://github.com/rcrowley/go-tigertonic)**
+---
+#### [traffic](https://github.com/pilu/traffic)
+_<sup>https://github.com/pilu/traffic</sup>_
+
+Sinatra inspired regexp/pattern mux and web framework for Go.
+* **tags**: [go](../tagged/go.md), [web-frameworks](../tagged/web-frameworks.md)
+* :octocat: **[source code](https://github.com/pilu/traffic)**
+---
+#### [uAdmin](https://github.com/uadmin/uadmin)
+_<sup>https://github.com/uadmin/uadmin</sup>_
+
+Fully featured web framework for Golang, inspired by Django.
+* **tags**: [go](../tagged/go.md), [web-frameworks](../tagged/web-frameworks.md)
+* :octocat: **[source code](https://github.com/uadmin/uadmin)**
+---
+#### [utron](https://github.com/gernest/utron)
+_<sup>https://github.com/gernest/utron</sup>_
+
+Lightweight MVC framework for Go(Golang).
+* **tags**: [go](../tagged/go.md), [web-frameworks](../tagged/web-frameworks.md)
+* :octocat: **[source code](https://github.com/gernest/utron)**
+---
+#### [vox](https://github.com/aisk/vox)
+_<sup>https://github.com/aisk/vox</sup>_
+
+A golang web framework for humans, inspired by Koa heavily.
+* **tags**: [go](../tagged/go.md), [web-frameworks](../tagged/web-frameworks.md)
+* :octocat: **[source code](https://github.com/aisk/vox)**
+---
+#### [WebGo](https://github.com/bnkamalesh/webgo)
+_<sup>https://github.com/bnkamalesh/webgo</sup>_
+
+A micro-framework to build web apps; with handler chaining, middleware and context injection. With standard library compliant HTTP handlers(i.e. http.HandlerFunc).
+* **tags**: [go](../tagged/go.md), [web-frameworks](../tagged/web-frameworks.md)
+* :octocat: **[source code](https://github.com/bnkamalesh/webgo)**
+---
+#### [YARF](https://github.com/yarf-framework/yarf)
+_<sup>https://github.com/yarf-framework/yarf</sup>_
+
+Fast micro-framework designed to build REST APIs and web services in a fast and simple way.
+* **tags**: [go](../tagged/go.md), [web-frameworks](../tagged/web-frameworks.md)
+* :octocat: **[source code](https://github.com/yarf-framework/yarf)**
+---
+#### [Zerver](https://github.com/cosiner/zerver)
+_<sup>https://github.com/cosiner/zerver</sup>_
+
+Zerver is an expressive, modular, feature completed RESTful framework.
+* **tags**: [go](../tagged/go.md), [web-frameworks](../tagged/web-frameworks.md)
+* :octocat: **[source code](https://github.com/cosiner/zerver)**
+---
+#### [client-timing](https://github.com/posener/client-timing)
+_<sup>https://github.com/posener/client-timing</sup>_
+
+An HTTP client for Server-Timing header.
+* **tags**: [go](../tagged/go.md), [web-frameworks](../tagged/web-frameworks.md), [middlware](../tagged/middlware.md)
+* :octocat: **[source code](https://github.com/posener/client-timing)**
+---
+#### [CORS](https://github.com/rs/cors)
+_<sup>https://github.com/rs/cors</sup>_
+
+Easily add CORS capabilities to your API.
+* **tags**: [go](../tagged/go.md), [web-frameworks](../tagged/web-frameworks.md), [middlware](../tagged/middlware.md)
+* :octocat: **[source code](https://github.com/rs/cors)**
+---
+#### [formjson](https://github.com/rs/formjson)
+_<sup>https://github.com/rs/formjson</sup>_
+
+Transparently handle JSON input as a standard form POST.
+* **tags**: [go](../tagged/go.md), [web-frameworks](../tagged/web-frameworks.md), [middlware](../tagged/middlware.md)
+* :octocat: **[source code](https://github.com/rs/formjson)**
+---
+#### [go-server-timing](https://github.com/mitchellh/go-server-timing)
+_<sup>https://github.com/mitchellh/go-server-timing</sup>_
+
+Add/parse Server-Timing header.
+* **tags**: [go](../tagged/go.md), [web-frameworks](../tagged/web-frameworks.md), [middlware](../tagged/middlware.md)
+* :octocat: **[source code](https://github.com/mitchellh/go-server-timing)**
+---
+#### [Limiter](https://github.com/ulule/limiter)
+_<sup>https://github.com/ulule/limiter</sup>_
+
+Dead simple rate limit middleware for Go.
+* **tags**: [go](../tagged/go.md), [web-frameworks](../tagged/web-frameworks.md), [middlware](../tagged/middlware.md)
+* :octocat: **[source code](https://github.com/ulule/limiter)**
+---
+#### [ln-paywall](https://github.com/philippgille/ln-paywall)
+_<sup>https://github.com/philippgille/ln-paywall</sup>_
+
+Go middleware for monetizing APIs on a per-request basis with the Lightning Network (Bitcoin).
+* **tags**: [go](../tagged/go.md), [web-frameworks](../tagged/web-frameworks.md), [middlware](../tagged/middlware.md)
+* :octocat: **[source code](https://github.com/philippgille/ln-paywall)**
+---
+#### [Tollbooth](https://github.com/didip/tollbooth)
+_<sup>https://github.com/didip/tollbooth</sup>_
+
+Rate limit HTTP request handler.
+* **tags**: [go](../tagged/go.md), [web-frameworks](../tagged/web-frameworks.md), [middlware](../tagged/middlware.md)
+* :octocat: **[source code](https://github.com/didip/tollbooth)**
+---
+#### [XFF](https://github.com/sebest/xff)
+_<sup>https://github.com/sebest/xff</sup>_
+
+Handle `X-Forwarded-For` header and friends.
+* **tags**: [go](../tagged/go.md), [web-frameworks](../tagged/web-frameworks.md), [middlware](../tagged/middlware.md)
+* :octocat: **[source code](https://github.com/sebest/xff)**
+---
+#### [alice](https://github.com/justinas/alice)
+_<sup>https://github.com/justinas/alice</sup>_
+
+Painless middleware chaining for Go.
+* **tags**: [go](../tagged/go.md), [web-frameworks](../tagged/web-frameworks.md), [middlware](../tagged/middlware.md)
+* :octocat: **[source code](https://github.com/justinas/alice)**
+---
+#### [catena](https://github.com/codemodus/catena)
+_<sup>https://github.com/codemodus/catena</sup>_
+
+http.Handler wrapper catenation (same API as "chain").
+* **tags**: [go](../tagged/go.md), [web-frameworks](../tagged/web-frameworks.md), [middlware](../tagged/middlware.md)
+* :octocat: **[source code](https://github.com/codemodus/catena)**
+---
+#### [chain](https://github.com/codemodus/chain)
+_<sup>https://github.com/codemodus/chain</sup>_
+
+Handler wrapper chaining with scoped data (net/context-based "middleware").
+* **tags**: [go](../tagged/go.md), [web-frameworks](../tagged/web-frameworks.md), [middlware](../tagged/middlware.md)
+* :octocat: **[source code](https://github.com/codemodus/chain)**
+---
+#### [go-wrap](https://github.com/go-on/wrap)
+_<sup>https://github.com/go-on/wrap</sup>_
+
+Small middlewares package for net/http.
+* **tags**: [go](../tagged/go.md), [web-frameworks](../tagged/web-frameworks.md), [middlware](../tagged/middlware.md)
+* :octocat: **[source code](https://github.com/go-on/wrap)**
+---
+#### [gores](https://github.com/alioygur/gores)
+_<sup>https://github.com/alioygur/gores</sup>_
+
+Go package that handles HTML, JSON, XML and etc. responses. Useful for RESTful APIs.
+* **tags**: [go](../tagged/go.md), [web-frameworks](../tagged/web-frameworks.md), [middlware](../tagged/middlware.md)
+* :octocat: **[source code](https://github.com/alioygur/gores)**
+---
+#### [interpose](https://github.com/carbocation/interpose)
+_<sup>https://github.com/carbocation/interpose</sup>_
+
+Minimalist net/http middleware for golang.
+* **tags**: [go](../tagged/go.md), [web-frameworks](../tagged/web-frameworks.md), [middlware](../tagged/middlware.md)
+* :octocat: **[source code](https://github.com/carbocation/interpose)**
+---
+#### [muxchain](https://github.com/stephens2424/muxchain)
+_<sup>https://github.com/stephens2424/muxchain</sup>_
+
+Lightweight middleware for net/http.
+* **tags**: [go](../tagged/go.md), [web-frameworks](../tagged/web-frameworks.md), [middlware](../tagged/middlware.md)
+* :octocat: **[source code](https://github.com/stephens2424/muxchain)**
+---
+#### [negroni](https://github.com/urfave/negroni)
+_<sup>https://github.com/urfave/negroni</sup>_
+
+Idiomatic HTTP middleware for Golang.
+* **tags**: [go](../tagged/go.md), [web-frameworks](../tagged/web-frameworks.md), [middlware](../tagged/middlware.md)
+* :octocat: **[source code](https://github.com/urfave/negroni)**
+---
+#### [render](https://github.com/unrolled/render)
+_<sup>https://github.com/unrolled/render</sup>_
+
+Go package for easily rendering JSON, XML, and HTML template responses.
+* **tags**: [go](../tagged/go.md), [web-frameworks](../tagged/web-frameworks.md), [middlware](../tagged/middlware.md)
+* :octocat: **[source code](https://github.com/unrolled/render)**
+---
+#### [renderer](https://github.com/thedevsaddam/renderer)
+_<sup>https://github.com/thedevsaddam/renderer</sup>_
+
+Simple, lightweight and faster response (JSON, JSONP, XML, YAML, HTML, File) rendering package for Go.
+* **tags**: [go](../tagged/go.md), [web-frameworks](../tagged/web-frameworks.md), [middlware](../tagged/middlware.md)
+* :octocat: **[source code](https://github.com/thedevsaddam/renderer)**
+---
+#### [rye](https://github.com/InVisionApp/rye)
+_<sup>https://github.com/InVisionApp/rye</sup>_
+
+Tiny Go middleware library (with canned Middlewares) that supports JWT, CORS, Statsd, and Go 1.7 context.
+* **tags**: [go](../tagged/go.md), [web-frameworks](../tagged/web-frameworks.md), [middlware](../tagged/middlware.md)
+* :octocat: **[source code](https://github.com/InVisionApp/rye)**
+---
+#### [stats](https://github.com/thoas/stats)
+_<sup>https://github.com/thoas/stats</sup>_
+
+Go middleware that stores various information about your web application.
+* **tags**: [go](../tagged/go.md), [web-frameworks](../tagged/web-frameworks.md), [middlware](../tagged/middlware.md)
+* :octocat: **[source code](https://github.com/thoas/stats)**
+---
+#### [alien](https://github.com/gernest/alien)
+_<sup>https://github.com/gernest/alien</sup>_
+
+Lightweight and fast http router from outer space.
+* **tags**: [go](../tagged/go.md), [web-frameworks](../tagged/web-frameworks.md), [routers](../tagged/routers.md)
+* :octocat: **[source code](https://github.com/gernest/alien)**
+---
+#### [bellt](https://github.com/GuilhermeCaruso/bellt)
+_<sup>https://github.com/GuilhermeCaruso/bellt</sup>_
+
+A simple Go HTTP router.
+* **tags**: [go](../tagged/go.md), [web-frameworks](../tagged/web-frameworks.md), [routers](../tagged/routers.md)
+* :octocat: **[source code](https://github.com/GuilhermeCaruso/bellt)**
+---
+#### [Bone](https://github.com/go-zoo/bone)
+_<sup>https://github.com/go-zoo/bone</sup>_
+
+Lightning Fast HTTP Multiplexer.
+* **tags**: [go](../tagged/go.md), [web-frameworks](../tagged/web-frameworks.md), [routers](../tagged/routers.md)
+* :octocat: **[source code](https://github.com/go-zoo/bone)**
+---
+#### [Bxog](https://github.com/claygod/Bxog)
+_<sup>https://github.com/claygod/Bxog</sup>_
+
+Simple and fast HTTP router for Go. It works with routes of varying difficulty, length and nesting. And he knows how to create a URL from the received parameters.
+* **tags**: [go](../tagged/go.md), [web-frameworks](../tagged/web-frameworks.md), [routers](../tagged/routers.md)
+* :octocat: **[source code](https://github.com/claygod/Bxog)**
+---
+#### [chi](https://github.com/go-chi/chi)
+_<sup>https://github.com/go-chi/chi</sup>_
+
+Small, fast and expressive HTTP router built on net/context.
+* **tags**: [go](../tagged/go.md), [web-frameworks](../tagged/web-frameworks.md), [routers](../tagged/routers.md)
+* :octocat: **[source code](https://github.com/go-chi/chi)**
+---
+#### [fasthttprouter](https://github.com/buaazp/fasthttprouter)
+_<sup>https://github.com/buaazp/fasthttprouter</sup>_
+
+High performance router forked from `httprouter`. The first router fit for `fasthttp`.
+* **tags**: [go](../tagged/go.md), [web-frameworks](../tagged/web-frameworks.md), [routers](../tagged/routers.md)
+* :octocat: **[source code](https://github.com/buaazp/fasthttprouter)**
+---
+#### [FastRouter](https://github.com/razonyang/fastrouter)
+_<sup>https://github.com/razonyang/fastrouter</sup>_
+
+a fast, flexible HTTP router written in Go.
+* **tags**: [go](../tagged/go.md), [web-frameworks](../tagged/web-frameworks.md), [routers](../tagged/routers.md)
+* :octocat: **[source code](https://github.com/razonyang/fastrouter)**
+---
+#### [gocraft/web](https://github.com/gocraft/web)
+_<sup>https://github.com/gocraft/web</sup>_
+
+Mux and middleware package in Go.
+* **tags**: [go](../tagged/go.md), [web-frameworks](../tagged/web-frameworks.md), [routers](../tagged/routers.md)
+* :octocat: **[source code](https://github.com/gocraft/web)**
+---
+#### [Goji](https://github.com/goji/goji)
+_<sup>https://github.com/goji/goji</sup>_
+
+Goji is a minimalistic and flexible HTTP request multiplexer with support for `net/context`.
+* **tags**: [go](../tagged/go.md), [web-frameworks](../tagged/web-frameworks.md), [routers](../tagged/routers.md)
+* :octocat: **[source code](https://github.com/goji/goji)**
+---
+#### [GoRouter](https://github.com/vardius/gorouter)
+_<sup>https://github.com/vardius/gorouter</sup>_
+
+GoRouter is a Server/API micro framwework, HTTP request router, multiplexer, mux that provides request router with middleware supporting `net/context`.
+* **tags**: [go](../tagged/go.md), [web-frameworks](../tagged/web-frameworks.md), [routers](../tagged/routers.md)
+* :octocat: **[source code](https://github.com/vardius/gorouter)**
+---
+#### [gowww/router](https://github.com/gowww/router)
+_<sup>https://github.com/gowww/router</sup>_
+
+Lightning fast HTTP router fully compatible with the net/http.Handler interface.
+* **tags**: [go](../tagged/go.md), [web-frameworks](../tagged/web-frameworks.md), [routers](../tagged/routers.md)
+* :octocat: **[source code](https://github.com/gowww/router)**
+---
+#### [httprouter](https://github.com/julienschmidt/httprouter)
+_<sup>https://github.com/julienschmidt/httprouter</sup>_
+
+High performance router. Use this and the standard http handlers to form a very high performance web framework.
+* **tags**: [go](../tagged/go.md), [web-frameworks](../tagged/web-frameworks.md), [routers](../tagged/routers.md)
+* :octocat: **[source code](https://github.com/julienschmidt/httprouter)**
+---
+#### [httptreemux](https://github.com/dimfeld/httptreemux)
+_<sup>https://github.com/dimfeld/httptreemux</sup>_
+
+High-speed, flexible tree-based HTTP router for Go. Inspiration from httprouter.
+* **tags**: [go](../tagged/go.md), [web-frameworks](../tagged/web-frameworks.md), [routers](../tagged/routers.md)
+* :octocat: **[source code](https://github.com/dimfeld/httptreemux)**
+---
+#### [lars](https://github.com/go-playground/lars)
+_<sup>https://github.com/go-playground/lars</sup>_
+
+Is a lightweight, fast and extensible zero allocation HTTP router for Go used to create customizable frameworks.
+* **tags**: [go](../tagged/go.md), [web-frameworks](../tagged/web-frameworks.md), [routers](../tagged/routers.md)
+* :octocat: **[source code](https://github.com/go-playground/lars)**
+---
+#### [mux](https://github.com/gorilla/mux)
+_<sup>https://github.com/gorilla/mux</sup>_
+
+Powerful URL router and dispatcher for golang.
+* **tags**: [go](../tagged/go.md), [web-frameworks](../tagged/web-frameworks.md), [routers](../tagged/routers.md)
+* :octocat: **[source code](https://github.com/gorilla/mux)**
+---
+#### [ozzo-routing](https://github.com/go-ozzo/ozzo-routing)
+_<sup>https://github.com/go-ozzo/ozzo-routing</sup>_
+
+An extremely fast Go (golang) HTTP router that supports regular expression route matching. Comes with full support for building RESTful APIs.
+* **tags**: [go](../tagged/go.md), [web-frameworks](../tagged/web-frameworks.md), [routers](../tagged/routers.md)
+* :octocat: **[source code](https://github.com/go-ozzo/ozzo-routing)**
+---
+#### [pure](https://github.com/go-playground/pure)
+_<sup>https://github.com/go-playground/pure</sup>_
+
+Is a lightweight HTTP router that sticks to the std "net/http" implementation.
+* **tags**: [go](../tagged/go.md), [web-frameworks](../tagged/web-frameworks.md), [routers](../tagged/routers.md)
+* :octocat: **[source code](https://github.com/go-playground/pure)**
+---
+#### [Siesta](https://github.com/VividCortex/siesta)
+_<sup>https://github.com/VividCortex/siesta</sup>_
+
+Composable framework to write middleware and handlers.
+* **tags**: [go](../tagged/go.md), [web-frameworks](../tagged/web-frameworks.md), [routers](../tagged/routers.md)
+* :octocat: **[source code](https://github.com/VividCortex/siesta)**
+---
+#### [vestigo](https://github.com/husobee/vestigo)
+_<sup>https://github.com/husobee/vestigo</sup>_
+
+Performant, stand-alone, HTTP compliant URL Router for go web applications.
+* **tags**: [go](../tagged/go.md), [web-frameworks](../tagged/web-frameworks.md), [routers](../tagged/routers.md)
+* :octocat: **[source code](https://github.com/husobee/vestigo)**
+---
+#### [violetear](https://github.com/nbari/violetear)
+_<sup>https://github.com/nbari/violetear</sup>_
+
+Go HTTP router.
+* **tags**: [go](../tagged/go.md), [web-frameworks](../tagged/web-frameworks.md), [routers](../tagged/routers.md)
+* :octocat: **[source code](https://github.com/nbari/violetear)**
+---
+#### [xmux](https://github.com/rs/xmux)
+_<sup>https://github.com/rs/xmux</sup>_
+
+High performance muxer based on `httprouter` with `net/context` support.
+* **tags**: [go](../tagged/go.md), [web-frameworks](../tagged/web-frameworks.md), [routers](../tagged/routers.md)
+* :octocat: **[source code](https://github.com/rs/xmux)**
+---
+#### [xujiajun/gorouter](https://github.com/xujiajun/gorouter)
+_<sup>https://github.com/xujiajun/gorouter</sup>_
+
+A simple and fast HTTP router for Go.
+* **tags**: [go](../tagged/go.md), [web-frameworks](../tagged/web-frameworks.md), [routers](../tagged/routers.md)
+* :octocat: **[source code](https://github.com/xujiajun/gorouter)**
+---
 #### [Camping](https://github.com/camping/camping)
 _<sup>https://github.com/camping/camping</sup>_
 

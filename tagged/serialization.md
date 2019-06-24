@@ -2,6 +2,111 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/serialization](https://www.bookmarks.dev/tagged/serialization)</sup></sup>_
 ---
+#### [asn1](https://github.com/PromonLogicalis/asn1)
+_<sup>https://github.com/PromonLogicalis/asn1</sup>_
+
+Asn.1 BER and DER encoding library for golang.
+* **tags**: [go](../tagged/go.md), [serialization](../tagged/serialization.md)
+* :octocat: **[source code](https://github.com/PromonLogicalis/asn1)**
+---
+#### [bambam](https://github.com/glycerine/bambam)
+_<sup>https://github.com/glycerine/bambam</sup>_
+
+generator for Cap'n Proto schemas from go.
+* **tags**: [go](../tagged/go.md), [serialization](../tagged/serialization.md)
+* :octocat: **[source code](https://github.com/glycerine/bambam)**
+---
+#### [bel](https://github.com/32leaves/bel)
+_<sup>https://github.com/32leaves/bel</sup>_
+
+Generate TypeScript interfaces from Go structs/interfaces. Useful for JSON RPC.
+* **tags**: [go](../tagged/go.md), [serialization](../tagged/serialization.md)
+* :octocat: **[source code](https://github.com/32leaves/bel)**
+---
+#### [binstruct](https://github.com/ghostiam/binstruct)
+_<sup>https://github.com/ghostiam/binstruct</sup>_
+
+Golang binary decoder for mapping data into the structure.
+* **tags**: [go](../tagged/go.md), [serialization](../tagged/serialization.md)
+* :octocat: **[source code](https://github.com/ghostiam/binstruct)**
+---
+#### [colfer](https://github.com/pascaldekloe/colfer)
+_<sup>https://github.com/pascaldekloe/colfer</sup>_
+
+Code generation for the Colfer binary format.
+* **tags**: [go](../tagged/go.md), [serialization](../tagged/serialization.md)
+* :octocat: **[source code](https://github.com/pascaldekloe/colfer)**
+---
+#### [csvutil](https://github.com/jszwec/csvutil)
+_<sup>https://github.com/jszwec/csvutil</sup>_
+
+High Performance, idiomatic CSV record encoding and decoding to native Go structures.
+* **tags**: [go](../tagged/go.md), [serialization](../tagged/serialization.md)
+* :octocat: **[source code](https://github.com/jszwec/csvutil)**
+---
+#### [fwencoder](https://github.com/o1egl/fwencoder)
+_<sup>https://github.com/o1egl/fwencoder</sup>_
+
+Fixed width file parser (encoding and decoding library) for Go.
+* **tags**: [go](../tagged/go.md), [serialization](../tagged/serialization.md)
+* :octocat: **[source code](https://github.com/o1egl/fwencoder)**
+---
+#### [go-capnproto](https://github.com/glycerine/go-capnproto)
+_<sup>https://github.com/glycerine/go-capnproto</sup>_
+
+Cap'n Proto library and parser for go.
+* **tags**: [go](../tagged/go.md), [serialization](../tagged/serialization.md)
+* :octocat: **[source code](https://github.com/glycerine/go-capnproto)**
+---
+#### [go-codec](https://github.com/ugorji/go)
+_<sup>https://github.com/ugorji/go</sup>_
+
+High Performance, feature-Rich, idiomatic encode, decode and rpc library for msgpack, cbor and json, with runtime-based OR code-generation support.
+* **tags**: [go](../tagged/go.md), [serialization](../tagged/serialization.md)
+* :octocat: **[source code](https://github.com/ugorji/go)**
+---
+#### [gogoprotobuf](https://github.com/gogo/protobuf)
+_<sup>https://github.com/gogo/protobuf</sup>_
+
+Protocol Buffers for Go with Gadgets.
+* **tags**: [go](../tagged/go.md), [serialization](../tagged/serialization.md)
+* :octocat: **[source code](https://github.com/gogo/protobuf)**
+---
+#### [goprotobuf](https://github.com/golang/protobuf)
+_<sup>https://github.com/golang/protobuf</sup>_
+
+Go support, in the form of a library and protocol compiler plugin, for Google's protocol buffers.
+* **tags**: [go](../tagged/go.md), [serialization](../tagged/serialization.md)
+* :octocat: **[source code](https://github.com/golang/protobuf)**
+---
+#### [jsoniter](https://github.com/json-iterator/go)
+_<sup>https://github.com/json-iterator/go</sup>_
+
+High-performance 100% compatible drop-in replacement of "encoding/json".
+* **tags**: [go](../tagged/go.md), [serialization](../tagged/serialization.md)
+* :octocat: **[source code](https://github.com/json-iterator/go)**
+---
+#### [mapstructure](https://github.com/mitchellh/mapstructure)
+_<sup>https://github.com/mitchellh/mapstructure</sup>_
+
+Go library for decoding generic map values into native Go structures.
+* **tags**: [go](../tagged/go.md), [serialization](../tagged/serialization.md)
+* :octocat: **[source code](https://github.com/mitchellh/mapstructure)**
+---
+#### [php_session_decoder](https://github.com/yvasiyarov/php_session_decoder)
+_<sup>https://github.com/yvasiyarov/php_session_decoder</sup>_
+
+GoLang library for working with PHP session format and PHP Serialize/Unserialize functions.
+* **tags**: [go](../tagged/go.md), [serialization](../tagged/serialization.md)
+* :octocat: **[source code](https://github.com/yvasiyarov/php_session_decoder)**
+---
+#### [structomap](https://github.com/tuvistavie/structomap)
+_<sup>https://github.com/tuvistavie/structomap</sup>_
+
+Library to easily and dynamically generate maps from static structures.
+* **tags**: [go](../tagged/go.md), [serialization](../tagged/serialization.md)
+* :octocat: **[source code](https://github.com/tuvistavie/structomap)**
+---
 #### [marshmallow](https://github.com/marshmallow-code/marshmallow)
 _<sup>https://github.com/marshmallow-code/marshmallow</sup>_
 

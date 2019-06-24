@@ -2,6 +2,48 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/version-control](https://www.bookmarks.dev/tagged/version-control)</sup></sup>_
 ---
+#### [gh](https://github.com/rjeczalik/gh)
+_<sup>https://github.com/rjeczalik/gh</sup>_
+
+Scriptable server and net/http middleware for GitHub Webhooks.
+* **tags**: [go](../tagged/go.md), [version-control](../tagged/version-control.md)
+* :octocat: **[source code](https://github.com/rjeczalik/gh)**
+---
+#### [git2go](https://github.com/libgit2/git2go)
+_<sup>https://github.com/libgit2/git2go</sup>_
+
+Go bindings for libgit2.
+* **tags**: [go](../tagged/go.md), [version-control](../tagged/version-control.md)
+* :octocat: **[source code](https://github.com/libgit2/git2go)**
+---
+#### [go-git](https://github.com/src-d/go-git)
+_<sup>https://github.com/src-d/go-git</sup>_
+
+highly extensible Git implementation in pure Go.
+* **tags**: [go](../tagged/go.md), [version-control](../tagged/version-control.md)
+* :octocat: **[source code](https://github.com/src-d/go-git)**
+---
+#### [go-vcs](https://github.com/sourcegraph/go-vcs)
+_<sup>https://github.com/sourcegraph/go-vcs</sup>_
+
+manipulate and inspect VCS repositories in Go.
+* **tags**: [go](../tagged/go.md), [version-control](../tagged/version-control.md)
+* :octocat: **[source code](https://github.com/sourcegraph/go-vcs)**
+---
+#### [hercules](https://github.com/src-d/hercules)
+_<sup>https://github.com/src-d/hercules</sup>_
+
+gaining advanced insights from Git repository history.
+* **tags**: [go](../tagged/go.md), [version-control](../tagged/version-control.md)
+* :octocat: **[source code](https://github.com/src-d/hercules)**
+---
+#### [hgo](https://github.com/beyang/hgo)
+_<sup>https://github.com/beyang/hgo</sup>_
+
+Hgo is a collection of Go packages providing read-access to local Mercurial repositories.
+* **tags**: [go](../tagged/go.md), [version-control](../tagged/version-control.md)
+* :octocat: **[source code](https://github.com/beyang/hgo)**
+---
 #### [猴子都能懂的GIT入门](http://backlogtool.com/git-guide/cn/)
 _<sup>http://backlogtool.com/git-guide/cn/</sup>_
 
