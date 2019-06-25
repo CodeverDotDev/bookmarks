@@ -2,6 +2,56 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/database](https://www.bookmarks.dev/tagged/database)</sup></sup>_
 ---
+#### [Apache Ignite](https://apacheignite.readme.io/docs/kubernetes-deployment)
+_<sup>https://apacheignite.readme.io/docs/kubernetes-deployment</sup>_
+
+Memory-centric distributed database, caching, processing platform
+* **tags**: [kubernetes](../tagged/kubernetes.md), [database](../tagged/database.md)
+---
+#### [Cassandra / DataStax](http://blog.kubernetes.io/2016/07/thousand-instances-of-cassandra-using-kubernetes-pet-set.html)
+_<sup>http://blog.kubernetes.io/2016/07/thousand-instances-of-cassandra-using-kubernetes-pet-set.html</sup>_
+
+Editor’s note: this post is part of a series of in-depth articles on what’s new in Kubernetes 1.3
+Running The Greek Pet Monster Races For the Kubernetes 1.3 launch, we wanted to put the new Pet Set th...
+* **tags**: [kubernetes](../tagged/kubernetes.md), [database](../tagged/database.md)
+---
+#### [CockroachDB](http://www.cockroachlabs.com/blog/running-cockroachdb-on-kubernetes/)
+_<sup>http://www.cockroachlabs.com/blog/running-cockroachdb-on-kubernetes/</sup>_
+
+Running CockroachDB on Kubernetes pairs its built-in replication and survivability with Kubernetes’ process management, creating a highly available system.
+* **tags**: [kubernetes](../tagged/kubernetes.md), [database](../tagged/database.md)
+---
+#### [Hazelcast](http://ppires.wordpress.com/2014/12/24/clustering-hazelcast-on-kubernetes/)
+_<sup>http://ppires.wordpress.com/2014/12/24/clustering-hazelcast-on-kubernetes/</sup>_
+
+I've had experience with clustering Hazelcast in Google Cloud Engine before, but right now, in the advent of containers, Kubernetes is becoming a standard for app/container orchestration and therefore...
+* **tags**: [kubernetes](../tagged/kubernetes.md), [database](../tagged/database.md)
+---
+#### [Minio](http://minio.io)
+_<sup>http://minio.io</sup>_
+
+Enterprise grade, Amazon S3 compatible, object storage software designed for high performance workloads like AI, machine learning + cloud native apps.
+* **tags**: [kubernetes](../tagged/kubernetes.md), [database](../tagged/database.md)
+---
+#### [MongoDB](http://www.mongodb.com/blog/post/running-mongodb-as-a-microservice-with-docker-and-kubernetes)
+_<sup>http://www.mongodb.com/blog/post/running-mongodb-as-a-microservice-with-docker-and-kubernetes</sup>_
+
+Running MongoDB as a Microservice with Docker and Kubernetes
+* **tags**: [kubernetes](../tagged/kubernetes.md), [database](../tagged/database.md)
+---
+#### [RDS](https://github.com/sorenmat/k8s-rds)
+_<sup>https://github.com/sorenmat/k8s-rds</sup>_
+
+Provision RDS databases via CRD from Kubernetes
+* **tags**: [kubernetes](../tagged/kubernetes.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/sorenmat/k8s-rds)**
+---
+#### [Vitess](http://vitess.io/)
+_<sup>http://vitess.io/</sup>_
+
+Horizontal scaling of MySql by Youtube
+* **tags**: [kubernetes](../tagged/kubernetes.md), [database](../tagged/database.md)
+---
 #### [badger](https://github.com/dgraph-io/badger)
 _<sup>https://github.com/dgraph-io/badger</sup>_
 

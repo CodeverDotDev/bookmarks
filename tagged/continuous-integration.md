@@ -2,6 +2,52 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/continuous-integration](https://www.bookmarks.dev/tagged/continuous-integration)</sup></sup>_
 ---
+#### [GitOps: High-Velocity CI/CD for Kubernetes](http://dzone.com/articles/gitops-high-velocity-cicd-for-kubernetes)
+_<sup>http://dzone.com/articles/gitops-high-velocity-cicd-for-kubernetes</sup>_
+
+This article explains techniques for DevOps software development teams who strive for high velocity continuous delivery and CI/CD using Kubernetes and Docker.
+* **tags**: [kubernetes](../tagged/kubernetes.md), [continuous-integration](../tagged/continuous-integration.md), [continuous-deployment](../tagged/continuous-deployment.md)
+---
+#### [Jenkins declarative pipelines with Kubernetes](http://radu-matei.com/blog/kubernetes-jenkins-azure/)
+_<sup>http://radu-matei.com/blog/kubernetes-jenkins-azure/</sup>_
+
+Deploy Jenkins using Helm, create Jenkins pipelines and execute builds in Kubernetes pods
+* **tags**: [kubernetes](../tagged/kubernetes.md), [continuous-integration](../tagged/continuous-integration.md), [continuous-deployment](../tagged/continuous-deployment.md)
+---
+#### [Adding CI/CD to your Spring Boot app with Jenkins X and Kubernetes](https://developer.okta.com/blog/2018/07/11/ci-cd-spring-boot-jenkins-x-kubernetes)
+_<sup>https://developer.okta.com/blog/2018/07/11/ci-cd-spring-boot-jenkins-x-kubernetes</sup>_
+
+This post shows you how to implement continuous integration and deployment (CI/CD) with Jenkins X and Kubernetes on Google Cloud.
+* **tags**: [kubernetes](../tagged/kubernetes.md), [continuous-integration](../tagged/continuous-integration.md), [continuous-deployment](../tagged/continuous-deployment.md)
+---
+#### [Continuous Delivery with Amazon EKS and Jenkins X](https://aws.amazon.com/blogs/opensource/continuous-delivery-eks-jenkins-x/)
+_<sup>https://aws.amazon.com/blogs/opensource/continuous-delivery-eks-jenkins-x/</sup>_
+
+* **tags**: [kubernetes](../tagged/kubernetes.md), [continuous-integration](../tagged/continuous-integration.md), [continuous-deployment](../tagged/continuous-deployment.md)
+---
+#### [Continuous Integration and Delivery to AWS Kubernetes](https://semaphoreci.com/blog/continuous-integration-delivery-aws-eks-kubernetes)
+_<sup>https://semaphoreci.com/blog/continuous-integration-delivery-aws-eks-kubernetes</sup>_
+
+Learn how to combine Semaphore with AWS Elastic Container Registry and Kubernetes Service to get Continuous Delivery to a managed cluster in a few minutes.
+* **tags**: [kubernetes](../tagged/kubernetes.md), [continuous-integration](../tagged/continuous-integration.md), [continuous-deployment](../tagged/continuous-deployment.md)
+---
+#### [CI/CD for Microservices on DigitalOcean Kubernetes](https://semaphoreci.com/blog/cicd-microservices-digitalocean-kubernetes)
+_<sup>https://semaphoreci.com/blog/cicd-microservices-digitalocean-kubernetes</sup>_
+
+Tutorial: How to implement a CI/CD pipeline for a microservice running in Docker with Semaphore and DigitalOcean Kubernetes.
+* **tags**: [kubernetes](../tagged/kubernetes.md), [continuous-integration](../tagged/continuous-integration.md), [continuous-deployment](../tagged/continuous-deployment.md)
+---
+#### [CircleCI](http://www.alexecollins.com/continuous-delivery-with-kubernetes-and-circleci/)
+_<sup>http://www.alexecollins.com/continuous-delivery-with-kubernetes-and-circleci/</sup>_
+
+* **tags**: [kubernetes](../tagged/kubernetes.md), [continuous-integration](../tagged/continuous-integration.md), [continuous-deployment](../tagged/continuous-deployment.md)
+---
+#### [Automating CI/CD on Kubernetes with Jenkins X](https://www.youtube.com/watch?v=BF3MhFjvBTU)
+_<sup>https://www.youtube.com/watch?v=BF3MhFjvBTU</sup>_
+
+The last 5 years has seen a huge change in how we build, package, run and manage software with the rise of Kubernetes, Cloud Native, Microservices and Contin...
+* **tags**: [kubernetes](../tagged/kubernetes.md), [continuous-integration](../tagged/continuous-integration.md), [continuous-delivery](../tagged/continuous-delivery.md), [videos](../tagged/videos.md)
+---
 #### [drone](https://github.com/drone/drone)
 _<sup>https://github.com/drone/drone</sup>_
 

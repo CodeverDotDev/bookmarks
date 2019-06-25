@@ -2,6 +2,158 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/security](https://www.bookmarks.dev/tagged/security)</sup></sup>_
 ---
+#### [Kubernetes Security Guide](https://sysdig.com/blog/kubernetes-security-guide/)
+_<sup>https://sysdig.com/blog/kubernetes-security-guide/</sup>_
+
+RBAC, TLS, Security policy, Network policy, etc.
+* **tags**: [kubernetes](../tagged/kubernetes.md), [security](../tagged/security.md)
+---
+#### [Handling Sensitive Data In A Docker Application with Kubernetes Secrets](http://scotch.io/tutorials/google-cloud-platform-iii-handling-sensitive-data-in-a-docker-application-with-kubernetes-secrets)
+_<sup>http://scotch.io/tutorials/google-cloud-platform-iii-handling-sensitive-data-in-a-docker-application...</sup>_
+
+Dealing with sensitive data such as tokens, API keys and passwords In A Docker Application with Kubernetes Secrets
+* **tags**: [kubernetes](../tagged/kubernetes.md), [security](../tagged/security.md)
+---
+#### [How to Create and Use Kubernetes Secrets](http://linoxide.com/containers/create-use-kubernetes-secrets/)
+_<sup>http://linoxide.com/containers/create-use-kubernetes-secrets/</sup>_
+
+In this article we cover how to create, delete and use secrets in kubernetes. We have included secrets usability as in volumes and environment variables
+* **tags**: [kubernetes](../tagged/kubernetes.md), [security](../tagged/security.md)
+---
+#### [Kubernetes Security Best Practices](https://dev.to/petermbenjamin/kubernetes-security-best-practices-hlk)
+_<sup>https://dev.to/petermbenjamin/kubernetes-security-best-practices-hlk</sup>_
+
+Exploring security best practices around Kubernetes
+* **tags**: [kubernetes](../tagged/kubernetes.md), [security](../tagged/security.md)
+---
+#### [Running Vault and Consul on Kubernetes](https://testdriven.io/running-vault-and-consul-on-kubernetes)
+_<sup>https://testdriven.io/running-vault-and-consul-on-kubernetes</sup>_
+
+In the following tutorial we’ll walk you through how to use Minikube to run Kubernetes locally and then we'll run Hashicorp's Vault and Consul on K8s.
+* **tags**: [kubernetes](../tagged/kubernetes.md), [security](../tagged/security.md)
+---
+#### [Aquasec](http://blog.aquasec.com/topic/kubernetes)
+_<sup>http://blog.aquasec.com/topic/kubernetes</sup>_
+
+Kubernetes Security | The Container and serverless security blog: container security, Kubernetes Security, Docker Security, DevOps Tools, DevSecOps, image scanning, Continuous integration, Runtime pro...
+* **tags**: [kubernetes](../tagged/kubernetes.md), [security](../tagged/security.md)
+---
+#### [Authenticator](https://github.com/heptio/authenticator)
+_<sup>https://github.com/heptio/authenticator</sup>_
+
+A tool for using AWS IAM credentials to authenticate to a Kubernetes cluster
+* **tags**: [kubernetes](../tagged/kubernetes.md), [security](../tagged/security.md)
+* :octocat: **[source code](https://github.com/heptio/authenticator)**
+---
+#### [Calico Network Policy (from Tigera)](from Tigera)
+_<sup>from Tigera</sup>_
+
+Widely adopted open source implementation unifying Kubernetes Network Policy and Istio Application Policy.
+* **tags**: [kubernetes](../tagged/kubernetes.md), [security](../tagged/security.md)
+---
+#### [Dex](https://github.com/coreos/dex)
+_<sup>https://github.com/coreos/dex</sup>_
+
+OpenID and OAuth for Kubernetes
+* **tags**: [kubernetes](../tagged/kubernetes.md), [security](../tagged/security.md)
+* :octocat: **[source code](https://github.com/coreos/dex)**
+---
+#### [Guard](https://github.com/appscode/guard)
+_<sup>https://github.com/appscode/guard</sup>_
+
+Authenticaton webhook server with support for Github, Gitlab, Google, Azure and LDAP (AD) as identity providers.
+* **tags**: [kubernetes](../tagged/kubernetes.md), [security](../tagged/security.md)
+* :octocat: **[source code](https://github.com/appscode/guard)**
+---
+#### [kiam](https://github.com/uswitch/kiam)
+_<sup>https://github.com/uswitch/kiam</sup>_
+
+Allows cluster users to associate AWS IAM roles to Pods.
+* **tags**: [kubernetes](../tagged/kubernetes.md), [security](../tagged/security.md)
+* :octocat: **[source code](https://github.com/uswitch/kiam)**
+---
+#### [kube-bench](https://github.com/aquasecurity/kube-bench)
+_<sup>https://github.com/aquasecurity/kube-bench</sup>_
+
+The Kubernetes Bench for Security is a Go application that checks whether Kubernetes is deployed according to security best practices.
+* **tags**: [kubernetes](../tagged/kubernetes.md), [security](../tagged/security.md)
+* :octocat: **[source code](https://github.com/aquasecurity/kube-bench)**
+---
+#### [kube-hunter](https://github.com/aquasecurity/kube-hunter)
+_<sup>https://github.com/aquasecurity/kube-hunter</sup>_
+
+Hunt for security weaknesses in Kubernetes clusters.
+* **tags**: [kubernetes](../tagged/kubernetes.md), [security](../tagged/security.md)
+* :octocat: **[source code](https://github.com/aquasecurity/kube-hunter)**
+---
+#### [kube-psp-advisor](https://github.com/sysdiglabs/kube-psp-advisor)
+_<sup>https://github.com/sysdiglabs/kube-psp-advisor</sup>_
+
+Help building an adaptive and fine-grained pod security policy.
+* **tags**: [kubernetes](../tagged/kubernetes.md), [security](../tagged/security.md)
+* :octocat: **[source code](https://github.com/sysdiglabs/kube-psp-advisor)**
+---
+#### [kube2iam](https://github.com/jtblin/kube2iam)
+_<sup>https://github.com/jtblin/kube2iam</sup>_
+
+Provides different AWS IAM roles for pods running on Kubernetes
+* **tags**: [kubernetes](../tagged/kubernetes.md), [security](../tagged/security.md)
+* :octocat: **[source code](https://github.com/jtblin/kube2iam)**
+---
+#### [Kubesec.io](http://kubesec.io/)
+_<sup>http://kubesec.io/</sup>_
+
+kubesec.io
+* **tags**: [kubernetes](../tagged/kubernetes.md), [security](../tagged/security.md)
+---
+#### [Pomerium](http://www.pomerium.io/)
+_<sup>http://www.pomerium.io/</sup>_
+
+a zero-trust identity-aware access proxy inspired by BeyondCorp.
+* **tags**: [kubernetes](../tagged/kubernetes.md), [security](../tagged/security.md)
+---
+#### [Rakkess](https://github.com/corneliusweig/rakkess)
+_<sup>https://github.com/corneliusweig/rakkess</sup>_
+
+Kubectl plugin to show an access matrix for all available resources.
+* **tags**: [kubernetes](../tagged/kubernetes.md), [security](../tagged/security.md)
+* :octocat: **[source code](https://github.com/corneliusweig/rakkess)**
+---
+#### [Sysdig Falco](http://www.sysdig.org/falco/)
+_<sup>http://www.sysdig.org/falco/</sup>_
+
+Have visibility into the behavior of your containers & applications with Falco, container native runtime security.
+* **tags**: [kubernetes](../tagged/kubernetes.md), [security](../tagged/security.md)
+---
+#### [Sysdig Secure](http://www.sysdig.com/product/secure)
+_<sup>http://www.sysdig.com/product/secure</sup>_
+
+Container Security that brings together image scanning, run-time protection, and deep forensics to identify vulnerabilities, block threats, enforce compliance, and audit activity across your microserv...
+* **tags**: [kubernetes](../tagged/kubernetes.md), [security](../tagged/security.md)
+---
+#### [Tigera Secure Cloud Edition](https://www.tigera.io/tigera-secure-ce/)
+_<sup>https://www.tigera.io/tigera-secure-ce/</sup>_
+
+* **tags**: [kubernetes](../tagged/kubernetes.md), [security](../tagged/security.md)
+---
+#### [Tigera Secure Enterprise Edition](https://www.tigera.io/tigera-secure-ee/)
+_<sup>https://www.tigera.io/tigera-secure-ee/</sup>_
+
+* **tags**: [kubernetes](../tagged/kubernetes.md), [security](../tagged/security.md)
+---
+#### [Trireme](http://github.com/aporeto-inc/trireme-kubernetes)
+_<sup>http://github.com/aporeto-inc/trireme-kubernetes</sup>_
+
+Aporeto integration with Kubernetes Network Policies - aporeto-inc/trireme-kubernetes
+* **tags**: [kubernetes](../tagged/kubernetes.md), [security](../tagged/security.md)
+* :octocat: **[source code](http://github.com/aporeto-inc/trireme-kubernetes)**
+---
+#### [Twistlock](http://www.twistlock.com/)
+_<sup>http://www.twistlock.com/</sup>_
+
+Twistlock is the first comprehensive cloud native cybersecurity platform for hosts, containers, and serverless setups across the DevSecOps lifecycle.
+* **tags**: [kubernetes](../tagged/kubernetes.md), [security](../tagged/security.md)
+---
 #### [acmetool](https://github.com/hlandau/acme)
 _<sup>https://github.com/hlandau/acme</sup>_
 

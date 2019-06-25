@@ -2,6 +2,55 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/machine-learning](https://www.bookmarks.dev/tagged/machine-learning)</sup></sup>_
 ---
+#### [FfDL](https://github.com/IBM/FfDL)
+_<sup>https://github.com/IBM/FfDL</sup>_
+
+Deep Learning Platform offering TensorFlow, Caffe, PyTorch etc. as a Service on Kubernetes
+* **tags**: [kubernetes](../tagged/kubernetes.md), [machine-learning](../tagged/machine-learning.md)
+* :octocat: **[source code](https://github.com/IBM/FfDL)**
+---
+#### [kubeflow](https://github.com/google/kubeflow)
+_<sup>https://github.com/google/kubeflow</sup>_
+
+Machine Learning Toolkit for Kubernetes.
+* **tags**: [kubernetes](../tagged/kubernetes.md), [machine-learning](../tagged/machine-learning.md)
+* :octocat: **[source code](https://github.com/google/kubeflow)**
+---
+#### [MLT](https://github.com/IntelAI/mlt)
+_<sup>https://github.com/IntelAI/mlt</sup>_
+
+Machine Learning Container Templates: easy to use container and kubernetes object templates.
+* **tags**: [kubernetes](../tagged/kubernetes.md), [machine-learning](../tagged/machine-learning.md)
+* :octocat: **[source code](https://github.com/IntelAI/mlt)**
+---
+#### [mxnet-operator](https://github.com/deepinsight/mxnet-operator)
+_<sup>https://github.com/deepinsight/mxnet-operator</sup>_
+
+Tools for ML/MXNet on Kubernetes.
+* **tags**: [kubernetes](../tagged/kubernetes.md), [machine-learning](../tagged/machine-learning.md)
+* :octocat: **[source code](https://github.com/deepinsight/mxnet-operator)**
+---
+#### [Polyaxon](https://github.com/polyaxon/polyaxon)
+_<sup>https://github.com/polyaxon/polyaxon</sup>_
+
+An open source platform for reproducible machine learning and deep learning on kubernetes
+* **tags**: [kubernetes](../tagged/kubernetes.md), [machine-learning](../tagged/machine-learning.md)
+* :octocat: **[source code](https://github.com/polyaxon/polyaxon)**
+---
+#### [seldon-core](https://github.com/SeldonIO/seldon-core)
+_<sup>https://github.com/SeldonIO/seldon-core</sup>_
+
+Open source framework for deploying machine learning models on Kubernetes
+* **tags**: [kubernetes](../tagged/kubernetes.md), [machine-learning](../tagged/machine-learning.md)
+* :octocat: **[source code](https://github.com/SeldonIO/seldon-core)**
+---
+#### [TensorFlow k8s](https://github.com/tensorflow/k8s)
+_<sup>https://github.com/tensorflow/k8s</sup>_
+
+Tools for ML/Tensorflow on Kubernetes. Contribute to kubeflow/tf-operator development by creating an account on GitHub.
+* **tags**: [kubernetes](../tagged/kubernetes.md), [machine-learning](../tagged/machine-learning.md)
+* :octocat: **[source code](https://github.com/tensorflow/k8s)**
+---
 #### [bayesian](https://github.com/jbrukh/bayesian)
 _<sup>https://github.com/jbrukh/bayesian</sup>_
 

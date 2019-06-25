@@ -2,6 +2,183 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/community](https://www.bookmarks.dev/tagged/community)</sup></sup>_
 ---
+#### [Ahmet Alp Balkan](https://twitter.com/ahmetb)
+_<sup>https://twitter.com/ahmetb</sup>_
+
+Die neuesten Tweets von ahmet alp balkan (@ahmetb). Engineer & Developer Advocate at @GoogleCloud working on Kubernetes and Cloud Run. https://t.co/B3sGA9s5ft • Known for https://t.co/vnlDkB2ynp, http...
+* **tags**: [kubernetes](../tagged/kubernetes.md), [community](../tagged/community.md)
+---
+#### [Aparna Sinha](https://twitter.com/apbhatnagar)
+_<sup>https://twitter.com/apbhatnagar</sup>_
+
+Kubernetes at Google
+* **tags**: [kubernetes](../tagged/kubernetes.md), [community](../tagged/community.md)
+---
+#### [Brandon Philips](https://twitter.com/BrandonPhilips)
+_<sup>https://twitter.com/BrandonPhilips</sup>_
+
+Die neuesten Tweets von Brandon Philips (@BrandonPhilips). CTO @CoreOS. Interests in distributed systems, open source, kubernetes, containers. https://t.co/h4IxIZ3z4S. San Francisco, CA
+* **tags**: [kubernetes](../tagged/kubernetes.md), [community](../tagged/community.md)
+---
+#### [Brendan Burns](https://twitter.com/brendandburns)
+_<sup>https://twitter.com/brendandburns</sup>_
+
+Die neuesten Tweets von brendandburns (@brendandburns). Kubernetes co-founder. Distinguished Engineer @ Microsoft Azure. My teams do APIs, Containers, Linux, OSS, Microservices and DevOps.  Opinions a...
+* **tags**: [kubernetes](../tagged/kubernetes.md), [community](../tagged/community.md)
+---
+#### [Brian Grant](https://github.com/bgrant0607)
+_<sup>https://github.com/bgrant0607</sup>_
+
+Kubernetes SIG Architecture co-chair and Steering Committee, GKE co-TL, CNCF TOC. 
+
+briangrant on kubernetes.slack.com. 
+Github notifications > /dev/null - bgrant0607
+* **tags**: [kubernetes](../tagged/kubernetes.md), [community](../tagged/community.md)
+* :octocat: **[source code](https://github.com/bgrant0607)**
+---
+#### [Carlos Sanchez](https://www.twitter.com/csanchez)
+_<sup>https://www.twitter.com/csanchez</sup>_
+
+Die neuesten Tweets von Carlos Sanchez @ KubeCon 🇨🇳 (@csanchez). Apache member and OSS contributor, worker bee @CloudBees. Author of Jenkins Kubernetes plugin. Speaking on DevOps, CD, k8s and automa...
+* **tags**: [kubernetes](../tagged/kubernetes.md), [community](../tagged/community.md)
+---
+#### [Chris Aniszczyk](https://www.twitter.com/cra)
+_<sup>https://www.twitter.com/cra</sup>_
+
+Die neuesten Tweets von Chris Aniszczyk (@cra). Building a Better World Through Open Collaboration / @CloudNativeFdn @OCI_ORG / Avid Runner / Bourbon / Always Paying it Forward. Austin
+* **tags**: [kubernetes](../tagged/kubernetes.md), [community](../tagged/community.md)
+---
+#### [Eric Tune](https://twitter.com/eric_tune)
+_<sup>https://twitter.com/eric_tune</sup>_
+
+Die neuesten Tweets von Eric Tune (@eric_tune): "How do the gophers not spike that ball on 1st down"
+* **tags**: [kubernetes](../tagged/kubernetes.md), [community](../tagged/community.md)
+---
+#### [Ihor Dvoretskyi](https://twitter.com/idvoretskyi)
+_<sup>https://twitter.com/idvoretskyi</sup>_
+
+Die neuesten Tweets von ihor dvoretskyi @ ContainerDays EU 🇩🇪/🇪🇺 (@idvoretskyi). Developer Advocate at @CloudNativeFdn \ Google Developer Expert \ Kubernetes Guy \ Thoughts are mine \ 🇺🇦. Univer...
+* **tags**: [kubernetes](../tagged/kubernetes.md), [community](../tagged/community.md)
+---
+#### [Jessie Frazzelle](https://github.com/jessfraz)
+_<sup>https://github.com/jessfraz</sup>_
+
+A superhero with supervillain tendencies. jessfraz has 117 repositories available. Follow their code on GitHub.
+* **tags**: [kubernetes](../tagged/kubernetes.md), [community](../tagged/community.md)
+* :octocat: **[source code](https://github.com/jessfraz)**
+---
+#### [Joe Beda](https://twitter.com/jbeda)
+_<sup>https://twitter.com/jbeda</sup>_
+
+Die neuesten Tweets von Joe Beda (@jbeda). Principal Engineer at @VMware. Was founder and CTO @heptio. Started GCE, Kubernetes, GKE, @SPIFFEio. Xoogler. He/Him. Seattle, WA
+* **tags**: [kubernetes](../tagged/kubernetes.md), [community](../tagged/community.md)
+---
+#### [Joseph Jacks](https://twitter.com/asynchio)
+_<sup>https://twitter.com/asynchio</sup>_
+
+Die neuesten Tweets von Joseph Jacks (@asynchio). Founder of @OSSCapital, @OpenCoreSummit, @AljabrIO, @KubeWeekly, @KubeCon_, Kismatic. Formerly @Mesosphere, @Enstratius, @TIBCO, @Talend. COSS is the ...
+* **tags**: [kubernetes](../tagged/kubernetes.md), [community](../tagged/community.md)
+---
+#### [Kelsey Hightower](https://twitter.com/kelseyhightower)
+_<sup>https://twitter.com/kelseyhightower</sup>_
+
+Die neuesten Tweets von Kelsey Hightower (@kelseyhightower). Minimalist. Portland, OR
+* **tags**: [kubernetes](../tagged/kubernetes.md), [community](../tagged/community.md)
+---
+#### [Kris Nova](https://github.com/kris-nova)
+_<sup>https://github.com/kris-nova</sup>_
+
+Business! . kris-nova has 262 repositories available. Follow their code on GitHub.
+* **tags**: [kubernetes](../tagged/kubernetes.md), [community](../tagged/community.md)
+* :octocat: **[source code](https://github.com/kris-nova)**
+---
+#### [Michelle Noorali](https://www.twitter.com/michellenoorali)
+_<sup>https://www.twitter.com/michellenoorali</sup>_
+
+Die neuesten Tweets von Michelle Noorali (@michellenoorali). Software Engineer @Microsoft \\ @helmpack @draftcreate @cnab_spec \\ Kubernetes Steering & CNCF TOC \\ Making distributed systems digestibl...
+* **tags**: [kubernetes](../tagged/kubernetes.md), [community](../tagged/community.md)
+---
+#### [Paris Pittman](https://www.twitter.com/ParisInBmore)
+_<sup>https://www.twitter.com/ParisInBmore</sup>_
+
+Kubernetes at Google
+* **tags**: [kubernetes](../tagged/kubernetes.md), [community](../tagged/community.md)
+---
+#### [Patrick Reilly](https://twitter.com/preillyme)
+_<sup>https://twitter.com/preillyme</sup>_
+
+Die neuesten Tweets von Patrick O’Reilly (@preillyme). @yllierop
+* **tags**: [kubernetes](../tagged/kubernetes.md), [community](../tagged/community.md)
+---
+#### [Tim Hockin](https://twitter.com/thockin)
+_<sup>https://twitter.com/thockin</sup>_
+
+Die neuesten Tweets von Tim Hockin (@thockin). Principal SW Engineer, Kubernetes, GKE, & Google Cloud
+* **tags**: [kubernetes](../tagged/kubernetes.md), [community](../tagged/community.md)
+---
+#### [Blog](http://blog.kubernetes.io/)
+_<sup>http://blog.kubernetes.io/</sup>_
+
+* **tags**: [kubernetes](../tagged/kubernetes.md), [community](../tagged/community.md)
+---
+#### [Community Q&A – The Office Hours](https://github.com/kubernetes/community/blob/master/events/office-hours.md)
+_<sup>https://github.com/kubernetes/community/blob/master/events/office-hours.md</sup>_
+
+Kubernetes community content. Contribute to kubernetes/community development by creating an account on GitHub.
+* **tags**: [kubernetes](../tagged/kubernetes.md), [community](../tagged/community.md)
+* :octocat: **[source code](https://github.com/kubernetes/community/blob/master/events/office-hours.md)**
+---
+#### [Community](https://github.com/kubernetes/community)
+_<sup>https://github.com/kubernetes/community</sup>_
+
+Kubernetes community content. Contribute to kubernetes/community development by creating an account on GitHub.
+* **tags**: [kubernetes](../tagged/kubernetes.md), [community](../tagged/community.md)
+* :octocat: **[source code](https://github.com/kubernetes/community)**
+---
+#### [Freenode](http://webchat.freenode.net/?channels=google-containers)
+_<sup>http://webchat.freenode.net/?channels=google-containers</sup>_
+
+* **tags**: [kubernetes](../tagged/kubernetes.md), [community](../tagged/community.md)
+---
+#### [Google +](https://plus.google.com/u/0/b/116512812300813784482/116512812300813784482)
+_<sup>https://plus.google.com/u/0/b/116512812300813784482/116512812300813784482</sup>_
+
+* **tags**: [kubernetes](../tagged/kubernetes.md), [community](../tagged/community.md)
+---
+#### [Mailing List - developer/contributor discussion](https://groups.google.com/forum/#!forum/kubernetes-dev)
+_<sup>https://groups.google.com/forum/#!forum/kubernetes-dev</sup>_
+
+developer/contributor discussion](https://groups.google.com/forum/!forum/kubernetes-dev)
+* **tags**: [kubernetes](../tagged/kubernetes.md), [community](../tagged/community.md)
+---
+#### [Mailing List - user discussion and Q&A](https://groups.google.com/forum/#!forum/kubernetes-users)
+_<sup>https://groups.google.com/forum/#!forum/kubernetes-users</sup>_
+
+user discussion and Q&A](https://groups.google.com/forum/!forum/kubernetes-users)
+* **tags**: [kubernetes](../tagged/kubernetes.md), [community](../tagged/community.md)
+---
+#### [Reddit](https://www.reddit.com/r/kubernetes/)
+_<sup>https://www.reddit.com/r/kubernetes/</sup>_
+
+r/kubernetes: Kubernetes discussion, news, support, and link sharing.
+* **tags**: [kubernetes](../tagged/kubernetes.md), [community](../tagged/community.md)
+---
+#### [Slack](http://slack.k8s.io/)
+_<sup>http://slack.k8s.io/</sup>_
+
+* **tags**: [kubernetes](../tagged/kubernetes.md), [community](../tagged/community.md)
+---
+#### [Stackoverflow](http://stackoverflow.com/questions/tagged/kubernetes)
+_<sup>http://stackoverflow.com/questions/tagged/kubernetes</sup>_
+
+* **tags**: [kubernetes](../tagged/kubernetes.md), [community](../tagged/community.md)
+---
+#### [Twitter](https://twitter.com/kubernetesio)
+_<sup>https://twitter.com/kubernetesio</sup>_
+
+Die neuesten Tweets von Kubernetes (@kubernetesio). Kubernetes: open source production-grade container orchestration management. CNCF K8s. Anywhere
+* **tags**: [kubernetes](../tagged/kubernetes.md), [community](../tagged/community.md)
+---
 #### [Gitter](https://gitter.im/nodejs/node)
 _<sup>https://gitter.im/nodejs/node</sup>_
 

@@ -2,6 +2,67 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/serverless](https://www.bookmarks.dev/tagged/serverless)</sup></sup>_
 ---
+#### [FaaS-netes](https://github.com/alexellis/faas-netes)
+_<sup>https://github.com/alexellis/faas-netes</sup>_
+
+Serverless Kubernetes with OpenFaaS (Functions as a Service) - openfaas/faas-netes
+* **tags**: [kubernetes](../tagged/kubernetes.md), [serverless](../tagged/serverless.md)
+* :octocat: **[source code](https://github.com/alexellis/faas-netes)**
+---
+#### [Fission](https://github.com/platform9/fission)
+_<sup>https://github.com/platform9/fission</sup>_
+
+Fast Serverless Functions for Kubernetes. Contribute to fission/fission development by creating an account on GitHub.
+* **tags**: [kubernetes](../tagged/kubernetes.md), [serverless](../tagged/serverless.md)
+* :octocat: **[source code](https://github.com/platform9/fission)**
+---
+#### [Funktion](https://github.com/fabric8io/funktion)
+_<sup>https://github.com/fabric8io/funktion</sup>_
+
+a CLI tool for working with funktion. Contribute to funktionio/funktion development by creating an account on GitHub.
+* **tags**: [kubernetes](../tagged/kubernetes.md), [serverless](../tagged/serverless.md)
+* :octocat: **[source code](https://github.com/fabric8io/funktion)**
+---
+#### [Iron.io](http://iron.io)
+_<sup>http://iron.io</sup>_
+
+* **tags**: [kubernetes](../tagged/kubernetes.md), [serverless](../tagged/serverless.md)
+---
+#### [Kubeless](https://github.com/skippbox/kubeless)
+_<sup>https://github.com/skippbox/kubeless</sup>_
+
+Kubernetes Native Serverless Framework. Contribute to kubeless/kubeless development by creating an account on GitHub.
+* **tags**: [kubernetes](../tagged/kubernetes.md), [serverless](../tagged/serverless.md)
+* :octocat: **[source code](https://github.com/skippbox/kubeless)**
+---
+#### [Nuclio](https://github.com/nuclio/nuclio)
+_<sup>https://github.com/nuclio/nuclio</sup>_
+
+High-Performance Serverless event and data processing platform - nuclio/nuclio
+* **tags**: [kubernetes](../tagged/kubernetes.md), [serverless](../tagged/serverless.md)
+* :octocat: **[source code](https://github.com/nuclio/nuclio)**
+---
+#### [OpenFaaS](https://github.com/alexellis/faas)
+_<sup>https://github.com/alexellis/faas</sup>_
+
+OpenFaaS - Serverless Functions Made Simple. Contribute to openfaas/faas development by creating an account on GitHub.
+* **tags**: [kubernetes](../tagged/kubernetes.md), [serverless](../tagged/serverless.md)
+* :octocat: **[source code](https://github.com/alexellis/faas)**
+---
+#### [OpenWhisk](https://github.com/openwhisk)
+_<sup>https://github.com/openwhisk</sup>_
+
+OpenWhisk Serverless platform. Please note that all repos were transferred to Apache Software Foundation here https://github.com/apache?q=incubator-openwhisk - Apache OpenWhisk
+* **tags**: [kubernetes](../tagged/kubernetes.md), [serverless](../tagged/serverless.md)
+* :octocat: **[source code](https://github.com/openwhisk)**
+---
+#### [Virtual Kubelet](https://github.com/virtual-kubelet/virtual-kubelet)
+_<sup>https://github.com/virtual-kubelet/virtual-kubelet</sup>_
+
+Allows nodes to be backed by other services and providers.
+* **tags**: [kubernetes](../tagged/kubernetes.md), [serverless](../tagged/serverless.md)
+* :octocat: **[source code](https://github.com/virtual-kubelet/virtual-kubelet)**
+---
 #### [FaaStRuby](https://faastruby.io)
 _<sup>https://faastruby.io</sup>_
 

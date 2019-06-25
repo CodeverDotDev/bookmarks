@@ -2,6 +2,18 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/rpc](https://www.bookmarks.dev/tagged/rpc)</sup></sup>_
 ---
+#### [gRPC](http://grpc.io)
+_<sup>http://grpc.io</sup>_
+
+* **tags**: [kubernetes](../tagged/kubernetes.md), [rpc](../tagged/rpc.md)
+---
+#### [Micro](https://github.com/micro/kubernetes)
+_<sup>https://github.com/micro/kubernetes</sup>_
+
+Deprecated: See examples/kubernetes. Contribute to micro/kubernetes development by creating an account on GitHub.
+* **tags**: [kubernetes](../tagged/kubernetes.md), [rpc](../tagged/rpc.md)
+* :octocat: **[source code](https://github.com/micro/kubernetes)**
+---
 #### [Meet Twirp! · Twirp](https://twitchtv.github.io/twirp/docs/intro.html)
 _<sup>https://twitchtv.github.io/twirp/docs/intro.html</sup>_
 

@@ -2,6 +2,82 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/videos](https://www.bookmarks.dev/tagged/videos)</sup></sup>_
 ---
+#### [A Technical Overview of Kubernetes](https://www.youtube.com/watch?v=WwBdNXt6wO4)
+_<sup>https://www.youtube.com/watch?v=WwBdNXt6wO4</sup>_
+
+Brendan Burns, Software engineer and a founder of Kubernetes at Google gives a technical overview of Kubernetes.
+* **tags**: [kubernetes](../tagged/kubernetes.md), [videos](../tagged/videos.md)
+---
+#### [Alpaca Kubernetes on AWS](https://www.youtube.com/watch?v=jLk1pkc7kv4)
+_<sup>https://www.youtube.com/watch?v=jLk1pkc7kv4</sup>_
+
+Demo of the cluster deployment
+* **tags**: [kubernetes](../tagged/kubernetes.md), [videos](../tagged/videos.md)
+---
+#### [Arun Gupta: Package your Java applications using Docker and Kubernetes](https://www.youtube.com/watch?v=R2nj1vRjLwE)
+_<sup>https://www.youtube.com/watch?v=R2nj1vRjLwE</sup>_
+
+Arun Gupta: Package your Java applications using Docker and Kubernetes Docker simplifies software delivery by making it easy to build and share images that c...
+* **tags**: [kubernetes](../tagged/kubernetes.md), [videos](../tagged/videos.md)
+---
+#### [Container Orchestration using CoreOS and Kubernetes](https://www.youtube.com/watch?v=tA8XNVPZM2w)
+_<sup>https://www.youtube.com/watch?v=tA8XNVPZM2w</sup>_
+
+CoreOS Workshop Pt. 1 This hands-on workshop led by CoreOS's Kelsey Hightower will teach modern practices for container orchestration, and show examples of h...
+* **tags**: [kubernetes](../tagged/kubernetes.md), [videos](../tagged/videos.md)
+---
+#### [DevNation 2015 - Paul Bakker - Kubernetes: Beyond the basics](https://youtu.be/MuazGHiiGmA)
+_<sup>https://youtu.be/MuazGHiiGmA</sup>_
+
+Paul Bakker - Kubernetes: Beyond the basics](https://youtu.be/MuazGHiiGmA) by [Paul Bakker](https://twitter.com/pbakker)
+* **tags**: [kubernetes](../tagged/kubernetes.md), [videos](../tagged/videos.md)
+---
+#### [Docker Containers and Kubernetes with Brian Dorsey](https://www.youtube.com/watch?v=Fcb4aoSAZ98)
+_<sup>https://www.youtube.com/watch?v=Fcb4aoSAZ98</sup>_
+
+* **tags**: [kubernetes](../tagged/kubernetes.md), [videos](../tagged/videos.md)
+---
+#### [Google I/O 2014 - Containerizing the Cloud with Docker on Google Cloud Platform](https://www.youtube.com/watch?v=tsk0pWf4ipw)
+_<sup>https://www.youtube.com/watch?v=tsk0pWf4ipw</sup>_
+
+Containerizing the Cloud with Docker on Google Cloud Platform](https://www.youtube.com/watch?v=tsk0pWf4ipw) by [Google Developers](https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw)
+* **tags**: [kubernetes](../tagged/kubernetes.md), [videos](../tagged/videos.md)
+---
+#### [Kubernetes-Defined Monitoring](https://www.youtube.com/watch?v=ncSn3_9bfIQ)
+_<sup>https://www.youtube.com/watch?v=ncSn3_9bfIQ</sup>_
+
+Kubernetes-Defined Monitoring [I] - Gianluca Borello, Sysdig Over the past few years we’ve all learned how Kubernetes can dramatically change the process of ...
+* **tags**: [kubernetes](../tagged/kubernetes.md), [videos](../tagged/videos.md)
+---
+#### [Kubernetes: The Journey So Far - Greg DeMichillie](https://youtu.be/6a2Nirr8cI0)
+_<sup>https://youtu.be/6a2Nirr8cI0</sup>_
+
+Greg DeMichillie](https://youtu.be/6a2Nirr8cI0) by [Greg DeMichillie](https://twitter.com/gregde)
+* **tags**: [kubernetes](../tagged/kubernetes.md), [videos](../tagged/videos.md)
+---
+#### [Managing Containers at Scale with CoreOS and Kubernetes](https://www.youtube.com/watch?v=pozC9rBvAIs)
+_<sup>https://www.youtube.com/watch?v=pozC9rBvAIs</sup>_
+
+The last decade belonged to virtual machines and the next one belongs to containers. Virtualization lead to an explosion in the number of machines in our inf...
+* **tags**: [kubernetes](../tagged/kubernetes.md), [videos](../tagged/videos.md)
+---
+#### [Shanghai '18: KubeCon + CloudNativeCon](https://www.youtube.com/playlist?list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs)
+_<sup>https://www.youtube.com/playlist?list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs</sup>_
+
+* **tags**: [kubernetes](../tagged/kubernetes.md), [videos](../tagged/videos.md)
+---
+#### [Testing Distributed Software on Kubernetes with PowerfulSeal at Kubecon 2017 Austin](https://youtu.be/00BMn0UjsG4)
+_<sup>https://youtu.be/00BMn0UjsG4</sup>_
+
+Testing Distributed Software on Kubernetes with PowerfulSeal [I] - Mikolaj Pawlikowski, Bloomberg When it's about distributed systems, testing is hard. But i...
+* **tags**: [kubernetes](../tagged/kubernetes.md), [videos](../tagged/videos.md)
+---
+#### [Automating CI/CD on Kubernetes with Jenkins X](https://www.youtube.com/watch?v=BF3MhFjvBTU)
+_<sup>https://www.youtube.com/watch?v=BF3MhFjvBTU</sup>_
+
+The last 5 years has seen a huge change in how we build, package, run and manage software with the rise of Kubernetes, Cloud Native, Microservices and Contin...
+* **tags**: [kubernetes](../tagged/kubernetes.md), [continuous-integration](../tagged/continuous-integration.md), [continuous-delivery](../tagged/continuous-delivery.md), [videos](../tagged/videos.md)
+---
 #### [Introduction to Node.js with Ryan Dahl](https://www.youtube.com/watch?v=jo_B4LTHi3I)
 _<sup>https://www.youtube.com/watch?v=jo_B4LTHi3I</sup>_
 

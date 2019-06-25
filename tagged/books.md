@@ -2,6 +2,115 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/books](https://www.bookmarks.dev/tagged/books)</sup></sup>_
 ---
+#### [Cloud Native DevOps with Kubernetes](http://shop.oreilly.com/product/0636920175131.do)
+_<sup>http://shop.oreilly.com/product/0636920175131.do</sup>_
+
+Kubernetes is the operating system of the cloud native world, providing a reliable and scalable platform for running containerized workloads. In this friendly, pragmatic book, cloud experts John Arun....
+* **tags**: [kubernetes](../tagged/kubernetes.md), [books](../tagged/books.md)
+---
+#### [DevOps with Kubernetes](https://www.packtpub.com/virtualization-and-cloud/devops-kubernetes)
+_<sup>https://www.packtpub.com/virtualization-and-cloud/devops-kubernetes</sup>_
+
+Learn to implement DevOps using Docker & Kubernetes.
+* **tags**: [kubernetes](../tagged/kubernetes.md), [books](../tagged/books.md)
+---
+#### [Docker and Kubernetes Under the Hood](http://item.jd.com/11757034.html)
+_<sup>http://item.jd.com/11757034.html</sup>_
+
+京东JD.COM-专业的综合网上购物商城，为您提供正品低价的购物选择、优质便捷的服务体验。商品来自全球数十万品牌商家，囊括家电、手机、电脑、服装、居家、母婴、美妆、个护、食品、生鲜等丰富品类，满足各种购物需求。
+* **tags**: [kubernetes](../tagged/kubernetes.md), [books](../tagged/books.md)
+---
+#### [Docker in Action, Second Edition](https://www.manning.com/books/docker-in-action-second-edition)
+_<sup>https://www.manning.com/books/docker-in-action-second-edition</sup>_
+
+* **tags**: [kubernetes](../tagged/kubernetes.md), [books](../tagged/books.md)
+---
+#### [Docker in Practice, Second Edition](https://www.manning.com/books/docker-in-practice-second-edition)
+_<sup>https://www.manning.com/books/docker-in-practice-second-edition</sup>_
+
+* **tags**: [kubernetes](../tagged/kubernetes.md), [books](../tagged/books.md)
+---
+#### [Getting Started with Kubernetes](http://shop.oreilly.com/product/9781784394035.do)
+_<sup>http://shop.oreilly.com/product/9781784394035.do</sup>_
+
+Orchestrate and manage large-scale Docker deployments with Kubernetes to unlock greater control over your infrastructure and extend your containerization strategy About This Book Learn the fundamental...
+* **tags**: [kubernetes](../tagged/kubernetes.md), [books](../tagged/books.md)
+---
+#### [Golden Guide to Kubernetes Application Development](https://matthewpalmer.net/kubernetes-app-developer)
+_<sup>https://matthewpalmer.net/kubernetes-app-developer</sup>_
+
+Get the exam prep course for Certified Kubernetes Application Developer (CKAD) certification used by software engineers from Microsoft, CISCO, and Servian.
+* **tags**: [kubernetes](../tagged/kubernetes.md), [books](../tagged/books.md)
+---
+#### [Kubernetes Book](https://github.com/Leverege/kubernetes-book)
+_<sup>https://github.com/Leverege/kubernetes-book</sup>_
+
+Mastering Kubernetes with Real Life Lessons from Deploying Production Systems - Leverege/kubernetes-book
+* **tags**: [kubernetes](../tagged/kubernetes.md), [books](../tagged/books.md)
+* :octocat: **[source code](https://github.com/Leverege/kubernetes-book)**
+---
+#### [Kubernetes Cookbook - Second Edition](https://www.packtpub.com/virtualization-and-cloud/kubernetes-cookbook-second-edition)
+_<sup>https://www.packtpub.com/virtualization-and-cloud/kubernetes-cookbook-second-edition</sup>_
+
+Second Edition](https://www.packtpub.com/virtualization-and-cloud/kubernetes-cookbook-second-edition) by Hideto Saito, Hui-Chuan Chloe Lee, Ke-Jou Carol Hsu
+* **tags**: [kubernetes](../tagged/kubernetes.md), [books](../tagged/books.md)
+---
+#### [Kubernetes Design Patterns and Extensions](https://www.amazon.com/dp/B07HSZHRHZ)
+_<sup>https://www.amazon.com/dp/B07HSZHRHZ</sup>_
+
+* **tags**: [kubernetes](../tagged/kubernetes.md), [books](../tagged/books.md)
+---
+#### [Kubernetes Handbook](https://github.com/feiskyer/kubernetes-handbook)
+_<sup>https://github.com/feiskyer/kubernetes-handbook</sup>_
+
+Kubernetes Handbook （Kubernetes指南）   https://kubernetes.feisky.xyz - feiskyer/kubernetes-handbook
+* **tags**: [kubernetes](../tagged/kubernetes.md), [books](../tagged/books.md)
+* :octocat: **[source code](https://github.com/feiskyer/kubernetes-handbook)**
+---
+#### [Kubernetes Handbook](https://github.com/rootsongjc/kubernetes-handbook)
+_<sup>https://github.com/rootsongjc/kubernetes-handbook</sup>_
+
+Kubernetes中文指南/云原生应用架构实践手册 -  https://jimmysong.io/kubernetes-handbook - rootsongjc/kubernetes-handbook
+* **tags**: [kubernetes](../tagged/kubernetes.md), [books](../tagged/books.md)
+* :octocat: **[source code](https://github.com/rootsongjc/kubernetes-handbook)**
+---
+#### [Kubernetes in Action](http://www.manning.com/books/kubernetes-in-action)
+_<sup>http://www.manning.com/books/kubernetes-in-action</sup>_
+
+* **tags**: [kubernetes](../tagged/kubernetes.md), [books](../tagged/books.md)
+---
+#### [Kubernetes: Scheduling the Future at Cloud Scale](http://www.oreilly.com/webops-perf/free/kubernetes.csp)
+_<sup>http://www.oreilly.com/webops-perf/free/kubernetes.csp</sup>_
+
+As remarkable as Docker containers are, they still need to be heavily scheduled and orchestrated to run efficiently, and seamlessly replaced and re-balanced when they fail. It’s a big ...  - Selection...
+* **tags**: [kubernetes](../tagged/kubernetes.md), [books](../tagged/books.md)
+---
+#### [Kubernetes: Up and Running](http://shop.oreilly.com/product/0636920043874.do)
+_<sup>http://shop.oreilly.com/product/0636920043874.do</sup>_
+
+Legend has it that Google deploys over two billion application containers a week. How’s that possible? Google revealed the secret through a project called Kubernetes, an open source cluster orchestra....
+* **tags**: [kubernetes](../tagged/kubernetes.md), [books](../tagged/books.md)
+---
+#### [Mastering Kubernetes](https://www.amazon.com/Mastering-Kubernetes-Gigi-Sayfan/dp/1786461005)
+_<sup>https://www.amazon.com/Mastering-Kubernetes-Gigi-Sayfan/dp/1786461005</sup>_
+
+* **tags**: [kubernetes](../tagged/kubernetes.md), [books](../tagged/books.md)
+---
+#### [OpenShift in Action](http://www.manning.com/books/openshift-in-action)
+_<sup>http://www.manning.com/books/openshift-in-action</sup>_
+
+* **tags**: [kubernetes](../tagged/kubernetes.md), [books](../tagged/books.md)
+---
+#### [Playing with Java Microservices on Kubernetes and OpenShift](https://leanpub.com/playing-with-java-microservices-on-k8s-and-ocp)
+_<sup>https://leanpub.com/playing-with-java-microservices-on-k8s-and-ocp</sup>_
+
+* **tags**: [kubernetes](../tagged/kubernetes.md), [books](../tagged/books.md)
+---
+#### [The DevOps 2.3 Toolkit: Kubernetes](https://leanpub.com/the-devops-2-3-toolkit)
+_<sup>https://leanpub.com/the-devops-2-3-toolkit</sup>_
+
+* **tags**: [kubernetes](../tagged/kubernetes.md), [books](../tagged/books.md)
+---
 #### [Functional Programming in PHP](https://www.functionalphp.com/)
 _<sup>https://www.functionalphp.com/</sup>_
 

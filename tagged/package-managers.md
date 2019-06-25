@@ -2,6 +2,24 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/package-managers](https://www.bookmarks.dev/tagged/package-managers)</sup></sup>_
 ---
+#### [CNAB](https://cnab.io)
+_<sup>https://cnab.io</sup>_
+
+CNABs facilitate the bundling, installing and managing of container-native apps - and their coupled services.
+* **tags**: [kubernetes](../tagged/kubernetes.md), [package-managers](../tagged/package-managers.md)
+---
+#### [Helm](http://helm.sh)
+_<sup>http://helm.sh</sup>_
+
+For further information, please check out - [Awesome Helm](https://github.com/cdwv/awesome-helm).
+* **tags**: [kubernetes](../tagged/kubernetes.md), [package-managers](../tagged/package-managers.md)
+---
+#### [Cloudsmith](https://cloudsmith.io/l/helm-repository/)
+_<sup>https://cloudsmith.io/l/helm-repository/</sup>_
+
+A fully managed package management SaaS, with first-class support for public and private Kubernetes registries (Docker + Helm Charts, plus many others).
+* **tags**: [kubernetes](../tagged/kubernetes.md), [package-managers](../tagged/package-managers.md)
+---
 #### [npm](https://www.npmjs.com/)
 _<sup>https://www.npmjs.com/</sup>_
 

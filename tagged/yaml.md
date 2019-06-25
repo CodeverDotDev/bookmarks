@@ -2,6 +2,41 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/yaml](https://www.bookmarks.dev/tagged/yaml)</sup></sup>_
 ---
+#### [kompose](https://github.com/kubernetes/kompose)
+_<sup>https://github.com/kubernetes/kompose</sup>_
+
+Go from Docker Compose to Kubernetes. Contribute to kubernetes/kompose development by creating an account on GitHub.
+* **tags**: [kubernetes](../tagged/kubernetes.md), [yaml](../tagged/yaml.md), [json](../tagged/json.md)
+* :octocat: **[source code](https://github.com/kubernetes/kompose)**
+---
+#### [ksonnet-lib](https://github.com/ksonnet/ksonnet-lib)
+_<sup>https://github.com/ksonnet/ksonnet-lib</sup>_
+
+Codegen for Kubernetes-API-compatible Jsonnet libraries - ksonnet/ksonnet-lib
+* **tags**: [kubernetes](../tagged/kubernetes.md), [yaml](../tagged/yaml.md), [json](../tagged/json.md)
+* :octocat: **[source code](https://github.com/ksonnet/ksonnet-lib)**
+---
+#### [kube-libsonnet](https://github.com/bitnami-labs/kube-libsonnet/blob/master/kube.libsonnet)
+_<sup>https://github.com/bitnami-labs/kube-libsonnet/blob/master/kube.libsonnet</sup>_
+
+Generic library of Kubernetes objects for Jsonnet/Kubecfg with object to array mapping for painless overrides.
+* **tags**: [kubernetes](../tagged/kubernetes.md), [yaml](../tagged/yaml.md), [json](../tagged/json.md)
+* :octocat: **[source code](https://github.com/bitnami-labs/kube-libsonnet/blob/master/kube.libsonnet)**
+---
+#### [kubegen](https://github.com/errordeveloper/kubegen)
+_<sup>https://github.com/errordeveloper/kubegen</sup>_
+
+kubegen – simple way to describe Kubernetes resources in a structured way, but without new syntax or magic - errordeveloper/kubegen
+* **tags**: [kubernetes](../tagged/kubernetes.md), [yaml](../tagged/yaml.md), [json](../tagged/json.md)
+* :octocat: **[source code](https://github.com/errordeveloper/kubegen)**
+---
+#### [kubeval](https://github.com/garethr/kubeval)
+_<sup>https://github.com/garethr/kubeval</sup>_
+
+Validate your Kubernetes configuration files, supports multiple Kubernetes versions - instrumenta/kubeval
+* **tags**: [kubernetes](../tagged/kubernetes.md), [yaml](../tagged/yaml.md), [json](../tagged/json.md)
+* :octocat: **[source code](https://github.com/garethr/kubeval)**
+---
 #### [Deploy a Docker container to Kubernetes using YAML files - YouTube](https://www.youtube.com/watch?v=eHvKc6hNmhI)
 _<sup>https://www.youtube.com/watch?v=eHvKc6hNmhI</sup>_
 

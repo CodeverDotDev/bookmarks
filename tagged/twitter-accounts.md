@@ -2,6 +2,78 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/twitter-accounts](https://www.bookmarks.dev/tagged/twitter-accounts)</sup></sup>_
 ---
+#### [Apcera](https://twitter.com/Apcera)
+_<sup>https://twitter.com/Apcera</sup>_
+
+Die neuesten Tweets von Apcera (@Apcera). Apcera is now a fully owned entity of Ericsson please follow us over @EricssonDigital for the latest news. San Francisco, CA
+* **tags**: [kubernetes](../tagged/kubernetes.md), [twitter-accounts](../tagged/twitter-accounts.md)
+---
+#### [CoreOS](https://twitter.com/coreoslinux)
+_<sup>https://twitter.com/coreoslinux</sup>_
+
+Die neuesten Tweets von CoreOS (@coreoslinux). Please follow us at our @CoreOS account. San Francisco, CA
+* **tags**: [kubernetes](../tagged/kubernetes.md), [twitter-accounts](../tagged/twitter-accounts.md)
+---
+#### [DevOps Summit](https://twitter.com/DevOpsSummit)
+_<sup>https://twitter.com/DevOpsSummit</sup>_
+
+Die neuesten Tweets von DevOpsSUMMIT (@DevOpsSummit). DevOpsSUMMIT is the World’s Most Influential DevOps Brand & Conference! [June 24-26, 2019 Santa Clara, CA] Tickets Here ▸ https://t.co/HwY5ob3JqH....
+* **tags**: [kubernetes](../tagged/kubernetes.md), [twitter-accounts](../tagged/twitter-accounts.md)
+---
+#### [Engine Yard](https://twitter.com/engineyard)
+_<sup>https://twitter.com/engineyard</sup>_
+
+Die neuesten Tweets von Engine Yard (@engineyard). Engine Yard is the 10-year leader in World-Class Support and Optimized Platform for Ruby on Rails apps. San Francisco, CA
+* **tags**: [kubernetes](../tagged/kubernetes.md), [twitter-accounts](../tagged/twitter-accounts.md)
+---
+#### [Google Cloud Platform](https://twitter.com/googlecloud)
+_<sup>https://twitter.com/googlecloud</sup>_
+
+Die neuesten Tweets von Google Cloud (@googlecloud). Computing power delivered everywhere, for customers & @gcloudpartners alike. Here's how to transform your biz with @GCPcloud, @gsuite, Chrome & An...
+* **tags**: [kubernetes](../tagged/kubernetes.md), [twitter-accounts](../tagged/twitter-accounts.md)
+---
+#### [Kismatic](https://twitter.com/kismatic)
+_<sup>https://twitter.com/kismatic</sup>_
+
+Die neuesten Tweets von Kismatic (@kismatic). @kubernetesio consulting. San Francisco, CA
+* **tags**: [kubernetes](../tagged/kubernetes.md), [twitter-accounts](../tagged/twitter-accounts.md)
+---
+#### [Kube Con](https://twitter.com/kubeconio)
+_<sup>https://twitter.com/kubeconio</sup>_
+
+Die neuesten Tweets von KubeCon (@kubeconio). This account is no longer active – please follow @KubeCon_
+* **tags**: [kubernetes](../tagged/kubernetes.md), [twitter-accounts](../tagged/twitter-accounts.md)
+---
+#### [KubeFacts](https://twitter.com/kubefacts)
+_<sup>https://twitter.com/kubefacts</sup>_
+
+Die neuesten Tweets von KubeFacts (@kubefacts). Facts about @Kubernetesio
+* **tags**: [kubernetes](../tagged/kubernetes.md), [twitter-accounts](../tagged/twitter-accounts.md)
+---
+#### [KubeWeekly](https://twitter.com/kubeweekly)
+_<sup>https://twitter.com/kubeweekly</sup>_
+
+Die neuesten Tweets von KubeWeekly (@kubeweekly). Curated weekly digest of all things @KubernetesIO!
+* **tags**: [kubernetes](../tagged/kubernetes.md), [twitter-accounts](../tagged/twitter-accounts.md)
+---
+#### [Learnk8s](https://twitter.com/learnk8s)
+_<sup>https://twitter.com/learnk8s</sup>_
+
+Die neuesten Tweets von learnk8s (@learnk8s). Open cloud training for top enterprises and SMEs using containers, Kubernetes and cloud native technologies. London, Milan, Singapore
+* **tags**: [kubernetes](../tagged/kubernetes.md), [twitter-accounts](../tagged/twitter-accounts.md)
+---
+#### [Skippbox](https://twitter.com/skippbox)
+_<sup>https://twitter.com/skippbox</sup>_
+
+Acquired by [Bitnami](https://bitnami.com/news/press-releases/bitnami-acquires-skippbox)
+* **tags**: [kubernetes](../tagged/kubernetes.md), [twitter-accounts](../tagged/twitter-accounts.md)
+---
+#### [Sysdig](https://twitter.com/sysdig)
+_<sup>https://twitter.com/sysdig</sup>_
+
+Die neuesten Tweets von Sysdig (@sysdig). The cloud-native visibility and security company. San Francisco, CA
+* **tags**: [kubernetes](../tagged/kubernetes.md), [twitter-accounts](../tagged/twitter-accounts.md)
+---
 #### [@golang](https://twitter.com/golang)
 _<sup>https://twitter.com/golang</sup>_
 

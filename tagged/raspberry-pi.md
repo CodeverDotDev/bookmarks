@@ -2,6 +2,17 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/raspberry-pi](https://www.bookmarks.dev/tagged/raspberry-pi)</sup></sup>_
 ---
+#### [Setup Kubernetes on a Raspberry Pi Cluster easily the official way!](https://blog.hypriot.com/post/setup-kubernetes-raspberry-pi-cluster/)
+_<sup>https://blog.hypriot.com/post/setup-kubernetes-raspberry-pi-cluster/</sup>_
+
+* **tags**: [kubernetes](../tagged/kubernetes.md), [raspberry-pi](../tagged/raspberry-pi.md)
+---
+#### [How to Build a Kubernetes Cluster with ARM Raspberry Pi then run .NET Core on OpenFaas](https://www.hanselman.com/blog/HowToBuildAKubernetesClusterWithARMRaspberryPiThenRunNETCoreOnOpenFaas.aspx)
+_<sup>https://www.hanselman.com/blog/HowToBuildAKubernetesClusterWithARMRaspberryPiThenRunNETCoreOnOpenFaa...</sup>_
+
+Scott Hanselman on Programming, The Web, Open Source, .NET, The Cloud and More
+* **tags**: [kubernetes](../tagged/kubernetes.md), [raspberry-pi](../tagged/raspberry-pi.md)
+---
 #### [awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi#readme)
 _<sup>https://github.com/thibmaek/awesome-raspberry-pi#readme</sup>_
 

@@ -2,6 +2,83 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/testing](https://www.bookmarks.dev/tagged/testing)</sup></sup>_
 ---
+#### [chaoskube](https://github.com/linki/chaoskube)
+_<sup>https://github.com/linki/chaoskube</sup>_
+
+periodically kills random pods in your Kubernetes cluster
+* **tags**: [kubernetes](../tagged/kubernetes.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/linki/chaoskube)**
+---
+#### [k8s-testsuite](https://github.com/mrahbar/k8s-testsuite)
+_<sup>https://github.com/mrahbar/k8s-testsuite</sup>_
+
+Helm chart for network and loadtesting of a Kubernetes cluster
+* **tags**: [kubernetes](../tagged/kubernetes.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/mrahbar/k8s-testsuite)**
+---
+#### [kboom](https://github.com/mhausenblas/kboom)
+_<sup>https://github.com/mhausenblas/kboom</sup>_
+
+The Kubernetes scale & soak load tester
+* **tags**: [kubernetes](../tagged/kubernetes.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/mhausenblas/kboom)**
+---
+#### [kind](https://github.com/bsycorp/kind)
+_<sup>https://github.com/bsycorp/kind</sup>_
+
+A single node cluster to run your CI tests against thats ready in 30 seconds
+* **tags**: [kubernetes](../tagged/kubernetes.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/bsycorp/kind)**
+---
+#### [kube-monkey](https://github.com/asobti/kube-monkey)
+_<sup>https://github.com/asobti/kube-monkey</sup>_
+
+Chaos Monkey for Kubernetes clusters
+* **tags**: [kubernetes](../tagged/kubernetes.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/asobti/kube-monkey)**
+---
+#### [Kubeadm-dind-cluster](https://github.com/kubernetes-sigs/kubeadm-dind-cluster)
+_<sup>https://github.com/kubernetes-sigs/kubeadm-dind-cluster</sup>_
+
+multi-node test cluster based on kubeadm
+* **tags**: [kubernetes](../tagged/kubernetes.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/kubernetes-sigs/kubeadm-dind-cluster)**
+---
+#### [Litmus](https://github.com/openebs/litmus)
+_<sup>https://github.com/openebs/litmus</sup>_
+
+Chaos engineering for stateful workloads on Kubernetes
+* **tags**: [kubernetes](../tagged/kubernetes.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/openebs/litmus)**
+---
+#### [PowerfulSeal](https://github.com/bloomberg/powerfulseal)
+_<sup>https://github.com/bloomberg/powerfulseal</sup>_
+
+kills targeted pods and machines to test your software reliability
+* **tags**: [kubernetes](../tagged/kubernetes.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/bloomberg/powerfulseal)**
+---
+#### [Sonobuoy](https://github.com/heptio/sonobuoy)
+_<sup>https://github.com/heptio/sonobuoy</sup>_
+
+Diagnostic tool that runs Kubernetes conformance tests
+* **tags**: [kubernetes](../tagged/kubernetes.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/heptio/sonobuoy)**
+---
+#### [Test-Infra](https://github.com/kubernetes/test-infra)
+_<sup>https://github.com/kubernetes/test-infra</sup>_
+
+Test infrastructure for the Kubernetes project. Contribute to kubernetes/test-infra development by creating an account on GitHub.
+* **tags**: [kubernetes](../tagged/kubernetes.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/kubernetes/test-infra)**
+---
+#### [KubeInvaders](https://github.com/lucky-sideburn/KubeInvaders)
+_<sup>https://github.com/lucky-sideburn/KubeInvaders</sup>_
+
+Gamified Chaos engineering tool for Kubernetes Clusters. It is like Space Invaders but alien ships are pods.
+* **tags**: [kubernetes](../tagged/kubernetes.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/lucky-sideburn/KubeInvaders)**
+---
 #### [assert](https://github.com/go-playground/assert)
 _<sup>https://github.com/go-playground/assert</sup>_
 

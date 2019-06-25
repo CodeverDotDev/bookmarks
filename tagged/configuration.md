@@ -2,6 +2,116 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/configuration](https://www.bookmarks.dev/tagged/configuration)</sup></sup>_
 ---
+#### [Ansible](http://docs.ansible.com/ansible/latest/modules/k8s_raw_module.html)
+_<sup>http://docs.ansible.com/ansible/latest/modules/k8s_raw_module.html</sup>_
+
+* **tags**: [kubernetes](../tagged/kubernetes.md), [configuration](../tagged/configuration.md)
+---
+#### [Chef](http://supermarket.chef.io/cookbooks/kubernetes)
+_<sup>http://supermarket.chef.io/cookbooks/kubernetes</sup>_
+
+kubernetes Cookbook (1.0.0) rhel
+* **tags**: [kubernetes](../tagged/kubernetes.md), [configuration](../tagged/configuration.md)
+---
+#### [Habitat](http://www.habitat.sh/docs/best-practices/#kubernetes)
+_<sup>http://www.habitat.sh/docs/best-practices/#kubernetes</sup>_
+
+Documentation for using Habitat Builder with other services such as Kubernetes, OpenShift, Amazon ECS, Mesos, pure Docker, and more.
+* **tags**: [kubernetes](../tagged/kubernetes.md), [configuration](../tagged/configuration.md)
+---
+#### [Jsonnet](https://github.com/google/jsonnet/tree/master/case_studies/kubernetes)
+_<sup>https://github.com/google/jsonnet/tree/master/case_studies/kubernetes</sup>_
+
+Jsonnet - The data templating language. Contribute to google/jsonnet development by creating an account on GitHub.
+* **tags**: [kubernetes](../tagged/kubernetes.md), [configuration](../tagged/configuration.md)
+* :octocat: **[source code](https://github.com/google/jsonnet/tree/master/case_studies/kubernetes)**
+---
+#### [K8comp](https://github.com/cststack/k8comp)
+_<sup>https://github.com/cststack/k8comp</sup>_
+
+Kubernetes parameterized deployments manifests/templates https://cststack.github.io/k8comp/ - cststack/k8comp
+* **tags**: [kubernetes](../tagged/kubernetes.md), [configuration](../tagged/configuration.md)
+* :octocat: **[source code](https://github.com/cststack/k8comp)**
+---
+#### [kapitan](https://github.com/deepmind/kapitan)
+_<sup>https://github.com/deepmind/kapitan</sup>_
+
+Manage complex deployments using jsonnet and jinja2
+* **tags**: [kubernetes](../tagged/kubernetes.md), [configuration](../tagged/configuration.md)
+* :octocat: **[source code](https://github.com/deepmind/kapitan)**
+---
+#### [kenv](https://github.com/thisendout/kenv)
+_<sup>https://github.com/thisendout/kenv</sup>_
+
+Environment file injector for Kubernetes resources - thisendout/kenv
+* **tags**: [kubernetes](../tagged/kubernetes.md), [configuration](../tagged/configuration.md)
+* :octocat: **[source code](https://github.com/thisendout/kenv)**
+---
+#### [Konfd](https://github.com/kelseyhightower/konfd)
+_<sup>https://github.com/kelseyhightower/konfd</sup>_
+
+Manage application configuration using Kubernetes secrets, configmaps, and Go templates. - kelseyhightower/konfd
+* **tags**: [kubernetes](../tagged/kubernetes.md), [configuration](../tagged/configuration.md)
+* :octocat: **[source code](https://github.com/kelseyhightower/konfd)**
+---
+#### [Ktmpl](https://github.com/jimmycuadra/ktmpl)
+_<sup>https://github.com/jimmycuadra/ktmpl</sup>_
+
+Parameterized templates for Kubernetes manifests. Contribute to jimmycuadra/ktmpl development by creating an account on GitHub.
+* **tags**: [kubernetes](../tagged/kubernetes.md), [configuration](../tagged/configuration.md)
+* :octocat: **[source code](https://github.com/jimmycuadra/ktmpl)**
+---
+#### [kubecfg](https://github.com/bitnami/kubecfg)
+_<sup>https://github.com/bitnami/kubecfg</sup>_
+
+Combines jsonnet and kubectl to let you declare systems in an easy to override way
+* **tags**: [kubernetes](../tagged/kubernetes.md), [configuration](../tagged/configuration.md)
+* :octocat: **[source code](https://github.com/bitnami/kubecfg)**
+---
+#### [kubediff](https://github.com/weaveworks/kubediff)
+_<sup>https://github.com/weaveworks/kubediff</sup>_
+
+Kubediff: a tool for Kubernetes to show differences between running state and version controlled configuration. - weaveworks/kubediff
+* **tags**: [kubernetes](../tagged/kubernetes.md), [configuration](../tagged/configuration.md)
+* :octocat: **[source code](https://github.com/weaveworks/kubediff)**
+---
+#### [kustomize](https://github.com/kubernetes-sigs/kustomize)
+_<sup>https://github.com/kubernetes-sigs/kustomize</sup>_
+
+Customization using partial specs
+* **tags**: [kubernetes](../tagged/kubernetes.md), [configuration](../tagged/configuration.md)
+* :octocat: **[source code](https://github.com/kubernetes-sigs/kustomize)**
+---
+#### [Pulumi](https://www.pulumi.com/kubernetes/)
+_<sup>https://www.pulumi.com/kubernetes/</sup>_
+
+Provides a SDK for k8s deployments targeting on-premises clusters and major cloud vendors' managed services.
+* **tags**: [kubernetes](../tagged/kubernetes.md), [configuration](../tagged/configuration.md)
+---
+#### [Puppet](http://forge.puppet.com/garethr/kubernetes/readme)
+_<sup>http://forge.puppet.com/garethr/kubernetes/readme</sup>_
+
+Module for creating resources in Kubernetes
+* **tags**: [kubernetes](../tagged/kubernetes.md), [configuration](../tagged/configuration.md)
+---
+#### [Saltstack](http://docs.saltstack.com/en/latest/ref/modules/all/salt.modules.k8s.html)
+_<sup>http://docs.saltstack.com/en/latest/ref/modules/all/salt.modules.k8s.html</sup>_
+
+* **tags**: [kubernetes](../tagged/kubernetes.md), [configuration](../tagged/configuration.md)
+---
+#### [thesus](https://github.com/heptiolabs/theseus)
+_<sup>https://github.com/heptiolabs/theseus</sup>_
+
+A command-line utility and importable package for comparing sets of Kubernetes objects
+* **tags**: [kubernetes](../tagged/kubernetes.md), [configuration](../tagged/configuration.md)
+* :octocat: **[source code](https://github.com/heptiolabs/theseus)**
+---
+#### [Cue](https://cue.googlesource.com/cue/+/HEAD/doc/tutorial/kubernetes/README.md)
+_<sup>https://cue.googlesource.com/cue/+/HEAD/doc/tutorial/kubernetes/README.md</sup>_
+
+A data constraint language which aims to simplify tasks involving defining and using data. Cue is a superset of JSON
+* **tags**: [kubernetes](../tagged/kubernetes.md), [configuration](../tagged/configuration.md)
+---
 #### [config](https://github.com/JeremyLoy/config)
 _<sup>https://github.com/JeremyLoy/config</sup>_
 

@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/deep-learning](https://www.bookmarks.dev/tagged/deep-learning)</sup></sup>_
 ---
+#### [Automate deep learning training with Kubernetes GPU-cluster](https://github.com/Langhalsdino/Kubernetes-GPU-Guide)
+_<sup>https://github.com/Langhalsdino/Kubernetes-GPU-Guide</sup>_
+
+This guide should help fellow researchers and hobbyists to easily automate and accelerate there deep leaning training with their own Kubernetes GPU cluster. - Langhalsdino/Kubernetes-GPU-Guide
+* **tags**: [kubernetes](../tagged/kubernetes.md), [deep-learning](../tagged/deep-learning.md)
+* :octocat: **[source code](https://github.com/Langhalsdino/Kubernetes-GPU-Guide)**
+---
 #### [caffe](https://github.com/BVLC/caffe)
 _<sup>https://github.com/BVLC/caffe</sup>_
 

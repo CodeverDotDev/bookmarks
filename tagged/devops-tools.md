@@ -2,6 +2,36 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/devops-tools](https://www.bookmarks.dev/tagged/devops-tools)</sup></sup>_
 ---
+#### [Deploying Kubernetes with Ansible and Terraform](http://solinea.com/blog/deploying-kubernetes-ansible-terraform)
+_<sup>http://solinea.com/blog/deploying-kubernetes-ansible-terraform</sup>_
+
+* **tags**: [kubernetes](../tagged/kubernetes.md), [devops-tools](../tagged/devops-tools.md)
+---
+#### [Kubernetes with SaltStack revisited](http://www.dasblinkenlichten.com/kubernetes-with-saltstack-revisited/)
+_<sup>http://www.dasblinkenlichten.com/kubernetes-with-saltstack-revisited/</sup>_
+
+* **tags**: [kubernetes](../tagged/kubernetes.md), [devops-tools](../tagged/devops-tools.md)
+---
+#### [Try Kubernetes with Vagrant](http://lollyrock.com/articles/kubernetes-vagrant/)
+_<sup>http://lollyrock.com/articles/kubernetes-vagrant/</sup>_
+
+* **tags**: [kubernetes](../tagged/kubernetes.md), [devops-tools](../tagged/devops-tools.md)
+---
+#### [Cluster Consul using Kubernetes API](http://www.devoperandi.com/cluster-consul-using-kubernetes-api/)
+_<sup>http://www.devoperandi.com/cluster-consul-using-kubernetes-api/</sup>_
+
+* **tags**: [kubernetes](../tagged/kubernetes.md), [devops-tools](../tagged/devops-tools.md)
+---
+#### [Dynamic Kubernetes installation/configuration with SaltStack](http://www.dasblinkenlichten.com/dynamic-kubernetes-installationconfiguration-with-saltstack/)
+_<sup>http://www.dasblinkenlichten.com/dynamic-kubernetes-installationconfiguration-with-saltstack/</sup>_
+
+* **tags**: [kubernetes](../tagged/kubernetes.md), [devops-tools](../tagged/devops-tools.md)
+---
+#### [Deploying Kubernetes with SaltStack](http://www.dasblinkenlichten.com/deploying-kubernetes-with-saltstack/)
+_<sup>http://www.dasblinkenlichten.com/deploying-kubernetes-with-saltstack/</sup>_
+
+* **tags**: [kubernetes](../tagged/kubernetes.md), [devops-tools](../tagged/devops-tools.md)
+---
 #### [GoogleContainerTools Kaniko Home Page](https://github.com/GoogleContainerTools/kaniko)
 _<sup>https://github.com/GoogleContainerTools/kaniko</sup>_
 

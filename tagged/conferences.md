@@ -2,6 +2,34 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/conferences](https://www.bookmarks.dev/tagged/conferences)</sup></sup>_
 ---
+#### [Container Camp](http://container.camp/)
+_<sup>http://container.camp/</sup>_
+
+Container Camp is the leading international conference on container technology
+* **tags**: [kubernetes](../tagged/kubernetes.md), [conferences](../tagged/conferences.md)
+---
+#### [ContainerDays](https://containerdays.io/)
+_<sup>https://containerdays.io/</sup>_
+
+All sails set for ContainerDays 2019! From June 24–26, the European container community will gather again in Hamburg for three days full of container craziness.
+* **tags**: [kubernetes](../tagged/kubernetes.md), [conferences](../tagged/conferences.md)
+---
+#### [Devoxx](http://devoxx.com)
+_<sup>http://devoxx.com</sup>_
+
+* **tags**: [kubernetes](../tagged/kubernetes.md), [conferences](../tagged/conferences.md)
+---
+#### [Docker Con](http://dockercon.com)
+_<sup>http://dockercon.com</sup>_
+
+* **tags**: [kubernetes](../tagged/kubernetes.md), [conferences](../tagged/conferences.md)
+---
+#### [GCP Next](http://cloudnext.withgoogle.com/)
+_<sup>http://cloudnext.withgoogle.com/</sup>_
+
+Join thousands of IT professionals, developers, and executives at Google Cloud Next ’19 for three days of networking, skill-building, and problem solving.
+* **tags**: [kubernetes](../tagged/kubernetes.md), [conferences](../tagged/conferences.md)
+---
 #### [Capital Go](http://www.capitalgolang.com)
 _<sup>http://www.capitalgolang.com</sup>_
 

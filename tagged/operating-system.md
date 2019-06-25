@@ -2,6 +2,46 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/operating-system](https://www.bookmarks.dev/tagged/operating-system)</sup></sup>_
 ---
+#### [CoreOS](http://coreos.com)
+_<sup>http://coreos.com</sup>_
+
+Learn more about how CoreOS and Red Hat have joined forces to extend the value of containers and Kubernetes with OpenShift Container Platform.
+* **tags**: [kubernetes](../tagged/kubernetes.md), [operating-system](../tagged/operating-system.md)
+---
+#### [GCI](https://cloud.google.com/container-optimized-os/docs/)
+_<sup>https://cloud.google.com/container-optimized-os/docs/</sup>_
+
+OS image optimized for running containers on Google Cloud Platform.
+* **tags**: [kubernetes](../tagged/kubernetes.md), [operating-system](../tagged/operating-system.md)
+---
+#### [k3OS](https://github.com/rancher/k3os)
+_<sup>https://github.com/rancher/k3os</sup>_
+
+Purpose built OS for Kubernetes, fully managed by Kubernetes. - rancher/k3os
+* **tags**: [kubernetes](../tagged/kubernetes.md), [operating-system](../tagged/operating-system.md)
+* :octocat: **[source code](https://github.com/rancher/k3os)**
+---
+#### [Kurma](https://github.com/apcera/kurma)
+_<sup>https://github.com/apcera/kurma</sup>_
+
+Kurma - Containers all the way down. Contribute to apcera/kurma development by creating an account on GitHub.
+* **tags**: [kubernetes](../tagged/kubernetes.md), [operating-system](../tagged/operating-system.md)
+* :octocat: **[source code](https://github.com/apcera/kurma)**
+---
+#### [LinuxKit](https://github.com/linuxkit/kubernetes)
+_<sup>https://github.com/linuxkit/kubernetes</sup>_
+
+minimal and immutable Kubernetes images built with LinuxKit - linuxkit/kubernetes
+* **tags**: [kubernetes](../tagged/kubernetes.md), [operating-system](../tagged/operating-system.md)
+* :octocat: **[source code](https://github.com/linuxkit/kubernetes)**
+---
+#### [Talos](https://github.com/talos-systems/talos)
+_<sup>https://github.com/talos-systems/talos</sup>_
+
+A modern operating system for Kubernetes. Contribute to talos-systems/talos development by creating an account on GitHub.
+* **tags**: [kubernetes](../tagged/kubernetes.md), [operating-system](../tagged/operating-system.md)
+* :octocat: **[source code](https://github.com/talos-systems/talos)**
+---
 #### [المقدمة في تحليل وتصميم أنظمة ](http://librebooks.org/intro-to-os-analysis-and-design/)
 _<sup>http://librebooks.org/intro-to-os-analysis-and-design/</sup>_
 

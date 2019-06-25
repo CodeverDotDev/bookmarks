@@ -2,6 +2,182 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/networking](https://www.bookmarks.dev/tagged/networking)</sup></sup>_
 ---
+#### [Enable IPv6 on Kubernetes with Project Calico](https://www.projectcalico.org/enable-ipv6-on-kubernetes-with-project-calico/)
+_<sup>https://www.projectcalico.org/enable-ipv6-on-kubernetes-with-project-calico/</sup>_
+
+* **tags**: [kubernetes](../tagged/kubernetes.md), [networking](../tagged/networking.md)
+---
+#### [Kubernetes in IPV6-only](http://opsnotice.xyz/kubernetes-ipv6-only/)
+_<sup>http://opsnotice.xyz/kubernetes-ipv6-only/</sup>_
+
+* **tags**: [kubernetes](../tagged/kubernetes.md), [networking](../tagged/networking.md)
+---
+#### [Kubernetes 101 – Networking](http://www.dasblinkenlichten.com/kubernetes-101-networking/)
+_<sup>http://www.dasblinkenlichten.com/kubernetes-101-networking/</sup>_
+
+* **tags**: [kubernetes](../tagged/kubernetes.md), [networking](../tagged/networking.md)
+---
+#### [Kubernetes with OpenStack Cloud Provider: Current state and upcoming changes - part 1 of 2](http://medium.com/@arthur.souzamiranda/kubernetes-with-openstack-cloud-provider-current-state-and-upcoming-changes-part-1-of-2-48b161ea449a)
+_<sup>http://medium.com/@arthur.souzamiranda/kubernetes-with-openstack-cloud-provider-current-state-and-up...</sup>_
+
+part 1 of 2](http://medium.com/@arthur.souzamiranda/kubernetes-with-openstack-cloud-provider-current-state-and-upcoming-changes-part-1-of-2-48b161ea449a)
+* **tags**: [kubernetes](../tagged/kubernetes.md), [networking](../tagged/networking.md)
+---
+#### [Comparison of Networking Solutions for Kubernetes](http://machinezone.github.io/research/networking-solutions-for-kubernetes/)
+_<sup>http://machinezone.github.io/research/networking-solutions-for-kubernetes/</sup>_
+
+* **tags**: [kubernetes](../tagged/kubernetes.md), [networking](../tagged/networking.md)
+---
+#### [AWS VPC CNI](https://github.com/aws/amazon-vpc-cni-k8s)
+_<sup>https://github.com/aws/amazon-vpc-cni-k8s</sup>_
+
+Networking plugin using Elastic Network Interfaces
+* **tags**: [kubernetes](../tagged/kubernetes.md), [networking](../tagged/networking.md)
+* :octocat: **[source code](https://github.com/aws/amazon-vpc-cni-k8s)**
+---
+#### [Calico](http://www.projectcalico.org/)
+_<sup>http://www.projectcalico.org/</sup>_
+
+* **tags**: [kubernetes](../tagged/kubernetes.md), [networking](../tagged/networking.md)
+---
+#### [Canal](https://github.com/tigera/canal)
+_<sup>https://github.com/tigera/canal</sup>_
+
+Policy based networking for cloud native applications - projectcalico/canal
+* **tags**: [kubernetes](../tagged/kubernetes.md), [networking](../tagged/networking.md)
+* :octocat: **[source code](https://github.com/tigera/canal)**
+---
+#### [Cilium](https://github.com/cilium/cilium)
+_<sup>https://github.com/cilium/cilium</sup>_
+
+API Aware Networking and Security using BPF and XDP - cilium/cilium
+* **tags**: [kubernetes](../tagged/kubernetes.md), [networking](../tagged/networking.md)
+* :octocat: **[source code](https://github.com/cilium/cilium)**
+---
+#### [Cisco ACI](https://www.cisco.com/c/en/us/td/docs/switches/datacenter/aci/apic/sw/kb/b_Kubernetes_Integration_with_ACI.html)
+_<sup>https://www.cisco.com/c/en/us/td/docs/switches/datacenter/aci/apic/sw/kb/b_Kubernetes_Integration_wi...</sup>_
+
+CNI plugin from Cisco support ACI fabrics
+* **tags**: [kubernetes](../tagged/kubernetes.md), [networking](../tagged/networking.md)
+---
+#### [CNI-Genie](https://github.com/Huawei-PaaS/CNI-Genie)
+_<sup>https://github.com/Huawei-PaaS/CNI-Genie</sup>_
+
+CNI-Genie for choosing pod network of your choice during deployment time. Supported pod networks - Calico, Flannel, Romana, Weave  - Huawei-PaaS/CNI-Genie
+* **tags**: [kubernetes](../tagged/kubernetes.md), [networking](../tagged/networking.md)
+* :octocat: **[source code](https://github.com/Huawei-PaaS/CNI-Genie)**
+---
+#### [cni-ipvlan-vpc-k8s](https://github.com/lyft/cni-ipvlan-vpc-k8s)
+_<sup>https://github.com/lyft/cni-ipvlan-vpc-k8s</sup>_
+
+AWS VPC Kubernetes CNI driver using IPvlan. Contribute to lyft/cni-ipvlan-vpc-k8s development by creating an account on GitHub.
+* **tags**: [kubernetes](../tagged/kubernetes.md), [networking](../tagged/networking.md)
+* :octocat: **[source code](https://github.com/lyft/cni-ipvlan-vpc-k8s)**
+---
+#### [Contiv](http://contiv.github.io/)
+_<sup>http://contiv.github.io/</sup>_
+
+* **tags**: [kubernetes](../tagged/kubernetes.md), [networking](../tagged/networking.md)
+---
+#### [External DNS](https://github.com/kubernetes-incubator/external-dns)
+_<sup>https://github.com/kubernetes-incubator/external-dns</sup>_
+
+To control DNS records dynamically via Kube resources
+* **tags**: [kubernetes](../tagged/kubernetes.md), [networking](../tagged/networking.md)
+* :octocat: **[source code](https://github.com/kubernetes-incubator/external-dns)**
+---
+#### [Goldpinger](https://github.com/bloomberg/goldpinger)
+_<sup>https://github.com/bloomberg/goldpinger</sup>_
+
+Debugging tool for Kubernetes which tests and displays connectivity between nodes in the cluster. - bloomberg/goldpinger
+* **tags**: [kubernetes](../tagged/kubernetes.md), [networking](../tagged/networking.md)
+* :octocat: **[source code](https://github.com/bloomberg/goldpinger)**
+---
+#### [Infoblox](https://github.com/infobloxopen/cni-infoblox)
+_<sup>https://github.com/infobloxopen/cni-infoblox</sup>_
+
+CNI Infoblox Code. Contribute to infobloxopen/cni-infoblox development by creating an account on GitHub.
+* **tags**: [kubernetes](../tagged/kubernetes.md), [networking](../tagged/networking.md)
+* :octocat: **[source code](https://github.com/infobloxopen/cni-infoblox)**
+---
+#### [Kube-router](http://github.com/cloudnativelabs/kube-router)
+_<sup>http://github.com/cloudnativelabs/kube-router</sup>_
+
+Kube-router, a turnkey solution for Kubernetes networking. - cloudnativelabs/kube-router
+* **tags**: [kubernetes](../tagged/kubernetes.md), [networking](../tagged/networking.md)
+* :octocat: **[source code](http://github.com/cloudnativelabs/kube-router)**
+---
+#### [kubernetes-network-policy-recipes](https://github.com/ahmetb/kubernetes-network-policy-recipes)
+_<sup>https://github.com/ahmetb/kubernetes-network-policy-recipes</sup>_
+
+Example recipes for Kubernetes Network Policies that you can just copy paste - ahmetb/kubernetes-network-policy-recipes
+* **tags**: [kubernetes](../tagged/kubernetes.md), [networking](../tagged/networking.md)
+* :octocat: **[source code](https://github.com/ahmetb/kubernetes-network-policy-recipes)**
+---
+#### [Kuryr](https://github.com/openstack/kuryr-kubernetes)
+_<sup>https://github.com/openstack/kuryr-kubernetes</sup>_
+
+Kubernetes integration with OpenStack networking. Contribute to openstack/kuryr-kubernetes development by creating an account on GitHub.
+* **tags**: [kubernetes](../tagged/kubernetes.md), [networking](../tagged/networking.md)
+* :octocat: **[source code](https://github.com/openstack/kuryr-kubernetes)**
+---
+#### [Linen](https://github.com/John-Lin/linen-cni)
+_<sup>https://github.com/John-Lin/linen-cni</sup>_
+
+A CNI plugin designed for overlay networks with Open vSwitch - John-Lin/linen-cni
+* **tags**: [kubernetes](../tagged/kubernetes.md), [networking](../tagged/networking.md)
+* :octocat: **[source code](https://github.com/John-Lin/linen-cni)**
+---
+#### [Multus-cni](https://github.com/Intel-Corp/multus-cni)
+_<sup>https://github.com/Intel-Corp/multus-cni</sup>_
+
+Multi-homed pod cni
+* **tags**: [kubernetes](../tagged/kubernetes.md), [networking](../tagged/networking.md)
+* :octocat: **[source code](https://github.com/Intel-Corp/multus-cni)**
+---
+#### [Network-Controller](https://github.com/linkernetworks/network-controller)
+_<sup>https://github.com/linkernetworks/network-controller</sup>_
+
+Open vSwitch, Multiple network interfaces that associate with Kubernetes pods
+* **tags**: [kubernetes](../tagged/kubernetes.md), [networking](../tagged/networking.md)
+* :octocat: **[source code](https://github.com/linkernetworks/network-controller)**
+---
+#### [NSX-T](https://www.vmware.com/products/nsx/cloud-native-apps.html)
+_<sup>https://www.vmware.com/products/nsx/cloud-native-apps.html</sup>_
+
+CNI plugin supporting load balancing and distributed firewalls.
+* **tags**: [kubernetes](../tagged/kubernetes.md), [networking](../tagged/networking.md)
+---
+#### [Nuage](https://github.com/nuagenetworks/nuage-kubernetes)
+_<sup>https://github.com/nuagenetworks/nuage-kubernetes</sup>_
+
+Nuage Kubernetes Integration Tools. Contribute to nuagenetworks/nuage-kubernetes development by creating an account on GitHub.
+* **tags**: [kubernetes](../tagged/kubernetes.md), [networking](../tagged/networking.md)
+* :octocat: **[source code](https://github.com/nuagenetworks/nuage-kubernetes)**
+---
+#### [OpenContrail](https://github.com/Juniper/contrail-kubernetes)
+_<sup>https://github.com/Juniper/contrail-kubernetes</sup>_
+
+OpenContrail Kubernetes integration. Contribute to Juniper/contrail-kubernetes development by creating an account on GitHub.
+* **tags**: [kubernetes](../tagged/kubernetes.md), [networking](../tagged/networking.md)
+* :octocat: **[source code](https://github.com/Juniper/contrail-kubernetes)**
+---
+#### [OpenVSwitch](http://openvswitch.org/)
+_<sup>http://openvswitch.org/</sup>_
+
+* **tags**: [kubernetes](../tagged/kubernetes.md), [networking](../tagged/networking.md)
+---
+#### [Romana](http://romana.io/)
+_<sup>http://romana.io/</sup>_
+
+Romana is a new open source network and security automation solution for Cloud Native applications. Romana automates the creation of isolated Cloud Native Networks and secures applications with a dist...
+* **tags**: [kubernetes](../tagged/kubernetes.md), [networking](../tagged/networking.md)
+---
+#### [Weave Net](http://www.weave.works/docs/net/latest/kubernetes/kube-addon/)
+_<sup>http://www.weave.works/docs/net/latest/kubernetes/kube-addon/</sup>_
+
+* **tags**: [kubernetes](../tagged/kubernetes.md), [networking](../tagged/networking.md)
+---
 #### [arp](https://github.com/mdlayher/arp)
 _<sup>https://github.com/mdlayher/arp</sup>_
 

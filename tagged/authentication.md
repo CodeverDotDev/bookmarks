@@ -2,6 +2,23 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/authentication](https://www.bookmarks.dev/tagged/authentication)</sup></sup>_
 ---
+#### [Kubernetes Authentication plugins and kubeconfig](http://www.dasblinkenlichten.com/kubernetes-authentication-plugins-and-kubeconfig/)
+_<sup>http://www.dasblinkenlichten.com/kubernetes-authentication-plugins-and-kubeconfig/</sup>_
+
+* **tags**: [kubernetes](../tagged/kubernetes.md), [authentication](../tagged/authentication.md)
+---
+#### [Kubernetes Authentication - OpenID Connect](http://www.devoperandi.com/kubernetes-authentication-openid-connect/)
+_<sup>http://www.devoperandi.com/kubernetes-authentication-openid-connect/</sup>_
+
+OpenID Connect](http://www.devoperandi.com/kubernetes-authentication-openid-connect/) by [Michael Ward](https://twitter.com/DevoperandI)
+* **tags**: [kubernetes](../tagged/kubernetes.md), [authentication](../tagged/authentication.md)
+---
+#### [Kubernetes authentication via GitHub OAuth and Dex](https://medium.com/preply-engineering/k8s-auth-a81f59d4dff6)
+_<sup>https://medium.com/preply-engineering/k8s-auth-a81f59d4dff6</sup>_
+
+Here’s a step-by-step guide for generating kubectl credentials using Dex, dex-k8s-authenticator and GitHub. We use Kubernetes for creating dynamic environments for devs and QA. So we want to provide…
+* **tags**: [kubernetes](../tagged/kubernetes.md), [authentication](../tagged/authentication.md)
+---
 #### [authboss](https://github.com/volatiletech/authboss)
 _<sup>https://github.com/volatiletech/authboss</sup>_
 

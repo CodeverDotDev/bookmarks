@@ -2,6 +2,16 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/logging](https://www.bookmarks.dev/tagged/logging)</sup></sup>_
 ---
+#### [Logging in Kubernetes with Fluentd and Elasticsearch](http://www.dasblinkenlichten.com/logging-in-kubernetes-with-fluentd-and-elasticsearch/)
+_<sup>http://www.dasblinkenlichten.com/logging-in-kubernetes-with-fluentd-and-elasticsearch/</sup>_
+
+* **tags**: [kubernetes](../tagged/kubernetes.md), [logging](../tagged/logging.md)
+---
+#### [Logging - Kafka topic by namespace](http://www.devoperandi.com/logging-kafka-topic-by-kubernetes-namespace/)
+_<sup>http://www.devoperandi.com/logging-kafka-topic-by-kubernetes-namespace/</sup>_
+
+* **tags**: [kubernetes](../tagged/kubernetes.md), [logging](../tagged/logging.md)
+---
 #### [distillog](https://github.com/amoghe/distillog)
 _<sup>https://github.com/amoghe/distillog</sup>_
 

@@ -2,6 +2,175 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/monitoring](https://www.bookmarks.dev/tagged/monitoring)</sup></sup>_
 ---
+#### [Kubernetes Monitoring Guide](http://www.datadoghq.com/blog/monitoring-kubernetes-era/)
+_<sup>http://www.datadoghq.com/blog/monitoring-kubernetes-era/</sup>_
+
+Learn about the key components in a Kubernetes architecture and how container orchestration changes your approach to monitoring.
+* **tags**: [kubernetes](../tagged/kubernetes.md), [monitoring](../tagged/monitoring.md)
+---
+#### [Installing cAdvisor and Heapster on bare metal Kubernetes](http://www.dasblinkenlichten.com/installing-cadvisor-and-heapster-on-bare-metal-kubernetes/)
+_<sup>http://www.dasblinkenlichten.com/installing-cadvisor-and-heapster-on-bare-metal-kubernetes/</sup>_
+
+* **tags**: [kubernetes](../tagged/kubernetes.md), [monitoring](../tagged/monitoring.md)
+---
+#### [How to Monitor Kubernetes: A 4-Part Series](http://sysdig.com/blog/monitoring-kubernetes-with-sysdig-cloud/)
+_<sup>http://sysdig.com/blog/monitoring-kubernetes-with-sysdig-cloud/</sup>_
+
+This monitoring Kubernetes how-to guide breaks down the details involved with monitoring applications running on Kubernetes in production.
+* **tags**: [kubernetes](../tagged/kubernetes.md), [monitoring](../tagged/monitoring.md)
+---
+#### [Console](http://github.com/kubernetes/dashboard)
+_<sup>http://github.com/kubernetes/dashboard</sup>_
+
+General-purpose web UI for Kubernetes clusters. Contribute to kubernetes/dashboard development by creating an account on GitHub.
+* **tags**: [kubernetes](../tagged/kubernetes.md), [monitoring](../tagged/monitoring.md)
+* :octocat: **[source code](http://github.com/kubernetes/dashboard)**
+---
+#### [BotKube](https://github.com/infracloudio/botkube)
+_<sup>https://github.com/infracloudio/botkube</sup>_
+
+App that helps you monitor your Kubernetes cluster, debug critical deployments & gives recommendations for the standard practices
+* **tags**: [kubernetes](../tagged/kubernetes.md), [monitoring](../tagged/monitoring.md)
+* :octocat: **[source code](https://github.com/infracloudio/botkube)**
+---
+#### [Datadog](http://www.datadoghq.com/)
+_<sup>http://www.datadoghq.com/</sup>_
+
+See inside any stack, any app, at any scale, anywhere.
+* **tags**: [kubernetes](../tagged/kubernetes.md), [monitoring](../tagged/monitoring.md)
+---
+#### [eventrouter](https://github.com/heptiolabs/eventrouter)
+_<sup>https://github.com/heptiolabs/eventrouter</sup>_
+
+simple introspective kubernetes service that forwards events to a specified sink.
+* **tags**: [kubernetes](../tagged/kubernetes.md), [monitoring](../tagged/monitoring.md)
+* :octocat: **[source code](https://github.com/heptiolabs/eventrouter)**
+---
+#### [Grafana Kubernetes App](https://github.com/grafana/kubernetes-app)
+_<sup>https://github.com/grafana/kubernetes-app</sup>_
+
+A set of dashboards and panels for kubernetes. Contribute to grafana/kubernetes-app development by creating an account on GitHub.
+* **tags**: [kubernetes](../tagged/kubernetes.md), [monitoring](../tagged/monitoring.md)
+* :octocat: **[source code](https://github.com/grafana/kubernetes-app)**
+---
+#### [Heapster](https://github.com/kubernetes/heapster)
+_<sup>https://github.com/kubernetes/heapster</sup>_
+
+[EOL] Compute Resource Usage Analysis and Monitoring of Container Clusters - kubernetes-retired/heapster
+* **tags**: [kubernetes](../tagged/kubernetes.md), [monitoring](../tagged/monitoring.md)
+* :octocat: **[source code](https://github.com/kubernetes/heapster)**
+---
+#### [Instana](https://instana.com)
+_<sup>https://instana.com</sup>_
+
+Instana is the Application Performance Management solution for modern dynamic applications, using automation and AI to manage their service quality.
+* **tags**: [kubernetes](../tagged/kubernetes.md), [monitoring](../tagged/monitoring.md)
+---
+#### [kail](https://github.com/boz/kail)
+_<sup>https://github.com/boz/kail</sup>_
+
+Kubernetes Log Viewer. Streams logs from all containers of all matching pods.
+* **tags**: [kubernetes](../tagged/kubernetes.md), [monitoring](../tagged/monitoring.md)
+* :octocat: **[source code](https://github.com/boz/kail)**
+---
+#### [Kubebox](https://github.com/astefanutti/kubebox)
+_<sup>https://github.com/astefanutti/kubebox</sup>_
+
+Terminal console for Kubernetes
+* **tags**: [kubernetes](../tagged/kubernetes.md), [monitoring](../tagged/monitoring.md)
+* :octocat: **[source code](https://github.com/astefanutti/kubebox)**
+---
+#### [Kubedash](https://github.com/kubernetes/kubedash)
+_<sup>https://github.com/kubernetes/kubedash</sup>_
+
+[EOL] Analytics dashboard for Kubernetes. Contribute to kubernetes-retired/kubedash development by creating an account on GitHub.
+* **tags**: [kubernetes](../tagged/kubernetes.md), [monitoring](../tagged/monitoring.md)
+* :octocat: **[source code](https://github.com/kubernetes/kubedash)**
+---
+#### [Kubernetes Operational View](https://github.com/hjacobs/kube-ops-view)
+_<sup>https://github.com/hjacobs/kube-ops-view</sup>_
+
+read-only system dashboard for multiple K8s clusters
+* **tags**: [kubernetes](../tagged/kubernetes.md), [monitoring](../tagged/monitoring.md)
+* :octocat: **[source code](https://github.com/hjacobs/kube-ops-view)**
+---
+#### [Kubespy](https://github.com/pulumi/kubespy)
+_<sup>https://github.com/pulumi/kubespy</sup>_
+
+Tools for observing Kubernetes resources in real time, powered by Pulumi.
+* **tags**: [kubernetes](../tagged/kubernetes.md), [monitoring](../tagged/monitoring.md)
+* :octocat: **[source code](https://github.com/pulumi/kubespy)**
+---
+#### [Kubewatch](https://github.com/skippbox/kubewatch)
+_<sup>https://github.com/skippbox/kubewatch</sup>_
+
+Watch k8s events and trigger Handlers. Contribute to bitnami-labs/kubewatch development by creating an account on GitHub.
+* **tags**: [kubernetes](../tagged/kubernetes.md), [monitoring](../tagged/monitoring.md)
+* :octocat: **[source code](https://github.com/skippbox/kubewatch)**
+---
+#### [Netsil](https://github.com/netsil/manifests)
+_<sup>https://github.com/netsil/manifests</sup>_
+
+Deploy manifests for Netsil AOC. Contribute to netsil/manifests development by creating an account on GitHub.
+* **tags**: [kubernetes](../tagged/kubernetes.md), [monitoring](../tagged/monitoring.md)
+* :octocat: **[source code](https://github.com/netsil/manifests)**
+---
+#### [New Relic](https://newrelic.com/platform/kubernetes)
+_<sup>https://newrelic.com/platform/kubernetes</sup>_
+
+Kubernetes monitoring and visualization service.
+* **tags**: [kubernetes](../tagged/kubernetes.md), [monitoring](../tagged/monitoring.md)
+---
+#### [NexClipper](https://github.com/NexClipper/NexClipper)
+_<sup>https://github.com/NexClipper/NexClipper</sup>_
+
+An open source software for monitoring Kubernetes and containers.
+* **tags**: [kubernetes](../tagged/kubernetes.md), [monitoring](../tagged/monitoring.md)
+* :octocat: **[source code](https://github.com/NexClipper/NexClipper)**
+---
+#### [Outcold Solutions](https://www.outcoldsolutions.com)
+_<sup>https://www.outcoldsolutions.com</sup>_
+
+monitoring Kubernetes, OpenShift and Docker in Splunk Enterprise and Splunk Cloud (metrics and log forwarding)
+* **tags**: [kubernetes](../tagged/kubernetes.md), [monitoring](../tagged/monitoring.md)
+---
+#### [Prometheus](http://prometheus.io)
+_<sup>http://prometheus.io</sup>_
+
+An open-source monitoring system with a dimensional data model, flexible query language, efficient time series database and modern alerting approach.
+* **tags**: [kubernetes](../tagged/kubernetes.md), [monitoring](../tagged/monitoring.md)
+---
+#### [Searchlight](https://github.com/appscode/searchlight)
+_<sup>https://github.com/appscode/searchlight</sup>_
+
+🔦 Alerts for Kubernetes. Contribute to searchlight/searchlight development by creating an account on GitHub.
+* **tags**: [kubernetes](../tagged/kubernetes.md), [monitoring](../tagged/monitoring.md)
+* :octocat: **[source code](https://github.com/appscode/searchlight)**
+---
+#### [Sysdig Monitoring](https://www.sysdig.com/)
+_<sup>https://www.sysdig.com/</sup>_
+
+Sysdig is the first unified approach to cloud-native visibility and security with Kubernetes, Prometheus, and Falco support.
+* **tags**: [kubernetes](../tagged/kubernetes.md), [monitoring](../tagged/monitoring.md)
+---
+#### [Sysdig Open Source](http://www.sysdig.org/)
+_<sup>http://www.sysdig.org/</sup>_
+
+Sysdig is the first unified approach to cloud-native visibility and security with Kubernetes, Prometheus, and Falco support.
+* **tags**: [kubernetes](../tagged/kubernetes.md), [monitoring](../tagged/monitoring.md)
+---
+#### [The Elastic Stack](https://www.elastic.co/docker-kubernetes-container-monitoring)
+_<sup>https://www.elastic.co/docker-kubernetes-container-monitoring</sup>_
+
+An open-source solution for monitoring and visualising K8s metrics, logs, application traces and more.
+* **tags**: [kubernetes](../tagged/kubernetes.md), [monitoring](../tagged/monitoring.md)
+---
+#### [Weave Scope](http://www.weave.works/products/weave-scope/)
+_<sup>http://www.weave.works/products/weave-scope/</sup>_
+
+Easy and simple automatic detection and visualization of your clusters and hosts. Install with only three lines of code and go!
+* **tags**: [kubernetes](../tagged/kubernetes.md), [monitoring](../tagged/monitoring.md)
+---
 #### [Bluepill](https://github.com/bluepill-rb/bluepill)
 _<sup>https://github.com/bluepill-rb/bluepill</sup>_
 
