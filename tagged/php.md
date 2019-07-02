@@ -2,6 +2,89 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/php](https://www.bookmarks.dev/tagged/php)</sup></sup>_
 ---
+#### [Guzzle](http://guzzle.readthedocs.org/en/latest/)
+_<sup>http://guzzle.readthedocs.org/en/latest/</sup>_
+
+HTTP client and framework for consuming RESTful web services.
+* **tags**: [rest](../tagged/rest.md), [rest-client](../tagged/rest-client.md), [php](../tagged/php.md)
+---
+#### [Buzz](https://github.com/kriswallsmith/buzz)
+_<sup>https://github.com/kriswallsmith/buzz</sup>_
+
+Another lightweight HTTP client.
+* **tags**: [rest](../tagged/rest.md), [rest-client](../tagged/rest-client.md), [php](../tagged/php.md)
+* :octocat: **[source code](https://github.com/kriswallsmith/buzz)**
+---
+#### [unirest for PHP](https://github.com/Mashape/unirest-php)
+_<sup>https://github.com/Mashape/unirest-php</sup>_
+
+Simplified, lightweight HTTP client library.
+* **tags**: [rest](../tagged/rest.md), [rest-client](../tagged/rest-client.md), [php](../tagged/php.md)
+* :octocat: **[source code](https://github.com/Mashape/unirest-php)**
+---
+#### [Microrest](https://github.com/marmelab/microrest.php)
+_<sup>https://github.com/marmelab/microrest.php</sup>_
+
+Micro-web application providing a REST API on top of any relational database.
+* **tags**: [rest](../tagged/rest.md), [php](../tagged/php.md)
+* :octocat: **[source code](https://github.com/marmelab/microrest.php)**
+---
+#### [Negotiation](https://github.com/willdurand/Negotiation)
+_<sup>https://github.com/willdurand/Negotiation</sup>_
+
+Content negotiation library.
+* **tags**: [rest](../tagged/rest.md), [php](../tagged/php.md)
+* :octocat: **[source code](https://github.com/willdurand/Negotiation)**
+---
+#### [Drest](https://github.com/leedavis81/drest)
+_<sup>https://github.com/leedavis81/drest</sup>_
+
+Library for exposing Doctrine entities as REST resource endpoints.
+* **tags**: [rest](../tagged/rest.md), [php](../tagged/php.md)
+* :octocat: **[source code](https://github.com/leedavis81/drest)**
+---
+#### [Restler](https://github.com/Luracast/Restler)
+_<sup>https://github.com/Luracast/Restler</sup>_
+
+Lightweight framework to expose PHP methods as RESTful web API.
+* **tags**: [rest](../tagged/rest.md), [php](../tagged/php.md)
+* :octocat: **[source code](https://github.com/Luracast/Restler)**
+---
+#### [HAL](https://github.com/blongden/hal)
+_<sup>https://github.com/blongden/hal</sup>_
+
+Hypertext Application Language (HAL) builder library.
+* **tags**: [rest](../tagged/rest.md), [php](../tagged/php.md)
+* :octocat: **[source code](https://github.com/blongden/hal)**
+---
+#### [Apigility](https://github.com/zfcampus/zf-apigility-skeleton)
+_<sup>https://github.com/zfcampus/zf-apigility-skeleton</sup>_
+
+API builder built with Zend Framework 2.
+* **tags**: [rest](../tagged/rest.md), [php](../tagged/php.md)
+* :octocat: **[source code](https://github.com/zfcampus/zf-apigility-skeleton)**
+---
+#### [phprest](https://github.com/phprest/phprest)
+_<sup>https://github.com/phprest/phprest</sup>_
+
+Specialized REST microframework for PHP.
+* **tags**: [rest](../tagged/rest.md), [php](../tagged/php.md)
+* :octocat: **[source code](https://github.com/phprest/phprest)**
+---
+#### [Hateoas](https://github.com/willdurand/Hateoas)
+_<sup>https://github.com/willdurand/Hateoas</sup>_
+
+PHP library to support implementing representations for HATEOAS REST web services.
+* **tags**: [rest](../tagged/rest.md), [php](../tagged/php.md)
+* :octocat: **[source code](https://github.com/willdurand/Hateoas)**
+---
+#### [Fusio](https://github.com/apioo/fusio)
+_<sup>https://github.com/apioo/fusio</sup>_
+
+Open source API management platform.
+* **tags**: [rest](../tagged/rest.md), [php](../tagged/php.md)
+* :octocat: **[source code](https://github.com/apioo/fusio)**
+---
 #### [Brew PHP Switcher](https://github.com/philcook/brew-php-switcher)
 _<sup>https://github.com/philcook/brew-php-switcher</sup>_
 

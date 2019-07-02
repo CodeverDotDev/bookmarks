@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/ruby](https://www.bookmarks.dev/tagged/ruby)</sup></sup>_
 ---
+#### [Rails](http://guides.rubyonrails.org/api_app.html)
+_<sup>http://guides.rubyonrails.org/api_app.html</sup>_
+
+RailsGuides: Using Rails for API-only applications.
+* **tags**: [rest](../tagged/rest.md), [ruby](../tagged/ruby.md)
+---
 #### [ActiveInteraction](https://github.com/orgsync/active_interaction)
 _<sup>https://github.com/orgsync/active_interaction</sup>_
 

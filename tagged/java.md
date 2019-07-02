@@ -2,6 +2,20 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/java](https://www.bookmarks.dev/tagged/java)</sup></sup>_
 ---
+#### [Vertx-Web](https://github.com/vert-x3/vertx-web)
+_<sup>https://github.com/vert-x3/vertx-web</sup>_
+
+Vert.x-Web is a set of building blocks for building web applications with Vert.x, a toolkit for building reactive applications on the JVM.
+* **tags**: [rest](../tagged/rest.md), [java](../tagged/java.md)
+* :octocat: **[source code](https://github.com/vert-x3/vertx-web)**
+---
+#### [Dropwizard](https://github.com/dropwizard/dropwizard)
+_<sup>https://github.com/dropwizard/dropwizard</sup>_
+
+A framework for developing ops-friendly, high-performance, RESTful web services.
+* **tags**: [rest](../tagged/rest.md), [java](../tagged/java.md)
+* :octocat: **[source code](https://github.com/dropwizard/dropwizard)**
+---
 #### [The State of Logging in Java](https://stackify.com/logging-java/)
 _<sup>https://stackify.com/logging-java/</sup>_
 

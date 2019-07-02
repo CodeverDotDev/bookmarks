@@ -2,6 +2,814 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/rest](https://www.bookmarks.dev/tagged/rest)</sup></sup>_
 ---
+#### [HTTP API design guide extracted from work on the Heroku Platform API](https://github.com/interagent/http-api-design)
+_<sup>https://github.com/interagent/http-api-design</sup>_
+
+HTTP API design guide extracted from work on the Heroku Platform API - interagent/http-api-design
+* **tags**: [rest](../tagged/rest.md), [api-design](../tagged/api-design.md)
+* :octocat: **[source code](https://github.com/interagent/http-api-design)**
+---
+#### [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
+_<sup>http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api</sup>_
+
+An API is a user interface for a developer. Learn the best practices to make an API that is easy to adopt and pleasant to use.
+* **tags**: [rest](../tagged/rest.md), [api-design](../tagged/api-design.md)
+---
+#### [How to design a REST API?](http://blog.octo.com/en/design-a-rest-api/)
+_<sup>http://blog.octo.com/en/design-a-rest-api/</sup>_
+
+Full guide tackling security, pagination, filtering, versioning, partial answers, CORS, etc.
+* **tags**: [rest](../tagged/rest.md), [api-design](../tagged/api-design.md)
+---
+#### [Richardson Maturity Model](http://martinfowler.com/articles/richardsonMaturityModel.html)
+_<sup>http://martinfowler.com/articles/richardsonMaturityModel.html</sup>_
+
+Explained by Martin Fowler, originally presented by Leonard Richardson at the [QCon 2008](https://www.crummy.com/writing/speaking/2008-QCon/act3.html).
+* **tags**: [rest](../tagged/rest.md), [api-design](../tagged/api-design.md)
+---
+#### [Enterprise Integration Using REST](http://martinfowler.com/articles/enterpriseREST.html)
+_<sup>http://martinfowler.com/articles/enterpriseREST.html</sup>_
+
+Discusses the constraints and flexibility that you have with nonpublic APIs, and lessons learned from doing large scale RESTful integration across multiple teams.
+* **tags**: [rest](../tagged/rest.md), [api-design](../tagged/api-design.md)
+---
+#### [HATEOAS](http://timelessrepo.com/haters-gonna-hateoas)
+_<sup>http://timelessrepo.com/haters-gonna-hateoas</sup>_
+
+Clear explanation on what HATEOAS is, and why you should use it.
+* **tags**: [rest](../tagged/rest.md), [api-design](../tagged/api-design.md)
+---
+#### [How to GET a cup of coffee](http://www.infoq.com/articles/webber-rest-workflow/)
+_<sup>http://www.infoq.com/articles/webber-rest-workflow/</sup>_
+
+In this article, Jim Webber, Savas Parastatidis and Ian Robinson show how to drive an application's flow through the use of hypermedia in a RESTful application.
+* **tags**: [rest](../tagged/rest.md), [api-design](../tagged/api-design.md)
+---
+#### [REST API Tutorial](http://www.restapitutorial.com/)
+_<sup>http://www.restapitutorial.com/</sup>_
+
+RestApiTutorial.com is dedicated to tracking REST API best practices and making resources available to enable quick reference and self education for the development crafts-person.
+* **tags**: [rest](../tagged/rest.md), [api-design](../tagged/api-design.md)
+---
+#### [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/vNext/Guidelines.md#readme)
+_<sup>https://github.com/Microsoft/api-guidelines/blob/vNext/Guidelines.md#readme</sup>_
+
+The Microsoft REST API Guidelines, as a design principle, encourages application developers to have resources accessible to them via a RESTful HTTP interface.
+* **tags**: [rest](../tagged/rest.md), [api-design](../tagged/api-design.md)
+* :octocat: **[source code](https://github.com/Microsoft/api-guidelines/blob/vNext/Guidelines.md#readme)**
+---
+#### [API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist)
+_<sup>https://github.com/shieldfy/API-Security-Checklist</sup>_
+
+Best practices about REST API security
+* **tags**: [rest](../tagged/rest.md), [api-design](../tagged/api-design.md)
+* :octocat: **[source code](https://github.com/shieldfy/API-Security-Checklist)**
+---
+#### [JSON API](http://jsonapi.org/)
+_<sup>http://jsonapi.org/</sup>_
+
+Standard for building APIs in JSON.
+* **tags**: [rest](../tagged/rest.md), [standards](../tagged/standards.md)
+---
+#### [RAML](http://raml.org/)
+_<sup>http://raml.org/</sup>_
+
+Simple and succinct way to describe RESTful API.
+* **tags**: [rest](../tagged/rest.md), [standards](../tagged/standards.md)
+---
+#### [JSend](http://labs.omniti.com/labs/jsend)
+_<sup>http://labs.omniti.com/labs/jsend</sup>_
+
+Simple specification that lays down some rules for how JSON responses from web servers should be formatted.
+* **tags**: [rest](../tagged/rest.md), [standards](../tagged/standards.md)
+---
+#### [OData](http://www.odata.org/)
+_<sup>http://www.odata.org/</sup>_
+
+Open protocol to allow the creation and consumption of queryable and interoperable RESTful APIs. Quite complex.
+* **tags**: [rest](../tagged/rest.md), [standards](../tagged/standards.md)
+---
+#### [JSON-LD](http://json-ld.org/)
+_<sup>http://json-ld.org/</sup>_
+
+Standard for describing Linked Data and hypermedia relations in JSON (W3C).
+* **tags**: [rest](../tagged/rest.md), [standards](../tagged/standards.md)
+---
+#### [Hydra](http://www.hydra-cg.com/)
+_<sup>http://www.hydra-cg.com/</sup>_
+
+Vocabulary for Hypermedia-Driven Web APIs (W3C).
+* **tags**: [rest](../tagged/rest.md), [standards](../tagged/standards.md)
+---
+#### [Schema.org](http://schema.org)
+_<sup>http://schema.org</sup>_
+
+Collection of schemas describing common data models.
+* **tags**: [rest](../tagged/rest.md), [standards](../tagged/standards.md)
+---
+#### [OpenAPI](https://openapis.org/)
+_<sup>https://openapis.org/</sup>_
+
+Formerly known as the Swagger Specification, OpenAPI specifcation is the world’s most popular description format for defining Restful APIs.
+* **tags**: [rest](../tagged/rest.md), [standards](../tagged/standards.md)
+---
+#### [Guzzle](http://guzzle.readthedocs.org/en/latest/)
+_<sup>http://guzzle.readthedocs.org/en/latest/</sup>_
+
+HTTP client and framework for consuming RESTful web services.
+* **tags**: [rest](../tagged/rest.md), [rest-client](../tagged/rest-client.md), [php](../tagged/php.md)
+---
+#### [Buzz](https://github.com/kriswallsmith/buzz)
+_<sup>https://github.com/kriswallsmith/buzz</sup>_
+
+Another lightweight HTTP client.
+* **tags**: [rest](../tagged/rest.md), [rest-client](../tagged/rest-client.md), [php](../tagged/php.md)
+* :octocat: **[source code](https://github.com/kriswallsmith/buzz)**
+---
+#### [unirest for PHP](https://github.com/Mashape/unirest-php)
+_<sup>https://github.com/Mashape/unirest-php</sup>_
+
+Simplified, lightweight HTTP client library.
+* **tags**: [rest](../tagged/rest.md), [rest-client](../tagged/rest-client.md), [php](../tagged/php.md)
+* :octocat: **[source code](https://github.com/Mashape/unirest-php)**
+---
+#### [restangular](https://github.com/mgonto/restangular)
+_<sup>https://github.com/mgonto/restangular</sup>_
+
+AngularJS service to handle REST API properly and easily.
+* **tags**: [rest](../tagged/rest.md), [rest-client](../tagged/rest-client.md), [javascript](../tagged/javascript.md)
+* :octocat: **[source code](https://github.com/mgonto/restangular)**
+---
+#### [restful.js](https://github.com/marmelab/restful.js)
+_<sup>https://github.com/marmelab/restful.js</sup>_
+
+JS client for interacting with server-side RESTful resources.
+* **tags**: [rest](../tagged/rest.md), [rest-client](../tagged/rest-client.md), [javascript](../tagged/javascript.md)
+* :octocat: **[source code](https://github.com/marmelab/restful.js)**
+---
+#### [traverson](https://github.com/basti1302/traverson)
+_<sup>https://github.com/basti1302/traverson</sup>_
+
+A Hypermedia API/HATEOAS Client for Node.js and the Browser
+* **tags**: [rest](../tagged/rest.md), [rest-client](../tagged/rest-client.md), [javascript](../tagged/javascript.md)
+* :octocat: **[source code](https://github.com/basti1302/traverson)**
+---
+#### [raml-client-generator](https://github.com/mulesoft/raml-client-generator)
+_<sup>https://github.com/mulesoft/raml-client-generator</sup>_
+
+Generates static client libs for js.
+* **tags**: [rest](../tagged/rest.md), [rest-client](../tagged/rest-client.md), [javascript](../tagged/javascript.md)
+* :octocat: **[source code](https://github.com/mulesoft/raml-client-generator)**
+---
+#### [restler](https://github.com/danwrong/restler)
+_<sup>https://github.com/danwrong/restler</sup>_
+
+REST client library for node.js.
+* **tags**: [rest](../tagged/rest.md), [node.js-clients](../tagged/node.js-clients.md)
+* :octocat: **[source code](https://github.com/danwrong/restler)**
+---
+#### [unirest for Node.js](https://github.com/Mashape/unirest-nodejs)
+_<sup>https://github.com/Mashape/unirest-nodejs</sup>_
+
+Simplified, lightweight HTTP client library.
+* **tags**: [rest](../tagged/rest.md), [node.js-clients](../tagged/node.js-clients.md)
+* :octocat: **[source code](https://github.com/Mashape/unirest-nodejs)**
+---
+#### [Net::HTTP](http://ruby-doc.org/stdlib/libdoc/net/http/rdoc/Net/HTTP.html)
+_<sup>http://ruby-doc.org/stdlib/libdoc/net/http/rdoc/Net/HTTP.html</sup>_
+
+Net::HTTP provides a rich library which can be used to build HTTP user-agents.
+* **tags**: [rest](../tagged/rest.md), [ruby-clients](../tagged/ruby-clients.md)
+---
+#### [raml-ruby-client-generator](https://github.com/zlx/raml-ruby-client-generator)
+_<sup>https://github.com/zlx/raml-ruby-client-generator</sup>_
+
+Auto generate API client from a RAML file.
+* **tags**: [rest](../tagged/rest.md), [ruby-clients](../tagged/ruby-clients.md)
+* :octocat: **[source code](https://github.com/zlx/raml-ruby-client-generator)**
+---
+#### [postgrest](https://github.com/begriffs/postgrest)
+_<sup>https://github.com/begriffs/postgrest</sup>_
+
+Serve a fully RESTful API directly from an existing PostgreSQL database.
+* **tags**: [rest](../tagged/rest.md), [server](../tagged/server.md), [relational-database](../tagged/relational-database.md)
+* :octocat: **[source code](https://github.com/begriffs/postgrest)**
+---
+#### [MySQL HTTP plugin](http://blog.ulf-wendel.de/2014/mysql-5-7-http-plugin-mysql/)
+_<sup>http://blog.ulf-wendel.de/2014/mysql-5-7-http-plugin-mysql/</sup>_
+
+Simple REST-like / CRUD server for any MySQL database.
+* **tags**: [rest](../tagged/rest.md), [server](../tagged/server.md), [relational-database](../tagged/relational-database.md)
+---
+#### [pREST](https://github.com/prest/prest)
+_<sup>https://github.com/prest/prest</sup>_
+
+A fully RESTful API from any existing PostgreSQL database written in Go.
+* **tags**: [rest](../tagged/rest.md), [server](../tagged/server.md), [relational-database](../tagged/relational-database.md)
+* :octocat: **[source code](https://github.com/prest/prest)**
+---
+#### [node-restify](https://github.com/restify/node-restify)
+_<sup>https://github.com/restify/node-restify</sup>_
+
+Framework specifically meant for REST API.
+* **tags**: [rest](../tagged/rest.md), [nodejs](../tagged/nodejs.md)
+* :octocat: **[source code](https://github.com/restify/node-restify)**
+---
+#### [Sails.js](http://sailsjs.org/)
+_<sup>http://sailsjs.org/</sup>_
+
+Node.js Web framework embedding a command to generate automatically a REST API.
+* **tags**: [rest](../tagged/rest.md), [nodejs](../tagged/nodejs.md)
+---
+#### [mers](https://github.com/jspears/mers)
+_<sup>https://github.com/jspears/mers</sup>_
+
+Express service exposing Mongoose finders as RESTful API.
+* **tags**: [rest](../tagged/rest.md), [nodejs](../tagged/nodejs.md)
+* :octocat: **[source code](https://github.com/jspears/mers)**
+---
+#### [Baucis](https://github.com/wprl/baucis)
+_<sup>https://github.com/wprl/baucis</sup>_
+
+Build scalable REST API based on your Mongoose entities.
+* **tags**: [rest](../tagged/rest.md), [nodejs](../tagged/nodejs.md)
+* :octocat: **[source code](https://github.com/wprl/baucis)**
+---
+#### [flatiron/resourceful](https://github.com/flatiron/resourceful)
+_<sup>https://github.com/flatiron/resourceful</sup>_
+
+Isomorphic Resource engine for JavaScript.
+* **tags**: [rest](../tagged/rest.md), [nodejs](../tagged/nodejs.md)
+* :octocat: **[source code](https://github.com/flatiron/resourceful)**
+---
+#### [loopback](http://loopback.io/)
+_<sup>http://loopback.io/</sup>_
+
+Powerful Node.js framework for creating APIs and easily connecting to backend data sources.
+* **tags**: [rest](../tagged/rest.md), [nodejs](../tagged/nodejs.md)
+---
+#### [Feathers](http://feathersjs.com/)
+_<sup>http://feathersjs.com/</sup>_
+
+is a real-time, micro-service web framework that gives you control over your data via RESTful resources, sockets and flexible plug-ins.
+* **tags**: [rest](../tagged/rest.md), [nodejs](../tagged/nodejs.md)
+---
+#### [Expressa](https://github.com/thomas4019/expressa)
+_<sup>https://github.com/thomas4019/expressa</sup>_
+
+Express middleware for creating APIs from JSON schemas with a simple admin editor and permissions model.
+* **tags**: [rest](../tagged/rest.md), [nodejs](../tagged/nodejs.md)
+* :octocat: **[source code](https://github.com/thomas4019/expressa)**
+---
+#### [rest-hapi](https://github.com/JKHeadley/rest-hapi)
+_<sup>https://github.com/JKHeadley/rest-hapi</sup>_
+
+Generate RESTful API based on mongoose models that supports relational data.
+* **tags**: [rest](../tagged/rest.md), [nodejs](../tagged/nodejs.md)
+* :octocat: **[source code](https://github.com/JKHeadley/rest-hapi)**
+---
+#### [Nestjsx/crud](https://github.com/nestjsx/crud)
+_<sup>https://github.com/nestjsx/crud</sup>_
+
+Generate CRUD controllers and services for RESTful API with NestJS and TypeORM.
+* **tags**: [rest](../tagged/rest.md), [nodejs](../tagged/nodejs.md)
+* :octocat: **[source code](https://github.com/nestjsx/crud)**
+---
+#### [Microrest](https://github.com/marmelab/microrest.php)
+_<sup>https://github.com/marmelab/microrest.php</sup>_
+
+Micro-web application providing a REST API on top of any relational database.
+* **tags**: [rest](../tagged/rest.md), [php](../tagged/php.md)
+* :octocat: **[source code](https://github.com/marmelab/microrest.php)**
+---
+#### [Negotiation](https://github.com/willdurand/Negotiation)
+_<sup>https://github.com/willdurand/Negotiation</sup>_
+
+Content negotiation library.
+* **tags**: [rest](../tagged/rest.md), [php](../tagged/php.md)
+* :octocat: **[source code](https://github.com/willdurand/Negotiation)**
+---
+#### [Drest](https://github.com/leedavis81/drest)
+_<sup>https://github.com/leedavis81/drest</sup>_
+
+Library for exposing Doctrine entities as REST resource endpoints.
+* **tags**: [rest](../tagged/rest.md), [php](../tagged/php.md)
+* :octocat: **[source code](https://github.com/leedavis81/drest)**
+---
+#### [Restler](https://github.com/Luracast/Restler)
+_<sup>https://github.com/Luracast/Restler</sup>_
+
+Lightweight framework to expose PHP methods as RESTful web API.
+* **tags**: [rest](../tagged/rest.md), [php](../tagged/php.md)
+* :octocat: **[source code](https://github.com/Luracast/Restler)**
+---
+#### [HAL](https://github.com/blongden/hal)
+_<sup>https://github.com/blongden/hal</sup>_
+
+Hypertext Application Language (HAL) builder library.
+* **tags**: [rest](../tagged/rest.md), [php](../tagged/php.md)
+* :octocat: **[source code](https://github.com/blongden/hal)**
+---
+#### [Apigility](https://github.com/zfcampus/zf-apigility-skeleton)
+_<sup>https://github.com/zfcampus/zf-apigility-skeleton</sup>_
+
+API builder built with Zend Framework 2.
+* **tags**: [rest](../tagged/rest.md), [php](../tagged/php.md)
+* :octocat: **[source code](https://github.com/zfcampus/zf-apigility-skeleton)**
+---
+#### [phprest](https://github.com/phprest/phprest)
+_<sup>https://github.com/phprest/phprest</sup>_
+
+Specialized REST microframework for PHP.
+* **tags**: [rest](../tagged/rest.md), [php](../tagged/php.md)
+* :octocat: **[source code](https://github.com/phprest/phprest)**
+---
+#### [Hateoas](https://github.com/willdurand/Hateoas)
+_<sup>https://github.com/willdurand/Hateoas</sup>_
+
+PHP library to support implementing representations for HATEOAS REST web services.
+* **tags**: [rest](../tagged/rest.md), [php](../tagged/php.md)
+* :octocat: **[source code](https://github.com/willdurand/Hateoas)**
+---
+#### [Fusio](https://github.com/apioo/fusio)
+_<sup>https://github.com/apioo/fusio</sup>_
+
+Open source API management platform.
+* **tags**: [rest](../tagged/rest.md), [php](../tagged/php.md)
+* :octocat: **[source code](https://github.com/apioo/fusio)**
+---
+#### [REST APIs with Symfony2: the Right Way](http://williamdurand.fr/2012/08/02/rest-apis-with-symfony2-the-right-way/)
+_<sup>http://williamdurand.fr/2012/08/02/rest-apis-with-symfony2-the-right-way/</sup>_
+
+Complete guide to build a state-of-the-art REST API with Symfony2 framework.
+* **tags**: [rest](../tagged/rest.md), [symfony2](../tagged/symfony2.md)
+---
+#### [FOSRestBundle](https://github.com/FriendsOfSymfony/FOSRestBundle)
+_<sup>https://github.com/FriendsOfSymfony/FOSRestBundle</sup>_
+
+Bundle handling view, routing, error handling, etc. for your REST API.
+* **tags**: [rest](../tagged/rest.md), [symfony2](../tagged/symfony2.md)
+* :octocat: **[source code](https://github.com/FriendsOfSymfony/FOSRestBundle)**
+---
+#### [stanlemon/rest-bundle](https://github.com/stanlemon/rest-bundle)
+_<sup>https://github.com/stanlemon/rest-bundle</sup>_
+
+Build a REST API based on Doctrine entities using conventions over configuration.
+* **tags**: [rest](../tagged/rest.md), [symfony2](../tagged/symfony2.md)
+* :octocat: **[source code](https://github.com/stanlemon/rest-bundle)**
+---
+#### [lakion/Lionframe](http://lakion.com/lionframe)
+_<sup>http://lakion.com/lionframe</sup>_
+
+Glu between several community libraries to ease API development.
+* **tags**: [rest](../tagged/rest.md), [symfony2](../tagged/symfony2.md)
+---
+#### [BazingaHateoasBundle](https://github.com/willdurand/BazingaHateoasBundle)
+_<sup>https://github.com/willdurand/BazingaHateoasBundle</sup>_
+
+Integrate the [Hateoas](https://github.com/willdurand/Hateoas) library into a Symfony2 application.
+* **tags**: [rest](../tagged/rest.md), [symfony2](../tagged/symfony2.md)
+* :octocat: **[source code](https://github.com/willdurand/BazingaHateoasBundle)**
+---
+#### [Symfony REST Edition](https://github.com/gimler/symfony-rest-edition)
+_<sup>https://github.com/gimler/symfony-rest-edition</sup>_
+
+Start with a Symfony2 application with all REST-friendly bundles pre-configured.
+* **tags**: [rest](../tagged/rest.md), [symfony2](../tagged/symfony2.md)
+* :octocat: **[source code](https://github.com/gimler/symfony-rest-edition)**
+---
+#### [NgAdminGeneratorBundle](https://github.com/marmelab/NgAdminGeneratorBundle)
+_<sup>https://github.com/marmelab/NgAdminGeneratorBundle</sup>_
+
+Boostrap ng-admin configuration based on `stanlemon/rest-bundle`.
+* **tags**: [rest](../tagged/rest.md), [symfony2](../tagged/symfony2.md)
+* :octocat: **[source code](https://github.com/marmelab/NgAdminGeneratorBundle)**
+---
+#### [DunglasApiBundle](https://github.com/dunglas/DunglasApiBundle)
+_<sup>https://github.com/dunglas/DunglasApiBundle</sup>_
+
+Build a REST API which follow Hydra/JSON-LD specification.
+* **tags**: [rest](../tagged/rest.md), [symfony2](../tagged/symfony2.md)
+* :octocat: **[source code](https://github.com/dunglas/DunglasApiBundle)**
+---
+#### [API Platform](https://github.com/api-platform/api-platform)
+_<sup>https://github.com/api-platform/api-platform</sup>_
+
+Specialize Symfony edition for the creation of hypermedia REST APIs.
+* **tags**: [rest](../tagged/rest.md), [symfony2](../tagged/symfony2.md)
+* :octocat: **[source code](https://github.com/api-platform/api-platform)**
+---
+#### [NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle)
+_<sup>https://github.com/nelmio/NelmioApiDocBundle</sup>_
+
+Generate documentation for your REST API from annotations.
+* **tags**: [rest](../tagged/rest.md), [symfony2](../tagged/symfony2.md)
+* :octocat: **[source code](https://github.com/nelmio/NelmioApiDocBundle)**
+---
+#### [flask-restful](http://flask-restful.readthedocs.org/)
+_<sup>http://flask-restful.readthedocs.org/</sup>_
+
+Extension for Flask that adds support for quickly building REST APIs.
+* **tags**: [rest](../tagged/rest.md), [python](../tagged/python.md)
+---
+#### [flask-restless](https://flask-restless.readthedocs.org/en/latest/)
+_<sup>https://flask-restless.readthedocs.org/en/latest/</sup>_
+
+Flask extension for generating ReSTful APIs for database models defined with SQLAlchemy (or Flask-SQLAlchemy).
+* **tags**: [rest](../tagged/rest.md), [python](../tagged/python.md)
+---
+#### [hug](http://www.hug.rest/)
+_<sup>http://www.hug.rest/</sup>_
+
+Lightweight and fast API Framework.
+* **tags**: [rest](../tagged/rest.md), [python](../tagged/python.md)
+---
+#### [restless](http://restless.readthedocs.org/en/latest/)
+_<sup>http://restless.readthedocs.org/en/latest/</sup>_
+
+Framework agnostic REST framework based on lessons learned from TastyPie.
+* **tags**: [rest](../tagged/rest.md), [python](../tagged/python.md)
+---
+#### [savory-pie](https://github.com/RueLaLa/savory-pie/)
+_<sup>https://github.com/RueLaLa/savory-pie/</sup>_
+
+REST API building library (django, and others).
+* **tags**: [rest](../tagged/rest.md), [python](../tagged/python.md)
+* :octocat: **[source code](https://github.com/RueLaLa/savory-pie/)**
+---
+#### [Python Eve](http://python-eve.org/)
+_<sup>http://python-eve.org/</sup>_
+
+Eve is an open source Python REST API framework designed for human beings. It allows to effortlessly build and deploy highly customizable, fully featured RESTful Web Services.
+* **tags**: [rest](../tagged/rest.md), [python](../tagged/python.md)
+---
+#### [Ramses](https://ramses.readthedocs.org/en/stable/)
+_<sup>https://ramses.readthedocs.org/en/stable/</sup>_
+
+Makes RAML files executable by generating production-ready APIs from them at runtime.
+* **tags**: [rest](../tagged/rest.md), [python](../tagged/python.md)
+---
+#### [Flask-Potion](https://github.com/biosustain/potion)
+_<sup>https://github.com/biosustain/potion</sup>_
+
+Flask-Potion is a powerful Flask extension for building RESTful JSON APIs. It also provides several Clients for easier access to the API.
+* **tags**: [rest](../tagged/rest.md), [python](../tagged/python.md)
+* :octocat: **[source code](https://github.com/biosustain/potion)**
+---
+#### [Falcon](https://github.com/falconry/falcon)
+_<sup>https://github.com/falconry/falcon</sup>_
+
+Falcon is a bare-metal Python web API framework for building high-performance microservices, app backends, and higher-level frameworks.
+* **tags**: [rest](../tagged/rest.md), [python](../tagged/python.md)
+* :octocat: **[source code](https://github.com/falconry/falcon)**
+---
+#### [Rails](http://guides.rubyonrails.org/api_app.html)
+_<sup>http://guides.rubyonrails.org/api_app.html</sup>_
+
+RailsGuides: Using Rails for API-only applications.
+* **tags**: [rest](../tagged/rest.md), [ruby](../tagged/ruby.md)
+---
+#### [gocrud](https://github.com/manishrjain/gocrud)
+_<sup>https://github.com/manishrjain/gocrud</sup>_
+
+Go framework to simplify CRUD of structured data using Graph operations - manishrjain/gocrud
+* **tags**: [rest](../tagged/rest.md), [go](../tagged/go.md)
+* :octocat: **[source code](https://github.com/manishrjain/gocrud)**
+---
+#### [sleepy](https://github.com/dougblack/sleepy)
+_<sup>https://github.com/dougblack/sleepy</sup>_
+
+RESTful micro-framework written in Go.
+* **tags**: [rest](../tagged/rest.md), [go](../tagged/go.md)
+* :octocat: **[source code](https://github.com/dougblack/sleepy)**
+---
+#### [go-relax](https://github.com/codehack/go-relax)
+_<sup>https://github.com/codehack/go-relax</sup>_
+
+Framework of pluggable components to build RESTful API's.
+* **tags**: [rest](../tagged/rest.md), [go](../tagged/go.md)
+* :octocat: **[source code](https://github.com/codehack/go-relax)**
+---
+#### [go-restful](https://github.com/emicklei/go-restful)
+_<sup>https://github.com/emicklei/go-restful</sup>_
+
+A declarative highly readable framework for building restful API's.
+* **tags**: [rest](../tagged/rest.md), [go](../tagged/go.md)
+* :octocat: **[source code](https://github.com/emicklei/go-restful)**
+---
+#### [Goat](https://github.com/bahlo/goat)
+_<sup>https://github.com/bahlo/goat</sup>_
+
+Minimalistic REST API server in Go.
+* **tags**: [rest](../tagged/rest.md), [go](../tagged/go.md)
+* :octocat: **[source code](https://github.com/bahlo/goat)**
+---
+#### [Vertx-Web](https://github.com/vert-x3/vertx-web)
+_<sup>https://github.com/vert-x3/vertx-web</sup>_
+
+Vert.x-Web is a set of building blocks for building web applications with Vert.x, a toolkit for building reactive applications on the JVM.
+* **tags**: [rest](../tagged/rest.md), [java](../tagged/java.md)
+* :octocat: **[source code](https://github.com/vert-x3/vertx-web)**
+---
+#### [Dropwizard](https://github.com/dropwizard/dropwizard)
+_<sup>https://github.com/dropwizard/dropwizard</sup>_
+
+A framework for developing ops-friendly, high-performance, RESTful web services.
+* **tags**: [rest](../tagged/rest.md), [java](../tagged/java.md)
+* :octocat: **[source code](https://github.com/dropwizard/dropwizard)**
+---
+#### [Rest for Haskell](https://github.com/silkapp/rest)
+_<sup>https://github.com/silkapp/rest</sup>_
+
+This package allows you to create REST APIs in Haskell. These APIs can be run in different web frameworks. They can also be used to automatically generate documentation as well as client libraries.
+* **tags**: [rest](../tagged/rest.md), [haskell](../tagged/haskell.md)
+* :octocat: **[source code](https://github.com/silkapp/rest)**
+---
+#### [Hurl.it](https://www.hurl.it/)
+_<sup>https://www.hurl.it/</sup>_
+
+Make HTTP requests with a simple web-based HTTP client -- like `curl` in the cloud.
+* **tags**: [rest](../tagged/rest.md), [testing](../tagged/testing.md), [querying](../tagged/querying.md)
+---
+#### [httpie](https://github.com/jkbrzt/httpie)
+_<sup>https://github.com/jkbrzt/httpie</sup>_
+
+Command line HTTP client, far more dev-friendly than `curl`.
+* **tags**: [rest](../tagged/rest.md), [testing](../tagged/testing.md), [querying](../tagged/querying.md)
+* :octocat: **[source code](https://github.com/jkbrzt/httpie)**
+---
+#### [Postman REST Client](https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm)
+_<sup>https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm</sup>_
+
+Chrome extension essential to test manually REST API.
+* **tags**: [rest](../tagged/rest.md), [testing](../tagged/testing.md), [querying](../tagged/querying.md)
+---
+#### [resty](https://github.com/micha/resty)
+_<sup>https://github.com/micha/resty</sup>_
+
+Little command line REST client that you can use in pipelines (bash or zsh).
+* **tags**: [rest](../tagged/rest.md), [testing](../tagged/testing.md), [querying](../tagged/querying.md)
+* :octocat: **[source code](https://github.com/micha/resty)**
+---
+#### [jq](https://github.com/stedolan/jq)
+_<sup>https://github.com/stedolan/jq</sup>_
+
+Command line JSON processor, to use in combination with a command-line HTTP client like cURL.
+* **tags**: [rest](../tagged/rest.md), [testing](../tagged/testing.md), [querying](../tagged/querying.md)
+* :octocat: **[source code](https://github.com/stedolan/jq)**
+---
+#### [HttpMaster](http://www.httpmaster.net)
+_<sup>http://www.httpmaster.net</sup>_
+
+GUI tool for testing REST APIs and services. Windows OS only.
+* **tags**: [rest](../tagged/rest.md), [testing](../tagged/testing.md), [querying](../tagged/querying.md)
+---
+#### [Http-console](https://github.com/cloudhead/http-console)
+_<sup>https://github.com/cloudhead/http-console</sup>_
+
+Command line interface for HTTP that let you *speak HTTP like a local*
+* **tags**: [rest](../tagged/rest.md), [testing](../tagged/testing.md), [querying](../tagged/querying.md)
+* :octocat: **[source code](https://github.com/cloudhead/http-console)**
+---
+#### [HTTP Prompt](https://github.com/eliangcs/http-prompt)
+_<sup>https://github.com/eliangcs/http-prompt</sup>_
+
+HTTP Prompt is an interactive command-line HTTP client featuring autocomplete and syntax highlighting, built on HTTPie and prompt_toolkit.
+* **tags**: [rest](../tagged/rest.md), [testing](../tagged/testing.md), [querying](../tagged/querying.md)
+* :octocat: **[source code](https://github.com/eliangcs/http-prompt)**
+---
+#### [Insomnia](https://github.com/getinsomnia/insomnia)
+_<sup>https://github.com/getinsomnia/insomnia</sup>_
+
+Cross-platform HTTP and GraphQL Client
+* **tags**: [rest](../tagged/rest.md), [testing](../tagged/testing.md), [querying](../tagged/querying.md)
+* :octocat: **[source code](https://github.com/getinsomnia/insomnia)**
+---
+#### [RequestBin](https://requestbin.com/)
+_<sup>https://requestbin.com/</sup>_
+
+Inspect and debug webhook requests sent by your clients or third-party APIs.
+* **tags**: [rest](../tagged/rest.md), [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
+---
+#### [httpbin](http://httpbin.org)
+_<sup>http://httpbin.org</sup>_
+
+HTTP request and response service - a/k/a Swiss Army Knife for HTTP.
+* **tags**: [rest](../tagged/rest.md), [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
+---
+#### [FakeRest](https://github.com/marmelab/FakeRest)
+_<sup>https://github.com/marmelab/FakeRest</sup>_
+
+Patch XMLHttpRequest to fake a REST API client-side.
+* **tags**: [rest](../tagged/rest.md), [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
+* :octocat: **[source code](https://github.com/marmelab/FakeRest)**
+---
+#### [Mocky.io](http://www.mocky.io/)
+_<sup>http://www.mocky.io/</sup>_
+
+Free online service to create fake HTTP responses.
+* **tags**: [rest](../tagged/rest.md), [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
+---
+#### [Swagger API Mock](https://github.com/bulkismaslom/swagger-api-mock)
+_<sup>https://github.com/bulkismaslom/swagger-api-mock</sup>_
+
+Mock RESTful API based on swagger schema
+* **tags**: [rest](../tagged/rest.md), [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
+* :octocat: **[source code](https://github.com/bulkismaslom/swagger-api-mock)**
+---
+#### [Request Baskets](https://github.com/darklynx/request-baskets)
+_<sup>https://github.com/darklynx/request-baskets</sup>_
+
+Service to collect HTTP requests and inspect them via RESTful API or web UI.
+* **tags**: [rest](../tagged/rest.md), [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
+* :octocat: **[source code](https://github.com/darklynx/request-baskets)**
+---
+#### [Deck of Cards API](http://deckofcardsapi.com)
+_<sup>http://deckofcardsapi.com</sup>_
+
+Open API for simulating a deck of cards.
+* **tags**: [rest](../tagged/rest.md), [testing](../tagged/testing.md)
+---
+#### [ProgrammableWeb](http://www.programmableweb.com/apis/directory)
+_<sup>http://www.programmableweb.com/apis/directory</sup>_
+
+The world's largest API repository.
+* **tags**: [rest](../tagged/rest.md), [testing](../tagged/testing.md)
+---
+#### [Public APIS](https://www.publicapis.com/)
+_<sup>https://www.publicapis.com/</sup>_
+
+Explore The Largest API Directory In The Galaxy.
+* **tags**: [rest](../tagged/rest.md), [testing](../tagged/testing.md)
+---
+#### [Marvel Comics API](http://developer.marvel.com/)
+_<sup>http://developer.marvel.com/</sup>_
+
+Query characters, stories, events about Marvel superheroes.
+* **tags**: [rest](../tagged/rest.md), [testing](../tagged/testing.md)
+---
+#### [JSON Placeholder](http://jsonplaceholder.typicode.com/)
+_<sup>http://jsonplaceholder.typicode.com/</sup>_
+
+Free online REST service that you can use whenever you need some fake data.
+* **tags**: [rest](../tagged/rest.md), [testing](../tagged/testing.md)
+---
+#### [APIs.guru](http://APIs.guru)
+_<sup>http://APIs.guru</sup>_
+
+Wikipedia for Web APIs, each API has OpenAPI/Swagger description.
+* **tags**: [rest](../tagged/rest.md), [testing](../tagged/testing.md)
+---
+#### [Swagger](http://swagger.io/)
+_<sup>http://swagger.io/</sup>_
+
+Documentation/querying web interface for REST APIs.
+* **tags**: [rest](../tagged/rest.md), [documentation](../tagged/documentation.md)
+---
+#### [raml2html](https://github.com/raml2html/raml2html)
+_<sup>https://github.com/raml2html/raml2html</sup>_
+
+Generates HTML documentation from a RAML file.
+* **tags**: [rest](../tagged/rest.md), [documentation](../tagged/documentation.md)
+* :octocat: **[source code](https://github.com/raml2html/raml2html)**
+---
+#### [ReDoc](https://github.com/Rebilly/ReDoc/)
+_<sup>https://github.com/Rebilly/ReDoc/</sup>_
+
+OpenAPI/Swagger-powered three-panel documentation.
+* **tags**: [rest](../tagged/rest.md), [documentation](../tagged/documentation.md)
+* :octocat: **[source code](https://github.com/Rebilly/ReDoc/)**
+---
+#### [Slate](https://github.com/lord/slate)
+_<sup>https://github.com/lord/slate</sup>_
+
+Beautiful and responsive three-panel API documentation using Middleman.
+* **tags**: [rest](../tagged/rest.md), [documentation](../tagged/documentation.md)
+* :octocat: **[source code](https://github.com/lord/slate)**
+---
+#### [Kong](https://github.com/Kong/kong)
+_<sup>https://github.com/Kong/kong</sup>_
+
+Scalable, distributed, and plugin oriented API gateway backed by Nginx.
+* **tags**: [rest](../tagged/rest.md), [api-gateway](../tagged/api-gateway.md)
+* :octocat: **[source code](https://github.com/Kong/kong)**
+---
+#### [Tyk API Gateway](https://github.com/TykTechnologies/tyk)
+_<sup>https://github.com/TykTechnologies/tyk</sup>_
+
+Lightweight API gateway with analytics logging, written in Go.
+* **tags**: [rest](../tagged/rest.md), [api-gateway](../tagged/api-gateway.md)
+* :octocat: **[source code](https://github.com/TykTechnologies/tyk)**
+---
+#### [API Umbrella](https://github.com/NREL/api-umbrella)
+_<sup>https://github.com/NREL/api-umbrella</sup>_
+
+API management platform for exposing web services, with web interface and analytics, written in Lua.
+* **tags**: [rest](../tagged/rest.md), [api-gateway](../tagged/api-gateway.md)
+* :octocat: **[source code](https://github.com/NREL/api-umbrella)**
+---
+#### [WSO2 API Management](https://github.com/wso2/product-apim)
+_<sup>https://github.com/wso2/product-apim</sup>_
+
+API management tool with lightweight gateway and API lifecycle manangement, written in Java.
+* **tags**: [rest](../tagged/rest.md), [api-gateway](../tagged/api-gateway.md)
+* :octocat: **[source code](https://github.com/wso2/product-apim)**
+---
+#### [Express Gateway](https://github.com/ExpressGateway/express-gateway)
+_<sup>https://github.com/ExpressGateway/express-gateway</sup>_
+
+Microservices API Gateway built on top of ExpressJS (Node.js).
+* **tags**: [rest](../tagged/rest.md), [api-gateway](../tagged/api-gateway.md)
+* :octocat: **[source code](https://github.com/ExpressGateway/express-gateway)**
+---
+#### [Runscope](https://www.runscope.com/)
+_<sup>https://www.runscope.com/</sup>_
+
+Automated API Monitoring & Testing.
+* **tags**: [rest](../tagged/rest.md), [saas](../tagged/saas.md), [tools](../tagged/tools.md)
+---
+#### [Ping-API](https://ping-api.com/)
+_<sup>https://ping-api.com/</sup>_
+
+Automated API Monitoring & Testing.
+* **tags**: [rest](../tagged/rest.md), [saas](../tagged/saas.md), [tools](../tagged/tools.md)
+---
+#### [import.io Magic](https://magic.import.io/)
+_<sup>https://magic.import.io/</sup>_
+
+Create a REST API from any website in one click.
+* **tags**: [rest](../tagged/rest.md), [saas](../tagged/saas.md), [tools](../tagged/tools.md)
+---
+#### [Apiary](https://apiary.io/)
+_<sup>https://apiary.io/</sup>_
+
+Collaborative design, instant API mock, generated documentation, integrated code samples, debugging and automated testing.
+* **tags**: [rest](../tagged/rest.md), [saas](../tagged/saas.md), [tools](../tagged/tools.md)
+---
+#### [Amazon API Gateway](https://aws.amazon.com/api-gateway/)
+_<sup>https://aws.amazon.com/api-gateway/</sup>_
+
+Amazon API Gateway is a fully managed service that makes it easy for developers to create, publish, maintain, monitor, and secure APIs at any scale.
+* **tags**: [rest](../tagged/rest.md), [saas](../tagged/saas.md), [tools](../tagged/tools.md)
+---
+#### [Apigee](https://apigee.com)
+_<sup>https://apigee.com</sup>_
+
+Apigee is the leading provider of API technology and services for enterprises and developers.
+* **tags**: [rest](../tagged/rest.md), [saas](../tagged/saas.md), [tools](../tagged/tools.md)
+---
+#### [3scale](https://www.3scale.net/)
+_<sup>https://www.3scale.net/</sup>_
+
+Nginx based API gateway to integrate internal and external API services with 3scale's API Management Platform.
+* **tags**: [rest](../tagged/rest.md), [saas](../tagged/saas.md), [tools](../tagged/tools.md)
+---
+#### [Assertible](https://assertible.com)
+_<sup>https://assertible.com</sup>_
+
+Continuously test and monitor your APIs after deployments and across environments.
+* **tags**: [rest](../tagged/rest.md), [saas](../tagged/saas.md), [tools](../tagged/tools.md)
+---
+#### [Moesif](https://www.moesif.com)
+_<sup>https://www.moesif.com</sup>_
+
+API Analytics for Debugging, Monitoring, and Usage Tracking for RESTful and GraphQL.
+* **tags**: [rest](../tagged/rest.md), [saas](../tagged/saas.md), [tools](../tagged/tools.md)
+---
+#### [Beeceptor](https://beeceptor.com/)
+_<sup>https://beeceptor.com/</sup>_
+
+An HTTP inspecting, mocking and proxing service. Gives named endpoints for creating mock API endpoints and simulate responses.
+* **tags**: [rest](../tagged/rest.md), [saas](../tagged/saas.md), [tools](../tagged/tools.md)
+---
+#### [react-admin](https://github.com/marmelab/react-admin)
+_<sup>https://github.com/marmelab/react-admin</sup>_
+
+Add a ReactJS admin GUI to any RESTful API.
+* **tags**: [rest](../tagged/rest.md)
+* :octocat: **[source code](https://github.com/marmelab/react-admin)**
+---
+#### [ng-admin](https://github.com/marmelab/ng-admin)
+_<sup>https://github.com/marmelab/ng-admin</sup>_
+
+Add an AngularJS admin GUI to any RESTful API.
+* **tags**: [rest](../tagged/rest.md)
+* :octocat: **[source code](https://github.com/marmelab/ng-admin)**
+---
+#### [swagger-codegen](https://github.com/swagger-api/swagger-codegen)
+_<sup>https://github.com/swagger-api/swagger-codegen</sup>_
+
+Auto generation of client libraries or server stubs given an OpenAPI specification (formerly known as the Swagger Specification).
+* **tags**: [rest](../tagged/rest.md)
+* :octocat: **[source code](https://github.com/swagger-api/swagger-codegen)**
+---
+#### [Lumber](https://github.com/ForestAdmin/lumber)
+_<sup>https://github.com/ForestAdmin/lumber</sup>_
+
+Generate the admin interface of your application.
+* **tags**: [rest](../tagged/rest.md)
+* :octocat: **[source code](https://github.com/ForestAdmin/lumber)**
+---
 #### [From REST to GraphQL a real world experiment - blog.dev-area.net](https://blog.dev-area.net/2017/01/17/from-rest-to-graphql/)
 _<sup>https://blog.dev-area.net/2017/01/17/from-rest-to-graphql/</sup>_
 

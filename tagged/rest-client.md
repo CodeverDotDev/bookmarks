@@ -2,6 +2,54 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/rest-client](https://www.bookmarks.dev/tagged/rest-client)</sup></sup>_
 ---
+#### [Guzzle](http://guzzle.readthedocs.org/en/latest/)
+_<sup>http://guzzle.readthedocs.org/en/latest/</sup>_
+
+HTTP client and framework for consuming RESTful web services.
+* **tags**: [rest](../tagged/rest.md), [rest-client](../tagged/rest-client.md), [php](../tagged/php.md)
+---
+#### [Buzz](https://github.com/kriswallsmith/buzz)
+_<sup>https://github.com/kriswallsmith/buzz</sup>_
+
+Another lightweight HTTP client.
+* **tags**: [rest](../tagged/rest.md), [rest-client](../tagged/rest-client.md), [php](../tagged/php.md)
+* :octocat: **[source code](https://github.com/kriswallsmith/buzz)**
+---
+#### [unirest for PHP](https://github.com/Mashape/unirest-php)
+_<sup>https://github.com/Mashape/unirest-php</sup>_
+
+Simplified, lightweight HTTP client library.
+* **tags**: [rest](../tagged/rest.md), [rest-client](../tagged/rest-client.md), [php](../tagged/php.md)
+* :octocat: **[source code](https://github.com/Mashape/unirest-php)**
+---
+#### [restangular](https://github.com/mgonto/restangular)
+_<sup>https://github.com/mgonto/restangular</sup>_
+
+AngularJS service to handle REST API properly and easily.
+* **tags**: [rest](../tagged/rest.md), [rest-client](../tagged/rest-client.md), [javascript](../tagged/javascript.md)
+* :octocat: **[source code](https://github.com/mgonto/restangular)**
+---
+#### [restful.js](https://github.com/marmelab/restful.js)
+_<sup>https://github.com/marmelab/restful.js</sup>_
+
+JS client for interacting with server-side RESTful resources.
+* **tags**: [rest](../tagged/rest.md), [rest-client](../tagged/rest-client.md), [javascript](../tagged/javascript.md)
+* :octocat: **[source code](https://github.com/marmelab/restful.js)**
+---
+#### [traverson](https://github.com/basti1302/traverson)
+_<sup>https://github.com/basti1302/traverson</sup>_
+
+A Hypermedia API/HATEOAS Client for Node.js and the Browser
+* **tags**: [rest](../tagged/rest.md), [rest-client](../tagged/rest-client.md), [javascript](../tagged/javascript.md)
+* :octocat: **[source code](https://github.com/basti1302/traverson)**
+---
+#### [raml-client-generator](https://github.com/mulesoft/raml-client-generator)
+_<sup>https://github.com/mulesoft/raml-client-generator</sup>_
+
+Generates static client libs for js.
+* **tags**: [rest](../tagged/rest.md), [rest-client](../tagged/rest-client.md), [javascript](../tagged/javascript.md)
+* :octocat: **[source code](https://github.com/mulesoft/raml-client-generator)**
+---
 #### [GitHub - axios/axios home page](https://github.com/axios/axios)
 _<sup>https://github.com/axios/axios</sup>_
 

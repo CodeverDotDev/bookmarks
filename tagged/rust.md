@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/rust](https://www.bookmarks.dev/tagged/rust)</sup></sup>_
 ---
+#### [Paradigms of Rust for the Go developer - Ralph Caraveo III - Medium](https://medium.com/@deckarep/paradigms-of-rust-for-the-go-developer-210f67cd6a29)
+_<sup>https://medium.com/@deckarep/paradigms-of-rust-for-the-go-developer-210f67cd6a29</sup>_
+
+This article aims to provide some technical insight into the paradigm shifts I’ve been exposed to while researching and learning about the Rust programming language when it comes to concurrency. After...
+* :calendar: **published on**: 2016-06-19
+* **tags**: [go](../tagged/go.md), [rust](../tagged/rust.md)
+---
 #### [awesome-rust](https://github.com/rust-unofficial/awesome-rust#readme)
 _<sup>https://github.com/rust-unofficial/awesome-rust#readme</sup>_
 

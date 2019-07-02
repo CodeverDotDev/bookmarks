@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/docker](https://www.bookmarks.dev/tagged/docker)</sup></sup>_
 ---
+#### [The best architecture with Docker and Kubernetes — myth or reality? - Medium](https://medium.com/@dpaunin/the-best-architecture-with-docker-and-kubernetes-myth-or-reality-77b4f8f3804d)
+_<sup>https://medium.com/@dpaunin/the-best-architecture-with-docker-and-kubernetes-myth-or-reality-77b4f8f...</sup>_
+
+This article will take you on a journey from real life to development processes to architecture and back to real life, giving answers to the most important questions at each of these stops along the w...
+* :calendar: **published on**: 2018-02-19
+* **tags**: [docker](../tagged/docker.md), [kubernetes](../tagged/kubernetes.md), [architecture](../tagged/architecture.md)
+---
 #### [GoogleContainerTools Kaniko Home Page](https://github.com/GoogleContainerTools/kaniko)
 _<sup>https://github.com/GoogleContainerTools/kaniko</sup>_
 

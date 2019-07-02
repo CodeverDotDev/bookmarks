@@ -2,6 +2,73 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/nodejs](https://www.bookmarks.dev/tagged/nodejs)</sup></sup>_
 ---
+#### [node-restify](https://github.com/restify/node-restify)
+_<sup>https://github.com/restify/node-restify</sup>_
+
+Framework specifically meant for REST API.
+* **tags**: [rest](../tagged/rest.md), [nodejs](../tagged/nodejs.md)
+* :octocat: **[source code](https://github.com/restify/node-restify)**
+---
+#### [Sails.js](http://sailsjs.org/)
+_<sup>http://sailsjs.org/</sup>_
+
+Node.js Web framework embedding a command to generate automatically a REST API.
+* **tags**: [rest](../tagged/rest.md), [nodejs](../tagged/nodejs.md)
+---
+#### [mers](https://github.com/jspears/mers)
+_<sup>https://github.com/jspears/mers</sup>_
+
+Express service exposing Mongoose finders as RESTful API.
+* **tags**: [rest](../tagged/rest.md), [nodejs](../tagged/nodejs.md)
+* :octocat: **[source code](https://github.com/jspears/mers)**
+---
+#### [Baucis](https://github.com/wprl/baucis)
+_<sup>https://github.com/wprl/baucis</sup>_
+
+Build scalable REST API based on your Mongoose entities.
+* **tags**: [rest](../tagged/rest.md), [nodejs](../tagged/nodejs.md)
+* :octocat: **[source code](https://github.com/wprl/baucis)**
+---
+#### [flatiron/resourceful](https://github.com/flatiron/resourceful)
+_<sup>https://github.com/flatiron/resourceful</sup>_
+
+Isomorphic Resource engine for JavaScript.
+* **tags**: [rest](../tagged/rest.md), [nodejs](../tagged/nodejs.md)
+* :octocat: **[source code](https://github.com/flatiron/resourceful)**
+---
+#### [loopback](http://loopback.io/)
+_<sup>http://loopback.io/</sup>_
+
+Powerful Node.js framework for creating APIs and easily connecting to backend data sources.
+* **tags**: [rest](../tagged/rest.md), [nodejs](../tagged/nodejs.md)
+---
+#### [Feathers](http://feathersjs.com/)
+_<sup>http://feathersjs.com/</sup>_
+
+is a real-time, micro-service web framework that gives you control over your data via RESTful resources, sockets and flexible plug-ins.
+* **tags**: [rest](../tagged/rest.md), [nodejs](../tagged/nodejs.md)
+---
+#### [Expressa](https://github.com/thomas4019/expressa)
+_<sup>https://github.com/thomas4019/expressa</sup>_
+
+Express middleware for creating APIs from JSON schemas with a simple admin editor and permissions model.
+* **tags**: [rest](../tagged/rest.md), [nodejs](../tagged/nodejs.md)
+* :octocat: **[source code](https://github.com/thomas4019/expressa)**
+---
+#### [rest-hapi](https://github.com/JKHeadley/rest-hapi)
+_<sup>https://github.com/JKHeadley/rest-hapi</sup>_
+
+Generate RESTful API based on mongoose models that supports relational data.
+* **tags**: [rest](../tagged/rest.md), [nodejs](../tagged/nodejs.md)
+* :octocat: **[source code](https://github.com/JKHeadley/rest-hapi)**
+---
+#### [Nestjsx/crud](https://github.com/nestjsx/crud)
+_<sup>https://github.com/nestjsx/crud</sup>_
+
+Generate CRUD controllers and services for RESTful API with NestJS and TypeORM.
+* **tags**: [rest](../tagged/rest.md), [nodejs](../tagged/nodejs.md)
+* :octocat: **[source code](https://github.com/nestjsx/crud)**
+---
 #### [NestJS - A progressive Node.js web framework](https://nestjs.com/)
 _<sup>https://nestjs.com/</sup>_
 

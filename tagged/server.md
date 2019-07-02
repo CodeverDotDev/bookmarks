@@ -2,6 +2,26 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/server](https://www.bookmarks.dev/tagged/server)</sup></sup>_
 ---
+#### [postgrest](https://github.com/begriffs/postgrest)
+_<sup>https://github.com/begriffs/postgrest</sup>_
+
+Serve a fully RESTful API directly from an existing PostgreSQL database.
+* **tags**: [rest](../tagged/rest.md), [server](../tagged/server.md), [relational-database](../tagged/relational-database.md)
+* :octocat: **[source code](https://github.com/begriffs/postgrest)**
+---
+#### [MySQL HTTP plugin](http://blog.ulf-wendel.de/2014/mysql-5-7-http-plugin-mysql/)
+_<sup>http://blog.ulf-wendel.de/2014/mysql-5-7-http-plugin-mysql/</sup>_
+
+Simple REST-like / CRUD server for any MySQL database.
+* **tags**: [rest](../tagged/rest.md), [server](../tagged/server.md), [relational-database](../tagged/relational-database.md)
+---
+#### [pREST](https://github.com/prest/prest)
+_<sup>https://github.com/prest/prest</sup>_
+
+A fully RESTful API from any existing PostgreSQL database written in Go.
+* **tags**: [rest](../tagged/rest.md), [server](../tagged/server.md), [relational-database](../tagged/relational-database.md)
+* :octocat: **[source code](https://github.com/prest/prest)**
+---
 #### [Apache Tomcat](https://tomcat.apache.org)
 _<sup>https://tomcat.apache.org</sup>_
 

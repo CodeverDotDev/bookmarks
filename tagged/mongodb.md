@@ -161,8 +161,8 @@ _<sup>https://github.com/uokesita/the-little-mongodb-book</sup>_
 
 * **tags**: [free-programming-books](../tagged/free-programming-books.md), [free-programming-books-es](../tagged/free-programming-books-es.md), [mongodb](../tagged/mongodb.md), [nosql](../tagged/nosql.md)
 ---
-#### [Practical MongoDB shell commands every developer should know – CodingpediaOrg](http://www.codingpedia.org/ama/practical-mongodb-shell-commands-every-developer-should-know)
-_<sup>http://www.codingpedia.org/ama/practical-mongodb-shell-commands-every-developer-should-know</sup>_
+#### [Practical MongoDB shell commands every developer should know](http://www.codepedia.org/ama/practical-mongodb-shell-commands-every-developer-should-know)
+_<sup>http://www.codepedia.org/ama/practical-mongodb-shell-commands-every-developer-should-know</sup>_
 
 Practical mongo shell commands. 
 * :calendar: **published on**: 2016-10-10

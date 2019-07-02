@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/networking](https://www.bookmarks.dev/tagged/networking)</sup></sup>_
 ---
+#### [A Guide to the Kubernetes Networking Model - Kevin Sookocheff](https://sookocheff.com/post/kubernetes/understanding-kubernetes-networking-model/)
+_<sup>https://sookocheff.com/post/kubernetes/understanding-kubernetes-networking-model/</sup>_
+
+This guide intends to demystify Kubernetes networking by discussing each of Kubernetes dependent technologies along with descriptions on how those technologies are used to enable the Kubernetes networ...
+* :calendar: **published on**: 2018-07-11
+* **tags**: [kubernetes](../tagged/kubernetes.md), [networking](../tagged/networking.md)
+---
 #### [Enable IPv6 on Kubernetes with Project Calico](https://www.projectcalico.org/enable-ipv6-on-kubernetes-with-project-calico/)
 _<sup>https://www.projectcalico.org/enable-ipv6-on-kubernetes-with-project-calico/</sup>_
 

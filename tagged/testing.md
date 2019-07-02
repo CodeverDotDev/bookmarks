@@ -2,6 +2,141 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/testing](https://www.bookmarks.dev/tagged/testing)</sup></sup>_
 ---
+#### [Hurl.it](https://www.hurl.it/)
+_<sup>https://www.hurl.it/</sup>_
+
+Make HTTP requests with a simple web-based HTTP client -- like `curl` in the cloud.
+* **tags**: [rest](../tagged/rest.md), [testing](../tagged/testing.md), [querying](../tagged/querying.md)
+---
+#### [httpie](https://github.com/jkbrzt/httpie)
+_<sup>https://github.com/jkbrzt/httpie</sup>_
+
+Command line HTTP client, far more dev-friendly than `curl`.
+* **tags**: [rest](../tagged/rest.md), [testing](../tagged/testing.md), [querying](../tagged/querying.md)
+* :octocat: **[source code](https://github.com/jkbrzt/httpie)**
+---
+#### [Postman REST Client](https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm)
+_<sup>https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm</sup>_
+
+Chrome extension essential to test manually REST API.
+* **tags**: [rest](../tagged/rest.md), [testing](../tagged/testing.md), [querying](../tagged/querying.md)
+---
+#### [resty](https://github.com/micha/resty)
+_<sup>https://github.com/micha/resty</sup>_
+
+Little command line REST client that you can use in pipelines (bash or zsh).
+* **tags**: [rest](../tagged/rest.md), [testing](../tagged/testing.md), [querying](../tagged/querying.md)
+* :octocat: **[source code](https://github.com/micha/resty)**
+---
+#### [jq](https://github.com/stedolan/jq)
+_<sup>https://github.com/stedolan/jq</sup>_
+
+Command line JSON processor, to use in combination with a command-line HTTP client like cURL.
+* **tags**: [rest](../tagged/rest.md), [testing](../tagged/testing.md), [querying](../tagged/querying.md)
+* :octocat: **[source code](https://github.com/stedolan/jq)**
+---
+#### [HttpMaster](http://www.httpmaster.net)
+_<sup>http://www.httpmaster.net</sup>_
+
+GUI tool for testing REST APIs and services. Windows OS only.
+* **tags**: [rest](../tagged/rest.md), [testing](../tagged/testing.md), [querying](../tagged/querying.md)
+---
+#### [Http-console](https://github.com/cloudhead/http-console)
+_<sup>https://github.com/cloudhead/http-console</sup>_
+
+Command line interface for HTTP that let you *speak HTTP like a local*
+* **tags**: [rest](../tagged/rest.md), [testing](../tagged/testing.md), [querying](../tagged/querying.md)
+* :octocat: **[source code](https://github.com/cloudhead/http-console)**
+---
+#### [HTTP Prompt](https://github.com/eliangcs/http-prompt)
+_<sup>https://github.com/eliangcs/http-prompt</sup>_
+
+HTTP Prompt is an interactive command-line HTTP client featuring autocomplete and syntax highlighting, built on HTTPie and prompt_toolkit.
+* **tags**: [rest](../tagged/rest.md), [testing](../tagged/testing.md), [querying](../tagged/querying.md)
+* :octocat: **[source code](https://github.com/eliangcs/http-prompt)**
+---
+#### [Insomnia](https://github.com/getinsomnia/insomnia)
+_<sup>https://github.com/getinsomnia/insomnia</sup>_
+
+Cross-platform HTTP and GraphQL Client
+* **tags**: [rest](../tagged/rest.md), [testing](../tagged/testing.md), [querying](../tagged/querying.md)
+* :octocat: **[source code](https://github.com/getinsomnia/insomnia)**
+---
+#### [RequestBin](https://requestbin.com/)
+_<sup>https://requestbin.com/</sup>_
+
+Inspect and debug webhook requests sent by your clients or third-party APIs.
+* **tags**: [rest](../tagged/rest.md), [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
+---
+#### [httpbin](http://httpbin.org)
+_<sup>http://httpbin.org</sup>_
+
+HTTP request and response service - a/k/a Swiss Army Knife for HTTP.
+* **tags**: [rest](../tagged/rest.md), [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
+---
+#### [FakeRest](https://github.com/marmelab/FakeRest)
+_<sup>https://github.com/marmelab/FakeRest</sup>_
+
+Patch XMLHttpRequest to fake a REST API client-side.
+* **tags**: [rest](../tagged/rest.md), [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
+* :octocat: **[source code](https://github.com/marmelab/FakeRest)**
+---
+#### [Mocky.io](http://www.mocky.io/)
+_<sup>http://www.mocky.io/</sup>_
+
+Free online service to create fake HTTP responses.
+* **tags**: [rest](../tagged/rest.md), [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
+---
+#### [Swagger API Mock](https://github.com/bulkismaslom/swagger-api-mock)
+_<sup>https://github.com/bulkismaslom/swagger-api-mock</sup>_
+
+Mock RESTful API based on swagger schema
+* **tags**: [rest](../tagged/rest.md), [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
+* :octocat: **[source code](https://github.com/bulkismaslom/swagger-api-mock)**
+---
+#### [Request Baskets](https://github.com/darklynx/request-baskets)
+_<sup>https://github.com/darklynx/request-baskets</sup>_
+
+Service to collect HTTP requests and inspect them via RESTful API or web UI.
+* **tags**: [rest](../tagged/rest.md), [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
+* :octocat: **[source code](https://github.com/darklynx/request-baskets)**
+---
+#### [Deck of Cards API](http://deckofcardsapi.com)
+_<sup>http://deckofcardsapi.com</sup>_
+
+Open API for simulating a deck of cards.
+* **tags**: [rest](../tagged/rest.md), [testing](../tagged/testing.md)
+---
+#### [ProgrammableWeb](http://www.programmableweb.com/apis/directory)
+_<sup>http://www.programmableweb.com/apis/directory</sup>_
+
+The world's largest API repository.
+* **tags**: [rest](../tagged/rest.md), [testing](../tagged/testing.md)
+---
+#### [Public APIS](https://www.publicapis.com/)
+_<sup>https://www.publicapis.com/</sup>_
+
+Explore The Largest API Directory In The Galaxy.
+* **tags**: [rest](../tagged/rest.md), [testing](../tagged/testing.md)
+---
+#### [Marvel Comics API](http://developer.marvel.com/)
+_<sup>http://developer.marvel.com/</sup>_
+
+Query characters, stories, events about Marvel superheroes.
+* **tags**: [rest](../tagged/rest.md), [testing](../tagged/testing.md)
+---
+#### [JSON Placeholder](http://jsonplaceholder.typicode.com/)
+_<sup>http://jsonplaceholder.typicode.com/</sup>_
+
+Free online REST service that you can use whenever you need some fake data.
+* **tags**: [rest](../tagged/rest.md), [testing](../tagged/testing.md)
+---
+#### [APIs.guru](http://APIs.guru)
+_<sup>http://APIs.guru</sup>_
+
+Wikipedia for Web APIs, each API has OpenAPI/Swagger description.
+* **tags**: [rest](../tagged/rest.md), [testing](../tagged/testing.md)
+---
 #### [chaoskube](https://github.com/linki/chaoskube)
 _<sup>https://github.com/linki/chaoskube</sup>_
 

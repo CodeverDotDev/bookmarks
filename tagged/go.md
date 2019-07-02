@@ -2,6 +2,48 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/go](https://www.bookmarks.dev/tagged/go)</sup></sup>_
 ---
+#### [gocrud](https://github.com/manishrjain/gocrud)
+_<sup>https://github.com/manishrjain/gocrud</sup>_
+
+Go framework to simplify CRUD of structured data using Graph operations - manishrjain/gocrud
+* **tags**: [rest](../tagged/rest.md), [go](../tagged/go.md)
+* :octocat: **[source code](https://github.com/manishrjain/gocrud)**
+---
+#### [sleepy](https://github.com/dougblack/sleepy)
+_<sup>https://github.com/dougblack/sleepy</sup>_
+
+RESTful micro-framework written in Go.
+* **tags**: [rest](../tagged/rest.md), [go](../tagged/go.md)
+* :octocat: **[source code](https://github.com/dougblack/sleepy)**
+---
+#### [go-relax](https://github.com/codehack/go-relax)
+_<sup>https://github.com/codehack/go-relax</sup>_
+
+Framework of pluggable components to build RESTful API's.
+* **tags**: [rest](../tagged/rest.md), [go](../tagged/go.md)
+* :octocat: **[source code](https://github.com/codehack/go-relax)**
+---
+#### [go-restful](https://github.com/emicklei/go-restful)
+_<sup>https://github.com/emicklei/go-restful</sup>_
+
+A declarative highly readable framework for building restful API's.
+* **tags**: [rest](../tagged/rest.md), [go](../tagged/go.md)
+* :octocat: **[source code](https://github.com/emicklei/go-restful)**
+---
+#### [Goat](https://github.com/bahlo/goat)
+_<sup>https://github.com/bahlo/goat</sup>_
+
+Minimalistic REST API server in Go.
+* **tags**: [rest](../tagged/rest.md), [go](../tagged/go.md)
+* :octocat: **[source code](https://github.com/bahlo/goat)**
+---
+#### [Paradigms of Rust for the Go developer - Ralph Caraveo III - Medium](https://medium.com/@deckarep/paradigms-of-rust-for-the-go-developer-210f67cd6a29)
+_<sup>https://medium.com/@deckarep/paradigms-of-rust-for-the-go-developer-210f67cd6a29</sup>_
+
+This article aims to provide some technical insight into the paradigm shifts I’ve been exposed to while researching and learning about the Rust programming language when it comes to concurrency. After...
+* :calendar: **published on**: 2016-06-19
+* **tags**: [go](../tagged/go.md), [rust](../tagged/rust.md)
+---
 #### [EasyMIDI](https://github.com/algoGuy/EasyMIDI)
 _<sup>https://github.com/algoGuy/EasyMIDI</sup>_
 

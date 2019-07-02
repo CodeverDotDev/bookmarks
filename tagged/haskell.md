@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/haskell](https://www.bookmarks.dev/tagged/haskell)</sup></sup>_
 ---
+#### [Rest for Haskell](https://github.com/silkapp/rest)
+_<sup>https://github.com/silkapp/rest</sup>_
+
+This package allows you to create REST APIs in Haskell. These APIs can be run in different web frameworks. They can also be used to automatically generate documentation as well as client libraries.
+* **tags**: [rest](../tagged/rest.md), [haskell](../tagged/haskell.md)
+* :octocat: **[source code](https://github.com/silkapp/rest)**
+---
 #### [graphql-haskell](https://github.com/jdnavarro/graphql-haskell)
 _<sup>https://github.com/jdnavarro/graphql-haskell</sup>_
 

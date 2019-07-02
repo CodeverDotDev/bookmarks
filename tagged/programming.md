@@ -2,6 +2,14 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/programming](https://www.bookmarks.dev/tagged/programming)</sup></sup>_
 ---
+#### [Rails Conf 2013 How to Talk to Developers by Ben Orenstein - YouTube](https://www.youtube.com/watch?v=l9JXH7JPjR4)
+_<sup>https://www.youtube.com/watch?v=l9JXH7JPjR4</sup>_
+
+Nearly every developer will be asked to present to his or her peers at some point. Those that do it well will tend to have an outsized influence on their team, company, and community.
+This talk will d...
+* :calendar: **published on**: 2013-05-29
+* **tags**: [programming](../tagged/programming.md)
+---
 #### [Level-triggered and edge-triggered](https://gengnosis.blogspot.com/2007/01/level-triggered-and-edge-triggered.html)
 _<sup>https://gengnosis.blogspot.com/2007/01/level-triggered-and-edge-triggered.html</sup>_
 

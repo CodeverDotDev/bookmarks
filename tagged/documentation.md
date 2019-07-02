@@ -2,6 +2,33 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/documentation](https://www.bookmarks.dev/tagged/documentation)</sup></sup>_
 ---
+#### [Swagger](http://swagger.io/)
+_<sup>http://swagger.io/</sup>_
+
+Documentation/querying web interface for REST APIs.
+* **tags**: [rest](../tagged/rest.md), [documentation](../tagged/documentation.md)
+---
+#### [raml2html](https://github.com/raml2html/raml2html)
+_<sup>https://github.com/raml2html/raml2html</sup>_
+
+Generates HTML documentation from a RAML file.
+* **tags**: [rest](../tagged/rest.md), [documentation](../tagged/documentation.md)
+* :octocat: **[source code](https://github.com/raml2html/raml2html)**
+---
+#### [ReDoc](https://github.com/Rebilly/ReDoc/)
+_<sup>https://github.com/Rebilly/ReDoc/</sup>_
+
+OpenAPI/Swagger-powered three-panel documentation.
+* **tags**: [rest](../tagged/rest.md), [documentation](../tagged/documentation.md)
+* :octocat: **[source code](https://github.com/Rebilly/ReDoc/)**
+---
+#### [Slate](https://github.com/lord/slate)
+_<sup>https://github.com/lord/slate</sup>_
+
+Beautiful and responsive three-panel API documentation using Middleman.
+* **tags**: [rest](../tagged/rest.md), [documentation](../tagged/documentation.md)
+* :octocat: **[source code](https://github.com/lord/slate)**
+---
 #### [Annotate](https://github.com/ctran/annotate_models)
 _<sup>https://github.com/ctran/annotate_models</sup>_
 

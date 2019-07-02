@@ -2,6 +2,34 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/javascript](https://www.bookmarks.dev/tagged/javascript)</sup></sup>_
 ---
+#### [restangular](https://github.com/mgonto/restangular)
+_<sup>https://github.com/mgonto/restangular</sup>_
+
+AngularJS service to handle REST API properly and easily.
+* **tags**: [rest](../tagged/rest.md), [rest-client](../tagged/rest-client.md), [javascript](../tagged/javascript.md)
+* :octocat: **[source code](https://github.com/mgonto/restangular)**
+---
+#### [restful.js](https://github.com/marmelab/restful.js)
+_<sup>https://github.com/marmelab/restful.js</sup>_
+
+JS client for interacting with server-side RESTful resources.
+* **tags**: [rest](../tagged/rest.md), [rest-client](../tagged/rest-client.md), [javascript](../tagged/javascript.md)
+* :octocat: **[source code](https://github.com/marmelab/restful.js)**
+---
+#### [traverson](https://github.com/basti1302/traverson)
+_<sup>https://github.com/basti1302/traverson</sup>_
+
+A Hypermedia API/HATEOAS Client for Node.js and the Browser
+* **tags**: [rest](../tagged/rest.md), [rest-client](../tagged/rest-client.md), [javascript](../tagged/javascript.md)
+* :octocat: **[source code](https://github.com/basti1302/traverson)**
+---
+#### [raml-client-generator](https://github.com/mulesoft/raml-client-generator)
+_<sup>https://github.com/mulesoft/raml-client-generator</sup>_
+
+Generates static client libs for js.
+* **tags**: [rest](../tagged/rest.md), [rest-client](../tagged/rest-client.md), [javascript](../tagged/javascript.md)
+* :octocat: **[source code](https://github.com/mulesoft/raml-client-generator)**
+---
 #### [What’s new in JavaScript (Google I/O ’19) - YouTube](https://www.youtube.com/watch?v=c0oy0vQKEZE)
 _<sup>https://www.youtube.com/watch?v=c0oy0vQKEZE</sup>_
 

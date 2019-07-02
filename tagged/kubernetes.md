@@ -2,6 +2,20 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/kubernetes](https://www.bookmarks.dev/tagged/kubernetes)</sup></sup>_
 ---
+#### [A Guide to the Kubernetes Networking Model - Kevin Sookocheff](https://sookocheff.com/post/kubernetes/understanding-kubernetes-networking-model/)
+_<sup>https://sookocheff.com/post/kubernetes/understanding-kubernetes-networking-model/</sup>_
+
+This guide intends to demystify Kubernetes networking by discussing each of Kubernetes dependent technologies along with descriptions on how those technologies are used to enable the Kubernetes networ...
+* :calendar: **published on**: 2018-07-11
+* **tags**: [kubernetes](../tagged/kubernetes.md), [networking](../tagged/networking.md)
+---
+#### [The best architecture with Docker and Kubernetes — myth or reality? - Medium](https://medium.com/@dpaunin/the-best-architecture-with-docker-and-kubernetes-myth-or-reality-77b4f8f3804d)
+_<sup>https://medium.com/@dpaunin/the-best-architecture-with-docker-and-kubernetes-myth-or-reality-77b4f8f...</sup>_
+
+This article will take you on a journey from real life to development processes to architecture and back to real life, giving answers to the most important questions at each of these stops along the w...
+* :calendar: **published on**: 2018-02-19
+* **tags**: [docker](../tagged/docker.md), [kubernetes](../tagged/kubernetes.md), [architecture](../tagged/architecture.md)
+---
 #### [Kubernetes Community Overview and Contributions Guide](https://docs.google.com/presentation/d/1JqcALpsg07eH665ZXQrIvOcin6SzzsIUjMRRVivrZMg/edit?usp=sharing)
 _<sup>https://docs.google.com/presentation/d/1JqcALpsg07eH665ZXQrIvOcin6SzzsIUjMRRVivrZMg/edit?usp=sharing</sup>_
 

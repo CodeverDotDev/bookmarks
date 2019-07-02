@@ -2,6 +2,45 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/mocking](https://www.bookmarks.dev/tagged/mocking)</sup></sup>_
 ---
+#### [RequestBin](https://requestbin.com/)
+_<sup>https://requestbin.com/</sup>_
+
+Inspect and debug webhook requests sent by your clients or third-party APIs.
+* **tags**: [rest](../tagged/rest.md), [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
+---
+#### [httpbin](http://httpbin.org)
+_<sup>http://httpbin.org</sup>_
+
+HTTP request and response service - a/k/a Swiss Army Knife for HTTP.
+* **tags**: [rest](../tagged/rest.md), [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
+---
+#### [FakeRest](https://github.com/marmelab/FakeRest)
+_<sup>https://github.com/marmelab/FakeRest</sup>_
+
+Patch XMLHttpRequest to fake a REST API client-side.
+* **tags**: [rest](../tagged/rest.md), [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
+* :octocat: **[source code](https://github.com/marmelab/FakeRest)**
+---
+#### [Mocky.io](http://www.mocky.io/)
+_<sup>http://www.mocky.io/</sup>_
+
+Free online service to create fake HTTP responses.
+* **tags**: [rest](../tagged/rest.md), [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
+---
+#### [Swagger API Mock](https://github.com/bulkismaslom/swagger-api-mock)
+_<sup>https://github.com/bulkismaslom/swagger-api-mock</sup>_
+
+Mock RESTful API based on swagger schema
+* **tags**: [rest](../tagged/rest.md), [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
+* :octocat: **[source code](https://github.com/bulkismaslom/swagger-api-mock)**
+---
+#### [Request Baskets](https://github.com/darklynx/request-baskets)
+_<sup>https://github.com/darklynx/request-baskets</sup>_
+
+Service to collect HTTP requests and inspect them via RESTful API or web UI.
+* **tags**: [rest](../tagged/rest.md), [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
+* :octocat: **[source code](https://github.com/darklynx/request-baskets)**
+---
 #### [counterfeiter](https://github.com/maxbrunsfeld/counterfeiter)
 _<sup>https://github.com/maxbrunsfeld/counterfeiter</sup>_
 

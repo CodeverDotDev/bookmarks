@@ -2,6 +2,75 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/python](https://www.bookmarks.dev/tagged/python)</sup></sup>_
 ---
+#### [flask-restful](http://flask-restful.readthedocs.org/)
+_<sup>http://flask-restful.readthedocs.org/</sup>_
+
+Extension for Flask that adds support for quickly building REST APIs.
+* **tags**: [rest](../tagged/rest.md), [python](../tagged/python.md)
+---
+#### [flask-restless](https://flask-restless.readthedocs.org/en/latest/)
+_<sup>https://flask-restless.readthedocs.org/en/latest/</sup>_
+
+Flask extension for generating ReSTful APIs for database models defined with SQLAlchemy (or Flask-SQLAlchemy).
+* **tags**: [rest](../tagged/rest.md), [python](../tagged/python.md)
+---
+#### [hug](http://www.hug.rest/)
+_<sup>http://www.hug.rest/</sup>_
+
+Lightweight and fast API Framework.
+* **tags**: [rest](../tagged/rest.md), [python](../tagged/python.md)
+---
+#### [restless](http://restless.readthedocs.org/en/latest/)
+_<sup>http://restless.readthedocs.org/en/latest/</sup>_
+
+Framework agnostic REST framework based on lessons learned from TastyPie.
+* **tags**: [rest](../tagged/rest.md), [python](../tagged/python.md)
+---
+#### [savory-pie](https://github.com/RueLaLa/savory-pie/)
+_<sup>https://github.com/RueLaLa/savory-pie/</sup>_
+
+REST API building library (django, and others).
+* **tags**: [rest](../tagged/rest.md), [python](../tagged/python.md)
+* :octocat: **[source code](https://github.com/RueLaLa/savory-pie/)**
+---
+#### [Python Eve](http://python-eve.org/)
+_<sup>http://python-eve.org/</sup>_
+
+Eve is an open source Python REST API framework designed for human beings. It allows to effortlessly build and deploy highly customizable, fully featured RESTful Web Services.
+* **tags**: [rest](../tagged/rest.md), [python](../tagged/python.md)
+---
+#### [Ramses](https://ramses.readthedocs.org/en/stable/)
+_<sup>https://ramses.readthedocs.org/en/stable/</sup>_
+
+Makes RAML files executable by generating production-ready APIs from them at runtime.
+* **tags**: [rest](../tagged/rest.md), [python](../tagged/python.md)
+---
+#### [Flask-Potion](https://github.com/biosustain/potion)
+_<sup>https://github.com/biosustain/potion</sup>_
+
+Flask-Potion is a powerful Flask extension for building RESTful JSON APIs. It also provides several Clients for easier access to the API.
+* **tags**: [rest](../tagged/rest.md), [python](../tagged/python.md)
+* :octocat: **[source code](https://github.com/biosustain/potion)**
+---
+#### [Falcon](https://github.com/falconry/falcon)
+_<sup>https://github.com/falconry/falcon</sup>_
+
+Falcon is a bare-metal Python web API framework for building high-performance microservices, app backends, and higher-level frameworks.
+* **tags**: [rest](../tagged/rest.md), [python](../tagged/python.md)
+* :octocat: **[source code](https://github.com/falconry/falcon)**
+---
+#### [python - BeautifulSoup: extract text from anchor tag - Stack Overflow](https://stackoverflow.com/questions/11716380/beautifulsoup-extract-text-from-anchor-tag)
+_<sup>https://stackoverflow.com/questions/11716380/beautifulsoup-extract-text-from-anchor-tag</sup>_
+
+* **tags**: [python](../tagged/python.md)
+---
+#### [Iterations of Evolution:  The Unauthorized Biography of the For-Loop - YouTube](https://www.youtube.com/watch?v=2AXuhgid7E4)
+_<sup>https://www.youtube.com/watch?v=2AXuhgid7E4</sup>_
+
+Keynote talk from PyCon Pakistan. December 16, 2017.  Remote presentation from Chicago.  I discuss the early evolution of the for-loop, the iteration protocol, and developments leading to generator fu...
+* :calendar: **published on**: 2017-12-16
+* **tags**: [python](../tagged/python.md)
+---
 #### [ajenti](https://github.com/ajenti/ajenti)
 _<sup>https://github.com/ajenti/ajenti</sup>_
 

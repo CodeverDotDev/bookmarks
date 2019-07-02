@@ -2,6 +2,41 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/api-gateway](https://www.bookmarks.dev/tagged/api-gateway)</sup></sup>_
 ---
+#### [Kong](https://github.com/Kong/kong)
+_<sup>https://github.com/Kong/kong</sup>_
+
+Scalable, distributed, and plugin oriented API gateway backed by Nginx.
+* **tags**: [rest](../tagged/rest.md), [api-gateway](../tagged/api-gateway.md)
+* :octocat: **[source code](https://github.com/Kong/kong)**
+---
+#### [Tyk API Gateway](https://github.com/TykTechnologies/tyk)
+_<sup>https://github.com/TykTechnologies/tyk</sup>_
+
+Lightweight API gateway with analytics logging, written in Go.
+* **tags**: [rest](../tagged/rest.md), [api-gateway](../tagged/api-gateway.md)
+* :octocat: **[source code](https://github.com/TykTechnologies/tyk)**
+---
+#### [API Umbrella](https://github.com/NREL/api-umbrella)
+_<sup>https://github.com/NREL/api-umbrella</sup>_
+
+API management platform for exposing web services, with web interface and analytics, written in Lua.
+* **tags**: [rest](../tagged/rest.md), [api-gateway](../tagged/api-gateway.md)
+* :octocat: **[source code](https://github.com/NREL/api-umbrella)**
+---
+#### [WSO2 API Management](https://github.com/wso2/product-apim)
+_<sup>https://github.com/wso2/product-apim</sup>_
+
+API management tool with lightweight gateway and API lifecycle manangement, written in Java.
+* **tags**: [rest](../tagged/rest.md), [api-gateway](../tagged/api-gateway.md)
+* :octocat: **[source code](https://github.com/wso2/product-apim)**
+---
+#### [Express Gateway](https://github.com/ExpressGateway/express-gateway)
+_<sup>https://github.com/ExpressGateway/express-gateway</sup>_
+
+Microservices API Gateway built on top of ExpressJS (Node.js).
+* **tags**: [rest](../tagged/rest.md), [api-gateway](../tagged/api-gateway.md)
+* :octocat: **[source code](https://github.com/ExpressGateway/express-gateway)**
+---
 #### [GitHub - Netflix/zuul home page](https://github.com/Netflix/zuul)
 _<sup>https://github.com/Netflix/zuul</sup>_
 
