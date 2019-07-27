@@ -2,6 +2,83 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/implementation](https://www.bookmarks.dev/tagged/implementation)</sup></sup>_
 ---
+#### [Flux Comparision](https://github.com/voronianski/flux-comparison)
+_<sup>https://github.com/voronianski/flux-comparison</sup>_
+
+:pencil: Practical comparison of different Flux solutions - voronianski/flux-comparison
+* **tags**: [reactjs](../tagged/reactjs.md), [flux](../tagged/flux.md), [implementation](../tagged/implementation.md)
+* :octocat: **[source code](https://github.com/voronianski/flux-comparison)**
+---
+#### [RefluxJS](https://github.com/spoike/refluxjs)
+_<sup>https://github.com/spoike/refluxjs</sup>_
+
+A simple library for uni-directional dataflow application architecture with React extensions inspired by Flux - reflux/refluxjs
+* **tags**: [reactjs](../tagged/reactjs.md), [flux](../tagged/flux.md), [implementation](../tagged/implementation.md)
+* :octocat: **[source code](https://github.com/spoike/refluxjs)**
+---
+#### [Fluxxor](https://github.com/BinaryMuse/fluxxor)
+_<sup>https://github.com/BinaryMuse/fluxxor</sup>_
+
+:hammer_and_wrench: Flux architecture tools for React - BinaryMuse/fluxxor
+* **tags**: [reactjs](../tagged/reactjs.md), [flux](../tagged/flux.md), [implementation](../tagged/implementation.md)
+* :octocat: **[source code](https://github.com/BinaryMuse/fluxxor)**
+---
+#### [Marty](https://github.com/martyjs/marty)
+_<sup>https://github.com/martyjs/marty</sup>_
+
+A Javascript library for state management in React applications - martyjs/marty
+* **tags**: [reactjs](../tagged/reactjs.md), [flux](../tagged/flux.md), [implementation](../tagged/implementation.md)
+* :octocat: **[source code](https://github.com/martyjs/marty)**
+---
+#### [McFly](https://github.com/kenwheeler/mcfly)
+_<sup>https://github.com/kenwheeler/mcfly</sup>_
+
+Flux architecture made easy. Contribute to kenwheeler/mcfly development by creating an account on GitHub.
+* **tags**: [reactjs](../tagged/reactjs.md), [flux](../tagged/flux.md), [implementation](../tagged/implementation.md)
+* :octocat: **[source code](https://github.com/kenwheeler/mcfly)**
+---
+#### [Alt](https://github.com/goatslacker/alt)
+_<sup>https://github.com/goatslacker/alt</sup>_
+
+Isomorphic flux implementation. Contribute to goatslacker/alt development by creating an account on GitHub.
+* **tags**: [reactjs](../tagged/reactjs.md), [flux](../tagged/flux.md), [implementation](../tagged/implementation.md)
+* :octocat: **[source code](https://github.com/goatslacker/alt)**
+---
+#### [Fluxible](https://github.com/yahoo/fluxible)
+_<sup>https://github.com/yahoo/fluxible</sup>_
+
+A pluggable container for universal flux applications. - yahoo/fluxible
+* **tags**: [reactjs](../tagged/reactjs.md), [flux](../tagged/flux.md), [implementation](../tagged/implementation.md)
+* :octocat: **[source code](https://github.com/yahoo/fluxible)**
+---
+#### [NuclearJS](https://github.com/optimizely/nuclear-js)
+_<sup>https://github.com/optimizely/nuclear-js</sup>_
+
+Reactive Flux built with ImmutableJS data structures. Framework agnostic. - optimizely/nuclear-js
+* **tags**: [reactjs](../tagged/reactjs.md), [flux](../tagged/flux.md), [implementation](../tagged/implementation.md)
+* :octocat: **[source code](https://github.com/optimizely/nuclear-js)**
+---
+#### [Flummox](https://github.com/acdlite/flummox)
+_<sup>https://github.com/acdlite/flummox</sup>_
+
+Minimal, isomorphic Flux. Contribute to acdlite/flummox development by creating an account on GitHub.
+* **tags**: [reactjs](../tagged/reactjs.md), [flux](../tagged/flux.md), [implementation](../tagged/implementation.md)
+* :octocat: **[source code](https://github.com/acdlite/flummox)**
+---
+#### [Coflux](https://github.com/blainekasten/coflux)
+_<sup>https://github.com/blainekasten/coflux</sup>_
+
+Flux at the Component Level. Contribute to blainekasten/coflux development by creating an account on GitHub.
+* **tags**: [reactjs](../tagged/reactjs.md), [flux](../tagged/flux.md), [implementation](../tagged/implementation.md)
+* :octocat: **[source code](https://github.com/blainekasten/coflux)**
+---
+#### [Sinux](https://github.com/jbpin/sinux)
+_<sup>https://github.com/jbpin/sinux</sup>_
+
+Javascript state container based on Signal/Command. Full async supported - jbpin/sinux
+* **tags**: [reactjs](../tagged/reactjs.md), [flux](../tagged/flux.md), [implementation](../tagged/implementation.md)
+* :octocat: **[source code](https://github.com/jbpin/sinux)**
+---
 #### [JRuby](https://github.com/jruby/jruby)
 _<sup>https://github.com/jruby/jruby</sup>_
 

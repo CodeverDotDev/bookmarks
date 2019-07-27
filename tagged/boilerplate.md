@@ -2,6 +2,34 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/boilerplate](https://www.bookmarks.dev/tagged/boilerplate)</sup></sup>_
 ---
+#### [Create React Native App - Create a React Native app on any OS with no build config, with or without Expo](https://github.com/react-community/create-react-native-app)
+_<sup>https://github.com/react-community/create-react-native-app</sup>_
+
+Create a React Native app on any OS with no build config. - react-community/create-react-native-app
+* **tags**: [reactjs](../tagged/reactjs.md), [react-native](../tagged/react-native.md), [boilerplate](../tagged/boilerplate.md)
+* :octocat: **[source code](https://github.com/react-community/create-react-native-app)**
+---
+#### [Snowflake - React Native iOS & Android with Redux, Parse.com, Jest (88% coverage)](https://github.com/bartonhammond/snowflake)
+_<sup>https://github.com/bartonhammond/snowflake</sup>_
+
+:snowflake: A React-Native Android iOS Starter App/ BoilerPlate / Example with Redux, RN Router,  & Jest with the Snowflake Hapi Server running locally or on RedHat OpenShift for the backend, or a Par...
+* **tags**: [reactjs](../tagged/reactjs.md), [react-native](../tagged/react-native.md), [boilerplate](../tagged/boilerplate.md)
+* :octocat: **[source code](https://github.com/bartonhammond/snowflake)**
+---
+#### [Ignite - The hottest CLI for React Native, boilerplates, plugins, generators, and more!](https://github.com/infinitered/ignite)
+_<sup>https://github.com/infinitered/ignite</sup>_
+
+The hottest CLI for React Native, boilerplates, plugins, generators, and more! - infinitered/ignite
+* **tags**: [reactjs](../tagged/reactjs.md), [react-native](../tagged/react-native.md), [boilerplate](../tagged/boilerplate.md)
+* :octocat: **[source code](https://github.com/infinitered/ignite)**
+---
+#### [React Native Starter Kit - A powerful starter project that bootstraps development of your mobile application](https://github.com/flatlogic/react-native-starter)
+_<sup>https://github.com/flatlogic/react-native-starter</sup>_
+
+🚀A powerful react native starter template that bootstraps development of your mobile application  - flatlogic/react-native-starter
+* **tags**: [reactjs](../tagged/reactjs.md), [react-native](../tagged/react-native.md), [boilerplate](../tagged/boilerplate.md)
+* :octocat: **[source code](https://github.com/flatlogic/react-native-starter)**
+---
 #### [React.js Boilerplate](https://www.reactboilerplate.com/)
 _<sup>https://www.reactboilerplate.com/</sup>_
 

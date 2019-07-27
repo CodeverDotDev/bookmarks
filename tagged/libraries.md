@@ -2,6 +2,338 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/libraries](https://www.bookmarks.dev/tagged/libraries)</sup></sup>_
 ---
+#### [material-ui](https://github.com/mui-org/material-ui)
+_<sup>https://github.com/mui-org/material-ui</sup>_
+
+React components for faster and easier web development
+* **tags**: [reactjs](../tagged/reactjs.md), [react-component](../tagged/react-component.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/mui-org/material-ui)**
+---
+#### [ant-design](https://github.com/ant-design/ant-design)
+_<sup>https://github.com/ant-design/ant-design</sup>_
+
+A design system with values of Nature and Determinacy
+* **tags**: [reactjs](../tagged/reactjs.md), [react-component](../tagged/react-component.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/ant-design/ant-design)**
+---
+#### [blueprint](https://github.com/palantir/blueprint)
+_<sup>https://github.com/palantir/blueprint</sup>_
+
+A React-based UI toolkit for the webs
+* **tags**: [reactjs](../tagged/reactjs.md), [react-component](../tagged/react-component.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/palantir/blueprint)**
+---
+#### [office-ui-fabric-react](https://github.com/OfficeDev/office-ui-fabric-react)
+_<sup>https://github.com/OfficeDev/office-ui-fabric-react</sup>_
+
+React components for building Microsoft web experiences
+* **tags**: [reactjs](../tagged/reactjs.md), [react-component](../tagged/react-component.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/OfficeDev/office-ui-fabric-react)**
+---
+#### [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap)
+_<sup>https://github.com/react-bootstrap/react-bootstrap</sup>_
+
+Bootstrap components built with React
+* **tags**: [reactjs](../tagged/reactjs.md), [react-component](../tagged/react-component.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/react-bootstrap/react-bootstrap)**
+---
+#### [reactstrap](https://github.com/reactstrap/reactstrap)
+_<sup>https://github.com/reactstrap/reactstrap</sup>_
+
+Simple React Bootstrap 4 components
+* **tags**: [reactjs](../tagged/reactjs.md), [react-component](../tagged/react-component.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/reactstrap/reactstrap)**
+---
+#### [semantic-ui-react](https://github.com/Semantic-Org/Semantic-UI-React)
+_<sup>https://github.com/Semantic-Org/Semantic-UI-React</sup>_
+
+The official Semantic-UI-React integration
+* **tags**: [reactjs](../tagged/reactjs.md), [react-component](../tagged/react-component.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/Semantic-Org/Semantic-UI-React)**
+---
+#### [react-border-wrapper - A wrapper for placing elements along div borders in React.](https://github.com/Metroxe/react-border-wrapper)
+_<sup>https://github.com/Metroxe/react-border-wrapper</sup>_
+
+A wrapper for placing elements along div borders. Contribute to Metroxe/react-border-wrapper development by creating an account on GitHub.
+* **tags**: [reactjs](../tagged/reactjs.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/Metroxe/react-border-wrapper)**
+---
+#### [react-magic - Automatically AJAXify plain HTML with the power of React](https://github.com/reactjs/react-magic)
+_<sup>https://github.com/reactjs/react-magic</sup>_
+
+Automatically AJAXify plain HTML with the power of React. It's magic! - reactjs/react-magic
+* **tags**: [reactjs](../tagged/reactjs.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/reactjs/react-magic)**
+---
+#### [react-toolbox - A set of React components implementing Google's Material Design specification](https://github.com/react-toolbox/react-toolbox)
+_<sup>https://github.com/react-toolbox/react-toolbox</sup>_
+
+A set of React components implementing Google's Material Design specification with the power of CSS Modules - react-toolbox/react-toolbox
+* **tags**: [reactjs](../tagged/reactjs.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/react-toolbox/react-toolbox)**
+---
+#### [tcomb-react - Library allowing you to check all the props of your React components](https://github.com/gcanti/tcomb-react)
+_<sup>https://github.com/gcanti/tcomb-react</sup>_
+
+Alternative syntax for PropTypes. Contribute to gcanti/tcomb-react development by creating an account on GitHub.
+* **tags**: [reactjs](../tagged/reactjs.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/gcanti/tcomb-react)**
+---
+#### [react-responsive - Media queries in react for responsive design](https://github.com/wearefractal/react-responsive)
+_<sup>https://github.com/wearefractal/react-responsive</sup>_
+
+CSS media queries in react - for responsive design, and more. - contra/react-responsive
+* **tags**: [reactjs](../tagged/reactjs.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/wearefractal/react-responsive)**
+---
+#### [react-is-responsive - A utility to create responsive components in React](https://github.com/sonaye/react-is-responsive)
+_<sup>https://github.com/sonaye/react-is-responsive</sup>_
+
+A utility to create responsive components in React. - sonaye/react-is-responsive
+* **tags**: [reactjs](../tagged/reactjs.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/sonaye/react-is-responsive)**
+---
+#### [react-cursor - Functional state management abstraction for use with Facebook React](https://github.com/dustingetz/react-cursor)
+_<sup>https://github.com/dustingetz/react-cursor</sup>_
+
+Immutable state for React.js. Contribute to dustingetz/react-cursor development by creating an account on GitHub.
+* **tags**: [reactjs](../tagged/reactjs.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/dustingetz/react-cursor)**
+---
+#### [Omniscient.js - Abstracting React components for fast top down render of immutable data](https://github.com/omniscientjs/omniscient)
+_<sup>https://github.com/omniscientjs/omniscient</sup>_
+
+A library providing an abstraction for React components that allows for fast top-down rendering embracing immutable data for js - omniscientjs/omniscient
+* **tags**: [reactjs](../tagged/reactjs.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/omniscientjs/omniscient)**
+---
+#### [Touchstonejs - React.js powered UI framework for developing beautiful hybrid mobile apps.](https://github.com/touchstonejs/touchstonejs)
+_<sup>https://github.com/touchstonejs/touchstonejs</sup>_
+
+Mobile App Framework powered by React. Contribute to touchstonejs/touchstonejs development by creating an account on GitHub.
+* **tags**: [reactjs](../tagged/reactjs.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/touchstonejs/touchstonejs)**
+---
+#### [Elemental - A UI Toolkit for React.js Websites and Apps](http://elemental-ui.com/)
+_<sup>http://elemental-ui.com/</sup>_
+
+A flexible and beautiful UI framework for React.js
+* **tags**: [reactjs](../tagged/reactjs.md), [libraries](../tagged/libraries.md)
+---
+#### [StateTrooper - Centrally manage state for React applications with CSP](https://github.com/swipely/state-trooper)
+_<sup>https://github.com/swipely/state-trooper</sup>_
+
+Centrally manage state for React applications with CSP - swipely/state-trooper
+* **tags**: [reactjs](../tagged/reactjs.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/swipely/state-trooper)**
+---
+#### [Preact: Fast 3kb React alternative with the same ES6 API.](https://git.io/preact)
+_<sup>https://git.io/preact</sup>_
+
+⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM. - preactjs/preact
+* **tags**: [reactjs](../tagged/reactjs.md), [libraries](../tagged/libraries.md)
+---
+#### [riotjs - A React- like, 3.5KB user interface library](https://github.com/muut/riotjs)
+_<sup>https://github.com/muut/riotjs</sup>_
+
+Simple and elegant component-based UI library. Contribute to riot/riot development by creating an account on GitHub.
+* **tags**: [reactjs](../tagged/reactjs.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/muut/riotjs)**
+---
+#### [Maple.js - Bringing the concept of web-components to React](https://github.com/Wildhoney/Maple.js)
+_<sup>https://github.com/Wildhoney/Maple.js</sup>_
+
+Maple.js is a React webcomponents based framework mixing ES6 with Custom Elements, HTML Imports and Shadow DOM. It has in-built support for SASS and JSX, including a Gulp task for vulcanizing your pro...
+* **tags**: [reactjs](../tagged/reactjs.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/Wildhoney/Maple.js)**
+---
+#### [react-i13n - A performant, scalable and pluggable approach to instrumenting your React application](https://github.com/yahoo/react-i13n)
+_<sup>https://github.com/yahoo/react-i13n</sup>_
+
+A performant, scalable and pluggable approach to instrumenting your React application. - yahoo/react-i13n
+* **tags**: [reactjs](../tagged/reactjs.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/yahoo/react-i13n)**
+---
+#### [react-icons - svg react icons of popular icon packs](https://github.com/gorangajic/react-icons)
+_<sup>https://github.com/gorangajic/react-icons</sup>_
+
+svg react icons of popular icon packs. Contribute to react-icons/react-icons development by creating an account on GitHub.
+* **tags**: [reactjs](../tagged/reactjs.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/gorangajic/react-icons)**
+---
+#### [AtlasKit - Atlassian's React UI library](https://atlaskit.atlassian.com/)
+_<sup>https://atlaskit.atlassian.com/</sup>_
+
+* **tags**: [reactjs](../tagged/reactjs.md), [libraries](../tagged/libraries.md)
+---
+#### [ReactiveSearch - UI components library for Elasticsearch](https://github.com/appbaseio/reactivesearch)
+_<sup>https://github.com/appbaseio/reactivesearch</sup>_
+
+React, React Native and Vue UI components for building data-driven apps with Elasticsearch - appbaseio/reactivesearch
+* **tags**: [reactjs](../tagged/reactjs.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/appbaseio/reactivesearch)**
+---
+#### [Slate - A completely customizable framework for building rich text editors.](https://github.com/ianstormtaylor/slate)
+_<sup>https://github.com/ianstormtaylor/slate</sup>_
+
+A completely customizable framework for building rich text editors. (Currently in beta.) - ianstormtaylor/slate
+* **tags**: [reactjs](../tagged/reactjs.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/ianstormtaylor/slate)**
+---
+#### [react-animated-transitions - Easy animated transitions in React](https://github.com/sonaye/react-animated-transitions)
+_<sup>https://github.com/sonaye/react-animated-transitions</sup>_
+
+Easy animated transitions in React. Contribute to sonaye/react-animated-transitions development by creating an account on GitHub.
+* **tags**: [reactjs](../tagged/reactjs.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/sonaye/react-animated-transitions)**
+---
+#### [react-json-schema - Construct React elements from JSON by mapping JSON definitions to React components that you expose.](https://github.com/TechniqueSoftware/react-json-schema)
+_<sup>https://github.com/TechniqueSoftware/react-json-schema</sup>_
+
+Configure and build views using JSON schemas mapped to React components - TechniqueSoftware/react-json-schema
+* **tags**: [reactjs](../tagged/reactjs.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/TechniqueSoftware/react-json-schema)**
+---
+#### [compose-state - Compose multiple setState or getDerivedStateFromProps updaters in React](https://github.com/tvler/compose-state)
+_<sup>https://github.com/tvler/compose-state</sup>_
+
+Compose multiple setState or getDerivedStateFromProps updaters in React - tvler/compose-state
+* **tags**: [reactjs](../tagged/reactjs.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/tvler/compose-state)**
+---
+#### [react-with-analytics - Google Analytics for React apps with ease](https://github.com/sonaye/react-with-analytics)
+_<sup>https://github.com/sonaye/react-with-analytics</sup>_
+
+Google Analytics for React apps with ease. Contribute to sonaye/react-with-analytics development by creating an account on GitHub.
+* **tags**: [reactjs](../tagged/reactjs.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/sonaye/react-with-analytics)**
+---
+#### [react-cache-me-outside - OTA data updates for React apps. How bow dat!](https://github.com/sonaye/react-cache-me-outside)
+_<sup>https://github.com/sonaye/react-cache-me-outside</sup>_
+
+OTA data updates for React apps. How bow dat! Contribute to sonaye/react-cache-me-outside development by creating an account on GitHub.
+* **tags**: [reactjs](../tagged/reactjs.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/sonaye/react-cache-me-outside)**
+---
+#### [PrimeReact - The Most Complete UI Framework for React!](https://github.com/primefaces/primereact)
+_<sup>https://github.com/primefaces/primereact</sup>_
+
+PrimeReact is a collection of rich UI components for React - primefaces/primereact
+* **tags**: [reactjs](../tagged/reactjs.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/primefaces/primereact)**
+---
+#### [react-lodash - Lodash as React components](https://github.com/typicode/react-lodash)
+_<sup>https://github.com/typicode/react-lodash</sup>_
+
+⚛️ 🔧 Lodash as React components. Contribute to typicode/react-lodash development by creating an account on GitHub.
+* **tags**: [reactjs](../tagged/reactjs.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/typicode/react-lodash)**
+---
+#### [react-helmet - A document head manager for React](https://github.com/nfl/react-helmet)
+_<sup>https://github.com/nfl/react-helmet</sup>_
+
+A document head manager for React. Contribute to nfl/react-helmet development by creating an account on GitHub.
+* **tags**: [reactjs](../tagged/reactjs.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/nfl/react-helmet)**
+---
+#### [Stator - Simple, plain JavaScript state management with built-in support for React](https://github.com/cs01/stator)
+_<sup>https://github.com/cs01/stator</sup>_
+
+Simple, plain JavaScript state management with built-in support for React - cs01/stator
+* **tags**: [reactjs](../tagged/reactjs.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/cs01/stator)**
+---
+#### [ClearX - Fast & Effortless State management for React with zero learning curve. ClearX gives great flexibiility in separation of concerns for your React applicationss](https://github.com/Autodesk/clearx)
+_<sup>https://github.com/Autodesk/clearx</sup>_
+
+Fast & Effortless global state management for React, Preact and Inferno with zero learning curve - Autodesk/clearx
+* **tags**: [reactjs](../tagged/reactjs.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/Autodesk/clearx)**
+---
+#### [react-snap](https://github.com/stereobooster/react-snap)
+_<sup>https://github.com/stereobooster/react-snap</sup>_
+
+Zero-configuration framework-agnostic static prerendering for SPAs
+* **tags**: [reactjs](../tagged/reactjs.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/stereobooster/react-snap)**
+---
+#### [refract](https://github.com/fanduel-oss/refract)
+_<sup>https://github.com/fanduel-oss/refract</sup>_
+
+Harness the power of reactive programming to supercharge your components
+* **tags**: [reactjs](../tagged/reactjs.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/fanduel-oss/refract)**
+---
+#### [react-desktop - OS X and Windows UI components built with React](https://github.com/gabrielbull/react-desktop)
+_<sup>https://github.com/gabrielbull/react-desktop</sup>_
+
+React UI Components for macOS High Sierra and Windows 10 - gabrielbull/react-desktop
+* **tags**: [reactjs](../tagged/reactjs.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/gabrielbull/react-desktop)**
+---
+#### [Reapop - A React & Redux notifications system](https://github.com/LouisBarranqueiro/reapop)
+_<sup>https://github.com/LouisBarranqueiro/reapop</sup>_
+
+:postbox: A React & Redux notifications system. Contribute to LouisBarranqueiro/reapop development by creating an account on GitHub.
+* **tags**: [reactjs](../tagged/reactjs.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/LouisBarranqueiro/reapop)**
+---
+#### [react-extras](https://github.com/sindresorhus/react-extras)
+_<sup>https://github.com/sindresorhus/react-extras</sup>_
+
+Useful components and utilities for working with React
+* **tags**: [reactjs](../tagged/reactjs.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/sindresorhus/react-extras)**
+---
+#### [react-instantsearch](https://github.com/algolia/react-instantsearch)
+_<sup>https://github.com/algolia/react-instantsearch</sup>_
+
+Lightning-fast search for React and React Native applications, by Algolia
+* **tags**: [reactjs](../tagged/reactjs.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/algolia/react-instantsearch)**
+---
+#### [uppy](https://github.com/transloadit/uppy)
+_<sup>https://github.com/transloadit/uppy</sup>_
+
+The next open source file uploader for web browsers
+* **tags**: [reactjs](../tagged/reactjs.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/transloadit/uppy)**
+---
+#### [react-motion](https://github.com/chenglou/react-motion)
+_<sup>https://github.com/chenglou/react-motion</sup>_
+
+A spring that solves your animation problems
+* **tags**: [reactjs](../tagged/reactjs.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/chenglou/react-motion)**
+---
+#### [react-esi](https://github.com/dunglas/react-esi)
+_<sup>https://github.com/dunglas/react-esi</sup>_
+
+React Edge Side Includes
+* **tags**: [reactjs](../tagged/reactjs.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/dunglas/react-esi)**
+---
+#### [NestedTypes - fast mutable models with "pure render" support](https://github.com/Volicon/NestedTypes)
+_<sup>https://github.com/Volicon/NestedTypes</sup>_
+
+BackboneJS compatibility layer for Type-R data framework. - VoliJS/NestedTypes
+* **tags**: [reactjs](../tagged/reactjs.md), [model](../tagged/model.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/Volicon/NestedTypes)**
+---
+#### [swarm - JavaScript replicated model (M of MVC) library](https://github.com/gritzko/swarm)
+_<sup>https://github.com/gritzko/swarm</sup>_
+
+JavaScript replicated model (M of MVC) library. Contribute to gritzko/swarm development by creating an account on GitHub.
+* **tags**: [reactjs](../tagged/reactjs.md), [model](../tagged/model.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/gritzko/swarm)**
+---
+#### [caplet - JavaScript models library](https://github.com/mojo-js/caplet.js)
+_<sup>https://github.com/mojo-js/caplet.js</sup>_
+
+Universal models library. Contribute to crcn/caplet.js development by creating an account on GitHub.
+* **tags**: [reactjs](../tagged/reactjs.md), [model](../tagged/model.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/mojo-js/caplet.js)**
+---
 #### [Martin1887/oxigen](https://github.com/Martin1887/oxigen)
 _<sup>https://github.com/Martin1887/oxigen</sup>_
 

@@ -2,6 +2,52 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/charts](https://www.bookmarks.dev/tagged/charts)</sup></sup>_
 ---
+#### [DevExtreme React Chart - High-performance plugin-based React chart for Bootstrap and Material Design](https://devexpress.github.io/devextreme-reactive/react/chart/)
+_<sup>https://devexpress.github.io/devextreme-reactive/react/chart/</sup>_
+
+* **tags**: [reactjs](../tagged/reactjs.md), [charts](../tagged/charts.md)
+---
+#### [react-chartjs - Common react charting components using chart.js](https://github.com/jhudson8/react-chartjs)
+_<sup>https://github.com/jhudson8/react-chartjs</sup>_
+
+common react charting components using chart.js. Contribute to reactjs/react-chartjs development by creating an account on GitHub.
+* **tags**: [reactjs](../tagged/reactjs.md), [charts](../tagged/charts.md)
+* :octocat: **[source code](https://github.com/jhudson8/react-chartjs)**
+---
+#### [react-stockcharts - Highly customizable stock charts with ReactJS and d3](https://github.com/rrag/react-stockcharts)
+_<sup>https://github.com/rrag/react-stockcharts</sup>_
+
+Highly customizable stock charts with ReactJS and d3 - rrag/react-stockcharts
+* **tags**: [reactjs](../tagged/reactjs.md), [charts](../tagged/charts.md)
+* :octocat: **[source code](https://github.com/rrag/react-stockcharts)**
+---
+#### [Number Picture - Low-level building blocks for constructing animated visualizations with React & D3.](http://numberpicture.com/build)
+_<sup>http://numberpicture.com/build</sup>_
+
+React components for building visualizations
+* **tags**: [reactjs](../tagged/reactjs.md), [charts](../tagged/charts.md)
+---
+#### [VictoryJS - A collection of composable React components for building interactive data visualizations](https://github.com/FormidableLabs/victory)
+_<sup>https://github.com/FormidableLabs/victory</sup>_
+
+A collection of composable React components for building interactive data visualizations - FormidableLabs/victory
+* **tags**: [reactjs](../tagged/reactjs.md), [charts](../tagged/charts.md)
+* :octocat: **[source code](https://github.com/FormidableLabs/victory)**
+---
+#### [React-ApexCharts - React component for ApexCharts (An Interactive SVG Chart Library)](https://github.com/apexcharts/react-apexcharts)
+_<sup>https://github.com/apexcharts/react-apexcharts</sup>_
+
+📊 React Component for ApexCharts. Contribute to apexcharts/react-apexcharts development by creating an account on GitHub.
+* **tags**: [reactjs](../tagged/reactjs.md), [charts](../tagged/charts.md)
+* :octocat: **[source code](https://github.com/apexcharts/react-apexcharts)**
+---
+#### [reaviz](https://github.com/jask-oss/reaviz)
+_<sup>https://github.com/jask-oss/reaviz</sup>_
+
+React Data Visualization Library based on D3.js
+* **tags**: [reactjs](../tagged/reactjs.md), [charts](../tagged/charts.md)
+* :octocat: **[source code](https://github.com/jask-oss/reaviz)**
+---
 #### [awesome-charting](https://github.com/zingchart/awesome-charting#readme)
 _<sup>https://github.com/zingchart/awesome-charting#readme</sup>_
 

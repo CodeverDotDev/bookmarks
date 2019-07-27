@@ -2,6 +2,97 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/dev-tools](https://www.bookmarks.dev/tagged/dev-tools)</sup></sup>_
 ---
+#### [create-react-app](https://github.com/facebook/create-react-app)
+_<sup>https://github.com/facebook/create-react-app</sup>_
+
+Set up a modern Web app by running one command
+* **tags**: [reactjs](../tagged/reactjs.md), [dev-tools](../tagged/dev-tools.md)
+* :octocat: **[source code](https://github.com/facebook/create-react-app)**
+---
+#### [react-devtools](https://github.com/facebook/react-devtools)
+_<sup>https://github.com/facebook/react-devtools</sup>_
+
+Inspection of React component hierarchy in the Chrome and Firefox Developer Tools
+* **tags**: [reactjs](../tagged/reactjs.md), [dev-tools](../tagged/dev-tools.md)
+* :octocat: **[source code](https://github.com/facebook/react-devtools)**
+---
+#### [react-hot-loader](https://github.com/gaearon/react-hot-loader)
+_<sup>https://github.com/gaearon/react-hot-loader</sup>_
+
+Tweak React components in real time
+* **tags**: [reactjs](../tagged/reactjs.md), [dev-tools](../tagged/dev-tools.md)
+* :octocat: **[source code](https://github.com/gaearon/react-hot-loader)**
+---
+#### [react-loadable](https://github.com/jamiebuilds/react-loadable)
+_<sup>https://github.com/jamiebuilds/react-loadable</sup>_
+
+A higher order component for loading components with promises
+* **tags**: [reactjs](../tagged/reactjs.md), [dev-tools](../tagged/dev-tools.md)
+* :octocat: **[source code](https://github.com/jamiebuilds/react-loadable)**
+---
+#### [loadable-components](https://github.com/smooth-code/loadable-components)
+_<sup>https://github.com/smooth-code/loadable-components</sup>_
+
+React code splitting made easy
+* **tags**: [reactjs](../tagged/reactjs.md), [dev-tools](../tagged/dev-tools.md)
+* :octocat: **[source code](https://github.com/smooth-code/loadable-components)**
+---
+#### [reactotron](https://github.com/skellock/reactotron)
+_<sup>https://github.com/skellock/reactotron</sup>_
+
+A desktop app for inspecting your React and React Native projects
+* **tags**: [reactjs](../tagged/reactjs.md), [dev-tools](../tagged/dev-tools.md)
+* :octocat: **[source code](https://github.com/skellock/reactotron)**
+---
+#### [storybook](https://github.com/storybookjs/storybook)
+_<sup>https://github.com/storybookjs/storybook</sup>_
+
+UI component dev & test
+* **tags**: [reactjs](../tagged/reactjs.md), [dev-tools](../tagged/dev-tools.md)
+* :octocat: **[source code](https://github.com/storybookjs/storybook)**
+---
+#### [react-styleguidist](https://github.com/styleguidist/react-styleguidist)
+_<sup>https://github.com/styleguidist/react-styleguidist</sup>_
+
+Isolated React component development environment with a living style guide
+* **tags**: [reactjs](../tagged/reactjs.md), [dev-tools](../tagged/dev-tools.md)
+* :octocat: **[source code](https://github.com/styleguidist/react-styleguidist)**
+---
+#### [react-cosmos](https://github.com/react-cosmos/react-cosmos)
+_<sup>https://github.com/react-cosmos/react-cosmos</sup>_
+
+Dev tool for creating reusable React components
+* **tags**: [reactjs](../tagged/reactjs.md), [dev-tools](../tagged/dev-tools.md)
+* :octocat: **[source code](https://github.com/react-cosmos/react-cosmos)**
+---
+#### [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react)
+_<sup>https://github.com/yannickcr/eslint-plugin-react</sup>_
+
+React specific linting rules for ESLint
+* **tags**: [reactjs](../tagged/reactjs.md), [dev-tools](../tagged/dev-tools.md)
+* :octocat: **[source code](https://github.com/yannickcr/eslint-plugin-react)**
+---
+#### [eslint-plugin-jsx-a11y](https://github.com/evcohen/eslint-plugin-jsx-a11y)
+_<sup>https://github.com/evcohen/eslint-plugin-jsx-a11y</sup>_
+
+Static AST checker for a11y rules on JSX elements
+* **tags**: [reactjs](../tagged/reactjs.md), [dev-tools](../tagged/dev-tools.md)
+* :octocat: **[source code](https://github.com/evcohen/eslint-plugin-jsx-a11y)**
+---
+#### [react-axe](https://github.com/dequelabs/react-axe)
+_<sup>https://github.com/dequelabs/react-axe</sup>_
+
+Accessibility auditing for React applications
+* **tags**: [reactjs](../tagged/reactjs.md), [dev-tools](../tagged/dev-tools.md)
+* :octocat: **[source code](https://github.com/dequelabs/react-axe)**
+---
+#### [react-native-code-push](https://github.com/microsoft/react-native-code-push)
+_<sup>https://github.com/microsoft/react-native-code-push</sup>_
+
+React Native module for CodePush
+* **tags**: [reactjs](../tagged/reactjs.md), [react-native](../tagged/react-native.md), [dev-tools](../tagged/dev-tools.md)
+* :octocat: **[source code](https://github.com/microsoft/react-native-code-push)**
+---
 #### [ioncodes/snesutilities](https://github.com/ioncodes/snesutilities)
 _<sup>https://github.com/ioncodes/snesutilities</sup>_
 

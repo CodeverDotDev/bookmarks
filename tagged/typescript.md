@@ -2,6 +2,16 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/typescript](https://www.bookmarks.dev/tagged/typescript)</sup></sup>_
 ---
+#### [TypeScript, React and Webpack](https://www.typescriptlang.org/docs/handbook/react-&-webpack.html)
+_<sup>https://www.typescriptlang.org/docs/handbook/react-&-webpack.html</sup>_
+
+* **tags**: [reactjs](../tagged/reactjs.md), [typescript](../tagged/typescript.md)
+---
+#### [JSX in TypeScript](https://www.typescriptlang.org/docs/handbook/jsx.html)
+_<sup>https://www.typescriptlang.org/docs/handbook/jsx.html</sup>_
+
+* **tags**: [reactjs](../tagged/reactjs.md), [typescript](../tagged/typescript.md)
+---
 #### [NestJS - A progressive Node.js web framework](https://nestjs.com/)
 _<sup>https://nestjs.com/</sup>_
 

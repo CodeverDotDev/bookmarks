@@ -2,6 +2,98 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/graphql](https://www.bookmarks.dev/tagged/graphql)</sup></sup>_
 ---
+#### [GraphCMS - The GraphQL Headless CMS](https://graphcms.com)
+_<sup>https://graphcms.com</sup>_
+
+* **tags**: [graphql](../tagged/graphql.md), [tools](../tagged/tools.md)
+---
+#### [Mongoose schema To GraphQL](https://github.com/sarkistlt/mongoose-schema-to-graphql)
+_<sup>https://github.com/sarkistlt/mongoose-schema-to-graphql</sup>_
+
+Use Mongoose schema to generate graphQL type. Contribute to sarkistlt/mongoose-schema-to-graphql development by creating an account on GitHub.
+* **tags**: [graphql](../tagged/graphql.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/sarkistlt/mongoose-schema-to-graphql)**
+---
+#### [GraphQL bridge to REST API](https://github.com/dacz/apollo-bridge-link)
+_<sup>https://github.com/dacz/apollo-bridge-link</sup>_
+
+When you don't have GraphQL server (yet) and want to use GraphQL on the client. - dacz/apollo-bridge-link
+* **tags**: [graphql](../tagged/graphql.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/dacz/apollo-bridge-link)**
+---
+#### [GraphQL Playground - GraphQL IDE for better development workflows](https://github.com/graphcool/graphql-playground)
+_<sup>https://github.com/graphcool/graphql-playground</sup>_
+
+🎮  GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration) - prisma/graphql-playground
+* **tags**: [graphql](../tagged/graphql.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/graphcool/graphql-playground)**
+---
+#### [GraphQL Introduction](http://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html)
+_<sup>http://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html</sup>_
+
+* **tags**: [graphql](../tagged/graphql.md), [tutorials](../tagged/tutorials.md)
+---
+#### [First Thoughts on GraphQL](http://hueypetersen.com/posts/2015/02/02/first-thoughts-on-graph-ql/)
+_<sup>http://hueypetersen.com/posts/2015/02/02/first-thoughts-on-graph-ql/</sup>_
+
+* **tags**: [graphql](../tagged/graphql.md), [tutorials](../tagged/tutorials.md)
+---
+#### [Modeling Queries in a GraphQL Like Way](http://hueypetersen.com/posts/2015/02/08/modeling-queries-graph-ql-like/)
+_<sup>http://hueypetersen.com/posts/2015/02/08/modeling-queries-graph-ql-like/</sup>_
+
+* **tags**: [graphql](../tagged/graphql.md), [tutorials](../tagged/tutorials.md)
+---
+#### [Thin and Graphy](http://hueypetersen.com/posts/2015/02/22/thin-and-graphy/)
+_<sup>http://hueypetersen.com/posts/2015/02/22/thin-and-graphy/</sup>_
+
+* **tags**: [graphql](../tagged/graphql.md), [tutorials](../tagged/tutorials.md)
+---
+#### [GraphQL Tour: Variables](https://medium.com/the-graphqlhub/graphql-tour-variables-58c6abd10f56#.wj9dsgyoy)
+_<sup>https://medium.com/the-graphqlhub/graphql-tour-variables-58c6abd10f56#.wj9dsgyoy</sup>_
+
+Browsing the GraphQL specification, you might stumble into the section on variables and wonder, “Why on earth GraphQL does have variables?” In plain-English, this query says it accepts one variable…
+* **tags**: [graphql](../tagged/graphql.md), [tutorials](../tagged/tutorials.md)
+---
+#### [How to Graphql - The Fullstack Tutorial for GraphQL](https://howtographql.com/)
+_<sup>https://howtographql.com/</sup>_
+
+Fullstack GraphQL Tutorial to go from zero to production covering all basics and advanced concepts. Includes tutorials for Apollo, Relay, React and NodeJS.
+* **tags**: [graphql](../tagged/graphql.md), [tutorials](../tagged/tutorials.md)
+---
+#### [react-transmit - Relay-inspired library based on **JavaScript Promises**](https://github.com/RickWong/react-transmit)
+_<sup>https://github.com/RickWong/react-transmit</sup>_
+
+Relay-inspired library based on Promises instead of GraphQL. - RickWong/react-transmit
+* **tags**: [graphql](../tagged/graphql.md), [implementations](../tagged/implementations.md)
+* :octocat: **[source code](https://github.com/RickWong/react-transmit)**
+---
+#### [graphql-java - GraphQL **Java** implementation](https://github.com/andimarek/graphql-java)
+_<sup>https://github.com/andimarek/graphql-java</sup>_
+
+Contribute to andimarek/graphql-java development by creating an account on GitHub.
+* **tags**: [graphql](../tagged/graphql.md), [implementations](../tagged/implementations.md)
+* :octocat: **[source code](https://github.com/andimarek/graphql-java)**
+---
+#### [sangria - **Scala** GraphQL client and server library](https://github.com/OlegIlyenko/sangria)
+_<sup>https://github.com/OlegIlyenko/sangria</sup>_
+
+Scala GraphQL implementation. Contribute to sangria-graphql/sangria development by creating an account on GitHub.
+* **tags**: [graphql](../tagged/graphql.md), [implementations](../tagged/implementations.md)
+* :octocat: **[source code](https://github.com/OlegIlyenko/sangria)**
+---
+#### [graphene - GraphQL in **Python** made simple](http://graphene-python.org/)
+_<sup>http://graphene-python.org/</sup>_
+
+Graphene framework for Python
+* **tags**: [graphql](../tagged/graphql.md), [implementations](../tagged/implementations.md)
+---
+#### [graphqllib - GraphQL implementation for **Python**](https://github.com/dittos/graphqllib)
+_<sup>https://github.com/dittos/graphqllib</sup>_
+
+Please see https://github.com/graphql-python/graphql-core - dittos/graphqllib
+* **tags**: [graphql](../tagged/graphql.md), [implementations](../tagged/implementations.md)
+* :octocat: **[source code](https://github.com/dittos/graphqllib)**
+---
 #### [graphql-guard](https://github.com/exAspArk/graphql-guard)
 _<sup>https://github.com/exAspArk/graphql-guard</sup>_
 

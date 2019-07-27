@@ -2,6 +2,27 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/routing](https://www.bookmarks.dev/tagged/routing)</sup></sup>_
 ---
+#### [react-router](https://github.com/ReactTraining/react-router)
+_<sup>https://github.com/ReactTraining/react-router</sup>_
+
+Declarative routing for React
+* **tags**: [reactjs](../tagged/reactjs.md), [routing](../tagged/routing.md)
+* :octocat: **[source code](https://github.com/ReactTraining/react-router)**
+---
+#### [navi](https://github.com/frontarm/navi)
+_<sup>https://github.com/frontarm/navi</sup>_
+
+Declarative, asynchronous routing for React
+* **tags**: [reactjs](../tagged/reactjs.md), [routing](../tagged/routing.md)
+* :octocat: **[source code](https://github.com/frontarm/navi)**
+---
+#### [curi](https://github.com/pshrmn/curi)
+_<sup>https://github.com/pshrmn/curi</sup>_
+
+JavaScript router for single-page applications
+* **tags**: [reactjs](../tagged/reactjs.md), [routing](../tagged/routing.md)
+* :octocat: **[source code](https://github.com/pshrmn/curi)**
+---
 #### [director](https://github.com/flatiron/director)
 _<sup>https://github.com/flatiron/director</sup>_
 

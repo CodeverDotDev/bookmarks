@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/video](https://www.bookmarks.dev/tagged/video)</sup></sup>_
 ---
+#### [Trying React Hooks for the first time with Dan Abramov](https://www.youtube.com/watch?v=G-aO5hzo1aw)
+_<sup>https://www.youtube.com/watch?v=G-aO5hzo1aw</sup>_
+
+💛 Brilliant - Interactive courses on computer science https://brilliant.org/fff (Sponsored - use link to get 20% off annual subscription) 🔗 Dan Abramov on Tw...
+* **tags**: [reactjs](../tagged/reactjs.md), [video](../tagged/video.md), [tutorials](../tagged/tutorials.md)
+---
 #### [yuvadm/slingr](https://github.com/yuvadm/slingr)
 _<sup>https://github.com/yuvadm/slingr</sup>_
 

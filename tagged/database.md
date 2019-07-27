@@ -2,6 +2,32 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/database](https://www.bookmarks.dev/tagged/database)</sup></sup>_
 ---
+#### [Hasura](https://hasura.io/)
+_<sup>https://hasura.io/</sup>_
+
+Instant Realtime GraphQL on Postgres
+* **tags**: [reactjs](../tagged/reactjs.md), [database](../tagged/database.md), [integration](../tagged/integration.md)
+---
+#### [Prisma - a performant open-source GraphQL ORM-like \* layer doing the heavy lifting in your GraphQL server.](https://www.prisma.io/)
+_<sup>https://www.prisma.io/</sup>_
+
+Prisma replaces traditional ORMs and can be used to build GraphQL servers, REST APIs, microservices & more.
+* **tags**: [reactjs](../tagged/reactjs.md), [database](../tagged/database.md), [integration](../tagged/integration.md)
+---
+#### [graffiti - Node.js GraphQL ORM](https://github.com/RisingStack/graffiti)
+_<sup>https://github.com/RisingStack/graffiti</sup>_
+
+⚠️ DEVELOPMENT DISCONTINUED - Node.js GraphQL ORM. Contribute to RisingStack/graffiti development by creating an account on GitHub.
+* **tags**: [reactjs](../tagged/reactjs.md), [database](../tagged/database.md), [integration](../tagged/integration.md)
+* :octocat: **[source code](https://github.com/RisingStack/graffiti)**
+---
+#### [sql-to-graphql - Generate a GraphQL API based on your SQL database structure](https://github.com/vaffel/sql-to-graphql)
+_<sup>https://github.com/vaffel/sql-to-graphql</sup>_
+
+Generate a GraphQL API based on your SQL database structure - rexxars/sql-to-graphql
+* **tags**: [reactjs](../tagged/reactjs.md), [database](../tagged/database.md), [integration](../tagged/integration.md)
+* :octocat: **[source code](https://github.com/vaffel/sql-to-graphql)**
+---
 #### [PumpkinDB](https://github.com/PumpkinDB/PumpkinDB)
 _<sup>https://github.com/PumpkinDB/PumpkinDB</sup>_
 

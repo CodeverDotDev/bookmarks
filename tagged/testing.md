@@ -2,6 +2,27 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/testing](https://www.bookmarks.dev/tagged/testing)</sup></sup>_
 ---
+#### [enzyme](https://github.com/airbnb/enzyme)
+_<sup>https://github.com/airbnb/enzyme</sup>_
+
+JavaScript Testing utilities for React
+* **tags**: [reactjs](../tagged/reactjs.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/airbnb/enzyme)**
+---
+#### [react-testing-library](https://github.com/testing-library/react-testing-library)
+_<sup>https://github.com/testing-library/react-testing-library</sup>_
+
+Simple and complete React DOM testing utilities
+* **tags**: [reactjs](../tagged/reactjs.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/testing-library/react-testing-library)**
+---
+#### [react-hooks-testing-library](https://github.com/mpeyper/react-hooks-testing-library)
+_<sup>https://github.com/mpeyper/react-hooks-testing-library</sup>_
+
+React hooks testing utilities that encourage good testing practices
+* **tags**: [reactjs](../tagged/reactjs.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/mpeyper/react-hooks-testing-library)**
+---
 #### [rust-fuzz/afl.rs](https://github.com/rust-fuzz/afl.rs)
 _<sup>https://github.com/rust-fuzz/afl.rs</sup>_
 

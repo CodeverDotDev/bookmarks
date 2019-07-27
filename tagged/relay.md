@@ -2,6 +2,24 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/relay](https://www.bookmarks.dev/tagged/relay)</sup></sup>_
 ---
+#### [official Relay Getting Started](https://facebook.github.io/relay/docs/en/introduction-to-relay.html)
+_<sup>https://facebook.github.io/relay/docs/en/introduction-to-relay.html</sup>_
+
+<p>Relay is a JavaScript framework for building data-driven React applications powered by GraphQL, designed from the ground up to be easy to use, extensible and, most of all, performant. Relay accompl...
+* **tags**: [reactjs](../tagged/reactjs.md), [relay](../tagged/relay.md), [tutorials](../tagged/tutorials.md)
+---
+#### [Getting Started with Relay](https://auth0.com/blog/2015/10/06/getting-started-with-relay/)
+_<sup>https://auth0.com/blog/2015/10/06/getting-started-with-relay/</sup>_
+
+* **tags**: [reactjs](../tagged/reactjs.md), [relay](../tagged/relay.md), [tutorials](../tagged/tutorials.md)
+---
+#### [relay-codemod - Codemod scripts based for on jsodeshift to update Relay APIs](https://github.com/facebook/jscodeshift)
+_<sup>https://github.com/facebook/jscodeshift</sup>_
+
+A JavaScript codemod toolkit. Contribute to facebook/jscodeshift development by creating an account on GitHub.
+* **tags**: [reactjs](../tagged/reactjs.md), [relay](../tagged/relay.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/facebook/jscodeshift)**
+---
 #### [graphql-relay-js](https://github.com/graphql/graphql-relay-js)
 _<sup>https://github.com/graphql/graphql-relay-js</sup>_
 

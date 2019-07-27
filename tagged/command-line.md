@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/command-line](https://www.bookmarks.dev/tagged/command-line)</sup></sup>_
 ---
+#### [react-blessed](https://github.com/Yomguithereal/react-blessed)
+_<sup>https://github.com/Yomguithereal/react-blessed</sup>_
+
+A React renderer for blessed terminal interface library
+* **tags**: [reactjs](../tagged/reactjs.md), [command-line](../tagged/command-line.md)
+* :octocat: **[source code](https://github.com/Yomguithereal/react-blessed)**
+---
 #### [np](https://github.com/sindresorhus/np)
 _<sup>https://github.com/sindresorhus/np</sup>_
 

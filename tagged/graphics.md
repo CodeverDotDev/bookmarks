@@ -2,6 +2,48 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/graphics](https://www.bookmarks.dev/tagged/graphics)</sup></sup>_
 ---
+#### [react-art - React Bridge to the ART Drawing Library](https://github.com/facebook/react-art)
+_<sup>https://github.com/facebook/react-art</sup>_
+
+React Bridge to the ART Drawing Library. Contribute to reactjs/react-art development by creating an account on GitHub.
+* **tags**: [reactjs](../tagged/reactjs.md), [graphics](../tagged/graphics.md)
+* :octocat: **[source code](https://github.com/facebook/react-art)**
+---
+#### [react-canvas - High performance <canvas> rendering for React components](https://github.com/Flipboard/react-canvas)
+_<sup>https://github.com/Flipboard/react-canvas</sup>_
+
+High performance <canvas> rendering for React components - Flipboard/react-canvas
+* **tags**: [reactjs](../tagged/reactjs.md), [graphics](../tagged/graphics.md)
+* :octocat: **[source code](https://github.com/Flipboard/react-canvas)**
+---
+#### [react-famous - Complex 3D animations UI at 60 FPS with Famo.us](https://github.com/pilwon/react-famous)
+_<sup>https://github.com/pilwon/react-famous</sup>_
+
+React bridge to Famo.us. Contribute to pilwon/react-famous development by creating an account on GitHub.
+* **tags**: [reactjs](../tagged/reactjs.md), [graphics](../tagged/graphics.md)
+* :octocat: **[source code](https://github.com/pilwon/react-famous)**
+---
+#### [react-kinetic - HTML5 Canvas via KineticJS using React](https://github.com/freiksenet/react-kinetic)
+_<sup>https://github.com/freiksenet/react-kinetic</sup>_
+
+HTML5 Canvas via KineticJS using React. Contribute to freiksenet/react-kinetic development by creating an account on GitHub.
+* **tags**: [reactjs](../tagged/reactjs.md), [graphics](../tagged/graphics.md)
+* :octocat: **[source code](https://github.com/freiksenet/react-kinetic)**
+---
+#### [react-svg-morph - morph your svg components one into another](https://github.com/gorangajic/react-svg-morph)
+_<sup>https://github.com/gorangajic/react-svg-morph</sup>_
+
+:crystal_ball: morph your svg component one into another other - gorangajic/react-svg-morph
+* **tags**: [reactjs](../tagged/reactjs.md), [graphics](../tagged/graphics.md)
+* :octocat: **[source code](https://github.com/gorangajic/react-svg-morph)**
+---
+#### [react-hooks-svgdrawing - SVG Drawing with React hooks](https://github.com/kmkzt/react-hooks-svgdrawing)
+_<sup>https://github.com/kmkzt/react-hooks-svgdrawing</sup>_
+
+react svg drawing library. Contribute to kmkzt/react-hooks-svgdrawing development by creating an account on GitHub.
+* **tags**: [reactjs](../tagged/reactjs.md), [graphics](../tagged/graphics.md)
+* :octocat: **[source code](https://github.com/kmkzt/react-hooks-svgdrawing)**
+---
 #### [Limeth/euclider](https://github.com/Limeth/euclider)
 _<sup>https://github.com/Limeth/euclider</sup>_
 

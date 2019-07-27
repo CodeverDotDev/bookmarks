@@ -2,6 +2,23 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/community](https://www.bookmarks.dev/tagged/community)</sup></sup>_
 ---
+#### [Reactiflux Discord Channel](http://www.reactiflux.com/)
+_<sup>http://www.reactiflux.com/</sup>_
+
+We’re a chat community of 50,000+ React JS, React Native, Redux, Relay and GraphQL developers.
+* **tags**: [reactjs](../tagged/reactjs.md), [community](../tagged/community.md)
+---
+#### [React StackOverflow](http://stackoverflow.com/questions/tagged/reactjs)
+_<sup>http://stackoverflow.com/questions/tagged/reactjs</sup>_
+
+* **tags**: [reactjs](../tagged/reactjs.md), [community](../tagged/community.md)
+---
+#### [React Twitter](https://twitter.com/reactjs)
+_<sup>https://twitter.com/reactjs</sup>_
+
+Die neuesten Tweets von React (@reactjs). React is a declarative, efficient, and flexible JavaScript library for building user interfaces
+* **tags**: [reactjs](../tagged/reactjs.md), [community](../tagged/community.md)
+---
 #### [Ahmet Alp Balkan](https://twitter.com/ahmetb)
 _<sup>https://twitter.com/ahmetb</sup>_
 
