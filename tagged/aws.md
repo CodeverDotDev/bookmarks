@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/aws](https://www.bookmarks.dev/tagged/aws)</sup></sup>_
 ---
+#### [rusoto/rusoto](https://github.com/rusoto/rusoto)
+_<sup>https://github.com/rusoto/rusoto</sup>_
+
+[<img src="https://api.travis-ci.org/rusoto/rusoto.svg?branch=master">](https://travis-ci.org/rusoto/rusoto)
+* **tags**: [rust](../tagged/rust.md), [cloud](../tagged/cloud.md), [aws](../tagged/aws.md)
+* :octocat: **[source code](https://github.com/rusoto/rusoto)**
+---
 #### [awesome-aws](https://github.com/donnemartin/awesome-aws#readme)
 _<sup>https://github.com/donnemartin/awesome-aws#readme</sup>_
 

@@ -2,6 +2,40 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/podcast](https://www.bookmarks.dev/tagged/podcast)</sup></sup>_
 ---
+#### [Front End Happy Hour](http://frontendhappyhour.com/)
+_<sup>http://frontendhappyhour.com/</sup>_
+
+A podcast featuring a panel of Software Engineers from Netflix, Evernote, Atlassian & LinkedIn talking over drinks about all things Front End development.
+* **tags**: [podcast](../tagged/podcast.md), [frontend](../tagged/frontend.md), [javascript](../tagged/javascript.md)
+---
+#### [Java Pub House – The tutorials for Java Professionals](http://www.javapubhouse.com/)
+_<sup>http://www.javapubhouse.com/</sup>_
+
+* **Description**: podcast talks about how to program in Java.
+* **Host**: Freddy Guime @[fguime](https://twitter.com/fguime), Bob Paulin @[bobpaulin](https://twitter.com/bobpaulin)
+* **Frequency**: A...
+* **tags**: [podcast](../tagged/podcast.md), [java](../tagged/java.md)
+---
+#### [A Story About Kanye West and Learning to Code](https://syntax.fm/)
+_<sup>https://syntax.fm/</sup>_
+
+Full Stack Developers Wes Bos and Scott Tolinski dive deep into web development topics, explaining how they work and talking about their own experiences. They cover from JavaScript frameworks like Rea...
+* **tags**: [podcast](../tagged/podcast.md), [javascript](../tagged/javascript.md), [reactjs](../tagged/reactjs.md), [web-development](../tagged/web-development.md), [css](../tagged/css.md)
+---
+#### [Real Talk Javascript Podcast](https://realtalkjavascript.simplecast.fm)
+_<sup>https://realtalkjavascript.simplecast.fm</sup>_
+
+Dive into JavaScript and Web development stories with hosts John Papa, Ward Bell, and Dan Wahlin. Sponsored by Nrwl.io
+
+A weekly podcast where we tackle the challenges facing Web developers today and ...
+* **tags**: [podcast](../tagged/podcast.md), [javascript](../tagged/javascript.md)
+---
+#### [JS Party Podcast](https://changelog.com/jsparty)
+_<sup>https://changelog.com/jsparty</sup>_
+
+A community celebration of JavaScript and the web.
+* **tags**: [podcast](../tagged/podcast.md), [javascript](../tagged/javascript.md)
+---
 #### [From Python Import Podcast](http://frompythonimportpodcast.com/)
 _<sup>http://frompythonimportpodcast.com/</sup>_
 
@@ -127,9 +161,9 @@ Podcasts dedicated to React and individual podcast episodes with React discussio
  Podcasts
 
 - [The React Podcast](https://reactpodcast.simplecast.fm/) - The podcast about everything React.js, ...
-* **tags**: [reactjs](../tagged/reactjs.md), [podcast](../tagged/podcast.md)
+* **tags**: [reactjs](../tagged/reactjs.md), [podcast](../tagged/podcast.md), [javascript](../tagged/javascript.md)
 ---
-#### [GitHub - rShetty/awesome-podcasts: Collection of awesome podcasts](https://github.com/rShetty/awesome-podcasts)
+#### [awesome-podcasts: Collection of awesome podcasts](https://github.com/rShetty/awesome-podcasts)
 _<sup>https://github.com/rShetty/awesome-podcasts</sup>_
 
 List of podcasts which are helpful for software engineers/programmers.
@@ -211,11 +245,11 @@ _<sup>http://atp.fm/</sup>_
 Three nerds discussing tech, Apple, programming, and loosely related matters.
 * **tags**: [podcast](../tagged/podcast.md)
 ---
-#### [The Changelog with Adam Stacoviak and Jerod Santo | Changelog](https://changelog.com/podcast)
+#### [The Changelog with Adam Stacoviak and Jerod Santo](https://changelog.com/podcast)
 _<sup>https://changelog.com/podcast</sup>_
 
 A weekly discussion and interview show featuring a wide range of open-source development tools and development-related news. The programme has a heavy focus on web development, from Ruby and node.js t...
-* **tags**: [podcast](../tagged/podcast.md), [web-development](../tagged/web-development.md)
+* **tags**: [podcast](../tagged/podcast.md), [web-development](../tagged/web-development.md), [javascript](../tagged/javascript.md)
 ---
 #### [FLOSS Weekly](https://twit.tv/shows/floss-weekly)
 _<sup>https://twit.tv/shows/floss-weekly</sup>_
@@ -267,7 +301,7 @@ The Freelancers' Show discusses the challenges that freelancers face. The panel 
 _<sup>https://devchat.tv/adv-in-angular</sup>_
 
 Adventures in Angular is a weekly podcast dedicated to the Angular JavaScript framework and related technologies, tools, languages, and practices.
-* **tags**: [angular](../tagged/angular.md), [podcast](../tagged/podcast.md)
+* **tags**: [angular](../tagged/angular.md), [podcast](../tagged/podcast.md), [javascript](../tagged/javascript.md)
 ---
 #### [Angular Air](https://angularair.com/)
 _<sup>https://angularair.com/</sup>_

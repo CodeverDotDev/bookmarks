@@ -2,6 +2,24 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/visual-studio-code](https://www.bookmarks.dev/tagged/visual-studio-code)</sup></sup>_
 ---
+#### [rust-lang/rls-vscode](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust)
+_<sup>https://marketplace.visualstudio.com/items?itemName=rust-lang.rust</sup>_
+
+Rust support for Visual Studio Code
+* **tags**: [rust](../tagged/rust.md), [ide](../tagged/ide.md), [visual-studio-code](../tagged/visual-studio-code.md)
+---
+#### [CodeLLDB](https://marketplace.visualstudio.com/items?itemName=vadimcn.vscode-lldb)
+_<sup>https://marketplace.visualstudio.com/items?itemName=vadimcn.vscode-lldb</sup>_
+
+A LLDB extension
+* **tags**: [rust](../tagged/rust.md), [ide](../tagged/ide.md), [visual-studio-code](../tagged/visual-studio-code.md)
+---
+#### [KalitaAlexey/vscode-rust](https://marketplace.visualstudio.com/items?itemName=kalitaalexey.vscode-rust)
+_<sup>https://marketplace.visualstudio.com/items?itemName=kalitaalexey.vscode-rust</sup>_
+
+A fork of RustyCode
+* **tags**: [rust](../tagged/rust.md), [ide](../tagged/ide.md), [visual-studio-code](../tagged/visual-studio-code.md)
+---
 #### [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 _<sup>https://marketplace.visualstudio.com/items?itemName=ms-python.python</sup>_
 

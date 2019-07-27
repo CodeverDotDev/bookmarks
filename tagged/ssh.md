@@ -2,6 +2,20 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/ssh](https://www.bookmarks.dev/tagged/ssh)</sup></sup>_
 ---
+#### [alexcrichton/ssh2-rs](https://github.com/alexcrichton/ssh2-rs)
+_<sup>https://github.com/alexcrichton/ssh2-rs</sup>_
+
+[libssh2](https://www.libssh2.org/) bindings [<img src="https://api.travis-ci.org/alexcrichton/ssh2-rs.svg?branch=master">](https://travis-ci.org/alexcrichton/ssh2-rs)
+* **tags**: [rust](../tagged/rust.md), [network-programming](../tagged/network-programming.md), [ssh](../tagged/ssh.md)
+* :octocat: **[source code](https://github.com/alexcrichton/ssh2-rs)**
+---
+#### [Thrussh](https://github.com/pijul-scm/thrussh/)
+_<sup>https://github.com/pijul-scm/thrussh/</sup>_
+
+an SSH library written from scratch in Rust, backed by [libsodium](https://download.libsodium.org/doc/)
+* **tags**: [rust](../tagged/rust.md), [network-programming](../tagged/network-programming.md), [ssh](../tagged/ssh.md)
+* :octocat: **[source code](https://github.com/pijul-scm/thrussh/)**
+---
 #### [awesome-ssh](https://github.com/moul/awesome-ssh#readme)
 _<sup>https://github.com/moul/awesome-ssh#readme</sup>_
 

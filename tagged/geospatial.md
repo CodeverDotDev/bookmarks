@@ -2,6 +2,20 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/geospatial](https://www.bookmarks.dev/tagged/geospatial)</sup></sup>_
 ---
+#### [Georust](https://github.com/georust)
+_<sup>https://github.com/georust</sup>_
+
+geospatial tools and libraries written in Rust
+* **tags**: [rust](../tagged/rust.md), [geospatial](../tagged/geospatial.md)
+* :octocat: **[source code](https://github.com/georust)**
+---
+#### [rust-reverse-geocoder](https://github.com/llambda/rrgeo)
+_<sup>https://github.com/llambda/rrgeo</sup>_
+
+A fast, offline reverse geocoder in Rust, inspired by https://github.com/thampiman/reverse-geocoder
+* **tags**: [rust](../tagged/rust.md), [geospatial](../tagged/geospatial.md)
+* :octocat: **[source code](https://github.com/llambda/rrgeo)**
+---
 #### [Apache SIS](https://sis.apache.org)
 _<sup>https://sis.apache.org</sup>_
 

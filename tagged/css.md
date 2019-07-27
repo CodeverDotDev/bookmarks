@@ -2,6 +2,19 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/css](https://www.bookmarks.dev/tagged/css)</sup></sup>_
 ---
+#### [A Story About Kanye West and Learning to Code](https://syntax.fm/)
+_<sup>https://syntax.fm/</sup>_
+
+Full Stack Developers Wes Bos and Scott Tolinski dive deep into web development topics, explaining how they work and talking about their own experiences. They cover from JavaScript frameworks like Rea...
+* **tags**: [podcast](../tagged/podcast.md), [javascript](../tagged/javascript.md), [reactjs](../tagged/reactjs.md), [web-development](../tagged/web-development.md), [css](../tagged/css.md)
+---
+#### [Bootswatch - Free themes for Bootstrap](https://bootswatch.com/)
+_<sup>https://bootswatch.com/</sup>_
+
+Free themes for Bootstrap
+* **tags**: [bootstrap](../tagged/bootstrap.md), [css](../tagged/css.md), [themes](../tagged/themes.md)
+* :octocat: **[source code](https://github.com/thomaspark/bootswatch/)**
+---
 #### [awesome-css](https://github.com/awesome-css-group/awesome-css#readme)
 _<sup>https://github.com/awesome-css-group/awesome-css#readme</sup>_
 

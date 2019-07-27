@@ -2,6 +2,90 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/text-processing](https://www.bookmarks.dev/tagged/text-processing)</sup></sup>_
 ---
+#### [TankerHQ/ruplacer](https://github.com/TankerHQ/ruplacer)
+_<sup>https://github.com/TankerHQ/ruplacer</sup>_
+
+Find and replace text in source files [<img img src="https://api.travis-ci.org/TankerHQ/ruplacer.svg?branch=master">](https://travis-ci.org/TankerHQ/ruplacer)
+* **tags**: [rust](../tagged/rust.md), [text-processing](../tagged/text-processing.md)
+* :octocat: **[source code](https://github.com/TankerHQ/ruplacer)**
+---
+#### [lavifb/todo_r](https://github.com/lavifb/todo_r)
+_<sup>https://github.com/lavifb/todo_r</sup>_
+
+Find all your TODO notes with one command! [<img src="https://api.travis-ci.org/lavifb/todo_r.svg?branch=master">](https://travis-ci.org/lavifb/todo_r)
+* **tags**: [rust](../tagged/rust.md), [text-processing](../tagged/text-processing.md)
+* :octocat: **[source code](https://github.com/lavifb/todo_r)**
+---
+#### [whitfin/runiq](https://github.com/whitfin/runiq)
+_<sup>https://github.com/whitfin/runiq</sup>_
+
+an efficient way to filter duplicate lines from unsorted input.
+* **tags**: [rust](../tagged/rust.md), [text-processing](../tagged/text-processing.md)
+* :octocat: **[source code](https://github.com/whitfin/runiq)**
+---
+#### [whitfin/bytelines](https://github.com/whitfin/bytelines)
+_<sup>https://github.com/whitfin/bytelines</sup>_
+
+Read input lines as byte slices for high efficiency.
+* **tags**: [rust](../tagged/rust.md), [text-processing](../tagged/text-processing.md)
+* :octocat: **[source code](https://github.com/whitfin/bytelines)**
+---
+#### [vishaltelangre/ff](https://github.com/vishaltelangre/ff)
+_<sup>https://github.com/vishaltelangre/ff</sup>_
+
+Find files (ff) by name! [<img src="https://api.travis-ci.org/vishaltelangre/ff.svg?branch=master">](https://travis-ci.org/vishaltelangre/ff)
+* **tags**: [rust](../tagged/rust.md), [text-processing](../tagged/text-processing.md)
+* :octocat: **[source code](https://github.com/vishaltelangre/ff)**
+---
+#### [BurntSushi/suffix](https://github.com/BurntSushi/suffix)
+_<sup>https://github.com/BurntSushi/suffix</sup>_
+
+Linear time suffix array construction (with Unicode support) [<img src="https://api.travis-ci.org/BurntSushi/suffix.svg?branch=master">](https://travis-ci.org/BurntSushi/suffix)
+* **tags**: [rust](../tagged/rust.md), [text-processing](../tagged/text-processing.md)
+* :octocat: **[source code](https://github.com/BurntSushi/suffix)**
+---
+#### [BurntSushi/tabwriter](https://github.com/BurntSushi/tabwriter)
+_<sup>https://github.com/BurntSushi/tabwriter</sup>_
+
+Elastic tab stops (i.e., text column alignment) [<img src="https://api.travis-ci.org/BurntSushi/tabwriter.svg?branch=master">](https://travis-ci.org/BurntSushi/tabwriter)
+* **tags**: [rust](../tagged/rust.md), [text-processing](../tagged/text-processing.md)
+* :octocat: **[source code](https://github.com/BurntSushi/tabwriter)**
+---
+#### [pwoolcoc/ngrams](https://github.com/pwoolcoc/ngrams)
+_<sup>https://github.com/pwoolcoc/ngrams</sup>_
+
+Construct [n-grams](https://en.wikipedia.org/wiki/N-gram) from arbitrary iterators [<img src="https://api.travis-ci.org/pwoolcoc/ngrams.svg?branch=master">](https://travis-ci.org/pwoolcoc/ngrams)
+* **tags**: [rust](../tagged/rust.md), [text-processing](../tagged/text-processing.md)
+* :octocat: **[source code](https://github.com/pwoolcoc/ngrams)**
+---
+#### [ps1dr3x/easy_reader](https://github.com/ps1dr3x/easy_reader)
+_<sup>https://github.com/ps1dr3x/easy_reader</sup>_
+
+A reader that allows forwards, backwards and random navigations through the lines of huge files without consuming iterators [<img src="https://api.travis-ci.org/ps1dr3x/easy_reader.svg?branch=master">...
+* **tags**: [rust](../tagged/rust.md), [text-processing](../tagged/text-processing.md)
+* :octocat: **[source code](https://github.com/ps1dr3x/easy_reader)**
+---
+#### [rust-lang/regex](https://github.com/rust-lang/regex)
+_<sup>https://github.com/rust-lang/regex</sup>_
+
+Regular expressions (RE2 style) [<img src="https://api.travis-ci.org/rust-lang/regex.svg?branch=master">](https://travis-ci.org/rust-lang/regex)
+* **tags**: [rust](../tagged/rust.md), [text-processing](../tagged/text-processing.md)
+* :octocat: **[source code](https://github.com/rust-lang/regex)**
+---
+#### [greyblake/whatlang-rs](https://github.com/greyblake/whatlang-rs)
+_<sup>https://github.com/greyblake/whatlang-rs</sup>_
+
+Natural language detection library based on trigrams [<img src="https://api.travis-ci.org/greyblake/whatlang-rs.svg?branch=master">](https://travis-ci.org/greyblake/whatlang-rs)
+* **tags**: [rust](../tagged/rust.md), [text-processing](../tagged/text-processing.md)
+* :octocat: **[source code](https://github.com/greyblake/whatlang-rs)**
+---
+#### [yaa110/rake-rs](https://github.com/yaa110/rake-rs)
+_<sup>https://github.com/yaa110/rake-rs</sup>_
+
+Multilingual implementation of RAKE algorithm for Rust [<img src="https://api.travis-ci.org/yaa110/rake-rs.svg?branch=master">](https://travis-ci.org/yaa110/rake-rs)
+* **tags**: [rust](../tagged/rust.md), [text-processing](../tagged/text-processing.md)
+* :octocat: **[source code](https://github.com/yaa110/rake-rs)**
+---
 #### [align](https://github.com/Guitarbum722/align)
 _<sup>https://github.com/Guitarbum722/align</sup>_
 

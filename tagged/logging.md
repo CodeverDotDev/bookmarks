@@ -2,6 +2,27 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/logging](https://www.bookmarks.dev/tagged/logging)</sup></sup>_
 ---
+#### [rust-lang-nursery/log](https://github.com/rust-lang-nursery/log)
+_<sup>https://github.com/rust-lang-nursery/log</sup>_
+
+Logging implementation for Rust [![Build Status](https://api.travis-ci.org/rust-lang-nursery/log.svg?branch=master)](https://travis-ci.org/rust-lang-nursery/log)
+* **tags**: [rust](../tagged/rust.md), [logging](../tagged/logging.md)
+* :octocat: **[source code](https://github.com/rust-lang-nursery/log)**
+---
+#### [slog-rs/slog](https://github.com/slog-rs/slog)
+_<sup>https://github.com/slog-rs/slog</sup>_
+
+Structured, composable logging for Rust [![Build Status](https://api.travis-ci.org/slog-rs/slog.svg?branch=master)](https://travis-ci.org/slog-rs/slog)
+* **tags**: [rust](../tagged/rust.md), [logging](../tagged/logging.md)
+* :octocat: **[source code](https://github.com/slog-rs/slog)**
+---
+#### [sfackler/log4rs](https://github.com/sfackler/log4rs)
+_<sup>https://github.com/sfackler/log4rs</sup>_
+
+highly configurable logging framework modeled after Java's Logback and log4j libraries [![Build Status](https://api.travis-ci.org/sfackler/log4rs.svg?branch=master)](https://travis-ci.org/sfackler/log...
+* **tags**: [rust](../tagged/rust.md), [logging](../tagged/logging.md)
+* :octocat: **[source code](https://github.com/sfackler/log4rs)**
+---
 #### [Logging in Kubernetes with Fluentd and Elasticsearch](http://www.dasblinkenlichten.com/logging-in-kubernetes-with-fluentd-and-elasticsearch/)
 _<sup>http://www.dasblinkenlichten.com/logging-in-kubernetes-with-fluentd-and-elasticsearch/</sup>_
 

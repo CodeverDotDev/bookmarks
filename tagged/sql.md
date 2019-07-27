@@ -2,6 +2,41 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/sql](https://www.bookmarks.dev/tagged/sql)</sup></sup>_
 ---
+#### [steffengy/tiberius](https://github.com/steffengy/tiberius)
+_<sup>https://github.com/steffengy/tiberius</sup>_
+
+[<img src="https://api.travis-ci.org/steffengy/tiberius.svg?branch=master">](https://travis-ci.org/steffengy/tiberius)
+* **tags**: [rust](../tagged/rust.md), [database](../tagged/database.md), [sql](../tagged/sql.md), [sql-server](../tagged/sql-server.md)
+* :octocat: **[source code](https://github.com/steffengy/tiberius)**
+---
+#### [AgilData/mysql-proxy-rs](https://github.com/AgilData/mysql-proxy-rs)
+_<sup>https://github.com/AgilData/mysql-proxy-rs</sup>_
+
+A MySQL Proxy [<img src="https://api.travis-ci.org/AgilData/mysql-proxy-rs.svg?branch=master">](https://travis-ci.org/AgilData/mysql-proxy-rs)
+* **tags**: [rust](../tagged/rust.md), [database](../tagged/database.md), [sql](../tagged/sql.md), [mysql](../tagged/mysql.md)
+* :octocat: **[source code](https://github.com/AgilData/mysql-proxy-rs)**
+---
+#### [jgallagher/rusqlite](https://github.com/jgallagher/rusqlite)
+_<sup>https://github.com/jgallagher/rusqlite</sup>_
+
+[Sqlite3](https://www.sqlite.org/index.html) bindings [<img src="https://api.travis-ci.org/jgallagher/rusqlite.svg?branch=master">](https://travis-ci.org/jgallagher/rusqlite)
+* **tags**: [rust](../tagged/rust.md), [database](../tagged/database.md), [sql](../tagged/sql.md), [sqlite](../tagged/sqlite.md)
+* :octocat: **[source code](https://github.com/jgallagher/rusqlite)**
+---
+#### [diesel-rs/diesel](https://github.com/diesel-rs/diesel)
+_<sup>https://github.com/diesel-rs/diesel</sup>_
+
+an ORM and Query builder for Rust [![Build Status](https://api.travis-ci.org/diesel-rs/diesel.svg)](https://travis-ci.org/diesel-rs/diesel)
+* **tags**: [rust](../tagged/rust.md), [database](../tagged/database.md), [sql](../tagged/sql.md), [orm](../tagged/orm.md)
+* :octocat: **[source code](https://github.com/diesel-rs/diesel)**
+---
+#### [ivanceras/rustorm](https://github.com/ivanceras/rustorm)
+_<sup>https://github.com/ivanceras/rustorm</sup>_
+
+an ORM for Rust [![Build Status](https://api.travis-ci.org/ivanceras/rustorm.svg)](https://travis-ci.org/ivanceras/rustorm)
+* **tags**: [rust](../tagged/rust.md), [database](../tagged/database.md), [sql](../tagged/sql.md), [orm](../tagged/orm.md)
+* :octocat: **[source code](https://github.com/ivanceras/rustorm)**
+---
 #### [GraphpostgresQL](https://github.com/solidsnack/GraphpostgresQL)
 _<sup>https://github.com/solidsnack/GraphpostgresQL</sup>_
 

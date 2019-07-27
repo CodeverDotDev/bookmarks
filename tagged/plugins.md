@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/plugins](https://www.bookmarks.dev/tagged/plugins)</sup></sup>_
 ---
+#### [Official Next.js plugins](https://github.com/zeit/next-plugins)
+_<sup>https://github.com/zeit/next-plugins</sup>_
+
+Official Next.js plugins.
+* **tags**: [plugins](../tagged/plugins.md), [next.js](../tagged/next.js.md)
+---
 #### [AWS EBS](https://github.com/kubernetes-sigs/aws-ebs-csi-driver)
 _<sup>https://github.com/kubernetes-sigs/aws-ebs-csi-driver</sup>_
 

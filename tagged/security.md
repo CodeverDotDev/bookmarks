@@ -2,6 +2,22 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/security](https://www.bookmarks.dev/tagged/security)</sup></sup>_
 ---
+#### [Introduction to React + Tutorial How To Build Your First App](https://auth0.com/blog/react-tutorial-building-and-securing-your-first-app/)
+_<sup>https://auth0.com/blog/react-tutorial-building-and-securing-your-first-app/</sup>_
+
+Introduction to React and its components and routers. Tutorial of how to build a simple Q&A React app - secure backend API with Node.js and Express.
+* :calendar: **published on**: 2018-08-28
+* **tags**: [reactjs](../tagged/reactjs.md), [react-router](../tagged/react-router.md), [nodejs](../tagged/nodejs.md), [expressjs](../tagged/expressjs.md), [axios](../tagged/axios.md), [authentication](../tagged/authentication.md), [security](../tagged/security.md)
+* :octocat: **[source code](https://github.com/auth0-blog/react-tutorial)**
+---
+#### [WordPress Malware Redirect Hack - How To Detect & Fix It](https://secure.wphackedhelp.com/blog/wordpress-malware-redirect-hack-cleanup/)
+_<sup>https://secure.wphackedhelp.com/blog/wordpress-malware-redirect-hack-cleanup/</sup>_
+
+Detect and Clean Malicious Redirects Your site is redirecting due to the presence of infected codes added by hackers. To remove these spam redirects, one has to find malicious codes or malware and rem...
+* :calendar: **published on**: 2019-07-03
+* **tags**: [wordpress](../tagged/wordpress.md), [security](../tagged/security.md)
+* :octocat: **[source code](https://secure.wphackedhelp.com/blog/wordpress-malware-redirect-hack-cleanup/)**
+---
 #### [Kubernetes Security Guide](https://sysdig.com/blog/kubernetes-security-guide/)
 _<sup>https://sysdig.com/blog/kubernetes-security-guide/</sup>_
 

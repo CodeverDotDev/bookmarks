@@ -2,6 +2,20 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/orm](https://www.bookmarks.dev/tagged/orm)</sup></sup>_
 ---
+#### [diesel-rs/diesel](https://github.com/diesel-rs/diesel)
+_<sup>https://github.com/diesel-rs/diesel</sup>_
+
+an ORM and Query builder for Rust [![Build Status](https://api.travis-ci.org/diesel-rs/diesel.svg)](https://travis-ci.org/diesel-rs/diesel)
+* **tags**: [rust](../tagged/rust.md), [database](../tagged/database.md), [sql](../tagged/sql.md), [orm](../tagged/orm.md)
+* :octocat: **[source code](https://github.com/diesel-rs/diesel)**
+---
+#### [ivanceras/rustorm](https://github.com/ivanceras/rustorm)
+_<sup>https://github.com/ivanceras/rustorm</sup>_
+
+an ORM for Rust [![Build Status](https://api.travis-ci.org/ivanceras/rustorm.svg)](https://travis-ci.org/ivanceras/rustorm)
+* **tags**: [rust](../tagged/rust.md), [database](../tagged/database.md), [sql](../tagged/sql.md), [orm](../tagged/orm.md)
+* :octocat: **[source code](https://github.com/ivanceras/rustorm)**
+---
 #### [beego orm](https://github.com/astaxie/beego/tree/master/orm)
 _<sup>https://github.com/astaxie/beego/tree/master/orm</sup>_
 

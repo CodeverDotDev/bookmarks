@@ -2,6 +2,15 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/microservices](https://www.bookmarks.dev/tagged/microservices)</sup></sup>_
 ---
+#### [Design Microservice Architectures the Right Way - YouTube](https://www.youtube.com/watch?v=j6ow-UemzBc)
+_<sup>https://www.youtube.com/watch?v=j6ow-UemzBc</sup>_
+
+Download the slides & audio at InfoQ: [https://bit.ly/2ypNF04](https://bit.ly/2ypNF04)  
+
+Michael Bryzek highlights specific key decisions that very directly impact the quality and maintainability of ...
+* :calendar: **published on**: 2018-10-22
+* **tags**: [microservices](../tagged/microservices.md), [architecture](../tagged/architecture.md)
+---
 #### [SCS - Self-Contained Systems home page](https://scs-architecture.org/)
 _<sup>https://scs-architecture.org/</sup>_
 

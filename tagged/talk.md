@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/talk](https://www.bookmarks.dev/tagged/talk)</sup></sup>_
 ---
+#### [GitHub - hellerve/programming-talks](https://github.com/hellerve/programming-talks)
+_<sup>https://github.com/hellerve/programming-talks</sup>_
+
+Awesome & interesting talks about programming.
+* **tags**: [programming](../tagged/programming.md), [talk](../tagged/talk.md)
+* :octocat: **[source code](https://github.com/hellerve/programming-talks)**
+---
 #### [awesome-js-must-watch](https://github.com/bolshchikov/js-must-watch#readme)
 _<sup>https://github.com/bolshchikov/js-must-watch#readme</sup>_
 

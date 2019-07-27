@@ -2,6 +2,181 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/ide](https://www.bookmarks.dev/tagged/ide)</sup></sup>_
 ---
+#### [Rust Tools](https://www.rust-lang.org/tools)
+_<sup>https://www.rust-lang.org/tools</sup>_
+
+A language empowering everyone to build reliable and efficient software.
+* **tags**: [rust](../tagged/rust.md), [ide](../tagged/ide.md)
+---
+#### [gitpod.io](https://gitpod.io)
+_<sup>https://gitpod.io</sup>_
+
+Online IDE with full Rust support based on Rust Language Server
+* **tags**: [rust](../tagged/rust.md), [ide](../tagged/ide.md)
+---
+#### [gnome-builder](https://wiki.gnome.org/Apps/Builder)
+_<sup>https://wiki.gnome.org/Apps/Builder</sup>_
+
+* **tags**: [rust](../tagged/rust.md), [ide](../tagged/ide.md)
+---
+#### [zargony/atom-language-rust](https://github.com/zargony/atom-language-rust)
+_<sup>https://github.com/zargony/atom-language-rust</sup>_
+
+Rust language support in Atom - LOOKING FOR MAINTAINER, see 144 - zargony/atom-language-rust
+* **tags**: [rust](../tagged/rust.md), [ide](../tagged/ide.md), [atom](../tagged/atom.md)
+* :octocat: **[source code](https://github.com/zargony/atom-language-rust)**
+---
+#### [Eclipse Corrosion](https://github.com/eclipse/corrosion)
+_<sup>https://github.com/eclipse/corrosion</sup>_
+
+Eclipse Corrosion - Rust edition in Eclipse IDE. Contribute to eclipse/corrosion development by creating an account on GitHub.
+* **tags**: [rust](../tagged/rust.md), [ide](../tagged/ide.md), [eclipse](../tagged/eclipse.md)
+* :octocat: **[source code](https://github.com/eclipse/corrosion)**
+---
+#### [RustDT](https://github.com/RustDT/RustDT)
+_<sup>https://github.com/RustDT/RustDT</sup>_
+
+[<img src="https://api.travis-ci.org/RustDT/RustDT.svg?branch=master">](https://travis-ci.org/RustDT/RustDT)
+* **tags**: [rust](../tagged/rust.md), [ide](../tagged/ide.md), [eclipse](../tagged/eclipse.md)
+* :octocat: **[source code](https://github.com/RustDT/RustDT)**
+---
+#### [rust-mode](https://github.com/rust-lang/rust-mode)
+_<sup>https://github.com/rust-lang/rust-mode</sup>_
+
+Rust Major Mode
+* **tags**: [rust](../tagged/rust.md), [ide](../tagged/ide.md), [emacs](../tagged/emacs.md)
+* :octocat: **[source code](https://github.com/rust-lang/rust-mode)**
+---
+#### [flycheck-rust](https://github.com/flycheck/flycheck-rust)
+_<sup>https://github.com/flycheck/flycheck-rust</sup>_
+
+Rust support for [Flycheck](https://github.com/flycheck/flycheck)
+* **tags**: [rust](../tagged/rust.md), [ide](../tagged/ide.md), [emacs](../tagged/emacs.md)
+* :octocat: **[source code](https://github.com/flycheck/flycheck-rust)**
+---
+#### [emacs-racer](https://github.com/racer-rust/emacs-racer)
+_<sup>https://github.com/racer-rust/emacs-racer</sup>_
+
+Autocompletion (see also [company](https://company-mode.github.io) and [auto-complete](https://github.com/auto-complete/auto-complete))
+* **tags**: [rust](../tagged/rust.md), [ide](../tagged/ide.md), [emacs](../tagged/emacs.md)
+* :octocat: **[source code](https://github.com/racer-rust/emacs-racer)**
+---
+#### [lsp-rust](https://github.com/emacs-lsp-legacy/lsp-rust)
+_<sup>https://github.com/emacs-lsp-legacy/lsp-rust</sup>_
+
+Add rls support to [lsp-mode](https://github.com/emacs-lsp/lsp-mode)
+* **tags**: [rust](../tagged/rust.md), [ide](../tagged/ide.md), [emacs](../tagged/emacs.md)
+* :octocat: **[source code](https://github.com/emacs-lsp-legacy/lsp-rust)**
+---
+#### [ul/kak-lsp](https://github.com/ul/kak-lsp/)
+_<sup>https://github.com/ul/kak-lsp/</sup>_
+
+[LSP](https://microsoft.github.io/language-server-protocol/) client. Implemented in Rust and supports rls out of the box.
+* **tags**: [rust](../tagged/rust.md), [ide](../tagged/ide.md), [kakoune](../tagged/kakoune.md)
+* :octocat: **[source code](https://github.com/ul/kak-lsp/)**
+---
+#### [intellij-rust/intellij-rust](https://github.com/intellij-rust/intellij-rust)
+_<sup>https://github.com/intellij-rust/intellij-rust</sup>_
+
+[<img src="https://api.travis-ci.org/intellij-rust/intellij-rust.svg?branch=master">](https://travis-ci.org/intellij-rust/intellij-rust)
+* **tags**: [rust](../tagged/rust.md), [ide](../tagged/ide.md), [intellij](../tagged/intellij.md)
+* :octocat: **[source code](https://github.com/intellij-rust/intellij-rust)**
+---
+#### [intellij-rust/intellij-toml](https://github.com/intellij-rust/intellij-toml)
+_<sup>https://github.com/intellij-rust/intellij-toml</sup>_
+
+basic Toml support
+* **tags**: [rust](../tagged/rust.md), [ide](../tagged/ide.md), [intellij](../tagged/intellij.md)
+* :octocat: **[source code](https://github.com/intellij-rust/intellij-toml)**
+---
+#### [Ride](https://github.com/madeso/ride)
+_<sup>https://github.com/madeso/ride</sup>_
+
+[<img src="https://api.travis-ci.org/madeso/ride.svg?branch=master">](https://travis-ci.org/madeso/ride)
+* **tags**: [rust](../tagged/rust.md), [ide](../tagged/ide.md), [intellij](../tagged/intellij.md)
+* :octocat: **[source code](https://github.com/madeso/ride)**
+---
+#### [SolidOak](https://github.com/oakes/SolidOak)
+_<sup>https://github.com/oakes/SolidOak</sup>_
+
+A simple IDE for Rust, based on GTK+ and [Neovim](https://github.com/neovim/neovim)
+* **tags**: [rust](../tagged/rust.md), [ide](../tagged/ide.md), [intellij](../tagged/intellij.md)
+* :octocat: **[source code](https://github.com/oakes/SolidOak)**
+---
+#### [rust-lang/rust-enhanced](https://github.com/rust-lang/rust-enhanced)
+_<sup>https://github.com/rust-lang/rust-enhanced</sup>_
+
+official Rust package
+* **tags**: [rust](../tagged/rust.md), [ide](../tagged/ide.md), [sublime-text](../tagged/sublime-text.md)
+* :octocat: **[source code](https://github.com/rust-lang/rust-enhanced)**
+---
+#### [sublimehq/packages](https://github.com/sublimehq/Packages/tree/master/Rust)
+_<sup>https://github.com/sublimehq/Packages/tree/master/Rust</sup>_
+
+native Sublime support (already installed)
+* **tags**: [rust](../tagged/rust.md), [ide](../tagged/ide.md), [sublime-text](../tagged/sublime-text.md)
+* :octocat: **[source code](https://github.com/sublimehq/Packages/tree/master/Rust)**
+---
+#### [rust.vim](https://github.com/rust-lang/rust.vim)
+_<sup>https://github.com/rust-lang/rust.vim</sup>_
+
+provides file detection, syntax highlighting, formatting, Syntastic integration, and more.
+* **tags**: [rust](../tagged/rust.md), [ide](../tagged/ide.md), [vim](../tagged/vim.md)
+* :octocat: **[source code](https://github.com/rust-lang/rust.vim)**
+---
+#### [vim-cargo](https://github.com/timonv/vim-cargo)
+_<sup>https://github.com/timonv/vim-cargo</sup>_
+
+command bindings to quickly run cargo stuff from vim.
+* **tags**: [rust](../tagged/rust.md), [ide](../tagged/ide.md), [vim](../tagged/vim.md)
+* :octocat: **[source code](https://github.com/timonv/vim-cargo)**
+---
+#### [vim-racer](https://github.com/racer-rust/vim-racer)
+_<sup>https://github.com/racer-rust/vim-racer</sup>_
+
+allows vim to use [Racer](https://github.com/racer-rust/racer) for Rust code completion and navigation.
+* **tags**: [rust](../tagged/rust.md), [ide](../tagged/ide.md), [vim](../tagged/vim.md)
+* :octocat: **[source code](https://github.com/racer-rust/vim-racer)**
+---
+#### [autozimu/LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim)
+_<sup>https://github.com/autozimu/LanguageClient-neovim</sup>_
+
+[LSP](https://microsoft.github.io/language-server-protocol/) client. Implemented in Rust and supports rls out of the box.
+* **tags**: [rust](../tagged/rust.md), [ide](../tagged/ide.md), [vim](../tagged/vim.md)
+* :octocat: **[source code](https://github.com/autozimu/LanguageClient-neovim)**
+---
+#### [PistonDevelopers/VisualRust](https://github.com/PistonDevelopers/VisualRust)
+_<sup>https://github.com/PistonDevelopers/VisualRust</sup>_
+
+A Visual Studio extension for Rust [<img src="https://api.travis-ci.org/PistonDevelopers/VisualRust.svg?branch=master">](https://travis-ci.org/PistonDevelopers/VisualRust)
+* **tags**: [rust](../tagged/rust.md), [ide](../tagged/ide.md), [visual-studio](../tagged/visual-studio.md)
+* :octocat: **[source code](https://github.com/PistonDevelopers/VisualRust)**
+---
+#### [dgriffen/rls-vs2017](https://github.com/dgriffen/rls-vs2017)
+_<sup>https://github.com/dgriffen/rls-vs2017</sup>_
+
+Rust support for Visual Studio 2017 Preview [<img src="https://ci.appveyor.com/api/projects/status/d2lxlincwninhsng?svg=true">](https://ci.appveyor.com/project/dgriffen/rls-vs2017)
+* **tags**: [rust](../tagged/rust.md), [ide](../tagged/ide.md), [visual-studio](../tagged/visual-studio.md)
+* :octocat: **[source code](https://github.com/dgriffen/rls-vs2017)**
+---
+#### [rust-lang/rls-vscode](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust)
+_<sup>https://marketplace.visualstudio.com/items?itemName=rust-lang.rust</sup>_
+
+Rust support for Visual Studio Code
+* **tags**: [rust](../tagged/rust.md), [ide](../tagged/ide.md), [visual-studio-code](../tagged/visual-studio-code.md)
+---
+#### [CodeLLDB](https://marketplace.visualstudio.com/items?itemName=vadimcn.vscode-lldb)
+_<sup>https://marketplace.visualstudio.com/items?itemName=vadimcn.vscode-lldb</sup>_
+
+A LLDB extension
+* **tags**: [rust](../tagged/rust.md), [ide](../tagged/ide.md), [visual-studio-code](../tagged/visual-studio-code.md)
+---
+#### [KalitaAlexey/vscode-rust](https://marketplace.visualstudio.com/items?itemName=kalitaalexey.vscode-rust)
+_<sup>https://marketplace.visualstudio.com/items?itemName=kalitaalexey.vscode-rust</sup>_
+
+A fork of RustyCode
+* **tags**: [rust](../tagged/rust.md), [ide](../tagged/ide.md), [visual-studio-code](../tagged/visual-studio-code.md)
+---
 #### [elpy](https://github.com/jorgenschaefer/elpy)
 _<sup>https://github.com/jorgenschaefer/elpy</sup>_
 

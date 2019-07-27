@@ -2,6 +2,40 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/debugging](https://www.bookmarks.dev/tagged/debugging)</sup></sup>_
 ---
+#### [rust-gdb](https://github.com/rust-lang/rust/blob/master/src/etc/rust-gdb)
+_<sup>https://github.com/rust-lang/rust/blob/master/src/etc/rust-gdb</sup>_
+
+Empowering everyone to build reliable and efficient software. - rust-lang/rust
+* **tags**: [rust](../tagged/rust.md), [debugging](../tagged/debugging.md), [gdb](../tagged/gdb.md)
+* :octocat: **[source code](https://github.com/rust-lang/rust/blob/master/src/etc/rust-gdb)**
+---
+#### [gdbgui](https://github.com/cs01/gdbgui)
+_<sup>https://github.com/cs01/gdbgui</sup>_
+
+Browser based frontend for gdb to debug C, C++, Rust, and go. [<img src="https://api.travis-ci.org/cs01/gdbgui.svg?branch=master">](https://travis-ci.org/cs01/gdbgui)
+* **tags**: [rust](../tagged/rust.md), [debugging](../tagged/debugging.md), [gdb](../tagged/gdb.md)
+* :octocat: **[source code](https://github.com/cs01/gdbgui)**
+---
+#### [lldb_batchmode.py](https://github.com/rust-lang/rust/blob/master/src/etc/lldb_batchmode.py)
+_<sup>https://github.com/rust-lang/rust/blob/master/src/etc/lldb_batchmode.py</sup>_
+
+allows to use LLDB in a way similar to GDB's batch mode.
+* **tags**: [rust](../tagged/rust.md), [debugging](../tagged/debugging.md), [lldb](../tagged/lldb.md)
+* :octocat: **[source code](https://github.com/rust-lang/rust/blob/master/src/etc/lldb_batchmode.py)**
+---
+#### [rr](https://rr-project.org/)
+_<sup>https://rr-project.org/</sup>_
+
+rr is a lightweight tool for recording and replaying execution of applications
+* **tags**: [rust](../tagged/rust.md), [debugging](../tagged/debugging.md), [rr](../tagged/rr.md)
+---
+#### [OpenID Connect debugger](https://oidcdebugger.com/)
+_<sup>https://oidcdebugger.com/</sup>_
+
+Test and debug OpenID Connect requests. This free tool makes it easy to send requests and view responses.
+* **tags**: [oidc](../tagged/oidc.md), [oauth2](../tagged/oauth2.md), [debugging](../tagged/debugging.md), [dev-tools](../tagged/dev-tools.md)
+* :octocat: **[source code](https://github.com/nbarbettini/oidc-debugger)**
+---
 #### [go-fuzz](https://github.com/dvyukov/go-fuzz)
 _<sup>https://github.com/dvyukov/go-fuzz</sup>_
 

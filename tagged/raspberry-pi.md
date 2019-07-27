@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/raspberry-pi](https://www.bookmarks.dev/tagged/raspberry-pi)</sup></sup>_
 ---
+#### [Ogeon/rust-on-raspberry-pi](https://github.com/Ogeon/rust-on-raspberry-pi)
+_<sup>https://github.com/Ogeon/rust-on-raspberry-pi</sup>_
+
+instructions for how to cross compile Rust projects for the Raspberry Pi .
+* **tags**: [rust](../tagged/rust.md), [embedded](../tagged/embedded.md), [raspberry-pi](../tagged/raspberry-pi.md)
+* :octocat: **[source code](https://github.com/Ogeon/rust-on-raspberry-pi)**
+---
 #### [Setup Kubernetes on a Raspberry Pi Cluster easily the official way!](https://blog.hypriot.com/post/setup-kubernetes-raspberry-pi-cluster/)
 _<sup>https://blog.hypriot.com/post/setup-kubernetes-raspberry-pi-cluster/</sup>_
 

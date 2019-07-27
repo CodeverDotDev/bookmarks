@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/reactive-programming](https://www.bookmarks.dev/tagged/reactive-programming)</sup></sup>_
 ---
+#### [MobX Home Page](https://mobx.js.org/)
+_<sup>https://mobx.js.org/</sup>_
+
+Simple, scalable state management
+* **tags**: [javascript](../tagged/javascript.md), [functional-programming](../tagged/functional-programming.md), [reactive-programming](../tagged/reactive-programming.md)
+* :octocat: **[source code](https://github.com/mobxjs/mobx)**
+---
 #### [RxJs](https://github.com/Reactive-Extensions/RxJS)
 _<sup>https://github.com/Reactive-Extensions/RxJS</sup>_
 

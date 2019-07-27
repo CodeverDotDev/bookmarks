@@ -2,6 +2,27 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/email](https://www.bookmarks.dev/tagged/email)</sup></sup>_
 ---
+#### [GildedHonour/atarashii_imap](https://github.com/GildedHonour/atarashii_imap)
+_<sup>https://github.com/GildedHonour/atarashii_imap</sup>_
+
+新しい (atarashii/new) IMAP client in Rust. It supports plain and secure connections [<img src="https://api.travis-ci.org/GildedHonour/atarashii_imap.svg?branch=master">](https://travis-ci.org/GildedHono...
+* **tags**: [rust](../tagged/rust.md), [email](../tagged/email.md)
+* :octocat: **[source code](https://github.com/GildedHonour/atarashii_imap)**
+---
+#### [gsquire/sendgrid-rs](https://github.com/gsquire/sendgrid-rs)
+_<sup>https://github.com/gsquire/sendgrid-rs</sup>_
+
+unofficial Rust library for SendGrid API [<img src="https://api.travis-ci.org/gsquire/sendgrid-rs.svg?branch=master">](https://travis-ci.org/gsquire/sendgrid-rs)
+* **tags**: [rust](../tagged/rust.md), [email](../tagged/email.md)
+* :octocat: **[source code](https://github.com/gsquire/sendgrid-rs)**
+---
+#### [lettre/lettre](https://github.com/lettre/lettre)
+_<sup>https://github.com/lettre/lettre</sup>_
+
+an SMTP-library for Rust [<img src="https://api.travis-ci.org/lettre/lettre.svg?branch=master">](https://travis-ci.org/lettre/lettre)
+* **tags**: [rust](../tagged/rust.md), [email](../tagged/email.md)
+* :octocat: **[source code](https://github.com/lettre/lettre)**
+---
 #### [chasquid](https://blitiri.com.ar/p/chasquid)
 _<sup>https://blitiri.com.ar/p/chasquid</sup>_
 

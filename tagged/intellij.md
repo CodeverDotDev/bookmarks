@@ -2,6 +2,34 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/intellij](https://www.bookmarks.dev/tagged/intellij)</sup></sup>_
 ---
+#### [intellij-rust/intellij-rust](https://github.com/intellij-rust/intellij-rust)
+_<sup>https://github.com/intellij-rust/intellij-rust</sup>_
+
+[<img src="https://api.travis-ci.org/intellij-rust/intellij-rust.svg?branch=master">](https://travis-ci.org/intellij-rust/intellij-rust)
+* **tags**: [rust](../tagged/rust.md), [ide](../tagged/ide.md), [intellij](../tagged/intellij.md)
+* :octocat: **[source code](https://github.com/intellij-rust/intellij-rust)**
+---
+#### [intellij-rust/intellij-toml](https://github.com/intellij-rust/intellij-toml)
+_<sup>https://github.com/intellij-rust/intellij-toml</sup>_
+
+basic Toml support
+* **tags**: [rust](../tagged/rust.md), [ide](../tagged/ide.md), [intellij](../tagged/intellij.md)
+* :octocat: **[source code](https://github.com/intellij-rust/intellij-toml)**
+---
+#### [Ride](https://github.com/madeso/ride)
+_<sup>https://github.com/madeso/ride</sup>_
+
+[<img src="https://api.travis-ci.org/madeso/ride.svg?branch=master">](https://travis-ci.org/madeso/ride)
+* **tags**: [rust](../tagged/rust.md), [ide](../tagged/ide.md), [intellij](../tagged/intellij.md)
+* :octocat: **[source code](https://github.com/madeso/ride)**
+---
+#### [SolidOak](https://github.com/oakes/SolidOak)
+_<sup>https://github.com/oakes/SolidOak</sup>_
+
+A simple IDE for Rust, based on GTK+ and [Neovim](https://github.com/neovim/neovim)
+* **tags**: [rust](../tagged/rust.md), [ide](../tagged/ide.md), [intellij](../tagged/intellij.md)
+* :octocat: **[source code](https://github.com/oakes/SolidOak)**
+---
 #### [Tuning IntelliJ IDEA - Help](https://www.jetbrains.com/help/idea/tuning-the-ide.html)
 _<sup>https://www.jetbrains.com/help/idea/tuning-the-ide.html</sup>_
 

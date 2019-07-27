@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/web-development](https://www.bookmarks.dev/tagged/web-development)</sup></sup>_
 ---
+#### [A Story About Kanye West and Learning to Code](https://syntax.fm/)
+_<sup>https://syntax.fm/</sup>_
+
+Full Stack Developers Wes Bos and Scott Tolinski dive deep into web development topics, explaining how they work and talking about their own experiences. They cover from JavaScript frameworks like Rea...
+* **tags**: [podcast](../tagged/podcast.md), [javascript](../tagged/javascript.md), [reactjs](../tagged/reactjs.md), [web-development](../tagged/web-development.md), [css](../tagged/css.md)
+---
 #### [Rockstar Developer](http://eimaung.com/rockstar-developer)
 _<sup>http://eimaung.com/rockstar-developer</sup>_
 
@@ -28,11 +34,11 @@ The Service Worker Cookbook is a collection of working, practical examples of us
 * **tags**: [web-development](../tagged/web-development.md), [service-worker](../tagged/service-worker.md), [pwa](../tagged/pwa.md)
 * :octocat: **[source code](https://github.com/mozilla/serviceworker-cookbook)**
 ---
-#### [The Changelog with Adam Stacoviak and Jerod Santo | Changelog](https://changelog.com/podcast)
+#### [The Changelog with Adam Stacoviak and Jerod Santo](https://changelog.com/podcast)
 _<sup>https://changelog.com/podcast</sup>_
 
 A weekly discussion and interview show featuring a wide range of open-source development tools and development-related news. The programme has a heavy focus on web development, from Ruby and node.js t...
-* **tags**: [podcast](../tagged/podcast.md), [web-development](../tagged/web-development.md)
+* **tags**: [podcast](../tagged/podcast.md), [web-development](../tagged/web-development.md), [javascript](../tagged/javascript.md)
 ---
 #### [RestWiki: 
 Query Strings Considered Harmful](http://web.archive.org/web/20070815111413/http://rest.blueoxen.net/cgi-bin/wiki.pl?QueryStringsConsideredHarmful)

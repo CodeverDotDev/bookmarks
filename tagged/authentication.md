@@ -2,6 +2,21 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/authentication](https://www.bookmarks.dev/tagged/authentication)</sup></sup>_
 ---
+#### [Keats/jsonwebtoken](https://github.com/Keats/jsonwebtoken)
+_<sup>https://github.com/Keats/jsonwebtoken</sup>_
+
+[JSON Web Token](https://en.wikipedia.org/wiki/JSON_Web_Token) lib in rust  [![Build Status](https://api.travis-ci.org/Keats/jsonwebtoken.svg?branch=master)](https://travis-ci.org/Keats/jsonwebtoken)
+* **tags**: [rust](../tagged/rust.md), [authentication](../tagged/authentication.md)
+* :octocat: **[source code](https://github.com/Keats/jsonwebtoken)**
+---
+#### [Introduction to React + Tutorial How To Build Your First App](https://auth0.com/blog/react-tutorial-building-and-securing-your-first-app/)
+_<sup>https://auth0.com/blog/react-tutorial-building-and-securing-your-first-app/</sup>_
+
+Introduction to React and its components and routers. Tutorial of how to build a simple Q&A React app - secure backend API with Node.js and Express.
+* :calendar: **published on**: 2018-08-28
+* **tags**: [reactjs](../tagged/reactjs.md), [react-router](../tagged/react-router.md), [nodejs](../tagged/nodejs.md), [expressjs](../tagged/expressjs.md), [axios](../tagged/axios.md), [authentication](../tagged/authentication.md), [security](../tagged/security.md)
+* :octocat: **[source code](https://github.com/auth0-blog/react-tutorial)**
+---
 #### [Kubernetes Authentication plugins and kubeconfig](http://www.dasblinkenlichten.com/kubernetes-authentication-plugins-and-kubeconfig/)
 _<sup>http://www.dasblinkenlichten.com/kubernetes-authentication-plugins-and-kubeconfig/</sup>_
 

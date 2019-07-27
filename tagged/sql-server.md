@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/sql-server](https://www.bookmarks.dev/tagged/sql-server)</sup></sup>_
 ---
+#### [steffengy/tiberius](https://github.com/steffengy/tiberius)
+_<sup>https://github.com/steffengy/tiberius</sup>_
+
+[<img src="https://api.travis-ci.org/steffengy/tiberius.svg?branch=master">](https://travis-ci.org/steffengy/tiberius)
+* **tags**: [rust](../tagged/rust.md), [database](../tagged/database.md), [sql](../tagged/sql.md), [sql-server](../tagged/sql-server.md)
+* :octocat: **[source code](https://github.com/steffengy/tiberius)**
+---
 #### [Troubleshooting SQL Server: A Guide for the Accidental DBA](http://www.red-gate.com/community/books/accidental-dba)
 _<sup>http://www.red-gate.com/community/books/accidental-dba</sup>_
 

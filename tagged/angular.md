@@ -756,7 +756,7 @@ _<sup>https://github.com/angular/angular/blob/master/CHANGELOG.md</sup>_
 _<sup>https://devchat.tv/adv-in-angular</sup>_
 
 Adventures in Angular is a weekly podcast dedicated to the Angular JavaScript framework and related technologies, tools, languages, and practices.
-* **tags**: [angular](../tagged/angular.md), [podcast](../tagged/podcast.md)
+* **tags**: [angular](../tagged/angular.md), [podcast](../tagged/podcast.md), [javascript](../tagged/javascript.md)
 ---
 #### [Angular Air](https://angularair.com/)
 _<sup>https://angularair.com/</sup>_

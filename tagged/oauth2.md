@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/oauth2](https://www.bookmarks.dev/tagged/oauth2)</sup></sup>_
 ---
+#### [OpenID Connect debugger](https://oidcdebugger.com/)
+_<sup>https://oidcdebugger.com/</sup>_
+
+Test and debug OpenID Connect requests. This free tool makes it easy to send requests and view responses.
+* **tags**: [oidc](../tagged/oidc.md), [oauth2](../tagged/oauth2.md), [debugging](../tagged/debugging.md), [dev-tools](../tagged/dev-tools.md)
+* :octocat: **[source code](https://github.com/nbarbettini/oidc-debugger)**
+---
 #### [Securing OAuth 2.0 Resources in Spring Security 5.1 - YouTube](https://www.youtube.com/watch?v=1N-xwmoN83w)
 _<sup>https://www.youtube.com/watch?v=1N-xwmoN83w</sup>_
 

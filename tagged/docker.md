@@ -2,6 +2,58 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/docker](https://www.bookmarks.dev/tagged/docker)</sup></sup>_
 ---
+#### [emk/rust-musl-builder](https://github.com/emk/rust-musl-builder)
+_<sup>https://github.com/emk/rust-musl-builder</sup>_
+
+Docker images for compiling static Rust binaries using musl-libc and musl-gcc, with static versions of useful C libraries
+* **tags**: [rust](../tagged/rust.md), [deployment](../tagged/deployment.md), [docker](../tagged/docker.md)
+* :octocat: **[source code](https://github.com/emk/rust-musl-builder)**
+---
+#### [kpcyrd/mini-docker-rust](https://github.com/kpcyrd/mini-docker-rust)
+_<sup>https://github.com/kpcyrd/mini-docker-rust</sup>_
+
+An example project for very small rust docker images [<img src="https://api.travis-ci.org/kpcyrd/mini-docker-rust.svg?branch=master">](https://travis-ci.org/kpcyrd/mini-docker-rust)
+* **tags**: [rust](../tagged/rust.md), [deployment](../tagged/deployment.md), [docker](../tagged/docker.md)
+* :octocat: **[source code](https://github.com/kpcyrd/mini-docker-rust)**
+---
+#### [liuchong/docker-rustup](https://github.com/liuchong/docker-rustup)
+_<sup>https://github.com/liuchong/docker-rustup</sup>_
+
+A multiple version (with musl tools) Rust Docker image
+* **tags**: [rust](../tagged/rust.md), [deployment](../tagged/deployment.md), [docker](../tagged/docker.md)
+* :octocat: **[source code](https://github.com/liuchong/docker-rustup)**
+---
+#### [messense/rust-musl-cross](https://github.com/messense/rust-musl-cross)
+_<sup>https://github.com/messense/rust-musl-cross</sup>_
+
+Docker images for compiling static Rust binaries using musl-cross [<img src="https://api.travis-ci.org/messense/rust-musl-cross.svg?branch=master">](https://travis-ci.org/messense/rust-musl-cross)
+* **tags**: [rust](../tagged/rust.md), [deployment](../tagged/deployment.md), [docker](../tagged/docker.md)
+* :octocat: **[source code](https://github.com/messense/rust-musl-cross)**
+---
+#### [rust-lang-nursery/docker-rust](https://github.com/rust-lang/docker-rust)
+_<sup>https://github.com/rust-lang/docker-rust</sup>_
+
+the official Rust Docker image
+* **tags**: [rust](../tagged/rust.md), [deployment](../tagged/deployment.md), [docker](../tagged/docker.md)
+* :octocat: **[source code](https://github.com/rust-lang/docker-rust)**
+---
+#### [OpenJDK and Containers - Red Hat Developer Blog](https://developers.redhat.com/blog/2017/04/04/openjdk-and-containers/)
+_<sup>https://developers.redhat.com/blog/2017/04/04/openjdk-and-containers/</sup>_
+
+What can be done to help the OpenJDK JVM play well in the world of Linux Containers?
+I thought I’d start tackling this issue by answering some frequently asked questions:
+
+**Why is it when I specify -...
+* :calendar: **published on**: 2017-04-04
+* **tags**: [openjdk](../tagged/openjdk.md), [docker](../tagged/docker.md), [containers](../tagged/containers.md), [jvm](../tagged/jvm.md)
+---
+#### [Intro Guide to Dockerfile Best Practices - Docker Blog](https://blog.docker.com/2019/07/intro-guide-to-dockerfile-best-practices/)
+_<sup>https://blog.docker.com/2019/07/intro-guide-to-dockerfile-best-practices/</sup>_
+
+There are over one million Dockerfiles on GitHub today, but not all Dockerfiles are created equally. Efficiency is critical, and this blog series will cover five areas for Dockerfile best practices to...
+* :calendar: **published on**: 2019-07-02
+* **tags**: [docker](../tagged/docker.md), [dockerfile](../tagged/dockerfile.md), [maven](../tagged/maven.md), [java](../tagged/java.md)
+---
 #### [The best architecture with Docker and Kubernetes — myth or reality? - Medium](https://medium.com/@dpaunin/the-best-architecture-with-docker-and-kubernetes-myth-or-reality-77b4f8f3804d)
 _<sup>https://medium.com/@dpaunin/the-best-architecture-with-docker-and-kubernetes-myth-or-reality-77b4f8f...</sup>_
 
@@ -103,10 +155,9 @@ Today we’re happy to announce we’re open sourcing our support for using [Doc
 #### [Keycloak Docker Server Image](https://hub.docker.com/r/jboss/keycloak/)
 _<sup>https://hub.docker.com/r/jboss/keycloak/</sup>_
 
- Help and Documentation
-
 * [Keycloak server image documentation](https://github.com/jboss-dockerfiles/keycloak/blob/master/server/README.md)
-* [Documentation](https://www.keycloak.org/documentatio...
+* [Documentation](https://www.keycloak.org/documentation.html)
+* [User Mailing List]...
 * **tags**: [keycloak](../tagged/keycloak.md), [docker](../tagged/docker.md)
 * :octocat: **[source code](https://github.com/jboss-dockerfiles/keycloak)**
 ---

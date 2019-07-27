@@ -2,6 +2,34 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/emacs](https://www.bookmarks.dev/tagged/emacs)</sup></sup>_
 ---
+#### [rust-mode](https://github.com/rust-lang/rust-mode)
+_<sup>https://github.com/rust-lang/rust-mode</sup>_
+
+Rust Major Mode
+* **tags**: [rust](../tagged/rust.md), [ide](../tagged/ide.md), [emacs](../tagged/emacs.md)
+* :octocat: **[source code](https://github.com/rust-lang/rust-mode)**
+---
+#### [flycheck-rust](https://github.com/flycheck/flycheck-rust)
+_<sup>https://github.com/flycheck/flycheck-rust</sup>_
+
+Rust support for [Flycheck](https://github.com/flycheck/flycheck)
+* **tags**: [rust](../tagged/rust.md), [ide](../tagged/ide.md), [emacs](../tagged/emacs.md)
+* :octocat: **[source code](https://github.com/flycheck/flycheck-rust)**
+---
+#### [emacs-racer](https://github.com/racer-rust/emacs-racer)
+_<sup>https://github.com/racer-rust/emacs-racer</sup>_
+
+Autocompletion (see also [company](https://company-mode.github.io) and [auto-complete](https://github.com/auto-complete/auto-complete))
+* **tags**: [rust](../tagged/rust.md), [ide](../tagged/ide.md), [emacs](../tagged/emacs.md)
+* :octocat: **[source code](https://github.com/racer-rust/emacs-racer)**
+---
+#### [lsp-rust](https://github.com/emacs-lsp-legacy/lsp-rust)
+_<sup>https://github.com/emacs-lsp-legacy/lsp-rust</sup>_
+
+Add rls support to [lsp-mode](https://github.com/emacs-lsp/lsp-mode)
+* **tags**: [rust](../tagged/rust.md), [ide](../tagged/ide.md), [emacs](../tagged/emacs.md)
+* :octocat: **[source code](https://github.com/emacs-lsp-legacy/lsp-rust)**
+---
 #### [elpy](https://github.com/jorgenschaefer/elpy)
 _<sup>https://github.com/jorgenschaefer/elpy</sup>_
 

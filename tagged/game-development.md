@@ -2,6 +2,101 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/game-development](https://www.bookmarks.dev/tagged/game-development)</sup></sup>_
 ---
+#### [SiegeLord/RustAllegro](https://github.com/SiegeLord/RustAllegro)
+_<sup>https://github.com/SiegeLord/RustAllegro</sup>_
+
+[Allegro 5](https://liballeg.org/) bindings [<img src="https://api.travis-ci.org/SiegeLord/RustAllegro.svg?branch=master">](https://travis-ci.org/SiegeLord/RustAllegro)
+* **tags**: [rust](../tagged/rust.md), [game-development](../tagged/game-development.md)
+* :octocat: **[source code](https://github.com/SiegeLord/RustAllegro)**
+---
+#### [lucidscape/corange-rs](https://github.com/lucidscape/corange-rs)
+_<sup>https://github.com/lucidscape/corange-rs</sup>_
+
+[Corange](https://github.com/orangeduck/Corange) bindings
+* **tags**: [rust](../tagged/rust.md), [game-development](../tagged/game-development.md)
+* :octocat: **[source code](https://github.com/lucidscape/corange-rs)**
+---
+#### [slide-rs/specs](https://github.com/slide-rs/specs)
+_<sup>https://github.com/slide-rs/specs</sup>_
+
+Specs Parallel ECS [<img src="https://api.travis-ci.org/slide-rs/specs.svg">](httpsL//github.com/travis-ci.org/slide-rs/specs)
+* **tags**: [rust](../tagged/rust.md), [game-development](../tagged/game-development.md)
+* :octocat: **[source code](https://github.com/slide-rs/specs)**
+---
+#### [Amethyst](https://amethyst.rs)
+_<sup>https://amethyst.rs</sup>_
+
+Data-oriented game engine [<img src="https://jenkins.amethyst-engine.org/job/amethyst/job/master/badge/icon">](https://jenkins.amethyst-engine.org/blue/organizations/jenkins/amethyst/activity/)
+* **tags**: [rust](../tagged/rust.md), [game-development](../tagged/game-development.md)
+---
+#### [Piston](https://www.piston.rs/)
+_<sup>https://www.piston.rs/</sup>_
+
+[<img src="https://api.travis-ci.org/PistonDevelopers/piston.svg?branch=master">](https://travis-ci.org/PistonDevelopers/piston)
+* **tags**: [rust](../tagged/rust.md), [game-development](../tagged/game-development.md)
+---
+#### [ggez](https://github.com/ggez/ggez)
+_<sup>https://github.com/ggez/ggez</sup>_
+
+A lightweight game framework for making 2D games with minimum friction [<img src="https://api.travis-ci.org/ggez/ggez.svg?branch=master">](https://travis-ci.org/ggez/ggez)
+* **tags**: [rust](../tagged/rust.md), [game-development](../tagged/game-development.md)
+* :octocat: **[source code](https://github.com/ggez/ggez)**
+---
+#### [Kiss3D](http://kiss3d.org/)
+_<sup>http://kiss3d.org/</sup>_
+
+A Keep It Simple, Stupid 3d graphics engine written with Rust
+* **tags**: [rust](../tagged/rust.md), [game-development](../tagged/game-development.md)
+---
+#### [Unrust](https://github.com/unrust/unrust)
+_<sup>https://github.com/unrust/unrust</sup>_
+
+unrust — A pure rust based (webgl 2.0 / native) game engine
+* **tags**: [rust](../tagged/rust.md), [game-development](../tagged/game-development.md)
+* :octocat: **[source code](https://github.com/unrust/unrust)**
+---
+#### [Vulkust](https://github.com/Hossein-Noroozpour/vulkust)
+_<sup>https://github.com/Hossein-Noroozpour/vulkust</sup>_
+
+Vulkust — A safe, highly multithreaded, Vulkan based game engine written with Rust.
+* **tags**: [rust](../tagged/rust.md), [game-development](../tagged/game-development.md)
+* :octocat: **[source code](https://github.com/Hossein-Noroozpour/vulkust)**
+---
+#### [brson/rust-sdl](https://github.com/brson/rust-sdl)
+_<sup>https://github.com/brson/rust-sdl</sup>_
+
+SDL1 bindings [<img src="https://api.travis-ci.org/brson/rust-sdl.svg?branch=master">](https://travis-ci.org/brson/rust-sdl)
+* **tags**: [rust](../tagged/rust.md), [game-development](../tagged/game-development.md)
+* :octocat: **[source code](https://github.com/brson/rust-sdl)**
+---
+#### [Rust-SDL2/rust-sdl2](https://github.com/Rust-SDL2/rust-sdl2)
+_<sup>https://github.com/Rust-SDL2/rust-sdl2</sup>_
+
+SDL2 bindings [<img src="https://api.travis-ci.org/Rust-SDL2/rust-sdl2.svg?branch=master">](https://travis-ci.org/Rust-SDL2/rust-sdl2)
+* **tags**: [rust](../tagged/rust.md), [game-development](../tagged/game-development.md)
+* :octocat: **[source code](https://github.com/Rust-SDL2/rust-sdl2)**
+---
+#### [jeremyletang/rust-sfml](https://github.com/jeremyletang/rust-sfml)
+_<sup>https://github.com/jeremyletang/rust-sfml</sup>_
+
+[SFML](https://www.sfml-dev.org/) bindings [<img src="https://api.travis-ci.org/jeremyletang/rust-sfml.svg?branch=master">](https://travis-ci.org/jeremyletang/rust-sfml)
+* **tags**: [rust](../tagged/rust.md), [game-development](../tagged/game-development.md)
+* :octocat: **[source code](https://github.com/jeremyletang/rust-sfml)**
+---
+#### [tomassedovic/tcod-rs](https://github.com/tomassedovic/tcod-rs)
+_<sup>https://github.com/tomassedovic/tcod-rs</sup>_
+
+Libtcod bindings for Rust.
+* **tags**: [rust](../tagged/rust.md), [game-development](../tagged/game-development.md)
+* :octocat: **[source code](https://github.com/tomassedovic/tcod-rs)**
+---
+#### [bbodi/rust-voxlap](https://github.com/bbodi/rust-voxlap)
+_<sup>https://github.com/bbodi/rust-voxlap</sup>_
+
+[Voxlap](http://advsys.net/ken/voxlap.htm) bindings
+* **tags**: [rust](../tagged/rust.md), [game-development](../tagged/game-development.md)
+* :octocat: **[source code](https://github.com/bbodi/rust-voxlap)**
+---
 #### [Azul3D](https://github.com/azul3d/engine)
 _<sup>https://github.com/azul3d/engine</sup>_
 

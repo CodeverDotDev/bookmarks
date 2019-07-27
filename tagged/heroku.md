@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/heroku](https://www.bookmarks.dev/tagged/heroku)</sup></sup>_
 ---
+#### [emk/heroku-buildpack-rust](https://github.com/emk/heroku-buildpack-rust)
+_<sup>https://github.com/emk/heroku-buildpack-rust</sup>_
+
+A buildpack for Rust applications on Heroku
+* **tags**: [rust](../tagged/rust.md), [deployment](../tagged/deployment.md), [heroku](../tagged/heroku.md)
+* :octocat: **[source code](https://github.com/emk/heroku-buildpack-rust)**
+---
 #### [awesome-heroku](https://github.com/ianstormtaylor/awesome-heroku#readme)
 _<sup>https://github.com/ianstormtaylor/awesome-heroku#readme</sup>_
 

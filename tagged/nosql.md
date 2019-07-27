@@ -2,6 +2,76 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/nosql](https://www.bookmarks.dev/tagged/nosql)</sup></sup>_
 ---
+#### [Rincon](https://github.com/innoave/rincon)
+_<sup>https://github.com/innoave/rincon</sup>_
+
+An ArangoDB (NoSQL and Graph store) driver for Rust
+* **tags**: [rust](../tagged/rust.md), [database](../tagged/database.md), [nosql](../tagged/nosql.md)
+* :octocat: **[source code](https://github.com/innoave/rincon)**
+---
+#### [Metaswitch/cassandra-rs](https://github.com/Metaswitch/cassandra-rs)
+_<sup>https://github.com/Metaswitch/cassandra-rs</sup>_
+
+bindings to the DataStax C/C++ client [<img src="https://api.travis-ci.org/Metaswitch/cassandra-rs.svg?branch=master">](https://travis-ci.org/Metaswitch/cassandra-rs)
+* **tags**: [rust](../tagged/rust.md), [database](../tagged/database.md), [nosql](../tagged/nosql.md)
+* :octocat: **[source code](https://github.com/Metaswitch/cassandra-rs)**
+---
+#### [vhbit/sherwood](https://github.com/vhbit/sherwood)
+_<sup>https://github.com/vhbit/sherwood</sup>_
+
+[ForestDB](https://github.com/couchbase/forestdb) bindings [<img src="https://api.travis-ci.org/vhbit/sherwood.svg?branch=master">](https://travis-ci.org/vhbit/sherwood)
+* **tags**: [rust](../tagged/rust.md), [database](../tagged/database.md), [nosql](../tagged/nosql.md), [forestdb](../tagged/forestdb.md)
+* :octocat: **[source code](https://github.com/vhbit/sherwood)**
+---
+#### [panoptix-za/influxdb-rs](https://github.com/panoptix-za/influxdb-rs)
+_<sup>https://github.com/panoptix-za/influxdb-rs</sup>_
+
+asynchronous interface [<img src="https://api.travis-ci.org/panoptix-za/influxdb-rs.svg?branch=master">](https://travis-ci.org/panoptix-za/influxdb-rs)
+* **tags**: [rust](../tagged/rust.md), [database](../tagged/database.md), [nosql](../tagged/nosql.md), [forestdb](../tagged/forestdb.md)
+* :octocat: **[source code](https://github.com/panoptix-za/influxdb-rs)**
+---
+#### [driftluo/InfluxDBClient-rs](https://github.com/driftluo/InfluxDBClient-rs)
+_<sup>https://github.com/driftluo/InfluxDBClient-rs</sup>_
+
+Synchronization interface [<img src="https://api.travis-ci.org/driftluo/InfluxDBClient-rs.svg?branch=master">](https://travis-ci.org/driftluo/InfluxDBClient-rs)
+* **tags**: [rust](../tagged/rust.md), [database](../tagged/database.md), [nosql](../tagged/nosql.md), [forestdb](../tagged/forestdb.md)
+* :octocat: **[source code](https://github.com/driftluo/InfluxDBClient-rs)**
+---
+#### [skade/leveldb](https://github.com/skade/leveldb)
+_<sup>https://github.com/skade/leveldb</sup>_
+
+[LevelDB](https://github.com/google/leveldb) bindings [<img src="https://api.travis-ci.org/skade/leveldb.svg?branch=master">](https://travis-ci.org/skade/leveldb)
+* **tags**: [rust](../tagged/rust.md), [database](../tagged/database.md), [nosql](../tagged/nosql.md), [leveldb](../tagged/leveldb.md)
+* :octocat: **[source code](https://github.com/skade/leveldb)**
+---
+#### [mitsuhiko/redis-rs](https://github.com/mitsuhiko/redis-rs)
+_<sup>https://github.com/mitsuhiko/redis-rs</sup>_
+
+[Redis](https://redis.io/) library in Rust [<img src="https://api.travis-ci.org/mitsuhiko/redis-rs.svg?branch=master">](https://travis-ci.org/mitsuhiko/redis-rs)
+* **tags**: [rust](../tagged/rust.md), [database](../tagged/database.md), [nosql](../tagged/nosql.md), [redis](../tagged/redis.md)
+* :octocat: **[source code](https://github.com/mitsuhiko/redis-rs)**
+---
+#### [rust-rocksdb/rust-rocksdb](https://github.com/rust-rocksdb/rust-rocksdb)
+_<sup>https://github.com/rust-rocksdb/rust-rocksdb</sup>_
+
+RocksDB bindings [<img src="https://api.travis-ci.org/rust-rocksdb/rust-rocksdb.svg?branch=master">](https://travis-ci.org/rust-rocksdb/rust-rocksdb)
+* **tags**: [rust](../tagged/rust.md), [database](../tagged/database.md), [nosql](../tagged/nosql.md), [rocksdb](../tagged/rocksdb.md)
+* :octocat: **[source code](https://github.com/rust-rocksdb/rust-rocksdb)**
+---
+#### [zitsen/unqlite.rs](https://github.com/zitsen/unqlite.rs)
+_<sup>https://github.com/zitsen/unqlite.rs</sup>_
+
+UnQLite bindings [<img src="https://api.travis-ci.org/zitsen/unqlite.rs.svg?branch=master">](https://travis-ci.org/zitsen/unqlite.rs)
+* **tags**: [rust](../tagged/rust.md), [database](../tagged/database.md), [nosql](../tagged/nosql.md), [unqlite](../tagged/unqlite.md)
+* :octocat: **[source code](https://github.com/zitsen/unqlite.rs)**
+---
+#### [seladb/pickledb-rs](https://github.com/seladb/pickledb-rs)
+_<sup>https://github.com/seladb/pickledb-rs</sup>_
+
+a lightweight and simple key-value store, heavily inspired by Python's PickleDB. [<img src="https://api.travis-ci.org/seladb/pickledb-rs.svg?branch=master">](https://travis-ci.org/seladb/pickledb-rs)
+* **tags**: [rust](../tagged/rust.md), [database](../tagged/database.md), [nosql](../tagged/nosql.md), [pickledb](../tagged/pickledb.md)
+* :octocat: **[source code](https://github.com/seladb/pickledb-rs)**
+---
 #### [aerospike-client-go](https://github.com/aerospike/aerospike-client-go)
 _<sup>https://github.com/aerospike/aerospike-client-go</sup>_
 

@@ -2,6 +2,97 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/utilities](https://www.bookmarks.dev/tagged/utilities)</sup></sup>_
 ---
+#### [brycx/checkpwn](https://github.com/brycx/checkpwn)
+_<sup>https://github.com/brycx/checkpwn</sup>_
+
+A Have I Been Pwned (HIBP) command-line utility tool that lets you easily check for compromised accounts and passwords.
+* **tags**: [rust](../tagged/rust.md), [utilities](../tagged/utilities.md)
+* :octocat: **[source code](https://github.com/brycx/checkpwn)**
+---
+#### [evansmurithi/cloak](https://github.com/evansmurithi/cloak)
+_<sup>https://github.com/evansmurithi/cloak</sup>_
+
+A Command Line OTP (One Time Password) Authenticator application. [<img src="https://api.travis-ci.com/evansmurithi/cloak.svg?branch=master">](https://travis-ci.com/evansmurithi/cloak) [<img src="http...
+* **tags**: [rust](../tagged/rust.md), [utilities](../tagged/utilities.md)
+* :octocat: **[source code](https://github.com/evansmurithi/cloak)**
+---
+#### [arthrp/consoletimer](https://github.com/arthrp/consoleTimer)
+_<sup>https://github.com/arthrp/consoleTimer</sup>_
+
+Simple timer for your terminal. [<img src="https://api.travis-ci.org/arthrp/consoleTimer.svg?branch=master">](https://travis-ci.org/arthrp/consoleTimer)
+* **tags**: [rust](../tagged/rust.md), [utilities](../tagged/utilities.md)
+* :octocat: **[source code](https://github.com/arthrp/consoleTimer)**
+---
+#### [myfreeweb/freepass](https://github.com/myfreeweb/freepass)
+_<sup>https://github.com/myfreeweb/freepass</sup>_
+
+The free password manager for power users. [<img src="https://api.travis-ci.org/myfreeweb/freepass.svg?branch=master">](https://travis-ci.org/myfreeweb/freepass)
+* **tags**: [rust](../tagged/rust.md), [utilities](../tagged/utilities.md)
+* :octocat: **[source code](https://github.com/myfreeweb/freepass)**
+---
+#### [arthrp/quick-skeleton](https://github.com/arthrp/quick-skeleton)
+_<sup>https://github.com/arthrp/quick-skeleton</sup>_
+
+Project scaffolding tool, similar to Yeoman and Slush. [<img src="https://api.travis-ci.org/arthrp/quick-skeleton.svg?branch=master">](https://travis-ci.org/arthrp/quick-skeleton)
+* **tags**: [rust](../tagged/rust.md), [utilities](../tagged/utilities.md)
+* :octocat: **[source code](https://github.com/arthrp/quick-skeleton)**
+---
+#### [yaa110/rubigo](https://github.com/yaa110/rubigo)
+_<sup>https://github.com/yaa110/rubigo</sup>_
+
+Golang dependency tool and package manager, written in Rust [<img src="https://api.travis-ci.org/yaa110/rubigo.svg?branch=master">](https://travis-ci.org/yaa110/rubigo)
+* **tags**: [rust](../tagged/rust.md), [utilities](../tagged/utilities.md)
+* :octocat: **[source code](https://github.com/yaa110/rubigo)**
+---
+#### [whitfin/s3-concat](https://github.com/whitfin/s3-concat)
+_<sup>https://github.com/whitfin/s3-concat</sup>_
+
+A command line tool to concatenate Amazon S3 files remotely using flexible patterns.
+* **tags**: [rust](../tagged/rust.md), [utilities](../tagged/utilities.md)
+* :octocat: **[source code](https://github.com/whitfin/s3-concat)**
+---
+#### [whitfin/s3-meta](https://github.com/whitfin/s3-meta)
+_<sup>https://github.com/whitfin/s3-meta</sup>_
+
+A command line tool to gather metadata about your Amazon S3 buckets.
+* **tags**: [rust](../tagged/rust.md), [utilities](../tagged/utilities.md)
+* :octocat: **[source code](https://github.com/whitfin/s3-meta)**
+---
+#### [amar-laksh/workstation](https://github.com/amar-laksh/workstation)
+_<sup>https://github.com/amar-laksh/workstation</sup>_
+
+A commandline tool to help you manage your workstation by distancing you from your screen, locking your screen when you aren't there among other things with OPENCV!
+* **tags**: [rust](../tagged/rust.md), [utilities](../tagged/utilities.md)
+* :octocat: **[source code](https://github.com/amar-laksh/workstation)**
+---
+#### [aleshaleksey/AZDice](https://github.com/aleshaleksey/AZDice)
+_<sup>https://github.com/aleshaleksey/AZDice</sup>_
+
+A dice roll success distribution generator for tabletop homebrewers. [<img src="https://api.travis-ci.org/aleshaleksey/AZDice.svg?branch=master">](https://travis-ci.org/aleshaleksey/AZDice)
+* **tags**: [rust](../tagged/rust.md), [utilities](../tagged/utilities.md)
+* :octocat: **[source code](https://github.com/aleshaleksey/AZDice)**
+---
+#### [fcsonline/tmux-thumbs](https://github.com/fcsonline/tmux-thumbs)
+_<sup>https://github.com/fcsonline/tmux-thumbs</sup>_
+
+A lightning fast version of tmux-fingers written in Rust, copy/pasting tmux like vimium/vimperator.
+* **tags**: [rust](../tagged/rust.md), [utilities](../tagged/utilities.md)
+* :octocat: **[source code](https://github.com/fcsonline/tmux-thumbs)**
+---
+#### [repoch](https://github.com/lucawen/repoch)
+_<sup>https://github.com/lucawen/repoch</sup>_
+
+Convert epoch to datetime and datetime to epoch [<img src="https://api.travis-ci.com/lucawen/repoch.svg?branch=master">](https://travis-ci.com/lucawen/repoch/)
+* **tags**: [rust](../tagged/rust.md), [utilities](../tagged/utilities.md)
+* :octocat: **[source code](https://github.com/lucawen/repoch)**
+---
+#### [yaa110/cb](https://github.com/yaa110/cb)
+_<sup>https://github.com/yaa110/cb</sup>_
+
+Command line interface to manage clipboard [![Build Status](https://api.travis-ci.org/yaa110/cb.svg?branch=master)](https://travis-ci.org/yaa110/cb)
+* **tags**: [rust](../tagged/rust.md), [utilities](../tagged/utilities.md)
+* :octocat: **[source code](https://github.com/yaa110/cb)**
+---
 #### [abutil](https://github.com/bahlo/abutil)
 _<sup>https://github.com/bahlo/abutil</sup>_
 

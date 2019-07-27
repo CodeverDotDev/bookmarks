@@ -2,11 +2,105 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/reactjs](https://www.bookmarks.dev/tagged/reactjs)</sup></sup>_
 ---
+#### [React Native Home Page](https://facebook.github.io/react-native/)
+_<sup>https://facebook.github.io/react-native/</sup>_
+
+A framework for building native apps using React
+* **tags**: [reactjs](../tagged/reactjs.md), [react-native](../tagged/react-native.md)
+* :octocat: **[source code](https://github.com/facebook/react-native)**
+---
+#### [Introduction to React + Tutorial How To Build Your First App](https://auth0.com/blog/react-tutorial-building-and-securing-your-first-app/)
+_<sup>https://auth0.com/blog/react-tutorial-building-and-securing-your-first-app/</sup>_
+
+Introduction to React and its components and routers. Tutorial of how to build a simple Q&A React app - secure backend API with Node.js and Express.
+* :calendar: **published on**: 2018-08-28
+* **tags**: [reactjs](../tagged/reactjs.md), [react-router](../tagged/react-router.md), [nodejs](../tagged/nodejs.md), [expressjs](../tagged/expressjs.md), [axios](../tagged/axios.md), [authentication](../tagged/authentication.md), [security](../tagged/security.md)
+* :octocat: **[source code](https://github.com/auth0-blog/react-tutorial)**
+---
+#### [React.js Boilerplate](https://www.reactboilerplate.com/)
+_<sup>https://www.reactboilerplate.com/</sup>_
+
+A highly scalable, offline-first foundation with the best DX and a focus on performance and best practices
+* **tags**: [reactjs](../tagged/reactjs.md), [boilerplate](../tagged/boilerplate.md)
+* :octocat: **[source code](https://github.com/react-boilerplate/react-boilerplate)**
+---
+#### [What Does Redux Do? (and when should you use it?)](https://daveceddia.com/what-does-redux-do/)
+_<sup>https://daveceddia.com/what-does-redux-do/</sup>_
+
+Read this to figure out what Redux is for, why it's useful, and when to use it.
+* :calendar: **published on**: 2017-10-25
+* **tags**: [redux](../tagged/redux.md), [reactjs](../tagged/reactjs.md)
+---
+#### [Atomic Design with React](https://codeburst.io/atomic-design-with-react-e7aea8152957)
+_<sup>https://codeburst.io/atomic-design-with-react-e7aea8152957</sup>_
+
+How the Atomic Design methodology allowed me to create a great design system from scratch and made me a better developer, with principles of componentization, hierarchies and reuses of code.
+* :calendar: **published on**: 2018-01-08
+* **tags**: [reactjs](../tagged/reactjs.md), [web-design](../tagged/web-design.md)
+* :octocat: **[source code](https://github.com/danilowoz/react-atomic-design)**
+---
+#### [A Story About Kanye West and Learning to Code](https://syntax.fm/)
+_<sup>https://syntax.fm/</sup>_
+
+Full Stack Developers Wes Bos and Scott Tolinski dive deep into web development topics, explaining how they work and talking about their own experiences. They cover from JavaScript frameworks like Rea...
+* **tags**: [podcast](../tagged/podcast.md), [javascript](../tagged/javascript.md), [reactjs](../tagged/reactjs.md), [web-development](../tagged/web-development.md), [css](../tagged/css.md)
+---
+#### [Redux Tutorial by Dan Abramov](https://egghead.io/courses/getting-started-with-redux)
+_<sup>https://egghead.io/courses/getting-started-with-redux</sup>_
+
+In this comprehensive tutorial, Dan Abramov - the creator of Redux - will teach you how to manage state in your React application with Redux.
+State management is absolutely critical in providing users...
+* **tags**: [redux](../tagged/redux.md), [reactjs](../tagged/reactjs.md)
+* :octocat: **[source code](https://github.com/tayiorbeii/egghead.io_redux_course_notes)**
+---
+#### [ARc - Atomic React](https://arc.js.org/)
+_<sup>https://arc.js.org/</sup>_
+
+React starter kit based on Atomic Design with React Router, Webpack, Redux, Server Side Rendering and more
+* **tags**: [reactjs](../tagged/reactjs.md), [redux](../tagged/redux.md), [webpack](../tagged/webpack.md), [react-router](../tagged/react-router.md)
+* :octocat: **[source code](https://github.com/diegohaz/arc)**
+---
+#### [GatsbyJS Home Page](https://www.gatsbyjs.org/)
+_<sup>https://www.gatsbyjs.org/</sup>_
+
+Gatsby is a free and open source framework based on React that helps developers build blazing fast websites and apps
+* **tags**: [reactjs](../tagged/reactjs.md), [static-site-generator](../tagged/static-site-generator.md), [gatsby](../tagged/gatsby.md)
+* :octocat: **[source code](https://github.com/gatsbyjs/gatsby)**
+---
+#### [Next.js Crash Course - Server Side React - YouTube](https://www.youtube.com/watch?v=IkOVe40Sy0U)
+_<sup>https://www.youtube.com/watch?v=IkOVe40Sy0U</sup>_
+
+In this video we will talk about Next.js which is a framework to render React on the server. We will look at setup and build a simple application that pulls Bitcoin pricing from an API and displays it...
+* :calendar: **published on**: 2018-01-19
+* **tags**: [reactjs](../tagged/reactjs.md), [next.js](../tagged/next.js.md)
+* :octocat: **[source code](https://github.com/bradtraversy/bitzprice)**
+---
+#### [ReactJS Tutorial Series - YouTube](https://www.youtube.com/playlist?list=PL7pEw9n3GkoWkHCQsfBh77UP4nc8lvTbS)
+_<sup>https://www.youtube.com/playlist?list=PL7pEw9n3GkoWkHCQsfBh77UP4nc8lvTbS</sup>_
+
+ReactJS and Redux Series for beginners - well explained with examples. 
+* **tags**: [reactjs](../tagged/reactjs.md), [redux](../tagged/redux.md)
+---
+#### [Keycloak SSO on Multiple React Apps](https://medium.com/@gmonne/keycloak-sso-1813a2072d64)
+_<sup>https://medium.com/@gmonne/keycloak-sso-1813a2072d64</sup>_
+
+On this article, I’ll focus on how we can authenticate two React applications using the OpenID authentication protocol with Keycloak. Why React? Because it’s the framework, I prefer. Though, you could...
+* :calendar: **published on**: 2019-07-19
+* **tags**: [keycloak](../tagged/keycloak.md), [reactjs](../tagged/reactjs.md)
+* :octocat: **[source code](https://github.com/guzmonne/keycloak-react)**
+---
+#### [User Authentication with Keycloak - Part 1: React front-end - Frontend](https://scalac.io/user-authentication-keycloak-1/)
+_<sup>https://scalac.io/user-authentication-keycloak-1/</sup>_
+
+Today, we’ll learn how to set up your Keycloak server and use it to secure a React-based browser app. In the next part of this series, we’ll be looking into integrating it with a Scala backend. So, le...
+* **tags**: [keycloak](../tagged/keycloak.md), [reactjs](../tagged/reactjs.md)
+* :octocat: **[source code](https://github.com/kmikulski/blog-keycloak/tree/master/keycloak-react-part1)**
+---
 #### [Next.js - The React Framework home page](https://nextjs.org/)
 _<sup>https://nextjs.org/</sup>_
 
 Production grade React applications that scale. The world’s leading companies use Next.js to build server-rendered applications, static websites, and more.
-* **tags**: [nextjs](../tagged/nextjs.md), [reactjs](../tagged/reactjs.md)
+* **tags**: [reactjs](../tagged/reactjs.md), [next.js](../tagged/next.js.md)
 * :octocat: **[source code](https://github.com/zeit/next.js)**
 ---
 #### [Create React App · Set up a modern web app by running one command.](https://facebook.github.io/create-react-app/)
@@ -24,7 +118,7 @@ Podcasts dedicated to React and individual podcast episodes with React discussio
  Podcasts
 
 - [The React Podcast](https://reactpodcast.simplecast.fm/) - The podcast about everything React.js, ...
-* **tags**: [reactjs](../tagged/reactjs.md), [podcast](../tagged/podcast.md)
+* **tags**: [reactjs](../tagged/reactjs.md), [podcast](../tagged/podcast.md), [javascript](../tagged/javascript.md)
 ---
 #### [Jest · 🃏 Delightful JavaScript Testing](https://jestjs.io/)
 _<sup>https://jestjs.io/</sup>_

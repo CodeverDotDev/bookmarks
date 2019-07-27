@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/erlang](https://www.bookmarks.dev/tagged/erlang)</sup></sup>_
 ---
+#### [rusterlium/rustler](https://github.com/rusterlium/rustler)
+_<sup>https://github.com/rusterlium/rustler</sup>_
+
+safe Rust bridge for creating Erlang NIF functions [<img src="https://api.travis-ci.org/rusterlium/rustler.svg?branch=master">](https://travis-ci.org/rusterlium/rustler)
+* **tags**: [rust](../tagged/rust.md), [ffi](../tagged/ffi.md), [erlang](../tagged/erlang.md)
+* :octocat: **[source code](https://github.com/rusterlium/rustler)**
+---
 #### [awesome-erlang](https://github.com/drobakowski/awesome-erlang#readme)
 _<sup>https://github.com/drobakowski/awesome-erlang#readme</sup>_
 

@@ -2,6 +2,48 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/data-structures](https://www.bookmarks.dev/tagged/data-structures)</sup></sup>_
 ---
+#### [bluss/rust-itertools](https://github.com/bluss/rust-itertools)
+_<sup>https://github.com/bluss/rust-itertools</sup>_
+
+[<img src="https://api.travis-ci.org/bluss/rust-itertools.svg?branch=master">](https://travis-ci.org/bluss/rust-itertools)
+* **tags**: [rust](../tagged/rust.md), [data-structures](../tagged/data-structures.md)
+* :octocat: **[source code](https://github.com/bluss/rust-itertools)**
+---
+#### [contain-rs](https://github.com/contain-rs)
+_<sup>https://github.com/contain-rs</sup>_
+
+Extension of Rust's std::collections
+* **tags**: [rust](../tagged/rust.md), [data-structures](../tagged/data-structures.md)
+* :octocat: **[source code](https://github.com/contain-rs)**
+---
+#### [danielpclark/array_tool](https://github.com/danielpclark/array_tool)
+_<sup>https://github.com/danielpclark/array_tool</sup>_
+
+Array helpers for Rust. Some of the most common methods you would use on Arrays made available on Vectors. Polymorphic implementations for handling most of your use cases. [<img src="https://api.travi...
+* **tags**: [rust](../tagged/rust.md), [data-structures](../tagged/data-structures.md)
+* :octocat: **[source code](https://github.com/danielpclark/array_tool)**
+---
+#### [fizyk20/generic-array](https://github.com/fizyk20/generic-array)
+_<sup>https://github.com/fizyk20/generic-array</sup>_
+
+Generic array types in Rust. Contribute to fizyk20/generic-array development by creating an account on GitHub.
+* **tags**: [rust](../tagged/rust.md), [data-structures](../tagged/data-structures.md)
+* :octocat: **[source code](https://github.com/fizyk20/generic-array)**
+---
+#### [Nemo157/roaring-rs](https://github.com/Nemo157/roaring-rs)
+_<sup>https://github.com/Nemo157/roaring-rs</sup>_
+
+Roaring bitmap implementation for Rust. Contribute to Nemo157/roaring-rs development by creating an account on GitHub.
+* **tags**: [rust](../tagged/rust.md), [data-structures](../tagged/data-structures.md)
+* :octocat: **[source code](https://github.com/Nemo157/roaring-rs)**
+---
+#### [pop-os/progress-streams](https://github.com/pop-os/progress-streams)
+_<sup>https://github.com/pop-os/progress-streams</sup>_
+
+Progress callbacks for types which implement `dyn io::Read` or `dyn io::Write`.
+* **tags**: [rust](../tagged/rust.md), [data-structures](../tagged/data-structures.md)
+* :octocat: **[source code](https://github.com/pop-os/progress-streams)**
+---
 #### [algorithms](https://github.com/shady831213/algorithms)
 _<sup>https://github.com/shady831213/algorithms</sup>_
 

@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/jwt](https://www.bookmarks.dev/tagged/jwt)</sup></sup>_
 ---
+#### [GitHub - auth0/express-jwt](https://github.com/auth0/express-jwt)
+_<sup>https://github.com/auth0/express-jwt</sup>_
+
+connect/express middleware that validates a JsonWebToken (JWT) and set the req.user with the attributes - auth0/express-jwt
+* **tags**: [expressjs](../tagged/expressjs.md), [nodejs](../tagged/nodejs.md), [jwt](../tagged/jwt.md)
+* :octocat: **[source code](https://github.com/auth0/express-jwt)**
+---
 #### [pyjwt](https://github.com/jpadilla/pyjwt)
 _<sup>https://github.com/jpadilla/pyjwt</sup>_
 

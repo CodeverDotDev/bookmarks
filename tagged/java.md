@@ -2,6 +2,42 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/java](https://www.bookmarks.dev/tagged/java)</sup></sup>_
 ---
+#### [bennettanderson/rjni](https://github.com/benanders/rjni)
+_<sup>https://github.com/benanders/rjni</sup>_
+
+use Java from Rust [<img src="https://api.travis-ci.org/bennettanderson/rjni.svg?branch=master">](https://travis-ci.org/GravityScore/RustJNI)
+* **tags**: [rust](../tagged/rust.md), [ffi](../tagged/ffi.md), [java](../tagged/java.md)
+* :octocat: **[source code](https://github.com/benanders/rjni)**
+---
+#### [drrb/java-rust-example](https://github.com/drrb/java-rust-example)
+_<sup>https://github.com/drrb/java-rust-example</sup>_
+
+use Rust from Java [<img src="https://api.travis-ci.org/drrb/java-rust-example.svg?branch=master">](https://travis-ci.org/drrb/java-rust-example)
+* **tags**: [rust](../tagged/rust.md), [ffi](../tagged/ffi.md), [java](../tagged/java.md)
+* :octocat: **[source code](https://github.com/drrb/java-rust-example)**
+---
+#### [rawrasaur/rust-jdbc](https://github.com/rawrasaur/rust-jdbc)
+_<sup>https://github.com/rawrasaur/rust-jdbc</sup>_
+
+uses JDBC from Rust [<img src="https://api.travis-ci.org/rawrasaur/rust-jdbc.svg?branch=master">](https://travis-ci.org/rawrasaur/rust-jdbc)
+* **tags**: [rust](../tagged/rust.md), [ffi](../tagged/ffi.md), [java](../tagged/java.md)
+* :octocat: **[source code](https://github.com/rawrasaur/rust-jdbc)**
+---
+#### [Java Pub House – The tutorials for Java Professionals](http://www.javapubhouse.com/)
+_<sup>http://www.javapubhouse.com/</sup>_
+
+* **Description**: podcast talks about how to program in Java.
+* **Host**: Freddy Guime @[fguime](https://twitter.com/fguime), Bob Paulin @[bobpaulin](https://twitter.com/bobpaulin)
+* **Frequency**: A...
+* **tags**: [podcast](../tagged/podcast.md), [java](../tagged/java.md)
+---
+#### [Intro Guide to Dockerfile Best Practices - Docker Blog](https://blog.docker.com/2019/07/intro-guide-to-dockerfile-best-practices/)
+_<sup>https://blog.docker.com/2019/07/intro-guide-to-dockerfile-best-practices/</sup>_
+
+There are over one million Dockerfiles on GitHub today, but not all Dockerfiles are created equally. Efficiency is critical, and this blog series will cover five areas for Dockerfile best practices to...
+* :calendar: **published on**: 2019-07-02
+* **tags**: [docker](../tagged/docker.md), [dockerfile](../tagged/dockerfile.md), [maven](../tagged/maven.md), [java](../tagged/java.md)
+---
 #### [Vertx-Web](https://github.com/vert-x3/vertx-web)
 _<sup>https://github.com/vert-x3/vertx-web</sup>_
 

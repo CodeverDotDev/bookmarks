@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/data-visualization](https://www.bookmarks.dev/tagged/data-visualization)</sup></sup>_
 ---
+#### [saresend/gust](https://github.com/saresend/Gust)
+_<sup>https://github.com/saresend/Gust</sup>_
+
+[<img src="https://api.travis-ci.org/saresend/Gust.svg?branch=master">](https://travis-ci.org/saresend/Gust)
+* **tags**: [rust](../tagged/rust.md), [data-visualization](../tagged/data-visualization.md)
+* :octocat: **[source code](https://github.com/saresend/Gust)**
+---
 #### [Chartkick](http://ankane.github.io/chartkick/)
 _<sup>http://ankane.github.io/chartkick/</sup>_
 

@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/mysql](https://www.bookmarks.dev/tagged/mysql)</sup></sup>_
 ---
+#### [AgilData/mysql-proxy-rs](https://github.com/AgilData/mysql-proxy-rs)
+_<sup>https://github.com/AgilData/mysql-proxy-rs</sup>_
+
+A MySQL Proxy [<img src="https://api.travis-ci.org/AgilData/mysql-proxy-rs.svg?branch=master">](https://travis-ci.org/AgilData/mysql-proxy-rs)
+* **tags**: [rust](../tagged/rust.md), [database](../tagged/database.md), [sql](../tagged/sql.md), [mysql](../tagged/mysql.md)
+* :octocat: **[source code](https://github.com/AgilData/mysql-proxy-rs)**
+---
 #### [awesome-textpattern](https://github.com/drmonkeyninja/awesome-textpattern#readme)
 _<sup>https://github.com/drmonkeyninja/awesome-textpattern#readme</sup>_
 

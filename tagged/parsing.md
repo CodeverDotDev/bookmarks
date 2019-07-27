@@ -2,6 +2,76 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/parsing](https://www.bookmarks.dev/tagged/parsing)</sup></sup>_
 ---
+#### [Geal/nom](https://github.com/Geal/nom)
+_<sup>https://github.com/Geal/nom</sup>_
+
+parser combinator library [<img src="https://api.travis-ci.org/Geal/nom.svg?branch=master">](https://travis-ci.org/Geal/nom)
+* **tags**: [rust](../tagged/rust.md), [parsing](../tagged/parsing.md)
+* :octocat: **[source code](https://github.com/Geal/nom)**
+---
+#### [ivanceras/inquerest](https://github.com/ivanceras/inquerest)
+_<sup>https://github.com/ivanceras/inquerest</sup>_
+
+an URL parameter parser for rest filter inquiry [![Build Status](https://api.travis-ci.org/ivanceras/inquerest.svg?branch=master)](https://travis-ci.org/ivanceras/inquerest)
+* **tags**: [rust](../tagged/rust.md), [parsing](../tagged/parsing.md)
+* :octocat: **[source code](https://github.com/ivanceras/inquerest)**
+---
+#### [kevinmehall/rust-peg](https://github.com/kevinmehall/rust-peg)
+_<sup>https://github.com/kevinmehall/rust-peg</sup>_
+
+Parsing Expression Grammar (PEG) parser generator
+* **tags**: [rust](../tagged/rust.md), [parsing](../tagged/parsing.md)
+* :octocat: **[source code](https://github.com/kevinmehall/rust-peg)**
+---
+#### [m4rw3r/chomp](https://github.com/m4rw3r/chomp)
+_<sup>https://github.com/m4rw3r/chomp</sup>_
+
+A fast monadic-style parser combinator designed to work on stable Rust. - m4rw3r/chomp
+* **tags**: [rust](../tagged/rust.md), [parsing](../tagged/parsing.md)
+* :octocat: **[source code](https://github.com/m4rw3r/chomp)**
+---
+#### [Marwes/combine](https://github.com/Marwes/combine)
+_<sup>https://github.com/Marwes/combine</sup>_
+
+parser combinator library [<img src="https://api.travis-ci.org/Marwes/combine.svg?branch=master">](https://travis-ci.org/Marwes/combine)
+* **tags**: [rust](../tagged/rust.md), [parsing](../tagged/parsing.md)
+* :octocat: **[source code](https://github.com/Marwes/combine)**
+---
+#### [lalrpop/lalrpop](https://github.com/lalrpop/lalrpop)
+_<sup>https://github.com/lalrpop/lalrpop</sup>_
+
+LR(1) parser generator for Rust [![Build status](https://api.travis-ci.org/lalrpop/lalrpop.svg?branch=master)](https://travis-ci.org/lalrpop/lalrpop)
+* **tags**: [rust](../tagged/rust.md), [parsing](../tagged/parsing.md)
+* :octocat: **[source code](https://github.com/lalrpop/lalrpop)**
+---
+#### [nrc/zero](https://github.com/nrc/zero)
+_<sup>https://github.com/nrc/zero</sup>_
+
+zero-allocation parsing of binary data [<img src="https://api.travis-ci.org/nrc/zero.svg?branch=master">](https://travis-ci.org/nrc/zero)
+* **tags**: [rust](../tagged/rust.md), [parsing](../tagged/parsing.md)
+* :octocat: **[source code](https://github.com/nrc/zero)**
+---
+#### [pest-parser/pest](https://github.com/pest-parser/pest)
+_<sup>https://github.com/pest-parser/pest</sup>_
+
+The Elegant Parser [![Build Status](https://api.travis-ci.org/pest-parser/pest.svg?branch=master)](https://travis-ci.org/pest-parser/pest)
+* **tags**: [rust](../tagged/rust.md), [parsing](../tagged/parsing.md)
+* :octocat: **[source code](https://github.com/pest-parser/pest)**
+---
+#### [ptal/oak](https://github.com/ptal/oak)
+_<sup>https://github.com/ptal/oak</sup>_
+
+A typed PEG parser generator (compiler plugin)
+* **tags**: [rust](../tagged/rust.md), [parsing](../tagged/parsing.md)
+* :octocat: **[source code](https://github.com/ptal/oak)**
+---
+#### [rustless/queryst](https://github.com/rustless/queryst)
+_<sup>https://github.com/rustless/queryst</sup>_
+
+A query string parsing library for Rust inspired by https://github.com/ljharb/qs [![Build Status](https://api.travis-ci.org/rustless/queryst.svg?branch=master)](https://travis-ci.org/rustless/queryst)
+* **tags**: [rust](../tagged/rust.md), [parsing](../tagged/parsing.md)
+* :octocat: **[source code](https://github.com/rustless/queryst)**
+---
 #### [remark](https://github.com/wooorm/remark)
 _<sup>https://github.com/wooorm/remark</sup>_
 

@@ -2,6 +2,34 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/lua](https://www.bookmarks.dev/tagged/lua)</sup></sup>_
 ---
+#### [jcmoyer/rust-lua53](https://github.com/jcmoyer/rust-lua53)
+_<sup>https://github.com/jcmoyer/rust-lua53</sup>_
+
+Lua 5.3 bindings for Rust [<img src="https://api.travis-ci.org/jcmoyer/rust-lua53.svg?branch=master">](https://travis-ci.org/jcmoyer/rust-lua53)
+* **tags**: [rust](../tagged/rust.md), [ffi](../tagged/ffi.md), [lua](../tagged/lua.md)
+* :octocat: **[source code](https://github.com/jcmoyer/rust-lua53)**
+---
+#### [kballard/rust-lua](https://github.com/lilyball/rust-lua)
+_<sup>https://github.com/lilyball/rust-lua</sup>_
+
+Safe Rust bindings to Lua 5.1 [<img src="https://api.travis-ci.org/lilyball/rust-lua.svg">](https://travis-ci.org/lilyball/rust-lua)
+* **tags**: [rust](../tagged/rust.md), [ffi](../tagged/ffi.md), [lua](../tagged/lua.md)
+* :octocat: **[source code](https://github.com/lilyball/rust-lua)**
+---
+#### [tickbh/td_rlua](https://github.com/tickbh/td_rlua)
+_<sup>https://github.com/tickbh/td_rlua</sup>_
+
+Zero-cost high-level lua 5.3 wrapper for Rust [<img src="https://api.travis-ci.org/tickbh/td_rlua.svg?branch=master">](https://travis-ci.org/tickbh/td_rlua)
+* **tags**: [rust](../tagged/rust.md), [ffi](../tagged/ffi.md), [lua](../tagged/lua.md)
+* :octocat: **[source code](https://github.com/tickbh/td_rlua)**
+---
+#### [tomaka/hlua](https://github.com/tomaka/hlua)
+_<sup>https://github.com/tomaka/hlua</sup>_
+
+Rust library to interface with Lua [<img src="https://api.travis-ci.org/tomaka/hlua.svg?branch=master">](https://travis-ci.org/tomaka/hlua)
+* **tags**: [rust](../tagged/rust.md), [ffi](../tagged/ffi.md), [lua](../tagged/lua.md)
+* :octocat: **[source code](https://github.com/tomaka/hlua)**
+---
 #### [graphql-lua](https://github.com/bjornbytes/graphql-lua)
 _<sup>https://github.com/bjornbytes/graphql-lua</sup>_
 

@@ -23,7 +23,7 @@ I was blown away about the simplicity and performance gain of making parallel ca
 * :calendar: **published on**: 2017-11-13
 * **tags**: [nodejs](../tagged/nodejs.md), [async-await](../tagged/async-await.md), [async](../tagged/async.md), [javascript](../tagged/javascript.md)
 ---
-#### [Common Async/Await Design Patterns in Node.js | www.thecodebarbarian.com](http://thecodebarbarian.com/common-async-await-design-patterns-in-node.js.html)
+#### [Common Async/Await Design Patterns in Node.js](http://thecodebarbarian.com/common-async-await-design-patterns-in-node.js.html)
 _<sup>http://thecodebarbarian.com/common-async-await-design-patterns-in-node.js.html</sup>_
 
 Retry, parallel request, mongodb cursor etc.

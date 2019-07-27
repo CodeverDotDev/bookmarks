@@ -2,6 +2,27 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/http](https://www.bookmarks.dev/tagged/http)</sup></sup>_
 ---
+#### [pop-os/parallel-getter](https://github.com/pop-os/parallel-getter)
+_<sup>https://github.com/pop-os/parallel-getter</sup>_
+
+Download a file with parallel GET requests to maximize bandwidth usage.
+* **tags**: [rust](../tagged/rust.md), [network-programming](../tagged/network-programming.md), [http](../tagged/http.md)
+* :octocat: **[source code](https://github.com/pop-os/parallel-getter)**
+---
+#### [pop-os/url-crawler](https://github.com/pop-os/url-crawler)
+_<sup>https://github.com/pop-os/url-crawler</sup>_
+
+A configurable parallel web crawler, designed to crawl a website for content.
+* **tags**: [rust](../tagged/rust.md), [network-programming](../tagged/network-programming.md), [http](../tagged/http.md)
+* :octocat: **[source code](https://github.com/pop-os/url-crawler)**
+---
+#### [pop-os/url-scraper](https://github.com/pop-os/url-scraper)
+_<sup>https://github.com/pop-os/url-scraper</sup>_
+
+Scrape URLs from HTML pages
+* **tags**: [rust](../tagged/rust.md), [network-programming](../tagged/network-programming.md), [http](../tagged/http.md)
+* :octocat: **[source code](https://github.com/pop-os/url-scraper)**
+---
 #### [grequests](https://github.com/kennethreitz/grequests)
 _<sup>https://github.com/kennethreitz/grequests</sup>_
 

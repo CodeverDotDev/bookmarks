@@ -2,6 +2,20 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/web](https://www.bookmarks.dev/tagged/web)</sup></sup>_
 ---
+#### [Plume-org/Plume](https://github.com/Plume-org/Plume)
+_<sup>https://github.com/Plume-org/Plume</sup>_
+
+ActivityPub federating blogging application [<img src="https://api.travis-ci.org/Plume-org/Plume.svg?branch=master">](https://travis-ci.org/Plume-org/Plume)
+* **tags**: [rust](../tagged/rust.md), [web](../tagged/web.md)
+* :octocat: **[source code](https://github.com/Plume-org/Plume)**
+---
+#### [rustlang-cn/ruster](https://github.com/rustlang-cn/ruster)
+_<sup>https://github.com/rustlang-cn/ruster</sup>_
+
+online community in rust for rust community [<img src="https://api.travis-ci.org/rustlang-cn/ruster.svg?branch=master">](https://travis-ci.org/rustlang-cn/ruster)
+* **tags**: [rust](../tagged/rust.md), [web](../tagged/web.md)
+* :octocat: **[source code](https://github.com/rustlang-cn/ruster)**
+---
 #### [locust](https://github.com/locustio/locust)
 _<sup>https://github.com/locustio/locust</sup>_
 

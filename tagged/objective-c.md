@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/objective-c](https://www.bookmarks.dev/tagged/objective-c)</sup></sup>_
 ---
+#### [SSheldon/rust-objc](https://github.com/SSheldon/rust-objc)
+_<sup>https://github.com/SSheldon/rust-objc</sup>_
+
+Objective-C Runtime bindings and wrapper for Rust
+* **tags**: [rust](../tagged/rust.md), [ffi](../tagged/ffi.md), [objective-c](../tagged/objective-c.md)
+* :octocat: **[source code](https://github.com/SSheldon/rust-objc)**
+---
 #### [CocoaPods.org](https://cocoapods.org/)
 _<sup>https://cocoapods.org/</sup>_
 

@@ -2,6 +2,48 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/asynchronous](https://www.bookmarks.dev/tagged/asynchronous)</sup></sup>_
 ---
+#### [dpc/mioco](https://github.com/dpc/mioco)
+_<sup>https://github.com/dpc/mioco</sup>_
+
+Scalable, coroutine-based, asynchronous IO handling library [<img src="https://img.shields.io/travis/dpc/mioco/master.svg?style=flat-square" alt="Travis CI Build Status">](https://travis-ci.org/dpc/mi...
+* **tags**: [rust](../tagged/rust.md), [asynchronous](../tagged/asynchronous.md)
+* :octocat: **[source code](https://github.com/dpc/mioco)**
+---
+#### [TeaEntityLab/fpRust](https://github.com/TeaEntityLab/fpRust)
+_<sup>https://github.com/TeaEntityLab/fpRust</sup>_
+
+Monad/MonadIO, Handler, Coroutine/doNotation, Functional Programming features for Rust [<img src="https://api.travis-ci.org/TeaEntityLab/fpRust.svg?branch=master" alt="Travis CI Build Status">](https:...
+* **tags**: [rust](../tagged/rust.md), [asynchronous](../tagged/asynchronous.md)
+* :octocat: **[source code](https://github.com/TeaEntityLab/fpRust)**
+---
+#### [rust-lang-nursery/futures-rs](https://github.com/rust-lang-nursery/futures-rs)
+_<sup>https://github.com/rust-lang-nursery/futures-rs</sup>_
+
+Zero-cost futures in Rust [<img src="https://api.travis-ci.org/rust-lang-nursery/futures-rs.svg?branch=master" alt="Travis CI Build Status">](https://travis-ci.org/rust-lang-nursery/futures-rs)
+* **tags**: [rust](../tagged/rust.md), [asynchronous](../tagged/asynchronous.md)
+* :octocat: **[source code](https://github.com/rust-lang-nursery/futures-rs)**
+---
+#### [mio](https://github.com/tokio-rs/mio)
+_<sup>https://github.com/tokio-rs/mio</sup>_
+
+MIO is a lightweight IO library for Rust with a focus on adding as little overhead as possible over the OS abstractions [<img src="https://api.travis-ci.org/tokio-rs/mio.svg?branch=master">](https://t...
+* **tags**: [rust](../tagged/rust.md), [asynchronous](../tagged/asynchronous.md)
+* :octocat: **[source code](https://github.com/tokio-rs/mio)**
+---
+#### [Xudong-Huang/may](https://github.com/Xudong-Huang/may)
+_<sup>https://github.com/Xudong-Huang/may</sup>_
+
+rust stackful coroutine library [<img src="https://api.travis-ci.org/Xudong-Huang/may.svg?branch=master">](https://travis-ci.org/Xudong-Huang/may)
+* **tags**: [rust](../tagged/rust.md), [asynchronous](../tagged/asynchronous.md)
+* :octocat: **[source code](https://github.com/Xudong-Huang/may)**
+---
+#### [rustasync/runtime](https://github.com/rustasync/runtime)
+_<sup>https://github.com/rustasync/runtime</sup>_
+
+A runtime agnostic API designed to make async feel like its part of stdlib [![Crates.io](https://img.shields.io/crates/v/runtime.svg?style=flat-square)](https://crates.io/crates/runtime) [![Build stat...
+* **tags**: [rust](../tagged/rust.md), [asynchronous](../tagged/asynchronous.md)
+* :octocat: **[source code](https://github.com/rustasync/runtime)**
+---
 #### [Handling Observables with NgIf and the Async Pipe](https://ultimatecourses.com/blog/angular-ngif-async-pipe)
 _<sup>https://ultimatecourses.com/blog/angular-ngif-async-pipe</sup>_
 

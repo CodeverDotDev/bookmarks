@@ -2,6 +2,27 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/haskell](https://www.bookmarks.dev/tagged/haskell)</sup></sup>_
 ---
+#### [mgattozzi/curryrs](https://github.com/mgattozzi/curryrs)
+_<sup>https://github.com/mgattozzi/curryrs</sup>_
+
+Bridge the gap between Haskell and Rust
+* **tags**: [rust](../tagged/rust.md), [ffi](../tagged/ffi.md), [haskell](../tagged/haskell.md)
+* :octocat: **[source code](https://github.com/mgattozzi/curryrs)**
+---
+#### [mgattozzi/haskellrs](https://github.com/mgattozzi/haskellrs)
+_<sup>https://github.com/mgattozzi/haskellrs</sup>_
+
+Rust in Haskell FFI Example
+* **tags**: [rust](../tagged/rust.md), [ffi](../tagged/ffi.md), [haskell](../tagged/haskell.md)
+* :octocat: **[source code](https://github.com/mgattozzi/haskellrs)**
+---
+#### [mgattozzi/rushs](https://github.com/mgattozzi/rushs)
+_<sup>https://github.com/mgattozzi/rushs</sup>_
+
+Haskell in Rust FFI Example
+* **tags**: [rust](../tagged/rust.md), [ffi](../tagged/ffi.md), [haskell](../tagged/haskell.md)
+* :octocat: **[source code](https://github.com/mgattozzi/rushs)**
+---
 #### [Rest for Haskell](https://github.com/silkapp/rest)
 _<sup>https://github.com/silkapp/rest</sup>_
 

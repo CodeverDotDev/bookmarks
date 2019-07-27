@@ -2,6 +2,20 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/sublime-text](https://www.bookmarks.dev/tagged/sublime-text)</sup></sup>_
 ---
+#### [rust-lang/rust-enhanced](https://github.com/rust-lang/rust-enhanced)
+_<sup>https://github.com/rust-lang/rust-enhanced</sup>_
+
+official Rust package
+* **tags**: [rust](../tagged/rust.md), [ide](../tagged/ide.md), [sublime-text](../tagged/sublime-text.md)
+* :octocat: **[source code](https://github.com/rust-lang/rust-enhanced)**
+---
+#### [sublimehq/packages](https://github.com/sublimehq/Packages/tree/master/Rust)
+_<sup>https://github.com/sublimehq/Packages/tree/master/Rust</sup>_
+
+native Sublime support (already installed)
+* **tags**: [rust](../tagged/rust.md), [ide](../tagged/ide.md), [sublime-text](../tagged/sublime-text.md)
+* :octocat: **[source code](https://github.com/sublimehq/Packages/tree/master/Rust)**
+---
 #### [anaconda](https://github.com/DamnWidget/anaconda)
 _<sup>https://github.com/DamnWidget/anaconda</sup>_
 

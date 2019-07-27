@@ -2,6 +2,54 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/machine-learning](https://www.bookmarks.dev/tagged/machine-learning)</sup></sup>_
 ---
+#### [About Rust’s Machine Learning Community](https://medium.com/@autumn_eng/about-rust-s-machine-learning-community-4cda5ec8a790#.hvkp56j3f)
+_<sup>https://medium.com/@autumn_eng/about-rust-s-machine-learning-community-4cda5ec8a790#.hvkp56j3f</sup>_
+
+The conversations on the introduction of the latest Rust Machine Learning crate, which was also the birthplace of the new rust-machine-learning IRC (thanks for the setup, @Argorak) lead to the…
+* **tags**: [rust](../tagged/rust.md), [libraries](../tagged/libraries.md), [artificial-intelligence](../tagged/artificial-intelligence.md), [machine-learning](../tagged/machine-learning.md)
+---
+#### [AtheMathmo/rusty-machine](https://github.com/AtheMathmo/rusty-machine)
+_<sup>https://github.com/AtheMathmo/rusty-machine</sup>_
+
+Machine learning library for Rust [![Build Status](https://api.travis-ci.org/AtheMathmo/rusty-machine.svg?branch=master)](https://travis-ci.org/AtheMathmo/rusty-machine)
+* **tags**: [rust](../tagged/rust.md), [libraries](../tagged/libraries.md), [artificial-intelligence](../tagged/artificial-intelligence.md), [machine-learning](../tagged/machine-learning.md)
+* :octocat: **[source code](https://github.com/AtheMathmo/rusty-machine)**
+---
+#### [avinashshenoy97/RusticSOM](https://github.com/avinashshenoy97/RusticSOM)
+_<sup>https://github.com/avinashshenoy97/RusticSOM</sup>_
+
+Rust library for Self Organising Maps (SOM). [![Build Status](https://api.travis-ci.org/avinashshenoy97/RusticSOM.svg?branch=master)](https://travis-ci.org/avinashshenoy97/RusticSOM)
+* **tags**: [rust](../tagged/rust.md), [libraries](../tagged/libraries.md), [artificial-intelligence](../tagged/artificial-intelligence.md), [machine-learning](../tagged/machine-learning.md)
+* :octocat: **[source code](https://github.com/avinashshenoy97/RusticSOM)**
+---
+#### [autumnai/leaf](https://github.com/autumnai/leaf)
+_<sup>https://github.com/autumnai/leaf</sup>_
+
+Open Machine Intelligence framework. [![Build Status](https://api.travis-ci.org/autumnai/leaf.svg?branch=master)](https://travis-ci.org/autumnai/leaf). Abandoned project. The most updated fork is [spe...
+* **tags**: [rust](../tagged/rust.md), [libraries](../tagged/libraries.md), [artificial-intelligence](../tagged/artificial-intelligence.md), [machine-learning](../tagged/machine-learning.md)
+* :octocat: **[source code](https://github.com/autumnai/leaf)**
+---
+#### [tensorflow/rust](https://github.com/tensorflow/rust)
+_<sup>https://github.com/tensorflow/rust</sup>_
+
+Rust language bindings for TensorFlow. [![Build Status](https://api.travis-ci.org/tensorflow/rust.svg?branch=master)](https://travis-ci.org/tensorflow/rust)
+* **tags**: [rust](../tagged/rust.md), [libraries](../tagged/libraries.md), [artificial-intelligence](../tagged/artificial-intelligence.md), [machine-learning](../tagged/machine-learning.md)
+* :octocat: **[source code](https://github.com/tensorflow/rust)**
+---
+#### [maciejkula/rustlearn](https://github.com/maciejkula/rustlearn)
+_<sup>https://github.com/maciejkula/rustlearn</sup>_
+
+Machine learning crate for Rust. [![Circle CI](https://circleci.com/gh/maciejkula/rustlearn.svg?style=svg)](https://circleci.com/gh/maciejkula/rustlearn)
+* **tags**: [rust](../tagged/rust.md), [libraries](../tagged/libraries.md), [artificial-intelligence](../tagged/artificial-intelligence.md), [machine-learning](../tagged/machine-learning.md)
+* :octocat: **[source code](https://github.com/maciejkula/rustlearn)**
+---
+#### [LaurentMazare/tch-rs](https://github.com/LaurentMazare/tch-rs)
+_<sup>https://github.com/LaurentMazare/tch-rs</sup>_
+
+Rust language bindings for PyTorch. [![Build Status](https://api.travis-ci.org/LaurentMazare/tch-rs.svg?branch=master)](https://travis-ci.org/LaurentMazare/tch-rs)
+* **tags**: [rust](../tagged/rust.md), [libraries](../tagged/libraries.md), [artificial-intelligence](../tagged/artificial-intelligence.md), [machine-learning](../tagged/machine-learning.md)
+* :octocat: **[source code](https://github.com/LaurentMazare/tch-rs)**
+---
 #### [FfDL](https://github.com/IBM/FfDL)
 _<sup>https://github.com/IBM/FfDL</sup>_
 

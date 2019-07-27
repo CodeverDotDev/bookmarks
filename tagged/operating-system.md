@@ -2,6 +2,40 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/operating-system](https://www.bookmarks.dev/tagged/operating-system)</sup></sup>_
 ---
+#### [Rust OS Comparison](https://github.com/flosse/rust-os-comparison)
+_<sup>https://github.com/flosse/rust-os-comparison</sup>_
+
+A comparison of operating systems written in Rust
+* **tags**: [rust](../tagged/rust.md), [operating-system](../tagged/operating-system.md)
+* :octocat: **[source code](https://github.com/flosse/rust-os-comparison)**
+---
+#### [redox-os/redox](https://gitlab.redox-os.org/redox-os/redox)
+_<sup>https://gitlab.redox-os.org/redox-os/redox</sup>_
+
+[<img   src="https://api.travis-ci.org/redox-os/redox.svg?branch=master">](https://travis-ci.org/redox-os/redox)
+* **tags**: [rust](../tagged/rust.md), [operating-system](../tagged/operating-system.md)
+---
+#### [thepowersgang/rust_os](https://github.com/thepowersgang/rust_os)
+_<sup>https://github.com/thepowersgang/rust_os</sup>_
+
+[<img src="https://api.travis-ci.org/thepowersgang/rust_os.svg?branch=master">](https://travis-ci.org/thepowersgang/rust_os)
+* **tags**: [rust](../tagged/rust.md), [operating-system](../tagged/operating-system.md)
+* :octocat: **[source code](https://github.com/thepowersgang/rust_os)**
+---
+#### [tock/tock](https://github.com/tock/tock)
+_<sup>https://github.com/tock/tock</sup>_
+
+A secure embedded operating system for Cortex-M based microcontrollers
+* **tags**: [rust](../tagged/rust.md), [operating-system](../tagged/operating-system.md)
+* :octocat: **[source code](https://github.com/tock/tock)**
+---
+#### [nebulet/nebulet](https://github.com/nebulet/nebulet)
+_<sup>https://github.com/nebulet/nebulet</sup>_
+
+A microkernel that implements a WebAssembly "usermode" that runs in Ring 0.
+* **tags**: [rust](../tagged/rust.md), [operating-system](../tagged/operating-system.md)
+* :octocat: **[source code](https://github.com/nebulet/nebulet)**
+---
 #### [CoreOS](http://coreos.com)
 _<sup>http://coreos.com</sup>_
 

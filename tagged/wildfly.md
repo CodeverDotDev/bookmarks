@@ -8,13 +8,6 @@ _<sup>http://www.mastertheboss.com/jboss-server/wildfly-8/creating-clustered-ejb
 In this tutorial we will demonstrate how to configure a Timer EJB 3 Service on a cluster of servers. You will need WildFly 8 application server and a Database supporting READ_COMMITTED or SERIALIZABLE...
 * **tags**: [javaee](../tagged/javaee.md), [wildfly](../tagged/wildfly.md), [scheduling](../tagged/scheduling.md)
 ---
-#### [Keycloak: Getting started with Keycloak - Securing a REST Service](http://blog.keycloak.org/2015/10/getting-started-with-keycloak-securing.html)
-_<sup>http://blog.keycloak.org/2015/10/getting-started-with-keycloak-securing.html</sup>_
-
-This is the second post in the Getting Started with Keycloak series. In this post we'll be securing a simple REST service with Keycloak. The example REST service is created using JAX-RS and deployed t...
-* :calendar: **published on**: 2015-10-30
-* **tags**: [keycloak](../tagged/keycloak.md), [rest](../tagged/rest.md), [wildfly](../tagged/wildfly.md)
----
 #### [How to install a module on WildFly / JBoss AS 7](http://www.mastertheboss.com/jboss-server/jboss-as-7/how-to-install-a-module-on-jboss-as-7)
 _<sup>http://www.mastertheboss.com/jboss-server/jboss-as-7/how-to-install-a-module-on-jboss-as-7</sup>_
 

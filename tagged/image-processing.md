@@ -2,6 +2,34 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/image-processing](https://www.bookmarks.dev/tagged/image-processing)</sup></sup>_
 ---
+#### [abonander/img_hash](https://github.com/abonander/img_hash)
+_<sup>https://github.com/abonander/img_hash</sup>_
+
+Perceptual image hashing and comparison for equality and similarity.
+* **tags**: [rust](../tagged/rust.md), [image-processing](../tagged/image-processing.md)
+* :octocat: **[source code](https://github.com/abonander/img_hash)**
+---
+#### [image-rs/image](https://github.com/image-rs/image)
+_<sup>https://github.com/image-rs/image</sup>_
+
+Basic imaging processing functions and methods for converting to and from image formats [<img src="https://api.travis-ci.org/image-rs/image.svg?branch=master">](https://travis-ci.org/image-rs/image)
+* **tags**: [rust](../tagged/rust.md), [image-processing](../tagged/image-processing.md)
+* :octocat: **[source code](https://github.com/image-rs/image)**
+---
+#### [image-rs/imageproc](https://github.com/image-rs/imageproc)
+_<sup>https://github.com/image-rs/imageproc</sup>_
+
+An image processing library, based on the `image` library. [![Build Status](https://api.travis-ci.org/image-rs/imageproc.svg?branch=master)](https://travis-ci.org/image-rs/imageproc)
+* **tags**: [rust](../tagged/rust.md), [image-processing](../tagged/image-processing.md)
+* :octocat: **[source code](https://github.com/image-rs/imageproc)**
+---
+#### [twistedfall/opencv-rust](https://github.com/twistedfall/opencv-rust)
+_<sup>https://github.com/twistedfall/opencv-rust</sup>_
+
+Rust bindings for OpenCV [<img src="https://api.travis-ci.org/twistedfall/opencv-rust.svg?branch=cv2">](https://travis-ci.org/twistedfall/opencv-rust)
+* **tags**: [rust](../tagged/rust.md), [image-processing](../tagged/image-processing.md)
+* :octocat: **[source code](https://github.com/twistedfall/opencv-rust)**
+---
 #### [MiniMagick](https://github.com/minimagick/minimagick)
 _<sup>https://github.com/minimagick/minimagick</sup>_
 

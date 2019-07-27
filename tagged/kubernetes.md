@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/kubernetes](https://www.bookmarks.dev/tagged/kubernetes)</sup></sup>_
 ---
+#### [Recommended Labels - Kubernetes](https://kubernetes.io/docs/concepts/overview/working-with-objects/common-labels/)
+_<sup>https://kubernetes.io/docs/concepts/overview/working-with-objects/common-labels/</sup>_
+
+You can visualize and manage Kubernetes objects with more tools than kubectl and the dashboard. A common set of labels allows tools to work interoperably, describing objects in a common manner that al...
+* **tags**: [kubernetes](../tagged/kubernetes.md)
+---
 #### [A Guide to the Kubernetes Networking Model - Kevin Sookocheff](https://sookocheff.com/post/kubernetes/understanding-kubernetes-networking-model/)
 _<sup>https://sookocheff.com/post/kubernetes/understanding-kubernetes-networking-model/</sup>_
 

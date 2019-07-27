@@ -2,6 +2,20 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/unix](https://www.bookmarks.dev/tagged/unix)</sup></sup>_
 ---
+#### [nix-rust/nix](https://github.com/nix-rust/nix)
+_<sup>https://github.com/nix-rust/nix</sup>_
+
+Unix-like API bindings [<img src="https://api.travis-ci.org/nix-rust/nix.svg?branch=master">](https://travis-ci.org/nix-rust/nix)
+* **tags**: [rust](../tagged/rust.md), [platform](../tagged/platform.md), [unix](../tagged/unix.md)
+* :octocat: **[source code](https://github.com/nix-rust/nix)**
+---
+#### [zargony/rust-fuse](https://github.com/zargony/rust-fuse)
+_<sup>https://github.com/zargony/rust-fuse</sup>_
+
+[FUSE](https://github.com/libfuse/libfuse) bindings <img src="https://api.travis-ci.org/zargony/rust-fuse.svg?branch=master">
+* **tags**: [rust](../tagged/rust.md), [platform](../tagged/platform.md), [unix](../tagged/unix.md)
+* :octocat: **[source code](https://github.com/zargony/rust-fuse)**
+---
 #### [glob (programming) - Wikipedia](https://en.wikipedia.org/wiki/Glob_(programming))
 _<sup>https://en.wikipedia.org/wiki/Glob_(programming)</sup>_
 

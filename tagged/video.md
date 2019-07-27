@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/video](https://www.bookmarks.dev/tagged/video)</sup></sup>_
 ---
+#### [yuvadm/slingr](https://github.com/yuvadm/slingr)
+_<sup>https://github.com/yuvadm/slingr</sup>_
+
+A simple CLI for streaming media files over a local network to UPnP media renderers [<img src="https://api.travis-ci.org/yuvadm/slingr.svg?branch=master">](https://travis-ci.org/yuvadm/slingr)
+* **tags**: [rust](../tagged/rust.md), [video](../tagged/video.md)
+* :octocat: **[source code](https://github.com/yuvadm/slingr)**
+---
 #### [gmf](https://github.com/3d0c/gmf)
 _<sup>https://github.com/3d0c/gmf</sup>_
 

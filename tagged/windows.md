@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/windows](https://www.bookmarks.dev/tagged/windows)</sup></sup>_
 ---
+#### [retep998/winapi-rs](https://github.com/retep998/winapi-rs)
+_<sup>https://github.com/retep998/winapi-rs</sup>_
+
+Windows API bindings [<img src="https://api.travis-ci.org/retep998/winapi-rs.svg?branch=master">](https://travis-ci.org/retep998/winapi-rs)
+* **tags**: [rust](../tagged/rust.md), [platform](../tagged/platform.md), [windows](../tagged/windows.md)
+* :octocat: **[source code](https://github.com/retep998/winapi-rs)**
+---
 #### [d3d9](https://github.com/gonutz/d3d9)
 _<sup>https://github.com/gonutz/d3d9</sup>_
 

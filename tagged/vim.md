@@ -2,6 +2,34 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/vim](https://www.bookmarks.dev/tagged/vim)</sup></sup>_
 ---
+#### [rust.vim](https://github.com/rust-lang/rust.vim)
+_<sup>https://github.com/rust-lang/rust.vim</sup>_
+
+provides file detection, syntax highlighting, formatting, Syntastic integration, and more.
+* **tags**: [rust](../tagged/rust.md), [ide](../tagged/ide.md), [vim](../tagged/vim.md)
+* :octocat: **[source code](https://github.com/rust-lang/rust.vim)**
+---
+#### [vim-cargo](https://github.com/timonv/vim-cargo)
+_<sup>https://github.com/timonv/vim-cargo</sup>_
+
+command bindings to quickly run cargo stuff from vim.
+* **tags**: [rust](../tagged/rust.md), [ide](../tagged/ide.md), [vim](../tagged/vim.md)
+* :octocat: **[source code](https://github.com/timonv/vim-cargo)**
+---
+#### [vim-racer](https://github.com/racer-rust/vim-racer)
+_<sup>https://github.com/racer-rust/vim-racer</sup>_
+
+allows vim to use [Racer](https://github.com/racer-rust/racer) for Rust code completion and navigation.
+* **tags**: [rust](../tagged/rust.md), [ide](../tagged/ide.md), [vim](../tagged/vim.md)
+* :octocat: **[source code](https://github.com/racer-rust/vim-racer)**
+---
+#### [autozimu/LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim)
+_<sup>https://github.com/autozimu/LanguageClient-neovim</sup>_
+
+[LSP](https://microsoft.github.io/language-server-protocol/) client. Implemented in Rust and supports rls out of the box.
+* **tags**: [rust](../tagged/rust.md), [ide](../tagged/ide.md), [vim](../tagged/vim.md)
+* :octocat: **[source code](https://github.com/autozimu/LanguageClient-neovim)**
+---
 #### [jedi-vim](https://github.com/davidhalter/jedi-vim)
 _<sup>https://github.com/davidhalter/jedi-vim</sup>_
 

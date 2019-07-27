@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/user-interface](https://www.bookmarks.dev/tagged/user-interface)</sup></sup>_
 ---
+#### [Flux Home Page](https://facebook.github.io/flux/)
+_<sup>https://facebook.github.io/flux/</sup>_
+
+Application architecture for building user interfaces
+* **tags**: [flux](../tagged/flux.md), [architecture](../tagged/architecture.md), [user-interface](../tagged/user-interface.md)
+* :octocat: **[source code](https://github.com/facebook/flux)**
+---
 #### [app](https://github.com/murlokswarm/app)
 _<sup>https://github.com/murlokswarm/app</sup>_
 

@@ -131,7 +131,7 @@ typegoose - Typegoose - Define Mongoose models using TypeScript classes.
 * **tags**: [mongoose](../tagged/mongoose.md), [mongodb](../tagged/mongodb.md), [nodejs](../tagged/nodejs.md)
 * :octocat: **[source code](https://github.com/szokodiakos/typegoose)**
 ---
-#### [Common Async/Await Design Patterns in Node.js | www.thecodebarbarian.com](http://thecodebarbarian.com/common-async-await-design-patterns-in-node.js.html)
+#### [Common Async/Await Design Patterns in Node.js](http://thecodebarbarian.com/common-async-await-design-patterns-in-node.js.html)
 _<sup>http://thecodebarbarian.com/common-async-await-design-patterns-in-node.js.html</sup>_
 
 Retry, parallel request, mongodb cursor etc.
@@ -167,7 +167,7 @@ _<sup>http://www.codepedia.org/ama/practical-mongodb-shell-commands-every-develo
 Practical mongo shell commands. 
 * :calendar: **published on**: 2016-10-10
 * **tags**: [mongodb](../tagged/mongodb.md)
-* :octocat: **[source code](https://github.com/Codingpedia/codingmarks-api)**
+* :octocat: **[source code](https://github.com/CodepediaOrg/bookmarks-api)**
 ---
 #### [mongo Shell Quick Reference — MongoDB Manual](https://docs.mongodb.com/manual/reference/mongo-shell/)
 _<sup>https://docs.mongodb.com/manual/reference/mongo-shell/</sup>_

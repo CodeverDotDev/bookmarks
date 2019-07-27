@@ -2,6 +2,83 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/platform](https://www.bookmarks.dev/tagged/platform)</sup></sup>_
 ---
+#### [frol/cgroups-fs](https://github.com/frol/cgroups-fs)
+_<sup>https://github.com/frol/cgroups-fs</sup>_
+
+Rust bindings to Linux Control Groups (cgroups) [<img src="https://api.travis-ci.org/frol/cgroups-fs.svg?branch=master">](https://travis-ci.org/frol/cgroups-fs)
+* **tags**: [rust](../tagged/rust.md), [platform](../tagged/platform.md), [linux](../tagged/linux.md)
+* :octocat: **[source code](https://github.com/frol/cgroups-fs)**
+---
+#### [pop-os/dbus-udisks2](https://github.com/pop-os/dbus-udisks2)
+_<sup>https://github.com/pop-os/dbus-udisks2</sup>_
+
+UDisks2 DBus API
+* **tags**: [rust](../tagged/rust.md), [platform](../tagged/platform.md), [linux](../tagged/linux.md)
+* :octocat: **[source code](https://github.com/pop-os/dbus-udisks2)**
+---
+#### [pop-os/distinst](https://github.com/pop-os/distinst/)
+_<sup>https://github.com/pop-os/distinst/</sup>_
+
+Linux distribution installer library
+* **tags**: [rust](../tagged/rust.md), [platform](../tagged/platform.md), [linux](../tagged/linux.md)
+* :octocat: **[source code](https://github.com/pop-os/distinst/)**
+---
+#### [inotify-rs/inotify](https://github.com/inotify-rs/inotify)
+_<sup>https://github.com/inotify-rs/inotify</sup>_
+
+[inotify](https://en.wikipedia.org/wiki/Inotify) bindings [<img src="https://api.travis-ci.org/inotify-rs/inotify.svg?branch=master">](https://travis-ci.org/inotify-rs/inotify)
+* **tags**: [rust](../tagged/rust.md), [platform](../tagged/platform.md), [linux](../tagged/linux.md)
+* :octocat: **[source code](https://github.com/inotify-rs/inotify)**
+---
+#### [arvancloud/nginx-rs](https://github.com/arvancloud/nginx-rs)
+_<sup>https://github.com/arvancloud/nginx-rs</sup>_
+
+[Nginx](https://www.nginx.com) bindings [<img src="https://api.travis-ci.org/arvancloud/nginx-rs.svg?branch=master">](https://travis-ci.org/arvancloud/nginx-rs)
+* **tags**: [rust](../tagged/rust.md), [platform](../tagged/platform.md), [linux](../tagged/linux.md)
+* :octocat: **[source code](https://github.com/arvancloud/nginx-rs)**
+---
+#### [yaa110/rust-iptables](https://github.com/yaa110/rust-iptables)
+_<sup>https://github.com/yaa110/rust-iptables</sup>_
+
+[iptables](https://www.netfilter.org/projects/iptables/index.html) bindings [<img src="https://api.travis-ci.org/yaa110/rust-iptables.svg?branch=master">](https://travis-ci.org/yaa110/rust-iptables)
+* **tags**: [rust](../tagged/rust.md), [platform](../tagged/platform.md), [linux](../tagged/linux.md)
+* :octocat: **[source code](https://github.com/yaa110/rust-iptables)**
+---
+#### [nix-rust/nix](https://github.com/nix-rust/nix)
+_<sup>https://github.com/nix-rust/nix</sup>_
+
+Unix-like API bindings [<img src="https://api.travis-ci.org/nix-rust/nix.svg?branch=master">](https://travis-ci.org/nix-rust/nix)
+* **tags**: [rust](../tagged/rust.md), [platform](../tagged/platform.md), [unix](../tagged/unix.md)
+* :octocat: **[source code](https://github.com/nix-rust/nix)**
+---
+#### [zargony/rust-fuse](https://github.com/zargony/rust-fuse)
+_<sup>https://github.com/zargony/rust-fuse</sup>_
+
+[FUSE](https://github.com/libfuse/libfuse) bindings <img src="https://api.travis-ci.org/zargony/rust-fuse.svg?branch=master">
+* **tags**: [rust](../tagged/rust.md), [platform](../tagged/platform.md), [unix](../tagged/unix.md)
+* :octocat: **[source code](https://github.com/zargony/rust-fuse)**
+---
+#### [retep998/winapi-rs](https://github.com/retep998/winapi-rs)
+_<sup>https://github.com/retep998/winapi-rs</sup>_
+
+Windows API bindings [<img src="https://api.travis-ci.org/retep998/winapi-rs.svg?branch=master">](https://travis-ci.org/retep998/winapi-rs)
+* **tags**: [rust](../tagged/rust.md), [platform](../tagged/platform.md), [windows](../tagged/windows.md)
+* :octocat: **[source code](https://github.com/retep998/winapi-rs)**
+---
+#### [fubarnetes/libjail-rs](https://github.com/fubarnetes/libjail-rs/)
+_<sup>https://github.com/fubarnetes/libjail-rs/</sup>_
+
+Rust implementation of a FreeBSD jail library
+* **tags**: [rust](../tagged/rust.md), [platform](../tagged/platform.md), [freebsd](../tagged/freebsd.md)
+* :octocat: **[source code](https://github.com/fubarnetes/libjail-rs/)**
+---
+#### [dlrobertson/capsicum-rs](https://github.com/dlrobertson/capsicum-rs)
+_<sup>https://github.com/dlrobertson/capsicum-rs</sup>_
+
+Rust bindings for the FreeBSD capsicum framework
+* **tags**: [rust](../tagged/rust.md), [platform](../tagged/platform.md), [freebsd](../tagged/freebsd.md)
+* :octocat: **[source code](https://github.com/dlrobertson/capsicum-rs)**
+---
 #### [BCEL](http://commons.apache.org/proper/commons-bcel)
 _<sup>http://commons.apache.org/proper/commons-bcel</sup>_
 

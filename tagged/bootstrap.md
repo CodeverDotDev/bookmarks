@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/bootstrap](https://www.bookmarks.dev/tagged/bootstrap)</sup></sup>_
 ---
+#### [Bootswatch - Free themes for Bootstrap](https://bootswatch.com/)
+_<sup>https://bootswatch.com/</sup>_
+
+Free themes for Bootstrap
+* **tags**: [bootstrap](../tagged/bootstrap.md), [css](../tagged/css.md), [themes](../tagged/themes.md)
+* :octocat: **[source code](https://github.com/thomaspark/bootswatch/)**
+---
 #### [Bootstrap 4 Cheat Sheet - The ultimate list of Bootstrap classes](https://hackerthemes.com/bootstrap-cheatsheet/)
 _<sup>https://hackerthemes.com/bootstrap-cheatsheet/</sup>_
 

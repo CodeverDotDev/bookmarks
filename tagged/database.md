@@ -2,6 +2,153 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/database](https://www.bookmarks.dev/tagged/database)</sup></sup>_
 ---
+#### [PumpkinDB](https://github.com/PumpkinDB/PumpkinDB)
+_<sup>https://github.com/PumpkinDB/PumpkinDB</sup>_
+
+an event sourcing database engine [<img src="https://api.travis-ci.org/PumpkinDB/PumpkinDB.svg?branch=master">](https://travis-ci.org/PumpkinDB/PumpkinDB)
+* **tags**: [rust](../tagged/rust.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/PumpkinDB/PumpkinDB)**
+---
+#### [seppo0010/rsedis](https://github.com/seppo0010/rsedis)
+_<sup>https://github.com/seppo0010/rsedis</sup>_
+
+A Redis reimplementation in Rust [<img src="https://api.travis-ci.org/seppo0010/rsedis.svg?branch=master">](https://travis-ci.org/seppo0010/rsedis)
+* **tags**: [rust](../tagged/rust.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/seppo0010/rsedis)**
+---
+#### [ParityDB](https://github.com/paritytech/paritydb)
+_<sup>https://github.com/paritytech/paritydb</sup>_
+
+Fast and reliable database, optimised for read operation
+* **tags**: [rust](../tagged/rust.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/paritytech/paritydb)**
+---
+#### [tikv](https://github.com/tikv/tikv)
+_<sup>https://github.com/tikv/tikv</sup>_
+
+A distributed KV database in Rust [<img src="https://circleci.com/gh/tikv/tikv.svg?style=shield&circle-token=36bab0a8e43edb0941b31c38557d2d9d0d58f708">](https://circleci.com/gh/tikv/tikv)
+* **tags**: [rust](../tagged/rust.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/tikv/tikv)**
+---
+#### [sfackler/r2d2](https://github.com/sfackler/r2d2)
+_<sup>https://github.com/sfackler/r2d2</sup>_
+
+generic connection pool [<img src="https://api.travis-ci.org/sfackler/r2d2.svg?branch=master">](https://travis-ci.org/sfackler/r2d2)
+* **tags**: [rust](../tagged/rust.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/sfackler/r2d2)**
+---
+#### [Rincon](https://github.com/innoave/rincon)
+_<sup>https://github.com/innoave/rincon</sup>_
+
+An ArangoDB (NoSQL and Graph store) driver for Rust
+* **tags**: [rust](../tagged/rust.md), [database](../tagged/database.md), [nosql](../tagged/nosql.md)
+* :octocat: **[source code](https://github.com/innoave/rincon)**
+---
+#### [Metaswitch/cassandra-rs](https://github.com/Metaswitch/cassandra-rs)
+_<sup>https://github.com/Metaswitch/cassandra-rs</sup>_
+
+bindings to the DataStax C/C++ client [<img src="https://api.travis-ci.org/Metaswitch/cassandra-rs.svg?branch=master">](https://travis-ci.org/Metaswitch/cassandra-rs)
+* **tags**: [rust](../tagged/rust.md), [database](../tagged/database.md), [nosql](../tagged/nosql.md)
+* :octocat: **[source code](https://github.com/Metaswitch/cassandra-rs)**
+---
+#### [Sofa](https://github.com/YellowInnovation/sofa)
+_<sup>https://github.com/YellowInnovation/sofa</sup>_
+
+an interface to CouchDB HTTP REST API for stable rust
+* **tags**: [rust](../tagged/rust.md), [database](../tagged/database.md), [nosql-couchdb](../tagged/nosql-couchdb.md)
+* :octocat: **[source code](https://github.com/YellowInnovation/sofa)**
+---
+#### [vhbit/sherwood](https://github.com/vhbit/sherwood)
+_<sup>https://github.com/vhbit/sherwood</sup>_
+
+[ForestDB](https://github.com/couchbase/forestdb) bindings [<img src="https://api.travis-ci.org/vhbit/sherwood.svg?branch=master">](https://travis-ci.org/vhbit/sherwood)
+* **tags**: [rust](../tagged/rust.md), [database](../tagged/database.md), [nosql](../tagged/nosql.md), [forestdb](../tagged/forestdb.md)
+* :octocat: **[source code](https://github.com/vhbit/sherwood)**
+---
+#### [panoptix-za/influxdb-rs](https://github.com/panoptix-za/influxdb-rs)
+_<sup>https://github.com/panoptix-za/influxdb-rs</sup>_
+
+asynchronous interface [<img src="https://api.travis-ci.org/panoptix-za/influxdb-rs.svg?branch=master">](https://travis-ci.org/panoptix-za/influxdb-rs)
+* **tags**: [rust](../tagged/rust.md), [database](../tagged/database.md), [nosql](../tagged/nosql.md), [forestdb](../tagged/forestdb.md)
+* :octocat: **[source code](https://github.com/panoptix-za/influxdb-rs)**
+---
+#### [driftluo/InfluxDBClient-rs](https://github.com/driftluo/InfluxDBClient-rs)
+_<sup>https://github.com/driftluo/InfluxDBClient-rs</sup>_
+
+Synchronization interface [<img src="https://api.travis-ci.org/driftluo/InfluxDBClient-rs.svg?branch=master">](https://travis-ci.org/driftluo/InfluxDBClient-rs)
+* **tags**: [rust](../tagged/rust.md), [database](../tagged/database.md), [nosql](../tagged/nosql.md), [forestdb](../tagged/forestdb.md)
+* :octocat: **[source code](https://github.com/driftluo/InfluxDBClient-rs)**
+---
+#### [skade/leveldb](https://github.com/skade/leveldb)
+_<sup>https://github.com/skade/leveldb</sup>_
+
+[LevelDB](https://github.com/google/leveldb) bindings [<img src="https://api.travis-ci.org/skade/leveldb.svg?branch=master">](https://travis-ci.org/skade/leveldb)
+* **tags**: [rust](../tagged/rust.md), [database](../tagged/database.md), [nosql](../tagged/nosql.md), [leveldb](../tagged/leveldb.md)
+* :octocat: **[source code](https://github.com/skade/leveldb)**
+---
+#### [mitsuhiko/redis-rs](https://github.com/mitsuhiko/redis-rs)
+_<sup>https://github.com/mitsuhiko/redis-rs</sup>_
+
+[Redis](https://redis.io/) library in Rust [<img src="https://api.travis-ci.org/mitsuhiko/redis-rs.svg?branch=master">](https://travis-ci.org/mitsuhiko/redis-rs)
+* **tags**: [rust](../tagged/rust.md), [database](../tagged/database.md), [nosql](../tagged/nosql.md), [redis](../tagged/redis.md)
+* :octocat: **[source code](https://github.com/mitsuhiko/redis-rs)**
+---
+#### [rust-rocksdb/rust-rocksdb](https://github.com/rust-rocksdb/rust-rocksdb)
+_<sup>https://github.com/rust-rocksdb/rust-rocksdb</sup>_
+
+RocksDB bindings [<img src="https://api.travis-ci.org/rust-rocksdb/rust-rocksdb.svg?branch=master">](https://travis-ci.org/rust-rocksdb/rust-rocksdb)
+* **tags**: [rust](../tagged/rust.md), [database](../tagged/database.md), [nosql](../tagged/nosql.md), [rocksdb](../tagged/rocksdb.md)
+* :octocat: **[source code](https://github.com/rust-rocksdb/rust-rocksdb)**
+---
+#### [zitsen/unqlite.rs](https://github.com/zitsen/unqlite.rs)
+_<sup>https://github.com/zitsen/unqlite.rs</sup>_
+
+UnQLite bindings [<img src="https://api.travis-ci.org/zitsen/unqlite.rs.svg?branch=master">](https://travis-ci.org/zitsen/unqlite.rs)
+* **tags**: [rust](../tagged/rust.md), [database](../tagged/database.md), [nosql](../tagged/nosql.md), [unqlite](../tagged/unqlite.md)
+* :octocat: **[source code](https://github.com/zitsen/unqlite.rs)**
+---
+#### [seladb/pickledb-rs](https://github.com/seladb/pickledb-rs)
+_<sup>https://github.com/seladb/pickledb-rs</sup>_
+
+a lightweight and simple key-value store, heavily inspired by Python's PickleDB. [<img src="https://api.travis-ci.org/seladb/pickledb-rs.svg?branch=master">](https://travis-ci.org/seladb/pickledb-rs)
+* **tags**: [rust](../tagged/rust.md), [database](../tagged/database.md), [nosql](../tagged/nosql.md), [pickledb](../tagged/pickledb.md)
+* :octocat: **[source code](https://github.com/seladb/pickledb-rs)**
+---
+#### [steffengy/tiberius](https://github.com/steffengy/tiberius)
+_<sup>https://github.com/steffengy/tiberius</sup>_
+
+[<img src="https://api.travis-ci.org/steffengy/tiberius.svg?branch=master">](https://travis-ci.org/steffengy/tiberius)
+* **tags**: [rust](../tagged/rust.md), [database](../tagged/database.md), [sql](../tagged/sql.md), [sql-server](../tagged/sql-server.md)
+* :octocat: **[source code](https://github.com/steffengy/tiberius)**
+---
+#### [AgilData/mysql-proxy-rs](https://github.com/AgilData/mysql-proxy-rs)
+_<sup>https://github.com/AgilData/mysql-proxy-rs</sup>_
+
+A MySQL Proxy [<img src="https://api.travis-ci.org/AgilData/mysql-proxy-rs.svg?branch=master">](https://travis-ci.org/AgilData/mysql-proxy-rs)
+* **tags**: [rust](../tagged/rust.md), [database](../tagged/database.md), [sql](../tagged/sql.md), [mysql](../tagged/mysql.md)
+* :octocat: **[source code](https://github.com/AgilData/mysql-proxy-rs)**
+---
+#### [jgallagher/rusqlite](https://github.com/jgallagher/rusqlite)
+_<sup>https://github.com/jgallagher/rusqlite</sup>_
+
+[Sqlite3](https://www.sqlite.org/index.html) bindings [<img src="https://api.travis-ci.org/jgallagher/rusqlite.svg?branch=master">](https://travis-ci.org/jgallagher/rusqlite)
+* **tags**: [rust](../tagged/rust.md), [database](../tagged/database.md), [sql](../tagged/sql.md), [sqlite](../tagged/sqlite.md)
+* :octocat: **[source code](https://github.com/jgallagher/rusqlite)**
+---
+#### [diesel-rs/diesel](https://github.com/diesel-rs/diesel)
+_<sup>https://github.com/diesel-rs/diesel</sup>_
+
+an ORM and Query builder for Rust [![Build Status](https://api.travis-ci.org/diesel-rs/diesel.svg)](https://travis-ci.org/diesel-rs/diesel)
+* **tags**: [rust](../tagged/rust.md), [database](../tagged/database.md), [sql](../tagged/sql.md), [orm](../tagged/orm.md)
+* :octocat: **[source code](https://github.com/diesel-rs/diesel)**
+---
+#### [ivanceras/rustorm](https://github.com/ivanceras/rustorm)
+_<sup>https://github.com/ivanceras/rustorm</sup>_
+
+an ORM for Rust [![Build Status](https://api.travis-ci.org/ivanceras/rustorm.svg)](https://travis-ci.org/ivanceras/rustorm)
+* **tags**: [rust](../tagged/rust.md), [database](../tagged/database.md), [sql](../tagged/sql.md), [orm](../tagged/orm.md)
+* :octocat: **[source code](https://github.com/ivanceras/rustorm)**
+---
 #### [Apache Ignite](https://apacheignite.readme.io/docs/kubernetes-deployment)
 _<sup>https://apacheignite.readme.io/docs/kubernetes-deployment</sup>_
 

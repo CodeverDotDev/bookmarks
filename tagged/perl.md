@@ -2,6 +2,20 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/perl](https://www.bookmarks.dev/tagged/perl)</sup></sup>_
 ---
+#### [vickenty/mi-rust](https://github.com/vickenty/mi-rust)
+_<sup>https://github.com/vickenty/mi-rust</sup>_
+
+Adds support to M::I for building modules with Cargo
+* **tags**: [rust](../tagged/rust.md), [ffi](../tagged/ffi.md), [perl](../tagged/perl.md)
+* :octocat: **[source code](https://github.com/vickenty/mi-rust)**
+---
+#### [vickenty/perl-xs](https://github.com/vickenty/perl-xs)
+_<sup>https://github.com/vickenty/perl-xs</sup>_
+
+Create Perl XS modules using Rust [<img src="https://api.travis-ci.org/vickenty/perl-xs.svg?branch=master">](https://travis-ci.org/vickenty/perl-xs)
+* **tags**: [rust](../tagged/rust.md), [ffi](../tagged/ffi.md), [perl](../tagged/perl.md)
+* :octocat: **[source code](https://github.com/vickenty/perl-xs)**
+---
 #### [awesome-perl](https://github.com/hachiojipm/awesome-perl#readme)
 _<sup>https://github.com/hachiojipm/awesome-perl#readme</sup>_
 

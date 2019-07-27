@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/redis](https://www.bookmarks.dev/tagged/redis)</sup></sup>_
 ---
+#### [mitsuhiko/redis-rs](https://github.com/mitsuhiko/redis-rs)
+_<sup>https://github.com/mitsuhiko/redis-rs</sup>_
+
+[Redis](https://redis.io/) library in Rust [<img src="https://api.travis-ci.org/mitsuhiko/redis-rs.svg?branch=master">](https://travis-ci.org/mitsuhiko/redis-rs)
+* **tags**: [rust](../tagged/rust.md), [database](../tagged/database.md), [nosql](../tagged/nosql.md), [redis](../tagged/redis.md)
+* :octocat: **[source code](https://github.com/mitsuhiko/redis-rs)**
+---
 #### [jedis home page](https://github.com/xetorthio/jedis)
 _<sup>https://github.com/xetorthio/jedis</sup>_
 

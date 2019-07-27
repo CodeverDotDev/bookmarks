@@ -2,6 +2,48 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/profiling](https://www.bookmarks.dev/tagged/profiling)</sup></sup>_
 ---
+#### [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine)
+_<sup>https://github.com/sharkdp/hyperfine</sup>_
+
+A command-line benchmarking tool [![Version info](https://img.shields.io/crates/v/hyperfine.svg)](https://crates.io/crates/hyperfine) [![Build Status](https://api.travis-ci.org/sharkdp/hyperfine.svg?b...
+* **tags**: [rust](../tagged/rust.md), [profiling](../tagged/profiling.md)
+* :octocat: **[source code](https://github.com/sharkdp/hyperfine)**
+---
+#### [performancecopilot/hornet](https://github.com/performancecopilot/hornet)
+_<sup>https://github.com/performancecopilot/hornet</sup>_
+
+A Performance Co-Pilot memory-mapped values instrumentation library [![crates.io badge](https://img.shields.io/crates/v/hornet.svg)](https://crates.io/crates/hornet) [<img src="https://api.travis-ci.o...
+* **tags**: [rust](../tagged/rust.md), [profiling](../tagged/profiling.md)
+* :octocat: **[source code](https://github.com/performancecopilot/hornet)**
+---
+#### [nokia/memory-profiler](https://github.com/nokia/memory-profiler)
+_<sup>https://github.com/nokia/memory-profiler</sup>_
+
+A memory profiler for Linux [![Build Status](https://api.travis-ci.org/nokia/memory-profiler.svg?branch=master)](https://travis-ci.org/nokia/memory-profiler)
+* **tags**: [rust](../tagged/rust.md), [profiling](../tagged/profiling.md)
+* :octocat: **[source code](https://github.com/nokia/memory-profiler)**
+---
+#### [ellisonch/rust-stopwatch](https://github.com/ellisonch/rust-stopwatch)
+_<sup>https://github.com/ellisonch/rust-stopwatch</sup>_
+
+A stopwatch library [<img src="https://api.travis-ci.org/ellisonch/rust-stopwatch.svg?branch=master">](https://travis-ci.org/ellisonch/rust-stopwatch)
+* **tags**: [rust](../tagged/rust.md), [profiling](../tagged/profiling.md)
+* :octocat: **[source code](https://github.com/ellisonch/rust-stopwatch)**
+---
+#### [mrhooray/torch](https://github.com/mrhooray/torch)
+_<sup>https://github.com/mrhooray/torch</sup>_
+
+generates FlameGraphs based on DWARF Debug Info
+* **tags**: [rust](../tagged/rust.md), [profiling](../tagged/profiling.md), [flamegraph](../tagged/flamegraph.md)
+* :octocat: **[source code](https://github.com/mrhooray/torch)**
+---
+#### [TyOverby/flame](https://github.com/TyOverby/flame)
+_<sup>https://github.com/TyOverby/flame</sup>_
+
+[<img src="https://api.travis-ci.org/TyOverby/flame.svg?branch=master">](https://travis-ci.org/TyOverby/flame)
+* **tags**: [rust](../tagged/rust.md), [profiling](../tagged/profiling.md), [flamegraph](../tagged/flamegraph.md)
+* :octocat: **[source code](https://github.com/TyOverby/flame)**
+---
 #### [ndb](https://github.com/GoogleChromeLabs/ndb)
 _<sup>https://github.com/GoogleChromeLabs/ndb</sup>_
 

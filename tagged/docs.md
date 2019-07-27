@@ -212,14 +212,6 @@ Sass is an extension of CSS that adds power and elegance to the basic language. 
 * **tags**: [sass](../tagged/sass.md), [scss](../tagged/scss.md), [css](../tagged/css.md), [docs](../tagged/docs.md)
 * :octocat: **[source code](https://github.com/sass/sass)**
 ---
-#### [JavaScript Adapter | Keycloak Documentation](http://www.keycloak.org/docs/latest/securing_apps/topics/oidc/javascript-adapter.html)
-_<sup>http://www.keycloak.org/docs/latest/securing_apps/topics/oidc/javascript-adapter.html</sup>_
-
-Keycloak comes with a client-side JavaScript library that can be used to secure HTML5/JavaScript applications. The JavaScript adapter has built-in support for Cordova applications.
-
-The library can be...
-* **tags**: [keycloak](../tagged/keycloak.md), [docs](../tagged/docs.md), [javascript](../tagged/javascript.md)
----
 #### [Mockito latest documentation](http://javadoc.io/page/org.mockito/mockito-core/latest/org/mockito/Mockito.html)
 _<sup>http://javadoc.io/page/org.mockito/mockito-core/latest/org/mockito/Mockito.html</sup>_
 

@@ -2,6 +2,28 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/nodejs](https://www.bookmarks.dev/tagged/nodejs)</sup></sup>_
 ---
+#### [neon-bindings/neon](https://github.com/neon-bindings/neon)
+_<sup>https://github.com/neon-bindings/neon</sup>_
+
+use Rust from Node.js [<img src="https://api.travis-ci.org/neon-bindings/neon.svg?branch=master">](https://travis-ci.org/neon-bindings/neon)
+* **tags**: [rust](../tagged/rust.md), [ffi](../tagged/ffi.md), [nodejs](../tagged/nodejs.md)
+* :octocat: **[source code](https://github.com/neon-bindings/neon)**
+---
+#### [GitHub - auth0/express-jwt](https://github.com/auth0/express-jwt)
+_<sup>https://github.com/auth0/express-jwt</sup>_
+
+connect/express middleware that validates a JsonWebToken (JWT) and set the req.user with the attributes - auth0/express-jwt
+* **tags**: [expressjs](../tagged/expressjs.md), [nodejs](../tagged/nodejs.md), [jwt](../tagged/jwt.md)
+* :octocat: **[source code](https://github.com/auth0/express-jwt)**
+---
+#### [Introduction to React + Tutorial How To Build Your First App](https://auth0.com/blog/react-tutorial-building-and-securing-your-first-app/)
+_<sup>https://auth0.com/blog/react-tutorial-building-and-securing-your-first-app/</sup>_
+
+Introduction to React and its components and routers. Tutorial of how to build a simple Q&A React app - secure backend API with Node.js and Express.
+* :calendar: **published on**: 2018-08-28
+* **tags**: [reactjs](../tagged/reactjs.md), [react-router](../tagged/react-router.md), [nodejs](../tagged/nodejs.md), [expressjs](../tagged/expressjs.md), [axios](../tagged/axios.md), [authentication](../tagged/authentication.md), [security](../tagged/security.md)
+* :octocat: **[source code](https://github.com/auth0-blog/react-tutorial)**
+---
 #### [node-restify](https://github.com/restify/node-restify)
 _<sup>https://github.com/restify/node-restify</sup>_
 
@@ -4491,7 +4513,7 @@ _<sup>https://nodejs.org/en/docs/guides/timers-in-node/</sup>_
 `setTimeout()`, `setImmediate()` and `setInterval()` explained...
 * **tags**: [nodejs](../tagged/nodejs.md)
 ---
-#### [Common Async/Await Design Patterns in Node.js | www.thecodebarbarian.com](http://thecodebarbarian.com/common-async-await-design-patterns-in-node.js.html)
+#### [Common Async/Await Design Patterns in Node.js](http://thecodebarbarian.com/common-async-await-design-patterns-in-node.js.html)
 _<sup>http://thecodebarbarian.com/common-async-await-design-patterns-in-node.js.html</sup>_
 
 Retry, parallel request, mongodb cursor etc.

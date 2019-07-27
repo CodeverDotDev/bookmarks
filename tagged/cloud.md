@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/cloud](https://www.bookmarks.dev/tagged/cloud)</sup></sup>_
 ---
+#### [rusoto/rusoto](https://github.com/rusoto/rusoto)
+_<sup>https://github.com/rusoto/rusoto</sup>_
+
+[<img src="https://api.travis-ci.org/rusoto/rusoto.svg?branch=master">](https://travis-ci.org/rusoto/rusoto)
+* **tags**: [rust](../tagged/rust.md), [cloud](../tagged/cloud.md), [aws](../tagged/aws.md)
+* :octocat: **[source code](https://github.com/rusoto/rusoto)**
+---
 #### [AWS SDK for Ruby](https://github.com/aws/aws-sdk-ruby)
 _<sup>https://github.com/aws/aws-sdk-ruby</sup>_
 

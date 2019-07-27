@@ -2,6 +2,27 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/caching](https://www.bookmarks.dev/tagged/caching)</sup></sup>_
 ---
+#### [jaysonsantos/bmemcached-rs](https://github.com/jaysonsantos/bmemcached-rs)
+_<sup>https://github.com/jaysonsantos/bmemcached-rs</sup>_
+
+Memcached library written in pure rust [<img src="https://api.travis-ci.org/jaysonsantos/bmemcached-rs.svg?branch=master">](https://travis-ci.org/jaysonsantos/bmemcached-rs)
+* **tags**: [rust](../tagged/rust.md), [caching](../tagged/caching.md)
+* :octocat: **[source code](https://github.com/jaysonsantos/bmemcached-rs)**
+---
+#### [jaemk/cached](https://github.com/jaemk/cached)
+_<sup>https://github.com/jaemk/cached</sup>_
+
+Simple function caching/memoization
+* **tags**: [rust](../tagged/rust.md), [caching](../tagged/caching.md)
+* :octocat: **[source code](https://github.com/jaemk/cached)**
+---
+#### [aisk/rust-memcache](https://github.com/aisk/rust-memcache)
+_<sup>https://github.com/aisk/rust-memcache</sup>_
+
+Memcached client library [<img src="https://api.travis-ci.org/aisk/rust-memcache.svg?branch=master">](https://travis-ci.org/aisk/rust-memcache)
+* **tags**: [rust](../tagged/rust.md), [caching](../tagged/caching.md)
+* :octocat: **[source code](https://github.com/aisk/rust-memcache)**
+---
 #### [Action caching for Action Pack](https://github.com/rails/actionpack-action_caching)
 _<sup>https://github.com/rails/actionpack-action_caching</sup>_
 

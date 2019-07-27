@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/maven](https://www.bookmarks.dev/tagged/maven)</sup></sup>_
 ---
+#### [Intro Guide to Dockerfile Best Practices - Docker Blog](https://blog.docker.com/2019/07/intro-guide-to-dockerfile-best-practices/)
+_<sup>https://blog.docker.com/2019/07/intro-guide-to-dockerfile-best-practices/</sup>_
+
+There are over one million Dockerfiles on GitHub today, but not all Dockerfiles are created equally. Efficiency is critical, and this blog series will cover five areas for Dockerfile best practices to...
+* :calendar: **published on**: 2019-07-02
+* **tags**: [docker](../tagged/docker.md), [dockerfile](../tagged/dockerfile.md), [maven](../tagged/maven.md), [java](../tagged/java.md)
+---
 #### [Caching Maven dependencies in a Docker build – Niel de Wet – Medium](https://medium.com/@nieldw/caching-maven-dependencies-in-a-docker-build-dca6ca7ad612)
 _<sup>https://medium.com/@nieldw/caching-maven-dependencies-in-a-docker-build-dca6ca7ad612</sup>_
 

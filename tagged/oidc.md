@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/oidc](https://www.bookmarks.dev/tagged/oidc)</sup></sup>_
 ---
+#### [OpenID Connect debugger](https://oidcdebugger.com/)
+_<sup>https://oidcdebugger.com/</sup>_
+
+Test and debug OpenID Connect requests. This free tool makes it easy to send requests and view responses.
+* **tags**: [oidc](../tagged/oidc.md), [oauth2](../tagged/oauth2.md), [debugging](../tagged/debugging.md), [dev-tools](../tagged/dev-tools.md)
+* :octocat: **[source code](https://github.com/nbarbettini/oidc-debugger)**
+---
 #### [Identity, Claims, & Tokens – An OpenID Connect Primer, Part 1 of 3](https://developer.okta.com/blog/2017/07/25/oidc-primer-part-1)
 _<sup>https://developer.okta.com/blog/2017/07/25/oidc-primer-part-1</sup>_
 

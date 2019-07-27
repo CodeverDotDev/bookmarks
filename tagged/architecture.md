@@ -2,6 +2,22 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/architecture](https://www.bookmarks.dev/tagged/architecture)</sup></sup>_
 ---
+#### [Flux Home Page](https://facebook.github.io/flux/)
+_<sup>https://facebook.github.io/flux/</sup>_
+
+Application architecture for building user interfaces
+* **tags**: [flux](../tagged/flux.md), [architecture](../tagged/architecture.md), [user-interface](../tagged/user-interface.md)
+* :octocat: **[source code](https://github.com/facebook/flux)**
+---
+#### [Design Microservice Architectures the Right Way - YouTube](https://www.youtube.com/watch?v=j6ow-UemzBc)
+_<sup>https://www.youtube.com/watch?v=j6ow-UemzBc</sup>_
+
+Download the slides & audio at InfoQ: [https://bit.ly/2ypNF04](https://bit.ly/2ypNF04)  
+
+Michael Bryzek highlights specific key decisions that very directly impact the quality and maintainability of ...
+* :calendar: **published on**: 2018-10-22
+* **tags**: [microservices](../tagged/microservices.md), [architecture](../tagged/architecture.md)
+---
 #### [The best architecture with Docker and Kubernetes — myth or reality? - Medium](https://medium.com/@dpaunin/the-best-architecture-with-docker-and-kubernetes-myth-or-reality-77b4f8f3804d)
 _<sup>https://medium.com/@dpaunin/the-best-architecture-with-docker-and-kubernetes-myth-or-reality-77b4f8f...</sup>_
 

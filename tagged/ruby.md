@@ -2,6 +2,27 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/ruby](https://www.bookmarks.dev/tagged/ruby)</sup></sup>_
 ---
+#### [d-unseductable/ruru](https://github.com/d-unseductable/ruru)
+_<sup>https://github.com/d-unseductable/ruru</sup>_
+
+native Ruby extensions written in Rust [<img src="https://api.travis-ci.org/d-unseductable/ruru.svg?branch=master">](https://travis-ci.org/d-unseductable/ruru)
+* **tags**: [rust](../tagged/rust.md), [ffi](../tagged/ffi.md), [ruby](../tagged/ruby.md)
+* :octocat: **[source code](https://github.com/d-unseductable/ruru)**
+---
+#### [danielpclark/rutie](https://github.com/danielpclark/rutie)
+_<sup>https://github.com/danielpclark/rutie</sup>_
+
+native Ruby extensions written in Rust and vice versa [![Build Status](https://api.travis-ci.org/danielpclark/rutie.svg?branch=master)](https://travis-ci.org/danielpclark/rutie)
+* **tags**: [rust](../tagged/rust.md), [ffi](../tagged/ffi.md), [ruby](../tagged/ruby.md)
+* :octocat: **[source code](https://github.com/danielpclark/rutie)**
+---
+#### [tildeio/helix](https://github.com/tildeio/helix)
+_<sup>https://github.com/tildeio/helix</sup>_
+
+write Ruby classes in Rust [<img src="https://api.travis-ci.org/tildeio/helix.svg?branch=master">](https://travis-ci.org/tildeio/helix)
+* **tags**: [rust](../tagged/rust.md), [ffi](../tagged/ffi.md), [ruby](../tagged/ruby.md)
+* :octocat: **[source code](https://github.com/tildeio/helix)**
+---
 #### [Rails](http://guides.rubyonrails.org/api_app.html)
 _<sup>http://guides.rubyonrails.org/api_app.html</sup>_
 

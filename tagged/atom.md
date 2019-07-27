@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/atom](https://www.bookmarks.dev/tagged/atom)</sup></sup>_
 ---
+#### [zargony/atom-language-rust](https://github.com/zargony/atom-language-rust)
+_<sup>https://github.com/zargony/atom-language-rust</sup>_
+
+Rust language support in Atom - LOOKING FOR MAINTAINER, see 144 - zargony/atom-language-rust
+* **tags**: [rust](../tagged/rust.md), [ide](../tagged/ide.md), [atom](../tagged/atom.md)
+* :octocat: **[source code](https://github.com/zargony/atom-language-rust)**
+---
 #### [awesome-atom](https://github.com/mehcode/awesome-atom#readme)
 _<sup>https://github.com/mehcode/awesome-atom#readme</sup>_
 

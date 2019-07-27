@@ -2,6 +2,139 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/cryptography](https://www.bookmarks.dev/tagged/cryptography)</sup></sup>_
 ---
+#### [briansmith/ring](https://github.com/briansmith/ring)
+_<sup>https://github.com/briansmith/ring</sup>_
+
+Safe, fast, small crypto using Rust and BoringSSL's cryptography primitives. [<img src="https://api.travis-ci.org/briansmith/ring.svg?branch=master">](https://travis-ci.org/briansmith/ring)
+* **tags**: [rust](../tagged/rust.md), [cryptography](../tagged/cryptography.md)
+* :octocat: **[source code](https://github.com/briansmith/ring)**
+---
+#### [briansmith/webpki](https://github.com/briansmith/webpki)
+_<sup>https://github.com/briansmith/webpki</sup>_
+
+Web PKI TLS X.509 certificate validation in Rust. [<img src="https://api.travis-ci.org/briansmith/webpki.svg?branch=master">](https://travis-ci.org/briansmith/webpki)
+* **tags**: [rust](../tagged/rust.md), [cryptography](../tagged/cryptography.md)
+* :octocat: **[source code](https://github.com/briansmith/webpki)**
+---
+#### [brycx/orion](https://github.com/brycx/orion)
+_<sup>https://github.com/brycx/orion</sup>_
+
+This library aims to provide easy and usable crypto. 'Usable' meaning exposing high-level API's that are easy to use and hard to misuse. [<img src="https://api.travis-ci.org/brycx/orion.svg?branch=mas...
+* **tags**: [rust](../tagged/rust.md), [cryptography](../tagged/cryptography.md)
+* :octocat: **[source code](https://github.com/brycx/orion)**
+---
+#### [ctz/rustls](https://github.com/ctz/rustls)
+_<sup>https://github.com/ctz/rustls</sup>_
+
+A Rust implementation of TLS
+* **tags**: [rust](../tagged/rust.md), [cryptography](../tagged/cryptography.md)
+* :octocat: **[source code](https://github.com/ctz/rustls)**
+---
+#### [DaGenix/rust-crypto](https://github.com/DaGenix/rust-crypto)
+_<sup>https://github.com/DaGenix/rust-crypto</sup>_
+
+cryptographic algorithms in Rust [<img src="https://api.travis-ci.org/DaGenix/rust-crypto.svg?branch=master">](https://travis-ci.org/DaGenix/rust-crypto)
+* **tags**: [rust](../tagged/rust.md), [cryptography](../tagged/cryptography.md)
+* :octocat: **[source code](https://github.com/DaGenix/rust-crypto)**
+---
+#### [dnaq/sodiumoxide](https://github.com/sodiumoxide/sodiumoxide)
+_<sup>https://github.com/sodiumoxide/sodiumoxide</sup>_
+
+[libsodium](https://github.com/jedisct1/libsodium) bindings [<img src="https://api.travis-ci.org/dnaq/sodiumoxide.svg?branch=master">](https://travis-ci.org/dnaq/sodiumoxide)
+* **tags**: [rust](../tagged/rust.md), [cryptography](../tagged/cryptography.md)
+* :octocat: **[source code](https://github.com/sodiumoxide/sodiumoxide)**
+---
+#### [doublify/libblockchain](https://github.com/doublify/libblockchain)
+_<sup>https://github.com/doublify/libblockchain</sup>_
+
+A Blockchain implementation [<img src="https://api.travis-ci.org/doublify/libblockchain.svg?branch=master">](https://travis-ci.org/doublify/libblockchain)
+* **tags**: [rust](../tagged/rust.md), [cryptography](../tagged/cryptography.md)
+* :octocat: **[source code](https://github.com/doublify/libblockchain)**
+---
+#### [klutzy/suruga](https://github.com/klutzy/suruga)
+_<sup>https://github.com/klutzy/suruga</sup>_
+
+A Rust implementation of [TLS 1.2](https://tools.ietf.org/html/rfc5246)
+* **tags**: [rust](../tagged/rust.md), [cryptography](../tagged/cryptography.md)
+* :octocat: **[source code](https://github.com/klutzy/suruga)**
+---
+#### [libOctavo/octavo](https://github.com/libOctavo/octavo)
+_<sup>https://github.com/libOctavo/octavo</sup>_
+
+Modular hash and crypto library in Rust [<img src="https://api.travis-ci.org/libOctavo/octavo.svg?branch=master">](https://travis-ci.org/libOctavo/octavo)
+* **tags**: [rust](../tagged/rust.md), [cryptography](../tagged/cryptography.md)
+* :octocat: **[source code](https://github.com/libOctavo/octavo)**
+---
+#### [RustCrypto/hashes](https://github.com/RustCrypto/hashes)
+_<sup>https://github.com/RustCrypto/hashes</sup>_
+
+Collection of cryptographic hash functions written in pure Rust [<img src="https://api.travis-ci.org/RustCrypto/hashes.svg?branch=master">](https://travis-ci.org/RustCrypto/hashes)
+* **tags**: [rust](../tagged/rust.md), [cryptography](../tagged/cryptography.md)
+* :octocat: **[source code](https://github.com/RustCrypto/hashes)**
+---
+#### [rustindia/mpw-rs](https://github.com/rustindia/mpw-rs)
+_<sup>https://github.com/rustindia/mpw-rs</sup>_
+
+Pure Rust implementation of the Master Password password manager [<img src="https://api.travis-ci.org/rustindia/mpw-rs.svg?branch=master">](https://travis-ci.org/rustindia/mpw-rs)
+* **tags**: [rust](../tagged/rust.md), [cryptography](../tagged/cryptography.md)
+* :octocat: **[source code](https://github.com/rustindia/mpw-rs)**
+---
+#### [Fraunhofer-AISEC/rabe](https://github.com/Fraunhofer-AISEC/rabe)
+_<sup>https://github.com/Fraunhofer-AISEC/rabe</sup>_
+
+Library providing several Attribute-Based Encryption (ABE) schemes
+* **tags**: [rust](../tagged/rust.md), [cryptography](../tagged/cryptography.md)
+* :octocat: **[source code](https://github.com/Fraunhofer-AISEC/rabe)**
+---
+#### [racum/rust-djangohashers](https://github.com/racum/rust-djangohashers)
+_<sup>https://github.com/racum/rust-djangohashers</sup>_
+
+A Rust port of the password primitives used in the Django Project. It doesn't require Django, only hashes and validates passwords according to its style. [<img src="https://api.travis-ci.org/Racum/rus...
+* **tags**: [rust](../tagged/rust.md), [cryptography](../tagged/cryptography.md)
+* :octocat: **[source code](https://github.com/racum/rust-djangohashers)**
+---
+#### [RNCryptor/rncryptor-rs](https://github.com/RNCryptor/rncryptor-rs)
+_<sup>https://github.com/RNCryptor/rncryptor-rs</sup>_
+
+Pure Rust implementation of the RNCryptor AES file format
+* **tags**: [rust](../tagged/rust.md), [cryptography](../tagged/cryptography.md)
+* :octocat: **[source code](https://github.com/RNCryptor/rncryptor-rs)**
+---
+#### [sfackler/rust-native-tls](https://github.com/sfackler/rust-native-tls)
+_<sup>https://github.com/sfackler/rust-native-tls</sup>_
+
+Bindings for native TLS libraries
+* **tags**: [rust](../tagged/rust.md), [cryptography](../tagged/cryptography.md)
+* :octocat: **[source code](https://github.com/sfackler/rust-native-tls)**
+---
+#### [sfackler/rust-openssl](https://github.com/sfackler/rust-openssl)
+_<sup>https://github.com/sfackler/rust-openssl</sup>_
+
+[OpenSSL](https://www.openssl.org/) bindings [<img src="https://api.travis-ci.org/sfackler/rust-openssl.svg?branch=master">](https://travis-ci.org/sfackler/rust-openssl)
+* **tags**: [rust](../tagged/rust.md), [cryptography](../tagged/cryptography.md)
+* :octocat: **[source code](https://github.com/sfackler/rust-openssl)**
+---
+#### [kornelski/rust-security-framework](https://github.com/kornelski/rust-security-framework)
+_<sup>https://github.com/kornelski/rust-security-framework</sup>_
+
+Bindings for Security Framework (OSX native crypto)
+* **tags**: [rust](../tagged/rust.md), [cryptography](../tagged/cryptography.md)
+* :octocat: **[source code](https://github.com/kornelski/rust-security-framework)**
+---
+#### [steffengy/schannel-rs](https://github.com/steffengy/schannel-rs)
+_<sup>https://github.com/steffengy/schannel-rs</sup>_
+
+Bindings for Schannel (Windows native TLS)
+* **tags**: [rust](../tagged/rust.md), [cryptography](../tagged/cryptography.md)
+* :octocat: **[source code](https://github.com/steffengy/schannel-rs)**
+---
+#### [zebradil/rustotpony](https://github.com/zebradil/rustotpony)
+_<sup>https://github.com/zebradil/rustotpony</sup>_
+
+CLI manager of one-time password generators aka Google Authenticator (TOTP)
+* **tags**: [rust](../tagged/rust.md), [cryptography](../tagged/cryptography.md)
+* :octocat: **[source code](https://github.com/zebradil/rustotpony)**
+---
 #### [cryptography](https://cryptography.io/en/latest/)
 _<sup>https://cryptography.io/en/latest/</sup>_
 

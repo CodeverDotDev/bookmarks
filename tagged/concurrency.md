@@ -2,6 +2,48 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/concurrency](https://www.bookmarks.dev/tagged/concurrency)</sup></sup>_
 ---
+#### [aymanmadkour/glock](https://github.com/aymanmadkour/glock)
+_<sup>https://github.com/aymanmadkour/glock</sup>_
+
+Granular locking crate for Rust. Contribute to aymanmadkour/glock development by creating an account on GitHub.
+* **tags**: [rust](../tagged/rust.md), [concurrency](../tagged/concurrency.md)
+* :octocat: **[source code](https://github.com/aymanmadkour/glock)**
+---
+#### [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam)
+_<sup>https://github.com/crossbeam-rs/crossbeam</sup>_
+
+Tools for concurrent programming in Rust. Contribute to crossbeam-rs/crossbeam development by creating an account on GitHub.
+* **tags**: [rust](../tagged/rust.md), [concurrency](../tagged/concurrency.md)
+* :octocat: **[source code](https://github.com/crossbeam-rs/crossbeam)**
+---
+#### [pop-os/bus-writer](https://github.com/pop-os/bus-writer)
+_<sup>https://github.com/pop-os/bus-writer</sup>_
+
+Generic single-reader, multi-writer
+* **tags**: [rust](../tagged/rust.md), [concurrency](../tagged/concurrency.md)
+* :octocat: **[source code](https://github.com/pop-os/bus-writer)**
+---
+#### [Rayon](https://github.com/rayon-rs/rayon)
+_<sup>https://github.com/rayon-rs/rayon</sup>_
+
+Rayon: A data parallelism library for Rust. Contribute to rayon-rs/rayon development by creating an account on GitHub.
+* **tags**: [rust](../tagged/rust.md), [concurrency](../tagged/concurrency.md)
+* :octocat: **[source code](https://github.com/rayon-rs/rayon)**
+---
+#### [rustcc/coroutine-rs](https://github.com/rustcc/coroutine-rs)
+_<sup>https://github.com/rustcc/coroutine-rs</sup>_
+
+Coroutine Library in Rust. Contribute to rustcc/coroutine-rs development by creating an account on GitHub.
+* **tags**: [rust](../tagged/rust.md), [concurrency](../tagged/concurrency.md)
+* :octocat: **[source code](https://github.com/rustcc/coroutine-rs)**
+---
+#### [zonyitoo/coio-rs](https://github.com/zonyitoo/coio-rs)
+_<sup>https://github.com/zonyitoo/coio-rs</sup>_
+
+Coroutine I/O for Rust. Contribute to zonyitoo/coio-rs development by creating an account on GitHub.
+* **tags**: [rust](../tagged/rust.md), [concurrency](../tagged/concurrency.md)
+* :octocat: **[source code](https://github.com/zonyitoo/coio-rs)**
+---
 #### [Celluloid](http://celluloid.io)
 _<sup>http://celluloid.io</sup>_
 

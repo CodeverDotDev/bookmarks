@@ -1345,13 +1345,6 @@ _<sup>https://httpbin.org/</sup>_
 Testing an HTTP Library can become difficult sometimes. [RequestBin](http://requestb.in/) is fantastic for testing POST requests, but doesn't let you control the response. This exists to cover all kin...
 * **tags**: [dev-tools](../tagged/dev-tools.md), [http](../tagged/http.md), [rest](../tagged/rest.md)
 ---
-#### [Keycloak: Getting started with Keycloak - Securing a REST Service](http://blog.keycloak.org/2015/10/getting-started-with-keycloak-securing.html)
-_<sup>http://blog.keycloak.org/2015/10/getting-started-with-keycloak-securing.html</sup>_
-
-This is the second post in the Getting Started with Keycloak series. In this post we'll be securing a simple REST service with Keycloak. The example REST service is created using JAX-RS and deployed t...
-* :calendar: **published on**: 2015-10-30
-* **tags**: [keycloak](../tagged/keycloak.md), [rest](../tagged/rest.md), [wildfly](../tagged/wildfly.md)
----
 #### [Tutorial – REST API design and implementation in Java with Jersey and Spring – CodingpediaOrg](http://www.codingpedia.org/ama/tutorial-rest-api-design-and-implementation-in-java-with-jersey-and-spring/)
 _<sup>http://www.codingpedia.org/ama/tutorial-rest-api-design-and-implementation-in-java-with-jersey-and-s...</sup>_
 

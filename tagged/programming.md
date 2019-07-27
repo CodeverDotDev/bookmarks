@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/programming](https://www.bookmarks.dev/tagged/programming)</sup></sup>_
 ---
+#### [GitHub - hellerve/programming-talks](https://github.com/hellerve/programming-talks)
+_<sup>https://github.com/hellerve/programming-talks</sup>_
+
+Awesome & interesting talks about programming.
+* **tags**: [programming](../tagged/programming.md), [talk](../tagged/talk.md)
+* :octocat: **[source code](https://github.com/hellerve/programming-talks)**
+---
 #### [Rails Conf 2013 How to Talk to Developers by Ben Orenstein - YouTube](https://www.youtube.com/watch?v=l9JXH7JPjR4)
 _<sup>https://www.youtube.com/watch?v=l9JXH7JPjR4</sup>_
 

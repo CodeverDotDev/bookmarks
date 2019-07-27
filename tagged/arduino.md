@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/arduino](https://www.bookmarks.dev/tagged/arduino)</sup></sup>_
 ---
+#### [avr-rust/ruduino](https://github.com/avr-rust/ruduino)
+_<sup>https://github.com/avr-rust/ruduino</sup>_
+
+Reusable components for the Arduino Uno.
+* **tags**: [rust](../tagged/rust.md), [embedded](../tagged/embedded.md), [arduino](../tagged/arduino.md)
+* :octocat: **[source code](https://github.com/avr-rust/ruduino)**
+---
 #### [Arduino programozási kézikönyv](http://avr.tavir.hu)
 _<sup>http://avr.tavir.hu</sup>_
 

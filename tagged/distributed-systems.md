@@ -2,6 +2,48 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/distributed-systems](https://www.bookmarks.dev/tagged/distributed-systems)</sup></sup>_
 ---
+#### [antimonyproject/antimony](https://github.com/antimonyproject/antimony)
+_<sup>https://github.com/antimonyproject/antimony</sup>_
+
+stream processing / distributed computation platform [<img src="https://api.travis-ci.org/antimonyproject/antimony.svg?branch=master">](https://travis-ci.org/antimonyproject/antimony)
+* **tags**: [rust](../tagged/rust.md), [distributed-systems](../tagged/distributed-systems.md)
+* :octocat: **[source code](https://github.com/antimonyproject/antimony)**
+---
+#### [whitfin/efflux](https://github.com/whitfin/efflux)
+_<sup>https://github.com/whitfin/efflux</sup>_
+
+Easy Hadoop Streaming and MapReduce interfaces in Rust.
+* **tags**: [rust](../tagged/rust.md), [distributed-systems](../tagged/distributed-systems.md)
+* :octocat: **[source code](https://github.com/whitfin/efflux)**
+---
+#### [fede1024/rust-rdkafka](https://github.com/fede1024/rust-rdkafka)
+_<sup>https://github.com/fede1024/rust-rdkafka</sup>_
+
+[librdkafka](https://github.com/edenhill/librdkafka) bindings [<img src="https://api.travis-ci.org/fede1024/rust-rdkafka.svg?branch=master">](https://travis-ci.org/fede1024/rust-rdkafka)
+* **tags**: [rust](../tagged/rust.md), [distributed-systems](../tagged/distributed-systems.md)
+* :octocat: **[source code](https://github.com/fede1024/rust-rdkafka)**
+---
+#### [spicavigo/kafka-rust](https://github.com/spicavigo/kafka-rust)
+_<sup>https://github.com/spicavigo/kafka-rust</sup>_
+
+[<img src="https://api.travis-ci.org/spicavigo/kafka-rust.svg?branch=master">](https://travis-ci.org/spicavigo/kafka-rust)
+* **tags**: [rust](../tagged/rust.md), [distributed-systems](../tagged/distributed-systems.md)
+* :octocat: **[source code](https://github.com/spicavigo/kafka-rust)**
+---
+#### [schickling/rust-beanstalkd](https://github.com/schickling/rust-beanstalkd)
+_<sup>https://github.com/schickling/rust-beanstalkd</sup>_
+
+[Beanstalkd](https://github.com/beanstalkd/beanstalkd) bindings [<img src="https://api.travis-ci.org/schickling/rust-beanstalkd.svg?branch=master">](https://travis-ci.org/schickling/rust-beanstalkd)
+* **tags**: [rust](../tagged/rust.md), [distributed-systems](../tagged/distributed-systems.md)
+* :octocat: **[source code](https://github.com/schickling/rust-beanstalkd)**
+---
+#### [hyunsik/hdfs-rs](https://github.com/hyunsik/hdfs-rs)
+_<sup>https://github.com/hyunsik/hdfs-rs</sup>_
+
+libhdfs bindings [<img src="https://api.travis-ci.org/hyunsik/hdfs-rs.svg?branch=master">](https://travis-ci.org/hyunsik/hdfs-rs)
+* **tags**: [rust](../tagged/rust.md), [distributed-systems](../tagged/distributed-systems.md)
+* :octocat: **[source code](https://github.com/hyunsik/hdfs-rs)**
+---
 #### [celeriac](https://github.com/svcavallar/celeriac.v1)
 _<sup>https://github.com/svcavallar/celeriac.v1</sup>_
 

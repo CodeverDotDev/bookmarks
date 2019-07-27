@@ -2,6 +2,20 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/dev-tools](https://www.bookmarks.dev/tagged/dev-tools)</sup></sup>_
 ---
+#### [ioncodes/snesutilities](https://github.com/ioncodes/snesutilities)
+_<sup>https://github.com/ioncodes/snesutilities</sup>_
+
+ROM analyser/extractor
+* **tags**: [rust](../tagged/rust.md), [emulators](../tagged/emulators.md), [dev-tools](../tagged/dev-tools.md), [snes](../tagged/snes.md)
+* :octocat: **[source code](https://github.com/ioncodes/snesutilities)**
+---
+#### [OpenID Connect debugger](https://oidcdebugger.com/)
+_<sup>https://oidcdebugger.com/</sup>_
+
+Test and debug OpenID Connect requests. This free tool makes it easy to send requests and view responses.
+* **tags**: [oidc](../tagged/oidc.md), [oauth2](../tagged/oauth2.md), [debugging](../tagged/debugging.md), [dev-tools](../tagged/dev-tools.md)
+* :octocat: **[source code](https://github.com/nbarbettini/oidc-debugger)**
+---
 #### [jq home page](https://stedolan.github.io/jq/)
 _<sup>https://stedolan.github.io/jq/</sup>_
 

@@ -2,6 +2,20 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/datetime](https://www.bookmarks.dev/tagged/datetime)</sup></sup>_
 ---
+#### [chronotope/chrono](https://github.com/chronotope/chrono)
+_<sup>https://github.com/chronotope/chrono</sup>_
+
+[<img src="https://api.travis-ci.org/chronotope/chrono.svg?branch=master">](https://travis-ci.org/chronotope/chrono)
+* **tags**: [rust](../tagged/rust.md), [date](../tagged/date.md), [datetime](../tagged/datetime.md)
+* :octocat: **[source code](https://github.com/chronotope/chrono)**
+---
+#### [yaa110/rust-persian-calendar](https://github.com/yaa110/rust-persian-calendar)
+_<sup>https://github.com/yaa110/rust-persian-calendar</sup>_
+
+[<img src="https://api.travis-ci.org/yaa110/rust-persian-calendar.svg?branch=master">](https://travis-ci.org/yaa110/rust-persian-calendar)
+* **tags**: [rust](../tagged/rust.md), [date](../tagged/date.md), [datetime](../tagged/datetime.md)
+* :octocat: **[source code](https://github.com/yaa110/rust-persian-calendar)**
+---
 #### [Almanac Converter](https://github.com/hypotemoose/almanac-converter)
 _<sup>https://github.com/hypotemoose/almanac-converter</sup>_
 

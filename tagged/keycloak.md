@@ -2,6 +2,21 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/keycloak](https://www.bookmarks.dev/tagged/keycloak)</sup></sup>_
 ---
+#### [Keycloak SSO on Multiple React Apps](https://medium.com/@gmonne/keycloak-sso-1813a2072d64)
+_<sup>https://medium.com/@gmonne/keycloak-sso-1813a2072d64</sup>_
+
+On this article, I’ll focus on how we can authenticate two React applications using the OpenID authentication protocol with Keycloak. Why React? Because it’s the framework, I prefer. Though, you could...
+* :calendar: **published on**: 2019-07-19
+* **tags**: [keycloak](../tagged/keycloak.md), [reactjs](../tagged/reactjs.md)
+* :octocat: **[source code](https://github.com/guzmonne/keycloak-react)**
+---
+#### [User Authentication with Keycloak - Part 1: React front-end - Frontend](https://scalac.io/user-authentication-keycloak-1/)
+_<sup>https://scalac.io/user-authentication-keycloak-1/</sup>_
+
+Today, we’ll learn how to set up your Keycloak server and use it to secure a React-based browser app. In the next part of this series, we’ll be looking into integrating it with a Scala backend. So, le...
+* **tags**: [keycloak](../tagged/keycloak.md), [reactjs](../tagged/reactjs.md)
+* :octocat: **[source code](https://github.com/kmikulski/blog-keycloak/tree/master/keycloak-react-part1)**
+---
 #### [keycloak helm charts from codecentric](https://github.com/codecentric/helm-charts/tree/master/charts/keycloak)
 _<sup>https://github.com/codecentric/helm-charts/tree/master/charts/keycloak</sup>_
 
@@ -60,10 +75,9 @@ Probably the best keycloak [Slides](https://github.com/thomasdarimont/keycloak-d
 #### [Keycloak Docker Server Image](https://hub.docker.com/r/jboss/keycloak/)
 _<sup>https://hub.docker.com/r/jboss/keycloak/</sup>_
 
- Help and Documentation
-
 * [Keycloak server image documentation](https://github.com/jboss-dockerfiles/keycloak/blob/master/server/README.md)
-* [Documentation](https://www.keycloak.org/documentatio...
+* [Documentation](https://www.keycloak.org/documentation.html)
+* [User Mailing List]...
 * **tags**: [keycloak](../tagged/keycloak.md), [docker](../tagged/docker.md)
 * :octocat: **[source code](https://github.com/jboss-dockerfiles/keycloak)**
 ---
@@ -107,12 +121,6 @@ This directory contains a number of examples for Keycloak.
 * **tags**: [keycloak](../tagged/keycloak.md)
 * :octocat: **[source code](https://github.com/keycloak/keycloak/tree/master/examples)**
 ---
-#### [User Storage SPI | Keycloak Documentation](http://www.keycloak.org/docs/latest/server_development/topics/user-storage.html)
-_<sup>http://www.keycloak.org/docs/latest/server_development/topics/user-storage.html</sup>_
-
-The User Storage SPI allows you to write extensions to Keycloak to connect to external user databases and credential stores. The built-in LDAP and ActiveDirectory support is an implementation of this ...
-* **tags**: [keycloak](../tagged/keycloak.md)
----
 #### [Keycloak home page](http://www.keycloak.org/)
 _<sup>http://www.keycloak.org/</sup>_
 
@@ -121,37 +129,12 @@ For Modern Applications and Services
 * **tags**: [keycloak](../tagged/keycloak.md)
 * :octocat: **[source code](https://github.com/keycloak/keycloak)**
 ---
-#### [Social Login | Keycloak Documentation](http://www.keycloak.org/docs/latest/server_admin/topics/identity-broker/social-login.html)
-_<sup>http://www.keycloak.org/docs/latest/server_admin/topics/identity-broker/social-login.html</sup>_
-
-For Internet facing applications, it is quite burdensome for users to have to register at your site to obtain access. It requires them to remember yet another username and password combination. Social...
-* **tags**: [keycloak](../tagged/keycloak.md)
----
-#### [Identity Brokering | Keycloak Documentation](http://www.keycloak.org/docs/latest/server_admin/topics/identity-broker.html)
-_<sup>http://www.keycloak.org/docs/latest/server_admin/topics/identity-broker.html</sup>_
-
-An Identity Broker is an intermediary service that connects multiple service providers with different identity providers. As an intermediary service, the identity broker is responsible for creating a ...
-* **tags**: [keycloak](../tagged/keycloak.md)
----
 #### [Home · Codingpedia/bookmarks-api Wiki · GitHub](https://github.com/Codingpedia/bookmarks-api/wiki)
 _<sup>https://github.com/Codingpedia/bookmarks-api/wiki</sup>_
 
 * Keycloak Setup
 * Nginx Setup and more
 * **tags**: [nginx](../tagged/nginx.md), [keycloak](../tagged/keycloak.md)
----
-#### [Relational Database Setup | Keycloak Documentation](https://keycloak.gitbooks.io/documentation/server_installation/topics/database.html)
-_<sup>https://keycloak.gitbooks.io/documentation/server_installation/topics/database.html</sup>_
-
-Keycloak comes with its own embedded Java-based relational database called H2. This is the default database that Keycloak will use to persist data and really only exists so that you can run the authen...
-* **tags**: [keycloak](../tagged/keycloak.md)
----
-#### [Keycloak: Registering new clients from shell](http://blog.keycloak.org/2016/10/registering-new-clients-from-shell.html)
-_<sup>http://blog.keycloak.org/2016/10/registering-new-clients-from-shell.html</sup>_
-
-Keycloak comes with a powerful web admin console that is a primary tool for configuring everything in Keycloak. As powerful as it is it does not lend itself to scripting. Automation requires the abili...
-* :calendar: **published on**: 2016-10-31
-* **tags**: [keycloak](../tagged/keycloak.md)
 ---
 #### [Keycloak: Administer Keycloak server from shell with Admin CLI](http://blog.keycloak.org/2017/01/administer-keycloak-server-from-shell.html)
 _<sup>http://blog.keycloak.org/2017/01/administer-keycloak-server-from-shell.html</sup>_
@@ -168,57 +151,6 @@ _<sup>http://www.codingpedia.org/keycloak/securing-microservices-with-keycloak/<
 * :calendar: **published on**: 2016-09-01
 * **tags**: [keycloak](../tagged/keycloak.md)
 ---
-#### [Keycloak: Getting started with Keycloak - Securing a REST Service](http://blog.keycloak.org/2015/10/getting-started-with-keycloak-securing.html)
-_<sup>http://blog.keycloak.org/2015/10/getting-started-with-keycloak-securing.html</sup>_
-
-This is the second post in the Getting Started with Keycloak series. In this post we'll be securing a simple REST service with Keycloak. The example REST service is created using JAX-RS and deployed t...
-* :calendar: **published on**: 2015-10-30
-* **tags**: [keycloak](../tagged/keycloak.md), [rest](../tagged/rest.md), [wildfly](../tagged/wildfly.md)
----
-#### [Migration from older versions | Keycloak Documentation](https://keycloak.gitbooks.io/documentation/server_admin/topics/MigrationFromOlderVersions.html)
-_<sup>https://keycloak.gitbooks.io/documentation/server_admin/topics/MigrationFromOlderVersions.html</sup>_
-
-To upgrade to a new version of Keycloak first download and install the new version of Keycloak. Once the new version is installed migrate the config files, database, keycloak-server.json, providers, t...
-* **tags**: [keycloak](../tagged/keycloak.md)
----
-#### [Export and Import | Keycloak Documentation](https://keycloak.gitbooks.io/documentation/server_admin/topics/export-import.html)
-_<sup>https://keycloak.gitbooks.io/documentation/server_admin/topics/export-import.html</sup>_
-
-Keycloak has the ability to export and import the entire database. This can be especially useful if you want to migrate your whole Keycloak database from one environment to another or migrate to a dif...
-* **tags**: [keycloak](../tagged/keycloak.md)
----
-#### [Keycloak Security Proxy | Keycloak Documentation](https://keycloak.gitbooks.io/documentation/server_installation/topics/proxy.html)
-_<sup>https://keycloak.gitbooks.io/documentation/server_installation/topics/proxy.html</sup>_
-
-Keycloak has an HTTP(S) proxy that you can put in front of web applications and services where it is not possible to install the Keycloak adapter. You can set up URL filters so that certain URLs are s...
-* **tags**: [keycloak](../tagged/keycloak.md)
----
-#### [Groups | Keycloak Documentation](https://keycloak.gitbooks.io/documentation/server_admin/topics/groups.html)
-_<sup>https://keycloak.gitbooks.io/documentation/server_admin/topics/groups.html</sup>_
-
-Groups in Keycloak allow you to manage a common set of attributes and role mappings for a set of users. Users can be members of zero or more groups. Users inherit the attributes and role mappings assi...
-* **tags**: [keycloak](../tagged/keycloak.md)
----
-#### [Roles | Keycloak Documentation](https://keycloak.gitbooks.io/documentation/server_admin/topics/roles.html)
-_<sup>https://keycloak.gitbooks.io/documentation/server_admin/topics/roles.html</sup>_
-
-Roles identify a type or category of user. `Admin`, `user`, `manager`, and `employee` are all typical roles that may exist in an organization. Applications often assign access and permissions to speci...
-* **tags**: [keycloak](../tagged/keycloak.md)
----
-#### [JavaScript Adapter | Keycloak Documentation](http://www.keycloak.org/docs/latest/securing_apps/topics/oidc/javascript-adapter.html)
-_<sup>http://www.keycloak.org/docs/latest/securing_apps/topics/oidc/javascript-adapter.html</sup>_
-
-Keycloak comes with a client-side JavaScript library that can be used to secure HTML5/JavaScript applications. The JavaScript adapter has built-in support for Cordova applications.
-
-The library can be...
-* **tags**: [keycloak](../tagged/keycloak.md), [docs](../tagged/docs.md), [javascript](../tagged/javascript.md)
----
-#### [Keycloak Documentation · GitBook](https://www.gitbook.com/book/keycloak/documentation/details)
-_<sup>https://www.gitbook.com/book/keycloak/documentation/details</sup>_
-
-Download PDF or Read Online
-* **tags**: [keycloak](../tagged/keycloak.md)
----
 #### [Migrate to Keycloak with Zero Downtime – Universal Language](https://tech.smartling.com/migrate-to-keycloak-with-zero-downtime-8dcab9e7cb2c)
 _<sup>https://tech.smartling.com/migrate-to-keycloak-with-zero-downtime-8dcab9e7cb2c</sup>_
 
@@ -227,38 +159,11 @@ To help Keycloak implementers with user migration, we’ve open sourced our user
 * **tags**: [keycloak](../tagged/keycloak.md)
 * :octocat: **[source code](https://github.com/Smartling/keycloak-user-migration-provider)**
 ---
-#### [LDAP/AD Integration | Keycloak Documentation](https://keycloak.gitbooks.io/documentation/server_admin/topics/user-federation/ldap.html)
-_<sup>https://keycloak.gitbooks.io/documentation/server_admin/topics/user-federation/ldap.html</sup>_
-
-Keycloak comes with a built-in LDAP/AD provider. It is possible to federate multiple different LDAP servers in the same Keycloak realm. You can map LDAP user attributes into the Keycloak common user m...
-* **tags**: [keycloak](../tagged/keycloak.md), [ldap](../tagged/ldap.md), [active-directory](../tagged/active-directory.md)
----
-#### [Admin REST API | Keycloak Documentation](https://keycloak.gitbooks.io/documentation/server_development/topics/admin-rest-api.html)
-_<sup>https://keycloak.gitbooks.io/documentation/server_development/topics/admin-rest-api.html</sup>_
-
-Keycloak comes with a fully functional Admin REST API with all features provided by the Admin Console.
-
-To invoke the API you need to obtain an access token with the appropriate permissions. The requi...
-* **tags**: [keycloak](../tagged/keycloak.md)
-* :octocat: **[source code](https://github.com/keycloak/keycloak)**
----
 #### [Offline Access | Server Administration Guide](http://www.keycloak.org/docs/latest/server_admin/topics/sessions/offline.html)
 _<sup>http://www.keycloak.org/docs/latest/server_admin/topics/sessions/offline.html</sup>_
 
 Offline access is a feature described in [OpenID Connect specification](http://openid.net/specs/openid-connect-core-1_0.htmlOfflineAccess) . The idea is that during login, your client application wil...
 * **tags**: [keycloak](../tagged/keycloak.md)
----
-#### [Keycloak - Documentation](http://www.keycloak.org/documentation.html)
-_<sup>http://www.keycloak.org/documentation.html</sup>_
-
-Links to keycloak documentation 
-
-* Getting started tutorials
-* Server Installation and Configuration Guide 
-* Server Administration Guide 
-* Server Developer Guide 
-* Administration REST API 
-* **tags**: [keycloak](../tagged/keycloak.md), [sso](../tagged/sso.md)
 ---
 #### [JWT authentication with Vert.x, Keycloak and Angular 2](http://paulbakker.io/java/jwt-keycloak-angular2/)
 _<sup>http://paulbakker.io/java/jwt-keycloak-angular2/</sup>_

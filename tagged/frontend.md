@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/frontend](https://www.bookmarks.dev/tagged/frontend)</sup></sup>_
 ---
+#### [Front End Happy Hour](http://frontendhappyhour.com/)
+_<sup>http://frontendhappyhour.com/</sup>_
+
+A podcast featuring a panel of Software Engineers from Netflix, Evernote, Atlassian & LinkedIn talking over drinks about all things Front End development.
+* **tags**: [podcast](../tagged/podcast.md), [frontend](../tagged/frontend.md), [javascript](../tagged/javascript.md)
+---
 #### [What’s new in JavaScript (Google I/O ’19) - YouTube](https://www.youtube.com/watch?v=c0oy0vQKEZE)
 _<sup>https://www.youtube.com/watch?v=c0oy0vQKEZE</sup>_
 

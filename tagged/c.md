@@ -2,6 +2,20 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/c](https://www.bookmarks.dev/tagged/c)</sup></sup>_
 ---
+#### [rlhunt/cbindgen](https://github.com/eqrion/cbindgen)
+_<sup>https://github.com/eqrion/cbindgen</sup>_
+
+generates C header files from Rust source files. Used in Gecko for WebRender [<img src="https://api.travis-ci.org/eqrion/cbindgen.svg?branch=master">](https://travis-ci.org/eqrion/cbindgen)
+* **tags**: [rust](../tagged/rust.md), [ffi](../tagged/ffi.md), [c](../tagged/c.md)
+* :octocat: **[source code](https://github.com/eqrion/cbindgen)**
+---
+#### [Sean1708/rusty-cheddar](https://github.com/Sean1708/rusty-cheddar)
+_<sup>https://github.com/Sean1708/rusty-cheddar</sup>_
+
+generates C header files from Rust source files [<img src="https://api.travis-ci.org/Sean1708/rusty-cheddar.svg?branch=master">](https://travis-ci.org/Sean1708/rusty-cheddar)
+* **tags**: [rust](../tagged/rust.md), [ffi](../tagged/ffi.md), [c](../tagged/c.md)
+* :octocat: **[source code](https://github.com/Sean1708/rusty-cheddar)**
+---
 #### [libgraphqlparser](https://github.com/graphql/libgraphqlparser)
 _<sup>https://github.com/graphql/libgraphqlparser</sup>_
 

@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/benchmarks](https://www.bookmarks.dev/tagged/benchmarks)</sup></sup>_
 ---
+#### [TeXitoi/benchmarksgame-rs](https://github.com/TeXitoi/benchmarksgame-rs)
+_<sup>https://github.com/TeXitoi/benchmarksgame-rs</sup>_
+
+Rust implementations for the [The Computer Language Benchmarks Game](https://benchmarksgame-team.pages.debian.net/benchmarksgame/) [<img src="https://api.travis-ci.org/TeXitoi/benchmarksgame-rs.svg?br...
+* **tags**: [rust](../tagged/rust.md), [benchmarks](../tagged/benchmarks.md)
+* :octocat: **[source code](https://github.com/TeXitoi/benchmarksgame-rs)**
+---
 #### [autobench](https://github.com/davecheney/autobench)
 _<sup>https://github.com/davecheney/autobench</sup>_
 

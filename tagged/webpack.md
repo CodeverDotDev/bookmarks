@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/webpack](https://www.bookmarks.dev/tagged/webpack)</sup></sup>_
 ---
+#### [ARc - Atomic React](https://arc.js.org/)
+_<sup>https://arc.js.org/</sup>_
+
+React starter kit based on Atomic Design with React Router, Webpack, Redux, Server Side Rendering and more
+* **tags**: [reactjs](../tagged/reactjs.md), [redux](../tagged/redux.md), [webpack](../tagged/webpack.md), [react-router](../tagged/react-router.md)
+* :octocat: **[source code](https://github.com/diegohaz/arc)**
+---
 #### [awesome-webpack](https://github.com/webpack-contrib/awesome-webpack#readme)
 _<sup>https://github.com/webpack-contrib/awesome-webpack#readme</sup>_
 

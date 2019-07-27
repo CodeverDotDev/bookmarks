@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/devops](https://www.bookmarks.dev/tagged/devops)</sup></sup>_
 ---
+#### [How To Become A Full Stack Developer In 2019 [ROADMAP]?](https://redblink.com/become-full-stack-developer-2019-roadmap/)
+_<sup>https://redblink.com/become-full-stack-developer-2019-roadmap/</sup>_
+
+How To Become A Full Stack Developer In 2019 [ROADMAP]? So, You want to be a good developer, so you want to go full stack. Entering the web development industry is a relatively easy task today, but ri...
+* :calendar: **published on**: 2019-07-04
+* **tags**: [dev](../tagged/dev.md), [devops](../tagged/devops.md)
+---
 #### [aptly](https://github.com/smira/aptly)
 _<sup>https://github.com/smira/aptly</sup>_
 

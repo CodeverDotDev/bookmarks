@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/r](https://www.bookmarks.dev/tagged/r)</sup></sup>_
 ---
+#### [rustr/rustr](https://github.com/rustr/rustr)
+_<sup>https://github.com/rustr/rustr</sup>_
+
+use Rust from R, and use R in Rust [<img src="https://api.travis-ci.org/rustr/rustr.svg?branch=master">](https://travis-ci.org/rustr/rustr)
+* **tags**: [rust](../tagged/rust.md), [ffi](../tagged/ffi.md), [r](../tagged/r.md)
+* :octocat: **[source code](https://github.com/rustr/rustr)**
+---
 #### [awesome-R](https://github.com/qinwf/awesome-R#readme)
 _<sup>https://github.com/qinwf/awesome-R#readme</sup>_
 

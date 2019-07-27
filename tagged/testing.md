@@ -2,6 +2,27 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/testing](https://www.bookmarks.dev/tagged/testing)</sup></sup>_
 ---
+#### [rust-fuzz/afl.rs](https://github.com/rust-fuzz/afl.rs)
+_<sup>https://github.com/rust-fuzz/afl.rs</sup>_
+
+A Rust fuzzer, using [AFL](http://lcamtuf.coredump.cx/afl/) [<img src="https://api.travis-ci.org/rust-fuzz/afl.rs.svg?branch=master">](https://travis-ci.org/rust-fuzz/afl.rs)
+* **tags**: [rust](../tagged/rust.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/rust-fuzz/afl.rs)**
+---
+#### [trust](https://github.com/japaric/trust)
+_<sup>https://github.com/japaric/trust</sup>_
+
+A Travis CI and AppVeyor template to test your Rust crate on 5 architectures and publish binary releases of it for Linux, macOS and Windows
+* **tags**: [rust](../tagged/rust.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/japaric/trust)**
+---
+#### [deep-freeze](https://github.com/substack/deep-freeze)
+_<sup>https://github.com/substack/deep-freeze</sup>_
+
+Recursively `Object.freeze()` on objects and functions - substack/deep-freeze
+* **tags**: [javascript](../tagged/javascript.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/substack/deep-freeze)**
+---
 #### [Hurl.it](https://www.hurl.it/)
 _<sup>https://www.hurl.it/</sup>_
 

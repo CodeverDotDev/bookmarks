@@ -2,6 +2,21 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/expressjs](https://www.bookmarks.dev/tagged/expressjs)</sup></sup>_
 ---
+#### [GitHub - auth0/express-jwt](https://github.com/auth0/express-jwt)
+_<sup>https://github.com/auth0/express-jwt</sup>_
+
+connect/express middleware that validates a JsonWebToken (JWT) and set the req.user with the attributes - auth0/express-jwt
+* **tags**: [expressjs](../tagged/expressjs.md), [nodejs](../tagged/nodejs.md), [jwt](../tagged/jwt.md)
+* :octocat: **[source code](https://github.com/auth0/express-jwt)**
+---
+#### [Introduction to React + Tutorial How To Build Your First App](https://auth0.com/blog/react-tutorial-building-and-securing-your-first-app/)
+_<sup>https://auth0.com/blog/react-tutorial-building-and-securing-your-first-app/</sup>_
+
+Introduction to React and its components and routers. Tutorial of how to build a simple Q&A React app - secure backend API with Node.js and Express.
+* :calendar: **published on**: 2018-08-28
+* **tags**: [reactjs](../tagged/reactjs.md), [react-router](../tagged/react-router.md), [nodejs](../tagged/nodejs.md), [expressjs](../tagged/expressjs.md), [axios](../tagged/axios.md), [authentication](../tagged/authentication.md), [security](../tagged/security.md)
+* :octocat: **[source code](https://github.com/auth0-blog/react-tutorial)**
+---
 #### [Creating A GraphQL Server With Node.js And Express – CodingTheSmartWay.com Blog – Medium](https://medium.com/codingthesmartway-com-blog/creating-a-graphql-server-with-node-js-and-express-f6dddc5320e1)
 _<sup>https://medium.com/codingthesmartway-com-blog/creating-a-graphql-server-with-node-js-and-express-f6d...</sup>_
 

@@ -2,6 +2,27 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/python](https://www.bookmarks.dev/tagged/python)</sup></sup>_
 ---
+#### [getsentry/milksnake](https://github.com/getsentry/milksnake)
+_<sup>https://github.com/getsentry/milksnake</sup>_
+
+extension for python setuptools that allows you to distribute dynamic linked libraries in Python wheels in the most portable way imaginable.
+* **tags**: [rust](../tagged/rust.md), [ffi](../tagged/ffi.md), [python](../tagged/python.md)
+* :octocat: **[source code](https://github.com/getsentry/milksnake)**
+---
+#### [dgrunwald/rust-cpython](https://github.com/dgrunwald/rust-cpython)
+_<sup>https://github.com/dgrunwald/rust-cpython</sup>_
+
+Python bindings [<img src="https://api.travis-ci.org/dgrunwald/rust-cpython.svg?branch=master">](https://travis-ci.org/dgrunwald/rust-cpython)
+* **tags**: [rust](../tagged/rust.md), [ffi](../tagged/ffi.md), [python](../tagged/python.md)
+* :octocat: **[source code](https://github.com/dgrunwald/rust-cpython)**
+---
+#### [PyO3/PyO3](https://github.com/PyO3/PyO3)
+_<sup>https://github.com/PyO3/PyO3</sup>_
+
+Rust bindings for the Python interpreter [<img src="https://api.travis-ci.org/PyO3/pyo3.svg?branch=master">](https://travis-ci.org/PyO3/pyo3)
+* **tags**: [rust](../tagged/rust.md), [ffi](../tagged/ffi.md), [python](../tagged/python.md)
+* :octocat: **[source code](https://github.com/PyO3/PyO3)**
+---
 #### [flask-restful](http://flask-restful.readthedocs.org/)
 _<sup>http://flask-restful.readthedocs.org/</sup>_
 

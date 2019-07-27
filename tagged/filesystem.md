@@ -2,6 +2,41 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/filesystem](https://www.bookmarks.dev/tagged/filesystem)</sup></sup>_
 ---
+#### [pop-os/sys-mount](https://github.com/pop-os/sys-mount)
+_<sup>https://github.com/pop-os/sys-mount</sup>_
+
+High level abstraction for the `mount` / `umount2` system calls.
+* **tags**: [rust](../tagged/rust.md), [filesystem](../tagged/filesystem.md)
+* :octocat: **[source code](https://github.com/pop-os/sys-mount)**
+---
+#### [vitiral/path_abs](https://github.com/vitiral/path_abs)
+_<sup>https://github.com/vitiral/path_abs</sup>_
+
+Absolute serializable path types and associated methods. [<img src="https://api.travis-ci.org/vitiral/path_abs.svg?branch=master">](https://travis-ci.org/webdesus/fs_extr://travis-ci.org/vitiral/path_...
+* **tags**: [rust](../tagged/rust.md), [filesystem](../tagged/filesystem.md)
+* :octocat: **[source code](https://github.com/vitiral/path_abs)**
+---
+#### [webdesus/fs_extra](https://github.com/webdesus/fs_extra)
+_<sup>https://github.com/webdesus/fs_extra</sup>_
+
+expanding opportunities standard library std::fs and std::io [<img src="https://api.travis-ci.org/webdesus/fs_extra.svg?branch=master">](https://travis-ci.org/webdesus/fs_extra)
+* **tags**: [rust](../tagged/rust.md), [filesystem](../tagged/filesystem.md)
+* :octocat: **[source code](https://github.com/webdesus/fs_extra)**
+---
+#### [rust-lang-deprecated/tempdir](https://github.com/rust-lang-deprecated/tempdir)
+_<sup>https://github.com/rust-lang-deprecated/tempdir</sup>_
+
+temporary directory library [<img src="https://api.travis-ci.org/rust-lang-nursery/tempdir.svg?branch=master">](https://travis-ci.org/rust-lang-nursery/tempdir)
+* **tags**: [rust](../tagged/rust.md), [filesystem](../tagged/filesystem.md)
+* :octocat: **[source code](https://github.com/rust-lang-deprecated/tempdir)**
+---
+#### [Stebalien/tempfile](https://github.com/Stebalien/tempfile)
+_<sup>https://github.com/Stebalien/tempfile</sup>_
+
+temporary file library [<img src="https://api.travis-ci.org/Stebalien/tempfile.svg?branch=master">](https://travis-ci.org/Stebalien/tempfile)
+* **tags**: [rust](../tagged/rust.md), [filesystem](../tagged/filesystem.md)
+* :octocat: **[source code](https://github.com/Stebalien/tempfile)**
+---
 #### [del](https://github.com/sindresorhus/del)
 _<sup>https://github.com/sindresorhus/del</sup>_
 

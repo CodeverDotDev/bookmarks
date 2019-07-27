@@ -2,6 +2,62 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/audio](https://www.bookmarks.dev/tagged/audio)</sup></sup>_
 ---
+#### [indiscipline/zrtstr](https://github.com/indiscipline/zrtstr)
+_<sup>https://github.com/indiscipline/zrtstr</sup>_
+
+A command line utility for checking if stereo wav files are faux-stereo (i.e. have identical channels) and converting such files to mono. [<img src="https://api.travis-ci.org/indiscipline/zrtstr.svg?b...
+* **tags**: [rust](../tagged/rust.md), [audio](../tagged/audio.md)
+* :octocat: **[source code](https://github.com/indiscipline/zrtstr)**
+---
+#### [GuillaumeGomez/rust-fmod](https://github.com/GuillaumeGomez/rust-fmod)
+_<sup>https://github.com/GuillaumeGomez/rust-fmod</sup>_
+
+[FMOD](https://www.fmod.com) bindings [![Build Status](https://api.travis-ci.org/GuillaumeGomez/rust-fmod.svg?branch=master)](https://travis-ci.org/GuillaumeGomez/rust-fmod)
+* **tags**: [rust](../tagged/rust.md), [audio](../tagged/audio.md)
+* :octocat: **[source code](https://github.com/GuillaumeGomez/rust-fmod)**
+---
+#### [jhasse/ears](https://github.com/jhasse/ears)
+_<sup>https://github.com/jhasse/ears</sup>_
+
+A simple library to play Sounds and Musics, on top of OpenAL and libsndfile [<img src="https://api.travis-ci.org/jhasse/ears.svg?branch=master">](https://travis-ci.org/jhasse/ears)
+* **tags**: [rust](../tagged/rust.md), [audio](../tagged/audio.md)
+* :octocat: **[source code](https://github.com/jhasse/ears)**
+---
+#### [jpernst/alto](https://github.com/jpernst/alto)
+_<sup>https://github.com/jpernst/alto</sup>_
+
+OpenAL 1.1 bindings [<img src="https://api.travis-ci.org/jpernst/alto.svg?branch=master">](https://travis-ci.org/jpernst/alto)
+* **tags**: [rust](../tagged/rust.md), [audio](../tagged/audio.md)
+* :octocat: **[source code](https://github.com/jpernst/alto)**
+---
+#### [musitdev/portmidi-rs](https://github.com/musitdev/portmidi-rs)
+_<sup>https://github.com/musitdev/portmidi-rs</sup>_
+
+[PortMidi](http://portmedia.sourceforge.net/portmidi/) bindings [<img src="https://api.travis-ci.org/musitdev/portmidi-rs.svg?branch=master">](https://travis-ci.org/musitdev/portmidi-rs)
+* **tags**: [rust](../tagged/rust.md), [audio](../tagged/audio.md)
+* :octocat: **[source code](https://github.com/musitdev/portmidi-rs)**
+---
+#### [tomaka/rodio](https://github.com/tomaka/rodio)
+_<sup>https://github.com/tomaka/rodio</sup>_
+
+A Rust audio playback library [![Build Status](https://api.travis-ci.org/tomaka/rodio.svg?branch=master)](https://travis-ci.org/tomaka/rodio)
+* **tags**: [rust](../tagged/rust.md), [audio](../tagged/audio.md)
+* :octocat: **[source code](https://github.com/tomaka/rodio)**
+---
+#### [RustAudio](https://github.com/RustAudio)
+_<sup>https://github.com/RustAudio</sup>_
+
+An aggregate of free and useful Audio, DSP and music libraries written in Rust. - RustAudio
+* **tags**: [rust](../tagged/rust.md), [audio](../tagged/audio.md)
+* :octocat: **[source code](https://github.com/RustAudio)**
+---
+#### [RustAudio/rust-portaudio](https://github.com/RustAudio/rust-portaudio)
+_<sup>https://github.com/RustAudio/rust-portaudio</sup>_
+
+[PortAudio](http://www.portaudio.com/) bindings [<img src="https://api.travis-ci.org/RustAudio/rust-portaudio.svg?branch=master">](https://travis-ci.org/RustAudio/rust-portaudio)
+* **tags**: [rust](../tagged/rust.md), [audio](../tagged/audio.md)
+* :octocat: **[source code](https://github.com/RustAudio/rust-portaudio)**
+---
 #### [EasyMIDI](https://github.com/algoGuy/EasyMIDI)
 _<sup>https://github.com/algoGuy/EasyMIDI</sup>_
 

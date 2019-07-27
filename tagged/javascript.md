@@ -2,6 +2,70 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/javascript](https://www.bookmarks.dev/tagged/javascript)</sup></sup>_
 ---
+#### [MobX Home Page](https://mobx.js.org/)
+_<sup>https://mobx.js.org/</sup>_
+
+Simple, scalable state management
+* **tags**: [javascript](../tagged/javascript.md), [functional-programming](../tagged/functional-programming.md), [reactive-programming](../tagged/reactive-programming.md)
+* :octocat: **[source code](https://github.com/mobxjs/mobx)**
+---
+#### [Front End Happy Hour](http://frontendhappyhour.com/)
+_<sup>http://frontendhappyhour.com/</sup>_
+
+A podcast featuring a panel of Software Engineers from Netflix, Evernote, Atlassian & LinkedIn talking over drinks about all things Front End development.
+* **tags**: [podcast](../tagged/podcast.md), [frontend](../tagged/frontend.md), [javascript](../tagged/javascript.md)
+---
+#### [ES6 In Depth: Destructuring - Mozilla Hacks](https://hacks.mozilla.org/2015/05/es6-in-depth-destructuring/)
+_<sup>https://hacks.mozilla.org/2015/05/es6-in-depth-destructuring/</sup>_
+
+**What is destructuring assignment?**
+
+Destructuring assignment allows you to assign the properties of an array or object to variables using syntax that looks similar to array or object literals. This...
+* :calendar: **published on**: 2015-05-28
+* **tags**: [javascript](../tagged/javascript.md)
+---
+#### [A Story About Kanye West and Learning to Code](https://syntax.fm/)
+_<sup>https://syntax.fm/</sup>_
+
+Full Stack Developers Wes Bos and Scott Tolinski dive deep into web development topics, explaining how they work and talking about their own experiences. They cover from JavaScript frameworks like Rea...
+* **tags**: [podcast](../tagged/podcast.md), [javascript](../tagged/javascript.md), [reactjs](../tagged/reactjs.md), [web-development](../tagged/web-development.md), [css](../tagged/css.md)
+---
+#### [deep-freeze](https://github.com/substack/deep-freeze)
+_<sup>https://github.com/substack/deep-freeze</sup>_
+
+Recursively `Object.freeze()` on objects and functions - substack/deep-freeze
+* **tags**: [javascript](../tagged/javascript.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/substack/deep-freeze)**
+---
+#### [Flow - A Static Type Checker for JavaScript](https://flow.org/)
+_<sup>https://flow.org/</sup>_
+
+A Static Type Checker for JavaScript
+* **tags**: [javascript](../tagged/javascript.md), [typechecking](../tagged/typechecking.md)
+* :octocat: **[source code](https://github.com/facebook/flow)**
+---
+#### [Real Talk Javascript Podcast](https://realtalkjavascript.simplecast.fm)
+_<sup>https://realtalkjavascript.simplecast.fm</sup>_
+
+Dive into JavaScript and Web development stories with hosts John Papa, Ward Bell, and Dan Wahlin. Sponsored by Nrwl.io
+
+A weekly podcast where we tackle the challenges facing Web developers today and ...
+* **tags**: [podcast](../tagged/podcast.md), [javascript](../tagged/javascript.md)
+---
+#### [JS Party Podcast](https://changelog.com/jsparty)
+_<sup>https://changelog.com/jsparty</sup>_
+
+A community celebration of JavaScript and the web.
+* **tags**: [podcast](../tagged/podcast.md), [javascript](../tagged/javascript.md)
+---
+#### [11.2: Bookmarklets - Programming with Text - YouTube](https://www.youtube.com/watch?v=DloHqUfPbJc)
+_<sup>https://www.youtube.com/watch?v=DloHqUfPbJc</sup>_
+
+In this video, I cover Bookmarklets, a simple way to modify run JavaScript code to modify browser content via a bookmark button. 
+* :calendar: **published on**: 2017-11-13
+* **tags**: [javascript](../tagged/javascript.md), [bookmarklet](../tagged/bookmarklet.md)
+* :octocat: **[source code](https://github.com/CodingTrain/website/tree/f01284ea40f3d746f6112b5303781d4e137707f8/Courses/programming_with_text/session11/11-02_Bookmarklets)**
+---
 #### [restangular](https://github.com/mgonto/restangular)
 _<sup>https://github.com/mgonto/restangular</sup>_
 
@@ -4416,6 +4480,16 @@ This is why mermaid...
 * **tags**: [documentation](../tagged/documentation.md), [javascript](../tagged/javascript.md), [diagram](../tagged/diagram.md)
 * :octocat: **[source code](https://github.com/knsv/mermaid)**
 ---
+#### [Podcasts – React](https://reactjs.org/community/podcasts.html)
+_<sup>https://reactjs.org/community/podcasts.html</sup>_
+
+Podcasts dedicated to React and individual podcast episodes with React discussions.
+
+ Podcasts
+
+- [The React Podcast](https://reactpodcast.simplecast.fm/) - The podcast about everything React.js, ...
+* **tags**: [reactjs](../tagged/reactjs.md), [podcast](../tagged/podcast.md), [javascript](../tagged/javascript.md)
+---
 #### [Moment.js Home Page](http://momentjs.com/)
 _<sup>http://momentjs.com/</sup>_
 
@@ -5971,14 +6045,6 @@ _<sup>https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Obje
 The **JSON.stringify()** method converts a JavaScript value to a JSON string, optionally replacing values if a replacer function is specified, or optionally including only the specified properties if ...
 * **tags**: [javascript](../tagged/javascript.md)
 ---
-#### [JavaScript Adapter | Keycloak Documentation](http://www.keycloak.org/docs/latest/securing_apps/topics/oidc/javascript-adapter.html)
-_<sup>http://www.keycloak.org/docs/latest/securing_apps/topics/oidc/javascript-adapter.html</sup>_
-
-Keycloak comes with a client-side JavaScript library that can be used to secure HTML5/JavaScript applications. The JavaScript adapter has built-in support for Cordova applications.
-
-The library can be...
-* **tags**: [keycloak](../tagged/keycloak.md), [docs](../tagged/docs.md), [javascript](../tagged/javascript.md)
----
 #### [How to compare arrays in JavaScript? - Stack Overflow](http://stackoverflow.com/questions/7837456/how-to-compare-arrays-in-javascript)
 _<sup>http://stackoverflow.com/questions/7837456/how-to-compare-arrays-in-javascript</sup>_
 
@@ -5990,6 +6056,18 @@ _<sup>https://lodash.com/</sup>_
 A modern JavaScript utility library delivering modularity, performance, & extras. A better and faster Underscore.js.
 * **tags**: [lodash](../tagged/lodash.md), [javascript](../tagged/javascript.md)
 * :octocat: **[source code](https://github.com/lodash/lodash)**
+---
+#### [The Changelog with Adam Stacoviak and Jerod Santo](https://changelog.com/podcast)
+_<sup>https://changelog.com/podcast</sup>_
+
+A weekly discussion and interview show featuring a wide range of open-source development tools and development-related news. The programme has a heavy focus on web development, from Ruby and node.js t...
+* **tags**: [podcast](../tagged/podcast.md), [web-development](../tagged/web-development.md), [javascript](../tagged/javascript.md)
+---
+#### [Adventures in Angular Episodes](https://devchat.tv/adv-in-angular)
+_<sup>https://devchat.tv/adv-in-angular</sup>_
+
+Adventures in Angular is a weekly podcast dedicated to the Angular JavaScript framework and related technologies, tools, languages, and practices.
+* **tags**: [angular](../tagged/angular.md), [podcast](../tagged/podcast.md), [javascript](../tagged/javascript.md)
 ---
 #### [ Explaining JavaScript VMs in JavaScript - Inline Caches ](http://mrale.ph/blog/2012/06/03/explaining-js-vms-in-js-inline-caches.html)
 _<sup>http://mrale.ph/blog/2012/06/03/explaining-js-vms-in-js-inline-caches.html</sup>_

@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/boilerplate](https://www.bookmarks.dev/tagged/boilerplate)</sup></sup>_
 ---
+#### [React.js Boilerplate](https://www.reactboilerplate.com/)
+_<sup>https://www.reactboilerplate.com/</sup>_
+
+A highly scalable, offline-first foundation with the best DX and a focus on performance and best practices
+* **tags**: [reactjs](../tagged/reactjs.md), [boilerplate](../tagged/boilerplate.md)
+* :octocat: **[source code](https://github.com/react-boilerplate/react-boilerplate)**
+---
 #### [html5-boilerplate](https://github.com/h5bp/html5-boilerplate)
 _<sup>https://github.com/h5bp/html5-boilerplate</sup>_
 

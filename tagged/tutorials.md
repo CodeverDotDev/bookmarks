@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/tutorials](https://www.bookmarks.dev/tagged/tutorials)</sup></sup>_
 ---
+#### [redux-tutorial](https://github.com/happypoulp/redux-tutorial)
+_<sup>https://github.com/happypoulp/redux-tutorial</sup>_
+
+Learn how to use redux step by step. Contribute to happypoulp/redux-tutorial
+* **tags**: [redux](../tagged/redux.md), [tutorials](../tagged/tutorials.md)
+* :octocat: **[source code](https://github.com/happypoulp/redux-tutorial)**
+---
 #### [The Complete Beginner's Guide to Deploying Your First Static Website to IPFS](https://interplanetarygatsby.com/ipfs-deploy/)
 _<sup>https://interplanetarygatsby.com/ipfs-deploy/</sup>_
 

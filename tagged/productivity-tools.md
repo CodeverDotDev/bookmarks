@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/productivity-tools](https://www.bookmarks.dev/tagged/productivity-tools)</sup></sup>_
 ---
+#### [Scrumpoker Online](https://www.scrumpoker.online/)
+_<sup>https://www.scrumpoker.online/</sup>_
+
+Scrumpoker online is an open source web implementation of planning poker for scrum teams to determine the complexity of stories. It aims to integrate ticketing systems like Redmine or Github.
+* **tags**: [scrum](../tagged/scrum.md), [productivity-tools](../tagged/productivity-tools.md)
+* :octocat: **[source code](https://github.com/Toxantron/scrumonline)**
+---
 #### [cookiecutter](https://github.com/audreyr/cookiecutter)
 _<sup>https://github.com/audreyr/cookiecutter</sup>_
 

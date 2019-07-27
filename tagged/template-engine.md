@@ -2,6 +2,61 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/template-engine](https://www.bookmarks.dev/tagged/template-engine)</sup></sup>_
 ---
+#### [r-iendo/yarte](https://gitlab.com/r-iendo/yarte)
+_<sup>https://gitlab.com/r-iendo/yarte</sup>_
+
+compile-time handlebars-like templates [<img src="https://gitlab.com/r-iendo/yarte/badges/master/build.svg">](https://gitlab.com/r-iendo/yarte/pipelines)
+* **tags**: [rust](../tagged/rust.md), [template-engine](../tagged/template-engine.md)
+---
+#### [lfairy/maud](https://github.com/lfairy/maud)
+_<sup>https://github.com/lfairy/maud</sup>_
+
+compile-time HTML templates [<img src="https://api.travis-ci.org/lfairy/maud.svg?branch=master">](https://travis-ci.org/lfairy/maud)
+* **tags**: [rust](../tagged/rust.md), [template-engine](../tagged/template-engine.md)
+* :octocat: **[source code](https://github.com/lfairy/maud)**
+---
+#### [Stebalien/horrorshow-rs](https://github.com/Stebalien/horrorshow-rs)
+_<sup>https://github.com/Stebalien/horrorshow-rs</sup>_
+
+compile-time HTML templates [<img src="https://api.travis-ci.org/Stebalien/horrorshow-rs.svg?branch=master">](https://travis-ci.org/Stebalien/horrorshow-rs)
+* **tags**: [rust](../tagged/rust.md), [template-engine](../tagged/template-engine.md)
+* :octocat: **[source code](https://github.com/Stebalien/horrorshow-rs)**
+---
+#### [kaj/ructe](https://github.com/kaj/ructe)
+_<sup>https://github.com/kaj/ructe</sup>_
+
+HTML template system for Rust [<img src="https://api.travis-ci.org/kaj/ructe.svg?branch=master">](https://travis-ci.org/kaj/ructe)
+* **tags**: [rust](../tagged/rust.md), [template-engine](../tagged/template-engine.md)
+* :octocat: **[source code](https://github.com/kaj/ructe)**
+---
+#### [Keats/tera](https://github.com/Keats/tera)
+_<sup>https://github.com/Keats/tera</sup>_
+
+template engine based on Jinja2 and the Django template language. [<img src="https://api.travis-ci.org/Keats/tera.svg?branch=master">](https://travis-ci.org/Keats/tera)
+* **tags**: [rust](../tagged/rust.md), [template-engine](../tagged/template-engine.md)
+* :octocat: **[source code](https://github.com/Keats/tera)**
+---
+#### [djc/askama](https://github.com/djc/askama)
+_<sup>https://github.com/djc/askama</sup>_
+
+template rendering engine based on Jinja [<img src="https://api.travis-ci.org/djc/askama.svg?branch=master">](https://travis-ci.org/djc/askama)
+* **tags**: [rust](../tagged/rust.md), [template-engine](../tagged/template-engine.md)
+* :octocat: **[source code](https://github.com/djc/askama)**
+---
+#### [rustache/rustache](https://github.com/rustache/rustache)
+_<sup>https://github.com/rustache/rustache</sup>_
+
+[<img src="https://api.travis-ci.org/rustache/rustache.svg?branch=master">](https://travis-ci.org/rustache/rustache)
+* **tags**: [rust](../tagged/rust.md), [template-engine](../tagged/template-engine.md)
+* :octocat: **[source code](https://github.com/rustache/rustache)**
+---
+#### [tailhook/marafet](https://github.com/tailhook/marafet)
+_<sup>https://github.com/tailhook/marafet</sup>_
+
+Compiler for Jade-like template language to cito.js-based virtual dom
+* **tags**: [rust](../tagged/rust.md), [template-engine](../tagged/template-engine.md)
+* :octocat: **[source code](https://github.com/tailhook/marafet)**
+---
 #### [ace](https://github.com/yosssi/ace)
 _<sup>https://github.com/yosssi/ace</sup>_
 

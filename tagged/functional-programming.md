@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/functional-programming](https://www.bookmarks.dev/tagged/functional-programming)</sup></sup>_
 ---
+#### [MobX Home Page](https://mobx.js.org/)
+_<sup>https://mobx.js.org/</sup>_
+
+Simple, scalable state management
+* **tags**: [javascript](../tagged/javascript.md), [functional-programming](../tagged/functional-programming.md), [reactive-programming](../tagged/reactive-programming.md)
+* :octocat: **[source code](https://github.com/mobxjs/mobx)**
+---
 #### [NestJS - A progressive Node.js web framework](https://nestjs.com/)
 _<sup>https://nestjs.com/</sup>_
 
