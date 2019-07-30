@@ -2,6 +2,68 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/regex](https://www.bookmarks.dev/tagged/regex)</sup></sup>_
 ---
+#### [CppVerbalExpressions](https://github.com/VerbalExpressions/CppVerbalExpressions)
+_<sup>https://github.com/VerbalExpressions/CppVerbalExpressions</sup>_
+
+C++ regular expressions made easy. [MIT]
+* **tags**: [cpp](../tagged/cpp.md), [regex](../tagged/regex.md)
+* :octocat: **[source code](https://github.com/VerbalExpressions/CppVerbalExpressions)**
+---
+#### [CTRE](https://github.com/hanickadot/compile-time-regular-expressions)
+_<sup>https://github.com/hanickadot/compile-time-regular-expressions</sup>_
+
+A Compile time PCRE (almost) compatible regular expression matcher. [MIT]
+* **tags**: [cpp](../tagged/cpp.md), [regex](../tagged/regex.md)
+* :octocat: **[source code](https://github.com/hanickadot/compile-time-regular-expressions)**
+---
+#### [Hyperscan](https://github.com/intel/hyperscan)
+_<sup>https://github.com/intel/hyperscan</sup>_
+
+Hyperscan is a high-performance multiple regex matching library by Intel. Provides simultaneous matching of large numbers of regexps (up to tens of thousands). Typically used in a DPI library stack. [...
+* **tags**: [cpp](../tagged/cpp.md), [regex](../tagged/regex.md)
+* :octocat: **[source code](https://github.com/intel/hyperscan)**
+---
+#### [Oniguruma](https://github.com/kkos/oniguruma)
+_<sup>https://github.com/kkos/oniguruma</sup>_
+
+A modern and flexible regular expressions library that supports a variety of character encodings. [BSD]
+* **tags**: [cpp](../tagged/cpp.md), [regex](../tagged/regex.md)
+* :octocat: **[source code](https://github.com/kkos/oniguruma)**
+---
+#### [PCRE](http://pcre.org/)
+_<sup>http://pcre.org/</sup>_
+
+A regular expression C library inspired by the regular expression capabilities in Perl. [BSD]
+* **tags**: [cpp](../tagged/cpp.md), [regex](../tagged/regex.md)
+---
+#### [PIRE](https://github.com/yandex/pire)
+_<sup>https://github.com/yandex/pire</sup>_
+
+Perl Incompatible Regular Expressions library by Yandex. Can be really fast (more than 400 MB/s). [LPGL v3.0]
+* **tags**: [cpp](../tagged/cpp.md), [regex](../tagged/regex.md)
+* :octocat: **[source code](https://github.com/yandex/pire)**
+---
+#### [RE2](https://github.com/google/re2)
+_<sup>https://github.com/google/re2</sup>_
+
+A software library for regular expressions via a finite-state machine using automata theory. [BSD-3-Clause]
+* **tags**: [cpp](../tagged/cpp.md), [regex](../tagged/regex.md)
+* :octocat: **[source code](https://github.com/google/re2)**
+---
+#### [SLRE](https://github.com/cesanta/slre)
+_<sup>https://github.com/cesanta/slre</sup>_
+
+Super Light Regexp engine for C/C++. [GPLv2/Commercial]
+* **tags**: [cpp](../tagged/cpp.md), [regex](../tagged/regex.md)
+* :octocat: **[source code](https://github.com/cesanta/slre)**
+---
+#### [sregex](https://github.com/openresty/sregex)
+_<sup>https://github.com/openresty/sregex</sup>_
+
+A non-backtracking NFA/DFA-based Perl-compatible regex engine library for matching on large data streams. [BSD]
+* **tags**: [cpp](../tagged/cpp.md), [regex](../tagged/regex.md)
+* :octocat: **[source code](https://github.com/openresty/sregex)**
+---
 #### [Regexper](https://regexper.com/)
 _<sup>https://regexper.com/</sup>_
 

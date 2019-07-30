@@ -2,6 +2,89 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/machine-learning](https://www.bookmarks.dev/tagged/machine-learning)</sup></sup>_
 ---
+#### [CCV](https://github.com/liuliu/ccv)
+_<sup>https://github.com/liuliu/ccv</sup>_
+
+C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library. [BSD]
+* **tags**: [cpp](../tagged/cpp.md), [machine-learning](../tagged/machine-learning.md)
+* :octocat: **[source code](https://github.com/liuliu/ccv)**
+---
+#### [Fido](https://github.com/FidoProject/Fido)
+_<sup>https://github.com/FidoProject/Fido</sup>_
+
+A highly-modular C++ machine learning library for embedded electronics and robotics. [MIT] [website](http://fidoproject.github.io/)
+* **tags**: [cpp](../tagged/cpp.md), [machine-learning](../tagged/machine-learning.md)
+* :octocat: **[source code](https://github.com/FidoProject/Fido)**
+---
+#### [flashlight](https://github.com/facebookresearch/flashlight)
+_<sup>https://github.com/facebookresearch/flashlight</sup>_
+
+A fast, flexible machine learning library from Facebook AI Research written entirely in C++ and based on the ArrayFire tensor library. [BSD-3-Clause] [website](https://fl.readthedocs.io/en/latest/)
+* **tags**: [cpp](../tagged/cpp.md), [machine-learning](../tagged/machine-learning.md)
+* :octocat: **[source code](https://github.com/facebookresearch/flashlight)**
+---
+#### [MeTA](https://github.com/meta-toolkit/meta)
+_<sup>https://github.com/meta-toolkit/meta</sup>_
+
+A modern C++ data sciences toolkit. [MIT] [website](https://meta-toolkit.org/)
+* **tags**: [cpp](../tagged/cpp.md), [machine-learning](../tagged/machine-learning.md)
+* :octocat: **[source code](https://github.com/meta-toolkit/meta)**
+---
+#### [Minerva](https://github.com/dmlc/minerva)
+_<sup>https://github.com/dmlc/minerva</sup>_
+
+A fast and flexible system for deep learning. [Apache2]
+* **tags**: [cpp](../tagged/cpp.md), [machine-learning](../tagged/machine-learning.md)
+* :octocat: **[source code](https://github.com/dmlc/minerva)**
+---
+#### [mlpack](https://github.com/mlpack/mlpack)
+_<sup>https://github.com/mlpack/mlpack</sup>_
+
+A scalable c++ machine learning library. [LGPLv3] [website](http://www.mlpack.org/)
+* **tags**: [cpp](../tagged/cpp.md), [machine-learning](../tagged/machine-learning.md)
+* :octocat: **[source code](https://github.com/mlpack/mlpack)**
+---
+#### [OpenCV](https://github.com/Itseez/opencv)
+_<sup>https://github.com/Itseez/opencv</sup>_
+
+Open Source Computer Vision Library. [BSD] [website](http://opencv.org/)
+* **tags**: [cpp](../tagged/cpp.md), [machine-learning](../tagged/machine-learning.md)
+* :octocat: **[source code](https://github.com/Itseez/opencv)**
+---
+#### [Recommender](https://github.com/GHamrouni/Recommender)
+_<sup>https://github.com/GHamrouni/Recommender</sup>_
+
+C library for product recommendations/suggestions using collaborative filtering (CF). [BSD]
+* **tags**: [cpp](../tagged/cpp.md), [machine-learning](../tagged/machine-learning.md)
+* :octocat: **[source code](https://github.com/GHamrouni/Recommender)**
+---
+#### [RNNLIB](https://github.com/szcom/rnnlib)
+_<sup>https://github.com/szcom/rnnlib</sup>_
+
+RNNLIB is a recurrent neural network library for sequence learning problems. [GPLv3]
+* **tags**: [cpp](../tagged/cpp.md), [machine-learning](../tagged/machine-learning.md)
+* :octocat: **[source code](https://github.com/szcom/rnnlib)**
+---
+#### [SHOGUN](https://github.com/shogun-toolbox/shogun)
+_<sup>https://github.com/shogun-toolbox/shogun</sup>_
+
+The Shogun Machine Learning Toolbox. [GPLv3]
+* **tags**: [cpp](../tagged/cpp.md), [machine-learning](../tagged/machine-learning.md)
+* :octocat: **[source code](https://github.com/shogun-toolbox/shogun)**
+---
+#### [sofia-ml](https://code.google.com/p/sofia-ml/)
+_<sup>https://code.google.com/p/sofia-ml/</sup>_
+
+The suite of fast incremental algorithms for machine learning. [Apache2]
+* **tags**: [cpp](../tagged/cpp.md), [machine-learning](../tagged/machine-learning.md)
+---
+#### [VLFeat](https://github.com/vlfeat/vlfeat)
+_<sup>https://github.com/vlfeat/vlfeat</sup>_
+
+The VLFeat open source library implements popular computer vision algorithms specialising in image understanding and local featurexs extraction and matching. [BSD-2-Clause] [website](http://www.vlfeat...
+* **tags**: [cpp](../tagged/cpp.md), [machine-learning](../tagged/machine-learning.md)
+* :octocat: **[source code](https://github.com/vlfeat/vlfeat)**
+---
 #### [About Rust’s Machine Learning Community](https://medium.com/@autumn_eng/about-rust-s-machine-learning-community-4cda5ec8a790#.hvkp56j3f)
 _<sup>https://medium.com/@autumn_eng/about-rust-s-machine-learning-community-4cda5ec8a790#.hvkp56j3f</sup>_
 

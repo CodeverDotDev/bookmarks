@@ -2,6 +2,43 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/pdf](https://www.bookmarks.dev/tagged/pdf)</sup></sup>_
 ---
+#### [libharu](https://github.com/libharu/libharu)
+_<sup>https://github.com/libharu/libharu</sup>_
+
+A free, cross platform, open-sourced software library for generating PDF. [zlib]
+* **tags**: [cpp](../tagged/cpp.md), [pdf](../tagged/pdf.md)
+* :octocat: **[source code](https://github.com/libharu/libharu)**
+---
+#### [MuPDF](https://mupdf.com/)
+_<sup>https://mupdf.com/</sup>_
+
+A lightweight PDF, XPS, and E-book viewer. [AGPL/Commercial]
+* **tags**: [cpp](../tagged/cpp.md), [pdf](../tagged/pdf.md)
+---
+#### [PoDoFo](http://podofo.sourceforge.net/)
+_<sup>http://podofo.sourceforge.net/</sup>_
+
+A library to work with the PDF file format. [LGPL]
+* **tags**: [cpp](../tagged/cpp.md), [pdf](../tagged/pdf.md)
+---
+#### [Poppler](https://poppler.freedesktop.org/)
+_<sup>https://poppler.freedesktop.org/</sup>_
+
+Open-source multi-backend PDF rendering library based on the xpdf-3.0 code base. [GPLv2/GPLv3]
+* **tags**: [cpp](../tagged/cpp.md), [pdf](../tagged/pdf.md)
+---
+#### [Xpdf](https://www.xpdfreader.com/)
+_<sup>https://www.xpdfreader.com/</sup>_
+
+Xpdf is a free PDF viewer and toolkit, including a text extractor, image converter, HTML converter, and more. [GPL v2/GPL v3]
+* **tags**: [cpp](../tagged/cpp.md), [pdf](../tagged/pdf.md)
+---
+#### [DynaPDF](http://www.dynaforms.com/)
+_<sup>http://www.dynaforms.com/</sup>_
+
+An easy-to-use PDF generation library. [Commercial]
+* **tags**: [cpp](../tagged/cpp.md), [pdf](../tagged/pdf.md)
+---
 #### [CombinePDF](https://github.com/boazsegev/combine_pdf)
 _<sup>https://github.com/boazsegev/combine_pdf</sup>_
 

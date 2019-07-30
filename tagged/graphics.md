@@ -2,6 +2,175 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/graphics](https://www.bookmarks.dev/tagged/graphics)</sup></sup>_
 ---
+#### [assimp](https://github.com/assimp/assimp)
+_<sup>https://github.com/assimp/assimp</sup>_
+
+Open Asset Import Library (assimp) is a cross-platform 3D model import library which aims to provide a common API for different 3D asset file formats. [BSD-3-Clause] [website](http://www.assimp.org)
+* **tags**: [cpp](../tagged/cpp.md), [graphics](../tagged/graphics.md)
+* :octocat: **[source code](https://github.com/assimp/assimp)**
+---
+#### [bgfx](https://github.com/bkaradzic/bgfx)
+_<sup>https://github.com/bkaradzic/bgfx</sup>_
+
+A cross-platform rendering library. [BSD]
+* **tags**: [cpp](../tagged/cpp.md), [graphics](../tagged/graphics.md)
+* :octocat: **[source code](https://github.com/bkaradzic/bgfx)**
+---
+#### [Blend2D](https://github.com/blend2d/blend2d)
+_<sup>https://github.com/blend2d/blend2d</sup>_
+
+2D vector graphics engine powered by a JIT compiler. [Zlib] [website](https://blend2d.com/)
+* **tags**: [cpp](../tagged/cpp.md), [graphics](../tagged/graphics.md)
+* :octocat: **[source code](https://github.com/blend2d/blend2d)**
+---
+#### [bs::framework](https://github.com/GameFoundry/bsf)
+_<sup>https://github.com/GameFoundry/bsf</sup>_
+
+Modern C++14 library for the development of real-time graphical applications. [MIT]
+* **tags**: [cpp](../tagged/cpp.md), [graphics](../tagged/graphics.md)
+* :octocat: **[source code](https://github.com/GameFoundry/bsf)**
+---
+#### [Cairo](http://www.cairographics.org/)
+_<sup>http://www.cairographics.org/</sup>_
+
+A 2D graphics library with support for multiple output devices. [LGPL2 or Mozilla MPL]
+* **tags**: [cpp](../tagged/cpp.md), [graphics](../tagged/graphics.md)
+---
+#### [Diligent Engine](https://github.com/DiligentGraphics/DiligentEngine)
+_<sup>https://github.com/DiligentGraphics/DiligentEngine</sup>_
+
+A modern cross-platform low-level 3D graphics library. [Apache2]
+* **tags**: [cpp](../tagged/cpp.md), [graphics](../tagged/graphics.md)
+* :octocat: **[source code](https://github.com/DiligentGraphics/DiligentEngine)**
+---
+#### [DirectXTK](https://github.com/Microsoft/DirectXTK)
+_<sup>https://github.com/Microsoft/DirectXTK</sup>_
+
+A collection of helper classes for writing DirectX 11.x code in C++. [MIT]
+* **tags**: [cpp](../tagged/cpp.md), [graphics](../tagged/graphics.md)
+* :octocat: **[source code](https://github.com/Microsoft/DirectXTK)**
+---
+#### [GLFW](https://github.com/glfw/glfw)
+_<sup>https://github.com/glfw/glfw</sup>_
+
+A simple, cross-platform OpenGL wrangling library. [zlib/libpng]
+* **tags**: [cpp](../tagged/cpp.md), [graphics](../tagged/graphics.md)
+* :octocat: **[source code](https://github.com/glfw/glfw)**
+---
+#### [herebedragons](https://github.com/kosua20/herebedragons)
+_<sup>https://github.com/kosua20/herebedragons</sup>_
+
+A basic 3D scene implemented with various engines, frameworks or APIs. [MIT] [website](http://simonrodriguez.fr/dragon/)
+* **tags**: [cpp](../tagged/cpp.md), [graphics](../tagged/graphics.md)
+* :octocat: **[source code](https://github.com/kosua20/herebedragons)**
+---
+#### [Horde3D](https://github.com/horde3d/Horde3D)
+_<sup>https://github.com/horde3d/Horde3D</sup>_
+
+A small 3D rendering and animation engine. [EPL]
+* **tags**: [cpp](../tagged/cpp.md), [graphics](../tagged/graphics.md)
+* :octocat: **[source code](https://github.com/horde3d/Horde3D)**
+---
+#### [Ion](https://github.com/google/ion)
+_<sup>https://github.com/google/ion</sup>_
+
+A small and efficient set of libraries for building cross-platform client or server applications that use 3D graphics. [Apache2] [website](https://google.github.io/ion/)
+* **tags**: [cpp](../tagged/cpp.md), [graphics](../tagged/graphics.md)
+* :octocat: **[source code](https://github.com/google/ion)**
+---
+#### [Irrlicht](http://irrlicht.sourceforge.net/)
+_<sup>http://irrlicht.sourceforge.net/</sup>_
+
+A high performance realtime 3D engine written in C++. [zlib]
+* **tags**: [cpp](../tagged/cpp.md), [graphics](../tagged/graphics.md)
+---
+#### [libigl](https://github.com/libigl/libigl)
+_<sup>https://github.com/libigl/libigl</sup>_
+
+Simple C++ geometry processing library. [MPL2]
+* **tags**: [cpp](../tagged/cpp.md), [graphics](../tagged/graphics.md)
+* :octocat: **[source code](https://github.com/libigl/libigl)**
+---
+#### [magnum](https://github.com/mosra/magnum)
+_<sup>https://github.com/mosra/magnum</sup>_
+
+Lightweight and modular C++11/C++14 graphics middleware for games and data visualization. [MIT] [website](http://magnum.graphics)
+* **tags**: [cpp](../tagged/cpp.md), [graphics](../tagged/graphics.md)
+* :octocat: **[source code](https://github.com/mosra/magnum)**
+---
+#### [NanoVG](https://github.com/memononen/nanovg)
+_<sup>https://github.com/memononen/nanovg</sup>_
+
+Antialiased 2D vector drawing library on top of OpenGL for UI and visualizations. [Zlib]
+* **tags**: [cpp](../tagged/cpp.md), [graphics](../tagged/graphics.md)
+* :octocat: **[source code](https://github.com/memononen/nanovg)**
+---
+#### [Ogre 3D](http://www.ogre3d.org/)
+_<sup>http://www.ogre3d.org/</sup>_
+
+A scene-oriented, real-time, flexible 3D rendering engine (as opposed to a game engine) written in C++. [MIT]
+* **tags**: [cpp](../tagged/cpp.md), [graphics](../tagged/graphics.md)
+---
+#### [OpenSceneGraph](http://www.openscenegraph.org/)
+_<sup>http://www.openscenegraph.org/</sup>_
+
+An open source high performance 3D graphics toolkit. [OSGPL]
+* **tags**: [cpp](../tagged/cpp.md), [graphics](../tagged/graphics.md)
+---
+#### [OpenSubdiv](https://github.com/PixarAnimationStudios/OpenSubdiv)
+_<sup>https://github.com/PixarAnimationStudios/OpenSubdiv</sup>_
+
+Pixar's library for evaluating and rendering subdivision surfaces on CPU and GPU. [Modified Apache2]
+* **tags**: [cpp](../tagged/cpp.md), [graphics](../tagged/graphics.md)
+* :octocat: **[source code](https://github.com/PixarAnimationStudios/OpenSubdiv)**
+---
+#### [OpenVDB](http://www.openvdb.org/)
+_<sup>http://www.openvdb.org/</sup>_
+
+Library and tools for storing, editing, and rendering volumetric datasets. [MPL2]
+* **tags**: [cpp](../tagged/cpp.md), [graphics](../tagged/graphics.md)
+---
+#### [Panda3D](http://www.panda3d.org/)
+_<sup>http://www.panda3d.org/</sup>_
+
+A framework for 3D rendering and game development for Python and C++. [BSD]
+* **tags**: [cpp](../tagged/cpp.md), [graphics](../tagged/graphics.md)
+---
+#### [Partio](https://github.com/wdas/partio)
+_<sup>https://github.com/wdas/partio</sup>_
+
+Library for wrangling particle data, with support for most common file formats. [Modified BSD]
+* **tags**: [cpp](../tagged/cpp.md), [graphics](../tagged/graphics.md)
+* :octocat: **[source code](https://github.com/wdas/partio)**
+---
+#### [Skia](https://github.com/google/skia)
+_<sup>https://github.com/google/skia</sup>_
+
+A complete 2D graphic library for drawing Text, Geometries, and Images. [BSD] [webpage](https://sites.google.com/site/skiadocs/home)
+* **tags**: [cpp](../tagged/cpp.md), [graphics](../tagged/graphics.md)
+* :octocat: **[source code](https://github.com/google/skia)**
+---
+#### [TinySpline](https://github.com/msteinbeck/tinyspline)
+_<sup>https://github.com/msteinbeck/tinyspline</sup>_
+
+A small, yet powerful ANSI C library for interpolating, transforming, and querying arbitrary NURBS, B-Splines, and Bézier curves. [MIT]
+* **tags**: [cpp](../tagged/cpp.md), [graphics](../tagged/graphics.md)
+* :octocat: **[source code](https://github.com/msteinbeck/tinyspline)**
+---
+#### [urho3d](https://github.com/urho3d/Urho3D)
+_<sup>https://github.com/urho3d/Urho3D</sup>_
+
+Cross-platform rendering and game engine. [Many different, mostly MIT]
+* **tags**: [cpp](../tagged/cpp.md), [graphics](../tagged/graphics.md)
+* :octocat: **[source code](https://github.com/urho3d/Urho3D)**
+---
+#### [Yocto/GL](https://github.com/xelatihy/yocto-gl)
+_<sup>https://github.com/xelatihy/yocto-gl</sup>_
+
+Tiny C++ Libraries for Data-Driven Physically-based Graphics. [MIT]
+* **tags**: [cpp](../tagged/cpp.md), [graphics](../tagged/graphics.md)
+* :octocat: **[source code](https://github.com/xelatihy/yocto-gl)**
+---
 #### [react-art - React Bridge to the ART Drawing Library](https://github.com/facebook/react-art)
 _<sup>https://github.com/facebook/react-art</sup>_
 

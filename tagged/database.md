@@ -2,6 +2,148 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/database](https://www.bookmarks.dev/tagged/database)</sup></sup>_
 ---
+#### [hiberlite](https://github.com/paulftw/hiberlite)
+_<sup>https://github.com/paulftw/hiberlite</sup>_
+
+C++ Object-relational mapping for sqlite3. [BSD]
+* **tags**: [cpp](../tagged/cpp.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/paulftw/hiberlite)**
+---
+#### [Hiredis](https://github.com/redis/hiredis)
+_<sup>https://github.com/redis/hiredis</sup>_
+
+A minimalistic C client library for the Redis database. [BSD]
+* **tags**: [cpp](../tagged/cpp.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/redis/hiredis)**
+---
+#### [LevelDB](https://github.com/google/leveldb)
+_<sup>https://github.com/google/leveldb</sup>_
+
+A fast key-value storage library written at Google that provides an ordered mapping from string keys to string values. [BSD]
+* **tags**: [cpp](../tagged/cpp.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/google/leveldb)**
+---
+#### [LMDB](http://symas.com/mdb/)
+_<sup>http://symas.com/mdb/</sup>_
+
+Very fast embedded key/value store with full ACID semantics. [OpenLDAP]
+* **tags**: [cpp](../tagged/cpp.md), [database](../tagged/database.md)
+---
+#### [LMDB++](https://github.com/bendiken/lmdbxx)
+_<sup>https://github.com/bendiken/lmdbxx</sup>_
+
+C++11 wrapper for the LMDB embedded database library. [PublicDomain]
+* **tags**: [cpp](../tagged/cpp.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/bendiken/lmdbxx)**
+---
+#### [MongoDB C Driver](https://github.com/mongodb/mongo-c-driver)
+_<sup>https://github.com/mongodb/mongo-c-driver</sup>_
+
+MongoDB client library for C. [Apache2]
+* **tags**: [cpp](../tagged/cpp.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/mongodb/mongo-c-driver)**
+---
+#### [MongoDB C++ Driver](https://github.com/mongodb/mongo-cxx-driver)
+_<sup>https://github.com/mongodb/mongo-cxx-driver</sup>_
+
+C++ driver for MongoDB. [Apache2]
+* **tags**: [cpp](../tagged/cpp.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/mongodb/mongo-cxx-driver)**
+---
+#### [MongoDB Libbson](https://github.com/mongodb/libbson)
+_<sup>https://github.com/mongodb/libbson</sup>_
+
+A BSON utility library. [Apache2]
+* **tags**: [cpp](../tagged/cpp.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/mongodb/libbson)**
+---
+#### [MySQL++](http://www.tangentsoft.net/mysql++/)
+_<sup>http://www.tangentsoft.net/mysql++/</sup>_
+
+A C++ wrapper for MySQL's C API. [LGPL]
+* **tags**: [cpp](../tagged/cpp.md), [database](../tagged/database.md)
+---
+#### [nanodbc](https://github.com/nanodbc/nanodbc)
+_<sup>https://github.com/nanodbc/nanodbc</sup>_
+
+A small C++ wrapper for the native C ODBC API. [MIT]
+* **tags**: [cpp](../tagged/cpp.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/nanodbc/nanodbc)**
+---
+#### [ODB](https://www.codesynthesis.com/products/odb/)
+_<sup>https://www.codesynthesis.com/products/odb/</sup>_
+
+An open-source, cross-platform, and cross-database object-relational mapping (ORM) system for C++. [GPLv2]
+* **tags**: [cpp](../tagged/cpp.md), [database](../tagged/database.md)
+---
+#### [redis3m](https://github.com/luca3m/redis3m)
+_<sup>https://github.com/luca3m/redis3m</sup>_
+
+Wrapper of hiredis with clean C++ interface, supporting sentinel and ready to use patterns. [Apache2]
+* **tags**: [cpp](../tagged/cpp.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/luca3m/redis3m)**
+---
+#### [RocksDB](https://github.com/facebook/rocksdb)
+_<sup>https://github.com/facebook/rocksdb</sup>_
+
+Embedded key-value store for fast storage from facebook. [BSD]
+* **tags**: [cpp](../tagged/cpp.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/facebook/rocksdb)**
+---
+#### [SimDB](https://github.com/LiveAsynchronousVisualizedArchitecture/simdb)
+_<sup>https://github.com/LiveAsynchronousVisualizedArchitecture/simdb</sup>_
+
+High performance, shared memory, lock free, cross platform, single file, minimal dependencies, C++11 key-value store [Apache2]
+* **tags**: [cpp](../tagged/cpp.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/LiveAsynchronousVisualizedArchitecture/simdb)**
+---
+#### [SOCI](https://github.com/SOCI/soci)
+_<sup>https://github.com/SOCI/soci</sup>_
+
+A database abstraction layer for C++. [BSL-1.0]
+* **tags**: [cpp](../tagged/cpp.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/SOCI/soci)**
+---
+#### [SQLite](http://www.sqlite.org/)
+_<sup>http://www.sqlite.org/</sup>_
+
+A completely embedded, full-featured relational database in a few 100k that you can include right into your project. [PublicDomain]
+* **tags**: [cpp](../tagged/cpp.md), [database](../tagged/database.md)
+---
+#### [SQLiteC++](https://github.com/SRombauts/SQLiteCpp)
+_<sup>https://github.com/SRombauts/SQLiteCpp</sup>_
+
+SQLiteC++ (SQLiteCpp) is a smart and easy to use C++ SQLite3 wrapper. [MIT]
+* **tags**: [cpp](../tagged/cpp.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/SRombauts/SQLiteCpp)**
+---
+#### [sqlite_modern_cpp](https://github.com/SqliteModernCpp/sqlite_modern_cpp)
+_<sup>https://github.com/SqliteModernCpp/sqlite_modern_cpp</sup>_
+
+Header only C++14 wrapper around sqlite library. [MIT]
+* **tags**: [cpp](../tagged/cpp.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/SqliteModernCpp/sqlite_modern_cpp)**
+---
+#### [sqlite_orm](https://github.com/fnc12/sqlite_orm)
+_<sup>https://github.com/fnc12/sqlite_orm</sup>_
+
+SQLite ORM light header only library for modern C++. [BSD-3-Clause]
+* **tags**: [cpp](../tagged/cpp.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/fnc12/sqlite_orm)**
+---
+#### [sqlpp11](https://github.com/rbock/sqlpp11)
+_<sup>https://github.com/rbock/sqlpp11</sup>_
+
+A type safe embedded domain specific language for SQL queries and results in C++. [BSD-2-Clause]
+* **tags**: [cpp](../tagged/cpp.md), [database](../tagged/database.md)
+* :octocat: **[source code](https://github.com/rbock/sqlpp11)**
+---
+#### [upscaledb](https://upscaledb.com)
+_<sup>https://upscaledb.com</sup>_
+
+An embedded "typed" key/value store with a built-in query interface. [GPLv3]
+* **tags**: [cpp](../tagged/cpp.md), [database](../tagged/database.md)
+---
 #### [Hasura](https://hasura.io/)
 _<sup>https://hasura.io/</sup>_
 

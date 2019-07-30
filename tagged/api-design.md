@@ -2,6 +2,16 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/api-design](https://www.bookmarks.dev/tagged/api-design)</sup></sup>_
 ---
+#### [Beautiful Native Libraries](http://lucumr.pocoo.org/2013/8/18/beautiful-native-libraries/)
+_<sup>http://lucumr.pocoo.org/2013/8/18/beautiful-native-libraries/</sup>_
+
+* **tags**: [cpp](../tagged/cpp.md), [api-design](../tagged/api-design.md)
+---
+#### [Designing Qt-Style C++ APIs](https://doc.qt.io/archives/qq/qq13-apis.html)
+_<sup>https://doc.qt.io/archives/qq/qq13-apis.html</sup>_
+
+* **tags**: [cpp](../tagged/cpp.md), [api-design](../tagged/api-design.md)
+---
 #### [HTTP API design guide extracted from work on the Heroku Platform API](https://github.com/interagent/http-api-design)
 _<sup>https://github.com/interagent/http-api-design</sup>_
 

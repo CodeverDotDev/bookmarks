@@ -2,6 +2,82 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/artificial-intelligence](https://www.bookmarks.dev/tagged/artificial-intelligence)</sup></sup>_
 ---
+#### [ANNetGPGPU](https://github.com/ANNetGPGPU/ANNetGPGPU)
+_<sup>https://github.com/ANNetGPGPU/ANNetGPGPU</sup>_
+
+A GPU (CUDA) based Artificial Neural Network library. [LGPL]
+* **tags**: [cpp](../tagged/cpp.md), [artificial-intelligence](../tagged/artificial-intelligence.md)
+* :octocat: **[source code](https://github.com/ANNetGPGPU/ANNetGPGPU)**
+---
+#### [btsk](https://github.com/aigamedev/btsk)
+_<sup>https://github.com/aigamedev/btsk</sup>_
+
+Game Behavior Tree Starter Kit. [zlib]
+* **tags**: [cpp](../tagged/cpp.md), [artificial-intelligence](../tagged/artificial-intelligence.md)
+* :octocat: **[source code](https://github.com/aigamedev/btsk)**
+---
+#### [Evolving Objects](http://eodev.sourceforge.net/)
+_<sup>http://eodev.sourceforge.net/</sup>_
+
+A template-based, ANSI-C++ evolutionary computation library which helps you to write your own stochastic optimization algorithms insanely fast. [LGPL]
+* **tags**: [cpp](../tagged/cpp.md), [artificial-intelligence](../tagged/artificial-intelligence.md)
+---
+#### [frugally-deep](https://github.com/Dobiasd/frugally-deep)
+_<sup>https://github.com/Dobiasd/frugally-deep</sup>_
+
+Header-only library for using Keras models in C++. [MIT]
+* **tags**: [cpp](../tagged/cpp.md), [artificial-intelligence](../tagged/artificial-intelligence.md)
+* :octocat: **[source code](https://github.com/Dobiasd/frugally-deep)**
+---
+#### [Genann](https://github.com/codeplea/genann)
+_<sup>https://github.com/codeplea/genann</sup>_
+
+Simple neural network library in C. [zlib]
+* **tags**: [cpp](../tagged/cpp.md), [artificial-intelligence](../tagged/artificial-intelligence.md)
+* :octocat: **[source code](https://github.com/codeplea/genann)**
+---
+#### [MXNet](https://github.com/apache/incubator-mxnet)
+_<sup>https://github.com/apache/incubator-mxnet</sup>_
+
+Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more [website](https://mxnet.apach...
+* **tags**: [cpp](../tagged/cpp.md), [artificial-intelligence](../tagged/artificial-intelligence.md)
+* :octocat: **[source code](https://github.com/apache/incubator-mxnet)**
+---
+#### [Recast/Detour](https://github.com/recastnavigation/recastnavigation)
+_<sup>https://github.com/recastnavigation/recastnavigation</sup>_
+
+(3D) Navigation mesh generator and pathfinder, mostly for games. [zlib]
+* **tags**: [cpp](../tagged/cpp.md), [artificial-intelligence](../tagged/artificial-intelligence.md)
+* :octocat: **[source code](https://github.com/recastnavigation/recastnavigation)**
+---
+#### [CNTK](https://github.com/Microsoft/CNTK)
+_<sup>https://github.com/Microsoft/CNTK</sup>_
+
+Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit. [Boost]
+* **tags**: [cpp](../tagged/cpp.md), [artificial-intelligence](../tagged/artificial-intelligence.md)
+* :octocat: **[source code](https://github.com/Microsoft/CNTK)**
+---
+#### [tiny-dnn](https://github.com/tiny-dnn/tiny-dnn)
+_<sup>https://github.com/tiny-dnn/tiny-dnn</sup>_
+
+A header only, dependency-free deep learning framework in C++11. [BSD]
+* **tags**: [cpp](../tagged/cpp.md), [artificial-intelligence](../tagged/artificial-intelligence.md)
+* :octocat: **[source code](https://github.com/tiny-dnn/tiny-dnn)**
+---
+#### [Veles](https://github.com/Samsung/veles)
+_<sup>https://github.com/Samsung/veles</sup>_
+
+Distributed platform for rapid Deep learning application development. [Apache]
+* **tags**: [cpp](../tagged/cpp.md), [artificial-intelligence](../tagged/artificial-intelligence.md)
+* :octocat: **[source code](https://github.com/Samsung/veles)**
+---
+#### [Kaldi](https://github.com/kaldi-asr/kaldi)
+_<sup>https://github.com/kaldi-asr/kaldi</sup>_
+
+Toolkit for speech recognition. [Apache]
+* **tags**: [cpp](../tagged/cpp.md), [artificial-intelligence](../tagged/artificial-intelligence.md)
+* :octocat: **[source code](https://github.com/kaldi-asr/kaldi)**
+---
 #### [Martin1887/oxigen](https://github.com/Martin1887/oxigen)
 _<sup>https://github.com/Martin1887/oxigen</sup>_
 

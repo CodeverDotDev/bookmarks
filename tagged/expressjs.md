@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/expressjs](https://www.bookmarks.dev/tagged/expressjs)</sup></sup>_
 ---
+#### [GitHub - erikras/react-redux-universal-hot-example](https://github.com/erikras/react-redux-universal-hot-example)
+_<sup>https://github.com/erikras/react-redux-universal-hot-example</sup>_
+
+A starter boilerplate for a universal webapp using express, react, redux, webpack, and react-transform - erikras/react-redux-universal-hot-example
+* **tags**: [reactjs](../tagged/reactjs.md), [webpack](../tagged/webpack.md), [redux](../tagged/redux.md), [expressjs](../tagged/expressjs.md)
+* :octocat: **[source code](https://github.com/erikras/react-redux-universal-hot-example)**
+---
 #### [GitHub - auth0/express-jwt](https://github.com/auth0/express-jwt)
 _<sup>https://github.com/auth0/express-jwt</sup>_
 

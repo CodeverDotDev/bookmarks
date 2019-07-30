@@ -2,6 +2,18 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/podcast](https://www.bookmarks.dev/tagged/podcast)</sup></sup>_
 ---
+#### [CppCast](http://cppcast.com)
+_<sup>http://cppcast.com</sup>_
+
+The first podcast by C++ developers for C++ developers.
+* **tags**: [cpp](../tagged/cpp.md), [podcast](../tagged/podcast.md)
+---
+#### [CppChat](http://cpp.chat)
+_<sup>http://cpp.chat</sup>_
+
+A (sometimes) weekly look at what's going on in the world of C++ chatting with a guest from the community.
+* **tags**: [cpp](../tagged/cpp.md), [podcast](../tagged/podcast.md)
+---
 #### [Front End Happy Hour](http://frontendhappyhour.com/)
 _<sup>http://frontendhappyhour.com/</sup>_
 

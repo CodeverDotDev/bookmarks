@@ -2,6 +2,137 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/ide](https://www.bookmarks.dev/tagged/ide)</sup></sup>_
 ---
+#### [Anjuta DevStudio](http://anjuta.org/)
+_<sup>http://anjuta.org/</sup>_
+
+The GNOME IDE. [GPL3]
+* **tags**: [cpp](../tagged/cpp.md), [ide](../tagged/ide.md)
+---
+#### [AppCode](http://www.jetbrains.com/objc/)
+_<sup>http://www.jetbrains.com/objc/</sup>_
+
+an IDE for Objective-C, C, C++, and JavaScript development built on JetBrains’ IntelliJ IDEA platform.
+* **tags**: [cpp](../tagged/cpp.md), [ide](../tagged/ide.md)
+---
+#### [Cevelop](https://www.cevelop.com)
+_<sup>https://www.cevelop.com</sup>_
+
+Cross-platform C and C++ IDE based on Eclipse CDT with additional plug-ins.
+* **tags**: [cpp](../tagged/cpp.md), [ide](../tagged/ide.md)
+---
+#### [CLion](http://www.jetbrains.com/clion/)
+_<sup>http://www.jetbrains.com/clion/</sup>_
+
+Cross-platform C and C++ IDE from JetBrains.
+* **tags**: [cpp](../tagged/cpp.md), [ide](../tagged/ide.md)
+---
+#### [Code::Blocks](http://www.codeblocks.org/)
+_<sup>http://www.codeblocks.org/</sup>_
+
+A free C, C++ and Fortran IDE.
+* **tags**: [cpp](../tagged/cpp.md), [ide](../tagged/ide.md)
+---
+#### [CodeLite](http://codelite.org/)
+_<sup>http://codelite.org/</sup>_
+
+Another cross-plaform, free C and C++ IDE. [GPL2 with an exception for plugins]
+* **tags**: [cpp](../tagged/cpp.md), [ide](../tagged/ide.md)
+---
+#### [color_coded](https://github.com/jeaye/color_coded)
+_<sup>https://github.com/jeaye/color_coded</sup>_
+
+A vim plugin for libclang-based highlighting. [MIT]
+* **tags**: [cpp](../tagged/cpp.md), [ide](../tagged/ide.md)
+* :octocat: **[source code](https://github.com/jeaye/color_coded)**
+---
+#### [Dev-C++](http://sourceforge.net/projects/orwelldevcpp/)
+_<sup>http://sourceforge.net/projects/orwelldevcpp/</sup>_
+
+A portable C/C++/C++11 IDE.
+* **tags**: [cpp](../tagged/cpp.md), [ide](../tagged/ide.md)
+---
+#### [Eclipse CDT](http://www.eclipse.org/cdt/)
+_<sup>http://www.eclipse.org/cdt/</sup>_
+
+A fully functional C and C++ IDE based on the Eclipse platform.
+* **tags**: [cpp](../tagged/cpp.md), [ide](../tagged/ide.md)
+---
+#### [Geany](http://www.geany.org/)
+_<sup>http://www.geany.org/</sup>_
+
+Small, fast, cross-platform IDE. [GPL]
+* **tags**: [cpp](../tagged/cpp.md), [ide](../tagged/ide.md)
+---
+#### [IBM VisualAge](http://www-03.ibm.com/software/products/en/visgen)
+_<sup>http://www-03.ibm.com/software/products/en/visgen</sup>_
+
+A family of computer integrated development environments from IBM.
+* **tags**: [cpp](../tagged/cpp.md), [ide](../tagged/ide.md)
+---
+#### [Irony-mode](https://github.com/Sarcasm/irony-mode)
+_<sup>https://github.com/Sarcasm/irony-mode</sup>_
+
+A C/C++ minor mode for Emacs powered by libclang.
+* **tags**: [cpp](../tagged/cpp.md), [ide](../tagged/ide.md)
+* :octocat: **[source code](https://github.com/Sarcasm/irony-mode)**
+---
+#### [juCi++](https://github.com/cppit/jucipp)
+_<sup>https://github.com/cppit/jucipp</sup>_
+
+Cross-platform, lightweight C++ IDE with libclang integration. [MIT]
+* **tags**: [cpp](../tagged/cpp.md), [ide](../tagged/ide.md)
+* :octocat: **[source code](https://github.com/cppit/jucipp)**
+---
+#### [KDevelop](https://www.kdevelop.org/)
+_<sup>https://www.kdevelop.org/</sup>_
+
+A free, open source IDE.
+* **tags**: [cpp](../tagged/cpp.md), [ide](../tagged/ide.md)
+---
+#### [Microsoft Visual Studio](https://www.visualstudio.com/)
+_<sup>https://www.visualstudio.com/</sup>_
+
+An IDE from Microsoft.
+* **tags**: [cpp](../tagged/cpp.md), [ide](../tagged/ide.md)
+---
+#### [NetBeans](https://netbeans.org/)
+_<sup>https://netbeans.org/</sup>_
+
+An IDE for developing primarily with Java, but also with other languages, in particular PHP, C/C++, and HTML5.
+* **tags**: [cpp](../tagged/cpp.md), [ide](../tagged/ide.md)
+---
+#### [Qt Creator](http://www.qt.io/developers/)
+_<sup>http://www.qt.io/developers/</sup>_
+
+A cross-platform C++, JavaScript and QML IDE which is part of the SDK for Qt.
+* **tags**: [cpp](../tagged/cpp.md), [ide](../tagged/ide.md)
+---
+#### [rtags](https://github.com/Andersbakken/rtags)
+_<sup>https://github.com/Andersbakken/rtags</sup>_
+
+A c/c++ client/server indexer with for integration with emacs based on clang.
+* **tags**: [cpp](../tagged/cpp.md), [ide](../tagged/ide.md)
+* :octocat: **[source code](https://github.com/Andersbakken/rtags)**
+---
+#### [Xcode](https://developer.apple.com/xcode/)
+_<sup>https://developer.apple.com/xcode/</sup>_
+
+Developed by Apple.
+* **tags**: [cpp](../tagged/cpp.md), [ide](../tagged/ide.md)
+---
+#### [YouCompleteMe](https://valloric.github.io/YouCompleteMe/)
+_<sup>https://valloric.github.io/YouCompleteMe/</sup>_
+
+YouCompleteMe is a fast, as-you-type, fuzzy-search code completion engine for Vim.
+* **tags**: [cpp](../tagged/cpp.md), [ide](../tagged/ide.md)
+---
+#### [cquery](https://github.com/cquery-project/cquery/)
+_<sup>https://github.com/cquery-project/cquery/</sup>_
+
+A C++ code completion engine for vscode, emacs, vim, etc.
+* **tags**: [cpp](../tagged/cpp.md), [ide](../tagged/ide.md)
+* :octocat: **[source code](https://github.com/cquery-project/cquery/)**
+---
 #### [Rust Tools](https://www.rust-lang.org/tools)
 _<sup>https://www.rust-lang.org/tools</sup>_
 

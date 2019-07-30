@@ -2,6 +2,61 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/videos](https://www.bookmarks.dev/tagged/videos)</sup></sup>_
 ---
+#### [List of C or C++ YouTube Videos](https://github.com/fffaraz/awesome-cpp/blob/master/videos.md)
+_<sup>https://github.com/fffaraz/awesome-cpp/blob/master/videos.md</sup>_
+
+A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. - fffaraz/awesome-cpp
+* **tags**: [cpp](../tagged/cpp.md), [videos](../tagged/videos.md)
+* :octocat: **[source code](https://github.com/fffaraz/awesome-cpp/blob/master/videos.md)**
+---
+#### [Awesome C Programming Tutorials in Hi Def [HD](https://www.youtube.com/playlist?list=PLCB9F975ECF01953C)
+_<sup>https://www.youtube.com/playlist?list=PLCB9F975ECF01953C</sup>_
+
+A collection of detailed C Programming Language Tutorials for Beginners and New Programmers.
+* **tags**: [cpp](../tagged/cpp.md), [videos](../tagged/videos.md)
+---
+#### [C++](https://www.youtube.com/playlist?list=PL2F919ADECA5E39A6)
+_<sup>https://www.youtube.com/playlist?list=PL2F919ADECA5E39A6</sup>_
+
+by VoidRealms.
+* **tags**: [cpp](../tagged/cpp.md), [videos](../tagged/videos.md)
+---
+#### [C++ Qt Programming](https://www.youtube.com/playlist?list=PL2D1942A4688E9D63)
+_<sup>https://www.youtube.com/playlist?list=PL2D1942A4688E9D63</sup>_
+
+by VoidRealms.
+* **tags**: [cpp](../tagged/cpp.md), [videos](../tagged/videos.md)
+---
+#### [C++ Programming Tutorials Playlist](https://www.youtube.com/playlist?list=PLAE85DE8440AA6B83)
+_<sup>https://www.youtube.com/playlist?list=PLAE85DE8440AA6B83</sup>_
+
+TheNewBoston Official Buckys C++ Programming Tutorials Playlist.
+* **tags**: [cpp](../tagged/cpp.md), [videos](../tagged/videos.md)
+---
+#### [C++ Programming Tutorials from thenewboston](https://www.youtube.com/playlist?list=PLF541C2C1F671AEF6)
+_<sup>https://www.youtube.com/playlist?list=PLF541C2C1F671AEF6</sup>_
+
+These are all of thenewboston's C++ programming tutorials.
+* **tags**: [cpp](../tagged/cpp.md), [videos](../tagged/videos.md)
+---
+#### [C++ GUI with Qt Playlist](https://www.youtube.com/playlist?list=PLD0D54219E5F2544D)
+_<sup>https://www.youtube.com/playlist?list=PLD0D54219E5F2544D</sup>_
+
+Official Playlist for thenewboston C++ GUI with Qt tutorials.
+* **tags**: [cpp](../tagged/cpp.md), [videos](../tagged/videos.md)
+---
+#### [C Programming Tutorials](https://www.youtube.com/playlist?list=PL78280D6BE6F05D34)
+_<sup>https://www.youtube.com/playlist?list=PL78280D6BE6F05D34</sup>_
+
+All of TheNewBoston's C programming tutorials are right here.
+* **tags**: [cpp](../tagged/cpp.md), [videos](../tagged/videos.md)
+---
+#### [Bo Qian's playlist](https://www.youtube.com/user/BoQianTheProgrammer/playlists)
+_<sup>https://www.youtube.com/user/BoQianTheProgrammer/playlists</sup>_
+
+Boost Library, C++ Standard Library, Modern C++, Advanced C++, Advanced STL, ...
+* **tags**: [cpp](../tagged/cpp.md), [videos](../tagged/videos.md)
+---
 #### [A Technical Overview of Kubernetes](https://www.youtube.com/watch?v=WwBdNXt6wO4)
 _<sup>https://www.youtube.com/watch?v=WwBdNXt6wO4</sup>_
 

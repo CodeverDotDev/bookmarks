@@ -2,6 +2,37 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/libraries](https://www.bookmarks.dev/tagged/libraries)</sup></sup>_
 ---
+#### [C++ Standard Library](https://en.wikipedia.org/wiki/C%2B%2B_Standard_Library)
+_<sup>https://en.wikipedia.org/wiki/C%2B%2B_Standard_Library</sup>_
+
+A collection of classes and functions, which are written in the core language and part of the C++ ISO Standard itself.
+* **tags**: [cpp](../tagged/cpp.md), [libraries](../tagged/libraries.md)
+---
+#### [Standard Template Library](https://en.wikipedia.org/wiki/Standard_Template_Library)
+_<sup>https://en.wikipedia.org/wiki/Standard_Template_Library</sup>_
+
+The Standard Template Library (STL).
+* **tags**: [cpp](../tagged/cpp.md), [libraries](../tagged/libraries.md)
+---
+#### [C POSIX library](https://en.wikipedia.org/wiki/C_POSIX_library)
+_<sup>https://en.wikipedia.org/wiki/C_POSIX_library</sup>_
+
+A specification of a C standard library for POSIX systems.
+* **tags**: [cpp](../tagged/cpp.md), [libraries](../tagged/libraries.md)
+---
+#### [ISO C++ Standards Committee](https://github.com/cplusplus)
+_<sup>https://github.com/cplusplus</sup>_
+
+ISO/IEC JTC1/SC22/WG21 - The C++ Standards Committee. [website](http://www.open-std.org/JTC1/SC22/WG21/)
+* **tags**: [cpp](../tagged/cpp.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/cplusplus)**
+---
+#### [The GNU C Library](https://www.gnu.org/software/libc/manual)
+_<sup>https://www.gnu.org/software/libc/manual</sup>_
+
+The purpose of this manual is to tell you how to use the facilities of the GNU C Library.
+* **tags**: [cpp](../tagged/cpp.md), [libraries](../tagged/libraries.md)
+---
 #### [material-ui](https://github.com/mui-org/material-ui)
 _<sup>https://github.com/mui-org/material-ui</sup>_
 

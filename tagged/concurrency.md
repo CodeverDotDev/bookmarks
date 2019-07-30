@@ -2,6 +2,225 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/concurrency](https://www.bookmarks.dev/tagged/concurrency)</sup></sup>_
 ---
+#### [alpaka](https://github.com/ComputationalRadiationPhysics/alpaka)
+_<sup>https://github.com/ComputationalRadiationPhysics/alpaka</sup>_
+
+Abstraction library for parallel kernel acceleration. [LGPLv3+]
+* **tags**: [cpp](../tagged/cpp.md), [concurrency](../tagged/concurrency.md)
+* :octocat: **[source code](https://github.com/ComputationalRadiationPhysics/alpaka)**
+---
+#### [ArrayFire](https://github.com/arrayfire/arrayfire)
+_<sup>https://github.com/arrayfire/arrayfire</sup>_
+
+A general purpose GPU library. [BSD]
+* **tags**: [cpp](../tagged/cpp.md), [concurrency](../tagged/concurrency.md)
+* :octocat: **[source code](https://github.com/arrayfire/arrayfire)**
+---
+#### [Async++](https://github.com/Amanieu/asyncplusplus)
+_<sup>https://github.com/Amanieu/asyncplusplus</sup>_
+
+A lightweight concurrency framework for C++11, inspired by the Microsoft PPL library and the N3428 C++ standard proposal. [MIT]
+* **tags**: [cpp](../tagged/cpp.md), [concurrency](../tagged/concurrency.md)
+* :octocat: **[source code](https://github.com/Amanieu/asyncplusplus)**
+---
+#### [Boost.Compute](https://github.com/boostorg/compute)
+_<sup>https://github.com/boostorg/compute</sup>_
+
+A C++ GPU Computing Library for OpenCL. [Boost]
+* **tags**: [cpp](../tagged/cpp.md), [concurrency](../tagged/concurrency.md)
+* :octocat: **[source code](https://github.com/boostorg/compute)**
+---
+#### [Bolt](https://github.com/HSA-Libraries/Bolt)
+_<sup>https://github.com/HSA-Libraries/Bolt</sup>_
+
+A C++ template library optimized for GPUs. [Apache2]
+* **tags**: [cpp](../tagged/cpp.md), [concurrency](../tagged/concurrency.md)
+* :octocat: **[source code](https://github.com/HSA-Libraries/Bolt)**
+---
+#### [ck](https://github.com/concurrencykit/ck)
+_<sup>https://github.com/concurrencykit/ck</sup>_
+
+Concurrency primitives, safe memory reclamation mechanisms and non-blocking data structures. [BSD]
+* **tags**: [cpp](../tagged/cpp.md), [concurrency](../tagged/concurrency.md)
+* :octocat: **[source code](https://github.com/concurrencykit/ck)**
+---
+#### [concurrentqueue](https://github.com/cameron314/concurrentqueue)
+_<sup>https://github.com/cameron314/concurrentqueue</sup>_
+
+A fast multi-producer, multi-consumer lock-free concurrent queue for C++11. [BSD,Boost]
+* **tags**: [cpp](../tagged/cpp.md), [concurrency](../tagged/concurrency.md)
+* :octocat: **[source code](https://github.com/cameron314/concurrentqueue)**
+---
+#### [Cpp-Taskflow](https://github.com/cpp-taskflow/cpp-taskflow)
+_<sup>https://github.com/cpp-taskflow/cpp-taskflow</sup>_
+
+Fast C++ Parallel Programming with Task Dependencies. [MIT]
+* **tags**: [cpp](../tagged/cpp.md), [concurrency](../tagged/concurrency.md)
+* :octocat: **[source code](https://github.com/cpp-taskflow/cpp-taskflow)**
+---
+#### [CUB](https://github.com/NVlabs/cub)
+_<sup>https://github.com/NVlabs/cub</sup>_
+
+CUB provides state-of-the-art, reusable software components for every layer of the CUDA programming mode. [New BSD]
+* **tags**: [cpp](../tagged/cpp.md), [concurrency](../tagged/concurrency.md)
+* :octocat: **[source code](https://github.com/NVlabs/cub)**
+---
+#### [cupla](https://github.com/ComputationalRadiationPhysics/cupla)
+_<sup>https://github.com/ComputationalRadiationPhysics/cupla</sup>_
+
+C++ API to run CUDA/C++ on OpenMP, Threads, TBB, ... through Alpaka. [LGPLv3+]
+* **tags**: [cpp](../tagged/cpp.md), [concurrency](../tagged/concurrency.md)
+* :octocat: **[source code](https://github.com/ComputationalRadiationPhysics/cupla)**
+---
+#### [C++React](https://github.com/schlangster/cpp.react)
+_<sup>https://github.com/schlangster/cpp.react</sup>_
+
+A reactive programming library for C++11. [Boost]
+* **tags**: [cpp](../tagged/cpp.md), [concurrency](../tagged/concurrency.md)
+* :octocat: **[source code](https://github.com/schlangster/cpp.react)**
+---
+#### [FiberTaskingLib](https://github.com/RichieSams/FiberTaskingLib)
+_<sup>https://github.com/RichieSams/FiberTaskingLib</sup>_
+
+Task-based multi-threading library that supports task graphs with arbitrary dependencies. [Apache]
+* **tags**: [cpp](../tagged/cpp.md), [concurrency](../tagged/concurrency.md)
+* :octocat: **[source code](https://github.com/RichieSams/FiberTaskingLib)**
+---
+#### [Intel Games Task Scheduler](https://github.com/GameTechDev/GTS-GamesTaskScheduler)
+_<sup>https://github.com/GameTechDev/GTS-GamesTaskScheduler</sup>_
+
+A task scheduling framework designed for the needs of game developers. [MIT]
+* **tags**: [cpp](../tagged/cpp.md), [concurrency](../tagged/concurrency.md)
+* :octocat: **[source code](https://github.com/GameTechDev/GTS-GamesTaskScheduler)**
+---
+#### [Intel Parallel STL](https://github.com/intel/parallelstl)
+_<sup>https://github.com/intel/parallelstl</sup>_
+
+Intel® implementation of C++17 STL for C++11 and above. [Apache2]
+* **tags**: [cpp](../tagged/cpp.md), [concurrency](../tagged/concurrency.md)
+* :octocat: **[source code](https://github.com/intel/parallelstl)**
+---
+#### [Intel TBB](https://www.threadingbuildingblocks.org/)
+_<sup>https://www.threadingbuildingblocks.org/</sup>_
+
+Intel® Threading Building Blocks. [Apache2]
+* **tags**: [cpp](../tagged/cpp.md), [concurrency](../tagged/concurrency.md)
+---
+#### [junction](https://github.com/preshing/junction)
+_<sup>https://github.com/preshing/junction</sup>_
+
+A library of concurrent data structures in C++. [BSD]
+* **tags**: [cpp](../tagged/cpp.md), [concurrency](../tagged/concurrency.md)
+* :octocat: **[source code](https://github.com/preshing/junction)**
+---
+#### [libcds](https://github.com/khizmax/libcds)
+_<sup>https://github.com/khizmax/libcds</sup>_
+
+A C++ library of Concurrent Data Structures. [BSD]
+* **tags**: [cpp](../tagged/cpp.md), [concurrency](../tagged/concurrency.md)
+* :octocat: **[source code](https://github.com/khizmax/libcds)**
+---
+#### [Libclsph](https://github.com/libclsph/libclsph)
+_<sup>https://github.com/libclsph/libclsph</sup>_
+
+An OpenCL based GPU accelerated SPH fluid simulation library. [MIT]
+* **tags**: [cpp](../tagged/cpp.md), [concurrency](../tagged/concurrency.md)
+* :octocat: **[source code](https://github.com/libclsph/libclsph)**
+---
+#### [libdill](https://github.com/sustrik/libdill/)
+_<sup>https://github.com/sustrik/libdill/</sup>_
+
+Introduces structured concurrency in C. [MIT]
+* **tags**: [cpp](../tagged/cpp.md), [concurrency](../tagged/concurrency.md)
+* :octocat: **[source code](https://github.com/sustrik/libdill/)**
+---
+#### [libdispatch](https://github.com/apple/swift-corelibs-libdispatch)
+_<sup>https://github.com/apple/swift-corelibs-libdispatch</sup>_
+
+Grand Central Dispatch (GCD), developed by Apple Inc., is a task parallelism technology based on the thread pool pattern. libdispatch is a library that provides the implementation of GCD's services. [...
+* **tags**: [cpp](../tagged/cpp.md), [concurrency](../tagged/concurrency.md)
+* :octocat: **[source code](https://github.com/apple/swift-corelibs-libdispatch)**
+---
+#### [libmill](https://github.com/sustrik/libmill/)
+_<sup>https://github.com/sustrik/libmill/</sup>_
+
+Introduces Go-style concurrency in C. [MIT]
+* **tags**: [cpp](../tagged/cpp.md), [concurrency](../tagged/concurrency.md)
+* :octocat: **[source code](https://github.com/sustrik/libmill/)**
+---
+#### [moderngpu](https://github.com/moderngpu/moderngpu)
+_<sup>https://github.com/moderngpu/moderngpu</sup>_
+
+moderngpu is a productivity library for general-purpose computing on GPUs. It is a header-only C++ library written for CUDA. The unique value of the library is in its accelerated primitives for solvin...
+* **tags**: [cpp](../tagged/cpp.md), [concurrency](../tagged/concurrency.md)
+* :octocat: **[source code](https://github.com/moderngpu/moderngpu)**
+---
+#### [NCCL](https://github.com/NVIDIA/nccl)
+_<sup>https://github.com/NVIDIA/nccl</sup>_
+
+Optimized primitives for collective multi-GPU communication. [BSD]
+* **tags**: [cpp](../tagged/cpp.md), [concurrency](../tagged/concurrency.md)
+* :octocat: **[source code](https://github.com/NVIDIA/nccl)**
+---
+#### [OpenCL](https://www.khronos.org/opencl/)
+_<sup>https://www.khronos.org/opencl/</sup>_
+
+The open standard for parallel programming of heterogeneous systems.
+* **tags**: [cpp](../tagged/cpp.md), [concurrency](../tagged/concurrency.md)
+---
+#### [OpenMP](http://openmp.org/)
+_<sup>http://openmp.org/</sup>_
+
+The OpenMP API.
+* **tags**: [cpp](../tagged/cpp.md), [concurrency](../tagged/concurrency.md)
+---
+#### [RaftLib](http://raftlib.io/)
+_<sup>http://raftlib.io/</sup>_
+
+The RaftLib C++ library, streaming/dataflow concurrency via C++ iostream-like operators [Apache2]
+* **tags**: [cpp](../tagged/cpp.md), [concurrency](../tagged/concurrency.md)
+---
+#### [readerwriterqueue](https://github.com/cameron314/readerwriterqueue)
+_<sup>https://github.com/cameron314/readerwriterqueue</sup>_
+
+A fast single-producer, single-consumer lock-free queue for C++. [BSD]
+* **tags**: [cpp](../tagged/cpp.md), [concurrency](../tagged/concurrency.md)
+* :octocat: **[source code](https://github.com/cameron314/readerwriterqueue)**
+---
+#### [Thrust](http://thrust.github.io/)
+_<sup>http://thrust.github.io/</sup>_
+
+A parallel algorithms library which resembles the C++ Standard Template Library (STL). [Apache2]
+* **tags**: [cpp](../tagged/cpp.md), [concurrency](../tagged/concurrency.md)
+---
+#### [transwarp](https://github.com/bloomen/transwarp)
+_<sup>https://github.com/bloomen/transwarp</sup>_
+
+A header-only C++ library for task concurrency. [MIT]
+* **tags**: [cpp](../tagged/cpp.md), [concurrency](../tagged/concurrency.md)
+* :octocat: **[source code](https://github.com/bloomen/transwarp)**
+---
+#### [HPX](https://github.com/STEllAR-GROUP/hpx/)
+_<sup>https://github.com/STEllAR-GROUP/hpx/</sup>_
+
+A general purpose C++ runtime system for parallel and distributed applications of any scale. [Boost]
+* **tags**: [cpp](../tagged/cpp.md), [concurrency](../tagged/concurrency.md)
+* :octocat: **[source code](https://github.com/STEllAR-GROUP/hpx/)**
+---
+#### [VexCL](https://github.com/ddemidov/vexcl)
+_<sup>https://github.com/ddemidov/vexcl</sup>_
+
+A C++ vector expression template library for OpenCL/CUDA. [MIT]
+* **tags**: [cpp](../tagged/cpp.md), [concurrency](../tagged/concurrency.md)
+* :octocat: **[source code](https://github.com/ddemidov/vexcl)**
+---
+#### [Quantum](https://github.com/bloomberg/quantum)
+_<sup>https://github.com/bloomberg/quantum</sup>_
+
+A powerful C++ coroutine dispatcher framework built on top of [boost::coroutines2](https://www.boost.org/doc/libs/1_65_0/libs/coroutine2/doc/html/index.html).
+* **tags**: [cpp](../tagged/cpp.md), [concurrency](../tagged/concurrency.md)
+* :octocat: **[source code](https://github.com/bloomberg/quantum)**
+---
 #### [aymanmadkour/glock](https://github.com/aymanmadkour/glock)
 _<sup>https://github.com/aymanmadkour/glock</sup>_
 

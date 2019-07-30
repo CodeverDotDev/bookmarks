@@ -2,6 +2,138 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/cryptography](https://www.bookmarks.dev/tagged/cryptography)</sup></sup>_
 ---
+#### [Bcrypt](http://bcrypt.sourceforge.net/)
+_<sup>http://bcrypt.sourceforge.net/</sup>_
+
+A cross platform file encryption utility. Encrypted files are portable across all supported operating systems and processors. [BSD]
+* **tags**: [cpp](../tagged/cpp.md), [cryptography](../tagged/cryptography.md)
+---
+#### [BeeCrypt](http://beecrypt.sourceforge.net/)
+_<sup>http://beecrypt.sourceforge.net/</sup>_
+
+A portable and fast cryptography library. [LGPLv2.1+]
+* **tags**: [cpp](../tagged/cpp.md), [cryptography](../tagged/cryptography.md)
+---
+#### [Botan](http://botan.randombit.net/)
+_<sup>http://botan.randombit.net/</sup>_
+
+A crypto library for C++. [BSD-2]
+* **tags**: [cpp](../tagged/cpp.md), [cryptography](../tagged/cryptography.md)
+---
+#### [Crypto++](https://github.com/weidai11/cryptopp)
+_<sup>https://github.com/weidai11/cryptopp</sup>_
+
+A free C++ class library of cryptographic schemes. [Boost] [website](http://www.cryptopp.com/)
+* **tags**: [cpp](../tagged/cpp.md), [cryptography](../tagged/cryptography.md)
+* :octocat: **[source code](https://github.com/weidai11/cryptopp)**
+---
+#### [digestpp](https://github.com/kerukuro/digestpp)
+_<sup>https://github.com/kerukuro/digestpp</sup>_
+
+C++11 header-only message digest (hash) library. [PublicDomain]
+* **tags**: [cpp](../tagged/cpp.md), [cryptography](../tagged/cryptography.md)
+* :octocat: **[source code](https://github.com/kerukuro/digestpp)**
+---
+#### [GnuPG](https://www.gnupg.org/)
+_<sup>https://www.gnupg.org/</sup>_
+
+A complete and free implementation of the OpenPGP standard. [GPL]
+* **tags**: [cpp](../tagged/cpp.md), [cryptography](../tagged/cryptography.md)
+---
+#### [GnuTLS](http://www.gnutls.org/)
+_<sup>http://www.gnutls.org/</sup>_
+
+A secure communications library implementing the SSL, TLS and DTLS protocols. [LGPL2.1]
+* **tags**: [cpp](../tagged/cpp.md), [cryptography](../tagged/cryptography.md)
+---
+#### [Libgcrypt](http://www.gnu.org/software/libgcrypt/)
+_<sup>http://www.gnu.org/software/libgcrypt/</sup>_
+
+A general purpose cryptographic library originally based on code from GnuPG. [LGPLv2.1+]
+* **tags**: [cpp](../tagged/cpp.md), [cryptography](../tagged/cryptography.md)
+---
+#### [LibreSSL](http://www.libressl.org/)
+_<sup>http://www.libressl.org/</sup>_
+
+A free version of the SSL/TLS protocol forked from OpenSSL in 2014. [?]
+* **tags**: [cpp](../tagged/cpp.md), [cryptography](../tagged/cryptography.md)
+---
+#### [libsodium](https://github.com/jedisct1/libsodium)
+_<sup>https://github.com/jedisct1/libsodium</sup>_
+
+P(ortable|ackageable) NaCl-based crypto library, opinionated and easy to use. [ISC]
+* **tags**: [cpp](../tagged/cpp.md), [cryptography](../tagged/cryptography.md)
+* :octocat: **[source code](https://github.com/jedisct1/libsodium)**
+---
+#### [libhydrogen](https://github.com/jedisct1/libhydrogen)
+_<sup>https://github.com/jedisct1/libhydrogen</sup>_
+
+A lightweight, secure, easy-to-use crypto library suitable for constrained environments. [ISC]
+* **tags**: [cpp](../tagged/cpp.md), [cryptography](../tagged/cryptography.md)
+* :octocat: **[source code](https://github.com/jedisct1/libhydrogen)**
+---
+#### [LibTomCrypt](https://github.com/libtom/libtomcrypt)
+_<sup>https://github.com/libtom/libtomcrypt</sup>_
+
+A fairly comprehensive, modular and portable cryptographic toolkit. [WTFPL]
+* **tags**: [cpp](../tagged/cpp.md), [cryptography](../tagged/cryptography.md)
+* :octocat: **[source code](https://github.com/libtom/libtomcrypt)**
+---
+#### [mbedTLS](https://github.com/ARMmbed/mbedtls)
+_<sup>https://github.com/ARMmbed/mbedtls</sup>_
+
+An open source, portable, easy to use, readable and flexible SSL library, previously known as PolarSSL. [Apache2] [website](https://tls.mbed.org/)
+* **tags**: [cpp](../tagged/cpp.md), [cryptography](../tagged/cryptography.md)
+* :octocat: **[source code](https://github.com/ARMmbed/mbedtls)**
+---
+#### [Nettle](http://www.lysator.liu.se/~nisse/nettle/)
+_<sup>http://www.lysator.liu.se/~nisse/nettle/</sup>_
+
+A low-level cryptographic library. [LGPL]
+* **tags**: [cpp](../tagged/cpp.md), [cryptography](../tagged/cryptography.md)
+---
+#### [OpenSSL](https://github.com/openssl/openssl)
+_<sup>https://github.com/openssl/openssl</sup>_
+
+A robust, commercial-grade, full-featured, and Open Source cryptography library. [Apache] [website](http://www.openssl.org/)
+* **tags**: [cpp](../tagged/cpp.md), [cryptography](../tagged/cryptography.md)
+* :octocat: **[source code](https://github.com/openssl/openssl)**
+---
+#### [retter](https://github.com/MaciejCzyzewski/retter)
+_<sup>https://github.com/MaciejCzyzewski/retter</sup>_
+
+A collection of hash functions, ciphers, tools, libraries, and materials related to cryptography.
+* **tags**: [cpp](../tagged/cpp.md), [cryptography](../tagged/cryptography.md)
+* :octocat: **[source code](https://github.com/MaciejCzyzewski/retter)**
+---
+#### [s2n](https://github.com/awslabs/s2n)
+_<sup>https://github.com/awslabs/s2n</sup>_
+
+An implementation of the TLS/SSL protocols. [Apache]
+* **tags**: [cpp](../tagged/cpp.md), [cryptography](../tagged/cryptography.md)
+* :octocat: **[source code](https://github.com/awslabs/s2n)**
+---
+#### [sha1collisiondetection](https://github.com/cr-marcstevens/sha1collisiondetection)
+_<sup>https://github.com/cr-marcstevens/sha1collisiondetection</sup>_
+
+Library and command line tool to detect SHA-1 collision in a file. [MIT]
+* **tags**: [cpp](../tagged/cpp.md), [cryptography](../tagged/cryptography.md)
+* :octocat: **[source code](https://github.com/cr-marcstevens/sha1collisiondetection)**
+---
+#### [Tink](https://github.com/google/tink)
+_<sup>https://github.com/google/tink</sup>_
+
+A multi-language, cross-platform library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse. [Apache-2.0]
+* **tags**: [cpp](../tagged/cpp.md), [cryptography](../tagged/cryptography.md)
+* :octocat: **[source code](https://github.com/google/tink)**
+---
+#### [Tiny AES in C](https://github.com/kokke/tiny-AES-c)
+_<sup>https://github.com/kokke/tiny-AES-c</sup>_
+
+Small portable AES128/192/256 in C. [PublicDomain]
+* **tags**: [cpp](../tagged/cpp.md), [cryptography](../tagged/cryptography.md)
+* :octocat: **[source code](https://github.com/kokke/tiny-AES-c)**
+---
 #### [briansmith/ring](https://github.com/briansmith/ring)
 _<sup>https://github.com/briansmith/ring</sup>_
 

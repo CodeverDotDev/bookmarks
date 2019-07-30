@@ -2,6 +2,87 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/blog](https://www.bookmarks.dev/tagged/blog)</sup></sup>_
 ---
+#### [Coding For Speed](https://codingforspeed.com/)
+_<sup>https://codingforspeed.com/</sup>_
+
+Coding For Speed DOT COM, Less Execution Time.
+* **tags**: [cpp](../tagged/cpp.md), [blog](../tagged/blog.md)
+---
+#### [Eric Niebler](http://ericniebler.com/)
+_<sup>http://ericniebler.com/</sup>_
+
+* **tags**: [cpp](../tagged/cpp.md), [blog](../tagged/blog.md)
+---
+#### [Sticky Bits](https://blog.feabhas.com/)
+_<sup>https://blog.feabhas.com/</sup>_
+
+A blog looking at developing software for real-time and embedded systems
+* **tags**: [cpp](../tagged/cpp.md), [blog](../tagged/blog.md)
+---
+#### [Paul Fultz II's Blog](http://pfultz2.com/blog/)
+_<sup>http://pfultz2.com/blog/</sup>_
+
+Adventures in C++ and programming
+* **tags**: [cpp](../tagged/cpp.md), [blog](../tagged/blog.md)
+---
+#### [ridiculousfish](http://ridiculousfish.com/blog/posts/will-it-optimize.html)
+_<sup>http://ridiculousfish.com/blog/posts/will-it-optimize.html</sup>_
+
+Will It Optimize?
+* **tags**: [cpp](../tagged/cpp.md), [blog](../tagged/blog.md)
+---
+#### [Embedded in Academia](http://blog.regehr.org/)
+_<sup>http://blog.regehr.org/</sup>_
+
+* **tags**: [cpp](../tagged/cpp.md), [blog](../tagged/blog.md)
+---
+#### [Simplify C++](https://arne-mertz.de/)
+_<sup>https://arne-mertz.de/</sup>_
+
+Write clean and maintainable C++
+* **tags**: [cpp](../tagged/cpp.md), [blog](../tagged/blog.md)
+---
+#### [Fluent C++](https://www.fluentcpp.com/)
+_<sup>https://www.fluentcpp.com/</sup>_
+
+Jonathan Boccara's blog
+* **tags**: [cpp](../tagged/cpp.md), [blog](../tagged/blog.md)
+---
+#### [Bartek's Coding Blog](https://www.bfilipek.com/?m=1)
+_<sup>https://www.bfilipek.com/?m=1</sup>_
+
+Stay up-to-date with Modern C++. Technical blog of Bartlomiej Filipek
+* **tags**: [cpp](../tagged/cpp.md), [blog](../tagged/blog.md)
+---
+#### [Kenny Kerr](https://kennykerr.ca/articles/)
+_<sup>https://kennykerr.ca/articles/</sup>_
+
+Microsoft Pushes C++ into the Future MSDN Magazine - April 2016 Getting Started with Modules in C++ kennykerr.ca - December 2015 Saying goodbye to MSDN Magazine MSDN Magazine - December 2015 Windows C...
+* **tags**: [cpp](../tagged/cpp.md), [blog](../tagged/blog.md)
+---
+#### [Sutter’s Mill](https://herbsutter.com/gotw/)
+_<sup>https://herbsutter.com/gotw/</sup>_
+
+Guru of the Week (GotW) is a series of C++ programming problems created and written by Herb Sutter. Starting in May 2013, GotW articles are currently being revised to match the upcoming C++14 ISO Stan...
+* **tags**: [cpp](../tagged/cpp.md), [blog](../tagged/blog.md)
+---
+#### [thoughts on cpp](https://thoughts-on-cpp.com/)
+_<sup>https://thoughts-on-cpp.com/</sup>_
+
+Thoughts about Software Development with an eye on the world of modern C++ Programming
+* **tags**: [cpp](../tagged/cpp.md), [blog](../tagged/blog.md)
+---
+#### [Vorbrodt's C++ Blog](https://vorbrodt.blog/)
+_<sup>https://vorbrodt.blog/</sup>_
+
+* **tags**: [cpp](../tagged/cpp.md), [blog](../tagged/blog.md)
+---
+#### [foonathan::blog()](https://foonathan.net/index.html)
+_<sup>https://foonathan.net/index.html</sup>_
+
+Thoughts from a C++ library developer.
+* **tags**: [cpp](../tagged/cpp.md), [blog](../tagged/blog.md)
+---
 #### [Interplanetary Gatsby](https://interplanetarygatsby.com)
 _<sup>https://interplanetarygatsby.com</sup>_
 

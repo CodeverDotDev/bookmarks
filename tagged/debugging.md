@@ -2,6 +2,213 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/debugging](https://www.bookmarks.dev/tagged/debugging)</sup></sup>_
 ---
+#### [backward-cpp](https://github.com/bombela/backward-cpp)
+_<sup>https://github.com/bombela/backward-cpp</sup>_
+
+A beautiful stack trace pretty printer for C++. [MIT]
+* **tags**: [cpp](../tagged/cpp.md), [debugging](../tagged/debugging.md)
+* :octocat: **[source code](https://github.com/bombela/backward-cpp)**
+---
+#### [benchmark](https://github.com/google/benchmark)
+_<sup>https://github.com/google/benchmark</sup>_
+
+Google provided small microbenchmark support library. [Apache2]
+* **tags**: [cpp](../tagged/cpp.md), [debugging](../tagged/debugging.md)
+* :octocat: **[source code](https://github.com/google/benchmark)**
+---
+#### [Boost.Test](http://www.boost.org/doc/libs/master/libs/test/doc/html/index.html)
+_<sup>http://www.boost.org/doc/libs/master/libs/test/doc/html/index.html</sup>_
+
+Boost Test Library. [Boost]
+* **tags**: [cpp](../tagged/cpp.md), [debugging](../tagged/debugging.md)
+---
+#### [check](https://github.com/libcheck/check)
+_<sup>https://github.com/libcheck/check</sup>_
+
+Check is a unit testing framework for C. [LGPL-2.1] [website](https://libcheck.github.io/check/)
+* **tags**: [cpp](../tagged/cpp.md), [debugging](../tagged/debugging.md)
+* :octocat: **[source code](https://github.com/libcheck/check)**
+---
+#### [doctest](https://github.com/onqtam/doctest)
+_<sup>https://github.com/onqtam/doctest</sup>_
+
+The lightest feature rich C++ single header testing framework. [MIT]
+* **tags**: [cpp](../tagged/cpp.md), [debugging](../tagged/debugging.md)
+* :octocat: **[source code](https://github.com/onqtam/doctest)**
+---
+#### [Catch](https://github.com/philsquared/Catch)
+_<sup>https://github.com/philsquared/Catch</sup>_
+
+A modern, C++-native, header-only, framework for unit-tests, TDD and BDD. [Boost]
+* **tags**: [cpp](../tagged/cpp.md), [debugging](../tagged/debugging.md)
+* :octocat: **[source code](https://github.com/philsquared/Catch)**
+---
+#### [Catch2](https://github.com/catchorg/Catch2)
+_<sup>https://github.com/catchorg/Catch2</sup>_
+
+A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD. [BSL-1.0]
+* **tags**: [cpp](../tagged/cpp.md), [debugging](../tagged/debugging.md)
+* :octocat: **[source code](https://github.com/catchorg/Catch2)**
+---
+#### [Celero](https://github.com/DigitalInBlue/Celero)
+_<sup>https://github.com/DigitalInBlue/Celero</sup>_
+
+C++ Benchmarking Framework. [Apache2]
+* **tags**: [cpp](../tagged/cpp.md), [debugging](../tagged/debugging.md)
+* :octocat: **[source code](https://github.com/DigitalInBlue/Celero)**
+---
+#### [CppUTest](https://github.com/cpputest/cpputest)
+_<sup>https://github.com/cpputest/cpputest</sup>_
+
+Unit testing and mocking framework for C/C++. [BSD-3-clause]
+* **tags**: [cpp](../tagged/cpp.md), [debugging](../tagged/debugging.md)
+* :octocat: **[source code](https://github.com/cpputest/cpputest)**
+---
+#### [CUTE](http://cute-test.com)
+_<sup>http://cute-test.com</sup>_
+
+C++ Unit Testing Easier. [LGPL3]
+* **tags**: [cpp](../tagged/cpp.md), [debugging](../tagged/debugging.md)
+---
+#### [CMocka](https://cmocka.org/)
+_<sup>https://cmocka.org/</sup>_
+
+unit testing framework for C with support for mock objects. [Apache2]
+* **tags**: [cpp](../tagged/cpp.md), [debugging](../tagged/debugging.md)
+---
+#### [CppUnit](http://www.freedesktop.org/wiki/Software/cppunit/)
+_<sup>http://www.freedesktop.org/wiki/Software/cppunit/</sup>_
+
+C++ port of JUnit. [LGPL2]
+* **tags**: [cpp](../tagged/cpp.md), [debugging](../tagged/debugging.md)
+---
+#### [CTest](https://cmake.org/cmake/help/v2.8.8/ctest.html)
+_<sup>https://cmake.org/cmake/help/v2.8.8/ctest.html</sup>_
+
+The CMake test driver program. [BSD]
+* **tags**: [cpp](../tagged/cpp.md), [debugging](../tagged/debugging.md)
+---
+#### [dbg-macro](https://github.com/sharkdp/dbg-macro)
+_<sup>https://github.com/sharkdp/dbg-macro</sup>_
+
+A dbg(…) macro for C++. [MIT]
+* **tags**: [cpp](../tagged/cpp.md), [debugging](../tagged/debugging.md)
+* :octocat: **[source code](https://github.com/sharkdp/dbg-macro)**
+---
+#### [Deleaker](http://www.deleaker.com)
+_<sup>http://www.deleaker.com</sup>_
+
+A tool for resource leak detection, including memory, GDI and handle leaks.
+* **tags**: [cpp](../tagged/cpp.md), [debugging](../tagged/debugging.md)
+---
+#### [fff](https://github.com/meekrosoft/fff)
+_<sup>https://github.com/meekrosoft/fff</sup>_
+
+A micro-framework for creating fake C functions. [MIT]
+* **tags**: [cpp](../tagged/cpp.md), [debugging](../tagged/debugging.md)
+* :octocat: **[source code](https://github.com/meekrosoft/fff)**
+---
+#### [Google Mock](https://github.com/google/googletest/blob/master/googlemock/README.md)
+_<sup>https://github.com/google/googletest/blob/master/googlemock/README.md</sup>_
+
+A library for writing and using C++ mock classes. [BSD]
+* **tags**: [cpp](../tagged/cpp.md), [debugging](../tagged/debugging.md)
+* :octocat: **[source code](https://github.com/google/googletest/blob/master/googlemock/README.md)**
+---
+#### [Google Test](https://github.com/google/googletest)
+_<sup>https://github.com/google/googletest</sup>_
+
+Google C++ Testing Framework. [BSD]
+* **tags**: [cpp](../tagged/cpp.md), [debugging](../tagged/debugging.md)
+* :octocat: **[source code](https://github.com/google/googletest)**
+---
+#### [ig-debugheap](https://github.com/deplinenoise/ig-debugheap)
+_<sup>https://github.com/deplinenoise/ig-debugheap</sup>_
+
+Multiplatform debug heap useful for tracking down memory errors. [BSD]
+* **tags**: [cpp](../tagged/cpp.md), [debugging](../tagged/debugging.md)
+* :octocat: **[source code](https://github.com/deplinenoise/ig-debugheap)**
+---
+#### [libtap](https://github.com/zorgnax/libtap)
+_<sup>https://github.com/zorgnax/libtap</sup>_
+
+Write tests in C. [GPL2]
+* **tags**: [cpp](../tagged/cpp.md), [debugging](../tagged/debugging.md)
+* :octocat: **[source code](https://github.com/zorgnax/libtap)**
+---
+#### [MemTrack](http://www.almostinfinite.com/memtrack.html)
+_<sup>http://www.almostinfinite.com/memtrack.html</sup>_
+
+Tracking memory allocations in C++.
+* **tags**: [cpp](../tagged/cpp.md), [debugging](../tagged/debugging.md)
+---
+#### [microprofile](https://bitbucket.org/jonasmeyer/microprofile/overview)
+_<sup>https://bitbucket.org/jonasmeyer/microprofile/overview</sup>_
+
+Profiler with web-view for multiple platforms. [PublicDomain]
+* **tags**: [cpp](../tagged/cpp.md), [debugging](../tagged/debugging.md)
+---
+#### [MinUnit](https://github.com/siu/minunit)
+_<sup>https://github.com/siu/minunit</sup>_
+
+A minimal unit testing framework for C self-contained in a single header file. [MIT]
+* **tags**: [cpp](../tagged/cpp.md), [debugging](../tagged/debugging.md)
+* :octocat: **[source code](https://github.com/siu/minunit)**
+---
+#### [Mockator](http://www.mockator.com)
+_<sup>http://www.mockator.com</sup>_
+
+Eclipse CDT plug-in for C++ Seams and Mock Objects.
+* **tags**: [cpp](../tagged/cpp.md), [debugging](../tagged/debugging.md)
+---
+#### [Nanotimer](https://github.com/mattreecebentley/plf_nanotimer)
+_<sup>https://github.com/mattreecebentley/plf_nanotimer</sup>_
+
+A simple low-overhead cross-platform timer class for benchmarking. [zLib] [website](http://www.plflib.org/nanotimer.htm)
+* **tags**: [cpp](../tagged/cpp.md), [debugging](../tagged/debugging.md)
+* :octocat: **[source code](https://github.com/mattreecebentley/plf_nanotimer)**
+---
+#### [Nonius](https://github.com/libnonius/nonius)
+_<sup>https://github.com/libnonius/nonius</sup>_
+
+A C++ micro-benchmarking framework. [CC]
+* **tags**: [cpp](../tagged/cpp.md), [debugging](../tagged/debugging.md)
+* :octocat: **[source code](https://github.com/libnonius/nonius)**
+---
+#### [Remotery](https://github.com/Celtoys/Remotery)
+_<sup>https://github.com/Celtoys/Remotery</sup>_
+
+Single C File Profiler with Web Viewer. [Apache2]
+* **tags**: [cpp](../tagged/cpp.md), [debugging](../tagged/debugging.md)
+* :octocat: **[source code](https://github.com/Celtoys/Remotery)**
+---
+#### [UnitTest++](https://github.com/unittest-cpp/unittest-cpp)
+_<sup>https://github.com/unittest-cpp/unittest-cpp</sup>_
+
+A lightweight unit testing framework for C++. [MIT/X Consortium license]
+* **tags**: [cpp](../tagged/cpp.md), [debugging](../tagged/debugging.md)
+* :octocat: **[source code](https://github.com/unittest-cpp/unittest-cpp)**
+---
+#### [Unity](https://github.com/ThrowTheSwitch/Unity)
+_<sup>https://github.com/ThrowTheSwitch/Unity</sup>_
+
+Simple Unit Testing for C. [MIT]
+* **tags**: [cpp](../tagged/cpp.md), [debugging](../tagged/debugging.md)
+* :octocat: **[source code](https://github.com/ThrowTheSwitch/Unity)**
+---
+#### [utest.h](https://github.com/sheredom/utest.h)
+_<sup>https://github.com/sheredom/utest.h</sup>_
+
+Single header unit testing framework for C and C++. [Unlicense]
+* **tags**: [cpp](../tagged/cpp.md), [debugging](../tagged/debugging.md)
+* :octocat: **[source code](https://github.com/sheredom/utest.h)**
+---
+#### [VLD](http://vld.codeplex.com/)
+_<sup>http://vld.codeplex.com/</sup>_
+
+Visual Leak Detector. A free, robust, open-source memory leak detection system for Visual C++.
+* **tags**: [cpp](../tagged/cpp.md), [debugging](../tagged/debugging.md)
+---
 #### [rust-gdb](https://github.com/rust-lang/rust/blob/master/src/etc/rust-gdb)
 _<sup>https://github.com/rust-lang/rust/blob/master/src/etc/rust-gdb</sup>_
 

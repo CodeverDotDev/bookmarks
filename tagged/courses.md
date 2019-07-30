@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/courses](https://www.bookmarks.dev/tagged/courses)</sup></sup>_
 ---
+#### [Udemy C++ Courses and Tutorials](https://www.udemy.com/topic/c-plus-plus/)
+_<sup>https://www.udemy.com/topic/c-plus-plus/</sup>_
+
+C++ Courses
+* **tags**: [cpp](../tagged/cpp.md), [courses](../tagged/courses.md)
+---
 #### [Learn to build apps and APIs with Node.js](https://learnnode.com/friend/AWESOME)
 _<sup>https://learnnode.com/friend/AWESOME</sup>_
 

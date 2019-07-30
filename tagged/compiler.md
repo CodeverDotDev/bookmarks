@@ -2,6 +2,74 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/compiler](https://www.bookmarks.dev/tagged/compiler)</sup></sup>_
 ---
+#### [8cc](https://github.com/rui314/8cc)
+_<sup>https://github.com/rui314/8cc</sup>_
+
+A Small C Compiler.
+* **tags**: [cpp](../tagged/cpp.md), [compiler](../tagged/compiler.md)
+* :octocat: **[source code](https://github.com/rui314/8cc)**
+---
+#### [c](https://github.com/ryanmjacobs/c)
+_<sup>https://github.com/ryanmjacobs/c</sup>_
+
+Compile and execute C "scripts" in one go! [MIT]
+* **tags**: [cpp](../tagged/cpp.md), [compiler](../tagged/compiler.md)
+* :octocat: **[source code](https://github.com/ryanmjacobs/c)**
+---
+#### [Clang](http://clang.llvm.org/)
+_<sup>http://clang.llvm.org/</sup>_
+
+A C compiler for LLVM. Supports C++11/14/1z C11. Developed by LLVM Team. [NCSA]
+* **tags**: [cpp](../tagged/cpp.md), [compiler](../tagged/compiler.md)
+---
+#### [GCC](https://gcc.gnu.org/)
+_<sup>https://gcc.gnu.org/</sup>_
+
+GNU Compiler Collection. Supports C++11/14/1z C11 and OpenMP. [GNU GPL3]
+* **tags**: [cpp](../tagged/cpp.md), [compiler](../tagged/compiler.md)
+---
+#### [PCC](http://pcc.ludd.ltu.se/)
+_<sup>http://pcc.ludd.ltu.se/</sup>_
+
+A very old C compiler. Supports C99.
+* **tags**: [cpp](../tagged/cpp.md), [compiler](../tagged/compiler.md)
+---
+#### [Intel C++ Compiler](https://software.intel.com/en-us/c-compilers)
+_<sup>https://software.intel.com/en-us/c-compilers</sup>_
+
+Developed by Intel.
+* **tags**: [cpp](../tagged/cpp.md), [compiler](../tagged/compiler.md)
+---
+#### [LLVM](http://llvm.org/)
+_<sup>http://llvm.org/</sup>_
+
+Collection of modular and reusable compiler and toolchain technologies.
+* **tags**: [cpp](../tagged/cpp.md), [compiler](../tagged/compiler.md)
+---
+#### [Microsoft Visual C++](https://msdn.microsoft.com/en-us/vstudio/hh386302.aspx)
+_<sup>https://msdn.microsoft.com/en-us/vstudio/hh386302.aspx</sup>_
+
+MSVC, developed by Microsoft.
+* **tags**: [cpp](../tagged/cpp.md), [compiler](../tagged/compiler.md)
+---
+#### [Open WatCom](http://www.openwatcom.org/index.php/Main_Page)
+_<sup>http://www.openwatcom.org/index.php/Main_Page</sup>_
+
+Watcom C, C++, and Fortran cross compilers and tools. [Sybase Open Watcom Public License]
+* **tags**: [cpp](../tagged/cpp.md), [compiler](../tagged/compiler.md)
+---
+#### [Oracle Solaris Studio](http://www.oracle.com/technetwork/server-storage/solarisstudio/overview/index.html)
+_<sup>http://www.oracle.com/technetwork/server-storage/solarisstudio/overview/index.html</sup>_
+
+C, C++ and Fortran compiler for SPARC and x86. Supports C++11. Available on Linux and Solaris. [OTN Developer License]
+* **tags**: [cpp](../tagged/cpp.md), [compiler](../tagged/compiler.md)
+---
+#### [TCC](http://bellard.org/tcc/)
+_<sup>http://bellard.org/tcc/</sup>_
+
+Tiny C Compiler. [LGPL]
+* **tags**: [cpp](../tagged/cpp.md), [compiler](../tagged/compiler.md)
+---
 #### [c4go](https://github.com/Konstantin8105/c4go)
 _<sup>https://github.com/Konstantin8105/c4go</sup>_
 

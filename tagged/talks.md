@@ -2,6 +2,26 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/talks](https://www.bookmarks.dev/tagged/talks)</sup></sup>_
 ---
+#### [CppCon Talks](https://www.youtube.com/user/CppCon/videos)
+_<sup>https://www.youtube.com/user/CppCon/videos</sup>_
+
+The C++ conference.
+* **tags**: [cpp](../tagged/cpp.md), [talks](../tagged/talks.md)
+---
+#### [Quick game development with C++11/C++14](https://github.com/SuperV1234/cppcon2014)
+_<sup>https://github.com/SuperV1234/cppcon2014</sup>_
+
+CppCon 2014 talk by Vittorio Romeo.
+* **tags**: [cpp](../tagged/cpp.md), [talks](../tagged/talks.md)
+* :octocat: **[source code](https://github.com/SuperV1234/cppcon2014)**
+---
+#### [Presentation on Hana for C++Now 2015](https://github.com/ldionne/hana-cppnow-2015)
+_<sup>https://github.com/ldionne/hana-cppnow-2015</sup>_
+
+Presentation on Hana for C++Now 2015. Contribute to ldionne/cppnow-2015-hana development by creating an account on GitHub.
+* **tags**: [cpp](../tagged/cpp.md), [talks](../tagged/talks.md)
+* :octocat: **[source code](https://github.com/ldionne/hana-cppnow-2015)**
+---
 #### [Pete Hunt: React: Rethinking best practices - JSConf EU 2013](https://www.youtube.com/watch?v=x7cQ3mrcKaY)
 _<sup>https://www.youtube.com/watch?v=x7cQ3mrcKaY</sup>_
 

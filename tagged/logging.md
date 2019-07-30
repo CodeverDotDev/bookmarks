@@ -2,6 +2,93 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/logging](https://www.bookmarks.dev/tagged/logging)</sup></sup>_
 ---
+#### [Blackhole](https://github.com/3Hren/blackhole)
+_<sup>https://github.com/3Hren/blackhole</sup>_
+
+Attribute-based logging framework, which is designed to be fast, modular and highly customizable. [MIT]
+* **tags**: [cpp](../tagged/cpp.md), [logging](../tagged/logging.md)
+* :octocat: **[source code](https://github.com/3Hren/blackhole)**
+---
+#### [Boost.Log](http://www.boost.org/doc/libs/1_56_0/libs/log/doc/html/index.html)
+_<sup>http://www.boost.org/doc/libs/1_56_0/libs/log/doc/html/index.html</sup>_
+
+Designed to be very modular and extensible. [Boost]
+* **tags**: [cpp](../tagged/cpp.md), [logging](../tagged/logging.md)
+---
+#### [Easylogging++](https://github.com/easylogging/easyloggingpp)
+_<sup>https://github.com/easylogging/easyloggingpp</sup>_
+
+Single header only, extremely light-weight high performance logging library for C++11 (or higher) applications. [MIT] [website](https://muflihun.github.io/easyloggingpp)
+* **tags**: [cpp](../tagged/cpp.md), [logging](../tagged/logging.md)
+* :octocat: **[source code](https://github.com/easylogging/easyloggingpp)**
+---
+#### [G3log](https://github.com/KjellKod/g3log)
+_<sup>https://github.com/KjellKod/g3log</sup>_
+
+Asynchronous logger with Dynamic Sinks. [PublicDomain]
+* **tags**: [cpp](../tagged/cpp.md), [logging](../tagged/logging.md)
+* :octocat: **[source code](https://github.com/KjellKod/g3log)**
+---
+#### [glog](https://github.com/google/glog)
+_<sup>https://github.com/google/glog</sup>_
+
+C++ implementation of the Google logging module.
+* **tags**: [cpp](../tagged/cpp.md), [logging](../tagged/logging.md)
+* :octocat: **[source code](https://github.com/google/glog)**
+---
+#### [Log4cpp](http://log4cpp.sourceforge.net/)
+_<sup>http://log4cpp.sourceforge.net/</sup>_
+
+A library of C++ classes for flexible logging to files, syslog, IDSA and other destinations. [LGPL]
+* **tags**: [cpp](../tagged/cpp.md), [logging](../tagged/logging.md)
+---
+#### [log4cplus](https://github.com/log4cplus/log4cplus)
+_<sup>https://github.com/log4cplus/log4cplus</sup>_
+
+A simple to use C++ logging API providing thread-safe, flexible, and arbitrarily granular control over log management and configuration. [BSD & Apache2]
+* **tags**: [cpp](../tagged/cpp.md), [logging](../tagged/logging.md)
+* :octocat: **[source code](https://github.com/log4cplus/log4cplus)**
+---
+#### [loguru](https://github.com/emilk/loguru)
+_<sup>https://github.com/emilk/loguru</sup>_
+
+A lightweight C++ logging library. [PublicDomain]
+* **tags**: [cpp](../tagged/cpp.md), [logging](../tagged/logging.md)
+* :octocat: **[source code](https://github.com/emilk/loguru)**
+---
+#### [plog](https://github.com/SergiusTheBest/plog)
+_<sup>https://github.com/SergiusTheBest/plog</sup>_
+
+Portable and simple log for C++ in less than 1000 lines of code. [MPL2]
+* **tags**: [cpp](../tagged/cpp.md), [logging](../tagged/logging.md)
+* :octocat: **[source code](https://github.com/SergiusTheBest/plog)**
+---
+#### [reckless](https://github.com/mattiasflodin/reckless)
+_<sup>https://github.com/mattiasflodin/reckless</sup>_
+
+Low-latency, high-throughput, asynchronous logging library for C++. [MIT]
+* **tags**: [cpp](../tagged/cpp.md), [logging](../tagged/logging.md)
+* :octocat: **[source code](https://github.com/mattiasflodin/reckless)**
+---
+#### [spdlog](https://github.com/gabime/spdlog)
+_<sup>https://github.com/gabime/spdlog</sup>_
+
+Super fast, header only, C++ logging library.
+* **tags**: [cpp](../tagged/cpp.md), [logging](../tagged/logging.md)
+* :octocat: **[source code](https://github.com/gabime/spdlog)**
+---
+#### [templog](http://www.templog.org/)
+_<sup>http://www.templog.org/</sup>_
+
+A very small and lightweight C++ library which you can use to add logging to your C++ applications. [Boost]
+* **tags**: [cpp](../tagged/cpp.md), [logging](../tagged/logging.md)
+---
+#### [P7Baical](http://baical.net/p7.html)
+_<sup>http://baical.net/p7.html</sup>_
+
+An open source and cross-platform library for high-speed sending telemetry & trace data  with minimal usage of CPU and memory. [LGPL]
+* **tags**: [cpp](../tagged/cpp.md), [logging](../tagged/logging.md)
+---
 #### [rust-lang-nursery/log](https://github.com/rust-lang-nursery/log)
 _<sup>https://github.com/rust-lang-nursery/log</sup>_
 

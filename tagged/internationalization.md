@@ -2,6 +2,38 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/internationalization](https://www.bookmarks.dev/tagged/internationalization)</sup></sup>_
 ---
+#### [gettext](http://www.gnu.org/software/gettext/)
+_<sup>http://www.gnu.org/software/gettext/</sup>_
+
+GNU 'gettext'. [GPL2]
+* **tags**: [cpp](../tagged/cpp.md), [internationalization](../tagged/internationalization.md)
+---
+#### [IBM ICU](http://site.icu-project.org/)
+_<sup>http://site.icu-project.org/</sup>_
+
+A set of C/C++ and Java libraries providing Unicode and Globalization support. [ICU]
+* **tags**: [cpp](../tagged/cpp.md), [internationalization](../tagged/internationalization.md)
+---
+#### [libiconv](http://www.gnu.org/software/libiconv/)
+_<sup>http://www.gnu.org/software/libiconv/</sup>_
+
+An encoding conversion library between different character encodings. [GPL]
+* **tags**: [cpp](../tagged/cpp.md), [internationalization](../tagged/internationalization.md)
+---
+#### [utf8.h](https://github.com/sheredom/utf8.h)
+_<sup>https://github.com/sheredom/utf8.h</sup>_
+
+Single header utf8 string functions for C and C++. [Unlicense]
+* **tags**: [cpp](../tagged/cpp.md), [internationalization](../tagged/internationalization.md)
+* :octocat: **[source code](https://github.com/sheredom/utf8.h)**
+---
+#### [utf8proc](https://github.com/JuliaStrings/utf8proc)
+_<sup>https://github.com/JuliaStrings/utf8proc</sup>_
+
+A clean C library for processing UTF-8 Unicode data. [MIT]
+* **tags**: [cpp](../tagged/cpp.md), [internationalization](../tagged/internationalization.md)
+* :octocat: **[source code](https://github.com/JuliaStrings/utf8proc)**
+---
 #### [FastGettext](https://github.com/grosser/fast_gettext)
 _<sup>https://github.com/grosser/fast_gettext</sup>_
 

@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/vuejs](https://www.bookmarks.dev/tagged/vuejs)</sup></sup>_
 ---
+#### [Evan You on Vue.js: Seeking the Balance in Framework Design | JSConf.Asia 2019 - YouTube](https://www.youtube.com/watch?v=ANtSWq-zI0s)
+_<sup>https://www.youtube.com/watch?v=ANtSWq-zI0s</sup>_
+
+As the author of Vue, I often get asked on how the major JavaScript frameworks today differ from one another. Typically people expect technical details: size, performance, ecosystem... but to me, what...
+* :calendar: **published on**: 2019-07-03
+* **tags**: [vuejs](../tagged/vuejs.md), [javascript](../tagged/javascript.md)
+---
 #### [Awesome vue.js](https://github.com/vuejs/awesome-vue#readme)
 _<sup>https://github.com/vuejs/awesome-vue#readme</sup>_
 

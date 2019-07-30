@@ -2,6 +2,43 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/robotics](https://www.bookmarks.dev/tagged/robotics)</sup></sup>_
 ---
+#### [MOOS-IvP](http://moos-ivp.org)
+_<sup>http://moos-ivp.org</sup>_
+
+A set of open source C++ modules for providing autonomy on robotic platforms, in particular autonomous marine vehicles.
+* **tags**: [cpp](../tagged/cpp.md), [robotics](../tagged/robotics.md)
+---
+#### [MRPT](http://www.mrpt.org/)
+_<sup>http://www.mrpt.org/</sup>_
+
+Mobile Robot Programming Toolkit. [BSD]
+* **tags**: [cpp](../tagged/cpp.md), [robotics](../tagged/robotics.md)
+---
+#### [PCL](https://github.com/PointCloudLibrary/pcl)
+_<sup>https://github.com/PointCloudLibrary/pcl</sup>_
+
+Point Cloud Library is a standalone, large scale, open project for 2D/3D image and point cloud processing [BSD] [website](http://www.pointclouds.org/)
+* **tags**: [cpp](../tagged/cpp.md), [robotics](../tagged/robotics.md)
+* :octocat: **[source code](https://github.com/PointCloudLibrary/pcl)**
+---
+#### [Robotics Library (RL)](http://www.roboticslibrary.org/)
+_<sup>http://www.roboticslibrary.org/</sup>_
+
+A self-contained C++ library for robot kinematics, motion planning and control. [BSD]
+* **tags**: [cpp](../tagged/cpp.md), [robotics](../tagged/robotics.md)
+---
+#### [RobWork](http://www.robwork.dk/apidoc/nightly/rw/index.html)
+_<sup>http://www.robwork.dk/apidoc/nightly/rw/index.html</sup>_
+
+A collection of C++ libraries for simulation and control of robot systems. [Apache2]
+* **tags**: [cpp](../tagged/cpp.md), [robotics](../tagged/robotics.md)
+---
+#### [ROS](http://wiki.ros.org/)
+_<sup>http://wiki.ros.org/</sup>_
+
+Robot Operating System provides libraries and tools to help software developers create robot applications. [BSD]
+* **tags**: [cpp](../tagged/cpp.md), [robotics](../tagged/robotics.md)
+---
 #### [Artoo](http://artoo.io)
 _<sup>http://artoo.io</sup>_
 

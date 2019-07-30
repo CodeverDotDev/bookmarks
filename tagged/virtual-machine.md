@@ -2,6 +2,20 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/virtual-machine](https://www.bookmarks.dev/tagged/virtual-machine)</sup></sup>_
 ---
+#### [CarpVM](https://github.com/tekknolagi/carp)
+_<sup>https://github.com/tekknolagi/carp</sup>_
+
+"interesting" VM in C. Let's see how this goes. [GPLv3]
+* **tags**: [cpp](../tagged/cpp.md), [virtual-machine](../tagged/virtual-machine.md)
+* :octocat: **[source code](https://github.com/tekknolagi/carp)**
+---
+#### [TinyVM](https://github.com/jakogut/tinyvm)
+_<sup>https://github.com/jakogut/tinyvm</sup>_
+
+A small, fast, lightweight virtual machine written in pure ANSI C. [MIT]
+* **tags**: [cpp](../tagged/cpp.md), [virtual-machine](../tagged/virtual-machine.md)
+* :octocat: **[source code](https://github.com/jakogut/tinyvm)**
+---
 #### [Hack](https://hacklang.org/)
 _<sup>https://hacklang.org/</sup>_
 

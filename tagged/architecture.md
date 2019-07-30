@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/architecture](https://www.bookmarks.dev/tagged/architecture)</sup></sup>_
 ---
+#### [An Introduction to Elm](https://guide.elm-lang.org/)
+_<sup>https://guide.elm-lang.org/</sup>_
+
+Elm is a functional language that compiles to JavaScript. It competes with projects like React as a tool for creating websites and web apps. Elm has a very strong emphasis on simplicity, ease-of-use, ...
+* **tags**: [elm](../tagged/elm.md), [javascript](../tagged/javascript.md), [architecture](../tagged/architecture.md)
+* :octocat: **[source code](https://github.com/evancz/elm-architecture-tutorial)**
+---
 #### [Flux Home Page](https://facebook.github.io/flux/)
 _<sup>https://facebook.github.io/flux/</sup>_
 

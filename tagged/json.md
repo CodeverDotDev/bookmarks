@@ -2,6 +2,200 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/json](https://www.bookmarks.dev/tagged/json)</sup></sup>_
 ---
+#### [cJSON](https://github.com/DaveGamble/cJSON)
+_<sup>https://github.com/DaveGamble/cJSON</sup>_
+
+Ultralightweight JSON parser in ANSI C. [MIT]
+* **tags**: [cpp](../tagged/cpp.md), [json](../tagged/json.md)
+* :octocat: **[source code](https://github.com/DaveGamble/cJSON)**
+---
+#### [frozen](https://github.com/cesanta/frozen)
+_<sup>https://github.com/cesanta/frozen</sup>_
+
+JSON parser and generator for C/C++. [GPL & GPL2]
+* **tags**: [cpp](../tagged/cpp.md), [json](../tagged/json.md)
+* :octocat: **[source code](https://github.com/cesanta/frozen)**
+---
+#### [Jansson](https://github.com/akheron/jansson)
+_<sup>https://github.com/akheron/jansson</sup>_
+
+C library for encoding, decoding and manipulating JSON data. [MIT]
+* **tags**: [cpp](../tagged/cpp.md), [json](../tagged/json.md)
+* :octocat: **[source code](https://github.com/akheron/jansson)**
+---
+#### [jbson](https://github.com/chrismanning/jbson)
+_<sup>https://github.com/chrismanning/jbson</sup>_
+
+jbson is a library for building & iterating BSON data, and JSON documents in C++14. [Boost]
+* **tags**: [cpp](../tagged/cpp.md), [json](../tagged/json.md)
+* :octocat: **[source code](https://github.com/chrismanning/jbson)**
+---
+#### [JeayeSON](https://github.com/jeaye/jeayeson)
+_<sup>https://github.com/jeaye/jeayeson</sup>_
+
+A very sane (header only) C++ JSON library. [BSD]
+* **tags**: [cpp](../tagged/cpp.md), [json](../tagged/json.md)
+* :octocat: **[source code](https://github.com/jeaye/jeayeson)**
+---
+#### [Jsmn](https://github.com/zserge/jsmn)
+_<sup>https://github.com/zserge/jsmn</sup>_
+
+A minimalistic JSON parser in C. [MIT]
+* **tags**: [cpp](../tagged/cpp.md), [json](../tagged/json.md)
+* :octocat: **[source code](https://github.com/zserge/jsmn)**
+---
+#### [json](https://github.com/nlohmann/json)
+_<sup>https://github.com/nlohmann/json</sup>_
+
+JSON for Modern C++. [MIT]
+* **tags**: [cpp](../tagged/cpp.md), [json](../tagged/json.md)
+* :octocat: **[source code](https://github.com/nlohmann/json)**
+---
+#### [JSON++](https://github.com/hjiang/jsonxx)
+_<sup>https://github.com/hjiang/jsonxx</sup>_
+
+A JSON parser in C++. [MIT]
+* **tags**: [cpp](../tagged/cpp.md), [json](../tagged/json.md)
+* :octocat: **[source code](https://github.com/hjiang/jsonxx)**
+---
+#### [json.h](https://github.com/sheredom/json.h)
+_<sup>https://github.com/sheredom/json.h</sup>_
+
+A simple one header/one source solution to parsing JSON in C and C++. [Unlicense]
+* **tags**: [cpp](../tagged/cpp.md), [json](../tagged/json.md)
+* :octocat: **[source code](https://github.com/sheredom/json.h)**
+---
+#### [json-c](https://github.com/json-c/json-c)
+_<sup>https://github.com/json-c/json-c</sup>_
+
+A JSON implementation in C. [MIT]
+* **tags**: [cpp](../tagged/cpp.md), [json](../tagged/json.md)
+* :octocat: **[source code](https://github.com/json-c/json-c)**
+---
+#### [JsonCpp](https://github.com/open-source-parsers/jsoncpp)
+_<sup>https://github.com/open-source-parsers/jsoncpp</sup>_
+
+A C++ library for interacting with JSON. [MIT]
+* **tags**: [cpp](../tagged/cpp.md), [json](../tagged/json.md)
+* :octocat: **[source code](https://github.com/open-source-parsers/jsoncpp)**
+---
+#### [json-parser](https://github.com/udp/json-parser)
+_<sup>https://github.com/udp/json-parser</sup>_
+
+Very low footprint JSON parser written in portable ANSI C. [BSD]
+* **tags**: [cpp](../tagged/cpp.md), [json](../tagged/json.md)
+* :octocat: **[source code](https://github.com/udp/json-parser)**
+---
+#### [json11](https://github.com/dropbox/json11)
+_<sup>https://github.com/dropbox/json11</sup>_
+
+A tiny JSON library for C++11. [MIT]
+* **tags**: [cpp](../tagged/cpp.md), [json](../tagged/json.md)
+* :octocat: **[source code](https://github.com/dropbox/json11)**
+---
+#### [json-voorhees](https://github.com/tgockel/json-voorhees)
+_<sup>https://github.com/tgockel/json-voorhees</sup>_
+
+JSON library for C++. Support for C++11. No dependencies, fast and dev-friendly. [Apache2]
+* **tags**: [cpp](../tagged/cpp.md), [json](../tagged/json.md)
+* :octocat: **[source code](https://github.com/tgockel/json-voorhees)**
+---
+#### [jute](https://github.com/amir-s/jute)
+_<sup>https://github.com/amir-s/jute</sup>_
+
+Very simple C++ JSON Parser. [PublicDomain]
+* **tags**: [cpp](../tagged/cpp.md), [json](../tagged/json.md)
+* :octocat: **[source code](https://github.com/amir-s/jute)**
+---
+#### [libjson](https://github.com/vincenthz/libjson)
+_<sup>https://github.com/vincenthz/libjson</sup>_
+
+A JSON parser and printer library in C. easy to integrate with any model. [LGPL]
+* **tags**: [cpp](../tagged/cpp.md), [json](../tagged/json.md)
+* :octocat: **[source code](https://github.com/vincenthz/libjson)**
+---
+#### [libjson](http://sourceforge.net/projects/libjson/)
+_<sup>http://sourceforge.net/projects/libjson/</sup>_
+
+Lightweight JSON library. [?]
+* **tags**: [cpp](../tagged/cpp.md), [json](../tagged/json.md)
+---
+#### [LIBUCL](https://github.com/vstakhov/libucl)
+_<sup>https://github.com/vstakhov/libucl</sup>_
+
+Universal configuration library parser [BSD-2-Clause]
+* **tags**: [cpp](../tagged/cpp.md), [json](../tagged/json.md)
+* :octocat: **[source code](https://github.com/vstakhov/libucl)**
+---
+#### [parson](https://github.com/kgabis/parson)
+_<sup>https://github.com/kgabis/parson</sup>_
+
+Parson is a lighweight json library written in C. [MIT]
+* **tags**: [cpp](../tagged/cpp.md), [json](../tagged/json.md)
+* :octocat: **[source code](https://github.com/kgabis/parson)**
+---
+#### [PicoJSON](https://github.com/kazuho/picojson)
+_<sup>https://github.com/kazuho/picojson</sup>_
+
+A header-file-only, JSON parser serializer in C++. [BSD]
+* **tags**: [cpp](../tagged/cpp.md), [json](../tagged/json.md)
+* :octocat: **[source code](https://github.com/kazuho/picojson)**
+---
+#### [qt-json](https://github.com/gaudecker/qt-json)
+_<sup>https://github.com/gaudecker/qt-json</sup>_
+
+A simple class for parsing JSON data into a QVariant hierarchy and vice versa. [GPLv3]
+* **tags**: [cpp](../tagged/cpp.md), [json](../tagged/json.md)
+* :octocat: **[source code](https://github.com/gaudecker/qt-json)**
+---
+#### [QJson](https://github.com/flavio/qjson)
+_<sup>https://github.com/flavio/qjson</sup>_
+
+A qt-based library that maps JSON data to QVariant objects. [LGPL2]
+* **tags**: [cpp](../tagged/cpp.md), [json](../tagged/json.md)
+* :octocat: **[source code](https://github.com/flavio/qjson)**
+---
+#### [RapidJSON](https://github.com/miloyip/rapidjson)
+_<sup>https://github.com/miloyip/rapidjson</sup>_
+
+A fast JSON parser/generator for C++ with both SAX/DOM style API. [MIT]
+* **tags**: [cpp](../tagged/cpp.md), [json](../tagged/json.md)
+* :octocat: **[source code](https://github.com/miloyip/rapidjson)**
+---
+#### [sajson](https://github.com/chadaustin/sajson)
+_<sup>https://github.com/chadaustin/sajson</sup>_
+
+Lightweight, extremely high-performance JSON parser for C++11. [MIT]
+* **tags**: [cpp](../tagged/cpp.md), [json](../tagged/json.md)
+* :octocat: **[source code](https://github.com/chadaustin/sajson)**
+---
+#### [simdjson](https://github.com/lemire/simdjson)
+_<sup>https://github.com/lemire/simdjson</sup>_
+
+Extremely fast JSON library that can parse gigabytes of JSON per second. [Apache-2.0]
+* **tags**: [cpp](../tagged/cpp.md), [json](../tagged/json.md)
+* :octocat: **[source code](https://github.com/lemire/simdjson)**
+---
+#### [taoJSON](https://github.com/taocpp/json)
+_<sup>https://github.com/taocpp/json</sup>_
+
+Zero-dependency C++ header-only JSON library. [MIT]
+* **tags**: [cpp](../tagged/cpp.md), [json](../tagged/json.md)
+* :octocat: **[source code](https://github.com/taocpp/json)**
+---
+#### [ujson](https://bitbucket.org/awangk/ujson)
+_<sup>https://bitbucket.org/awangk/ujson</sup>_
+
+µjson is a a small, C++11, UTF-8, JSON library. [MIT]
+* **tags**: [cpp](../tagged/cpp.md), [json](../tagged/json.md)
+---
+#### [YAJL](https://github.com/lloyd/yajl)
+_<sup>https://github.com/lloyd/yajl</sup>_
+
+A fast streaming JSON parsing library in C. [ISC]
+* **tags**: [cpp](../tagged/cpp.md), [json](../tagged/json.md)
+* :octocat: **[source code](https://github.com/lloyd/yajl)**
+---
 #### [kompose](https://github.com/kubernetes/kompose)
 _<sup>https://github.com/kubernetes/kompose</sup>_
 

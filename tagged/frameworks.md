@@ -2,6 +2,307 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/frameworks](https://www.bookmarks.dev/tagged/frameworks)</sup></sup>_
 ---
+#### [abseil-cpp](https://github.com/abseil/abseil-cpp)
+_<sup>https://github.com/abseil/abseil-cpp</sup>_
+
+Abseil C++ Common Libraries. [Apache2]
+* **tags**: [cpp](../tagged/cpp.md), [frameworks](../tagged/frameworks.md)
+* :octocat: **[source code](https://github.com/abseil/abseil-cpp)**
+---
+#### [Apache C++ Standard Library](http://stdcxx.apache.org/)
+_<sup>http://stdcxx.apache.org/</sup>_
+
+STDCXX, A collection of algorithms, containers, iterators, and other fundamental components. [retired] [Apache2]
+* **tags**: [cpp](../tagged/cpp.md), [frameworks](../tagged/frameworks.md)
+---
+#### [APR](http://apr.apache.org/)
+_<sup>http://apr.apache.org/</sup>_
+
+Apache Portable Runtime. Another library of cross-platform utility functions. [Apache2]
+* **tags**: [cpp](../tagged/cpp.md), [frameworks](../tagged/frameworks.md)
+---
+#### [ASL](http://stlab.adobe.com/)
+_<sup>http://stlab.adobe.com/</sup>_
+
+Adobe Source Libraries provides peer-reviewed and portable C++ source libraries. [MIT]
+* **tags**: [cpp](../tagged/cpp.md), [frameworks](../tagged/frameworks.md)
+---
+#### [Boost](https://github.com/boostorg)
+_<sup>https://github.com/boostorg</sup>_
+
+A large collection of generic C++ libraries. [Boost] [website](http://www.boost.org/)
+* **tags**: [cpp](../tagged/cpp.md), [frameworks](../tagged/frameworks.md)
+* :octocat: **[source code](https://github.com/boostorg)**
+---
+#### [BDE](https://github.com/bloomberg/bde)
+_<sup>https://github.com/bloomberg/bde</sup>_
+
+The BDE Development Environment from Bloomberg Labs. [Apache2]
+* **tags**: [cpp](../tagged/cpp.md), [frameworks](../tagged/frameworks.md)
+* :octocat: **[source code](https://github.com/bloomberg/bde)**
+---
+#### [Cinder](https://libcinder.org/)
+_<sup>https://libcinder.org/</sup>_
+
+A community-developed, free and open source library for professional-quality creative coding. [BSD]
+* **tags**: [cpp](../tagged/cpp.md), [frameworks](../tagged/frameworks.md)
+---
+#### [Cxxomfort](http://ryan.gulix.cl/fossil.cgi/cxxomfort/)
+_<sup>http://ryan.gulix.cl/fossil.cgi/cxxomfort/</sup>_
+
+A small, header-only library that backports various facilities from more recent C++ Standards to C++03 and later. [MIT]
+* **tags**: [cpp](../tagged/cpp.md), [frameworks](../tagged/frameworks.md)
+---
+#### [EASTL](https://github.com/electronicarts/EASTL)
+_<sup>https://github.com/electronicarts/EASTL</sup>_
+
+Electronic Arts Standard Template Library. [BSD]
+* **tags**: [cpp](../tagged/cpp.md), [frameworks](../tagged/frameworks.md)
+* :octocat: **[source code](https://github.com/electronicarts/EASTL)**
+---
+#### [ETL](https://github.com/ETLCPP/etl)
+_<sup>https://github.com/ETLCPP/etl</sup>_
+
+Embedded Template Library. [MIT]
+* **tags**: [cpp](../tagged/cpp.md), [frameworks](../tagged/frameworks.md)
+* :octocat: **[source code](https://github.com/ETLCPP/etl)**
+---
+#### [ffead-cpp](https://github.com/sumeetchhetri/ffead-cpp)
+_<sup>https://github.com/sumeetchhetri/ffead-cpp</sup>_
+
+Framework for Enterprise Application Development. [Apache2]
+* **tags**: [cpp](../tagged/cpp.md), [frameworks](../tagged/frameworks.md)
+* :octocat: **[source code](https://github.com/sumeetchhetri/ffead-cpp)**
+---
+#### [Folly](https://github.com/facebook/folly)
+_<sup>https://github.com/facebook/folly</sup>_
+
+An open-source C++ library developed and used at Facebook. [Apache2]
+* **tags**: [cpp](../tagged/cpp.md), [frameworks](../tagged/frameworks.md)
+* :octocat: **[source code](https://github.com/facebook/folly)**
+---
+#### [FunctionalPlus](https://github.com/Dobiasd/FunctionalPlus)
+_<sup>https://github.com/Dobiasd/FunctionalPlus</sup>_
+
+Functional Programming Library for C++. Write concise and readable C++ code. [MIT]
+* **tags**: [cpp](../tagged/cpp.md), [frameworks](../tagged/frameworks.md)
+* :octocat: **[source code](https://github.com/Dobiasd/FunctionalPlus)**
+---
+#### [GLib](https://wiki.gnome.org/Projects/GLib)
+_<sup>https://wiki.gnome.org/Projects/GLib</sup>_
+
+GLib provides the core application building blocks for libraries and applications written in C. [LGPL]
+* **tags**: [cpp](../tagged/cpp.md), [frameworks](../tagged/frameworks.md)
+---
+#### [JUCE](https://github.com/julianstorer/JUCE)
+_<sup>https://github.com/julianstorer/JUCE</sup>_
+
+An all-encompassing C++ class library for developing cross-platform software. [Core-Module: ISC, Rest: GPL2/GPL3/Commercial] [website](http://www.juce.com/)
+* **tags**: [cpp](../tagged/cpp.md), [frameworks](../tagged/frameworks.md)
+* :octocat: **[source code](https://github.com/julianstorer/JUCE)**
+---
+#### [libPhenom](https://github.com/facebook/libphenom)
+_<sup>https://github.com/facebook/libphenom</sup>_
+
+libPhenom is an eventing framework for building high performance and high scalability systems in C. [Apache2]
+* **tags**: [cpp](../tagged/cpp.md), [frameworks](../tagged/frameworks.md)
+* :octocat: **[source code](https://github.com/facebook/libphenom)**
+---
+#### [LibSourcey](https://github.com/sourcey/libsourcey)
+_<sup>https://github.com/sourcey/libsourcey</sup>_
+
+C++11 evented IO for real-time video streaming and high performance networking applications. [LGPL]
+* **tags**: [cpp](../tagged/cpp.md), [frameworks](../tagged/frameworks.md)
+* :octocat: **[source code](https://github.com/sourcey/libsourcey)**
+---
+#### [LibU](https://github.com/koanlogic/libu)
+_<sup>https://github.com/koanlogic/libu</sup>_
+
+A multiplatform utility library written in C. [BSD]
+* **tags**: [cpp](../tagged/cpp.md), [frameworks](../tagged/frameworks.md)
+* :octocat: **[source code](https://github.com/koanlogic/libu)**
+---
+#### [Loki](http://loki-lib.sourceforge.net/)
+_<sup>http://loki-lib.sourceforge.net/</sup>_
+
+A C++ library of designs, containing flexible implementations of common design patterns and idioms. [MIT]
+* **tags**: [cpp](../tagged/cpp.md), [frameworks](../tagged/frameworks.md)
+---
+#### [MiLi](https://bitbucket.org/fudepan/mili/)
+_<sup>https://bitbucket.org/fudepan/mili/</sup>_
+
+Minimal headers-only C++ Library. [Boost]
+* **tags**: [cpp](../tagged/cpp.md), [frameworks](../tagged/frameworks.md)
+---
+#### [OpenFrameworks](https://github.com/openframeworks/openFrameworks)
+_<sup>https://github.com/openframeworks/openFrameworks</sup>_
+
+A cross platform open source toolkit for creative coding in C++. [MIT] [website](http://www.openframeworks.cc/)
+* **tags**: [cpp](../tagged/cpp.md), [frameworks](../tagged/frameworks.md)
+* :octocat: **[source code](https://github.com/openframeworks/openFrameworks)**
+---
+#### [Qt](https://www.qt.io/download-open-source/)
+_<sup>https://www.qt.io/download-open-source/</sup>_
+
+A cross-platform application and UI framework. [GPL/LGPL/Commercial]
+* **tags**: [cpp](../tagged/cpp.md), [frameworks](../tagged/frameworks.md)
+---
+#### [Reason](http://code.google.com/p/reason/)
+_<sup>http://code.google.com/p/reason/</sup>_
+
+A cross platform framework designed to bring the ease of use of Java, .Net, or Python to developers who require the performance and strength of C++. [GPL2]
+* **tags**: [cpp](../tagged/cpp.md), [frameworks](../tagged/frameworks.md)
+---
+#### [ROOT](https://root.cern.ch/)
+_<sup>https://root.cern.ch/</sup>_
+
+A set of OO frameworks with all the functionality needed to handle and analyze large amounts of data in a very efficient way. Used at CERN. [LGPL]
+* **tags**: [cpp](../tagged/cpp.md), [frameworks](../tagged/frameworks.md)
+---
+#### [STLport](http://www.stlport.org/)
+_<sup>http://www.stlport.org/</sup>_
+
+An exemplary version of STL. [Free]
+* **tags**: [cpp](../tagged/cpp.md), [frameworks](../tagged/frameworks.md)
+---
+#### [STXXL](http://stxxl.sourceforge.net/)
+_<sup>http://stxxl.sourceforge.net/</sup>_
+
+Standard Template Library for Extra Large Data Sets. [Boost]
+* **tags**: [cpp](../tagged/cpp.md), [frameworks](../tagged/frameworks.md)
+---
+#### [tbox](https://github.com/tboox/tbox)
+_<sup>https://github.com/tboox/tbox</sup>_
+
+A glib-like multi-platform c library. [Apache2] [website](http://tboox.org/)
+* **tags**: [cpp](../tagged/cpp.md), [frameworks](../tagged/frameworks.md)
+* :octocat: **[source code](https://github.com/tboox/tbox)**
+---
+#### [Ultimate++](http://www.ultimatepp.org/)
+_<sup>http://www.ultimatepp.org/</sup>_
+
+A C++ cross-platform rapid application development framework. [BSD]
+* **tags**: [cpp](../tagged/cpp.md), [frameworks](../tagged/frameworks.md)
+---
+#### [uSTL](http://msharov.github.io/ustl/)
+_<sup>http://msharov.github.io/ustl/</sup>_
+
+The small STL library. [MIT]
+* **tags**: [cpp](../tagged/cpp.md), [frameworks](../tagged/frameworks.md)
+---
+#### [Windows Template Library](http://sourceforge.net/projects/wtl/)
+_<sup>http://sourceforge.net/projects/wtl/</sup>_
+
+A C++ library for developing Windows applications and UI components. [Public]
+* **tags**: [cpp](../tagged/cpp.md), [frameworks](../tagged/frameworks.md)
+---
+#### [Yomm2](https://github.com/jll63/yomm2)
+_<sup>https://github.com/jll63/yomm2</sup>_
+
+Fast, Orthogonal, Open multi-methods. Supersedes [Yomm11](https://github.com/jll63/yomm11) [Boost]
+* **tags**: [cpp](../tagged/cpp.md), [frameworks](../tagged/frameworks.md)
+* :octocat: **[source code](https://github.com/jll63/yomm2)**
+---
+#### [Civetweb](https://github.com/civetweb/civetweb)
+_<sup>https://github.com/civetweb/civetweb</sup>_
+
+Provides easy to use, powerful, C/C++ embeddable web server with optional CGI, SSL and Lua support. [MIT]
+* **tags**: [cpp](../tagged/cpp.md), [frameworks](../tagged/frameworks.md)
+* :octocat: **[source code](https://github.com/civetweb/civetweb)**
+---
+#### [CppCMS](http://cppcms.com/)
+_<sup>http://cppcms.com/</sup>_
+
+A Free High Performance Web Development Framework (not a CMS). [LGPLv3]
+* **tags**: [cpp](../tagged/cpp.md), [frameworks](../tagged/frameworks.md)
+---
+#### [Crow](https://github.com/ipkn/crow)
+_<sup>https://github.com/ipkn/crow</sup>_
+
+Crow is C++ micro web framework (inspired by Python Flask). [BSD]
+* **tags**: [cpp](../tagged/cpp.md), [frameworks](../tagged/frameworks.md)
+* :octocat: **[source code](https://github.com/ipkn/crow)**
+---
+#### [Cutelyst](https://github.com/cutelyst/cutelyst)
+_<sup>https://github.com/cutelyst/cutelyst</sup>_
+
+A C++ Web Framework built on top of Qt, using the simple approach of Catalyst (Perl) framework. [LGPLv2.1+] [website](https://cutelyst.org/)
+* **tags**: [cpp](../tagged/cpp.md), [frameworks](../tagged/frameworks.md)
+* :octocat: **[source code](https://github.com/cutelyst/cutelyst)**
+---
+#### [Drogon](https://github.com/an-tao/drogon)
+_<sup>https://github.com/an-tao/drogon</sup>_
+
+A C++14/17 based, high-performance HTTP application framework. [MIT]
+* **tags**: [cpp](../tagged/cpp.md), [frameworks](../tagged/frameworks.md)
+* :octocat: **[source code](https://github.com/an-tao/drogon)**
+---
+#### [facil.io](https://github.com/boazsegev/facil.io)
+_<sup>https://github.com/boazsegev/facil.io</sup>_
+
+Evented, high performance C web framework supporting HTTP, WebSockets, SSE and more. [MIT] [website](http://facil.io)
+* **tags**: [cpp](../tagged/cpp.md), [frameworks](../tagged/frameworks.md)
+* :octocat: **[source code](https://github.com/boazsegev/facil.io)**
+---
+#### [Kore](https://kore.io/)
+_<sup>https://kore.io/</sup>_
+
+ultra fast and flexible web server / framework for web applications developed in C. [ISC]
+* **tags**: [cpp](../tagged/cpp.md), [frameworks](../tagged/frameworks.md)
+---
+#### [libOnion](http://www.coralbits.com/libonion/)
+_<sup>http://www.coralbits.com/libonion/</sup>_
+
+lightweight library to help you create webservers in C programming language. [LGPLv3]
+* **tags**: [cpp](../tagged/cpp.md), [frameworks](../tagged/frameworks.md)
+---
+#### [lwan](https://github.com/lpereira/lwan)
+_<sup>https://github.com/lpereira/lwan</sup>_
+
+Experimental, scalable, high performance HTTP server. [GPL2]
+* **tags**: [cpp](../tagged/cpp.md), [frameworks](../tagged/frameworks.md)
+* :octocat: **[source code](https://github.com/lpereira/lwan)**
+---
+#### [oat++](https://github.com/oatpp/oatpp)
+_<sup>https://github.com/oatpp/oatpp</sup>_
+
+Light, zero-dependency framework to create high-performance web-services. [Apache-2.0] [website](https://oatpp.io/)
+* **tags**: [cpp](../tagged/cpp.md), [frameworks](../tagged/frameworks.md)
+* :octocat: **[source code](https://github.com/oatpp/oatpp)**
+---
+#### [Pistache](http://pistache.io/)
+_<sup>http://pistache.io/</sup>_
+
+Pistache is a C++ REST framework written in pure C++11 with no external dependency. [Apache2]
+* **tags**: [cpp](../tagged/cpp.md), [frameworks](../tagged/frameworks.md)
+---
+#### [QDjango](https://github.com/jlaine/qdjango/)
+_<sup>https://github.com/jlaine/qdjango/</sup>_
+
+A web framework written in C++ and built on top of the Qt library. Where possible it tries to follow django's API, hence its name. [LGPL]
+* **tags**: [cpp](../tagged/cpp.md), [frameworks](../tagged/frameworks.md)
+* :octocat: **[source code](https://github.com/jlaine/qdjango/)**
+---
+#### [TreeFrog Framework](https://github.com/treefrogframework/treefrog-framework)
+_<sup>https://github.com/treefrogframework/treefrog-framework</sup>_
+
+High-speed and full-stack web application framework based on C++ and Qt, which supports HTTP and WebSocket protocol (with O/R mapping). [BSD] [website](http://www.treefrogframework.org/)
+* **tags**: [cpp](../tagged/cpp.md), [frameworks](../tagged/frameworks.md)
+* :octocat: **[source code](https://github.com/treefrogframework/treefrog-framework)**
+---
+#### [Wt](http://www.webtoolkit.eu/wt)
+_<sup>http://www.webtoolkit.eu/wt</sup>_
+
+A C++ library for developing web applications. [GPL/Commercial]
+* **tags**: [cpp](../tagged/cpp.md), [frameworks](../tagged/frameworks.md)
+---
+#### [Rich Harris - Rethinking reactivity - YouTube](https://www.youtube.com/watch?v=AdNJ3fydeao)
+_<sup>https://www.youtube.com/watch?v=AdNJ3fydeao</sup>_
+
+Modern JavaScript frameworks are all about reactivity. Change your application's state, and the view updates automatically. But there's a catch — tracking state changes at runtime adds overhead that e...
+* :calendar: **published on**: 2019-04-22
+* **tags**: [reactive-programming](../tagged/reactive-programming.md), [javascript](../tagged/javascript.md), [frameworks](../tagged/frameworks.md)
+---
 #### [pytest](https://docs.pytest.org/en/latest/)
 _<sup>https://docs.pytest.org/en/latest/</sup>_
 

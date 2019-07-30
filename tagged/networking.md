@@ -2,6 +2,348 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/networking](https://www.bookmarks.dev/tagged/networking)</sup></sup>_
 ---
+#### [ACE](http://www.dre.vanderbilt.edu/~schmidt/ACE.html)
+_<sup>http://www.dre.vanderbilt.edu/~schmidt/ACE.html</sup>_
+
+An OO Network Programming Toolkit in C++. [?MIT?]
+* **tags**: [cpp](../tagged/cpp.md), [networking](../tagged/networking.md)
+---
+#### [Boost.Asio](http://think-async.com/)
+_<sup>http://think-async.com/</sup>_
+
+A cross-platform C++ library for network and low-level I/O programming. [Boost]
+* **tags**: [cpp](../tagged/cpp.md), [networking](../tagged/networking.md)
+---
+#### [Boost.Beast](https://github.com/boostorg/beast)
+_<sup>https://github.com/boostorg/beast</sup>_
+
+HTTP and WebSocket built on Boost.Asio in C++11. [BSL-1.0] [website](www.boost.org/libs/beast)
+* **tags**: [cpp](../tagged/cpp.md), [networking](../tagged/networking.md)
+* :octocat: **[source code](https://github.com/boostorg/beast)**
+---
+#### [Breep](https://github.com/Organic-Code/Breep)
+_<sup>https://github.com/Organic-Code/Breep</sup>_
+
+Event based, high-level C++14 peer-to-peer library. [EUPL-1.1 (OSI approved)]
+* **tags**: [cpp](../tagged/cpp.md), [networking](../tagged/networking.md)
+* :octocat: **[source code](https://github.com/Organic-Code/Breep)**
+---
+#### [C++ REST SDK](https://github.com/Microsoft/cpprestsdk)
+_<sup>https://github.com/Microsoft/cpprestsdk</sup>_
+
+C++ REST SDK (previously named Casablanca). [Apache2]
+* **tags**: [cpp](../tagged/cpp.md), [networking](../tagged/networking.md)
+* :octocat: **[source code](https://github.com/Microsoft/cpprestsdk)**
+---
+#### [Restbed](https://github.com/corvusoft/restbed)
+_<sup>https://github.com/corvusoft/restbed</sup>_
+
+C++11 Asynchronous RESTful framework. [AGPL]
+* **tags**: [cpp](../tagged/cpp.md), [networking](../tagged/networking.md)
+* :octocat: **[source code](https://github.com/corvusoft/restbed)**
+---
+#### [Restinio](https://github.com/Stiffstream/restinio)
+_<sup>https://github.com/Stiffstream/restinio</sup>_
+
+A header-only C++14 library that gives you an embedded HTTP/Websocket server. [BSD]
+* **tags**: [cpp](../tagged/cpp.md), [networking](../tagged/networking.md)
+* :octocat: **[source code](https://github.com/Stiffstream/restinio)**
+---
+#### [c-ares](https://github.com/c-ares/c-ares)
+_<sup>https://github.com/c-ares/c-ares</sup>_
+
+A C library for asynchronous DNS requests. [MIT]
+* **tags**: [cpp](../tagged/cpp.md), [networking](../tagged/networking.md)
+* :octocat: **[source code](https://github.com/c-ares/c-ares)**
+---
+#### [cpp-httplib](https://github.com/yhirose/cpp-httplib)
+_<sup>https://github.com/yhirose/cpp-httplib</sup>_
+
+A single file C++11 header-only HTTP/HTTPS sever library. [MIT]
+* **tags**: [cpp](../tagged/cpp.md), [networking](../tagged/networking.md)
+* :octocat: **[source code](https://github.com/yhirose/cpp-httplib)**
+---
+#### [cpp-netlib](http://cpp-netlib.org/)
+_<sup>http://cpp-netlib.org/</sup>_
+
+A collection of open-source libraries for high level network programming. [Boost]
+* **tags**: [cpp](../tagged/cpp.md), [networking](../tagged/networking.md)
+---
+#### [cpp-netlib/uri](https://github.com/cpp-netlib/uri)
+_<sup>https://github.com/cpp-netlib/uri</sup>_
+
+URI parser/builder library for C++, compatible with RFC 3986 and RFC 3987. [BSL-1.0]
+* **tags**: [cpp](../tagged/cpp.md), [networking](../tagged/networking.md)
+* :octocat: **[source code](https://github.com/cpp-netlib/uri)**
+---
+#### [cpr](https://github.com/whoshuu/cpr)
+_<sup>https://github.com/whoshuu/cpr</sup>_
+
+A modern C++ HTTP requests library with a simple but powerful interface. Modeled after the Python Requests module. [MIT] [website](https://whoshuu.github.io/cpr/)
+* **tags**: [cpp](../tagged/cpp.md), [networking](../tagged/networking.md)
+* :octocat: **[source code](https://github.com/whoshuu/cpr)**
+---
+#### [curlcpp](https://github.com/JosephP91/curlcpp)
+_<sup>https://github.com/JosephP91/curlcpp</sup>_
+
+An object oriented C++ wrapper for CURL(libcurl). [MIT]
+* **tags**: [cpp](../tagged/cpp.md), [networking](../tagged/networking.md)
+* :octocat: **[source code](https://github.com/JosephP91/curlcpp)**
+---
+#### [Dyad.c](https://github.com/rxi/dyad)
+_<sup>https://github.com/rxi/dyad</sup>_
+
+Asynchronous networking for C. [MIT]
+* **tags**: [cpp](../tagged/cpp.md), [networking](../tagged/networking.md)
+* :octocat: **[source code](https://github.com/rxi/dyad)**
+---
+#### [ENet](https://github.com/lsalzman/enet)
+_<sup>https://github.com/lsalzman/enet</sup>_
+
+Reliable UDP networking library. [MIT] [website](http://enet.bespin.org/)
+* **tags**: [cpp](../tagged/cpp.md), [networking](../tagged/networking.md)
+* :octocat: **[source code](https://github.com/lsalzman/enet)**
+---
+#### [evpp](https://github.com/Qihoo360/evpp)
+_<sup>https://github.com/Qihoo360/evpp</sup>_
+
+C++ high performance networking with TCP/UDP/HTTP protocols. [BSD]
+* **tags**: [cpp](../tagged/cpp.md), [networking](../tagged/networking.md)
+* :octocat: **[source code](https://github.com/Qihoo360/evpp)**
+---
+#### [H2O](https://github.com/h2o/h2o)
+_<sup>https://github.com/h2o/h2o</sup>_
+
+An optimized HTTP server with support for HTTP/1.x and HTTP/2. It can also be used as a library. [MIT]
+* **tags**: [cpp](../tagged/cpp.md), [networking](../tagged/networking.md)
+* :octocat: **[source code](https://github.com/h2o/h2o)**
+---
+#### [HTTP Parser](https://github.com/nodejs/http-parser)
+_<sup>https://github.com/nodejs/http-parser</sup>_
+
+A http request/response parser for C. [MIT]
+* **tags**: [cpp](../tagged/cpp.md), [networking](../tagged/networking.md)
+* :octocat: **[source code](https://github.com/nodejs/http-parser)**
+---
+#### [libcurl](http://curl.haxx.se/libcurl/)
+_<sup>http://curl.haxx.se/libcurl/</sup>_
+
+Multiprotocol file transfer library. [MIT/X derivate license]
+* **tags**: [cpp](../tagged/cpp.md), [networking](../tagged/networking.md)
+---
+#### [libhttpserver](https://github.com/etr/libhttpserver)
+_<sup>https://github.com/etr/libhttpserver</sup>_
+
+C++ library for creating an embedded Rest HTTP server (and more). [LGPL2.1]
+* **tags**: [cpp](../tagged/cpp.md), [networking](../tagged/networking.md)
+* :octocat: **[source code](https://github.com/etr/libhttpserver)**
+---
+#### [libjingle](https://code.google.com/p/libjingle/)
+_<sup>https://code.google.com/p/libjingle/</sup>_
+
+Google talk voice and P2P interoperability library. [BSD]
+* **tags**: [cpp](../tagged/cpp.md), [networking](../tagged/networking.md)
+---
+#### [Libmicrohttpd](http://www.gnu.org/software/libmicrohttpd/)
+_<sup>http://www.gnu.org/software/libmicrohttpd/</sup>_
+
+GNU libmicrohttpd is a small C library that is supposed to make it easy to run an HTTP server as part of another application. [LGPL v2.1+]
+* **tags**: [cpp](../tagged/cpp.md), [networking](../tagged/networking.md)
+---
+#### [libpcap](https://github.com/the-tcpdump-group/libpcap)
+_<sup>https://github.com/the-tcpdump-group/libpcap</sup>_
+
+A portable C/C++ library for network traffic capture. [BSD] [website](https://www.tcpdump.org/)
+* **tags**: [cpp](../tagged/cpp.md), [networking](../tagged/networking.md)
+* :octocat: **[source code](https://github.com/the-tcpdump-group/libpcap)**
+---
+#### [libquic](https://github.com/devsisters/libquic)
+_<sup>https://github.com/devsisters/libquic</sup>_
+
+A QUIC protocol library extracted from Chromium's QUIC Implementation. [BSD]
+* **tags**: [cpp](../tagged/cpp.md), [networking](../tagged/networking.md)
+* :octocat: **[source code](https://github.com/devsisters/libquic)**
+---
+#### [librdkafka](https://github.com/edenhill/librdkafka)
+_<sup>https://github.com/edenhill/librdkafka</sup>_
+
+Apache Kafka client library for C and C++. [BSD-2-Clause]
+* **tags**: [cpp](../tagged/cpp.md), [networking](../tagged/networking.md)
+* :octocat: **[source code](https://github.com/edenhill/librdkafka)**
+---
+#### [libwebsockets](https://github.com/warmcat/libwebsockets)
+_<sup>https://github.com/warmcat/libwebsockets</sup>_
+
+A lightweight pure C WebSocket implementation that provides both client and server libraries. [LGPL2.1 + static link exception] [website](https://libwebsockets.org/)
+* **tags**: [cpp](../tagged/cpp.md), [networking](../tagged/networking.md)
+* :octocat: **[source code](https://github.com/warmcat/libwebsockets)**
+---
+#### [lwIP](http://savannah.nongnu.org/projects/lwip/)
+_<sup>http://savannah.nongnu.org/projects/lwip/</sup>_
+
+A lightweight TCP/IP stack. [Modified BSD]
+* **tags**: [cpp](../tagged/cpp.md), [networking](../tagged/networking.md)
+---
+#### [Mongoose](https://github.com/cesanta/mongoose)
+_<sup>https://github.com/cesanta/mongoose</sup>_
+
+Extremely lightweight webserver. [GPL2]
+* **tags**: [cpp](../tagged/cpp.md), [networking](../tagged/networking.md)
+* :octocat: **[source code](https://github.com/cesanta/mongoose)**
+---
+#### [MQTT-C](https://github.com/LiamBindle/MQTT-C)
+_<sup>https://github.com/LiamBindle/MQTT-C</sup>_
+
+A portable MQTT C client for embedded systems and PCs alike. [MIT] [website](https://liambindle.ca/MQTT-C)
+* **tags**: [cpp](../tagged/cpp.md), [networking](../tagged/networking.md)
+* :octocat: **[source code](https://github.com/LiamBindle/MQTT-C)**
+---
+#### [mTCP](https://github.com/mtcp-stack/mtcp)
+_<sup>https://github.com/mtcp-stack/mtcp</sup>_
+
+Highly scalable user-level TCP stack for multicore systems. [Modified BSD]
+* **tags**: [cpp](../tagged/cpp.md), [networking](../tagged/networking.md)
+* :octocat: **[source code](https://github.com/mtcp-stack/mtcp)**
+---
+#### [Muduo](https://github.com/chenshuo/muduo)
+_<sup>https://github.com/chenshuo/muduo</sup>_
+
+A C++ non-blocking network library for multi-threaded server in Linux. [BSD]
+* **tags**: [cpp](../tagged/cpp.md), [networking](../tagged/networking.md)
+* :octocat: **[source code](https://github.com/chenshuo/muduo)**
+---
+#### [nghttp2](https://github.com/nghttp2/nghttp2)
+_<sup>https://github.com/nghttp2/nghttp2</sup>_
+
+HTTP/2 C Library. [MIT] [website](https://nghttp2.org/)
+* **tags**: [cpp](../tagged/cpp.md), [networking](../tagged/networking.md)
+* :octocat: **[source code](https://github.com/nghttp2/nghttp2)**
+---
+#### [Onion](https://github.com/davidmoreno/onion)
+_<sup>https://github.com/davidmoreno/onion</sup>_
+
+HTTP server library in C designed to be lightweight and easy to use. [Apache2/GPL2]
+* **tags**: [cpp](../tagged/cpp.md), [networking](../tagged/networking.md)
+* :octocat: **[source code](https://github.com/davidmoreno/onion)**
+---
+#### [PicoHTTPParser](https://github.com/h2o/picohttpparser)
+_<sup>https://github.com/h2o/picohttpparser</sup>_
+
+A tiny, primitive, fast HTTP request/response parser. [MIT]
+* **tags**: [cpp](../tagged/cpp.md), [networking](../tagged/networking.md)
+* :octocat: **[source code](https://github.com/h2o/picohttpparser)**
+---
+#### [POCO](https://github.com/pocoproject)
+_<sup>https://github.com/pocoproject</sup>_
+
+C++ class libraries and frameworks for building network- and internet-based applications that run on desktop, server, mobile and embedded systems. [Boost] [website](http://pocoproject.org/)
+* **tags**: [cpp](../tagged/cpp.md), [networking](../tagged/networking.md)
+* :octocat: **[source code](https://github.com/pocoproject)**
+---
+#### [Proxygen](https://github.com/facebook/proxygen)
+_<sup>https://github.com/facebook/proxygen</sup>_
+
+Facebook's collection of C++ HTTP libraries including an easy to use HTTP server. [BSD]
+* **tags**: [cpp](../tagged/cpp.md), [networking](../tagged/networking.md)
+* :octocat: **[source code](https://github.com/facebook/proxygen)**
+---
+#### [RakNet](https://github.com/OculusVR/RakNet)
+_<sup>https://github.com/OculusVR/RakNet</sup>_
+
+A cross platform, open source, C++ networking engine for game programmers. [BSD]
+* **tags**: [cpp](../tagged/cpp.md), [networking](../tagged/networking.md)
+* :octocat: **[source code](https://github.com/OculusVR/RakNet)**
+---
+#### [restclient-cpp](https://github.com/mrtazz/restclient-cpp)
+_<sup>https://github.com/mrtazz/restclient-cpp</sup>_
+
+Simple REST client for C++. It wraps libcurl for HTTP requests. [MIT]
+* **tags**: [cpp](../tagged/cpp.md), [networking](../tagged/networking.md)
+* :octocat: **[source code](https://github.com/mrtazz/restclient-cpp)**
+---
+#### [Seasocks](https://github.com/mattgodbolt/seasocks)
+_<sup>https://github.com/mattgodbolt/seasocks</sup>_
+
+Simple, small, C++ embeddable webserver with WebSockets support. [BSD]
+* **tags**: [cpp](../tagged/cpp.md), [networking](../tagged/networking.md)
+* :octocat: **[source code](https://github.com/mattgodbolt/seasocks)**
+---
+#### [Silicon](http://siliconframework.org)
+_<sup>http://siliconframework.org</sup>_
+
+A high performance, middleware oriented C++14 http web framework. [MIT]
+* **tags**: [cpp](../tagged/cpp.md), [networking](../tagged/networking.md)
+---
+#### [Tufão](https://github.com/vinipsmaker/tufao)
+_<sup>https://github.com/vinipsmaker/tufao</sup>_
+
+An asynchronous web framework for C++ built on top of Qt. [LGPL2]
+* **tags**: [cpp](../tagged/cpp.md), [networking](../tagged/networking.md)
+* :octocat: **[source code](https://github.com/vinipsmaker/tufao)**
+---
+#### [uriparser](https://github.com/uriparser/uriparser)
+_<sup>https://github.com/uriparser/uriparser</sup>_
+
+Strictly RFC 3986 compliant URI parsing and handling library. [BSD-3-Clause]
+* **tags**: [cpp](../tagged/cpp.md), [networking](../tagged/networking.md)
+* :octocat: **[source code](https://github.com/uriparser/uriparser)**
+---
+#### [uWebSockets](https://github.com/uNetworking/uWebSockets)
+_<sup>https://github.com/uNetworking/uWebSockets</sup>_
+
+µWS is one of the most lightweight, efficient & scalable WebSocket & HTTP server implementations available. [Zlib]
+* **tags**: [cpp](../tagged/cpp.md), [networking](../tagged/networking.md)
+* :octocat: **[source code](https://github.com/uNetworking/uWebSockets)**
+---
+#### [WAFer](https://github.com/riolet/WAFer)
+_<sup>https://github.com/riolet/WAFer</sup>_
+
+A C language-based ultra-light software platform for scalable server-side and networking applications. Think node.js for C programmers. [GPL2]
+* **tags**: [cpp](../tagged/cpp.md), [networking](../tagged/networking.md)
+* :octocat: **[source code](https://github.com/riolet/WAFer)**
+---
+#### [Wangle](https://github.com/facebook/wangle)
+_<sup>https://github.com/facebook/wangle</sup>_
+
+A client/server application framework to build asynchronous, event-driven modern C++ services. [Apache-2.0]
+* **tags**: [cpp](../tagged/cpp.md), [networking](../tagged/networking.md)
+* :octocat: **[source code](https://github.com/facebook/wangle)**
+---
+#### [wdt](https://github.com/facebook/wdt)
+_<sup>https://github.com/facebook/wdt</sup>_
+
+An embeddedable library (and command line tool) aiming to transfer data between 2 systems as fast as possible over multiple TCP paths. [BSD-3-Clause]
+* **tags**: [cpp](../tagged/cpp.md), [networking](../tagged/networking.md)
+* :octocat: **[source code](https://github.com/facebook/wdt)**
+---
+#### [WebSocket++](https://github.com/zaphoyd/websocketpp)
+_<sup>https://github.com/zaphoyd/websocketpp</sup>_
+
+C++/Boost Asio based websocket client/server library. [BSD]
+* **tags**: [cpp](../tagged/cpp.md), [networking](../tagged/networking.md)
+* :octocat: **[source code](https://github.com/zaphoyd/websocketpp)**
+---
+#### [PcapPlusPlus](https://github.com/seladb/PcapPlusPlus)
+_<sup>https://github.com/seladb/PcapPlusPlus</sup>_
+
+a multiplatform C++ network sniffing and packet parsing and crafting framework. [Unlicense]
+* **tags**: [cpp](../tagged/cpp.md), [networking](../tagged/networking.md)
+* :octocat: **[source code](https://github.com/seladb/PcapPlusPlus)**
+---
+#### [ZeroMQ](https://github.com/zeromq/libzmq)
+_<sup>https://github.com/zeromq/libzmq</sup>_
+
+High-speed, modular asynchronous communication library. [LGPL] [website](http://zeromq.org/)
+* **tags**: [cpp](../tagged/cpp.md), [networking](../tagged/networking.md)
+* :octocat: **[source code](https://github.com/zeromq/libzmq)**
+---
+#### [Kubernetes NodePort vs LoadBalancer vs Ingress? When should I use what?](https://medium.com/google-cloud/kubernetes-nodeport-vs-loadbalancer-vs-ingress-when-should-i-use-what-922f010849e0)
+_<sup>https://medium.com/google-cloud/kubernetes-nodeport-vs-loadbalancer-vs-ingress-when-should-i-use-wha...</sup>_
+
+Recently, someone asked me what the difference between NodePorts, LoadBalancers, and Ingress were. They are all different ways to get external traffic into your cluster, and they all do it in differen...
+* :calendar: **published on**: 2018-03-11
+* **tags**: [kubernetes](../tagged/kubernetes.md), [networking](../tagged/networking.md), [load-balancing](../tagged/load-balancing.md)
+---
 #### [A Guide to the Kubernetes Networking Model - Kevin Sookocheff](https://sookocheff.com/post/kubernetes/understanding-kubernetes-networking-model/)
 _<sup>https://sookocheff.com/post/kubernetes/understanding-kubernetes-networking-model/</sup>_
 

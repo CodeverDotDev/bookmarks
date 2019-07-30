@@ -2,6 +2,34 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/books](https://www.bookmarks.dev/tagged/books)</sup></sup>_
 ---
+#### [List of Free C or C++ Books](https://github.com/fffaraz/awesome-cpp/blob/master/books.md)
+_<sup>https://github.com/fffaraz/awesome-cpp/blob/master/books.md</sup>_
+
+A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. - fffaraz/awesome-cpp
+* **tags**: [cpp](../tagged/cpp.md), [books](../tagged/books.md)
+* :octocat: **[source code](https://github.com/fffaraz/awesome-cpp/blob/master/books.md)**
+---
+#### [Free C Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#c)
+_<sup>https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#c</sup>_
+
+vhf/free-programming-books/C.
+* **tags**: [cpp](../tagged/cpp.md), [books](../tagged/books.md)
+* :octocat: **[source code](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#c)**
+---
+#### [Free C++ Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#c-1)
+_<sup>https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#c-1</sup>_
+
+vhf/free-programming-books/C++.
+* **tags**: [cpp](../tagged/cpp.md), [books](../tagged/books.md)
+* :octocat: **[source code](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#c-1)**
+---
+#### [cppbestpractices](https://github.com/lefticus/cppbestpractices)
+_<sup>https://github.com/lefticus/cppbestpractices</sup>_
+
+Collaborative Collection of C++ Best Practices.
+* **tags**: [cpp](../tagged/cpp.md), [books](../tagged/books.md)
+* :octocat: **[source code](https://github.com/lefticus/cppbestpractices)**
+---
 #### [Cloud Native DevOps with Kubernetes](http://shop.oreilly.com/product/0636920175131.do)
 _<sup>http://shop.oreilly.com/product/0636920175131.do</sup>_
 

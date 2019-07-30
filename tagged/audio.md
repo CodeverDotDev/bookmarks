@@ -2,6 +2,104 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/audio](https://www.bookmarks.dev/tagged/audio)</sup></sup>_
 ---
+#### [FMOD](http://www.fmod.org/)
+_<sup>http://www.fmod.org/</sup>_
+
+An easy to use crossplatform audio engine and audio content creation tool for games. [Free for non-commercial/Commercial]
+* **tags**: [cpp](../tagged/cpp.md), [audio](../tagged/audio.md)
+---
+#### [KFR](https://www.kfrlib.com/)
+_<sup>https://www.kfrlib.com/</sup>_
+
+Fast, modern C++ DSP framework, FFT, FIR/IIR filters, Sample Rate Conversion. [GPL/Commercial]
+* **tags**: [cpp](../tagged/cpp.md), [audio](../tagged/audio.md)
+---
+#### [libsndfile](https://github.com/erikd/libsndfile/)
+_<sup>https://github.com/erikd/libsndfile/</sup>_
+
+C library with C++ wrapper for reading and writing files containing sampled sound through one standard library interface. [LGPL-2.1] [website](http://www.mega-nerd.com/libsndfile/)
+* **tags**: [cpp](../tagged/cpp.md), [audio](../tagged/audio.md)
+* :octocat: **[source code](https://github.com/erikd/libsndfile/)**
+---
+#### [Maximilian](https://github.com/micknoise/Maximilian)
+_<sup>https://github.com/micknoise/Maximilian</sup>_
+
+C++ Audio and Music DSP Library. [MIT]
+* **tags**: [cpp](../tagged/cpp.md), [audio](../tagged/audio.md)
+* :octocat: **[source code](https://github.com/micknoise/Maximilian)**
+---
+#### [OpenAL](http://www.openal.org/)
+_<sup>http://www.openal.org/</sup>_
+
+Open Audio Library - A crossplatform audio API. [BSD/LGPL/Commercial]
+* **tags**: [cpp](../tagged/cpp.md), [audio](../tagged/audio.md)
+---
+#### [miniaudio](https://github.com/dr-soft/miniaudio)
+_<sup>https://github.com/dr-soft/miniaudio</sup>_
+
+Single file audio playback and capture library. [Unlicense]
+* **tags**: [cpp](../tagged/cpp.md), [audio](../tagged/audio.md)
+* :octocat: **[source code](https://github.com/dr-soft/miniaudio)**
+---
+#### [Opus](http://opus-codec.org/)
+_<sup>http://opus-codec.org/</sup>_
+
+A totally open, royalty-free, highly versatile audio codec. [BSD]
+* **tags**: [cpp](../tagged/cpp.md), [audio](../tagged/audio.md)
+---
+#### [PortAudio](http://www.portaudio.com/)
+_<sup>http://www.portaudio.com/</sup>_
+
+PortAudio is a free, cross-platform, open-source, audio I/O library. [MIT]
+* **tags**: [cpp](../tagged/cpp.md), [audio](../tagged/audio.md)
+---
+#### [SELA](https://github.com/sahaRatul/sela)
+_<sup>https://github.com/sahaRatul/sela</sup>_
+
+SimplE Lossless Audio. [MIT]
+* **tags**: [cpp](../tagged/cpp.md), [audio](../tagged/audio.md)
+* :octocat: **[source code](https://github.com/sahaRatul/sela)**
+---
+#### [SoLoud](https://github.com/jarikomppa/soloud)
+_<sup>https://github.com/jarikomppa/soloud</sup>_
+
+Easy, portable audio engine for games. [zlib]
+* **tags**: [cpp](../tagged/cpp.md), [audio](../tagged/audio.md)
+* :octocat: **[source code](https://github.com/jarikomppa/soloud)**
+---
+#### [Speex](http://www.speex.org/)
+_<sup>http://www.speex.org/</sup>_
+
+A free codec for free speech. Obsoleted by Opus. [BSD]
+* **tags**: [cpp](../tagged/cpp.md), [audio](../tagged/audio.md)
+---
+#### [Tonic](https://github.com/TonicAudio/Tonic)
+_<sup>https://github.com/TonicAudio/Tonic</sup>_
+
+Easy and efficient audio synthesis in C++. [Unlicense]
+* **tags**: [cpp](../tagged/cpp.md), [audio](../tagged/audio.md)
+* :octocat: **[source code](https://github.com/TonicAudio/Tonic)**
+---
+#### [Vorbis](http://xiph.org/vorbis/)
+_<sup>http://xiph.org/vorbis/</sup>_
+
+Ogg Vorbis is a fully open, non-proprietary, patent-and-royalty-free, general-purpose compressed audio format. [BSD]
+* **tags**: [cpp](../tagged/cpp.md), [audio](../tagged/audio.md)
+---
+#### [minimp3](https://github.com/lieff/minimp3)
+_<sup>https://github.com/lieff/minimp3</sup>_
+
+Public domain, header-only MP3 decoder with clean-room implementation. [CC0]
+* **tags**: [cpp](../tagged/cpp.md), [audio](../tagged/audio.md)
+* :octocat: **[source code](https://github.com/lieff/minimp3)**
+---
+#### [Wav2Letter++](https://github.com/facebookresearch/wav2letter/)
+_<sup>https://github.com/facebookresearch/wav2letter/</sup>_
+
+Public domain, a fast open source speech processing toolkit written entirely in C++ and uses the ArrayFire tensor library and the flashlight machine learning library for maximum efficiency [BSD]
+* **tags**: [cpp](../tagged/cpp.md), [audio](../tagged/audio.md)
+* :octocat: **[source code](https://github.com/facebookresearch/wav2letter/)**
+---
 #### [indiscipline/zrtstr](https://github.com/indiscipline/zrtstr)
 _<sup>https://github.com/indiscipline/zrtstr</sup>_
 

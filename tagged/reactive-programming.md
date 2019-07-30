@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/reactive-programming](https://www.bookmarks.dev/tagged/reactive-programming)</sup></sup>_
 ---
+#### [Rich Harris - Rethinking reactivity - YouTube](https://www.youtube.com/watch?v=AdNJ3fydeao)
+_<sup>https://www.youtube.com/watch?v=AdNJ3fydeao</sup>_
+
+Modern JavaScript frameworks are all about reactivity. Change your application's state, and the view updates automatically. But there's a catch — tracking state changes at runtime adds overhead that e...
+* :calendar: **published on**: 2019-04-22
+* **tags**: [reactive-programming](../tagged/reactive-programming.md), [javascript](../tagged/javascript.md), [frameworks](../tagged/frameworks.md)
+---
 #### [MobX Home Page](https://mobx.js.org/)
 _<sup>https://mobx.js.org/</sup>_
 

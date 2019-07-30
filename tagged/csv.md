@@ -2,6 +2,27 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/csv](https://www.bookmarks.dev/tagged/csv)</sup></sup>_
 ---
+#### [csv](https://github.com/p-ranav/csv)
+_<sup>https://github.com/p-ranav/csv</sup>_
+
+CSV for modern C++. [MIT]
+* **tags**: [cpp](../tagged/cpp.md), [csv](../tagged/csv.md)
+* :octocat: **[source code](https://github.com/p-ranav/csv)**
+---
+#### [Fast C++ CSV Parser](https://github.com/ben-strasser/fast-cpp-csv-parser)
+_<sup>https://github.com/ben-strasser/fast-cpp-csv-parser</sup>_
+
+Small, easy-to-use and fast header-only library for reading CSV files. [BSD-3-Clause]
+* **tags**: [cpp](../tagged/cpp.md), [csv](../tagged/csv.md)
+* :octocat: **[source code](https://github.com/ben-strasser/fast-cpp-csv-parser)**
+---
+#### [Vince's CSV Parser](https://github.com/vincentlaucsb/csv-parser)
+_<sup>https://github.com/vincentlaucsb/csv-parser</sup>_
+
+A fast, self-contained, streaming C++17 CSV parser with optional type-casting and statistics. [MIT]
+* **tags**: [cpp](../tagged/cpp.md), [csv](../tagged/csv.md)
+* :octocat: **[source code](https://github.com/vincentlaucsb/csv-parser)**
+---
 #### [csvkit](https://github.com/wireservice/csvkit)
 _<sup>https://github.com/wireservice/csvkit</sup>_
 

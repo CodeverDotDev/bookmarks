@@ -2,6 +2,69 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/serialization](https://www.bookmarks.dev/tagged/serialization)</sup></sup>_
 ---
+#### [Bond](https://github.com/Microsoft/bond)
+_<sup>https://github.com/Microsoft/bond</sup>_
+
+An open source, cross-platform framework for working with schematized data. [MIT]
+* **tags**: [cpp](../tagged/cpp.md), [serialization](../tagged/serialization.md)
+* :octocat: **[source code](https://github.com/Microsoft/bond)**
+---
+#### [cereal](https://github.com/USCiLab/cereal)
+_<sup>https://github.com/USCiLab/cereal</sup>_
+
+A C++11 library for serialization. [BSD]
+* **tags**: [cpp](../tagged/cpp.md), [serialization](../tagged/serialization.md)
+* :octocat: **[source code](https://github.com/USCiLab/cereal)**
+---
+#### [cppcodec](https://github.com/tplgy/cppcodec)
+_<sup>https://github.com/tplgy/cppcodec</sup>_
+
+Header-only C++11 library to encode/decode base64, base32 and hex with consistent, flexible API. [MIT]
+* **tags**: [cpp](../tagged/cpp.md), [serialization](../tagged/serialization.md)
+* :octocat: **[source code](https://github.com/tplgy/cppcodec)**
+---
+#### [MessagePack](https://github.com/msgpack/msgpack-c)
+_<sup>https://github.com/msgpack/msgpack-c</sup>_
+
+Efficient binary serialization format "like JSON" for C and C++. [Apache2] [website](http://msgpack.org/)
+* **tags**: [cpp](../tagged/cpp.md), [serialization](../tagged/serialization.md)
+* :octocat: **[source code](https://github.com/msgpack/msgpack-c)**
+---
+#### [nanopb](https://github.com/nanopb/nanopb)
+_<sup>https://github.com/nanopb/nanopb</sup>_
+
+Small code-size Protocol Buffers implementation in ANSI C. [Zlib]
+* **tags**: [cpp](../tagged/cpp.md), [serialization](../tagged/serialization.md)
+* :octocat: **[source code](https://github.com/nanopb/nanopb)**
+---
+#### [protobuf](https://github.com/protocolbuffers/protobuf)
+_<sup>https://github.com/protocolbuffers/protobuf</sup>_
+
+Protocol Buffers - Google's data interchange format. [BSD]
+* **tags**: [cpp](../tagged/cpp.md), [serialization](../tagged/serialization.md)
+* :octocat: **[source code](https://github.com/protocolbuffers/protobuf)**
+---
+#### [protobuf-c](https://github.com/protobuf-c/protobuf-c)
+_<sup>https://github.com/protobuf-c/protobuf-c</sup>_
+
+Protocol Buffers implementation in C. [BSD]
+* **tags**: [cpp](../tagged/cpp.md), [serialization](../tagged/serialization.md)
+* :octocat: **[source code](https://github.com/protobuf-c/protobuf-c)**
+---
+#### [upb](https://github.com/protocolbuffers/upb)
+_<sup>https://github.com/protocolbuffers/upb</sup>_
+
+A small protobuf implementation in C. [BSD]
+* **tags**: [cpp](../tagged/cpp.md), [serialization](../tagged/serialization.md)
+* :octocat: **[source code](https://github.com/protocolbuffers/upb)**
+---
+#### [YAS](https://github.com/niXman/yas)
+_<sup>https://github.com/niXman/yas</sup>_
+
+Very fast **Y**et **A**nother **S**erialization library supports the binary/text/json formats. [Boost]
+* **tags**: [cpp](../tagged/cpp.md), [serialization](../tagged/serialization.md)
+* :octocat: **[source code](https://github.com/niXman/yas)**
+---
 #### [asn1](https://github.com/PromonLogicalis/asn1)
 _<sup>https://github.com/PromonLogicalis/asn1</sup>_
 

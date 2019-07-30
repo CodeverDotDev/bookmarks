@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/keycloak](https://www.bookmarks.dev/tagged/keycloak)</sup></sup>_
 ---
+#### [GitHub - dasniko/keycloak-reactjs-demo](https://github.com/dasniko/keycloak-reactjs-demo)
+_<sup>https://github.com/dasniko/keycloak-reactjs-demo</sup>_
+
+Demo for React.js and Keycloak SSO integration. Contribute to dasniko/keycloak-reactjs-demo development by creating an account on GitHub.
+* **tags**: [reactjs](../tagged/reactjs.md), [keycloak](../tagged/keycloak.md)
+* :octocat: **[source code](https://github.com/dasniko/keycloak-reactjs-demo)**
+---
 #### [Keycloak SSO on Multiple React Apps](https://medium.com/@gmonne/keycloak-sso-1813a2072d64)
 _<sup>https://medium.com/@gmonne/keycloak-sso-1813a2072d64</sup>_
 

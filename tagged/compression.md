@@ -2,6 +2,130 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/compression](https://www.bookmarks.dev/tagged/compression)</sup></sup>_
 ---
+#### [Brotli](https://github.com/google/brotli)
+_<sup>https://github.com/google/brotli</sup>_
+
+Brotli compression format. Developed by Google. [MIT]
+* **tags**: [cpp](../tagged/cpp.md), [compression](../tagged/compression.md)
+* :octocat: **[source code](https://github.com/google/brotli)**
+---
+#### [bzip2](http://www.bzip.org/)
+_<sup>http://www.bzip.org/</sup>_
+
+A freely available, patent free, high-quality data compressor. [BSD]
+* **tags**: [cpp](../tagged/cpp.md), [compression](../tagged/compression.md)
+---
+#### [FiniteStateEntropy](https://github.com/Cyan4973/FiniteStateEntropy)
+_<sup>https://github.com/Cyan4973/FiniteStateEntropy</sup>_
+
+New generation entropy codecs : Finite State Entropy and Huff0.
+* **tags**: [cpp](../tagged/cpp.md), [compression](../tagged/compression.md)
+* :octocat: **[source code](https://github.com/Cyan4973/FiniteStateEntropy)**
+---
+#### [PhysicsFS](https://icculus.org/physfs/)
+_<sup>https://icculus.org/physfs/</sup>_
+
+A library to provide abstract access to various archives. It is intended for use in video games, and the design was somewhat inspired by Quake 3's file subsystem. [zlib]
+* **tags**: [cpp](../tagged/cpp.md), [compression](../tagged/compression.md)
+---
+#### [KArchive](https://quickgit.kde.org/?p=karchive.git)
+_<sup>https://quickgit.kde.org/?p=karchive.git</sup>_
+
+A library for creating, reading, writing and manipulating file archives like zip and tar. It also provides transparent compression and decompression of data, using formats like gzip, via a subclass of...
+* **tags**: [cpp](../tagged/cpp.md), [compression](../tagged/compression.md)
+---
+#### [libarchive](https://github.com/libarchive/libarchive)
+_<sup>https://github.com/libarchive/libarchive</sup>_
+
+Multi-format archive and compression library. [New BSD] [website](http://www.libarchive.org/)
+* **tags**: [cpp](../tagged/cpp.md), [compression](../tagged/compression.md)
+* :octocat: **[source code](https://github.com/libarchive/libarchive)**
+---
+#### [LZ4](https://github.com/lz4/lz4)
+_<sup>https://github.com/lz4/lz4</sup>_
+
+Extremely Fast Compression algorithm. [BSD] [website](http://www.lz4.org/)
+* **tags**: [cpp](../tagged/cpp.md), [compression](../tagged/compression.md)
+* :octocat: **[source code](https://github.com/lz4/lz4)**
+---
+#### [LZFSE](https://github.com/lzfse/lzfse)
+_<sup>https://github.com/lzfse/lzfse</sup>_
+
+LZFSE compression library and command line tool. Developed by Apple.
+* **tags**: [cpp](../tagged/cpp.md), [compression](../tagged/compression.md)
+* :octocat: **[source code](https://github.com/lzfse/lzfse)**
+---
+#### [LZHAM](https://code.google.com/p/lzham/)
+_<sup>https://code.google.com/p/lzham/</sup>_
+
+Lossless data compression library with a compression ratio similar to LZMA but with much faster decompression. [BSD]
+* **tags**: [cpp](../tagged/cpp.md), [compression](../tagged/compression.md)
+---
+#### [LZMA](http://www.7-zip.org/sdk.html)
+_<sup>http://www.7-zip.org/sdk.html</sup>_
+
+The default and general compression method of 7z format. [PublicDomain]
+* **tags**: [cpp](../tagged/cpp.md), [compression](../tagged/compression.md)
+---
+#### [LZMAT](http://www.matcode.com/lzmat.htm)
+_<sup>http://www.matcode.com/lzmat.htm</sup>_
+
+An extremely fast real-time lossless data compression library. [GPL]
+* **tags**: [cpp](../tagged/cpp.md), [compression](../tagged/compression.md)
+---
+#### [miniz](https://github.com/richgel999/miniz)
+_<sup>https://github.com/richgel999/miniz</sup>_
+
+Single C source file Deflate/Inflate compression library with zlib-compatible API, ZIP archive reading/writing, PNG writing. [MIT]
+* **tags**: [cpp](../tagged/cpp.md), [compression](../tagged/compression.md)
+* :octocat: **[source code](https://github.com/richgel999/miniz)**
+---
+#### [Minizip](https://github.com/nmoinvaz/minizip)
+_<sup>https://github.com/nmoinvaz/minizip</sup>_
+
+Zlib with latest bug fixes that supports PKWARE disk spanning, AES encryption, and IO buffering. [zlib]
+* **tags**: [cpp](../tagged/cpp.md), [compression](../tagged/compression.md)
+* :octocat: **[source code](https://github.com/nmoinvaz/minizip)**
+---
+#### [smaz](https://github.com/antirez/smaz)
+_<sup>https://github.com/antirez/smaz</sup>_
+
+Small strings compression library. [BSD]
+* **tags**: [cpp](../tagged/cpp.md), [compression](../tagged/compression.md)
+* :octocat: **[source code](https://github.com/antirez/smaz)**
+---
+#### [Snappy](https://google.github.io/snappy/)
+_<sup>https://google.github.io/snappy/</sup>_
+
+A fast compressor/decompressor. [BSD]
+* **tags**: [cpp](../tagged/cpp.md), [compression](../tagged/compression.md)
+---
+#### [ZLib](http://zlib.net/)
+_<sup>http://zlib.net/</sup>_
+
+A very compact compression library for data streams. [zlib]
+* **tags**: [cpp](../tagged/cpp.md), [compression](../tagged/compression.md)
+---
+#### [zlib-ng](https://github.com/Dead2/zlib-ng)
+_<sup>https://github.com/Dead2/zlib-ng</sup>_
+
+zlib for the "next generation" systems. Drop-In replacement with some serious optimizations. [zlib]
+* **tags**: [cpp](../tagged/cpp.md), [compression](../tagged/compression.md)
+* :octocat: **[source code](https://github.com/Dead2/zlib-ng)**
+---
+#### [zstd](https://github.com/facebook/zstd)
+_<sup>https://github.com/facebook/zstd</sup>_
+
+Zstandard - Fast real-time compression algorithm. Developed by Facebook. [BSD]
+* **tags**: [cpp](../tagged/cpp.md), [compression](../tagged/compression.md)
+* :octocat: **[source code](https://github.com/facebook/zstd)**
+---
+#### [ZZIPlib](http://zziplib.sourceforge.net/)
+_<sup>http://zziplib.sourceforge.net/</sup>_
+
+Provides read access on ZIP-archives. [MPL/LGPL]
+* **tags**: [cpp](../tagged/cpp.md), [compression](../tagged/compression.md)
+---
 #### [Brotli](https://opensource.googleblog.com/2015/09/introducing-brotli-new-compression.html)
 _<sup>https://opensource.googleblog.com/2015/09/introducing-brotli-new-compression.html</sup>_
 

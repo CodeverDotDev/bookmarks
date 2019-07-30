@@ -2,6 +2,114 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/cli](https://www.bookmarks.dev/tagged/cli)</sup></sup>_
 ---
+#### [Argh!](https://github.com/adishavit/argh)
+_<sup>https://github.com/adishavit/argh</sup>_
+
+A minimalist, frustration-free, header-only argument handler. [BSD]
+* **tags**: [cpp](../tagged/cpp.md), [cli](../tagged/cli.md)
+* :octocat: **[source code](https://github.com/adishavit/argh)**
+---
+#### [Taywee/args](https://github.com/taywee/args)
+_<sup>https://github.com/taywee/args</sup>_
+
+A simple header-only C++ argument parser library. [MIT]
+* **tags**: [cpp](../tagged/cpp.md), [cli](../tagged/cli.md)
+* :octocat: **[source code](https://github.com/taywee/args)**
+---
+#### [Boost.Program_options](http://www.boost.org/doc/libs/1_57_0/doc/html/program_options.html)
+_<sup>http://www.boost.org/doc/libs/1_57_0/doc/html/program_options.html</sup>_
+
+A library to obtain program options via conventional methods such as command line and config file. [Boost]
+* **tags**: [cpp](../tagged/cpp.md), [cli](../tagged/cli.md)
+---
+#### [Clara](https://github.com/catchorg/Clara)
+_<sup>https://github.com/catchorg/Clara</sup>_
+
+A simple to use, composable, command line parser for C++ 11 and beyond. [BSL-1.0]
+* **tags**: [cpp](../tagged/cpp.md), [cli](../tagged/cli.md)
+* :octocat: **[source code](https://github.com/catchorg/Clara)**
+---
+#### [cli](https://github.com/daniele77/cli)
+_<sup>https://github.com/daniele77/cli</sup>_
+
+A cross-platform header only C++14 library for interactive command line interfaces (Cisco style). [Boost]
+* **tags**: [cpp](../tagged/cpp.md), [cli](../tagged/cli.md)
+* :octocat: **[source code](https://github.com/daniele77/cli)**
+---
+#### [CLI11](https://github.com/CLIUtils/CLI11)
+_<sup>https://github.com/CLIUtils/CLI11</sup>_
+
+Header only single or multi-file C++11 library for simple and advanced CLI parsing. [BSD]
+* **tags**: [cpp](../tagged/cpp.md), [cli](../tagged/cli.md)
+* :octocat: **[source code](https://github.com/CLIUtils/CLI11)**
+---
+#### [jarro2783/cxxopts](https://github.com/jarro2783/cxxopts)
+_<sup>https://github.com/jarro2783/cxxopts</sup>_
+
+Lightweight C++ command line option parser. [MIT]
+* **tags**: [cpp](../tagged/cpp.md), [cli](../tagged/cli.md)
+* :octocat: **[source code](https://github.com/jarro2783/cxxopts)**
+---
+#### [docopt.cpp](https://github.com/docopt/docopt.cpp)
+_<sup>https://github.com/docopt/docopt.cpp</sup>_
+
+A library to generate option parser from docstring. [MIT/Boost]
+* **tags**: [cpp](../tagged/cpp.md), [cli](../tagged/cli.md)
+* :octocat: **[source code](https://github.com/docopt/docopt.cpp)**
+---
+#### [gflags](https://gflags.github.io/gflags/)
+_<sup>https://gflags.github.io/gflags/</sup>_
+
+Commandline flags module for C++. [BSD]
+* **tags**: [cpp](../tagged/cpp.md), [cli](../tagged/cli.md)
+---
+#### [linenoise](https://github.com/antirez/linenoise)
+_<sup>https://github.com/antirez/linenoise</sup>_
+
+A small self-contained alternative to readline and libedit. [BSD-2-Clause]
+* **tags**: [cpp](../tagged/cpp.md), [cli](../tagged/cli.md)
+* :octocat: **[source code](https://github.com/antirez/linenoise)**
+---
+#### [linenoise-ng](https://github.com/arangodb/linenoise-ng)
+_<sup>https://github.com/arangodb/linenoise-ng</sup>_
+
+A small, portable GNU readline replacement for Linux, Windows and MacOS which is capable of handling UTF-8 characters. [BSD]
+* **tags**: [cpp](../tagged/cpp.md), [cli](../tagged/cli.md)
+* :octocat: **[source code](https://github.com/arangodb/linenoise-ng)**
+---
+#### [Ncurses](http://invisible-island.net/ncurses/)
+_<sup>http://invisible-island.net/ncurses/</sup>_
+
+A terminal user interfaces. [MIT]
+* **tags**: [cpp](../tagged/cpp.md), [cli](../tagged/cli.md)
+---
+#### [PDCurses](https://github.com/wmcbrine/PDCurses)
+_<sup>https://github.com/wmcbrine/PDCurses</sup>_
+
+Public domain curses library with both source code and pre-compiled library available. [PublicDomain]
+* **tags**: [cpp](../tagged/cpp.md), [cli](../tagged/cli.md)
+* :octocat: **[source code](https://github.com/wmcbrine/PDCurses)**
+---
+#### [replxx](https://github.com/AmokHuginnsson/replxx)
+_<sup>https://github.com/AmokHuginnsson/replxx</sup>_
+
+A readline and libedit replacement that supports UTF-8, syntax highlighting, hints, works on Unix and Windows. [BSD]
+* **tags**: [cpp](../tagged/cpp.md), [cli](../tagged/cli.md)
+* :octocat: **[source code](https://github.com/AmokHuginnsson/replxx)**
+---
+#### [TCLAP](http://tclap.sourceforge.net)
+_<sup>http://tclap.sourceforge.net</sup>_
+
+A mature, stable and feature-rich library for defining and accessing command line arguments in ANSI C++. [MIT]
+* **tags**: [cpp](../tagged/cpp.md), [cli](../tagged/cli.md)
+---
+#### [termbox](https://github.com/nsf/termbox)
+_<sup>https://github.com/nsf/termbox</sup>_
+
+A C library for writing text-based user interfaces. [MIT]
+* **tags**: [cpp](../tagged/cpp.md), [cli](../tagged/cli.md)
+* :octocat: **[source code](https://github.com/nsf/termbox)**
+---
 #### [Awesome Print](https://github.com/awesome-print/awesome_print)
 _<sup>https://github.com/awesome-print/awesome_print</sup>_
 

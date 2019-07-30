@@ -2,6 +2,112 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/gui](https://www.bookmarks.dev/tagged/gui)</sup></sup>_
 ---
+#### [Boden](https://github.com/AshampooSystems/boden)
+_<sup>https://github.com/AshampooSystems/boden</sup>_
+
+Native, mobile, cross-platform GUI Framework. [GPL/LGPL/Commercial] [website](https://www.boden.io)
+* **tags**: [cpp](../tagged/cpp.md), [gui](../tagged/gui.md)
+* :octocat: **[source code](https://github.com/AshampooSystems/boden)**
+---
+#### [CEGUI](http://cegui.org.uk/)
+_<sup>http://cegui.org.uk/</sup>_
+
+Flexible, cross-platform GUI library.
+* **tags**: [cpp](../tagged/cpp.md), [gui](../tagged/gui.md)
+---
+#### [FLTK](http://www.fltk.org/index.php)
+_<sup>http://www.fltk.org/index.php</sup>_
+
+Fast, light, cross-platform C++ GUI toolkit. [GPL2]
+* **tags**: [cpp](../tagged/cpp.md), [gui](../tagged/gui.md)
+---
+#### [GacUI](https://github.com/vczh-libraries/GacUI)
+_<sup>https://github.com/vczh-libraries/GacUI</sup>_
+
+GPU Accelerated C++ User Interface, with WYSIWYG developing tools, XML supports, built-in data binding and MVVM features. [Ms-PL]
+* **tags**: [cpp](../tagged/cpp.md), [gui](../tagged/gui.md)
+* :octocat: **[source code](https://github.com/vczh-libraries/GacUI)**
+---
+#### [GTK+](http://www.gtk.org/)
+_<sup>http://www.gtk.org/</sup>_
+
+A multi-platform toolkit for creating graphical user interfaces. [LGPL]
+* **tags**: [cpp](../tagged/cpp.md), [gui](../tagged/gui.md)
+---
+#### [gtkmm](http://www.gtkmm.org/en/)
+_<sup>http://www.gtkmm.org/en/</sup>_
+
+The official C++ interface for the popular GUI library GTK+. [LGPL]
+* **tags**: [cpp](../tagged/cpp.md), [gui](../tagged/gui.md)
+---
+#### [iup](https://www.tecgraf.puc-rio.br/iup)
+_<sup>https://www.tecgraf.puc-rio.br/iup</sup>_
+
+Multi-platform toolkit for building graphical user interfaces. [MIT]
+* **tags**: [cpp](../tagged/cpp.md), [gui](../tagged/gui.md)
+---
+#### [libRocket](http://librocket.com/)
+_<sup>http://librocket.com/</sup>_
+
+libRocket is a C++ HTML/CSS game interface middleware. [MIT]
+* **tags**: [cpp](../tagged/cpp.md), [gui](../tagged/gui.md)
+---
+#### [MyGUI](http://mygui.info/)
+_<sup>http://mygui.info/</sup>_
+
+Fast, flexible and simple GUI. [MIT]
+* **tags**: [cpp](../tagged/cpp.md), [gui](../tagged/gui.md)
+---
+#### [nana](http://nanapro.org/en-us/)
+_<sup>http://nanapro.org/en-us/</sup>_
+
+Nana is a cross-platform library for GUI programming in modern C++ style. [Boost]
+* **tags**: [cpp](../tagged/cpp.md), [gui](../tagged/gui.md)
+---
+#### [NanoGui](https://github.com/wjakob/nanogui)
+_<sup>https://github.com/wjakob/nanogui</sup>_
+
+A minimalistic cross-platform widget library for OpenGL 3.x or higher. [BSD]
+* **tags**: [cpp](../tagged/cpp.md), [gui](../tagged/gui.md)
+* :octocat: **[source code](https://github.com/wjakob/nanogui)**
+---
+#### [QCustomPlot](http://qcustomplot.com/)
+_<sup>http://qcustomplot.com/</sup>_
+
+Qt plotting widget without further dependencies. [GPLv3]
+* **tags**: [cpp](../tagged/cpp.md), [gui](../tagged/gui.md)
+---
+#### [Qwt](http://qwt.sourceforge.net/)
+_<sup>http://qwt.sourceforge.net/</sup>_
+
+Qt Widgets for Technical Applications. [Own based on LGPL]
+* **tags**: [cpp](../tagged/cpp.md), [gui](../tagged/gui.md)
+---
+#### [QwtPlot3D](http://qwtplot3d.sourceforge.net/)
+_<sup>http://qwtplot3d.sourceforge.net/</sup>_
+
+A feature-rich Qt/OpenGL-based C++ programming library, providing essentially a bunch of 3D-widgets. [zlib]
+* **tags**: [cpp](../tagged/cpp.md), [gui](../tagged/gui.md)
+---
+#### [Sciter](http://sciter.com/)
+_<sup>http://sciter.com/</sup>_
+
+Sciter is an embeddable HTML/CSS/scripting engine aimed to be used as an UI layer of modern desktop applications. [Free/Commercial]
+* **tags**: [cpp](../tagged/cpp.md), [gui](../tagged/gui.md)
+---
+#### [wxWidgets](http://wxwidgets.org/)
+_<sup>http://wxwidgets.org/</sup>_
+
+A C++ library that lets developers create applications for Windows, Mac OS X, Linux and other platforms with a single code base. [Own LGPL]
+* **tags**: [cpp](../tagged/cpp.md), [gui](../tagged/gui.md)
+---
+#### [Yue](https://github.com/yue/yue)
+_<sup>https://github.com/yue/yue</sup>_
+
+A library for creating native cross-platform GUI apps. [LGPLv2]
+* **tags**: [cpp](../tagged/cpp.md), [gui](../tagged/gui.md)
+* :octocat: **[source code](https://github.com/yue/yue)**
+---
 #### [autopilot-rs/autopilot-rs](https://github.com/autopilot-rs/autopilot-rs)
 _<sup>https://github.com/autopilot-rs/autopilot-rs</sup>_
 

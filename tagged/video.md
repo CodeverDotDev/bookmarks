@@ -2,6 +2,45 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/video](https://www.bookmarks.dev/tagged/video)</sup></sup>_
 ---
+#### [libvpx](http://www.webmproject.org/code/)
+_<sup>http://www.webmproject.org/code/</sup>_
+
+VP8/VP9 Codec SDK. [BSD]
+* **tags**: [cpp](../tagged/cpp.md), [video](../tagged/video.md)
+---
+#### [libde265](https://github.com/strukturag/libde265)
+_<sup>https://github.com/strukturag/libde265</sup>_
+
+Open h.265 video codec implementation. [LGPL] [website](http://www.libde265.org/)
+* **tags**: [cpp](../tagged/cpp.md), [video](../tagged/video.md)
+* :octocat: **[source code](https://github.com/strukturag/libde265)**
+---
+#### [x265](https://bitbucket.org/multicoreware/x265/wiki/Home)
+_<sup>https://bitbucket.org/multicoreware/x265/wiki/Home</sup>_
+
+Open h.265 video codec implementation. [GPL2] [website](https://x265.readthedocs.io/en/default/)
+* **tags**: [cpp](../tagged/cpp.md), [video](../tagged/video.md)
+---
+#### [OpenH264](https://github.com/cisco/openh264)
+_<sup>https://github.com/cisco/openh264</sup>_
+
+Open Source H.264 Codec. [BSD] [website](http://www.openh264.org/)
+* **tags**: [cpp](../tagged/cpp.md), [video](../tagged/video.md)
+* :octocat: **[source code](https://github.com/cisco/openh264)**
+---
+#### [Theora](http://www.theora.org/)
+_<sup>http://www.theora.org/</sup>_
+
+A free and open video compression format. [BSD]
+* **tags**: [cpp](../tagged/cpp.md), [video](../tagged/video.md)
+---
+#### [Vireo](https://github.com/twitter/vireo/)
+_<sup>https://github.com/twitter/vireo/</sup>_
+
+A lightweight and versatile video processing library by Twitter. [MIT]
+* **tags**: [cpp](../tagged/cpp.md), [video](../tagged/video.md)
+* :octocat: **[source code](https://github.com/twitter/vireo/)**
+---
 #### [Trying React Hooks for the first time with Dan Abramov](https://www.youtube.com/watch?v=G-aO5hzo1aw)
 _<sup>https://www.youtube.com/watch?v=G-aO5hzo1aw</sup>_
 

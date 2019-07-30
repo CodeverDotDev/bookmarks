@@ -2,6 +2,20 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/reactjs](https://www.bookmarks.dev/tagged/reactjs)</sup></sup>_
 ---
+#### [GitHub - erikras/react-redux-universal-hot-example](https://github.com/erikras/react-redux-universal-hot-example)
+_<sup>https://github.com/erikras/react-redux-universal-hot-example</sup>_
+
+A starter boilerplate for a universal webapp using express, react, redux, webpack, and react-transform - erikras/react-redux-universal-hot-example
+* **tags**: [reactjs](../tagged/reactjs.md), [webpack](../tagged/webpack.md), [redux](../tagged/redux.md), [expressjs](../tagged/expressjs.md)
+* :octocat: **[source code](https://github.com/erikras/react-redux-universal-hot-example)**
+---
+#### [GitHub - dasniko/keycloak-reactjs-demo](https://github.com/dasniko/keycloak-reactjs-demo)
+_<sup>https://github.com/dasniko/keycloak-reactjs-demo</sup>_
+
+Demo for React.js and Keycloak SSO integration. Contribute to dasniko/keycloak-reactjs-demo development by creating an account on GitHub.
+* **tags**: [reactjs](../tagged/reactjs.md), [keycloak](../tagged/keycloak.md)
+* :octocat: **[source code](https://github.com/dasniko/keycloak-reactjs-demo)**
+---
 #### [React Documentation](https://reactjs.org/docs)
 _<sup>https://reactjs.org/docs</sup>_
 

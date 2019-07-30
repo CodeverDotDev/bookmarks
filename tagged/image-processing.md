@@ -2,6 +2,149 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/image-processing](https://www.bookmarks.dev/tagged/image-processing)</sup></sup>_
 ---
+#### [Boost.GIL](http://www.boost.org/doc/libs/1_56_0/libs/gil/doc/index.html)
+_<sup>http://www.boost.org/doc/libs/1_56_0/libs/gil/doc/index.html</sup>_
+
+Generic Image Library.
+* **tags**: [cpp](../tagged/cpp.md), [image-processing](../tagged/image-processing.md)
+---
+#### [CImg](http://cimg.eu/)
+_<sup>http://cimg.eu/</sup>_
+
+A small, open source, C++ toolkit for image processing. [Own LGPL or GPL]
+* **tags**: [cpp](../tagged/cpp.md), [image-processing](../tagged/image-processing.md)
+---
+#### [CxImage](https://www.codeproject.com/Articles/1300/CxImage)
+_<sup>https://www.codeproject.com/Articles/1300/CxImage</sup>_
+
+An image processing and conversion library to load, save, display, transform BMP, JPEG, GIF, PNG, TIFF, MNG, ICO, PCX, TGA, WMF, WBMP, JBG, J2K images. [zlib]
+* **tags**: [cpp](../tagged/cpp.md), [image-processing](../tagged/image-processing.md)
+---
+#### [FreeImage](http://freeimage.sourceforge.net/)
+_<sup>http://freeimage.sourceforge.net/</sup>_
+
+An open source library that supports popular graphics image formats and others as needed by today's multimedia applications. [GPL2 or GPL3]
+* **tags**: [cpp](../tagged/cpp.md), [image-processing](../tagged/image-processing.md)
+---
+#### [GD](https://github.com/libgd/libgd)
+_<sup>https://github.com/libgd/libgd</sup>_
+
+GD Graphics Library, famously used in PHP for image loading/manipulation & thumbnail generation. [custom permissive license, requires mention in user docs] [website](http://libgd.github.io/)
+* **tags**: [cpp](../tagged/cpp.md), [image-processing](../tagged/image-processing.md)
+* :octocat: **[source code](https://github.com/libgd/libgd)**
+---
+#### [DCMTK](http://dicom.offis.de/dcmtk.php.en)
+_<sup>http://dicom.offis.de/dcmtk.php.en</sup>_
+
+DICOM Toolkit.
+* **tags**: [cpp](../tagged/cpp.md), [image-processing](../tagged/image-processing.md)
+---
+#### [GDCM](http://gdcm.sourceforge.net/wiki/index.php/Main_Page)
+_<sup>http://gdcm.sourceforge.net/wiki/index.php/Main_Page</sup>_
+
+Grassroots DICOM library.
+* **tags**: [cpp](../tagged/cpp.md), [image-processing](../tagged/image-processing.md)
+---
+#### [ITK](http://www.itk.org/)
+_<sup>http://www.itk.org/</sup>_
+
+An open-source, cross-platform system for image analysis. [Apache2 from ITK 4.0]
+* **tags**: [cpp](../tagged/cpp.md), [image-processing](../tagged/image-processing.md)
+---
+#### [libfacedetection](https://github.com/ShiqiYu/libfacedetection)
+_<sup>https://github.com/ShiqiYu/libfacedetection</sup>_
+
+Open source library for face detection in images. The face detection speed can reach 1500FPS. [BSD]
+* **tags**: [cpp](../tagged/cpp.md), [image-processing](../tagged/image-processing.md)
+* :octocat: **[source code](https://github.com/ShiqiYu/libfacedetection)**
+---
+#### [libjpeg-turbo](https://github.com/libjpeg-turbo/libjpeg-turbo)
+_<sup>https://github.com/libjpeg-turbo/libjpeg-turbo</sup>_
+
+A JPEG image codec that uses SIMD instructions to accelerate baseline JPEG encoding and decoding. [IJG & BSD-3-Clause & zlib] [website](https://libjpeg-turbo.org/)
+* **tags**: [cpp](../tagged/cpp.md), [image-processing](../tagged/image-processing.md)
+* :octocat: **[source code](https://github.com/libjpeg-turbo/libjpeg-turbo)**
+---
+#### [libvips](https://github.com/jcupitt/libvips)
+_<sup>https://github.com/jcupitt/libvips</sup>_
+
+A fast image processing library with low memory needs. [LGPL] [website](http://www.vips.ecs.soton.ac.uk/)
+* **tags**: [cpp](../tagged/cpp.md), [image-processing](../tagged/image-processing.md)
+* :octocat: **[source code](https://github.com/jcupitt/libvips)**
+---
+#### [MagickWnd](http://www.imagemagick.org/script/api.php)
+_<sup>http://www.imagemagick.org/script/api.php</sup>_
+
+ImageMagick program interfaces for C. [Apache2]
+* **tags**: [cpp](../tagged/cpp.md), [image-processing](../tagged/image-processing.md)
+---
+#### [OpenCV](http://opencv.org/)
+_<sup>http://opencv.org/</sup>_
+
+Open source computer vision. [BSD]
+* **tags**: [cpp](../tagged/cpp.md), [image-processing](../tagged/image-processing.md)
+---
+#### [OpenEXR](http://www.openexr.com/)
+_<sup>http://www.openexr.com/</sup>_
+
+Cross-platform library for high dynamic range imaging. [Modified BSDF]
+* **tags**: [cpp](../tagged/cpp.md), [image-processing](../tagged/image-processing.md)
+---
+#### [OpenImageIO](https://github.com/OpenImageIO/oiio)
+_<sup>https://github.com/OpenImageIO/oiio</sup>_
+
+Powerful image and texture wrangling library with support for a wide number of common lossy and RAW formats. [Modified BSD]
+* **tags**: [cpp](../tagged/cpp.md), [image-processing](../tagged/image-processing.md)
+* :octocat: **[source code](https://github.com/OpenImageIO/oiio)**
+---
+#### [Simd](https://github.com/ermig1979/Simd)
+_<sup>https://github.com/ermig1979/Simd</sup>_
+
+C++ image processing library with using of SIMD: SSE, SSE2, SSE3, SSSE3, SSE4.1, SSE4.2, AVX, AVX2, AVX-512, VMX(Altivec) and VSX(Power7), NEON for ARM. [MIT]
+* **tags**: [cpp](../tagged/cpp.md), [image-processing](../tagged/image-processing.md)
+* :octocat: **[source code](https://github.com/ermig1979/Simd)**
+---
+#### [stb-image](https://github.com/nothings/stb/blob/master/stb_image.h)
+_<sup>https://github.com/nothings/stb/blob/master/stb_image.h</sup>_
+
+STB single-header image loading library. [Public Domain]
+* **tags**: [cpp](../tagged/cpp.md), [image-processing](../tagged/image-processing.md)
+* :octocat: **[source code](https://github.com/nothings/stb/blob/master/stb_image.h)**
+---
+#### [tesseract-ocr](https://github.com/tesseract-ocr)
+_<sup>https://github.com/tesseract-ocr</sup>_
+
+An OCR engine. [Apache2]
+* **tags**: [cpp](../tagged/cpp.md), [image-processing](../tagged/image-processing.md)
+* :octocat: **[source code](https://github.com/tesseract-ocr)**
+---
+#### [TinyEXIF](https://github.com/cdcseacave/TinyEXIF)
+_<sup>https://github.com/cdcseacave/TinyEXIF</sup>_
+
+Tiny ISO-compliant C++ EXIF and XMP parsing library for JPEG. [MIT]
+* **tags**: [cpp](../tagged/cpp.md), [image-processing](../tagged/image-processing.md)
+* :octocat: **[source code](https://github.com/cdcseacave/TinyEXIF)**
+---
+#### [Video++](https://github.com/matt-42/vpp)
+_<sup>https://github.com/matt-42/vpp</sup>_
+
+A C++14 high performance video and image processing library. [MIT]
+* **tags**: [cpp](../tagged/cpp.md), [image-processing](../tagged/image-processing.md)
+* :octocat: **[source code](https://github.com/matt-42/vpp)**
+---
+#### [VIGRA](https://github.com/ukoethe/vigra)
+_<sup>https://github.com/ukoethe/vigra</sup>_
+
+A generic C++ computer vision library for image analysis. [MIT X11]
+* **tags**: [cpp](../tagged/cpp.md), [image-processing](../tagged/image-processing.md)
+* :octocat: **[source code](https://github.com/ukoethe/vigra)**
+---
+#### [VTK](http://www.vtk.org/)
+_<sup>http://www.vtk.org/</sup>_
+
+Open-source, freely available software system for 3D computer graphics, image processing and visualization. [BSD]
+* **tags**: [cpp](../tagged/cpp.md), [image-processing](../tagged/image-processing.md)
+---
 #### [abonander/img_hash](https://github.com/abonander/img_hash)
 _<sup>https://github.com/abonander/img_hash</sup>_
 

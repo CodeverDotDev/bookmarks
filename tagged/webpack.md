@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/webpack](https://www.bookmarks.dev/tagged/webpack)</sup></sup>_
 ---
+#### [GitHub - erikras/react-redux-universal-hot-example](https://github.com/erikras/react-redux-universal-hot-example)
+_<sup>https://github.com/erikras/react-redux-universal-hot-example</sup>_
+
+A starter boilerplate for a universal webapp using express, react, redux, webpack, and react-transform - erikras/react-redux-universal-hot-example
+* **tags**: [reactjs](../tagged/reactjs.md), [webpack](../tagged/webpack.md), [redux](../tagged/redux.md), [expressjs](../tagged/expressjs.md)
+* :octocat: **[source code](https://github.com/erikras/react-redux-universal-hot-example)**
+---
 #### [ARc - Atomic React](https://arc.js.org/)
 _<sup>https://arc.js.org/</sup>_
 

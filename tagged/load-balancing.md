@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/load-balancing](https://www.bookmarks.dev/tagged/load-balancing)</sup></sup>_
 ---
+#### [Kubernetes NodePort vs LoadBalancer vs Ingress? When should I use what?](https://medium.com/google-cloud/kubernetes-nodeport-vs-loadbalancer-vs-ingress-when-should-i-use-what-922f010849e0)
+_<sup>https://medium.com/google-cloud/kubernetes-nodeport-vs-loadbalancer-vs-ingress-when-should-i-use-wha...</sup>_
+
+Recently, someone asked me what the difference between NodePorts, LoadBalancers, and Ingress were. They are all different ways to get external traffic into your cluster, and they all do it in differen...
+* :calendar: **published on**: 2018-03-11
+* **tags**: [kubernetes](../tagged/kubernetes.md), [networking](../tagged/networking.md), [load-balancing](../tagged/load-balancing.md)
+---
 #### [Avi Networks - Software Load Balancer | Intelligent WAF | Elastic Service Mesh](https://avinetworks.com/)
 _<sup>https://avinetworks.com/</sup>_
 
