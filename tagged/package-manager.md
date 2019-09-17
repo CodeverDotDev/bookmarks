@@ -2,6 +2,15 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/package-manager](https://www.bookmarks.dev/tagged/package-manager)</sup></sup>_
 ---
+#### [Chocolatey - The package manager for Windows](https://chocolatey.org)
+_<sup>https://chocolatey.org</sup>_
+
+Chocolatey is kind of like apt-get, but for Windows (with Windows comes limitations). It is a machine level package manager that is built on top of nuget command line and the nuget infrastructure.
+
+"O...
+* **tags**: [package-manager](../tagged/package-manager.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/chocolatey/choco)**
+---
 #### [Writing R Extensions](https://cran.r-project.org/doc/manuals/r-release/R-exts.html)
 _<sup>https://cran.r-project.org/doc/manuals/r-release/R-exts.html</sup>_
 

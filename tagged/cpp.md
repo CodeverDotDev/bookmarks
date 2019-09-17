@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/cpp](https://www.bookmarks.dev/tagged/cpp)</sup></sup>_
 ---
+#### [Bjarne Stroustrup - The Essence of C++ - YouTube](https://www.youtube.com/watch?v=86xWVb4XIyE)
+_<sup>https://www.youtube.com/watch?v=86xWVb4XIyE</sup>_
+
+Bjarne Stroustrup, creator and developer of C++, delivers his talk entitled, The Essence of C++. Stroustrup has held distinguished posts at Texas A&M University and spent significant time in the Compu...
+* :calendar: **published on**: 2014-05-06
+* **tags**: [cpp](../tagged/cpp.md)
+---
 #### [C++ Standard Library](https://en.wikipedia.org/wiki/C%2B%2B_Standard_Library)
 _<sup>https://en.wikipedia.org/wiki/C%2B%2B_Standard_Library</sup>_
 

@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/terminal](https://www.bookmarks.dev/tagged/terminal)</sup></sup>_
 ---
+#### [bash - Is there any way to execute commands from history? - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/275053/is-there-any-way-to-execute-commands-from-history/275061)
+_<sup>https://unix.stackexchange.com/questions/275053/is-there-any-way-to-execute-commands-from-history/27...</sup>_
+
+`!number_in_history` (e.g. `!667`)
+* **tags**: [linux](../tagged/linux.md), [bash](../tagged/bash.md), [terminal](../tagged/terminal.md)
+---
 #### [asciimatics](https://github.com/peterbrittain/asciimatics)
 _<sup>https://github.com/peterbrittain/asciimatics</sup>_
 

@@ -2,6 +2,20 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/serverless](https://www.bookmarks.dev/tagged/serverless)</sup></sup>_
 ---
+#### [Getting started with node.js on Google Cloud Functions - 17min](https://www.youtube.com/watch?v=MgivoBkvS5o)
+_<sup>https://www.youtube.com/watch?v=MgivoBkvS5o</sup>_
+
+This tutorial runs through the Google Cloud console UI and the gcloud command line interface to show you how to get started using node.js on Google Cloud Functions. I also show how to wire up a functi...
+* :calendar: **published on**: 2019-04-16
+* **tags**: [google-cloud-platform](../tagged/google-cloud-platform.md), [serverless](../tagged/serverless.md)
+---
+#### [Cloud Functions Overview: Get Started Building Serverless Applications (Cloud Next '18) - 47min](https://www.youtube.com/watch?v=JenJQ6gc14U)
+_<sup>https://www.youtube.com/watch?v=JenJQ6gc14U</sup>_
+
+Learn about Google Cloud Functions and how this serverless compute platform can fit into your app architecture. Whether you are moving to microservices and want to stop managing each service's infrast...
+* :calendar: **published on**: 2018-07-26
+* **tags**: [google-cloud-platform](../tagged/google-cloud-platform.md), [serverless](../tagged/serverless.md)
+---
 #### [FaaS-netes](https://github.com/alexellis/faas-netes)
 _<sup>https://github.com/alexellis/faas-netes</sup>_
 

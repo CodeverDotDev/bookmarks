@@ -2,6 +2,18 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/linux](https://www.bookmarks.dev/tagged/linux)</sup></sup>_
 ---
+#### [AWK command in Unix/Linux with examples - GeeksforGeeks](https://www.geeksforgeeks.org/awk-command-unixlinux-examples/)
+_<sup>https://www.geeksforgeeks.org/awk-command-unixlinux-examples/</sup>_
+
+awk introduction for beginners with examples
+* **tags**: [awk](../tagged/awk.md), [unix](../tagged/unix.md), [linux](../tagged/linux.md)
+---
+#### [bash - Is there any way to execute commands from history? - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/275053/is-there-any-way-to-execute-commands-from-history/275061)
+_<sup>https://unix.stackexchange.com/questions/275053/is-there-any-way-to-execute-commands-from-history/27...</sup>_
+
+`!number_in_history` (e.g. `!667`)
+* **tags**: [linux](../tagged/linux.md), [bash](../tagged/bash.md), [terminal](../tagged/terminal.md)
+---
 #### [frol/cgroups-fs](https://github.com/frol/cgroups-fs)
 _<sup>https://github.com/frol/cgroups-fs</sup>_
 

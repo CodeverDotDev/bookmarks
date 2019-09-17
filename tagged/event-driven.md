@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/event-driven](https://www.bookmarks.dev/tagged/event-driven)</sup></sup>_
 ---
+#### [CloudEvents home page](https://cloudevents.io/)
+_<sup>https://cloudevents.io/</sup>_
+
+CloudEvents is a specification for describing event data in common formats to provide interoperability across services, platforms and systems.
+* **tags**: [cloud-computing](../tagged/cloud-computing.md), [event-driven](../tagged/event-driven.md), [specification](../tagged/specification.md)
+* :octocat: **[source code](https://github.com/cloudevents/spec)**
+---
 #### [GOTO 2017 • The Many Meanings of Event-Driven Architecture • Martin Fowler - YouTube](https://www.youtube.com/watch?v=STKCRSUsyP0)
 _<sup>https://www.youtube.com/watch?v=STKCRSUsyP0</sup>_
 

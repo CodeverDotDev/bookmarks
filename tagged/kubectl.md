@@ -2,6 +2,20 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/kubectl](https://www.bookmarks.dev/tagged/kubectl)</sup></sup>_
 ---
+#### [A cleaner multi-stage continuous deployment on Kubernetes of a Create React App with kustomize, helm and skaffold – CodepediaOrg](https://www.codepedia.org/ama/a-cleaner-multi-stage-deployment-on-kubernetes-of-a-create-react-app-with-kustomize-helm-and-skaffold)
+_<sup>https://www.codepedia.org/ama/a-cleaner-multi-stage-deployment-on-kubernetes-of-a-create-react-app-w...</sup>_
+
+This blog posts presents a clean way to make a multi-stage deployment of a Create React App on a Kubernetes Cluster. Deployments with kubectl, helm charts, kustomize and skaffold are presented.
+* :calendar: **published on**: 2019-09-03
+* **tags**: [reactjs](../tagged/reactjs.md), [kubernetes](../tagged/kubernetes.md), [devops](../tagged/devops.md), [kustomize](../tagged/kustomize.md), [kubectl](../tagged/kubectl.md), [helm](../tagged/helm.md), [skaffold](../tagged/skaffold.md)
+* :octocat: **[source code](https://github.com/CodepediaOrg/multi-stage-react-app-example)**
+---
+#### [Kubectl Reference Docs](https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands)
+_<sup>https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands</sup>_
+
+Kubectl Commands Reference
+* **tags**: [kubernetes](../tagged/kubernetes.md), [kubectl](../tagged/kubectl.md), [docs](../tagged/docs.md)
+---
 #### [The Kubectl Book - kubectl docs](https://kubectl.docs.kubernetes.io/)
 _<sup>https://kubectl.docs.kubernetes.io/</sup>_
 

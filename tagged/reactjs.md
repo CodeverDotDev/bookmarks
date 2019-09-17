@@ -2,6 +2,51 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/reactjs](https://www.bookmarks.dev/tagged/reactjs)</sup></sup>_
 ---
+#### [A cleaner multi-stage continuous deployment on Kubernetes of a Create React App with kustomize, helm and skaffold – CodepediaOrg](https://www.codepedia.org/ama/a-cleaner-multi-stage-deployment-on-kubernetes-of-a-create-react-app-with-kustomize-helm-and-skaffold)
+_<sup>https://www.codepedia.org/ama/a-cleaner-multi-stage-deployment-on-kubernetes-of-a-create-react-app-w...</sup>_
+
+This blog posts presents a clean way to make a multi-stage deployment of a Create React App on a Kubernetes Cluster. Deployments with kubectl, helm charts, kustomize and skaffold are presented.
+* :calendar: **published on**: 2019-09-03
+* **tags**: [reactjs](../tagged/reactjs.md), [kubernetes](../tagged/kubernetes.md), [devops](../tagged/devops.md), [kustomize](../tagged/kustomize.md), [kubectl](../tagged/kubectl.md), [helm](../tagged/helm.md), [skaffold](../tagged/skaffold.md)
+* :octocat: **[source code](https://github.com/CodepediaOrg/multi-stage-react-app-example)**
+---
+#### [Reach Router Home Page](https://reach.tech/router)
+_<sup>https://reach.tech/router</sup>_
+
+Next Generation Routing for React
+* **tags**: [reactjs](../tagged/reactjs.md), [routing](../tagged/routing.md)
+* :octocat: **[source code](https://github.com/reach/router)**
+---
+#### [Using React in Multiple Environments](https://daveceddia.com/multiple-environments-with-react/)
+_<sup>https://daveceddia.com/multiple-environments-with-react/</sup>_
+
+You’ve got a React app working locally, but how can you deploy it to different environments?
+
+Several useful alternatives are presented. 
+* :calendar: **published on**: 2017-07-25
+* **tags**: [reactjs](../tagged/reactjs.md), [environment-variables](../tagged/environment-variables.md)
+---
+#### [Dockerizing a React App](https://mherman.org/blog/dockerizing-a-react-app/)
+_<sup>https://mherman.org/blog/dockerizing-a-react-app/</sup>_
+
+This tutorial demonstrates how to Dockerize a React app using the [Create React App](https://facebook.github.io/create-react-app/) generator. We’ll specifically focus on-
+
+1. Setting up a development ...
+* :calendar: **published on**: 2019-05-17
+* **tags**: [reactjs](../tagged/reactjs.md), [docker](../tagged/docker.md), [docker-compose](../tagged/docker-compose.md), [dockerfile](../tagged/dockerfile.md), [nginx](../tagged/nginx.md)
+---
+#### [Learn Kubernetes in Under 3 Hours: A Detailed Guide to Orchestrating Containers](https://www.freecodecamp.org/news/learn-kubernetes-in-under-3-hours-a-detailed-guide-to-orchestrating-containers-114ff420e882/)
+_<sup>https://www.freecodecamp.org/news/learn-kubernetes-in-under-3-hours-a-detailed-guide-to-orchestratin...</sup>_
+
+These guides assume the reader knows about application development, Microservices, and Docker containers.
+
+In this Article we will go from :
+
+1. Running a Microservice based application on your comput...
+* :calendar: **published on**: 2018-04-14
+* **tags**: [kubernetes](../tagged/kubernetes.md), [docker](../tagged/docker.md), [dockerfile](../tagged/dockerfile.md), [reactjs](../tagged/reactjs.md), [python](../tagged/python.md), [flask](../tagged/flask.md)
+* :octocat: **[source code](https://github.com/rinormaloku/k8s-mastery)**
+---
 #### [GitHub - erikras/react-redux-universal-hot-example](https://github.com/erikras/react-redux-universal-hot-example)
 _<sup>https://github.com/erikras/react-redux-universal-hot-example</sup>_
 
@@ -117,6 +162,7 @@ _<sup>https://www.robinwieruch.de/react-hooks-fetch-data/</sup>_
 
 A tutorial on how to fetch data in React with Hooks from third-party APIs. You will use state and effect hooks for the data request from a real API ...
 * **tags**: [reactjs](../tagged/reactjs.md), [react-hooks](../tagged/react-hooks.md)
+* :octocat: **[source code](https://github.com/the-road-to-learn-react/react-hooks-introduction)**
 ---
 #### [Easy to understand React Hook recipes](https://usehooks.com/)
 _<sup>https://usehooks.com/</sup>_
@@ -2761,7 +2807,7 @@ _<sup>https://www.youtube.com/watch?v=mmke4w4gc6c</sup>_
 #### [React Today and Tomorrow and 90% Cleaner React With Hooks - React Conf 2018](https://www.youtube.com/watch?v=dpw9EHDh2bM)
 _<sup>https://www.youtube.com/watch?v=dpw9EHDh2bM</sup>_
 
-The first three talks from React Conf 2018 by Sophie Alpert, Dan Abramov, and Ryan Florence. Learn more about Hooks at https://reactjs.org/hooks.
+The first three talks from React Conf 2018 by Sophie Alpert, Dan Abramov, and Ryan Florence. Learn more about Hooks at [https://reactjs.org/hooks](https://reactjs.org/hooks).
 * **tags**: [reactjs](../tagged/reactjs.md), [talks](../tagged/talks.md)
 ---
 #### [React Conferences](https://reactjs.org/community/conferences.html)

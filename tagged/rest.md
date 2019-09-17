@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/rest](https://www.bookmarks.dev/tagged/rest)</sup></sup>_
 ---
+#### [GitHub - OAI/OpenAPI-Specification: The OpenAPI Specification Repository](https://github.com/OAI/OpenAPI-Specification)
+_<sup>https://github.com/OAI/OpenAPI-Specification</sup>_
+
+The OpenAPI Specification Repository.
+* **tags**: [openapi](../tagged/openapi.md), [rest](../tagged/rest.md)
+* :octocat: **[source code](https://github.com/OAI/OpenAPI-Specification)**
+---
 #### [HTTP API design guide extracted from work on the Heroku Platform API](https://github.com/interagent/http-api-design)
 _<sup>https://github.com/interagent/http-api-design</sup>_
 

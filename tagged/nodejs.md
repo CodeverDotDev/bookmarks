@@ -2,6 +2,41 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/nodejs](https://www.bookmarks.dev/tagged/nodejs)</sup></sup>_
 ---
+#### [TypeORM Home Page](http://typeorm.io/)
+_<sup>http://typeorm.io/</sup>_
+
+ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms...
+* **tags**: [typeorm](../tagged/typeorm.md), [typescript](../tagged/typescript.md), [javascript](../tagged/javascript.md), [orm](../tagged/orm.md), [mysql](../tagged/mysql.md), [postgresql](../tagged/postgresql.md), [nodejs](../tagged/nodejs.md)
+* :octocat: **[source code](https://github.com/typeorm/typeorm)**
+---
+#### [Node.JS on Google Cloud Platform](https://cloud.google.com/nodejs)
+_<sup>https://cloud.google.com/nodejs</sup>_
+
+Google Cloud Platform makes development easy using Node.js
+* **tags**: [nodejs](../tagged/nodejs.md), [google-cloud-platform](../tagged/google-cloud-platform.md)
+* :octocat: **[source code](https://github.com/GoogleCloudPlatform/nodejs-docs-samples)**
+---
+#### [Cloud Pub/Sub Tutorial](https://cloud.google.com/functions/docs/tutorials/pubsub)
+_<sup>https://cloud.google.com/functions/docs/tutorials/pubsub</sup>_
+
+This simple tutorial demonstrates writing, deploying, and triggering a [Background Cloud Function](https://cloud.google.com/functions/docs/writing/background) with a [Cloud Pub/Sub trigger](https://cl...
+* **tags**: [google-cloud-functions](../tagged/google-cloud-functions.md), [google-pubsub](../tagged/google-pubsub.md), [nodejs](../tagged/nodejs.md), [python](../tagged/python.md), [go](../tagged/go.md)
+* :octocat: **[source code](https://github.com/GoogleCloudPlatform/nodejs-docs-samples/tree/master/functions/helloworld)**
+---
+#### [GitHub - GoogleCloudPlatform/functions-framework-nodejs](https://github.com/GoogleCloudPlatform/functions-framework-nodejs)
+_<sup>https://github.com/GoogleCloudPlatform/functions-framework-nodejs</sup>_
+
+FaaS (Function as a service) framework for writing portable Node.js functions - GoogleCloudPlatform/functions-framework-nodejs
+* **tags**: [faas](../tagged/faas.md), [cloud-computing](../tagged/cloud-computing.md), [google-cloud-functions](../tagged/google-cloud-functions.md), [nodejs](../tagged/nodejs.md), [google-cloud-platform](../tagged/google-cloud-platform.md)
+* :octocat: **[source code](https://github.com/GoogleCloudPlatform/functions-framework-nodejs)**
+---
+#### [node-postgress home page](https://node-postgres.com/)
+_<sup>https://node-postgres.com/</sup>_
+
+**node-postgres** is a collection of node.js modules for interfacing with your PostgreSQL database. It has support for callbacks, promises, async/await, connection pooling, prepared statements, cursor...
+* **tags**: [nodejs](../tagged/nodejs.md), [postgresql](../tagged/postgresql.md)
+* :octocat: **[source code](https://github.com/brianc/node-postgres)**
+---
 #### [neon-bindings/neon](https://github.com/neon-bindings/neon)
 _<sup>https://github.com/neon-bindings/neon</sup>_
 
@@ -4432,7 +4467,7 @@ In the past years, Kubernetes emerged as the go-to container scheduling and mana
 _<sup>http://knexjs.org/</sup>_
 
 Knex.js is a "batteries included" SQL query builder for Postgres, MSSQL, MySQL, MariaDB, SQLite3, Oracle, and Amazon Redshift designed to be flexible, portable, and fun to use. It features both tradit...
-* **tags**: [orm](../tagged/orm.md), [sql](../tagged/sql.md), [nodejs](../tagged/nodejs.md)
+* **tags**: [orm](../tagged/orm.md), [sql](../tagged/sql.md), [nodejs](../tagged/nodejs.md), [postgresql](../tagged/postgresql.md), [mysql](../tagged/mysql.md)
 * :octocat: **[source code](https://github.com/tgriesser/knex)**
 ---
 #### [Objection.js](http://vincit.github.io/objection.js/)

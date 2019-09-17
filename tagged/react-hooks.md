@@ -23,6 +23,7 @@ _<sup>https://www.robinwieruch.de/react-hooks-fetch-data/</sup>_
 
 A tutorial on how to fetch data in React with Hooks from third-party APIs. You will use state and effect hooks for the data request from a real API ...
 * **tags**: [reactjs](../tagged/reactjs.md), [react-hooks](../tagged/react-hooks.md)
+* :octocat: **[source code](https://github.com/the-road-to-learn-react/react-hooks-introduction)**
 ---
 #### [Easy to understand React Hook recipes](https://usehooks.com/)
 _<sup>https://usehooks.com/</sup>_

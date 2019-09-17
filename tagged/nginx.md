@@ -2,6 +2,29 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/nginx](https://www.bookmarks.dev/tagged/nginx)</sup></sup>_
 ---
+#### [NGINX Ingress Controller Home Page](https://kubernetes.github.io/ingress-nginx/)
+_<sup>https://kubernetes.github.io/ingress-nginx/</sup>_
+
+This repository contains the NGINX controller built around the [Kubernetes Ingress resource](http://kubernetes.io/docs/user-guide/ingress/) that uses [ConfigMap](https://kubernetes.io/docs/tasks/confi...
+* **tags**: [kubernetes](../tagged/kubernetes.md), [load-balancing](../tagged/load-balancing.md), [nginx](../tagged/nginx.md)
+* :octocat: **[source code](https://github.com/kubernetes/ingress-nginx)**
+---
+#### [Dockerizing an Angular App](https://mherman.org/blog/dockerizing-an-angular-app/)
+_<sup>https://mherman.org/blog/dockerizing-an-angular-app/</sup>_
+
+This tutorial shows how to Dockerize an Angular app, built with the Angular CLI, using Docker along with Docker Compose and Docker Machine for both development and production. We’ll specifically focus...
+* :calendar: **published on**: 2019-05-20
+* **tags**: [angular](../tagged/angular.md), [docker](../tagged/docker.md), [docker-compose](../tagged/docker-compose.md), [dockerfile](../tagged/dockerfile.md), [nginx](../tagged/nginx.md)
+---
+#### [Dockerizing a React App](https://mherman.org/blog/dockerizing-a-react-app/)
+_<sup>https://mherman.org/blog/dockerizing-a-react-app/</sup>_
+
+This tutorial demonstrates how to Dockerize a React app using the [Create React App](https://facebook.github.io/create-react-app/) generator. We’ll specifically focus on-
+
+1. Setting up a development ...
+* :calendar: **published on**: 2019-05-17
+* **tags**: [reactjs](../tagged/reactjs.md), [docker](../tagged/docker.md), [docker-compose](../tagged/docker-compose.md), [dockerfile](../tagged/dockerfile.md), [nginx](../tagged/nginx.md)
+---
 #### [awesome-nginx-resources](https://github.com/fcambus/nginx-resources#readme)
 _<sup>https://github.com/fcambus/nginx-resources#readme</sup>_
 

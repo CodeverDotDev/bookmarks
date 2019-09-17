@@ -2,6 +2,18 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/flask](https://www.bookmarks.dev/tagged/flask)</sup></sup>_
 ---
+#### [Learn Kubernetes in Under 3 Hours: A Detailed Guide to Orchestrating Containers](https://www.freecodecamp.org/news/learn-kubernetes-in-under-3-hours-a-detailed-guide-to-orchestrating-containers-114ff420e882/)
+_<sup>https://www.freecodecamp.org/news/learn-kubernetes-in-under-3-hours-a-detailed-guide-to-orchestratin...</sup>_
+
+These guides assume the reader knows about application development, Microservices, and Docker containers.
+
+In this Article we will go from :
+
+1. Running a Microservice based application on your comput...
+* :calendar: **published on**: 2018-04-14
+* **tags**: [kubernetes](../tagged/kubernetes.md), [docker](../tagged/docker.md), [dockerfile](../tagged/dockerfile.md), [reactjs](../tagged/reactjs.md), [python](../tagged/python.md), [flask](../tagged/flask.md)
+* :octocat: **[source code](https://github.com/rinormaloku/k8s-mastery)**
+---
 #### [eve](https://github.com/pyeve/eve)
 _<sup>https://github.com/pyeve/eve</sup>_
 

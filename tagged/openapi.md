@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/openapi](https://www.bookmarks.dev/tagged/openapi)</sup></sup>_
 ---
+#### [GitHub - OAI/OpenAPI-Specification: The OpenAPI Specification Repository](https://github.com/OAI/OpenAPI-Specification)
+_<sup>https://github.com/OAI/OpenAPI-Specification</sup>_
+
+The OpenAPI Specification Repository.
+* **tags**: [openapi](../tagged/openapi.md), [rest](../tagged/rest.md)
+* :octocat: **[source code](https://github.com/OAI/OpenAPI-Specification)**
+---
 #### [LoopBack 4](http://v4.loopback.io/)
 _<sup>http://v4.loopback.io/</sup>_
 

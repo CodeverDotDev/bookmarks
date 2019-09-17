@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/istio](https://www.bookmarks.dev/tagged/istio)</sup></sup>_
 ---
+#### [Life of a packet through Istio by Matt Turner - YouTube](https://www.youtube.com/watch?v=cB611FtjHcQ)
+_<sup>https://www.youtube.com/watch?v=cB611FtjHcQ</sup>_
+
+Istio is a service mesh for Kubernetes that offers advanced networking features. It provides intelligent routing, resiliency, and security features, so that service authors don't have to keep re-imple...
+* :calendar: **published on**: 2018-12-13
+* **tags**: [istio](../tagged/istio.md), [kubernetes](../tagged/kubernetes.md), [service-mesh](../tagged/service-mesh.md), [networking](../tagged/networking.md)
+---
 #### [GOTO 2018 • Kubernetes-ize your Java Application • Arun Gupta - YouTube](https://www.youtube.com/watch?v=QgMwcpAT49M)
 _<sup>https://www.youtube.com/watch?v=QgMwcpAT49M</sup>_
 

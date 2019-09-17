@@ -2,6 +2,15 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/microservices](https://www.bookmarks.dev/tagged/microservices)</sup></sup>_
 ---
+#### [Piggy Metrics](https://piggymetrics.tk/)
+_<sup>https://piggymetrics.tk/</sup>_
+
+**A simple way to deal with personal finances**
+
+This is a [proof-of-concept application](https://piggymetrics.tk), which demonstrates [Microservice Architecture Pattern](http://martinfowler.com/micro...
+* **tags**: [spring-boot](../tagged/spring-boot.md), [docker](../tagged/docker.md), [spring-cloud](../tagged/spring-cloud.md), [microservices](../tagged/microservices.md), [docker-compose](../tagged/docker-compose.md)
+* :octocat: **[source code](https://github.com/sqshq/piggymetrics)**
+---
 #### [Design Microservice Architectures the Right Way - YouTube](https://www.youtube.com/watch?v=j6ow-UemzBc)
 _<sup>https://www.youtube.com/watch?v=j6ow-UemzBc</sup>_
 

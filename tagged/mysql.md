@@ -2,6 +2,20 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/mysql](https://www.bookmarks.dev/tagged/mysql)</sup></sup>_
 ---
+#### [MySQL on Cloud Functions](https://fireship.io/lessons/sql-firebase-typeorm/)
+_<sup>https://fireship.io/lessons/sql-firebase-typeorm/</sup>_
+
+Learn how to use a relational MySQL database with Firebase Cloud Functions and TypeORM
+* :calendar: **published on**: 2019-08-06
+* **tags**: [google-cloud-functions](../tagged/google-cloud-functions.md), [mysql](../tagged/mysql.md), [typeorm](../tagged/typeorm.md), [typescript](../tagged/typescript.md)
+---
+#### [TypeORM Home Page](http://typeorm.io/)
+_<sup>http://typeorm.io/</sup>_
+
+ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms...
+* **tags**: [typeorm](../tagged/typeorm.md), [typescript](../tagged/typescript.md), [javascript](../tagged/javascript.md), [orm](../tagged/orm.md), [mysql](../tagged/mysql.md), [postgresql](../tagged/postgresql.md), [nodejs](../tagged/nodejs.md)
+* :octocat: **[source code](https://github.com/typeorm/typeorm)**
+---
 #### [AgilData/mysql-proxy-rs](https://github.com/AgilData/mysql-proxy-rs)
 _<sup>https://github.com/AgilData/mysql-proxy-rs</sup>_
 
@@ -28,6 +42,13 @@ _<sup>https://sqlectron.github.io/</sup>_
 UNMAINTAINED - SEE BELOW. A simple and lightweight SQL client desktop with cross database and platform support.
 * **tags**: [sql](../tagged/sql.md), [tools](../tagged/tools.md), [mysql](../tagged/mysql.md)
 * :octocat: **[source code](https://github.com/sqlectron/sqlectron-gui/)**
+---
+#### [Knex.js - A SQL Query Builder for Javascript](http://knexjs.org/)
+_<sup>http://knexjs.org/</sup>_
+
+Knex.js is a "batteries included" SQL query builder for Postgres, MSSQL, MySQL, MariaDB, SQLite3, Oracle, and Amazon Redshift designed to be flexible, portable, and fun to use. It features both tradit...
+* **tags**: [orm](../tagged/orm.md), [sql](../tagged/sql.md), [nodejs](../tagged/nodejs.md), [postgresql](../tagged/postgresql.md), [mysql](../tagged/mysql.md)
+* :octocat: **[source code](https://github.com/tgriesser/knex)**
 ---
 #### [MySQL](http://www.peterkropff.de/site/mysql/mysql.htm)
 _<sup>http://www.peterkropff.de/site/mysql/mysql.htm</sup>_

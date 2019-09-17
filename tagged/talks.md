@@ -112,7 +112,7 @@ _<sup>https://www.youtube.com/watch?v=mmke4w4gc6c</sup>_
 #### [React Today and Tomorrow and 90% Cleaner React With Hooks - React Conf 2018](https://www.youtube.com/watch?v=dpw9EHDh2bM)
 _<sup>https://www.youtube.com/watch?v=dpw9EHDh2bM</sup>_
 
-The first three talks from React Conf 2018 by Sophie Alpert, Dan Abramov, and Ryan Florence. Learn more about Hooks at https://reactjs.org/hooks.
+The first three talks from React Conf 2018 by Sophie Alpert, Dan Abramov, and Ryan Florence. Learn more about Hooks at [https://reactjs.org/hooks](https://reactjs.org/hooks).
 * **tags**: [reactjs](../tagged/reactjs.md), [talks](../tagged/talks.md)
 ---
 #### [React Conferences](https://reactjs.org/community/conferences.html)

@@ -2,6 +2,44 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/load-balancing](https://www.bookmarks.dev/tagged/load-balancing)</sup></sup>_
 ---
+#### [Application Capacity Optimizations with Global Load Balancing](https://cloud.google.com/solutions/about-capacity-optimization-with-global-lb)
+_<sup>https://cloud.google.com/solutions/about-capacity-optimization-with-global-lb</sup>_
+
+Most load balancers use a round-robin or flow-based hashing approach to distribute traffic. However, load balancers that use this approach can have difficulty adapting when demand spikes beyond availa...
+* **tags**: [google-cloud-platform](../tagged/google-cloud-platform.md), [google-compute-engine](../tagged/google-compute-engine.md), [load-balancing](../tagged/load-balancing.md), [architecture](../tagged/architecture.md)
+---
+#### [HTTP(s) load balancing with Ingress ](https://cloud.google.com/kubernetes-engine/docs/concepts/ingress)
+_<sup>https://cloud.google.com/kubernetes-engine/docs/concepts/ingress</sup>_
+
+In Google Kubernetes Engine, an Ingress object defines rules for routing external HTTP(S) traffic to applications running in a cluster. An Ingress object is associated with one or more Service objects...
+* **tags**: [kubernetes](../tagged/kubernetes.md), [google-cloud-platform](../tagged/google-cloud-platform.md), [ingress](../tagged/ingress.md), [load-balancing](../tagged/load-balancing.md)
+---
+#### [HTTP(S) Load Balancing Concepts](https://cloud.google.com/load-balancing/docs/https/)
+_<sup>https://cloud.google.com/load-balancing/docs/https/</sup>_
+
+This document introduces the concepts you need to understand to configure HTTP or HTTPS Load Balancing.
+* **tags**: [google-cloud-platform](../tagged/google-cloud-platform.md), [load-balancing](../tagged/load-balancing.md)
+---
+#### [Configuring load balancing through Ingress](https://cloud.google.com/kubernetes-engine/docs/how-to/load-balance-ingress)
+_<sup>https://cloud.google.com/kubernetes-engine/docs/how-to/load-balance-ingress</sup>_
+
+This page shows how to configure an [HTTP(S) load balancer](https://cloud.google.com/load-balancing/docs/https/) by creating a Kubernetes Ingress object. An Ingress object must be associated with one ...
+* **tags**: [google-cloud](../tagged/google-cloud.md), [kubernetes](../tagged/kubernetes.md), [ingress](../tagged/ingress.md), [google-cloud-platform](../tagged/google-cloud-platform.md), [load-balancing](../tagged/load-balancing.md)
+---
+#### [Load Balancing and Reverse Proxying for Kubernetes Services](https://medium.com/@chamilad/load-balancing-and-reverse-proxying-for-kubernetes-services-f03dd0efe80)
+_<sup>https://medium.com/@chamilad/load-balancing-and-reverse-proxying-for-kubernetes-services-f03dd0efe80</sup>_
+
+In this post, I’m going to tackle a topic that any K8s novice would start to think about, once they have cleared the basic concepts. **How would one go about exposing the services deployed inside a K8...
+* :calendar: **published on**: 2019-02-28
+* **tags**: [kubernetes](../tagged/kubernetes.md), [load-balancing](../tagged/load-balancing.md)
+---
+#### [NGINX Ingress Controller Home Page](https://kubernetes.github.io/ingress-nginx/)
+_<sup>https://kubernetes.github.io/ingress-nginx/</sup>_
+
+This repository contains the NGINX controller built around the [Kubernetes Ingress resource](http://kubernetes.io/docs/user-guide/ingress/) that uses [ConfigMap](https://kubernetes.io/docs/tasks/confi...
+* **tags**: [kubernetes](../tagged/kubernetes.md), [load-balancing](../tagged/load-balancing.md), [nginx](../tagged/nginx.md)
+* :octocat: **[source code](https://github.com/kubernetes/ingress-nginx)**
+---
 #### [Kubernetes NodePort vs LoadBalancer vs Ingress? When should I use what?](https://medium.com/google-cloud/kubernetes-nodeport-vs-loadbalancer-vs-ingress-when-should-i-use-what-922f010849e0)
 _<sup>https://medium.com/google-cloud/kubernetes-nodeport-vs-loadbalancer-vs-ingress-when-should-i-use-wha...</sup>_
 

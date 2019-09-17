@@ -2,6 +2,20 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/go](https://www.bookmarks.dev/tagged/go)</sup></sup>_
 ---
+#### [Cloud Pub/Sub Tutorial](https://cloud.google.com/functions/docs/tutorials/pubsub)
+_<sup>https://cloud.google.com/functions/docs/tutorials/pubsub</sup>_
+
+This simple tutorial demonstrates writing, deploying, and triggering a [Background Cloud Function](https://cloud.google.com/functions/docs/writing/background) with a [Cloud Pub/Sub trigger](https://cl...
+* **tags**: [google-cloud-functions](../tagged/google-cloud-functions.md), [google-pubsub](../tagged/google-pubsub.md), [nodejs](../tagged/nodejs.md), [python](../tagged/python.md), [go](../tagged/go.md)
+* :octocat: **[source code](https://github.com/GoogleCloudPlatform/nodejs-docs-samples/tree/master/functions/helloworld)**
+---
+#### [ChartMuseum - Helm Chart Repository](https://chartmuseum.com/docs/)
+_<sup>https://chartmuseum.com/docs/</sup>_
+
+ChartMuseum is an open-source Helm Chart Repository server written in Go (Golang), with support for cloud storage backends, including Google Cloud Storage, Amazon S3, Microsoft Azure Blob Storage, Ali...
+* **tags**: [helm](../tagged/helm.md), [kubernetes](../tagged/kubernetes.md), [docs](../tagged/docs.md), [go](../tagged/go.md)
+* :octocat: **[source code](https://github.com/helm/chartmuseum)**
+---
 #### [gocrud](https://github.com/manishrjain/gocrud)
 _<sup>https://github.com/manishrjain/gocrud</sup>_
 

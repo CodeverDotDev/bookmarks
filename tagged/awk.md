@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/awk](https://www.bookmarks.dev/tagged/awk)</sup></sup>_
 ---
+#### [AWK command in Unix/Linux with examples - GeeksforGeeks](https://www.geeksforgeeks.org/awk-command-unixlinux-examples/)
+_<sup>https://www.geeksforgeeks.org/awk-command-unixlinux-examples/</sup>_
+
+awk introduction for beginners with examples
+* **tags**: [awk](../tagged/awk.md), [unix](../tagged/unix.md), [linux](../tagged/linux.md)
+---
 #### [Effective AWK Programming](http://www.kt.rim.or.jp/~kbk/gawk-30/gawk_toc.html)
 _<sup>http://www.kt.rim.or.jp/~kbk/gawk-30/gawk_toc.html</sup>_
 

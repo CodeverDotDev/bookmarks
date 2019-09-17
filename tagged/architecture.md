@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/architecture](https://www.bookmarks.dev/tagged/architecture)</sup></sup>_
 ---
+#### [Application Capacity Optimizations with Global Load Balancing](https://cloud.google.com/solutions/about-capacity-optimization-with-global-lb)
+_<sup>https://cloud.google.com/solutions/about-capacity-optimization-with-global-lb</sup>_
+
+Most load balancers use a round-robin or flow-based hashing approach to distribute traffic. However, load balancers that use this approach can have difficulty adapting when demand spikes beyond availa...
+* **tags**: [google-cloud-platform](../tagged/google-cloud-platform.md), [google-compute-engine](../tagged/google-compute-engine.md), [load-balancing](../tagged/load-balancing.md), [architecture](../tagged/architecture.md)
+---
 #### [An Introduction to Elm](https://guide.elm-lang.org/)
 _<sup>https://guide.elm-lang.org/</sup>_
 

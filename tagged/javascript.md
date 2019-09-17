@@ -2,6 +2,25 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/javascript](https://www.bookmarks.dev/tagged/javascript)</sup></sup>_
 ---
+#### [TypeORM Home Page](http://typeorm.io/)
+_<sup>http://typeorm.io/</sup>_
+
+ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms...
+* **tags**: [typeorm](../tagged/typeorm.md), [typescript](../tagged/typescript.md), [javascript](../tagged/javascript.md), [orm](../tagged/orm.md), [mysql](../tagged/mysql.md), [postgresql](../tagged/postgresql.md), [nodejs](../tagged/nodejs.md)
+* :octocat: **[source code](https://github.com/typeorm/typeorm)**
+---
+#### [Basic JavaScript: Accessing Nested Objects | Learn freeCodeCamp](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/accessing-nested-objects)
+_<sup>https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/accessing-...</sup>_
+
+Learn to code with free online courses, programming projects, and interview preparation for developer jobs.
+* **tags**: [javascript](../tagged/javascript.md), [nested](../tagged/nested.md), [objects](../tagged/objects.md)
+---
+#### [Basic JavaScript: Accessing Object Properties with Bracket Notation | Learn freeCodeCamp](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/accessing-object-properties-with-bracket-notation)
+_<sup>https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/accessing-...</sup>_
+
+Learn to code with free online courses, programming projects, and interview preparation for developer jobs.
+* **tags**: [javascript](../tagged/javascript.md), [object](../tagged/object.md), [properties](../tagged/properties.md), [spaces](../tagged/spaces.md)
+---
 #### [Rich Harris - Rethinking reactivity - YouTube](https://www.youtube.com/watch?v=AdNJ3fydeao)
 _<sup>https://www.youtube.com/watch?v=AdNJ3fydeao</sup>_
 

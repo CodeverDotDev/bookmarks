@@ -2,6 +2,37 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/docker-compose](https://www.bookmarks.dev/tagged/docker-compose)</sup></sup>_
 ---
+#### [Piggy Metrics](https://piggymetrics.tk/)
+_<sup>https://piggymetrics.tk/</sup>_
+
+**A simple way to deal with personal finances**
+
+This is a [proof-of-concept application](https://piggymetrics.tk), which demonstrates [Microservice Architecture Pattern](http://martinfowler.com/micro...
+* **tags**: [spring-boot](../tagged/spring-boot.md), [docker](../tagged/docker.md), [spring-cloud](../tagged/spring-cloud.md), [microservices](../tagged/microservices.md), [docker-compose](../tagged/docker-compose.md)
+* :octocat: **[source code](https://github.com/sqshq/piggymetrics)**
+---
+#### [Environment variables in Compose](https://docs.docker.com/compose/environment-variables/)
+_<sup>https://docs.docker.com/compose/environment-variables/</sup>_
+
+How to set, use and manage environment variables in Compose
+* **tags**: [docker-compose](../tagged/docker-compose.md), [environment-variables](../tagged/environment-variables.md)
+---
+#### [Dockerizing an Angular App](https://mherman.org/blog/dockerizing-an-angular-app/)
+_<sup>https://mherman.org/blog/dockerizing-an-angular-app/</sup>_
+
+This tutorial shows how to Dockerize an Angular app, built with the Angular CLI, using Docker along with Docker Compose and Docker Machine for both development and production. We’ll specifically focus...
+* :calendar: **published on**: 2019-05-20
+* **tags**: [angular](../tagged/angular.md), [docker](../tagged/docker.md), [docker-compose](../tagged/docker-compose.md), [dockerfile](../tagged/dockerfile.md), [nginx](../tagged/nginx.md)
+---
+#### [Dockerizing a React App](https://mherman.org/blog/dockerizing-a-react-app/)
+_<sup>https://mherman.org/blog/dockerizing-a-react-app/</sup>_
+
+This tutorial demonstrates how to Dockerize a React app using the [Create React App](https://facebook.github.io/create-react-app/) generator. We’ll specifically focus on-
+
+1. Setting up a development ...
+* :calendar: **published on**: 2019-05-17
+* **tags**: [reactjs](../tagged/reactjs.md), [docker](../tagged/docker.md), [docker-compose](../tagged/docker-compose.md), [dockerfile](../tagged/dockerfile.md), [nginx](../tagged/nginx.md)
+---
 #### [Top 5 Exclusive Features of Docker For Mac That You Can’t Afford to Ignore – Collabnix](http://collabnix.com/top-5-exclusive-features-of-docker-for-mac-that-you-cant-afford-to-miss/)
 _<sup>http://collabnix.com/top-5-exclusive-features-of-docker-for-mac-that-you-cant-afford-to-miss/</sup>_
 

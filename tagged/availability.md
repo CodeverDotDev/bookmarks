@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/availability](https://www.bookmarks.dev/tagged/availability)</sup></sup>_
 ---
+#### [Enable Rolling updates in Kubernetes with Zero downtime](https://medium.com/platformer-blog/enable-rolling-updates-in-kubernetes-with-zero-downtime-31d7ec388c81)
+_<sup>https://medium.com/platformer-blog/enable-rolling-updates-in-kubernetes-with-zero-downtime-31d7ec388...</sup>_
+
+Recently, a couple of my colleagues were trying to deploy some applications using Kubernetes and noticed a little bit of a downtime when they tried to deploy a couple of updates. They were confused ov...
+* :calendar: **published on**: 2018-09-27
+* **tags**: [kubernetes](../tagged/kubernetes.md), [availability](../tagged/availability.md)
+---
 #### [Eventually Consistent - Revisited - All Things Distributed](https://www.allthingsdistributed.com/2008/12/eventually_consistent.html)
 _<sup>https://www.allthingsdistributed.com/2008/12/eventually_consistent.html</sup>_
 

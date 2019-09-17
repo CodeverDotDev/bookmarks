@@ -2,6 +2,24 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/angular](https://www.bookmarks.dev/tagged/angular)</sup></sup>_
 ---
+#### [Becoming an Angular Environmentalist - Angular In Depth](https://blog.angularindepth.com/becoming-an-angular-environmentalist-45a48f7c20d8)
+_<sup>https://blog.angularindepth.com/becoming-an-angular-environmentalist-45a48f7c20d8</sup>_
+
+In this article we will:
+1. Explore the default environments the Angular CLI creates.
+2. Modify the environment information.
+3. Explain how to create a new environment with our own configuration.
+* :calendar: **published on**: 2018-07-19
+* **tags**: [angular](../tagged/angular.md), [environment-variables](../tagged/environment-variables.md)
+* :octocat: **[source code](https://github.com/t-palmer/ng-configuration)**
+---
+#### [Dockerizing an Angular App](https://mherman.org/blog/dockerizing-an-angular-app/)
+_<sup>https://mherman.org/blog/dockerizing-an-angular-app/</sup>_
+
+This tutorial shows how to Dockerize an Angular app, built with the Angular CLI, using Docker along with Docker Compose and Docker Machine for both development and production. We’ll specifically focus...
+* :calendar: **published on**: 2019-05-20
+* **tags**: [angular](../tagged/angular.md), [docker](../tagged/docker.md), [docker-compose](../tagged/docker-compose.md), [dockerfile](../tagged/dockerfile.md), [nginx](../tagged/nginx.md)
+---
 #### [Handling Observables with NgIf and the Async Pipe](https://ultimatecourses.com/blog/angular-ngif-async-pipe)
 _<sup>https://ultimatecourses.com/blog/angular-ngif-async-pipe</sup>_
 

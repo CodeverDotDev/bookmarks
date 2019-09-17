@@ -2,6 +2,22 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/tools](https://www.bookmarks.dev/tagged/tools)</sup></sup>_
 ---
+#### [Chocolatey - The package manager for Windows](https://chocolatey.org)
+_<sup>https://chocolatey.org</sup>_
+
+Chocolatey is kind of like apt-get, but for Windows (with Windows comes limitations). It is a machine level package manager that is built on top of nuget command line and the nuget infrastructure.
+
+"O...
+* **tags**: [package-manager](../tagged/package-manager.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/chocolatey/choco)**
+---
+#### [Fluentd Home Page](https://www.fluentd.org/)
+_<sup>https://www.fluentd.org/</sup>_
+
+Fluentd collects events from various data sources and writes them to files, RDBMS, NoSQL, IaaS, SaaS, Hadoop and so on. 
+* **tags**: [logging](../tagged/logging.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/fluent/fluentd/)**
+---
 #### [react-redux - Official React bindings for Redux](https://github.com/reactjs/react-redux)
 _<sup>https://github.com/reactjs/react-redux</sup>_
 

@@ -2,6 +2,27 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/software-development](https://www.bookmarks.dev/tagged/software-development)</sup></sup>_
 ---
+#### [Google Engineering Practices Documentation](https://google.github.io/eng-practices/)
+_<sup>https://google.github.io/eng-practices/</sup>_
+
+Google has many generalized engineering practices that cover all languages and
+all projects. These documents represent our collective experience of various
+best practices that we have developed over t...
+* **tags**: [software-development](../tagged/software-development.md), [code-review](../tagged/code-review.md)
+---
+#### [Bay XP Meeting Part 1: Agile Estimation, Mike Cohn - YouTube](https://www.youtube.com/watch?v=fb9Rzyi8b90)
+_<sup>https://www.youtube.com/watch?v=fb9Rzyi8b90</sup>_
+
+The March 20, 2007 Meeting. Featuring Mike Cohn, Agile Estimation
+* :calendar: **published on**: 2007-04-20
+* **tags**: [agile](../tagged/agile.md), [estimation](../tagged/estimation.md), [software-development](../tagged/software-development.md), [scrum](../tagged/scrum.md)
+---
+#### [Agile best practices and tutorials](https://www.atlassian.com/agile)
+_<sup>https://www.atlassian.com/agile</sup>_
+
+Learn agile software development, agile methodologies and industry best practices from beginner tutorials to advanced topics. 
+* **tags**: [agile](../tagged/agile.md), [software-development](../tagged/software-development.md), [scrum](../tagged/scrum.md), [kanban](../tagged/kanban.md)
+---
 #### [Coding bookmarks, aka #codingmarks](https://www.codingmarks.org)
 _<sup>https://www.codingmarks.org</sup>_
 

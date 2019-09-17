@@ -2,6 +2,15 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/spring-cloud](https://www.bookmarks.dev/tagged/spring-cloud)</sup></sup>_
 ---
+#### [Piggy Metrics](https://piggymetrics.tk/)
+_<sup>https://piggymetrics.tk/</sup>_
+
+**A simple way to deal with personal finances**
+
+This is a [proof-of-concept application](https://piggymetrics.tk), which demonstrates [Microservice Architecture Pattern](http://martinfowler.com/micro...
+* **tags**: [spring-boot](../tagged/spring-boot.md), [docker](../tagged/docker.md), [spring-cloud](../tagged/spring-cloud.md), [microservices](../tagged/microservices.md), [docker-compose](../tagged/docker-compose.md)
+* :octocat: **[source code](https://github.com/sqshq/piggymetrics)**
+---
 #### [A Tale of Two Frameworks: Spring Cloud and Istio - YouTube](https://www.youtube.com/watch?v=AMJQO9zs2eo)
 _<sup>https://www.youtube.com/watch?v=AMJQO9zs2eo</sup>_
 

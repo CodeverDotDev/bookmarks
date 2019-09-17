@@ -2,6 +2,18 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/bash](https://www.bookmarks.dev/tagged/bash)</sup></sup>_
 ---
+#### [bash - Is there any way to execute commands from history? - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/275053/is-there-any-way-to-execute-commands-from-history/275061)
+_<sup>https://unix.stackexchange.com/questions/275053/is-there-any-way-to-execute-commands-from-history/27...</sup>_
+
+`!number_in_history` (e.g. `!667`)
+* **tags**: [linux](../tagged/linux.md), [bash](../tagged/bash.md), [terminal](../tagged/terminal.md)
+---
+#### [How to use bash with an Alpine based docker image? - Stack Overflow](https://stackoverflow.com/questions/40944479/how-to-use-bash-with-an-alpine-based-docker-image/40944512)
+_<sup>https://stackoverflow.com/questions/40944479/how-to-use-bash-with-an-alpine-based-docker-image/40944...</sup>_
+
+Try using `RUN /bin/sh` instead of bash.
+* **tags**: [bash](../tagged/bash.md), [docker](../tagged/docker.md)
+---
 #### [TLDR pages](https://tldr.sh/)
 _<sup>https://tldr.sh/</sup>_
 

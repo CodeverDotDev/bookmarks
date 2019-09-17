@@ -2,6 +2,40 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/dockerfile](https://www.bookmarks.dev/tagged/dockerfile)</sup></sup>_
 ---
+#### [Dockerizing an Angular App](https://mherman.org/blog/dockerizing-an-angular-app/)
+_<sup>https://mherman.org/blog/dockerizing-an-angular-app/</sup>_
+
+This tutorial shows how to Dockerize an Angular app, built with the Angular CLI, using Docker along with Docker Compose and Docker Machine for both development and production. We’ll specifically focus...
+* :calendar: **published on**: 2019-05-20
+* **tags**: [angular](../tagged/angular.md), [docker](../tagged/docker.md), [docker-compose](../tagged/docker-compose.md), [dockerfile](../tagged/dockerfile.md), [nginx](../tagged/nginx.md)
+---
+#### [Dockerizing a React App](https://mherman.org/blog/dockerizing-a-react-app/)
+_<sup>https://mherman.org/blog/dockerizing-a-react-app/</sup>_
+
+This tutorial demonstrates how to Dockerize a React app using the [Create React App](https://facebook.github.io/create-react-app/) generator. We’ll specifically focus on-
+
+1. Setting up a development ...
+* :calendar: **published on**: 2019-05-17
+* **tags**: [reactjs](../tagged/reactjs.md), [docker](../tagged/docker.md), [docker-compose](../tagged/docker-compose.md), [dockerfile](../tagged/dockerfile.md), [nginx](../tagged/nginx.md)
+---
+#### [Learn Kubernetes in Under 3 Hours: A Detailed Guide to Orchestrating Containers](https://www.freecodecamp.org/news/learn-kubernetes-in-under-3-hours-a-detailed-guide-to-orchestrating-containers-114ff420e882/)
+_<sup>https://www.freecodecamp.org/news/learn-kubernetes-in-under-3-hours-a-detailed-guide-to-orchestratin...</sup>_
+
+These guides assume the reader knows about application development, Microservices, and Docker containers.
+
+In this Article we will go from :
+
+1. Running a Microservice based application on your comput...
+* :calendar: **published on**: 2018-04-14
+* **tags**: [kubernetes](../tagged/kubernetes.md), [docker](../tagged/docker.md), [dockerfile](../tagged/dockerfile.md), [reactjs](../tagged/reactjs.md), [python](../tagged/python.md), [flask](../tagged/flask.md)
+* :octocat: **[source code](https://github.com/rinormaloku/k8s-mastery)**
+---
+#### [Best practices for writing Dockerfiles](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)
+_<sup>https://docs.docker.com/develop/develop-images/dockerfile_best-practices/</sup>_
+
+Hints, tips and guidelines for writing clean, reliable Dockerfiles
+* **tags**: [docker](../tagged/docker.md), [dockerfile](../tagged/dockerfile.md)
+---
 #### [Intro Guide to Dockerfile Best Practices - Docker Blog](https://blog.docker.com/2019/07/intro-guide-to-dockerfile-best-practices/)
 _<sup>https://blog.docker.com/2019/07/intro-guide-to-dockerfile-best-practices/</sup>_
 

@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/specification](https://www.bookmarks.dev/tagged/specification)</sup></sup>_
 ---
+#### [CloudEvents home page](https://cloudevents.io/)
+_<sup>https://cloudevents.io/</sup>_
+
+CloudEvents is a specification for describing event data in common formats to provide interoperability across services, platforms and systems.
+* **tags**: [cloud-computing](../tagged/cloud-computing.md), [event-driven](../tagged/event-driven.md), [specification](../tagged/specification.md)
+* :octocat: **[source code](https://github.com/cloudevents/spec)**
+---
 #### [facebook/graphql](https://facebook.github.io/graphql/)
 _<sup>https://facebook.github.io/graphql/</sup>_
 

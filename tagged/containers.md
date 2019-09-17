@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/containers](https://www.bookmarks.dev/tagged/containers)</sup></sup>_
 ---
+#### [Building a container from scratch in Go - Liz Rice (Microscaling Systems) - YouTube](https://www.youtube.com/watch?v=Utf-A4rODH8)
+_<sup>https://www.youtube.com/watch?v=Utf-A4rODH8</sup>_
+
+Everyone has heard of Docker, but what is a container? Is it really "a lightweight VM"? In this talk we'll dispel the magic by writing a container in about 100 lines of Go.
+* :calendar: **published on**: 2016-10-13
+* **tags**: [docker](../tagged/docker.md), [containers](../tagged/containers.md)
+---
 #### [C++ B-tree](https://code.google.com/p/cpp-btree/)
 _<sup>https://code.google.com/p/cpp-btree/</sup>_
 

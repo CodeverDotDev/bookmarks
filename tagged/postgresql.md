@@ -2,6 +2,30 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/postgresql](https://www.bookmarks.dev/tagged/postgresql)</sup></sup>_
 ---
+#### [TypeORM Home Page](http://typeorm.io/)
+_<sup>http://typeorm.io/</sup>_
+
+ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms...
+* **tags**: [typeorm](../tagged/typeorm.md), [typescript](../tagged/typescript.md), [javascript](../tagged/javascript.md), [orm](../tagged/orm.md), [mysql](../tagged/mysql.md), [postgresql](../tagged/postgresql.md), [nodejs](../tagged/nodejs.md)
+* :octocat: **[source code](https://github.com/typeorm/typeorm)**
+---
+#### [node-postgress home page](https://node-postgres.com/)
+_<sup>https://node-postgres.com/</sup>_
+
+**node-postgres** is a collection of node.js modules for interfacing with your PostgreSQL database. It has support for callbacks, promises, async/await, connection pooling, prepared statements, cursor...
+* **tags**: [nodejs](../tagged/nodejs.md), [postgresql](../tagged/postgresql.md)
+* :octocat: **[source code](https://github.com/brianc/node-postgres)**
+---
+#### [Building Stateful Applications With Kubernetes and Cloud SQL (Cloud Next '19) - YouTube](https://www.youtube.com/watch?v=qVgzP3PsXFw)
+_<sup>https://www.youtube.com/watch?v=qVgzP3PsXFw</sup>_
+
+Learn how to build and scale applications, leveraging Kubernetes Engine and Cloud SQL for PostgreSQL. Kubernetes Engine enables rapid application development...
+
+[Connect to CloudSQL at min 4:55](http...
+* :calendar: **published on**: 2019-04-10
+* **tags**: [google-cloudsql](../tagged/google-cloudsql.md), [kubernetes](../tagged/kubernetes.md), [fault-tolerance](../tagged/fault-tolerance.md), [postgresql](../tagged/postgresql.md), [google-cloud-platform](../tagged/google-cloud-platform.md), [high-availability](../tagged/high-availability.md)
+* :octocat: **[source code](https://github.com/GoogleCloudPlatform/gmemegen)**
+---
 #### [awesome-postgres](https://github.com/dhamaniasad/awesome-postgres#readme)
 _<sup>https://github.com/dhamaniasad/awesome-postgres#readme</sup>_
 
@@ -22,6 +46,13 @@ _<sup>http://www.asad.pw/awesome-postgres/</sup>_
 A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql
 * **tags**: [awesome-list](../tagged/awesome-list.md), [postgresql](../tagged/postgresql.md)
 * :octocat: **[source code](https://github.com/dhamaniasad/awesome-postgres)**
+---
+#### [Knex.js - A SQL Query Builder for Javascript](http://knexjs.org/)
+_<sup>http://knexjs.org/</sup>_
+
+Knex.js is a "batteries included" SQL query builder for Postgres, MSSQL, MySQL, MariaDB, SQLite3, Oracle, and Amazon Redshift designed to be flexible, portable, and fun to use. It features both tradit...
+* **tags**: [orm](../tagged/orm.md), [sql](../tagged/sql.md), [nodejs](../tagged/nodejs.md), [postgresql](../tagged/postgresql.md), [mysql](../tagged/mysql.md)
+* :octocat: **[source code](https://github.com/tgriesser/knex)**
 ---
 #### [Работа с PostgreSQL - настройка и масштабирование](http://postgresql.leopard.in.ua)
 _<sup>http://postgresql.leopard.in.ua</sup>_

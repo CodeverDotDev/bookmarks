@@ -2,6 +2,33 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/scrum](https://www.bookmarks.dev/tagged/scrum)</sup></sup>_
 ---
+#### [Make the Product Backlog DEEP](https://mountaingoatsoftware.com/blog/make-the-product-backlog-deep)
+_<sup>https://mountaingoatsoftware.com/blog/make-the-product-backlog-deep</sup>_
+
+Roman Pichler and Mike use the acronym DEEP to summarize key attributes of a good product backlog:
+
+* **Detailed Appropriately**. User stories on the product backlog that will be done soon need to be ...
+* **tags**: [scrum](../tagged/scrum.md), [agile](../tagged/agile.md)
+---
+#### [User Stories von DasScrumTeam](https://www.dasscrumteam.com/de/user-stories)
+_<sup>https://www.dasscrumteam.com/de/user-stories</sup>_
+
+ Eine User Story ist ein einfacher Satz auf einer Karte. User Stories machen die Kommunikation zwischen Anwendern und Entwicklern sichtbar.
+* **tags**: [scrum](../tagged/scrum.md), [agile](../tagged/agile.md), [extreme-programming](../tagged/extreme-programming.md)
+---
+#### [Bay XP Meeting Part 1: Agile Estimation, Mike Cohn - YouTube](https://www.youtube.com/watch?v=fb9Rzyi8b90)
+_<sup>https://www.youtube.com/watch?v=fb9Rzyi8b90</sup>_
+
+The March 20, 2007 Meeting. Featuring Mike Cohn, Agile Estimation
+* :calendar: **published on**: 2007-04-20
+* **tags**: [agile](../tagged/agile.md), [estimation](../tagged/estimation.md), [software-development](../tagged/software-development.md), [scrum](../tagged/scrum.md)
+---
+#### [Agile best practices and tutorials](https://www.atlassian.com/agile)
+_<sup>https://www.atlassian.com/agile</sup>_
+
+Learn agile software development, agile methodologies and industry best practices from beginner tutorials to advanced topics. 
+* **tags**: [agile](../tagged/agile.md), [software-development](../tagged/software-development.md), [scrum](../tagged/scrum.md), [kanban](../tagged/kanban.md)
+---
 #### [90min Retros - smidig](https://www.smidig.de/retros/)
 _<sup>https://www.smidig.de/retros/</sup>_
 

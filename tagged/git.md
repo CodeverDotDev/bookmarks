@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/git](https://www.bookmarks.dev/tagged/git)</sup></sup>_
 ---
+#### [Google Cloud Functions - Deploying from Source Control](https://cloud.google.com/functions/docs/deploying/repo)
+_<sup>https://cloud.google.com/functions/docs/deploying/repo</sup>_
+
+If you prefer to deploy your function source code from a source repository like GitHub or Bitbucket, you can use [Google Cloud Source Repositories](https://cloud.google.com/tools/cloud-repositories/do...
+* **tags**: [google-cloud-functions](../tagged/google-cloud-functions.md), [source-control](../tagged/source-control.md), [github](../tagged/github.md), [git](../tagged/git.md)
+---
 #### [ginatra](https://github.com/NARKOZ/ginatra)
 _<sup>https://github.com/NARKOZ/ginatra</sup>_
 

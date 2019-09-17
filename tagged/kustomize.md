@@ -2,6 +2,25 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/kustomize](https://www.bookmarks.dev/tagged/kustomize)</sup></sup>_
 ---
+#### [A cleaner multi-stage continuous deployment on Kubernetes of a Create React App with kustomize, helm and skaffold – CodepediaOrg](https://www.codepedia.org/ama/a-cleaner-multi-stage-deployment-on-kubernetes-of-a-create-react-app-with-kustomize-helm-and-skaffold)
+_<sup>https://www.codepedia.org/ama/a-cleaner-multi-stage-deployment-on-kubernetes-of-a-create-react-app-w...</sup>_
+
+This blog posts presents a clean way to make a multi-stage deployment of a Create React App on a Kubernetes Cluster. Deployments with kubectl, helm charts, kustomize and skaffold are presented.
+* :calendar: **published on**: 2019-09-03
+* **tags**: [reactjs](../tagged/reactjs.md), [kubernetes](../tagged/kubernetes.md), [devops](../tagged/devops.md), [kustomize](../tagged/kustomize.md), [kubectl](../tagged/kubectl.md), [helm](../tagged/helm.md), [skaffold](../tagged/skaffold.md)
+* :octocat: **[source code](https://github.com/CodepediaOrg/multi-stage-react-app-example)**
+---
+#### [Declarative Management of Kubernetes Objects Using Kustomize - Kubernetes](https://kubernetes.io/docs/tasks/manage-kubernetes-objects/kustomization/)
+_<sup>https://kubernetes.io/docs/tasks/manage-kubernetes-objects/kustomization/</sup>_
+
+* Overview of Kustomize
+* Bases and Overlays
+* How to apply/view/delete objects using Kustomize
+* Kustomize Feature List
+* What's next
+
+* **tags**: [kubernetes](../tagged/kubernetes.md), [kustomize](../tagged/kustomize.md), [docs](../tagged/docs.md)
+---
 #### [Using Kustomize for per-environment deployment of cert-manager resources](https://blog.jetstack.io/blog/kustomize-cert-manager/)
 _<sup>https://blog.jetstack.io/blog/kustomize-cert-manager/</sup>_
 

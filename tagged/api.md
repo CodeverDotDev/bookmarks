@@ -697,6 +697,15 @@ An opinionated REST client for Ruby on Rails APIs.
 * **tags**: [javascript](../tagged/javascript.md), [api](../tagged/api.md)
 * :octocat: **[source code](https://github.com/victor-am/rails-ranger)**
 ---
+#### [Skaffold Home Page](https://skaffold.dev/)
+_<sup>https://skaffold.dev/</sup>_
+
+Easy and Repeatable Kubernetes Development
+
+* [integration annotated-example](https://github.com/GoogleContainerTools/skaffold/blob/b9c979d7b59a15bba9e4a9c7977ece407b21d0c4/integration/examples/annota...
+* **tags**: [skaffold](../tagged/skaffold.md), [kubernetes](../tagged/kubernetes.md), [api](../tagged/api.md)
+* :octocat: **[source code](https://github.com/GoogleContainerTools/skaffold)**
+---
 #### [API Infrastructure at Knewton: What’s in an Edge Service?](https://medium.com/knerd/api-infrastructure-at-knewton-whats-in-an-edge-service-51a3777aeb41)
 _<sup>https://medium.com/knerd/api-infrastructure-at-knewton-whats-in-an-edge-service-51a3777aeb41</sup>_
 

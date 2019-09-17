@@ -2,6 +2,32 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/python](https://www.bookmarks.dev/tagged/python)</sup></sup>_
 ---
+#### [Cloud Pub/Sub Tutorial](https://cloud.google.com/functions/docs/tutorials/pubsub)
+_<sup>https://cloud.google.com/functions/docs/tutorials/pubsub</sup>_
+
+This simple tutorial demonstrates writing, deploying, and triggering a [Background Cloud Function](https://cloud.google.com/functions/docs/writing/background) with a [Cloud Pub/Sub trigger](https://cl...
+* **tags**: [google-cloud-functions](../tagged/google-cloud-functions.md), [google-pubsub](../tagged/google-pubsub.md), [nodejs](../tagged/nodejs.md), [python](../tagged/python.md), [go](../tagged/go.md)
+* :octocat: **[source code](https://github.com/GoogleCloudPlatform/nodejs-docs-samples/tree/master/functions/helloworld)**
+---
+#### [Jinja Home Page](https://palletsprojects.com/p/jinja/)
+_<sup>https://palletsprojects.com/p/jinja/</sup>_
+
+Jinja2 is a template engine written in pure Python. It provides a Django inspired non-XML syntax but supports inline expressions and an optional sandboxed environment.
+* **tags**: [template-engine](../tagged/template-engine.md), [python](../tagged/python.md), [django](../tagged/django.md), [jinja](../tagged/jinja.md)
+* :octocat: **[source code](https://github.com/pallets/jinja)**
+---
+#### [Learn Kubernetes in Under 3 Hours: A Detailed Guide to Orchestrating Containers](https://www.freecodecamp.org/news/learn-kubernetes-in-under-3-hours-a-detailed-guide-to-orchestrating-containers-114ff420e882/)
+_<sup>https://www.freecodecamp.org/news/learn-kubernetes-in-under-3-hours-a-detailed-guide-to-orchestratin...</sup>_
+
+These guides assume the reader knows about application development, Microservices, and Docker containers.
+
+In this Article we will go from :
+
+1. Running a Microservice based application on your comput...
+* :calendar: **published on**: 2018-04-14
+* **tags**: [kubernetes](../tagged/kubernetes.md), [docker](../tagged/docker.md), [dockerfile](../tagged/dockerfile.md), [reactjs](../tagged/reactjs.md), [python](../tagged/python.md), [flask](../tagged/flask.md)
+* :octocat: **[source code](https://github.com/rinormaloku/k8s-mastery)**
+---
 #### [getsentry/milksnake](https://github.com/getsentry/milksnake)
 _<sup>https://github.com/getsentry/milksnake</sup>_
 

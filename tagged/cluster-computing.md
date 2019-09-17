@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/cluster-computing](https://www.bookmarks.dev/tagged/cluster-computing)</sup></sup>_
 ---
+#### [Affordable Kubernetes Cluster - Devonblog](https://devonblog.com/containers/affordable-kubernetes-cluster/)
+_<sup>https://devonblog.com/containers/affordable-kubernetes-cluster/</sup>_
+
+Affordable Kubernetes cluster
+* **tags**: [kubernetes](../tagged/kubernetes.md), [cluster-computing](../tagged/cluster-computing.md)
+---
 #### [Keycloak - Blog - Keycloak Cluster Setup](https://www.keycloak.org/2019/05/keycloak-cluster-setup.html)
 _<sup>https://www.keycloak.org/2019/05/keycloak-cluster-setup.html</sup>_
 

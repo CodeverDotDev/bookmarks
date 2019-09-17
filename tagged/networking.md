@@ -2,6 +2,34 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/networking](https://www.bookmarks.dev/tagged/networking)</sup></sup>_
 ---
+#### [NAT - SNAT, DNAT, PAT & Port Forwarding - YouTube](https://www.youtube.com/watch?v=wg8Hosr20yw)
+_<sup>https://www.youtube.com/watch?v=wg8Hosr20yw</sup>_
+
+In this video, I will talk about how classic private TCP/IP network was set up for the first two decades of the Internet. Why it did not work? What is network address translation, or NAT? Why do we ne...
+* :calendar: **published on**: 2018-05-07
+* **tags**: [networking](../tagged/networking.md), [nat](../tagged/nat.md)
+---
+#### [Understanding Kubernetes Kube-Proxy](https://supergiant.io/blog/understanding-kubernetes-kube-proxy/)
+_<sup>https://supergiant.io/blog/understanding-kubernetes-kube-proxy/</sup>_
+
+In this article, we discuss Kubernetes kube-proxy and its modes focusing on how it interacts with netfilter and iptables.
+* :calendar: **published on**: 2019-04-11
+* **tags**: [kubernetes](../tagged/kubernetes.md), [kube-proxy](../tagged/kube-proxy.md), [netfilter](../tagged/netfilter.md), [networking](../tagged/networking.md), [reverse-proxy](../tagged/reverse-proxy.md), [iptables](../tagged/iptables.md)
+---
+#### [Migrating to GCP? First Things First: VPCs (Networking End to End) - 7min](https://www.youtube.com/watch?v=cNb7xKyya5c)
+_<sup>https://www.youtube.com/watch?v=cNb7xKyya5c</sup>_
+
+If you’re thinking about migrating to the cloud, setting up a virtual private cloud (VPC) lets you protect and isolate your instances. This lays the foundation to do much more complex networking inclu...
+* :calendar: **published on**: 2019-02-20
+* **tags**: [vpc](../tagged/vpc.md), [vpn](../tagged/vpn.md), [google-cloud-platform](../tagged/google-cloud-platform.md), [networking](../tagged/networking.md), [subnet](../tagged/subnet.md), [cloud](../tagged/cloud.md)
+---
+#### [Life of a packet through Istio by Matt Turner - YouTube](https://www.youtube.com/watch?v=cB611FtjHcQ)
+_<sup>https://www.youtube.com/watch?v=cB611FtjHcQ</sup>_
+
+Istio is a service mesh for Kubernetes that offers advanced networking features. It provides intelligent routing, resiliency, and security features, so that service authors don't have to keep re-imple...
+* :calendar: **published on**: 2018-12-13
+* **tags**: [istio](../tagged/istio.md), [kubernetes](../tagged/kubernetes.md), [service-mesh](../tagged/service-mesh.md), [networking](../tagged/networking.md)
+---
 #### [ACE](http://www.dre.vanderbilt.edu/~schmidt/ACE.html)
 _<sup>http://www.dre.vanderbilt.edu/~schmidt/ACE.html</sup>_
 

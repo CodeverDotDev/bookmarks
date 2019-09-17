@@ -2,6 +2,68 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/docker](https://www.bookmarks.dev/tagged/docker)</sup></sup>_
 ---
+#### [Piggy Metrics](https://piggymetrics.tk/)
+_<sup>https://piggymetrics.tk/</sup>_
+
+**A simple way to deal with personal finances**
+
+This is a [proof-of-concept application](https://piggymetrics.tk), which demonstrates [Microservice Architecture Pattern](http://martinfowler.com/micro...
+* **tags**: [spring-boot](../tagged/spring-boot.md), [docker](../tagged/docker.md), [spring-cloud](../tagged/spring-cloud.md), [microservices](../tagged/microservices.md), [docker-compose](../tagged/docker-compose.md)
+* :octocat: **[source code](https://github.com/sqshq/piggymetrics)**
+---
+#### [Prune unused Docker objects](https://docs.docker.com/config/pruning/)
+_<sup>https://docs.docker.com/config/pruning/</sup>_
+
+The `docker system prune` command is a shortcut that prunes images, containers, and networks. In Docker 17.06.0 and earlier, volumes are also pruned. In Docker 17.06.1 and higher, you must specify the...
+* **tags**: [docker](../tagged/docker.md)
+---
+#### [Building a container from scratch in Go - Liz Rice (Microscaling Systems) - YouTube](https://www.youtube.com/watch?v=Utf-A4rODH8)
+_<sup>https://www.youtube.com/watch?v=Utf-A4rODH8</sup>_
+
+Everyone has heard of Docker, but what is a container? Is it really "a lightweight VM"? In this talk we'll dispel the magic by writing a container in about 100 lines of Go.
+* :calendar: **published on**: 2016-10-13
+* **tags**: [docker](../tagged/docker.md), [containers](../tagged/containers.md)
+---
+#### [How to use bash with an Alpine based docker image? - Stack Overflow](https://stackoverflow.com/questions/40944479/how-to-use-bash-with-an-alpine-based-docker-image/40944512)
+_<sup>https://stackoverflow.com/questions/40944479/how-to-use-bash-with-an-alpine-based-docker-image/40944...</sup>_
+
+Try using `RUN /bin/sh` instead of bash.
+* **tags**: [bash](../tagged/bash.md), [docker](../tagged/docker.md)
+---
+#### [Dockerizing an Angular App](https://mherman.org/blog/dockerizing-an-angular-app/)
+_<sup>https://mherman.org/blog/dockerizing-an-angular-app/</sup>_
+
+This tutorial shows how to Dockerize an Angular app, built with the Angular CLI, using Docker along with Docker Compose and Docker Machine for both development and production. We’ll specifically focus...
+* :calendar: **published on**: 2019-05-20
+* **tags**: [angular](../tagged/angular.md), [docker](../tagged/docker.md), [docker-compose](../tagged/docker-compose.md), [dockerfile](../tagged/dockerfile.md), [nginx](../tagged/nginx.md)
+---
+#### [Dockerizing a React App](https://mherman.org/blog/dockerizing-a-react-app/)
+_<sup>https://mherman.org/blog/dockerizing-a-react-app/</sup>_
+
+This tutorial demonstrates how to Dockerize a React app using the [Create React App](https://facebook.github.io/create-react-app/) generator. We’ll specifically focus on-
+
+1. Setting up a development ...
+* :calendar: **published on**: 2019-05-17
+* **tags**: [reactjs](../tagged/reactjs.md), [docker](../tagged/docker.md), [docker-compose](../tagged/docker-compose.md), [dockerfile](../tagged/dockerfile.md), [nginx](../tagged/nginx.md)
+---
+#### [Learn Kubernetes in Under 3 Hours: A Detailed Guide to Orchestrating Containers](https://www.freecodecamp.org/news/learn-kubernetes-in-under-3-hours-a-detailed-guide-to-orchestrating-containers-114ff420e882/)
+_<sup>https://www.freecodecamp.org/news/learn-kubernetes-in-under-3-hours-a-detailed-guide-to-orchestratin...</sup>_
+
+These guides assume the reader knows about application development, Microservices, and Docker containers.
+
+In this Article we will go from :
+
+1. Running a Microservice based application on your comput...
+* :calendar: **published on**: 2018-04-14
+* **tags**: [kubernetes](../tagged/kubernetes.md), [docker](../tagged/docker.md), [dockerfile](../tagged/dockerfile.md), [reactjs](../tagged/reactjs.md), [python](../tagged/python.md), [flask](../tagged/flask.md)
+* :octocat: **[source code](https://github.com/rinormaloku/k8s-mastery)**
+---
+#### [Best practices for writing Dockerfiles](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)
+_<sup>https://docs.docker.com/develop/develop-images/dockerfile_best-practices/</sup>_
+
+Hints, tips and guidelines for writing clean, reliable Dockerfiles
+* **tags**: [docker](../tagged/docker.md), [dockerfile](../tagged/dockerfile.md)
+---
 #### [emk/rust-musl-builder](https://github.com/emk/rust-musl-builder)
 _<sup>https://github.com/emk/rust-musl-builder</sup>_
 

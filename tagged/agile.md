@@ -2,6 +2,46 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/agile](https://www.bookmarks.dev/tagged/agile)</sup></sup>_
 ---
+#### [Make the Product Backlog DEEP](https://mountaingoatsoftware.com/blog/make-the-product-backlog-deep)
+_<sup>https://mountaingoatsoftware.com/blog/make-the-product-backlog-deep</sup>_
+
+Roman Pichler and Mike use the acronym DEEP to summarize key attributes of a good product backlog:
+
+* **Detailed Appropriately**. User stories on the product backlog that will be done soon need to be ...
+* **tags**: [scrum](../tagged/scrum.md), [agile](../tagged/agile.md)
+---
+#### [User Stories von DasScrumTeam](https://www.dasscrumteam.com/de/user-stories)
+_<sup>https://www.dasscrumteam.com/de/user-stories</sup>_
+
+ Eine User Story ist ein einfacher Satz auf einer Karte. User Stories machen die Kommunikation zwischen Anwendern und Entwicklern sichtbar.
+* **tags**: [scrum](../tagged/scrum.md), [agile](../tagged/agile.md), [extreme-programming](../tagged/extreme-programming.md)
+---
+#### [INVEST in Good Stories, and SMART Tasks - XP123](https://xp123.com/articles/invest-in-good-stories-and-smart-tasks/)
+_<sup>https://xp123.com/articles/invest-in-good-stories-and-smart-tasks/</sup>_
+
+XP teams have to manage stories and tasks. The INVEST and SMART acronyms can remind teams of the good characteristics of each.
+* :calendar: **published on**: 2003-08-17
+* **tags**: [extreme-programming](../tagged/extreme-programming.md), [agile](../tagged/agile.md)
+---
+#### [Bay XP Meeting Part 1: Agile Estimation, Mike Cohn - YouTube](https://www.youtube.com/watch?v=fb9Rzyi8b90)
+_<sup>https://www.youtube.com/watch?v=fb9Rzyi8b90</sup>_
+
+The March 20, 2007 Meeting. Featuring Mike Cohn, Agile Estimation
+* :calendar: **published on**: 2007-04-20
+* **tags**: [agile](../tagged/agile.md), [estimation](../tagged/estimation.md), [software-development](../tagged/software-development.md), [scrum](../tagged/scrum.md)
+---
+#### [It's Effort, Not Complexity](https://www.mountaingoatsoftware.com/blog/its-effort-not-complexity)
+_<sup>https://www.mountaingoatsoftware.com/blog/its-effort-not-complexity</sup>_
+
+Story points in Scrum are not about the complexity of developing a feature; they are about the effort required to develop a feature.
+* **tags**: [agile](../tagged/agile.md), [estimation](../tagged/estimation.md)
+---
+#### [Agile best practices and tutorials](https://www.atlassian.com/agile)
+_<sup>https://www.atlassian.com/agile</sup>_
+
+Learn agile software development, agile methodologies and industry best practices from beginner tutorials to advanced topics. 
+* **tags**: [agile](../tagged/agile.md), [software-development](../tagged/software-development.md), [scrum](../tagged/scrum.md), [kanban](../tagged/kanban.md)
+---
 #### [Gantt Charts vs Burn-Down Charts - YouTube](https://www.youtube.com/watch?v=U_jwpInVXD8)
 _<sup>https://www.youtube.com/watch?v=U_jwpInVXD8</sup>_
 

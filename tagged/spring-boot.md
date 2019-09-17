@@ -2,6 +2,15 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/spring-boot](https://www.bookmarks.dev/tagged/spring-boot)</sup></sup>_
 ---
+#### [Piggy Metrics](https://piggymetrics.tk/)
+_<sup>https://piggymetrics.tk/</sup>_
+
+**A simple way to deal with personal finances**
+
+This is a [proof-of-concept application](https://piggymetrics.tk), which demonstrates [Microservice Architecture Pattern](http://martinfowler.com/micro...
+* **tags**: [spring-boot](../tagged/spring-boot.md), [docker](../tagged/docker.md), [spring-cloud](../tagged/spring-cloud.md), [microservices](../tagged/microservices.md), [docker-compose](../tagged/docker-compose.md)
+* :octocat: **[source code](https://github.com/sqshq/piggymetrics)**
+---
 #### [Spring REST + Spring Security Example – Mkyong.com](https://www.mkyong.com/spring-boot/spring-rest-spring-security-example/)
 _<sup>https://www.mkyong.com/spring-boot/spring-rest-spring-security-example/</sup>_
 

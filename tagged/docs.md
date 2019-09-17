@@ -2,6 +2,36 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/docs](https://www.bookmarks.dev/tagged/docs)</sup></sup>_
 ---
+#### [Ingress Controllers - Kubernetes](https://kubernetes.io/docs/concepts/services-networking/ingress-controllers/)
+_<sup>https://kubernetes.io/docs/concepts/services-networking/ingress-controllers/</sup>_
+
+List of Ingress Controllers
+* **tags**: [kubernetes](../tagged/kubernetes.md), [docs](../tagged/docs.md), [ingress](../tagged/ingress.md)
+---
+#### [Declarative Management of Kubernetes Objects Using Kustomize - Kubernetes](https://kubernetes.io/docs/tasks/manage-kubernetes-objects/kustomization/)
+_<sup>https://kubernetes.io/docs/tasks/manage-kubernetes-objects/kustomization/</sup>_
+
+* Overview of Kustomize
+* Bases and Overlays
+* How to apply/view/delete objects using Kustomize
+* Kustomize Feature List
+* What's next
+
+* **tags**: [kubernetes](../tagged/kubernetes.md), [kustomize](../tagged/kustomize.md), [docs](../tagged/docs.md)
+---
+#### [Kubectl Reference Docs](https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands)
+_<sup>https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands</sup>_
+
+Kubectl Commands Reference
+* **tags**: [kubernetes](../tagged/kubernetes.md), [kubectl](../tagged/kubectl.md), [docs](../tagged/docs.md)
+---
+#### [ChartMuseum - Helm Chart Repository](https://chartmuseum.com/docs/)
+_<sup>https://chartmuseum.com/docs/</sup>_
+
+ChartMuseum is an open-source Helm Chart Repository server written in Go (Golang), with support for cloud storage backends, including Google Cloud Storage, Amazon S3, Microsoft Azure Blob Storage, Ali...
+* **tags**: [helm](../tagged/helm.md), [kubernetes](../tagged/kubernetes.md), [docs](../tagged/docs.md), [go](../tagged/go.md)
+* :octocat: **[source code](https://github.com/helm/chartmuseum)**
+---
 #### [The Kubectl Book - kubectl docs](https://kubectl.docs.kubernetes.io/)
 _<sup>https://kubectl.docs.kubernetes.io/</sup>_
 

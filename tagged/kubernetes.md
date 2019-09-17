@@ -2,6 +2,180 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/kubernetes](https://www.bookmarks.dev/tagged/kubernetes)</sup></sup>_
 ---
+#### [Building Stateful Applications With Kubernetes and Cloud SQL (Cloud Next '19) - YouTube](https://www.youtube.com/watch?v=qVgzP3PsXFw)
+_<sup>https://www.youtube.com/watch?v=qVgzP3PsXFw</sup>_
+
+Learn how to build and scale applications, leveraging Kubernetes Engine and Cloud SQL for PostgreSQL. Kubernetes Engine enables rapid application development...
+
+[Connect to CloudSQL at min 4:55](http...
+* :calendar: **published on**: 2019-04-10
+* **tags**: [google-cloudsql](../tagged/google-cloudsql.md), [kubernetes](../tagged/kubernetes.md), [fault-tolerance](../tagged/fault-tolerance.md), [postgresql](../tagged/postgresql.md), [google-cloud-platform](../tagged/google-cloud-platform.md), [high-availability](../tagged/high-availability.md)
+* :octocat: **[source code](https://github.com/GoogleCloudPlatform/gmemegen)**
+---
+#### [kubernetes - Why StatefulSets? Can't a stateless Pod use persistent volumes? - Stack Overflow](https://stackoverflow.com/questions/41732819/why-statefulsets-cant-a-stateless-pod-use-persistent-volumes)
+_<sup>https://stackoverflow.com/questions/41732819/why-statefulsets-cant-a-stateless-pod-use-persistent-vo...</sup>_
+
+Yes, a regular pod can use a persistent volume. However, sometimes you have multiple pods that logically form a "group". Examples of this would be database replicas, ZooKeeper hosts, Kafka nodes, etc....
+* **tags**: [kubernetes](../tagged/kubernetes.md)
+---
+#### [kubernetes - What exactly is a headless service, what does it do/accomplish, and what are some legitimate use cases for it? - Stack Overflow](https://stackoverflow.com/questions/52707840/what-exactly-is-a-headless-service-what-does-it-do-accomplish-and-what-are-som)
+_<sup>https://stackoverflow.com/questions/52707840/what-exactly-is-a-headless-service-what-does-it-do-acco...</sup>_
+
+"Each connection to the service is forwarded to one randomly selected backing pod. But what if the client needs to connect to all of those pods? What if the backing pods themselves need to each connec...
+* **tags**: [kubernetes](../tagged/kubernetes.md)
+---
+#### [A cleaner multi-stage continuous deployment on Kubernetes of a Create React App with kustomize, helm and skaffold – CodepediaOrg](https://www.codepedia.org/ama/a-cleaner-multi-stage-deployment-on-kubernetes-of-a-create-react-app-with-kustomize-helm-and-skaffold)
+_<sup>https://www.codepedia.org/ama/a-cleaner-multi-stage-deployment-on-kubernetes-of-a-create-react-app-w...</sup>_
+
+This blog posts presents a clean way to make a multi-stage deployment of a Create React App on a Kubernetes Cluster. Deployments with kubectl, helm charts, kustomize and skaffold are presented.
+* :calendar: **published on**: 2019-09-03
+* **tags**: [reactjs](../tagged/reactjs.md), [kubernetes](../tagged/kubernetes.md), [devops](../tagged/devops.md), [kustomize](../tagged/kustomize.md), [kubectl](../tagged/kubectl.md), [helm](../tagged/helm.md), [skaffold](../tagged/skaffold.md)
+* :octocat: **[source code](https://github.com/CodepediaOrg/multi-stage-react-app-example)**
+---
+#### [Standardized Glossary - Kubernetes](https://kubernetes.io/docs/reference/glossary/)
+_<sup>https://kubernetes.io/docs/reference/glossary/</sup>_
+
+This glossary is intended to be a comprehensive, standardized list of Kubernetes terminology. It includes technical terms that are specific to K8s, as well as more general terms that provide useful co...
+* **tags**: [kubernetes](../tagged/kubernetes.md), [glossary](../tagged/glossary.md)
+---
+#### [What is an 'endpoint' in Kubernetes? - Stack Overflow](https://stackoverflow.com/questions/52857825/what-is-an-endpoint-in-kubernetes)
+_<sup>https://stackoverflow.com/questions/52857825/what-is-an-endpoint-in-kubernetes</sup>_
+
+While you're correct that in the glossary there's indeed no entry for endpoint, it is a well defined Kubernetes network concept or abstraction. Since it's of secondary nature, you'd usually not direct...
+* **tags**: [kubernetes](../tagged/kubernetes.md)
+---
+#### [Ingress Controllers - Kubernetes](https://kubernetes.io/docs/concepts/services-networking/ingress-controllers/)
+_<sup>https://kubernetes.io/docs/concepts/services-networking/ingress-controllers/</sup>_
+
+List of Ingress Controllers
+* **tags**: [kubernetes](../tagged/kubernetes.md), [docs](../tagged/docs.md), [ingress](../tagged/ingress.md)
+---
+#### [HTTP(s) load balancing with Ingress ](https://cloud.google.com/kubernetes-engine/docs/concepts/ingress)
+_<sup>https://cloud.google.com/kubernetes-engine/docs/concepts/ingress</sup>_
+
+In Google Kubernetes Engine, an Ingress object defines rules for routing external HTTP(S) traffic to applications running in a cluster. An Ingress object is associated with one or more Service objects...
+* **tags**: [kubernetes](../tagged/kubernetes.md), [google-cloud-platform](../tagged/google-cloud-platform.md), [ingress](../tagged/ingress.md), [load-balancing](../tagged/load-balancing.md)
+---
+#### [Understanding Kubernetes Kube-Proxy](https://supergiant.io/blog/understanding-kubernetes-kube-proxy/)
+_<sup>https://supergiant.io/blog/understanding-kubernetes-kube-proxy/</sup>_
+
+In this article, we discuss Kubernetes kube-proxy and its modes focusing on how it interacts with netfilter and iptables.
+* :calendar: **published on**: 2019-04-11
+* **tags**: [kubernetes](../tagged/kubernetes.md), [kube-proxy](../tagged/kube-proxy.md), [netfilter](../tagged/netfilter.md), [networking](../tagged/networking.md), [reverse-proxy](../tagged/reverse-proxy.md), [iptables](../tagged/iptables.md)
+---
+#### [Affordable Kubernetes Cluster - Devonblog](https://devonblog.com/containers/affordable-kubernetes-cluster/)
+_<sup>https://devonblog.com/containers/affordable-kubernetes-cluster/</sup>_
+
+Affordable Kubernetes cluster
+* **tags**: [kubernetes](../tagged/kubernetes.md), [cluster-computing](../tagged/cluster-computing.md)
+---
+#### [Setting Resource Requests and Limits in Kubernetes (Kubernetes Best Practices) - 9min](https://www.youtube.com/watch?v=xjpHggHKm78)
+_<sup>https://www.youtube.com/watch?v=xjpHggHKm78</sup>_
+
+In this episode of Kubernetes Best Practices, Sandeep Dinesh shows how Kubernetes resource requests and limits can help you keep your containers under control.
+
+See the associated article here → [http...
+* **tags**: [kubernetes](../tagged/kubernetes.md), [throttling](../tagged/throttling.md)
+---
+#### [Enable Rolling updates in Kubernetes with Zero downtime](https://medium.com/platformer-blog/enable-rolling-updates-in-kubernetes-with-zero-downtime-31d7ec388c81)
+_<sup>https://medium.com/platformer-blog/enable-rolling-updates-in-kubernetes-with-zero-downtime-31d7ec388...</sup>_
+
+Recently, a couple of my colleagues were trying to deploy some applications using Kubernetes and noticed a little bit of a downtime when they tried to deploy a couple of updates. They were confused ov...
+* :calendar: **published on**: 2018-09-27
+* **tags**: [kubernetes](../tagged/kubernetes.md), [availability](../tagged/availability.md)
+---
+#### [Configuring load balancing through Ingress](https://cloud.google.com/kubernetes-engine/docs/how-to/load-balance-ingress)
+_<sup>https://cloud.google.com/kubernetes-engine/docs/how-to/load-balance-ingress</sup>_
+
+This page shows how to configure an [HTTP(S) load balancer](https://cloud.google.com/load-balancing/docs/https/) by creating a Kubernetes Ingress object. An Ingress object must be associated with one ...
+* **tags**: [google-cloud](../tagged/google-cloud.md), [kubernetes](../tagged/kubernetes.md), [ingress](../tagged/ingress.md), [google-cloud-platform](../tagged/google-cloud-platform.md), [load-balancing](../tagged/load-balancing.md)
+---
+#### [Declarative Management of Kubernetes Objects Using Kustomize - Kubernetes](https://kubernetes.io/docs/tasks/manage-kubernetes-objects/kustomization/)
+_<sup>https://kubernetes.io/docs/tasks/manage-kubernetes-objects/kustomization/</sup>_
+
+* Overview of Kustomize
+* Bases and Overlays
+* How to apply/view/delete objects using Kustomize
+* Kustomize Feature List
+* What's next
+
+* **tags**: [kubernetes](../tagged/kubernetes.md), [kustomize](../tagged/kustomize.md), [docs](../tagged/docs.md)
+---
+#### [Kubectl Reference Docs](https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands)
+_<sup>https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands</sup>_
+
+Kubectl Commands Reference
+* **tags**: [kubernetes](../tagged/kubernetes.md), [kubectl](../tagged/kubectl.md), [docs](../tagged/docs.md)
+---
+#### [Centralized Logging Solution for Google Cloud Platform (Cloud Next '18) - 41min](https://www.youtube.com/watch?v=6GQqneNFVkU)
+_<sup>https://www.youtube.com/watch?v=6GQqneNFVkU</sup>_
+
+What do configuration changes, stack traces and billing events all have in common? You’ll want them all in your centralized log management system. In this session, we’ll give practical guidance on con...
+* :calendar: **published on**: 2018-07-27
+* **tags**: [kubernetes](../tagged/kubernetes.md), [stackdriver](../tagged/stackdriver.md), [google-cloud-platform](../tagged/google-cloud-platform.md), [fluentd](../tagged/fluentd.md), [logging](../tagged/logging.md)
+---
+#### [Load Balancing and Reverse Proxying for Kubernetes Services](https://medium.com/@chamilad/load-balancing-and-reverse-proxying-for-kubernetes-services-f03dd0efe80)
+_<sup>https://medium.com/@chamilad/load-balancing-and-reverse-proxying-for-kubernetes-services-f03dd0efe80</sup>_
+
+In this post, I’m going to tackle a topic that any K8s novice would start to think about, once they have cleared the basic concepts. **How would one go about exposing the services deployed inside a K8...
+* :calendar: **published on**: 2019-02-28
+* **tags**: [kubernetes](../tagged/kubernetes.md), [load-balancing](../tagged/load-balancing.md)
+---
+#### [Kong: Kubernetes Ingress Controller - KongHQ](https://konghq.com/blog/kong-kubernetes-ingress-controller/)
+_<sup>https://konghq.com/blog/kong-kubernetes-ingress-controller/</sup>_
+
+Kong's Kubernetes Ingress Controller can power-drive your APIs and microservices on top of the Kubernetes platform
+
+**See video from the link**
+* **tags**: [kong](../tagged/kong.md), [kubernetes](../tagged/kubernetes.md)
+---
+#### [Life of a packet through Istio by Matt Turner - YouTube](https://www.youtube.com/watch?v=cB611FtjHcQ)
+_<sup>https://www.youtube.com/watch?v=cB611FtjHcQ</sup>_
+
+Istio is a service mesh for Kubernetes that offers advanced networking features. It provides intelligent routing, resiliency, and security features, so that service authors don't have to keep re-imple...
+* :calendar: **published on**: 2018-12-13
+* **tags**: [istio](../tagged/istio.md), [kubernetes](../tagged/kubernetes.md), [service-mesh](../tagged/service-mesh.md), [networking](../tagged/networking.md)
+---
+#### [NGINX Ingress Controller Home Page](https://kubernetes.github.io/ingress-nginx/)
+_<sup>https://kubernetes.github.io/ingress-nginx/</sup>_
+
+This repository contains the NGINX controller built around the [Kubernetes Ingress resource](http://kubernetes.io/docs/user-guide/ingress/) that uses [ConfigMap](https://kubernetes.io/docs/tasks/confi...
+* **tags**: [kubernetes](../tagged/kubernetes.md), [load-balancing](../tagged/load-balancing.md), [nginx](../tagged/nginx.md)
+* :octocat: **[source code](https://github.com/kubernetes/ingress-nginx)**
+---
+#### [Using ChartMuseum as a chart repository for helm - Stakater - Medium](https://medium.com/stakater/using-chartmuseum-as-a-chart-repository-for-helm-b4d12205f4c9)
+_<sup>https://medium.com/stakater/using-chartmuseum-as-a-chart-repository-for-helm-b4d12205f4c9</sup>_
+
+You’ve probably been using helm for a while and thinking of using it as a means to deploy your custom applications but didn’t know how exactly to go by it? Well today we’ll be going through a series o...
+* :calendar: **published on**: 2018-02-24
+* **tags**: [helm](../tagged/helm.md), [kubernetes](../tagged/kubernetes.md)
+---
+#### [ChartMuseum - Helm Chart Repository](https://chartmuseum.com/docs/)
+_<sup>https://chartmuseum.com/docs/</sup>_
+
+ChartMuseum is an open-source Helm Chart Repository server written in Go (Golang), with support for cloud storage backends, including Google Cloud Storage, Amazon S3, Microsoft Azure Blob Storage, Ali...
+* **tags**: [helm](../tagged/helm.md), [kubernetes](../tagged/kubernetes.md), [docs](../tagged/docs.md), [go](../tagged/go.md)
+* :octocat: **[source code](https://github.com/helm/chartmuseum)**
+---
+#### [Injecting multiple Kubernetes volumes to the same directory](https://blog.sebastian-daschner.com/entries/multiple-kubernetes-volumes-directory)
+_<sup>https://blog.sebastian-daschner.com/entries/multiple-kubernetes-volumes-directory</sup>_
+
+Kubernetes config maps and secrets allow use to inject configuration files into containers. If we want multiple config entries that originate from different config maps or secrets to be injected into ...
+* :calendar: **published on**: 2018-04-18
+* **tags**: [kubernetes](../tagged/kubernetes.md)
+---
+#### [Learn Kubernetes in Under 3 Hours: A Detailed Guide to Orchestrating Containers](https://www.freecodecamp.org/news/learn-kubernetes-in-under-3-hours-a-detailed-guide-to-orchestrating-containers-114ff420e882/)
+_<sup>https://www.freecodecamp.org/news/learn-kubernetes-in-under-3-hours-a-detailed-guide-to-orchestratin...</sup>_
+
+These guides assume the reader knows about application development, Microservices, and Docker containers.
+
+In this Article we will go from :
+
+1. Running a Microservice based application on your comput...
+* :calendar: **published on**: 2018-04-14
+* **tags**: [kubernetes](../tagged/kubernetes.md), [docker](../tagged/docker.md), [dockerfile](../tagged/dockerfile.md), [reactjs](../tagged/reactjs.md), [python](../tagged/python.md), [flask](../tagged/flask.md)
+* :octocat: **[source code](https://github.com/rinormaloku/k8s-mastery)**
+---
 #### [Kubernetes NodePort vs LoadBalancer vs Ingress? When should I use what?](https://medium.com/google-cloud/kubernetes-nodeport-vs-loadbalancer-vs-ingress-when-should-i-use-what-922f010849e0)
 _<sup>https://medium.com/google-cloud/kubernetes-nodeport-vs-loadbalancer-vs-ingress-when-should-i-use-wha...</sup>_
 
@@ -4061,7 +4235,7 @@ _<sup>https://skaffold.dev/</sup>_
 Easy and Repeatable Kubernetes Development
 
 * [integration annotated-example](https://github.com/GoogleContainerTools/skaffold/blob/b9c979d7b59a15bba9e4a9c7977ece407b21d0c4/integration/examples/annota...
-* **tags**: [skaffold](../tagged/skaffold.md), [kubernetes](../tagged/kubernetes.md)
+* **tags**: [skaffold](../tagged/skaffold.md), [kubernetes](../tagged/kubernetes.md), [api](../tagged/api.md)
 * :octocat: **[source code](https://github.com/GoogleContainerTools/skaffold)**
 ---
 #### [Using Kubernetes for Local Development](https://nemethgergely.com/using-kubernetes-for-local-development/)

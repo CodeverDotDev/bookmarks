@@ -2,6 +2,20 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/skaffold](https://www.bookmarks.dev/tagged/skaffold)</sup></sup>_
 ---
+#### [A cleaner multi-stage continuous deployment on Kubernetes of a Create React App with kustomize, helm and skaffold – CodepediaOrg](https://www.codepedia.org/ama/a-cleaner-multi-stage-deployment-on-kubernetes-of-a-create-react-app-with-kustomize-helm-and-skaffold)
+_<sup>https://www.codepedia.org/ama/a-cleaner-multi-stage-deployment-on-kubernetes-of-a-create-react-app-w...</sup>_
+
+This blog posts presents a clean way to make a multi-stage deployment of a Create React App on a Kubernetes Cluster. Deployments with kubectl, helm charts, kustomize and skaffold are presented.
+* :calendar: **published on**: 2019-09-03
+* **tags**: [reactjs](../tagged/reactjs.md), [kubernetes](../tagged/kubernetes.md), [devops](../tagged/devops.md), [kustomize](../tagged/kustomize.md), [kubectl](../tagged/kubectl.md), [helm](../tagged/helm.md), [skaffold](../tagged/skaffold.md)
+* :octocat: **[source code](https://github.com/CodepediaOrg/multi-stage-react-app-example)**
+---
+#### [Skaffold port forwarding](https://skaffold.dev/docs/how-tos/portforward/)
+_<sup>https://skaffold.dev/docs/how-tos/portforward/</sup>_
+
+This page discusses how to set up port forwarding with Skaffold for `skaffold dev` and `skaffold debug`.
+* **tags**: [skaffold](../tagged/skaffold.md)
+---
 #### [Continuous Development with Java and Kubernetes - DEV Community 👩‍💻👨‍💻](https://dev.to/pozo/continuous-development-with-java-and-kubernetes-3d08)
 _<sup>https://dev.to/pozo/continuous-development-with-java-and-kubernetes-3d08</sup>_
 
@@ -33,7 +47,7 @@ _<sup>https://skaffold.dev/</sup>_
 Easy and Repeatable Kubernetes Development
 
 * [integration annotated-example](https://github.com/GoogleContainerTools/skaffold/blob/b9c979d7b59a15bba9e4a9c7977ece407b21d0c4/integration/examples/annota...
-* **tags**: [skaffold](../tagged/skaffold.md), [kubernetes](../tagged/kubernetes.md)
+* **tags**: [skaffold](../tagged/skaffold.md), [kubernetes](../tagged/kubernetes.md), [api](../tagged/api.md)
 * :octocat: **[source code](https://github.com/GoogleContainerTools/skaffold)**
 ---
 #### [Using Kubernetes for Local Development](https://nemethgergely.com/using-kubernetes-for-local-development/)

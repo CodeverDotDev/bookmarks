@@ -2,6 +2,34 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/helm](https://www.bookmarks.dev/tagged/helm)</sup></sup>_
 ---
+#### [A cleaner multi-stage continuous deployment on Kubernetes of a Create React App with kustomize, helm and skaffold – CodepediaOrg](https://www.codepedia.org/ama/a-cleaner-multi-stage-deployment-on-kubernetes-of-a-create-react-app-with-kustomize-helm-and-skaffold)
+_<sup>https://www.codepedia.org/ama/a-cleaner-multi-stage-deployment-on-kubernetes-of-a-create-react-app-w...</sup>_
+
+This blog posts presents a clean way to make a multi-stage deployment of a Create React App on a Kubernetes Cluster. Deployments with kubectl, helm charts, kustomize and skaffold are presented.
+* :calendar: **published on**: 2019-09-03
+* **tags**: [reactjs](../tagged/reactjs.md), [kubernetes](../tagged/kubernetes.md), [devops](../tagged/devops.md), [kustomize](../tagged/kustomize.md), [kubectl](../tagged/kubectl.md), [helm](../tagged/helm.md), [skaffold](../tagged/skaffold.md)
+* :octocat: **[source code](https://github.com/CodepediaOrg/multi-stage-react-app-example)**
+---
+#### [Using ChartMuseum as a chart repository for helm - Stakater - Medium](https://medium.com/stakater/using-chartmuseum-as-a-chart-repository-for-helm-b4d12205f4c9)
+_<sup>https://medium.com/stakater/using-chartmuseum-as-a-chart-repository-for-helm-b4d12205f4c9</sup>_
+
+You’ve probably been using helm for a while and thinking of using it as a means to deploy your custom applications but didn’t know how exactly to go by it? Well today we’ll be going through a series o...
+* :calendar: **published on**: 2018-02-24
+* **tags**: [helm](../tagged/helm.md), [kubernetes](../tagged/kubernetes.md)
+---
+#### [everyday useful helm charts commands · GitHub](https://gist.github.com/adrianmatei-me/4c7da5851c99a0fdbb407661a12022a1)
+_<sup>https://gist.github.com/adrianmatei-me/4c7da5851c99a0fdbb407661a12022a1</sup>_
+
+Useful everyday helm charts commands.
+* **tags**: [helm](../tagged/helm.md)
+---
+#### [ChartMuseum - Helm Chart Repository](https://chartmuseum.com/docs/)
+_<sup>https://chartmuseum.com/docs/</sup>_
+
+ChartMuseum is an open-source Helm Chart Repository server written in Go (Golang), with support for cloud storage backends, including Google Cloud Storage, Amazon S3, Microsoft Azure Blob Storage, Ali...
+* **tags**: [helm](../tagged/helm.md), [kubernetes](../tagged/kubernetes.md), [docs](../tagged/docs.md), [go](../tagged/go.md)
+* :octocat: **[source code](https://github.com/helm/chartmuseum)**
+---
 #### [Helm Chart Templates](https://helm.sh/docs/chart_template_guide/)
 _<sup>https://helm.sh/docs/chart_template_guide/</sup>_
 

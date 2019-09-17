@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/glossary](https://www.bookmarks.dev/tagged/glossary)</sup></sup>_
 ---
+#### [Standardized Glossary - Kubernetes](https://kubernetes.io/docs/reference/glossary/)
+_<sup>https://kubernetes.io/docs/reference/glossary/</sup>_
+
+This glossary is intended to be a comprehensive, standardized list of Kubernetes terminology. It includes technical terms that are specific to K8s, as well as more general terms that provide useful co...
+* **tags**: [kubernetes](../tagged/kubernetes.md), [glossary](../tagged/glossary.md)
+---
 #### [Hungarian notation - Wikipedia](https://en.wikipedia.org/wiki/Hungarian_notation)
 _<sup>https://en.wikipedia.org/wiki/Hungarian_notation</sup>_
 
