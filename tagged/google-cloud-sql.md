@@ -12,6 +12,6 @@ Cloud SQL is a fully-managed database service that makes it easy to set up, main
 _<sup>https://github.com/GoogleCloudPlatform/deploymentmanager-samples/tree/master/google/resource-snippet...</sup>_
 
 Deployment Manager samples and templates.
-* **tags**: [google-deployment-manager](../tagged/google-deployment-manager.md), [google-cloud-sql](../tagged/google-cloud-sql.md), [google-pubsub](../tagged/google-pubsub.md)
+* **tags**: [google-deployment-manager](../tagged/google-deployment-manager.md), [google-cloud-sql](../tagged/google-cloud-sql.md), [google-cloud-pubsub](../tagged/google-cloud-pubsub.md)
 * :octocat: **[source code](https://github.com/GoogleCloudPlatform/deploymentmanager-samples/tree/master/google/resource-snippets)**
 ---

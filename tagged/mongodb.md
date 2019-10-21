@@ -2,6 +2,16 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/mongodb](https://www.bookmarks.dev/tagged/mongodb)</sup></sup>_
 ---
+#### [Docker compose with Node.js and MongoDB - Hagai Kahana - Medium](https://medium.com/@kahana.hagai/docker-compose-with-node-js-and-mongodb-dbdadab5ce0a)
+_<sup>https://medium.com/@kahana.hagai/docker-compose-with-node-js-and-mongodb-dbdadab5ce0a</sup>_
+
+This is the first of a series of posts trying to demonstrate real (simple) examples of deploying multi distributed applications across multiple platform and environments.
+
+The purpose of this post is ...
+* :calendar: **published on**: 2017-12-03
+* **tags**: [docker-compose](../tagged/docker-compose.md), [mongodb](../tagged/mongodb.md), [nodejs](../tagged/nodejs.md)
+* :octocat: **[source code](https://github.com/hagaik/easy-node-authentication)**
+---
 #### [awesome-mongodb](https://github.com/ramnes/awesome-mongodb#readme)
 _<sup>https://github.com/ramnes/awesome-mongodb#readme</sup>_
 

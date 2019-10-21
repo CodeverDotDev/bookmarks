@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/java](https://www.bookmarks.dev/tagged/java)</sup></sup>_
 ---
+#### [Togglz - Features flag for Java](https://www.togglz.org/)
+_<sup>https://www.togglz.org/</sup>_
+
+Togglz is an implementation of the [Feature Toggles](http://martinfowler.com/bliki/FeatureToggle.html) pattern for Java. Feature Toggles are a very common agile development practices in the context of...
+* **tags**: [java](../tagged/java.md), [continuous-deployment](../tagged/continuous-deployment.md), [agile](../tagged/agile.md)
+* :octocat: **[source code](https://github.com/togglz/togglz)**
+---
 #### [Basic JavaScript: Manipulating Complex Objects | Learn freeCodeCamp](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/manipulating-complex-objects)
 _<sup>https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/manipulati...</sup>_
 
@@ -4868,7 +4875,9 @@ This tutorial will get into Java reflection in depth. It will explain the basics
 #### [MapStruct – Java bean mappings, the easy way!](http://mapstruct.org/)
 _<sup>http://mapstruct.org/</sup>_
 
-MapStruct is a Java annotation processor for the generation of type-safe and performant mappers for Java bean classes. It saves you from writing mapping code by hand, which is a tedious and error-pron...
+[Docs](https://mapstruct.org/documentation/)
+
+MapStruct is a Java annotation processor for the generation of type-safe and performant mappers for Java bean classes. It saves you from writing mapping c...
 * **tags**: [java](../tagged/java.md), [mapper](../tagged/mapper.md), [mapping](../tagged/mapping.md)
 * :octocat: **[source code](https://github.com/mapstruct/mapstruct)**
 ---

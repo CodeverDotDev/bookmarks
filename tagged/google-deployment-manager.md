@@ -6,7 +6,7 @@ _<sup><sup>[www.bookmarks.dev/tagged/google-deployment-manager](https://www.book
 _<sup>https://github.com/GoogleCloudPlatform/deploymentmanager-samples/tree/master/google/resource-snippet...</sup>_
 
 Deployment Manager samples and templates.
-* **tags**: [google-deployment-manager](../tagged/google-deployment-manager.md), [google-cloud-sql](../tagged/google-cloud-sql.md), [google-pubsub](../tagged/google-pubsub.md)
+* **tags**: [google-deployment-manager](../tagged/google-deployment-manager.md), [google-cloud-sql](../tagged/google-cloud-sql.md), [google-cloud-pubsub](../tagged/google-cloud-pubsub.md)
 * :octocat: **[source code](https://github.com/GoogleCloudPlatform/deploymentmanager-samples/tree/master/google/resource-snippets)**
 ---
 #### [Supported resource types for Google Deployment Manager](https://cloud.google.com/deployment-manager/docs/configuration/supported-resource-types)

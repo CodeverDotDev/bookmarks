@@ -2,6 +2,64 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/docker](https://www.bookmarks.dev/tagged/docker)</sup></sup>_
 ---
+#### [docker-node/BestPractices.md at master · nodejs/docker-node · GitHub](https://github.com/nodejs/docker-node/blob/master/docs/BestPractices.md)
+_<sup>https://github.com/nodejs/docker-node/blob/master/docs/BestPractices.md</sup>_
+
+ Table of Contents
+
+* Environment Variables
+* Global npm dependencies
+* Upgrading/downgrading Yarn
+* Handling Kernel Signals
+* Non-root User
+* Memory
+* CMD
+* Docker Run
+* Security
+node-gyp in alpi...
+* **tags**: [docker](../tagged/docker.md), [nodejs](../tagged/nodejs.md)
+* :octocat: **[source code](https://github.com/nodejs/docker-node/blob/master/docs/BestPractices.md)**
+---
+#### [GitHub - BretFisher/node-docker-good-defaults](https://github.com/BretFisher/node-docker-good-defaults)
+_<sup>https://github.com/BretFisher/node-docker-good-defaults</sup>_
+
+Sample node app for Docker examples
+* **tags**: [nodejs](../tagged/nodejs.md), [docker](../tagged/docker.md), [docker-compose](../tagged/docker-compose.md)
+* :octocat: **[source code](https://github.com/BretFisher/node-docker-good-defaults)**
+---
+#### [Docker and Node.js Best Practices from Bret Fisher at DockerCon  - 42min](https://www.youtube.com/watch?v=Zgx0o8QjJk4)
+_<sup>https://www.youtube.com/watch?v=Zgx0o8QjJk4</sup>_
+
+My talk on all the best of Docker for Node.js developers and DevOps dealing with Node apps. From DockerCon 2019. 
+* :calendar: **published on**: 2019-06-10
+* **tags**: [docker](../tagged/docker.md), [nodejs](../tagged/nodejs.md), [docker-compose](../tagged/docker-compose.md), [nodemon](../tagged/nodemon.md)
+* :octocat: **[source code](https://github.com/BretFisher/dockercon19)**
+---
+#### [Dockerizing a Node.js web app | Node.js](https://nodejs.org/de/docs/guides/nodejs-docker-webapp/)
+_<sup>https://nodejs.org/de/docs/guides/nodejs-docker-webapp/</sup>_
+
+The goal of this example is to show you how to get a Node.js application into a Docker container. The guide is intended for development, and not for a production deployment. The guide also assumes you...
+* **tags**: [nodejs](../tagged/nodejs.md), [docker](../tagged/docker.md)
+---
+#### [Docker Tips : Development With Nodemon - Better Programming - Medium](https://medium.com/better-programming/docker-in-development-with-nodemon-d500366e74df)
+_<sup>https://medium.com/better-programming/docker-in-development-with-nodemon-d500366e74df</sup>_
+
+I have delivered several Docker trainings during the last few weeks and some questions come back quite often. For example:
+
+*Q: When developing my application, how can I get my changes to be taken int...
+* :calendar: **published on**: 2017-12-20
+* **tags**: [docker](../tagged/docker.md), [nodejs](../tagged/nodejs.md), [nodemon](../tagged/nodemon.md)
+* :octocat: **[source code](https://github.com/dockersamples/example-voting-app)**
+---
+#### [Selecting A Node.js Image for Docker](https://derickbailey.com/2017/03/09/selecting-a-node-js-image-for-docker/)
+_<sup>https://derickbailey.com/2017/03/09/selecting-a-node-js-image-for-docker/</sup>_
+
+Before you begin to run your Node.js application in a Docker container, or even build the app into a container, you have to answer an important question and make a key decision:
+
+**Which base Node.js ...
+* :calendar: **published on**: 2017-03-09
+* **tags**: [nodejs](../tagged/nodejs.md), [docker](../tagged/docker.md), [alpine](../tagged/alpine.md)
+---
 #### [Piggy Metrics](https://piggymetrics.tk/)
 _<sup>https://piggymetrics.tk/</sup>_
 
@@ -252,7 +310,7 @@ Types of mounts and where they live on the Docker host
 _<sup>https://github.com/dockersamples/example-voting-app</sup>_
 
 Example Docker Compose app. A simple distributed application running across multiple Docker containers.
-* **tags**: [docker](../tagged/docker.md), [docker-compose](../tagged/docker-compose.md)
+* **tags**: [docker](../tagged/docker.md), [docker-compose](../tagged/docker-compose.md), [python](../tagged/python.md), [nodejs](../tagged/nodejs.md), [redis](../tagged/redis.md)
 * :octocat: **[source code](https://github.com/dockersamples/example-voting-app)**
 ---
 #### [GitHub - docker/docker-bench-security](https://github.com/docker/docker-bench-security)

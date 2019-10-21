@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/stream-processing](https://www.bookmarks.dev/tagged/stream-processing)</sup></sup>_
 ---
+#### [Apache Beam Home Page](https://beam.apache.org/)
+_<sup>https://beam.apache.org/</sup>_
+
+Apache Beam is an open source, unified model and set of language-specific SDKs for defining and executing data processing workflows, and also data ingestion and integration flows, supporting Enterpris...
+* **tags**: [batch-processing](../tagged/batch-processing.md), [stream-processing](../tagged/stream-processing.md), [apache-beam](../tagged/apache-beam.md)
+* :octocat: **[source code](https://github.com/apache/beam)**
+---
 #### [faust](https://github.com/robinhood/faust)
 _<sup>https://github.com/robinhood/faust</sup>_
 

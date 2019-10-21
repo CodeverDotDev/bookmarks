@@ -2,6 +2,19 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/spring-boot](https://www.bookmarks.dev/tagged/spring-boot)</sup></sup>_
 ---
+#### [Apache CXF - Spring Boot SOAP Web Service Client Server Example](https://www.codenotfound.com/apache-cxf-spring-boot-soap-web-service-client-server-example.html)
+_<sup>https://www.codenotfound.com/apache-cxf-spring-boot-soap-web-service-client-server-example.html</sup>_
+
+A detailed step-by-step tutorial on how to implement a Hello World web service starting from a WSDL and using Apache CXF and Spring Boot.
+* **tags**: [apache-cxf](../tagged/apache-cxf.md), [spring-boot](../tagged/spring-boot.md), [java-ws](../tagged/java-ws.md)
+* :octocat: **[source code](https://github.com/code-not-found/cxf-jaxws/tree/master/cxf-jaxws-spring-boot)**
+---
+#### [Spring Boot Externalized Configuration](https://docs.spring.io/spring-boot/docs/current/reference/html/boot-features-external-config.html)
+_<sup>https://docs.spring.io/spring-boot/docs/current/reference/html/boot-features-external-config.html</sup>_
+
+Spring Boot lets you externalize your configuration so that you can work with the same application code in different environments. You can use properties files, YAML files, environment variables, and ...
+* **tags**: [spring-boot](../tagged/spring-boot.md), [environment-variables](../tagged/environment-variables.md)
+---
 #### [Piggy Metrics](https://piggymetrics.tk/)
 _<sup>https://piggymetrics.tk/</sup>_
 

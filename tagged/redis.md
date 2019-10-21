@@ -22,6 +22,13 @@ Jedis is fully compatible with redis 2.8.x, 3.x.x...
 * **tags**: [redis](../tagged/redis.md), [java](../tagged/java.md)
 * :octocat: **[source code](https://github.com/xetorthio/jedis)**
 ---
+#### [GitHub - dockersamples/example-voting-app](https://github.com/dockersamples/example-voting-app)
+_<sup>https://github.com/dockersamples/example-voting-app</sup>_
+
+Example Docker Compose app. A simple distributed application running across multiple Docker containers.
+* **tags**: [docker](../tagged/docker.md), [docker-compose](../tagged/docker-compose.md), [python](../tagged/python.md), [nodejs](../tagged/nodejs.md), [redis](../tagged/redis.md)
+* :octocat: **[source code](https://github.com/dockersamples/example-voting-app)**
+---
 #### [Reactive Spring - Josh Long, Mark Heckler - YouTube](https://www.youtube.com/watch?v=l7VBdWhtl7A)
 _<sup>https://www.youtube.com/watch?v=l7VBdWhtl7A</sup>_
 

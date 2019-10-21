@@ -2,6 +2,15 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/google-cloud-platform](https://www.bookmarks.dev/tagged/google-cloud-platform)</sup></sup>_
 ---
+#### [Spring Cloud GCP Home Page](https://spring.io/projects/spring-cloud-gcp)
+_<sup>https://spring.io/projects/spring-cloud-gcp</sup>_
+
+The Spring Cloud GCP project makes the Spring Framework a first-class citizen of Google Cloud Platform (GCP).
+
+[Spring Cloud GCP Code Samples](https://github.com/spring-cloud/spring-cloud-gcp/tree/mas...
+* **tags**: [spring](../tagged/spring.md), [spring-cloud](../tagged/spring-cloud.md), [google-cloud-platform](../tagged/google-cloud-platform.md)
+* :octocat: **[source code](https://github.com/spring-cloud/spring-cloud-gcp)**
+---
 #### [Node.JS on Google Cloud Platform](https://cloud.google.com/nodejs)
 _<sup>https://cloud.google.com/nodejs</sup>_
 

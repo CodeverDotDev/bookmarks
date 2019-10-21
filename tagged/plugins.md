@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/plugins](https://www.bookmarks.dev/tagged/plugins)</sup></sup>_
 ---
+#### [MapStruct Support - Plugins | JetBrains](https://plugins.jetbrains.com/plugin/10036-mapstruct-support)
+_<sup>https://plugins.jetbrains.com/plugin/10036-mapstruct-support</sup>_
+
+This plugin gives some assistence in projects that use [MapStruct](http://mapstruct.org/) to generate bean mapping code.
+* **tags**: [intellij](../tagged/intellij.md), [plugins](../tagged/plugins.md), [mapstruct](../tagged/mapstruct.md)
+* :octocat: **[source code](https://github.com/mapstruct/mapstruct-idea)**
+---
 #### [Official Next.js plugins](https://github.com/zeit/next-plugins)
 _<sup>https://github.com/zeit/next-plugins</sup>_
 

@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/scrum](https://www.bookmarks.dev/tagged/scrum)</sup></sup>_
 ---
+#### [The Scrum Guide](https://www.scrumguides.org/scrum-guide.html)
+_<sup>https://www.scrumguides.org/scrum-guide.html</sup>_
+
+The Scrum Guide English version
+* **tags**: [scrum](../tagged/scrum.md)
+---
 #### [Make the Product Backlog DEEP](https://mountaingoatsoftware.com/blog/make-the-product-backlog-deep)
 _<sup>https://mountaingoatsoftware.com/blog/make-the-product-backlog-deep</sup>_
 

@@ -2,6 +2,81 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/nodejs](https://www.bookmarks.dev/tagged/nodejs)</sup></sup>_
 ---
+#### [docker-node/BestPractices.md at master · nodejs/docker-node · GitHub](https://github.com/nodejs/docker-node/blob/master/docs/BestPractices.md)
+_<sup>https://github.com/nodejs/docker-node/blob/master/docs/BestPractices.md</sup>_
+
+ Table of Contents
+
+* Environment Variables
+* Global npm dependencies
+* Upgrading/downgrading Yarn
+* Handling Kernel Signals
+* Non-root User
+* Memory
+* CMD
+* Docker Run
+* Security
+node-gyp in alpi...
+* **tags**: [docker](../tagged/docker.md), [nodejs](../tagged/nodejs.md)
+* :octocat: **[source code](https://github.com/nodejs/docker-node/blob/master/docs/BestPractices.md)**
+---
+#### [GitHub - BretFisher/node-docker-good-defaults](https://github.com/BretFisher/node-docker-good-defaults)
+_<sup>https://github.com/BretFisher/node-docker-good-defaults</sup>_
+
+Sample node app for Docker examples
+* **tags**: [nodejs](../tagged/nodejs.md), [docker](../tagged/docker.md), [docker-compose](../tagged/docker-compose.md)
+* :octocat: **[source code](https://github.com/BretFisher/node-docker-good-defaults)**
+---
+#### [Docker and Node.js Best Practices from Bret Fisher at DockerCon  - 42min](https://www.youtube.com/watch?v=Zgx0o8QjJk4)
+_<sup>https://www.youtube.com/watch?v=Zgx0o8QjJk4</sup>_
+
+My talk on all the best of Docker for Node.js developers and DevOps dealing with Node apps. From DockerCon 2019. 
+* :calendar: **published on**: 2019-06-10
+* **tags**: [docker](../tagged/docker.md), [nodejs](../tagged/nodejs.md), [docker-compose](../tagged/docker-compose.md), [nodemon](../tagged/nodemon.md)
+* :octocat: **[source code](https://github.com/BretFisher/dockercon19)**
+---
+#### [GitHub - hunterloftis/stoppable](https://github.com/hunterloftis/stoppable)
+_<sup>https://github.com/hunterloftis/stoppable</sup>_
+
+Node's `server.close` the way you expected it to work. - hunterloftis/stoppable
+* **tags**: [nodejs](../tagged/nodejs.md)
+* :octocat: **[source code](https://github.com/hunterloftis/stoppable)**
+---
+#### [Dockerizing a Node.js web app | Node.js](https://nodejs.org/de/docs/guides/nodejs-docker-webapp/)
+_<sup>https://nodejs.org/de/docs/guides/nodejs-docker-webapp/</sup>_
+
+The goal of this example is to show you how to get a Node.js application into a Docker container. The guide is intended for development, and not for a production deployment. The guide also assumes you...
+* **tags**: [nodejs](../tagged/nodejs.md), [docker](../tagged/docker.md)
+---
+#### [Docker Tips : Development With Nodemon - Better Programming - Medium](https://medium.com/better-programming/docker-in-development-with-nodemon-d500366e74df)
+_<sup>https://medium.com/better-programming/docker-in-development-with-nodemon-d500366e74df</sup>_
+
+I have delivered several Docker trainings during the last few weeks and some questions come back quite often. For example:
+
+*Q: When developing my application, how can I get my changes to be taken int...
+* :calendar: **published on**: 2017-12-20
+* **tags**: [docker](../tagged/docker.md), [nodejs](../tagged/nodejs.md), [nodemon](../tagged/nodemon.md)
+* :octocat: **[source code](https://github.com/dockersamples/example-voting-app)**
+---
+#### [Selecting A Node.js Image for Docker](https://derickbailey.com/2017/03/09/selecting-a-node-js-image-for-docker/)
+_<sup>https://derickbailey.com/2017/03/09/selecting-a-node-js-image-for-docker/</sup>_
+
+Before you begin to run your Node.js application in a Docker container, or even build the app into a container, you have to answer an important question and make a key decision:
+
+**Which base Node.js ...
+* :calendar: **published on**: 2017-03-09
+* **tags**: [nodejs](../tagged/nodejs.md), [docker](../tagged/docker.md), [alpine](../tagged/alpine.md)
+---
+#### [Docker compose with Node.js and MongoDB - Hagai Kahana - Medium](https://medium.com/@kahana.hagai/docker-compose-with-node-js-and-mongodb-dbdadab5ce0a)
+_<sup>https://medium.com/@kahana.hagai/docker-compose-with-node-js-and-mongodb-dbdadab5ce0a</sup>_
+
+This is the first of a series of posts trying to demonstrate real (simple) examples of deploying multi distributed applications across multiple platform and environments.
+
+The purpose of this post is ...
+* :calendar: **published on**: 2017-12-03
+* **tags**: [docker-compose](../tagged/docker-compose.md), [mongodb](../tagged/mongodb.md), [nodejs](../tagged/nodejs.md)
+* :octocat: **[source code](https://github.com/hagaik/easy-node-authentication)**
+---
 #### [TypeORM Home Page](http://typeorm.io/)
 _<sup>http://typeorm.io/</sup>_
 
@@ -16,11 +91,11 @@ Google Cloud Platform makes development easy using Node.js
 * **tags**: [nodejs](../tagged/nodejs.md), [google-cloud-platform](../tagged/google-cloud-platform.md)
 * :octocat: **[source code](https://github.com/GoogleCloudPlatform/nodejs-docs-samples)**
 ---
-#### [Cloud Pub/Sub Tutorial](https://cloud.google.com/functions/docs/tutorials/pubsub)
+#### [Google Cloud Pub/Sub Tutorial](https://cloud.google.com/functions/docs/tutorials/pubsub)
 _<sup>https://cloud.google.com/functions/docs/tutorials/pubsub</sup>_
 
 This simple tutorial demonstrates writing, deploying, and triggering a [Background Cloud Function](https://cloud.google.com/functions/docs/writing/background) with a [Cloud Pub/Sub trigger](https://cl...
-* **tags**: [google-cloud-functions](../tagged/google-cloud-functions.md), [google-pubsub](../tagged/google-pubsub.md), [nodejs](../tagged/nodejs.md), [python](../tagged/python.md), [go](../tagged/go.md)
+* **tags**: [google-cloud-functions](../tagged/google-cloud-functions.md), [nodejs](../tagged/nodejs.md), [python](../tagged/python.md), [go](../tagged/go.md), [google-cloud-pubsub](../tagged/google-cloud-pubsub.md)
 * :octocat: **[source code](https://github.com/GoogleCloudPlatform/nodejs-docs-samples/tree/master/functions/helloworld)**
 ---
 #### [GitHub - GoogleCloudPlatform/functions-framework-nodejs](https://github.com/GoogleCloudPlatform/functions-framework-nodejs)
@@ -4067,6 +4142,13 @@ If you have a number of applications and services, the applications may be HTML5
 * :calendar: **published on**: 2018-08-16
 * **tags**: [keycloak](../tagged/keycloak.md), [microservices](../tagged/microservices.md), [php](../tagged/php.md), [nodejs](../tagged/nodejs.md)
 * :octocat: **[source code](https://github.com/stianst/keycloak-demo/tree/master/demo-service)**
+---
+#### [GitHub - dockersamples/example-voting-app](https://github.com/dockersamples/example-voting-app)
+_<sup>https://github.com/dockersamples/example-voting-app</sup>_
+
+Example Docker Compose app. A simple distributed application running across multiple Docker containers.
+* **tags**: [docker](../tagged/docker.md), [docker-compose](../tagged/docker-compose.md), [python](../tagged/python.md), [nodejs](../tagged/nodejs.md), [redis](../tagged/redis.md)
+* :octocat: **[source code](https://github.com/dockersamples/example-voting-app)**
 ---
 #### [Nodemailer home page](http://nodemailer.com/)
 _<sup>http://nodemailer.com/</sup>_

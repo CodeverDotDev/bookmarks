@@ -2,11 +2,11 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/python](https://www.bookmarks.dev/tagged/python)</sup></sup>_
 ---
-#### [Cloud Pub/Sub Tutorial](https://cloud.google.com/functions/docs/tutorials/pubsub)
+#### [Google Cloud Pub/Sub Tutorial](https://cloud.google.com/functions/docs/tutorials/pubsub)
 _<sup>https://cloud.google.com/functions/docs/tutorials/pubsub</sup>_
 
 This simple tutorial demonstrates writing, deploying, and triggering a [Background Cloud Function](https://cloud.google.com/functions/docs/writing/background) with a [Cloud Pub/Sub trigger](https://cl...
-* **tags**: [google-cloud-functions](../tagged/google-cloud-functions.md), [google-pubsub](../tagged/google-pubsub.md), [nodejs](../tagged/nodejs.md), [python](../tagged/python.md), [go](../tagged/go.md)
+* **tags**: [google-cloud-functions](../tagged/google-cloud-functions.md), [nodejs](../tagged/nodejs.md), [python](../tagged/python.md), [go](../tagged/go.md), [google-cloud-pubsub](../tagged/google-cloud-pubsub.md)
 * :octocat: **[source code](https://github.com/GoogleCloudPlatform/nodejs-docs-samples/tree/master/functions/helloworld)**
 ---
 #### [Jinja Home Page](https://palletsprojects.com/p/jinja/)
@@ -4735,6 +4735,13 @@ _<sup>https://github.com/adafruit/awesome-circuitpython#readme</sup>_
 A curated list of awesome CircuitPython guides, videos, libraries, frameworks, software and resources. - adafruit/awesome-circuitpython
 * **tags**: [awesome-list](../tagged/awesome-list.md), [programming-languages](../tagged/programming-languages.md), [python](../tagged/python.md), [micropython](../tagged/micropython.md)
 * :octocat: **[source code](https://github.com/adafruit/awesome-circuitpython#readme)**
+---
+#### [GitHub - dockersamples/example-voting-app](https://github.com/dockersamples/example-voting-app)
+_<sup>https://github.com/dockersamples/example-voting-app</sup>_
+
+Example Docker Compose app. A simple distributed application running across multiple Docker containers.
+* **tags**: [docker](../tagged/docker.md), [docker-compose](../tagged/docker-compose.md), [python](../tagged/python.md), [nodejs](../tagged/nodejs.md), [redis](../tagged/redis.md)
+* :octocat: **[source code](https://github.com/dockersamples/example-voting-app)**
 ---
 #### [Docker SDK for Python](https://docker-py.readthedocs.io/)
 _<sup>https://docker-py.readthedocs.io/</sup>_

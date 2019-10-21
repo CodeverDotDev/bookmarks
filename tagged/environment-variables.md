@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/environment-variables](https://www.bookmarks.dev/tagged/environment-variables)</sup></sup>_
 ---
+#### [Spring Boot Externalized Configuration](https://docs.spring.io/spring-boot/docs/current/reference/html/boot-features-external-config.html)
+_<sup>https://docs.spring.io/spring-boot/docs/current/reference/html/boot-features-external-config.html</sup>_
+
+Spring Boot lets you externalize your configuration so that you can work with the same application code in different environments. You can use properties files, YAML files, environment variables, and ...
+* **tags**: [spring-boot](../tagged/spring-boot.md), [environment-variables](../tagged/environment-variables.md)
+---
 #### [Google Cloud Functions - Using Environment Variables](https://cloud.google.com/functions/docs/env-var)
 _<sup>https://cloud.google.com/functions/docs/env-var</sup>_
 

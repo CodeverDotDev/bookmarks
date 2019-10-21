@@ -2,11 +2,11 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/go](https://www.bookmarks.dev/tagged/go)</sup></sup>_
 ---
-#### [Cloud Pub/Sub Tutorial](https://cloud.google.com/functions/docs/tutorials/pubsub)
+#### [Google Cloud Pub/Sub Tutorial](https://cloud.google.com/functions/docs/tutorials/pubsub)
 _<sup>https://cloud.google.com/functions/docs/tutorials/pubsub</sup>_
 
 This simple tutorial demonstrates writing, deploying, and triggering a [Background Cloud Function](https://cloud.google.com/functions/docs/writing/background) with a [Cloud Pub/Sub trigger](https://cl...
-* **tags**: [google-cloud-functions](../tagged/google-cloud-functions.md), [google-pubsub](../tagged/google-pubsub.md), [nodejs](../tagged/nodejs.md), [python](../tagged/python.md), [go](../tagged/go.md)
+* **tags**: [google-cloud-functions](../tagged/google-cloud-functions.md), [nodejs](../tagged/nodejs.md), [python](../tagged/python.md), [go](../tagged/go.md), [google-cloud-pubsub](../tagged/google-cloud-pubsub.md)
 * :octocat: **[source code](https://github.com/GoogleCloudPlatform/nodejs-docs-samples/tree/master/functions/helloworld)**
 ---
 #### [ChartMuseum - Helm Chart Repository](https://chartmuseum.com/docs/)

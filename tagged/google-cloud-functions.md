@@ -2,6 +2,14 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/google-cloud-functions](https://www.bookmarks.dev/tagged/google-cloud-functions)</sup></sup>_
 ---
+#### [Google Cloud Functions - Controlling Scaling Behavior](https://cloud.google.com/functions/docs/max-instances)
+_<sup>https://cloud.google.com/functions/docs/max-instances</sup>_
+
+Max instances in Cloud Functions is a feature that allows you to limit the degree to which your function will scale in response to incoming requests.
+
+In Cloud Functions, scaling is achieved by creati...
+* **tags**: [google-cloud-functions](../tagged/google-cloud-functions.md), [scalability](../tagged/scalability.md)
+---
 #### [MySQL on Cloud Functions](https://fireship.io/lessons/sql-firebase-typeorm/)
 _<sup>https://fireship.io/lessons/sql-firebase-typeorm/</sup>_
 
@@ -15,11 +23,11 @@ _<sup>https://cloud.google.com/functions/docs/env-var</sup>_
 Environment variables in Cloud Functions is a feature that allows you to specify arbitrary key/value pairs at the time of deployment which will be surfaced as literal [environment variables](https://w...
 * **tags**: [google-cloud-functions](../tagged/google-cloud-functions.md), [environment-variables](../tagged/environment-variables.md)
 ---
-#### [Cloud Pub/Sub Tutorial](https://cloud.google.com/functions/docs/tutorials/pubsub)
+#### [Google Cloud Pub/Sub Tutorial](https://cloud.google.com/functions/docs/tutorials/pubsub)
 _<sup>https://cloud.google.com/functions/docs/tutorials/pubsub</sup>_
 
 This simple tutorial demonstrates writing, deploying, and triggering a [Background Cloud Function](https://cloud.google.com/functions/docs/writing/background) with a [Cloud Pub/Sub trigger](https://cl...
-* **tags**: [google-cloud-functions](../tagged/google-cloud-functions.md), [google-pubsub](../tagged/google-pubsub.md), [nodejs](../tagged/nodejs.md), [python](../tagged/python.md), [go](../tagged/go.md)
+* **tags**: [google-cloud-functions](../tagged/google-cloud-functions.md), [nodejs](../tagged/nodejs.md), [python](../tagged/python.md), [go](../tagged/go.md), [google-cloud-pubsub](../tagged/google-cloud-pubsub.md)
 * :octocat: **[source code](https://github.com/GoogleCloudPlatform/nodejs-docs-samples/tree/master/functions/helloworld)**
 ---
 #### [GitHub - GoogleCloudPlatform/functions-framework-nodejs](https://github.com/GoogleCloudPlatform/functions-framework-nodejs)

@@ -2,6 +2,22 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/spring-cloud](https://www.bookmarks.dev/tagged/spring-cloud)</sup></sup>_
 ---
+#### [Spring - Getting Started  - Messaging with Google Cloud Pub/Sub](https://spring.io/guides/gs/messaging-gcp-pubsub/)
+_<sup>https://spring.io/guides/gs/messaging-gcp-pubsub/</sup>_
+
+Messaging with Google Cloud Pub/Sub :: Learn how to exchange messages using Spring Integration channel adapters and Google Cloud Pub/Sub
+* **tags**: [google-cloud-pubsub](../tagged/google-cloud-pubsub.md), [spring-cloud](../tagged/spring-cloud.md), [spring-integration](../tagged/spring-integration.md)
+* :octocat: **[source code](https://github.com/spring-guides/gs-messaging-gcp-pubsub)**
+---
+#### [Spring Cloud GCP Home Page](https://spring.io/projects/spring-cloud-gcp)
+_<sup>https://spring.io/projects/spring-cloud-gcp</sup>_
+
+The Spring Cloud GCP project makes the Spring Framework a first-class citizen of Google Cloud Platform (GCP).
+
+[Spring Cloud GCP Code Samples](https://github.com/spring-cloud/spring-cloud-gcp/tree/mas...
+* **tags**: [spring](../tagged/spring.md), [spring-cloud](../tagged/spring-cloud.md), [google-cloud-platform](../tagged/google-cloud-platform.md)
+* :octocat: **[source code](https://github.com/spring-cloud/spring-cloud-gcp)**
+---
 #### [Piggy Metrics](https://piggymetrics.tk/)
 _<sup>https://piggymetrics.tk/</sup>_
 

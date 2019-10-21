@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/agile](https://www.bookmarks.dev/tagged/agile)</sup></sup>_
 ---
+#### [Togglz - Features flag for Java](https://www.togglz.org/)
+_<sup>https://www.togglz.org/</sup>_
+
+Togglz is an implementation of the [Feature Toggles](http://martinfowler.com/bliki/FeatureToggle.html) pattern for Java. Feature Toggles are a very common agile development practices in the context of...
+* **tags**: [java](../tagged/java.md), [continuous-deployment](../tagged/continuous-deployment.md), [agile](../tagged/agile.md)
+* :octocat: **[source code](https://github.com/togglz/togglz)**
+---
 #### [Make the Product Backlog DEEP](https://mountaingoatsoftware.com/blog/make-the-product-backlog-deep)
 _<sup>https://mountaingoatsoftware.com/blog/make-the-product-backlog-deep</sup>_
 

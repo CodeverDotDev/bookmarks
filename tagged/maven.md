@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/maven](https://www.bookmarks.dev/tagged/maven)</sup></sup>_
 ---
+#### [Quick Guide to MapStruct | Baeldung](https://www.baeldung.com/mapstruct)
+_<sup>https://www.baeldung.com/mapstruct</sup>_
+
+A quick and practical guide to using MapStruct
+* **tags**: [mapstruct](../tagged/mapstruct.md), [lombok](../tagged/lombok.md), [spring](../tagged/spring.md), [maven](../tagged/maven.md)
+* :octocat: **[source code](https://github.com/eugenp/tutorials/tree/master/mapstruct)**
+---
 #### [Intro Guide to Dockerfile Best Practices - Docker Blog](https://blog.docker.com/2019/07/intro-guide-to-dockerfile-best-practices/)
 _<sup>https://blog.docker.com/2019/07/intro-guide-to-dockerfile-best-practices/</sup>_
 

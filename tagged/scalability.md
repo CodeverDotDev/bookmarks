@@ -2,6 +2,14 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/scalability](https://www.bookmarks.dev/tagged/scalability)</sup></sup>_
 ---
+#### [Google Cloud Functions - Controlling Scaling Behavior](https://cloud.google.com/functions/docs/max-instances)
+_<sup>https://cloud.google.com/functions/docs/max-instances</sup>_
+
+Max instances in Cloud Functions is a feature that allows you to limit the degree to which your function will scale in response to incoming requests.
+
+In Cloud Functions, scaling is achieved by creati...
+* **tags**: [google-cloud-functions](../tagged/google-cloud-functions.md), [scalability](../tagged/scalability.md)
+---
 #### [awesome-scalable-css-reading-list](https://github.com/davidtheclark/scalable-css-reading-list#readme)
 _<sup>https://github.com/davidtheclark/scalable-css-reading-list#readme</sup>_
 

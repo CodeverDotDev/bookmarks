@@ -2,6 +2,14 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/video](https://www.bookmarks.dev/tagged/video)</sup></sup>_
 ---
+#### [How to embed a youtube video in an angular material dialog – CodepediaOrg](https://www.codepedia.org/ama/how-to-embed-a-youtube-video-in-an-angular-material-dialog)
+_<sup>https://www.codepedia.org/ama/how-to-embed-a-youtube-video-in-an-angular-material-dialog</sup>_
+
+A simple solution to embed a youtube video in an angular material dialog, as currently used on bookmarks.dev
+* :calendar: **published on**: 2019-09-18
+* **tags**: [angular](../tagged/angular.md), [angular-material](../tagged/angular-material.md), [youtube](../tagged/youtube.md), [video](../tagged/video.md)
+* :octocat: **[source code](https://github.com/CodepediaOrg/bookmarks.dev)**
+---
 #### [libvpx](http://www.webmproject.org/code/)
 _<sup>http://www.webmproject.org/code/</sup>_
 

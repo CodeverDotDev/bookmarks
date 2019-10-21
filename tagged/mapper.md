@@ -5,7 +5,9 @@ _<sup><sup>[www.bookmarks.dev/tagged/mapper](https://www.bookmarks.dev/tagged/ma
 #### [MapStruct – Java bean mappings, the easy way!](http://mapstruct.org/)
 _<sup>http://mapstruct.org/</sup>_
 
-MapStruct is a Java annotation processor for the generation of type-safe and performant mappers for Java bean classes. It saves you from writing mapping code by hand, which is a tedious and error-pron...
+[Docs](https://mapstruct.org/documentation/)
+
+MapStruct is a Java annotation processor for the generation of type-safe and performant mappers for Java bean classes. It saves you from writing mapping c...
 * **tags**: [java](../tagged/java.md), [mapper](../tagged/mapper.md), [mapping](../tagged/mapping.md)
 * :octocat: **[source code](https://github.com/mapstruct/mapstruct)**
 ---

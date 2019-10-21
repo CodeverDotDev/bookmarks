@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/continuous-deployment](https://www.bookmarks.dev/tagged/continuous-deployment)</sup></sup>_
 ---
+#### [Togglz - Features flag for Java](https://www.togglz.org/)
+_<sup>https://www.togglz.org/</sup>_
+
+Togglz is an implementation of the [Feature Toggles](http://martinfowler.com/bliki/FeatureToggle.html) pattern for Java. Feature Toggles are a very common agile development practices in the context of...
+* **tags**: [java](../tagged/java.md), [continuous-deployment](../tagged/continuous-deployment.md), [agile](../tagged/agile.md)
+* :octocat: **[source code](https://github.com/togglz/togglz)**
+---
 #### [GitOps: High-Velocity CI/CD for Kubernetes](http://dzone.com/articles/gitops-high-velocity-cicd-for-kubernetes)
 _<sup>http://dzone.com/articles/gitops-high-velocity-cicd-for-kubernetes</sup>_
 

@@ -2,6 +2,22 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/spring](https://www.bookmarks.dev/tagged/spring)</sup></sup>_
 ---
+#### [Quick Guide to MapStruct | Baeldung](https://www.baeldung.com/mapstruct)
+_<sup>https://www.baeldung.com/mapstruct</sup>_
+
+A quick and practical guide to using MapStruct
+* **tags**: [mapstruct](../tagged/mapstruct.md), [lombok](../tagged/lombok.md), [spring](../tagged/spring.md), [maven](../tagged/maven.md)
+* :octocat: **[source code](https://github.com/eugenp/tutorials/tree/master/mapstruct)**
+---
+#### [Spring Cloud GCP Home Page](https://spring.io/projects/spring-cloud-gcp)
+_<sup>https://spring.io/projects/spring-cloud-gcp</sup>_
+
+The Spring Cloud GCP project makes the Spring Framework a first-class citizen of Google Cloud Platform (GCP).
+
+[Spring Cloud GCP Code Samples](https://github.com/spring-cloud/spring-cloud-gcp/tree/mas...
+* **tags**: [spring](../tagged/spring.md), [spring-cloud](../tagged/spring-cloud.md), [google-cloud-platform](../tagged/google-cloud-platform.md)
+* :octocat: **[source code](https://github.com/spring-cloud/spring-cloud-gcp)**
+---
 #### [Spring REST + Spring Security Example – Mkyong.com](https://www.mkyong.com/spring-boot/spring-rest-spring-security-example/)
 _<sup>https://www.mkyong.com/spring-boot/spring-rest-spring-security-example/</sup>_
 
