@@ -2,6 +2,14 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/distributed-computing](https://www.bookmarks.dev/tagged/distributed-computing)</sup></sup>_
 ---
+#### [Nordic.js 2019 • James Simpson - Building Distributed Systems with Node.js  - 23min](https://www.youtube.com/watch?v=GUtd-zEDgjQ)
+_<sup>https://www.youtube.com/watch?v=GUtd-zEDgjQ</sup>_
+
+Underneath every breakout website or app is a horizontally scaling back-end, but how do we get from a single process Node.js server to a highly-available, auto-scaling system? In this talk, we’ll take...
+* :calendar: **published on**: 2019-10-25
+* **tags**: [nodejs](../tagged/nodejs.md), [distributed-computing](../tagged/distributed-computing.md), [distributed-system](../tagged/distributed-system.md)
+* :octocat: **[source code](https://github.com/goldfire/Building-Distributed-Systems-Node.js)**
+---
 #### [Level-triggered and edge-triggered](https://gengnosis.blogspot.com/2007/01/level-triggered-and-edge-triggered.html)
 _<sup>https://gengnosis.blogspot.com/2007/01/level-triggered-and-edge-triggered.html</sup>_
 

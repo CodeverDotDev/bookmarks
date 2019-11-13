@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/spring-boot](https://www.bookmarks.dev/tagged/spring-boot)</sup></sup>_
 ---
+#### [Spring Boot Reference Documentation](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
+_<sup>https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/</sup>_
+
+Html single page documentation for spring boot
+* **tags**: [spring-boot](../tagged/spring-boot.md), [docs](../tagged/docs.md)
+---
 #### [Apache CXF - Spring Boot SOAP Web Service Client Server Example](https://www.codenotfound.com/apache-cxf-spring-boot-soap-web-service-client-server-example.html)
 _<sup>https://www.codenotfound.com/apache-cxf-spring-boot-soap-web-service-client-server-example.html</sup>_
 

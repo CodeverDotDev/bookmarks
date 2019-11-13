@@ -2,6 +2,22 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/testing](https://www.bookmarks.dev/tagged/testing)</sup></sup>_
 ---
+#### [GitHub - Marak/faker.js Home Page](https://github.com/marak/Faker.js/)
+_<sup>https://github.com/marak/Faker.js/</sup>_
+
+generate massive amounts of realistic fake data in Node.js and the browser - Marak/faker.js
+* **tags**: [nodejs](../tagged/nodejs.md), [mocking](../tagged/mocking.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/marak/Faker.js/)**
+---
+#### [Online Web service testing tool](https://extendsclass.com/web-service-tester.html)
+_<sup>https://extendsclass.com/web-service-tester.html</sup>_
+
+It is a web-based web service testing tool written in JavaScript. It allows to make test cases in order to validate APIs.
+Write test cases and run them online! 
+* :calendar: **published on**: 2019-01-01
+* **tags**: [online](../tagged/online.md), [API](../tagged/API.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/cyrilbois/RestesterUI)**
+---
 #### [enzyme](https://github.com/airbnb/enzyme)
 _<sup>https://github.com/airbnb/enzyme</sup>_
 

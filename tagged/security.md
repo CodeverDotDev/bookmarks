@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/security](https://www.bookmarks.dev/tagged/security)</sup></sup>_
 ---
+#### [Security in the age of Docker & Kubernetes | Atomist Blog](https://blog.atomist.com/security-of-docker-kubernetes/)
+_<sup>https://blog.atomist.com/security-of-docker-kubernetes/</sup>_
+
+While not an exhaustive list of suggestions for hardening your Docker containers & Kubernetes clusters, it's a starting point to ensure tighten security.
+* :calendar: **published on**: 2019-10-18
+* **tags**: [security](../tagged/security.md), [docker](../tagged/docker.md), [kubernetes](../tagged/kubernetes.md)
+---
 #### [Introduction to React + Tutorial How To Build Your First App](https://auth0.com/blog/react-tutorial-building-and-securing-your-first-app/)
 _<sup>https://auth0.com/blog/react-tutorial-building-and-securing-your-first-app/</sup>_
 

@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/networking](https://www.bookmarks.dev/tagged/networking)</sup></sup>_
 ---
+#### [Networking in Compose](https://docs.docker.com/compose/networking/)
+_<sup>https://docs.docker.com/compose/networking/</sup>_
+
+How Compose sets up networking between containers
+* **tags**: [docker-compose](../tagged/docker-compose.md), [docs](../tagged/docs.md), [networking](../tagged/networking.md), [docker](../tagged/docker.md)
+---
 #### [NAT - SNAT, DNAT, PAT & Port Forwarding - YouTube](https://www.youtube.com/watch?v=wg8Hosr20yw)
 _<sup>https://www.youtube.com/watch?v=wg8Hosr20yw</sup>_
 

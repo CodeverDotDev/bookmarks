@@ -2,6 +2,33 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/kubernetes](https://www.bookmarks.dev/tagged/kubernetes)</sup></sup>_
 ---
+#### [GitHub - gajus/lightship Home Page](https://github.com/gajus/lightship)
+_<sup>https://github.com/gajus/lightship</sup>_
+
+Abstracts readiness/ liveness checks and graceful shutdown of Node.js services running in Kubernetes. - gajus/lightship
+* **tags**: [nodejs](../tagged/nodejs.md), [kubernetes](../tagged/kubernetes.md), [healthcheck](../tagged/healthcheck.md)
+* :octocat: **[source code](https://github.com/gajus/lightship)**
+---
+#### [GitHub - godaddy/terminus Home Page](https://github.com/godaddy/terminus)
+_<sup>https://github.com/godaddy/terminus</sup>_
+
+Graceful shutdown and Kubernetes readiness / liveness checks for any Node.js HTTP applications - godaddy/terminus
+* **tags**: [nodejs](../tagged/nodejs.md), [kubernetes](../tagged/kubernetes.md), [healthcheck](../tagged/healthcheck.md)
+* :octocat: **[source code](https://github.com/godaddy/terminus)**
+---
+#### [Secrets - Kubernetes](https://kubernetes.io/docs/concepts/configuration/secret/)
+_<sup>https://kubernetes.io/docs/concepts/configuration/secret/</sup>_
+
+Kubernetes `secret` objects let you store and manage sensitive information, such as passwords, OAuth tokens, and ssh keys. Putting this information in a secret is safer and more flexible than putting ...
+* **tags**: [kubernetes](../tagged/kubernetes.md), [docs](../tagged/docs.md)
+---
+#### [Security in the age of Docker & Kubernetes | Atomist Blog](https://blog.atomist.com/security-of-docker-kubernetes/)
+_<sup>https://blog.atomist.com/security-of-docker-kubernetes/</sup>_
+
+While not an exhaustive list of suggestions for hardening your Docker containers & Kubernetes clusters, it's a starting point to ensure tighten security.
+* :calendar: **published on**: 2019-10-18
+* **tags**: [security](../tagged/security.md), [docker](../tagged/docker.md), [kubernetes](../tagged/kubernetes.md)
+---
 #### [Building Stateful Applications With Kubernetes and Cloud SQL (Cloud Next '19) - YouTube](https://www.youtube.com/watch?v=qVgzP3PsXFw)
 _<sup>https://www.youtube.com/watch?v=qVgzP3PsXFw</sup>_
 

@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/mocking](https://www.bookmarks.dev/tagged/mocking)</sup></sup>_
 ---
+#### [GitHub - Marak/faker.js Home Page](https://github.com/marak/Faker.js/)
+_<sup>https://github.com/marak/Faker.js/</sup>_
+
+generate massive amounts of realistic fake data in Node.js and the browser - Marak/faker.js
+* **tags**: [nodejs](../tagged/nodejs.md), [mocking](../tagged/mocking.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/marak/Faker.js/)**
+---
 #### [RequestBin](https://requestbin.com/)
 _<sup>https://requestbin.com/</sup>_
 

@@ -2,6 +2,28 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/docker](https://www.bookmarks.dev/tagged/docker)</sup></sup>_
 ---
+#### [Security in the age of Docker & Kubernetes | Atomist Blog](https://blog.atomist.com/security-of-docker-kubernetes/)
+_<sup>https://blog.atomist.com/security-of-docker-kubernetes/</sup>_
+
+While not an exhaustive list of suggestions for hardening your Docker containers & Kubernetes clusters, it's a starting point to ensure tighten security.
+* :calendar: **published on**: 2019-10-18
+* **tags**: [security](../tagged/security.md), [docker](../tagged/docker.md), [kubernetes](../tagged/kubernetes.md)
+---
+#### [Networking in Compose](https://docs.docker.com/compose/networking/)
+_<sup>https://docs.docker.com/compose/networking/</sup>_
+
+How Compose sets up networking between containers
+* **tags**: [docker-compose](../tagged/docker-compose.md), [docs](../tagged/docs.md), [networking](../tagged/networking.md), [docker](../tagged/docker.md)
+---
+#### [GitHub - docker-library/healthcheck](https://github.com/docker-library/healthcheck)
+_<sup>https://github.com/docker-library/healthcheck</sup>_
+
+ `HEALTHCHECK`
+
+This is an example set of prototype images (available under https://hub.docker.com/u/healthcheck) for enabling [`HEALTHCHECK`](https://github.com/docker/docker/issues/21142) behavi...
+* **tags**: [docker](../tagged/docker.md), [healthcheck](../tagged/healthcheck.md), [docker-compose](../tagged/docker-compose.md)
+* :octocat: **[source code](https://github.com/docker-library/healthcheck)**
+---
 #### [docker-node/BestPractices.md at master · nodejs/docker-node · GitHub](https://github.com/nodejs/docker-node/blob/master/docs/BestPractices.md)
 _<sup>https://github.com/nodejs/docker-node/blob/master/docs/BestPractices.md</sup>_
 

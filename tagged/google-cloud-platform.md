@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/google-cloud-platform](https://www.bookmarks.dev/tagged/google-cloud-platform)</sup></sup>_
 ---
+#### [GCP metrics  |  Stackdriver Monitoring   |  Google Cloud](https://cloud.google.com/monitoring/api/metrics_gcp)
+_<sup>https://cloud.google.com/monitoring/api/metrics_gcp</sup>_
+
+Stackdriver Monitoring supports the metric types from Google Cloud Platform (GCP) services listed on this page
+* **tags**: [google-cloud](../tagged/google-cloud.md), [gcp](../tagged/gcp.md), [monitoring](../tagged/monitoring.md), [google-cloud-platform](../tagged/google-cloud-platform.md), [google-pubsub](../tagged/google-pubsub.md)
+---
 #### [Spring Cloud GCP Home Page](https://spring.io/projects/spring-cloud-gcp)
 _<sup>https://spring.io/projects/spring-cloud-gcp</sup>_
 

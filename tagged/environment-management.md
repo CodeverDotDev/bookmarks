@@ -2,6 +2,14 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/environment-management](https://www.bookmarks.dev/tagged/environment-management)</sup></sup>_
 ---
+#### [Angular Configuring Application Environments](https://angular.io/guide/build#configuring-application-environments)
+_<sup>https://angular.io/guide/build#configuring-application-environments</sup>_
+
+You can define different named build configurations for your project, such as stage and production, with different defaults.
+
+Each named configuration can have defaults for any of the options that app...
+* **tags**: [angular](../tagged/angular.md), [environment-management](../tagged/environment-management.md), [angular-cli](../tagged/angular-cli.md)
+---
 #### [chruby](https://github.com/postmodern/chruby)
 _<sup>https://github.com/postmodern/chruby</sup>_
 

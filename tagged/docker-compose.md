@@ -2,6 +2,21 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/docker-compose](https://www.bookmarks.dev/tagged/docker-compose)</sup></sup>_
 ---
+#### [Networking in Compose](https://docs.docker.com/compose/networking/)
+_<sup>https://docs.docker.com/compose/networking/</sup>_
+
+How Compose sets up networking between containers
+* **tags**: [docker-compose](../tagged/docker-compose.md), [docs](../tagged/docs.md), [networking](../tagged/networking.md), [docker](../tagged/docker.md)
+---
+#### [GitHub - docker-library/healthcheck](https://github.com/docker-library/healthcheck)
+_<sup>https://github.com/docker-library/healthcheck</sup>_
+
+ `HEALTHCHECK`
+
+This is an example set of prototype images (available under https://hub.docker.com/u/healthcheck) for enabling [`HEALTHCHECK`](https://github.com/docker/docker/issues/21142) behavi...
+* **tags**: [docker](../tagged/docker.md), [healthcheck](../tagged/healthcheck.md), [docker-compose](../tagged/docker-compose.md)
+* :octocat: **[source code](https://github.com/docker-library/healthcheck)**
+---
 #### [GitHub - BretFisher/node-docker-good-defaults](https://github.com/BretFisher/node-docker-good-defaults)
 _<sup>https://github.com/BretFisher/node-docker-good-defaults</sup>_
 

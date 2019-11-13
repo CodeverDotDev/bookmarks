@@ -2,6 +2,87 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/nodejs](https://www.bookmarks.dev/tagged/nodejs)</sup></sup>_
 ---
+#### [Nordic.js 2019 • James Simpson - Building Distributed Systems with Node.js  - 23min](https://www.youtube.com/watch?v=GUtd-zEDgjQ)
+_<sup>https://www.youtube.com/watch?v=GUtd-zEDgjQ</sup>_
+
+Underneath every breakout website or app is a horizontally scaling back-end, but how do we get from a single process Node.js server to a highly-available, auto-scaling system? In this talk, we’ll take...
+* :calendar: **published on**: 2019-10-25
+* **tags**: [nodejs](../tagged/nodejs.md), [distributed-computing](../tagged/distributed-computing.md), [distributed-system](../tagged/distributed-system.md)
+* :octocat: **[source code](https://github.com/goldfire/Building-Distributed-Systems-Node.js)**
+---
+#### [GitHub - Marak/faker.js Home Page](https://github.com/marak/Faker.js/)
+_<sup>https://github.com/marak/Faker.js/</sup>_
+
+generate massive amounts of realistic fake data in Node.js and the browser - Marak/faker.js
+* **tags**: [nodejs](../tagged/nodejs.md), [mocking](../tagged/mocking.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/marak/Faker.js/)**
+---
+#### [ Premium Bootstrap Themes and Templates: Download @ Creative Tim ](https://www.creative-tim.com/)
+_<sup>https://www.creative-tim.com/</sup>_
+
+UI Kits, Templates and Dashboards built on top of Bootstrap, Vue.js, React, Angular, Node.js and Laravel. 
+* **tags**: [user-experience](../tagged/user-experience.md), [dashboard](../tagged/dashboard.md), [angular](../tagged/angular.md), [bootstrap](../tagged/bootstrap.md), [vuejs](../tagged/vuejs.md), [reactjs](../tagged/reactjs.md), [nodejs](../tagged/nodejs.md)
+---
+#### [Health Checks and Graceful Shutdown](https://expressjs.com/en/advanced/healthcheck-graceful-shutdown.html)
+_<sup>https://expressjs.com/en/advanced/healthcheck-graceful-shutdown.html</sup>_
+
+ Graceful shutdown
+When you deploy a new version of your application, you must replace the previous version. The process manager you’re using will first send a SIGTERM signal to the application to...
+* **tags**: [nodejs](../tagged/nodejs.md), [expressjs](../tagged/expressjs.md), [healthcheck](../tagged/healthcheck.md)
+---
+#### [GitHub - Marak/colors.js Home Page](https://github.com/Marak/colors.js)
+_<sup>https://github.com/Marak/colors.js</sup>_
+
+get colors in your node.js console. Contribute to Marak/colors.js development by creating an account on GitHub.
+* **tags**: [nodejs](../tagged/nodejs.md)
+---
+#### [GitHub - gajus/lightship Home Page](https://github.com/gajus/lightship)
+_<sup>https://github.com/gajus/lightship</sup>_
+
+Abstracts readiness/ liveness checks and graceful shutdown of Node.js services running in Kubernetes. - gajus/lightship
+* **tags**: [nodejs](../tagged/nodejs.md), [kubernetes](../tagged/kubernetes.md), [healthcheck](../tagged/healthcheck.md)
+* :octocat: **[source code](https://github.com/gajus/lightship)**
+---
+#### [GitHub - godaddy/terminus Home Page](https://github.com/godaddy/terminus)
+_<sup>https://github.com/godaddy/terminus</sup>_
+
+Graceful shutdown and Kubernetes readiness / liveness checks for any Node.js HTTP applications - godaddy/terminus
+* **tags**: [nodejs](../tagged/nodejs.md), [kubernetes](../tagged/kubernetes.md), [healthcheck](../tagged/healthcheck.md)
+* :octocat: **[source code](https://github.com/godaddy/terminus)**
+---
+#### [Google Cloud Pub/Sub: Node.js Client Documentation](https://googleapis.dev/nodejs/pubsub/latest/index.html)
+_<sup>https://googleapis.dev/nodejs/pubsub/latest/index.html</sup>_
+
+Cloud Pub/Sub is a fully-managed real-time messaging service that allows you to send and receive messages between independent applications.
+
+This document contains to an API reference, samples, and ot...
+* **tags**: [nodejs](../tagged/nodejs.md), [google-pubsub](../tagged/google-pubsub.md), [docs](../tagged/docs.md)
+---
+#### [Introducing npx: an npm package runner - Kat Marchán - Medium](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b)
+_<sup>https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b</sup>_
+
+Those of you upgrading npm to its latest version, npm@5.2.0, might notice that it installs a new binary alongside the usual `npm`: `npx`.
+
+npx is a tool intended to help round out the experience of us...
+* :calendar: **published on**: 2017-07-11
+* **tags**: [npx](../tagged/npx.md), [npm](../tagged/npm.md), [nodejs](../tagged/nodejs.md)
+---
+#### [koa/koa-vs-express.md at master · koajs/koa · GitHub](https://github.com/koajs/koa/blob/master/docs/koa-vs-express.md)
+_<sup>https://github.com/koajs/koa/blob/master/docs/koa-vs-express.md</sup>_
+
+Philosophically, Koa aims to "fix and replace node", whereas Express "augments node".
+  Koa uses promises and async functions to rid apps of callback hell and simplify error handling.
+  It exposes its...
+* **tags**: [expressjs](../tagged/expressjs.md), [nodejs](../tagged/nodejs.md), [koa](../tagged/koa.md)
+---
+#### [Using Clean Architecture for Microservice APIs in Node.js with MongoDB and Express  - 33min](https://www.youtube.com/watch?v=CnailTcJV_U)
+_<sup>https://www.youtube.com/watch?v=CnailTcJV_U</sup>_
+
+In this video we talk about Bob Martin's Clean Architecture model and I will show you how we can apply it to a Microservice built in node.js with MongoDB and...
+* :calendar: **published on**: 2019-04-22
+* **tags**: [nodejs](../tagged/nodejs.md), [clean-code](../tagged/clean-code.md), [expressjs](../tagged/expressjs.md), [mongodb](../tagged/mongodb.md)
+* :octocat: **[source code](https://github.com/dev-mastery/comments-api)**
+---
 #### [docker-node/BestPractices.md at master · nodejs/docker-node · GitHub](https://github.com/nodejs/docker-node/blob/master/docs/BestPractices.md)
 _<sup>https://github.com/nodejs/docker-node/blob/master/docs/BestPractices.md</sup>_
 

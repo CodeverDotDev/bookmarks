@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/devops](https://www.bookmarks.dev/tagged/devops)</sup></sup>_
 ---
+#### [Monitoring overview  |  Cloud Pub/Sub Documentation  |  Google Cloud](https://cloud.google.com/pubsub/docs/monitoring)
+_<sup>https://cloud.google.com/pubsub/docs/monitoring</sup>_
+
+The Cloud Pub/Sub API exports metrics via Stackdriver. Stackdriver allows you to create monitoring dashboards and alerts or access the metrics programmatically.
+* **tags**: [google-cloud](../tagged/google-cloud.md), [google-pubsub](../tagged/google-pubsub.md), [monitoring](../tagged/monitoring.md), [devops](../tagged/devops.md)
+---
 #### [A cleaner multi-stage continuous deployment on Kubernetes of a Create React App with kustomize, helm and skaffold – CodepediaOrg](https://www.codepedia.org/ama/a-cleaner-multi-stage-deployment-on-kubernetes-of-a-create-react-app-with-kustomize-helm-and-skaffold)
 _<sup>https://www.codepedia.org/ama/a-cleaner-multi-stage-deployment-on-kubernetes-of-a-create-react-app-w...</sup>_
 

@@ -2,6 +2,22 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/api](https://www.bookmarks.dev/tagged/api)</sup></sup>_
 ---
+#### [Online Web service testing tool](https://extendsclass.com/web-service-tester.html)
+_<sup>https://extendsclass.com/web-service-tester.html</sup>_
+
+It is a web-based web service testing tool written in JavaScript. It allows to make test cases in order to validate APIs.
+Write test cases and run them online! 
+* :calendar: **published on**: 2019-01-01
+* **tags**: [online](../tagged/online.md), [API](../tagged/API.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/cyrilbois/RestesterUI)**
+---
+#### [GraphQL Country | GraphQL API for data about countries.](https://graphql.country)
+_<sup>https://graphql.country</sup>_
+
+Get information about countries via a GraphQL API
+* :calendar: **published on**: 2019-10-01
+* **tags**: [graphql](../tagged/graphql.md), [api](../tagged/api.md)
+---
 #### [amazon-product-advertising-api](https://github.com/ngs/go-amazon-product-advertising-api)
 _<sup>https://github.com/ngs/go-amazon-product-advertising-api</sup>_
 

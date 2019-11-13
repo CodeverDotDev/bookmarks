@@ -2,6 +2,32 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/docs](https://www.bookmarks.dev/tagged/docs)</sup></sup>_
 ---
+#### [Google Cloud Pub/Sub: Node.js Client Documentation](https://googleapis.dev/nodejs/pubsub/latest/index.html)
+_<sup>https://googleapis.dev/nodejs/pubsub/latest/index.html</sup>_
+
+Cloud Pub/Sub is a fully-managed real-time messaging service that allows you to send and receive messages between independent applications.
+
+This document contains to an API reference, samples, and ot...
+* **tags**: [nodejs](../tagged/nodejs.md), [google-pubsub](../tagged/google-pubsub.md), [docs](../tagged/docs.md)
+---
+#### [Spring Boot Reference Documentation](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
+_<sup>https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/</sup>_
+
+Html single page documentation for spring boot
+* **tags**: [spring-boot](../tagged/spring-boot.md), [docs](../tagged/docs.md)
+---
+#### [Secrets - Kubernetes](https://kubernetes.io/docs/concepts/configuration/secret/)
+_<sup>https://kubernetes.io/docs/concepts/configuration/secret/</sup>_
+
+Kubernetes `secret` objects let you store and manage sensitive information, such as passwords, OAuth tokens, and ssh keys. Putting this information in a secret is safer and more flexible than putting ...
+* **tags**: [kubernetes](../tagged/kubernetes.md), [docs](../tagged/docs.md)
+---
+#### [Networking in Compose](https://docs.docker.com/compose/networking/)
+_<sup>https://docs.docker.com/compose/networking/</sup>_
+
+How Compose sets up networking between containers
+* **tags**: [docker-compose](../tagged/docker-compose.md), [docs](../tagged/docs.md), [networking](../tagged/networking.md), [docker](../tagged/docker.md)
+---
 #### [Ingress Controllers - Kubernetes](https://kubernetes.io/docs/concepts/services-networking/ingress-controllers/)
 _<sup>https://kubernetes.io/docs/concepts/services-networking/ingress-controllers/</sup>_
 

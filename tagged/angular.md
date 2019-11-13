@@ -2,6 +2,34 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/angular](https://www.bookmarks.dev/tagged/angular)</sup></sup>_
 ---
+#### [ Premium Bootstrap Themes and Templates: Download @ Creative Tim ](https://www.creative-tim.com/)
+_<sup>https://www.creative-tim.com/</sup>_
+
+UI Kits, Templates and Dashboards built on top of Bootstrap, Vue.js, React, Angular, Node.js and Laravel. 
+* **tags**: [user-experience](../tagged/user-experience.md), [dashboard](../tagged/dashboard.md), [angular](../tagged/angular.md), [bootstrap](../tagged/bootstrap.md), [vuejs](../tagged/vuejs.md), [reactjs](../tagged/reactjs.md), [nodejs](../tagged/nodejs.md)
+---
+#### [Deep Dive into the Angular Compiler | Alex Rickabaugh | #AngularConnect  - 31min](https://www.youtube.com/watch?v=anphffaCZrQ)
+_<sup>https://www.youtube.com/watch?v=anphffaCZrQ</sup>_
+
+For most of us, the Angular compiler is just a part of the build - it's that thing that happens before the "real" work of compilation: 92% chunk asset optimization. But how does it actually work? What...
+* :calendar: **published on**: 2019-09-27
+* **tags**: [angular](../tagged/angular.md)
+---
+#### [How Angular works | Kara Erickson | #AngularConnect  - 29min](https://www.youtube.com/watch?v=S0o-4yc2n-8)
+_<sup>https://www.youtube.com/watch?v=S0o-4yc2n-8</sup>_
+
+Angular is many things to many people, but at its heart, it's a set of tools to render content, organize applications, and manage data. Find out about how Angular works under the hood and get insights...
+* :calendar: **published on**: 2019-09-27
+* **tags**: [angular](../tagged/angular.md)
+---
+#### [Angular Configuring Application Environments](https://angular.io/guide/build#configuring-application-environments)
+_<sup>https://angular.io/guide/build#configuring-application-environments</sup>_
+
+You can define different named build configurations for your project, such as stage and production, with different defaults.
+
+Each named configuration can have defaults for any of the options that app...
+* **tags**: [angular](../tagged/angular.md), [environment-management](../tagged/environment-management.md), [angular-cli](../tagged/angular-cli.md)
+---
 #### [How to embed a youtube video in an angular material dialog – CodepediaOrg](https://www.codepedia.org/ama/how-to-embed-a-youtube-video-in-an-angular-material-dialog)
 _<sup>https://www.codepedia.org/ama/how-to-embed-a-youtube-video-in-an-angular-material-dialog</sup>_
 

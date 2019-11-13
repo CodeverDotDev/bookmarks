@@ -2,6 +2,18 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/monitoring](https://www.bookmarks.dev/tagged/monitoring)</sup></sup>_
 ---
+#### [Monitoring overview  |  Cloud Pub/Sub Documentation  |  Google Cloud](https://cloud.google.com/pubsub/docs/monitoring)
+_<sup>https://cloud.google.com/pubsub/docs/monitoring</sup>_
+
+The Cloud Pub/Sub API exports metrics via Stackdriver. Stackdriver allows you to create monitoring dashboards and alerts or access the metrics programmatically.
+* **tags**: [google-cloud](../tagged/google-cloud.md), [google-pubsub](../tagged/google-pubsub.md), [monitoring](../tagged/monitoring.md), [devops](../tagged/devops.md)
+---
+#### [GCP metrics  |  Stackdriver Monitoring   |  Google Cloud](https://cloud.google.com/monitoring/api/metrics_gcp)
+_<sup>https://cloud.google.com/monitoring/api/metrics_gcp</sup>_
+
+Stackdriver Monitoring supports the metric types from Google Cloud Platform (GCP) services listed on this page
+* **tags**: [google-cloud](../tagged/google-cloud.md), [gcp](../tagged/gcp.md), [monitoring](../tagged/monitoring.md), [google-cloud-platform](../tagged/google-cloud-platform.md), [google-pubsub](../tagged/google-pubsub.md)
+---
 #### [Kubernetes Monitoring Guide](http://www.datadoghq.com/blog/monitoring-kubernetes-era/)
 _<sup>http://www.datadoghq.com/blog/monitoring-kubernetes-era/</sup>_
 

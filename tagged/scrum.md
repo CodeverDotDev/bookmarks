@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/scrum](https://www.bookmarks.dev/tagged/scrum)</sup></sup>_
 ---
+#### [ A Simple Way to Run a Sprint Retrospective](https://www.mountaingoatsoftware.com/blog/a-simple-way-to-run-a-sprint-retrospective)
+_<sup>https://www.mountaingoatsoftware.com/blog/a-simple-way-to-run-a-sprint-retrospective</sup>_
+
+My favorite approach to sprint retrospectives is what’s called a “start, stop, continue” meeting. Find out why.
+
+* **tags**: [agile](../tagged/agile.md), [scrum](../tagged/scrum.md)
+---
 #### [The Scrum Guide](https://www.scrumguides.org/scrum-guide.html)
 _<sup>https://www.scrumguides.org/scrum-guide.html</sup>_
 

@@ -2,6 +2,14 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/mongodb](https://www.bookmarks.dev/tagged/mongodb)</sup></sup>_
 ---
+#### [Using Clean Architecture for Microservice APIs in Node.js with MongoDB and Express  - 33min](https://www.youtube.com/watch?v=CnailTcJV_U)
+_<sup>https://www.youtube.com/watch?v=CnailTcJV_U</sup>_
+
+In this video we talk about Bob Martin's Clean Architecture model and I will show you how we can apply it to a Microservice built in node.js with MongoDB and...
+* :calendar: **published on**: 2019-04-22
+* **tags**: [nodejs](../tagged/nodejs.md), [clean-code](../tagged/clean-code.md), [expressjs](../tagged/expressjs.md), [mongodb](../tagged/mongodb.md)
+* :octocat: **[source code](https://github.com/dev-mastery/comments-api)**
+---
 #### [Docker compose with Node.js and MongoDB - Hagai Kahana - Medium](https://medium.com/@kahana.hagai/docker-compose-with-node-js-and-mongodb-dbdadab5ce0a)
 _<sup>https://medium.com/@kahana.hagai/docker-compose-with-node-js-and-mongodb-dbdadab5ce0a</sup>_
 

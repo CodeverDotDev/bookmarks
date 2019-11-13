@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/graphql](https://www.bookmarks.dev/tagged/graphql)</sup></sup>_
 ---
+#### [GraphQL Country | GraphQL API for data about countries.](https://graphql.country)
+_<sup>https://graphql.country</sup>_
+
+Get information about countries via a GraphQL API
+* :calendar: **published on**: 2019-10-01
+* **tags**: [graphql](../tagged/graphql.md), [api](../tagged/api.md)
+---
 #### [GraphCMS - The GraphQL Headless CMS](https://graphcms.com)
 _<sup>https://graphcms.com</sup>_
 

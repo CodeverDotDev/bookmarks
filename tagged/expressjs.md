@@ -2,6 +2,29 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/expressjs](https://www.bookmarks.dev/tagged/expressjs)</sup></sup>_
 ---
+#### [Health Checks and Graceful Shutdown](https://expressjs.com/en/advanced/healthcheck-graceful-shutdown.html)
+_<sup>https://expressjs.com/en/advanced/healthcheck-graceful-shutdown.html</sup>_
+
+ Graceful shutdown
+When you deploy a new version of your application, you must replace the previous version. The process manager you’re using will first send a SIGTERM signal to the application to...
+* **tags**: [nodejs](../tagged/nodejs.md), [expressjs](../tagged/expressjs.md), [healthcheck](../tagged/healthcheck.md)
+---
+#### [koa/koa-vs-express.md at master · koajs/koa · GitHub](https://github.com/koajs/koa/blob/master/docs/koa-vs-express.md)
+_<sup>https://github.com/koajs/koa/blob/master/docs/koa-vs-express.md</sup>_
+
+Philosophically, Koa aims to "fix and replace node", whereas Express "augments node".
+  Koa uses promises and async functions to rid apps of callback hell and simplify error handling.
+  It exposes its...
+* **tags**: [expressjs](../tagged/expressjs.md), [nodejs](../tagged/nodejs.md), [koa](../tagged/koa.md)
+---
+#### [Using Clean Architecture for Microservice APIs in Node.js with MongoDB and Express  - 33min](https://www.youtube.com/watch?v=CnailTcJV_U)
+_<sup>https://www.youtube.com/watch?v=CnailTcJV_U</sup>_
+
+In this video we talk about Bob Martin's Clean Architecture model and I will show you how we can apply it to a Microservice built in node.js with MongoDB and...
+* :calendar: **published on**: 2019-04-22
+* **tags**: [nodejs](../tagged/nodejs.md), [clean-code](../tagged/clean-code.md), [expressjs](../tagged/expressjs.md), [mongodb](../tagged/mongodb.md)
+* :octocat: **[source code](https://github.com/dev-mastery/comments-api)**
+---
 #### [GitHub - erikras/react-redux-universal-hot-example](https://github.com/erikras/react-redux-universal-hot-example)
 _<sup>https://github.com/erikras/react-redux-universal-hot-example</sup>_
 
