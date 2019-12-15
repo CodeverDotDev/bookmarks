@@ -2,6 +2,49 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/expressjs](https://www.bookmarks.dev/tagged/expressjs)</sup></sup>_
 ---
+#### [Cleaner code in an Express REST API with unified error handling – CodepediaOrg](https://www.codepedia.org/ama/cleaner-code-in-expressjs-rest-api-with-custom-error-handling)
+_<sup>https://www.codepedia.org/ama/cleaner-code-in-expressjs-rest-api-with-custom-error-handling</sup>_
+
+Shows how you can make your backend ExpressJS REST API cleaner by using custom error handling middleware. Code snippets of before and after refactoring are presented to make the point
+* :calendar: **published on**: 2019-12-02
+* **tags**: [expressjs](../tagged/expressjs.md), [nodejs](../tagged/nodejs.md), [error-handling](../tagged/error-handling.md), [async-await](../tagged/async-await.md)
+* :octocat: **[source code](https://github.com/CodepediaOrg/bookmarks.dev-api)**
+---
+#### [GitHub - davidbanham/express-async-errors](https://github.com/davidbanham/express-async-errors)
+_<sup>https://github.com/davidbanham/express-async-errors</sup>_
+
+async/await support for ExpressJS. Contribute to davidbanham/express-async-errors development by creating an account on GitHub.
+* **tags**: [expressjs](../tagged/expressjs.md), [error-handling](../tagged/error-handling.md), [async-await](../tagged/async-await.md)
+* :octocat: **[source code](https://github.com/davidbanham/express-async-errors)**
+---
+#### [StrongLoop - Asynchronous Error Handling in Express with Promises, Generators and ES7 ](https://strongloop.com/strongblog/async-error-handling-expressjs-es7-promises-generators/)
+_<sup>https://strongloop.com/strongblog/async-error-handling-expressjs-es7-promises-generators/</sup>_
+
+This article focuses on effective ways to capture and handle errors using error-handling middleware in Express. 
+* :calendar: **published on**: 2015-04-21
+* **tags**: [javascript](../tagged/javascript.md), [error-handling](../tagged/error-handling.md), [ecmascript-6](../tagged/ecmascript-6.md), [ecmascript-7](../tagged/ecmascript-7.md), [async-await](../tagged/async-await.md), [expressjs](../tagged/expressjs.md)
+* :octocat: **[source code](https://github.com/strongloop-community/express-example-error-handling)**
+---
+#### [javascript - Handling errors in express async middleware - Stack Overflow](https://stackoverflow.com/questions/51391080/handling-errors-in-express-async-middleware)
+_<sup>https://stackoverflow.com/questions/51391080/handling-errors-in-express-async-middleware</sup>_
+
+The easy way, is to add `try/catch` inside your middleware, and call `next(err)`.
+...
+* **tags**: [expressjs](../tagged/expressjs.md), [error-handling](../tagged/error-handling.md), [async-await](../tagged/async-await.md)
+---
+#### [Why should you separate Controllers from Services in Node REST API’s? – Corey Cleary](https://www.coreycleary.me/why-should-you-separate-controllers-from-services-in-node-rest-apis/)
+_<sup>https://www.coreycleary.me/why-should-you-separate-controllers-from-services-in-node-rest-apis/</sup>_
+
+This is a follow-up to my last post, [What is the difference between Controllers and Services in Node REST API’s?](https://www.coreycleary.me/what-is-the-difference-between-controllers-and-services-in...
+* **tags**: [nodejs](../tagged/nodejs.md), [expressjs](../tagged/expressjs.md), [software-architecture](../tagged/software-architecture.md)
+---
+#### [The 80/20 Guide to Express Error Handling](https://thecodebarbarian.com/80-20-guide-to-express-error-handling)
+_<sup>https://thecodebarbarian.com/80-20-guide-to-express-error-handling</sup>_
+
+[Express' error handling middleware](http://expressjs.com/en/guide/error-handling.html) is a powerful tool for consolidating your HTTP error response logic. Odds are, if you've written Express code yo...
+* :calendar: **published on**: 2017-08-04
+* **tags**: [expressjs](../tagged/expressjs.md), [nodejs](../tagged/nodejs.md), [error-handling](../tagged/error-handling.md), [async-await](../tagged/async-await.md)
+---
 #### [Health Checks and Graceful Shutdown](https://expressjs.com/en/advanced/healthcheck-graceful-shutdown.html)
 _<sup>https://expressjs.com/en/advanced/healthcheck-graceful-shutdown.html</sup>_
 
@@ -239,7 +282,7 @@ _<sup>https://expressjs.com/en/advanced/best-practice-performance.html</sup>_
 This article discusses performance and reliability best practices for Express applications deployed to production.
 
 This topic clearly falls into the “devops” world, spanning both traditional developm...
-* **tags**: [expressjs](../tagged/expressjs.md), [devops](../tagged/devops.md)
+* **tags**: [expressjs](../tagged/expressjs.md), [devops](../tagged/devops.md), [error-handling](../tagged/error-handling.md), [async-await](../tagged/async-await.md), [pm2](../tagged/pm2.md)
 ---
 #### [Running Express.js in Production Mode](http://www.hacksparrow.com/running-express-js-in-production-mode.html)
 _<sup>http://www.hacksparrow.com/running-express-js-in-production-mode.html</sup>_

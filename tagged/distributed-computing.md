@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/distributed-computing](https://www.bookmarks.dev/tagged/distributed-computing)</sup></sup>_
 ---
+#### [GitHub - Netflix/chaosmonkey home page](https://github.com/Netflix/chaosmonkey)
+_<sup>https://github.com/Netflix/chaosmonkey</sup>_
+
+Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures. - Netflix/chaosmonkey
+* **tags**: [resiliency](../tagged/resiliency.md), [distributed-computing](../tagged/distributed-computing.md), [fault-tolerance](../tagged/fault-tolerance.md)
+* :octocat: **[source code](https://github.com/Netflix/chaosmonkey)**
+---
 #### [Nordic.js 2019 • James Simpson - Building Distributed Systems with Node.js  - 23min](https://www.youtube.com/watch?v=GUtd-zEDgjQ)
 _<sup>https://www.youtube.com/watch?v=GUtd-zEDgjQ</sup>_
 

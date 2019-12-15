@@ -2,6 +2,72 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/nodejs](https://www.bookmarks.dev/tagged/nodejs)</sup></sup>_
 ---
+#### [Cleaner code in an Express REST API with unified error handling – CodepediaOrg](https://www.codepedia.org/ama/cleaner-code-in-expressjs-rest-api-with-custom-error-handling)
+_<sup>https://www.codepedia.org/ama/cleaner-code-in-expressjs-rest-api-with-custom-error-handling</sup>_
+
+Shows how you can make your backend ExpressJS REST API cleaner by using custom error handling middleware. Code snippets of before and after refactoring are presented to make the point
+* :calendar: **published on**: 2019-12-02
+* **tags**: [expressjs](../tagged/expressjs.md), [nodejs](../tagged/nodejs.md), [error-handling](../tagged/error-handling.md), [async-await](../tagged/async-await.md)
+* :octocat: **[source code](https://github.com/CodepediaOrg/bookmarks.dev-api)**
+---
+#### [Don't Block the Event Loop (or the Worker Pool) | Node.js](https://nodejs.org/ru/docs/guides/dont-block-the-event-loop/)
+_<sup>https://nodejs.org/ru/docs/guides/dont-block-the-event-loop/</sup>_
+
+**Should you read this guide?**
+
+If you're writing anything more complicated than a brief command-line script, reading this should help you write higher-performance, more-secure applications.
+
+This do...
+* **tags**: [nodejs](../tagged/nodejs.md), [event-loop](../tagged/event-loop.md), [asynchronous](../tagged/asynchronous.md), [performance](../tagged/performance.md)
+---
+#### [Event Loop and the Big Picture — NodeJS Event Loop Part 1](https://blog.insiderattack.net/event-loop-and-the-big-picture-nodejs-event-loop-part-1-1cb67a182810)
+_<sup>https://blog.insiderattack.net/event-loop-and-the-big-picture-nodejs-event-loop-part-1-1cb67a182810</sup>_
+
+What makes NodeJS distinguished from any other programming platforms is how it handles I/O. We hear this all the time when NodeJS is introduced by someone saying “A non-blocking, event-driven platform...
+* :calendar: **published on**: 2017-04-22
+* **tags**: [nodejs](../tagged/nodejs.md)
+---
+#### [Why should you separate Controllers from Services in Node REST API’s? – Corey Cleary](https://www.coreycleary.me/why-should-you-separate-controllers-from-services-in-node-rest-apis/)
+_<sup>https://www.coreycleary.me/why-should-you-separate-controllers-from-services-in-node-rest-apis/</sup>_
+
+This is a follow-up to my last post, [What is the difference between Controllers and Services in Node REST API’s?](https://www.coreycleary.me/what-is-the-difference-between-controllers-and-services-in...
+* **tags**: [nodejs](../tagged/nodejs.md), [expressjs](../tagged/expressjs.md), [software-architecture](../tagged/software-architecture.md)
+---
+#### [The 80/20 Guide to Express Error Handling](https://thecodebarbarian.com/80-20-guide-to-express-error-handling)
+_<sup>https://thecodebarbarian.com/80-20-guide-to-express-error-handling</sup>_
+
+[Express' error handling middleware](http://expressjs.com/en/guide/error-handling.html) is a powerful tool for consolidating your HTTP error response logic. Odds are, if you've written Express code yo...
+* :calendar: **published on**: 2017-08-04
+* **tags**: [expressjs](../tagged/expressjs.md), [nodejs](../tagged/nodejs.md), [error-handling](../tagged/error-handling.md), [async-await](../tagged/async-await.md)
+---
+#### [The 80/20 Guide to Async/Await in Node.js](http://thecodebarbarian.com/80-20-guide-to-async-await-in-node.js)
+_<sup>http://thecodebarbarian.com/80-20-guide-to-async-await-in-node.js</sup>_
+
+Arguably the biggest new feature in Node.js 7.6.0 is that the much awaited async function keyword is now available without a flag. Callback hell and promise hell are now in the past. But, like Uncle B...
+* :calendar: **published on**: 2017-03-08
+* **tags**: [nodejs](../tagged/nodejs.md), [javascript](../tagged/javascript.md), [async-await](../tagged/async-await.md), [error-handling](../tagged/error-handling.md)
+---
+#### [Unhandled Promise Rejections in Node.js](http://thecodebarbarian.com/unhandled-promise-rejections-in-node.js)
+_<sup>http://thecodebarbarian.com/unhandled-promise-rejections-in-node.js</sup>_
+
+Node.js 6.6.0 added a sporadically useful bug/feature: logging unhandled promise rejections to the console by default. In other words, the below script will print an error to the console:
+...
+* :calendar: **published on**: 2017-04-04
+* **tags**: [nodejs](../tagged/nodejs.md), [promise](../tagged/promise.md), [error-handling](../tagged/error-handling.md)
+---
+#### [GitHub - panva/node-openid-client](https://github.com/panva/node-openid-client)
+_<sup>https://github.com/panva/node-openid-client</sup>_
+
+OpenID Certified™ Relying Party (RP, Client) implementation for Node.js. Wide feature coverage including optional specifications and passport strategy is included. - panva/node-openid-client
+* **tags**: [openid-connect](../tagged/openid-connect.md), [nodejs](../tagged/nodejs.md)
+---
+#### [GitHub - keycloak/keycloak-nodejs-admin-client Home Page](https://github.com/keycloak/keycloak-nodejs-admin-client)
+_<sup>https://github.com/keycloak/keycloak-nodejs-admin-client</sup>_
+
+🔑 NodeJS keycloak admin client. 
+* **tags**: [keycloak](../tagged/keycloak.md), [nodejs](../tagged/nodejs.md)
+* :octocat: **[source code](https://github.com/keycloak/keycloak-nodejs-admin-client)**
+---
 #### [Nordic.js 2019 • James Simpson - Building Distributed Systems with Node.js  - 23min](https://www.youtube.com/watch?v=GUtd-zEDgjQ)
 _<sup>https://www.youtube.com/watch?v=GUtd-zEDgjQ</sup>_
 
@@ -4273,13 +4339,13 @@ Loads environment variables from .env for nodejs projects.
 * **tags**: [nodejs](../tagged/nodejs.md), [devops](../tagged/devops.md), [tools](../tagged/tools.md)
 * :octocat: **[source code](https://github.com/motdotla/dotenv)**
 ---
-#### [Cleaner code in NodeJs with async-await - Mongoose calls example – CodingpediaOrg](http://www.codingpedia.org/ama/cleaner-code-in-nodejs-with-async-await-mongoose-calls-example)
-_<sup>http://www.codingpedia.org/ama/cleaner-code-in-nodejs-with-async-await-mongoose-calls-example</sup>_
+#### [Cleaner code in NodeJs with async-await - Mongoose calls example – CodepediaOrg](http://www.codepedia.org/ama/cleaner-code-in-nodejs-with-async-await-mongoose-calls-example)
+_<sup>http://www.codepedia.org/ama/cleaner-code-in-nodejs-with-async-await-mongoose-calls-example</sup>_
 
 Example showing migration of Mongoose calls from previously using callbacks to using the new async-await feature in NodeJs
 * :calendar: **published on**: 2017-11-05
 * **tags**: [nodejs](../tagged/nodejs.md), [async-await](../tagged/async-await.md), [mongoose](../tagged/mongoose.md), [mongodb](../tagged/mongodb.md)
-* :octocat: **[source code](https://github.com/Codingpedia/codingmarks-api)**
+* :octocat: **[source code](https://github.com/CodepediaOrg/bookmarks.dev-api)**
 ---
 #### [Building Microservices with Node, Docker and Nginx pt 1 - What is a Microservice?](https://www.youtube.com/watch?v=EsCfPxjmnjo)
 _<sup>https://www.youtube.com/watch?v=EsCfPxjmnjo</sup>_
@@ -5054,12 +5120,6 @@ _<sup>https://github.com/nodejs/LTS</sup>_
 
 LTS schedule
 * **tags**: [nodejs](../tagged/nodejs.md)
----
-#### [Using Winston, a versatile logging library for Node.js | thisDaveJ](http://thisdavej.com/using-winston-a-versatile-logging-library-for-node-js/)
-_<sup>http://thisdavej.com/using-winston-a-versatile-logging-library-for-node-js/</sup>_
-
-Today, we will explore [Winston](https://github.com/winstonjs/winston), a versatile logging library for Node.js.  Winston can be used in a number of contexts including in Node web frameworks such as E...
-* **tags**: [nodejs](../tagged/nodejs.md), [logging](../tagged/logging.md)
 ---
 #### [GitHub - winstonjs/winston-daily-rotate-file](https://github.com/winstonjs/winston-daily-rotate-file)
 _<sup>https://github.com/winstonjs/winston-daily-rotate-file</sup>_

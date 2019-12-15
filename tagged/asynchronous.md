@@ -2,6 +2,23 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/asynchronous](https://www.bookmarks.dev/tagged/asynchronous)</sup></sup>_
 ---
+#### [Don't Block the Event Loop (or the Worker Pool) | Node.js](https://nodejs.org/ru/docs/guides/dont-block-the-event-loop/)
+_<sup>https://nodejs.org/ru/docs/guides/dont-block-the-event-loop/</sup>_
+
+**Should you read this guide?**
+
+If you're writing anything more complicated than a brief command-line script, reading this should help you write higher-performance, more-secure applications.
+
+This do...
+* **tags**: [nodejs](../tagged/nodejs.md), [event-loop](../tagged/event-loop.md), [asynchronous](../tagged/asynchronous.md), [performance](../tagged/performance.md)
+---
+#### [libuv home page](https://libuv.org/)
+_<sup>https://libuv.org/</sup>_
+
+libuv, a platform abstraction library with focus on asynchronous i/o.
+* **tags**: [asynchronous](../tagged/asynchronous.md), [libuv](../tagged/libuv.md), [event-loop](../tagged/event-loop.md)
+* :octocat: **[source code](https://github.com/libuv/libuv)**
+---
 #### [Asio](https://github.com/chriskohlhoff/asio/)
 _<sup>https://github.com/chriskohlhoff/asio/</sup>_
 

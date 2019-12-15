@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/promises](https://www.bookmarks.dev/tagged/promises)</sup></sup>_
 ---
+#### [Introduction to ES6 Promises - 4 functions to avoid callback hell](http://jamesknelson.com/grokking-es6-promises-the-four-functions-you-need-to-avoid-callback-hell/)
+_<sup>http://jamesknelson.com/grokking-es6-promises-the-four-functions-you-need-to-avoid-callback-hell/</sup>_
+
+Apart from being new and shiny, Promises are a great way to clean up your code, reduce dependencies on external libraries, and prepare yourself for async and await in ES7. Developers who use them swea...
+* :calendar: **published on**: 2018-10-01
+* **tags**: [javascript](../tagged/javascript.md), [promise](../tagged/promise.md), [promises](../tagged/promises.md)
+---
 #### [Bluebird](https://github.com/petkaantonov/bluebird)
 _<sup>https://github.com/petkaantonov/bluebird</sup>_
 

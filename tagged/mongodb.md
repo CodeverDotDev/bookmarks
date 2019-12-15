@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/mongodb](https://www.bookmarks.dev/tagged/mongodb)</sup></sup>_
 ---
+#### [Fast paging with MongoDB](https://scalegrid.io/blog/fast-paging-with-mongodb/)
+_<sup>https://scalegrid.io/blog/fast-paging-with-mongodb/</sup>_
+
+Paging through your data is one of the most common operations with MongoDB. Let's walk through an example to see the ways of paging through data in MongoDB.
+* :calendar: **published on**: 2014-11-20
+* **tags**: [mongodb](../tagged/mongodb.md), [pagination](../tagged/pagination.md)
+---
 #### [Using Clean Architecture for Microservice APIs in Node.js with MongoDB and Express  - 33min](https://www.youtube.com/watch?v=CnailTcJV_U)
 _<sup>https://www.youtube.com/watch?v=CnailTcJV_U</sup>_
 
@@ -66,13 +73,13 @@ _<sup>https://mongoosejs.com/docs/subdocs.html</sup>_
 Subdocuments are documents embedded in other documents. In Mongoose, this means you can nest schemas in other schemas. Mongoose has two distinct notions of subdocuments: arrays of subdocuments and sin...
 * **tags**: [mongoose](../tagged/mongoose.md), [mongodb](../tagged/mongodb.md)
 ---
-#### [Cleaner code in NodeJs with async-await - Mongoose calls example – CodingpediaOrg](http://www.codingpedia.org/ama/cleaner-code-in-nodejs-with-async-await-mongoose-calls-example)
-_<sup>http://www.codingpedia.org/ama/cleaner-code-in-nodejs-with-async-await-mongoose-calls-example</sup>_
+#### [Cleaner code in NodeJs with async-await - Mongoose calls example – CodepediaOrg](http://www.codepedia.org/ama/cleaner-code-in-nodejs-with-async-await-mongoose-calls-example)
+_<sup>http://www.codepedia.org/ama/cleaner-code-in-nodejs-with-async-await-mongoose-calls-example</sup>_
 
 Example showing migration of Mongoose calls from previously using callbacks to using the new async-await feature in NodeJs
 * :calendar: **published on**: 2017-11-05
 * **tags**: [nodejs](../tagged/nodejs.md), [async-await](../tagged/async-await.md), [mongoose](../tagged/mongoose.md), [mongodb](../tagged/mongodb.md)
-* :octocat: **[source code](https://github.com/Codingpedia/codingmarks-api)**
+* :octocat: **[source code](https://github.com/CodepediaOrg/bookmarks.dev-api)**
 ---
 #### [mongoose-unique-validator](https://github.com/blakehaswell/mongoose-unique-validator)
 _<sup>https://github.com/blakehaswell/mongoose-unique-validator</sup>_

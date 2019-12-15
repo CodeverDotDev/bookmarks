@@ -2,6 +2,14 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/reactjs](https://www.bookmarks.dev/tagged/reactjs)</sup></sup>_
 ---
+#### [React Simple Auth: React + Redux + OAuth 2.0 - Matt Mazzola - Medium](https://medium.com/@mattmazzola/react-simple-auth-react-redux-oauth-2-0-de6ea9df0a63)
+_<sup>https://medium.com/@mattmazzola/react-simple-auth-react-redux-oauth-2-0-de6ea9df0a63</sup>_
+
+I recently started working on a React project and was looking to add authentication support to it. As a long time Ember developer I expected there to be a standard community solution similar to ember-...
+* :calendar: **published on**: 2017-10-11
+* **tags**: [reactjs](../tagged/reactjs.md), [oauth2](../tagged/oauth2.md), [authentication](../tagged/authentication.md), [redux](../tagged/redux.md)
+* :octocat: **[source code](https://github.com/mattmazzola/react-simple-auth-sample)**
+---
 #### [ Premium Bootstrap Themes and Templates: Download @ Creative Tim ](https://www.creative-tim.com/)
 _<sup>https://www.creative-tim.com/</sup>_
 

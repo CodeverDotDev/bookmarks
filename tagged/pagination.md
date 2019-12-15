@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/pagination](https://www.bookmarks.dev/tagged/pagination)</sup></sup>_
 ---
+#### [Fast paging with MongoDB](https://scalegrid.io/blog/fast-paging-with-mongodb/)
+_<sup>https://scalegrid.io/blog/fast-paging-with-mongodb/</sup>_
+
+Paging through your data is one of the most common operations with MongoDB. Let's walk through an example to see the ways of paging through data in MongoDB.
+* :calendar: **published on**: 2014-11-20
+* **tags**: [mongodb](../tagged/mongodb.md), [pagination](../tagged/pagination.md)
+---
 #### [Kaminari](https://github.com/amatsuda/kaminari)
 _<sup>https://github.com/amatsuda/kaminari</sup>_
 

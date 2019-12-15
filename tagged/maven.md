@@ -2,6 +2,16 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/maven](https://www.bookmarks.dev/tagged/maven)</sup></sup>_
 ---
+#### [Running categorized Tests using JUnit, Maven and Annotated-Test Suites](https://www.hascode.com/2012/12/running-categorized-tests-using-junit-maven-and-annotated-test-suites/)
+_<sup>https://www.hascode.com/2012/12/running-categorized-tests-using-junit-maven-and-annotated-test-suite...</sup>_
+
+Sometimes we need to classify the tests in a project and a possible solution to achieve this goal is to assign different categories to the tests.
+
+Often we’re doing this to separate the execution of f...
+* :calendar: **published on**: 2012-12-06
+* **tags**: [maven](../tagged/maven.md), [maven-plugin](../tagged/maven-plugin.md), [testing](../tagged/testing.md), [java](../tagged/java.md)
+* :octocat: **[source code](https://bitbucket.org/hascode/junit-category-selection/)**
+---
 #### [Quick Guide to MapStruct | Baeldung](https://www.baeldung.com/mapstruct)
 _<sup>https://www.baeldung.com/mapstruct</sup>_
 

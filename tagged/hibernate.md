@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/hibernate](https://www.bookmarks.dev/tagged/hibernate)</sup></sup>_
 ---
+#### [Complete Guide: Inheritance strategies with JPA and Hibernate](https://thoughts-on-java.org/complete-guide-inheritance-strategies-jpa-hibernate/#comments)
+_<sup>https://thoughts-on-java.org/complete-guide-inheritance-strategies-jpa-hibernate/#comments</sup>_
+
+Hibernate and JPA support 4 inheritance strategies which map the entities to different table models. But which one is the best for your use case?
+* **tags**: [java](../tagged/java.md), [jpa](../tagged/jpa.md), [hibernate](../tagged/hibernate.md), [inheritance](../tagged/inheritance.md), [sql](../tagged/sql.md)
+---
 #### [Hibernate Logging Guide - Use the right config for dev and prod](https://thoughts-on-java.org/hibernate-logging-guide/)
 _<sup>https://thoughts-on-java.org/hibernate-logging-guide/</sup>_
 

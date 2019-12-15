@@ -2,6 +2,20 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/regex](https://www.bookmarks.dev/tagged/regex)</sup></sup>_
 ---
+#### [Regular Expressions - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)
+_<sup>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions</sup>_
+
+Regular expressions are patterns used to match character combinations in strings. In JavaScript, regular expressions are also objects. These patterns are used with the exec and test methods of RegExp,...
+* **tags**: [javascript](../tagged/javascript.md), [regex](../tagged/regex.md)
+---
+#### [JavaScript regular expressions cheatsheet and examples ](https://dev.to/learnbyexample/javascript-regular-expressions-cheatsheet-and-examples-4jg7)
+_<sup>https://dev.to/learnbyexample/javascript-regular-expressions-cheatsheet-and-examples-4jg7</sup>_
+
+Overview of JavaScript regular expression syntax and features
+* :calendar: **published on**: 2019-12-06
+* **tags**: [javascript](../tagged/javascript.md), [regex](../tagged/regex.md), [cheatsheet](../tagged/cheatsheet.md)
+* :octocat: **[source code](https://github.com/learnbyexample/learn_js_regexp)**
+---
 #### [CppVerbalExpressions](https://github.com/VerbalExpressions/CppVerbalExpressions)
 _<sup>https://github.com/VerbalExpressions/CppVerbalExpressions</sup>_
 

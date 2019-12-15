@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/dev-tools](https://www.bookmarks.dev/tagged/dev-tools)</sup></sup>_
 ---
+#### [Cloc Home Page](https://github.com/AlDanial/cloc)
+_<sup>https://github.com/AlDanial/cloc</sup>_
+
+cloc counts blank lines, comment lines, and physical lines of source code in many programming languages. - AlDanial/cloc
+* **tags**: [dev-tools](../tagged/dev-tools.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/AlDanial/cloc)**
+---
 #### [create-react-app](https://github.com/facebook/create-react-app)
 _<sup>https://github.com/facebook/create-react-app</sup>_
 

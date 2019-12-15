@@ -2,6 +2,25 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/docker](https://www.bookmarks.dev/tagged/docker)</sup></sup>_
 ---
+#### [Spring Boot in a Container](https://spring.io/blog/2018/11/08/spring-boot-in-a-container)
+_<sup>https://spring.io/blog/2018/11/08/spring-boot-in-a-container</sup>_
+
+Many people are using containers to wrap their Spring Boot applications, and building containers is not a simple thing to do. This is an article for developers of Spring Boot applications, and contain...
+* :calendar: **published on**: 2018-11-08
+* **tags**: [spring](../tagged/spring.md), [spring-boot](../tagged/spring-boot.md), [docker](../tagged/docker.md), [dockerfile](../tagged/dockerfile.md), [jib](../tagged/jib.md)
+---
+#### [A docker-compose stack for Prometheus monitoring](https://github.com/vegasbrianc/prometheus)
+_<sup>https://github.com/vegasbrianc/prometheus</sup>_
+
+A docker-compose stack for Prometheus monitoring. Contribute to vegasbrianc/prometheus development by creating an account on GitHub.
+* **tags**: [prometheus](../tagged/prometheus.md), [docker](../tagged/docker.md), [docker-compose](../tagged/docker-compose.md)
+---
+#### [Installing using Docker | Grafana Documentation](https://grafana.com/docs/installation/docker/)
+_<sup>https://grafana.com/docs/installation/docker/</sup>_
+
+Installing Grafana using Docker guide
+* **tags**: [grafana](../tagged/grafana.md), [docker](../tagged/docker.md), [docs](../tagged/docs.md)
+---
 #### [Security in the age of Docker & Kubernetes | Atomist Blog](https://blog.atomist.com/security-of-docker-kubernetes/)
 _<sup>https://blog.atomist.com/security-of-docker-kubernetes/</sup>_
 

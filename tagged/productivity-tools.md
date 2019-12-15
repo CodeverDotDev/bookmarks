@@ -2,6 +2,14 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/productivity-tools](https://www.bookmarks.dev/tagged/productivity-tools)</sup></sup>_
 ---
+#### [Dotfiles Are Meant to Be Forked](http://zachholman.com/2010/08/dotfiles-are-meant-to-be-forked/)
+_<sup>http://zachholman.com/2010/08/dotfiles-are-meant-to-be-forked/</sup>_
+
+I’m a big fan of customizing your dotfiles. “Dotfiles” are the funky little files in your *nix-based home directory that allow you to customize your nerdery: change how your prompt looks, set up your ...
+* :calendar: **published on**: 2010-08-20
+* **tags**: [productivity](../tagged/productivity.md), [productivity-tools](../tagged/productivity-tools.md), [bash](../tagged/bash.md)
+* :octocat: **[source code](https://github.com/holman/dotfiles)**
+---
 #### [Scrumpoker Online](https://www.scrumpoker.online/)
 _<sup>https://www.scrumpoker.online/</sup>_
 

@@ -2,6 +2,14 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/bash](https://www.bookmarks.dev/tagged/bash)</sup></sup>_
 ---
+#### [Dotfiles Are Meant to Be Forked](http://zachholman.com/2010/08/dotfiles-are-meant-to-be-forked/)
+_<sup>http://zachholman.com/2010/08/dotfiles-are-meant-to-be-forked/</sup>_
+
+I’m a big fan of customizing your dotfiles. “Dotfiles” are the funky little files in your *nix-based home directory that allow you to customize your nerdery: change how your prompt looks, set up your ...
+* :calendar: **published on**: 2010-08-20
+* **tags**: [productivity](../tagged/productivity.md), [productivity-tools](../tagged/productivity-tools.md), [bash](../tagged/bash.md)
+* :octocat: **[source code](https://github.com/holman/dotfiles)**
+---
 #### [bash - Is there any way to execute commands from history? - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/275053/is-there-any-way-to-execute-commands-from-history/275061)
 _<sup>https://unix.stackexchange.com/questions/275053/is-there-any-way-to-execute-commands-from-history/27...</sup>_
 

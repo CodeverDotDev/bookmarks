@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/jib](https://www.bookmarks.dev/tagged/jib)</sup></sup>_
 ---
+#### [Spring Boot in a Container](https://spring.io/blog/2018/11/08/spring-boot-in-a-container)
+_<sup>https://spring.io/blog/2018/11/08/spring-boot-in-a-container</sup>_
+
+Many people are using containers to wrap their Spring Boot applications, and building containers is not a simple thing to do. This is an article for developers of Spring Boot applications, and contain...
+* :calendar: **published on**: 2018-11-08
+* **tags**: [spring](../tagged/spring.md), [spring-boot](../tagged/spring-boot.md), [docker](../tagged/docker.md), [dockerfile](../tagged/dockerfile.md), [jib](../tagged/jib.md)
+---
 #### [Google Cloud Platform Blog Introducing Jib — build Java Docker images better](https://cloudplatform.googleblog.com/2018/07/introducing-jib-build-java-docker-images-better.html)
 _<sup>https://cloudplatform.googleblog.com/2018/07/introducing-jib-build-java-docker-images-better.html</sup>_
 

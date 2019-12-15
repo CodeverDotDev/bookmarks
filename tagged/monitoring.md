@@ -2,6 +2,56 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/monitoring](https://www.bookmarks.dev/tagged/monitoring)</sup></sup>_
 ---
+#### [Micrometer Application Monitoring Home Page](http://micrometer.io/)
+_<sup>http://micrometer.io/</sup>_
+
+An application metrics facade for the most popular monitoring tools. Instrument your code with dimensional metrics with a vendor neutral interface and decide on the monitoring backend at the last minu...
+* **tags**: [monitoring](../tagged/monitoring.md), [spring-boot](../tagged/spring-boot.md), [micrometer](../tagged/micrometer.md)
+* :octocat: **[source code](https://github.com/micrometer-metrics/micrometer)**
+---
+#### [JVM (Micrometer) dashboardData for Grafana | Grafana Labs](https://grafana.com/grafana/dashboards/4701)
+_<sup>https://grafana.com/grafana/dashboards/4701</sup>_
+
+Dashboard for Micrometer instrumented applications (Java, Spring Boot, Micronaut)
+* **tags**: [monitoring](../tagged/monitoring.md), [grafana](../tagged/grafana.md), [dashboard](../tagged/dashboard.md), [jvm](../tagged/jvm.md), [java](../tagged/java.md), [micrometer](../tagged/micrometer.md)
+---
+#### [Prometheus Monitoring for Java Developers by  Fabian Stäber  - 29min](https://www.youtube.com/watch?v=jb9j_IYv4cU)
+_<sup>https://www.youtube.com/watch?v=jb9j_IYv4cU</sup>_
+
+This talk gives an introduction to monitoring with Prometheus, and shows how Java applications can expose metrics for Prometheus monitoring environments. We show how to instrument applications directl...
+* :calendar: **published on**: 2016-11-09
+* **tags**: [prometheus](../tagged/prometheus.md), [grafana](../tagged/grafana.md), [monitoring](../tagged/monitoring.md), [java](../tagged/java.md)
+* :octocat: **[source code](https://github.com/fstab/prometheus-for-java-developers)**
+---
+#### [GitHub - prometheus/node_exporter ](https://github.com/prometheus/node_exporter)
+_<sup>https://github.com/prometheus/node_exporter</sup>_
+
+Prometheus exporter for hardware and OS metrics exposed by *NIX kernels, written in Go with pluggable metric collectors.
+* **tags**: [prometheus](../tagged/prometheus.md), [linux](../tagged/linux.md), [monitoring](../tagged/monitoring.md)
+* :octocat: **[source code](https://github.com/prometheus/node_exporter)**
+---
+#### [Grafana Home Page](https://grafana.com/)
+_<sup>https://grafana.com/</sup>_
+
+Grafana is the open source analytics & monitoring solution for every database
+* **tags**: [grafana](../tagged/grafana.md), [monitoring](../tagged/monitoring.md), [analytics](../tagged/analytics.md)
+* :octocat: **[source code](https://github.com/grafana/grafana)**
+---
+#### [Performance Monitoring Backend and Frontend using Micrometer  - 56min](https://www.youtube.com/watch?v=deBSrmskpcY)
+_<sup>https://www.youtube.com/watch?v=deBSrmskpcY</sup>_
+
+Micrometer is an open source metrics collection facade, the default metrics implementation in Spring Boot 2.0 and above. Think SLF4J—but for metrics! In this talk, we'll examine why you should be inst...
+* :calendar: **published on**: 2019-10-16
+* **tags**: [monitoring](../tagged/monitoring.md), [micrometer](../tagged/micrometer.md), [spring-boot](../tagged/spring-boot.md), [docker-compose](../tagged/docker-compose.md), [prometheus](../tagged/prometheus.md), [grafana](../tagged/grafana.md)
+* :octocat: **[source code](https://github.com/checketts/micrometer-springone-2019)**
+---
+#### [dotScale 2017 - Adrian Cole - Observability 3 ways: Logging, Metrics & Tracing  - 18min](https://www.youtube.com/watch?v=juP9VApKy_I)
+_<sup>https://www.youtube.com/watch?v=juP9VApKy_I</sup>_
+
+Adrian talks about often confused telemetry tools: Logging, Metrics and Distributed Tracing. He shows how to capture latency using each of those tools and how they work differently. Through examples a...
+* :calendar: **published on**: 2017-07-26
+* **tags**: [monitoring](../tagged/monitoring.md), [logging](../tagged/logging.md), [metrics](../tagged/metrics.md), [tracing](../tagged/tracing.md)
+---
 #### [Monitoring overview  |  Cloud Pub/Sub Documentation  |  Google Cloud](https://cloud.google.com/pubsub/docs/monitoring)
 _<sup>https://cloud.google.com/pubsub/docs/monitoring</sup>_
 

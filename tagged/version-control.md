@@ -2,6 +2,16 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/version-control](https://www.bookmarks.dev/tagged/version-control)</sup></sup>_
 ---
+#### [How do I undo the most recent local commits in Git? - Stack Overflow](https://stackoverflow.com/questions/927358/how-do-i-undo-the-most-recent-local-commits-in-git)
+_<sup>https://stackoverflow.com/questions/927358/how-do-i-undo-the-most-recent-local-commits-in-git</sup>_
+
+```
+$ git commit -m "Something terribly misguided"              (1)
+$ git reset HEAD~                                           (2)
+<< edit files as necessary >>                               (3)
+$...
+* **tags**: [version-control](../tagged/version-control.md), [git](../tagged/git.md)
+---
 #### [gh](https://github.com/rjeczalik/gh)
 _<sup>https://github.com/rjeczalik/gh</sup>_
 

@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/docs](https://www.bookmarks.dev/tagged/docs)</sup></sup>_
 ---
+#### [Installing using Docker | Grafana Documentation](https://grafana.com/docs/installation/docker/)
+_<sup>https://grafana.com/docs/installation/docker/</sup>_
+
+Installing Grafana using Docker guide
+* **tags**: [grafana](../tagged/grafana.md), [docker](../tagged/docker.md), [docs](../tagged/docs.md)
+---
 #### [Google Cloud Pub/Sub: Node.js Client Documentation](https://googleapis.dev/nodejs/pubsub/latest/index.html)
 _<sup>https://googleapis.dev/nodejs/pubsub/latest/index.html</sup>_
 

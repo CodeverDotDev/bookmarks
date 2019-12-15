@@ -2,6 +2,43 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/git](https://www.bookmarks.dev/tagged/git)</sup></sup>_
 ---
+#### [Squash commits into one with Git - Internal Pointers](https://www.internalpointers.com/post/squash-commits-into-one-git)
+_<sup>https://www.internalpointers.com/post/squash-commits-into-one-git</sup>_
+
+A nice way to group some changes together, especially before sharing them with others - neat and simple explanation with examples
+* :calendar: **published on**: 2017-11-17
+* **tags**: [git](../tagged/git.md), [git-rebase](../tagged/git-rebase.md)
+---
+#### [How do I undo the most recent local commits in Git? - Stack Overflow](https://stackoverflow.com/questions/927358/how-do-i-undo-the-most-recent-local-commits-in-git)
+_<sup>https://stackoverflow.com/questions/927358/how-do-i-undo-the-most-recent-local-commits-in-git</sup>_
+
+```
+$ git commit -m "Something terribly misguided"              (1)
+$ git reset HEAD~                                           (2)
+<< edit files as necessary >>                               (3)
+$...
+* **tags**: [version-control](../tagged/version-control.md), [git](../tagged/git.md)
+---
+#### [git - See what's in a stash without applying it - Stack Overflow](https://stackoverflow.com/questions/10725729/see-whats-in-a-stash-without-applying-it)
+_<sup>https://stackoverflow.com/questions/10725729/see-whats-in-a-stash-without-applying-it</sup>_
+
+To list the stashed modifications - `git stash list`
+
+To show files changed in the last stash - `git stash show`
+
+So, to view the content of the most recent stash, run - `git stash show -p`
+
+To view t...
+* **tags**: [git](../tagged/git.md)
+---
+#### [Include my Git Aliases - Haacked](https://haacked.com/archive/2019/02/14/including-git-aliases/)
+_<sup>https://haacked.com/archive/2019/02/14/including-git-aliases/</sup>_
+
+An easy way to include all of my Git aliases in your git config
+* :calendar: **published on**: 2019-02-14
+* **tags**: [git](../tagged/git.md), [alias](../tagged/alias.md)
+* :octocat: **[source code](https://github.com/haacked/dotfiles)**
+---
 #### [Google Cloud Functions - Deploying from Source Control](https://cloud.google.com/functions/docs/deploying/repo)
 _<sup>https://cloud.google.com/functions/docs/deploying/repo</sup>_
 

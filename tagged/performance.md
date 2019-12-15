@@ -2,6 +2,16 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/performance](https://www.bookmarks.dev/tagged/performance)</sup></sup>_
 ---
+#### [Don't Block the Event Loop (or the Worker Pool) | Node.js](https://nodejs.org/ru/docs/guides/dont-block-the-event-loop/)
+_<sup>https://nodejs.org/ru/docs/guides/dont-block-the-event-loop/</sup>_
+
+**Should you read this guide?**
+
+If you're writing anything more complicated than a brief command-line script, reading this should help you write higher-performance, more-secure applications.
+
+This do...
+* **tags**: [nodejs](../tagged/nodejs.md), [event-loop](../tagged/event-loop.md), [asynchronous](../tagged/asynchronous.md), [performance](../tagged/performance.md)
+---
 #### [Agrona](https://github.com/real-logic/Agrona)
 _<sup>https://github.com/real-logic/Agrona</sup>_
 

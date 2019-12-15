@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/logging](https://www.bookmarks.dev/tagged/logging)</sup></sup>_
 ---
+#### [dotScale 2017 - Adrian Cole - Observability 3 ways: Logging, Metrics & Tracing  - 18min](https://www.youtube.com/watch?v=juP9VApKy_I)
+_<sup>https://www.youtube.com/watch?v=juP9VApKy_I</sup>_
+
+Adrian talks about often confused telemetry tools: Logging, Metrics and Distributed Tracing. He shows how to capture latency using each of those tools and how they work differently. Through examples a...
+* :calendar: **published on**: 2017-07-26
+* **tags**: [monitoring](../tagged/monitoring.md), [logging](../tagged/logging.md), [metrics](../tagged/metrics.md), [tracing](../tagged/tracing.md)
+---
 #### [Centralized Logging Solution for Google Cloud Platform (Cloud Next '18) - 41min](https://www.youtube.com/watch?v=6GQqneNFVkU)
 _<sup>https://www.youtube.com/watch?v=6GQqneNFVkU</sup>_
 
@@ -659,12 +666,6 @@ _<sup>https://blog.risingstack.com/node-js-logging-tutorial/</sup>_
 The aim of this article is to provide help with Node.js logging. Learn how to use the console module, the debug module, the winston library and Trace.
 * :calendar: **published on**: 2016-10-01
 * **tags**: [nodejs](../tagged/nodejs.md), [logging](../tagged/logging.md), [winston](../tagged/winston.md)
----
-#### [Using Winston, a versatile logging library for Node.js | thisDaveJ](http://thisdavej.com/using-winston-a-versatile-logging-library-for-node-js/)
-_<sup>http://thisdavej.com/using-winston-a-versatile-logging-library-for-node-js/</sup>_
-
-Today, we will explore [Winston](https://github.com/winstonjs/winston), a versatile logging library for Node.js.  Winston can be used in a number of contexts including in Node web frameworks such as E...
-* **tags**: [nodejs](../tagged/nodejs.md), [logging](../tagged/logging.md)
 ---
 #### [GitHub - winstonjs/winston-daily-rotate-file](https://github.com/winstonjs/winston-daily-rotate-file)
 _<sup>https://github.com/winstonjs/winston-daily-rotate-file</sup>_

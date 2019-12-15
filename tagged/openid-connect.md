@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/openid-connect](https://www.bookmarks.dev/tagged/openid-connect)</sup></sup>_
 ---
+#### [GitHub - panva/node-openid-client](https://github.com/panva/node-openid-client)
+_<sup>https://github.com/panva/node-openid-client</sup>_
+
+OpenID Certified™ Relying Party (RP, Client) implementation for Node.js. Wide feature coverage including optional specifications and passport strategy is included. - panva/node-openid-client
+* **tags**: [openid-connect](../tagged/openid-connect.md), [nodejs](../tagged/nodejs.md)
+---
 #### [OAuth 2.0 and OpenID Connect (in plain English) - YouTube](https://www.youtube.com/watch?v=996OiexHze0)
 _<sup>https://www.youtube.com/watch?v=996OiexHze0</sup>_
 
@@ -61,7 +67,9 @@ What is the OpenID Connect protocol and how it works.
 #### [Final: OpenID Connect Core 1.0 incorporating errata set 1](https://openid.net/specs/openid-connect-core-1_0.html)
 _<sup>https://openid.net/specs/openid-connect-core-1_0.html</sup>_
 
-OpenID Connect 1.0 is a simple identity layer on top of the OAuth 2.0 protocol. It enables Clients to verify the identity of the End-User based on the authentication performed by an Authorization Serv...
+ Abstract 
+
+OpenID Connect 1.0 is a simple identity layer on top of the OAuth 2.0 protocol. It enables Clients to verify the identity of the End-User based on the authentication performed by an A...
 * **tags**: [openid-connect](../tagged/openid-connect.md), [oauth2](../tagged/oauth2.md)
 ---
 #### [OpenID Connect explained | Connect2id](https://connect2id.com/learn/openid-connect)

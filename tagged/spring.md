@@ -2,6 +2,26 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/spring](https://www.bookmarks.dev/tagged/spring)</sup></sup>_
 ---
+#### [Spring Boot in a Container](https://spring.io/blog/2018/11/08/spring-boot-in-a-container)
+_<sup>https://spring.io/blog/2018/11/08/spring-boot-in-a-container</sup>_
+
+Many people are using containers to wrap their Spring Boot applications, and building containers is not a simple thing to do. This is an article for developers of Spring Boot applications, and contain...
+* :calendar: **published on**: 2018-11-08
+* **tags**: [spring](../tagged/spring.md), [spring-boot](../tagged/spring-boot.md), [docker](../tagged/docker.md), [dockerfile](../tagged/dockerfile.md), [jib](../tagged/jib.md)
+---
+#### [Ehcache Home Page](http://www.ehcache.org/)
+_<sup>http://www.ehcache.org/</sup>_
+
+Java's most widely used cache.
+* **tags**: [java](../tagged/java.md), [caching](../tagged/caching.md), [spring](../tagged/spring.md), [spring-boot](../tagged/spring-boot.md)
+* :octocat: **[source code](https://github.com/ehcache/ehcache3)**
+---
+#### [Handling entities inheritance with Spring Data JPA – Netgloo Blog](https://blog.netgloo.com/2014/12/18/handling-entities-inheritance-with-spring-data-jpa/)
+_<sup>https://blog.netgloo.com/2014/12/18/handling-entities-inheritance-with-spring-data-jpa/</sup>_
+
+* :calendar: **published on**: 2014-12-18
+* **tags**: [spring](../tagged/spring.md), [spring-data-jpa](../tagged/spring-data-jpa.md), [inheritance](../tagged/inheritance.md)
+---
 #### [Quick Guide to MapStruct | Baeldung](https://www.baeldung.com/mapstruct)
 _<sup>https://www.baeldung.com/mapstruct</sup>_
 

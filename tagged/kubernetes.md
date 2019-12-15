@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/kubernetes](https://www.bookmarks.dev/tagged/kubernetes)</sup></sup>_
 ---
+#### [DRY Kubernetes with Helm | mimacom](https://blog.mimacom.com/dry-kubernetes-with-helm/)
+_<sup>https://blog.mimacom.com/dry-kubernetes-with-helm/</sup>_
+
+One of the coolest facets of Kubernetes is the declarative deployment descriptors. You describe what the system should look like and Kubernetes makes it happen. One of the worst facets of Kubernetes i...
+* :calendar: **published on**: 2018-05-04
+* **tags**: [kubernetes](../tagged/kubernetes.md), [helm](../tagged/helm.md)
+---
 #### [GitHub - gajus/lightship Home Page](https://github.com/gajus/lightship)
 _<sup>https://github.com/gajus/lightship</sup>_
 
@@ -1705,7 +1712,7 @@ A single node cluster to run your CI tests against thats ready in 30 seconds
 _<sup>https://github.com/asobti/kube-monkey</sup>_
 
 Chaos Monkey for Kubernetes clusters
-* **tags**: [kubernetes](../tagged/kubernetes.md), [testing](../tagged/testing.md)
+* **tags**: [kubernetes](../tagged/kubernetes.md), [testing](../tagged/testing.md), [fault-tolerance](../tagged/fault-tolerance.md)
 * :octocat: **[source code](https://github.com/asobti/kube-monkey)**
 ---
 #### [Kubeadm-dind-cluster](https://github.com/kubernetes-sigs/kubeadm-dind-cluster)
@@ -3947,7 +3954,7 @@ _<sup>http://slack.k8s.io/</sup>_
 
 * **tags**: [kubernetes](../tagged/kubernetes.md), [community](../tagged/community.md)
 ---
-#### [Stackoverflow](http://stackoverflow.com/questions/tagged/kubernetes)
+#### [Kubernetes on Stackoverflow](http://stackoverflow.com/questions/tagged/kubernetes)
 _<sup>http://stackoverflow.com/questions/tagged/kubernetes</sup>_
 
 * **tags**: [kubernetes](../tagged/kubernetes.md), [community](../tagged/community.md)

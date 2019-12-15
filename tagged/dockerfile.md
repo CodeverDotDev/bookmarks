@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/dockerfile](https://www.bookmarks.dev/tagged/dockerfile)</sup></sup>_
 ---
+#### [Spring Boot in a Container](https://spring.io/blog/2018/11/08/spring-boot-in-a-container)
+_<sup>https://spring.io/blog/2018/11/08/spring-boot-in-a-container</sup>_
+
+Many people are using containers to wrap their Spring Boot applications, and building containers is not a simple thing to do. This is an article for developers of Spring Boot applications, and contain...
+* :calendar: **published on**: 2018-11-08
+* **tags**: [spring](../tagged/spring.md), [spring-boot](../tagged/spring-boot.md), [docker](../tagged/docker.md), [dockerfile](../tagged/dockerfile.md), [jib](../tagged/jib.md)
+---
 #### [Dockerizing an Angular App](https://mherman.org/blog/dockerizing-an-angular-app/)
 _<sup>https://mherman.org/blog/dockerizing-an-angular-app/</sup>_
 

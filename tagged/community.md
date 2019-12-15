@@ -185,7 +185,7 @@ _<sup>http://slack.k8s.io/</sup>_
 
 * **tags**: [kubernetes](../tagged/kubernetes.md), [community](../tagged/community.md)
 ---
-#### [Stackoverflow](http://stackoverflow.com/questions/tagged/kubernetes)
+#### [Kubernetes on Stackoverflow](http://stackoverflow.com/questions/tagged/kubernetes)
 _<sup>http://stackoverflow.com/questions/tagged/kubernetes</sup>_
 
 * **tags**: [kubernetes](../tagged/kubernetes.md), [community](../tagged/community.md)
@@ -247,7 +247,7 @@ _<sup>https://twitter.com/search?q=%23GraphQL</sup>_
 Use the hashtag graphql
 * **tags**: [graphql](../tagged/graphql.md), [community](../tagged/community.md)
 ---
-#### [StackOverflow](https://stackoverflow.com/questions/tagged/graphql)
+#### [StackOverflow - graphql questions](https://stackoverflow.com/questions/tagged/graphql)
 _<sup>https://stackoverflow.com/questions/tagged/graphql</sup>_
 
 Questions and answers. Use the tag [graphql](https://stackoverflow.com/questions/tagged/graphql)

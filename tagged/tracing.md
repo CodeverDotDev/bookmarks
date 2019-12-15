@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/tracing](https://www.bookmarks.dev/tagged/tracing)</sup></sup>_
 ---
+#### [dotScale 2017 - Adrian Cole - Observability 3 ways: Logging, Metrics & Tracing  - 18min](https://www.youtube.com/watch?v=juP9VApKy_I)
+_<sup>https://www.youtube.com/watch?v=juP9VApKy_I</sup>_
+
+Adrian talks about often confused telemetry tools: Logging, Metrics and Distributed Tracing. He shows how to capture latency using each of those tools and how they work differently. Through examples a...
+* :calendar: **published on**: 2017-07-26
+* **tags**: [monitoring](../tagged/monitoring.md), [logging](../tagged/logging.md), [metrics](../tagged/metrics.md), [tracing](../tagged/tracing.md)
+---
 #### [lptrace](https://github.com/khamidou/lptrace)
 _<sup>https://github.com/khamidou/lptrace</sup>_
 

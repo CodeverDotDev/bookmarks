@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/reactive-programming](https://www.bookmarks.dev/tagged/reactive-programming)</sup></sup>_
 ---
+#### [What is Reactive Programming? - Paul Stovell](http://paulstovell.com/blog/reactive-programming)
+_<sup>http://paulstovell.com/blog/reactive-programming</sup>_
+
+My take on reactive and functional reactive programming.
+* :calendar: **published on**: 2010-01-04
+* **tags**: [reactive-programming](../tagged/reactive-programming.md)
+---
 #### [Rich Harris - Rethinking reactivity - YouTube](https://www.youtube.com/watch?v=AdNJ3fydeao)
 _<sup>https://www.youtube.com/watch?v=AdNJ3fydeao</sup>_
 

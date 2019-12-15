@@ -2,6 +2,26 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/promise](https://www.bookmarks.dev/tagged/promise)</sup></sup>_
 ---
+#### [javascript - Promise constructor with reject call vs throwing error - Stack Overflow](https://stackoverflow.com/questions/28703241/promise-constructor-with-reject-call-vs-throwing-error?answertab=votes#tab-top)
+_<sup>https://stackoverflow.com/questions/28703241/promise-constructor-with-reject-call-vs-throwing-error?...</sup>_
+
+* **tags**: [javascript](../tagged/javascript.md), [promise](../tagged/promise.md)
+---
+#### [Introduction to ES6 Promises - 4 functions to avoid callback hell](http://jamesknelson.com/grokking-es6-promises-the-four-functions-you-need-to-avoid-callback-hell/)
+_<sup>http://jamesknelson.com/grokking-es6-promises-the-four-functions-you-need-to-avoid-callback-hell/</sup>_
+
+Apart from being new and shiny, Promises are a great way to clean up your code, reduce dependencies on external libraries, and prepare yourself for async and await in ES7. Developers who use them swea...
+* :calendar: **published on**: 2018-10-01
+* **tags**: [javascript](../tagged/javascript.md), [promise](../tagged/promise.md), [promises](../tagged/promises.md)
+---
+#### [Unhandled Promise Rejections in Node.js](http://thecodebarbarian.com/unhandled-promise-rejections-in-node.js)
+_<sup>http://thecodebarbarian.com/unhandled-promise-rejections-in-node.js</sup>_
+
+Node.js 6.6.0 added a sporadically useful bug/feature: logging unhandled promise rejections to the console by default. In other words, the below script will print an error to the console:
+...
+* :calendar: **published on**: 2017-04-04
+* **tags**: [nodejs](../tagged/nodejs.md), [promise](../tagged/promise.md), [error-handling](../tagged/error-handling.md)
+---
 #### [GitHub - domenic/chai-as-promised](https://github.com/domenic/chai-as-promised)
 _<sup>https://github.com/domenic/chai-as-promised</sup>_
 

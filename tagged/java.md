@@ -2,6 +2,57 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/java](https://www.bookmarks.dev/tagged/java)</sup></sup>_
 ---
+#### [Ehcache Home Page](http://www.ehcache.org/)
+_<sup>http://www.ehcache.org/</sup>_
+
+Java's most widely used cache.
+* **tags**: [java](../tagged/java.md), [caching](../tagged/caching.md), [spring](../tagged/spring.md), [spring-boot](../tagged/spring-boot.md)
+* :octocat: **[source code](https://github.com/ehcache/ehcache3)**
+---
+#### [Complete Guide: Inheritance strategies with JPA and Hibernate](https://thoughts-on-java.org/complete-guide-inheritance-strategies-jpa-hibernate/#comments)
+_<sup>https://thoughts-on-java.org/complete-guide-inheritance-strategies-jpa-hibernate/#comments</sup>_
+
+Hibernate and JPA support 4 inheritance strategies which map the entities to different table models. But which one is the best for your use case?
+* **tags**: [java](../tagged/java.md), [jpa](../tagged/jpa.md), [hibernate](../tagged/hibernate.md), [inheritance](../tagged/inheritance.md), [sql](../tagged/sql.md)
+---
+#### [JVM (Micrometer) dashboardData for Grafana | Grafana Labs](https://grafana.com/grafana/dashboards/4701)
+_<sup>https://grafana.com/grafana/dashboards/4701</sup>_
+
+Dashboard for Micrometer instrumented applications (Java, Spring Boot, Micronaut)
+* **tags**: [monitoring](../tagged/monitoring.md), [grafana](../tagged/grafana.md), [dashboard](../tagged/dashboard.md), [jvm](../tagged/jvm.md), [java](../tagged/java.md), [micrometer](../tagged/micrometer.md)
+---
+#### [Prometheus Monitoring for Java Developers by  Fabian Stäber  - 29min](https://www.youtube.com/watch?v=jb9j_IYv4cU)
+_<sup>https://www.youtube.com/watch?v=jb9j_IYv4cU</sup>_
+
+This talk gives an introduction to monitoring with Prometheus, and shows how Java applications can expose metrics for Prometheus monitoring environments. We show how to instrument applications directl...
+* :calendar: **published on**: 2016-11-09
+* **tags**: [prometheus](../tagged/prometheus.md), [grafana](../tagged/grafana.md), [monitoring](../tagged/monitoring.md), [java](../tagged/java.md)
+* :octocat: **[source code](https://github.com/fstab/prometheus-for-java-developers)**
+---
+#### [Java Naming Conventions](https://www.oracle.com/technetwork/java/codeconventions-135099.html)
+_<sup>https://www.oracle.com/technetwork/java/codeconventions-135099.html</sup>_
+
+Code Conventions for the Java Programming Language
+* **tags**: [java](../tagged/java.md), [naming-conventions](../tagged/naming-conventions.md)
+---
+#### [java - Getting the parameters of a running JVM - Stack Overflow](https://stackoverflow.com/questions/5317152/getting-the-parameters-of-a-running-jvm)
+_<sup>https://stackoverflow.com/questions/5317152/getting-the-parameters-of-a-running-jvm</sup>_
+
+```bash
+jps -lvm
+```
+* **tags**: [java](../tagged/java.md), [jdk](../tagged/jdk.md), [jvm](../tagged/jvm.md)
+---
+#### [Running categorized Tests using JUnit, Maven and Annotated-Test Suites](https://www.hascode.com/2012/12/running-categorized-tests-using-junit-maven-and-annotated-test-suites/)
+_<sup>https://www.hascode.com/2012/12/running-categorized-tests-using-junit-maven-and-annotated-test-suite...</sup>_
+
+Sometimes we need to classify the tests in a project and a possible solution to achieve this goal is to assign different categories to the tests.
+
+Often we’re doing this to separate the execution of f...
+* :calendar: **published on**: 2012-12-06
+* **tags**: [maven](../tagged/maven.md), [maven-plugin](../tagged/maven-plugin.md), [testing](../tagged/testing.md), [java](../tagged/java.md)
+* :octocat: **[source code](https://bitbucket.org/hascode/junit-category-selection/)**
+---
 #### [Togglz - Features flag for Java](https://www.togglz.org/)
 _<sup>https://www.togglz.org/</sup>_
 

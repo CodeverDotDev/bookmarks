@@ -2,6 +2,22 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/linux](https://www.bookmarks.dev/tagged/linux)</sup></sup>_
 ---
+#### [shell - Which terminal command to get just IP address and nothing else? - Stack Overflow](https://stackoverflow.com/questions/8529181/which-terminal-command-to-get-just-ip-address-and-nothing-else)
+_<sup>https://stackoverflow.com/questions/8529181/which-terminal-command-to-get-just-ip-address-and-nothin...</sup>_
+
+On OSX, if you know the interface, you could use - `$ ipconfig getifaddr en0`
+
+You can write a script that only return the IP like:
+...
+* **tags**: [shell](../tagged/shell.md), [osx](../tagged/osx.md), [linux](../tagged/linux.md), [ipaddress](../tagged/ipaddress.md), [networking](../tagged/networking.md)
+---
+#### [GitHub - prometheus/node_exporter ](https://github.com/prometheus/node_exporter)
+_<sup>https://github.com/prometheus/node_exporter</sup>_
+
+Prometheus exporter for hardware and OS metrics exposed by *NIX kernels, written in Go with pluggable metric collectors.
+* **tags**: [prometheus](../tagged/prometheus.md), [linux](../tagged/linux.md), [monitoring](../tagged/monitoring.md)
+* :octocat: **[source code](https://github.com/prometheus/node_exporter)**
+---
 #### [AWK command in Unix/Linux with examples - GeeksforGeeks](https://www.geeksforgeeks.org/awk-command-unixlinux-examples/)
 _<sup>https://www.geeksforgeeks.org/awk-command-unixlinux-examples/</sup>_
 

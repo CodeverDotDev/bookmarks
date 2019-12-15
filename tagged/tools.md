@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/tools](https://www.bookmarks.dev/tagged/tools)</sup></sup>_
 ---
+#### [Cloc Home Page](https://github.com/AlDanial/cloc)
+_<sup>https://github.com/AlDanial/cloc</sup>_
+
+cloc counts blank lines, comment lines, and physical lines of source code in many programming languages. - AlDanial/cloc
+* **tags**: [dev-tools](../tagged/dev-tools.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/AlDanial/cloc)**
+---
 #### [Chocolatey - The package manager for Windows](https://chocolatey.org)
 _<sup>https://chocolatey.org</sup>_
 

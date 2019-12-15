@@ -2,6 +2,14 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/oauth2](https://www.bookmarks.dev/tagged/oauth2)</sup></sup>_
 ---
+#### [React Simple Auth: React + Redux + OAuth 2.0 - Matt Mazzola - Medium](https://medium.com/@mattmazzola/react-simple-auth-react-redux-oauth-2-0-de6ea9df0a63)
+_<sup>https://medium.com/@mattmazzola/react-simple-auth-react-redux-oauth-2-0-de6ea9df0a63</sup>_
+
+I recently started working on a React project and was looking to add authentication support to it. As a long time Ember developer I expected there to be a standard community solution similar to ember-...
+* :calendar: **published on**: 2017-10-11
+* **tags**: [reactjs](../tagged/reactjs.md), [oauth2](../tagged/oauth2.md), [authentication](../tagged/authentication.md), [redux](../tagged/redux.md)
+* :octocat: **[source code](https://github.com/mattmazzola/react-simple-auth-sample)**
+---
 #### [OpenID Connect debugger](https://oidcdebugger.com/)
 _<sup>https://oidcdebugger.com/</sup>_
 
@@ -83,7 +91,9 @@ What is the OpenID Connect protocol and how it works.
 #### [Final: OpenID Connect Core 1.0 incorporating errata set 1](https://openid.net/specs/openid-connect-core-1_0.html)
 _<sup>https://openid.net/specs/openid-connect-core-1_0.html</sup>_
 
-OpenID Connect 1.0 is a simple identity layer on top of the OAuth 2.0 protocol. It enables Clients to verify the identity of the End-User based on the authentication performed by an Authorization Serv...
+ Abstract 
+
+OpenID Connect 1.0 is a simple identity layer on top of the OAuth 2.0 protocol. It enables Clients to verify the identity of the End-User based on the authentication performed by an A...
 * **tags**: [openid-connect](../tagged/openid-connect.md), [oauth2](../tagged/oauth2.md)
 ---
 #### [OAuth 2.0 Tutorial](http://tutorials.jenkov.com/oauth2/index.html)

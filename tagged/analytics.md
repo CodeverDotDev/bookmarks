@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/analytics](https://www.bookmarks.dev/tagged/analytics)</sup></sup>_
 ---
+#### [Grafana Home Page](https://grafana.com/)
+_<sup>https://grafana.com/</sup>_
+
+Grafana is the open source analytics & monitoring solution for every database
+* **tags**: [grafana](../tagged/grafana.md), [monitoring](../tagged/monitoring.md), [analytics](../tagged/analytics.md)
+* :octocat: **[source code](https://github.com/grafana/grafana)**
+---
 #### [Ahoy](https://github.com/ankane/ahoy)
 _<sup>https://github.com/ankane/ahoy</sup>_
 

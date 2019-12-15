@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/spring-data-jpa](https://www.bookmarks.dev/tagged/spring-data-jpa)</sup></sup>_
 ---
+#### [Handling entities inheritance with Spring Data JPA – Netgloo Blog](https://blog.netgloo.com/2014/12/18/handling-entities-inheritance-with-spring-data-jpa/)
+_<sup>https://blog.netgloo.com/2014/12/18/handling-entities-inheritance-with-spring-data-jpa/</sup>_
+
+* :calendar: **published on**: 2014-12-18
+* **tags**: [spring](../tagged/spring.md), [spring-data-jpa](../tagged/spring-data-jpa.md), [inheritance](../tagged/inheritance.md)
+---
 #### [Spring Data Repositories compared](https://www.baeldung.com/spring-data-repositories)
 _<sup>https://www.baeldung.com/spring-data-repositories</sup>_
 

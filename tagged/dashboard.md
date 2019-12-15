@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/dashboard](https://www.bookmarks.dev/tagged/dashboard)</sup></sup>_
 ---
+#### [JVM (Micrometer) dashboardData for Grafana | Grafana Labs](https://grafana.com/grafana/dashboards/4701)
+_<sup>https://grafana.com/grafana/dashboards/4701</sup>_
+
+Dashboard for Micrometer instrumented applications (Java, Spring Boot, Micronaut)
+* **tags**: [monitoring](../tagged/monitoring.md), [grafana](../tagged/grafana.md), [dashboard](../tagged/dashboard.md), [jvm](../tagged/jvm.md), [java](../tagged/java.md), [micrometer](../tagged/micrometer.md)
+---
 #### [ Premium Bootstrap Themes and Templates: Download @ Creative Tim ](https://www.creative-tim.com/)
 _<sup>https://www.creative-tim.com/</sup>_
 

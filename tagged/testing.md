@@ -2,6 +2,16 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/testing](https://www.bookmarks.dev/tagged/testing)</sup></sup>_
 ---
+#### [Running categorized Tests using JUnit, Maven and Annotated-Test Suites](https://www.hascode.com/2012/12/running-categorized-tests-using-junit-maven-and-annotated-test-suites/)
+_<sup>https://www.hascode.com/2012/12/running-categorized-tests-using-junit-maven-and-annotated-test-suite...</sup>_
+
+Sometimes we need to classify the tests in a project and a possible solution to achieve this goal is to assign different categories to the tests.
+
+Often we’re doing this to separate the execution of f...
+* :calendar: **published on**: 2012-12-06
+* **tags**: [maven](../tagged/maven.md), [maven-plugin](../tagged/maven-plugin.md), [testing](../tagged/testing.md), [java](../tagged/java.md)
+* :octocat: **[source code](https://bitbucket.org/hascode/junit-category-selection/)**
+---
 #### [GitHub - Marak/faker.js Home Page](https://github.com/marak/Faker.js/)
 _<sup>https://github.com/marak/Faker.js/</sup>_
 
@@ -227,7 +237,7 @@ A single node cluster to run your CI tests against thats ready in 30 seconds
 _<sup>https://github.com/asobti/kube-monkey</sup>_
 
 Chaos Monkey for Kubernetes clusters
-* **tags**: [kubernetes](../tagged/kubernetes.md), [testing](../tagged/testing.md)
+* **tags**: [kubernetes](../tagged/kubernetes.md), [testing](../tagged/testing.md), [fault-tolerance](../tagged/fault-tolerance.md)
 * :octocat: **[source code](https://github.com/asobti/kube-monkey)**
 ---
 #### [Kubeadm-dind-cluster](https://github.com/kubernetes-sigs/kubeadm-dind-cluster)

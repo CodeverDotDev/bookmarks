@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/linter](https://www.bookmarks.dev/tagged/linter)</sup></sup>_
 ---
+#### [ESLint - Pluggable JavaScript linter](https://eslint.org/)
+_<sup>https://eslint.org/</sup>_
+
+A pluggable and configurable linter tool for identifying and reporting on patterns in JavaScript. Maintain your code quality with ease.
+* **tags**: [javascript](../tagged/javascript.md), [linter](../tagged/linter.md)
+* :octocat: **[source code](https://github.com/eslint/eslint)**
+---
 #### [flake8](https://pypi.python.org/pypi/flake8)
 _<sup>https://pypi.python.org/pypi/flake8</sup>_
 

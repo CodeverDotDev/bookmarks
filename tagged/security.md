@@ -2,6 +2,21 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/security](https://www.bookmarks.dev/tagged/security)</sup></sup>_
 ---
+#### [The Hard Parts of JWT Security Nobody Talks About](https://www.pingidentity.com/en/company/blog/posts/2019/jwt-security-nobody-talks-about.html)
+_<sup>https://www.pingidentity.com/en/company/blog/posts/2019/jwt-security-nobody-talks-about.html</sup>_
+
+In spite of the popularity of JWTs, their security properties are often misunderstood. To ensure the security of the app, you must fully consider asymmetric signatures, validation beyond signatures, c...
+* :calendar: **published on**: 2019-01-10
+* **tags**: [jwt](../tagged/jwt.md), [security](../tagged/security.md), [encryption](../tagged/encryption.md)
+---
+#### [Anatomy of a Cross-site Request Forgery Attack](https://haacked.com/archive/2009/04/02/anatomy-of-csrf-attack.aspx/)
+_<sup>https://haacked.com/archive/2009/04/02/anatomy-of-csrf-attack.aspx/</sup>_
+
+A Cross-site request forgery attack, also known as CSRF or XSRF (pronounced sea-surf) is the less well known, but equally dangerous, cousin of the Cross Site Scripting (XSS) attack. Yeah, they come fr...
+* :calendar: **published on**: 2009-04-02
+* **tags**: [security](../tagged/security.md), [csrf](../tagged/csrf.md)
+* :octocat: **[source code](http://code.haacked.com/mvc-2/CsrfDemo.zip)**
+---
 #### [Security in the age of Docker & Kubernetes | Atomist Blog](https://blog.atomist.com/security-of-docker-kubernetes/)
 _<sup>https://blog.atomist.com/security-of-docker-kubernetes/</sup>_
 

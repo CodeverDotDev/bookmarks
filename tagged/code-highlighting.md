@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/code-highlighting](https://www.bookmarks.dev/tagged/code-highlighting)</sup></sup>_
 ---
+#### [List of supported languages and lexers · rouge-ruby/rouge Wiki · GitHub](https://github.com/rouge-ruby/rouge/wiki/List-of-supported-languages-and-lexers)
+_<sup>https://github.com/rouge-ruby/rouge/wiki/List-of-supported-languages-and-lexers</sup>_
+
+A pure Ruby code highlighter that is compatible with Pygments - rouge-ruby/rouge
+* **tags**: [code-highlighting](../tagged/code-highlighting.md), [jekyll](../tagged/jekyll.md)
+* :octocat: **[source code](https://github.com/rouge-ruby/rouge/wiki/List-of-supported-languages-and-lexers)**
+---
 #### [CodeRay](https://github.com/rubychan/coderay)
 _<sup>https://github.com/rubychan/coderay</sup>_
 

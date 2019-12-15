@@ -32,8 +32,8 @@ My advice: start with this as your webpack docs, then look at the of...
 * **tags**: [webpack](../tagged/webpack.md)
 * :octocat: **[source code](https://github.com/petehunt/webpack-howto)**
 ---
-#### [Fast, faster, Angular CLI - how I converted my Angular project to use Angular CLI – CodingpediaOrg](http://www.codingpedia.org/ama/fast-faster-angular-cli-how-i-converted-my-angular-project-to-use-angular-cli)
-_<sup>http://www.codingpedia.org/ama/fast-faster-angular-cli-how-i-converted-my-angular-project-to-use-ang...</sup>_
+#### [Fast, faster, Angular CLI - how I converted my Angular project to use Angular CLI – CodepediaOrg](https://www.codepedia.org/ama/fast-faster-angular-cli-how-i-converted-my-angular-project-to-use-angular-cli)
+_<sup>https://www.codepedia.org/ama/fast-faster-angular-cli-how-i-converted-my-angular-project-to-use-angu...</sup>_
 
 Blog post presenting how to convert an Angular project that used webpack to Angular-CLI project...
 * :calendar: **published on**: 2017-05-02

@@ -2,6 +2,98 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/javascript](https://www.bookmarks.dev/tagged/javascript)</sup></sup>_
 ---
+#### [Regular Expressions - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)
+_<sup>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions</sup>_
+
+Regular expressions are patterns used to match character combinations in strings. In JavaScript, regular expressions are also objects. These patterns are used with the exec and test methods of RegExp,...
+* **tags**: [javascript](../tagged/javascript.md), [regex](../tagged/regex.md)
+---
+#### [JavaScript regular expressions cheatsheet and examples ](https://dev.to/learnbyexample/javascript-regular-expressions-cheatsheet-and-examples-4jg7)
+_<sup>https://dev.to/learnbyexample/javascript-regular-expressions-cheatsheet-and-examples-4jg7</sup>_
+
+Overview of JavaScript regular expression syntax and features
+* :calendar: **published on**: 2019-12-06
+* **tags**: [javascript](../tagged/javascript.md), [regex](../tagged/regex.md), [cheatsheet](../tagged/cheatsheet.md)
+* :octocat: **[source code](https://github.com/learnbyexample/learn_js_regexp)**
+---
+#### [ES6 In Depth: Arrow functions - Mozilla Hacks - the Web developer blog](https://hacks.mozilla.org/2015/06/es6-in-depth-arrow-functions/)
+_<sup>https://hacks.mozilla.org/2015/06/es6-in-depth-arrow-functions/</sup>_
+
+ES6 In Depth is a series on new features being added to the JavaScript programming language in the 6th Edition of the ECMAScript standard, ES6 for short. 
+* :calendar: **published on**: 2015-06-04
+* **tags**: [javascript](../tagged/javascript.md), [ecmascript-6](../tagged/ecmascript-6.md)
+---
+#### [StrongLoop - Asynchronous Error Handling in Express with Promises, Generators and ES7 ](https://strongloop.com/strongblog/async-error-handling-expressjs-es7-promises-generators/)
+_<sup>https://strongloop.com/strongblog/async-error-handling-expressjs-es7-promises-generators/</sup>_
+
+This article focuses on effective ways to capture and handle errors using error-handling middleware in Express. 
+* :calendar: **published on**: 2015-04-21
+* **tags**: [javascript](../tagged/javascript.md), [error-handling](../tagged/error-handling.md), [ecmascript-6](../tagged/ecmascript-6.md), [ecmascript-7](../tagged/ecmascript-7.md), [async-await](../tagged/async-await.md), [expressjs](../tagged/expressjs.md)
+* :octocat: **[source code](https://github.com/strongloop-community/express-example-error-handling)**
+---
+#### [Scope in JavaScript - Digital Web](http://www.digital-web.com/articles/scope_in_javascript/)
+_<sup>http://www.digital-web.com/articles/scope_in_javascript/</sup>_
+
+Scope is one of the foundational aspects of the JavaScript language, and probably the one I’ve struggled with the most when building complex programs. I can’t count the number of times I’ve lost track...
+* :calendar: **published on**: 2006-09-11
+* **tags**: [javascript](../tagged/javascript.md)
+---
+#### [ecmascript 6 - What do multiple arrow functions mean in javascript? - Stack Overflow](https://stackoverflow.com/questions/32782922/what-do-multiple-arrow-functions-mean-in-javascript)
+_<sup>https://stackoverflow.com/questions/32782922/what-do-multiple-arrow-functions-mean-in-javascript</sup>_
+
+OK, now that we understand how that works, let's look at your code
+...
+* **tags**: [javascript](../tagged/javascript.md), [ecmascript-6](../tagged/ecmascript-6.md), [functional-programming](../tagged/functional-programming.md)
+---
+#### [javascript - Promise constructor with reject call vs throwing error - Stack Overflow](https://stackoverflow.com/questions/28703241/promise-constructor-with-reject-call-vs-throwing-error?answertab=votes#tab-top)
+_<sup>https://stackoverflow.com/questions/28703241/promise-constructor-with-reject-call-vs-throwing-error?...</sup>_
+
+* **tags**: [javascript](../tagged/javascript.md), [promise](../tagged/promise.md)
+---
+#### [A crash course in just-in-time (JIT) compilers - Mozilla Hacks - the Web developer blog](https://hacks.mozilla.org/2017/02/a-crash-course-in-just-in-time-jit-compilers/)
+_<sup>https://hacks.mozilla.org/2017/02/a-crash-course-in-just-in-time-jit-compilers/</sup>_
+
+JavaScript started out slow, but then got faster thanks to something called the JIT. But how does the JIT work?
+* :calendar: **published on**: 2017-02-28
+* **tags**: [jit](../tagged/jit.md), [compiler](../tagged/compiler.md), [javascript](../tagged/javascript.md)
+---
+#### [The 80/20 Guide to Async/Await in Node.js](http://thecodebarbarian.com/80-20-guide-to-async-await-in-node.js)
+_<sup>http://thecodebarbarian.com/80-20-guide-to-async-await-in-node.js</sup>_
+
+Arguably the biggest new feature in Node.js 7.6.0 is that the much awaited async function keyword is now available without a flag. Callback hell and promise hell are now in the past. But, like Uncle B...
+* :calendar: **published on**: 2017-03-08
+* **tags**: [nodejs](../tagged/nodejs.md), [javascript](../tagged/javascript.md), [async-await](../tagged/async-await.md), [error-handling](../tagged/error-handling.md)
+---
+#### [Async Await Error Handling in JavaScript](https://thecodebarbarian.com/async-await-error-handling-in-javascript)
+_<sup>https://thecodebarbarian.com/async-await-error-handling-in-javascript</sup>_
+
+Error handling in async/await causes a lot of confusion. There are numerous patterns for handling errors in async functions, and even experienced developers sometimes get it wrong.
+
+Suppose you have a...
+* :calendar: **published on**: 2019-07-09
+* **tags**: [javascript](../tagged/javascript.md), [async-await](../tagged/async-await.md), [error-handling](../tagged/error-handling.md)
+---
+#### [Introduction to ES6 Promises - 4 functions to avoid callback hell](http://jamesknelson.com/grokking-es6-promises-the-four-functions-you-need-to-avoid-callback-hell/)
+_<sup>http://jamesknelson.com/grokking-es6-promises-the-four-functions-you-need-to-avoid-callback-hell/</sup>_
+
+Apart from being new and shiny, Promises are a great way to clean up your code, reduce dependencies on external libraries, and prepare yourself for async and await in ES7. Developers who use them swea...
+* :calendar: **published on**: 2018-10-01
+* **tags**: [javascript](../tagged/javascript.md), [promise](../tagged/promise.md), [promises](../tagged/promises.md)
+---
+#### [Svelte  Home Page](https://svelte.dev/)
+_<sup>https://svelte.dev/</sup>_
+
+Svelte is a new way to build web applications. It's a compiler that takes your declarative components and converts them into efficient JavaScript that surgically updates the DOM.
+* **tags**: [svelte](../tagged/svelte.md), [javascript](../tagged/javascript.md), [javascript-frameworks](../tagged/javascript-frameworks.md)
+* :octocat: **[source code](https://github.com/sveltejs/svelte)**
+---
+#### [ESLint - Pluggable JavaScript linter](https://eslint.org/)
+_<sup>https://eslint.org/</sup>_
+
+A pluggable and configurable linter tool for identifying and reporting on patterns in JavaScript. Maintain your code quality with ease.
+* **tags**: [javascript](../tagged/javascript.md), [linter](../tagged/linter.md)
+* :octocat: **[source code](https://github.com/eslint/eslint)**
+---
 #### [TypeORM Home Page](http://typeorm.io/)
 _<sup>http://typeorm.io/</sup>_
 

@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/keycloak](https://www.bookmarks.dev/tagged/keycloak)</sup></sup>_
 ---
+#### [GitHub - keycloak/keycloak-nodejs-admin-client Home Page](https://github.com/keycloak/keycloak-nodejs-admin-client)
+_<sup>https://github.com/keycloak/keycloak-nodejs-admin-client</sup>_
+
+🔑 NodeJS keycloak admin client. 
+* **tags**: [keycloak](../tagged/keycloak.md), [nodejs](../tagged/nodejs.md)
+* :octocat: **[source code](https://github.com/keycloak/keycloak-nodejs-admin-client)**
+---
 #### [GitHub - dasniko/keycloak-reactjs-demo](https://github.com/dasniko/keycloak-reactjs-demo)
 _<sup>https://github.com/dasniko/keycloak-reactjs-demo</sup>_
 

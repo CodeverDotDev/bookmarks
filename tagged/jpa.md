@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/jpa](https://www.bookmarks.dev/tagged/jpa)</sup></sup>_
 ---
+#### [Complete Guide: Inheritance strategies with JPA and Hibernate](https://thoughts-on-java.org/complete-guide-inheritance-strategies-jpa-hibernate/#comments)
+_<sup>https://thoughts-on-java.org/complete-guide-inheritance-strategies-jpa-hibernate/#comments</sup>_
+
+Hibernate and JPA support 4 inheritance strategies which map the entities to different table models. But which one is the best for your use case?
+* **tags**: [java](../tagged/java.md), [jpa](../tagged/jpa.md), [hibernate](../tagged/hibernate.md), [inheritance](../tagged/inheritance.md), [sql](../tagged/sql.md)
+---
 #### [Hibernate Tip: What's the Difference between JOIN, LEFT JOIN & JOIN FETCH](https://thoughts-on-java.org/hibernate-tips-difference-join-left-join-fetch-join/)
 _<sup>https://thoughts-on-java.org/hibernate-tips-difference-join-left-join-fetch-join/</sup>_
 

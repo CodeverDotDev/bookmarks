@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/functional-programming](https://www.bookmarks.dev/tagged/functional-programming)</sup></sup>_
 ---
+#### [ecmascript 6 - What do multiple arrow functions mean in javascript? - Stack Overflow](https://stackoverflow.com/questions/32782922/what-do-multiple-arrow-functions-mean-in-javascript)
+_<sup>https://stackoverflow.com/questions/32782922/what-do-multiple-arrow-functions-mean-in-javascript</sup>_
+
+OK, now that we understand how that works, let's look at your code
+...
+* **tags**: [javascript](../tagged/javascript.md), [ecmascript-6](../tagged/ecmascript-6.md), [functional-programming](../tagged/functional-programming.md)
+---
 #### [MobX Home Page](https://mobx.js.org/)
 _<sup>https://mobx.js.org/</sup>_
 

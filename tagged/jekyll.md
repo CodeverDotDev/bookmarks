@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/jekyll](https://www.bookmarks.dev/tagged/jekyll)</sup></sup>_
 ---
+#### [List of supported languages and lexers · rouge-ruby/rouge Wiki · GitHub](https://github.com/rouge-ruby/rouge/wiki/List-of-supported-languages-and-lexers)
+_<sup>https://github.com/rouge-ruby/rouge/wiki/List-of-supported-languages-and-lexers</sup>_
+
+A pure Ruby code highlighter that is compatible with Pygments - rouge-ruby/rouge
+* **tags**: [code-highlighting](../tagged/code-highlighting.md), [jekyll](../tagged/jekyll.md)
+* :octocat: **[source code](https://github.com/rouge-ruby/rouge/wiki/List-of-supported-languages-and-lexers)**
+---
 #### [Using Jekyll as a static site generator with GitHub Pages - User Documentation        ](https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/)
 _<sup>https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/</sup>_
 

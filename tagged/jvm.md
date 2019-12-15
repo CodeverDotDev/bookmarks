@@ -2,6 +2,27 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/jvm](https://www.bookmarks.dev/tagged/jvm)</sup></sup>_
 ---
+#### [A New Age of JVM Garbage Collectors - Alexander Yakushev - 37min](https://www.youtube.com/watch?v=k4vkd0ahWjQ)
+_<sup>https://www.youtube.com/watch?v=k4vkd0ahWjQ</sup>_
+
+Some programmers might think that garbage collection is a solved problem. It runs with the VM and takes care of your unused objects – what else would you want? However, the recent spike of interest in...
+* :calendar: **published on**: 2019-11-22
+* **tags**: [jvm](../tagged/jvm.md), [garbac](../tagged/garbac.md), [garbage-collection](../tagged/garbage-collection.md)
+---
+#### [JVM (Micrometer) dashboardData for Grafana | Grafana Labs](https://grafana.com/grafana/dashboards/4701)
+_<sup>https://grafana.com/grafana/dashboards/4701</sup>_
+
+Dashboard for Micrometer instrumented applications (Java, Spring Boot, Micronaut)
+* **tags**: [monitoring](../tagged/monitoring.md), [grafana](../tagged/grafana.md), [dashboard](../tagged/dashboard.md), [jvm](../tagged/jvm.md), [java](../tagged/java.md), [micrometer](../tagged/micrometer.md)
+---
+#### [java - Getting the parameters of a running JVM - Stack Overflow](https://stackoverflow.com/questions/5317152/getting-the-parameters-of-a-running-jvm)
+_<sup>https://stackoverflow.com/questions/5317152/getting-the-parameters-of-a-running-jvm</sup>_
+
+```bash
+jps -lvm
+```
+* **tags**: [java](../tagged/java.md), [jdk](../tagged/jdk.md), [jvm](../tagged/jvm.md)
+---
 #### [OpenJDK and Containers - Red Hat Developer Blog](https://developers.redhat.com/blog/2017/04/04/openjdk-and-containers/)
 _<sup>https://developers.redhat.com/blog/2017/04/04/openjdk-and-containers/</sup>_
 

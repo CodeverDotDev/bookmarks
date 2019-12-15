@@ -2,6 +2,15 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/blogging](https://www.bookmarks.dev/tagged/blogging)</sup></sup>_
 ---
+#### [Size Matters: Balancing Line Length And Font Size In Responsive Web Design — Smashing MagazineSearchClear SearchBack to top](https://www.smashingmagazine.com/2014/09/balancing-line-length-font-size-responsive-web-design/)
+_<sup>https://www.smashingmagazine.com/2014/09/balancing-line-length-font-size-responsive-web-design/</sup>_
+
+As we refine our methods of responsive web design, we’ve increasingly focused on measure (another word for “line length”) and its relationship to how people read.
+
+The popularization of the “ideal mea...
+* :calendar: **published on**: 2014-09-29
+* **tags**: [web-design](../tagged/web-design.md), [blogging](../tagged/blogging.md)
+---
 #### [Ghost](https://github.com/TryGhost/Ghost)
 _<sup>https://github.com/TryGhost/Ghost</sup>_
 

@@ -2,6 +2,43 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/spring-boot](https://www.bookmarks.dev/tagged/spring-boot)</sup></sup>_
 ---
+#### [Spring Boot in a Container](https://spring.io/blog/2018/11/08/spring-boot-in-a-container)
+_<sup>https://spring.io/blog/2018/11/08/spring-boot-in-a-container</sup>_
+
+Many people are using containers to wrap their Spring Boot applications, and building containers is not a simple thing to do. This is an article for developers of Spring Boot applications, and contain...
+* :calendar: **published on**: 2018-11-08
+* **tags**: [spring](../tagged/spring.md), [spring-boot](../tagged/spring-boot.md), [docker](../tagged/docker.md), [dockerfile](../tagged/dockerfile.md), [jib](../tagged/jib.md)
+---
+#### [Ehcache Home Page](http://www.ehcache.org/)
+_<sup>http://www.ehcache.org/</sup>_
+
+Java's most widely used cache.
+* **tags**: [java](../tagged/java.md), [caching](../tagged/caching.md), [spring](../tagged/spring.md), [spring-boot](../tagged/spring-boot.md)
+* :octocat: **[source code](https://github.com/ehcache/ehcache3)**
+---
+#### [Micrometer Application Monitoring Home Page](http://micrometer.io/)
+_<sup>http://micrometer.io/</sup>_
+
+An application metrics facade for the most popular monitoring tools. Instrument your code with dimensional metrics with a vendor neutral interface and decide on the monitoring backend at the last minu...
+* **tags**: [monitoring](../tagged/monitoring.md), [spring-boot](../tagged/spring-boot.md), [micrometer](../tagged/micrometer.md)
+* :octocat: **[source code](https://github.com/micrometer-metrics/micrometer)**
+---
+#### [Defining custom metrics in a Spring Boot application using Micrometer](https://blog.autsoft.hu/defining-custom-metrics-in-a-spring-boot-application-using-micrometer/)
+_<sup>https://blog.autsoft.hu/defining-custom-metrics-in-a-spring-boot-application-using-micrometer/</sup>_
+
+Deep dive into Spring Boot's and Micrometer's monitoring capabilities and see how we can define our own metrics.
+* :calendar: **published on**: 2019-07-09
+* **tags**: [spring-boot](../tagged/spring-boot.md), [micrometer](../tagged/micrometer.md), [prometheus](../tagged/prometheus.md)
+* :octocat: **[source code](https://github.com/AutSoft/micrometer-demo)**
+---
+#### [Performance Monitoring Backend and Frontend using Micrometer  - 56min](https://www.youtube.com/watch?v=deBSrmskpcY)
+_<sup>https://www.youtube.com/watch?v=deBSrmskpcY</sup>_
+
+Micrometer is an open source metrics collection facade, the default metrics implementation in Spring Boot 2.0 and above. Think SLF4J—but for metrics! In this talk, we'll examine why you should be inst...
+* :calendar: **published on**: 2019-10-16
+* **tags**: [monitoring](../tagged/monitoring.md), [micrometer](../tagged/micrometer.md), [spring-boot](../tagged/spring-boot.md), [docker-compose](../tagged/docker-compose.md), [prometheus](../tagged/prometheus.md), [grafana](../tagged/grafana.md)
+* :octocat: **[source code](https://github.com/checketts/micrometer-springone-2019)**
+---
 #### [Spring Boot Reference Documentation](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
 _<sup>https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/</sup>_
 

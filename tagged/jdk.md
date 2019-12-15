@@ -2,6 +2,14 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/jdk](https://www.bookmarks.dev/tagged/jdk)</sup></sup>_
 ---
+#### [java - Getting the parameters of a running JVM - Stack Overflow](https://stackoverflow.com/questions/5317152/getting-the-parameters-of-a-running-jvm)
+_<sup>https://stackoverflow.com/questions/5317152/getting-the-parameters-of-a-running-jvm</sup>_
+
+```bash
+jps -lvm
+```
+* **tags**: [java](../tagged/java.md), [jdk](../tagged/jdk.md), [jvm](../tagged/jvm.md)
+---
 #### [Adopt Open JDK](https://adoptopenjdk.net)
 _<sup>https://adoptopenjdk.net</sup>_
 

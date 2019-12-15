@@ -2,6 +2,20 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/docker-compose](https://www.bookmarks.dev/tagged/docker-compose)</sup></sup>_
 ---
+#### [A docker-compose stack for Prometheus monitoring](https://github.com/vegasbrianc/prometheus)
+_<sup>https://github.com/vegasbrianc/prometheus</sup>_
+
+A docker-compose stack for Prometheus monitoring. Contribute to vegasbrianc/prometheus development by creating an account on GitHub.
+* **tags**: [prometheus](../tagged/prometheus.md), [docker](../tagged/docker.md), [docker-compose](../tagged/docker-compose.md)
+---
+#### [Performance Monitoring Backend and Frontend using Micrometer  - 56min](https://www.youtube.com/watch?v=deBSrmskpcY)
+_<sup>https://www.youtube.com/watch?v=deBSrmskpcY</sup>_
+
+Micrometer is an open source metrics collection facade, the default metrics implementation in Spring Boot 2.0 and above. Think SLF4J—but for metrics! In this talk, we'll examine why you should be inst...
+* :calendar: **published on**: 2019-10-16
+* **tags**: [monitoring](../tagged/monitoring.md), [micrometer](../tagged/micrometer.md), [spring-boot](../tagged/spring-boot.md), [docker-compose](../tagged/docker-compose.md), [prometheus](../tagged/prometheus.md), [grafana](../tagged/grafana.md)
+* :octocat: **[source code](https://github.com/checketts/micrometer-springone-2019)**
+---
 #### [Networking in Compose](https://docs.docker.com/compose/networking/)
 _<sup>https://docs.docker.com/compose/networking/</sup>_
 

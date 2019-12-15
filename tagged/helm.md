@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/helm](https://www.bookmarks.dev/tagged/helm)</sup></sup>_
 ---
+#### [DRY Kubernetes with Helm | mimacom](https://blog.mimacom.com/dry-kubernetes-with-helm/)
+_<sup>https://blog.mimacom.com/dry-kubernetes-with-helm/</sup>_
+
+One of the coolest facets of Kubernetes is the declarative deployment descriptors. You describe what the system should look like and Kubernetes makes it happen. One of the worst facets of Kubernetes i...
+* :calendar: **published on**: 2018-05-04
+* **tags**: [kubernetes](../tagged/kubernetes.md), [helm](../tagged/helm.md)
+---
 #### [A cleaner multi-stage continuous deployment on Kubernetes of a Create React App with kustomize, helm and skaffold – CodepediaOrg](https://www.codepedia.org/ama/a-cleaner-multi-stage-deployment-on-kubernetes-of-a-create-react-app-with-kustomize-helm-and-skaffold)
 _<sup>https://www.codepedia.org/ama/a-cleaner-multi-stage-deployment-on-kubernetes-of-a-create-react-app-w...</sup>_
 

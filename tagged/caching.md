@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/caching](https://www.bookmarks.dev/tagged/caching)</sup></sup>_
 ---
+#### [Ehcache Home Page](http://www.ehcache.org/)
+_<sup>http://www.ehcache.org/</sup>_
+
+Java's most widely used cache.
+* **tags**: [java](../tagged/java.md), [caching](../tagged/caching.md), [spring](../tagged/spring.md), [spring-boot](../tagged/spring-boot.md)
+* :octocat: **[source code](https://github.com/ehcache/ehcache3)**
+---
 #### [jaysonsantos/bmemcached-rs](https://github.com/jaysonsantos/bmemcached-rs)
 _<sup>https://github.com/jaysonsantos/bmemcached-rs</sup>_
 

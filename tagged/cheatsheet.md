@@ -2,6 +2,14 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/cheatsheet](https://www.bookmarks.dev/tagged/cheatsheet)</sup></sup>_
 ---
+#### [JavaScript regular expressions cheatsheet and examples ](https://dev.to/learnbyexample/javascript-regular-expressions-cheatsheet-and-examples-4jg7)
+_<sup>https://dev.to/learnbyexample/javascript-regular-expressions-cheatsheet-and-examples-4jg7</sup>_
+
+Overview of JavaScript regular expression syntax and features
+* :calendar: **published on**: 2019-12-06
+* **tags**: [javascript](../tagged/javascript.md), [regex](../tagged/regex.md), [cheatsheet](../tagged/cheatsheet.md)
+* :octocat: **[source code](https://github.com/learnbyexample/learn_js_regexp)**
+---
 #### [kubectl Cheat Sheet - Kubernetes](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
 _<sup>https://kubernetes.io/docs/reference/kubectl/cheatsheet/</sup>_
 
