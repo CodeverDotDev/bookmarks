@@ -10,8 +10,7 @@ Public bookmarks, grouped by tags, shared with :heart: from <a href="https://www
 </p>
 
 <div align="center">
-	Add our <strong><a href="javascript:(function(){location.href='https://www.bookmarks.dev/personal/new?url='+encodeURIComponent(location.href);})();" class="nav-link">+Dev Bookmark</a></strong>
-           bookmarklet to your bookmarks toolbar for a seamless experience.
+	<b>Follow the <a href="https://twitter.com/BookmarksDev">BookmarksDev account</a> for updates on new dev bookmarks additions.</b>
 </div>
 
 <br>
