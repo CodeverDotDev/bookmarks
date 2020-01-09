@@ -2,6 +2,15 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/optimization](https://www.bookmarks.dev/tagged/optimization)</sup></sup>_
 ---
+#### [Javascript Hidden Classes and Inline Caching in V8](https://richardartoul.github.io/jekyll/update/2015/04/26/hidden-classes.html)
+_<sup>https://richardartoul.github.io/jekyll/update/2015/04/26/hidden-classes.html</sup>_
+
+Optimization takeaways
+
+1. Always instantiate your object properties in the same order so that hidden classes, and subsequently optimized code, can be shared.
+2. Adding properties to an object after i...
+* **tags**: [javascript](../tagged/javascript.md), [optimization](../tagged/optimization.md), [v8](../tagged/v8.md)
+---
 #### [bootsnap](https://github.com/Shopify/bootsnap)
 _<sup>https://github.com/Shopify/bootsnap</sup>_
 

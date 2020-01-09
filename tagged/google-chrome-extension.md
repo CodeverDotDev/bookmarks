@@ -1,0 +1,97 @@
+## Bookmarks tagged [[google-chrome-extension]](https://www.bookmarks.dev?q=[google-chrome-extension])
+
+_<sup><sup>[www.bookmarks.dev/tagged/google-chrome-extension](https://www.bookmarks.dev/tagged/google-chrome-extension)</sup></sup>_
+---
+#### [Save to bookmarks.dev - Chrome Web Store](https://chrome.google.com/webstore/detail/save-to-bookmarksdev/diofdblfhjbpgackifolmboaiccmebjb)
+_<sup>https://chrome.google.com/webstore/detail/save-to-bookmarksdev/diofdblfhjbpgackifolmboaiccmebjb</sup>_
+
+The Chrome extension enables you to quickly save the active tab as a bookmark to www.bookmarks.dev. Make sure you have an account from www.bookmarks.dev to begin.
+* **tags**: [google-chrome-extension](../tagged/google-chrome-extension.md), [dev-tools](../tagged/dev-tools.md), [productivity-tools](../tagged/productivity-tools.md)
+* :octocat: **[source code](https://github.com/CodepediaOrg/bookmarks.dev-chrome-extension)**
+---
+#### [Octotree Home Page](https://www.octotree.io/)
+_<sup>https://www.octotree.io/</sup>_
+
+[Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc)
+
+GitHub on steroids - Browser extension that brings your GitHub experience to the next level.
+
+Features
+...
+* **tags**: [google-chrome-extension](../tagged/google-chrome-extension.md), [productivity-tools](../tagged/productivity-tools.md), [dev-tools](../tagged/dev-tools.md), [github](../tagged/github.md)
+* :octocat: **[source code](https://github.com/ovity/octotree)**
+---
+#### [Clear Cache - Chrome Web Store](https://chrome.google.com/webstore/detail/clear-cache/cppjkneekbjaeellbfkmgnhonkkjfpdn)
+_<sup>https://chrome.google.com/webstore/detail/clear-cache/cppjkneekbjaeellbfkmgnhonkkjfpdn</sup>_
+
+Clear your cache and browsing data with a single click of a button.
+Quickly clear your cache with this extension without any confirmation dialogs, pop-ups or other annoyances.
+
+You can customize what ...
+* **tags**: [google-chrome-extension](../tagged/google-chrome-extension.md), [dev-tools](../tagged/dev-tools.md)
+---
+#### [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc)
+_<sup>https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc</sup>_
+
+Validate and view JSON documents
+
+JSONView port for Chrome.
+
+Original firefox extension is here: [http://benhollis.net/software/jsonview/](http://benhollis.net/software/jsonview/)
+* **tags**: [google-chrome-extension](../tagged/google-chrome-extension.md), [json](../tagged/json.md), [productivity-tools](../tagged/productivity-tools.md)
+* :octocat: **[source code](https://github.com/gildas-lormeau/JSONView-for-Chrome)**
+---
+#### [CodeCopy - Chrome Web Store](https://chrome.google.com/webstore/detail/codecopy/fkbfebkcoelajmhanocgppanfoojcdmg)
+_<sup>https://chrome.google.com/webstore/detail/codecopy/fkbfebkcoelajmhanocgppanfoojcdmg</sup>_
+
+A browser extension that adds a "copy to clipboard" button to every code block on GitHub, MDN, Gist, StackOverflow, StackExchange, npm, and even Medium.
+* **tags**: [productivity-tools](../tagged/productivity-tools.md), [dev-tools](../tagged/dev-tools.md), [google-chrome-extension](../tagged/google-chrome-extension.md)
+* :octocat: **[source code](https://github.com/zenorocha/codecopy)**
+---
+#### [Creating A Basic Chrome Extension](https://www.thepolyglotdeveloper.com/2018/09/creating-basic-chrome-extension/)
+_<sup>https://www.thepolyglotdeveloper.com/2018/09/creating-basic-chrome-extension/</sup>_
+
+Learn how to get started developing extensions for Google Chrome using JavaScript and HTML in this example that demonstrates script detection for open browser tabs.
+* :calendar: **published on**: 2018-09-19
+* **tags**: [google-chrome](../tagged/google-chrome.md), [google-chrome-extension](../tagged/google-chrome-extension.md), [popup](../tagged/popup.md)
+---
+#### [How to build a Google Chrome Extension ― Scotch.io](https://scotch.io/@dongido/how-to-build-a-google-chrome-extension)
+_<sup>https://scotch.io/@dongido/how-to-build-a-google-chrome-extension</sup>_
+
+We would be building a basic app Linxer. It's an extension that can be used to save important links.
+* :calendar: **published on**: 2017-05-31
+* **tags**: [google-chrome-extension](../tagged/google-chrome-extension.md), [jquery](../tagged/jquery.md), [bootstrap](../tagged/bootstrap.md)
+---
+#### [Declare Permissions - Google Chrome](https://developer.chrome.com/extensions/declare_permissions)
+_<sup>https://developer.chrome.com/extensions/declare_permissions</sup>_
+
+To use most chrome.* APIs, your extension or app must declare its intent in the "permissions" field of the manifest. Each permission can be either one of a list of known strings (such as "geolocation"...
+* **tags**: [google-chrome-extension](../tagged/google-chrome-extension.md), [permissions](../tagged/permissions.md)
+---
+#### [What are extensions? - Google Chrome](https://developer.chrome.com/extensions)
+_<sup>https://developer.chrome.com/extensions</sup>_
+
+Extensions are small software programs that customize the browsing experience. They enable users to tailor Chrome functionality and behavior to individual needs or preferences. They are built on web t...
+* **tags**: [google-chrome-extension](../tagged/google-chrome-extension.md), [google-chrome](../tagged/google-chrome.md)
+---
+#### [Session 11: Chrome Extensions - Programming with Text - YouTube](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bL9VOMT65ahNEri9uqLWfS)
+_<sup>https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bL9VOMT65ahNEri9uqLWfS</sup>_
+
+"Chrome Extensions" of my Programming with Text video series http://shiffman.net/a2z/chrome-ext/
+* **tags**: [google-chrome-extension](../tagged/google-chrome-extension.md)
+---
+#### [11.3: Chrome Extensions: Content Scripts - Programming with Text - 16min](https://www.youtube.com/watch?v=9Tl3OmwrSaM)
+_<sup>https://www.youtube.com/watch?v=9Tl3OmwrSaM</sup>_
+
+In this video, I cover "content scripts" for chrome extensions. The content script is a JavaScript file that runs in the context of a web page (and can be used to modify that page.)
+* :calendar: **published on**: 2017-11-14
+* **tags**: [google-chrome](../tagged/google-chrome.md), [google-chrome-extension](../tagged/google-chrome-extension.md)
+* :octocat: **[source code](https://github.com/CodingTrain/website)**
+---
+#### [Lighthouse | Web | Google Developers](https://developers.google.com/web/tools/lighthouse/)
+_<sup>https://developers.google.com/web/tools/lighthouse/</sup>_
+
+Lighthouse is an [open-source](https://github.com/GoogleChrome/lighthouse), automated tool for improving the quality of your web apps.
+* **tags**: [web-development](../tagged/web-development.md), [google-chrome-extension](../tagged/google-chrome-extension.md), [dev-tools](../tagged/dev-tools.md)
+* :octocat: **[source code](https://github.com/GoogleChrome/lighthouse)**
+---

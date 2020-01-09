@@ -2,6 +2,14 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/reactjs](https://www.bookmarks.dev/tagged/reactjs)</sup></sup>_
 ---
+#### [Chats with Kent](https://kentcdodds.com/chats-with-kent-podcast)
+_<sup>https://kentcdodds.com/chats-with-kent-podcast</sup>_
+
+Kent C. Dodds chats with developers about life, career, and code.
+
+
+* **tags**: [podcast](../tagged/podcast.md), [software-development](../tagged/software-development.md), [career](../tagged/career.md), [reactjs](../tagged/reactjs.md)
+---
 #### [React Simple Auth: React + Redux + OAuth 2.0 - Matt Mazzola - Medium](https://medium.com/@mattmazzola/react-simple-auth-react-redux-oauth-2-0-de6ea9df0a63)
 _<sup>https://medium.com/@mattmazzola/react-simple-auth-react-redux-oauth-2-0-de6ea9df0a63</sup>_
 
@@ -3201,7 +3209,7 @@ How the Atomic Design methodology allowed me to create a great design system fro
 * **tags**: [reactjs](../tagged/reactjs.md), [web-design](../tagged/web-design.md)
 * :octocat: **[source code](https://github.com/danilowoz/react-atomic-design)**
 ---
-#### [A Story About Kanye West and Learning to Code](https://syntax.fm/)
+#### [Syntax.fm](https://syntax.fm/)
 _<sup>https://syntax.fm/</sup>_
 
 Full Stack Developers Wes Bos and Scott Tolinski dive deep into web development topics, explaining how they work and talking about their own experiences. They cover from JavaScript frameworks like Rea...

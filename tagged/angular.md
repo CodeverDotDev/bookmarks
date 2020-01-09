@@ -806,7 +806,7 @@ _<sup>https://github.com/angular/angular/blob/master/CHANGELOG.md</sup>_
 
 * **tags**: [angular](../tagged/angular.md), [changelog](../tagged/changelog.md)
 ---
-#### [Adventures in Angular Episodes](https://devchat.tv/adv-in-angular)
+#### [Adventures in Angular](https://devchat.tv/adv-in-angular)
 _<sup>https://devchat.tv/adv-in-angular</sup>_
 
 Adventures in Angular is a weekly podcast dedicated to the Angular JavaScript framework and related technologies, tools, languages, and practices.

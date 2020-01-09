@@ -2,6 +2,11 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/jamstack](https://www.bookmarks.dev/tagged/jamstack)</sup></sup>_
 ---
+#### [Best JavaScript Static Sites Generators to look out for in 2020](https://areknawo.com/best-javascript-static-sites-generators-to-look-out-for-in-2020/)
+_<sup>https://areknawo.com/best-javascript-static-sites-generators-to-look-out-for-in-2020/</sup>_
+
+* **tags**: [javascript](../tagged/javascript.md), [jamstack](../tagged/jamstack.md)
+---
 #### [Interplanetary Gatsby](https://interplanetarygatsby.com)
 _<sup>https://interplanetarygatsby.com</sup>_
 

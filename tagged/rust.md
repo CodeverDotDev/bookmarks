@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/rust](https://www.bookmarks.dev/tagged/rust)</sup></sup>_
 ---
+#### [Ryan Dahl. Deno, a new way to JavaScript. JS Fest 2019 Spring - 59min](https://www.youtube.com/watch?v=z6JRlx5NC9E)
+_<sup>https://www.youtube.com/watch?v=z6JRlx5NC9E</sup>_
+
+From async-await to ArrayBuffers, the JavaScript language has changes significantly in the decade since Node.js was designed. Deno takes advantage of these developments and incorporate lessons learned...
+* :calendar: **published on**: 2019-04-08
+* **tags**: [nodejs](../tagged/nodejs.md), [javascript](../tagged/javascript.md), [rust](../tagged/rust.md)
+---
 #### [indiscipline/zrtstr](https://github.com/indiscipline/zrtstr)
 _<sup>https://github.com/indiscipline/zrtstr</sup>_
 

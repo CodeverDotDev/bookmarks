@@ -2,7 +2,20 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/web-development](https://www.bookmarks.dev/tagged/web-development)</sup></sup>_
 ---
-#### [A Story About Kanye West and Learning to Code](https://syntax.fm/)
+#### [Smashing Magazine](https://www.smashingmagazine.com/)
+_<sup>https://www.smashingmagazine.com/</sup>_
+
+Smashing Magazine — for web designers and developers
+* **tags**: [web-design](../tagged/web-design.md), [web-development](../tagged/web-development.md)
+---
+#### [The Front-End Checklist](https://frontendchecklist.io/)
+_<sup>https://frontendchecklist.io/</sup>_
+
+🗂 The Front-End Checklist Application is perfect for modern websites and meticulous developers! Follow the rules and deliver the best of your work in a generated report!
+* **tags**: [frontend](../tagged/frontend.md), [webdesign](../tagged/webdesign.md), [web-development](../tagged/web-development.md)
+* :octocat: **[source code](https://github.com/thedaviddias/Front-End-Checklist)**
+---
+#### [Syntax.fm](https://syntax.fm/)
 _<sup>https://syntax.fm/</sup>_
 
 Full Stack Developers Wes Bos and Scott Tolinski dive deep into web development topics, explaining how they work and talking about their own experiences. They cover from JavaScript frameworks like Rea...
@@ -51,7 +64,8 @@ To Query, Or Not To Query... Query params
 _<sup>https://developers.google.com/web/tools/lighthouse/</sup>_
 
 Lighthouse is an [open-source](https://github.com/GoogleChrome/lighthouse), automated tool for improving the quality of your web apps.
-* **tags**: [web-development](../tagged/web-development.md), [dev-tools](../tagged/dev-tools.md)
+* **tags**: [web-development](../tagged/web-development.md), [google-chrome-extension](../tagged/google-chrome-extension.md), [dev-tools](../tagged/dev-tools.md)
+* :octocat: **[source code](https://github.com/GoogleChrome/lighthouse)**
 ---
 #### [Manipulating the browser history - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/History_API)
 _<sup>https://developer.mozilla.org/en-US/docs/Web/API/History_API</sup>_

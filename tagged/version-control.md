@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/version-control](https://www.bookmarks.dev/tagged/version-control)</sup></sup>_
 ---
+#### [Why Google Stores Billions of Lines of Code in a Single Repository](https://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext)
+_<sup>https://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single...</sup>_
+
+This article outlines the scale of that codebase and details Google's custom-built monolithic source repository and the reasons the model was chosen. Google uses a homegrown version-control system to ...
+* **tags**: [version-control](../tagged/version-control.md), [software-development](../tagged/software-development.md), [architecture](../tagged/architecture.md)
+---
 #### [How do I undo the most recent local commits in Git? - Stack Overflow](https://stackoverflow.com/questions/927358/how-do-i-undo-the-most-recent-local-commits-in-git)
 _<sup>https://stackoverflow.com/questions/927358/how-do-i-undo-the-most-recent-local-commits-in-git</sup>_
 

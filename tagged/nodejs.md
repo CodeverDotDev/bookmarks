@@ -2,6 +2,63 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/nodejs](https://www.bookmarks.dev/tagged/nodejs)</sup></sup>_
 ---
+#### [Nodejs.dev Home Page](https://nodejs.dev/)
+_<sup>https://nodejs.dev/</sup>_
+
+Getting started guide to Node.js, the server-side JavaScript runtime environment. Node.js is built on top of the Google Chrome V8 JavaScript engine, and it's mainly used to create web servers - but it...
+* **tags**: [nodejs](../tagged/nodejs.md)
+* :octocat: **[source code](https://github.com/nodejs/nodejs.dev)**
+---
+#### [How much JavaScript do you need to know to use Node.js?](https://nodejs.dev/how-much-javascript-do-you-need-to-know-to-use-nodejs)
+_<sup>https://nodejs.dev/how-much-javascript-do-you-need-to-know-to-use-nodejs</sup>_
+
+As a beginner, it's hard to get to a point where you are confident enough in your programming abilities.
+
+While learning to code, you might also be confused at where does JavaScript end, and where Nod...
+* **tags**: [javascript](../tagged/javascript.md), [nodejs](../tagged/nodejs.md)
+---
+#### [How JavaScript works in browser and node? - ITNEXT](https://itnext.io/how-javascript-works-in-browser-and-node-ab7d0d09ac2f)
+_<sup>https://itnext.io/how-javascript-works-in-browser-and-node-ab7d0d09ac2f</sup>_
+
+There are many passionate developers, working on front-end or back-end, devote their life to protect realm of JavaScript. JavaScript is very easy to understand and is a essential part of front-end dev...
+* :calendar: **published on**: 2018-04-23
+* **tags**: [javascript](../tagged/javascript.md), [nodejs](../tagged/nodejs.md), [event-loop](../tagged/event-loop.md)
+---
+#### [The Node.js Event Loop: Not So Single Threaded - 31min](https://www.youtube.com/watch?v=zphcsoSJMvM)
+_<sup>https://www.youtube.com/watch?v=zphcsoSJMvM</sup>_
+
+The Node.js Event Loop: Not So Single Threaded - Bryan Hughes, Microsoft
+
+You've heard Node.js is single threaded. It's true that all JavaScript executed by Node.js is run in a single thread, but JS i...
+* :calendar: **published on**: 2017-10-16
+* **tags**: [nodejs](../tagged/nodejs.md), [event-loop](../tagged/event-loop.md), [cpp](../tagged/cpp.md)
+---
+#### [Marak/faker.js home page](https://github.com/marak/Faker.js)
+_<sup>https://github.com/marak/Faker.js</sup>_
+
+generate massive amounts of realistic fake data in Node.js and the browser
+* **tags**: [javascript](../tagged/javascript.md), [javascript-frameworks](../tagged/javascript-frameworks.md), [nodejs](../tagged/nodejs.md)
+---
+#### [date-fns - modern JavaScript date utility library](https://date-fns.org/)
+_<sup>https://date-fns.org/</sup>_
+
+date-fns provides the most comprehensive yet simple and consistent toolset for manipulating JavaScript dates in a browser & Node.js.
+* **tags**: [javascript](../tagged/javascript.md), [nodejs](../tagged/nodejs.md), [datetime](../tagged/datetime.md)
+* :octocat: **[source code](https://github.com/date-fns/date-fns)**
+---
+#### [Monitoring Node.js: Watch Your Event Loop Lag! - David Hettler 🥨](https://davidhettler.net/blog/event-loop-lag/)
+_<sup>https://davidhettler.net/blog/event-loop-lag/</sup>_
+
+In this blog post you will learn what event loop lag is, how it affects performance and why you should include this metric in your performance monitoring dashboards (if you haven’t already). Event loo...
+* **tags**: [nodejs](../tagged/nodejs.md), [javascript](../tagged/javascript.md), [event-loop](../tagged/event-loop.md)
+---
+#### [Ryan Dahl. Deno, a new way to JavaScript. JS Fest 2019 Spring - 59min](https://www.youtube.com/watch?v=z6JRlx5NC9E)
+_<sup>https://www.youtube.com/watch?v=z6JRlx5NC9E</sup>_
+
+From async-await to ArrayBuffers, the JavaScript language has changes significantly in the decade since Node.js was designed. Deno takes advantage of these developments and incorporate lessons learned...
+* :calendar: **published on**: 2019-04-08
+* **tags**: [nodejs](../tagged/nodejs.md), [javascript](../tagged/javascript.md), [rust](../tagged/rust.md)
+---
 #### [Cleaner code in an Express REST API with unified error handling – CodepediaOrg](https://www.codepedia.org/ama/cleaner-code-in-expressjs-rest-api-with-custom-error-handling)
 _<sup>https://www.codepedia.org/ama/cleaner-code-in-expressjs-rest-api-with-custom-error-handling</sup>_
 
@@ -4961,6 +5018,12 @@ Sometimes you want to test your application in environment closer to the real wo
 Here are two simple steps, which can be used to achieve this resul...
 * :calendar: **published on**: 2014-02-19
 * **tags**: [expressjs](../tagged/expressjs.md), [nodejs](../tagged/nodejs.md), [ssl](../tagged/ssl.md), [tls](../tagged/tls.md)
+---
+#### [John Papa Home Page](https://johnpapa.net/)
+_<sup>https://johnpapa.net/</sup>_
+
+Husband, father, & Catholic enjoying life with my family. Working @ Microsoft. Disney fanatic, web and mobile developer
+* **tags**: [blog](../tagged/blog.md), [javascript](../tagged/javascript.md), [nodejs](../tagged/nodejs.md)
 ---
 #### [DerickBailey.com - Trade Secrets Of A Developer / Entrepreneur](https://derickbailey.com/)
 _<sup>https://derickbailey.com/</sup>_

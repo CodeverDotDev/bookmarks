@@ -2,6 +2,17 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/online-tools](https://www.bookmarks.dev/tagged/online-tools)</sup></sup>_
 ---
+#### [Codiva.io - Compile and Run Java Online](https://www.codiva.io/)
+_<sup>https://www.codiva.io/</sup>_
+
+Compile and Run Code Online
+Codiva is an online compiler and IDE for C, C++ and Java.
+* Online compiler. No installation needed
+* Starts in less than a second
+* Compiles as you type
+* Auto complete ma...
+* **tags**: [dev-tools](../tagged/dev-tools.md), [java](../tagged/java.md), [cpp](../tagged/cpp.md), [c](../tagged/c.md), [ide](../tagged/ide.md), [online-tools](../tagged/online-tools.md)
+---
 #### [Graphviz Online](https://dreampuf.github.io/GraphvizOnline/)
 _<sup>https://dreampuf.github.io/GraphvizOnline/</sup>_
 

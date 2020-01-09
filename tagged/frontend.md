@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/frontend](https://www.bookmarks.dev/tagged/frontend)</sup></sup>_
 ---
+#### [The Front-End Checklist](https://frontendchecklist.io/)
+_<sup>https://frontendchecklist.io/</sup>_
+
+🗂 The Front-End Checklist Application is perfect for modern websites and meticulous developers! Follow the rules and deliver the best of your work in a generated report!
+* **tags**: [frontend](../tagged/frontend.md), [webdesign](../tagged/webdesign.md), [web-development](../tagged/web-development.md)
+* :octocat: **[source code](https://github.com/thedaviddias/Front-End-Checklist)**
+---
 #### [Front End Happy Hour](http://frontendhappyhour.com/)
 _<sup>http://frontendhappyhour.com/</sup>_
 

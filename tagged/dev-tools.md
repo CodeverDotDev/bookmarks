@@ -2,6 +2,66 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/dev-tools](https://www.bookmarks.dev/tagged/dev-tools)</sup></sup>_
 ---
+#### [Save to bookmarks.dev - Chrome Web Store](https://chrome.google.com/webstore/detail/save-to-bookmarksdev/diofdblfhjbpgackifolmboaiccmebjb)
+_<sup>https://chrome.google.com/webstore/detail/save-to-bookmarksdev/diofdblfhjbpgackifolmboaiccmebjb</sup>_
+
+The Chrome extension enables you to quickly save the active tab as a bookmark to www.bookmarks.dev. Make sure you have an account from www.bookmarks.dev to begin.
+* **tags**: [google-chrome-extension](../tagged/google-chrome-extension.md), [dev-tools](../tagged/dev-tools.md), [productivity-tools](../tagged/productivity-tools.md)
+* :octocat: **[source code](https://github.com/CodepediaOrg/bookmarks.dev-chrome-extension)**
+---
+#### [Octotree Home Page](https://www.octotree.io/)
+_<sup>https://www.octotree.io/</sup>_
+
+[Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc)
+
+GitHub on steroids - Browser extension that brings your GitHub experience to the next level.
+
+Features
+...
+* **tags**: [google-chrome-extension](../tagged/google-chrome-extension.md), [productivity-tools](../tagged/productivity-tools.md), [dev-tools](../tagged/dev-tools.md), [github](../tagged/github.md)
+* :octocat: **[source code](https://github.com/ovity/octotree)**
+---
+#### [Clear Cache - Chrome Web Store](https://chrome.google.com/webstore/detail/clear-cache/cppjkneekbjaeellbfkmgnhonkkjfpdn)
+_<sup>https://chrome.google.com/webstore/detail/clear-cache/cppjkneekbjaeellbfkmgnhonkkjfpdn</sup>_
+
+Clear your cache and browsing data with a single click of a button.
+Quickly clear your cache with this extension without any confirmation dialogs, pop-ups or other annoyances.
+
+You can customize what ...
+* **tags**: [google-chrome-extension](../tagged/google-chrome-extension.md), [dev-tools](../tagged/dev-tools.md)
+---
+#### [highlight.js home page](https://highlightjs.org/)
+_<sup>https://highlightjs.org/</sup>_
+
+Highlight.js is a syntax highlighter written in JavaScript. It works in the browser as well as on the server. It works with pretty much any markup, doesn’t depend on any framework, and has automatic l...
+* **tags**: [code-highlighting](../tagged/code-highlighting.md), [dev-tools](../tagged/dev-tools.md)
+* :octocat: **[source code](https://github.com/highlightjs/highlight.js)**
+---
+#### [CodeCopy - Chrome Web Store](https://chrome.google.com/webstore/detail/codecopy/fkbfebkcoelajmhanocgppanfoojcdmg)
+_<sup>https://chrome.google.com/webstore/detail/codecopy/fkbfebkcoelajmhanocgppanfoojcdmg</sup>_
+
+A browser extension that adds a "copy to clipboard" button to every code block on GitHub, MDN, Gist, StackOverflow, StackExchange, npm, and even Medium.
+* **tags**: [productivity-tools](../tagged/productivity-tools.md), [dev-tools](../tagged/dev-tools.md), [google-chrome-extension](../tagged/google-chrome-extension.md)
+* :octocat: **[source code](https://github.com/zenorocha/codecopy)**
+---
+#### [Javascript Compressor - compress code online for free](https://javascriptcompressor.com/)
+_<sup>https://javascriptcompressor.com/</sup>_
+
+Online Javascript compressor
+Compress and obfuscate Javascript code online completely free using this compressor.
+* **tags**: [javascript](../tagged/javascript.md), [dev-tools](../tagged/dev-tools.md), [compression](../tagged/compression.md)
+---
+#### [Codiva.io - Compile and Run Java Online](https://www.codiva.io/)
+_<sup>https://www.codiva.io/</sup>_
+
+Compile and Run Code Online
+Codiva is an online compiler and IDE for C, C++ and Java.
+* Online compiler. No installation needed
+* Starts in less than a second
+* Compiles as you type
+* Auto complete ma...
+* **tags**: [dev-tools](../tagged/dev-tools.md), [java](../tagged/java.md), [cpp](../tagged/cpp.md), [c](../tagged/c.md), [ide](../tagged/ide.md), [online-tools](../tagged/online-tools.md)
+---
 #### [Cloc Home Page](https://github.com/AlDanial/cloc)
 _<sup>https://github.com/AlDanial/cloc</sup>_
 
@@ -274,7 +334,8 @@ Use sandbox plans which are free and are ideal for learning, developing, and pro
 _<sup>https://developers.google.com/web/tools/lighthouse/</sup>_
 
 Lighthouse is an [open-source](https://github.com/GoogleChrome/lighthouse), automated tool for improving the quality of your web apps.
-* **tags**: [web-development](../tagged/web-development.md), [dev-tools](../tagged/dev-tools.md)
+* **tags**: [web-development](../tagged/web-development.md), [google-chrome-extension](../tagged/google-chrome-extension.md), [dev-tools](../tagged/dev-tools.md)
+* :octocat: **[source code](https://github.com/GoogleChrome/lighthouse)**
 ---
 #### [Can I use... Support tables for HTML5, CSS3, etc](http://caniuse.com/)
 _<sup>http://caniuse.com/</sup>_

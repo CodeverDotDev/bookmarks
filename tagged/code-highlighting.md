@@ -2,6 +2,20 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/code-highlighting](https://www.bookmarks.dev/tagged/code-highlighting)</sup></sup>_
 ---
+#### [“Copy to Clipboard” Made Easy with Clipboard.js](https://webdesign.tutsplus.com/tutorials/copy-to-clipboard-made-easy-with-clipboardjs--cms-25086)
+_<sup>https://webdesign.tutsplus.com/tutorials/copy-to-clipboard-made-easy-with-clipboardjs--cms-25086</sup>_
+
+Owing to browser restrictions, adding copy functionality to web pages used to be a real hassle. Most developers had to resort to a library dependant on Flash, like Clippy, for example. Fortunately now...
+* **tags**: [javascript](../tagged/javascript.md), [code-highlighting](../tagged/code-highlighting.md)
+* :octocat: **[source code](https://github.com/tutsplus/clipboard)**
+---
+#### [highlight.js home page](https://highlightjs.org/)
+_<sup>https://highlightjs.org/</sup>_
+
+Highlight.js is a syntax highlighter written in JavaScript. It works in the browser as well as on the server. It works with pretty much any markup, doesn’t depend on any framework, and has automatic l...
+* **tags**: [code-highlighting](../tagged/code-highlighting.md), [dev-tools](../tagged/dev-tools.md)
+* :octocat: **[source code](https://github.com/highlightjs/highlight.js)**
+---
 #### [List of supported languages and lexers · rouge-ruby/rouge Wiki · GitHub](https://github.com/rouge-ruby/rouge/wiki/List-of-supported-languages-and-lexers)
 _<sup>https://github.com/rouge-ruby/rouge/wiki/List-of-supported-languages-and-lexers</sup>_
 

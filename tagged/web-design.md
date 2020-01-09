@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/web-design](https://www.bookmarks.dev/tagged/web-design)</sup></sup>_
 ---
+#### [Smashing Magazine](https://www.smashingmagazine.com/)
+_<sup>https://www.smashingmagazine.com/</sup>_
+
+Smashing Magazine — for web designers and developers
+* **tags**: [web-design](../tagged/web-design.md), [web-development](../tagged/web-development.md)
+---
 #### [Size Matters: Balancing Line Length And Font Size In Responsive Web Design — Smashing MagazineSearchClear SearchBack to top](https://www.smashingmagazine.com/2014/09/balancing-line-length-font-size-responsive-web-design/)
 _<sup>https://www.smashingmagazine.com/2014/09/balancing-line-length-font-size-responsive-web-design/</sup>_
 

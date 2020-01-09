@@ -2,6 +2,52 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/podcast](https://www.bookmarks.dev/tagged/podcast)</sup></sup>_
 ---
+#### [Views on Vue](https://devchat.tv/views-on-vue/)
+_<sup>https://devchat.tv/views-on-vue/</sup>_
+
+A weekly discussion among Vue developers about Vue and it's ecosystem.
+* **tags**: [podcast](../tagged/podcast.md), [vuejs](../tagged/vuejs.md)
+---
+#### [Late Night Linux](https://latenightlinux.com/)
+_<sup>https://latenightlinux.com/</sup>_
+
+Late Night Linux is a podcast that takes a look at what’s happening with Linux and the wider tech industry. Every two weeks, Joe, Félim, Graham and Will discuss the latest news and releases, and the b...
+* **tags**: [podcast](../tagged/podcast.md), [linux](../tagged/linux.md), [open-source](../tagged/open-source.md)
+---
+#### [Command Line Heroes](https://www.redhat.com/en/command-line-heroes)
+_<sup>https://www.redhat.com/en/command-line-heroes</sup>_
+
+Stories about the people who transform technology from the command line up. An original podcast from Red Hat.
+* **tags**: [podcast](../tagged/podcast.md), [command-line](../tagged/command-line.md)
+---
+#### [The Vanilla JS Podcast](https://vanillajspodcast.com/)
+_<sup>https://vanillajspodcast.com/</sup>_
+
+A show about JavaScript for people who hate the complexity of modern front‑end web development.
+* **tags**: [podcast](../tagged/podcast.md), [javascript](../tagged/javascript.md)
+---
+#### [Code[ish] - Podcasts | Heroku](https://www.heroku.com/podcasts/codeish)
+_<sup>https://www.heroku.com/podcasts/codeish</sup>_
+
+A podcast from the team at Heroku, exploring code, technology, tools, tips, and the life of the developer.
+* **tags**: [podcast](../tagged/podcast.md), [software-development](../tagged/software-development.md)
+---
+#### [Chats with Kent](https://kentcdodds.com/chats-with-kent-podcast)
+_<sup>https://kentcdodds.com/chats-with-kent-podcast</sup>_
+
+Kent C. Dodds chats with developers about life, career, and code.
+
+
+* **tags**: [podcast](../tagged/podcast.md), [software-development](../tagged/software-development.md), [career](../tagged/career.md), [reactjs](../tagged/reactjs.md)
+---
+#### [The Indie Hackers Podcast: Tips for Growing Your Online Business](https://www.indiehackers.com/podcast)
+_<sup>https://www.indiehackers.com/podcast</sup>_
+
+Raw conversations with the founders behind profitable online businesses.
+
+[Feed](https://feeds.backtracks.fm/indiehackers/indie-hackers-podcast/feed.xml)
+* **tags**: [podcast](../tagged/podcast.md), [startup](../tagged/startup.md), [side-projects](../tagged/side-projects.md)
+---
 #### [CppCast](http://cppcast.com)
 _<sup>http://cppcast.com</sup>_
 
@@ -28,18 +74,16 @@ _<sup>http://www.javapubhouse.com/</sup>_
 * **Frequency**: A...
 * **tags**: [podcast](../tagged/podcast.md), [java](../tagged/java.md)
 ---
-#### [A Story About Kanye West and Learning to Code](https://syntax.fm/)
+#### [Syntax.fm](https://syntax.fm/)
 _<sup>https://syntax.fm/</sup>_
 
 Full Stack Developers Wes Bos and Scott Tolinski dive deep into web development topics, explaining how they work and talking about their own experiences. They cover from JavaScript frameworks like Rea...
 * **tags**: [podcast](../tagged/podcast.md), [javascript](../tagged/javascript.md), [reactjs](../tagged/reactjs.md), [web-development](../tagged/web-development.md), [css](../tagged/css.md)
 ---
-#### [Real Talk Javascript Podcast](https://realtalkjavascript.simplecast.fm)
-_<sup>https://realtalkjavascript.simplecast.fm</sup>_
+#### [Real Talk Javascript Podcast](https://realtalkjavascript.simplecast.com/)
+_<sup>https://realtalkjavascript.simplecast.com/</sup>_
 
-Dive into JavaScript and Web development stories with hosts John Papa, Ward Bell, and Dan Wahlin. Sponsored by Nrwl.io
-
-A weekly podcast where we tackle the challenges facing Web developers today and ...
+Dive into JavaScript and Web development stories with hosts John Papa, Ward Bell, and Dan Wahlin. A weekly podcast where we tackle the challenges facing Web developers today and invite expert guests o...
 * **tags**: [podcast](../tagged/podcast.md), [javascript](../tagged/javascript.md)
 ---
 #### [JS Party Podcast](https://changelog.com/jsparty)
@@ -309,7 +353,7 @@ _<sup>https://devchat.tv/freelancers</sup>_
 The Freelancers' Show discusses the challenges that freelancers face. The panel includes technology freelancers and entrepreneurs with many years of experience.
 * **tags**: [podcast](../tagged/podcast.md), [freelancing](../tagged/freelancing.md)
 ---
-#### [Adventures in Angular Episodes](https://devchat.tv/adv-in-angular)
+#### [Adventures in Angular](https://devchat.tv/adv-in-angular)
 _<sup>https://devchat.tv/adv-in-angular</sup>_
 
 Adventures in Angular is a weekly podcast dedicated to the Angular JavaScript framework and related technologies, tools, languages, and practices.
@@ -345,7 +389,7 @@ _<sup>https://softwareengineeringdaily.com/</sup>_
 Software Engineering Daily features daily interviews about technical software topics.
 * **tags**: [software-engineering](../tagged/software-engineering.md), [podcast](../tagged/podcast.md)
 ---
-#### [JSJ Episodes](https://devchat.tv/js-jabber)
+#### [JavaScript Jabber](https://devchat.tv/js-jabber)
 _<sup>https://devchat.tv/js-jabber</sup>_
 
 JavaScript Jabber is a weekly discussion about JavaScript, front-end development, community, careers, and frameworks.

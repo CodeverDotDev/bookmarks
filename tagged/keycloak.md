@@ -2,6 +2,15 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/keycloak](https://www.bookmarks.dev/tagged/keycloak)</sup></sup>_
 ---
+#### [Understanding token usage in Keycloak - JANUA](http://www.janua.fr/understanding-token-usage-in-keycloak/)
+_<sup>http://www.janua.fr/understanding-token-usage-in-keycloak/</sup>_
+
+Tips and tricks about understanding token usage in Keycloak
+
+Keycloak Token lifecycle is described at - 
+[https://www.keycloak.org/docs/latest/server_admin/index.html_timeouts](https://www.keycloak.o...
+* **tags**: [keycloak](../tagged/keycloak.md)
+---
 #### [GitHub - keycloak/keycloak-nodejs-admin-client Home Page](https://github.com/keycloak/keycloak-nodejs-admin-client)
 _<sup>https://github.com/keycloak/keycloak-nodejs-admin-client</sup>_
 

@@ -2,6 +2,146 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/javascript](https://www.bookmarks.dev/tagged/javascript)</sup></sup>_
 ---
+#### [How much JavaScript do you need to know to use Node.js?](https://nodejs.dev/how-much-javascript-do-you-need-to-know-to-use-nodejs)
+_<sup>https://nodejs.dev/how-much-javascript-do-you-need-to-know-to-use-nodejs</sup>_
+
+As a beginner, it's hard to get to a point where you are confident enough in your programming abilities.
+
+While learning to code, you might also be confused at where does JavaScript end, and where Nod...
+* **tags**: [javascript](../tagged/javascript.md), [nodejs](../tagged/nodejs.md)
+---
+#### [JavaScript Timers - 11min](https://www.youtube.com/watch?v=YmaFAKUFmp0)
+_<sup>https://www.youtube.com/watch?v=YmaFAKUFmp0</sup>_
+
+Timing in JavaScript with setTimeout, setInterval and requestAnimationFrame
+* :calendar: **published on**: 2015-08-27
+* **tags**: [javascript](../tagged/javascript.md), [open-source](../tagged/open-source.md), [setTimeout](../tagged/setTimeout.md), [setInterval](../tagged/setInterval.md), [requestAnimationFrame](../tagged/requestAnimationFrame.md), [timer](../tagged/timer.md)
+* :octocat: **[source code](https://github.com/shama/letswritecode/tree/master/js-timers)**
+---
+#### [How JavaScript works in browser and node? - ITNEXT](https://itnext.io/how-javascript-works-in-browser-and-node-ab7d0d09ac2f)
+_<sup>https://itnext.io/how-javascript-works-in-browser-and-node-ab7d0d09ac2f</sup>_
+
+There are many passionate developers, working on front-end or back-end, devote their life to protect realm of JavaScript. JavaScript is very easy to understand and is a essential part of front-end dev...
+* :calendar: **published on**: 2018-04-23
+* **tags**: [javascript](../tagged/javascript.md), [nodejs](../tagged/nodejs.md), [event-loop](../tagged/event-loop.md)
+---
+#### [Loupe](http://latentflip.com/loupe/)
+_<sup>http://latentflip.com/loupe/</sup>_
+
+Loupe is a little visualisation to help you understand how JavaScript's call stack/event loop/callback queue interact with each other.
+
+[Video - What the heck is the event loop anyway? | Philip Robert...
+* **tags**: [javascript](../tagged/javascript.md), [event-loop](../tagged/event-loop.md)
+* :octocat: **[source code](https://github.com/latentflip/loupe)**
+---
+#### [“Copy to Clipboard” Made Easy with Clipboard.js](https://webdesign.tutsplus.com/tutorials/copy-to-clipboard-made-easy-with-clipboardjs--cms-25086)
+_<sup>https://webdesign.tutsplus.com/tutorials/copy-to-clipboard-made-easy-with-clipboardjs--cms-25086</sup>_
+
+Owing to browser restrictions, adding copy functionality to web pages used to be a real hassle. Most developers had to resort to a library dependant on Flash, like Clippy, for example. Fortunately now...
+* **tags**: [javascript](../tagged/javascript.md), [code-highlighting](../tagged/code-highlighting.md)
+* :octocat: **[source code](https://github.com/tutsplus/clipboard)**
+---
+#### [Why you should have ditched IE support long ago...](https://areknawo.com/why-you-should-have-ditched-ie-support-long-ago/)
+_<sup>https://areknawo.com/why-you-should-have-ditched-ie-support-long-ago/</sup>_
+
+Is Internet Explorer still relevant in 2020? And if so, should you bother to support it? Checking out IE history, JavaScript, HTML and CSS features & more!
+* **tags**: [JavaScript](../tagged/JavaScript.md), [web](../tagged/web.md)
+---
+#### [10 Best YouTube Channels to Learn Web Development - ReadWrite](https://readwrite.com/2019/12/17/10-best-youtube-channels-to-learn-web-development/)
+_<sup>https://readwrite.com/2019/12/17/10-best-youtube-channels-to-learn-web-development/</sup>_
+
+One of the best ways to learn to code without spending any money is by subscribing to web developer masters on Youtube. 
+* **tags**: [web](../tagged/web.md), [tutorials](../tagged/tutorials.md), [javascript](../tagged/javascript.md)
+---
+#### [How not to go wrong when choosing a static website generator? Gatsby vs Jekyll](https://medium.com/javascript-in-plain-english/how-not-to-go-wrong-when-choosing-a-static-website-generator-gatsby-vs-jekyll-510cea59e6e1)
+_<sup>https://medium.com/javascript-in-plain-english/how-not-to-go-wrong-when-choosing-a-static-website-ge...</sup>_
+
+* **tags**: [JavaScript](../tagged/JavaScript.md), [static-site-generator](../tagged/static-site-generator.md)
+---
+#### [ES-Everything: an ECMA Explainer](https://www.matthewgerstman.com/tech/es-everything/)
+_<sup>https://www.matthewgerstman.com/tech/es-everything/</sup>_
+
+* **tags**: [JavaScript](../tagged/JavaScript.md)
+---
+#### [8 Essential Tips To Make Your JavaScript Code Perform Faster - By Mosh](https://hackernoon.com/8-essential-tips-to-make-your-javascript-code-perform-faster-6nr320p?source=rss)
+_<sup>https://hackernoon.com/8-essential-tips-to-make-your-javascript-code-perform-faster-6nr320p?source=r...</sup>_
+
+* **tags**: [JavaScript](../tagged/JavaScript.md)
+---
+#### [Best JavaScript Static Sites Generators to look out for in 2020](https://areknawo.com/best-javascript-static-sites-generators-to-look-out-for-in-2020/)
+_<sup>https://areknawo.com/best-javascript-static-sites-generators-to-look-out-for-in-2020/</sup>_
+
+* **tags**: [javascript](../tagged/javascript.md), [jamstack](../tagged/jamstack.md)
+---
+#### [Javascript Hidden Classes and Inline Caching in V8](https://richardartoul.github.io/jekyll/update/2015/04/26/hidden-classes.html)
+_<sup>https://richardartoul.github.io/jekyll/update/2015/04/26/hidden-classes.html</sup>_
+
+Optimization takeaways
+
+1. Always instantiate your object properties in the same order so that hidden classes, and subsequently optimized code, can be shared.
+2. Adding properties to an object after i...
+* **tags**: [javascript](../tagged/javascript.md), [optimization](../tagged/optimization.md), [v8](../tagged/v8.md)
+---
+#### [The Vanilla JS Podcast](https://vanillajspodcast.com/)
+_<sup>https://vanillajspodcast.com/</sup>_
+
+A show about JavaScript for people who hate the complexity of modern front‑end web development.
+* **tags**: [podcast](../tagged/podcast.md), [javascript](../tagged/javascript.md)
+---
+#### [iamkun/dayjs home page](https://github.com/iamkun/dayjs)
+_<sup>https://github.com/iamkun/dayjs</sup>_
+
+⏰ Day.js 2KB immutable date library alternative to Moment.js with the same modern API 
+* **tags**: [javascript](../tagged/javascript.md), [javascript-frameworks](../tagged/javascript-frameworks.md), [datetime](../tagged/datetime.md)
+* :octocat: **[source code](https://github.com/iamkun/dayjs)**
+---
+#### [Marak/faker.js home page](https://github.com/marak/Faker.js)
+_<sup>https://github.com/marak/Faker.js</sup>_
+
+generate massive amounts of realistic fake data in Node.js and the browser
+* **tags**: [javascript](../tagged/javascript.md), [javascript-frameworks](../tagged/javascript-frameworks.md), [nodejs](../tagged/nodejs.md)
+---
+#### [validatorjs/validator.js: String validation](https://github.com/validatorjs/validator.js)
+_<sup>https://github.com/validatorjs/validator.js</sup>_
+
+A library of string validators and sanitizers.
+* **tags**: [javascript](../tagged/javascript.md)
+* :octocat: **[source code](https://github.com/validatorjs/validator.js)**
+---
+#### [date-fns - modern JavaScript date utility library](https://date-fns.org/)
+_<sup>https://date-fns.org/</sup>_
+
+date-fns provides the most comprehensive yet simple and consistent toolset for manipulating JavaScript dates in a browser & Node.js.
+* **tags**: [javascript](../tagged/javascript.md), [nodejs](../tagged/nodejs.md), [datetime](../tagged/datetime.md)
+* :octocat: **[source code](https://github.com/date-fns/date-fns)**
+---
+#### [Monitoring Node.js: Watch Your Event Loop Lag! - David Hettler 🥨](https://davidhettler.net/blog/event-loop-lag/)
+_<sup>https://davidhettler.net/blog/event-loop-lag/</sup>_
+
+In this blog post you will learn what event loop lag is, how it affects performance and why you should include this metric in your performance monitoring dashboards (if you haven’t already). Event loo...
+* **tags**: [nodejs](../tagged/nodejs.md), [javascript](../tagged/javascript.md), [event-loop](../tagged/event-loop.md)
+---
+#### [The Modern JavaScript Tutorial](https://javascript.info/)
+_<sup>https://javascript.info/</sup>_
+
+Modern JavaScript Tutorial: simple, but detailed explanations with examples and tasks, including: closures, document and events, object oriented programming and more.
+* **tags**: [javascript](../tagged/javascript.md), [tutorials](../tagged/tutorials.md)
+* :octocat: **[source code](https://github.com/javascript-tutorial/en.javascript.info/tree/master)**
+---
+#### [Javascript Compressor - compress code online for free](https://javascriptcompressor.com/)
+_<sup>https://javascriptcompressor.com/</sup>_
+
+Online Javascript compressor
+Compress and obfuscate Javascript code online completely free using this compressor.
+* **tags**: [javascript](../tagged/javascript.md), [dev-tools](../tagged/dev-tools.md), [compression](../tagged/compression.md)
+---
+#### [Ryan Dahl. Deno, a new way to JavaScript. JS Fest 2019 Spring - 59min](https://www.youtube.com/watch?v=z6JRlx5NC9E)
+_<sup>https://www.youtube.com/watch?v=z6JRlx5NC9E</sup>_
+
+From async-await to ArrayBuffers, the JavaScript language has changes significantly in the decade since Node.js was designed. Deno takes advantage of these developments and incorporate lessons learned...
+* :calendar: **published on**: 2019-04-08
+* **tags**: [nodejs](../tagged/nodejs.md), [javascript](../tagged/javascript.md), [rust](../tagged/rust.md)
+---
 #### [Regular Expressions - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)
 _<sup>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions</sup>_
 
@@ -156,7 +296,7 @@ Destructuring assignment allows you to assign the properties of an array or obje
 * :calendar: **published on**: 2015-05-28
 * **tags**: [javascript](../tagged/javascript.md)
 ---
-#### [A Story About Kanye West and Learning to Code](https://syntax.fm/)
+#### [Syntax.fm](https://syntax.fm/)
 _<sup>https://syntax.fm/</sup>_
 
 Full Stack Developers Wes Bos and Scott Tolinski dive deep into web development topics, explaining how they work and talking about their own experiences. They cover from JavaScript frameworks like Rea...
@@ -176,12 +316,10 @@ A Static Type Checker for JavaScript
 * **tags**: [javascript](../tagged/javascript.md), [typechecking](../tagged/typechecking.md)
 * :octocat: **[source code](https://github.com/facebook/flow)**
 ---
-#### [Real Talk Javascript Podcast](https://realtalkjavascript.simplecast.fm)
-_<sup>https://realtalkjavascript.simplecast.fm</sup>_
+#### [Real Talk Javascript Podcast](https://realtalkjavascript.simplecast.com/)
+_<sup>https://realtalkjavascript.simplecast.com/</sup>_
 
-Dive into JavaScript and Web development stories with hosts John Papa, Ward Bell, and Dan Wahlin. Sponsored by Nrwl.io
-
-A weekly podcast where we tackle the challenges facing Web developers today and ...
+Dive into JavaScript and Web development stories with hosts John Papa, Ward Bell, and Dan Wahlin. A weekly podcast where we tackle the challenges facing Web developers today and invite expert guests o...
 * **tags**: [podcast](../tagged/podcast.md), [javascript](../tagged/javascript.md)
 ---
 #### [JS Party Podcast](https://changelog.com/jsparty)
@@ -1982,7 +2120,7 @@ RESTful degradable JavaScript routing using pushState.
 _<sup>https://github.com/cure53/DOMPurify</sup>_
 
 A DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG.
-* **tags**: [javascript](../tagged/javascript.md), [security](../tagged/security.md)
+* **tags**: [javascript](../tagged/javascript.md), [security](../tagged/security.md), [dom](../tagged/dom.md)
 * :octocat: **[source code](https://github.com/cure53/DOMPurify)**
 ---
 #### [js-xss](https://github.com/leizongmin/js-xss)
@@ -3758,6 +3896,7 @@ _<sup>https://clipboardjs.com/</sup>_
 
 "Copy to clipboard" without Flash or use of Frameworks.
 * **tags**: [javascript](../tagged/javascript.md)
+* :octocat: **[source code](https://github.com/zenorocha/clipboard.js/)**
 ---
 #### [ky](https://github.com/sindresorhus/ky)
 _<sup>https://github.com/sindresorhus/ky</sup>_
@@ -4991,6 +5130,12 @@ _<sup>http://blog.mgechev.com/2016/04/10/scalable-javascript-single-page-app-ang
 * **tags**: [javascript](../tagged/javascript.md), [angular](../tagged/angular.md), [typescript](../tagged/typescript.md), [redux](../tagged/redux.md)
 * :octocat: **[source code](https://github.com/mgechev/scalable-architecture-demo)**
 ---
+#### [John Papa Home Page](https://johnpapa.net/)
+_<sup>https://johnpapa.net/</sup>_
+
+Husband, father, & Catholic enjoying life with my family. Working @ Microsoft. Disney fanatic, web and mobile developer
+* **tags**: [blog](../tagged/blog.md), [javascript](../tagged/javascript.md), [nodejs](../tagged/nodejs.md)
+---
 #### [DerickBailey.com - Trade Secrets Of A Developer / Entrepreneur](https://derickbailey.com/)
 _<sup>https://derickbailey.com/</sup>_
 
@@ -6195,7 +6340,7 @@ _<sup>https://changelog.com/podcast</sup>_
 A weekly discussion and interview show featuring a wide range of open-source development tools and development-related news. The programme has a heavy focus on web development, from Ruby and node.js t...
 * **tags**: [podcast](../tagged/podcast.md), [web-development](../tagged/web-development.md), [javascript](../tagged/javascript.md)
 ---
-#### [Adventures in Angular Episodes](https://devchat.tv/adv-in-angular)
+#### [Adventures in Angular](https://devchat.tv/adv-in-angular)
 _<sup>https://devchat.tv/adv-in-angular</sup>_
 
 Adventures in Angular is a weekly podcast dedicated to the Angular JavaScript framework and related technologies, tools, languages, and practices.
@@ -6288,7 +6433,7 @@ _<sup>https://www.debuggex.com/cheatsheet/regex/javascript</sup>_
 
 * **tags**: [regex](../tagged/regex.md), [javascript](../tagged/javascript.md)
 ---
-#### [JSJ Episodes](https://devchat.tv/js-jabber)
+#### [JavaScript Jabber](https://devchat.tv/js-jabber)
 _<sup>https://devchat.tv/js-jabber</sup>_
 
 JavaScript Jabber is a weekly discussion about JavaScript, front-end development, community, careers, and frameworks.

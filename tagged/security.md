@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/security](https://www.bookmarks.dev/tagged/security)</sup></sup>_
 ---
+#### [GitHub - vasanthk/web-security-basics: Web security concepts](https://github.com/vasanthk/web-security-basics)
+_<sup>https://github.com/vasanthk/web-security-basics</sup>_
+
+Web security concepts. Contribute to vasanthk/web-security-basics development by creating an account on GitHub.
+* :calendar: **published on**: 2020-01-05
+* **tags**: [web](../tagged/web.md), [security](../tagged/security.md)
+---
 #### [The Hard Parts of JWT Security Nobody Talks About](https://www.pingidentity.com/en/company/blog/posts/2019/jwt-security-nobody-talks-about.html)
 _<sup>https://www.pingidentity.com/en/company/blog/posts/2019/jwt-security-nobody-talks-about.html</sup>_
 
@@ -382,7 +389,7 @@ Automatically apply several headers that are related to security, including: Con
 _<sup>https://github.com/cure53/DOMPurify</sup>_
 
 A DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG.
-* **tags**: [javascript](../tagged/javascript.md), [security](../tagged/security.md)
+* **tags**: [javascript](../tagged/javascript.md), [security](../tagged/security.md), [dom](../tagged/dom.md)
 * :octocat: **[source code](https://github.com/cure53/DOMPurify)**
 ---
 #### [js-xss](https://github.com/leizongmin/js-xss)

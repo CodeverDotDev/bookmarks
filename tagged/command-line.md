@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/command-line](https://www.bookmarks.dev/tagged/command-line)</sup></sup>_
 ---
+#### [Command Line Heroes](https://www.redhat.com/en/command-line-heroes)
+_<sup>https://www.redhat.com/en/command-line-heroes</sup>_
+
+Stories about the people who transform technology from the command line up. An original podcast from Red Hat.
+* **tags**: [podcast](../tagged/podcast.md), [command-line](../tagged/command-line.md)
+---
 #### [react-blessed](https://github.com/Yomguithereal/react-blessed)
 _<sup>https://github.com/Yomguithereal/react-blessed</sup>_
 

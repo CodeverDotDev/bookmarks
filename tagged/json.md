@@ -2,6 +2,17 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/json](https://www.bookmarks.dev/tagged/json)</sup></sup>_
 ---
+#### [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc)
+_<sup>https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc</sup>_
+
+Validate and view JSON documents
+
+JSONView port for Chrome.
+
+Original firefox extension is here: [http://benhollis.net/software/jsonview/](http://benhollis.net/software/jsonview/)
+* **tags**: [google-chrome-extension](../tagged/google-chrome-extension.md), [json](../tagged/json.md), [productivity-tools](../tagged/productivity-tools.md)
+* :octocat: **[source code](https://github.com/gildas-lormeau/JSONView-for-Chrome)**
+---
 #### [Basic JavaScript: Manipulating Complex Objects | Learn freeCodeCamp](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/manipulating-complex-objects)
 _<sup>https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/manipulati...</sup>_
 

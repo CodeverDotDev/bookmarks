@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/popup](https://www.bookmarks.dev/tagged/popup)</sup></sup>_
 ---
+#### [Creating A Basic Chrome Extension](https://www.thepolyglotdeveloper.com/2018/09/creating-basic-chrome-extension/)
+_<sup>https://www.thepolyglotdeveloper.com/2018/09/creating-basic-chrome-extension/</sup>_
+
+Learn how to get started developing extensions for Google Chrome using JavaScript and HTML in this example that demonstrates script detection for open browser tabs.
+* :calendar: **published on**: 2018-09-19
+* **tags**: [google-chrome](../tagged/google-chrome.md), [google-chrome-extension](../tagged/google-chrome-extension.md), [popup](../tagged/popup.md)
+---
 #### [Magnific-Popup](https://github.com/dimsemenov/Magnific-Popup)
 _<sup>https://github.com/dimsemenov/Magnific-Popup</sup>_
 

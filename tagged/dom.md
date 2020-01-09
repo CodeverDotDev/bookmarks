@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/dom](https://www.bookmarks.dev/tagged/dom)</sup></sup>_
 ---
+#### [DOMPurify](https://github.com/cure53/DOMPurify)
+_<sup>https://github.com/cure53/DOMPurify</sup>_
+
+A DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG.
+* **tags**: [javascript](../tagged/javascript.md), [security](../tagged/security.md), [dom](../tagged/dom.md)
+* :octocat: **[source code](https://github.com/cure53/DOMPurify)**
+---
 #### [Event - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Event)
 _<sup>https://developer.mozilla.org/en-US/docs/Web/API/Event</sup>_
 

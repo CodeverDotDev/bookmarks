@@ -2,6 +2,26 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/cpp](https://www.bookmarks.dev/tagged/cpp)</sup></sup>_
 ---
+#### [The Node.js Event Loop: Not So Single Threaded - 31min](https://www.youtube.com/watch?v=zphcsoSJMvM)
+_<sup>https://www.youtube.com/watch?v=zphcsoSJMvM</sup>_
+
+The Node.js Event Loop: Not So Single Threaded - Bryan Hughes, Microsoft
+
+You've heard Node.js is single threaded. It's true that all JavaScript executed by Node.js is run in a single thread, but JS i...
+* :calendar: **published on**: 2017-10-16
+* **tags**: [nodejs](../tagged/nodejs.md), [event-loop](../tagged/event-loop.md), [cpp](../tagged/cpp.md)
+---
+#### [Codiva.io - Compile and Run Java Online](https://www.codiva.io/)
+_<sup>https://www.codiva.io/</sup>_
+
+Compile and Run Code Online
+Codiva is an online compiler and IDE for C, C++ and Java.
+* Online compiler. No installation needed
+* Starts in less than a second
+* Compiles as you type
+* Auto complete ma...
+* **tags**: [dev-tools](../tagged/dev-tools.md), [java](../tagged/java.md), [cpp](../tagged/cpp.md), [c](../tagged/c.md), [ide](../tagged/ide.md), [online-tools](../tagged/online-tools.md)
+---
 #### [Bjarne Stroustrup - The Essence of C++ - YouTube](https://www.youtube.com/watch?v=86xWVb4XIyE)
 _<sup>https://www.youtube.com/watch?v=86xWVb4XIyE</sup>_
 

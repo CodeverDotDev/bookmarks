@@ -2,6 +2,11 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/static-site-generator](https://www.bookmarks.dev/tagged/static-site-generator)</sup></sup>_
 ---
+#### [How not to go wrong when choosing a static website generator? Gatsby vs Jekyll](https://medium.com/javascript-in-plain-english/how-not-to-go-wrong-when-choosing-a-static-website-generator-gatsby-vs-jekyll-510cea59e6e1)
+_<sup>https://medium.com/javascript-in-plain-english/how-not-to-go-wrong-when-choosing-a-static-website-ge...</sup>_
+
+* **tags**: [JavaScript](../tagged/JavaScript.md), [static-site-generator](../tagged/static-site-generator.md)
+---
 #### [GatsbyJS Home Page](https://www.gatsbyjs.org/)
 _<sup>https://www.gatsbyjs.org/</sup>_
 

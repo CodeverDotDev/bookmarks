@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/bootstrap](https://www.bookmarks.dev/tagged/bootstrap)</sup></sup>_
 ---
+#### [How to build a Google Chrome Extension ― Scotch.io](https://scotch.io/@dongido/how-to-build-a-google-chrome-extension)
+_<sup>https://scotch.io/@dongido/how-to-build-a-google-chrome-extension</sup>_
+
+We would be building a basic app Linxer. It's an extension that can be used to save important links.
+* :calendar: **published on**: 2017-05-31
+* **tags**: [google-chrome-extension](../tagged/google-chrome-extension.md), [jquery](../tagged/jquery.md), [bootstrap](../tagged/bootstrap.md)
+---
 #### [ Premium Bootstrap Themes and Templates: Download @ Creative Tim ](https://www.creative-tim.com/)
 _<sup>https://www.creative-tim.com/</sup>_
 

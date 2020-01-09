@@ -2,6 +2,43 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/productivity-tools](https://www.bookmarks.dev/tagged/productivity-tools)</sup></sup>_
 ---
+#### [Save to bookmarks.dev - Chrome Web Store](https://chrome.google.com/webstore/detail/save-to-bookmarksdev/diofdblfhjbpgackifolmboaiccmebjb)
+_<sup>https://chrome.google.com/webstore/detail/save-to-bookmarksdev/diofdblfhjbpgackifolmboaiccmebjb</sup>_
+
+The Chrome extension enables you to quickly save the active tab as a bookmark to www.bookmarks.dev. Make sure you have an account from www.bookmarks.dev to begin.
+* **tags**: [google-chrome-extension](../tagged/google-chrome-extension.md), [dev-tools](../tagged/dev-tools.md), [productivity-tools](../tagged/productivity-tools.md)
+* :octocat: **[source code](https://github.com/CodepediaOrg/bookmarks.dev-chrome-extension)**
+---
+#### [Octotree Home Page](https://www.octotree.io/)
+_<sup>https://www.octotree.io/</sup>_
+
+[Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc)
+
+GitHub on steroids - Browser extension that brings your GitHub experience to the next level.
+
+Features
+...
+* **tags**: [google-chrome-extension](../tagged/google-chrome-extension.md), [productivity-tools](../tagged/productivity-tools.md), [dev-tools](../tagged/dev-tools.md), [github](../tagged/github.md)
+* :octocat: **[source code](https://github.com/ovity/octotree)**
+---
+#### [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc)
+_<sup>https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc</sup>_
+
+Validate and view JSON documents
+
+JSONView port for Chrome.
+
+Original firefox extension is here: [http://benhollis.net/software/jsonview/](http://benhollis.net/software/jsonview/)
+* **tags**: [google-chrome-extension](../tagged/google-chrome-extension.md), [json](../tagged/json.md), [productivity-tools](../tagged/productivity-tools.md)
+* :octocat: **[source code](https://github.com/gildas-lormeau/JSONView-for-Chrome)**
+---
+#### [CodeCopy - Chrome Web Store](https://chrome.google.com/webstore/detail/codecopy/fkbfebkcoelajmhanocgppanfoojcdmg)
+_<sup>https://chrome.google.com/webstore/detail/codecopy/fkbfebkcoelajmhanocgppanfoojcdmg</sup>_
+
+A browser extension that adds a "copy to clipboard" button to every code block on GitHub, MDN, Gist, StackOverflow, StackExchange, npm, and even Medium.
+* **tags**: [productivity-tools](../tagged/productivity-tools.md), [dev-tools](../tagged/dev-tools.md), [google-chrome-extension](../tagged/google-chrome-extension.md)
+* :octocat: **[source code](https://github.com/zenorocha/codecopy)**
+---
 #### [Dotfiles Are Meant to Be Forked](http://zachholman.com/2010/08/dotfiles-are-meant-to-be-forked/)
 _<sup>http://zachholman.com/2010/08/dotfiles-are-meant-to-be-forked/</sup>_
 

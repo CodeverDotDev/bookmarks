@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/frameworks](https://www.bookmarks.dev/tagged/frameworks)</sup></sup>_
 ---
+#### [Tailwind CSS Home Page](https://tailwindcss.com/)
+_<sup>https://tailwindcss.com/</sup>_
+
+Tailwind CSS is a highly customizable, low-level CSS framework that gives you all of the building blocks you need to build bespoke designs without any annoying opinionated styles you have to fight to ...
+* **tags**: [css](../tagged/css.md), [frameworks](../tagged/frameworks.md)
+* :octocat: **[source code](https://github.com/tailwindcss/tailwindcss)**
+---
 #### [abseil-cpp](https://github.com/abseil/abseil-cpp)
 _<sup>https://github.com/abseil/abseil-cpp</sup>_
 

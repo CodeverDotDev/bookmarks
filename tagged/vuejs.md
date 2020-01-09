@@ -2,6 +2,18 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/vuejs](https://www.bookmarks.dev/tagged/vuejs)</sup></sup>_
 ---
+#### [Танилцуулга — Vue.js](http://vue.dev.mn/v2/guide/)
+_<sup>http://vue.dev.mn/v2/guide/</sup>_
+
+Vue.js - The Progressive JavaScript Framework
+* **tags**: [vue](../tagged/vue.md), [vuejs](../tagged/vuejs.md)
+---
+#### [Views on Vue](https://devchat.tv/views-on-vue/)
+_<sup>https://devchat.tv/views-on-vue/</sup>_
+
+A weekly discussion among Vue developers about Vue and it's ecosystem.
+* **tags**: [podcast](../tagged/podcast.md), [vuejs](../tagged/vuejs.md)
+---
 #### [ Premium Bootstrap Themes and Templates: Download @ Creative Tim ](https://www.creative-tim.com/)
 _<sup>https://www.creative-tim.com/</sup>_
 

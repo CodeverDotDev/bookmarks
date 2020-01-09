@@ -2,6 +2,37 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/event-loop](https://www.bookmarks.dev/tagged/event-loop)</sup></sup>_
 ---
+#### [How JavaScript works in browser and node? - ITNEXT](https://itnext.io/how-javascript-works-in-browser-and-node-ab7d0d09ac2f)
+_<sup>https://itnext.io/how-javascript-works-in-browser-and-node-ab7d0d09ac2f</sup>_
+
+There are many passionate developers, working on front-end or back-end, devote their life to protect realm of JavaScript. JavaScript is very easy to understand and is a essential part of front-end dev...
+* :calendar: **published on**: 2018-04-23
+* **tags**: [javascript](../tagged/javascript.md), [nodejs](../tagged/nodejs.md), [event-loop](../tagged/event-loop.md)
+---
+#### [Loupe](http://latentflip.com/loupe/)
+_<sup>http://latentflip.com/loupe/</sup>_
+
+Loupe is a little visualisation to help you understand how JavaScript's call stack/event loop/callback queue interact with each other.
+
+[Video - What the heck is the event loop anyway? | Philip Robert...
+* **tags**: [javascript](../tagged/javascript.md), [event-loop](../tagged/event-loop.md)
+* :octocat: **[source code](https://github.com/latentflip/loupe)**
+---
+#### [The Node.js Event Loop: Not So Single Threaded - 31min](https://www.youtube.com/watch?v=zphcsoSJMvM)
+_<sup>https://www.youtube.com/watch?v=zphcsoSJMvM</sup>_
+
+The Node.js Event Loop: Not So Single Threaded - Bryan Hughes, Microsoft
+
+You've heard Node.js is single threaded. It's true that all JavaScript executed by Node.js is run in a single thread, but JS i...
+* :calendar: **published on**: 2017-10-16
+* **tags**: [nodejs](../tagged/nodejs.md), [event-loop](../tagged/event-loop.md), [cpp](../tagged/cpp.md)
+---
+#### [Monitoring Node.js: Watch Your Event Loop Lag! - David Hettler 🥨](https://davidhettler.net/blog/event-loop-lag/)
+_<sup>https://davidhettler.net/blog/event-loop-lag/</sup>_
+
+In this blog post you will learn what event loop lag is, how it affects performance and why you should include this metric in your performance monitoring dashboards (if you haven’t already). Event loo...
+* **tags**: [nodejs](../tagged/nodejs.md), [javascript](../tagged/javascript.md), [event-loop](../tagged/event-loop.md)
+---
 #### [Don't Block the Event Loop (or the Worker Pool) | Node.js](https://nodejs.org/ru/docs/guides/dont-block-the-event-loop/)
 _<sup>https://nodejs.org/ru/docs/guides/dont-block-the-event-loop/</sup>_
 

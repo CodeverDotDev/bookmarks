@@ -226,6 +226,12 @@ _<sup>https://blog.risingstack.com/</sup>_
 Learn about Node.js, JavaScript & Mircoservices from the experts of RisingStack.
 * **tags**: [blog](../tagged/blog.md), [nodejs](../tagged/nodejs.md)
 ---
+#### [John Papa Home Page](https://johnpapa.net/)
+_<sup>https://johnpapa.net/</sup>_
+
+Husband, father, & Catholic enjoying life with my family. Working @ Microsoft. Disney fanatic, web and mobile developer
+* **tags**: [blog](../tagged/blog.md), [javascript](../tagged/javascript.md), [nodejs](../tagged/nodejs.md)
+---
 #### [DerickBailey.com - Trade Secrets Of A Developer / Entrepreneur](https://derickbailey.com/)
 _<sup>https://derickbailey.com/</sup>_
 

@@ -2,6 +2,14 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/api](https://www.bookmarks.dev/tagged/api)</sup></sup>_
 ---
+#### [API Practices If You Hate Your Customers - ACM Queue](https://queue.acm.org/detail.cfm?id=3375635)
+_<sup>https://queue.acm.org/detail.cfm?id=3375635</sup>_
+
+**APIs speak louder than words.**
+
+Do you have disdain for your customers? Do you wish they would go away? When you interact with customers are you silently fantasizing about them switching to your co...
+* **tags**: [api](../tagged/api.md)
+---
 #### [Online Web service testing tool](https://extendsclass.com/web-service-tester.html)
 _<sup>https://extendsclass.com/web-service-tester.html</sup>_
 

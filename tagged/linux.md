@@ -2,6 +2,17 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/linux](https://www.bookmarks.dev/tagged/linux)</sup></sup>_
 ---
+#### [Basic Linux Commands - Bash Command Line Tips You Should Know](https://www.freecodecamp.org/news/basic-linux-commands-bash-tips-you-should-know-2/)
+_<sup>https://www.freecodecamp.org/news/basic-linux-commands-bash-tips-you-should-know-2/</sup>_
+
+* **tags**: [linux](../tagged/linux.md), [bash](../tagged/bash.md)
+---
+#### [Late Night Linux](https://latenightlinux.com/)
+_<sup>https://latenightlinux.com/</sup>_
+
+Late Night Linux is a podcast that takes a look at what’s happening with Linux and the wider tech industry. Every two weeks, Joe, Félim, Graham and Will discuss the latest news and releases, and the b...
+* **tags**: [podcast](../tagged/podcast.md), [linux](../tagged/linux.md), [open-source](../tagged/open-source.md)
+---
 #### [shell - Which terminal command to get just IP address and nothing else? - Stack Overflow](https://stackoverflow.com/questions/8529181/which-terminal-command-to-get-just-ip-address-and-nothing-else)
 _<sup>https://stackoverflow.com/questions/8529181/which-terminal-command-to-get-just-ip-address-and-nothin...</sup>_
 

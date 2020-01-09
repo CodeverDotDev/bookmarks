@@ -2,6 +2,20 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/datetime](https://www.bookmarks.dev/tagged/datetime)</sup></sup>_
 ---
+#### [iamkun/dayjs home page](https://github.com/iamkun/dayjs)
+_<sup>https://github.com/iamkun/dayjs</sup>_
+
+⏰ Day.js 2KB immutable date library alternative to Moment.js with the same modern API 
+* **tags**: [javascript](../tagged/javascript.md), [javascript-frameworks](../tagged/javascript-frameworks.md), [datetime](../tagged/datetime.md)
+* :octocat: **[source code](https://github.com/iamkun/dayjs)**
+---
+#### [date-fns - modern JavaScript date utility library](https://date-fns.org/)
+_<sup>https://date-fns.org/</sup>_
+
+date-fns provides the most comprehensive yet simple and consistent toolset for manipulating JavaScript dates in a browser & Node.js.
+* **tags**: [javascript](../tagged/javascript.md), [nodejs](../tagged/nodejs.md), [datetime](../tagged/datetime.md)
+* :octocat: **[source code](https://github.com/date-fns/date-fns)**
+---
 #### [chronotope/chrono](https://github.com/chronotope/chrono)
 _<sup>https://github.com/chronotope/chrono</sup>_
 

@@ -2,6 +2,31 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/web](https://www.bookmarks.dev/tagged/web)</sup></sup>_
 ---
+#### [Why you should have ditched IE support long ago...](https://areknawo.com/why-you-should-have-ditched-ie-support-long-ago/)
+_<sup>https://areknawo.com/why-you-should-have-ditched-ie-support-long-ago/</sup>_
+
+Is Internet Explorer still relevant in 2020? And if so, should you bother to support it? Checking out IE history, JavaScript, HTML and CSS features & more!
+* **tags**: [JavaScript](../tagged/JavaScript.md), [web](../tagged/web.md)
+---
+#### [10 Best YouTube Channels to Learn Web Development - ReadWrite](https://readwrite.com/2019/12/17/10-best-youtube-channels-to-learn-web-development/)
+_<sup>https://readwrite.com/2019/12/17/10-best-youtube-channels-to-learn-web-development/</sup>_
+
+One of the best ways to learn to code without spending any money is by subscribing to web developer masters on Youtube. 
+* **tags**: [web](../tagged/web.md), [tutorials](../tagged/tutorials.md), [javascript](../tagged/javascript.md)
+---
+#### [How CORS (Cross-Origin Resource Sharing) Works? - The Startup - Medium](https://medium.com/swlh/how-cors-cross-origin-resource-sharing-works-79f959a84f0e)
+_<sup>https://medium.com/swlh/how-cors-cross-origin-resource-sharing-works-79f959a84f0e</sup>_
+
+Well, For security reasons, browsers restrict cross-origin HTTP requests initiated from scripts. For example, if you want to access your API hosted at https://api.github.com from your client-side…
+* **tags**: [web](../tagged/web.md), [CORS](../tagged/CORS.md)
+---
+#### [GitHub - vasanthk/web-security-basics: Web security concepts](https://github.com/vasanthk/web-security-basics)
+_<sup>https://github.com/vasanthk/web-security-basics</sup>_
+
+Web security concepts. Contribute to vasanthk/web-security-basics development by creating an account on GitHub.
+* :calendar: **published on**: 2020-01-05
+* **tags**: [web](../tagged/web.md), [security](../tagged/security.md)
+---
 #### [Plume-org/Plume](https://github.com/Plume-org/Plume)
 _<sup>https://github.com/Plume-org/Plume</sup>_
 

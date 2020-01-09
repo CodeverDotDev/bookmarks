@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/webassembly](https://www.bookmarks.dev/tagged/webassembly)</sup></sup>_
 ---
+#### [WebAssembly Home Page](https://webassembly.org/)
+_<sup>https://webassembly.org/</sup>_
+
+WebAssembly (abbreviated Wasm) is a binary instruction format for a stack-based virtual machine. Wasm is designed as a portable target for compilation of high-level languages like C/C++/Rust, enabling...
+* **tags**: [webassembly](../tagged/webassembly.md)
+---
 #### [rustwasm/wasm-pack](https://github.com/rustwasm/wasm-pack)
 _<sup>https://github.com/rustwasm/wasm-pack</sup>_
 

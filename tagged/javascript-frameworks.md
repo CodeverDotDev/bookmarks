@@ -2,6 +2,19 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/javascript-frameworks](https://www.bookmarks.dev/tagged/javascript-frameworks)</sup></sup>_
 ---
+#### [iamkun/dayjs home page](https://github.com/iamkun/dayjs)
+_<sup>https://github.com/iamkun/dayjs</sup>_
+
+⏰ Day.js 2KB immutable date library alternative to Moment.js with the same modern API 
+* **tags**: [javascript](../tagged/javascript.md), [javascript-frameworks](../tagged/javascript-frameworks.md), [datetime](../tagged/datetime.md)
+* :octocat: **[source code](https://github.com/iamkun/dayjs)**
+---
+#### [Marak/faker.js home page](https://github.com/marak/Faker.js)
+_<sup>https://github.com/marak/Faker.js</sup>_
+
+generate massive amounts of realistic fake data in Node.js and the browser
+* **tags**: [javascript](../tagged/javascript.md), [javascript-frameworks](../tagged/javascript-frameworks.md), [nodejs](../tagged/nodejs.md)
+---
 #### [Sapper  Home Page](https://sapper.svelte.dev/)
 _<sup>https://sapper.svelte.dev/</sup>_
 

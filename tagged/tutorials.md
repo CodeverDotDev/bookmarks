@@ -2,6 +2,19 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/tutorials](https://www.bookmarks.dev/tagged/tutorials)</sup></sup>_
 ---
+#### [10 Best YouTube Channels to Learn Web Development - ReadWrite](https://readwrite.com/2019/12/17/10-best-youtube-channels-to-learn-web-development/)
+_<sup>https://readwrite.com/2019/12/17/10-best-youtube-channels-to-learn-web-development/</sup>_
+
+One of the best ways to learn to code without spending any money is by subscribing to web developer masters on Youtube. 
+* **tags**: [web](../tagged/web.md), [tutorials](../tagged/tutorials.md), [javascript](../tagged/javascript.md)
+---
+#### [The Modern JavaScript Tutorial](https://javascript.info/)
+_<sup>https://javascript.info/</sup>_
+
+Modern JavaScript Tutorial: simple, but detailed explanations with examples and tasks, including: closures, document and events, object oriented programming and more.
+* **tags**: [javascript](../tagged/javascript.md), [tutorials](../tagged/tutorials.md)
+* :octocat: **[source code](https://github.com/javascript-tutorial/en.javascript.info/tree/master)**
+---
 #### [React Official Tutorial](https://facebook.github.io/react/docs/tutorial.html)
 _<sup>https://facebook.github.io/react/docs/tutorial.html</sup>_
 

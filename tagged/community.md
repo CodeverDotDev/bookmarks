@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/community](https://www.bookmarks.dev/tagged/community)</sup></sup>_
 ---
+#### [Indie Hackers Home Page](https://www.indiehackers.com/)
+_<sup>https://www.indiehackers.com/</sup>_
+
+Connect with developers who are sharing the strategies and revenue numbers behind their companies and side projects.
+* **tags**: [startup](../tagged/startup.md), [side-projects](../tagged/side-projects.md), [community](../tagged/community.md)
+---
 #### [Reactiflux Discord Channel](http://www.reactiflux.com/)
 _<sup>http://www.reactiflux.com/</sup>_
 

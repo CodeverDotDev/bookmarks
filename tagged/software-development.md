@@ -2,6 +2,26 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/software-development](https://www.bookmarks.dev/tagged/software-development)</sup></sup>_
 ---
+#### [Why Google Stores Billions of Lines of Code in a Single Repository](https://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext)
+_<sup>https://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single...</sup>_
+
+This article outlines the scale of that codebase and details Google's custom-built monolithic source repository and the reasons the model was chosen. Google uses a homegrown version-control system to ...
+* **tags**: [version-control](../tagged/version-control.md), [software-development](../tagged/software-development.md), [architecture](../tagged/architecture.md)
+---
+#### [Code[ish] - Podcasts | Heroku](https://www.heroku.com/podcasts/codeish)
+_<sup>https://www.heroku.com/podcasts/codeish</sup>_
+
+A podcast from the team at Heroku, exploring code, technology, tools, tips, and the life of the developer.
+* **tags**: [podcast](../tagged/podcast.md), [software-development](../tagged/software-development.md)
+---
+#### [Chats with Kent](https://kentcdodds.com/chats-with-kent-podcast)
+_<sup>https://kentcdodds.com/chats-with-kent-podcast</sup>_
+
+Kent C. Dodds chats with developers about life, career, and code.
+
+
+* **tags**: [podcast](../tagged/podcast.md), [software-development](../tagged/software-development.md), [career](../tagged/career.md), [reactjs](../tagged/reactjs.md)
+---
 #### [Google Engineering Practices Documentation](https://google.github.io/eng-practices/)
 _<sup>https://google.github.io/eng-practices/</sup>_
 

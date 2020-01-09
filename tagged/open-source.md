@@ -2,6 +2,20 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/open-source](https://www.bookmarks.dev/tagged/open-source)</sup></sup>_
 ---
+#### [JavaScript Timers - 11min](https://www.youtube.com/watch?v=YmaFAKUFmp0)
+_<sup>https://www.youtube.com/watch?v=YmaFAKUFmp0</sup>_
+
+Timing in JavaScript with setTimeout, setInterval and requestAnimationFrame
+* :calendar: **published on**: 2015-08-27
+* **tags**: [javascript](../tagged/javascript.md), [open-source](../tagged/open-source.md), [setTimeout](../tagged/setTimeout.md), [setInterval](../tagged/setInterval.md), [requestAnimationFrame](../tagged/requestAnimationFrame.md), [timer](../tagged/timer.md)
+* :octocat: **[source code](https://github.com/shama/letswritecode/tree/master/js-timers)**
+---
+#### [Late Night Linux](https://latenightlinux.com/)
+_<sup>https://latenightlinux.com/</sup>_
+
+Late Night Linux is a podcast that takes a look at what’s happening with Linux and the wider tech industry. Every two weeks, Joe, Félim, Graham and Will discuss the latest news and releases, and the b...
+* **tags**: [podcast](../tagged/podcast.md), [linux](../tagged/linux.md), [open-source](../tagged/open-source.md)
+---
 #### [awesome-open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps#readme)
 _<sup>https://github.com/serhii-londar/open-source-mac-os-apps#readme</sup>_
 

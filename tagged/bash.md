@@ -2,6 +2,11 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/bash](https://www.bookmarks.dev/tagged/bash)</sup></sup>_
 ---
+#### [Basic Linux Commands - Bash Command Line Tips You Should Know](https://www.freecodecamp.org/news/basic-linux-commands-bash-tips-you-should-know-2/)
+_<sup>https://www.freecodecamp.org/news/basic-linux-commands-bash-tips-you-should-know-2/</sup>_
+
+* **tags**: [linux](../tagged/linux.md), [bash](../tagged/bash.md)
+---
 #### [Dotfiles Are Meant to Be Forked](http://zachholman.com/2010/08/dotfiles-are-meant-to-be-forked/)
 _<sup>http://zachholman.com/2010/08/dotfiles-are-meant-to-be-forked/</sup>_
 

@@ -2,7 +2,26 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/css](https://www.bookmarks.dev/tagged/css)</sup></sup>_
 ---
-#### [A Story About Kanye West and Learning to Code](https://syntax.fm/)
+#### [Tailwind CSS Home Page](https://tailwindcss.com/)
+_<sup>https://tailwindcss.com/</sup>_
+
+Tailwind CSS is a highly customizable, low-level CSS framework that gives you all of the building blocks you need to build bespoke designs without any annoying opinionated styles you have to fight to ...
+* **tags**: [css](../tagged/css.md), [frameworks](../tagged/frameworks.md)
+* :octocat: **[source code](https://github.com/tailwindcss/tailwindcss)**
+---
+#### [How to Create Printer-friendly Pages with CSS — SitePoint](https://www.sitepoint.com/css-printer-friendly-pages/?utm_source=rss)
+_<sup>https://www.sitepoint.com/css-printer-friendly-pages/?utm_source=rss</sup>_
+
+* **tags**: [CSS](../tagged/CSS.md)
+---
+#### [Understanding the CSS box model for inline elements - Mozilla Hacks - the Web developer blog](https://hacks.mozilla.org/2015/03/understanding-inline-box-model/)
+_<sup>https://hacks.mozilla.org/2015/03/understanding-inline-box-model/</sup>_
+
+In a web page, every element is rendered as a rectangular box. The box model describes how the element’s content, padding, border, and margin determine the space occupied by the element and its relati...
+* :calendar: **published on**: 2015-03-24
+* **tags**: [css](../tagged/css.md)
+---
+#### [Syntax.fm](https://syntax.fm/)
 _<sup>https://syntax.fm/</sup>_
 
 Full Stack Developers Wes Bos and Scott Tolinski dive deep into web development topics, explaining how they work and talking about their own experiences. They cover from JavaScript frameworks like Rea...

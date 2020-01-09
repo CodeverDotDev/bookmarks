@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/compression](https://www.bookmarks.dev/tagged/compression)</sup></sup>_
 ---
+#### [Javascript Compressor - compress code online for free](https://javascriptcompressor.com/)
+_<sup>https://javascriptcompressor.com/</sup>_
+
+Online Javascript compressor
+Compress and obfuscate Javascript code online completely free using this compressor.
+* **tags**: [javascript](../tagged/javascript.md), [dev-tools](../tagged/dev-tools.md), [compression](../tagged/compression.md)
+---
 #### [Brotli](https://github.com/google/brotli)
 _<sup>https://github.com/google/brotli</sup>_
 

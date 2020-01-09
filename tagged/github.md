@@ -2,6 +2,18 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/github](https://www.bookmarks.dev/tagged/github)</sup></sup>_
 ---
+#### [Octotree Home Page](https://www.octotree.io/)
+_<sup>https://www.octotree.io/</sup>_
+
+[Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc)
+
+GitHub on steroids - Browser extension that brings your GitHub experience to the next level.
+
+Features
+...
+* **tags**: [google-chrome-extension](../tagged/google-chrome-extension.md), [productivity-tools](../tagged/productivity-tools.md), [dev-tools](../tagged/dev-tools.md), [github](../tagged/github.md)
+* :octocat: **[source code](https://github.com/ovity/octotree)**
+---
 #### [Google Cloud Functions - Deploying from Source Control](https://cloud.google.com/functions/docs/deploying/repo)
 _<sup>https://cloud.google.com/functions/docs/deploying/repo</sup>_
 

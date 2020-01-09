@@ -2,6 +2,23 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/architecture](https://www.bookmarks.dev/tagged/architecture)</sup></sup>_
 ---
+#### [Why Google Stores Billions of Lines of Code in a Single Repository](https://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext)
+_<sup>https://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single...</sup>_
+
+This article outlines the scale of that codebase and details Google's custom-built monolithic source repository and the reasons the model was chosen. Google uses a homegrown version-control system to ...
+* **tags**: [version-control](../tagged/version-control.md), [software-development](../tagged/software-development.md), [architecture](../tagged/architecture.md)
+---
+#### [What is the best way to upload and store pictures on the site?](https://stackoverflow.com/questions/8922056/what-is-the-best-way-to-upload-and-store-pictures-on-the-site/8922090#8922090)
+_<sup>https://stackoverflow.com/questions/8922056/what-is-the-best-way-to-upload-and-store-pictures-on-the...</sup>_
+
+All big websites don't save pictures to the database they store them in the disk. They save a reference to the picture's position in a table. And then link from there.
+
+Why? Performance.
+
+Pulling heav...
+* :calendar: **published on**: 2012-01-19
+* **tags**: [php](../tagged/php.md), [file-upload](../tagged/file-upload.md), [persistence](../tagged/persistence.md), [webdesign](../tagged/webdesign.md), [architecture](../tagged/architecture.md), [database](../tagged/database.md), [file-systems](../tagged/file-systems.md)
+---
 #### [Application Capacity Optimizations with Global Load Balancing](https://cloud.google.com/solutions/about-capacity-optimization-with-global-lb)
 _<sup>https://cloud.google.com/solutions/about-capacity-optimization-with-global-lb</sup>_
 

@@ -2,6 +2,20 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/user-interface](https://www.bookmarks.dev/tagged/user-interface)</sup></sup>_
 ---
+#### [Marking Required Fields in Forms](https://www.nngroup.com/articles/required-fields/)
+_<sup>https://www.nngroup.com/articles/required-fields/</sup>_
+
+Using an asterisk to mark required fields is an easy way to improve the usability of your forms.  Only marking optional fields makes it difficult for people to fill out the form.
+* :calendar: **published on**: 2019-06-16
+* **tags**: [user-experience](../tagged/user-experience.md), [user-interface](../tagged/user-interface.md), [forms](../tagged/forms.md)
+---
+#### [Feather – Simply beautiful open source icons](https://feathericons.com/)
+_<sup>https://feathericons.com/</sup>_
+
+Feather is a collection of simply beautiful open source icons. Each icon is designed on a 24x24 grid with an emphasis on simplicity, consistency and readability.
+* **tags**: [icon](../tagged/icon.md), [user-interface](../tagged/user-interface.md)
+* :octocat: **[source code](https://github.com/feathericons/feather)**
+---
 #### [Flux Home Page](https://facebook.github.io/flux/)
 _<sup>https://facebook.github.io/flux/</sup>_
 
