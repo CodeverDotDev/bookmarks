@@ -10,7 +10,7 @@ Public bookmarks, grouped by tags, shared with :heart: from <a href="https://www
 </p>
 
 <div align="center">
-	<b>Follow the <a href="https://twitter.com/BookmarksDev">BookmarksDev account</a> for updates on new dev bookmarks additions.</b>
+	<b>Create a <a href="https://www.bookmarks.dev/howto">Bookmarks.dev account</a> and help build the ultimate dev resource repository.</b>
 </div>
 
 <br>
