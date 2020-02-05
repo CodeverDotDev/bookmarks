@@ -2,6 +2,25 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/development](https://www.bookmarks.dev/tagged/development)</sup></sup>_
 ---
+#### [Tools | the New DynamicTwitter_Logo_Blue](https://www.thenewdynamic.org/tool/)
+_<sup>https://www.thenewdynamic.org/tool/</sup>_
+
+A curated collection of tools and services
+* **tags**: [dev](../tagged/dev.md), [development](../tagged/development.md), [programming](../tagged/programming.md), [tools](../tagged/tools.md)
+---
+#### [the New Dynamic](https://www.thenewdynamic.org/)
+_<sup>https://www.thenewdynamic.org/</sup>_
+
+* **tags**: [dev](../tagged/dev.md), [development](../tagged/development.md), [programming](../tagged/programming.md), [tools](../tagged/tools.md)
+---
+#### [GitHub - joshwcomeau/react-collection-helpers: A suite of composable utility components to manipulate collections.](https://github.com/joshwcomeau/react-collection-helpers)
+_<sup>https://github.com/joshwcomeau/react-collection-helpers</sup>_
+
+A suite of composable utility components to manipulate collections. - joshwcomeau/react-collection-helpers
+* :calendar: **published on**: 2020-01-13
+* **tags**: [development](../tagged/development.md)
+* :octocat: **[source code](https://github.com/joshwcomeau/react-collection-helpers)**
+---
 #### [AspectJ](https://eclipse.org/aspectj)
 _<sup>https://eclipse.org/aspectj</sup>_
 

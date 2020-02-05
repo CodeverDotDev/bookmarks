@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/logging](https://www.bookmarks.dev/tagged/logging)</sup></sup>_
 ---
+#### [Changing the Logging Level at the Runtime for a Spring Boot Application | Baeldung](https://www.baeldung.com/spring-boot-changing-log-level-at-runtime)
+_<sup>https://www.baeldung.com/spring-boot-changing-log-level-at-runtime</sup>_
+
+In this tutorial, we're going to look at ways we can change the logging level of a Spring Boot application at runtime. As with many things, Spring Boot has built-in logging functionality that configur...
+* :calendar: **published on**: 2019-11-05
+* **tags**: [spring-boot](../tagged/spring-boot.md), [logging](../tagged/logging.md)
+---
 #### [dotScale 2017 - Adrian Cole - Observability 3 ways: Logging, Metrics & Tracing  - 18min](https://www.youtube.com/watch?v=juP9VApKy_I)
 _<sup>https://www.youtube.com/watch?v=juP9VApKy_I</sup>_
 

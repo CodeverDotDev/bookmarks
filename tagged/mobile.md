@@ -2,6 +2,19 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/mobile](https://www.bookmarks.dev/tagged/mobile)</sup></sup>_
 ---
+#### [
+    React Native is the Future of Mobile at Shopify
+    
+    
+    
+      – Shopify Engineering
+    
+  ](https://engineering.shopify.com/blogs/engineering/react-native-future-mobile-shopify)
+_<sup>https://engineering.shopify.com/blogs/engineering/react-native-future-mobile-shopify</sup>_
+
+After years of native mobile development, we’ve decided to build all of our new mobile apps using React Native. As I’ll explain, that decision doesn’t come lightly.
+* **tags**: [react](../tagged/react.md), [mobile](../tagged/mobile.md), [javascript](../tagged/javascript.md)
+---
 #### [Mobile application development - Mobisoft Infotech](https://mobisoftinfotech.com/services/mobile-application-development-company)
 _<sup>https://mobisoftinfotech.com/services/mobile-application-development-company</sup>_
 

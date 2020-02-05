@@ -2,6 +2,22 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/spring](https://www.bookmarks.dev/tagged/spring)</sup></sup>_
 ---
+#### [JDK 8: Lessons Learnt With Lambdas and Streams - 30min](https://www.youtube.com/watch?v=wZKmA6XodNE&t=3s)
+_<sup>https://www.youtube.com/watch?v=wZKmA6XodNE&t=3s</sup>_
+
+Recorded at SpringOne Platform 2016.
+Speaker: Simon Ritter, Azul
+Slides: http://www.slideshare.net/SpringCentral/jdk8-lessons-learnt-with-lambdas-and-streams
+
+Lambda expressions and the streams API ad...
+* :calendar: **published on**: 2016-12-21
+* **tags**: [spring](../tagged/spring.md), [java](../tagged/java.md), [lambda](../tagged/lambda.md)
+---
+#### [A Guide to Spring Framework Annotations - DZone Java](https://dzone.com/articles/a-guide-to-spring-framework-annotations)
+_<sup>https://dzone.com/articles/a-guide-to-spring-framework-annotations</sup>_
+
+* **tags**: [java](../tagged/java.md), [spring](../tagged/spring.md)
+---
 #### [Spring Boot in a Container](https://spring.io/blog/2018/11/08/spring-boot-in-a-container)
 _<sup>https://spring.io/blog/2018/11/08/spring-boot-in-a-container</sup>_
 

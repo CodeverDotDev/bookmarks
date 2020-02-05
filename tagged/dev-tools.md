@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/dev-tools](https://www.bookmarks.dev/tagged/dev-tools)</sup></sup>_
 ---
+#### [commitlint - Lint commit messages](https://commitlint.js.org/)
+_<sup>https://commitlint.js.org/</sup>_
+
+`commitlint` helps your team adhering to a commit convention. By supporting npm-installed configurations it makes sharing of commit conventions easy.
+* **tags**: [git](../tagged/git.md), [dev-tools](../tagged/dev-tools.md)
+* :octocat: **[source code](https://github.com/conventional-changelog/commitlint)**
+---
 #### [Save to bookmarks.dev - Chrome Web Store](https://chrome.google.com/webstore/detail/save-to-bookmarksdev/diofdblfhjbpgackifolmboaiccmebjb)
 _<sup>https://chrome.google.com/webstore/detail/save-to-bookmarksdev/diofdblfhjbpgackifolmboaiccmebjb</sup>_
 

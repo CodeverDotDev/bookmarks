@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/ssl](https://www.bookmarks.dev/tagged/ssl)</sup></sup>_
 ---
+#### [A brief overview of the TCP/IP model, SSL/TLS/HTTPS protocols and SSL certificates](https://itnext.io/a-brief-overview-of-the-tcp-ip-model-ssl-tls-https-protocols-and-ssl-certificates-d5a6269fe29e)
+_<sup>https://itnext.io/a-brief-overview-of-the-tcp-ip-model-ssl-tls-https-protocols-and-ssl-certificates-...</sup>_
+
+I’m currently writing an article on how to create a secure HTTP server in Go (golang) and I thought what could be a better opportunity than this to discuss this broad topic about web security. In…
+* **tags**: [web](../tagged/web.md), [http](../tagged/http.md), [ssl](../tagged/ssl.md), [tls](../tagged/tls.md)
+---
 #### [SSL/TLS  handshake Protocol - YouTube](https://www.youtube.com/watch?v=sEkw8ZcxtFk&list=PLSNNzog5eydtwsdT__t5WtRgvpfMzpTc7&index=5)
 _<sup>https://www.youtube.com/watch?v=sEkw8ZcxtFk&list=PLSNNzog5eydtwsdT__t5WtRgvpfMzpTc7&index=5</sup>_
 

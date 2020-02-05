@@ -2,6 +2,18 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/cloud](https://www.bookmarks.dev/tagged/cloud)</sup></sup>_
 ---
+#### [Cloudant - Overview  | IBM](https://www.ibm.com/cloud/cloudant)
+_<sup>https://www.ibm.com/cloud/cloudant</sup>_
+
+A scalable distributed database for web, mobile, IoT and serverless applications.
+* **tags**: [cloud](../tagged/cloud.md), [web](../tagged/web.md)
+---
+#### [ElephantSQL - PostgreSQL as a Service](https://www.elephantsql.com/)
+_<sup>https://www.elephantsql.com/</sup>_
+
+ElephantSQL - PostgreSQL as a Service. The most advanced open-source database, hosted in the cloud.
+* **tags**: [cloud](../tagged/cloud.md), [web](../tagged/web.md), [sql](../tagged/sql.md)
+---
 #### [Migrating to GCP? First Things First: VPCs (Networking End to End) - 7min](https://www.youtube.com/watch?v=cNb7xKyya5c)
 _<sup>https://www.youtube.com/watch?v=cNb7xKyya5c</sup>_
 

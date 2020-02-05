@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/gif](https://www.bookmarks.dev/tagged/gif)</sup></sup>_
 ---
+#### [High quality GIF with FFmpeg](http://blog.pkh.me/p/21-high-quality-gif-with-ffmpeg.html)
+_<sup>http://blog.pkh.me/p/21-high-quality-gif-with-ffmpeg.html</sup>_
+
+About two years ago, I tried to improve the support of the GIF encoding in FFmpeg to make it at least decent. This notably led to the addition of the transparency mechanism in the GIF encoder. While t...
+* **tags**: [ffmpeg](../tagged/ffmpeg.md), [gif](../tagged/gif.md)
+---
 #### [awesome-gif](https://github.com/davisonio/awesome-gif#readme)
 _<sup>https://github.com/davisonio/awesome-gif#readme</sup>_
 

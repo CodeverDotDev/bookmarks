@@ -2,6 +2,17 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/sql](https://www.bookmarks.dev/tagged/sql)</sup></sup>_
 ---
+#### [ElephantSQL - PostgreSQL as a Service](https://www.elephantsql.com/)
+_<sup>https://www.elephantsql.com/</sup>_
+
+ElephantSQL - PostgreSQL as a Service. The most advanced open-source database, hosted in the cloud.
+* **tags**: [cloud](../tagged/cloud.md), [web](../tagged/web.md), [sql](../tagged/sql.md)
+---
+#### [8 New SQL Tools That Will Change How You Work in 2020 - DEV Community 👩‍💻👨‍💻](https://dev.to/realtrevorfaux/8-new-sql-tools-that-will-change-how-you-work-in-2020-n63)
+_<sup>https://dev.to/realtrevorfaux/8-new-sql-tools-that-will-change-how-you-work-in-2020-n63</sup>_
+
+* **tags**: [sql](../tagged/sql.md)
+---
 #### [How does database indexing work?](https://stackoverflow.com/questions/1108/how-does-database-indexing-work)
 _<sup>https://stackoverflow.com/questions/1108/how-does-database-indexing-work</sup>_
 

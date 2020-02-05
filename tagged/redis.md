@@ -2,6 +2,15 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/redis](https://www.bookmarks.dev/tagged/redis)</sup></sup>_
 ---
+#### [fpereiro/backendlore: How I write backends](https://github.com/fpereiro/backendlore)
+_<sup>https://github.com/fpereiro/backendlore</sup>_
+
+From late 2012 to the present I have been writing backends (server-side code) for web applications. This document summarizes many aspects of how I write these pieces of code.
+
+I'm writing this lore do...
+* **tags**: [backend](../tagged/backend.md), [nodejs](../tagged/nodejs.md), [redis](../tagged/redis.md), [architecture](../tagged/architecture.md)
+* :octocat: **[source code](https://github.com/fpereiro/backendlore)**
+---
 #### [mitsuhiko/redis-rs](https://github.com/mitsuhiko/redis-rs)
 _<sup>https://github.com/mitsuhiko/redis-rs</sup>_
 

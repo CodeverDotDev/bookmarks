@@ -2,6 +2,15 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/backend](https://www.bookmarks.dev/tagged/backend)</sup></sup>_
 ---
+#### [fpereiro/backendlore: How I write backends](https://github.com/fpereiro/backendlore)
+_<sup>https://github.com/fpereiro/backendlore</sup>_
+
+From late 2012 to the present I have been writing backends (server-side code) for web applications. This document summarizes many aspects of how I write these pieces of code.
+
+I'm writing this lore do...
+* **tags**: [backend](../tagged/backend.md), [nodejs](../tagged/nodejs.md), [redis](../tagged/redis.md), [architecture](../tagged/architecture.md)
+* :octocat: **[source code](https://github.com/fpereiro/backendlore)**
+---
 #### [awesome-flask](https://github.com/humiaozuzu/awesome-flask#readme)
 _<sup>https://github.com/humiaozuzu/awesome-flask#readme</sup>_
 

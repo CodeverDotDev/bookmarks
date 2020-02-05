@@ -2,12 +2,29 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/open-source](https://www.bookmarks.dev/tagged/open-source)</sup></sup>_
 ---
+#### [How to make your first pull request on GitHub](https://www.freecodecamp.org/news/how-to-make-your-first-pull-request-on-github-3/)
+_<sup>https://www.freecodecamp.org/news/how-to-make-your-first-pull-request-on-github-3/</sup>_
+
+* **tags**: [open-source](../tagged/open-source.md), [git](../tagged/git.md)
+---
+#### [What I Learned From Creating My First Open-Source Software Project](https://medium.com/better-programming/things-i-learned-from-creating-my-first-open-source-software-project-e74844bf687a)
+_<sup>https://medium.com/better-programming/things-i-learned-from-creating-my-first-open-source-software-p...</sup>_
+
+I recently published a package on npm: a data-structures-and-algorithms library implemented in JavaScript. The purpose of the project is to help others learn and understand data structures and…
+* **tags**: [javascript](../tagged/javascript.md), [open-source](../tagged/open-source.md), [npm](../tagged/npm.md)
+---
+#### [How to Contribute to Open Source Software - Kill All Defects](https://killalldefects.com/2020/01/26/how-to-contribute-to-open-source-software/)
+_<sup>https://killalldefects.com/2020/01/26/how-to-contribute-to-open-source-software/</sup>_
+
+In this article I'll share my first time working with a major open source project and help you get started and see how cool contributing to open source is.
+* **tags**: [open-source](../tagged/open-source.md), [foss](../tagged/foss.md)
+---
 #### [JavaScript Timers - 11min](https://www.youtube.com/watch?v=YmaFAKUFmp0)
 _<sup>https://www.youtube.com/watch?v=YmaFAKUFmp0</sup>_
 
 Timing in JavaScript with setTimeout, setInterval and requestAnimationFrame
 * :calendar: **published on**: 2015-08-27
-* **tags**: [javascript](../tagged/javascript.md), [open-source](../tagged/open-source.md), [setTimeout](../tagged/setTimeout.md), [setInterval](../tagged/setInterval.md), [requestAnimationFrame](../tagged/requestAnimationFrame.md), [timer](../tagged/timer.md)
+* **tags**: [javascript](../tagged/javascript.md), [open-source](../tagged/open-source.md), [settimeout](../tagged/settimeout.md), [setinterval](../tagged/setinterval.md), [requestanimationframe](../tagged/requestanimationframe.md), [timer](../tagged/timer.md)
 * :octocat: **[source code](https://github.com/shama/letswritecode/tree/master/js-timers)**
 ---
 #### [Late Night Linux](https://latenightlinux.com/)

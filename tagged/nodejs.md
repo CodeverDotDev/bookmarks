@@ -2,6 +2,21 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/nodejs](https://www.bookmarks.dev/tagged/nodejs)</sup></sup>_
 ---
+#### [fpereiro/backendlore: How I write backends](https://github.com/fpereiro/backendlore)
+_<sup>https://github.com/fpereiro/backendlore</sup>_
+
+From late 2012 to the present I have been writing backends (server-side code) for web applications. This document summarizes many aspects of how I write these pieces of code.
+
+I'm writing this lore do...
+* **tags**: [backend](../tagged/backend.md), [nodejs](../tagged/nodejs.md), [redis](../tagged/redis.md), [architecture](../tagged/architecture.md)
+* :octocat: **[source code](https://github.com/fpereiro/backendlore)**
+---
+#### [The Node Way](http://thenodeway.io/)
+_<sup>http://thenodeway.io/</sup>_
+
+An entire philosophy of Node.js best practices and guiding principles exists for writing maintainable modules, scalable applications, and code that is actually pleasant to read.
+* **tags**: [nodejs](../tagged/nodejs.md)
+---
 #### [Nodejs.dev Home Page](https://nodejs.dev/)
 _<sup>https://nodejs.dev/</sup>_
 

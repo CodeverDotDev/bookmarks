@@ -2,6 +2,17 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/programming](https://www.bookmarks.dev/tagged/programming)</sup></sup>_
 ---
+#### [Tools | the New DynamicTwitter_Logo_Blue](https://www.thenewdynamic.org/tool/)
+_<sup>https://www.thenewdynamic.org/tool/</sup>_
+
+A curated collection of tools and services
+* **tags**: [dev](../tagged/dev.md), [development](../tagged/development.md), [programming](../tagged/programming.md), [tools](../tagged/tools.md)
+---
+#### [the New Dynamic](https://www.thenewdynamic.org/)
+_<sup>https://www.thenewdynamic.org/</sup>_
+
+* **tags**: [dev](../tagged/dev.md), [development](../tagged/development.md), [programming](../tagged/programming.md), [tools](../tagged/tools.md)
+---
 #### [Job negotiation for programmers: the basic principles](https://codewithoutrules.com/2019/11/27/job-negotiation-for-programmers/)
 _<sup>https://codewithoutrules.com/2019/11/27/job-negotiation-for-programmers/</sup>_
 

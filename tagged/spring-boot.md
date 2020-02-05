@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/spring-boot](https://www.bookmarks.dev/tagged/spring-boot)</sup></sup>_
 ---
+#### [Changing the Logging Level at the Runtime for a Spring Boot Application | Baeldung](https://www.baeldung.com/spring-boot-changing-log-level-at-runtime)
+_<sup>https://www.baeldung.com/spring-boot-changing-log-level-at-runtime</sup>_
+
+In this tutorial, we're going to look at ways we can change the logging level of a Spring Boot application at runtime. As with many things, Spring Boot has built-in logging functionality that configur...
+* :calendar: **published on**: 2019-11-05
+* **tags**: [spring-boot](../tagged/spring-boot.md), [logging](../tagged/logging.md)
+---
 #### [Spring Boot in a Container](https://spring.io/blog/2018/11/08/spring-boot-in-a-container)
 _<sup>https://spring.io/blog/2018/11/08/spring-boot-in-a-container</sup>_
 

@@ -2,6 +2,23 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/git](https://www.bookmarks.dev/tagged/git)</sup></sup>_
 ---
+#### [How to make your first pull request on GitHub](https://www.freecodecamp.org/news/how-to-make-your-first-pull-request-on-github-3/)
+_<sup>https://www.freecodecamp.org/news/how-to-make-your-first-pull-request-on-github-3/</sup>_
+
+* **tags**: [open-source](../tagged/open-source.md), [git](../tagged/git.md)
+---
+#### [commitlint - Lint commit messages](https://commitlint.js.org/)
+_<sup>https://commitlint.js.org/</sup>_
+
+`commitlint` helps your team adhering to a commit convention. By supporting npm-installed configurations it makes sharing of commit conventions easy.
+* **tags**: [git](../tagged/git.md), [dev-tools](../tagged/dev-tools.md)
+* :octocat: **[source code](https://github.com/conventional-changelog/commitlint)**
+---
+#### [6 Git mistakes you will make — and how to fix them | InfoWorld](https://www.infoworld.com/article/3512975/6-git-mistakes-you-will-make-and-how-to-fix-them.html)
+_<sup>https://www.infoworld.com/article/3512975/6-git-mistakes-you-will-make-and-how-to-fix-them.html</sup>_
+
+* **tags**: [git](../tagged/git.md)
+---
 #### [Reset local repository branch to be just like remote repository HEAD](https://stackoverflow.com/questions/1628088/reset-local-repository-branch-to-be-just-like-remote-repository-head)
 _<sup>https://stackoverflow.com/questions/1628088/reset-local-repository-branch-to-be-just-like-remote-rep...</sup>_
 

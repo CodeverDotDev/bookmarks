@@ -2,6 +2,23 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/productivity-tools](https://www.bookmarks.dev/tagged/productivity-tools)</sup></sup>_
 ---
+#### [Form Filler - Chrome Web Store](https://chrome.google.com/webstore/detail/form-filler/bnjjngeaknajbdcgpfkgnonkmififhfo)
+_<sup>https://chrome.google.com/webstore/detail/form-filler/bnjjngeaknajbdcgpfkgnonkmififhfo</sup>_
+
+Fill all inputs in a page with dummy data.
+** The purpose of this extension is to help developers and testers test their forms quickly and easily. **
+
+This extension allows you to fill all form inputs...
+* **tags**: [google-chrome-extension](../tagged/google-chrome-extension.md), [productivity-tools](../tagged/productivity-tools.md)
+* :octocat: **[source code](https://github.com/husainshabbir/form-filler)**
+---
+#### [My list of almost indispensable Chrome Extensions - DEV Community ](https://dev.to/ama/my-list-of-almost-indispensable-chrome-extensions-443)
+_<sup>https://dev.to/ama/my-list-of-almost-indispensable-chrome-extensions-443</sup>_
+
+A list of my almost indispensable chrome extensions I use on a day to day basis to improve productivity, bookmarking, writing or as developer tools. 
+* :calendar: **published on**: 2020-01-08
+* **tags**: [google-chrome-extension](../tagged/google-chrome-extension.md), [productivity-tools](../tagged/productivity-tools.md)
+---
 #### [Save to bookmarks.dev - Chrome Web Store](https://chrome.google.com/webstore/detail/save-to-bookmarksdev/diofdblfhjbpgackifolmboaiccmebjb)
 _<sup>https://chrome.google.com/webstore/detail/save-to-bookmarksdev/diofdblfhjbpgackifolmboaiccmebjb</sup>_
 

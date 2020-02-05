@@ -2,6 +2,30 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/devops](https://www.bookmarks.dev/tagged/devops)</sup></sup>_
 ---
+#### [To Be Continuous | Heavybit](https://www.heavybit.com/library/podcasts/to-be-continuous/)
+_<sup>https://www.heavybit.com/library/podcasts/to-be-continuous/</sup>_
+
+A show all about continuous delivery and software development. Brought to you by Heavybit.
+* **tags**: [podcast](../tagged/podcast.md), [devops](../tagged/devops.md)
+---
+#### [DevOps and Docker Talk](https://podcast.bretfisher.com/)
+_<sup>https://podcast.bretfisher.com/</sup>_
+
+Hey DevOps fans 👋, this podcast contains interviews and audience Q&A from [my weekly YouTube Live show](https://www.youtube.com/channel/UC0NErq0RhP51iXx64ZmyVfg). It might be me talking on a topic, o...
+* **tags**: [devops](../tagged/devops.md), [docker](../tagged/docker.md), [podcast](../tagged/podcast.md)
+---
+#### [Tune into DevOps Radio from CloudBees](https://www.cloudbees.com/resources/devops-radio)
+_<sup>https://www.cloudbees.com/resources/devops-radio</sup>_
+
+DevOps Radio is a CloudBees-sponsored podcast series. Hosting experts from around the industry, the show dives into what it takes to successfully develop, deliver and deploy software in today’s ever-c...
+* **tags**: [podcast](../tagged/podcast.md), [devops](../tagged/devops.md)
+---
+#### [Arrested DevOps](https://www.arresteddevops.com/)
+_<sup>https://www.arresteddevops.com/</sup>_
+
+Arrested DevOps is the podcast that helps you achieve understanding, develop good practices, and operate your team and organization for maximum DevOps awesomeness.
+* **tags**: [podcast](../tagged/podcast.md), [devops](../tagged/devops.md)
+---
 #### [Monitoring overview  |  Cloud Pub/Sub Documentation  |  Google Cloud](https://cloud.google.com/pubsub/docs/monitoring)
 _<sup>https://cloud.google.com/pubsub/docs/monitoring</sup>_
 

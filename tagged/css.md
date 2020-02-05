@@ -2,6 +2,28 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/css](https://www.bookmarks.dev/tagged/css)</sup></sup>_
 ---
+#### [GitHub - bradtraversy/vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects)
+_<sup>https://github.com/bradtraversy/vanillawebprojects</sup>_
+
+Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries - bradtraversy/vanillawebprojects
+* **tags**: [javascript](../tagged/javascript.md), [html](../tagged/html.md), [css](../tagged/css.md)
+* :octocat: **[source code](https://github.com/bradtraversy/vanillawebprojects)**
+---
+#### [CSS Selectors Cheat Sheet](https://www.freecodecamp.org/news/css-selectors-cheat-sheet/)
+_<sup>https://www.freecodecamp.org/news/css-selectors-cheat-sheet/</sup>_
+
+* **tags**: [css](../tagged/css.md), [web](../tagged/web.md), [cheatsheet](../tagged/cheatsheet.md)
+---
+#### [15 Best CSS Frameworks for Developers in 2020 - codeburst](https://codeburst.io/15-best-css-frameworks-for-developers-in-2020-71905577f005)
+_<sup>https://codeburst.io/15-best-css-frameworks-for-developers-in-2020-71905577f005</sup>_
+
+* **tags**: [css](../tagged/css.md)
+---
+#### [The Best CSS Examples and CSS3 Examples](https://www.freecodecamp.org/news/css-example-css3-2/)
+_<sup>https://www.freecodecamp.org/news/css-example-css3-2/</sup>_
+
+* **tags**: [css](../tagged/css.md)
+---
 #### [Tailwind CSS Home Page](https://tailwindcss.com/)
 _<sup>https://tailwindcss.com/</sup>_
 
@@ -12,7 +34,7 @@ Tailwind CSS is a highly customizable, low-level CSS framework that gives you al
 #### [How to Create Printer-friendly Pages with CSS — SitePoint](https://www.sitepoint.com/css-printer-friendly-pages/?utm_source=rss)
 _<sup>https://www.sitepoint.com/css-printer-friendly-pages/?utm_source=rss</sup>_
 
-* **tags**: [CSS](../tagged/CSS.md)
+* **tags**: [css](../tagged/css.md)
 ---
 #### [Understanding the CSS box model for inline elements - Mozilla Hacks - the Web developer blog](https://hacks.mozilla.org/2015/03/understanding-inline-box-model/)
 _<sup>https://hacks.mozilla.org/2015/03/understanding-inline-box-model/</sup>_

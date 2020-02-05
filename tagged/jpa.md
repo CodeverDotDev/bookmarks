@@ -2,6 +2,14 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/jpa](https://www.bookmarks.dev/tagged/jpa)</sup></sup>_
 ---
+#### [How to make a property nullable in JPA - GAE/J?](https://stackoverflow.com/questions/1910215/how-to-make-a-property-nullable-in-jpa-gae-j)
+_<sup>https://stackoverflow.com/questions/1910215/how-to-make-a-property-nullable-in-jpa-gae-j</sup>_
+
+Properties are nullable by default in JPA, except primitive types. You can control nullability using the nullable property of the @Column annotation, like so:
+...
+* :calendar: **published on**: 2009-12-15
+* **tags**: [java](../tagged/java.md), [jpa](../tagged/jpa.md)
+---
 #### [Complete Guide: Inheritance strategies with JPA and Hibernate](https://thoughts-on-java.org/complete-guide-inheritance-strategies-jpa-hibernate/#comments)
 _<sup>https://thoughts-on-java.org/complete-guide-inheritance-strategies-jpa-hibernate/#comments</sup>_
 

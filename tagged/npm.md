@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/npm](https://www.bookmarks.dev/tagged/npm)</sup></sup>_
 ---
+#### [What I Learned From Creating My First Open-Source Software Project](https://medium.com/better-programming/things-i-learned-from-creating-my-first-open-source-software-project-e74844bf687a)
+_<sup>https://medium.com/better-programming/things-i-learned-from-creating-my-first-open-source-software-p...</sup>_
+
+I recently published a package on npm: a data-structures-and-algorithms library implemented in JavaScript. The purpose of the project is to help others learn and understand data structures and…
+* **tags**: [javascript](../tagged/javascript.md), [open-source](../tagged/open-source.md), [npm](../tagged/npm.md)
+---
 #### [Introducing npx: an npm package runner - Kat Marchán - Medium](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b)
 _<sup>https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b</sup>_
 

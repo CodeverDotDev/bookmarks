@@ -2,6 +2,15 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/redux](https://www.bookmarks.dev/tagged/redux)</sup></sup>_
 ---
+#### [NGXS Home Page](https://www.ngxs.io/)
+_<sup>https://www.ngxs.io/</sup>_
+
+NGXS is a state management pattern + library for Angular. It acts as a single source of truth for your application's state, providing simple rules for predictable state mutations.
+
+NGXS is modeled aft...
+* **tags**: [angular](../tagged/angular.md), [rxjs](../tagged/rxjs.md), [redux](../tagged/redux.md), [ngrx](../tagged/ngrx.md), [cqrs](../tagged/cqrs.md)
+* :octocat: **[source code](https://github.com/ngxs/store)**
+---
 #### [React Simple Auth: React + Redux + OAuth 2.0 - Matt Mazzola - Medium](https://medium.com/@mattmazzola/react-simple-auth-react-redux-oauth-2-0-de6ea9df0a63)
 _<sup>https://medium.com/@mattmazzola/react-simple-auth-react-redux-oauth-2-0-de6ea9df0a63</sup>_
 

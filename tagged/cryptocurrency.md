@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/cryptocurrency](https://www.bookmarks.dev/tagged/cryptocurrency)</sup></sup>_
 ---
+#### [Introduction To Cryptocurrency](https://nakamoto.com/introduction-to-cryptocurrency/)
+_<sup>https://nakamoto.com/introduction-to-cryptocurrency/</sup>_
+
+A free course on cryptocurrencies for developers. Covers history, cryptographic foundations, networking, consensus, game theory, Bitcoin, Ethereum.
+* **tags**: [cryptocurrency](../tagged/cryptocurrency.md)
+---
 #### [Joystream](https://github.com/Joystream/substrate-runtime-joystream)
 _<sup>https://github.com/Joystream/substrate-runtime-joystream</sup>_
 

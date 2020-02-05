@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/regexp](https://www.bookmarks.dev/tagged/regexp)</sup></sup>_
 ---
+#### [GitHub - epoberezkin/fast-deep-equal](https://github.com/epoberezkin/fast-deep-equal)
+_<sup>https://github.com/epoberezkin/fast-deep-equal</sup>_
+
+The fastest deep equality check with Date, RegExp and ES6 Map, Set and typed arrays support - epoberezkin/fast-deep-equal
+* **tags**: [javascript](../tagged/javascript.md), [ecmascript-6](../tagged/ecmascript-6.md), [regex](../tagged/regex.md), [regexp](../tagged/regexp.md)
+* :octocat: **[source code](https://github.com/epoberezkin/fast-deep-equal)**
+---
 #### [RegEx101](https://regex101.com/#javascript)
 _<sup>https://regex101.com/#javascript</sup>_
 

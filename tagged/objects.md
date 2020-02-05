@@ -12,5 +12,5 @@ Learn to code with free online courses, programming projects, and interview prep
 _<sup>https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/manipulati...</sup>_
 
 Learn to code with free online courses, programming projects, and interview preparation for developer jobs.
-* **tags**: [Java](../tagged/Java.md), [complex](../tagged/complex.md), [objects](../tagged/objects.md), [json](../tagged/json.md)
+* **tags**: [java](../tagged/java.md), [complex](../tagged/complex.md), [objects](../tagged/objects.md), [json](../tagged/json.md)
 ---

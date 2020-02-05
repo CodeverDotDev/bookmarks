@@ -2,6 +2,49 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/rxjs](https://www.bookmarks.dev/tagged/rxjs)</sup></sup>_
 ---
+#### [NGXS Home Page](https://www.ngxs.io/)
+_<sup>https://www.ngxs.io/</sup>_
+
+NGXS is a state management pattern + library for Angular. It acts as a single source of truth for your application's state, providing simple rules for predictable state mutations.
+
+NGXS is modeled aft...
+* **tags**: [angular](../tagged/angular.md), [rxjs](../tagged/rxjs.md), [redux](../tagged/redux.md), [ngrx](../tagged/ngrx.md), [cqrs](../tagged/cqrs.md)
+* :octocat: **[source code](https://github.com/ngxs/store)**
+---
+#### [Material Autocomplete - startWith operator](https://stackoverflow.com/questions/55262108/material-autocomplete-startwith-operator)
+_<sup>https://stackoverflow.com/questions/55262108/material-autocomplete-startwith-operator</sup>_
+
+Ignore the generic type <string | User> and focus on the value of the passed in parameter. The value that is actually passed to startWith in your code is an empty string ''.
+
+why would you want it to ...
+* :calendar: **published on**: 2019-03-20
+* **tags**: [angular](../tagged/angular.md), [rxjs](../tagged/rxjs.md)
+---
+#### [RxJS: Understanding Lettable Operators — ncjamieson](https://ncjamieson.com/understanding-lettable-operators/)
+_<sup>https://ncjamieson.com/understanding-lettable-operators/</sup>_
+
+An update: lettable operators are now officially pipeable operators.
+
+Lettable operators offer a new way of composing observable chains and they have advantages for both application developers and lib...
+* :calendar: **published on**: 2017-09-26
+* **tags**: [rxjs](../tagged/rxjs.md)
+---
+#### [Reading the RxJS 6 Sources: Map and Pipe - Angular In Depth - Medium](https://medium.com/angular-in-depth/reading-the-rxjs-6-sources-map-and-pipe-94d51fec71c2)
+_<sup>https://medium.com/angular-in-depth/reading-the-rxjs-6-sources-map-and-pipe-94d51fec71c2</sup>_
+
+Welcome back. Today I’m very excited, because I’m finally going to dig into how pipe is implemented in RxJS. This article will start with an overview of how map and pipe work, and then will delve into...
+* :calendar: **published on**: 2019-01-11
+* **tags**: [rxjs](../tagged/rxjs.md), [observable](../tagged/observable.md)
+---
+#### [RxJS: Don’t Unsubscribe - Ben Lesh - Medium](https://medium.com/@benlesh/rxjs-dont-unsubscribe-6753ed4fda87)
+_<sup>https://medium.com/@benlesh/rxjs-dont-unsubscribe-6753ed4fda87</sup>_
+
+Well… okay, just don’t unsubscribe quite so much.
+
+I’m often enlisted to help someone debug an issue with their RxJS code or figure out how to structure an app that is composing a lot of async with Rx...
+* :calendar: **published on**: 2016-07-27
+* **tags**: [angular](../tagged/angular.md), [rxjs](../tagged/rxjs.md), [observable](../tagged/observable.md)
+---
 #### [When To Subscribe – Angular In Depth](https://blog.angularindepth.com/when-to-subscribe-a83332ae053)
 _<sup>https://blog.angularindepth.com/when-to-subscribe-a83332ae053</sup>_
 

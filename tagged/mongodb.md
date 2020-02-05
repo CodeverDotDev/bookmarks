@@ -2,6 +2,14 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/mongodb](https://www.bookmarks.dev/tagged/mongodb)</sup></sup>_
 ---
+#### [Node - Exclude fields from select with Mongoose/MongoDB · Curtis Larson's Blog](https://www.curtismlarson.com/blog/2016/05/11/mongoose-mongodb-exclude-select-fields/)
+_<sup>https://www.curtismlarson.com/blog/2016/05/11/mongoose-mongodb-exclude-select-fields/</sup>_
+
+ Individually
+...
+* :calendar: **published on**: 2016-05-11
+* **tags**: [mongodb](../tagged/mongodb.md), [mongoose](../tagged/mongoose.md)
+---
 #### [Fast paging with MongoDB](https://scalegrid.io/blog/fast-paging-with-mongodb/)
 _<sup>https://scalegrid.io/blog/fast-paging-with-mongodb/</sup>_
 

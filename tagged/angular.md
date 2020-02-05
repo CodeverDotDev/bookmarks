@@ -2,6 +2,74 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/angular](https://www.bookmarks.dev/tagged/angular)</sup></sup>_
 ---
+#### [Using Angular Forms with Async Data - Angular 7 | 8](https://coryrylan.com/blog/using-angular-forms-with-async-data)
+_<sup>https://coryrylan.com/blog/using-angular-forms-with-async-data</sup>_
+
+Most single page apps deal with asynchronous API calls in conjunction with user input in some way. Often it’s not clear how or what the best practices are when dealing with async data and forms togeth...
+* :calendar: **published on**: 2018-01-28
+* **tags**: [angular](../tagged/angular.md), [forms](../tagged/forms.md)
+* :octocat: **[source code](https://stackblitz.com/edit/angular-uquzq9)**
+---
+#### [Reducing the forms boilerplate — make your Angular forms reusable](https://medium.com/angular-in-depth/reducing-the-forms-boilerplate-make-your-angular-forms-reusable-ee06d7c07f47)
+_<sup>https://medium.com/angular-in-depth/reducing-the-forms-boilerplate-make-your-angular-forms-reusable-...</sup>_
+
+Reduce the forms boilerplate by creating reusable custom forms controls with the ControlValueAccessor interface. Learn how to create reusable forms, subforms and how to leverage the DI to make everyth...
+* :calendar: **published on**: 2019-07-06
+* **tags**: [angular](../tagged/angular.md), [forms](../tagged/forms.md)
+* :octocat: **[source code](https://stackblitz.com/edit/angular-generic-forms-examples)**
+---
+#### [Communication Patterns in Angular - BB Tutorials & Thoughts - Medium](https://medium.com/bb-tutorials-and-thoughts/communication-patterns-in-angular-9b0a829aa916)
+_<sup>https://medium.com/bb-tutorials-and-thoughts/communication-patterns-in-angular-9b0a829aa916</sup>_
+
+Angular follows a two-way data flow pattern, meaning you can send data up and down the component tree. As everything in the Angular is a component, understanding communication between components is cr...
+* :calendar: **published on**: 2019-05-30
+* **tags**: [angular](../tagged/angular.md), [ngrx](../tagged/ngrx.md)
+* :octocat: **[source code](https://github.com/bbachi/angular-communication)**
+---
+#### [NGXS Home Page](https://www.ngxs.io/)
+_<sup>https://www.ngxs.io/</sup>_
+
+NGXS is a state management pattern + library for Angular. It acts as a single source of truth for your application's state, providing simple rules for predictable state mutations.
+
+NGXS is modeled aft...
+* **tags**: [angular](../tagged/angular.md), [rxjs](../tagged/rxjs.md), [redux](../tagged/redux.md), [ngrx](../tagged/ngrx.md), [cqrs](../tagged/cqrs.md)
+* :octocat: **[source code](https://github.com/ngxs/store)**
+---
+#### [Material Autocomplete - startWith operator](https://stackoverflow.com/questions/55262108/material-autocomplete-startwith-operator)
+_<sup>https://stackoverflow.com/questions/55262108/material-autocomplete-startwith-operator</sup>_
+
+Ignore the generic type <string | User> and focus on the value of the passed in parameter. The value that is actually passed to startWith in your code is an empty string ''.
+
+why would you want it to ...
+* :calendar: **published on**: 2019-03-20
+* **tags**: [angular](../tagged/angular.md), [rxjs](../tagged/rxjs.md)
+---
+#### [RxJS: Don’t Unsubscribe - Ben Lesh - Medium](https://medium.com/@benlesh/rxjs-dont-unsubscribe-6753ed4fda87)
+_<sup>https://medium.com/@benlesh/rxjs-dont-unsubscribe-6753ed4fda87</sup>_
+
+Well… okay, just don’t unsubscribe quite so much.
+
+I’m often enlisted to help someone debug an issue with their RxJS code or figure out how to structure an app that is composing a lot of async with Rx...
+* :calendar: **published on**: 2016-07-27
+* **tags**: [angular](../tagged/angular.md), [rxjs](../tagged/rxjs.md), [observable](../tagged/observable.md)
+---
+#### [RxJS in Angular: When To Subscribe? (Rarely) - Angular In Depth - Medium](https://medium.com/angular-in-depth/when-to-subscribe-a83332ae053)
+_<sup>https://medium.com/angular-in-depth/when-to-subscribe-a83332ae053</sup>_
+
+Ben Lesh has a terrific article called [“Don’t Unsubscribe”](https://medium.com/@benlesh/rxjs-dont-unsubscribe-6753ed4fda87), telling you why you are better off not explicitly unsubscribing, but inste...
+* :calendar: **published on**: 2019-01-08
+* **tags**: [angular](../tagged/angular.md), [observable](../tagged/observable.md)
+---
+#### [Angular 2 how to make child component wait for async data to be ready](https://stackoverflow.com/questions/41389124/angular-2-how-to-make-child-component-wait-for-asyn-data-to-be-ready)
+_<sup>https://stackoverflow.com/questions/41389124/angular-2-how-to-make-child-component-wait-for-asyn-dat...</sup>_
+
+There are three ways to do this:
+
+1. Put an *ngIf in parent. Only render child when parent's items is ready.
+...
+* :calendar: **published on**: 2016-12-30
+* **tags**: [angular](../tagged/angular.md)
+---
 #### [ Premium Bootstrap Themes and Templates: Download @ Creative Tim ](https://www.creative-tim.com/)
 _<sup>https://www.creative-tim.com/</sup>_
 

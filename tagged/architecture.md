@@ -2,6 +2,15 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/architecture](https://www.bookmarks.dev/tagged/architecture)</sup></sup>_
 ---
+#### [fpereiro/backendlore: How I write backends](https://github.com/fpereiro/backendlore)
+_<sup>https://github.com/fpereiro/backendlore</sup>_
+
+From late 2012 to the present I have been writing backends (server-side code) for web applications. This document summarizes many aspects of how I write these pieces of code.
+
+I'm writing this lore do...
+* **tags**: [backend](../tagged/backend.md), [nodejs](../tagged/nodejs.md), [redis](../tagged/redis.md), [architecture](../tagged/architecture.md)
+* :octocat: **[source code](https://github.com/fpereiro/backendlore)**
+---
 #### [Why Google Stores Billions of Lines of Code in a Single Repository](https://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext)
 _<sup>https://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single...</sup>_
 

@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/ecmascript-6](https://www.bookmarks.dev/tagged/ecmascript-6)</sup></sup>_
 ---
+#### [GitHub - epoberezkin/fast-deep-equal](https://github.com/epoberezkin/fast-deep-equal)
+_<sup>https://github.com/epoberezkin/fast-deep-equal</sup>_
+
+The fastest deep equality check with Date, RegExp and ES6 Map, Set and typed arrays support - epoberezkin/fast-deep-equal
+* **tags**: [javascript](../tagged/javascript.md), [ecmascript-6](../tagged/ecmascript-6.md), [regex](../tagged/regex.md), [regexp](../tagged/regexp.md)
+* :octocat: **[source code](https://github.com/epoberezkin/fast-deep-equal)**
+---
 #### [ES6 In Depth: Arrow functions - Mozilla Hacks - the Web developer blog](https://hacks.mozilla.org/2015/06/es6-in-depth-arrow-functions/)
 _<sup>https://hacks.mozilla.org/2015/06/es6-in-depth-arrow-functions/</sup>_
 

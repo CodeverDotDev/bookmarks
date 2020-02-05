@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/tls](https://www.bookmarks.dev/tagged/tls)</sup></sup>_
 ---
+#### [A brief overview of the TCP/IP model, SSL/TLS/HTTPS protocols and SSL certificates](https://itnext.io/a-brief-overview-of-the-tcp-ip-model-ssl-tls-https-protocols-and-ssl-certificates-d5a6269fe29e)
+_<sup>https://itnext.io/a-brief-overview-of-the-tcp-ip-model-ssl-tls-https-protocols-and-ssl-certificates-...</sup>_
+
+I’m currently writing an article on how to create a secure HTTP server in Go (golang) and I thought what could be a better opportunity than this to discuss this broad topic about web security. In…
+* **tags**: [web](../tagged/web.md), [http](../tagged/http.md), [ssl](../tagged/ssl.md), [tls](../tagged/tls.md)
+---
 #### [GitHub - jetstack/cert-manager home page](https://github.com/jetstack/cert-manager)
 _<sup>https://github.com/jetstack/cert-manager</sup>_
 

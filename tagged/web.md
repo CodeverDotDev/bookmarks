@@ -2,11 +2,68 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/web](https://www.bookmarks.dev/tagged/web)</sup></sup>_
 ---
+#### [A brief overview of the TCP/IP model, SSL/TLS/HTTPS protocols and SSL certificates](https://itnext.io/a-brief-overview-of-the-tcp-ip-model-ssl-tls-https-protocols-and-ssl-certificates-d5a6269fe29e)
+_<sup>https://itnext.io/a-brief-overview-of-the-tcp-ip-model-ssl-tls-https-protocols-and-ssl-certificates-...</sup>_
+
+I’m currently writing an article on how to create a secure HTTP server in Go (golang) and I thought what could be a better opportunity than this to discuss this broad topic about web security. In…
+* **tags**: [web](../tagged/web.md), [http](../tagged/http.md), [ssl](../tagged/ssl.md), [tls](../tagged/tls.md)
+---
+#### [CSS Selectors Cheat Sheet](https://www.freecodecamp.org/news/css-selectors-cheat-sheet/)
+_<sup>https://www.freecodecamp.org/news/css-selectors-cheat-sheet/</sup>_
+
+* **tags**: [css](../tagged/css.md), [web](../tagged/web.md), [cheatsheet](../tagged/cheatsheet.md)
+---
+#### [Cloudant - Overview  | IBM](https://www.ibm.com/cloud/cloudant)
+_<sup>https://www.ibm.com/cloud/cloudant</sup>_
+
+A scalable distributed database for web, mobile, IoT and serverless applications.
+* **tags**: [cloud](../tagged/cloud.md), [web](../tagged/web.md)
+---
+#### [ElephantSQL - PostgreSQL as a Service](https://www.elephantsql.com/)
+_<sup>https://www.elephantsql.com/</sup>_
+
+ElephantSQL - PostgreSQL as a Service. The most advanced open-source database, hosted in the cloud.
+* **tags**: [cloud](../tagged/cloud.md), [web](../tagged/web.md), [sql](../tagged/sql.md)
+---
+#### [loading.io - Your SVG + GIF + PNG Ajax Loading Icons and Animation Generator](https://loading.io/)
+_<sup>https://loading.io/</sup>_
+
+* **tags**: [web](../tagged/web.md)
+---
+#### [How SSL certificate Works, SSL encryption process](https://aboutssl.org/how-ssl-certificate-work/)
+_<sup>https://aboutssl.org/how-ssl-certificate-work/</sup>_
+
+Learn how SSL Certificate actual work and secure your online business with https and 2048 bit encryption strength.
+* **tags**: [web](../tagged/web.md)
+---
+#### [The JAMstack in 2020: Why (and How) to Get Started - Snipcart](https://snipcart.com/blog/jamstack)
+_<sup>https://snipcart.com/blog/jamstack</sup>_
+
+JAMstack beginner? Start here. We cover basics, how to get started, and how to sell it to clients. Bonus: a curated list of JAMstack resources.
+* **tags**: [javascript](../tagged/javascript.md), [web](../tagged/web.md), [jamstack](../tagged/jamstack.md)
+---
+#### [25 Best APIs to Give Your Business a Head-Start - DZone Integration](https://dzone.com/articles/25-best-apis-to-give-your-business-a-head-start)
+_<sup>https://dzone.com/articles/25-best-apis-to-give-your-business-a-head-start</sup>_
+
+In this article, look at a curated collection of 25 of the best APIs available to achieve common features.
+* **tags**: [web](../tagged/web.md)
+---
+#### [10 Free Page Speed Test Tools you must make use of | Codementor](https://www.codementor.io/@amitaggarwal/10-free-page-speed-test-tools-you-must-make-use-of-12q6jim8gz)
+_<sup>https://www.codementor.io/@amitaggarwal/10-free-page-speed-test-tools-you-must-make-use-of-12q6jim8g...</sup>_
+
+Curated List of Free Website Speed Test Tools
+* **tags**: [web](../tagged/web.md)
+---
+#### [Deploy Your Web App Using Only Free Resources [A How To Guide] - By Alex Baas](https://hackernoon.com/how-to-publish-your-website-at-no-costs-u64q31n9?source=rss)
+_<sup>https://hackernoon.com/how-to-publish-your-website-at-no-costs-u64q31n9?source=rss</sup>_
+
+* **tags**: [javascript](../tagged/javascript.md), [web](../tagged/web.md)
+---
 #### [Why you should have ditched IE support long ago...](https://areknawo.com/why-you-should-have-ditched-ie-support-long-ago/)
 _<sup>https://areknawo.com/why-you-should-have-ditched-ie-support-long-ago/</sup>_
 
 Is Internet Explorer still relevant in 2020? And if so, should you bother to support it? Checking out IE history, JavaScript, HTML and CSS features & more!
-* **tags**: [JavaScript](../tagged/JavaScript.md), [web](../tagged/web.md)
+* **tags**: [javascript](../tagged/javascript.md), [web](../tagged/web.md)
 ---
 #### [10 Best YouTube Channels to Learn Web Development - ReadWrite](https://readwrite.com/2019/12/17/10-best-youtube-channels-to-learn-web-development/)
 _<sup>https://readwrite.com/2019/12/17/10-best-youtube-channels-to-learn-web-development/</sup>_
@@ -18,7 +75,7 @@ One of the best ways to learn to code without spending any money is by subscribi
 _<sup>https://medium.com/swlh/how-cors-cross-origin-resource-sharing-works-79f959a84f0e</sup>_
 
 Well, For security reasons, browsers restrict cross-origin HTTP requests initiated from scripts. For example, if you want to access your API hosted at https://api.github.com from your client-side…
-* **tags**: [web](../tagged/web.md), [CORS](../tagged/CORS.md)
+* **tags**: [web](../tagged/web.md), [cors](../tagged/cors.md)
 ---
 #### [GitHub - vasanthk/web-security-basics: Web security concepts](https://github.com/vasanthk/web-security-basics)
 _<sup>https://github.com/vasanthk/web-security-basics</sup>_

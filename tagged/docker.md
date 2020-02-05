@@ -2,6 +2,19 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/docker](https://www.bookmarks.dev/tagged/docker)</sup></sup>_
 ---
+#### [Create a Reproducible Dev Environment with VS Code](https://medium.com/@james.thorniley/create-a-reproducible-dev-environment-with-vs-code-fd89285644da)
+_<sup>https://medium.com/@james.thorniley/create-a-reproducible-dev-environment-with-vs-code-fd89285644da</sup>_
+
+Dependency hell is the curse of all software developers trying to get the right toolchain installed. In this post I’ll show how to set up a clean environment using the remote container feature of…
+* :calendar: **published on**: 2020-01-09
+* **tags**: [vscode](../tagged/vscode.md), [docker](../tagged/docker.md), [development-environment](../tagged/development-environment.md)
+---
+#### [DevOps and Docker Talk](https://podcast.bretfisher.com/)
+_<sup>https://podcast.bretfisher.com/</sup>_
+
+Hey DevOps fans 👋, this podcast contains interviews and audience Q&A from [my weekly YouTube Live show](https://www.youtube.com/channel/UC0NErq0RhP51iXx64ZmyVfg). It might be me talking on a topic, o...
+* **tags**: [devops](../tagged/devops.md), [docker](../tagged/docker.md), [podcast](../tagged/podcast.md)
+---
 #### [Spring Boot in a Container](https://spring.io/blog/2018/11/08/spring-boot-in-a-container)
 _<sup>https://spring.io/blog/2018/11/08/spring-boot-in-a-container</sup>_
 

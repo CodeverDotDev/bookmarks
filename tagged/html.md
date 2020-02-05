@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/html](https://www.bookmarks.dev/tagged/html)</sup></sup>_
 ---
+#### [GitHub - bradtraversy/vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects)
+_<sup>https://github.com/bradtraversy/vanillawebprojects</sup>_
+
+Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries - bradtraversy/vanillawebprojects
+* **tags**: [javascript](../tagged/javascript.md), [html](../tagged/html.md), [css](../tagged/css.md)
+* :octocat: **[source code](https://github.com/bradtraversy/vanillawebprojects)**
+---
 #### [Why does HTML think “chucknorris” is a color?](https://stackoverflow.com/questions/8318911/why-does-html-think-chucknorris-is-a-color)
 _<sup>https://stackoverflow.com/questions/8318911/why-does-html-think-chucknorris-is-a-color</sup>_
 

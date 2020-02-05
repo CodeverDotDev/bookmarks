@@ -2,6 +2,137 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/javascript](https://www.bookmarks.dev/tagged/javascript)</sup></sup>_
 ---
+#### [Array reduce vs chaining vs for loop](https://kentcdodds.com/blog/array-reduce-vs-chaining-vs-for-loop)
+_<sup>https://kentcdodds.com/blog/array-reduce-vs-chaining-vs-for-loop</sup>_
+
+A comparison of different approaches to operating on an array
+
+* **tags**: [javascript](../tagged/javascript.md), [arrays](../tagged/arrays.md)
+---
+#### [Master the JavaScript Interview: What is Functional Programming?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0)
+_<sup>https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7...</sup>_
+
+Functional programming has become a really hot topic in the JavaScript world. Just a few years ago, few JavaScript programmers even knew what functional programming is, but every large application cod...
+* :calendar: **published on**: 2017-01-04
+* **tags**: [javascript](../tagged/javascript.md), [functional-programming](../tagged/functional-programming.md)
+---
+#### [GitHub - bradtraversy/vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects)
+_<sup>https://github.com/bradtraversy/vanillawebprojects</sup>_
+
+Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries - bradtraversy/vanillawebprojects
+* **tags**: [javascript](../tagged/javascript.md), [html](../tagged/html.md), [css](../tagged/css.md)
+* :octocat: **[source code](https://github.com/bradtraversy/vanillawebprojects)**
+---
+#### [💡🎁 JavaScript Visualized: Generators and Iterators - DEV Community 👩‍💻👨‍💻](https://dev.to/lydiahallie/javascript-visualized-generators-and-iterators-e36)
+_<sup>https://dev.to/lydiahallie/javascript-visualized-generators-and-iterators-e36</sup>_
+
+Tagged with javascript, node.
+* **tags**: [javascript](../tagged/javascript.md)
+---
+#### [SortableJS Home Page](https://sortablejs.github.io/Sortable/)
+_<sup>https://sortablejs.github.io/Sortable/</sup>_
+
+JavaScript library for reorderable drag-and-drop lists
+* **tags**: [javascript](../tagged/javascript.md), [drag-and-drop](../tagged/drag-and-drop.md)
+* :octocat: **[source code](https://github.com/SortableJS/Sortable)**
+---
+#### [GitHub - epoberezkin/fast-deep-equal](https://github.com/epoberezkin/fast-deep-equal)
+_<sup>https://github.com/epoberezkin/fast-deep-equal</sup>_
+
+The fastest deep equality check with Date, RegExp and ES6 Map, Set and typed arrays support - epoberezkin/fast-deep-equal
+* **tags**: [javascript](../tagged/javascript.md), [ecmascript-6](../tagged/ecmascript-6.md), [regex](../tagged/regex.md), [regexp](../tagged/regexp.md)
+* :octocat: **[source code](https://github.com/epoberezkin/fast-deep-equal)**
+---
+#### [What I Learned From Creating My First Open-Source Software Project](https://medium.com/better-programming/things-i-learned-from-creating-my-first-open-source-software-project-e74844bf687a)
+_<sup>https://medium.com/better-programming/things-i-learned-from-creating-my-first-open-source-software-p...</sup>_
+
+I recently published a package on npm: a data-structures-and-algorithms library implemented in JavaScript. The purpose of the project is to help others learn and understand data structures and…
+* **tags**: [javascript](../tagged/javascript.md), [open-source](../tagged/open-source.md), [npm](../tagged/npm.md)
+---
+#### [
+    React Native is the Future of Mobile at Shopify
+    
+    
+    
+      – Shopify Engineering
+    
+  ](https://engineering.shopify.com/blogs/engineering/react-native-future-mobile-shopify)
+_<sup>https://engineering.shopify.com/blogs/engineering/react-native-future-mobile-shopify</sup>_
+
+After years of native mobile development, we’ve decided to build all of our new mobile apps using React Native. As I’ll explain, that decision doesn’t come lightly.
+* **tags**: [react](../tagged/react.md), [mobile](../tagged/mobile.md), [javascript](../tagged/javascript.md)
+---
+#### [Standard built-in objects - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects)
+_<sup>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects</sup>_
+
+This chapter documents all of JavaScript's standard, built-in objects, including their methods and properties.
+* **tags**: [javascript](../tagged/javascript.md)
+---
+#### [The React Cheatsheet for 2020 📄‬ (+ real-world examples) - DEV Community 👩‍💻👨‍💻](https://dev.to/codeartistryio/the-react-cheatsheet-for-2020-real-world-examples-4hgg)
+_<sup>https://dev.to/codeartistryio/the-react-cheatsheet-for-2020-real-world-examples-4hgg</sup>_
+
+* **tags**: [react](../tagged/react.md), [javascript](../tagged/javascript.md)
+---
+#### [Composing Software: An Introduction - JavaScript Scene - Medium](https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea)
+_<sup>https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea</sup>_
+
+This isn’t about functional programming (FP) vs object-oriented programming (OOP), or one language vs another. Components can take the form of functions, data structures, classes, etc… Different progr...
+* :calendar: **published on**: 2017-05-18
+* **tags**: [javascript](../tagged/javascript.md), [functional-programming](../tagged/functional-programming.md), [composition](../tagged/composition.md)
+---
+#### [JS Comparison Table](https://dorey.github.io/JavaScript-Equality-Table/)
+_<sup>https://dorey.github.io/JavaScript-Equality-Table/</sup>_
+
+Moral of the story:
+Always use 3 equals unless you have a good reason to use 2.
+* **tags**: [javascript](../tagged/javascript.md)
+---
+#### [Object comparison in JavaScript](https://stackoverflow.com/questions/1068834/object-comparison-in-javascript)
+_<sup>https://stackoverflow.com/questions/1068834/object-comparison-in-javascript</sup>_
+
+Unfortunately there is no perfect way, unless you use _proto_ recursively and access all non-enumerable properties, but this works in Firefox only.
+
+So the best I can do is to guess usage scenarios.
+
+...
+* :calendar: **published on**: 2009-07-01
+* **tags**: [javascript](../tagged/javascript.md), [object](../tagged/object.md), [comparison](../tagged/comparison.md), [object-comparison](../tagged/object-comparison.md)
+---
+#### [The history of “typeof null”](https://2ality.com/2013/10/typeof-null.html)
+_<sup>https://2ality.com/2013/10/typeof-null.html</sup>_
+
+In JavaScript, typeof null is 'object', which incorrectly suggests that null is an object (it isn’t, it’s a primitive value, consult my blog post on categorizing values for details). This is a bug and...
+* :calendar: **published on**: 2013-11-05
+* **tags**: [javascript](../tagged/javascript.md)
+---
+#### [The JAMstack in 2020: Why (and How) to Get Started - Snipcart](https://snipcart.com/blog/jamstack)
+_<sup>https://snipcart.com/blog/jamstack</sup>_
+
+JAMstack beginner? Start here. We cover basics, how to get started, and how to sell it to clients. Bonus: a curated list of JAMstack resources.
+* **tags**: [javascript](../tagged/javascript.md), [web](../tagged/web.md), [jamstack](../tagged/jamstack.md)
+---
+#### [Secrets of the JavaScript Object API](https://areknawo.com/secrets-of-the-javascript-object-api/)
+_<sup>https://areknawo.com/secrets-of-the-javascript-object-api/</sup>_
+
+* **tags**: [javascript](../tagged/javascript.md)
+---
+#### [What the Heck is React Hooks? — Soshace • Soshace](https://blog.soshace.com/what-the-heck-is-react-hooks/)
+_<sup>https://blog.soshace.com/what-the-heck-is-react-hooks/</sup>_
+
+In this article, you'll learn what a React Hook is, the benefits and how to use it in your react application.
+* **tags**: [javascript](../tagged/javascript.md), [react](../tagged/react.md)
+---
+#### [Deploy Your Web App Using Only Free Resources [A How To Guide] - By Alex Baas](https://hackernoon.com/how-to-publish-your-website-at-no-costs-u64q31n9?source=rss)
+_<sup>https://hackernoon.com/how-to-publish-your-website-at-no-costs-u64q31n9?source=rss</sup>_
+
+* **tags**: [javascript](../tagged/javascript.md), [web](../tagged/web.md)
+---
+#### [The Most Trending Node.js Open Source Projects In 2019 - Deep Study - Blog Brainhub.eu](https://brainhub.eu/blog/node-js-open-source-projects-2019/)
+_<sup>https://brainhub.eu/blog/node-js-open-source-projects-2019/</sup>_
+
+Wondering if you missed out on any hot trends and projects this year? See our post and discover the most trending Node.js open source projects of 2019.
+* **tags**: [javascript](../tagged/javascript.md), [node](../tagged/node.md)
+---
 #### [How much JavaScript do you need to know to use Node.js?](https://nodejs.dev/how-much-javascript-do-you-need-to-know-to-use-nodejs)
 _<sup>https://nodejs.dev/how-much-javascript-do-you-need-to-know-to-use-nodejs</sup>_
 
@@ -15,7 +146,7 @@ _<sup>https://www.youtube.com/watch?v=YmaFAKUFmp0</sup>_
 
 Timing in JavaScript with setTimeout, setInterval and requestAnimationFrame
 * :calendar: **published on**: 2015-08-27
-* **tags**: [javascript](../tagged/javascript.md), [open-source](../tagged/open-source.md), [setTimeout](../tagged/setTimeout.md), [setInterval](../tagged/setInterval.md), [requestAnimationFrame](../tagged/requestAnimationFrame.md), [timer](../tagged/timer.md)
+* **tags**: [javascript](../tagged/javascript.md), [open-source](../tagged/open-source.md), [settimeout](../tagged/settimeout.md), [setinterval](../tagged/setinterval.md), [requestanimationframe](../tagged/requestanimationframe.md), [timer](../tagged/timer.md)
 * :octocat: **[source code](https://github.com/shama/letswritecode/tree/master/js-timers)**
 ---
 #### [How JavaScript works in browser and node? - ITNEXT](https://itnext.io/how-javascript-works-in-browser-and-node-ab7d0d09ac2f)
@@ -45,7 +176,7 @@ Owing to browser restrictions, adding copy functionality to web pages used to be
 _<sup>https://areknawo.com/why-you-should-have-ditched-ie-support-long-ago/</sup>_
 
 Is Internet Explorer still relevant in 2020? And if so, should you bother to support it? Checking out IE history, JavaScript, HTML and CSS features & more!
-* **tags**: [JavaScript](../tagged/JavaScript.md), [web](../tagged/web.md)
+* **tags**: [javascript](../tagged/javascript.md), [web](../tagged/web.md)
 ---
 #### [10 Best YouTube Channels to Learn Web Development - ReadWrite](https://readwrite.com/2019/12/17/10-best-youtube-channels-to-learn-web-development/)
 _<sup>https://readwrite.com/2019/12/17/10-best-youtube-channels-to-learn-web-development/</sup>_
@@ -56,17 +187,17 @@ One of the best ways to learn to code without spending any money is by subscribi
 #### [How not to go wrong when choosing a static website generator? Gatsby vs Jekyll](https://medium.com/javascript-in-plain-english/how-not-to-go-wrong-when-choosing-a-static-website-generator-gatsby-vs-jekyll-510cea59e6e1)
 _<sup>https://medium.com/javascript-in-plain-english/how-not-to-go-wrong-when-choosing-a-static-website-ge...</sup>_
 
-* **tags**: [JavaScript](../tagged/JavaScript.md), [static-site-generator](../tagged/static-site-generator.md)
+* **tags**: [javascript](../tagged/javascript.md), [static-site-generator](../tagged/static-site-generator.md)
 ---
 #### [ES-Everything: an ECMA Explainer](https://www.matthewgerstman.com/tech/es-everything/)
 _<sup>https://www.matthewgerstman.com/tech/es-everything/</sup>_
 
-* **tags**: [JavaScript](../tagged/JavaScript.md)
+* **tags**: [javascript](../tagged/javascript.md)
 ---
 #### [8 Essential Tips To Make Your JavaScript Code Perform Faster - By Mosh](https://hackernoon.com/8-essential-tips-to-make-your-javascript-code-perform-faster-6nr320p?source=rss)
 _<sup>https://hackernoon.com/8-essential-tips-to-make-your-javascript-code-perform-faster-6nr320p?source=r...</sup>_
 
-* **tags**: [JavaScript](../tagged/JavaScript.md)
+* **tags**: [javascript](../tagged/javascript.md)
 ---
 #### [Best JavaScript Static Sites Generators to look out for in 2020](https://areknawo.com/best-javascript-static-sites-generators-to-look-out-for-in-2020/)
 _<sup>https://areknawo.com/best-javascript-static-sites-generators-to-look-out-for-in-2020/</sup>_

@@ -5,5 +5,5 @@ _<sup><sup>[www.bookmarks.dev/tagged/kafka](https://www.bookmarks.dev/tagged/kaf
 #### [Kafka Gotchas - ITNEXT](https://itnext.io/kafka-gotchas-24b51cc8d44e)
 _<sup>https://itnext.io/kafka-gotchas-24b51cc8d44e</sup>_
 
-* **tags**: [Kafka](../tagged/Kafka.md)
+* **tags**: [kafka](../tagged/kafka.md)
 ---

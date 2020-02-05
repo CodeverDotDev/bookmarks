@@ -5,5 +5,5 @@ _<sup><sup>[www.bookmarks.dev/tagged/gps](https://www.bookmarks.dev/tagged/gps)<
 #### [Tracking app for GPA enabled devices](https://theindiantracker.com)
 _<sup>https://theindiantracker.com</sup>_
 
-* **tags**: [GPS](../tagged/GPS.md), [Track](../tagged/Track.md)
+* **tags**: [gps](../tagged/gps.md), [track](../tagged/track.md)
 ---

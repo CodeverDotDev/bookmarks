@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/testing](https://www.bookmarks.dev/tagged/testing)</sup></sup>_
 ---
+#### [Experimental C# with Scientist .NET](https://dev.to/integerman/experimental-c-with-scientist-net-10ap)
+_<sup>https://dev.to/integerman/experimental-c-with-scientist-net-10ap</sup>_
+
+A description of library, which enables testing different implementations of code.
+* **tags**: [.net](../tagged/.net.md), [csharp](../tagged/csharp.md), [testing](../tagged/testing.md)
+---
 #### [Running categorized Tests using JUnit, Maven and Annotated-Test Suites](https://www.hascode.com/2012/12/running-categorized-tests-using-junit-maven-and-annotated-test-suites/)
 _<sup>https://www.hascode.com/2012/12/running-categorized-tests-using-junit-maven-and-annotated-test-suite...</sup>_
 
@@ -25,7 +31,7 @@ _<sup>https://extendsclass.com/web-service-tester.html</sup>_
 It is a web-based web service testing tool written in JavaScript. It allows to make test cases in order to validate APIs.
 Write test cases and run them online! 
 * :calendar: **published on**: 2019-01-01
-* **tags**: [online](../tagged/online.md), [API](../tagged/API.md), [testing](../tagged/testing.md)
+* **tags**: [online](../tagged/online.md), [api](../tagged/api.md), [testing](../tagged/testing.md)
 * :octocat: **[source code](https://github.com/cyrilbois/RestesterUI)**
 ---
 #### [enzyme](https://github.com/airbnb/enzyme)

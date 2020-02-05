@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/development-environment](https://www.bookmarks.dev/tagged/development-environment)</sup></sup>_
 ---
+#### [Create a Reproducible Dev Environment with VS Code](https://medium.com/@james.thorniley/create-a-reproducible-dev-environment-with-vs-code-fd89285644da)
+_<sup>https://medium.com/@james.thorniley/create-a-reproducible-dev-environment-with-vs-code-fd89285644da</sup>_
+
+Dependency hell is the curse of all software developers trying to get the right toolchain installed. In this post I’ll show how to set up a clean environment using the remote container feature of…
+* :calendar: **published on**: 2020-01-09
+* **tags**: [vscode](../tagged/vscode.md), [docker](../tagged/docker.md), [development-environment](../tagged/development-environment.md)
+---
 #### [Phansible](http://phansible.com/)
 _<sup>http://phansible.com/</sup>_
 

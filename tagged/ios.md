@@ -2,6 +2,11 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/ios](https://www.bookmarks.dev/tagged/ios)</sup></sup>_
 ---
+#### [ScPL | ScPL, An easier way to write shortcuts](https://scpl.dev/)
+_<sup>https://scpl.dev/</sup>_
+
+* **tags**: [ios](../tagged/ios.md), [shortcuts](../tagged/shortcuts.md)
+---
 #### [apollo-ios](https://github.com/apollographql/apollo-ios)
 _<sup>https://github.com/apollographql/apollo-ios</sup>_
 

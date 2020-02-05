@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/rest](https://www.bookmarks.dev/tagged/rest)</sup></sup>_
 ---
+#### [REST Client - Visual Studio Code Extension](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
+_<sup>https://marketplace.visualstudio.com/items?itemName=humao.rest-client</sup>_
+
+Extension for Visual Studio Code - REST Client for Visual Studio Code
+* **tags**: [visual-studio-code](../tagged/visual-studio-code.md), [rest](../tagged/rest.md), [rest-client](../tagged/rest-client.md)
+* :octocat: **[source code](https://github.com/Huachao/vscode-restclient)**
+---
 #### [GitHub - OAI/OpenAPI-Specification: The OpenAPI Specification Repository](https://github.com/OAI/OpenAPI-Specification)
 _<sup>https://github.com/OAI/OpenAPI-Specification</sup>_
 

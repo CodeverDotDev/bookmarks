@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/rest-client](https://www.bookmarks.dev/tagged/rest-client)</sup></sup>_
 ---
+#### [REST Client - Visual Studio Code Extension](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
+_<sup>https://marketplace.visualstudio.com/items?itemName=humao.rest-client</sup>_
+
+Extension for Visual Studio Code - REST Client for Visual Studio Code
+* **tags**: [visual-studio-code](../tagged/visual-studio-code.md), [rest](../tagged/rest.md), [rest-client](../tagged/rest-client.md)
+* :octocat: **[source code](https://github.com/Huachao/vscode-restclient)**
+---
 #### [Guzzle](http://guzzle.readthedocs.org/en/latest/)
 _<sup>http://guzzle.readthedocs.org/en/latest/</sup>_
 

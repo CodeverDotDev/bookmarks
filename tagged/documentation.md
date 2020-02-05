@@ -2,6 +2,11 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/documentation](https://www.bookmarks.dev/tagged/documentation)</sup></sup>_
 ---
+#### [DevDocs API Documentation](https://devdocs.io/)
+_<sup>https://devdocs.io/</sup>_
+
+* **tags**: [documentation](../tagged/documentation.md)
+---
 #### [Swagger](http://swagger.io/)
 _<sup>http://swagger.io/</sup>_
 

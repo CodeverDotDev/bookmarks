@@ -2,6 +2,30 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/java](https://www.bookmarks.dev/tagged/java)</sup></sup>_
 ---
+#### [JDK 8: Lessons Learnt With Lambdas and Streams - 30min](https://www.youtube.com/watch?v=wZKmA6XodNE&t=3s)
+_<sup>https://www.youtube.com/watch?v=wZKmA6XodNE&t=3s</sup>_
+
+Recorded at SpringOne Platform 2016.
+Speaker: Simon Ritter, Azul
+Slides: http://www.slideshare.net/SpringCentral/jdk8-lessons-learnt-with-lambdas-and-streams
+
+Lambda expressions and the streams API ad...
+* :calendar: **published on**: 2016-12-21
+* **tags**: [spring](../tagged/spring.md), [java](../tagged/java.md), [lambda](../tagged/lambda.md)
+---
+#### [A Guide to Spring Framework Annotations - DZone Java](https://dzone.com/articles/a-guide-to-spring-framework-annotations)
+_<sup>https://dzone.com/articles/a-guide-to-spring-framework-annotations</sup>_
+
+* **tags**: [java](../tagged/java.md), [spring](../tagged/spring.md)
+---
+#### [How to make a property nullable in JPA - GAE/J?](https://stackoverflow.com/questions/1910215/how-to-make-a-property-nullable-in-jpa-gae-j)
+_<sup>https://stackoverflow.com/questions/1910215/how-to-make-a-property-nullable-in-jpa-gae-j</sup>_
+
+Properties are nullable by default in JPA, except primitive types. You can control nullability using the nullable property of the @Column annotation, like so:
+...
+* :calendar: **published on**: 2009-12-15
+* **tags**: [java](../tagged/java.md), [jpa](../tagged/jpa.md)
+---
 #### [Codiva.io - Compile and Run Java Online](https://www.codiva.io/)
 _<sup>https://www.codiva.io/</sup>_
 
@@ -75,7 +99,7 @@ Togglz is an implementation of the [Feature Toggles](http://martinfowler.com/bli
 _<sup>https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/manipulati...</sup>_
 
 Learn to code with free online courses, programming projects, and interview preparation for developer jobs.
-* **tags**: [Java](../tagged/Java.md), [complex](../tagged/complex.md), [objects](../tagged/objects.md), [json](../tagged/json.md)
+* **tags**: [java](../tagged/java.md), [complex](../tagged/complex.md), [objects](../tagged/objects.md), [json](../tagged/json.md)
 ---
 #### [Basic JavaScript: Delete Properties from a JavaScript Object | Learn freeCodeCamp](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/delete-properties-from-a-javascript-object)
 _<sup>https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/delete-pro...</sup>_

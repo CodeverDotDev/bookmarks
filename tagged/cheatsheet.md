@@ -2,6 +2,11 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/cheatsheet](https://www.bookmarks.dev/tagged/cheatsheet)</sup></sup>_
 ---
+#### [CSS Selectors Cheat Sheet](https://www.freecodecamp.org/news/css-selectors-cheat-sheet/)
+_<sup>https://www.freecodecamp.org/news/css-selectors-cheat-sheet/</sup>_
+
+* **tags**: [css](../tagged/css.md), [web](../tagged/web.md), [cheatsheet](../tagged/cheatsheet.md)
+---
 #### [JavaScript regular expressions cheatsheet and examples ](https://dev.to/learnbyexample/javascript-regular-expressions-cheatsheet-and-examples-4jg7)
 _<sup>https://dev.to/learnbyexample/javascript-regular-expressions-cheatsheet-and-examples-4jg7</sup>_
 

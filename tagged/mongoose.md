@@ -2,6 +2,14 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/mongoose](https://www.bookmarks.dev/tagged/mongoose)</sup></sup>_
 ---
+#### [Node - Exclude fields from select with Mongoose/MongoDB · Curtis Larson's Blog](https://www.curtismlarson.com/blog/2016/05/11/mongoose-mongodb-exclude-select-fields/)
+_<sup>https://www.curtismlarson.com/blog/2016/05/11/mongoose-mongodb-exclude-select-fields/</sup>_
+
+ Individually
+...
+* :calendar: **published on**: 2016-05-11
+* **tags**: [mongodb](../tagged/mongodb.md), [mongoose](../tagged/mongoose.md)
+---
 #### [Mongoose - SubDocuments](https://mongoosejs.com/docs/subdocs.html)
 _<sup>https://mongoosejs.com/docs/subdocs.html</sup>_
 

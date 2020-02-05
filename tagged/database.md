@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/database](https://www.bookmarks.dev/tagged/database)</sup></sup>_
 ---
+#### [2019 Open Source Database Report - DZone Open Source](https://dzone.com/articles/2019-open-source-database-report-top-databases-pub)
+_<sup>https://dzone.com/articles/2019-open-source-database-report-top-databases-pub</sup>_
+
+Take a look at the state of databases, including a special glance at how open source databases are performing against commercial counterparts.
+* **tags**: [database](../tagged/database.md)
+---
 #### [How does database indexing work?](https://stackoverflow.com/questions/1108/how-does-database-indexing-work)
 _<sup>https://stackoverflow.com/questions/1108/how-does-database-indexing-work</sup>_
 

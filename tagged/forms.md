@@ -2,6 +2,22 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/forms](https://www.bookmarks.dev/tagged/forms)</sup></sup>_
 ---
+#### [Using Angular Forms with Async Data - Angular 7 | 8](https://coryrylan.com/blog/using-angular-forms-with-async-data)
+_<sup>https://coryrylan.com/blog/using-angular-forms-with-async-data</sup>_
+
+Most single page apps deal with asynchronous API calls in conjunction with user input in some way. Often it’s not clear how or what the best practices are when dealing with async data and forms togeth...
+* :calendar: **published on**: 2018-01-28
+* **tags**: [angular](../tagged/angular.md), [forms](../tagged/forms.md)
+* :octocat: **[source code](https://stackblitz.com/edit/angular-uquzq9)**
+---
+#### [Reducing the forms boilerplate — make your Angular forms reusable](https://medium.com/angular-in-depth/reducing-the-forms-boilerplate-make-your-angular-forms-reusable-ee06d7c07f47)
+_<sup>https://medium.com/angular-in-depth/reducing-the-forms-boilerplate-make-your-angular-forms-reusable-...</sup>_
+
+Reduce the forms boilerplate by creating reusable custom forms controls with the ControlValueAccessor interface. Learn how to create reusable forms, subforms and how to leverage the DI to make everyth...
+* :calendar: **published on**: 2019-07-06
+* **tags**: [angular](../tagged/angular.md), [forms](../tagged/forms.md)
+* :octocat: **[source code](https://stackblitz.com/edit/angular-generic-forms-examples)**
+---
 #### [Marking Required Fields in Forms](https://www.nngroup.com/articles/required-fields/)
 _<sup>https://www.nngroup.com/articles/required-fields/</sup>_
 
