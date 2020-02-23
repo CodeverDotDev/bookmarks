@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/error-handling](https://www.bookmarks.dev/tagged/error-handling)</sup></sup>_
 ---
+#### [Express error handling](https://expressjs.com/en/guide/error-handling.html)
+_<sup>https://expressjs.com/en/guide/error-handling.html</sup>_
+
+Error Handling refers to how Express catches and processes errors that occur both synchronously and asynchronously. Express comes with a default error handler so you don’t need to write your own to ge...
+* **tags**: [expressjs](../tagged/expressjs.md), [error-handling](../tagged/error-handling.md)
+---
 #### [Cleaner code in an Express REST API with unified error handling – CodepediaOrg](https://www.codepedia.org/ama/cleaner-code-in-expressjs-rest-api-with-custom-error-handling)
 _<sup>https://www.codepedia.org/ama/cleaner-code-in-expressjs-rest-api-with-custom-error-handling</sup>_
 

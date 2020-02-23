@@ -585,8 +585,8 @@ _<sup>https://www.gnu.org/software/bash/manual/html_node/index.html</sup>_
 What is bash? This manual is meant as a brief introduction to features found in Bash. The Bash manual page should be used as the definitive reference on shell behavior.
 * **tags**: [bash](../tagged/bash.md), [linux](../tagged/linux.md), [unix](../tagged/unix.md)
 ---
-#### [A developer's guide to using aliases – CodingpediaOrg](http://www.codingpedia.org/ama/a-developers-guide-to-using-aliases/)
-_<sup>http://www.codingpedia.org/ama/a-developers-guide-to-using-aliases/</sup>_
+#### [A developer's guide to using aliases – CodepediaOrg](http://www.codepedia.org/ama/a-developers-guide-to-using-aliases/)
+_<sup>http://www.codepedia.org/ama/a-developers-guide-to-using-aliases/</sup>_
 
 An original approach to use aliases. Makes your life as a developer much easier in the terminal... Some samples:
 

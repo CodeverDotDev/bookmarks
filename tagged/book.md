@@ -155,7 +155,7 @@ Fully-updated guide to Git and its usage in the modern world. Usually comes in f
 #### [Eloquent JavaScript](http://eloquentjavascript.net/)
 _<sup>http://eloquentjavascript.net/</sup>_
 
-This is a book about JavaScript, programming, and the wonders of the digital. 
+This is a book about JavaScript, programming, and the wonders of the digital
 * **tags**: [javascript](../tagged/javascript.md), [book](../tagged/book.md)
 ---
 #### [97 Things Every Programmer Should Know](http://programmer.97things.oreilly.com/wiki/index.php/Contributions_Appearing_in_the_Book)

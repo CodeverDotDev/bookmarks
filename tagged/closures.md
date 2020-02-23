@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/closures](https://www.bookmarks.dev/tagged/closures)</sup></sup>_
 ---
+#### [Closures - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
+_<sup>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures</sup>_
+
+A **closure** is the combination of a function bundled together (enclosed) with references to its surrounding state (the **lexical environment**). In other words, a closure gives you access to an oute...
+* **tags**: [javascript](../tagged/javascript.md), [closures](../tagged/closures.md)
+---
 #### [JavaScript: bind function](http://krasimirtsonev.com/blog/article/JavaScript-bind-function-setting-a-scope)
 _<sup>http://krasimirtsonev.com/blog/article/JavaScript-bind-function-setting-a-scope</sup>_
 

@@ -2,6 +2,14 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/npm](https://www.bookmarks.dev/tagged/npm)</sup></sup>_
 ---
+#### [How do I update devDependencies in NPM?](https://stackoverflow.com/questions/10068592/how-do-i-update-devdependencies-in-npm)
+_<sup>https://stackoverflow.com/questions/10068592/how-do-i-update-devdependencies-in-npm</sup>_
+
+To update package.json in addition to the local modules, run
+...
+* :calendar: **published on**: 2012-04-09
+* **tags**: [npm](../tagged/npm.md), [nodejs](../tagged/nodejs.md)
+---
 #### [What I Learned From Creating My First Open-Source Software Project](https://medium.com/better-programming/things-i-learned-from-creating-my-first-open-source-software-project-e74844bf687a)
 _<sup>https://medium.com/better-programming/things-i-learned-from-creating-my-first-open-source-software-p...</sup>_
 

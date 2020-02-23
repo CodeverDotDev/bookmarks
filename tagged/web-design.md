@@ -2,6 +2,28 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/web-design](https://www.bookmarks.dev/tagged/web-design)</sup></sup>_
 ---
+#### [Learn basic UI Design in 5 minutes](https://www.freecodecamp.org/news/learn-ui-design-in-5-minutes-tutorial/)
+_<sup>https://www.freecodecamp.org/news/learn-ui-design-in-5-minutes-tutorial/</sup>_
+
+* **tags**: [web-design](../tagged/web-design.md)
+---
+#### [SASS for CSS: Advance your frontend skills with CSS preprocessor](https://www.educative.io/blog/sass-for-css-advance-frontend-skills)
+_<sup>https://www.educative.io/blog/sass-for-css-advance-frontend-skills</sup>_
+
+SASS makes authoring CSS stylesheets faster and easier. It will revolutionaize your frontend skills. Here's everything you need to know to get started.
+* **tags**: [css](../tagged/css.md), [web-design](../tagged/web-design.md)
+---
+#### [The definitive guide to SCSS - LogRocket Blog](https://blog.logrocket.com/the-definitive-guide-to-scss/)
+_<sup>https://blog.logrocket.com/the-definitive-guide-to-scss/</sup>_
+
+SCSS is not your grandfather's CSS. The self-proclaimed "CSS with superpowers" offers a way to write styles for websites with more enhanced CSS syntax.
+* **tags**: [css](../tagged/css.md), [web-design](../tagged/web-design.md)
+---
+#### [3 Simple Reasons to Use a CSS Preprocessor - By Miguel](https://hackernoon.com/3-simple-reasons-to-use-a-css-preprocessor-dd4y36by?source=rss)
+_<sup>https://hackernoon.com/3-simple-reasons-to-use-a-css-preprocessor-dd4y36by?source=rss</sup>_
+
+* **tags**: [css](../tagged/css.md), [web-design](../tagged/web-design.md)
+---
 #### [Smashing Magazine](https://www.smashingmagazine.com/)
 _<sup>https://www.smashingmagazine.com/</sup>_
 

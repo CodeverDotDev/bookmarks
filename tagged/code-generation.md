@@ -2,6 +2,20 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/code-generation](https://www.bookmarks.dev/tagged/code-generation)</sup></sup>_
 ---
+#### [Surnet/swagger-jsdoc: Generates swagger doc based on JSDoc.](https://github.com/Surnet/swagger-jsdoc)
+_<sup>https://github.com/Surnet/swagger-jsdoc</sup>_
+
+Document your code and keep a live and reusable OpenAPI (Swagger) specification. This specification can be the core of your API-driven project: generate documentation, servers, clients, tests and much...
+* **tags**: [swagger](../tagged/swagger.md), [openapi](../tagged/openapi.md), [code-generation](../tagged/code-generation.md)
+* :octocat: **[source code](https://github.com/Surnet/swagger-jsdoc)**
+---
+#### [OpenAPI Generator Home Page](https://openapi-generator.tech/)
+_<sup>https://openapi-generator.tech/</sup>_
+
+OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3) 
+* **tags**: [openapi](../tagged/openapi.md), [code-generation](../tagged/code-generation.md)
+* :octocat: **[source code](https://github.com/OpenAPITools/openapi-generator)**
+---
 #### [efaceconv](https://github.com/t0pep0/efaceconv)
 _<sup>https://github.com/t0pep0/efaceconv</sup>_
 

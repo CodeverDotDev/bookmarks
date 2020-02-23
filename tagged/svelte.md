@@ -2,6 +2,11 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/svelte](https://www.bookmarks.dev/tagged/svelte)</sup></sup>_
 ---
+#### [Getting Acquainted With Svelte, the New Framework on the Block | CSS-Tricks](https://css-tricks.com/getting-acquainted-with-svelte-the-new-framework-on-the-block/)
+_<sup>https://css-tricks.com/getting-acquainted-with-svelte-the-new-framework-on-the-block/</sup>_
+
+* **tags**: [javascript](../tagged/javascript.md), [web](../tagged/web.md), [svelte](../tagged/svelte.md)
+---
 #### [Sapper  Home Page](https://sapper.svelte.dev/)
 _<sup>https://sapper.svelte.dev/</sup>_
 

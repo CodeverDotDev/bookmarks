@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/spring-boot](https://www.bookmarks.dev/tagged/spring-boot)</sup></sup>_
 ---
+#### [springdoc-openapi | Library for OpenAPI 3 with spring-boot](https://springdoc.github.io/springdoc-openapi-demos/)
+_<sup>https://springdoc.github.io/springdoc-openapi-demos/</sup>_
+
+springdoc-openapi java library helps automating the generation of API documentation using spring boot projects. springdoc-openapi works by examining an application at runtime to infer API semantics ba...
+* **tags**: [openapi](../tagged/openapi.md), [spring-boot](../tagged/spring-boot.md), [swagger-ui](../tagged/swagger-ui.md)
+* :octocat: **[source code](https://github.com/springdoc/springdoc-openapi)**
+---
 #### [Changing the Logging Level at the Runtime for a Spring Boot Application | Baeldung](https://www.baeldung.com/spring-boot-changing-log-level-at-runtime)
 _<sup>https://www.baeldung.com/spring-boot-changing-log-level-at-runtime</sup>_
 

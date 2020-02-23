@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/google-chrome-extension](https://www.bookmarks.dev/tagged/google-chrome-extension)</sup></sup>_
 ---
+#### [9 Magical Chrome Extensions for QA Testing](https://medium.com/ideas-by-crema/9-magical-chrome-extensions-for-qa-testing-14a710a097bb)
+_<sup>https://medium.com/ideas-by-crema/9-magical-chrome-extensions-for-qa-testing-14a710a097bb</sup>_
+
+Chrome extension options are many, but there are a few add-ons that are pure wizardry for browser based testing. Here are 9 of my favorites that help me test faster, write better bugs, and cover more ...
+* :calendar: **published on**: 2018-03-09
+* **tags**: [testing](../tagged/testing.md), [google-chrome-extension](../tagged/google-chrome-extension.md)
+---
 #### [Form Filler - Chrome Web Store](https://chrome.google.com/webstore/detail/form-filler/bnjjngeaknajbdcgpfkgnonkmififhfo)
 _<sup>https://chrome.google.com/webstore/detail/form-filler/bnjjngeaknajbdcgpfkgnonkmififhfo</sup>_
 

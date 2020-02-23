@@ -2,6 +2,28 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/angular](https://www.bookmarks.dev/tagged/angular)</sup></sup>_
 ---
+#### [Angular Multiple HTTP Requests with RxJS - Angular 7 | 8](https://coryrylan.com/blog/angular-multiple-http-requests-with-rxjs)
+_<sup>https://coryrylan.com/blog/angular-multiple-http-requests-with-rxjs</sup>_
+
+A typical pattern we run into with single page apps is to gather up data from multiple API endpoints and then display the gathered data to the user. Fetching numerous asynchronous requests and managin...
+* :calendar: **published on**: 2019-06-18
+* **tags**: [angular](../tagged/angular.md), [rxjs](../tagged/rxjs.md)
+* :octocat: **[source code](https://stackblitz.com/edit/angular-jjp2oy)**
+---
+#### [7 Ways to Leverage HttpInterceptors in Angular - Bits and Pieces](https://blog.bitsrc.io/7-ways-to-leverage-httpinterceptors-in-angular-59436611844d)
+_<sup>https://blog.bitsrc.io/7-ways-to-leverage-httpinterceptors-in-angular-59436611844d</sup>_
+
+Useful things we can do with HttpInterceptors are endless. Here I listed a few of them, you can go on and find ways in which they can be very helpful in your Angular app
+* :calendar: **published on**: 2020-02-04
+* **tags**: [angular](../tagged/angular.md), [http-client](../tagged/http-client.md)
+---
+#### [Bit.dev](https://bit.dev/)
+_<sup>https://bit.dev/</sup>_
+
+Easily share reusable components between projects and applications to build faster as a team. Collaborate to develop, publish and manage components and modules at any scale without overhead. Discover ...
+* **tags**: [angular](../tagged/angular.md), [reactjs](../tagged/reactjs.md), [vuejs](../tagged/vuejs.md), [javascript](../tagged/javascript.md)
+* :octocat: **[source code](https://github.com/teambit/bit)**
+---
 #### [Using Angular Forms with Async Data - Angular 7 | 8](https://coryrylan.com/blog/using-angular-forms-with-async-data)
 _<sup>https://coryrylan.com/blog/using-angular-forms-with-async-data</sup>_
 

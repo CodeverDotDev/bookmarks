@@ -2,6 +2,36 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/swagger](https://www.bookmarks.dev/tagged/swagger)</sup></sup>_
 ---
+#### [Surnet/swagger-jsdoc: Generates swagger doc based on JSDoc.](https://github.com/Surnet/swagger-jsdoc)
+_<sup>https://github.com/Surnet/swagger-jsdoc</sup>_
+
+Document your code and keep a live and reusable OpenAPI (Swagger) specification. This specification can be the core of your API-driven project: generate documentation, servers, clients, tests and much...
+* **tags**: [swagger](../tagged/swagger.md), [openapi](../tagged/openapi.md), [code-generation](../tagged/code-generation.md)
+* :octocat: **[source code](https://github.com/Surnet/swagger-jsdoc)**
+---
+#### [GitHub - swagger-api/swagger-node: Swagger module for node.js](https://github.com/swagger-api/swagger-node)
+_<sup>https://github.com/swagger-api/swagger-node</sup>_
+
+The `swagger` module provides tools for designing and building Swagger-compliant APIs entirely in Node.js. It integrates with popular Node.js servers, including Express, Hapi, Restify, and Sails, as w...
+* **tags**: [swagger](../tagged/swagger.md), [openapi](../tagged/openapi.md), [nodejs](../tagged/nodejs.md)
+* :octocat: **[source code](https://github.com/swagger-api/swagger-node)**
+---
+#### [Swagger Converter Home Page](https://converter.swagger.io/)
+_<sup>https://converter.swagger.io/</sup>_
+
+Converts a 1.x or 2.x Swagger definition to the OpenAPI 3.0.1 format
+* **tags**: [swagger](../tagged/swagger.md), [openapi](../tagged/openapi.md)
+* :octocat: **[source code](https://github.com/swagger-api/swagger-converter)**
+---
+#### [OpenAPI 3.0, And What it Means for the Future of Swagger - 1h:1min](https://www.youtube.com/watch?v=wBDSR0x3GZo)
+_<sup>https://www.youtube.com/watch?v=wBDSR0x3GZo</sup>_
+
+This webinar: OpenAPI 3.0, And What it Means for the Future of Swagger, provides an in-depth look at the new OpenAPI 3.0 (OAS3.0) specification. Try Swagger today: https://swaggerhub.com/
+
+We will als...
+* :calendar: **published on**: 2017-08-10
+* **tags**: [api-design](../tagged/api-design.md), [openapi](../tagged/openapi.md), [swagger-editor](../tagged/swagger-editor.md), [swagger](../tagged/swagger.md), [api-design](../tagged/api-design.md), [openapi](../tagged/openapi.md), [api](../tagged/api.md)
+---
 #### [SpringFox homepage](http://springfox.github.io/springfox/)
 _<sup>http://springfox.github.io/springfox/</sup>_
 
@@ -21,13 +51,15 @@ Today, almost every application has to be connected and to share data with other
 _<sup>https://www.npmjs.com/package/swagger-ui-express</sup>_
 
 Adds middleware to your express app to serve the Swagger UI bound to your Swagger document. This acts as living documentation for your API hosted from within your ap
-* **tags**: [swagger](../tagged/swagger.md), [nodejs](../tagged/nodejs.md), [expressjs](../tagged/expressjs.md)
+* **tags**: [swagger](../tagged/swagger.md), [nodejs](../tagged/nodejs.md), [expressjs](../tagged/expressjs.md), [openapi](../tagged/openapi.md)
 * :octocat: **[source code](https://github.com/scottie1984/swagger-ui-express)**
 ---
-#### [Swagger Editor](https://editor.swagger.io/)
+#### [Swagger Editor Home Page](https://editor.swagger.io/)
 _<sup>https://editor.swagger.io/</sup>_
 
-* **tags**: [swagger](../tagged/swagger.md), [api](../tagged/api.md), [documentation](../tagged/documentation.md)
+Swagger Editor lets you edit Swagger API specifications in YAML inside your browser and to preview documentations in real time. Valid Swagger JSON descriptions can then be generated and used with the ...
+* **tags**: [swagger](../tagged/swagger.md), [api](../tagged/api.md), [documentation](../tagged/documentation.md), [openapi](../tagged/openapi.md), [swagger-editor](../tagged/swagger-editor.md)
+* :octocat: **[source code](https://github.com/swagger-api/swagger-editor)**
 ---
 #### [Writing OpenAPI (Swagger) Specification Tutorial - Part 1 - Introduction | API Handyman](https://apihandyman.io/writing-openapi-swagger-specification-tutorial-part-1-introduction/)
 _<sup>https://apihandyman.io/writing-openapi-swagger-specification-tutorial-part-1-introduction/</sup>_

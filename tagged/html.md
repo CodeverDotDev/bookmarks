@@ -2,6 +2,17 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/html](https://www.bookmarks.dev/tagged/html)</sup></sup>_
 ---
+#### [What is the JAMstack and how do I get started?](https://www.freecodecamp.org/news/what-is-the-jamstack-and-how-do-i-host-my-website-on-it/)
+_<sup>https://www.freecodecamp.org/news/what-is-the-jamstack-and-how-do-i-host-my-website-on-it/</sup>_
+
+* **tags**: [jamstack](../tagged/jamstack.md), [web-development](../tagged/web-development.md), [javascript](../tagged/javascript.md), [html](../tagged/html.md)
+---
+#### [    Why JavaScript is Eating HTML | CSS-Tricks](https://css-tricks.com/why-javascript-is-eating-html/)
+_<sup>https://css-tricks.com/why-javascript-is-eating-html/</sup>_
+
+Web development is always changing. One trend in particular has become very popular lately, and it fundamentally goes against the conventional wisdom
+* **tags**: [css](../tagged/css.md), [javascript](../tagged/javascript.md), [html](../tagged/html.md), [web-development](../tagged/web-development.md)
+---
 #### [GitHub - bradtraversy/vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects)
 _<sup>https://github.com/bradtraversy/vanillawebprojects</sup>_
 

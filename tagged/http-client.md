@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/http-client](https://www.bookmarks.dev/tagged/http-client)</sup></sup>_
 ---
+#### [7 Ways to Leverage HttpInterceptors in Angular - Bits and Pieces](https://blog.bitsrc.io/7-ways-to-leverage-httpinterceptors-in-angular-59436611844d)
+_<sup>https://blog.bitsrc.io/7-ways-to-leverage-httpinterceptors-in-angular-59436611844d</sup>_
+
+Useful things we can do with HttpInterceptors are endless. Here I listed a few of them, you can go on and find ways in which they can be very helpful in your Angular app
+* :calendar: **published on**: 2020-02-04
+* **tags**: [angular](../tagged/angular.md), [http-client](../tagged/http-client.md)
+---
 #### [gentleman](https://github.com/h2non/gentleman)
 _<sup>https://github.com/h2non/gentleman</sup>_
 

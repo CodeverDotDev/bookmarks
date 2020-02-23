@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/dev-tools](https://www.bookmarks.dev/tagged/dev-tools)</sup></sup>_
 ---
+#### [Postwoman • API request builder](https://postwoman.io/)
+_<sup>https://postwoman.io/</sup>_
+
+The Postwoman API request builder helps you create your requests faster, saving you precious time on your development.
+* **tags**: [rest](../tagged/rest.md), [dev-tools](../tagged/dev-tools.md)
+* :octocat: **[source code](https://github.com/liyasthomas/postwoman)**
+---
 #### [commitlint - Lint commit messages](https://commitlint.js.org/)
 _<sup>https://commitlint.js.org/</sup>_
 

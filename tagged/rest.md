@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/rest](https://www.bookmarks.dev/tagged/rest)</sup></sup>_
 ---
+#### [Postwoman • API request builder](https://postwoman.io/)
+_<sup>https://postwoman.io/</sup>_
+
+The Postwoman API request builder helps you create your requests faster, saving you precious time on your development.
+* **tags**: [rest](../tagged/rest.md), [dev-tools](../tagged/dev-tools.md)
+* :octocat: **[source code](https://github.com/liyasthomas/postwoman)**
+---
 #### [REST Client - Visual Studio Code Extension](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
 _<sup>https://marketplace.visualstudio.com/items?itemName=humao.rest-client</sup>_
 

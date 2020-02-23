@@ -2,6 +2,65 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/javascript](https://www.bookmarks.dev/tagged/javascript)</sup></sup>_
 ---
+#### [What is the JAMstack and how do I get started?](https://www.freecodecamp.org/news/what-is-the-jamstack-and-how-do-i-host-my-website-on-it/)
+_<sup>https://www.freecodecamp.org/news/what-is-the-jamstack-and-how-do-i-host-my-website-on-it/</sup>_
+
+* **tags**: [jamstack](../tagged/jamstack.md), [web-development](../tagged/web-development.md), [javascript](../tagged/javascript.md), [html](../tagged/html.md)
+---
+#### [Starting With React? Benefit From These Coding Tips](https://levelup.gitconnected.com/starting-with-react-benefit-from-these-coding-tips-fadfb25eaed7)
+_<sup>https://levelup.gitconnected.com/starting-with-react-benefit-from-these-coding-tips-fadfb25eaed7</sup>_
+
+Are you new to React? Or are you looking for just a little more information before you are really going to dive into the adventure of learning this Javascript library? You’re probably not the only…
+* **tags**: [react](../tagged/react.md), [javascript](../tagged/javascript.md)
+---
+#### [What is the JAMstack? - Better Programming - Medium](https://medium.com/better-programming/what-is-the-jamstack-d3f854919ab6)
+_<sup>https://medium.com/better-programming/what-is-the-jamstack-d3f854919ab6</sup>_
+
+According to jamstack.org, JAM — which stands for JavaScript, APIs, and Markup — isn’t about specific technologies, but rather: That all sounds great, but how is it different from its predecessors…
+* **tags**: [javascript](../tagged/javascript.md), [web-development](../tagged/web-development.md), [jamstack](../tagged/jamstack.md)
+---
+#### [    Why JavaScript is Eating HTML | CSS-Tricks](https://css-tricks.com/why-javascript-is-eating-html/)
+_<sup>https://css-tricks.com/why-javascript-is-eating-html/</sup>_
+
+Web development is always changing. One trend in particular has become very popular lately, and it fundamentally goes against the conventional wisdom
+* **tags**: [css](../tagged/css.md), [javascript](../tagged/javascript.md), [html](../tagged/html.md), [web-development](../tagged/web-development.md)
+---
+#### [uuidjs/uuid: Generate RFC-compliant UUIDs in JavaScript](https://github.com/uuidjs/uuid)
+_<sup>https://github.com/uuidjs/uuid</sup>_
+
+Simple, fast generation of [RFC4122](http://www.ietf.org/rfc/rfc4122.txt) UUIDs.
+
+Features:
+
+- Support for version 1, 3, 4 and 5 UUIDs
+- Cross-platform: CommonJS build for Node.js and [ECMAScript Modu...
+* **tags**: [javascript](../tagged/javascript.md), [nodejs](../tagged/nodejs.md)
+* :octocat: **[source code](https://github.com/uuidjs/uuid)**
+---
+#### [JavaScript Resources | JSArray.com](https://jsarray.com/)
+_<sup>https://jsarray.com/</sup>_
+
+Awesome curated links of JavaScript resources
+* **tags**: [javascript](../tagged/javascript.md), [cheatsheet](../tagged/cheatsheet.md)
+---
+#### [Closures - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
+_<sup>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures</sup>_
+
+A **closure** is the combination of a function bundled together (enclosed) with references to its surrounding state (the **lexical environment**). In other words, a closure gives you access to an oute...
+* **tags**: [javascript](../tagged/javascript.md), [closures](../tagged/closures.md)
+---
+#### [Getting Acquainted With Svelte, the New Framework on the Block | CSS-Tricks](https://css-tricks.com/getting-acquainted-with-svelte-the-new-framework-on-the-block/)
+_<sup>https://css-tricks.com/getting-acquainted-with-svelte-the-new-framework-on-the-block/</sup>_
+
+* **tags**: [javascript](../tagged/javascript.md), [web](../tagged/web.md), [svelte](../tagged/svelte.md)
+---
+#### [Bit.dev](https://bit.dev/)
+_<sup>https://bit.dev/</sup>_
+
+Easily share reusable components between projects and applications to build faster as a team. Collaborate to develop, publish and manage components and modules at any scale without overhead. Discover ...
+* **tags**: [angular](../tagged/angular.md), [reactjs](../tagged/reactjs.md), [vuejs](../tagged/vuejs.md), [javascript](../tagged/javascript.md)
+* :octocat: **[source code](https://github.com/teambit/bit)**
+---
 #### [Array reduce vs chaining vs for loop](https://kentcdodds.com/blog/array-reduce-vs-chaining-vs-for-loop)
 _<sup>https://kentcdodds.com/blog/array-reduce-vs-chaining-vs-for-loop</sup>_
 
@@ -6585,6 +6644,6 @@ A JavaScript introduction for new programmers
 #### [Eloquent JavaScript](http://eloquentjavascript.net/)
 _<sup>http://eloquentjavascript.net/</sup>_
 
-This is a book about JavaScript, programming, and the wonders of the digital. 
+This is a book about JavaScript, programming, and the wonders of the digital
 * **tags**: [javascript](../tagged/javascript.md), [book](../tagged/book.md)
 ---

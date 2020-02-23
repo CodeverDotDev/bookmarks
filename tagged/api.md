@@ -2,6 +2,15 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/api](https://www.bookmarks.dev/tagged/api)</sup></sup>_
 ---
+#### [OpenAPI 3.0, And What it Means for the Future of Swagger - 1h:1min](https://www.youtube.com/watch?v=wBDSR0x3GZo)
+_<sup>https://www.youtube.com/watch?v=wBDSR0x3GZo</sup>_
+
+This webinar: OpenAPI 3.0, And What it Means for the Future of Swagger, provides an in-depth look at the new OpenAPI 3.0 (OAS3.0) specification. Try Swagger today: https://swaggerhub.com/
+
+We will als...
+* :calendar: **published on**: 2017-08-10
+* **tags**: [api-design](../tagged/api-design.md), [openapi](../tagged/openapi.md), [swagger-editor](../tagged/swagger-editor.md), [swagger](../tagged/swagger.md), [api-design](../tagged/api-design.md), [openapi](../tagged/openapi.md), [api](../tagged/api.md)
+---
 #### [API Practices If You Hate Your Customers - ACM Queue](https://queue.acm.org/detail.cfm?id=3375635)
 _<sup>https://queue.acm.org/detail.cfm?id=3375635</sup>_
 
@@ -803,10 +812,12 @@ A guide on how to implement a consumer-driven contract test with Pact that verif
 * **tags**: [spring-boot](../tagged/spring-boot.md), [api](../tagged/api.md), [rest](../tagged/rest.md), [testing](../tagged/testing.md)
 * :octocat: **[source code](https://github.com/thombergs/code-examples/tree/master/pact/pact-spring-provider)**
 ---
-#### [Swagger Editor](https://editor.swagger.io/)
+#### [Swagger Editor Home Page](https://editor.swagger.io/)
 _<sup>https://editor.swagger.io/</sup>_
 
-* **tags**: [swagger](../tagged/swagger.md), [api](../tagged/api.md), [documentation](../tagged/documentation.md)
+Swagger Editor lets you edit Swagger API specifications in YAML inside your browser and to preview documentations in real time. Valid Swagger JSON descriptions can then be generated and used with the ...
+* **tags**: [swagger](../tagged/swagger.md), [api](../tagged/api.md), [documentation](../tagged/documentation.md), [openapi](../tagged/openapi.md), [swagger-editor](../tagged/swagger-editor.md)
+* :octocat: **[source code](https://github.com/swagger-api/swagger-editor)**
 ---
 #### [Writing OpenAPI (Swagger) Specification Tutorial - Part 1 - Introduction | API Handyman](https://apihandyman.io/writing-openapi-swagger-specification-tutorial-part-1-introduction/)
 _<sup>https://apihandyman.io/writing-openapi-swagger-specification-tutorial-part-1-introduction/</sup>_

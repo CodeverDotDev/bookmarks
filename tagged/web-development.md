@@ -2,6 +2,35 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/web-development](https://www.bookmarks.dev/tagged/web-development)</sup></sup>_
 ---
+#### [What is the JAMstack and how do I get started?](https://www.freecodecamp.org/news/what-is-the-jamstack-and-how-do-i-host-my-website-on-it/)
+_<sup>https://www.freecodecamp.org/news/what-is-the-jamstack-and-how-do-i-host-my-website-on-it/</sup>_
+
+* **tags**: [jamstack](../tagged/jamstack.md), [web-development](../tagged/web-development.md), [javascript](../tagged/javascript.md), [html](../tagged/html.md)
+---
+#### [10 Top Chrome Extensions for Front-End Developers - Bits and Pieces](https://blog.bitsrc.io/10-top-chrome-extensions-for-front-end-developers-db23a01dce1e)
+_<sup>https://blog.bitsrc.io/10-top-chrome-extensions-for-front-end-developers-db23a01dce1e</sup>_
+
+Bit is not a chrome extension but it’s definitely a tool in the spirit of “making your dev life easier”. Bit gives you the power to “harvest” reusable components from any codebase and share them to…
+* **tags**: [web-development](../tagged/web-development.md)
+---
+#### [6 Best Browsers for Developers in 2020 | Webdesigner Depo](https://www.webdesignerdepot.com/2020/02/6-best-browsers-for-developers-in-2020/)
+_<sup>https://www.webdesignerdepot.com/2020/02/6-best-browsers-for-developers-in-2020/</sup>_
+
+Web developers do a lot more than just browsing when they're online. Because of this, the average developer needs a browser that's capable of a lot of different
+* **tags**: [web-development](../tagged/web-development.md)
+---
+#### [What is the JAMstack? - Better Programming - Medium](https://medium.com/better-programming/what-is-the-jamstack-d3f854919ab6)
+_<sup>https://medium.com/better-programming/what-is-the-jamstack-d3f854919ab6</sup>_
+
+According to jamstack.org, JAM — which stands for JavaScript, APIs, and Markup — isn’t about specific technologies, but rather: That all sounds great, but how is it different from its predecessors…
+* **tags**: [javascript](../tagged/javascript.md), [web-development](../tagged/web-development.md), [jamstack](../tagged/jamstack.md)
+---
+#### [    Why JavaScript is Eating HTML | CSS-Tricks](https://css-tricks.com/why-javascript-is-eating-html/)
+_<sup>https://css-tricks.com/why-javascript-is-eating-html/</sup>_
+
+Web development is always changing. One trend in particular has become very popular lately, and it fundamentally goes against the conventional wisdom
+* **tags**: [css](../tagged/css.md), [javascript](../tagged/javascript.md), [html](../tagged/html.md), [web-development](../tagged/web-development.md)
+---
 #### [Smashing Magazine](https://www.smashingmagazine.com/)
 _<sup>https://www.smashingmagazine.com/</sup>_
 

@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/expressjs](https://www.bookmarks.dev/tagged/expressjs)</sup></sup>_
 ---
+#### [Express error handling](https://expressjs.com/en/guide/error-handling.html)
+_<sup>https://expressjs.com/en/guide/error-handling.html</sup>_
+
+Error Handling refers to how Express catches and processes errors that occur both synchronously and asynchronously. Express comes with a default error handler so you don’t need to write your own to ge...
+* **tags**: [expressjs](../tagged/expressjs.md), [error-handling](../tagged/error-handling.md)
+---
 #### [Cleaner code in an Express REST API with unified error handling – CodepediaOrg](https://www.codepedia.org/ama/cleaner-code-in-expressjs-rest-api-with-custom-error-handling)
 _<sup>https://www.codepedia.org/ama/cleaner-code-in-expressjs-rest-api-with-custom-error-handling</sup>_
 
@@ -206,7 +212,7 @@ Today, almost every application has to be connected and to share data with other
 _<sup>https://www.npmjs.com/package/swagger-ui-express</sup>_
 
 Adds middleware to your express app to serve the Swagger UI bound to your Swagger document. This acts as living documentation for your API hosted from within your ap
-* **tags**: [swagger](../tagged/swagger.md), [nodejs](../tagged/nodejs.md), [expressjs](../tagged/expressjs.md)
+* **tags**: [swagger](../tagged/swagger.md), [nodejs](../tagged/nodejs.md), [expressjs](../tagged/expressjs.md), [openapi](../tagged/openapi.md)
 * :octocat: **[source code](https://github.com/scottie1984/swagger-ui-express)**
 ---
 #### [body-parser](https://www.npmjs.com/package/body-parser)

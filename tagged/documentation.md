@@ -2,6 +2,20 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/documentation](https://www.bookmarks.dev/tagged/documentation)</sup></sup>_
 ---
+#### [Use JSDoc: Index](https://jsdoc.app/)
+_<sup>https://jsdoc.app/</sup>_
+
+Official documentation for JSDoc 3.
+* **tags**: [jsdoc](../tagged/jsdoc.md), [documentation](../tagged/documentation.md)
+* :octocat: **[source code](https://github.com/jsdoc3/jsdoc)**
+---
+#### [CommonMark Home Page](https://commonmark.org/)
+_<sup>https://commonmark.org/</sup>_
+
+A strongly defined, highly compatible specification of Markdown
+* **tags**: [markdown](../tagged/markdown.md), [documentation](../tagged/documentation.md)
+* :octocat: **[source code](https://github.com/commonmark/commonmark-spec)**
+---
 #### [DevDocs API Documentation](https://devdocs.io/)
 _<sup>https://devdocs.io/</sup>_
 
@@ -285,10 +299,12 @@ Automated JSON API documentation for API's built with Spring
 * **tags**: [spring](../tagged/spring.md), [swagger](../tagged/swagger.md), [rest](../tagged/rest.md), [documentation](../tagged/documentation.md)
 * :octocat: **[source code](https://github.com/springfox/springfox)**
 ---
-#### [Swagger Editor](https://editor.swagger.io/)
+#### [Swagger Editor Home Page](https://editor.swagger.io/)
 _<sup>https://editor.swagger.io/</sup>_
 
-* **tags**: [swagger](../tagged/swagger.md), [api](../tagged/api.md), [documentation](../tagged/documentation.md)
+Swagger Editor lets you edit Swagger API specifications in YAML inside your browser and to preview documentations in real time. Valid Swagger JSON descriptions can then be generated and used with the ...
+* **tags**: [swagger](../tagged/swagger.md), [api](../tagged/api.md), [documentation](../tagged/documentation.md), [openapi](../tagged/openapi.md), [swagger-editor](../tagged/swagger-editor.md)
+* :octocat: **[source code](https://github.com/swagger-api/swagger-editor)**
 ---
 #### [Writing OpenAPI (Swagger) Specification Tutorial - Part 1 - Introduction | API Handyman](https://apihandyman.io/writing-openapi-swagger-specification-tutorial-part-1-introduction/)
 _<sup>https://apihandyman.io/writing-openapi-swagger-specification-tutorial-part-1-introduction/</sup>_

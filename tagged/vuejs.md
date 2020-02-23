@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/vuejs](https://www.bookmarks.dev/tagged/vuejs)</sup></sup>_
 ---
+#### [Bit.dev](https://bit.dev/)
+_<sup>https://bit.dev/</sup>_
+
+Easily share reusable components between projects and applications to build faster as a team. Collaborate to develop, publish and manage components and modules at any scale without overhead. Discover ...
+* **tags**: [angular](../tagged/angular.md), [reactjs](../tagged/reactjs.md), [vuejs](../tagged/vuejs.md), [javascript](../tagged/javascript.md)
+* :octocat: **[source code](https://github.com/teambit/bit)**
+---
 #### [Танилцуулга — Vue.js](http://vue.dev.mn/v2/guide/)
 _<sup>http://vue.dev.mn/v2/guide/</sup>_
 

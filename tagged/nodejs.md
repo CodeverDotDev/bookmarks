@@ -2,6 +2,33 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/nodejs](https://www.bookmarks.dev/tagged/nodejs)</sup></sup>_
 ---
+#### [How do I update devDependencies in NPM?](https://stackoverflow.com/questions/10068592/how-do-i-update-devdependencies-in-npm)
+_<sup>https://stackoverflow.com/questions/10068592/how-do-i-update-devdependencies-in-npm</sup>_
+
+To update package.json in addition to the local modules, run
+...
+* :calendar: **published on**: 2012-04-09
+* **tags**: [npm](../tagged/npm.md), [nodejs](../tagged/nodejs.md)
+---
+#### [GitHub - swagger-api/swagger-node: Swagger module for node.js](https://github.com/swagger-api/swagger-node)
+_<sup>https://github.com/swagger-api/swagger-node</sup>_
+
+The `swagger` module provides tools for designing and building Swagger-compliant APIs entirely in Node.js. It integrates with popular Node.js servers, including Express, Hapi, Restify, and Sails, as w...
+* **tags**: [swagger](../tagged/swagger.md), [openapi](../tagged/openapi.md), [nodejs](../tagged/nodejs.md)
+* :octocat: **[source code](https://github.com/swagger-api/swagger-node)**
+---
+#### [uuidjs/uuid: Generate RFC-compliant UUIDs in JavaScript](https://github.com/uuidjs/uuid)
+_<sup>https://github.com/uuidjs/uuid</sup>_
+
+Simple, fast generation of [RFC4122](http://www.ietf.org/rfc/rfc4122.txt) UUIDs.
+
+Features:
+
+- Support for version 1, 3, 4 and 5 UUIDs
+- Cross-platform: CommonJS build for Node.js and [ECMAScript Modu...
+* **tags**: [javascript](../tagged/javascript.md), [nodejs](../tagged/nodejs.md)
+* :octocat: **[source code](https://github.com/uuidjs/uuid)**
+---
 #### [fpereiro/backendlore: How I write backends](https://github.com/fpereiro/backendlore)
 _<sup>https://github.com/fpereiro/backendlore</sup>_
 
@@ -4932,7 +4959,7 @@ Today, almost every application has to be connected and to share data with other
 _<sup>https://www.npmjs.com/package/swagger-ui-express</sup>_
 
 Adds middleware to your express app to serve the Swagger UI bound to your Swagger document. This acts as living documentation for your API hosted from within your ap
-* **tags**: [swagger](../tagged/swagger.md), [nodejs](../tagged/nodejs.md), [expressjs](../tagged/expressjs.md)
+* **tags**: [swagger](../tagged/swagger.md), [nodejs](../tagged/nodejs.md), [expressjs](../tagged/expressjs.md), [openapi](../tagged/openapi.md)
 * :octocat: **[source code](https://github.com/scottie1984/swagger-ui-express)**
 ---
 #### [body-parser](https://www.npmjs.com/package/body-parser)
@@ -5565,9 +5592,12 @@ There are several types of documentation available on this website:
 * Guides
 * **tags**: [nodejs](../tagged/nodejs.md), [docs](../tagged/docs.md)
 ---
-#### [GitHub - creationix/nvm: Node Version Manager - Simple bash script to manage multiple active node.js versions](https://github.com/creationix/nvm)
-_<sup>https://github.com/creationix/nvm</sup>_
+#### [GitHub - nvm-sh/nvm Node Version Manager](https://github.com/nvm-sh/nvm)
+_<sup>https://github.com/nvm-sh/nvm</sup>_
+
+Simple bash script to manage multiple active node.js versions
 
 Github project: installation, usage, .nvmrc - file containing version number in the project root directory (or any parent directory).
 * **tags**: [nvm](../tagged/nvm.md), [nodejs](../tagged/nodejs.md)
+* :octocat: **[source code](https://github.com/nvm-sh/nvm)**
 ---

@@ -2,6 +2,29 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/css](https://www.bookmarks.dev/tagged/css)</sup></sup>_
 ---
+#### [SASS for CSS: Advance your frontend skills with CSS preprocessor](https://www.educative.io/blog/sass-for-css-advance-frontend-skills)
+_<sup>https://www.educative.io/blog/sass-for-css-advance-frontend-skills</sup>_
+
+SASS makes authoring CSS stylesheets faster and easier. It will revolutionaize your frontend skills. Here's everything you need to know to get started.
+* **tags**: [css](../tagged/css.md), [web-design](../tagged/web-design.md)
+---
+#### [The definitive guide to SCSS - LogRocket Blog](https://blog.logrocket.com/the-definitive-guide-to-scss/)
+_<sup>https://blog.logrocket.com/the-definitive-guide-to-scss/</sup>_
+
+SCSS is not your grandfather's CSS. The self-proclaimed "CSS with superpowers" offers a way to write styles for websites with more enhanced CSS syntax.
+* **tags**: [css](../tagged/css.md), [web-design](../tagged/web-design.md)
+---
+#### [3 Simple Reasons to Use a CSS Preprocessor - By Miguel](https://hackernoon.com/3-simple-reasons-to-use-a-css-preprocessor-dd4y36by?source=rss)
+_<sup>https://hackernoon.com/3-simple-reasons-to-use-a-css-preprocessor-dd4y36by?source=rss</sup>_
+
+* **tags**: [css](../tagged/css.md), [web-design](../tagged/web-design.md)
+---
+#### [    Why JavaScript is Eating HTML | CSS-Tricks](https://css-tricks.com/why-javascript-is-eating-html/)
+_<sup>https://css-tricks.com/why-javascript-is-eating-html/</sup>_
+
+Web development is always changing. One trend in particular has become very popular lately, and it fundamentally goes against the conventional wisdom
+* **tags**: [css](../tagged/css.md), [javascript](../tagged/javascript.md), [html](../tagged/html.md), [web-development](../tagged/web-development.md)
+---
 #### [GitHub - bradtraversy/vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects)
 _<sup>https://github.com/bradtraversy/vanillawebprojects</sup>_
 

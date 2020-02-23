@@ -2,6 +2,17 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/jamstack](https://www.bookmarks.dev/tagged/jamstack)</sup></sup>_
 ---
+#### [What is the JAMstack and how do I get started?](https://www.freecodecamp.org/news/what-is-the-jamstack-and-how-do-i-host-my-website-on-it/)
+_<sup>https://www.freecodecamp.org/news/what-is-the-jamstack-and-how-do-i-host-my-website-on-it/</sup>_
+
+* **tags**: [jamstack](../tagged/jamstack.md), [web-development](../tagged/web-development.md), [javascript](../tagged/javascript.md), [html](../tagged/html.md)
+---
+#### [What is the JAMstack? - Better Programming - Medium](https://medium.com/better-programming/what-is-the-jamstack-d3f854919ab6)
+_<sup>https://medium.com/better-programming/what-is-the-jamstack-d3f854919ab6</sup>_
+
+According to jamstack.org, JAM — which stands for JavaScript, APIs, and Markup — isn’t about specific technologies, but rather: That all sounds great, but how is it different from its predecessors…
+* **tags**: [javascript](../tagged/javascript.md), [web-development](../tagged/web-development.md), [jamstack](../tagged/jamstack.md)
+---
 #### [The JAMstack in 2020: Why (and How) to Get Started - Snipcart](https://snipcart.com/blog/jamstack)
 _<sup>https://snipcart.com/blog/jamstack</sup>_
 

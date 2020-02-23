@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/markdown](https://www.bookmarks.dev/tagged/markdown)</sup></sup>_
 ---
+#### [CommonMark Home Page](https://commonmark.org/)
+_<sup>https://commonmark.org/</sup>_
+
+A strongly defined, highly compatible specification of Markdown
+* **tags**: [markdown](../tagged/markdown.md), [documentation](../tagged/documentation.md)
+* :octocat: **[source code](https://github.com/commonmark/commonmark-spec)**
+---
 #### [kramdown](https://github.com/gettalong/kramdown)
 _<sup>https://github.com/gettalong/kramdown</sup>_
 

@@ -2,6 +2,15 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/open-source](https://www.bookmarks.dev/tagged/open-source)</sup></sup>_
 ---
+#### [Shields.io: Quality metadata badges for open source projects](https://shields.io/)
+_<sup>https://shields.io/</sup>_
+
+We serve fast and scalable informational images as badges
+for GitHub, Travis CI, Jenkins, WordPress and many more services. Use them to
+track the state of your projects, or for promotional purposes.
+* **tags**: [open-source](../tagged/open-source.md), [badge](../tagged/badge.md)
+* :octocat: **[source code](https://github.com/badges/shields)**
+---
 #### [How to make your first pull request on GitHub](https://www.freecodecamp.org/news/how-to-make-your-first-pull-request-on-github-3/)
 _<sup>https://www.freecodecamp.org/news/how-to-make-your-first-pull-request-on-github-3/</sup>_
 

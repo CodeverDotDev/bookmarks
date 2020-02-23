@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/cheatsheet](https://www.bookmarks.dev/tagged/cheatsheet)</sup></sup>_
 ---
+#### [JavaScript Resources | JSArray.com](https://jsarray.com/)
+_<sup>https://jsarray.com/</sup>_
+
+Awesome curated links of JavaScript resources
+* **tags**: [javascript](../tagged/javascript.md), [cheatsheet](../tagged/cheatsheet.md)
+---
 #### [CSS Selectors Cheat Sheet](https://www.freecodecamp.org/news/css-selectors-cheat-sheet/)
 _<sup>https://www.freecodecamp.org/news/css-selectors-cheat-sheet/</sup>_
 

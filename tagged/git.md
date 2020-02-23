@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/git](https://www.bookmarks.dev/tagged/git)</sup></sup>_
 ---
+#### [Git Explorer](https://gitexplorer.com/)
+_<sup>https://gitexplorer.com/</sup>_
+
+GitExplorer: Find the right git commands you need without digging through the web
+* **tags**: [git](../tagged/git.md)
+* :octocat: **[source code](https://github.com/summitech/gitexplorer)**
+---
 #### [How to make your first pull request on GitHub](https://www.freecodecamp.org/news/how-to-make-your-first-pull-request-on-github-3/)
 _<sup>https://www.freecodecamp.org/news/how-to-make-your-first-pull-request-on-github-3/</sup>_
 

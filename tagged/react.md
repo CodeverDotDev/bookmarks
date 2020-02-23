@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/react](https://www.bookmarks.dev/tagged/react)</sup></sup>_
 ---
+#### [Starting With React? Benefit From These Coding Tips](https://levelup.gitconnected.com/starting-with-react-benefit-from-these-coding-tips-fadfb25eaed7)
+_<sup>https://levelup.gitconnected.com/starting-with-react-benefit-from-these-coding-tips-fadfb25eaed7</sup>_
+
+Are you new to React? Or are you looking for just a little more information before you are really going to dive into the adventure of learning this Javascript library? You’re probably not the only…
+* **tags**: [react](../tagged/react.md), [javascript](../tagged/javascript.md)
+---
 #### [
     React Native is the Future of Mobile at Shopify
     

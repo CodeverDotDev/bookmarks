@@ -2,6 +2,22 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/web](https://www.bookmarks.dev/tagged/web)</sup></sup>_
 ---
+#### [11 Useful Online Tools for Frontend Developers - Bits and Pieces](https://blog.bitsrc.io/12-useful-online-tools-for-frontend-developers-bf98f3bf7c63)
+_<sup>https://blog.bitsrc.io/12-useful-online-tools-for-frontend-developers-bf98f3bf7c63</sup>_
+
+* **tags**: [web](../tagged/web.md)
+---
+#### [13 Must-Have Browser Extensions for Web Developers - Better Programming - Medium](https://medium.com/better-programming/13-must-have-browser-extensions-for-web-developers-7f4f3b1c623d)
+_<sup>https://medium.com/better-programming/13-must-have-browser-extensions-for-web-developers-7f4f3b1c623...</sup>_
+
+Modern browsers like Google Chrome not only provide a great experience for visiting websites, but they offer great tools for web developers to build awesome applications. One can choose from a…
+* **tags**: [web](../tagged/web.md), [chrome-devtools](../tagged/chrome-devtools.md)
+---
+#### [Getting Acquainted With Svelte, the New Framework on the Block | CSS-Tricks](https://css-tricks.com/getting-acquainted-with-svelte-the-new-framework-on-the-block/)
+_<sup>https://css-tricks.com/getting-acquainted-with-svelte-the-new-framework-on-the-block/</sup>_
+
+* **tags**: [javascript](../tagged/javascript.md), [web](../tagged/web.md), [svelte](../tagged/svelte.md)
+---
 #### [A brief overview of the TCP/IP model, SSL/TLS/HTTPS protocols and SSL certificates](https://itnext.io/a-brief-overview-of-the-tcp-ip-model-ssl-tls-https-protocols-and-ssl-certificates-d5a6269fe29e)
 _<sup>https://itnext.io/a-brief-overview-of-the-tcp-ip-model-ssl-tls-https-protocols-and-ssl-certificates-...</sup>_
 
