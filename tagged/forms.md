@@ -2,7 +2,7 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/forms](https://www.bookmarks.dev/tagged/forms)</sup></sup>_
 ---
-#### [Using Angular Forms with Async Data - Angular 7 | 8](https://coryrylan.com/blog/using-angular-forms-with-async-data)
+#### [Using Angular Forms with Async Data - Angular](https://coryrylan.com/blog/using-angular-forms-with-async-data)
 _<sup>https://coryrylan.com/blog/using-angular-forms-with-async-data</sup>_
 
 Most single page apps deal with asynchronous API calls in conjunction with user input in some way. Often it’s not clear how or what the best practices are when dealing with async data and forms togeth...

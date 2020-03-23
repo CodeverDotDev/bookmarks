@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/web](https://www.bookmarks.dev/tagged/web)</sup></sup>_
 ---
+#### [GitHub - luruke/browser-2020: Things you can do with a browser in 2020 ☕️](https://github.com/luruke/browser-2020?utm_source=hackernewsletter&utm_medium=email&utm_term=fav)
+_<sup>https://github.com/luruke/browser-2020?utm_source=hackernewsletter&utm_medium=email&utm_term=fav</sup>_
+
+Things you can do with a browser in 2020 ☕️. Contribute to luruke/browser-2020 development by creating an account on GitHub.
+* **tags**: [web](../tagged/web.md), [web-api](../tagged/web-api.md)
+---
 #### [11 Useful Online Tools for Frontend Developers - Bits and Pieces](https://blog.bitsrc.io/12-useful-online-tools-for-frontend-developers-bf98f3bf7c63)
 _<sup>https://blog.bitsrc.io/12-useful-online-tools-for-frontend-developers-bf98f3bf7c63</sup>_
 

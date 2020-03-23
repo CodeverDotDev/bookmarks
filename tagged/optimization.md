@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/optimization](https://www.bookmarks.dev/tagged/optimization)</sup></sup>_
 ---
+#### [Apply instant loading with the PRPL pattern](https://web.dev/apply-instant-loading-with-prpl/)
+_<sup>https://web.dev/apply-instant-loading-with-prpl/</sup>_
+
+PRPL is an acronym that describes a pattern used to make web pages load and become interactive, faster. In this guide, learn how each of these techniques fit together but still can be used independent...
+* :calendar: **published on**: 2018-11-05
+* **tags**: [javascript](../tagged/javascript.md), [performance](../tagged/performance.md), [optimization](../tagged/optimization.md)
+---
 #### [Javascript Hidden Classes and Inline Caching in V8](https://richardartoul.github.io/jekyll/update/2015/04/26/hidden-classes.html)
 _<sup>https://richardartoul.github.io/jekyll/update/2015/04/26/hidden-classes.html</sup>_
 

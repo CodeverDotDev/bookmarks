@@ -2,6 +2,20 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/expressjs](https://www.bookmarks.dev/tagged/expressjs)</sup></sup>_
 ---
+#### [GitHub - badunk/multer-s3 home page](https://github.com/badunk/multer-s3)
+_<sup>https://github.com/badunk/multer-s3</sup>_
+
+multer storage engine for amazon s3
+* **tags**: [multer](../tagged/multer.md), [amazon-s3](../tagged/amazon-s3.md), [aws](../tagged/aws.md), [expressjs](../tagged/expressjs.md), [file-upload](../tagged/file-upload.md)
+* :octocat: **[source code](https://github.com/badunk/multer-s3)**
+---
+#### [expressjs/multer: Node.js middleware for handling `multipart/form-data`.](https://github.com/expressjs/multer)
+_<sup>https://github.com/expressjs/multer</sup>_
+
+Multer is a node.js middleware for handling multipart/form-data, which is primarily used for uploading files. It is written on top of [busboy](https://github.com/mscdex/busboy) for maximum efficiency....
+* **tags**: [nodejs](../tagged/nodejs.md), [expressjs](../tagged/expressjs.md), [multipartform-data](../tagged/multipartform-data.md)
+* :octocat: **[source code](https://github.com/expressjs/multer)**
+---
 #### [Express error handling](https://expressjs.com/en/guide/error-handling.html)
 _<sup>https://expressjs.com/en/guide/error-handling.html</sup>_
 

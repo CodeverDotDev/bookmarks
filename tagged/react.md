@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/react](https://www.bookmarks.dev/tagged/react)</sup></sup>_
 ---
+#### [Learn React Basics in 10 Minutes](https://www.freecodecamp.org/news/learn-react-basics-in-10-minutes/)
+_<sup>https://www.freecodecamp.org/news/learn-react-basics-in-10-minutes/</sup>_
+
+A quick overview of React basics: what it is, how it works, why we need it, and what we can build with it. Learn it all in the time it takes to drink a cup of coffee!
+* **tags**: [javascript](../tagged/javascript.md), [react](../tagged/react.md)
+---
 #### [Starting With React? Benefit From These Coding Tips](https://levelup.gitconnected.com/starting-with-react-benefit-from-these-coding-tips-fadfb25eaed7)
 _<sup>https://levelup.gitconnected.com/starting-with-react-benefit-from-these-coding-tips-fadfb25eaed7</sup>_
 

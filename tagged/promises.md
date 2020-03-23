@@ -2,6 +2,11 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/promises](https://www.bookmarks.dev/tagged/promises)</sup></sup>_
 ---
+#### [toniov/p-iteration: Utilities that make array iteration easy when using async/await or Promises](https://github.com/toniov/p-iteration)
+_<sup>https://github.com/toniov/p-iteration</sup>_
+
+* **tags**: [javascript](../tagged/javascript.md), [foreach](../tagged/foreach.md), [map](../tagged/map.md), [promise](../tagged/promise.md), [promises](../tagged/promises.md)
+---
 #### [Introduction to ES6 Promises - 4 functions to avoid callback hell](http://jamesknelson.com/grokking-es6-promises-the-four-functions-you-need-to-avoid-callback-hell/)
 _<sup>http://jamesknelson.com/grokking-es6-promises-the-four-functions-you-need-to-avoid-callback-hell/</sup>_
 

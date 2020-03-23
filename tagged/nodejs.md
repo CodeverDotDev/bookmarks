@@ -2,6 +2,34 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/nodejs](https://www.bookmarks.dev/tagged/nodejs)</sup></sup>_
 ---
+#### [GitHub - zishon89us/node-cheat: Awesome Node Cheats](https://github.com/zishon89us/node-cheat)
+_<sup>https://github.com/zishon89us/node-cheat</sup>_
+
+:star: Awesome Node Cheats
+* **tags**: [nodejs](../tagged/nodejs.md), [cheatsheet](../tagged/cheatsheet.md), [code-snippets](../tagged/code-snippets.md)
+* :octocat: **[source code](https://github.com/zishon89us/node-cheat)**
+---
+#### [Using AWS S3 Buckets in a NodeJS App](https://medium.com/codebase/using-aws-s3-buckets-in-a-nodejs-app-74da2fc547a6)
+_<sup>https://medium.com/codebase/using-aws-s3-buckets-in-a-nodejs-app-74da2fc547a6</sup>_
+
+We will go through all the process of using a S3 with NodeJS, from creating the S3 Bucket and access credentials to actually use the bucket.
+* :calendar: **published on**: 2018-01-16
+* **tags**: [nodejs](../tagged/nodejs.md), [aws](../tagged/aws.md), [amazon-s3](../tagged/amazon-s3.md)
+---
+#### [GitHub - googleapis/nodejs-storage: Node.js client for Google Cloud Storage](https://github.com/googleapis/nodejs-storage)
+_<sup>https://github.com/googleapis/nodejs-storage</sup>_
+
+Node.js client for Google Cloud Storage: unified object storage for developers and enterprises, from live data serving to data analytics/ML to data archiving. - googleapis/nodejs-storage
+* **tags**: [nodejs](../tagged/nodejs.md), [google-cloud-storage](../tagged/google-cloud-storage.md)
+* :octocat: **[source code](https://github.com/googleapis/nodejs-storage)**
+---
+#### [expressjs/multer: Node.js middleware for handling `multipart/form-data`.](https://github.com/expressjs/multer)
+_<sup>https://github.com/expressjs/multer</sup>_
+
+Multer is a node.js middleware for handling multipart/form-data, which is primarily used for uploading files. It is written on top of [busboy](https://github.com/mscdex/busboy) for maximum efficiency....
+* **tags**: [nodejs](../tagged/nodejs.md), [expressjs](../tagged/expressjs.md), [multipartform-data](../tagged/multipartform-data.md)
+* :octocat: **[source code](https://github.com/expressjs/multer)**
+---
 #### [How do I update devDependencies in NPM?](https://stackoverflow.com/questions/10068592/how-do-i-update-devdependencies-in-npm)
 _<sup>https://stackoverflow.com/questions/10068592/how-do-i-update-devdependencies-in-npm</sup>_
 

@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/flyway](https://www.bookmarks.dev/tagged/flyway)</sup></sup>_
 ---
+#### [One-Stop Guide to Database Migration with Flyway and Spring Boot](https://reflectoring.io/database-migration-spring-boot-flyway/)
+_<sup>https://reflectoring.io/database-migration-spring-boot-flyway/</sup>_
+
+A comprehensive guide for database migrations using Flyway with and without Spring Boot.
+* **tags**: [flyway](../tagged/flyway.md), [spring-boot](../tagged/spring-boot.md), [database-migration](../tagged/database-migration.md)
+* :octocat: **[source code](https://github.com/thombergs/code-examples/tree/master/spring-boot/data-migration/flyway)**
+---
 #### [ Documentation - Flyway by Boxfuse • Database Migrations Made Easy.](https://flywaydb.org/documentation/)
 _<sup>https://flywaydb.org/documentation/</sup>_
 

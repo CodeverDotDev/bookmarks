@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/command-line-tools](https://www.bookmarks.dev/tagged/command-line-tools)</sup></sup>_
 ---
+#### [Amazon S3 Tools: Command Line S3 Client and S3 Backup for Windows, Linux: s3cmd, s3express](https://s3tools.org/s3cmd)
+_<sup>https://s3tools.org/s3cmd</sup>_
+
+S3Cmd, S3Express: Fully-Featured S3 Command Line Tools and S3 Backup Software for Windows, Linux and Mac. More than 60 command line options, including multipart uploads, encryption, incremental backup...
+* **tags**: [aws](../tagged/aws.md), [command-line](../tagged/command-line.md), [command-line-tools](../tagged/command-line-tools.md)
+* :octocat: **[source code](https://github.com/s3tools/s3cmd)**
+---
 #### [cement](http://builtoncement.com/)
 _<sup>http://builtoncement.com/</sup>_
 

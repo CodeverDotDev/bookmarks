@@ -2,6 +2,21 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/performance](https://www.bookmarks.dev/tagged/performance)</sup></sup>_
 ---
+#### [Route preloading strategies in Angular](https://web.dev/route-preloading-in-angular/)
+_<sup>https://web.dev/route-preloading-in-angular/</sup>_
+
+In this post, you'll learn how to speed up navigation when using route-level code splitting by taking advantage of JavaScript preloading in Angular.
+* :calendar: **published on**: 2019-07-09
+* **tags**: [angular](../tagged/angular.md), [performance](../tagged/performance.md), [code-splitting](../tagged/code-splitting.md)
+* :octocat: **[source code](https://github.com/mgechev/route-preloading-web-dev)**
+---
+#### [Apply instant loading with the PRPL pattern](https://web.dev/apply-instant-loading-with-prpl/)
+_<sup>https://web.dev/apply-instant-loading-with-prpl/</sup>_
+
+PRPL is an acronym that describes a pattern used to make web pages load and become interactive, faster. In this guide, learn how each of these techniques fit together but still can be used independent...
+* :calendar: **published on**: 2018-11-05
+* **tags**: [javascript](../tagged/javascript.md), [performance](../tagged/performance.md), [optimization](../tagged/optimization.md)
+---
 #### [How does database indexing work?](https://stackoverflow.com/questions/1108/how-does-database-indexing-work)
 _<sup>https://stackoverflow.com/questions/1108/how-does-database-indexing-work</sup>_
 

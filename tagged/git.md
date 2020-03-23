@@ -2,6 +2,14 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/git](https://www.bookmarks.dev/tagged/git)</sup></sup>_
 ---
+#### [Changing author info - GitHub Help](https://help.github.com/en/github/using-git/changing-author-info)
+_<sup>https://help.github.com/en/github/using-git/changing-author-info</sup>_
+
+**Changing author info**
+
+To change the name and/or email address recorded in existing commits, you must rewrite the entire history of your Git repository.
+* **tags**: [git](../tagged/git.md), [github](../tagged/github.md)
+---
 #### [Git Explorer](https://gitexplorer.com/)
 _<sup>https://gitexplorer.com/</sup>_
 

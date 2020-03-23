@@ -2,6 +2,14 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/file-uploader](https://www.bookmarks.dev/tagged/file-uploader)</sup></sup>_
 ---
+#### [Uppy](https://uppy.io/)
+_<sup>https://uppy.io/</sup>_
+
+Uppy fetches files locally and from remote places like Dropbox or Instagram. With its seamless integration, reliability and ease of use, Uppy is truly your best friend in file uploading.
+
+* **tags**: [file-uploader](../tagged/file-uploader.md), [javascript](../tagged/javascript.md)
+* :octocat: **[source code](https://github.com/transloadit/uppy)**
+---
 #### [jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload)
 _<sup>https://github.com/blueimp/jQuery-File-Upload</sup>_
 

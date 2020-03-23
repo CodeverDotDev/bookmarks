@@ -2,6 +2,67 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/javascript](https://www.bookmarks.dev/tagged/javascript)</sup></sup>_
 ---
+#### [toniov/p-iteration: Utilities that make array iteration easy when using async/await or Promises](https://github.com/toniov/p-iteration)
+_<sup>https://github.com/toniov/p-iteration</sup>_
+
+* **tags**: [javascript](../tagged/javascript.md), [foreach](../tagged/foreach.md), [map](../tagged/map.md), [promise](../tagged/promise.md), [promises](../tagged/promises.md)
+---
+#### [Uppy](https://uppy.io/)
+_<sup>https://uppy.io/</sup>_
+
+Uppy fetches files locally and from remote places like Dropbox or Instagram. With its seamless integration, reliability and ease of use, Uppy is truly your best friend in file uploading.
+
+* **tags**: [file-uploader](../tagged/file-uploader.md), [javascript](../tagged/javascript.md)
+* :octocat: **[source code](https://github.com/transloadit/uppy)**
+---
+#### [Uploading Photos to Amazon S3: Full Code - AWS SDK for JavaScript](https://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/s3-example-photo-album.html)
+_<sup>https://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/s3-example-photo-album.html</sup>_
+
+This browser script code example shows:
+* How to create a browser application that allows users to create photo albums in an Amazon S3 bucket and upload photos into the albums.
+* **tags**: [aws-sdk](../tagged/aws-sdk.md), [javascript](../tagged/javascript.md), [amazon-s3](../tagged/amazon-s3.md)
+---
+#### [Learn React Basics in 10 Minutes](https://www.freecodecamp.org/news/learn-react-basics-in-10-minutes/)
+_<sup>https://www.freecodecamp.org/news/learn-react-basics-in-10-minutes/</sup>_
+
+A quick overview of React basics: what it is, how it works, why we need it, and what we can build with it. Learn it all in the time it takes to drink a cup of coffee!
+* **tags**: [javascript](../tagged/javascript.md), [react](../tagged/react.md)
+---
+#### [GitHub - brix/crypto-js home page](https://github.com/brix/crypto-js)
+_<sup>https://github.com/brix/crypto-js</sup>_
+
+JavaScript library of crypto standards. Contribute to brix/crypto-js development by creating an account on GitHub.
+* **tags**: [javascript](../tagged/javascript.md), [cryptography](../tagged/cryptography.md)
+* :octocat: **[source code](https://github.com/brix/crypto-js)**
+---
+#### [Explore Javascript on AWS](https://aws.amazon.com/developer/language/javascript/)
+_<sup>https://aws.amazon.com/developer/language/javascript/</sup>_
+
+Are you a seasoned AWS developer? Just getting started with AWS? Regardless, if your favorite programming language is JavaScript, then get started here with 10-minute tutorials, technical blog posts, ...
+* **tags**: [aws](../tagged/aws.md), [javascript](../tagged/javascript.md)
+* :octocat: **[source code](https://github.com/aws/aws-sdk-js)**
+---
+#### [Luxon home page](https://moment.github.io/luxon/)
+_<sup>https://moment.github.io/luxon/</sup>_
+
+A powerful, modern, and friendly wrapper for Javascript dates and times.
+* **tags**: [javascript](../tagged/javascript.md), [javascript-frameworks](../tagged/javascript-frameworks.md), [date](../tagged/date.md), [date-manipulation](../tagged/date-manipulation.md), [datetime](../tagged/datetime.md)
+* :octocat: **[source code](https://github.com/moment/luxon)**
+---
+#### [Apply instant loading with the PRPL pattern](https://web.dev/apply-instant-loading-with-prpl/)
+_<sup>https://web.dev/apply-instant-loading-with-prpl/</sup>_
+
+PRPL is an acronym that describes a pattern used to make web pages load and become interactive, faster. In this guide, learn how each of these techniques fit together but still can be used independent...
+* :calendar: **published on**: 2018-11-05
+* **tags**: [javascript](../tagged/javascript.md), [performance](../tagged/performance.md), [optimization](../tagged/optimization.md)
+---
+#### [Reduce JavaScript payloads with code splitting](https://web.dev/reduce-javascript-payloads-with-code-splitting/)
+_<sup>https://web.dev/reduce-javascript-payloads-with-code-splitting/</sup>_
+
+Sending large JavaScript payloads impacts the speed of your site significantly. Instead of shipping all the JavaScript to your user as soon as the first page of your application is loaded, split your ...
+* :calendar: **published on**: 2018-11-05
+* **tags**: [javascript](../tagged/javascript.md), [code-splitting](../tagged/code-splitting.md)
+---
 #### [What is the JAMstack and how do I get started?](https://www.freecodecamp.org/news/what-is-the-jamstack-and-how-do-i-host-my-website-on-it/)
 _<sup>https://www.freecodecamp.org/news/what-is-the-jamstack-and-how-do-i-host-my-website-on-it/</sup>_
 

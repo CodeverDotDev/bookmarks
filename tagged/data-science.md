@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/data-science](https://www.bookmarks.dev/tagged/data-science)</sup></sup>_
 ---
+#### [Big Data: Concepts from A to Z - DEV Community 👩‍💻👨‍💻](https://dev.to/helenanders26/big-data-from-a-to-z-3l7j)
+_<sup>https://dev.to/helenanders26/big-data-from-a-to-z-3l7j</sup>_
+
+Welcome to another awesome list. This time, Big Data and all the tools Data Scientists and Data Engineers use to build platforms and models. Tagged with database, datascience, hadoop, machinelearning.
+* :calendar: **published on**: 2019-05-27
+* **tags**: [big-data](../tagged/big-data.md), [data-science](../tagged/data-science.md)
+---
 #### [awesome-datascience](https://github.com/bulutyazilim/awesome-datascience#readme)
 _<sup>https://github.com/bulutyazilim/awesome-datascience#readme</sup>_
 

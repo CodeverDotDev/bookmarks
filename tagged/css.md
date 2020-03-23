@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/css](https://www.bookmarks.dev/tagged/css)</sup></sup>_
 ---
+#### [The Most Popular Navigation Bars created with Flexbox](https://medium.com/flexbox-and-grids/the-most-popular-navigation-bars-created-with-flexbox-6c0f59f55686)
+_<sup>https://medium.com/flexbox-and-grids/the-most-popular-navigation-bars-created-with-flexbox-6c0f59f55...</sup>_
+
+This is a simple but practical article. The aim is to build the navigation bars for facebook twitter github and medium with Flexbox. 
+* :calendar: **published on**: 2017-07-15
+* **tags**: [flexbox](../tagged/flexbox.md), [css](../tagged/css.md)
+---
 #### [SASS for CSS: Advance your frontend skills with CSS preprocessor](https://www.educative.io/blog/sass-for-css-advance-frontend-skills)
 _<sup>https://www.educative.io/blog/sass-for-css-advance-frontend-skills</sup>_
 

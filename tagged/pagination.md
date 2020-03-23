@@ -2,6 +2,14 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/pagination](https://www.bookmarks.dev/tagged/pagination)</sup></sup>_
 ---
+#### [npm - JW Angular Pagination Component](https://jasonwatmore.com/post/2018/04/26/npm-jw-angular-pagination-component)
+_<sup>https://jasonwatmore.com/post/2018/04/26/npm-jw-angular-pagination-component</sup>_
+
+A simple lightweight pagination component for Angular 2+ available on npm. Compatible with Angular 2+ (2, 4, 5, 6, 7, 8) and Bootstrap 3 & 4.
+* :calendar: **published on**: 2018-04-26
+* **tags**: [angular](../tagged/angular.md), [pagination](../tagged/pagination.md)
+* :octocat: **[source code](https://github.com/cornflourblue/jw-angular-pagination)**
+---
 #### [Fast paging with MongoDB](https://scalegrid.io/blog/fast-paging-with-mongodb/)
 _<sup>https://scalegrid.io/blog/fast-paging-with-mongodb/</sup>_
 

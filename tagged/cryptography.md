@@ -2,6 +2,19 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/cryptography](https://www.bookmarks.dev/tagged/cryptography)</sup></sup>_
 ---
+#### [GitHub - cotag/ts-md5: Type Script MD5 implemenation](https://github.com/cotag/ts-md5)
+_<sup>https://github.com/cotag/ts-md5</sup>_
+
+Type Script MD5 implemenation
+* **tags**: [angular](../tagged/angular.md), [typescript](../tagged/typescript.md), [md5](../tagged/md5.md), [cryptography](../tagged/cryptography.md)
+---
+#### [GitHub - brix/crypto-js home page](https://github.com/brix/crypto-js)
+_<sup>https://github.com/brix/crypto-js</sup>_
+
+JavaScript library of crypto standards. Contribute to brix/crypto-js development by creating an account on GitHub.
+* **tags**: [javascript](../tagged/javascript.md), [cryptography](../tagged/cryptography.md)
+* :octocat: **[source code](https://github.com/brix/crypto-js)**
+---
 #### [Bcrypt](http://bcrypt.sourceforge.net/)
 _<sup>http://bcrypt.sourceforge.net/</sup>_
 

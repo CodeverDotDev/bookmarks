@@ -2,6 +2,73 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/angular](https://www.bookmarks.dev/tagged/angular)</sup></sup>_
 ---
+#### [Angular Uniserval Guide](https://angular.io/guide/universal)
+_<sup>https://angular.io/guide/universal</sup>_
+
+This guide describes **Angular Universal**, a technology that renders Angular applications on the server.
+* **tags**: [angular](../tagged/angular.md), [angular-universal](../tagged/angular-universal.md)
+* :octocat: **[source code](https://angular.io/generated/zips/universal/universal.zip)**
+---
+#### [Angular Universal: Complete Practical Guide](https://blog.angular-university.io/angular-universal/)
+_<sup>https://blog.angular-university.io/angular-universal/</sup>_
+
+This post will be a complete practical guide for getting started with Angular Universal.
+
+We are going to go start with an existing Angular application, and we will progressively turn it into an Angul...
+* **tags**: [angular](../tagged/angular.md), [angular-universal](../tagged/angular-universal.md)
+* :octocat: **[source code](https://github.com/angular-university/angular-universal-course)**
+---
+#### [GitHub - cotag/ts-md5: Type Script MD5 implemenation](https://github.com/cotag/ts-md5)
+_<sup>https://github.com/cotag/ts-md5</sup>_
+
+Type Script MD5 implemenation
+* **tags**: [angular](../tagged/angular.md), [typescript](../tagged/typescript.md), [md5](../tagged/md5.md), [cryptography](../tagged/cryptography.md)
+---
+#### [Angular File Upload](https://valor-software.com/ng2-file-upload/)
+_<sup>https://valor-software.com/ng2-file-upload/</sup>_
+
+Angular2 File Upload
+* **tags**: [angular](../tagged/angular.md), [file-upload](../tagged/file-upload.md)
+* :octocat: **[source code](https://github.com/valor-software/ng2-file-upload)**
+---
+#### [When would you surround routerLink in square brackets?](https://stackoverflow.com/questions/39112257/when-would-you-surround-routerlink-in-square-brackets)
+_<sup>https://stackoverflow.com/questions/39112257/when-would-you-surround-routerlink-in-square-brackets</sup>_
+
+When you put square brackets around routerLink (or any Angular binding) it will evaluate what you pass to it as a JavaScript expression. If you don't put square brackets around routerLink it will take...
+* :calendar: **published on**: 2016-08-23
+* **tags**: [angular](../tagged/angular.md)
+---
+#### [Angular 9's Best Hidden Feature: Strict Template Checking](https://auth0.com/blog/angular-9s-best-hidden-feature-strict-template-checking/)
+_<sup>https://auth0.com/blog/angular-9s-best-hidden-feature-strict-template-checking/</sup>_
+
+Find and report more errors than ever with Angular 9's Ivy compiler, strict template checking.
+* :calendar: **published on**: 2020-03-10
+* **tags**: [angular](../tagged/angular.md)
+---
+#### [Route preloading strategies in Angular](https://web.dev/route-preloading-in-angular/)
+_<sup>https://web.dev/route-preloading-in-angular/</sup>_
+
+In this post, you'll learn how to speed up navigation when using route-level code splitting by taking advantage of JavaScript preloading in Angular.
+* :calendar: **published on**: 2019-07-09
+* **tags**: [angular](../tagged/angular.md), [performance](../tagged/performance.md), [code-splitting](../tagged/code-splitting.md)
+* :octocat: **[source code](https://github.com/mgechev/route-preloading-web-dev)**
+---
+#### [Route-level code splitting in Angular](https://web.dev/route-level-code-splitting-in-angular/)
+_<sup>https://web.dev/route-level-code-splitting-in-angular/</sup>_
+
+This post explains how to set up route-level [code splitting](https://web.dev/reduce-javascript-payloads-with-code-splitting/) in an Angular application, which can reduce JavaScript bundle size and dr...
+* :calendar: **published on**: 2019-06-24
+* **tags**: [angular](../tagged/angular.md), [lazy-loading](../tagged/lazy-loading.md)
+* :octocat: **[source code](https://github.com/mgechev/code-splitting-web-dev)**
+---
+#### [npm - JW Angular Pagination Component](https://jasonwatmore.com/post/2018/04/26/npm-jw-angular-pagination-component)
+_<sup>https://jasonwatmore.com/post/2018/04/26/npm-jw-angular-pagination-component</sup>_
+
+A simple lightweight pagination component for Angular 2+ available on npm. Compatible with Angular 2+ (2, 4, 5, 6, 7, 8) and Bootstrap 3 & 4.
+* :calendar: **published on**: 2018-04-26
+* **tags**: [angular](../tagged/angular.md), [pagination](../tagged/pagination.md)
+* :octocat: **[source code](https://github.com/cornflourblue/jw-angular-pagination)**
+---
 #### [Angular Multiple HTTP Requests with RxJS - Angular 7 | 8](https://coryrylan.com/blog/angular-multiple-http-requests-with-rxjs)
 _<sup>https://coryrylan.com/blog/angular-multiple-http-requests-with-rxjs</sup>_
 
@@ -24,7 +91,7 @@ Easily share reusable components between projects and applications to build fast
 * **tags**: [angular](../tagged/angular.md), [reactjs](../tagged/reactjs.md), [vuejs](../tagged/vuejs.md), [javascript](../tagged/javascript.md)
 * :octocat: **[source code](https://github.com/teambit/bit)**
 ---
-#### [Using Angular Forms with Async Data - Angular 7 | 8](https://coryrylan.com/blog/using-angular-forms-with-async-data)
+#### [Using Angular Forms with Async Data - Angular](https://coryrylan.com/blog/using-angular-forms-with-async-data)
 _<sup>https://coryrylan.com/blog/using-angular-forms-with-async-data</sup>_
 
 Most single page apps deal with asynchronous API calls in conjunction with user input in some way. Often it’s not clear how or what the best practices are when dealing with async data and forms togeth...

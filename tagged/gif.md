@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/gif](https://www.bookmarks.dev/tagged/gif)</sup></sup>_
 ---
+#### [Gifski | Sindre Sorhus](https://sindresorhus.com/gifski)
+_<sup>https://sindresorhus.com/gifski</sup>_
+
+Gifski is a macOS app for the gifski encoder, which converts videos to GIF animations using pngquant's fancy features for efficient cross-frame palettes and temporal dithering. It produces animated GI...
+* **tags**: [gif](../tagged/gif.md), [video-processing](../tagged/video-processing.md)
+* :octocat: **[source code](https://github.com/sindresorhus/Gifski)**
+---
 #### [High quality GIF with FFmpeg](http://blog.pkh.me/p/21-high-quality-gif-with-ffmpeg.html)
 _<sup>http://blog.pkh.me/p/21-high-quality-gif-with-ffmpeg.html</sup>_
 

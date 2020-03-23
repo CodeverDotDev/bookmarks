@@ -2,6 +2,34 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/aws](https://www.bookmarks.dev/tagged/aws)</sup></sup>_
 ---
+#### [GitHub - badunk/multer-s3 home page](https://github.com/badunk/multer-s3)
+_<sup>https://github.com/badunk/multer-s3</sup>_
+
+multer storage engine for amazon s3
+* **tags**: [multer](../tagged/multer.md), [amazon-s3](../tagged/amazon-s3.md), [aws](../tagged/aws.md), [expressjs](../tagged/expressjs.md), [file-upload](../tagged/file-upload.md)
+* :octocat: **[source code](https://github.com/badunk/multer-s3)**
+---
+#### [Amazon S3 Tools: Command Line S3 Client and S3 Backup for Windows, Linux: s3cmd, s3express](https://s3tools.org/s3cmd)
+_<sup>https://s3tools.org/s3cmd</sup>_
+
+S3Cmd, S3Express: Fully-Featured S3 Command Line Tools and S3 Backup Software for Windows, Linux and Mac. More than 60 command line options, including multipart uploads, encryption, incremental backup...
+* **tags**: [aws](../tagged/aws.md), [command-line](../tagged/command-line.md), [command-line-tools](../tagged/command-line-tools.md)
+* :octocat: **[source code](https://github.com/s3tools/s3cmd)**
+---
+#### [Using AWS S3 Buckets in a NodeJS App](https://medium.com/codebase/using-aws-s3-buckets-in-a-nodejs-app-74da2fc547a6)
+_<sup>https://medium.com/codebase/using-aws-s3-buckets-in-a-nodejs-app-74da2fc547a6</sup>_
+
+We will go through all the process of using a S3 with NodeJS, from creating the S3 Bucket and access credentials to actually use the bucket.
+* :calendar: **published on**: 2018-01-16
+* **tags**: [nodejs](../tagged/nodejs.md), [aws](../tagged/aws.md), [amazon-s3](../tagged/amazon-s3.md)
+---
+#### [Explore Javascript on AWS](https://aws.amazon.com/developer/language/javascript/)
+_<sup>https://aws.amazon.com/developer/language/javascript/</sup>_
+
+Are you a seasoned AWS developer? Just getting started with AWS? Regardless, if your favorite programming language is JavaScript, then get started here with 10-minute tutorials, technical blog posts, ...
+* **tags**: [aws](../tagged/aws.md), [javascript](../tagged/javascript.md)
+* :octocat: **[source code](https://github.com/aws/aws-sdk-js)**
+---
 #### [rusoto/rusoto](https://github.com/rusoto/rusoto)
 _<sup>https://github.com/rusoto/rusoto</sup>_
 

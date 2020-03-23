@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/code-snippets](https://www.bookmarks.dev/tagged/code-snippets)</sup></sup>_
 ---
+#### [GitHub - zishon89us/node-cheat: Awesome Node Cheats](https://github.com/zishon89us/node-cheat)
+_<sup>https://github.com/zishon89us/node-cheat</sup>_
+
+:star: Awesome Node Cheats
+* **tags**: [nodejs](../tagged/nodejs.md), [cheatsheet](../tagged/cheatsheet.md), [code-snippets](../tagged/code-snippets.md)
+* :octocat: **[source code](https://github.com/zishon89us/node-cheat)**
+---
 #### [awesome-30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code#readme)
 _<sup>https://github.com/30-seconds/30-seconds-of-code#readme</sup>_
 
