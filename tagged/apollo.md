@@ -1,4 +1,4 @@
-## Bookmarks tagged [[apollo]](https://www.bookmarks.dev?q=[apollo])
+## Bookmarks tagged [[apollo]](https://www.bookmarks.dev/search?q=[apollo])
 
 _<sup><sup>[www.bookmarks.dev/tagged/apollo](https://www.bookmarks.dev/tagged/apollo)</sup></sup>_
 ---

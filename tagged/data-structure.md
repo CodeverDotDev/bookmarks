@@ -1,4 +1,4 @@
-## Bookmarks tagged [[data-structure]](https://www.bookmarks.dev?q=[data-structure])
+## Bookmarks tagged [[data-structure]](https://www.bookmarks.dev/search?q=[data-structure])
 
 _<sup><sup>[www.bookmarks.dev/tagged/data-structure](https://www.bookmarks.dev/tagged/data-structure)</sup></sup>_
 ---

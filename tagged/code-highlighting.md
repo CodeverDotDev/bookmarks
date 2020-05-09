@@ -1,6 +1,26 @@
-## Bookmarks tagged [[code-highlighting]](https://www.bookmarks.dev?q=[code-highlighting])
+## Bookmarks tagged [[code-highlighting]](https://www.bookmarks.dev/search?q=[code-highlighting])
 
 _<sup><sup>[www.bookmarks.dev/tagged/code-highlighting](https://www.bookmarks.dev/tagged/code-highlighting)</sup></sup>_
+---
+#### [Angular HighlightJS Module](https://ngx-highlight.netlify.com/)
+_<sup>https://ngx-highlight.netlify.com/</sup>_
+
+Angular syntax highlighting module.
+* **tags**: [angular](../tagged/angular.md), [highlightjs](../tagged/highlightjs.md), [code-highlighting](../tagged/code-highlighting.md)
+* :octocat: **[source code](https://github.com/MurhafSousli/ngx-highlightjs)**
+---
+#### [highlight.js supported languages](https://github.com/highlightjs/highlight.js/blob/master/SUPPORTED_LANGUAGES.md)
+_<sup>https://github.com/highlightjs/highlight.js/blob/master/SUPPORTED_LANGUAGES.md</sup>_
+
+The table below shows the full list of supported languages (and corresponding classes/aliases)
+* **tags**: [code-highlighting](../tagged/code-highlighting.md), [highlightjs](../tagged/highlightjs.md)
+---
+#### [Rouge](http://rouge.jneen.net/)
+_<sup>http://rouge.jneen.net/</sup>_
+
+An elegant, extendable code highlighter written in pure Ruby.
+* **tags**: [code-highlighting](../tagged/code-highlighting.md), [ruby](../tagged/ruby.md)
+* :octocat: **[source code](https://github.com/rouge-ruby/rouge)**
 ---
 #### [“Copy to Clipboard” Made Easy with Clipboard.js](https://webdesign.tutsplus.com/tutorials/copy-to-clipboard-made-easy-with-clipboardjs--cms-25086)
 _<sup>https://webdesign.tutsplus.com/tutorials/copy-to-clipboard-made-easy-with-clipboardjs--cms-25086</sup>_

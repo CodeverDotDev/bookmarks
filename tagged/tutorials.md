@@ -1,4 +1,4 @@
-## Bookmarks tagged [[tutorials]](https://www.bookmarks.dev?q=[tutorials])
+## Bookmarks tagged [[tutorials]](https://www.bookmarks.dev/search?q=[tutorials])
 
 _<sup><sup>[www.bookmarks.dev/tagged/tutorials](https://www.bookmarks.dev/tagged/tutorials)</sup></sup>_
 ---

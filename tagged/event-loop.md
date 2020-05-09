@@ -1,4 +1,4 @@
-## Bookmarks tagged [[event-loop]](https://www.bookmarks.dev?q=[event-loop])
+## Bookmarks tagged [[event-loop]](https://www.bookmarks.dev/search?q=[event-loop])
 
 _<sup><sup>[www.bookmarks.dev/tagged/event-loop](https://www.bookmarks.dev/tagged/event-loop)</sup></sup>_
 ---

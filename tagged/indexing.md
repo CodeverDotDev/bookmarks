@@ -1,4 +1,4 @@
-## Bookmarks tagged [[indexing]](https://www.bookmarks.dev?q=[indexing])
+## Bookmarks tagged [[indexing]](https://www.bookmarks.dev/search?q=[indexing])
 
 _<sup><sup>[www.bookmarks.dev/tagged/indexing](https://www.bookmarks.dev/tagged/indexing)</sup></sup>_
 ---

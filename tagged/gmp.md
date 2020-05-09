@@ -1,4 +1,4 @@
-## Bookmarks tagged [[gmp]](https://www.bookmarks.dev?q=[gmp])
+## Bookmarks tagged [[gmp]](https://www.bookmarks.dev/search?q=[gmp])
 
 _<sup><sup>[www.bookmarks.dev/tagged/gmp](https://www.bookmarks.dev/tagged/gmp)</sup></sup>_
 ---

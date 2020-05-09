@@ -1,4 +1,4 @@
-## Bookmarks tagged [[performance-analysis]](https://www.bookmarks.dev?q=[performance-analysis])
+## Bookmarks tagged [[performance-analysis]](https://www.bookmarks.dev/search?q=[performance-analysis])
 
 _<sup><sup>[www.bookmarks.dev/tagged/performance-analysis](https://www.bookmarks.dev/tagged/performance-analysis)</sup></sup>_
 ---

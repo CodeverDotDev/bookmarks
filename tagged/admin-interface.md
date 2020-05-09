@@ -1,4 +1,4 @@
-## Bookmarks tagged [[admin-interface]](https://www.bookmarks.dev?q=[admin-interface])
+## Bookmarks tagged [[admin-interface]](https://www.bookmarks.dev/search?q=[admin-interface])
 
 _<sup><sup>[www.bookmarks.dev/tagged/admin-interface](https://www.bookmarks.dev/tagged/admin-interface)</sup></sup>_
 ---

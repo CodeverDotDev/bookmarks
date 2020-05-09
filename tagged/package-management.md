@@ -1,4 +1,4 @@
-## Bookmarks tagged [[package-management]](https://www.bookmarks.dev?q=[package-management])
+## Bookmarks tagged [[package-management]](https://www.bookmarks.dev/search?q=[package-management])
 
 _<sup><sup>[www.bookmarks.dev/tagged/package-management](https://www.bookmarks.dev/tagged/package-management)</sup></sup>_
 ---

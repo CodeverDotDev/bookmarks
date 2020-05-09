@@ -1,4 +1,4 @@
-## Bookmarks tagged [[rest-client]](https://www.bookmarks.dev?q=[rest-client])
+## Bookmarks tagged [[rest-client]](https://www.bookmarks.dev/search?q=[rest-client])
 
 _<sup><sup>[www.bookmarks.dev/tagged/rest-client](https://www.bookmarks.dev/tagged/rest-client)</sup></sup>_
 ---

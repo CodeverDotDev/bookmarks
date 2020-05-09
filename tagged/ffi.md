@@ -1,4 +1,4 @@
-## Bookmarks tagged [[ffi]](https://www.bookmarks.dev?q=[ffi])
+## Bookmarks tagged [[ffi]](https://www.bookmarks.dev/search?q=[ffi])
 
 _<sup><sup>[www.bookmarks.dev/tagged/ffi](https://www.bookmarks.dev/tagged/ffi)</sup></sup>_
 ---

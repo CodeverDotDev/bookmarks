@@ -1,4 +1,4 @@
-## Bookmarks tagged [[angular-universal]](https://www.bookmarks.dev?q=[angular-universal])
+## Bookmarks tagged [[angular-universal]](https://www.bookmarks.dev/search?q=[angular-universal])
 
 _<sup><sup>[www.bookmarks.dev/tagged/angular-universal](https://www.bookmarks.dev/tagged/angular-universal)</sup></sup>_
 ---

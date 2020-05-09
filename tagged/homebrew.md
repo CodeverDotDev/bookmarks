@@ -1,4 +1,4 @@
-## Bookmarks tagged [[homebrew]](https://www.bookmarks.dev?q=[homebrew])
+## Bookmarks tagged [[homebrew]](https://www.bookmarks.dev/search?q=[homebrew])
 
 _<sup><sup>[www.bookmarks.dev/tagged/homebrew](https://www.bookmarks.dev/tagged/homebrew)</sup></sup>_
 ---

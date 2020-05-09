@@ -1,4 +1,4 @@
-## Bookmarks tagged [[amazon-web-service]](https://www.bookmarks.dev?q=[amazon-web-service])
+## Bookmarks tagged [[amazon-web-service]](https://www.bookmarks.dev/search?q=[amazon-web-service])
 
 _<sup><sup>[www.bookmarks.dev/tagged/amazon-web-service](https://www.bookmarks.dev/tagged/amazon-web-service)</sup></sup>_
 ---

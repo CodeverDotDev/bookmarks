@@ -1,4 +1,4 @@
-## Bookmarks tagged [[sdk]](https://www.bookmarks.dev?q=[sdk])
+## Bookmarks tagged [[sdk]](https://www.bookmarks.dev/search?q=[sdk])
 
 _<sup><sup>[www.bookmarks.dev/tagged/sdk](https://www.bookmarks.dev/tagged/sdk)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[vpc]](https://www.bookmarks.dev?q=[vpc])
+## Bookmarks tagged [[vpc]](https://www.bookmarks.dev/search?q=[vpc])
 
 _<sup><sup>[www.bookmarks.dev/tagged/vpc](https://www.bookmarks.dev/tagged/vpc)</sup></sup>_
 ---

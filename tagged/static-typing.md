@@ -1,4 +1,4 @@
-## Bookmarks tagged [[static-typing]](https://www.bookmarks.dev?q=[static-typing])
+## Bookmarks tagged [[static-typing]](https://www.bookmarks.dev/search?q=[static-typing])
 
 _<sup><sup>[www.bookmarks.dev/tagged/static-typing](https://www.bookmarks.dev/tagged/static-typing)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[db2]](https://www.bookmarks.dev?q=[db2])
+## Bookmarks tagged [[db2]](https://www.bookmarks.dev/search?q=[db2])
 
 _<sup><sup>[www.bookmarks.dev/tagged/db2](https://www.bookmarks.dev/tagged/db2)</sup></sup>_
 ---

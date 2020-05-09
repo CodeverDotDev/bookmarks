@@ -1,4 +1,4 @@
-## Bookmarks tagged [[drupal]](https://www.bookmarks.dev?q=[drupal])
+## Bookmarks tagged [[drupal]](https://www.bookmarks.dev/search?q=[drupal])
 
 _<sup><sup>[www.bookmarks.dev/tagged/drupal](https://www.bookmarks.dev/tagged/drupal)</sup></sup>_
 ---

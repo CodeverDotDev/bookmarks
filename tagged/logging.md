@@ -1,4 +1,4 @@
-## Bookmarks tagged [[logging]](https://www.bookmarks.dev?q=[logging])
+## Bookmarks tagged [[logging]](https://www.bookmarks.dev/search?q=[logging])
 
 _<sup><sup>[www.bookmarks.dev/tagged/logging](https://www.bookmarks.dev/tagged/logging)</sup></sup>_
 ---

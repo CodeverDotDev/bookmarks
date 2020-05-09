@@ -1,4 +1,4 @@
-## Bookmarks tagged [[jit]](https://www.bookmarks.dev?q=[jit])
+## Bookmarks tagged [[jit]](https://www.bookmarks.dev/search?q=[jit])
 
 _<sup><sup>[www.bookmarks.dev/tagged/jit](https://www.bookmarks.dev/tagged/jit)</sup></sup>_
 ---

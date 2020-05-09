@@ -1,4 +1,4 @@
-## Bookmarks tagged [[timeline]](https://www.bookmarks.dev?q=[timeline])
+## Bookmarks tagged [[timeline]](https://www.bookmarks.dev/search?q=[timeline])
 
 _<sup><sup>[www.bookmarks.dev/tagged/timeline](https://www.bookmarks.dev/tagged/timeline)</sup></sup>_
 ---

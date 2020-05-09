@@ -1,4 +1,4 @@
-## Bookmarks tagged [[swagger-editor]](https://www.bookmarks.dev?q=[swagger-editor])
+## Bookmarks tagged [[swagger-editor]](https://www.bookmarks.dev/search?q=[swagger-editor])
 
 _<sup><sup>[www.bookmarks.dev/tagged/swagger-editor](https://www.bookmarks.dev/tagged/swagger-editor)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[broadcasting]](https://www.bookmarks.dev?q=[broadcasting])
+## Bookmarks tagged [[broadcasting]](https://www.bookmarks.dev/search?q=[broadcasting])
 
 _<sup><sup>[www.bookmarks.dev/tagged/broadcasting](https://www.bookmarks.dev/tagged/broadcasting)</sup></sup>_
 ---

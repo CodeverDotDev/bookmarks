@@ -1,4 +1,4 @@
-## Bookmarks tagged [[professional-development]](https://www.bookmarks.dev?q=[professional-development])
+## Bookmarks tagged [[professional-development]](https://www.bookmarks.dev/search?q=[professional-development])
 
 _<sup><sup>[www.bookmarks.dev/tagged/professional-development](https://www.bookmarks.dev/tagged/professional-development)</sup></sup>_
 ---

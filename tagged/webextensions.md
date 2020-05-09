@@ -1,4 +1,4 @@
-## Bookmarks tagged [[webextensions]](https://www.bookmarks.dev?q=[webextensions])
+## Bookmarks tagged [[webextensions]](https://www.bookmarks.dev/search?q=[webextensions])
 
 _<sup><sup>[www.bookmarks.dev/tagged/webextensions](https://www.bookmarks.dev/tagged/webextensions)</sup></sup>_
 ---

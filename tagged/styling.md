@@ -1,4 +1,4 @@
-## Bookmarks tagged [[styling]](https://www.bookmarks.dev?q=[styling])
+## Bookmarks tagged [[styling]](https://www.bookmarks.dev/search?q=[styling])
 
 _<sup><sup>[www.bookmarks.dev/tagged/styling](https://www.bookmarks.dev/tagged/styling)</sup></sup>_
 ---

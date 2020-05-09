@@ -1,4 +1,4 @@
-## Bookmarks tagged [[zeromq]](https://www.bookmarks.dev?q=[zeromq])
+## Bookmarks tagged [[zeromq]](https://www.bookmarks.dev/search?q=[zeromq])
 
 _<sup><sup>[www.bookmarks.dev/tagged/zeromq](https://www.bookmarks.dev/tagged/zeromq)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[c++]](https://www.bookmarks.dev?q=[c++])
+## Bookmarks tagged [[c++]](https://www.bookmarks.dev/search?q=[c++])
 
 _<sup><sup>[www.bookmarks.dev/tagged/c++](https://www.bookmarks.dev/tagged/c++)</sup></sup>_
 ---

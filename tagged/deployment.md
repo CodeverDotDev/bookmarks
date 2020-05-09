@@ -1,4 +1,4 @@
-## Bookmarks tagged [[deployment]](https://www.bookmarks.dev?q=[deployment])
+## Bookmarks tagged [[deployment]](https://www.bookmarks.dev/search?q=[deployment])
 
 _<sup><sup>[www.bookmarks.dev/tagged/deployment](https://www.bookmarks.dev/tagged/deployment)</sup></sup>_
 ---

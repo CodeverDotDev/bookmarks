@@ -1,4 +1,4 @@
-## Bookmarks tagged [[sitemap]](https://www.bookmarks.dev?q=[sitemap])
+## Bookmarks tagged [[sitemap]](https://www.bookmarks.dev/search?q=[sitemap])
 
 _<sup><sup>[www.bookmarks.dev/tagged/sitemap](https://www.bookmarks.dev/tagged/sitemap)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[arrays]](https://www.bookmarks.dev?q=[arrays])
+## Bookmarks tagged [[arrays]](https://www.bookmarks.dev/search?q=[arrays])
 
 _<sup><sup>[www.bookmarks.dev/tagged/arrays](https://www.bookmarks.dev/tagged/arrays)</sup></sup>_
 ---

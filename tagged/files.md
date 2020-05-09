@@ -1,4 +1,4 @@
-## Bookmarks tagged [[files]](https://www.bookmarks.dev?q=[files])
+## Bookmarks tagged [[files]](https://www.bookmarks.dev/search?q=[files])
 
 _<sup><sup>[www.bookmarks.dev/tagged/files](https://www.bookmarks.dev/tagged/files)</sup></sup>_
 ---

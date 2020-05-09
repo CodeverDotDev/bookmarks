@@ -1,4 +1,4 @@
-## Bookmarks tagged [[compilation]](https://www.bookmarks.dev?q=[compilation])
+## Bookmarks tagged [[compilation]](https://www.bookmarks.dev/search?q=[compilation])
 
 _<sup><sup>[www.bookmarks.dev/tagged/compilation](https://www.bookmarks.dev/tagged/compilation)</sup></sup>_
 ---

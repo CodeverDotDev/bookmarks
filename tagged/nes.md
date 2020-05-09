@@ -1,4 +1,4 @@
-## Bookmarks tagged [[nes]](https://www.bookmarks.dev?q=[nes])
+## Bookmarks tagged [[nes]](https://www.bookmarks.dev/search?q=[nes])
 
 _<sup><sup>[www.bookmarks.dev/tagged/nes](https://www.bookmarks.dev/tagged/nes)</sup></sup>_
 ---

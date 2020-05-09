@@ -1,4 +1,4 @@
-## Bookmarks tagged [[cross-compiling]](https://www.bookmarks.dev?q=[cross-compiling])
+## Bookmarks tagged [[cross-compiling]](https://www.bookmarks.dev/search?q=[cross-compiling])
 
 _<sup><sup>[www.bookmarks.dev/tagged/cross-compiling](https://www.bookmarks.dev/tagged/cross-compiling)</sup></sup>_
 ---

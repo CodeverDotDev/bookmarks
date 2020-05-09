@@ -1,4 +1,4 @@
-## Bookmarks tagged [[window-managers]](https://www.bookmarks.dev?q=[window-managers])
+## Bookmarks tagged [[window-managers]](https://www.bookmarks.dev/search?q=[window-managers])
 
 _<sup><sup>[www.bookmarks.dev/tagged/window-managers](https://www.bookmarks.dev/tagged/window-managers)</sup></sup>_
 ---

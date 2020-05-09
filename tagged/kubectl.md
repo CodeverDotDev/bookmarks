@@ -1,4 +1,4 @@
-## Bookmarks tagged [[kubectl]](https://www.bookmarks.dev?q=[kubectl])
+## Bookmarks tagged [[kubectl]](https://www.bookmarks.dev/search?q=[kubectl])
 
 _<sup><sup>[www.bookmarks.dev/tagged/kubectl](https://www.bookmarks.dev/tagged/kubectl)</sup></sup>_
 ---

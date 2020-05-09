@@ -1,4 +1,4 @@
-## Bookmarks tagged [[yaml]](https://www.bookmarks.dev?q=[yaml])
+## Bookmarks tagged [[yaml]](https://www.bookmarks.dev/search?q=[yaml])
 
 _<sup><sup>[www.bookmarks.dev/tagged/yaml](https://www.bookmarks.dev/tagged/yaml)</sup></sup>_
 ---

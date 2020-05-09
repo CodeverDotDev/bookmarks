@@ -1,4 +1,4 @@
-## Bookmarks tagged [[lego-mindstorms]](https://www.bookmarks.dev?q=[lego-mindstorms])
+## Bookmarks tagged [[lego-mindstorms]](https://www.bookmarks.dev/search?q=[lego-mindstorms])
 
 _<sup><sup>[www.bookmarks.dev/tagged/lego-mindstorms](https://www.bookmarks.dev/tagged/lego-mindstorms)</sup></sup>_
 ---

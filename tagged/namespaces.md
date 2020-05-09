@@ -1,4 +1,4 @@
-## Bookmarks tagged [[namespaces]](https://www.bookmarks.dev?q=[namespaces])
+## Bookmarks tagged [[namespaces]](https://www.bookmarks.dev/search?q=[namespaces])
 
 _<sup><sup>[www.bookmarks.dev/tagged/namespaces](https://www.bookmarks.dev/tagged/namespaces)</sup></sup>_
 ---

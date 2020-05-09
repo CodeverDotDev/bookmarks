@@ -1,4 +1,4 @@
-## Bookmarks tagged [[indice]](https://www.bookmarks.dev?q=[indice])
+## Bookmarks tagged [[indice]](https://www.bookmarks.dev/search?q=[indice])
 
 _<sup><sup>[www.bookmarks.dev/tagged/indice](https://www.bookmarks.dev/tagged/indice)</sup></sup>_
 ---

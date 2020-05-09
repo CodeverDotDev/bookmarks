@@ -1,4 +1,4 @@
-## Bookmarks tagged [[transpiling]](https://www.bookmarks.dev?q=[transpiling])
+## Bookmarks tagged [[transpiling]](https://www.bookmarks.dev/search?q=[transpiling])
 
 _<sup><sup>[www.bookmarks.dev/tagged/transpiling](https://www.bookmarks.dev/tagged/transpiling)</sup></sup>_
 ---

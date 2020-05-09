@@ -1,4 +1,4 @@
-## Bookmarks tagged [[voice-command]](https://www.bookmarks.dev?q=[voice-command])
+## Bookmarks tagged [[voice-command]](https://www.bookmarks.dev/search?q=[voice-command])
 
 _<sup><sup>[www.bookmarks.dev/tagged/voice-command](https://www.bookmarks.dev/tagged/voice-command)</sup></sup>_
 ---

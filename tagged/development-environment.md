@@ -1,4 +1,4 @@
-## Bookmarks tagged [[development-environment]](https://www.bookmarks.dev?q=[development-environment])
+## Bookmarks tagged [[development-environment]](https://www.bookmarks.dev/search?q=[development-environment])
 
 _<sup><sup>[www.bookmarks.dev/tagged/development-environment](https://www.bookmarks.dev/tagged/development-environment)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[alpine]](https://www.bookmarks.dev?q=[alpine])
+## Bookmarks tagged [[alpine]](https://www.bookmarks.dev/search?q=[alpine])
 
 _<sup><sup>[www.bookmarks.dev/tagged/alpine](https://www.bookmarks.dev/tagged/alpine)</sup></sup>_
 ---

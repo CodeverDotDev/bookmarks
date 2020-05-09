@@ -1,4 +1,4 @@
-## Bookmarks tagged [[web3]](https://www.bookmarks.dev?q=[web3])
+## Bookmarks tagged [[web3]](https://www.bookmarks.dev/search?q=[web3])
 
 _<sup><sup>[www.bookmarks.dev/tagged/web3](https://www.bookmarks.dev/tagged/web3)</sup></sup>_
 ---

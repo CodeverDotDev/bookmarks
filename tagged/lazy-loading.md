@@ -1,4 +1,4 @@
-## Bookmarks tagged [[lazy-loading]](https://www.bookmarks.dev?q=[lazy-loading])
+## Bookmarks tagged [[lazy-loading]](https://www.bookmarks.dev/search?q=[lazy-loading])
 
 _<sup><sup>[www.bookmarks.dev/tagged/lazy-loading](https://www.bookmarks.dev/tagged/lazy-loading)</sup></sup>_
 ---

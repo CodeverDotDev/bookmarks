@@ -1,4 +1,4 @@
-## Bookmarks tagged [[inter-process-communication]](https://www.bookmarks.dev?q=[inter-process-communication])
+## Bookmarks tagged [[inter-process-communication]](https://www.bookmarks.dev/search?q=[inter-process-communication])
 
 _<sup><sup>[www.bookmarks.dev/tagged/inter-process-communication](https://www.bookmarks.dev/tagged/inter-process-communication)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[rr]](https://www.bookmarks.dev?q=[rr])
+## Bookmarks tagged [[rr]](https://www.bookmarks.dev/search?q=[rr])
 
 _<sup><sup>[www.bookmarks.dev/tagged/rr](https://www.bookmarks.dev/tagged/rr)</sup></sup>_
 ---

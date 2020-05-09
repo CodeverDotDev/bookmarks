@@ -1,4 +1,4 @@
-## Bookmarks tagged [[process-management]](https://www.bookmarks.dev?q=[process-management])
+## Bookmarks tagged [[process-management]](https://www.bookmarks.dev/search?q=[process-management])
 
 _<sup><sup>[www.bookmarks.dev/tagged/process-management](https://www.bookmarks.dev/tagged/process-management)</sup></sup>_
 ---

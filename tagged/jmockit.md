@@ -1,4 +1,4 @@
-## Bookmarks tagged [[jmockit]](https://www.bookmarks.dev?q=[jmockit])
+## Bookmarks tagged [[jmockit]](https://www.bookmarks.dev/search?q=[jmockit])
 
 _<sup><sup>[www.bookmarks.dev/tagged/jmockit](https://www.bookmarks.dev/tagged/jmockit)</sup></sup>_
 ---

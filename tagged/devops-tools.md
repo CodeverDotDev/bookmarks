@@ -1,4 +1,4 @@
-## Bookmarks tagged [[devops-tools]](https://www.bookmarks.dev?q=[devops-tools])
+## Bookmarks tagged [[devops-tools]](https://www.bookmarks.dev/search?q=[devops-tools])
 
 _<sup><sup>[www.bookmarks.dev/tagged/devops-tools](https://www.bookmarks.dev/tagged/devops-tools)</sup></sup>_
 ---

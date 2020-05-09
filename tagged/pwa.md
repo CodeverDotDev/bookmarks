@@ -1,4 +1,4 @@
-## Bookmarks tagged [[pwa]](https://www.bookmarks.dev?q=[pwa])
+## Bookmarks tagged [[pwa]](https://www.bookmarks.dev/search?q=[pwa])
 
 _<sup><sup>[www.bookmarks.dev/tagged/pwa](https://www.bookmarks.dev/tagged/pwa)</sup></sup>_
 ---

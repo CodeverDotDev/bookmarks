@@ -1,4 +1,4 @@
-## Bookmarks tagged [[data-engineering]](https://www.bookmarks.dev?q=[data-engineering])
+## Bookmarks tagged [[data-engineering]](https://www.bookmarks.dev/search?q=[data-engineering])
 
 _<sup><sup>[www.bookmarks.dev/tagged/data-engineering](https://www.bookmarks.dev/tagged/data-engineering)</sup></sup>_
 ---

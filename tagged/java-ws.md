@@ -1,4 +1,4 @@
-## Bookmarks tagged [[java-ws]](https://www.bookmarks.dev?q=[java-ws])
+## Bookmarks tagged [[java-ws]](https://www.bookmarks.dev/search?q=[java-ws])
 
 _<sup><sup>[www.bookmarks.dev/tagged/java-ws](https://www.bookmarks.dev/tagged/java-ws)</sup></sup>_
 ---

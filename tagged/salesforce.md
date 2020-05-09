@@ -1,4 +1,4 @@
-## Bookmarks tagged [[salesforce]](https://www.bookmarks.dev?q=[salesforce])
+## Bookmarks tagged [[salesforce]](https://www.bookmarks.dev/search?q=[salesforce])
 
 _<sup><sup>[www.bookmarks.dev/tagged/salesforce](https://www.bookmarks.dev/tagged/salesforce)</sup></sup>_
 ---

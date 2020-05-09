@@ -1,4 +1,4 @@
-## Bookmarks tagged [[spip]](https://www.bookmarks.dev?q=[spip])
+## Bookmarks tagged [[spip]](https://www.bookmarks.dev/search?q=[spip])
 
 _<sup><sup>[www.bookmarks.dev/tagged/spip](https://www.bookmarks.dev/tagged/spip)</sup></sup>_
 ---

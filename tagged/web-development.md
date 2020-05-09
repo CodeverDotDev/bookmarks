@@ -1,6 +1,12 @@
-## Bookmarks tagged [[web-development]](https://www.bookmarks.dev?q=[web-development])
+## Bookmarks tagged [[web-development]](https://www.bookmarks.dev/search?q=[web-development])
 
 _<sup><sup>[www.bookmarks.dev/tagged/web-development](https://www.bookmarks.dev/tagged/web-development)</sup></sup>_
+---
+#### [Web Skills](https://andreasbm.github.io/web-skills/)
+_<sup>https://andreasbm.github.io/web-skills/</sup>_
+
+A visual overview of useful skills to learn as a web developer
+* **tags**: [web-development](../tagged/web-development.md)
 ---
 #### [What is the JAMstack and how do I get started?](https://www.freecodecamp.org/news/what-is-the-jamstack-and-how-do-i-host-my-website-on-it/)
 _<sup>https://www.freecodecamp.org/news/what-is-the-jamstack-and-how-do-i-host-my-website-on-it/</sup>_

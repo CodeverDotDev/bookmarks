@@ -1,4 +1,4 @@
-## Bookmarks tagged [[etcd]](https://www.bookmarks.dev?q=[etcd])
+## Bookmarks tagged [[etcd]](https://www.bookmarks.dev/search?q=[etcd])
 
 _<sup><sup>[www.bookmarks.dev/tagged/etcd](https://www.bookmarks.dev/tagged/etcd)</sup></sup>_
 ---

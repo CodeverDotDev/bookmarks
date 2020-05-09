@@ -1,4 +1,4 @@
-## Bookmarks tagged [[spreadsheet]](https://www.bookmarks.dev?q=[spreadsheet])
+## Bookmarks tagged [[spreadsheet]](https://www.bookmarks.dev/search?q=[spreadsheet])
 
 _<sup><sup>[www.bookmarks.dev/tagged/spreadsheet](https://www.bookmarks.dev/tagged/spreadsheet)</sup></sup>_
 ---

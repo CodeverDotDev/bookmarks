@@ -1,4 +1,4 @@
-## Bookmarks tagged [[application-generator]](https://www.bookmarks.dev?q=[application-generator])
+## Bookmarks tagged [[application-generator]](https://www.bookmarks.dev/search?q=[application-generator])
 
 _<sup><sup>[www.bookmarks.dev/tagged/application-generator](https://www.bookmarks.dev/tagged/application-generator)</sup></sup>_
 ---

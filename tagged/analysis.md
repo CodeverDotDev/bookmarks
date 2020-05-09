@@ -1,4 +1,4 @@
-## Bookmarks tagged [[analysis]](https://www.bookmarks.dev?q=[analysis])
+## Bookmarks tagged [[analysis]](https://www.bookmarks.dev/search?q=[analysis])
 
 _<sup><sup>[www.bookmarks.dev/tagged/analysis](https://www.bookmarks.dev/tagged/analysis)</sup></sup>_
 ---

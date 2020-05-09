@@ -1,4 +1,4 @@
-## Bookmarks tagged [[properties]](https://www.bookmarks.dev?q=[properties])
+## Bookmarks tagged [[properties]](https://www.bookmarks.dev/search?q=[properties])
 
 _<sup><sup>[www.bookmarks.dev/tagged/properties](https://www.bookmarks.dev/tagged/properties)</sup></sup>_
 ---

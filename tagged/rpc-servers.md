@@ -1,4 +1,4 @@
-## Bookmarks tagged [[rpc-servers]](https://www.bookmarks.dev?q=[rpc-servers])
+## Bookmarks tagged [[rpc-servers]](https://www.bookmarks.dev/search?q=[rpc-servers])
 
 _<sup><sup>[www.bookmarks.dev/tagged/rpc-servers](https://www.bookmarks.dev/tagged/rpc-servers)</sup></sup>_
 ---

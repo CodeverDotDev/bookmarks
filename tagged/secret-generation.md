@@ -1,4 +1,4 @@
-## Bookmarks tagged [[secret-generation]](https://www.bookmarks.dev?q=[secret-generation])
+## Bookmarks tagged [[secret-generation]](https://www.bookmarks.dev/search?q=[secret-generation])
 
 _<sup><sup>[www.bookmarks.dev/tagged/secret-generation](https://www.bookmarks.dev/tagged/secret-generation)</sup></sup>_
 ---

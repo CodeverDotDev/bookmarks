@@ -1,4 +1,4 @@
-## Bookmarks tagged [[cpp]](https://www.bookmarks.dev?q=[cpp])
+## Bookmarks tagged [[cpp]](https://www.bookmarks.dev/search?q=[cpp])
 
 _<sup><sup>[www.bookmarks.dev/tagged/cpp](https://www.bookmarks.dev/tagged/cpp)</sup></sup>_
 ---

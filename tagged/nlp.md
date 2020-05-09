@@ -1,4 +1,4 @@
-## Bookmarks tagged [[nlp]](https://www.bookmarks.dev?q=[nlp])
+## Bookmarks tagged [[nlp]](https://www.bookmarks.dev/search?q=[nlp])
 
 _<sup><sup>[www.bookmarks.dev/tagged/nlp](https://www.bookmarks.dev/tagged/nlp)</sup></sup>_
 ---

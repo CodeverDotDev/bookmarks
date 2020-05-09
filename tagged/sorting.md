@@ -1,4 +1,4 @@
-## Bookmarks tagged [[sorting]](https://www.bookmarks.dev?q=[sorting])
+## Bookmarks tagged [[sorting]](https://www.bookmarks.dev/search?q=[sorting])
 
 _<sup><sup>[www.bookmarks.dev/tagged/sorting](https://www.bookmarks.dev/tagged/sorting)</sup></sup>_
 ---

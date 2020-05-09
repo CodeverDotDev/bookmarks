@@ -1,4 +1,4 @@
-## Bookmarks tagged [[log4j]](https://www.bookmarks.dev?q=[log4j])
+## Bookmarks tagged [[log4j]](https://www.bookmarks.dev/search?q=[log4j])
 
 _<sup><sup>[www.bookmarks.dev/tagged/log4j](https://www.bookmarks.dev/tagged/log4j)</sup></sup>_
 ---

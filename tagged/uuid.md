@@ -1,4 +1,4 @@
-## Bookmarks tagged [[uuid]](https://www.bookmarks.dev?q=[uuid])
+## Bookmarks tagged [[uuid]](https://www.bookmarks.dev/search?q=[uuid])
 
 _<sup><sup>[www.bookmarks.dev/tagged/uuid](https://www.bookmarks.dev/tagged/uuid)</sup></sup>_
 ---

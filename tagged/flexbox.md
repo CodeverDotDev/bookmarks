@@ -1,4 +1,4 @@
-## Bookmarks tagged [[flexbox]](https://www.bookmarks.dev?q=[flexbox])
+## Bookmarks tagged [[flexbox]](https://www.bookmarks.dev/search?q=[flexbox])
 
 _<sup><sup>[www.bookmarks.dev/tagged/flexbox](https://www.bookmarks.dev/tagged/flexbox)</sup></sup>_
 ---

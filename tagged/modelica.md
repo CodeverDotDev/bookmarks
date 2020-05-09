@@ -1,4 +1,4 @@
-## Bookmarks tagged [[modelica]](https://www.bookmarks.dev?q=[modelica])
+## Bookmarks tagged [[modelica]](https://www.bookmarks.dev/search?q=[modelica])
 
 _<sup><sup>[www.bookmarks.dev/tagged/modelica](https://www.bookmarks.dev/tagged/modelica)</sup></sup>_
 ---

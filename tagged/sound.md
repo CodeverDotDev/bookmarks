@@ -1,4 +1,4 @@
-## Bookmarks tagged [[sound]](https://www.bookmarks.dev?q=[sound])
+## Bookmarks tagged [[sound]](https://www.bookmarks.dev/search?q=[sound])
 
 _<sup><sup>[www.bookmarks.dev/tagged/sound](https://www.bookmarks.dev/tagged/sound)</sup></sup>_
 ---

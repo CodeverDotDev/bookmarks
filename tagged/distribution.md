@@ -1,4 +1,4 @@
-## Bookmarks tagged [[distribution]](https://www.bookmarks.dev?q=[distribution])
+## Bookmarks tagged [[distribution]](https://www.bookmarks.dev/search?q=[distribution])
 
 _<sup><sup>[www.bookmarks.dev/tagged/distribution](https://www.bookmarks.dev/tagged/distribution)</sup></sup>_
 ---

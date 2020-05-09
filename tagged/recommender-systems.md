@@ -1,4 +1,4 @@
-## Bookmarks tagged [[recommender-systems]](https://www.bookmarks.dev?q=[recommender-systems])
+## Bookmarks tagged [[recommender-systems]](https://www.bookmarks.dev/search?q=[recommender-systems])
 
 _<sup><sup>[www.bookmarks.dev/tagged/recommender-systems](https://www.bookmarks.dev/tagged/recommender-systems)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[server-side]](https://www.bookmarks.dev?q=[server-side])
+## Bookmarks tagged [[server-side]](https://www.bookmarks.dev/search?q=[server-side])
 
 _<sup><sup>[www.bookmarks.dev/tagged/server-side](https://www.bookmarks.dev/tagged/server-side)</sup></sup>_
 ---

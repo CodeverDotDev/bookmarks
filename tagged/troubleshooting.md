@@ -1,4 +1,4 @@
-## Bookmarks tagged [[troubleshooting]](https://www.bookmarks.dev?q=[troubleshooting])
+## Bookmarks tagged [[troubleshooting]](https://www.bookmarks.dev/search?q=[troubleshooting])
 
 _<sup><sup>[www.bookmarks.dev/tagged/troubleshooting](https://www.bookmarks.dev/tagged/troubleshooting)</sup></sup>_
 ---

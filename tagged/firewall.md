@@ -1,4 +1,4 @@
-## Bookmarks tagged [[firewall]](https://www.bookmarks.dev?q=[firewall])
+## Bookmarks tagged [[firewall]](https://www.bookmarks.dev/search?q=[firewall])
 
 _<sup><sup>[www.bookmarks.dev/tagged/firewall](https://www.bookmarks.dev/tagged/firewall)</sup></sup>_
 ---

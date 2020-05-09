@@ -1,4 +1,4 @@
-## Bookmarks tagged [[löve]](https://www.bookmarks.dev?q=[löve])
+## Bookmarks tagged [[löve]](https://www.bookmarks.dev/search?q=[löve])
 
 _<sup><sup>[www.bookmarks.dev/tagged/löve](https://www.bookmarks.dev/tagged/löve)</sup></sup>_
 ---

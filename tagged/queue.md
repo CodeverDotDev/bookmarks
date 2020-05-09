@@ -1,4 +1,4 @@
-## Bookmarks tagged [[queue]](https://www.bookmarks.dev?q=[queue])
+## Bookmarks tagged [[queue]](https://www.bookmarks.dev/search?q=[queue])
 
 _<sup><sup>[www.bookmarks.dev/tagged/queue](https://www.bookmarks.dev/tagged/queue)</sup></sup>_
 ---

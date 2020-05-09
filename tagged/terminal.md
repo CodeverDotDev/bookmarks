@@ -1,4 +1,4 @@
-## Bookmarks tagged [[terminal]](https://www.bookmarks.dev?q=[terminal])
+## Bookmarks tagged [[terminal]](https://www.bookmarks.dev/search?q=[terminal])
 
 _<sup><sup>[www.bookmarks.dev/tagged/terminal](https://www.bookmarks.dev/tagged/terminal)</sup></sup>_
 ---

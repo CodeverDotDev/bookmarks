@@ -1,4 +1,4 @@
-## Bookmarks tagged [[tooltip]](https://www.bookmarks.dev?q=[tooltip])
+## Bookmarks tagged [[tooltip]](https://www.bookmarks.dev/search?q=[tooltip])
 
 _<sup><sup>[www.bookmarks.dev/tagged/tooltip](https://www.bookmarks.dev/tagged/tooltip)</sup></sup>_
 ---

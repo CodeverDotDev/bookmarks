@@ -1,4 +1,4 @@
-## Bookmarks tagged [[graphics]](https://www.bookmarks.dev?q=[graphics])
+## Bookmarks tagged [[graphics]](https://www.bookmarks.dev/search?q=[graphics])
 
 _<sup><sup>[www.bookmarks.dev/tagged/graphics](https://www.bookmarks.dev/tagged/graphics)</sup></sup>_
 ---

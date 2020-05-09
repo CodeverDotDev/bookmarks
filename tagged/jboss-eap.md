@@ -1,4 +1,4 @@
-## Bookmarks tagged [[jboss-eap]](https://www.bookmarks.dev?q=[jboss-eap])
+## Bookmarks tagged [[jboss-eap]](https://www.bookmarks.dev/search?q=[jboss-eap])
 
 _<sup><sup>[www.bookmarks.dev/tagged/jboss-eap](https://www.bookmarks.dev/tagged/jboss-eap)</sup></sup>_
 ---

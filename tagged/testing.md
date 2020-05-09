@@ -1,6 +1,46 @@
-## Bookmarks tagged [[testing]](https://www.bookmarks.dev?q=[testing])
+## Bookmarks tagged [[testing]](https://www.bookmarks.dev/search?q=[testing])
 
 _<sup><sup>[www.bookmarks.dev/tagged/testing](https://www.bookmarks.dev/tagged/testing)</sup></sup>_
+---
+#### [Continuous Testing for Enterprise Organizations - The ACT Framework](https://www.theactframework.com/)
+_<sup>https://www.theactframework.com/</sup>_
+
+The ACT Framework contains all the ingredients for Continuous Testing in enterprise organizations
+* **tags**: [testing](../tagged/testing.md)
+---
+#### [Agile Testing Mindset and the Role of the Agile Tester](https://devqa.io/agile/agile-testing-mindset-tester-role-agile-team/)
+_<sup>https://devqa.io/agile/agile-testing-mindset-tester-role-agile-team/</sup>_
+
+In an Agile team, testers must closely collaborate with all other team members and with business stakeholders. This has a number of implications in terms of the skills a tester must have and the activ...
+* **tags**: [testing](../tagged/testing.md), [agile](../tagged/agile.md)
+---
+#### [How Pact works](https://pactflow.io/how-pact-works/#slide-1)
+_<sup>https://pactflow.io/how-pact-works/#slide-1</sup>_
+
+Explains through animations how [pact](https://pact.io) works. 
+* **tags**: [pact](../tagged/pact.md), [contract-testing](../tagged/contract-testing.md), [testing](../tagged/testing.md)
+---
+#### [Introduction to Consumer-Driven Contract Testing](https://kreuzwerker.de/post/introduction-to-consumer-driven-contract-testing)
+_<sup>https://kreuzwerker.de/post/introduction-to-consumer-driven-contract-testing</sup>_
+
+Over the past year, we have had the opportunity to introduce consumer-driven contract testing at one of our larger customers, idealo. There were a lot of lessons learned and pitfalls discovered (some ...
+* **tags**: [contract-testing](../tagged/contract-testing.md), [testing](../tagged/testing.md), [pact](../tagged/pact.md)
+---
+#### [Guide to JUnit 5 Parameterized Tests | Baeldung](https://www.baeldung.com/parameterized-tests-junit-5)
+_<sup>https://www.baeldung.com/parameterized-tests-junit-5</sup>_
+
+JUnit 5, the next generation of JUnit, facilitates writing developer tests with new and shiny features.
+
+One such feature is parameterized tests. This feature enables us to execute a single test metho...
+* **tags**: [testing](../tagged/testing.md), [junit5](../tagged/junit5.md)
+* :octocat: **[source code](https://github.com/eugenp/tutorials/tree/master/testing-modules/junit5-annotations)**
+---
+#### [JUnit 5: Die Neuerungen im Überblick ](https://blog.oio.de/2016/11/29/junit-5-die-neuerungen-im-uberblick/)
+_<sup>https://blog.oio.de/2016/11/29/junit-5-die-neuerungen-im-uberblick/</sup>_
+
+Einführung in JUnit5
+* :calendar: **published on**: 2016-11-29
+* **tags**: [testing](../tagged/testing.md), [junit](../tagged/junit.md), [junit5](../tagged/junit5.md)
 ---
 #### [9 Magical Chrome Extensions for QA Testing](https://medium.com/ideas-by-crema/9-magical-chrome-extensions-for-qa-testing-14a710a097bb)
 _<sup>https://medium.com/ideas-by-crema/9-magical-chrome-extensions-for-qa-testing-14a710a097bb</sup>_

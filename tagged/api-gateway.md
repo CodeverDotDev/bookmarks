@@ -1,4 +1,4 @@
-## Bookmarks tagged [[api-gateway]](https://www.bookmarks.dev?q=[api-gateway])
+## Bookmarks tagged [[api-gateway]](https://www.bookmarks.dev/search?q=[api-gateway])
 
 _<sup><sup>[www.bookmarks.dev/tagged/api-gateway](https://www.bookmarks.dev/tagged/api-gateway)</sup></sup>_
 ---

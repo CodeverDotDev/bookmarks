@@ -1,4 +1,4 @@
-## Bookmarks tagged [[q-sharp]](https://www.bookmarks.dev?q=[q-sharp])
+## Bookmarks tagged [[q-sharp]](https://www.bookmarks.dev/search?q=[q-sharp])
 
 _<sup><sup>[www.bookmarks.dev/tagged/q-sharp](https://www.bookmarks.dev/tagged/q-sharp)</sup></sup>_
 ---

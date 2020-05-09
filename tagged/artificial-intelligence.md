@@ -1,4 +1,4 @@
-## Bookmarks tagged [[artificial-intelligence]](https://www.bookmarks.dev?q=[artificial-intelligence])
+## Bookmarks tagged [[artificial-intelligence]](https://www.bookmarks.dev/search?q=[artificial-intelligence])
 
 _<sup><sup>[www.bookmarks.dev/tagged/artificial-intelligence](https://www.bookmarks.dev/tagged/artificial-intelligence)</sup></sup>_
 ---

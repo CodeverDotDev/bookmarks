@@ -1,4 +1,4 @@
-## Bookmarks tagged [[web-scraping]](https://www.bookmarks.dev?q=[web-scraping])
+## Bookmarks tagged [[web-scraping]](https://www.bookmarks.dev/search?q=[web-scraping])
 
 _<sup><sup>[www.bookmarks.dev/tagged/web-scraping](https://www.bookmarks.dev/tagged/web-scraping)</sup></sup>_
 ---

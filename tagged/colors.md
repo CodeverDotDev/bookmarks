@@ -1,4 +1,4 @@
-## Bookmarks tagged [[colors]](https://www.bookmarks.dev?q=[colors])
+## Bookmarks tagged [[colors]](https://www.bookmarks.dev/search?q=[colors])
 
 _<sup><sup>[www.bookmarks.dev/tagged/colors](https://www.bookmarks.dev/tagged/colors)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[embedded-resource]](https://www.bookmarks.dev?q=[embedded-resource])
+## Bookmarks tagged [[embedded-resource]](https://www.bookmarks.dev/search?q=[embedded-resource])
 
 _<sup><sup>[www.bookmarks.dev/tagged/embedded-resource](https://www.bookmarks.dev/tagged/embedded-resource)</sup></sup>_
 ---

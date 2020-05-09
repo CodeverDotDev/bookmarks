@@ -1,4 +1,4 @@
-## Bookmarks tagged [[nodemon]](https://www.bookmarks.dev?q=[nodemon])
+## Bookmarks tagged [[nodemon]](https://www.bookmarks.dev/search?q=[nodemon])
 
 _<sup><sup>[www.bookmarks.dev/tagged/nodemon](https://www.bookmarks.dev/tagged/nodemon)</sup></sup>_
 ---

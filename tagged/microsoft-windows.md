@@ -1,4 +1,4 @@
-## Bookmarks tagged [[microsoft-windows]](https://www.bookmarks.dev?q=[microsoft-windows])
+## Bookmarks tagged [[microsoft-windows]](https://www.bookmarks.dev/search?q=[microsoft-windows])
 
 _<sup><sup>[www.bookmarks.dev/tagged/microsoft-windows](https://www.bookmarks.dev/tagged/microsoft-windows)</sup></sup>_
 ---

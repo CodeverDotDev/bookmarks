@@ -1,4 +1,4 @@
-## Bookmarks tagged [[mockito]](https://www.bookmarks.dev?q=[mockito])
+## Bookmarks tagged [[mockito]](https://www.bookmarks.dev/search?q=[mockito])
 
 _<sup><sup>[www.bookmarks.dev/tagged/mockito](https://www.bookmarks.dev/tagged/mockito)</sup></sup>_
 ---

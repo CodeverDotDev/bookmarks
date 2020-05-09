@@ -1,4 +1,4 @@
-## Bookmarks tagged [[datetime]](https://www.bookmarks.dev?q=[datetime])
+## Bookmarks tagged [[datetime]](https://www.bookmarks.dev/search?q=[datetime])
 
 _<sup><sup>[www.bookmarks.dev/tagged/datetime](https://www.bookmarks.dev/tagged/datetime)</sup></sup>_
 ---

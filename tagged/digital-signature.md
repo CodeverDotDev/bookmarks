@@ -1,4 +1,4 @@
-## Bookmarks tagged [[digital-signature]](https://www.bookmarks.dev?q=[digital-signature])
+## Bookmarks tagged [[digital-signature]](https://www.bookmarks.dev/search?q=[digital-signature])
 
 _<sup><sup>[www.bookmarks.dev/tagged/digital-signature](https://www.bookmarks.dev/tagged/digital-signature)</sup></sup>_
 ---

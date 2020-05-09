@@ -1,4 +1,4 @@
-## Bookmarks tagged [[base-de-datos]](https://www.bookmarks.dev?q=[base-de-datos])
+## Bookmarks tagged [[base-de-datos]](https://www.bookmarks.dev/search?q=[base-de-datos])
 
 _<sup><sup>[www.bookmarks.dev/tagged/base-de-datos](https://www.bookmarks.dev/tagged/base-de-datos)</sup></sup>_
 ---

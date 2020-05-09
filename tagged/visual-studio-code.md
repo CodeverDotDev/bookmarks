@@ -1,6 +1,12 @@
-## Bookmarks tagged [[visual-studio-code]](https://www.bookmarks.dev?q=[visual-studio-code])
+## Bookmarks tagged [[visual-studio-code]](https://www.bookmarks.dev/search?q=[visual-studio-code])
 
 _<sup><sup>[www.bookmarks.dev/tagged/visual-studio-code](https://www.bookmarks.dev/tagged/visual-studio-code)</sup></sup>_
+---
+#### [💡 10 VS Code extensions I can't code without - DEV Community 👩‍💻👨‍💻](https://dev.to/godcrampy/10-vs-code-extensions-i-can-t-code-without-3ann)
+_<sup>https://dev.to/godcrampy/10-vs-code-extensions-i-can-t-code-without-3ann</sup>_
+
+VS Code is my favourite text editor. It is the most extensible and popular code editors out there. And surprisingly it's made by Microsoft (i know). In my opinion, no other IDE or editor comes even ha...
+* **tags**: [visual-studio-code](../tagged/visual-studio-code.md)
 ---
 #### [REST Client - Visual Studio Code Extension](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
 _<sup>https://marketplace.visualstudio.com/items?itemName=humao.rest-client</sup>_

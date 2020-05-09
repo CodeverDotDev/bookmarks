@@ -1,4 +1,4 @@
-## Bookmarks tagged [[alfred]](https://www.bookmarks.dev?q=[alfred])
+## Bookmarks tagged [[alfred]](https://www.bookmarks.dev/search?q=[alfred])
 
 _<sup><sup>[www.bookmarks.dev/tagged/alfred](https://www.bookmarks.dev/tagged/alfred)</sup></sup>_
 ---

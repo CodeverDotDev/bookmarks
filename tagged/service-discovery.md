@@ -1,4 +1,4 @@
-## Bookmarks tagged [[service-discovery]](https://www.bookmarks.dev?q=[service-discovery])
+## Bookmarks tagged [[service-discovery]](https://www.bookmarks.dev/search?q=[service-discovery])
 
 _<sup><sup>[www.bookmarks.dev/tagged/service-discovery](https://www.bookmarks.dev/tagged/service-discovery)</sup></sup>_
 ---

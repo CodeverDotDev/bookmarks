@@ -1,6 +1,12 @@
-## Bookmarks tagged [[form]](https://www.bookmarks.dev?q=[form])
+## Bookmarks tagged [[form]](https://www.bookmarks.dev/search?q=[form])
 
 _<sup><sup>[www.bookmarks.dev/tagged/form](https://www.bookmarks.dev/tagged/form)</sup></sup>_
+---
+#### [Using files from web applications - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/File/Using_files_from_web_applications)
+_<sup>https://developer.mozilla.org/en-US/docs/Web/API/File/Using_files_from_web_applications</sup>_
+
+Using the File API, which was added to the DOM in HTML5, it's now possible for web content to ask the user to select local files and then read the contents of those files. This selection can be done b...
+* **tags**: [html](../tagged/html.md), [form](../tagged/form.md), [javascript](../tagged/javascript.md)
 ---
 #### [typeahead.js](https://github.com/twitter/typeahead.js)
 _<sup>https://github.com/twitter/typeahead.js</sup>_

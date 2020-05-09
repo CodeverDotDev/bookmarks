@@ -1,4 +1,4 @@
-## Bookmarks tagged [[mercury]](https://www.bookmarks.dev?q=[mercury])
+## Bookmarks tagged [[mercury]](https://www.bookmarks.dev/search?q=[mercury])
 
 _<sup><sup>[www.bookmarks.dev/tagged/mercury](https://www.bookmarks.dev/tagged/mercury)</sup></sup>_
 ---

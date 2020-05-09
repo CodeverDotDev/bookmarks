@@ -1,4 +1,4 @@
-## Bookmarks tagged [[email]](https://www.bookmarks.dev?q=[email])
+## Bookmarks tagged [[email]](https://www.bookmarks.dev/search?q=[email])
 
 _<sup><sup>[www.bookmarks.dev/tagged/email](https://www.bookmarks.dev/tagged/email)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[cilk]](https://www.bookmarks.dev?q=[cilk])
+## Bookmarks tagged [[cilk]](https://www.bookmarks.dev/search?q=[cilk])
 
 _<sup><sup>[www.bookmarks.dev/tagged/cilk](https://www.bookmarks.dev/tagged/cilk)</sup></sup>_
 ---

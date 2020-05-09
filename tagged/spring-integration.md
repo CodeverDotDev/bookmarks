@@ -1,4 +1,4 @@
-## Bookmarks tagged [[spring-integration]](https://www.bookmarks.dev?q=[spring-integration])
+## Bookmarks tagged [[spring-integration]](https://www.bookmarks.dev/search?q=[spring-integration])
 
 _<sup><sup>[www.bookmarks.dev/tagged/spring-integration](https://www.bookmarks.dev/tagged/spring-integration)</sup></sup>_
 ---

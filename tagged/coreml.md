@@ -1,4 +1,4 @@
-## Bookmarks tagged [[coreml]](https://www.bookmarks.dev?q=[coreml])
+## Bookmarks tagged [[coreml]](https://www.bookmarks.dev/search?q=[coreml])
 
 _<sup><sup>[www.bookmarks.dev/tagged/coreml](https://www.bookmarks.dev/tagged/coreml)</sup></sup>_
 ---

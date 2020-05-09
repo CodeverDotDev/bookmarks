@@ -1,4 +1,4 @@
-## Bookmarks tagged [[free-programming-books-ua]](https://www.bookmarks.dev?q=[free-programming-books-ua])
+## Bookmarks tagged [[free-programming-books-ua]](https://www.bookmarks.dev/search?q=[free-programming-books-ua])
 
 _<sup><sup>[www.bookmarks.dev/tagged/free-programming-books-ua](https://www.bookmarks.dev/tagged/free-programming-books-ua)</sup></sup>_
 ---

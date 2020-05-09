@@ -1,4 +1,4 @@
-## Bookmarks tagged [[jasperreports]](https://www.bookmarks.dev?q=[jasperreports])
+## Bookmarks tagged [[jasperreports]](https://www.bookmarks.dev/search?q=[jasperreports])
 
 _<sup><sup>[www.bookmarks.dev/tagged/jasperreports](https://www.bookmarks.dev/tagged/jasperreports)</sup></sup>_
 ---

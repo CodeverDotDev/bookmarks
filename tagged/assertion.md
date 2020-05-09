@@ -1,4 +1,4 @@
-## Bookmarks tagged [[assertion]](https://www.bookmarks.dev?q=[assertion])
+## Bookmarks tagged [[assertion]](https://www.bookmarks.dev/search?q=[assertion])
 
 _<sup><sup>[www.bookmarks.dev/tagged/assertion](https://www.bookmarks.dev/tagged/assertion)</sup></sup>_
 ---

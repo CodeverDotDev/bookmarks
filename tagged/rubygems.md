@@ -1,4 +1,4 @@
-## Bookmarks tagged [[rubygems]](https://www.bookmarks.dev?q=[rubygems])
+## Bookmarks tagged [[rubygems]](https://www.bookmarks.dev/search?q=[rubygems])
 
 _<sup><sup>[www.bookmarks.dev/tagged/rubygems](https://www.bookmarks.dev/tagged/rubygems)</sup></sup>_
 ---

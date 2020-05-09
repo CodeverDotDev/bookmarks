@@ -1,4 +1,4 @@
-## Bookmarks tagged [[pgf-tikz]](https://www.bookmarks.dev?q=[pgf-tikz])
+## Bookmarks tagged [[pgf-tikz]](https://www.bookmarks.dev/search?q=[pgf-tikz])
 
 _<sup><sup>[www.bookmarks.dev/tagged/pgf-tikz](https://www.bookmarks.dev/tagged/pgf-tikz)</sup></sup>_
 ---

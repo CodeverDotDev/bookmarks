@@ -1,4 +1,4 @@
-## Bookmarks tagged [[google-chrome-extension]](https://www.bookmarks.dev?q=[google-chrome-extension])
+## Bookmarks tagged [[google-chrome-extension]](https://www.bookmarks.dev/search?q=[google-chrome-extension])
 
 _<sup><sup>[www.bookmarks.dev/tagged/google-chrome-extension](https://www.bookmarks.dev/tagged/google-chrome-extension)</sup></sup>_
 ---

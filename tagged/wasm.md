@@ -1,4 +1,4 @@
-## Bookmarks tagged [[wasm]](https://www.bookmarks.dev?q=[wasm])
+## Bookmarks tagged [[wasm]](https://www.bookmarks.dev/search?q=[wasm])
 
 _<sup><sup>[www.bookmarks.dev/tagged/wasm](https://www.bookmarks.dev/tagged/wasm)</sup></sup>_
 ---

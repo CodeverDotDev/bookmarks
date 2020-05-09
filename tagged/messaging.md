@@ -1,4 +1,4 @@
-## Bookmarks tagged [[messaging]](https://www.bookmarks.dev?q=[messaging])
+## Bookmarks tagged [[messaging]](https://www.bookmarks.dev/search?q=[messaging])
 
 _<sup><sup>[www.bookmarks.dev/tagged/messaging](https://www.bookmarks.dev/tagged/messaging)</sup></sup>_
 ---

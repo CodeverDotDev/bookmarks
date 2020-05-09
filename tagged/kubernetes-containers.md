@@ -1,4 +1,4 @@
-## Bookmarks tagged [[kubernetes-containers]](https://www.bookmarks.dev?q=[kubernetes-containers])
+## Bookmarks tagged [[kubernetes-containers]](https://www.bookmarks.dev/search?q=[kubernetes-containers])
 
 _<sup><sup>[www.bookmarks.dev/tagged/kubernetes-containers](https://www.bookmarks.dev/tagged/kubernetes-containers)</sup></sup>_
 ---

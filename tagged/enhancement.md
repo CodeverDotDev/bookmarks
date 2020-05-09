@@ -1,4 +1,4 @@
-## Bookmarks tagged [[enhancement]](https://www.bookmarks.dev?q=[enhancement])
+## Bookmarks tagged [[enhancement]](https://www.bookmarks.dev/search?q=[enhancement])
 
 _<sup><sup>[www.bookmarks.dev/tagged/enhancement](https://www.bookmarks.dev/tagged/enhancement)</sup></sup>_
 ---

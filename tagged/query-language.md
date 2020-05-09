@@ -1,4 +1,4 @@
-## Bookmarks tagged [[query-language]](https://www.bookmarks.dev?q=[query-language])
+## Bookmarks tagged [[query-language]](https://www.bookmarks.dev/search?q=[query-language])
 
 _<sup><sup>[www.bookmarks.dev/tagged/query-language](https://www.bookmarks.dev/tagged/query-language)</sup></sup>_
 ---

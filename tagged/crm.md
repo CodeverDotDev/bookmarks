@@ -1,4 +1,4 @@
-## Bookmarks tagged [[crm]](https://www.bookmarks.dev?q=[crm])
+## Bookmarks tagged [[crm]](https://www.bookmarks.dev/search?q=[crm])
 
 _<sup><sup>[www.bookmarks.dev/tagged/crm](https://www.bookmarks.dev/tagged/crm)</sup></sup>_
 ---

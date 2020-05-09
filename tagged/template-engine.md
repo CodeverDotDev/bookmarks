@@ -1,4 +1,4 @@
-## Bookmarks tagged [[template-engine]](https://www.bookmarks.dev?q=[template-engine])
+## Bookmarks tagged [[template-engine]](https://www.bookmarks.dev/search?q=[template-engine])
 
 _<sup><sup>[www.bookmarks.dev/tagged/template-engine](https://www.bookmarks.dev/tagged/template-engine)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[leveldb]](https://www.bookmarks.dev?q=[leveldb])
+## Bookmarks tagged [[leveldb]](https://www.bookmarks.dev/search?q=[leveldb])
 
 _<sup><sup>[www.bookmarks.dev/tagged/leveldb](https://www.bookmarks.dev/tagged/leveldb)</sup></sup>_
 ---

@@ -1,6 +1,19 @@
-## Bookmarks tagged [[forms]](https://www.bookmarks.dev?q=[forms])
+## Bookmarks tagged [[forms]](https://www.bookmarks.dev/search?q=[forms])
 
 _<sup><sup>[www.bookmarks.dev/tagged/forms](https://www.bookmarks.dev/tagged/forms)</sup></sup>_
+---
+#### [Updating Angular 2 Forms with patchValue or setValue](https://ultimatecourses.com/blog/angular-2-form-controls-patch-value-set-value)
+_<sup>https://ultimatecourses.com/blog/angular-2-form-controls-patch-value-set-value</sup>_
+
+Setting model values in Angular (v2+) can be done in a few different ways, however with reactive forms things are extremely easy to do with the new form APIs. In this post we’ll dig a little deeper as...
+* **tags**: [angular](../tagged/angular.md), [forms](../tagged/forms.md)
+* :octocat: **[source code](https://github.com/angular/angular/blob/8f5dd1f11e6ca1888fdbd3231c06d6df00aba5cc/modules/%40angular/forms/src/model.ts)**
+---
+#### [Reactive Forms in Angular: Dynamically Creating Form Fields With FormArray](https://alligator.io/angular/reactive-forms-formarray-dynamic-fields/)
+_<sup>https://alligator.io/angular/reactive-forms-formarray-dynamic-fields/</sup>_
+
+So you have a form and would like to add form fields dynamically from a response to a user event? It’s easy to do with Reactive Forms and FormArray. FormArray is a bit like FormGroup and it’s used in ...
+* **tags**: [angular](../tagged/angular.md), [forms](../tagged/forms.md)
 ---
 #### [Using Angular Forms with Async Data - Angular](https://coryrylan.com/blog/using-angular-forms-with-async-data)
 _<sup>https://coryrylan.com/blog/using-angular-forms-with-async-data</sup>_

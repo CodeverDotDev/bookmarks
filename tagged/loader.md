@@ -1,4 +1,4 @@
-## Bookmarks tagged [[loader]](https://www.bookmarks.dev?q=[loader])
+## Bookmarks tagged [[loader]](https://www.bookmarks.dev/search?q=[loader])
 
 _<sup><sup>[www.bookmarks.dev/tagged/loader](https://www.bookmarks.dev/tagged/loader)</sup></sup>_
 ---

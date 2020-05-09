@@ -1,4 +1,4 @@
-## Bookmarks tagged [[typeorm]](https://www.bookmarks.dev?q=[typeorm])
+## Bookmarks tagged [[typeorm]](https://www.bookmarks.dev/search?q=[typeorm])
 
 _<sup><sup>[www.bookmarks.dev/tagged/typeorm](https://www.bookmarks.dev/tagged/typeorm)</sup></sup>_
 ---

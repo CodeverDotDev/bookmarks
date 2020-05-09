@@ -1,4 +1,4 @@
-## Bookmarks tagged [[class]](https://www.bookmarks.dev?q=[class])
+## Bookmarks tagged [[class]](https://www.bookmarks.dev/search?q=[class])
 
 _<sup><sup>[www.bookmarks.dev/tagged/class](https://www.bookmarks.dev/tagged/class)</sup></sup>_
 ---

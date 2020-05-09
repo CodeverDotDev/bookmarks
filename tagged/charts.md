@@ -1,4 +1,4 @@
-## Bookmarks tagged [[charts]](https://www.bookmarks.dev?q=[charts])
+## Bookmarks tagged [[charts]](https://www.bookmarks.dev/search?q=[charts])
 
 _<sup><sup>[www.bookmarks.dev/tagged/charts](https://www.bookmarks.dev/tagged/charts)</sup></sup>_
 ---

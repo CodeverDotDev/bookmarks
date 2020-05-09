@@ -1,4 +1,4 @@
-## Bookmarks tagged [[ejb]](https://www.bookmarks.dev?q=[ejb])
+## Bookmarks tagged [[ejb]](https://www.bookmarks.dev/search?q=[ejb])
 
 _<sup><sup>[www.bookmarks.dev/tagged/ejb](https://www.bookmarks.dev/tagged/ejb)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[infrastructure]](https://www.bookmarks.dev?q=[infrastructure])
+## Bookmarks tagged [[infrastructure]](https://www.bookmarks.dev/search?q=[infrastructure])
 
 _<sup><sup>[www.bookmarks.dev/tagged/infrastructure](https://www.bookmarks.dev/tagged/infrastructure)</sup></sup>_
 ---

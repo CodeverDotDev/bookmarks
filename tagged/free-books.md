@@ -1,4 +1,4 @@
-## Bookmarks tagged [[free-books]](https://www.bookmarks.dev?q=[free-books])
+## Bookmarks tagged [[free-books]](https://www.bookmarks.dev/search?q=[free-books])
 
 _<sup><sup>[www.bookmarks.dev/tagged/free-books](https://www.bookmarks.dev/tagged/free-books)</sup></sup>_
 ---

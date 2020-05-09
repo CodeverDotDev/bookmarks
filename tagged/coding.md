@@ -1,4 +1,4 @@
-## Bookmarks tagged [[coding]](https://www.bookmarks.dev?q=[coding])
+## Bookmarks tagged [[coding]](https://www.bookmarks.dev/search?q=[coding])
 
 _<sup><sup>[www.bookmarks.dev/tagged/coding](https://www.bookmarks.dev/tagged/coding)</sup></sup>_
 ---

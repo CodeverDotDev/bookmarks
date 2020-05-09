@@ -1,4 +1,4 @@
-## Bookmarks tagged [[text-processing]](https://www.bookmarks.dev?q=[text-processing])
+## Bookmarks tagged [[text-processing]](https://www.bookmarks.dev/search?q=[text-processing])
 
 _<sup><sup>[www.bookmarks.dev/tagged/text-processing](https://www.bookmarks.dev/tagged/text-processing)</sup></sup>_
 ---

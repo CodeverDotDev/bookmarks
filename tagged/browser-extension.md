@@ -1,4 +1,4 @@
-## Bookmarks tagged [[browser-extension]](https://www.bookmarks.dev?q=[browser-extension])
+## Bookmarks tagged [[browser-extension]](https://www.bookmarks.dev/search?q=[browser-extension])
 
 _<sup><sup>[www.bookmarks.dev/tagged/browser-extension](https://www.bookmarks.dev/tagged/browser-extension)</sup></sup>_
 ---

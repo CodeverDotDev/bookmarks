@@ -1,4 +1,4 @@
-## Bookmarks tagged [[waterfall]](https://www.bookmarks.dev?q=[waterfall])
+## Bookmarks tagged [[waterfall]](https://www.bookmarks.dev/search?q=[waterfall])
 
 _<sup><sup>[www.bookmarks.dev/tagged/waterfall](https://www.bookmarks.dev/tagged/waterfall)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[naming-conventions]](https://www.bookmarks.dev?q=[naming-conventions])
+## Bookmarks tagged [[naming-conventions]](https://www.bookmarks.dev/search?q=[naming-conventions])
 
 _<sup><sup>[www.bookmarks.dev/tagged/naming-conventions](https://www.bookmarks.dev/tagged/naming-conventions)</sup></sup>_
 ---

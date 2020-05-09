@@ -1,4 +1,4 @@
-## Bookmarks tagged [[economics]](https://www.bookmarks.dev?q=[economics])
+## Bookmarks tagged [[economics]](https://www.bookmarks.dev/search?q=[economics])
 
 _<sup><sup>[www.bookmarks.dev/tagged/economics](https://www.bookmarks.dev/tagged/economics)</sup></sup>_
 ---

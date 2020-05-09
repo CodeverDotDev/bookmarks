@@ -1,4 +1,4 @@
-## Bookmarks tagged [[archive]](https://www.bookmarks.dev?q=[archive])
+## Bookmarks tagged [[archive]](https://www.bookmarks.dev/search?q=[archive])
 
 _<sup><sup>[www.bookmarks.dev/tagged/archive](https://www.bookmarks.dev/tagged/archive)</sup></sup>_
 ---

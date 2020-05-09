@@ -1,4 +1,4 @@
-## Bookmarks tagged [[benchmarks]](https://www.bookmarks.dev?q=[benchmarks])
+## Bookmarks tagged [[benchmarks]](https://www.bookmarks.dev/search?q=[benchmarks])
 
 _<sup><sup>[www.bookmarks.dev/tagged/benchmarks](https://www.bookmarks.dev/tagged/benchmarks)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[in-memory]](https://www.bookmarks.dev?q=[in-memory])
+## Bookmarks tagged [[in-memory]](https://www.bookmarks.dev/search?q=[in-memory])
 
 _<sup><sup>[www.bookmarks.dev/tagged/in-memory](https://www.bookmarks.dev/tagged/in-memory)</sup></sup>_
 ---

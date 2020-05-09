@@ -1,4 +1,4 @@
-## Bookmarks tagged [[document-processing]](https://www.bookmarks.dev?q=[document-processing])
+## Bookmarks tagged [[document-processing]](https://www.bookmarks.dev/search?q=[document-processing])
 
 _<sup><sup>[www.bookmarks.dev/tagged/document-processing](https://www.bookmarks.dev/tagged/document-processing)</sup></sup>_
 ---

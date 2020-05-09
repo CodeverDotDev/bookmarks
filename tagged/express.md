@@ -1,4 +1,4 @@
-## Bookmarks tagged [[express]](https://www.bookmarks.dev?q=[express])
+## Bookmarks tagged [[express]](https://www.bookmarks.dev/search?q=[express])
 
 _<sup><sup>[www.bookmarks.dev/tagged/express](https://www.bookmarks.dev/tagged/express)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[ab-testing]](https://www.bookmarks.dev?q=[ab-testing])
+## Bookmarks tagged [[ab-testing]](https://www.bookmarks.dev/search?q=[ab-testing])
 
 _<sup><sup>[www.bookmarks.dev/tagged/ab-testing](https://www.bookmarks.dev/tagged/ab-testing)</sup></sup>_
 ---

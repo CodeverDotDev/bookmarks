@@ -1,4 +1,4 @@
-## Bookmarks tagged [[vapt]](https://www.bookmarks.dev?q=[vapt])
+## Bookmarks tagged [[vapt]](https://www.bookmarks.dev/search?q=[vapt])
 
 _<sup><sup>[www.bookmarks.dev/tagged/vapt](https://www.bookmarks.dev/tagged/vapt)</sup></sup>_
 ---

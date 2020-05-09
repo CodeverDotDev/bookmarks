@@ -1,4 +1,4 @@
-## Bookmarks tagged [[formbuilder]](https://www.bookmarks.dev?q=[formbuilder])
+## Bookmarks tagged [[formbuilder]](https://www.bookmarks.dev/search?q=[formbuilder])
 
 _<sup><sup>[www.bookmarks.dev/tagged/formbuilder](https://www.bookmarks.dev/tagged/formbuilder)</sup></sup>_
 ---

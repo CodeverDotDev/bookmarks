@@ -1,4 +1,4 @@
-## Bookmarks tagged [[web-programming]](https://www.bookmarks.dev?q=[web-programming])
+## Bookmarks tagged [[web-programming]](https://www.bookmarks.dev/search?q=[web-programming])
 
 _<sup><sup>[www.bookmarks.dev/tagged/web-programming](https://www.bookmarks.dev/tagged/web-programming)</sup></sup>_
 ---

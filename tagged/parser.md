@@ -1,4 +1,4 @@
-## Bookmarks tagged [[parser]](https://www.bookmarks.dev?q=[parser])
+## Bookmarks tagged [[parser]](https://www.bookmarks.dev/search?q=[parser])
 
 _<sup><sup>[www.bookmarks.dev/tagged/parser](https://www.bookmarks.dev/tagged/parser)</sup></sup>_
 ---

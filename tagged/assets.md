@@ -1,4 +1,4 @@
-## Bookmarks tagged [[assets]](https://www.bookmarks.dev?q=[assets])
+## Bookmarks tagged [[assets]](https://www.bookmarks.dev/search?q=[assets])
 
 _<sup><sup>[www.bookmarks.dev/tagged/assets](https://www.bookmarks.dev/tagged/assets)</sup></sup>_
 ---

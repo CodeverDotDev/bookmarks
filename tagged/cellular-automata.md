@@ -1,4 +1,4 @@
-## Bookmarks tagged [[cellular-automata]](https://www.bookmarks.dev?q=[cellular-automata])
+## Bookmarks tagged [[cellular-automata]](https://www.bookmarks.dev/search?q=[cellular-automata])
 
 _<sup><sup>[www.bookmarks.dev/tagged/cellular-automata](https://www.bookmarks.dev/tagged/cellular-automata)</sup></sup>_
 ---

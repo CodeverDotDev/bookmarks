@@ -1,4 +1,4 @@
-## Bookmarks tagged [[soap]](https://www.bookmarks.dev?q=[soap])
+## Bookmarks tagged [[soap]](https://www.bookmarks.dev/search?q=[soap])
 
 _<sup><sup>[www.bookmarks.dev/tagged/soap](https://www.bookmarks.dev/tagged/soap)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[speech]](https://www.bookmarks.dev?q=[speech])
+## Bookmarks tagged [[speech]](https://www.bookmarks.dev/search?q=[speech])
 
 _<sup><sup>[www.bookmarks.dev/tagged/speech](https://www.bookmarks.dev/tagged/speech)</sup></sup>_
 ---

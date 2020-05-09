@@ -1,4 +1,4 @@
-## Bookmarks tagged [[umbraco]](https://www.bookmarks.dev?q=[umbraco])
+## Bookmarks tagged [[umbraco]](https://www.bookmarks.dev/search?q=[umbraco])
 
 _<sup><sup>[www.bookmarks.dev/tagged/umbraco](https://www.bookmarks.dev/tagged/umbraco)</sup></sup>_
 ---

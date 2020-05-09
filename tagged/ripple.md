@@ -1,4 +1,4 @@
-## Bookmarks tagged [[ripple]](https://www.bookmarks.dev?q=[ripple])
+## Bookmarks tagged [[ripple]](https://www.bookmarks.dev/search?q=[ripple])
 
 _<sup><sup>[www.bookmarks.dev/tagged/ripple](https://www.bookmarks.dev/tagged/ripple)</sup></sup>_
 ---

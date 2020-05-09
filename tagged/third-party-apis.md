@@ -1,4 +1,4 @@
-## Bookmarks tagged [[third-party-apis]](https://www.bookmarks.dev?q=[third-party-apis])
+## Bookmarks tagged [[third-party-apis]](https://www.bookmarks.dev/search?q=[third-party-apis])
 
 _<sup><sup>[www.bookmarks.dev/tagged/third-party-apis](https://www.bookmarks.dev/tagged/third-party-apis)</sup></sup>_
 ---

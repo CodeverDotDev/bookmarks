@@ -1,4 +1,4 @@
-## Bookmarks tagged [[strongloop]](https://www.bookmarks.dev?q=[strongloop])
+## Bookmarks tagged [[strongloop]](https://www.bookmarks.dev/search?q=[strongloop])
 
 _<sup><sup>[www.bookmarks.dev/tagged/strongloop](https://www.bookmarks.dev/tagged/strongloop)</sup></sup>_
 ---

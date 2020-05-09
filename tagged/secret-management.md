@@ -1,4 +1,4 @@
-## Bookmarks tagged [[secret-management]](https://www.bookmarks.dev?q=[secret-management])
+## Bookmarks tagged [[secret-management]](https://www.bookmarks.dev/search?q=[secret-management])
 
 _<sup><sup>[www.bookmarks.dev/tagged/secret-management](https://www.bookmarks.dev/tagged/secret-management)</sup></sup>_
 ---

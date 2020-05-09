@@ -1,4 +1,4 @@
-## Bookmarks tagged [[haxe]](https://www.bookmarks.dev?q=[haxe])
+## Bookmarks tagged [[haxe]](https://www.bookmarks.dev/search?q=[haxe])
 
 _<sup><sup>[www.bookmarks.dev/tagged/haxe](https://www.bookmarks.dev/tagged/haxe)</sup></sup>_
 ---

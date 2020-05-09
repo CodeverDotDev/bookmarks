@@ -1,4 +1,4 @@
-## Bookmarks tagged [[mruby]](https://www.bookmarks.dev?q=[mruby])
+## Bookmarks tagged [[mruby]](https://www.bookmarks.dev/search?q=[mruby])
 
 _<sup><sup>[www.bookmarks.dev/tagged/mruby](https://www.bookmarks.dev/tagged/mruby)</sup></sup>_
 ---

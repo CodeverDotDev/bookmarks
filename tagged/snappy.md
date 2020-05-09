@@ -1,4 +1,4 @@
-## Bookmarks tagged [[snappy]](https://www.bookmarks.dev?q=[snappy])
+## Bookmarks tagged [[snappy]](https://www.bookmarks.dev/search?q=[snappy])
 
 _<sup><sup>[www.bookmarks.dev/tagged/snappy](https://www.bookmarks.dev/tagged/snappy)</sup></sup>_
 ---

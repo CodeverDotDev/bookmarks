@@ -1,4 +1,4 @@
-## Bookmarks tagged [[tcl-tk]](https://www.bookmarks.dev?q=[tcl-tk])
+## Bookmarks tagged [[tcl-tk]](https://www.bookmarks.dev/search?q=[tcl-tk])
 
 _<sup><sup>[www.bookmarks.dev/tagged/tcl-tk](https://www.bookmarks.dev/tagged/tcl-tk)</sup></sup>_
 ---

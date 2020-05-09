@@ -1,4 +1,4 @@
-## Bookmarks tagged [[appium]](https://www.bookmarks.dev?q=[appium])
+## Bookmarks tagged [[appium]](https://www.bookmarks.dev/search?q=[appium])
 
 _<sup><sup>[www.bookmarks.dev/tagged/appium](https://www.bookmarks.dev/tagged/appium)</sup></sup>_
 ---

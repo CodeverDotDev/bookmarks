@@ -1,4 +1,4 @@
-## Bookmarks tagged [[example-apps]](https://www.bookmarks.dev?q=[example-apps])
+## Bookmarks tagged [[example-apps]](https://www.bookmarks.dev/search?q=[example-apps])
 
 _<sup><sup>[www.bookmarks.dev/tagged/example-apps](https://www.bookmarks.dev/tagged/example-apps)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[parallel]](https://www.bookmarks.dev?q=[parallel])
+## Bookmarks tagged [[parallel]](https://www.bookmarks.dev/search?q=[parallel])
 
 _<sup><sup>[www.bookmarks.dev/tagged/parallel](https://www.bookmarks.dev/tagged/parallel)</sup></sup>_
 ---

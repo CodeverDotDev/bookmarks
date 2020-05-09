@@ -1,4 +1,4 @@
-## Bookmarks tagged [[user-experience]](https://www.bookmarks.dev?q=[user-experience])
+## Bookmarks tagged [[user-experience]](https://www.bookmarks.dev/search?q=[user-experience])
 
 _<sup><sup>[www.bookmarks.dev/tagged/user-experience](https://www.bookmarks.dev/tagged/user-experience)</sup></sup>_
 ---

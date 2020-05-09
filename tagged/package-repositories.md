@@ -1,4 +1,4 @@
-## Bookmarks tagged [[package-repositories]](https://www.bookmarks.dev?q=[package-repositories])
+## Bookmarks tagged [[package-repositories]](https://www.bookmarks.dev/search?q=[package-repositories])
 
 _<sup><sup>[www.bookmarks.dev/tagged/package-repositories](https://www.bookmarks.dev/tagged/package-repositories)</sup></sup>_
 ---

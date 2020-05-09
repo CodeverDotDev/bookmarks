@@ -1,4 +1,4 @@
-## Bookmarks tagged [[subnet]](https://www.bookmarks.dev?q=[subnet])
+## Bookmarks tagged [[subnet]](https://www.bookmarks.dev/search?q=[subnet])
 
 _<sup><sup>[www.bookmarks.dev/tagged/subnet](https://www.bookmarks.dev/tagged/subnet)</sup></sup>_
 ---

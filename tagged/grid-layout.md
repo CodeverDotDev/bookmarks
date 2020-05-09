@@ -1,4 +1,4 @@
-## Bookmarks tagged [[grid-layout]](https://www.bookmarks.dev?q=[grid-layout])
+## Bookmarks tagged [[grid-layout]](https://www.bookmarks.dev/search?q=[grid-layout])
 
 _<sup><sup>[www.bookmarks.dev/tagged/grid-layout](https://www.bookmarks.dev/tagged/grid-layout)</sup></sup>_
 ---

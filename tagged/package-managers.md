@@ -1,4 +1,4 @@
-## Bookmarks tagged [[package-managers]](https://www.bookmarks.dev?q=[package-managers])
+## Bookmarks tagged [[package-managers]](https://www.bookmarks.dev/search?q=[package-managers])
 
 _<sup><sup>[www.bookmarks.dev/tagged/package-managers](https://www.bookmarks.dev/tagged/package-managers)</sup></sup>_
 ---

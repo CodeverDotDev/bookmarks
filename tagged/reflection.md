@@ -1,6 +1,13 @@
-## Bookmarks tagged [[reflection]](https://www.bookmarks.dev?q=[reflection])
+## Bookmarks tagged [[reflection]](https://www.bookmarks.dev/search?q=[reflection])
 
 _<sup><sup>[www.bookmarks.dev/tagged/reflection](https://www.bookmarks.dev/tagged/reflection)</sup></sup>_
+---
+#### [Using Java Reflection](https://www.oracle.com/technical-resources/articles/java/javareflection.html)
+_<sup>https://www.oracle.com/technical-resources/articles/java/javareflection.html</sup>_
+
+Reflection is a feature in the Java programming language. It allows an executing Java program to examine or "introspect" upon itself, and manipulate internal properties of the program. For example, it...
+* :calendar: **published on**: 1998-01-01
+* **tags**: [java](../tagged/java.md), [reflection](../tagged/reflection.md)
 ---
 #### [Better Enums](https://github.com/aantron/better-enums)
 _<sup>https://github.com/aantron/better-enums</sup>_

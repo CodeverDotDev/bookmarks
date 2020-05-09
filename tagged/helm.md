@@ -1,6 +1,12 @@
-## Bookmarks tagged [[helm]](https://www.bookmarks.dev?q=[helm])
+## Bookmarks tagged [[helm]](https://www.bookmarks.dev/search?q=[helm])
 
 _<sup><sup>[www.bookmarks.dev/tagged/helm](https://www.bookmarks.dev/tagged/helm)</sup></sup>_
+---
+#### [Helm using Interactive Browser-Based Labs](https://www.katacoda.com/courses/helm)
+_<sup>https://www.katacoda.com/courses/helm</sup>_
+
+Helm using Interactive Browser-Based Scenarios
+* **tags**: [helm](../tagged/helm.md), [courses](../tagged/courses.md)
 ---
 #### [DRY Kubernetes with Helm | mimacom](https://blog.mimacom.com/dry-kubernetes-with-helm/)
 _<sup>https://blog.mimacom.com/dry-kubernetes-with-helm/</sup>_

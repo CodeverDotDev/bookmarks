@@ -1,4 +1,4 @@
-## Bookmarks tagged [[slider]](https://www.bookmarks.dev?q=[slider])
+## Bookmarks tagged [[slider]](https://www.bookmarks.dev/search?q=[slider])
 
 _<sup><sup>[www.bookmarks.dev/tagged/slider](https://www.bookmarks.dev/tagged/slider)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[application-management]](https://www.bookmarks.dev?q=[application-management])
+## Bookmarks tagged [[application-management]](https://www.bookmarks.dev/search?q=[application-management])
 
 _<sup><sup>[www.bookmarks.dev/tagged/application-management](https://www.bookmarks.dev/tagged/application-management)</sup></sup>_
 ---

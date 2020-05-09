@@ -1,4 +1,4 @@
-## Bookmarks tagged [[automation]](https://www.bookmarks.dev?q=[automation])
+## Bookmarks tagged [[automation]](https://www.bookmarks.dev/search?q=[automation])
 
 _<sup><sup>[www.bookmarks.dev/tagged/automation](https://www.bookmarks.dev/tagged/automation)</sup></sup>_
 ---

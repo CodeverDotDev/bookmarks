@@ -1,4 +1,4 @@
-## Bookmarks tagged [[undo]](https://www.bookmarks.dev?q=[undo])
+## Bookmarks tagged [[undo]](https://www.bookmarks.dev/search?q=[undo])
 
 _<sup><sup>[www.bookmarks.dev/tagged/undo](https://www.bookmarks.dev/tagged/undo)</sup></sup>_
 ---

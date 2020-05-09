@@ -1,4 +1,4 @@
-## Bookmarks tagged [[methodology]](https://www.bookmarks.dev?q=[methodology])
+## Bookmarks tagged [[methodology]](https://www.bookmarks.dev/search?q=[methodology])
 
 _<sup><sup>[www.bookmarks.dev/tagged/methodology](https://www.bookmarks.dev/tagged/methodology)</sup></sup>_
 ---

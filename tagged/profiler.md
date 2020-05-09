@@ -1,4 +1,4 @@
-## Bookmarks tagged [[profiler]](https://www.bookmarks.dev?q=[profiler])
+## Bookmarks tagged [[profiler]](https://www.bookmarks.dev/search?q=[profiler])
 
 _<sup><sup>[www.bookmarks.dev/tagged/profiler](https://www.bookmarks.dev/tagged/profiler)</sup></sup>_
 ---

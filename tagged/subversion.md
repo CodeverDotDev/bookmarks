@@ -1,4 +1,4 @@
-## Bookmarks tagged [[subversion]](https://www.bookmarks.dev?q=[subversion])
+## Bookmarks tagged [[subversion]](https://www.bookmarks.dev/search?q=[subversion])
 
 _<sup><sup>[www.bookmarks.dev/tagged/subversion](https://www.bookmarks.dev/tagged/subversion)</sup></sup>_
 ---

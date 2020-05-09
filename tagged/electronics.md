@@ -1,4 +1,4 @@
-## Bookmarks tagged [[electronics]](https://www.bookmarks.dev?q=[electronics])
+## Bookmarks tagged [[electronics]](https://www.bookmarks.dev/search?q=[electronics])
 
 _<sup><sup>[www.bookmarks.dev/tagged/electronics](https://www.bookmarks.dev/tagged/electronics)</sup></sup>_
 ---

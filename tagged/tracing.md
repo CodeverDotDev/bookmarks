@@ -1,4 +1,4 @@
-## Bookmarks tagged [[tracing]](https://www.bookmarks.dev?q=[tracing])
+## Bookmarks tagged [[tracing]](https://www.bookmarks.dev/search?q=[tracing])
 
 _<sup><sup>[www.bookmarks.dev/tagged/tracing](https://www.bookmarks.dev/tagged/tracing)</sup></sup>_
 ---

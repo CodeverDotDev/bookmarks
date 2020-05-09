@@ -1,4 +1,4 @@
-## Bookmarks tagged [[rspec]](https://www.bookmarks.dev?q=[rspec])
+## Bookmarks tagged [[rspec]](https://www.bookmarks.dev/search?q=[rspec])
 
 _<sup><sup>[www.bookmarks.dev/tagged/rspec](https://www.bookmarks.dev/tagged/rspec)</sup></sup>_
 ---

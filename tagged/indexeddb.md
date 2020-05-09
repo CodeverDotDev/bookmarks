@@ -1,4 +1,4 @@
-## Bookmarks tagged [[indexeddb]](https://www.bookmarks.dev?q=[indexeddb])
+## Bookmarks tagged [[indexeddb]](https://www.bookmarks.dev/search?q=[indexeddb])
 
 _<sup><sup>[www.bookmarks.dev/tagged/indexeddb](https://www.bookmarks.dev/tagged/indexeddb)</sup></sup>_
 ---

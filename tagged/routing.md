@@ -1,4 +1,4 @@
-## Bookmarks tagged [[routing]](https://www.bookmarks.dev?q=[routing])
+## Bookmarks tagged [[routing]](https://www.bookmarks.dev/search?q=[routing])
 
 _<sup><sup>[www.bookmarks.dev/tagged/routing](https://www.bookmarks.dev/tagged/routing)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[mobx]](https://www.bookmarks.dev?q=[mobx])
+## Bookmarks tagged [[mobx]](https://www.bookmarks.dev/search?q=[mobx])
 
 _<sup><sup>[www.bookmarks.dev/tagged/mobx](https://www.bookmarks.dev/tagged/mobx)</sup></sup>_
 ---

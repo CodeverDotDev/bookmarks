@@ -1,4 +1,4 @@
-## Bookmarks tagged [[gulp]](https://www.bookmarks.dev?q=[gulp])
+## Bookmarks tagged [[gulp]](https://www.bookmarks.dev/search?q=[gulp])
 
 _<sup><sup>[www.bookmarks.dev/tagged/gulp](https://www.bookmarks.dev/tagged/gulp)</sup></sup>_
 ---

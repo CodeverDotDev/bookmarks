@@ -1,4 +1,4 @@
-## Bookmarks tagged [[posts]](https://www.bookmarks.dev?q=[posts])
+## Bookmarks tagged [[posts]](https://www.bookmarks.dev/search?q=[posts])
 
 _<sup><sup>[www.bookmarks.dev/tagged/posts](https://www.bookmarks.dev/tagged/posts)</sup></sup>_
 ---

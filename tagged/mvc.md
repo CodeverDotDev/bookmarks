@@ -1,4 +1,4 @@
-## Bookmarks tagged [[mvc]](https://www.bookmarks.dev?q=[mvc])
+## Bookmarks tagged [[mvc]](https://www.bookmarks.dev/search?q=[mvc])
 
 _<sup><sup>[www.bookmarks.dev/tagged/mvc](https://www.bookmarks.dev/tagged/mvc)</sup></sup>_
 ---

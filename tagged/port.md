@@ -1,4 +1,4 @@
-## Bookmarks tagged [[port]](https://www.bookmarks.dev?q=[port])
+## Bookmarks tagged [[port]](https://www.bookmarks.dev/search?q=[port])
 
 _<sup><sup>[www.bookmarks.dev/tagged/port](https://www.bookmarks.dev/tagged/port)</sup></sup>_
 ---

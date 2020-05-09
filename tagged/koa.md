@@ -1,4 +1,4 @@
-## Bookmarks tagged [[koa]](https://www.bookmarks.dev?q=[koa])
+## Bookmarks tagged [[koa]](https://www.bookmarks.dev/search?q=[koa])
 
 _<sup><sup>[www.bookmarks.dev/tagged/koa](https://www.bookmarks.dev/tagged/koa)</sup></sup>_
 ---

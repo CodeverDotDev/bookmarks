@@ -1,4 +1,4 @@
-## Bookmarks tagged [[iptables]](https://www.bookmarks.dev?q=[iptables])
+## Bookmarks tagged [[iptables]](https://www.bookmarks.dev/search?q=[iptables])
 
 _<sup><sup>[www.bookmarks.dev/tagged/iptables](https://www.bookmarks.dev/tagged/iptables)</sup></sup>_
 ---

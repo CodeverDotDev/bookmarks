@@ -1,4 +1,4 @@
-## Bookmarks tagged [[pagination]](https://www.bookmarks.dev?q=[pagination])
+## Bookmarks tagged [[pagination]](https://www.bookmarks.dev/search?q=[pagination])
 
 _<sup><sup>[www.bookmarks.dev/tagged/pagination](https://www.bookmarks.dev/tagged/pagination)</sup></sup>_
 ---

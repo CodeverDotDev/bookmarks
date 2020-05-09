@@ -1,4 +1,4 @@
-## Bookmarks tagged [[slack]](https://www.bookmarks.dev?q=[slack])
+## Bookmarks tagged [[slack]](https://www.bookmarks.dev/search?q=[slack])
 
 _<sup><sup>[www.bookmarks.dev/tagged/slack](https://www.bookmarks.dev/tagged/slack)</sup></sup>_
 ---

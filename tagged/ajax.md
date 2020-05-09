@@ -1,4 +1,4 @@
-## Bookmarks tagged [[ajax]](https://www.bookmarks.dev?q=[ajax])
+## Bookmarks tagged [[ajax]](https://www.bookmarks.dev/search?q=[ajax])
 
 _<sup><sup>[www.bookmarks.dev/tagged/ajax](https://www.bookmarks.dev/tagged/ajax)</sup></sup>_
 ---

@@ -1,6 +1,15 @@
-## Bookmarks tagged [[bootstrap]](https://www.bookmarks.dev?q=[bootstrap])
+## Bookmarks tagged [[bootstrap]](https://www.bookmarks.dev/search?q=[bootstrap])
 
 _<sup><sup>[www.bookmarks.dev/tagged/bootstrap](https://www.bookmarks.dev/tagged/bootstrap)</sup></sup>_
+---
+#### [btn-xs no longer a valid option in bootstrap 4?](https://stackoverflow.com/questions/33911049/btn-xs-no-longer-a-valid-option-in-bootstrap-4)
+_<sup>https://stackoverflow.com/questions/33911049/btn-xs-no-longer-a-valid-option-in-bootstrap-4</sup>_
+
+@rifton007 posted a quick fix in the GitHub issue on this subject. Add this in your css file:
+
+...
+* :calendar: **published on**: 2015-11-25
+* **tags**: [bootstrap](../tagged/bootstrap.md)
 ---
 #### [How to build a Google Chrome Extension ― Scotch.io](https://scotch.io/@dongido/how-to-build-a-google-chrome-extension)
 _<sup>https://scotch.io/@dongido/how-to-build-a-google-chrome-extension</sup>_

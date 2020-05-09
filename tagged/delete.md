@@ -1,4 +1,4 @@
-## Bookmarks tagged [[delete]](https://www.bookmarks.dev?q=[delete])
+## Bookmarks tagged [[delete]](https://www.bookmarks.dev/search?q=[delete])
 
 _<sup><sup>[www.bookmarks.dev/tagged/delete](https://www.bookmarks.dev/tagged/delete)</sup></sup>_
 ---

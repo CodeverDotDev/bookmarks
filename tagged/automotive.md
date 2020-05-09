@@ -1,4 +1,4 @@
-## Bookmarks tagged [[automotive]](https://www.bookmarks.dev?q=[automotive])
+## Bookmarks tagged [[automotive]](https://www.bookmarks.dev/search?q=[automotive])
 
 _<sup><sup>[www.bookmarks.dev/tagged/automotive](https://www.bookmarks.dev/tagged/automotive)</sup></sup>_
 ---

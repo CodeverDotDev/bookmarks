@@ -1,4 +1,4 @@
-## Bookmarks tagged [[desktop-applications]](https://www.bookmarks.dev?q=[desktop-applications])
+## Bookmarks tagged [[desktop-applications]](https://www.bookmarks.dev/search?q=[desktop-applications])
 
 _<sup><sup>[www.bookmarks.dev/tagged/desktop-applications](https://www.bookmarks.dev/tagged/desktop-applications)</sup></sup>_
 ---

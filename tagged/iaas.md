@@ -1,4 +1,4 @@
-## Bookmarks tagged [[iaas]](https://www.bookmarks.dev?q=[iaas])
+## Bookmarks tagged [[iaas]](https://www.bookmarks.dev/search?q=[iaas])
 
 _<sup><sup>[www.bookmarks.dev/tagged/iaas](https://www.bookmarks.dev/tagged/iaas)</sup></sup>_
 ---

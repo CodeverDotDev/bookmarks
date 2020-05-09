@@ -1,4 +1,4 @@
-## Bookmarks tagged [[drag-and-drop]](https://www.bookmarks.dev?q=[drag-and-drop])
+## Bookmarks tagged [[drag-and-drop]](https://www.bookmarks.dev/search?q=[drag-and-drop])
 
 _<sup><sup>[www.bookmarks.dev/tagged/drag-and-drop](https://www.bookmarks.dev/tagged/drag-and-drop)</sup></sup>_
 ---

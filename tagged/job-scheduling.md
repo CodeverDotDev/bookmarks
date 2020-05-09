@@ -1,4 +1,4 @@
-## Bookmarks tagged [[job-scheduling]](https://www.bookmarks.dev?q=[job-scheduling])
+## Bookmarks tagged [[job-scheduling]](https://www.bookmarks.dev/search?q=[job-scheduling])
 
 _<sup><sup>[www.bookmarks.dev/tagged/job-scheduling](https://www.bookmarks.dev/tagged/job-scheduling)</sup></sup>_
 ---

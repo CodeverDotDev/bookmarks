@@ -1,4 +1,4 @@
-## Bookmarks tagged [[solidity]](https://www.bookmarks.dev?q=[solidity])
+## Bookmarks tagged [[solidity]](https://www.bookmarks.dev/search?q=[solidity])
 
 _<sup><sup>[www.bookmarks.dev/tagged/solidity](https://www.bookmarks.dev/tagged/solidity)</sup></sup>_
 ---

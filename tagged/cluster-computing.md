@@ -1,4 +1,4 @@
-## Bookmarks tagged [[cluster-computing]](https://www.bookmarks.dev?q=[cluster-computing])
+## Bookmarks tagged [[cluster-computing]](https://www.bookmarks.dev/search?q=[cluster-computing])
 
 _<sup><sup>[www.bookmarks.dev/tagged/cluster-computing](https://www.bookmarks.dev/tagged/cluster-computing)</sup></sup>_
 ---

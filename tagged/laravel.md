@@ -1,4 +1,4 @@
-## Bookmarks tagged [[laravel]](https://www.bookmarks.dev?q=[laravel])
+## Bookmarks tagged [[laravel]](https://www.bookmarks.dev/search?q=[laravel])
 
 _<sup><sup>[www.bookmarks.dev/tagged/laravel](https://www.bookmarks.dev/tagged/laravel)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[forth]](https://www.bookmarks.dev?q=[forth])
+## Bookmarks tagged [[forth]](https://www.bookmarks.dev/search?q=[forth])
 
 _<sup><sup>[www.bookmarks.dev/tagged/forth](https://www.bookmarks.dev/tagged/forth)</sup></sup>_
 ---

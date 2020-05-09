@@ -1,4 +1,4 @@
-## Bookmarks tagged [[pair-programming]](https://www.bookmarks.dev?q=[pair-programming])
+## Bookmarks tagged [[pair-programming]](https://www.bookmarks.dev/search?q=[pair-programming])
 
 _<sup><sup>[www.bookmarks.dev/tagged/pair-programming](https://www.bookmarks.dev/tagged/pair-programming)</sup></sup>_
 ---

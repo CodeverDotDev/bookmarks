@@ -1,4 +1,4 @@
-## Bookmarks tagged [[software]](https://www.bookmarks.dev?q=[software])
+## Bookmarks tagged [[software]](https://www.bookmarks.dev/search?q=[software])
 
 _<sup><sup>[www.bookmarks.dev/tagged/software](https://www.bookmarks.dev/tagged/software)</sup></sup>_
 ---

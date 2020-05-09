@@ -1,4 +1,4 @@
-## Bookmarks tagged [[accessibility]](https://www.bookmarks.dev?q=[accessibility])
+## Bookmarks tagged [[accessibility]](https://www.bookmarks.dev/search?q=[accessibility])
 
 _<sup><sup>[www.bookmarks.dev/tagged/accessibility](https://www.bookmarks.dev/tagged/accessibility)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[scalability]](https://www.bookmarks.dev?q=[scalability])
+## Bookmarks tagged [[scalability]](https://www.bookmarks.dev/search?q=[scalability])
 
 _<sup><sup>[www.bookmarks.dev/tagged/scalability](https://www.bookmarks.dev/tagged/scalability)</sup></sup>_
 ---

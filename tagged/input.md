@@ -1,4 +1,4 @@
-## Bookmarks tagged [[input]](https://www.bookmarks.dev?q=[input])
+## Bookmarks tagged [[input]](https://www.bookmarks.dev/search?q=[input])
 
 _<sup><sup>[www.bookmarks.dev/tagged/input](https://www.bookmarks.dev/tagged/input)</sup></sup>_
 ---

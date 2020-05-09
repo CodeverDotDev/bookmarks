@@ -1,4 +1,4 @@
-## Bookmarks tagged [[reasonreact]](https://www.bookmarks.dev?q=[reasonreact])
+## Bookmarks tagged [[reasonreact]](https://www.bookmarks.dev/search?q=[reasonreact])
 
 _<sup><sup>[www.bookmarks.dev/tagged/reasonreact](https://www.bookmarks.dev/tagged/reasonreact)</sup></sup>_
 ---

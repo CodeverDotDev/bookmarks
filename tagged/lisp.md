@@ -1,4 +1,4 @@
-## Bookmarks tagged [[lisp]](https://www.bookmarks.dev?q=[lisp])
+## Bookmarks tagged [[lisp]](https://www.bookmarks.dev/search?q=[lisp])
 
 _<sup><sup>[www.bookmarks.dev/tagged/lisp](https://www.bookmarks.dev/tagged/lisp)</sup></sup>_
 ---

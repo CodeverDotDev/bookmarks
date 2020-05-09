@@ -1,4 +1,4 @@
-## Bookmarks tagged [[push-api]](https://www.bookmarks.dev?q=[push-api])
+## Bookmarks tagged [[push-api]](https://www.bookmarks.dev/search?q=[push-api])
 
 _<sup><sup>[www.bookmarks.dev/tagged/push-api](https://www.bookmarks.dev/tagged/push-api)</sup></sup>_
 ---

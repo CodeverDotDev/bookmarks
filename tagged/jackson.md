@@ -1,4 +1,4 @@
-## Bookmarks tagged [[jackson]](https://www.bookmarks.dev?q=[jackson])
+## Bookmarks tagged [[jackson]](https://www.bookmarks.dev/search?q=[jackson])
 
 _<sup><sup>[www.bookmarks.dev/tagged/jackson](https://www.bookmarks.dev/tagged/jackson)</sup></sup>_
 ---

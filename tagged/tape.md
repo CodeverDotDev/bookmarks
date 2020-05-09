@@ -1,4 +1,4 @@
-## Bookmarks tagged [[tape]](https://www.bookmarks.dev?q=[tape])
+## Bookmarks tagged [[tape]](https://www.bookmarks.dev/search?q=[tape])
 
 _<sup><sup>[www.bookmarks.dev/tagged/tape](https://www.bookmarks.dev/tagged/tape)</sup></sup>_
 ---

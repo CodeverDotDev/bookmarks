@@ -1,4 +1,4 @@
-## Bookmarks tagged [[database-indexes]](https://www.bookmarks.dev?q=[database-indexes])
+## Bookmarks tagged [[database-indexes]](https://www.bookmarks.dev/search?q=[database-indexes])
 
 _<sup><sup>[www.bookmarks.dev/tagged/database-indexes](https://www.bookmarks.dev/tagged/database-indexes)</sup></sup>_
 ---

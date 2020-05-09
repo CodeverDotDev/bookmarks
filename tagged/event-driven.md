@@ -1,4 +1,4 @@
-## Bookmarks tagged [[event-driven]](https://www.bookmarks.dev?q=[event-driven])
+## Bookmarks tagged [[event-driven]](https://www.bookmarks.dev/search?q=[event-driven])
 
 _<sup><sup>[www.bookmarks.dev/tagged/event-driven](https://www.bookmarks.dev/tagged/event-driven)</sup></sup>_
 ---

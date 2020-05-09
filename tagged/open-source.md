@@ -1,4 +1,4 @@
-## Bookmarks tagged [[open-source]](https://www.bookmarks.dev?q=[open-source])
+## Bookmarks tagged [[open-source]](https://www.bookmarks.dev/search?q=[open-source])
 
 _<sup><sup>[www.bookmarks.dev/tagged/open-source](https://www.bookmarks.dev/tagged/open-source)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[qr]](https://www.bookmarks.dev?q=[qr])
+## Bookmarks tagged [[qr]](https://www.bookmarks.dev/search?q=[qr])
 
 _<sup><sup>[www.bookmarks.dev/tagged/qr](https://www.bookmarks.dev/tagged/qr)</sup></sup>_
 ---

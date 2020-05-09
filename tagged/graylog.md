@@ -1,4 +1,4 @@
-## Bookmarks tagged [[graylog]](https://www.bookmarks.dev?q=[graylog])
+## Bookmarks tagged [[graylog]](https://www.bookmarks.dev/search?q=[graylog])
 
 _<sup><sup>[www.bookmarks.dev/tagged/graylog](https://www.bookmarks.dev/tagged/graylog)</sup></sup>_
 ---

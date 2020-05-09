@@ -1,4 +1,4 @@
-## Bookmarks tagged [[design]](https://www.bookmarks.dev?q=[design])
+## Bookmarks tagged [[design]](https://www.bookmarks.dev/search?q=[design])
 
 _<sup><sup>[www.bookmarks.dev/tagged/design](https://www.bookmarks.dev/tagged/design)</sup></sup>_
 ---

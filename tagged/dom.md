@@ -1,6 +1,14 @@
-## Bookmarks tagged [[dom]](https://www.bookmarks.dev?q=[dom])
+## Bookmarks tagged [[dom]](https://www.bookmarks.dev/search?q=[dom])
 
 _<sup><sup>[www.bookmarks.dev/tagged/dom](https://www.bookmarks.dev/tagged/dom)</sup></sup>_
+---
+#### [Cut and Copy Commands  |  Web  |  Google Developers](https://developers.google.com/web/updates/2015/04/cut-and-copy-commands)
+_<sup>https://developers.google.com/web/updates/2015/04/cut-and-copy-commands</sup>_
+
+IE10 and above added support for the 'cut' and 'copy' commands through the Document.execCommand() method. As of Chrome version 43, these commands are also supported in Chrome.
+
+Any text selected in th...
+* **tags**: [javascript](../tagged/javascript.md), [dom](../tagged/dom.md), [copy](../tagged/copy.md)
 ---
 #### [DOMPurify](https://github.com/cure53/DOMPurify)
 _<sup>https://github.com/cure53/DOMPurify</sup>_

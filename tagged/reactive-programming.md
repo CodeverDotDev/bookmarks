@@ -1,4 +1,4 @@
-## Bookmarks tagged [[reactive-programming]](https://www.bookmarks.dev?q=[reactive-programming])
+## Bookmarks tagged [[reactive-programming]](https://www.bookmarks.dev/search?q=[reactive-programming])
 
 _<sup><sup>[www.bookmarks.dev/tagged/reactive-programming](https://www.bookmarks.dev/tagged/reactive-programming)</sup></sup>_
 ---

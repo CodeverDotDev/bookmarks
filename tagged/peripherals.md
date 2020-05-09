@@ -1,4 +1,4 @@
-## Bookmarks tagged [[peripherals]](https://www.bookmarks.dev?q=[peripherals])
+## Bookmarks tagged [[peripherals]](https://www.bookmarks.dev/search?q=[peripherals])
 
 _<sup><sup>[www.bookmarks.dev/tagged/peripherals](https://www.bookmarks.dev/tagged/peripherals)</sup></sup>_
 ---

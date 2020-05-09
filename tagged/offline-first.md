@@ -1,4 +1,4 @@
-## Bookmarks tagged [[offline-first]](https://www.bookmarks.dev?q=[offline-first])
+## Bookmarks tagged [[offline-first]](https://www.bookmarks.dev/search?q=[offline-first])
 
 _<sup><sup>[www.bookmarks.dev/tagged/offline-first](https://www.bookmarks.dev/tagged/offline-first)</sup></sup>_
 ---

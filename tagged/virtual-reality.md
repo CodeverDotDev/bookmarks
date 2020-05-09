@@ -1,4 +1,4 @@
-## Bookmarks tagged [[virtual-reality]](https://www.bookmarks.dev?q=[virtual-reality])
+## Bookmarks tagged [[virtual-reality]](https://www.bookmarks.dev/search?q=[virtual-reality])
 
 _<sup><sup>[www.bookmarks.dev/tagged/virtual-reality](https://www.bookmarks.dev/tagged/virtual-reality)</sup></sup>_
 ---

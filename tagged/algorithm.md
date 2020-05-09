@@ -1,4 +1,4 @@
-## Bookmarks tagged [[algorithm]](https://www.bookmarks.dev?q=[algorithm])
+## Bookmarks tagged [[algorithm]](https://www.bookmarks.dev/search?q=[algorithm])
 
 _<sup><sup>[www.bookmarks.dev/tagged/algorithm](https://www.bookmarks.dev/tagged/algorithm)</sup></sup>_
 ---

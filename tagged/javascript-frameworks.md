@@ -1,4 +1,4 @@
-## Bookmarks tagged [[javascript-frameworks]](https://www.bookmarks.dev?q=[javascript-frameworks])
+## Bookmarks tagged [[javascript-frameworks]](https://www.bookmarks.dev/search?q=[javascript-frameworks])
 
 _<sup><sup>[www.bookmarks.dev/tagged/javascript-frameworks](https://www.bookmarks.dev/tagged/javascript-frameworks)</sup></sup>_
 ---

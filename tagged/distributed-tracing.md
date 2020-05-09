@@ -1,4 +1,4 @@
-## Bookmarks tagged [[distributed-tracing]](https://www.bookmarks.dev?q=[distributed-tracing])
+## Bookmarks tagged [[distributed-tracing]](https://www.bookmarks.dev/search?q=[distributed-tracing])
 
 _<sup><sup>[www.bookmarks.dev/tagged/distributed-tracing](https://www.bookmarks.dev/tagged/distributed-tracing)</sup></sup>_
 ---

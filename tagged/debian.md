@@ -1,4 +1,4 @@
-## Bookmarks tagged [[debian]](https://www.bookmarks.dev?q=[debian])
+## Bookmarks tagged [[debian]](https://www.bookmarks.dev/search?q=[debian])
 
 _<sup><sup>[www.bookmarks.dev/tagged/debian](https://www.bookmarks.dev/tagged/debian)</sup></sup>_
 ---

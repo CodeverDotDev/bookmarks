@@ -1,4 +1,4 @@
-## Bookmarks tagged [[memory-allocation]](https://www.bookmarks.dev?q=[memory-allocation])
+## Bookmarks tagged [[memory-allocation]](https://www.bookmarks.dev/search?q=[memory-allocation])
 
 _<sup><sup>[www.bookmarks.dev/tagged/memory-allocation](https://www.bookmarks.dev/tagged/memory-allocation)</sup></sup>_
 ---

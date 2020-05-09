@@ -1,4 +1,4 @@
-## Bookmarks tagged [[instanbul]](https://www.bookmarks.dev?q=[instanbul])
+## Bookmarks tagged [[instanbul]](https://www.bookmarks.dev/search?q=[instanbul])
 
 _<sup><sup>[www.bookmarks.dev/tagged/instanbul](https://www.bookmarks.dev/tagged/instanbul)</sup></sup>_
 ---

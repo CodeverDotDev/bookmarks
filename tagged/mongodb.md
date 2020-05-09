@@ -1,4 +1,4 @@
-## Bookmarks tagged [[mongodb]](https://www.bookmarks.dev?q=[mongodb])
+## Bookmarks tagged [[mongodb]](https://www.bookmarks.dev/search?q=[mongodb])
 
 _<sup><sup>[www.bookmarks.dev/tagged/mongodb](https://www.bookmarks.dev/tagged/mongodb)</sup></sup>_
 ---

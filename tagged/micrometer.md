@@ -1,4 +1,4 @@
-## Bookmarks tagged [[micrometer]](https://www.bookmarks.dev?q=[micrometer])
+## Bookmarks tagged [[micrometer]](https://www.bookmarks.dev/search?q=[micrometer])
 
 _<sup><sup>[www.bookmarks.dev/tagged/micrometer](https://www.bookmarks.dev/tagged/micrometer)</sup></sup>_
 ---

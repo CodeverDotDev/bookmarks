@@ -1,4 +1,4 @@
-## Bookmarks tagged [[payment]](https://www.bookmarks.dev?q=[payment])
+## Bookmarks tagged [[payment]](https://www.bookmarks.dev/search?q=[payment])
 
 _<sup><sup>[www.bookmarks.dev/tagged/payment](https://www.bookmarks.dev/tagged/payment)</sup></sup>_
 ---

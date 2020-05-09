@@ -1,4 +1,4 @@
-## Bookmarks tagged [[jwe]](https://www.bookmarks.dev?q=[jwe])
+## Bookmarks tagged [[jwe]](https://www.bookmarks.dev/search?q=[jwe])
 
 _<sup><sup>[www.bookmarks.dev/tagged/jwe](https://www.bookmarks.dev/tagged/jwe)</sup></sup>_
 ---

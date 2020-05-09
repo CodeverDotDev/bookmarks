@@ -1,4 +1,4 @@
-## Bookmarks tagged [[memcached]](https://www.bookmarks.dev?q=[memcached])
+## Bookmarks tagged [[memcached]](https://www.bookmarks.dev/search?q=[memcached])
 
 _<sup><sup>[www.bookmarks.dev/tagged/memcached](https://www.bookmarks.dev/tagged/memcached)</sup></sup>_
 ---

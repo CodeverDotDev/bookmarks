@@ -1,4 +1,4 @@
-## Bookmarks tagged [[disaster-recovery]](https://www.bookmarks.dev?q=[disaster-recovery])
+## Bookmarks tagged [[disaster-recovery]](https://www.bookmarks.dev/search?q=[disaster-recovery])
 
 _<sup><sup>[www.bookmarks.dev/tagged/disaster-recovery](https://www.bookmarks.dev/tagged/disaster-recovery)</sup></sup>_
 ---

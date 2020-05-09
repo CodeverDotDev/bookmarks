@@ -1,4 +1,4 @@
-## Bookmarks tagged [[utp]](https://www.bookmarks.dev?q=[utp])
+## Bookmarks tagged [[utp]](https://www.bookmarks.dev/search?q=[utp])
 
 _<sup><sup>[www.bookmarks.dev/tagged/utp](https://www.bookmarks.dev/tagged/utp)</sup></sup>_
 ---

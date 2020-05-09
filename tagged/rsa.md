@@ -1,4 +1,4 @@
-## Bookmarks tagged [[rsa]](https://www.bookmarks.dev?q=[rsa])
+## Bookmarks tagged [[rsa]](https://www.bookmarks.dev/search?q=[rsa])
 
 _<sup><sup>[www.bookmarks.dev/tagged/rsa](https://www.bookmarks.dev/tagged/rsa)</sup></sup>_
 ---

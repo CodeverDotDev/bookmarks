@@ -1,4 +1,4 @@
-## Bookmarks tagged [[inheritance]](https://www.bookmarks.dev?q=[inheritance])
+## Bookmarks tagged [[inheritance]](https://www.bookmarks.dev/search?q=[inheritance])
 
 _<sup><sup>[www.bookmarks.dev/tagged/inheritance](https://www.bookmarks.dev/tagged/inheritance)</sup></sup>_
 ---

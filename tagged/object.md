@@ -1,4 +1,4 @@
-## Bookmarks tagged [[object]](https://www.bookmarks.dev?q=[object])
+## Bookmarks tagged [[object]](https://www.bookmarks.dev/search?q=[object])
 
 _<sup><sup>[www.bookmarks.dev/tagged/object](https://www.bookmarks.dev/tagged/object)</sup></sup>_
 ---

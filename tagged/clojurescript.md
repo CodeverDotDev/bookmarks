@@ -1,4 +1,4 @@
-## Bookmarks tagged [[clojurescript]](https://www.bookmarks.dev?q=[clojurescript])
+## Bookmarks tagged [[clojurescript]](https://www.bookmarks.dev/search?q=[clojurescript])
 
 _<sup><sup>[www.bookmarks.dev/tagged/clojurescript](https://www.bookmarks.dev/tagged/clojurescript)</sup></sup>_
 ---

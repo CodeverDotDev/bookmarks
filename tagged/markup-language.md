@@ -1,4 +1,4 @@
-## Bookmarks tagged [[markup-language]](https://www.bookmarks.dev?q=[markup-language])
+## Bookmarks tagged [[markup-language]](https://www.bookmarks.dev/search?q=[markup-language])
 
 _<sup><sup>[www.bookmarks.dev/tagged/markup-language](https://www.bookmarks.dev/tagged/markup-language)</sup></sup>_
 ---

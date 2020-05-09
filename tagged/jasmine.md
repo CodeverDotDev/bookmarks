@@ -1,4 +1,4 @@
-## Bookmarks tagged [[jasmine]](https://www.bookmarks.dev?q=[jasmine])
+## Bookmarks tagged [[jasmine]](https://www.bookmarks.dev/search?q=[jasmine])
 
 _<sup><sup>[www.bookmarks.dev/tagged/jasmine](https://www.bookmarks.dev/tagged/jasmine)</sup></sup>_
 ---

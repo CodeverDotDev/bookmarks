@@ -1,4 +1,4 @@
-## Bookmarks tagged [[software-quality]](https://www.bookmarks.dev?q=[software-quality])
+## Bookmarks tagged [[software-quality]](https://www.bookmarks.dev/search?q=[software-quality])
 
 _<sup><sup>[www.bookmarks.dev/tagged/software-quality](https://www.bookmarks.dev/tagged/software-quality)</sup></sup>_
 ---

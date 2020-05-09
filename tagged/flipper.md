@@ -1,4 +1,4 @@
-## Bookmarks tagged [[flipper]](https://www.bookmarks.dev?q=[flipper])
+## Bookmarks tagged [[flipper]](https://www.bookmarks.dev/search?q=[flipper])
 
 _<sup><sup>[www.bookmarks.dev/tagged/flipper](https://www.bookmarks.dev/tagged/flipper)</sup></sup>_
 ---

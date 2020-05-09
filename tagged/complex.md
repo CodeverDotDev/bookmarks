@@ -1,4 +1,4 @@
-## Bookmarks tagged [[complex]](https://www.bookmarks.dev?q=[complex])
+## Bookmarks tagged [[complex]](https://www.bookmarks.dev/search?q=[complex])
 
 _<sup><sup>[www.bookmarks.dev/tagged/complex](https://www.bookmarks.dev/tagged/complex)</sup></sup>_
 ---

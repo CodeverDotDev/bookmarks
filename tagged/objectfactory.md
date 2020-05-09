@@ -1,4 +1,4 @@
-## Bookmarks tagged [[objectfactory]](https://www.bookmarks.dev?q=[objectfactory])
+## Bookmarks tagged [[objectfactory]](https://www.bookmarks.dev/search?q=[objectfactory])
 
 _<sup><sup>[www.bookmarks.dev/tagged/objectfactory](https://www.bookmarks.dev/tagged/objectfactory)</sup></sup>_
 ---

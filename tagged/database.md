@@ -1,4 +1,4 @@
-## Bookmarks tagged [[database]](https://www.bookmarks.dev?q=[database])
+## Bookmarks tagged [[database]](https://www.bookmarks.dev/search?q=[database])
 
 _<sup><sup>[www.bookmarks.dev/tagged/database](https://www.bookmarks.dev/tagged/database)</sup></sup>_
 ---

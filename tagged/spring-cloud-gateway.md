@@ -1,4 +1,4 @@
-## Bookmarks tagged [[spring-cloud-gateway]](https://www.bookmarks.dev?q=[spring-cloud-gateway])
+## Bookmarks tagged [[spring-cloud-gateway]](https://www.bookmarks.dev/search?q=[spring-cloud-gateway])
 
 _<sup><sup>[www.bookmarks.dev/tagged/spring-cloud-gateway](https://www.bookmarks.dev/tagged/spring-cloud-gateway)</sup></sup>_
 ---

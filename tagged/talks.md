@@ -1,4 +1,4 @@
-## Bookmarks tagged [[talks]](https://www.bookmarks.dev?q=[talks])
+## Bookmarks tagged [[talks]](https://www.bookmarks.dev/search?q=[talks])
 
 _<sup><sup>[www.bookmarks.dev/tagged/talks](https://www.bookmarks.dev/tagged/talks)</sup></sup>_
 ---

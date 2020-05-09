@@ -1,6 +1,18 @@
-## Bookmarks tagged [[youtube]](https://www.bookmarks.dev?q=[youtube])
+## Bookmarks tagged [[youtube]](https://www.bookmarks.dev/search?q=[youtube])
 
 _<sup><sup>[www.bookmarks.dev/tagged/youtube](https://www.bookmarks.dev/tagged/youtube)</sup></sup>_
+---
+#### [How to search for YouTube videos in a channel with .NET Core 3](https://www.code4it.dev/blog/search-youtube-videos-dotnet)
+_<sup>https://www.code4it.dev/blog/search-youtube-videos-dotnet</sup>_
+
+YouTube provides some APIs for getting info about a channel videos. But they also provide .NET libraries to achieve the same result with C. Let's have a try!
+* **tags**: [.net](../tagged/.net.md), [.net-core](../tagged/.net-core.md), [csharp](../tagged/csharp.md), [youtube](../tagged/youtube.md)
+---
+#### [How to get video details from YouTube with .NET Core 3](https://www.code4it.dev/blog/get-youtube-video-details-dotnet)
+_<sup>https://www.code4it.dev/blog/get-youtube-video-details-dotnet</sup>_
+
+We have already seen how to search for videos in a YouTube channel. Now it's time to get details for a single video.
+* **tags**: [.net](../tagged/.net.md), [.net-core](../tagged/.net-core.md), [csharp](../tagged/csharp.md), [youtube](../tagged/youtube.md)
 ---
 #### [How to embed a youtube video in an angular material dialog – CodepediaOrg](https://www.codepedia.org/ama/how-to-embed-a-youtube-video-in-an-angular-material-dialog)
 _<sup>https://www.codepedia.org/ama/how-to-embed-a-youtube-video-in-an-angular-material-dialog</sup>_

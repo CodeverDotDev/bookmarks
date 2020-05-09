@@ -1,4 +1,4 @@
-## Bookmarks tagged [[garbac]](https://www.bookmarks.dev?q=[garbac])
+## Bookmarks tagged [[garbac]](https://www.bookmarks.dev/search?q=[garbac])
 
 _<sup><sup>[www.bookmarks.dev/tagged/garbac](https://www.bookmarks.dev/tagged/garbac)</sup></sup>_
 ---

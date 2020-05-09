@@ -1,4 +1,4 @@
-## Bookmarks tagged [[monitoring]](https://www.bookmarks.dev?q=[monitoring])
+## Bookmarks tagged [[monitoring]](https://www.bookmarks.dev/search?q=[monitoring])
 
 _<sup><sup>[www.bookmarks.dev/tagged/monitoring](https://www.bookmarks.dev/tagged/monitoring)</sup></sup>_
 ---

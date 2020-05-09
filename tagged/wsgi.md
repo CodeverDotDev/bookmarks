@@ -1,4 +1,4 @@
-## Bookmarks tagged [[wsgi]](https://www.bookmarks.dev?q=[wsgi])
+## Bookmarks tagged [[wsgi]](https://www.bookmarks.dev/search?q=[wsgi])
 
 _<sup><sup>[www.bookmarks.dev/tagged/wsgi](https://www.bookmarks.dev/tagged/wsgi)</sup></sup>_
 ---

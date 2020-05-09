@@ -1,4 +1,4 @@
-## Bookmarks tagged [[web-crawling]](https://www.bookmarks.dev?q=[web-crawling])
+## Bookmarks tagged [[web-crawling]](https://www.bookmarks.dev/search?q=[web-crawling])
 
 _<sup><sup>[www.bookmarks.dev/tagged/web-crawling](https://www.bookmarks.dev/tagged/web-crawling)</sup></sup>_
 ---

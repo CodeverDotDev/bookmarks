@@ -1,4 +1,4 @@
-## Bookmarks tagged [[bzip2]](https://www.bookmarks.dev?q=[bzip2])
+## Bookmarks tagged [[bzip2]](https://www.bookmarks.dev/search?q=[bzip2])
 
 _<sup><sup>[www.bookmarks.dev/tagged/bzip2](https://www.bookmarks.dev/tagged/bzip2)</sup></sup>_
 ---

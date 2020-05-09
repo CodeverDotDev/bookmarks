@@ -1,4 +1,4 @@
-## Bookmarks tagged [[writing]](https://www.bookmarks.dev?q=[writing])
+## Bookmarks tagged [[writing]](https://www.bookmarks.dev/search?q=[writing])
 
 _<sup><sup>[www.bookmarks.dev/tagged/writing](https://www.bookmarks.dev/tagged/writing)</sup></sup>_
 ---

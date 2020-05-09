@@ -1,4 +1,4 @@
-## Bookmarks tagged [[goroutine]](https://www.bookmarks.dev?q=[goroutine])
+## Bookmarks tagged [[goroutine]](https://www.bookmarks.dev/search?q=[goroutine])
 
 _<sup><sup>[www.bookmarks.dev/tagged/goroutine](https://www.bookmarks.dev/tagged/goroutine)</sup></sup>_
 ---

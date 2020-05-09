@@ -1,4 +1,4 @@
-## Bookmarks tagged [[mobile-applications]](https://www.bookmarks.dev?q=[mobile-applications])
+## Bookmarks tagged [[mobile-applications]](https://www.bookmarks.dev/search?q=[mobile-applications])
 
 _<sup><sup>[www.bookmarks.dev/tagged/mobile-applications](https://www.bookmarks.dev/tagged/mobile-applications)</sup></sup>_
 ---

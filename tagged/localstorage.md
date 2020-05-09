@@ -1,4 +1,4 @@
-## Bookmarks tagged [[localstorage]](https://www.bookmarks.dev?q=[localstorage])
+## Bookmarks tagged [[localstorage]](https://www.bookmarks.dev/search?q=[localstorage])
 
 _<sup><sup>[www.bookmarks.dev/tagged/localstorage](https://www.bookmarks.dev/tagged/localstorage)</sup></sup>_
 ---

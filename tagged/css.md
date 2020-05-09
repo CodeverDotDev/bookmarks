@@ -1,6 +1,46 @@
-## Bookmarks tagged [[css]](https://www.bookmarks.dev?q=[css])
+## Bookmarks tagged [[css]](https://www.bookmarks.dev/search?q=[css])
 
 _<sup><sup>[www.bookmarks.dev/tagged/css](https://www.bookmarks.dev/tagged/css)</sup></sup>_
+---
+#### [Primer CSS Home Page](https://primer.style/css/)
+_<sup>https://primer.style/css/</sup>_
+
+The CSS design system that powers GitHub
+* **tags**: [css](../tagged/css.md), [github](../tagged/github.md)
+* :octocat: **[source code](https://github.com/primer/css)**
+---
+#### [Bizarre White Space Issue. HTML, CSS, Angular](https://stackoverflow.com/questions/27562924/bizarre-white-space-issue-html-css-angular)
+_<sup>https://stackoverflow.com/questions/27562924/bizarre-white-space-issue-html-css-angular</sup>_
+
+I know this is an old question but I recently had the same issue and it was due to my use of line breaks and indents inside the <pre> tags. For instance, my original code looked like:
+...
+* :calendar: **published on**: 2014-12-19
+* **tags**: [html](../tagged/html.md), [css](../tagged/css.md), [angular](../tagged/angular.md)
+---
+#### [Grab n'go CSS editor](https://cssbuilder.veliovgroup.com/)
+_<sup>https://cssbuilder.veliovgroup.com/</sup>_
+
+* **tags**: [css](../tagged/css.md)
+---
+#### [Daily Dev Tips just for you - Daily Dev Tips](https://daily-dev-tips.com)
+_<sup>https://daily-dev-tips.com</sup>_
+
+Daily Dev Tips
+
+Daily dev tips for the development community!
+
+Get a daily development tip easy and simple to understand.
+* :calendar: **published on**: 2020-03-31
+* **tags**: [javascript](../tagged/javascript.md), [css](../tagged/css.md), [vanillajs](../tagged/vanillajs.md)
+---
+#### [Sizing Icons | Font Awesome](https://fontawesome.com/how-to-use/on-the-web/styling/sizing-icons)
+_<sup>https://fontawesome.com/how-to-use/on-the-web/styling/sizing-icons</sup>_
+
+Both our Web Fonts + CSS and SVG + JS frameworks include some basic controls for sizing icons in the context of your page’s UI.
+
+**Relative sizing**
+Icons inherit the font-size of their parent contain...
+* **tags**: [css](../tagged/css.md), [font-awesome](../tagged/font-awesome.md)
 ---
 #### [The Most Popular Navigation Bars created with Flexbox](https://medium.com/flexbox-and-grids/the-most-popular-navigation-bars-created-with-flexbox-6c0f59f55686)
 _<sup>https://medium.com/flexbox-and-grids/the-most-popular-navigation-bars-created-with-flexbox-6c0f59f55...</sup>_

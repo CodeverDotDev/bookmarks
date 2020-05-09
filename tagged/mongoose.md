@@ -1,6 +1,12 @@
-## Bookmarks tagged [[mongoose]](https://www.bookmarks.dev?q=[mongoose])
+## Bookmarks tagged [[mongoose]](https://www.bookmarks.dev/search?q=[mongoose])
 
 _<sup><sup>[www.bookmarks.dev/tagged/mongoose](https://www.bookmarks.dev/tagged/mongoose)</sup></sup>_
+---
+#### [Mongoose](https://mongoosejs.com/docs/guide.html)
+_<sup>https://mongoosejs.com/docs/guide.html</sup>_
+
+* :calendar: **published on**: 2020-04-04
+* **tags**: [mongoose](../tagged/mongoose.md), [schema](../tagged/schema.md)
 ---
 #### [Node - Exclude fields from select with Mongoose/MongoDB · Curtis Larson's Blog](https://www.curtismlarson.com/blog/2016/05/11/mongoose-mongodb-exclude-select-fields/)
 _<sup>https://www.curtismlarson.com/blog/2016/05/11/mongoose-mongodb-exclude-select-fields/</sup>_

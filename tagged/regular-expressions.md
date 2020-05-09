@@ -1,4 +1,4 @@
-## Bookmarks tagged [[regular-expressions]](https://www.bookmarks.dev?q=[regular-expressions])
+## Bookmarks tagged [[regular-expressions]](https://www.bookmarks.dev/search?q=[regular-expressions])
 
 _<sup><sup>[www.bookmarks.dev/tagged/regular-expressions](https://www.bookmarks.dev/tagged/regular-expressions)</sup></sup>_
 ---

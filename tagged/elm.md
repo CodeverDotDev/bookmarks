@@ -1,4 +1,4 @@
-## Bookmarks tagged [[elm]](https://www.bookmarks.dev?q=[elm])
+## Bookmarks tagged [[elm]](https://www.bookmarks.dev/search?q=[elm])
 
 _<sup><sup>[www.bookmarks.dev/tagged/elm](https://www.bookmarks.dev/tagged/elm)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[mapstruct]](https://www.bookmarks.dev?q=[mapstruct])
+## Bookmarks tagged [[mapstruct]](https://www.bookmarks.dev/search?q=[mapstruct])
 
 _<sup><sup>[www.bookmarks.dev/tagged/mapstruct](https://www.bookmarks.dev/tagged/mapstruct)</sup></sup>_
 ---

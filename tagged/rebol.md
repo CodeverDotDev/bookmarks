@@ -1,4 +1,4 @@
-## Bookmarks tagged [[rebol]](https://www.bookmarks.dev?q=[rebol])
+## Bookmarks tagged [[rebol]](https://www.bookmarks.dev/search?q=[rebol])
 
 _<sup><sup>[www.bookmarks.dev/tagged/rebol](https://www.bookmarks.dev/tagged/rebol)</sup></sup>_
 ---

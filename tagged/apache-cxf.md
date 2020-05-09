@@ -1,4 +1,4 @@
-## Bookmarks tagged [[apache-cxf]](https://www.bookmarks.dev?q=[apache-cxf])
+## Bookmarks tagged [[apache-cxf]](https://www.bookmarks.dev/search?q=[apache-cxf])
 
 _<sup><sup>[www.bookmarks.dev/tagged/apache-cxf](https://www.bookmarks.dev/tagged/apache-cxf)</sup></sup>_
 ---

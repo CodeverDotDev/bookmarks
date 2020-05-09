@@ -1,4 +1,4 @@
-## Bookmarks tagged [[fluentd]](https://www.bookmarks.dev?q=[fluentd])
+## Bookmarks tagged [[fluentd]](https://www.bookmarks.dev/search?q=[fluentd])
 
 _<sup><sup>[www.bookmarks.dev/tagged/fluentd](https://www.bookmarks.dev/tagged/fluentd)</sup></sup>_
 ---

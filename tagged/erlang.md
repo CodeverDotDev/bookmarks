@@ -1,4 +1,4 @@
-## Bookmarks tagged [[erlang]](https://www.bookmarks.dev?q=[erlang])
+## Bookmarks tagged [[erlang]](https://www.bookmarks.dev/search?q=[erlang])
 
 _<sup><sup>[www.bookmarks.dev/tagged/erlang](https://www.bookmarks.dev/tagged/erlang)</sup></sup>_
 ---

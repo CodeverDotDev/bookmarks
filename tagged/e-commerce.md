@@ -1,4 +1,4 @@
-## Bookmarks tagged [[e-commerce]](https://www.bookmarks.dev?q=[e-commerce])
+## Bookmarks tagged [[e-commerce]](https://www.bookmarks.dev/search?q=[e-commerce])
 
 _<sup><sup>[www.bookmarks.dev/tagged/e-commerce](https://www.bookmarks.dev/tagged/e-commerce)</sup></sup>_
 ---

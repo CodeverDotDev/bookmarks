@@ -1,4 +1,4 @@
-## Bookmarks tagged [[financial]](https://www.bookmarks.dev?q=[financial])
+## Bookmarks tagged [[financial]](https://www.bookmarks.dev/search?q=[financial])
 
 _<sup><sup>[www.bookmarks.dev/tagged/financial](https://www.bookmarks.dev/tagged/financial)</sup></sup>_
 ---

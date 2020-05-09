@@ -1,4 +1,4 @@
-## Bookmarks tagged [[chatops]](https://www.bookmarks.dev?q=[chatops])
+## Bookmarks tagged [[chatops]](https://www.bookmarks.dev/search?q=[chatops])
 
 _<sup><sup>[www.bookmarks.dev/tagged/chatops](https://www.bookmarks.dev/tagged/chatops)</sup></sup>_
 ---

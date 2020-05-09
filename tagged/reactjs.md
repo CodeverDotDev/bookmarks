@@ -1,4 +1,4 @@
-## Bookmarks tagged [[reactjs]](https://www.bookmarks.dev?q=[reactjs])
+## Bookmarks tagged [[reactjs]](https://www.bookmarks.dev/search?q=[reactjs])
 
 _<sup><sup>[www.bookmarks.dev/tagged/reactjs](https://www.bookmarks.dev/tagged/reactjs)</sup></sup>_
 ---

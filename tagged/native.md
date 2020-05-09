@@ -1,4 +1,4 @@
-## Bookmarks tagged [[native]](https://www.bookmarks.dev?q=[native])
+## Bookmarks tagged [[native]](https://www.bookmarks.dev/search?q=[native])
 
 _<sup><sup>[www.bookmarks.dev/tagged/native](https://www.bookmarks.dev/tagged/native)</sup></sup>_
 ---

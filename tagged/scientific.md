@@ -1,4 +1,4 @@
-## Bookmarks tagged [[scientific]](https://www.bookmarks.dev?q=[scientific])
+## Bookmarks tagged [[scientific]](https://www.bookmarks.dev/search?q=[scientific])
 
 _<sup><sup>[www.bookmarks.dev/tagged/scientific](https://www.bookmarks.dev/tagged/scientific)</sup></sup>_
 ---

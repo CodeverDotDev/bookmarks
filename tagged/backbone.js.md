@@ -1,4 +1,4 @@
-## Bookmarks tagged [[backbone.js]](https://www.bookmarks.dev?q=[backbone.js])
+## Bookmarks tagged [[backbone.js]](https://www.bookmarks.dev/search?q=[backbone.js])
 
 _<sup><sup>[www.bookmarks.dev/tagged/backbone.js](https://www.bookmarks.dev/tagged/backbone.js)</sup></sup>_
 ---

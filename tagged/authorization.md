@@ -1,4 +1,4 @@
-## Bookmarks tagged [[authorization]](https://www.bookmarks.dev?q=[authorization])
+## Bookmarks tagged [[authorization]](https://www.bookmarks.dev/search?q=[authorization])
 
 _<sup><sup>[www.bookmarks.dev/tagged/authorization](https://www.bookmarks.dev/tagged/authorization)</sup></sup>_
 ---

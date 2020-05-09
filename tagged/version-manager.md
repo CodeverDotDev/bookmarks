@@ -1,4 +1,4 @@
-## Bookmarks tagged [[version-manager]](https://www.bookmarks.dev?q=[version-manager])
+## Bookmarks tagged [[version-manager]](https://www.bookmarks.dev/search?q=[version-manager])
 
 _<sup><sup>[www.bookmarks.dev/tagged/version-manager](https://www.bookmarks.dev/tagged/version-manager)</sup></sup>_
 ---

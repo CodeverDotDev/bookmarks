@@ -1,4 +1,4 @@
-## Bookmarks tagged [[coap]](https://www.bookmarks.dev?q=[coap])
+## Bookmarks tagged [[coap]](https://www.bookmarks.dev/search?q=[coap])
 
 _<sup><sup>[www.bookmarks.dev/tagged/coap](https://www.bookmarks.dev/tagged/coap)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[data-management]](https://www.bookmarks.dev?q=[data-management])
+## Bookmarks tagged [[data-management]](https://www.bookmarks.dev/search?q=[data-management])
 
 _<sup><sup>[www.bookmarks.dev/tagged/data-management](https://www.bookmarks.dev/tagged/data-management)</sup></sup>_
 ---

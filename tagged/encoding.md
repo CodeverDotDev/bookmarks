@@ -1,4 +1,4 @@
-## Bookmarks tagged [[encoding]](https://www.bookmarks.dev?q=[encoding])
+## Bookmarks tagged [[encoding]](https://www.bookmarks.dev/search?q=[encoding])
 
 _<sup><sup>[www.bookmarks.dev/tagged/encoding](https://www.bookmarks.dev/tagged/encoding)</sup></sup>_
 ---

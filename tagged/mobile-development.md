@@ -1,4 +1,4 @@
-## Bookmarks tagged [[mobile-development]](https://www.bookmarks.dev?q=[mobile-development])
+## Bookmarks tagged [[mobile-development]](https://www.bookmarks.dev/search?q=[mobile-development])
 
 _<sup><sup>[www.bookmarks.dev/tagged/mobile-development](https://www.bookmarks.dev/tagged/mobile-development)</sup></sup>_
 ---

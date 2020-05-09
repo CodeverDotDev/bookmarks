@@ -1,4 +1,4 @@
-## Bookmarks tagged [[html-manipulation]](https://www.bookmarks.dev?q=[html-manipulation])
+## Bookmarks tagged [[html-manipulation]](https://www.bookmarks.dev/search?q=[html-manipulation])
 
 _<sup><sup>[www.bookmarks.dev/tagged/html-manipulation](https://www.bookmarks.dev/tagged/html-manipulation)</sup></sup>_
 ---

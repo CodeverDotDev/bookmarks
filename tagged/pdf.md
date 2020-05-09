@@ -1,4 +1,4 @@
-## Bookmarks tagged [[pdf]](https://www.bookmarks.dev?q=[pdf])
+## Bookmarks tagged [[pdf]](https://www.bookmarks.dev/search?q=[pdf])
 
 _<sup><sup>[www.bookmarks.dev/tagged/pdf](https://www.bookmarks.dev/tagged/pdf)</sup></sup>_
 ---

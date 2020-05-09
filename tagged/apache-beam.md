@@ -1,4 +1,4 @@
-## Bookmarks tagged [[apache-beam]](https://www.bookmarks.dev?q=[apache-beam])
+## Bookmarks tagged [[apache-beam]](https://www.bookmarks.dev/search?q=[apache-beam])
 
 _<sup><sup>[www.bookmarks.dev/tagged/apache-beam](https://www.bookmarks.dev/tagged/apache-beam)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[spaces]](https://www.bookmarks.dev?q=[spaces])
+## Bookmarks tagged [[spaces]](https://www.bookmarks.dev/search?q=[spaces])
 
 _<sup><sup>[www.bookmarks.dev/tagged/spaces](https://www.bookmarks.dev/tagged/spaces)</sup></sup>_
 ---

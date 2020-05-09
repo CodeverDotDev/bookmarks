@@ -1,4 +1,4 @@
-## Bookmarks tagged [[parameterization]](https://www.bookmarks.dev?q=[parameterization])
+## Bookmarks tagged [[parameterization]](https://www.bookmarks.dev/search?q=[parameterization])
 
 _<sup><sup>[www.bookmarks.dev/tagged/parameterization](https://www.bookmarks.dev/tagged/parameterization)</sup></sup>_
 ---

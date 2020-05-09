@@ -1,4 +1,4 @@
-## Bookmarks tagged [[yarn]](https://www.bookmarks.dev?q=[yarn])
+## Bookmarks tagged [[yarn]](https://www.bookmarks.dev/search?q=[yarn])
 
 _<sup><sup>[www.bookmarks.dev/tagged/yarn](https://www.bookmarks.dev/tagged/yarn)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[command-line-tools]](https://www.bookmarks.dev?q=[command-line-tools])
+## Bookmarks tagged [[command-line-tools]](https://www.bookmarks.dev/search?q=[command-line-tools])
 
 _<sup><sup>[www.bookmarks.dev/tagged/command-line-tools](https://www.bookmarks.dev/tagged/command-line-tools)</sup></sup>_
 ---

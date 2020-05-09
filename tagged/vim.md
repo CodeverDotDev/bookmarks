@@ -1,4 +1,4 @@
-## Bookmarks tagged [[vim]](https://www.bookmarks.dev?q=[vim])
+## Bookmarks tagged [[vim]](https://www.bookmarks.dev/search?q=[vim])
 
 _<sup><sup>[www.bookmarks.dev/tagged/vim](https://www.bookmarks.dev/tagged/vim)</sup></sup>_
 ---

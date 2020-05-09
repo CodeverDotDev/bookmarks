@@ -1,6 +1,13 @@
-## Bookmarks tagged [[static-site-generator]](https://www.bookmarks.dev?q=[static-site-generator])
+## Bookmarks tagged [[static-site-generator]](https://www.bookmarks.dev/search?q=[static-site-generator])
 
 _<sup><sup>[www.bookmarks.dev/tagged/static-site-generator](https://www.bookmarks.dev/tagged/static-site-generator)</sup></sup>_
+---
+#### [Eleventy is a simpler static site generator.](https://www.11ty.dev/)
+_<sup>https://www.11ty.dev/</sup>_
+
+Eleventy is a simpler static site generator
+* **tags**: [static-site-generation](../tagged/static-site-generation.md), [static-site-generator](../tagged/static-site-generator.md)
+* :octocat: **[source code](https://github.com/11ty/eleventy/)**
 ---
 #### [How not to go wrong when choosing a static website generator? Gatsby vs Jekyll](https://medium.com/javascript-in-plain-english/how-not-to-go-wrong-when-choosing-a-static-website-generator-gatsby-vs-jekyll-510cea59e6e1)
 _<sup>https://medium.com/javascript-in-plain-english/how-not-to-go-wrong-when-choosing-a-static-website-ge...</sup>_

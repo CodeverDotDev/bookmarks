@@ -1,4 +1,4 @@
-## Bookmarks tagged [[kriptoloji]](https://www.bookmarks.dev?q=[kriptoloji])
+## Bookmarks tagged [[kriptoloji]](https://www.bookmarks.dev/search?q=[kriptoloji])
 
 _<sup><sup>[www.bookmarks.dev/tagged/kriptoloji](https://www.bookmarks.dev/tagged/kriptoloji)</sup></sup>_
 ---

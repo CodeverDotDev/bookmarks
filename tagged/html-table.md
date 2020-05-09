@@ -1,4 +1,4 @@
-## Bookmarks tagged [[html-table]](https://www.bookmarks.dev?q=[html-table])
+## Bookmarks tagged [[html-table]](https://www.bookmarks.dev/search?q=[html-table])
 
 _<sup><sup>[www.bookmarks.dev/tagged/html-table](https://www.bookmarks.dev/tagged/html-table)</sup></sup>_
 ---

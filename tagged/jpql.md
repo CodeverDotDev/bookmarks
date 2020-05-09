@@ -1,4 +1,4 @@
-## Bookmarks tagged [[jpql]](https://www.bookmarks.dev?q=[jpql])
+## Bookmarks tagged [[jpql]](https://www.bookmarks.dev/search?q=[jpql])
 
 _<sup><sup>[www.bookmarks.dev/tagged/jpql](https://www.bookmarks.dev/tagged/jpql)</sup></sup>_
 ---

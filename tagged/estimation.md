@@ -1,4 +1,4 @@
-## Bookmarks tagged [[estimation]](https://www.bookmarks.dev?q=[estimation])
+## Bookmarks tagged [[estimation]](https://www.bookmarks.dev/search?q=[estimation])
 
 _<sup><sup>[www.bookmarks.dev/tagged/estimation](https://www.bookmarks.dev/tagged/estimation)</sup></sup>_
 ---

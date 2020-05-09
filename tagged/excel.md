@@ -1,4 +1,4 @@
-## Bookmarks tagged [[excel]](https://www.bookmarks.dev?q=[excel])
+## Bookmarks tagged [[excel]](https://www.bookmarks.dev/search?q=[excel])
 
 _<sup><sup>[www.bookmarks.dev/tagged/excel](https://www.bookmarks.dev/tagged/excel)</sup></sup>_
 ---

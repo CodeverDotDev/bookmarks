@@ -1,4 +1,4 @@
-## Bookmarks tagged [[exception-handling]](https://www.bookmarks.dev?q=[exception-handling])
+## Bookmarks tagged [[exception-handling]](https://www.bookmarks.dev/search?q=[exception-handling])
 
 _<sup><sup>[www.bookmarks.dev/tagged/exception-handling](https://www.bookmarks.dev/tagged/exception-handling)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[gdb]](https://www.bookmarks.dev?q=[gdb])
+## Bookmarks tagged [[gdb]](https://www.bookmarks.dev/search?q=[gdb])
 
 _<sup><sup>[www.bookmarks.dev/tagged/gdb](https://www.bookmarks.dev/tagged/gdb)</sup></sup>_
 ---

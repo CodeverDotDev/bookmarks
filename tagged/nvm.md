@@ -1,4 +1,4 @@
-## Bookmarks tagged [[nvm]](https://www.bookmarks.dev?q=[nvm])
+## Bookmarks tagged [[nvm]](https://www.bookmarks.dev/search?q=[nvm])
 
 _<sup><sup>[www.bookmarks.dev/tagged/nvm](https://www.bookmarks.dev/tagged/nvm)</sup></sup>_
 ---

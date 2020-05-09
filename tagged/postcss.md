@@ -1,4 +1,4 @@
-## Bookmarks tagged [[postcss]](https://www.bookmarks.dev?q=[postcss])
+## Bookmarks tagged [[postcss]](https://www.bookmarks.dev/search?q=[postcss])
 
 _<sup><sup>[www.bookmarks.dev/tagged/postcss](https://www.bookmarks.dev/tagged/postcss)</sup></sup>_
 ---

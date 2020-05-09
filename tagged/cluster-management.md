@@ -1,4 +1,4 @@
-## Bookmarks tagged [[cluster-management]](https://www.bookmarks.dev?q=[cluster-management])
+## Bookmarks tagged [[cluster-management]](https://www.bookmarks.dev/search?q=[cluster-management])
 
 _<sup><sup>[www.bookmarks.dev/tagged/cluster-management](https://www.bookmarks.dev/tagged/cluster-management)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[debugger]](https://www.bookmarks.dev?q=[debugger])
+## Bookmarks tagged [[debugger]](https://www.bookmarks.dev/search?q=[debugger])
 
 _<sup><sup>[www.bookmarks.dev/tagged/debugger](https://www.bookmarks.dev/tagged/debugger)</sup></sup>_
 ---

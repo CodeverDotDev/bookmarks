@@ -1,6 +1,12 @@
-## Bookmarks tagged [[startup]](https://www.bookmarks.dev?q=[startup])
+## Bookmarks tagged [[startup]](https://www.bookmarks.dev/search?q=[startup])
 
 _<sup><sup>[www.bookmarks.dev/tagged/startup](https://www.bookmarks.dev/tagged/startup)</sup></sup>_
+---
+#### [Hipsters Ponto Tech - Discussões acaloradas sobre startups, programação, ux, gadgets e as últimas tendências em tecnologia.Hipsters Ponto Tech](https://hipsters.tech/)
+_<sup>https://hipsters.tech/</sup>_
+
+Discussões acaloradas sobre startups, programação, ux, gadgets e as últimas tendências em tecnologia.
+* **tags**: [podcasts](../tagged/podcasts.md), [programming](../tagged/programming.md), [ux](../tagged/ux.md), [gadgets](../tagged/gadgets.md), [startup](../tagged/startup.md)
 ---
 #### [The Indie Hackers Podcast: Tips for Growing Your Online Business](https://www.indiehackers.com/podcast)
 _<sup>https://www.indiehackers.com/podcast</sup>_

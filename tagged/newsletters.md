@@ -1,4 +1,4 @@
-## Bookmarks tagged [[newsletters]](https://www.bookmarks.dev?q=[newsletters])
+## Bookmarks tagged [[newsletters]](https://www.bookmarks.dev/search?q=[newsletters])
 
 _<sup><sup>[www.bookmarks.dev/tagged/newsletters](https://www.bookmarks.dev/tagged/newsletters)</sup></sup>_
 ---

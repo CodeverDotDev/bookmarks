@@ -1,4 +1,4 @@
-## Bookmarks tagged [[faq]](https://www.bookmarks.dev?q=[faq])
+## Bookmarks tagged [[faq]](https://www.bookmarks.dev/search?q=[faq])
 
 _<sup><sup>[www.bookmarks.dev/tagged/faq](https://www.bookmarks.dev/tagged/faq)</sup></sup>_
 ---

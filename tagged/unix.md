@@ -1,4 +1,4 @@
-## Bookmarks tagged [[unix]](https://www.bookmarks.dev?q=[unix])
+## Bookmarks tagged [[unix]](https://www.bookmarks.dev/search?q=[unix])
 
 _<sup><sup>[www.bookmarks.dev/tagged/unix](https://www.bookmarks.dev/tagged/unix)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[multer-s3]](https://www.bookmarks.dev?q=[multer-s3])
+## Bookmarks tagged [[multer-s3]](https://www.bookmarks.dev/search?q=[multer-s3])
 
 _<sup><sup>[www.bookmarks.dev/tagged/multer-s3](https://www.bookmarks.dev/tagged/multer-s3)</sup></sup>_
 ---

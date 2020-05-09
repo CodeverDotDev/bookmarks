@@ -1,4 +1,4 @@
-## Bookmarks tagged [[etl]](https://www.bookmarks.dev?q=[etl])
+## Bookmarks tagged [[etl]](https://www.bookmarks.dev/search?q=[etl])
 
 _<sup><sup>[www.bookmarks.dev/tagged/etl](https://www.bookmarks.dev/tagged/etl)</sup></sup>_
 ---

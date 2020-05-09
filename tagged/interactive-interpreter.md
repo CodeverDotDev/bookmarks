@@ -1,4 +1,4 @@
-## Bookmarks tagged [[interactive-interpreter]](https://www.bookmarks.dev?q=[interactive-interpreter])
+## Bookmarks tagged [[interactive-interpreter]](https://www.bookmarks.dev/search?q=[interactive-interpreter])
 
 _<sup><sup>[www.bookmarks.dev/tagged/interactive-interpreter](https://www.bookmarks.dev/tagged/interactive-interpreter)</sup></sup>_
 ---

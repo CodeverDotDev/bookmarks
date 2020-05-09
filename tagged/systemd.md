@@ -1,4 +1,4 @@
-## Bookmarks tagged [[systemd]](https://www.bookmarks.dev?q=[systemd])
+## Bookmarks tagged [[systemd]](https://www.bookmarks.dev/search?q=[systemd])
 
 _<sup><sup>[www.bookmarks.dev/tagged/systemd](https://www.bookmarks.dev/tagged/systemd)</sup></sup>_
 ---

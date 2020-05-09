@@ -1,4 +1,4 @@
-## Bookmarks tagged [[serialization]](https://www.bookmarks.dev?q=[serialization])
+## Bookmarks tagged [[serialization]](https://www.bookmarks.dev/search?q=[serialization])
 
 _<sup><sup>[www.bookmarks.dev/tagged/serialization](https://www.bookmarks.dev/tagged/serialization)</sup></sup>_
 ---

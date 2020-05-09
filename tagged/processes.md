@@ -1,4 +1,4 @@
-## Bookmarks tagged [[processes]](https://www.bookmarks.dev?q=[processes])
+## Bookmarks tagged [[processes]](https://www.bookmarks.dev/search?q=[processes])
 
 _<sup><sup>[www.bookmarks.dev/tagged/processes](https://www.bookmarks.dev/tagged/processes)</sup></sup>_
 ---

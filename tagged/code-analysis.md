@@ -1,4 +1,4 @@
-## Bookmarks tagged [[code-analysis]](https://www.bookmarks.dev?q=[code-analysis])
+## Bookmarks tagged [[code-analysis]](https://www.bookmarks.dev/search?q=[code-analysis])
 
 _<sup><sup>[www.bookmarks.dev/tagged/code-analysis](https://www.bookmarks.dev/tagged/code-analysis)</sup></sup>_
 ---

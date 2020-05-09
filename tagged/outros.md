@@ -1,4 +1,4 @@
-## Bookmarks tagged [[outros]](https://www.bookmarks.dev?q=[outros])
+## Bookmarks tagged [[outros]](https://www.bookmarks.dev/search?q=[outros])
 
 _<sup><sup>[www.bookmarks.dev/tagged/outros](https://www.bookmarks.dev/tagged/outros)</sup></sup>_
 ---

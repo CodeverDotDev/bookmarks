@@ -1,4 +1,4 @@
-## Bookmarks tagged [[google-cloud-functions]](https://www.bookmarks.dev?q=[google-cloud-functions])
+## Bookmarks tagged [[google-cloud-functions]](https://www.bookmarks.dev/search?q=[google-cloud-functions])
 
 _<sup><sup>[www.bookmarks.dev/tagged/google-cloud-functions](https://www.bookmarks.dev/tagged/google-cloud-functions)</sup></sup>_
 ---

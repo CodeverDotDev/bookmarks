@@ -1,4 +1,4 @@
-## Bookmarks tagged [[rubymotion]](https://www.bookmarks.dev?q=[rubymotion])
+## Bookmarks tagged [[rubymotion]](https://www.bookmarks.dev/search?q=[rubymotion])
 
 _<sup><sup>[www.bookmarks.dev/tagged/rubymotion](https://www.bookmarks.dev/tagged/rubymotion)</sup></sup>_
 ---

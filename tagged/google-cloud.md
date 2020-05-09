@@ -1,4 +1,4 @@
-## Bookmarks tagged [[google-cloud]](https://www.bookmarks.dev?q=[google-cloud])
+## Bookmarks tagged [[google-cloud]](https://www.bookmarks.dev/search?q=[google-cloud])
 
 _<sup><sup>[www.bookmarks.dev/tagged/google-cloud](https://www.bookmarks.dev/tagged/google-cloud)</sup></sup>_
 ---

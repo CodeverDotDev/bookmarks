@@ -1,6 +1,13 @@
-## Bookmarks tagged [[rxjs]](https://www.bookmarks.dev?q=[rxjs])
+## Bookmarks tagged [[rxjs]](https://www.bookmarks.dev/search?q=[rxjs])
 
 _<sup><sup>[www.bookmarks.dev/tagged/rxjs](https://www.bookmarks.dev/tagged/rxjs)</sup></sup>_
+---
+#### [3 Common Angular Rxjs Pitfalls](https://blog.angular-university.io/angular-2-rxjs-common-pitfalls/)
+_<sup>https://blog.angular-university.io/angular-2-rxjs-common-pitfalls/</sup>_
+
+These are 3 situations that we can come across  while building Angular apps using  RxJs. We are going to go over why the issue happens and how to fix it
+* :calendar: **published on**: 2019-04-19
+* **tags**: [angular](../tagged/angular.md), [rxjs](../tagged/rxjs.md), [observable](../tagged/observable.md)
 ---
 #### [Angular Multiple HTTP Requests with RxJS - Angular 7 | 8](https://coryrylan.com/blog/angular-multiple-http-requests-with-rxjs)
 _<sup>https://coryrylan.com/blog/angular-multiple-http-requests-with-rxjs</sup>_

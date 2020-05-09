@@ -1,4 +1,4 @@
-## Bookmarks tagged [[packaging-formats]](https://www.bookmarks.dev?q=[packaging-formats])
+## Bookmarks tagged [[packaging-formats]](https://www.bookmarks.dev/search?q=[packaging-formats])
 
 _<sup><sup>[www.bookmarks.dev/tagged/packaging-formats](https://www.bookmarks.dev/tagged/packaging-formats)</sup></sup>_
 ---

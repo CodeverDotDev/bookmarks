@@ -1,4 +1,4 @@
-## Bookmarks tagged [[copyright]](https://www.bookmarks.dev?q=[copyright])
+## Bookmarks tagged [[copyright]](https://www.bookmarks.dev/search?q=[copyright])
 
 _<sup><sup>[www.bookmarks.dev/tagged/copyright](https://www.bookmarks.dev/tagged/copyright)</sup></sup>_
 ---

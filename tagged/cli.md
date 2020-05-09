@@ -1,6 +1,13 @@
-## Bookmarks tagged [[cli]](https://www.bookmarks.dev?q=[cli])
+## Bookmarks tagged [[cli]](https://www.bookmarks.dev/search?q=[cli])
 
 _<sup><sup>[www.bookmarks.dev/tagged/cli](https://www.bookmarks.dev/tagged/cli)</sup></sup>_
+---
+#### [How to modify the size of a column in a Mysql database from command line – CodepediaOrg](https://www.codepedia.org/ama/how-to-modify-a-column-size-in-a-mysql-database-from-command-line)
+_<sup>https://www.codepedia.org/ama/how-to-modify-a-column-size-in-a-mysql-database-from-command-line</sup>_
+
+This blog post presents the steps required to connect to the MySql database from the command line and modify the size of a column in a table. The example is based on the MySql database that is backing...
+* :calendar: **published on**: 2020-04-13
+* **tags**: [mysql](../tagged/mysql.md), [command-line](../tagged/command-line.md), [cli](../tagged/cli.md), [debugging](../tagged/debugging.md)
 ---
 #### [Argh!](https://github.com/adishavit/argh)
 _<sup>https://github.com/adishavit/argh</sup>_

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[cdi]](https://www.bookmarks.dev?q=[cdi])
+## Bookmarks tagged [[cdi]](https://www.bookmarks.dev/search?q=[cdi])
 
 _<sup><sup>[www.bookmarks.dev/tagged/cdi](https://www.bookmarks.dev/tagged/cdi)</sup></sup>_
 ---

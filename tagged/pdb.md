@@ -1,4 +1,4 @@
-## Bookmarks tagged [[pdb]](https://www.bookmarks.dev?q=[pdb])
+## Bookmarks tagged [[pdb]](https://www.bookmarks.dev/search?q=[pdb])
 
 _<sup><sup>[www.bookmarks.dev/tagged/pdb](https://www.bookmarks.dev/tagged/pdb)</sup></sup>_
 ---

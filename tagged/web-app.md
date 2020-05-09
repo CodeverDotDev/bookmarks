@@ -1,4 +1,4 @@
-## Bookmarks tagged [[web-app]](https://www.bookmarks.dev?q=[web-app])
+## Bookmarks tagged [[web-app]](https://www.bookmarks.dev/search?q=[web-app])
 
 _<sup><sup>[www.bookmarks.dev/tagged/web-app](https://www.bookmarks.dev/tagged/web-app)</sup></sup>_
 ---

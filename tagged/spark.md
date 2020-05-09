@@ -1,4 +1,4 @@
-## Bookmarks tagged [[spark]](https://www.bookmarks.dev?q=[spark])
+## Bookmarks tagged [[spark]](https://www.bookmarks.dev/search?q=[spark])
 
 _<sup><sup>[www.bookmarks.dev/tagged/spark](https://www.bookmarks.dev/tagged/spark)</sup></sup>_
 ---

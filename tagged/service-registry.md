@@ -1,4 +1,4 @@
-## Bookmarks tagged [[service-registry]](https://www.bookmarks.dev?q=[service-registry])
+## Bookmarks tagged [[service-registry]](https://www.bookmarks.dev/search?q=[service-registry])
 
 _<sup><sup>[www.bookmarks.dev/tagged/service-registry](https://www.bookmarks.dev/tagged/service-registry)</sup></sup>_
 ---

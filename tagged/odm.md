@@ -1,4 +1,4 @@
-## Bookmarks tagged [[odm]](https://www.bookmarks.dev?q=[odm])
+## Bookmarks tagged [[odm]](https://www.bookmarks.dev/search?q=[odm])
 
 _<sup><sup>[www.bookmarks.dev/tagged/odm](https://www.bookmarks.dev/tagged/odm)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[development]](https://www.bookmarks.dev?q=[development])
+## Bookmarks tagged [[development]](https://www.bookmarks.dev/search?q=[development])
 
 _<sup><sup>[www.bookmarks.dev/tagged/development](https://www.bookmarks.dev/tagged/development)</sup></sup>_
 ---

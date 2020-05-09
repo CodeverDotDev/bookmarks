@@ -1,4 +1,4 @@
-## Bookmarks tagged [[biology]](https://www.bookmarks.dev?q=[biology])
+## Bookmarks tagged [[biology]](https://www.bookmarks.dev/search?q=[biology])
 
 _<sup><sup>[www.bookmarks.dev/tagged/biology](https://www.bookmarks.dev/tagged/biology)</sup></sup>_
 ---

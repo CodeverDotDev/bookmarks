@@ -1,4 +1,4 @@
-## Bookmarks tagged [[karma]](https://www.bookmarks.dev?q=[karma])
+## Bookmarks tagged [[karma]](https://www.bookmarks.dev/search?q=[karma])
 
 _<sup><sup>[www.bookmarks.dev/tagged/karma](https://www.bookmarks.dev/tagged/karma)</sup></sup>_
 ---

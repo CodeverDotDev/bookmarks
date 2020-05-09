@@ -1,4 +1,4 @@
-## Bookmarks tagged [[environment-management]](https://www.bookmarks.dev?q=[environment-management])
+## Bookmarks tagged [[environment-management]](https://www.bookmarks.dev/search?q=[environment-management])
 
 _<sup><sup>[www.bookmarks.dev/tagged/environment-management](https://www.bookmarks.dev/tagged/environment-management)</sup></sup>_
 ---

@@ -1,6 +1,13 @@
-## Bookmarks tagged [[ruby]](https://www.bookmarks.dev?q=[ruby])
+## Bookmarks tagged [[ruby]](https://www.bookmarks.dev/search?q=[ruby])
 
 _<sup><sup>[www.bookmarks.dev/tagged/ruby](https://www.bookmarks.dev/tagged/ruby)</sup></sup>_
+---
+#### [Rouge](http://rouge.jneen.net/)
+_<sup>http://rouge.jneen.net/</sup>_
+
+An elegant, extendable code highlighter written in pure Ruby.
+* **tags**: [code-highlighting](../tagged/code-highlighting.md), [ruby](../tagged/ruby.md)
+* :octocat: **[source code](https://github.com/rouge-ruby/rouge)**
 ---
 #### [d-unseductable/ruru](https://github.com/d-unseductable/ruru)
 _<sup>https://github.com/d-unseductable/ruru</sup>_

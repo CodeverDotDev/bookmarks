@@ -1,4 +1,4 @@
-## Bookmarks tagged [[tagignore-main-resources]](https://www.bookmarks.dev?q=[tagignore-main-resources])
+## Bookmarks tagged [[tagignore-main-resources]](https://www.bookmarks.dev/search?q=[tagignore-main-resources])
 
 _<sup><sup>[www.bookmarks.dev/tagged/tagignore-main-resources](https://www.bookmarks.dev/tagged/tagignore-main-resources)</sup></sup>_
 ---

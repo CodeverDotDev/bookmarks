@@ -1,4 +1,4 @@
-## Bookmarks tagged [[range]](https://www.bookmarks.dev?q=[range])
+## Bookmarks tagged [[range]](https://www.bookmarks.dev/search?q=[range])
 
 _<sup><sup>[www.bookmarks.dev/tagged/range](https://www.bookmarks.dev/tagged/range)</sup></sup>_
 ---

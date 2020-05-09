@@ -1,4 +1,4 @@
-## Bookmarks tagged [[agda]](https://www.bookmarks.dev?q=[agda])
+## Bookmarks tagged [[agda]](https://www.bookmarks.dev/search?q=[agda])
 
 _<sup><sup>[www.bookmarks.dev/tagged/agda](https://www.bookmarks.dev/tagged/agda)</sup></sup>_
 ---

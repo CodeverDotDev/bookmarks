@@ -1,4 +1,4 @@
-## Bookmarks tagged [[introduction-to-programming-in-arabic]](https://www.bookmarks.dev?q=[introduction-to-programming-in-arabic])
+## Bookmarks tagged [[introduction-to-programming-in-arabic]](https://www.bookmarks.dev/search?q=[introduction-to-programming-in-arabic])
 
 _<sup><sup>[www.bookmarks.dev/tagged/introduction-to-programming-in-arabic](https://www.bookmarks.dev/tagged/introduction-to-programming-in-arabic)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[kotlin]](https://www.bookmarks.dev?q=[kotlin])
+## Bookmarks tagged [[kotlin]](https://www.bookmarks.dev/search?q=[kotlin])
 
 _<sup><sup>[www.bookmarks.dev/tagged/kotlin](https://www.bookmarks.dev/tagged/kotlin)</sup></sup>_
 ---

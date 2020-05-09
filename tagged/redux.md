@@ -1,4 +1,4 @@
-## Bookmarks tagged [[redux]](https://www.bookmarks.dev?q=[redux])
+## Bookmarks tagged [[redux]](https://www.bookmarks.dev/search?q=[redux])
 
 _<sup><sup>[www.bookmarks.dev/tagged/redux](https://www.bookmarks.dev/tagged/redux)</sup></sup>_
 ---

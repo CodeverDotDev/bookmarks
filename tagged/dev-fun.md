@@ -1,4 +1,4 @@
-## Bookmarks tagged [[dev-fun]](https://www.bookmarks.dev?q=[dev-fun])
+## Bookmarks tagged [[dev-fun]](https://www.bookmarks.dev/search?q=[dev-fun])
 
 _<sup><sup>[www.bookmarks.dev/tagged/dev-fun](https://www.bookmarks.dev/tagged/dev-fun)</sup></sup>_
 ---

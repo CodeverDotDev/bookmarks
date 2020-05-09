@@ -1,4 +1,4 @@
-## Bookmarks tagged [[dev]](https://www.bookmarks.dev?q=[dev])
+## Bookmarks tagged [[dev]](https://www.bookmarks.dev/search?q=[dev])
 
 _<sup><sup>[www.bookmarks.dev/tagged/dev](https://www.bookmarks.dev/tagged/dev)</sup></sup>_
 ---

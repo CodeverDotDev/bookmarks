@@ -1,4 +1,4 @@
-## Bookmarks tagged [[measurement]](https://www.bookmarks.dev?q=[measurement])
+## Bookmarks tagged [[measurement]](https://www.bookmarks.dev/search?q=[measurement])
 
 _<sup><sup>[www.bookmarks.dev/tagged/measurement](https://www.bookmarks.dev/tagged/measurement)</sup></sup>_
 ---

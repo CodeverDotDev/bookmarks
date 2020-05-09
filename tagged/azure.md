@@ -1,6 +1,13 @@
-## Bookmarks tagged [[azure]](https://www.bookmarks.dev?q=[azure])
+## Bookmarks tagged [[azure]](https://www.bookmarks.dev/search?q=[azure])
 
 _<sup><sup>[www.bookmarks.dev/tagged/azure](https://www.bookmarks.dev/tagged/azure)</sup></sup>_
+---
+#### [How to connect to npm feeds from Azure DevOps](https://www.code4it.dev/blog/connect-npm-feeds-from-azure-devops)
+_<sup>https://www.code4it.dev/blog/connect-npm-feeds-from-azure-devops</sup>_
+
+Azure DevOps, among its capabilities, allows you to store npm packages in their system. Here we'll see how to connect to an npm feed and how to solve the 401-unauthorized error.
+* :calendar: **published on**: 2020-04-07
+* **tags**: [npm](../tagged/npm.md), [devops](../tagged/devops.md), [azure](../tagged/azure.md)
 ---
 #### [Microsoft Azure Data Encryption-at-Rest](https://docs.microsoft.com/en-us/azure/security/azure-security-encryption-atrest)
 _<sup>https://docs.microsoft.com/en-us/azure/security/azure-security-encryption-atrest</sup>_

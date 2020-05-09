@@ -1,4 +1,4 @@
-## Bookmarks tagged [[compsci]](https://www.bookmarks.dev?q=[compsci])
+## Bookmarks tagged [[compsci]](https://www.bookmarks.dev/search?q=[compsci])
 
 _<sup><sup>[www.bookmarks.dev/tagged/compsci](https://www.bookmarks.dev/tagged/compsci)</sup></sup>_
 ---

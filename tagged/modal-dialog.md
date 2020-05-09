@@ -1,4 +1,4 @@
-## Bookmarks tagged [[modal-dialog]](https://www.bookmarks.dev?q=[modal-dialog])
+## Bookmarks tagged [[modal-dialog]](https://www.bookmarks.dev/search?q=[modal-dialog])
 
 _<sup><sup>[www.bookmarks.dev/tagged/modal-dialog](https://www.bookmarks.dev/tagged/modal-dialog)</sup></sup>_
 ---

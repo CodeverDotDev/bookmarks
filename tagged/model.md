@@ -1,4 +1,4 @@
-## Bookmarks tagged [[model]](https://www.bookmarks.dev?q=[model])
+## Bookmarks tagged [[model]](https://www.bookmarks.dev/search?q=[model])
 
 _<sup><sup>[www.bookmarks.dev/tagged/model](https://www.bookmarks.dev/tagged/model)</sup></sup>_
 ---

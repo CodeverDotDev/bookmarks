@@ -1,4 +1,4 @@
-## Bookmarks tagged [[polymer]](https://www.bookmarks.dev?q=[polymer])
+## Bookmarks tagged [[polymer]](https://www.bookmarks.dev/search?q=[polymer])
 
 _<sup><sup>[www.bookmarks.dev/tagged/polymer](https://www.bookmarks.dev/tagged/polymer)</sup></sup>_
 ---

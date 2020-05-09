@@ -1,4 +1,4 @@
-## Bookmarks tagged [[component]](https://www.bookmarks.dev?q=[component])
+## Bookmarks tagged [[component]](https://www.bookmarks.dev/search?q=[component])
 
 _<sup><sup>[www.bookmarks.dev/tagged/component](https://www.bookmarks.dev/tagged/component)</sup></sup>_
 ---

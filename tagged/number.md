@@ -1,4 +1,4 @@
-## Bookmarks tagged [[number]](https://www.bookmarks.dev?q=[number])
+## Bookmarks tagged [[number]](https://www.bookmarks.dev/search?q=[number])
 
 _<sup><sup>[www.bookmarks.dev/tagged/number](https://www.bookmarks.dev/tagged/number)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[language-specification]](https://www.bookmarks.dev?q=[language-specification])
+## Bookmarks tagged [[language-specification]](https://www.bookmarks.dev/search?q=[language-specification])
 
 _<sup><sup>[www.bookmarks.dev/tagged/language-specification](https://www.bookmarks.dev/tagged/language-specification)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[map]](https://www.bookmarks.dev?q=[map])
+## Bookmarks tagged [[map]](https://www.bookmarks.dev/search?q=[map])
 
 _<sup><sup>[www.bookmarks.dev/tagged/map](https://www.bookmarks.dev/tagged/map)</sup></sup>_
 ---

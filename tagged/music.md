@@ -1,4 +1,4 @@
-## Bookmarks tagged [[music]](https://www.bookmarks.dev?q=[music])
+## Bookmarks tagged [[music]](https://www.bookmarks.dev/search?q=[music])
 
 _<sup><sup>[www.bookmarks.dev/tagged/music](https://www.bookmarks.dev/tagged/music)</sup></sup>_
 ---

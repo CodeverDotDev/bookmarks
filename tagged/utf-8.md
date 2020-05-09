@@ -1,4 +1,4 @@
-## Bookmarks tagged [[utf-8]](https://www.bookmarks.dev?q=[utf-8])
+## Bookmarks tagged [[utf-8]](https://www.bookmarks.dev/search?q=[utf-8])
 
 _<sup><sup>[www.bookmarks.dev/tagged/utf-8](https://www.bookmarks.dev/tagged/utf-8)</sup></sup>_
 ---

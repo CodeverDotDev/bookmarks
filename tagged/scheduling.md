@@ -1,4 +1,4 @@
-## Bookmarks tagged [[scheduling]](https://www.bookmarks.dev?q=[scheduling])
+## Bookmarks tagged [[scheduling]](https://www.bookmarks.dev/search?q=[scheduling])
 
 _<sup><sup>[www.bookmarks.dev/tagged/scheduling](https://www.bookmarks.dev/tagged/scheduling)</sup></sup>_
 ---

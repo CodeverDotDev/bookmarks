@@ -1,4 +1,4 @@
-## Bookmarks tagged [[url-manipulation]](https://www.bookmarks.dev?q=[url-manipulation])
+## Bookmarks tagged [[url-manipulation]](https://www.bookmarks.dev/search?q=[url-manipulation])
 
 _<sup><sup>[www.bookmarks.dev/tagged/url-manipulation](https://www.bookmarks.dev/tagged/url-manipulation)</sup></sup>_
 ---

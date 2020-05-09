@@ -1,4 +1,4 @@
-## Bookmarks tagged [[middlware]](https://www.bookmarks.dev?q=[middlware])
+## Bookmarks tagged [[middlware]](https://www.bookmarks.dev/search?q=[middlware])
 
 _<sup><sup>[www.bookmarks.dev/tagged/middlware](https://www.bookmarks.dev/tagged/middlware)</sup></sup>_
 ---

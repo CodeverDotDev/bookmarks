@@ -1,4 +1,4 @@
-## Bookmarks tagged [[relational-database]](https://www.bookmarks.dev?q=[relational-database])
+## Bookmarks tagged [[relational-database]](https://www.bookmarks.dev/search?q=[relational-database])
 
 _<sup><sup>[www.bookmarks.dev/tagged/relational-database](https://www.bookmarks.dev/tagged/relational-database)</sup></sup>_
 ---

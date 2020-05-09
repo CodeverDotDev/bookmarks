@@ -1,4 +1,4 @@
-## Bookmarks tagged [[network-programming]](https://www.bookmarks.dev?q=[network-programming])
+## Bookmarks tagged [[network-programming]](https://www.bookmarks.dev/search?q=[network-programming])
 
 _<sup><sup>[www.bookmarks.dev/tagged/network-programming](https://www.bookmarks.dev/tagged/network-programming)</sup></sup>_
 ---

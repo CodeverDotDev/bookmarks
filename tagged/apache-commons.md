@@ -1,4 +1,4 @@
-## Bookmarks tagged [[apache-commons]](https://www.bookmarks.dev?q=[apache-commons])
+## Bookmarks tagged [[apache-commons]](https://www.bookmarks.dev/search?q=[apache-commons])
 
 _<sup><sup>[www.bookmarks.dev/tagged/apache-commons](https://www.bookmarks.dev/tagged/apache-commons)</sup></sup>_
 ---

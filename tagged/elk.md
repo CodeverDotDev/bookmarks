@@ -1,4 +1,4 @@
-## Bookmarks tagged [[elk]](https://www.bookmarks.dev?q=[elk])
+## Bookmarks tagged [[elk]](https://www.bookmarks.dev/search?q=[elk])
 
 _<sup><sup>[www.bookmarks.dev/tagged/elk](https://www.bookmarks.dev/tagged/elk)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[ubuntu]](https://www.bookmarks.dev?q=[ubuntu])
+## Bookmarks tagged [[ubuntu]](https://www.bookmarks.dev/search?q=[ubuntu])
 
 _<sup><sup>[www.bookmarks.dev/tagged/ubuntu](https://www.bookmarks.dev/tagged/ubuntu)</sup></sup>_
 ---

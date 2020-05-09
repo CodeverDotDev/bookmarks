@@ -1,4 +1,4 @@
-## Bookmarks tagged [[online-compiler]](https://www.bookmarks.dev?q=[online-compiler])
+## Bookmarks tagged [[online-compiler]](https://www.bookmarks.dev/search?q=[online-compiler])
 
 _<sup><sup>[www.bookmarks.dev/tagged/online-compiler](https://www.bookmarks.dev/tagged/online-compiler)</sup></sup>_
 ---

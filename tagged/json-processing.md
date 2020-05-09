@@ -1,4 +1,4 @@
-## Bookmarks tagged [[json-processing]](https://www.bookmarks.dev?q=[json-processing])
+## Bookmarks tagged [[json-processing]](https://www.bookmarks.dev/search?q=[json-processing])
 
 _<sup><sup>[www.bookmarks.dev/tagged/json-processing](https://www.bookmarks.dev/tagged/json-processing)</sup></sup>_
 ---

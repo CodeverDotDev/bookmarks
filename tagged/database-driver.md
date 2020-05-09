@@ -1,4 +1,4 @@
-## Bookmarks tagged [[database-driver]](https://www.bookmarks.dev?q=[database-driver])
+## Bookmarks tagged [[database-driver]](https://www.bookmarks.dev/search?q=[database-driver])
 
 _<sup><sup>[www.bookmarks.dev/tagged/database-driver](https://www.bookmarks.dev/tagged/database-driver)</sup></sup>_
 ---

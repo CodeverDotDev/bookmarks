@@ -1,6 +1,13 @@
-## Bookmarks tagged [[ffmpeg]](https://www.bookmarks.dev?q=[ffmpeg])
+## Bookmarks tagged [[ffmpeg]](https://www.bookmarks.dev/search?q=[ffmpeg])
 
 _<sup><sup>[www.bookmarks.dev/tagged/ffmpeg](https://www.bookmarks.dev/tagged/ffmpeg)</sup></sup>_
+---
+#### [Scaling – FFmpeg    ](https://trac.ffmpeg.org/wiki/Scaling)
+_<sup>https://trac.ffmpeg.org/wiki/Scaling</sup>_
+
+If you need to simply resize your video to a specific size (e.g 320⨉240), you can use the scale filter in its most basic form:
+...
+* **tags**: [ffmpeg](../tagged/ffmpeg.md)
 ---
 #### [High quality GIF with FFmpeg](http://blog.pkh.me/p/21-high-quality-gif-with-ffmpeg.html)
 _<sup>http://blog.pkh.me/p/21-high-quality-gif-with-ffmpeg.html</sup>_

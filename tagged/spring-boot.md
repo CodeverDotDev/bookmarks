@@ -1,6 +1,13 @@
-## Bookmarks tagged [[spring-boot]](https://www.bookmarks.dev?q=[spring-boot])
+## Bookmarks tagged [[spring-boot]](https://www.bookmarks.dev/search?q=[spring-boot])
 
 _<sup><sup>[www.bookmarks.dev/tagged/spring-boot](https://www.bookmarks.dev/tagged/spring-boot)</sup></sup>_
+---
+#### [Quarkus for Spring Developers](https://quarkus.io/blog/quarkus-for-spring-developers/)
+_<sup>https://quarkus.io/blog/quarkus-for-spring-developers/</sup>_
+
+The arrival of Quarkus 1.0 brings an innovative platform for developing Linux container- and kubernetes-native Java microservices. Developers typically have to set aside their existing knowledge as th...
+* :calendar: **published on**: 2019-12-11
+* **tags**: [quarkus](../tagged/quarkus.md), [spring-boot](../tagged/spring-boot.md), [spring](../tagged/spring.md), [java](../tagged/java.md)
 ---
 #### [One-Stop Guide to Database Migration with Flyway and Spring Boot](https://reflectoring.io/database-migration-spring-boot-flyway/)
 _<sup>https://reflectoring.io/database-migration-spring-boot-flyway/</sup>_

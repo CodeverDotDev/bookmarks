@@ -1,4 +1,4 @@
-## Bookmarks tagged [[utilities]](https://www.bookmarks.dev?q=[utilities])
+## Bookmarks tagged [[utilities]](https://www.bookmarks.dev/search?q=[utilities])
 
 _<sup><sup>[www.bookmarks.dev/tagged/utilities](https://www.bookmarks.dev/tagged/utilities)</sup></sup>_
 ---

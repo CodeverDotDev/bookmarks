@@ -1,4 +1,4 @@
-## Bookmarks tagged [[tinkerpop]](https://www.bookmarks.dev?q=[tinkerpop])
+## Bookmarks tagged [[tinkerpop]](https://www.bookmarks.dev/search?q=[tinkerpop])
 
 _<sup><sup>[www.bookmarks.dev/tagged/tinkerpop](https://www.bookmarks.dev/tagged/tinkerpop)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[google-compute-engine]](https://www.bookmarks.dev?q=[google-compute-engine])
+## Bookmarks tagged [[google-compute-engine]](https://www.bookmarks.dev/search?q=[google-compute-engine])
 
 _<sup><sup>[www.bookmarks.dev/tagged/google-compute-engine](https://www.bookmarks.dev/tagged/google-compute-engine)</sup></sup>_
 ---

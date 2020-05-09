@@ -1,4 +1,4 @@
-## Bookmarks tagged [[webassembly]](https://www.bookmarks.dev?q=[webassembly])
+## Bookmarks tagged [[webassembly]](https://www.bookmarks.dev/search?q=[webassembly])
 
 _<sup><sup>[www.bookmarks.dev/tagged/webassembly](https://www.bookmarks.dev/tagged/webassembly)</sup></sup>_
 ---

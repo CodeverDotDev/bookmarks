@@ -1,4 +1,4 @@
-## Bookmarks tagged [[browser]](https://www.bookmarks.dev?q=[browser])
+## Bookmarks tagged [[browser]](https://www.bookmarks.dev/search?q=[browser])
 
 _<sup><sup>[www.bookmarks.dev/tagged/browser](https://www.bookmarks.dev/tagged/browser)</sup></sup>_
 ---

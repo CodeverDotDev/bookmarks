@@ -1,4 +1,4 @@
-## Bookmarks tagged [[notifications]](https://www.bookmarks.dev?q=[notifications])
+## Bookmarks tagged [[notifications]](https://www.bookmarks.dev/search?q=[notifications])
 
 _<sup><sup>[www.bookmarks.dev/tagged/notifications](https://www.bookmarks.dev/tagged/notifications)</sup></sup>_
 ---

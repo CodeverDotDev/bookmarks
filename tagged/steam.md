@@ -1,4 +1,4 @@
-## Bookmarks tagged [[steam]](https://www.bookmarks.dev?q=[steam])
+## Bookmarks tagged [[steam]](https://www.bookmarks.dev/search?q=[steam])
 
 _<sup><sup>[www.bookmarks.dev/tagged/steam](https://www.bookmarks.dev/tagged/steam)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[asymptote]](https://www.bookmarks.dev?q=[asymptote])
+## Bookmarks tagged [[asymptote]](https://www.bookmarks.dev/search?q=[asymptote])
 
 _<sup><sup>[www.bookmarks.dev/tagged/asymptote](https://www.bookmarks.dev/tagged/asymptote)</sup></sup>_
 ---

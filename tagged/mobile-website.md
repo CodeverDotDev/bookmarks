@@ -1,4 +1,4 @@
-## Bookmarks tagged [[mobile-website]](https://www.bookmarks.dev?q=[mobile-website])
+## Bookmarks tagged [[mobile-website]](https://www.bookmarks.dev/search?q=[mobile-website])
 
 _<sup><sup>[www.bookmarks.dev/tagged/mobile-website](https://www.bookmarks.dev/tagged/mobile-website)</sup></sup>_
 ---

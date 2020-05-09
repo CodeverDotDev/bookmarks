@@ -1,4 +1,4 @@
-## Bookmarks tagged [[systemctl]](https://www.bookmarks.dev?q=[systemctl])
+## Bookmarks tagged [[systemctl]](https://www.bookmarks.dev/search?q=[systemctl])
 
 _<sup><sup>[www.bookmarks.dev/tagged/systemctl](https://www.bookmarks.dev/tagged/systemctl)</sup></sup>_
 ---

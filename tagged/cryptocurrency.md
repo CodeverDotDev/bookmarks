@@ -1,4 +1,4 @@
-## Bookmarks tagged [[cryptocurrency]](https://www.bookmarks.dev?q=[cryptocurrency])
+## Bookmarks tagged [[cryptocurrency]](https://www.bookmarks.dev/search?q=[cryptocurrency])
 
 _<sup><sup>[www.bookmarks.dev/tagged/cryptocurrency](https://www.bookmarks.dev/tagged/cryptocurrency)</sup></sup>_
 ---

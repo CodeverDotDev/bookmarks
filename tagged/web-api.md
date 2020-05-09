@@ -1,4 +1,4 @@
-## Bookmarks tagged [[web-api]](https://www.bookmarks.dev?q=[web-api])
+## Bookmarks tagged [[web-api]](https://www.bookmarks.dev/search?q=[web-api])
 
 _<sup><sup>[www.bookmarks.dev/tagged/web-api](https://www.bookmarks.dev/tagged/web-api)</sup></sup>_
 ---

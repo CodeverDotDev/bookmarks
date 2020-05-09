@@ -1,4 +1,4 @@
-## Bookmarks tagged [[videos]](https://www.bookmarks.dev?q=[videos])
+## Bookmarks tagged [[videos]](https://www.bookmarks.dev/search?q=[videos])
 
 _<sup><sup>[www.bookmarks.dev/tagged/videos](https://www.bookmarks.dev/tagged/videos)</sup></sup>_
 ---

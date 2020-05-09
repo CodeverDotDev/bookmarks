@@ -1,6 +1,89 @@
-## Bookmarks tagged [[java]](https://www.bookmarks.dev?q=[java])
+## Bookmarks tagged [[java]](https://www.bookmarks.dev/search?q=[java])
 
 _<sup><sup>[www.bookmarks.dev/tagged/java](https://www.bookmarks.dev/tagged/java)</sup></sup>_
+---
+#### [Method References (The Java™ Tutorials)](https://docs.oracle.com/javase/tutorial/java/javaOO/methodreferences.html)
+_<sup>https://docs.oracle.com/javase/tutorial/java/javaOO/methodreferences.html</sup>_
+
+You use lambda expressions to create anonymous methods. Sometimes, however, a lambda expression does nothing but call an existing method. In those cases, it's often clearer to refer to the existing me...
+* **tags**: [java](../tagged/java.md), [java-8](../tagged/java-8.md)
+---
+#### [Java 8 Collectors toMap](https://www.baeldung.com/java-collectors-tomap)
+_<sup>https://www.baeldung.com/java-collectors-tomap</sup>_
+
+In this quick tutorial, we're going to talk about the `toMap()` method of the `Collectors` class. We'll use it to collect `Streams` into a `Map` instance
+* :calendar: **published on**: 2020-04-20
+* **tags**: [java](../tagged/java.md), [java-8](../tagged/java-8.md)
+* :octocat: **[source code](https://github.com/eugenp/tutorials/tree/master/java-collections-conversions)**
+---
+#### [State of the Lambda](http://cr.openjdk.java.net/~briangoetz/lambda/lambda-state-final.html)
+_<sup>http://cr.openjdk.java.net/~briangoetz/lambda/lambda-state-final.html</sup>_
+
+Java SE 8 adds a relatively small number of new language features -- lambda expressions, method references, default and static methods in interfaces, and more widespread use of type inference. Taken t...
+* **tags**: [java](../tagged/java.md), [lambda](../tagged/lambda.md), [java-8](../tagged/java-8.md)
+---
+#### [Using Java Reflection](https://www.oracle.com/technical-resources/articles/java/javareflection.html)
+_<sup>https://www.oracle.com/technical-resources/articles/java/javareflection.html</sup>_
+
+Reflection is a feature in the Java programming language. It allows an executing Java program to examine or "introspect" upon itself, and manipulate internal properties of the program. For example, it...
+* :calendar: **published on**: 1998-01-01
+* **tags**: [java](../tagged/java.md), [reflection](../tagged/reflection.md)
+---
+#### [Project Lombok: Clean, Concise Java Code](https://www.oracle.com/corporate/features/project-lombok.html)
+_<sup>https://www.oracle.com/corporate/features/project-lombok.html</sup>_
+
+Add Lombok to your project and get rid of most of your boilerplate code.
+* **tags**: [lombok](../tagged/lombok.md), [java](../tagged/java.md), [clean-code](../tagged/clean-code.md)
+---
+#### [google-java-format - plugin for IntelliJ IDEs](https://plugins.jetbrains.com/plugin/8527-google-java-format)
+_<sup>https://plugins.jetbrains.com/plugin/8527-google-java-format</sup>_
+
+Formats source code using the google-java-format tool.
+* **tags**: [java](../tagged/java.md), [google-java-format](../tagged/google-java-format.md), [intellij](../tagged/intellij.md), [plugins](../tagged/plugins.md)
+* :octocat: **[source code](https://github.com/google/google-java-format)**
+---
+#### [google/google-java-format home page](https://github.com/google/google-java-format)
+_<sup>https://github.com/google/google-java-format</sup>_
+
+`google-java-format` is a program that reformats Java source code to comply with
+[Google Java Style](https://google.github.io/styleguide/javaguide.html).
+* **tags**: [java](../tagged/java.md), [google-java-format](../tagged/google-java-format.md)
+* :octocat: **[source code](https://github.com/google/google-java-format)**
+---
+#### [Wiremock Home Page](https://github.com/tomakehurst/wiremock)
+_<sup>https://github.com/tomakehurst/wiremock</sup>_
+
+WireMock is a simulator for HTTP-based APIs. Some might consider it a service virtualization tool or a mock server.
+
+It enables you to stay productive when an API you depend on doesn't exist or isn't ...
+* **tags**: [wiremock](../tagged/wiremock.md), [java](../tagged/java.md), [mocking](../tagged/mocking.md), [rest](../tagged/rest.md), [json](../tagged/json.md), [http](../tagged/http.md)
+* :octocat: **[source code](https://github.com/tomakehurst/wiremock)**
+---
+#### [A categorized list of all Java and JVM features since JDK 8 to 14 - Advanced Web Machinery](https://advancedweb.hu/a-categorized-list-of-all-java-and-jvm-features-since-jdk-8-to-14/)
+_<sup>https://advancedweb.hu/a-categorized-list-of-all-java-and-jvm-features-since-jdk-8-to-14/</sup>_
+
+From Java 8 to 14
+* **tags**: [java](../tagged/java.md)
+---
+#### [Quarkus for Spring Developers](https://quarkus.io/blog/quarkus-for-spring-developers/)
+_<sup>https://quarkus.io/blog/quarkus-for-spring-developers/</sup>_
+
+The arrival of Quarkus 1.0 brings an innovative platform for developing Linux container- and kubernetes-native Java microservices. Developers typically have to set aside their existing knowledge as th...
+* :calendar: **published on**: 2019-12-11
+* **tags**: [quarkus](../tagged/quarkus.md), [spring-boot](../tagged/spring-boot.md), [spring](../tagged/spring.md), [java](../tagged/java.md)
+---
+#### [Quarkus - Supersonic Subatomic Java](https://quarkus.io/)
+_<sup>https://quarkus.io/</sup>_
+
+A Kubernetes Native Java stack tailored for OpenJDK HotSpot and GraalVM, crafted from the best of breed Java libraries and standards.
+* **tags**: [java](../tagged/java.md), [graalvm](../tagged/graalvm.md), [quarkus](../tagged/quarkus.md)
+* :octocat: **[source code](https://github.com/quarkusio/quarkus)**
+---
+#### [My favorite books to learn Java in-depth — Must Read](https://medium.com/javarevisited/my-favorite-books-to-learn-java-in-depth-must-read-9c4468aeec99)
+_<sup>https://medium.com/javarevisited/my-favorite-books-to-learn-java-in-depth-must-read-9c4468aeec99</sup>_
+
+Hello guys, today is the world of online learning. Everyone is talking about learning from online training courses, Youtube, free courses on Coursera, Udemy and other websites, which is great as…
+* **tags**: [java](../tagged/java.md)
 ---
 #### [JDK 8: Lessons Learnt With Lambdas and Streams - 30min](https://www.youtube.com/watch?v=wZKmA6XodNE&t=3s)
 _<sup>https://www.youtube.com/watch?v=wZKmA6XodNE&t=3s</sup>_

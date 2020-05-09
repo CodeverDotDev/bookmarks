@@ -1,4 +1,4 @@
-## Bookmarks tagged [[distributed-cache]](https://www.bookmarks.dev?q=[distributed-cache])
+## Bookmarks tagged [[distributed-cache]](https://www.bookmarks.dev/search?q=[distributed-cache])
 
 _<sup><sup>[www.bookmarks.dev/tagged/distributed-cache](https://www.bookmarks.dev/tagged/distributed-cache)</sup></sup>_
 ---

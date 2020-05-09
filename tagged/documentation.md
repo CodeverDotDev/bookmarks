@@ -1,4 +1,4 @@
-## Bookmarks tagged [[documentation]](https://www.bookmarks.dev?q=[documentation])
+## Bookmarks tagged [[documentation]](https://www.bookmarks.dev/search?q=[documentation])
 
 _<sup><sup>[www.bookmarks.dev/tagged/documentation](https://www.bookmarks.dev/tagged/documentation)</sup></sup>_
 ---

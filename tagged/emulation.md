@@ -1,4 +1,4 @@
-## Bookmarks tagged [[emulation]](https://www.bookmarks.dev?q=[emulation])
+## Bookmarks tagged [[emulation]](https://www.bookmarks.dev/search?q=[emulation])
 
 _<sup><sup>[www.bookmarks.dev/tagged/emulation](https://www.bookmarks.dev/tagged/emulation)</sup></sup>_
 ---

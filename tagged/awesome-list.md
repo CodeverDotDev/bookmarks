@@ -1,4 +1,4 @@
-## Bookmarks tagged [[awesome-list]](https://www.bookmarks.dev?q=[awesome-list]) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+## Bookmarks tagged [[awesome-list]](https://www.bookmarks.dev/search?q=[awesome-list]) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 _<sup><sup>[www.bookmarks.dev/tagged/awesome-list](https://www.bookmarks.dev/tagged/awesome-list)</sup></sup>_
 ---

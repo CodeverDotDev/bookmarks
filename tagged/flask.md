@@ -1,4 +1,4 @@
-## Bookmarks tagged [[flask]](https://www.bookmarks.dev?q=[flask])
+## Bookmarks tagged [[flask]](https://www.bookmarks.dev/search?q=[flask])
 
 _<sup><sup>[www.bookmarks.dev/tagged/flask](https://www.bookmarks.dev/tagged/flask)</sup></sup>_
 ---

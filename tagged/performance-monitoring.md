@@ -1,4 +1,4 @@
-## Bookmarks tagged [[performance-monitoring]](https://www.bookmarks.dev?q=[performance-monitoring])
+## Bookmarks tagged [[performance-monitoring]](https://www.bookmarks.dev/search?q=[performance-monitoring])
 
 _<sup><sup>[www.bookmarks.dev/tagged/performance-monitoring](https://www.bookmarks.dev/tagged/performance-monitoring)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[cargo]](https://www.bookmarks.dev?q=[cargo])
+## Bookmarks tagged [[cargo]](https://www.bookmarks.dev/search?q=[cargo])
 
 _<sup><sup>[www.bookmarks.dev/tagged/cargo](https://www.bookmarks.dev/tagged/cargo)</sup></sup>_
 ---

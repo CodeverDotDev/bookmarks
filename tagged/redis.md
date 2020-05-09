@@ -1,4 +1,4 @@
-## Bookmarks tagged [[redis]](https://www.bookmarks.dev?q=[redis])
+## Bookmarks tagged [[redis]](https://www.bookmarks.dev/search?q=[redis])
 
 _<sup><sup>[www.bookmarks.dev/tagged/redis](https://www.bookmarks.dev/tagged/redis)</sup></sup>_
 ---

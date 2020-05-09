@@ -1,6 +1,12 @@
-## Bookmarks tagged [[themes]](https://www.bookmarks.dev?q=[themes])
+## Bookmarks tagged [[themes]](https://www.bookmarks.dev/search?q=[themes])
 
 _<sup><sup>[www.bookmarks.dev/tagged/themes](https://www.bookmarks.dev/tagged/themes)</sup></sup>_
+---
+#### [highlight.js themes ](https://github.com/highlightjs/highlight.js/tree/master/src/styles)
+_<sup>https://github.com/highlightjs/highlight.js/tree/master/src/styles</sup>_
+
+List of supported themes for Highlight.js
+* **tags**: [highlightjs](../tagged/highlightjs.md), [themes](../tagged/themes.md), [theme](../tagged/theme.md)
 ---
 #### [Bootswatch - Free themes for Bootstrap](https://bootswatch.com/)
 _<sup>https://bootswatch.com/</sup>_

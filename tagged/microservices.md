@@ -1,4 +1,4 @@
-## Bookmarks tagged [[microservices]](https://www.bookmarks.dev?q=[microservices])
+## Bookmarks tagged [[microservices]](https://www.bookmarks.dev/search?q=[microservices])
 
 _<sup><sup>[www.bookmarks.dev/tagged/microservices](https://www.bookmarks.dev/tagged/microservices)</sup></sup>_
 ---

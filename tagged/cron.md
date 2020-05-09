@@ -1,4 +1,4 @@
-## Bookmarks tagged [[cron]](https://www.bookmarks.dev?q=[cron])
+## Bookmarks tagged [[cron]](https://www.bookmarks.dev/search?q=[cron])
 
 _<sup><sup>[www.bookmarks.dev/tagged/cron](https://www.bookmarks.dev/tagged/cron)</sup></sup>_
 ---

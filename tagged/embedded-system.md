@@ -1,4 +1,4 @@
-## Bookmarks tagged [[embedded-system]](https://www.bookmarks.dev?q=[embedded-system])
+## Bookmarks tagged [[embedded-system]](https://www.bookmarks.dev/search?q=[embedded-system])
 
 _<sup><sup>[www.bookmarks.dev/tagged/embedded-system](https://www.bookmarks.dev/tagged/embedded-system)</sup></sup>_
 ---

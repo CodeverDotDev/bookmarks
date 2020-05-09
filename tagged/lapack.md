@@ -1,4 +1,4 @@
-## Bookmarks tagged [[lapack]](https://www.bookmarks.dev?q=[lapack])
+## Bookmarks tagged [[lapack]](https://www.bookmarks.dev/search?q=[lapack])
 
 _<sup><sup>[www.bookmarks.dev/tagged/lapack](https://www.bookmarks.dev/tagged/lapack)</sup></sup>_
 ---

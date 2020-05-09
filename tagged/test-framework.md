@@ -1,4 +1,4 @@
-## Bookmarks tagged [[test-framework]](https://www.bookmarks.dev?q=[test-framework])
+## Bookmarks tagged [[test-framework]](https://www.bookmarks.dev/search?q=[test-framework])
 
 _<sup><sup>[www.bookmarks.dev/tagged/test-framework](https://www.bookmarks.dev/tagged/test-framework)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[bitcoin]](https://www.bookmarks.dev?q=[bitcoin])
+## Bookmarks tagged [[bitcoin]](https://www.bookmarks.dev/search?q=[bitcoin])
 
 _<sup><sup>[www.bookmarks.dev/tagged/bitcoin](https://www.bookmarks.dev/tagged/bitcoin)</sup></sup>_
 ---

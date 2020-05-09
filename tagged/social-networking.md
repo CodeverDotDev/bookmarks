@@ -1,4 +1,4 @@
-## Bookmarks tagged [[social-networking]](https://www.bookmarks.dev?q=[social-networking])
+## Bookmarks tagged [[social-networking]](https://www.bookmarks.dev/search?q=[social-networking])
 
 _<sup><sup>[www.bookmarks.dev/tagged/social-networking](https://www.bookmarks.dev/tagged/social-networking)</sup></sup>_
 ---

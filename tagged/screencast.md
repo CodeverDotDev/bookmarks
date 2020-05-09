@@ -1,4 +1,4 @@
-## Bookmarks tagged [[screencast]](https://www.bookmarks.dev?q=[screencast])
+## Bookmarks tagged [[screencast]](https://www.bookmarks.dev/search?q=[screencast])
 
 _<sup><sup>[www.bookmarks.dev/tagged/screencast](https://www.bookmarks.dev/tagged/screencast)</sup></sup>_
 ---

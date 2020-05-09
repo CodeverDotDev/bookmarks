@@ -1,4 +1,4 @@
-## Bookmarks tagged [[database-design]](https://www.bookmarks.dev?q=[database-design])
+## Bookmarks tagged [[database-design]](https://www.bookmarks.dev/search?q=[database-design])
 
 _<sup><sup>[www.bookmarks.dev/tagged/database-design](https://www.bookmarks.dev/tagged/database-design)</sup></sup>_
 ---

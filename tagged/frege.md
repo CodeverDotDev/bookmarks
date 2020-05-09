@@ -1,4 +1,4 @@
-## Bookmarks tagged [[frege]](https://www.bookmarks.dev?q=[frege])
+## Bookmarks tagged [[frege]](https://www.bookmarks.dev/search?q=[frege])
 
 _<sup><sup>[www.bookmarks.dev/tagged/frege](https://www.bookmarks.dev/tagged/frege)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[compatibility]](https://www.bookmarks.dev?q=[compatibility])
+## Bookmarks tagged [[compatibility]](https://www.bookmarks.dev/search?q=[compatibility])
 
 _<sup><sup>[www.bookmarks.dev/tagged/compatibility](https://www.bookmarks.dev/tagged/compatibility)</sup></sup>_
 ---

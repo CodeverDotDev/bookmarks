@@ -1,4 +1,4 @@
-## Bookmarks tagged [[backbone]](https://www.bookmarks.dev?q=[backbone])
+## Bookmarks tagged [[backbone]](https://www.bookmarks.dev/search?q=[backbone])
 
 _<sup><sup>[www.bookmarks.dev/tagged/backbone](https://www.bookmarks.dev/tagged/backbone)</sup></sup>_
 ---

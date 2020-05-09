@@ -1,4 +1,4 @@
-## Bookmarks tagged [[ios]](https://www.bookmarks.dev?q=[ios])
+## Bookmarks tagged [[ios]](https://www.bookmarks.dev/search?q=[ios])
 
 _<sup><sup>[www.bookmarks.dev/tagged/ios](https://www.bookmarks.dev/tagged/ios)</sup></sup>_
 ---

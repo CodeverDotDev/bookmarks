@@ -1,4 +1,4 @@
-## Bookmarks tagged [[assembly]](https://www.bookmarks.dev?q=[assembly])
+## Bookmarks tagged [[assembly]](https://www.bookmarks.dev/search?q=[assembly])
 
 _<sup><sup>[www.bookmarks.dev/tagged/assembly](https://www.bookmarks.dev/tagged/assembly)</sup></sup>_
 ---

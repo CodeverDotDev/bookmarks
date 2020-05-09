@@ -1,4 +1,4 @@
-## Bookmarks tagged [[irb]](https://www.bookmarks.dev?q=[irb])
+## Bookmarks tagged [[irb]](https://www.bookmarks.dev/search?q=[irb])
 
 _<sup><sup>[www.bookmarks.dev/tagged/irb](https://www.bookmarks.dev/tagged/irb)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[forum]](https://www.bookmarks.dev?q=[forum])
+## Bookmarks tagged [[forum]](https://www.bookmarks.dev/search?q=[forum])
 
 _<sup><sup>[www.bookmarks.dev/tagged/forum](https://www.bookmarks.dev/tagged/forum)</sup></sup>_
 ---

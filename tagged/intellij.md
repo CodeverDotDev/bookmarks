@@ -1,6 +1,21 @@
-## Bookmarks tagged [[intellij]](https://www.bookmarks.dev?q=[intellij])
+## Bookmarks tagged [[intellij]](https://www.bookmarks.dev/search?q=[intellij])
 
 _<sup><sup>[www.bookmarks.dev/tagged/intellij](https://www.bookmarks.dev/tagged/intellij)</sup></sup>_
+---
+#### [String Manipulation - plugin for IntelliJ IDEs](https://plugins.jetbrains.com/plugin/2162-string-manipulation)
+_<sup>https://plugins.jetbrains.com/plugin/2162-string-manipulation</sup>_
+
+Provides actions for text manipulation:
+
+* Switch case (camelCase, kebab-lowercase, KEBAB-UPPERCASE, snake_case, SCREAMING_SNAKE_CASE, dot.case, words lowercase, First word capitalized, Words Capitali...
+* **tags**: [intellij](../tagged/intellij.md), [string](../tagged/string.md), [plugins](../tagged/plugins.md)
+---
+#### [google-java-format - plugin for IntelliJ IDEs](https://plugins.jetbrains.com/plugin/8527-google-java-format)
+_<sup>https://plugins.jetbrains.com/plugin/8527-google-java-format</sup>_
+
+Formats source code using the google-java-format tool.
+* **tags**: [java](../tagged/java.md), [google-java-format](../tagged/google-java-format.md), [intellij](../tagged/intellij.md), [plugins](../tagged/plugins.md)
+* :octocat: **[source code](https://github.com/google/google-java-format)**
 ---
 #### [MapStruct Support - Plugins | JetBrains](https://plugins.jetbrains.com/plugin/10036-mapstruct-support)
 _<sup>https://plugins.jetbrains.com/plugin/10036-mapstruct-support</sup>_

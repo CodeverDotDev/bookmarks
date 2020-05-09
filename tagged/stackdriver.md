@@ -1,4 +1,4 @@
-## Bookmarks tagged [[stackdriver]](https://www.bookmarks.dev?q=[stackdriver])
+## Bookmarks tagged [[stackdriver]](https://www.bookmarks.dev/search?q=[stackdriver])
 
 _<sup><sup>[www.bookmarks.dev/tagged/stackdriver](https://www.bookmarks.dev/tagged/stackdriver)</sup></sup>_
 ---

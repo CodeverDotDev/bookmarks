@@ -1,4 +1,4 @@
-## Bookmarks tagged [[gui]](https://www.bookmarks.dev?q=[gui])
+## Bookmarks tagged [[gui]](https://www.bookmarks.dev/search?q=[gui])
 
 _<sup><sup>[www.bookmarks.dev/tagged/gui](https://www.bookmarks.dev/tagged/gui)</sup></sup>_
 ---

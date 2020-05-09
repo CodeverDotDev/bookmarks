@@ -1,4 +1,4 @@
-## Bookmarks tagged [[tdd]](https://www.bookmarks.dev?q=[tdd])
+## Bookmarks tagged [[tdd]](https://www.bookmarks.dev/search?q=[tdd])
 
 _<sup><sup>[www.bookmarks.dev/tagged/tdd](https://www.bookmarks.dev/tagged/tdd)</sup></sup>_
 ---

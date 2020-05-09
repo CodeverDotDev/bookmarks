@@ -1,4 +1,4 @@
-## Bookmarks tagged [[aws]](https://www.bookmarks.dev?q=[aws])
+## Bookmarks tagged [[aws]](https://www.bookmarks.dev/search?q=[aws])
 
 _<sup><sup>[www.bookmarks.dev/tagged/aws](https://www.bookmarks.dev/tagged/aws)</sup></sup>_
 ---

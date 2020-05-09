@@ -1,4 +1,4 @@
-## Bookmarks tagged [[stream-processing]](https://www.bookmarks.dev?q=[stream-processing])
+## Bookmarks tagged [[stream-processing]](https://www.bookmarks.dev/search?q=[stream-processing])
 
 _<sup><sup>[www.bookmarks.dev/tagged/stream-processing](https://www.bookmarks.dev/tagged/stream-processing)</sup></sup>_
 ---

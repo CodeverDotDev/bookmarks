@@ -1,4 +1,4 @@
-## Bookmarks tagged [[swagger]](https://www.bookmarks.dev?q=[swagger])
+## Bookmarks tagged [[swagger]](https://www.bookmarks.dev/search?q=[swagger])
 
 _<sup><sup>[www.bookmarks.dev/tagged/swagger](https://www.bookmarks.dev/tagged/swagger)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[cms]](https://www.bookmarks.dev?q=[cms])
+## Bookmarks tagged [[cms]](https://www.bookmarks.dev/search?q=[cms])
 
 _<sup><sup>[www.bookmarks.dev/tagged/cms](https://www.bookmarks.dev/tagged/cms)</sup></sup>_
 ---

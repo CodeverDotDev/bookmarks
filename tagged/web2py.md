@@ -1,4 +1,4 @@
-## Bookmarks tagged [[web2py]](https://www.bookmarks.dev?q=[web2py])
+## Bookmarks tagged [[web2py]](https://www.bookmarks.dev/search?q=[web2py])
 
 _<sup><sup>[www.bookmarks.dev/tagged/web2py](https://www.bookmarks.dev/tagged/web2py)</sup></sup>_
 ---

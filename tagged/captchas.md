@@ -1,4 +1,4 @@
-## Bookmarks tagged [[captchas]](https://www.bookmarks.dev?q=[captchas])
+## Bookmarks tagged [[captchas]](https://www.bookmarks.dev/search?q=[captchas])
 
 _<sup><sup>[www.bookmarks.dev/tagged/captchas](https://www.bookmarks.dev/tagged/captchas)</sup></sup>_
 ---

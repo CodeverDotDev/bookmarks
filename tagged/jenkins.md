@@ -1,4 +1,4 @@
-## Bookmarks tagged [[jenkins]](https://www.bookmarks.dev?q=[jenkins])
+## Bookmarks tagged [[jenkins]](https://www.bookmarks.dev/search?q=[jenkins])
 
 _<sup><sup>[www.bookmarks.dev/tagged/jenkins](https://www.bookmarks.dev/tagged/jenkins)</sup></sup>_
 ---

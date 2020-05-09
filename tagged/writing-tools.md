@@ -1,4 +1,4 @@
-## Bookmarks tagged [[writing-tools]](https://www.bookmarks.dev?q=[writing-tools])
+## Bookmarks tagged [[writing-tools]](https://www.bookmarks.dev/search?q=[writing-tools])
 
 _<sup><sup>[www.bookmarks.dev/tagged/writing-tools](https://www.bookmarks.dev/tagged/writing-tools)</sup></sup>_
 ---

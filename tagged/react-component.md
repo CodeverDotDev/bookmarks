@@ -1,4 +1,4 @@
-## Bookmarks tagged [[react-component]](https://www.bookmarks.dev?q=[react-component])
+## Bookmarks tagged [[react-component]](https://www.bookmarks.dev/search?q=[react-component])
 
 _<sup><sup>[www.bookmarks.dev/tagged/react-component](https://www.bookmarks.dev/tagged/react-component)</sup></sup>_
 ---

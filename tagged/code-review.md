@@ -1,4 +1,4 @@
-## Bookmarks tagged [[code-review]](https://www.bookmarks.dev?q=[code-review])
+## Bookmarks tagged [[code-review]](https://www.bookmarks.dev/search?q=[code-review])
 
 _<sup><sup>[www.bookmarks.dev/tagged/code-review](https://www.bookmarks.dev/tagged/code-review)</sup></sup>_
 ---

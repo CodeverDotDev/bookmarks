@@ -1,4 +1,4 @@
-## Bookmarks tagged [[humanize]](https://www.bookmarks.dev?q=[humanize])
+## Bookmarks tagged [[humanize]](https://www.bookmarks.dev/search?q=[humanize])
 
 _<sup><sup>[www.bookmarks.dev/tagged/humanize](https://www.bookmarks.dev/tagged/humanize)</sup></sup>_
 ---

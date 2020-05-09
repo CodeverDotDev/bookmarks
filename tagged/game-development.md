@@ -1,4 +1,4 @@
-## Bookmarks tagged [[game-development]](https://www.bookmarks.dev?q=[game-development])
+## Bookmarks tagged [[game-development]](https://www.bookmarks.dev/search?q=[game-development])
 
 _<sup><sup>[www.bookmarks.dev/tagged/game-development](https://www.bookmarks.dev/tagged/game-development)</sup></sup>_
 ---

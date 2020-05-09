@@ -1,4 +1,4 @@
-## Bookmarks tagged [[jpa]](https://www.bookmarks.dev?q=[jpa])
+## Bookmarks tagged [[jpa]](https://www.bookmarks.dev/search?q=[jpa])
 
 _<sup><sup>[www.bookmarks.dev/tagged/jpa](https://www.bookmarks.dev/tagged/jpa)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[distroless]](https://www.bookmarks.dev?q=[distroless])
+## Bookmarks tagged [[distroless]](https://www.bookmarks.dev/search?q=[distroless])
 
 _<sup><sup>[www.bookmarks.dev/tagged/distroless](https://www.bookmarks.dev/tagged/distroless)</sup></sup>_
 ---

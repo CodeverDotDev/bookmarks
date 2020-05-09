@@ -1,4 +1,4 @@
-## Bookmarks tagged [[aop]](https://www.bookmarks.dev?q=[aop])
+## Bookmarks tagged [[aop]](https://www.bookmarks.dev/search?q=[aop])
 
 _<sup><sup>[www.bookmarks.dev/tagged/aop](https://www.bookmarks.dev/tagged/aop)</sup></sup>_
 ---

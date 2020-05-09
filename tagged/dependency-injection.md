@@ -1,4 +1,4 @@
-## Bookmarks tagged [[dependency-injection]](https://www.bookmarks.dev?q=[dependency-injection])
+## Bookmarks tagged [[dependency-injection]](https://www.bookmarks.dev/search?q=[dependency-injection])
 
 _<sup><sup>[www.bookmarks.dev/tagged/dependency-injection](https://www.bookmarks.dev/tagged/dependency-injection)</sup></sup>_
 ---

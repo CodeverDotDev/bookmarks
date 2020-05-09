@@ -1,4 +1,4 @@
-## Bookmarks tagged [[magento]](https://www.bookmarks.dev?q=[magento])
+## Bookmarks tagged [[magento]](https://www.bookmarks.dev/search?q=[magento])
 
 _<sup><sup>[www.bookmarks.dev/tagged/magento](https://www.bookmarks.dev/tagged/magento)</sup></sup>_
 ---

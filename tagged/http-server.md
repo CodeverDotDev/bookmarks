@@ -1,4 +1,4 @@
-## Bookmarks tagged [[http-server]](https://www.bookmarks.dev?q=[http-server])
+## Bookmarks tagged [[http-server]](https://www.bookmarks.dev/search?q=[http-server])
 
 _<sup><sup>[www.bookmarks.dev/tagged/http-server](https://www.bookmarks.dev/tagged/http-server)</sup></sup>_
 ---

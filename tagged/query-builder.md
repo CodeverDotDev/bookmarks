@@ -1,4 +1,4 @@
-## Bookmarks tagged [[query-builder]](https://www.bookmarks.dev?q=[query-builder])
+## Bookmarks tagged [[query-builder]](https://www.bookmarks.dev/search?q=[query-builder])
 
 _<sup><sup>[www.bookmarks.dev/tagged/query-builder](https://www.bookmarks.dev/tagged/query-builder)</sup></sup>_
 ---

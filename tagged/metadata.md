@@ -1,4 +1,4 @@
-## Bookmarks tagged [[metadata]](https://www.bookmarks.dev?q=[metadata])
+## Bookmarks tagged [[metadata]](https://www.bookmarks.dev/search?q=[metadata])
 
 _<sup><sup>[www.bookmarks.dev/tagged/metadata](https://www.bookmarks.dev/tagged/metadata)</sup></sup>_
 ---

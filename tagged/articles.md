@@ -1,4 +1,4 @@
-## Bookmarks tagged [[articles]](https://www.bookmarks.dev?q=[articles])
+## Bookmarks tagged [[articles]](https://www.bookmarks.dev/search?q=[articles])
 
 _<sup><sup>[www.bookmarks.dev/tagged/articles](https://www.bookmarks.dev/tagged/articles)</sup></sup>_
 ---

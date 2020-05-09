@@ -1,4 +1,4 @@
-## Bookmarks tagged [[industrial]](https://www.bookmarks.dev?q=[industrial])
+## Bookmarks tagged [[industrial]](https://www.bookmarks.dev/search?q=[industrial])
 
 _<sup><sup>[www.bookmarks.dev/tagged/industrial](https://www.bookmarks.dev/tagged/industrial)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[autohotkey]](https://www.bookmarks.dev?q=[autohotkey])
+## Bookmarks tagged [[autohotkey]](https://www.bookmarks.dev/search?q=[autohotkey])
 
 _<sup><sup>[www.bookmarks.dev/tagged/autohotkey](https://www.bookmarks.dev/tagged/autohotkey)</sup></sup>_
 ---

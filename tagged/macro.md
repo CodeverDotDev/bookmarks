@@ -1,4 +1,4 @@
-## Bookmarks tagged [[macro]](https://www.bookmarks.dev?q=[macro])
+## Bookmarks tagged [[macro]](https://www.bookmarks.dev/search?q=[macro])
 
 _<sup><sup>[www.bookmarks.dev/tagged/macro](https://www.bookmarks.dev/tagged/macro)</sup></sup>_
 ---

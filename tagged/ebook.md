@@ -1,4 +1,4 @@
-## Bookmarks tagged [[ebook]](https://www.bookmarks.dev?q=[ebook])
+## Bookmarks tagged [[ebook]](https://www.bookmarks.dev/search?q=[ebook])
 
 _<sup><sup>[www.bookmarks.dev/tagged/ebook](https://www.bookmarks.dev/tagged/ebook)</sup></sup>_
 ---

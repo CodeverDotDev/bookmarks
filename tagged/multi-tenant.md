@@ -1,4 +1,4 @@
-## Bookmarks tagged [[multi-tenant]](https://www.bookmarks.dev?q=[multi-tenant])
+## Bookmarks tagged [[multi-tenant]](https://www.bookmarks.dev/search?q=[multi-tenant])
 
 _<sup><sup>[www.bookmarks.dev/tagged/multi-tenant](https://www.bookmarks.dev/tagged/multi-tenant)</sup></sup>_
 ---

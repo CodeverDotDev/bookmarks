@@ -1,4 +1,4 @@
-## Bookmarks tagged [[object-comparison]](https://www.bookmarks.dev?q=[object-comparison])
+## Bookmarks tagged [[object-comparison]](https://www.bookmarks.dev/search?q=[object-comparison])
 
 _<sup><sup>[www.bookmarks.dev/tagged/object-comparison](https://www.bookmarks.dev/tagged/object-comparison)</sup></sup>_
 ---

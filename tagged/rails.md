@@ -1,4 +1,4 @@
-## Bookmarks tagged [[rails]](https://www.bookmarks.dev?q=[rails])
+## Bookmarks tagged [[rails]](https://www.bookmarks.dev/search?q=[rails])
 
 _<sup><sup>[www.bookmarks.dev/tagged/rails](https://www.bookmarks.dev/tagged/rails)</sup></sup>_
 ---

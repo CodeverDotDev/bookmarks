@@ -1,4 +1,4 @@
-## Bookmarks tagged [[animation]](https://www.bookmarks.dev?q=[animation])
+## Bookmarks tagged [[animation]](https://www.bookmarks.dev/search?q=[animation])
 
 _<sup><sup>[www.bookmarks.dev/tagged/animation](https://www.bookmarks.dev/tagged/animation)</sup></sup>_
 ---

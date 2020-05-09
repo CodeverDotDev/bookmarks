@@ -1,4 +1,4 @@
-## Bookmarks tagged [[ipfs]](https://www.bookmarks.dev?q=[ipfs])
+## Bookmarks tagged [[ipfs]](https://www.bookmarks.dev/search?q=[ipfs])
 
 _<sup><sup>[www.bookmarks.dev/tagged/ipfs](https://www.bookmarks.dev/tagged/ipfs)</sup></sup>_
 ---

@@ -1,6 +1,22 @@
-## Bookmarks tagged [[nodejs]](https://www.bookmarks.dev?q=[nodejs])
+## Bookmarks tagged [[nodejs]](https://www.bookmarks.dev/search?q=[nodejs])
 
 _<sup><sup>[www.bookmarks.dev/tagged/nodejs](https://www.bookmarks.dev/tagged/nodejs)</sup></sup>_
+---
+#### [Using Express middleware](https://expressjs.com/en/guide/using-middleware.html#middleware.application)
+_<sup>https://expressjs.com/en/guide/using-middleware.html#middleware.application</sup>_
+
+Express is a routing and middleware web framework that has minimal functionality of its own: An Express application is essentially a series of middleware function calls.
+
+Middleware functions are func...
+* **tags**: [expressjs](../tagged/expressjs.md), [nodejs](../tagged/nodejs.md)
+---
+#### [Key takeaways when using Open API Specification 3 to document an ExpressJS API – CodepediaOrg](https://www.codepedia.org/ama/key-takeaways-when-using-oas-3-to-document-an-expressjs-rest-api)
+_<sup>https://www.codepedia.org/ama/key-takeaways-when-using-oas-3-to-document-an-expressjs-rest-api</sup>_
+
+Recently I’ve taken the time to update the API documentation for bookmarks.dev. I used the Swagger 2.0 (aka OAS 2) before and I decided to update to OpenAPI Specification (OAS) 3. In this post I will ...
+* :calendar: **published on**: 2020-02-20
+* **tags**: [openapi](../tagged/openapi.md), [expressjs](../tagged/expressjs.md), [nodejs](../tagged/nodejs.md)
+* :octocat: **[source code](https://github.com/CodepediaOrg/bookmarks.dev)**
 ---
 #### [GitHub - zishon89us/node-cheat: Awesome Node Cheats](https://github.com/zishon89us/node-cheat)
 _<sup>https://github.com/zishon89us/node-cheat</sup>_
@@ -23,10 +39,10 @@ Node.js client for Google Cloud Storage: unified object storage for developers a
 * **tags**: [nodejs](../tagged/nodejs.md), [google-cloud-storage](../tagged/google-cloud-storage.md)
 * :octocat: **[source code](https://github.com/googleapis/nodejs-storage)**
 ---
-#### [expressjs/multer: Node.js middleware for handling `multipart/form-data`.](https://github.com/expressjs/multer)
+#### [expressjs/multer home page](https://github.com/expressjs/multer)
 _<sup>https://github.com/expressjs/multer</sup>_
 
-Multer is a node.js middleware for handling multipart/form-data, which is primarily used for uploading files. It is written on top of [busboy](https://github.com/mscdex/busboy) for maximum efficiency....
+Multer is a node.js middleware for handling `multipart/form-data`, which is primarily used for uploading files. It is written on top of [busboy](https://github.com/mscdex/busboy) for maximum efficienc...
 * **tags**: [nodejs](../tagged/nodejs.md), [expressjs](../tagged/expressjs.md), [multipartform-data](../tagged/multipartform-data.md)
 * :octocat: **[source code](https://github.com/expressjs/multer)**
 ---

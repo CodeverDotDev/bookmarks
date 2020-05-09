@@ -1,4 +1,4 @@
-## Bookmarks tagged [[apache-wicket]](https://www.bookmarks.dev?q=[apache-wicket])
+## Bookmarks tagged [[apache-wicket]](https://www.bookmarks.dev/search?q=[apache-wicket])
 
 _<sup><sup>[www.bookmarks.dev/tagged/apache-wicket](https://www.bookmarks.dev/tagged/apache-wicket)</sup></sup>_
 ---

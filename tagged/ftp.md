@@ -1,4 +1,4 @@
-## Bookmarks tagged [[ftp]](https://www.bookmarks.dev?q=[ftp])
+## Bookmarks tagged [[ftp]](https://www.bookmarks.dev/search?q=[ftp])
 
 _<sup><sup>[www.bookmarks.dev/tagged/ftp](https://www.bookmarks.dev/tagged/ftp)</sup></sup>_
 ---

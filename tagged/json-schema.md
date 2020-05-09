@@ -1,4 +1,4 @@
-## Bookmarks tagged [[json-schema]](https://www.bookmarks.dev?q=[json-schema])
+## Bookmarks tagged [[json-schema]](https://www.bookmarks.dev/search?q=[json-schema])
 
 _<sup><sup>[www.bookmarks.dev/tagged/json-schema](https://www.bookmarks.dev/tagged/json-schema)</sup></sup>_
 ---

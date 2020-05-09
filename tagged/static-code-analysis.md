@@ -1,4 +1,4 @@
-## Bookmarks tagged [[static-code-analysis]](https://www.bookmarks.dev?q=[static-code-analysis])
+## Bookmarks tagged [[static-code-analysis]](https://www.bookmarks.dev/search?q=[static-code-analysis])
 
 _<sup><sup>[www.bookmarks.dev/tagged/static-code-analysis](https://www.bookmarks.dev/tagged/static-code-analysis)</sup></sup>_
 ---

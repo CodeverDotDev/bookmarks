@@ -1,4 +1,4 @@
-## Bookmarks tagged [[hbase]](https://www.bookmarks.dev?q=[hbase])
+## Bookmarks tagged [[hbase]](https://www.bookmarks.dev/search?q=[hbase])
 
 _<sup><sup>[www.bookmarks.dev/tagged/hbase](https://www.bookmarks.dev/tagged/hbase)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[unit-testing]](https://www.bookmarks.dev?q=[unit-testing])
+## Bookmarks tagged [[unit-testing]](https://www.bookmarks.dev/search?q=[unit-testing])
 
 _<sup><sup>[www.bookmarks.dev/tagged/unit-testing](https://www.bookmarks.dev/tagged/unit-testing)</sup></sup>_
 ---

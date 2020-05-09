@@ -1,6 +1,20 @@
-## Bookmarks tagged [[continuous-delivery]](https://www.bookmarks.dev?q=[continuous-delivery])
+## Bookmarks tagged [[continuous-delivery]](https://www.bookmarks.dev/search?q=[continuous-delivery])
 
 _<sup><sup>[www.bookmarks.dev/tagged/continuous-delivery](https://www.bookmarks.dev/tagged/continuous-delivery)</sup></sup>_
+---
+#### [Continuous Delivery vs Continuous Deployment - Continuous Delivery](https://continuousdelivery.com/2010/08/continuous-delivery-vs-continuous-deployment/)
+_<sup>https://continuousdelivery.com/2010/08/continuous-delivery-vs-continuous-deployment/</sup>_
+
+We decided to call the book Continuous Delivery for a few reasons. First of all, there's the somewhat pedantic fact that deployment does not imply release. As we say in the book, you can continuously ...
+* :calendar: **published on**: 2010-09-13
+* **tags**: [continuous-delivery](../tagged/continuous-delivery.md), [continuous-deployment](../tagged/continuous-deployment.md)
+---
+#### [Crisp's Blog » Continuous Delivery vs Continuous Deployment](https://blog.crisp.se/2013/02/05/yassalsundman/continuous-delivery-vs-continuous-deployment)
+_<sup>https://blog.crisp.se/2013/02/05/yassalsundman/continuous-delivery-vs-continuous-deployment</sup>_
+
+A continuous delivery pipeline automatically tests the application, but keeps the deployment decision as a manual step. A continuous deployment pipeline, on the other hand, will automatically deploy t...
+* :calendar: **published on**: 2013-05-02
+* **tags**: [continuous-delivery](../tagged/continuous-delivery.md), [continuous-deployment](../tagged/continuous-deployment.md)
 ---
 #### [Jenkins-Kubernetes Plugin](https://github.com/jenkinsci/kubernetes-plugin)
 _<sup>https://github.com/jenkinsci/kubernetes-plugin</sup>_

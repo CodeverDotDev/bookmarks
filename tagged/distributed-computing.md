@@ -1,4 +1,4 @@
-## Bookmarks tagged [[distributed-computing]](https://www.bookmarks.dev?q=[distributed-computing])
+## Bookmarks tagged [[distributed-computing]](https://www.bookmarks.dev/search?q=[distributed-computing])
 
 _<sup><sup>[www.bookmarks.dev/tagged/distributed-computing](https://www.bookmarks.dev/tagged/distributed-computing)</sup></sup>_
 ---

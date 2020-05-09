@@ -1,6 +1,23 @@
-## Bookmarks tagged [[windows]](https://www.bookmarks.dev?q=[windows])
+## Bookmarks tagged [[windows]](https://www.bookmarks.dev/search?q=[windows])
 
 _<sup><sup>[www.bookmarks.dev/tagged/windows](https://www.bookmarks.dev/tagged/windows)</sup></sup>_
+---
+#### [Use Windows PowerShell to search for files](https://devblogs.microsoft.com/scripting/use-windows-powershell-to-search-for-files/)
+_<sup>https://devblogs.microsoft.com/scripting/use-windows-powershell-to-search-for-files/</sup>_
+
+Summary: Use Get-Childitem to search the files system with PowerShell.
+* :calendar: **published on**: 2016-06-27
+* **tags**: [windows](../tagged/windows.md), [powershell](../tagged/powershell.md), [bat](../tagged/bat.md), [cmd](../tagged/cmd.md)
+---
+#### [how to run a powershell script as administrator - Super User](https://superuser.com/questions/108207/how-to-run-a-powershell-script-as-administrator)
+_<sup>https://superuser.com/questions/108207/how-to-run-a-powershell-script-as-administrator</sup>_
+
+1. Create a shortcut to your Powershell script on your desktop
+2. Right-click the shortcut and click Properties
+3. Click the Shortcut tab
+4. Click Advanced
+5. Select Run as Administrator
+* **tags**: [windows](../tagged/windows.md), [powershell](../tagged/powershell.md)
 ---
 #### [retep998/winapi-rs](https://github.com/retep998/winapi-rs)
 _<sup>https://github.com/retep998/winapi-rs</sup>_

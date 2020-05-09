@@ -1,4 +1,4 @@
-## Bookmarks tagged [[system-tools]](https://www.bookmarks.dev?q=[system-tools])
+## Bookmarks tagged [[system-tools]](https://www.bookmarks.dev/search?q=[system-tools])
 
 _<sup><sup>[www.bookmarks.dev/tagged/system-tools](https://www.bookmarks.dev/tagged/system-tools)</sup></sup>_
 ---

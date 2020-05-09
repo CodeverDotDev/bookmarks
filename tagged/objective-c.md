@@ -1,4 +1,4 @@
-## Bookmarks tagged [[objective-c]](https://www.bookmarks.dev?q=[objective-c])
+## Bookmarks tagged [[objective-c]](https://www.bookmarks.dev/search?q=[objective-c])
 
 _<sup><sup>[www.bookmarks.dev/tagged/objective-c](https://www.bookmarks.dev/tagged/objective-c)</sup></sup>_
 ---

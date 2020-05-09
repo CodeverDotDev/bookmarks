@@ -1,4 +1,4 @@
-## Bookmarks tagged [[jsdoc]](https://www.bookmarks.dev?q=[jsdoc])
+## Bookmarks tagged [[jsdoc]](https://www.bookmarks.dev/search?q=[jsdoc])
 
 _<sup><sup>[www.bookmarks.dev/tagged/jsdoc](https://www.bookmarks.dev/tagged/jsdoc)</sup></sup>_
 ---

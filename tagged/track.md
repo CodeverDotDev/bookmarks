@@ -1,4 +1,4 @@
-## Bookmarks tagged [[track]](https://www.bookmarks.dev?q=[track])
+## Bookmarks tagged [[track]](https://www.bookmarks.dev/search?q=[track])
 
 _<sup><sup>[www.bookmarks.dev/tagged/track](https://www.bookmarks.dev/tagged/track)</sup></sup>_
 ---

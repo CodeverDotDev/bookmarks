@@ -1,4 +1,4 @@
-## Bookmarks tagged [[commands]](https://www.bookmarks.dev?q=[commands])
+## Bookmarks tagged [[commands]](https://www.bookmarks.dev/search?q=[commands])
 
 _<sup><sup>[www.bookmarks.dev/tagged/commands](https://www.bookmarks.dev/tagged/commands)</sup></sup>_
 ---

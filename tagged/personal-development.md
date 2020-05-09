@@ -1,4 +1,4 @@
-## Bookmarks tagged [[personal-development]](https://www.bookmarks.dev?q=[personal-development])
+## Bookmarks tagged [[personal-development]](https://www.bookmarks.dev/search?q=[personal-development])
 
 _<sup><sup>[www.bookmarks.dev/tagged/personal-development](https://www.bookmarks.dev/tagged/personal-development)</sup></sup>_
 ---

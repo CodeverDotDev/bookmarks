@@ -1,4 +1,4 @@
-## Bookmarks tagged [[lldb]](https://www.bookmarks.dev?q=[lldb])
+## Bookmarks tagged [[lldb]](https://www.bookmarks.dev/search?q=[lldb])
 
 _<sup><sup>[www.bookmarks.dev/tagged/lldb](https://www.bookmarks.dev/tagged/lldb)</sup></sup>_
 ---

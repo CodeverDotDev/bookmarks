@@ -1,4 +1,4 @@
-## Bookmarks tagged [[gaming]](https://www.bookmarks.dev?q=[gaming])
+## Bookmarks tagged [[gaming]](https://www.bookmarks.dev/search?q=[gaming])
 
 _<sup><sup>[www.bookmarks.dev/tagged/gaming](https://www.bookmarks.dev/tagged/gaming)</sup></sup>_
 ---

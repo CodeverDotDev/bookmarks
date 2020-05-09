@@ -1,4 +1,4 @@
-## Bookmarks tagged [[matchers]](https://www.bookmarks.dev?q=[matchers])
+## Bookmarks tagged [[matchers]](https://www.bookmarks.dev/search?q=[matchers])
 
 _<sup><sup>[www.bookmarks.dev/tagged/matchers](https://www.bookmarks.dev/tagged/matchers)</sup></sup>_
 ---

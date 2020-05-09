@@ -1,4 +1,4 @@
-## Bookmarks tagged [[jersey]](https://www.bookmarks.dev?q=[jersey])
+## Bookmarks tagged [[jersey]](https://www.bookmarks.dev/search?q=[jersey])
 
 _<sup><sup>[www.bookmarks.dev/tagged/jersey](https://www.bookmarks.dev/tagged/jersey)</sup></sup>_
 ---

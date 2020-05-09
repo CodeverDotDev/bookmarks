@@ -1,4 +1,4 @@
-## Bookmarks tagged [[batch-processing]](https://www.bookmarks.dev?q=[batch-processing])
+## Bookmarks tagged [[batch-processing]](https://www.bookmarks.dev/search?q=[batch-processing])
 
 _<sup><sup>[www.bookmarks.dev/tagged/batch-processing](https://www.bookmarks.dev/tagged/batch-processing)</sup></sup>_
 ---

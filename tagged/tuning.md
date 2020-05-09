@@ -1,4 +1,4 @@
-## Bookmarks tagged [[tuning]](https://www.bookmarks.dev?q=[tuning])
+## Bookmarks tagged [[tuning]](https://www.bookmarks.dev/search?q=[tuning])
 
 _<sup><sup>[www.bookmarks.dev/tagged/tuning](https://www.bookmarks.dev/tagged/tuning)</sup></sup>_
 ---

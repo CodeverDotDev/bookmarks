@@ -1,4 +1,4 @@
-## Bookmarks tagged [[watchos]](https://www.bookmarks.dev?q=[watchos])
+## Bookmarks tagged [[watchos]](https://www.bookmarks.dev/search?q=[watchos])
 
 _<sup><sup>[www.bookmarks.dev/tagged/watchos](https://www.bookmarks.dev/tagged/watchos)</sup></sup>_
 ---

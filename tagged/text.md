@@ -1,4 +1,4 @@
-## Bookmarks tagged [[text]](https://www.bookmarks.dev?q=[text])
+## Bookmarks tagged [[text]](https://www.bookmarks.dev/search?q=[text])
 
 _<sup><sup>[www.bookmarks.dev/tagged/text](https://www.bookmarks.dev/tagged/text)</sup></sup>_
 ---

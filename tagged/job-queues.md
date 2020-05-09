@@ -1,4 +1,4 @@
-## Bookmarks tagged [[job-queues]](https://www.bookmarks.dev?q=[job-queues])
+## Bookmarks tagged [[job-queues]](https://www.bookmarks.dev/search?q=[job-queues])
 
 _<sup><sup>[www.bookmarks.dev/tagged/job-queues](https://www.bookmarks.dev/tagged/job-queues)</sup></sup>_
 ---

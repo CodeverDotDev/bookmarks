@@ -1,4 +1,4 @@
-## Bookmarks tagged [[code-coverage]](https://www.bookmarks.dev?q=[code-coverage])
+## Bookmarks tagged [[code-coverage]](https://www.bookmarks.dev/search?q=[code-coverage])
 
 _<sup><sup>[www.bookmarks.dev/tagged/code-coverage](https://www.bookmarks.dev/tagged/code-coverage)</sup></sup>_
 ---

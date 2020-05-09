@@ -1,4 +1,4 @@
-## Bookmarks tagged [[throttling]](https://www.bookmarks.dev?q=[throttling])
+## Bookmarks tagged [[throttling]](https://www.bookmarks.dev/search?q=[throttling])
 
 _<sup><sup>[www.bookmarks.dev/tagged/throttling](https://www.bookmarks.dev/tagged/throttling)</sup></sup>_
 ---

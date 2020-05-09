@@ -1,6 +1,14 @@
-## Bookmarks tagged [[curl]](https://www.bookmarks.dev?q=[curl])
+## Bookmarks tagged [[curl]](https://www.bookmarks.dev/search?q=[curl])
 
 _<sup><sup>[www.bookmarks.dev/tagged/curl](https://www.bookmarks.dev/tagged/curl)</sup></sup>_
+---
+#### [How to test a REST api from command line with curl – CodepediaOrg](https://www.codepedia.org/ama/how-to-test-a-rest-api-from-command-line-with-curl/)
+_<sup>https://www.codepedia.org/ama/how-to-test-a-rest-api-from-command-line-with-curl/</sup>_
+
+This post presents examples of making CRUD HTTP calls against a backend REST API. The API chosen supports www.bookmarks.dev
+* :calendar: **published on**: 2014-12-03
+* **tags**: [curl](../tagged/curl.md), [rest](../tagged/rest.md), [api](../tagged/api.md)
+* :octocat: **[source code](https://github.com/CodepediaOrg/bookmarks.dev)**
 ---
 #### [jq home page](https://stedolan.github.io/jq/)
 _<sup>https://stedolan.github.io/jq/</sup>_

@@ -1,6 +1,45 @@
-## Bookmarks tagged [[javascript]](https://www.bookmarks.dev?q=[javascript])
+## Bookmarks tagged [[javascript]](https://www.bookmarks.dev/search?q=[javascript])
 
 _<sup><sup>[www.bookmarks.dev/tagged/javascript](https://www.bookmarks.dev/tagged/javascript)</sup></sup>_
+---
+#### [Using files from web applications - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/File/Using_files_from_web_applications)
+_<sup>https://developer.mozilla.org/en-US/docs/Web/API/File/Using_files_from_web_applications</sup>_
+
+Using the File API, which was added to the DOM in HTML5, it's now possible for web content to ask the user to select local files and then read the contents of those files. This selection can be done b...
+* **tags**: [html](../tagged/html.md), [form](../tagged/form.md), [javascript](../tagged/javascript.md)
+---
+#### [Cut and Copy Commands  |  Web  |  Google Developers](https://developers.google.com/web/updates/2015/04/cut-and-copy-commands)
+_<sup>https://developers.google.com/web/updates/2015/04/cut-and-copy-commands</sup>_
+
+IE10 and above added support for the 'cut' and 'copy' commands through the Document.execCommand() method. As of Chrome version 43, these commands are also supported in Chrome.
+
+Any text selected in th...
+* **tags**: [javascript](../tagged/javascript.md), [dom](../tagged/dom.md), [copy](../tagged/copy.md)
+---
+#### [Ace - The High Performance Code Editor for the Web - Home Page](https://ace.c9.io/)
+_<sup>https://ace.c9.io/</sup>_
+
+Ace is an embeddable code editor written in JavaScript. It matches the features and performance of native editors such as Sublime, Vim and TextMate. It can be easily embedded in any web page and JavaS...
+* **tags**: [editor](../tagged/editor.md), [ace-editor](../tagged/ace-editor.md), [javascript](../tagged/javascript.md)
+* :octocat: **[source code](https://github.com/ajaxorg/ace/)**
+---
+#### [Daily Dev Tips just for you - Daily Dev Tips](https://daily-dev-tips.com)
+_<sup>https://daily-dev-tips.com</sup>_
+
+Daily Dev Tips
+
+Daily dev tips for the development community!
+
+Get a daily development tip easy and simple to understand.
+* :calendar: **published on**: 2020-03-31
+* **tags**: [javascript](../tagged/javascript.md), [css](../tagged/css.md), [vanillajs](../tagged/vanillajs.md)
+---
+#### [Exploring set, get and Object.defineProperty in TypeScript](https://ultimatecourses.com/blog/typescript-setters-getter)
+_<sup>https://ultimatecourses.com/blog/typescript-setters-getter</sup>_
+
+When working with Javascript or TypeScript, you may have seen the `set` and `get` keywords being thrown around in various blogs or codebases - and they’re extremely useful for parsing or modifying dat...
+* :calendar: **published on**: 2017-09-26
+* **tags**: [javascript](../tagged/javascript.md), [typescript](../tagged/typescript.md), [angular](../tagged/angular.md)
 ---
 #### [toniov/p-iteration: Utilities that make array iteration easy when using async/await or Promises](https://github.com/toniov/p-iteration)
 _<sup>https://github.com/toniov/p-iteration</sup>_

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[nosql-couchdb]](https://www.bookmarks.dev?q=[nosql-couchdb])
+## Bookmarks tagged [[nosql-couchdb]](https://www.bookmarks.dev/search?q=[nosql-couchdb])
 
 _<sup><sup>[www.bookmarks.dev/tagged/nosql-couchdb](https://www.bookmarks.dev/tagged/nosql-couchdb)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[astronomy]](https://www.bookmarks.dev?q=[astronomy])
+## Bookmarks tagged [[astronomy]](https://www.bookmarks.dev/search?q=[astronomy])
 
 _<sup><sup>[www.bookmarks.dev/tagged/astronomy](https://www.bookmarks.dev/tagged/astronomy)</sup></sup>_
 ---

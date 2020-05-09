@@ -1,4 +1,4 @@
-## Bookmarks tagged [[partial-evaluation]](https://www.bookmarks.dev?q=[partial-evaluation])
+## Bookmarks tagged [[partial-evaluation]](https://www.bookmarks.dev/search?q=[partial-evaluation])
 
 _<sup><sup>[www.bookmarks.dev/tagged/partial-evaluation](https://www.bookmarks.dev/tagged/partial-evaluation)</sup></sup>_
 ---

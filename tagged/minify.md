@@ -1,4 +1,4 @@
-## Bookmarks tagged [[minify]](https://www.bookmarks.dev?q=[minify])
+## Bookmarks tagged [[minify]](https://www.bookmarks.dev/search?q=[minify])
 
 _<sup><sup>[www.bookmarks.dev/tagged/minify](https://www.bookmarks.dev/tagged/minify)</sup></sup>_
 ---

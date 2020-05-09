@@ -1,4 +1,4 @@
-## Bookmarks tagged [[eclipse]](https://www.bookmarks.dev?q=[eclipse])
+## Bookmarks tagged [[eclipse]](https://www.bookmarks.dev/search?q=[eclipse])
 
 _<sup><sup>[www.bookmarks.dev/tagged/eclipse](https://www.bookmarks.dev/tagged/eclipse)</sup></sup>_
 ---

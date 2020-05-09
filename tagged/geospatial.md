@@ -1,4 +1,4 @@
-## Bookmarks tagged [[geospatial]](https://www.bookmarks.dev?q=[geospatial])
+## Bookmarks tagged [[geospatial]](https://www.bookmarks.dev/search?q=[geospatial])
 
 _<sup><sup>[www.bookmarks.dev/tagged/geospatial](https://www.bookmarks.dev/tagged/geospatial)</sup></sup>_
 ---

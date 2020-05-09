@@ -1,4 +1,4 @@
-## Bookmarks tagged [[badge]](https://www.bookmarks.dev?q=[badge])
+## Bookmarks tagged [[badge]](https://www.bookmarks.dev/search?q=[badge])
 
 _<sup><sup>[www.bookmarks.dev/tagged/badge](https://www.bookmarks.dev/tagged/badge)</sup></sup>_
 ---

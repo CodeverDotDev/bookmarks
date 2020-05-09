@@ -1,4 +1,4 @@
-## Bookmarks tagged [[cuda]](https://www.bookmarks.dev?q=[cuda])
+## Bookmarks tagged [[cuda]](https://www.bookmarks.dev/search?q=[cuda])
 
 _<sup><sup>[www.bookmarks.dev/tagged/cuda](https://www.bookmarks.dev/tagged/cuda)</sup></sup>_
 ---

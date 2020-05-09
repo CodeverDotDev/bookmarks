@@ -1,4 +1,4 @@
-## Bookmarks tagged [[view-helpers]](https://www.bookmarks.dev?q=[view-helpers])
+## Bookmarks tagged [[view-helpers]](https://www.bookmarks.dev/search?q=[view-helpers])
 
 _<sup><sup>[www.bookmarks.dev/tagged/view-helpers](https://www.bookmarks.dev/tagged/view-helpers)</sup></sup>_
 ---

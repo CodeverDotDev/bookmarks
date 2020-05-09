@@ -1,4 +1,4 @@
-## Bookmarks tagged [[forever]](https://www.bookmarks.dev?q=[forever])
+## Bookmarks tagged [[forever]](https://www.bookmarks.dev/search?q=[forever])
 
 _<sup><sup>[www.bookmarks.dev/tagged/forever](https://www.bookmarks.dev/tagged/forever)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[zx-spectrum]](https://www.bookmarks.dev?q=[zx-spectrum])
+## Bookmarks tagged [[zx-spectrum]](https://www.bookmarks.dev/search?q=[zx-spectrum])
 
 _<sup><sup>[www.bookmarks.dev/tagged/zx-spectrum](https://www.bookmarks.dev/tagged/zx-spectrum)</sup></sup>_
 ---

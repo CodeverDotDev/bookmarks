@@ -1,4 +1,4 @@
-## Bookmarks tagged [[go]](https://www.bookmarks.dev?q=[go])
+## Bookmarks tagged [[go]](https://www.bookmarks.dev/search?q=[go])
 
 _<sup><sup>[www.bookmarks.dev/tagged/go](https://www.bookmarks.dev/tagged/go)</sup></sup>_
 ---
@@ -11846,13 +11846,6 @@ _<sup>https://go.libhunt.com</sup>_
 
 Your go-to Go Toolbox.
 * **tags**: [go](../tagged/go.md)
----
-#### [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job)
-_<sup>https://github.com/lukasz-madon/awesome-remote-job</sup>_
-
-Curated list of awesome remote jobs. A lot of them are looking for Go hackers.
-* **tags**: [go](../tagged/go.md)
-* :octocat: **[source code](https://github.com/lukasz-madon/awesome-remote-job)**
 ---
 #### [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
 _<sup>https://github.com/bayandin/awesome-awesomeness</sup>_

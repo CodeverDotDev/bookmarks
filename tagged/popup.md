@@ -1,4 +1,4 @@
-## Bookmarks tagged [[popup]](https://www.bookmarks.dev?q=[popup])
+## Bookmarks tagged [[popup]](https://www.bookmarks.dev/search?q=[popup])
 
 _<sup><sup>[www.bookmarks.dev/tagged/popup](https://www.bookmarks.dev/tagged/popup)</sup></sup>_
 ---

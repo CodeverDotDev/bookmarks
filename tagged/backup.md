@@ -1,4 +1,4 @@
-## Bookmarks tagged [[backup]](https://www.bookmarks.dev?q=[backup])
+## Bookmarks tagged [[backup]](https://www.bookmarks.dev/search?q=[backup])
 
 _<sup><sup>[www.bookmarks.dev/tagged/backup](https://www.bookmarks.dev/tagged/backup)</sup></sup>_
 ---

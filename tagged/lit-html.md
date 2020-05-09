@@ -1,4 +1,4 @@
-## Bookmarks tagged [[lit-html]](https://www.bookmarks.dev?q=[lit-html])
+## Bookmarks tagged [[lit-html]](https://www.bookmarks.dev/search?q=[lit-html])
 
 _<sup><sup>[www.bookmarks.dev/tagged/lit-html](https://www.bookmarks.dev/tagged/lit-html)</sup></sup>_
 ---

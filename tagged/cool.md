@@ -1,4 +1,4 @@
-## Bookmarks tagged [[cool]](https://www.bookmarks.dev?q=[cool])
+## Bookmarks tagged [[cool]](https://www.bookmarks.dev/search?q=[cool])
 
 _<sup><sup>[www.bookmarks.dev/tagged/cool](https://www.bookmarks.dev/tagged/cool)</sup></sup>_
 ---

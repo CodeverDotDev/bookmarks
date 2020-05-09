@@ -1,4 +1,4 @@
-## Bookmarks tagged [[parallelism]](https://www.bookmarks.dev?q=[parallelism])
+## Bookmarks tagged [[parallelism]](https://www.bookmarks.dev/search?q=[parallelism])
 
 _<sup><sup>[www.bookmarks.dev/tagged/parallelism](https://www.bookmarks.dev/tagged/parallelism)</sup></sup>_
 ---

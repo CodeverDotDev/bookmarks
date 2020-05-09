@@ -1,4 +1,4 @@
-## Bookmarks tagged [[serverless]](https://www.bookmarks.dev?q=[serverless])
+## Bookmarks tagged [[serverless]](https://www.bookmarks.dev/search?q=[serverless])
 
 _<sup><sup>[www.bookmarks.dev/tagged/serverless](https://www.bookmarks.dev/tagged/serverless)</sup></sup>_
 ---

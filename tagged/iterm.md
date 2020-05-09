@@ -1,4 +1,4 @@
-## Bookmarks tagged [[iterm]](https://www.bookmarks.dev?q=[iterm])
+## Bookmarks tagged [[iterm]](https://www.bookmarks.dev/search?q=[iterm])
 
 _<sup><sup>[www.bookmarks.dev/tagged/iterm](https://www.bookmarks.dev/tagged/iterm)</sup></sup>_
 ---

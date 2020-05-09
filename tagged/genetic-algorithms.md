@@ -1,4 +1,4 @@
-## Bookmarks tagged [[genetic-algorithms]](https://www.bookmarks.dev?q=[genetic-algorithms])
+## Bookmarks tagged [[genetic-algorithms]](https://www.bookmarks.dev/search?q=[genetic-algorithms])
 
 _<sup><sup>[www.bookmarks.dev/tagged/genetic-algorithms](https://www.bookmarks.dev/tagged/genetic-algorithms)</sup></sup>_
 ---

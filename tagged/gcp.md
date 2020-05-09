@@ -1,4 +1,4 @@
-## Bookmarks tagged [[gcp]](https://www.bookmarks.dev?q=[gcp])
+## Bookmarks tagged [[gcp]](https://www.bookmarks.dev/search?q=[gcp])
 
 _<sup><sup>[www.bookmarks.dev/tagged/gcp](https://www.bookmarks.dev/tagged/gcp)</sup></sup>_
 ---

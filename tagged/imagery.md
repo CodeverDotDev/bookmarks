@@ -1,4 +1,4 @@
-## Bookmarks tagged [[imagery]](https://www.bookmarks.dev?q=[imagery])
+## Bookmarks tagged [[imagery]](https://www.bookmarks.dev/search?q=[imagery])
 
 _<sup><sup>[www.bookmarks.dev/tagged/imagery](https://www.bookmarks.dev/tagged/imagery)</sup></sup>_
 ---

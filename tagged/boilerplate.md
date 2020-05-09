@@ -1,4 +1,4 @@
-## Bookmarks tagged [[boilerplate]](https://www.bookmarks.dev?q=[boilerplate])
+## Bookmarks tagged [[boilerplate]](https://www.bookmarks.dev/search?q=[boilerplate])
 
 _<sup><sup>[www.bookmarks.dev/tagged/boilerplate](https://www.bookmarks.dev/tagged/boilerplate)</sup></sup>_
 ---

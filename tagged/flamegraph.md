@@ -1,4 +1,4 @@
-## Bookmarks tagged [[flamegraph]](https://www.bookmarks.dev?q=[flamegraph])
+## Bookmarks tagged [[flamegraph]](https://www.bookmarks.dev/search?q=[flamegraph])
 
 _<sup><sup>[www.bookmarks.dev/tagged/flamegraph](https://www.bookmarks.dev/tagged/flamegraph)</sup></sup>_
 ---

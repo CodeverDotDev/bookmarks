@@ -1,4 +1,4 @@
-## Bookmarks tagged [[information-retrieval]](https://www.bookmarks.dev?q=[information-retrieval])
+## Bookmarks tagged [[information-retrieval]](https://www.bookmarks.dev/search?q=[information-retrieval])
 
 _<sup><sup>[www.bookmarks.dev/tagged/information-retrieval](https://www.bookmarks.dev/tagged/information-retrieval)</sup></sup>_
 ---

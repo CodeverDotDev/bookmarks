@@ -1,4 +1,4 @@
-## Bookmarks tagged [[server]](https://www.bookmarks.dev?q=[server])
+## Bookmarks tagged [[server]](https://www.bookmarks.dev/search?q=[server])
 
 _<sup><sup>[www.bookmarks.dev/tagged/server](https://www.bookmarks.dev/tagged/server)</sup></sup>_
 ---

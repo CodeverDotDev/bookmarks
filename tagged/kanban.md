@@ -1,4 +1,4 @@
-## Bookmarks tagged [[kanban]](https://www.bookmarks.dev?q=[kanban])
+## Bookmarks tagged [[kanban]](https://www.bookmarks.dev/search?q=[kanban])
 
 _<sup><sup>[www.bookmarks.dev/tagged/kanban](https://www.bookmarks.dev/tagged/kanban)</sup></sup>_
 ---

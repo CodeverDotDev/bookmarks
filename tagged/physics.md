@@ -1,4 +1,4 @@
-## Bookmarks tagged [[physics]](https://www.bookmarks.dev?q=[physics])
+## Bookmarks tagged [[physics]](https://www.bookmarks.dev/search?q=[physics])
 
 _<sup><sup>[www.bookmarks.dev/tagged/physics](https://www.bookmarks.dev/tagged/physics)</sup></sup>_
 ---

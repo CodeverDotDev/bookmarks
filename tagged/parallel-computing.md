@@ -1,4 +1,4 @@
-## Bookmarks tagged [[parallel-computing]](https://www.bookmarks.dev?q=[parallel-computing])
+## Bookmarks tagged [[parallel-computing]](https://www.bookmarks.dev/search?q=[parallel-computing])
 
 _<sup><sup>[www.bookmarks.dev/tagged/parallel-computing](https://www.bookmarks.dev/tagged/parallel-computing)</sup></sup>_
 ---

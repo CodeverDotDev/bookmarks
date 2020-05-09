@@ -1,6 +1,14 @@
-## Bookmarks tagged [[openapi]](https://www.bookmarks.dev?q=[openapi])
+## Bookmarks tagged [[openapi]](https://www.bookmarks.dev/search?q=[openapi])
 
 _<sup><sup>[www.bookmarks.dev/tagged/openapi](https://www.bookmarks.dev/tagged/openapi)</sup></sup>_
+---
+#### [Key takeaways when using Open API Specification 3 to document an ExpressJS API – CodepediaOrg](https://www.codepedia.org/ama/key-takeaways-when-using-oas-3-to-document-an-expressjs-rest-api)
+_<sup>https://www.codepedia.org/ama/key-takeaways-when-using-oas-3-to-document-an-expressjs-rest-api</sup>_
+
+Recently I’ve taken the time to update the API documentation for bookmarks.dev. I used the Swagger 2.0 (aka OAS 2) before and I decided to update to OpenAPI Specification (OAS) 3. In this post I will ...
+* :calendar: **published on**: 2020-02-20
+* **tags**: [openapi](../tagged/openapi.md), [expressjs](../tagged/expressjs.md), [nodejs](../tagged/nodejs.md)
+* :octocat: **[source code](https://github.com/CodepediaOrg/bookmarks.dev)**
 ---
 #### [Supported JSON Schema Keywords | Swagger](https://swagger.io/docs/specification/data-models/keywords/)
 _<sup>https://swagger.io/docs/specification/data-models/keywords/</sup>_

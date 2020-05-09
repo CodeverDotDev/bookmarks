@@ -1,4 +1,4 @@
-## Bookmarks tagged [[picolisp]](https://www.bookmarks.dev?q=[picolisp])
+## Bookmarks tagged [[picolisp]](https://www.bookmarks.dev/search?q=[picolisp])
 
 _<sup><sup>[www.bookmarks.dev/tagged/picolisp](https://www.bookmarks.dev/tagged/picolisp)</sup></sup>_
 ---

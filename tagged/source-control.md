@@ -1,4 +1,4 @@
-## Bookmarks tagged [[source-control]](https://www.bookmarks.dev?q=[source-control])
+## Bookmarks tagged [[source-control]](https://www.bookmarks.dev/search?q=[source-control])
 
 _<sup><sup>[www.bookmarks.dev/tagged/source-control](https://www.bookmarks.dev/tagged/source-control)</sup></sup>_
 ---

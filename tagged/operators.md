@@ -1,4 +1,4 @@
-## Bookmarks tagged [[operators]](https://www.bookmarks.dev?q=[operators])
+## Bookmarks tagged [[operators]](https://www.bookmarks.dev/search?q=[operators])
 
 _<sup><sup>[www.bookmarks.dev/tagged/operators](https://www.bookmarks.dev/tagged/operators)</sup></sup>_
 ---

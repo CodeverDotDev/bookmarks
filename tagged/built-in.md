@@ -1,4 +1,4 @@
-## Bookmarks tagged [[built-in]](https://www.bookmarks.dev?q=[built-in])
+## Bookmarks tagged [[built-in]](https://www.bookmarks.dev/search?q=[built-in])
 
 _<sup><sup>[www.bookmarks.dev/tagged/built-in](https://www.bookmarks.dev/tagged/built-in)</sup></sup>_
 ---

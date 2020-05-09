@@ -1,4 +1,4 @@
-## Bookmarks tagged [[metrics]](https://www.bookmarks.dev?q=[metrics])
+## Bookmarks tagged [[metrics]](https://www.bookmarks.dev/search?q=[metrics])
 
 _<sup><sup>[www.bookmarks.dev/tagged/metrics](https://www.bookmarks.dev/tagged/metrics)</sup></sup>_
 ---

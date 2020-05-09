@@ -1,4 +1,4 @@
-## Bookmarks tagged [[file-upload]](https://www.bookmarks.dev?q=[file-upload])
+## Bookmarks tagged [[file-upload]](https://www.bookmarks.dev/search?q=[file-upload])
 
 _<sup><sup>[www.bookmarks.dev/tagged/file-upload](https://www.bookmarks.dev/tagged/file-upload)</sup></sup>_
 ---

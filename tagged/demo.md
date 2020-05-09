@@ -1,4 +1,4 @@
-## Bookmarks tagged [[demo]](https://www.bookmarks.dev?q=[demo])
+## Bookmarks tagged [[demo]](https://www.bookmarks.dev/search?q=[demo])
 
 _<sup><sup>[www.bookmarks.dev/tagged/demo](https://www.bookmarks.dev/tagged/demo)</sup></sup>_
 ---

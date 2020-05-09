@@ -1,4 +1,4 @@
-## Bookmarks tagged [[configuration]](https://www.bookmarks.dev?q=[configuration])
+## Bookmarks tagged [[configuration]](https://www.bookmarks.dev/search?q=[configuration])
 
 _<sup><sup>[www.bookmarks.dev/tagged/configuration](https://www.bookmarks.dev/tagged/configuration)</sup></sup>_
 ---

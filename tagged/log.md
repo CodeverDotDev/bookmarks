@@ -1,4 +1,4 @@
-## Bookmarks tagged [[log]](https://www.bookmarks.dev?q=[log])
+## Bookmarks tagged [[log]](https://www.bookmarks.dev/search?q=[log])
 
 _<sup><sup>[www.bookmarks.dev/tagged/log](https://www.bookmarks.dev/tagged/log)</sup></sup>_
 ---

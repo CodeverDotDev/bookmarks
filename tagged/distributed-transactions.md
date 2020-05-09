@@ -1,4 +1,4 @@
-## Bookmarks tagged [[distributed-transactions]](https://www.bookmarks.dev?q=[distributed-transactions])
+## Bookmarks tagged [[distributed-transactions]](https://www.bookmarks.dev/search?q=[distributed-transactions])
 
 _<sup><sup>[www.bookmarks.dev/tagged/distributed-transactions](https://www.bookmarks.dev/tagged/distributed-transactions)</sup></sup>_
 ---

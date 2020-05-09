@@ -1,4 +1,4 @@
-## Bookmarks tagged [[qt]](https://www.bookmarks.dev?q=[qt])
+## Bookmarks tagged [[qt]](https://www.bookmarks.dev/search?q=[qt])
 
 _<sup><sup>[www.bookmarks.dev/tagged/qt](https://www.bookmarks.dev/tagged/qt)</sup></sup>_
 ---

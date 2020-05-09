@@ -1,4 +1,4 @@
-## Bookmarks tagged [[closures]](https://www.bookmarks.dev?q=[closures])
+## Bookmarks tagged [[closures]](https://www.bookmarks.dev/search?q=[closures])
 
 _<sup><sup>[www.bookmarks.dev/tagged/closures](https://www.bookmarks.dev/tagged/closures)</sup></sup>_
 ---

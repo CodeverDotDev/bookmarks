@@ -1,4 +1,4 @@
-## Bookmarks tagged [[querying]](https://www.bookmarks.dev?q=[querying])
+## Bookmarks tagged [[querying]](https://www.bookmarks.dev/search?q=[querying])
 
 _<sup><sup>[www.bookmarks.dev/tagged/querying](https://www.bookmarks.dev/tagged/querying)</sup></sup>_
 ---

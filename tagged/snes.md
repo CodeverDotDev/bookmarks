@@ -1,4 +1,4 @@
-## Bookmarks tagged [[snes]](https://www.bookmarks.dev?q=[snes])
+## Bookmarks tagged [[snes]](https://www.bookmarks.dev/search?q=[snes])
 
 _<sup><sup>[www.bookmarks.dev/tagged/snes](https://www.bookmarks.dev/tagged/snes)</sup></sup>_
 ---

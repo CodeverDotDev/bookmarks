@@ -1,4 +1,4 @@
-## Bookmarks tagged [[coding-style-tools]](https://www.bookmarks.dev?q=[coding-style-tools])
+## Bookmarks tagged [[coding-style-tools]](https://www.bookmarks.dev/search?q=[coding-style-tools])
 
 _<sup><sup>[www.bookmarks.dev/tagged/coding-style-tools](https://www.bookmarks.dev/tagged/coding-style-tools)</sup></sup>_
 ---

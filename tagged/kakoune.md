@@ -1,4 +1,4 @@
-## Bookmarks tagged [[kakoune]](https://www.bookmarks.dev?q=[kakoune])
+## Bookmarks tagged [[kakoune]](https://www.bookmarks.dev/search?q=[kakoune])
 
 _<sup><sup>[www.bookmarks.dev/tagged/kakoune](https://www.bookmarks.dev/tagged/kakoune)</sup></sup>_
 ---

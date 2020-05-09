@@ -1,4 +1,4 @@
-## Bookmarks tagged [[html-parsing]](https://www.bookmarks.dev?q=[html-parsing])
+## Bookmarks tagged [[html-parsing]](https://www.bookmarks.dev/search?q=[html-parsing])
 
 _<sup><sup>[www.bookmarks.dev/tagged/html-parsing](https://www.bookmarks.dev/tagged/html-parsing)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[key-value-store]](https://www.bookmarks.dev?q=[key-value-store])
+## Bookmarks tagged [[key-value-store]](https://www.bookmarks.dev/search?q=[key-value-store])
 
 _<sup><sup>[www.bookmarks.dev/tagged/key-value-store](https://www.bookmarks.dev/tagged/key-value-store)</sup></sup>_
 ---

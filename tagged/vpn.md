@@ -1,4 +1,4 @@
-## Bookmarks tagged [[vpn]](https://www.bookmarks.dev?q=[vpn])
+## Bookmarks tagged [[vpn]](https://www.bookmarks.dev/search?q=[vpn])
 
 _<sup><sup>[www.bookmarks.dev/tagged/vpn](https://www.bookmarks.dev/tagged/vpn)</sup></sup>_
 ---

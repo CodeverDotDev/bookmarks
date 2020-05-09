@@ -1,4 +1,4 @@
-## Bookmarks tagged [[archlinux]](https://www.bookmarks.dev?q=[archlinux])
+## Bookmarks tagged [[archlinux]](https://www.bookmarks.dev/search?q=[archlinux])
 
 _<sup><sup>[www.bookmarks.dev/tagged/archlinux](https://www.bookmarks.dev/tagged/archlinux)</sup></sup>_
 ---

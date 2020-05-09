@@ -1,4 +1,4 @@
-## Bookmarks tagged [[service-mesh]](https://www.bookmarks.dev?q=[service-mesh])
+## Bookmarks tagged [[service-mesh]](https://www.bookmarks.dev/search?q=[service-mesh])
 
 _<sup><sup>[www.bookmarks.dev/tagged/service-mesh](https://www.bookmarks.dev/tagged/service-mesh)</sup></sup>_
 ---

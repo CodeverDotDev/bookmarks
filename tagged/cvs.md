@@ -1,4 +1,4 @@
-## Bookmarks tagged [[cvs]](https://www.bookmarks.dev?q=[cvs])
+## Bookmarks tagged [[cvs]](https://www.bookmarks.dev/search?q=[cvs])
 
 _<sup><sup>[www.bookmarks.dev/tagged/cvs](https://www.bookmarks.dev/tagged/cvs)</sup></sup>_
 ---

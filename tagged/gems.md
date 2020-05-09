@@ -1,4 +1,4 @@
-## Bookmarks tagged [[gems]](https://www.bookmarks.dev?q=[gems])
+## Bookmarks tagged [[gems]](https://www.bookmarks.dev/search?q=[gems])
 
 _<sup><sup>[www.bookmarks.dev/tagged/gems](https://www.bookmarks.dev/tagged/gems)</sup></sup>_
 ---

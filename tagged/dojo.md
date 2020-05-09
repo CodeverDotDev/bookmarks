@@ -1,4 +1,4 @@
-## Bookmarks tagged [[dojo]](https://www.bookmarks.dev?q=[dojo])
+## Bookmarks tagged [[dojo]](https://www.bookmarks.dev/search?q=[dojo])
 
 _<sup><sup>[www.bookmarks.dev/tagged/dojo](https://www.bookmarks.dev/tagged/dojo)</sup></sup>_
 ---

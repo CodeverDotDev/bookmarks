@@ -1,6 +1,18 @@
-## Bookmarks tagged [[agile]](https://www.bookmarks.dev?q=[agile])
+## Bookmarks tagged [[agile]](https://www.bookmarks.dev/search?q=[agile])
 
 _<sup><sup>[www.bookmarks.dev/tagged/agile](https://www.bookmarks.dev/tagged/agile)</sup></sup>_
+---
+#### [Agile Testing Mindset and the Role of the Agile Tester](https://devqa.io/agile/agile-testing-mindset-tester-role-agile-team/)
+_<sup>https://devqa.io/agile/agile-testing-mindset-tester-role-agile-team/</sup>_
+
+In an Agile team, testers must closely collaborate with all other team members and with business stakeholders. This has a number of implications in terms of the skills a tester must have and the activ...
+* **tags**: [testing](../tagged/testing.md), [agile](../tagged/agile.md)
+---
+#### [Scrum - what it is, how it works, and why it's awesome](https://www.atlassian.com/agile/scrum)
+_<sup>https://www.atlassian.com/agile/scrum</sup>_
+
+Scrum is a framework that helps teams work together. Much like a rugby team (where it gets its name) training for the big game, Scrum encourages teams to learn through experiences, self-organize while...
+* **tags**: [scrum](../tagged/scrum.md), [agile](../tagged/agile.md)
 ---
 #### [ A Simple Way to Run a Sprint Retrospective](https://www.mountaingoatsoftware.com/blog/a-simple-way-to-run-a-sprint-retrospective)
 _<sup>https://www.mountaingoatsoftware.com/blog/a-simple-way-to-run-a-sprint-retrospective</sup>_

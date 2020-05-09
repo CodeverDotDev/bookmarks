@@ -1,6 +1,27 @@
-## Bookmarks tagged [[typescript]](https://www.bookmarks.dev?q=[typescript])
+## Bookmarks tagged [[typescript]](https://www.bookmarks.dev/search?q=[typescript])
 
 _<sup><sup>[www.bookmarks.dev/tagged/typescript](https://www.bookmarks.dev/tagged/typescript)</sup></sup>_
+---
+#### [GitHub - fxmontigny/ng2-ace-editor](https://github.com/fxmontigny/ng2-ace-editor)
+_<sup>https://github.com/fxmontigny/ng2-ace-editor</sup>_
+
+Ace editor integration with typescript for angular 4 - 5 - fxmontigny/ng2-ace-editor
+* **tags**: [ace-editor](../tagged/ace-editor.md), [angular](../tagged/angular.md), [typescript](../tagged/typescript.md)
+* :octocat: **[source code](Cache Object Script)**
+---
+#### [Angular 5 - Copy to clipboard](https://stackoverflow.com/questions/49102724/angular-5-copy-to-clipboard/52949299#52949299)
+_<sup>https://stackoverflow.com/questions/49102724/angular-5-copy-to-clipboard/52949299#52949299</sup>_
+
+Several solutions are presented.
+* :calendar: **published on**: 2018-03-05
+* **tags**: [angular](../tagged/angular.md), [typescript](../tagged/typescript.md)
+---
+#### [Exploring set, get and Object.defineProperty in TypeScript](https://ultimatecourses.com/blog/typescript-setters-getter)
+_<sup>https://ultimatecourses.com/blog/typescript-setters-getter</sup>_
+
+When working with Javascript or TypeScript, you may have seen the `set` and `get` keywords being thrown around in various blogs or codebases - and they’re extremely useful for parsing or modifying dat...
+* :calendar: **published on**: 2017-09-26
+* **tags**: [javascript](../tagged/javascript.md), [typescript](../tagged/typescript.md), [angular](../tagged/angular.md)
 ---
 #### [GitHub - cotag/ts-md5: Type Script MD5 implemenation](https://github.com/cotag/ts-md5)
 _<sup>https://github.com/cotag/ts-md5</sup>_

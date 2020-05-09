@@ -1,4 +1,4 @@
-## Bookmarks tagged [[css-preprocessor]](https://www.bookmarks.dev?q=[css-preprocessor])
+## Bookmarks tagged [[css-preprocessor]](https://www.bookmarks.dev/search?q=[css-preprocessor])
 
 _<sup><sup>[www.bookmarks.dev/tagged/css-preprocessor](https://www.bookmarks.dev/tagged/css-preprocessor)</sup></sup>_
 ---

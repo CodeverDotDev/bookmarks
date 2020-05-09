@@ -1,4 +1,4 @@
-## Bookmarks tagged [[compiler-design]](https://www.bookmarks.dev?q=[compiler-design])
+## Bookmarks tagged [[compiler-design]](https://www.bookmarks.dev/search?q=[compiler-design])
 
 _<sup><sup>[www.bookmarks.dev/tagged/compiler-design](https://www.bookmarks.dev/tagged/compiler-design)</sup></sup>_
 ---

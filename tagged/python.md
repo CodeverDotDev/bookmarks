@@ -1,4 +1,4 @@
-## Bookmarks tagged [[python]](https://www.bookmarks.dev?q=[python])
+## Bookmarks tagged [[python]](https://www.bookmarks.dev/search?q=[python])
 
 _<sup><sup>[www.bookmarks.dev/tagged/python](https://www.bookmarks.dev/tagged/python)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[kubernetes-helm]](https://www.bookmarks.dev?q=[kubernetes-helm])
+## Bookmarks tagged [[kubernetes-helm]](https://www.bookmarks.dev/search?q=[kubernetes-helm])
 
 _<sup><sup>[www.bookmarks.dev/tagged/kubernetes-helm](https://www.bookmarks.dev/tagged/kubernetes-helm)</sup></sup>_
 ---

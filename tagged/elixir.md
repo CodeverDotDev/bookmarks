@@ -1,4 +1,4 @@
-## Bookmarks tagged [[elixir]](https://www.bookmarks.dev?q=[elixir])
+## Bookmarks tagged [[elixir]](https://www.bookmarks.dev/search?q=[elixir])
 
 _<sup><sup>[www.bookmarks.dev/tagged/elixir](https://www.bookmarks.dev/tagged/elixir)</sup></sup>_
 ---

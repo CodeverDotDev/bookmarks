@@ -1,6 +1,13 @@
-## Bookmarks tagged [[junit]](https://www.bookmarks.dev?q=[junit])
+## Bookmarks tagged [[junit]](https://www.bookmarks.dev/search?q=[junit])
 
 _<sup><sup>[www.bookmarks.dev/tagged/junit](https://www.bookmarks.dev/tagged/junit)</sup></sup>_
+---
+#### [JUnit 5: Die Neuerungen im Überblick ](https://blog.oio.de/2016/11/29/junit-5-die-neuerungen-im-uberblick/)
+_<sup>https://blog.oio.de/2016/11/29/junit-5-die-neuerungen-im-uberblick/</sup>_
+
+Einführung in JUnit5
+* :calendar: **published on**: 2016-11-29
+* **tags**: [testing](../tagged/testing.md), [junit](../tagged/junit.md), [junit5](../tagged/junit5.md)
 ---
 #### [JUnit 5 Articles and source code from Baeldung](https://github.com/eugenp/tutorials/tree/master/testing-modules/junit-5)
 _<sup>https://github.com/eugenp/tutorials/tree/master/testing-modules/junit-5</sup>_

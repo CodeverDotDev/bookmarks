@@ -1,4 +1,4 @@
-## Bookmarks tagged [[tls]](https://www.bookmarks.dev?q=[tls])
+## Bookmarks tagged [[tls]](https://www.bookmarks.dev/search?q=[tls])
 
 _<sup><sup>[www.bookmarks.dev/tagged/tls](https://www.bookmarks.dev/tagged/tls)</sup></sup>_
 ---

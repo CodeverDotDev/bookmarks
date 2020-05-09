@@ -1,4 +1,4 @@
-## Bookmarks tagged [[menu]](https://www.bookmarks.dev?q=[menu])
+## Bookmarks tagged [[menu]](https://www.bookmarks.dev/search?q=[menu])
 
 _<sup><sup>[www.bookmarks.dev/tagged/menu](https://www.bookmarks.dev/tagged/menu)</sup></sup>_
 ---

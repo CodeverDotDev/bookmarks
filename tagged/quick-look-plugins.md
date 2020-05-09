@@ -1,4 +1,4 @@
-## Bookmarks tagged [[quick-look-plugins]](https://www.bookmarks.dev?q=[quick-look-plugins])
+## Bookmarks tagged [[quick-look-plugins]](https://www.bookmarks.dev/search?q=[quick-look-plugins])
 
 _<sup><sup>[www.bookmarks.dev/tagged/quick-look-plugins](https://www.bookmarks.dev/tagged/quick-look-plugins)</sup></sup>_
 ---

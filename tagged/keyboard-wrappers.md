@@ -1,4 +1,4 @@
-## Bookmarks tagged [[keyboard-wrappers]](https://www.bookmarks.dev?q=[keyboard-wrappers])
+## Bookmarks tagged [[keyboard-wrappers]](https://www.bookmarks.dev/search?q=[keyboard-wrappers])
 
 _<sup><sup>[www.bookmarks.dev/tagged/keyboard-wrappers](https://www.bookmarks.dev/tagged/keyboard-wrappers)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[node]](https://www.bookmarks.dev?q=[node])
+## Bookmarks tagged [[node]](https://www.bookmarks.dev/search?q=[node])
 
 _<sup><sup>[www.bookmarks.dev/tagged/node](https://www.bookmarks.dev/tagged/node)</sup></sup>_
 ---

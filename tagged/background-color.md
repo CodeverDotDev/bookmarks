@@ -1,4 +1,4 @@
-## Bookmarks tagged [[background-color]](https://www.bookmarks.dev?q=[background-color])
+## Bookmarks tagged [[background-color]](https://www.bookmarks.dev/search?q=[background-color])
 
 _<sup><sup>[www.bookmarks.dev/tagged/background-color](https://www.bookmarks.dev/tagged/background-color)</sup></sup>_
 ---

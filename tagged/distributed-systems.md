@@ -1,4 +1,4 @@
-## Bookmarks tagged [[distributed-systems]](https://www.bookmarks.dev?q=[distributed-systems])
+## Bookmarks tagged [[distributed-systems]](https://www.bookmarks.dev/search?q=[distributed-systems])
 
 _<sup><sup>[www.bookmarks.dev/tagged/distributed-systems](https://www.bookmarks.dev/tagged/distributed-systems)</sup></sup>_
 ---

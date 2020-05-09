@@ -1,4 +1,4 @@
-## Bookmarks tagged [[backend]](https://www.bookmarks.dev?q=[backend])
+## Bookmarks tagged [[backend]](https://www.bookmarks.dev/search?q=[backend])
 
 _<sup><sup>[www.bookmarks.dev/tagged/backend](https://www.bookmarks.dev/tagged/backend)</sup></sup>_
 ---

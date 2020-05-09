@@ -1,6 +1,14 @@
-## Bookmarks tagged [[nginx]](https://www.bookmarks.dev?q=[nginx])
+## Bookmarks tagged [[nginx]](https://www.bookmarks.dev/search?q=[nginx])
 
 _<sup><sup>[www.bookmarks.dev/tagged/nginx](https://www.bookmarks.dev/tagged/nginx)</sup></sup>_
+---
+#### [Nginx Proxy: upstream sent too big header while reading response header from upstream](https://ma.ttias.be/nginx-proxy-upstream-sent-big-header-reading-response-header-upstream/)
+_<sup>https://ma.ttias.be/nginx-proxy-upstream-sent-big-header-reading-response-header-upstream/</sup>_
+
+    proxy_buffer_size          128k;
+    proxy_buffers              4 256k;
+    proxy_busy_buffers_size    256k;
+* **tags**: [nginx](../tagged/nginx.md)
 ---
 #### [NGINX Ingress Controller Home Page](https://kubernetes.github.io/ingress-nginx/)
 _<sup>https://kubernetes.github.io/ingress-nginx/</sup>_

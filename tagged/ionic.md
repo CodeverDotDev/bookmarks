@@ -1,4 +1,4 @@
-## Bookmarks tagged [[ionic]](https://www.bookmarks.dev?q=[ionic])
+## Bookmarks tagged [[ionic]](https://www.bookmarks.dev/search?q=[ionic])
 
 _<sup><sup>[www.bookmarks.dev/tagged/ionic](https://www.bookmarks.dev/tagged/ionic)</sup></sup>_
 ---

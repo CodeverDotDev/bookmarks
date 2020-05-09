@@ -1,4 +1,4 @@
-## Bookmarks tagged [[certificate]](https://www.bookmarks.dev?q=[certificate])
+## Bookmarks tagged [[certificate]](https://www.bookmarks.dev/search?q=[certificate])
 
 _<sup><sup>[www.bookmarks.dev/tagged/certificate](https://www.bookmarks.dev/tagged/certificate)</sup></sup>_
 ---

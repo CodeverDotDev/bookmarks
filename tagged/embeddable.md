@@ -1,4 +1,4 @@
-## Bookmarks tagged [[embeddable]](https://www.bookmarks.dev?q=[embeddable])
+## Bookmarks tagged [[embeddable]](https://www.bookmarks.dev/search?q=[embeddable])
 
 _<sup><sup>[www.bookmarks.dev/tagged/embeddable](https://www.bookmarks.dev/tagged/embeddable)</sup></sup>_
 ---

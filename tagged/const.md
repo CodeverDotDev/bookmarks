@@ -1,4 +1,4 @@
-## Bookmarks tagged [[const]](https://www.bookmarks.dev?q=[const])
+## Bookmarks tagged [[const]](https://www.bookmarks.dev/search?q=[const])
 
 _<sup><sup>[www.bookmarks.dev/tagged/const](https://www.bookmarks.dev/tagged/const)</sup></sup>_
 ---

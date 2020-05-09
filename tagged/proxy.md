@@ -1,4 +1,4 @@
-## Bookmarks tagged [[proxy]](https://www.bookmarks.dev?q=[proxy])
+## Bookmarks tagged [[proxy]](https://www.bookmarks.dev/search?q=[proxy])
 
 _<sup><sup>[www.bookmarks.dev/tagged/proxy](https://www.bookmarks.dev/tagged/proxy)</sup></sup>_
 ---

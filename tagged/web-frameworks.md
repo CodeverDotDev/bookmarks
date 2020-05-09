@@ -1,4 +1,4 @@
-## Bookmarks tagged [[web-frameworks]](https://www.bookmarks.dev?q=[web-frameworks])
+## Bookmarks tagged [[web-frameworks]](https://www.bookmarks.dev/search?q=[web-frameworks])
 
 _<sup><sup>[www.bookmarks.dev/tagged/web-frameworks](https://www.bookmarks.dev/tagged/web-frameworks)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[image]](https://www.bookmarks.dev?q=[image])
+## Bookmarks tagged [[image]](https://www.bookmarks.dev/search?q=[image])
 
 _<sup><sup>[www.bookmarks.dev/tagged/image](https://www.bookmarks.dev/tagged/image)</sup></sup>_
 ---

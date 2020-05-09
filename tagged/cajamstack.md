@@ -1,4 +1,4 @@
-## Bookmarks tagged [[cajamstack]](https://www.bookmarks.dev?q=[cajamstack])
+## Bookmarks tagged [[cajamstack]](https://www.bookmarks.dev/search?q=[cajamstack])
 
 _<sup><sup>[www.bookmarks.dev/tagged/cajamstack](https://www.bookmarks.dev/tagged/cajamstack)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[flux]](https://www.bookmarks.dev?q=[flux])
+## Bookmarks tagged [[flux]](https://www.bookmarks.dev/search?q=[flux])
 
 _<sup><sup>[www.bookmarks.dev/tagged/flux](https://www.bookmarks.dev/tagged/flux)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[community]](https://www.bookmarks.dev?q=[community])
+## Bookmarks tagged [[community]](https://www.bookmarks.dev/search?q=[community])
 
 _<sup><sup>[www.bookmarks.dev/tagged/community](https://www.bookmarks.dev/tagged/community)</sup></sup>_
 ---

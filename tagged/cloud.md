@@ -1,6 +1,12 @@
-## Bookmarks tagged [[cloud]](https://www.bookmarks.dev?q=[cloud])
+## Bookmarks tagged [[cloud]](https://www.bookmarks.dev/search?q=[cloud])
 
 _<sup><sup>[www.bookmarks.dev/tagged/cloud](https://www.bookmarks.dev/tagged/cloud)</sup></sup>_
+---
+#### [Defining Cloud Native | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/definition)
+_<sup>https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/definition</sup>_
+
+Stop what you’re doing and text 10 of your colleagues. Ask them to define the term “Cloud Native.” Good chance you’ll get eight different answers. Interestingly, six months from now, as cloud-native t...
+* **tags**: [cloud](../tagged/cloud.md), [cloud-computing](../tagged/cloud-computing.md)
 ---
 #### [Cloudant - Overview  | IBM](https://www.ibm.com/cloud/cloudant)
 _<sup>https://www.ibm.com/cloud/cloudant</sup>_

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[draftjs]](https://www.bookmarks.dev?q=[draftjs])
+## Bookmarks tagged [[draftjs]](https://www.bookmarks.dev/search?q=[draftjs])
 
 _<sup><sup>[www.bookmarks.dev/tagged/draftjs](https://www.bookmarks.dev/tagged/draftjs)</sup></sup>_
 ---

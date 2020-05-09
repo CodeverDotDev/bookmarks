@@ -1,4 +1,4 @@
-## Bookmarks tagged [[skaffold]](https://www.bookmarks.dev?q=[skaffold])
+## Bookmarks tagged [[skaffold]](https://www.bookmarks.dev/search?q=[skaffold])
 
 _<sup><sup>[www.bookmarks.dev/tagged/skaffold](https://www.bookmarks.dev/tagged/skaffold)</sup></sup>_
 ---

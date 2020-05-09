@@ -1,4 +1,4 @@
-## Bookmarks tagged [[competitive-programming]](https://www.bookmarks.dev?q=[competitive-programming])
+## Bookmarks tagged [[competitive-programming]](https://www.bookmarks.dev/search?q=[competitive-programming])
 
 _<sup><sup>[www.bookmarks.dev/tagged/competitive-programming](https://www.bookmarks.dev/tagged/competitive-programming)</sup></sup>_
 ---

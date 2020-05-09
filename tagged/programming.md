@@ -1,6 +1,12 @@
-## Bookmarks tagged [[programming]](https://www.bookmarks.dev?q=[programming])
+## Bookmarks tagged [[programming]](https://www.bookmarks.dev/search?q=[programming])
 
 _<sup><sup>[www.bookmarks.dev/tagged/programming](https://www.bookmarks.dev/tagged/programming)</sup></sup>_
+---
+#### [Hipsters Ponto Tech - Discussões acaloradas sobre startups, programação, ux, gadgets e as últimas tendências em tecnologia.Hipsters Ponto Tech](https://hipsters.tech/)
+_<sup>https://hipsters.tech/</sup>_
+
+Discussões acaloradas sobre startups, programação, ux, gadgets e as últimas tendências em tecnologia.
+* **tags**: [podcasts](../tagged/podcasts.md), [programming](../tagged/programming.md), [ux](../tagged/ux.md), [gadgets](../tagged/gadgets.md), [startup](../tagged/startup.md)
 ---
 #### [Tools | the New DynamicTwitter_Logo_Blue](https://www.thenewdynamic.org/tool/)
 _<sup>https://www.thenewdynamic.org/tool/</sup>_

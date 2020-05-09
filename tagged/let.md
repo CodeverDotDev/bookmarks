@@ -1,4 +1,4 @@
-## Bookmarks tagged [[let]](https://www.bookmarks.dev?q=[let])
+## Bookmarks tagged [[let]](https://www.bookmarks.dev/search?q=[let])
 
 _<sup><sup>[www.bookmarks.dev/tagged/let](https://www.bookmarks.dev/tagged/let)</sup></sup>_
 ---

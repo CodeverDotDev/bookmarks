@@ -1,4 +1,4 @@
-## Bookmarks tagged [[bem]](https://www.bookmarks.dev?q=[bem])
+## Bookmarks tagged [[bem]](https://www.bookmarks.dev/search?q=[bem])
 
 _<sup><sup>[www.bookmarks.dev/tagged/bem](https://www.bookmarks.dev/tagged/bem)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[github-actions]](https://www.bookmarks.dev?q=[github-actions])
+## Bookmarks tagged [[github-actions]](https://www.bookmarks.dev/search?q=[github-actions])
 
 _<sup><sup>[www.bookmarks.dev/tagged/github-actions](https://www.bookmarks.dev/tagged/github-actions)</sup></sup>_
 ---

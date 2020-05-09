@@ -1,4 +1,4 @@
-## Bookmarks tagged [[ide]](https://www.bookmarks.dev?q=[ide])
+## Bookmarks tagged [[ide]](https://www.bookmarks.dev/search?q=[ide])
 
 _<sup><sup>[www.bookmarks.dev/tagged/ide](https://www.bookmarks.dev/tagged/ide)</sup></sup>_
 ---

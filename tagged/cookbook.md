@@ -1,4 +1,4 @@
-## Bookmarks tagged [[cookbook]](https://www.bookmarks.dev?q=[cookbook])
+## Bookmarks tagged [[cookbook]](https://www.bookmarks.dev/search?q=[cookbook])
 
 _<sup><sup>[www.bookmarks.dev/tagged/cookbook](https://www.bookmarks.dev/tagged/cookbook)</sup></sup>_
 ---

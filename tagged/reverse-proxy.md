@@ -1,4 +1,4 @@
-## Bookmarks tagged [[reverse-proxy]](https://www.bookmarks.dev?q=[reverse-proxy])
+## Bookmarks tagged [[reverse-proxy]](https://www.bookmarks.dev/search?q=[reverse-proxy])
 
 _<sup><sup>[www.bookmarks.dev/tagged/reverse-proxy](https://www.bookmarks.dev/tagged/reverse-proxy)</sup></sup>_
 ---

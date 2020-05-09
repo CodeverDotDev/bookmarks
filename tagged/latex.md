@@ -1,4 +1,4 @@
-## Bookmarks tagged [[latex]](https://www.bookmarks.dev?q=[latex])
+## Bookmarks tagged [[latex]](https://www.bookmarks.dev/search?q=[latex])
 
 _<sup><sup>[www.bookmarks.dev/tagged/latex](https://www.bookmarks.dev/tagged/latex)</sup></sup>_
 ---

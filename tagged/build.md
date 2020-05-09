@@ -1,4 +1,4 @@
-## Bookmarks tagged [[build]](https://www.bookmarks.dev?q=[build])
+## Bookmarks tagged [[build]](https://www.bookmarks.dev/search?q=[build])
 
 _<sup><sup>[www.bookmarks.dev/tagged/build](https://www.bookmarks.dev/tagged/build)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[orm]](https://www.bookmarks.dev?q=[orm])
+## Bookmarks tagged [[orm]](https://www.bookmarks.dev/search?q=[orm])
 
 _<sup><sup>[www.bookmarks.dev/tagged/orm](https://www.bookmarks.dev/tagged/orm)</sup></sup>_
 ---

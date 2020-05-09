@@ -1,4 +1,4 @@
-## Bookmarks tagged [[slugify]](https://www.bookmarks.dev?q=[slugify])
+## Bookmarks tagged [[slugify]](https://www.bookmarks.dev/search?q=[slugify])
 
 _<sup><sup>[www.bookmarks.dev/tagged/slugify](https://www.bookmarks.dev/tagged/slugify)</sup></sup>_
 ---

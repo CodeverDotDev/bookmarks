@@ -1,4 +1,4 @@
-## Bookmarks tagged [[istio]](https://www.bookmarks.dev?q=[istio])
+## Bookmarks tagged [[istio]](https://www.bookmarks.dev/search?q=[istio])
 
 _<sup><sup>[www.bookmarks.dev/tagged/istio](https://www.bookmarks.dev/tagged/istio)</sup></sup>_
 ---

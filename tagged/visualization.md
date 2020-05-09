@@ -1,4 +1,4 @@
-## Bookmarks tagged [[visualization]](https://www.bookmarks.dev?q=[visualization])
+## Bookmarks tagged [[visualization]](https://www.bookmarks.dev/search?q=[visualization])
 
 _<sup><sup>[www.bookmarks.dev/tagged/visualization](https://www.bookmarks.dev/tagged/visualization)</sup></sup>_
 ---

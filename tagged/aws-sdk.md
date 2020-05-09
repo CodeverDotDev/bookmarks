@@ -1,4 +1,4 @@
-## Bookmarks tagged [[aws-sdk]](https://www.bookmarks.dev?q=[aws-sdk])
+## Bookmarks tagged [[aws-sdk]](https://www.bookmarks.dev/search?q=[aws-sdk])
 
 _<sup><sup>[www.bookmarks.dev/tagged/aws-sdk](https://www.bookmarks.dev/tagged/aws-sdk)</sup></sup>_
 ---

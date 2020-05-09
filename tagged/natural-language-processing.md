@@ -1,4 +1,4 @@
-## Bookmarks tagged [[natural-language-processing]](https://www.bookmarks.dev?q=[natural-language-processing])
+## Bookmarks tagged [[natural-language-processing]](https://www.bookmarks.dev/search?q=[natural-language-processing])
 
 _<sup><sup>[www.bookmarks.dev/tagged/natural-language-processing](https://www.bookmarks.dev/tagged/natural-language-processing)</sup></sup>_
 ---

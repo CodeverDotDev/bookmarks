@@ -1,4 +1,4 @@
-## Bookmarks tagged [[nanomsg]](https://www.bookmarks.dev?q=[nanomsg])
+## Bookmarks tagged [[nanomsg]](https://www.bookmarks.dev/search?q=[nanomsg])
 
 _<sup><sup>[www.bookmarks.dev/tagged/nanomsg](https://www.bookmarks.dev/tagged/nanomsg)</sup></sup>_
 ---

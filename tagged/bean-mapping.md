@@ -1,4 +1,4 @@
-## Bookmarks tagged [[bean-mapping]](https://www.bookmarks.dev?q=[bean-mapping])
+## Bookmarks tagged [[bean-mapping]](https://www.bookmarks.dev/search?q=[bean-mapping])
 
 _<sup><sup>[www.bookmarks.dev/tagged/bean-mapping](https://www.bookmarks.dev/tagged/bean-mapping)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[crontab]](https://www.bookmarks.dev?q=[crontab])
+## Bookmarks tagged [[crontab]](https://www.bookmarks.dev/search?q=[crontab])
 
 _<sup><sup>[www.bookmarks.dev/tagged/crontab](https://www.bookmarks.dev/tagged/crontab)</sup></sup>_
 ---

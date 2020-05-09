@@ -1,4 +1,4 @@
-## Bookmarks tagged [[stomp]](https://www.bookmarks.dev?q=[stomp])
+## Bookmarks tagged [[stomp]](https://www.bookmarks.dev/search?q=[stomp])
 
 _<sup><sup>[www.bookmarks.dev/tagged/stomp](https://www.bookmarks.dev/tagged/stomp)</sup></sup>_
 ---

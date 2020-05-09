@@ -1,4 +1,4 @@
-## Bookmarks tagged [[awk]](https://www.bookmarks.dev?q=[awk])
+## Bookmarks tagged [[awk]](https://www.bookmarks.dev/search?q=[awk])
 
 _<sup><sup>[www.bookmarks.dev/tagged/awk](https://www.bookmarks.dev/tagged/awk)</sup></sup>_
 ---

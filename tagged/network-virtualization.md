@@ -1,4 +1,4 @@
-## Bookmarks tagged [[network-virtualization]](https://www.bookmarks.dev?q=[network-virtualization])
+## Bookmarks tagged [[network-virtualization]](https://www.bookmarks.dev/search?q=[network-virtualization])
 
 _<sup><sup>[www.bookmarks.dev/tagged/network-virtualization](https://www.bookmarks.dev/tagged/network-virtualization)</sup></sup>_
 ---

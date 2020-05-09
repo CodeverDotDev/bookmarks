@@ -1,4 +1,4 @@
-## Bookmarks tagged [[database-tools]](https://www.bookmarks.dev?q=[database-tools])
+## Bookmarks tagged [[database-tools]](https://www.bookmarks.dev/search?q=[database-tools])
 
 _<sup><sup>[www.bookmarks.dev/tagged/database-tools](https://www.bookmarks.dev/tagged/database-tools)</sup></sup>_
 ---

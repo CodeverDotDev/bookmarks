@@ -1,4 +1,4 @@
-## Bookmarks tagged [[winston]](https://www.bookmarks.dev?q=[winston])
+## Bookmarks tagged [[winston]](https://www.bookmarks.dev/search?q=[winston])
 
 _<sup><sup>[www.bookmarks.dev/tagged/winston](https://www.bookmarks.dev/tagged/winston)</sup></sup>_
 ---

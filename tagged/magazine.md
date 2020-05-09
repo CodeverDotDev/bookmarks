@@ -1,4 +1,4 @@
-## Bookmarks tagged [[magazine]](https://www.bookmarks.dev?q=[magazine])
+## Bookmarks tagged [[magazine]](https://www.bookmarks.dev/search?q=[magazine])
 
 _<sup><sup>[www.bookmarks.dev/tagged/magazine](https://www.bookmarks.dev/tagged/magazine)</sup></sup>_
 ---

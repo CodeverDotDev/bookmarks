@@ -1,4 +1,4 @@
-## Bookmarks tagged [[minecraft]](https://www.bookmarks.dev?q=[minecraft])
+## Bookmarks tagged [[minecraft]](https://www.bookmarks.dev/search?q=[minecraft])
 
 _<sup><sup>[www.bookmarks.dev/tagged/minecraft](https://www.bookmarks.dev/tagged/minecraft)</sup></sup>_
 ---

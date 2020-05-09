@@ -1,4 +1,4 @@
-## Bookmarks tagged [[parsing]](https://www.bookmarks.dev?q=[parsing])
+## Bookmarks tagged [[parsing]](https://www.bookmarks.dev/search?q=[parsing])
 
 _<sup><sup>[www.bookmarks.dev/tagged/parsing](https://www.bookmarks.dev/tagged/parsing)</sup></sup>_
 ---

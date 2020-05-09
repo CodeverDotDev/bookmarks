@@ -1,4 +1,4 @@
-## Bookmarks tagged [[swagger-ui]](https://www.bookmarks.dev?q=[swagger-ui])
+## Bookmarks tagged [[swagger-ui]](https://www.bookmarks.dev/search?q=[swagger-ui])
 
 _<sup><sup>[www.bookmarks.dev/tagged/swagger-ui](https://www.bookmarks.dev/tagged/swagger-ui)</sup></sup>_
 ---

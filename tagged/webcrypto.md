@@ -1,4 +1,4 @@
-## Bookmarks tagged [[webcrypto]](https://www.bookmarks.dev?q=[webcrypto])
+## Bookmarks tagged [[webcrypto]](https://www.bookmarks.dev/search?q=[webcrypto])
 
 _<sup><sup>[www.bookmarks.dev/tagged/webcrypto](https://www.bookmarks.dev/tagged/webcrypto)</sup></sup>_
 ---

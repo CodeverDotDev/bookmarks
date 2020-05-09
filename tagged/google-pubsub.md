@@ -1,4 +1,4 @@
-## Bookmarks tagged [[google-pubsub]](https://www.bookmarks.dev?q=[google-pubsub])
+## Bookmarks tagged [[google-pubsub]](https://www.bookmarks.dev/search?q=[google-pubsub])
 
 _<sup><sup>[www.bookmarks.dev/tagged/google-pubsub](https://www.bookmarks.dev/tagged/google-pubsub)</sup></sup>_
 ---

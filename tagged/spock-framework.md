@@ -1,4 +1,4 @@
-## Bookmarks tagged [[spock-framework]](https://www.bookmarks.dev?q=[spock-framework])
+## Bookmarks tagged [[spock-framework]](https://www.bookmarks.dev/search?q=[spock-framework])
 
 _<sup><sup>[www.bookmarks.dev/tagged/spock-framework](https://www.bookmarks.dev/tagged/spock-framework)</sup></sup>_
 ---

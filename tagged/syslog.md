@@ -1,4 +1,4 @@
-## Bookmarks tagged [[syslog]](https://www.bookmarks.dev?q=[syslog])
+## Bookmarks tagged [[syslog]](https://www.bookmarks.dev/search?q=[syslog])
 
 _<sup><sup>[www.bookmarks.dev/tagged/syslog](https://www.bookmarks.dev/tagged/syslog)</sup></sup>_
 ---

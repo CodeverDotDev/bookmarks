@@ -1,4 +1,4 @@
-## Bookmarks tagged [[minikube]](https://www.bookmarks.dev?q=[minikube])
+## Bookmarks tagged [[minikube]](https://www.bookmarks.dev/search?q=[minikube])
 
 _<sup><sup>[www.bookmarks.dev/tagged/minikube](https://www.bookmarks.dev/tagged/minikube)</sup></sup>_
 ---

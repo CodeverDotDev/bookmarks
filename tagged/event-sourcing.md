@@ -1,4 +1,4 @@
-## Bookmarks tagged [[event-sourcing]](https://www.bookmarks.dev?q=[event-sourcing])
+## Bookmarks tagged [[event-sourcing]](https://www.bookmarks.dev/search?q=[event-sourcing])
 
 _<sup><sup>[www.bookmarks.dev/tagged/event-sourcing](https://www.bookmarks.dev/tagged/event-sourcing)</sup></sup>_
 ---

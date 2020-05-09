@@ -1,4 +1,4 @@
-## Bookmarks tagged [[code-quality]](https://www.bookmarks.dev?q=[code-quality])
+## Bookmarks tagged [[code-quality]](https://www.bookmarks.dev/search?q=[code-quality])
 
 _<sup><sup>[www.bookmarks.dev/tagged/code-quality](https://www.bookmarks.dev/tagged/code-quality)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[gitops]](https://www.bookmarks.dev?q=[gitops])
+## Bookmarks tagged [[gitops]](https://www.bookmarks.dev/search?q=[gitops])
 
 _<sup><sup>[www.bookmarks.dev/tagged/gitops](https://www.bookmarks.dev/tagged/gitops)</sup></sup>_
 ---

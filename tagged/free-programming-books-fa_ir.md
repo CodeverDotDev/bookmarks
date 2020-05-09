@@ -1,4 +1,4 @@
-## Bookmarks tagged [[free-programming-books-fa_ir]](https://www.bookmarks.dev?q=[free-programming-books-fa_ir])
+## Bookmarks tagged [[free-programming-books-fa_ir]](https://www.bookmarks.dev/search?q=[free-programming-books-fa_ir])
 
 _<sup><sup>[www.bookmarks.dev/tagged/free-programming-books-fa_ir](https://www.bookmarks.dev/tagged/free-programming-books-fa_ir)</sup></sup>_
 ---

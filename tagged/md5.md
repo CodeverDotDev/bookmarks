@@ -1,4 +1,4 @@
-## Bookmarks tagged [[md5]](https://www.bookmarks.dev?q=[md5])
+## Bookmarks tagged [[md5]](https://www.bookmarks.dev/search?q=[md5])
 
 _<sup><sup>[www.bookmarks.dev/tagged/md5](https://www.bookmarks.dev/tagged/md5)</sup></sup>_
 ---

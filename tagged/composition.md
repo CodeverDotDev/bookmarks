@@ -1,4 +1,4 @@
-## Bookmarks tagged [[composition]](https://www.bookmarks.dev?q=[composition])
+## Bookmarks tagged [[composition]](https://www.bookmarks.dev/search?q=[composition])
 
 _<sup><sup>[www.bookmarks.dev/tagged/composition](https://www.bookmarks.dev/tagged/composition)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[build-tools]](https://www.bookmarks.dev?q=[build-tools])
+## Bookmarks tagged [[build-tools]](https://www.bookmarks.dev/search?q=[build-tools])
 
 _<sup><sup>[www.bookmarks.dev/tagged/build-tools](https://www.bookmarks.dev/tagged/build-tools)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[alef]](https://www.bookmarks.dev?q=[alef])
+## Bookmarks tagged [[alef]](https://www.bookmarks.dev/search?q=[alef])
 
 _<sup><sup>[www.bookmarks.dev/tagged/alef](https://www.bookmarks.dev/tagged/alef)</sup></sup>_
 ---

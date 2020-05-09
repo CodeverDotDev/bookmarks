@@ -1,4 +1,4 @@
-## Bookmarks tagged [[generics]](https://www.bookmarks.dev?q=[generics])
+## Bookmarks tagged [[generics]](https://www.bookmarks.dev/search?q=[generics])
 
 _<sup><sup>[www.bookmarks.dev/tagged/generics](https://www.bookmarks.dev/tagged/generics)</sup></sup>_
 ---

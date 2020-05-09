@@ -1,4 +1,4 @@
-## Bookmarks tagged [[react-hooks]](https://www.bookmarks.dev?q=[react-hooks])
+## Bookmarks tagged [[react-hooks]](https://www.bookmarks.dev/search?q=[react-hooks])
 
 _<sup><sup>[www.bookmarks.dev/tagged/react-hooks](https://www.bookmarks.dev/tagged/react-hooks)</sup></sup>_
 ---

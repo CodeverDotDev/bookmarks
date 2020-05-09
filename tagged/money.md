@@ -1,4 +1,4 @@
-## Bookmarks tagged [[money]](https://www.bookmarks.dev?q=[money])
+## Bookmarks tagged [[money]](https://www.bookmarks.dev/search?q=[money])
 
 _<sup><sup>[www.bookmarks.dev/tagged/money](https://www.bookmarks.dev/tagged/money)</sup></sup>_
 ---

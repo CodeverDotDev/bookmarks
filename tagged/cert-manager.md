@@ -1,4 +1,4 @@
-## Bookmarks tagged [[cert-manager]](https://www.bookmarks.dev?q=[cert-manager])
+## Bookmarks tagged [[cert-manager]](https://www.bookmarks.dev/search?q=[cert-manager])
 
 _<sup><sup>[www.bookmarks.dev/tagged/cert-manager](https://www.bookmarks.dev/tagged/cert-manager)</sup></sup>_
 ---

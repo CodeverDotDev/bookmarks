@@ -1,4 +1,4 @@
-## Bookmarks tagged [[unqlite]](https://www.bookmarks.dev?q=[unqlite])
+## Bookmarks tagged [[unqlite]](https://www.bookmarks.dev/search?q=[unqlite])
 
 _<sup><sup>[www.bookmarks.dev/tagged/unqlite](https://www.bookmarks.dev/tagged/unqlite)</sup></sup>_
 ---

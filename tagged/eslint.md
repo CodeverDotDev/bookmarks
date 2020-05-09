@@ -1,4 +1,4 @@
-## Bookmarks tagged [[eslint]](https://www.bookmarks.dev?q=[eslint])
+## Bookmarks tagged [[eslint]](https://www.bookmarks.dev/search?q=[eslint])
 
 _<sup><sup>[www.bookmarks.dev/tagged/eslint](https://www.bookmarks.dev/tagged/eslint)</sup></sup>_
 ---

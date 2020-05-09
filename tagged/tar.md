@@ -1,4 +1,4 @@
-## Bookmarks tagged [[tar]](https://www.bookmarks.dev?q=[tar])
+## Bookmarks tagged [[tar]](https://www.bookmarks.dev/search?q=[tar])
 
 _<sup><sup>[www.bookmarks.dev/tagged/tar](https://www.bookmarks.dev/tagged/tar)</sup></sup>_
 ---

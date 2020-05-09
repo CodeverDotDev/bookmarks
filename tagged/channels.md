@@ -1,4 +1,4 @@
-## Bookmarks tagged [[channels]](https://www.bookmarks.dev?q=[channels])
+## Bookmarks tagged [[channels]](https://www.bookmarks.dev/search?q=[channels])
 
 _<sup><sup>[www.bookmarks.dev/tagged/channels](https://www.bookmarks.dev/tagged/channels)</sup></sup>_
 ---

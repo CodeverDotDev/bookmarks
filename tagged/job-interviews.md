@@ -1,4 +1,4 @@
-## Bookmarks tagged [[job-interviews]](https://www.bookmarks.dev?q=[job-interviews])
+## Bookmarks tagged [[job-interviews]](https://www.bookmarks.dev/search?q=[job-interviews])
 
 _<sup><sup>[www.bookmarks.dev/tagged/job-interviews](https://www.bookmarks.dev/tagged/job-interviews)</sup></sup>_
 ---

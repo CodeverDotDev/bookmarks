@@ -1,4 +1,4 @@
-## Bookmarks tagged [[netfilter]](https://www.bookmarks.dev?q=[netfilter])
+## Bookmarks tagged [[netfilter]](https://www.bookmarks.dev/search?q=[netfilter])
 
 _<sup><sup>[www.bookmarks.dev/tagged/netfilter](https://www.bookmarks.dev/tagged/netfilter)</sup></sup>_
 ---

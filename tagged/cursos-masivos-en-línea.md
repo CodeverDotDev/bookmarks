@@ -1,4 +1,4 @@
-## Bookmarks tagged [[cursos-masivos-en-línea]](https://www.bookmarks.dev?q=[cursos-masivos-en-línea])
+## Bookmarks tagged [[cursos-masivos-en-línea]](https://www.bookmarks.dev/search?q=[cursos-masivos-en-línea])
 
 _<sup><sup>[www.bookmarks.dev/tagged/cursos-masivos-en-línea](https://www.bookmarks.dev/tagged/cursos-masivos-en-línea)</sup></sup>_
 ---

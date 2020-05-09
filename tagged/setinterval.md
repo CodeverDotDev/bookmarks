@@ -1,4 +1,4 @@
-## Bookmarks tagged [[setinterval]](https://www.bookmarks.dev?q=[setinterval])
+## Bookmarks tagged [[setinterval]](https://www.bookmarks.dev/search?q=[setinterval])
 
 _<sup><sup>[www.bookmarks.dev/tagged/setinterval](https://www.bookmarks.dev/tagged/setinterval)</sup></sup>_
 ---

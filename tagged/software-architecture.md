@@ -1,4 +1,4 @@
-## Bookmarks tagged [[software-architecture]](https://www.bookmarks.dev?q=[software-architecture])
+## Bookmarks tagged [[software-architecture]](https://www.bookmarks.dev/search?q=[software-architecture])
 
 _<sup><sup>[www.bookmarks.dev/tagged/software-architecture](https://www.bookmarks.dev/tagged/software-architecture)</sup></sup>_
 ---

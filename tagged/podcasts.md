@@ -1,6 +1,12 @@
-## Bookmarks tagged [[podcasts]](https://www.bookmarks.dev?q=[podcasts])
+## Bookmarks tagged [[podcasts]](https://www.bookmarks.dev/search?q=[podcasts])
 
 _<sup><sup>[www.bookmarks.dev/tagged/podcasts](https://www.bookmarks.dev/tagged/podcasts)</sup></sup>_
+---
+#### [Hipsters Ponto Tech - Discussões acaloradas sobre startups, programação, ux, gadgets e as últimas tendências em tecnologia.Hipsters Ponto Tech](https://hipsters.tech/)
+_<sup>https://hipsters.tech/</sup>_
+
+Discussões acaloradas sobre startups, programação, ux, gadgets e as últimas tendências em tecnologia.
+* **tags**: [podcasts](../tagged/podcasts.md), [programming](../tagged/programming.md), [ux](../tagged/ux.md), [gadgets](../tagged/gadgets.md), [startup](../tagged/startup.md)
 ---
 #### [New Rustacean](https://newrustacean.com)
 _<sup>https://newrustacean.com</sup>_

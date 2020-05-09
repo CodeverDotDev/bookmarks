@@ -1,6 +1,15 @@
-## Bookmarks tagged [[font-awesome]](https://www.bookmarks.dev?q=[font-awesome])
+## Bookmarks tagged [[font-awesome]](https://www.bookmarks.dev/search?q=[font-awesome])
 
 _<sup><sup>[www.bookmarks.dev/tagged/font-awesome](https://www.bookmarks.dev/tagged/font-awesome)</sup></sup>_
+---
+#### [Sizing Icons | Font Awesome](https://fontawesome.com/how-to-use/on-the-web/styling/sizing-icons)
+_<sup>https://fontawesome.com/how-to-use/on-the-web/styling/sizing-icons</sup>_
+
+Both our Web Fonts + CSS and SVG + JS frameworks include some basic controls for sizing icons in the context of your page’s UI.
+
+**Relative sizing**
+Icons inherit the font-size of their parent contain...
+* **tags**: [css](../tagged/css.md), [font-awesome](../tagged/font-awesome.md)
 ---
 #### [Fast, faster, Angular CLI - how I converted my Angular project to use Angular CLI – CodepediaOrg](https://www.codepedia.org/ama/fast-faster-angular-cli-how-i-converted-my-angular-project-to-use-angular-cli)
 _<sup>https://www.codepedia.org/ama/fast-faster-angular-cli-how-i-converted-my-angular-project-to-use-angu...</sup>_

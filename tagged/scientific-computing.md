@@ -1,4 +1,4 @@
-## Bookmarks tagged [[scientific-computing]](https://www.bookmarks.dev?q=[scientific-computing])
+## Bookmarks tagged [[scientific-computing]](https://www.bookmarks.dev/search?q=[scientific-computing])
 
 _<sup><sup>[www.bookmarks.dev/tagged/scientific-computing](https://www.bookmarks.dev/tagged/scientific-computing)</sup></sup>_
 ---

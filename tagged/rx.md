@@ -1,4 +1,4 @@
-## Bookmarks tagged [[rx]](https://www.bookmarks.dev?q=[rx])
+## Bookmarks tagged [[rx]](https://www.bookmarks.dev/search?q=[rx])
 
 _<sup><sup>[www.bookmarks.dev/tagged/rx](https://www.bookmarks.dev/tagged/rx)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[real-time]](https://www.bookmarks.dev?q=[real-time])
+## Bookmarks tagged [[real-time]](https://www.bookmarks.dev/search?q=[real-time])
 
 _<sup><sup>[www.bookmarks.dev/tagged/real-time](https://www.bookmarks.dev/tagged/real-time)</sup></sup>_
 ---

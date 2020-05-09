@@ -1,4 +1,4 @@
-## Bookmarks tagged [[saltstack]](https://www.bookmarks.dev?q=[saltstack])
+## Bookmarks tagged [[saltstack]](https://www.bookmarks.dev/search?q=[saltstack])
 
 _<sup><sup>[www.bookmarks.dev/tagged/saltstack](https://www.bookmarks.dev/tagged/saltstack)</sup></sup>_
 ---

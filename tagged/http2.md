@@ -1,4 +1,4 @@
-## Bookmarks tagged [[http2]](https://www.bookmarks.dev?q=[http2])
+## Bookmarks tagged [[http2]](https://www.bookmarks.dev/search?q=[http2])
 
 _<sup><sup>[www.bookmarks.dev/tagged/http2](https://www.bookmarks.dev/tagged/http2)</sup></sup>_
 ---

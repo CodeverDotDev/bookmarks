@@ -1,4 +1,4 @@
-## Bookmarks tagged [[gimp]](https://www.bookmarks.dev?q=[gimp])
+## Bookmarks tagged [[gimp]](https://www.bookmarks.dev/search?q=[gimp])
 
 _<sup><sup>[www.bookmarks.dev/tagged/gimp](https://www.bookmarks.dev/tagged/gimp)</sup></sup>_
 ---

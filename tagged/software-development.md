@@ -1,4 +1,4 @@
-## Bookmarks tagged [[software-development]](https://www.bookmarks.dev?q=[software-development])
+## Bookmarks tagged [[software-development]](https://www.bookmarks.dev/search?q=[software-development])
 
 _<sup><sup>[www.bookmarks.dev/tagged/software-development](https://www.bookmarks.dev/tagged/software-development)</sup></sup>_
 ---

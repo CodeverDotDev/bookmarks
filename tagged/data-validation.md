@@ -1,4 +1,4 @@
-## Bookmarks tagged [[data-validation]](https://www.bookmarks.dev?q=[data-validation])
+## Bookmarks tagged [[data-validation]](https://www.bookmarks.dev/search?q=[data-validation])
 
 _<sup><sup>[www.bookmarks.dev/tagged/data-validation](https://www.bookmarks.dev/tagged/data-validation)</sup></sup>_
 ---

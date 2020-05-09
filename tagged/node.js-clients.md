@@ -1,4 +1,4 @@
-## Bookmarks tagged [[node.js-clients]](https://www.bookmarks.dev?q=[node.js-clients])
+## Bookmarks tagged [[node.js-clients]](https://www.bookmarks.dev/search?q=[node.js-clients])
 
 _<sup><sup>[www.bookmarks.dev/tagged/node.js-clients](https://www.bookmarks.dev/tagged/node.js-clients)</sup></sup>_
 ---

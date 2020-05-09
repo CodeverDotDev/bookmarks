@@ -1,4 +1,4 @@
-## Bookmarks tagged [[vue]](https://www.bookmarks.dev?q=[vue])
+## Bookmarks tagged [[vue]](https://www.bookmarks.dev/search?q=[vue])
 
 _<sup><sup>[www.bookmarks.dev/tagged/vue](https://www.bookmarks.dev/tagged/vue)</sup></sup>_
 ---

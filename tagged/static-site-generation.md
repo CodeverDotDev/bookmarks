@@ -1,6 +1,13 @@
-## Bookmarks tagged [[static-site-generation]](https://www.bookmarks.dev?q=[static-site-generation])
+## Bookmarks tagged [[static-site-generation]](https://www.bookmarks.dev/search?q=[static-site-generation])
 
 _<sup><sup>[www.bookmarks.dev/tagged/static-site-generation](https://www.bookmarks.dev/tagged/static-site-generation)</sup></sup>_
+---
+#### [Eleventy is a simpler static site generator.](https://www.11ty.dev/)
+_<sup>https://www.11ty.dev/</sup>_
+
+Eleventy is a simpler static site generator
+* **tags**: [static-site-generation](../tagged/static-site-generation.md), [static-site-generator](../tagged/static-site-generator.md)
+* :octocat: **[source code](https://github.com/11ty/eleventy/)**
 ---
 #### [High Voltage](https://github.com/thoughtbot/high_voltage)
 _<sup>https://github.com/thoughtbot/high_voltage</sup>_

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[vagrant]](https://www.bookmarks.dev?q=[vagrant])
+## Bookmarks tagged [[vagrant]](https://www.bookmarks.dev/search?q=[vagrant])
 
 _<sup><sup>[www.bookmarks.dev/tagged/vagrant](https://www.bookmarks.dev/tagged/vagrant)</sup></sup>_
 ---

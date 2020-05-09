@@ -1,4 +1,4 @@
-## Bookmarks tagged [[style-guide]](https://www.bookmarks.dev?q=[style-guide])
+## Bookmarks tagged [[style-guide]](https://www.bookmarks.dev/search?q=[style-guide])
 
 _<sup><sup>[www.bookmarks.dev/tagged/style-guide](https://www.bookmarks.dev/tagged/style-guide)</sup></sup>_
 ---

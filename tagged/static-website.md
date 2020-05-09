@@ -1,4 +1,4 @@
-## Bookmarks tagged [[static-website]](https://www.bookmarks.dev?q=[static-website])
+## Bookmarks tagged [[static-website]](https://www.bookmarks.dev/search?q=[static-website])
 
 _<sup><sup>[www.bookmarks.dev/tagged/static-website](https://www.bookmarks.dev/tagged/static-website)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[text-editor]](https://www.bookmarks.dev?q=[text-editor])
+## Bookmarks tagged [[text-editor]](https://www.bookmarks.dev/search?q=[text-editor])
 
 _<sup><sup>[www.bookmarks.dev/tagged/text-editor](https://www.bookmarks.dev/tagged/text-editor)</sup></sup>_
 ---

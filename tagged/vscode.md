@@ -1,4 +1,4 @@
-## Bookmarks tagged [[vscode]](https://www.bookmarks.dev?q=[vscode])
+## Bookmarks tagged [[vscode]](https://www.bookmarks.dev/search?q=[vscode])
 
 _<sup><sup>[www.bookmarks.dev/tagged/vscode](https://www.bookmarks.dev/tagged/vscode)</sup></sup>_
 ---

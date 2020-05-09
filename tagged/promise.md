@@ -1,4 +1,4 @@
-## Bookmarks tagged [[promise]](https://www.bookmarks.dev?q=[promise])
+## Bookmarks tagged [[promise]](https://www.bookmarks.dev/search?q=[promise])
 
 _<sup><sup>[www.bookmarks.dev/tagged/promise](https://www.bookmarks.dev/tagged/promise)</sup></sup>_
 ---

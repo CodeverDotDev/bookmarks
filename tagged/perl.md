@@ -1,4 +1,4 @@
-## Bookmarks tagged [[perl]](https://www.bookmarks.dev?q=[perl])
+## Bookmarks tagged [[perl]](https://www.bookmarks.dev/search?q=[perl])
 
 _<sup><sup>[www.bookmarks.dev/tagged/perl](https://www.bookmarks.dev/tagged/perl)</sup></sup>_
 ---

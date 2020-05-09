@@ -1,4 +1,4 @@
-## Bookmarks tagged [[bookmarklet]](https://www.bookmarks.dev?q=[bookmarklet])
+## Bookmarks tagged [[bookmarklet]](https://www.bookmarks.dev/search?q=[bookmarklet])
 
 _<sup><sup>[www.bookmarks.dev/tagged/bookmarklet](https://www.bookmarks.dev/tagged/bookmarklet)</sup></sup>_
 ---

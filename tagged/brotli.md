@@ -1,4 +1,4 @@
-## Bookmarks tagged [[brotli]](https://www.bookmarks.dev?q=[brotli])
+## Bookmarks tagged [[brotli]](https://www.bookmarks.dev/search?q=[brotli])
 
 _<sup><sup>[www.bookmarks.dev/tagged/brotli](https://www.bookmarks.dev/tagged/brotli)</sup></sup>_
 ---

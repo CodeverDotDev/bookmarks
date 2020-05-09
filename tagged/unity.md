@@ -1,4 +1,4 @@
-## Bookmarks tagged [[unity]](https://www.bookmarks.dev?q=[unity])
+## Bookmarks tagged [[unity]](https://www.bookmarks.dev/search?q=[unity])
 
 _<sup><sup>[www.bookmarks.dev/tagged/unity](https://www.bookmarks.dev/tagged/unity)</sup></sup>_
 ---

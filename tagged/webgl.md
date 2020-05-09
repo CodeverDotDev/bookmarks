@@ -1,4 +1,4 @@
-## Bookmarks tagged [[webgl]](https://www.bookmarks.dev?q=[webgl])
+## Bookmarks tagged [[webgl]](https://www.bookmarks.dev/search?q=[webgl])
 
 _<sup><sup>[www.bookmarks.dev/tagged/webgl](https://www.bookmarks.dev/tagged/webgl)</sup></sup>_
 ---

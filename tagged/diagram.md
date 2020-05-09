@@ -1,4 +1,4 @@
-## Bookmarks tagged [[diagram]](https://www.bookmarks.dev?q=[diagram])
+## Bookmarks tagged [[diagram]](https://www.bookmarks.dev/search?q=[diagram])
 
 _<sup><sup>[www.bookmarks.dev/tagged/diagram](https://www.bookmarks.dev/tagged/diagram)</sup></sup>_
 ---

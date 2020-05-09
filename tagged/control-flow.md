@@ -1,4 +1,4 @@
-## Bookmarks tagged [[control-flow]](https://www.bookmarks.dev?q=[control-flow])
+## Bookmarks tagged [[control-flow]](https://www.bookmarks.dev/search?q=[control-flow])
 
 _<sup><sup>[www.bookmarks.dev/tagged/control-flow](https://www.bookmarks.dev/tagged/control-flow)</sup></sup>_
 ---

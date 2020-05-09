@@ -1,4 +1,4 @@
-## Bookmarks tagged [[photography]](https://www.bookmarks.dev?q=[photography])
+## Bookmarks tagged [[photography]](https://www.bookmarks.dev/search?q=[photography])
 
 _<sup><sup>[www.bookmarks.dev/tagged/photography](https://www.bookmarks.dev/tagged/photography)</sup></sup>_
 ---

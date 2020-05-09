@@ -1,4 +1,4 @@
-## Bookmarks tagged [[smart-system]](https://www.bookmarks.dev?q=[smart-system])
+## Bookmarks tagged [[smart-system]](https://www.bookmarks.dev/search?q=[smart-system])
 
 _<sup><sup>[www.bookmarks.dev/tagged/smart-system](https://www.bookmarks.dev/tagged/smart-system)</sup></sup>_
 ---

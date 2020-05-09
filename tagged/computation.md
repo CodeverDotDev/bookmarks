@@ -1,4 +1,4 @@
-## Bookmarks tagged [[computation]](https://www.bookmarks.dev?q=[computation])
+## Bookmarks tagged [[computation]](https://www.bookmarks.dev/search?q=[computation])
 
 _<sup><sup>[www.bookmarks.dev/tagged/computation](https://www.bookmarks.dev/tagged/computation)</sup></sup>_
 ---

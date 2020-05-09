@@ -1,4 +1,4 @@
-## Bookmarks tagged [[online-tools]](https://www.bookmarks.dev?q=[online-tools])
+## Bookmarks tagged [[online-tools]](https://www.bookmarks.dev/search?q=[online-tools])
 
 _<sup><sup>[www.bookmarks.dev/tagged/online-tools](https://www.bookmarks.dev/tagged/online-tools)</sup></sup>_
 ---

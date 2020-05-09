@@ -1,4 +1,4 @@
-## Bookmarks tagged [[haskell]](https://www.bookmarks.dev?q=[haskell])
+## Bookmarks tagged [[haskell]](https://www.bookmarks.dev/search?q=[haskell])
 
 _<sup><sup>[www.bookmarks.dev/tagged/haskell](https://www.bookmarks.dev/tagged/haskell)</sup></sup>_
 ---

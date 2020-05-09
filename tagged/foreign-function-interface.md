@@ -1,4 +1,4 @@
-## Bookmarks tagged [[foreign-function-interface]](https://www.bookmarks.dev?q=[foreign-function-interface])
+## Bookmarks tagged [[foreign-function-interface]](https://www.bookmarks.dev/search?q=[foreign-function-interface])
 
 _<sup><sup>[www.bookmarks.dev/tagged/foreign-function-interface](https://www.bookmarks.dev/tagged/foreign-function-interface)</sup></sup>_
 ---

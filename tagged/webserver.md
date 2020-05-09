@@ -1,4 +1,4 @@
-## Bookmarks tagged [[webserver]](https://www.bookmarks.dev?q=[webserver])
+## Bookmarks tagged [[webserver]](https://www.bookmarks.dev/search?q=[webserver])
 
 _<sup><sup>[www.bookmarks.dev/tagged/webserver](https://www.bookmarks.dev/tagged/webserver)</sup></sup>_
 ---

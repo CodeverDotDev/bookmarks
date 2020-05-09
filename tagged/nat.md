@@ -1,4 +1,4 @@
-## Bookmarks tagged [[nat]](https://www.bookmarks.dev?q=[nat])
+## Bookmarks tagged [[nat]](https://www.bookmarks.dev/search?q=[nat])
 
 _<sup><sup>[www.bookmarks.dev/tagged/nat](https://www.bookmarks.dev/tagged/nat)</sup></sup>_
 ---

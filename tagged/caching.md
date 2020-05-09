@@ -1,4 +1,4 @@
-## Bookmarks tagged [[caching]](https://www.bookmarks.dev?q=[caching])
+## Bookmarks tagged [[caching]](https://www.bookmarks.dev/search?q=[caching])
 
 _<sup><sup>[www.bookmarks.dev/tagged/caching](https://www.bookmarks.dev/tagged/caching)</sup></sup>_
 ---

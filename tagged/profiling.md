@@ -1,4 +1,4 @@
-## Bookmarks tagged [[profiling]](https://www.bookmarks.dev?q=[profiling])
+## Bookmarks tagged [[profiling]](https://www.bookmarks.dev/search?q=[profiling])
 
 _<sup><sup>[www.bookmarks.dev/tagged/profiling](https://www.bookmarks.dev/tagged/profiling)</sup></sup>_
 ---

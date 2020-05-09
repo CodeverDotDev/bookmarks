@@ -1,4 +1,4 @@
-## Bookmarks tagged [[career]](https://www.bookmarks.dev?q=[career])
+## Bookmarks tagged [[career]](https://www.bookmarks.dev/search?q=[career])
 
 _<sup><sup>[www.bookmarks.dev/tagged/career](https://www.bookmarks.dev/tagged/career)</sup></sup>_
 ---

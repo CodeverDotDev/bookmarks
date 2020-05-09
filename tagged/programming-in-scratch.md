@@ -1,4 +1,4 @@
-## Bookmarks tagged [[programming-in-scratch]](https://www.bookmarks.dev?q=[programming-in-scratch])
+## Bookmarks tagged [[programming-in-scratch]](https://www.bookmarks.dev/search?q=[programming-in-scratch])
 
 _<sup><sup>[www.bookmarks.dev/tagged/programming-in-scratch](https://www.bookmarks.dev/tagged/programming-in-scratch)</sup></sup>_
 ---

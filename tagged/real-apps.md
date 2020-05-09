@@ -1,4 +1,4 @@
-## Bookmarks tagged [[real-apps]](https://www.bookmarks.dev?q=[real-apps])
+## Bookmarks tagged [[real-apps]](https://www.bookmarks.dev/search?q=[real-apps])
 
 _<sup><sup>[www.bookmarks.dev/tagged/real-apps](https://www.bookmarks.dev/tagged/real-apps)</sup></sup>_
 ---

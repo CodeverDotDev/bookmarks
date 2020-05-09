@@ -1,4 +1,4 @@
-## Bookmarks tagged [[bytecode-manipulation]](https://www.bookmarks.dev?q=[bytecode-manipulation])
+## Bookmarks tagged [[bytecode-manipulation]](https://www.bookmarks.dev/search?q=[bytecode-manipulation])
 
 _<sup><sup>[www.bookmarks.dev/tagged/bytecode-manipulation](https://www.bookmarks.dev/tagged/bytecode-manipulation)</sup></sup>_
 ---

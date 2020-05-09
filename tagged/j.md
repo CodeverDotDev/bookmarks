@@ -1,4 +1,4 @@
-## Bookmarks tagged [[j]](https://www.bookmarks.dev?q=[j])
+## Bookmarks tagged [[j]](https://www.bookmarks.dev/search?q=[j])
 
 _<sup><sup>[www.bookmarks.dev/tagged/j](https://www.bookmarks.dev/tagged/j)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[scheme]](https://www.bookmarks.dev?q=[scheme])
+## Bookmarks tagged [[scheme]](https://www.bookmarks.dev/search?q=[scheme])
 
 _<sup><sup>[www.bookmarks.dev/tagged/scheme](https://www.bookmarks.dev/tagged/scheme)</sup></sup>_
 ---

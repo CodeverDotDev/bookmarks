@@ -1,4 +1,4 @@
-## Bookmarks tagged [[console-application]](https://www.bookmarks.dev?q=[console-application])
+## Bookmarks tagged [[console-application]](https://www.bookmarks.dev/search?q=[console-application])
 
 _<sup><sup>[www.bookmarks.dev/tagged/console-application](https://www.bookmarks.dev/tagged/console-application)</sup></sup>_
 ---

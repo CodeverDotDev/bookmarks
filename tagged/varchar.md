@@ -1,4 +1,4 @@
-## Bookmarks tagged [[varchar]](https://www.bookmarks.dev?q=[varchar])
+## Bookmarks tagged [[varchar]](https://www.bookmarks.dev/search?q=[varchar])
 
 _<sup><sup>[www.bookmarks.dev/tagged/varchar](https://www.bookmarks.dev/tagged/varchar)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[application-development]](https://www.bookmarks.dev?q=[application-development])
+## Bookmarks tagged [[application-development]](https://www.bookmarks.dev/search?q=[application-development])
 
 _<sup><sup>[www.bookmarks.dev/tagged/application-development](https://www.bookmarks.dev/tagged/application-development)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[runner]](https://www.bookmarks.dev?q=[runner])
+## Bookmarks tagged [[runner]](https://www.bookmarks.dev/search?q=[runner])
 
 _<sup><sup>[www.bookmarks.dev/tagged/runner](https://www.bookmarks.dev/tagged/runner)</sup></sup>_
 ---

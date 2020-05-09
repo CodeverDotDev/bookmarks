@@ -1,4 +1,4 @@
-## Bookmarks tagged [[xml-parsing]](https://www.bookmarks.dev?q=[xml-parsing])
+## Bookmarks tagged [[xml-parsing]](https://www.bookmarks.dev/search?q=[xml-parsing])
 
 _<sup><sup>[www.bookmarks.dev/tagged/xml-parsing](https://www.bookmarks.dev/tagged/xml-parsing)</sup></sup>_
 ---

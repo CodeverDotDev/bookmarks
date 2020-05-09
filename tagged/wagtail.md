@@ -1,4 +1,4 @@
-## Bookmarks tagged [[wagtail]](https://www.bookmarks.dev?q=[wagtail])
+## Bookmarks tagged [[wagtail]](https://www.bookmarks.dev/search?q=[wagtail])
 
 _<sup><sup>[www.bookmarks.dev/tagged/wagtail](https://www.bookmarks.dev/tagged/wagtail)</sup></sup>_
 ---

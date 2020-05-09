@@ -1,4 +1,4 @@
-## Bookmarks tagged [[open-source-software]](https://www.bookmarks.dev?q=[open-source-software])
+## Bookmarks tagged [[open-source-software]](https://www.bookmarks.dev/search?q=[open-source-software])
 
 _<sup><sup>[www.bookmarks.dev/tagged/open-source-software](https://www.bookmarks.dev/tagged/open-source-software)</sup></sup>_
 ---

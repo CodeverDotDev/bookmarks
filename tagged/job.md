@@ -1,4 +1,4 @@
-## Bookmarks tagged [[job]](https://www.bookmarks.dev?q=[job])
+## Bookmarks tagged [[job]](https://www.bookmarks.dev/search?q=[job])
 
 _<sup><sup>[www.bookmarks.dev/tagged/job](https://www.bookmarks.dev/tagged/job)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[indie]](https://www.bookmarks.dev?q=[indie])
+## Bookmarks tagged [[indie]](https://www.bookmarks.dev/search?q=[indie])
 
 _<sup><sup>[www.bookmarks.dev/tagged/indie](https://www.bookmarks.dev/tagged/indie)</sup></sup>_
 ---

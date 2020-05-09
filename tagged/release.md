@@ -1,4 +1,4 @@
-## Bookmarks tagged [[release]](https://www.bookmarks.dev?q=[release])
+## Bookmarks tagged [[release]](https://www.bookmarks.dev/search?q=[release])
 
 _<sup><sup>[www.bookmarks.dev/tagged/release](https://www.bookmarks.dev/tagged/release)</sup></sup>_
 ---

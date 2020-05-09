@@ -1,4 +1,4 @@
-## Bookmarks tagged [[graphviz]](https://www.bookmarks.dev?q=[graphviz])
+## Bookmarks tagged [[graphviz]](https://www.bookmarks.dev/search?q=[graphviz])
 
 _<sup><sup>[www.bookmarks.dev/tagged/graphviz](https://www.bookmarks.dev/tagged/graphviz)</sup></sup>_
 ---

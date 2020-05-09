@@ -1,4 +1,4 @@
-## Bookmarks tagged [[diff]](https://www.bookmarks.dev?q=[diff])
+## Bookmarks tagged [[diff]](https://www.bookmarks.dev/search?q=[diff])
 
 _<sup><sup>[www.bookmarks.dev/tagged/diff](https://www.bookmarks.dev/tagged/diff)</sup></sup>_
 ---

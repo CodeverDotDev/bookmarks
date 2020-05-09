@@ -1,4 +1,4 @@
-## Bookmarks tagged [[hystrix]](https://www.bookmarks.dev?q=[hystrix])
+## Bookmarks tagged [[hystrix]](https://www.bookmarks.dev/search?q=[hystrix])
 
 _<sup><sup>[www.bookmarks.dev/tagged/hystrix](https://www.bookmarks.dev/tagged/hystrix)</sup></sup>_
 ---

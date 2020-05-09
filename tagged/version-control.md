@@ -1,6 +1,12 @@
-## Bookmarks tagged [[version-control]](https://www.bookmarks.dev?q=[version-control])
+## Bookmarks tagged [[version-control]](https://www.bookmarks.dev/search?q=[version-control])
 
 _<sup><sup>[www.bookmarks.dev/tagged/version-control](https://www.bookmarks.dev/tagged/version-control)</sup></sup>_
+---
+#### [Trunk Based Development](https://trunkbaseddevelopment.com/)
+_<sup>https://trunkbaseddevelopment.com/</sup>_
+
+A source-control branching model, where developers collaborate on code in a single branch called ‘trunk’ *, resist any pressure to create other long-lived development branches by employing documented ...
+* **tags**: [version-control](../tagged/version-control.md), [branch](../tagged/branch.md), [continuous-deployment](../tagged/continuous-deployment.md)
 ---
 #### [Why Google Stores Billions of Lines of Code in a Single Repository](https://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext)
 _<sup>https://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single...</sup>_

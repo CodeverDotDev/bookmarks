@@ -1,4 +1,4 @@
-## Bookmarks tagged [[virtualization]](https://www.bookmarks.dev?q=[virtualization])
+## Bookmarks tagged [[virtualization]](https://www.bookmarks.dev/search?q=[virtualization])
 
 _<sup><sup>[www.bookmarks.dev/tagged/virtualization](https://www.bookmarks.dev/tagged/virtualization)</sup></sup>_
 ---

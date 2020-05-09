@@ -1,4 +1,4 @@
-## Bookmarks tagged [[typechecking]](https://www.bookmarks.dev?q=[typechecking])
+## Bookmarks tagged [[typechecking]](https://www.bookmarks.dev/search?q=[typechecking])
 
 _<sup><sup>[www.bookmarks.dev/tagged/typechecking](https://www.bookmarks.dev/tagged/typechecking)</sup></sup>_
 ---

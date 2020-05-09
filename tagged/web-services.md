@@ -1,4 +1,4 @@
-## Bookmarks tagged [[web-services]](https://www.bookmarks.dev?q=[web-services])
+## Bookmarks tagged [[web-services]](https://www.bookmarks.dev/search?q=[web-services])
 
 _<sup><sup>[www.bookmarks.dev/tagged/web-services](https://www.bookmarks.dev/tagged/web-services)</sup></sup>_
 ---

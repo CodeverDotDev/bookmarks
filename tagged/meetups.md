@@ -1,4 +1,4 @@
-## Bookmarks tagged [[meetups]](https://www.bookmarks.dev?q=[meetups])
+## Bookmarks tagged [[meetups]](https://www.bookmarks.dev/search?q=[meetups])
 
 _<sup><sup>[www.bookmarks.dev/tagged/meetups](https://www.bookmarks.dev/tagged/meetups)</sup></sup>_
 ---

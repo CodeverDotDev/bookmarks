@@ -1,4 +1,4 @@
-## Bookmarks tagged [[ms-office]](https://www.bookmarks.dev?q=[ms-office])
+## Bookmarks tagged [[ms-office]](https://www.bookmarks.dev/search?q=[ms-office])
 
 _<sup><sup>[www.bookmarks.dev/tagged/ms-office](https://www.bookmarks.dev/tagged/ms-office)</sup></sup>_
 ---

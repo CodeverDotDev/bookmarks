@@ -1,4 +1,4 @@
-## Bookmarks tagged [[arduino]](https://www.bookmarks.dev?q=[arduino])
+## Bookmarks tagged [[arduino]](https://www.bookmarks.dev/search?q=[arduino])
 
 _<sup><sup>[www.bookmarks.dev/tagged/arduino](https://www.bookmarks.dev/tagged/arduino)</sup></sup>_
 ---

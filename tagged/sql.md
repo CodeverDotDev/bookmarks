@@ -1,4 +1,4 @@
-## Bookmarks tagged [[sql]](https://www.bookmarks.dev?q=[sql])
+## Bookmarks tagged [[sql]](https://www.bookmarks.dev/search?q=[sql])
 
 _<sup><sup>[www.bookmarks.dev/tagged/sql](https://www.bookmarks.dev/tagged/sql)</sup></sup>_
 ---

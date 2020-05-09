@@ -1,4 +1,4 @@
-## Bookmarks tagged [[google-cloud-pubsub]](https://www.bookmarks.dev?q=[google-cloud-pubsub])
+## Bookmarks tagged [[google-cloud-pubsub]](https://www.bookmarks.dev/search?q=[google-cloud-pubsub])
 
 _<sup><sup>[www.bookmarks.dev/tagged/google-cloud-pubsub](https://www.bookmarks.dev/tagged/google-cloud-pubsub)</sup></sup>_
 ---

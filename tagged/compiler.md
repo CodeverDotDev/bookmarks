@@ -1,4 +1,4 @@
-## Bookmarks tagged [[compiler]](https://www.bookmarks.dev?q=[compiler])
+## Bookmarks tagged [[compiler]](https://www.bookmarks.dev/search?q=[compiler])
 
 _<sup><sup>[www.bookmarks.dev/tagged/compiler](https://www.bookmarks.dev/tagged/compiler)</sup></sup>_
 ---

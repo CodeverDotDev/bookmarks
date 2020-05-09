@@ -1,4 +1,4 @@
-## Bookmarks tagged [[tex]](https://www.bookmarks.dev?q=[tex])
+## Bookmarks tagged [[tex]](https://www.bookmarks.dev/search?q=[tex])
 
 _<sup><sup>[www.bookmarks.dev/tagged/tex](https://www.bookmarks.dev/tagged/tex)</sup></sup>_
 ---

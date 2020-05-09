@@ -1,4 +1,4 @@
-## Bookmarks tagged [[libuv]](https://www.bookmarks.dev?q=[libuv])
+## Bookmarks tagged [[libuv]](https://www.bookmarks.dev/search?q=[libuv])
 
 _<sup><sup>[www.bookmarks.dev/tagged/libuv](https://www.bookmarks.dev/tagged/libuv)</sup></sup>_
 ---

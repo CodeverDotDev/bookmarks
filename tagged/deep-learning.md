@@ -1,4 +1,4 @@
-## Bookmarks tagged [[deep-learning]](https://www.bookmarks.dev?q=[deep-learning])
+## Bookmarks tagged [[deep-learning]](https://www.bookmarks.dev/search?q=[deep-learning])
 
 _<sup><sup>[www.bookmarks.dev/tagged/deep-learning](https://www.bookmarks.dev/tagged/deep-learning)</sup></sup>_
 ---

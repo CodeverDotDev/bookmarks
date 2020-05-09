@@ -1,4 +1,4 @@
-## Bookmarks tagged [[compression]](https://www.bookmarks.dev?q=[compression])
+## Bookmarks tagged [[compression]](https://www.bookmarks.dev/search?q=[compression])
 
 _<sup><sup>[www.bookmarks.dev/tagged/compression](https://www.bookmarks.dev/tagged/compression)</sup></sup>_
 ---

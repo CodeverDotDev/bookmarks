@@ -1,4 +1,4 @@
-## Bookmarks tagged [[hypermedia-types]](https://www.bookmarks.dev?q=[hypermedia-types])
+## Bookmarks tagged [[hypermedia-types]](https://www.bookmarks.dev/search?q=[hypermedia-types])
 
 _<sup><sup>[www.bookmarks.dev/tagged/hypermedia-types](https://www.bookmarks.dev/tagged/hypermedia-types)</sup></sup>_
 ---

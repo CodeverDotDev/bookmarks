@@ -1,4 +1,4 @@
-## Bookmarks tagged [[operating-system]](https://www.bookmarks.dev?q=[operating-system])
+## Bookmarks tagged [[operating-system]](https://www.bookmarks.dev/search?q=[operating-system])
 
 _<sup><sup>[www.bookmarks.dev/tagged/operating-system](https://www.bookmarks.dev/tagged/operating-system)</sup></sup>_
 ---

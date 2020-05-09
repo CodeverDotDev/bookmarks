@@ -1,4 +1,4 @@
-## Bookmarks tagged [[templating-engine]](https://www.bookmarks.dev?q=[templating-engine])
+## Bookmarks tagged [[templating-engine]](https://www.bookmarks.dev/search?q=[templating-engine])
 
 _<sup><sup>[www.bookmarks.dev/tagged/templating-engine](https://www.bookmarks.dev/tagged/templating-engine)</sup></sup>_
 ---

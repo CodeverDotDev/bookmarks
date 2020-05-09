@@ -1,4 +1,4 @@
-## Bookmarks tagged [[server-application]](https://www.bookmarks.dev?q=[server-application])
+## Bookmarks tagged [[server-application]](https://www.bookmarks.dev/search?q=[server-application])
 
 _<sup><sup>[www.bookmarks.dev/tagged/server-application](https://www.bookmarks.dev/tagged/server-application)</sup></sup>_
 ---

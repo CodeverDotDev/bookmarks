@@ -1,4 +1,4 @@
-## Bookmarks tagged [[zuul]](https://www.bookmarks.dev?q=[zuul])
+## Bookmarks tagged [[zuul]](https://www.bookmarks.dev/search?q=[zuul])
 
 _<sup><sup>[www.bookmarks.dev/tagged/zuul](https://www.bookmarks.dev/tagged/zuul)</sup></sup>_
 ---

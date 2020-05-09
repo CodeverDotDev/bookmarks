@@ -1,4 +1,4 @@
-## Bookmarks tagged [[phalcon]](https://www.bookmarks.dev?q=[phalcon])
+## Bookmarks tagged [[phalcon]](https://www.bookmarks.dev/search?q=[phalcon])
 
 _<sup><sup>[www.bookmarks.dev/tagged/phalcon](https://www.bookmarks.dev/tagged/phalcon)</sup></sup>_
 ---

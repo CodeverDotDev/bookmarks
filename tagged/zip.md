@@ -1,4 +1,4 @@
-## Bookmarks tagged [[zip]](https://www.bookmarks.dev?q=[zip])
+## Bookmarks tagged [[zip]](https://www.bookmarks.dev/search?q=[zip])
 
 _<sup><sup>[www.bookmarks.dev/tagged/zip](https://www.bookmarks.dev/tagged/zip)</sup></sup>_
 ---

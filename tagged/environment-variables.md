@@ -1,4 +1,4 @@
-## Bookmarks tagged [[environment-variables]](https://www.bookmarks.dev?q=[environment-variables])
+## Bookmarks tagged [[environment-variables]](https://www.bookmarks.dev/search?q=[environment-variables])
 
 _<sup><sup>[www.bookmarks.dev/tagged/environment-variables](https://www.bookmarks.dev/tagged/environment-variables)</sup></sup>_
 ---

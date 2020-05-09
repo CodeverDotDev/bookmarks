@@ -1,4 +1,4 @@
-## Bookmarks tagged [[slf4j]](https://www.bookmarks.dev?q=[slf4j])
+## Bookmarks tagged [[slf4j]](https://www.bookmarks.dev/search?q=[slf4j])
 
 _<sup><sup>[www.bookmarks.dev/tagged/slf4j](https://www.bookmarks.dev/tagged/slf4j)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[emoji]](https://www.bookmarks.dev?q=[emoji])
+## Bookmarks tagged [[emoji]](https://www.bookmarks.dev/search?q=[emoji])
 
 _<sup><sup>[www.bookmarks.dev/tagged/emoji](https://www.bookmarks.dev/tagged/emoji)</sup></sup>_
 ---

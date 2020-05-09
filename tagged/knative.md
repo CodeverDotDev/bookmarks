@@ -1,4 +1,4 @@
-## Bookmarks tagged [[knative]](https://www.bookmarks.dev?q=[knative])
+## Bookmarks tagged [[knative]](https://www.bookmarks.dev/search?q=[knative])
 
 _<sup><sup>[www.bookmarks.dev/tagged/knative](https://www.bookmarks.dev/tagged/knative)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[settimeout]](https://www.bookmarks.dev?q=[settimeout])
+## Bookmarks tagged [[settimeout]](https://www.bookmarks.dev/search?q=[settimeout])
 
 _<sup><sup>[www.bookmarks.dev/tagged/settimeout](https://www.bookmarks.dev/tagged/settimeout)</sup></sup>_
 ---

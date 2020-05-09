@@ -1,6 +1,12 @@
-## Bookmarks tagged [[seo]](https://www.bookmarks.dev?q=[seo])
+## Bookmarks tagged [[seo]](https://www.bookmarks.dev/search?q=[seo])
 
 _<sup><sup>[www.bookmarks.dev/tagged/seo](https://www.bookmarks.dev/tagged/seo)</sup></sup>_
+---
+#### [Learn SEO | SERP University](https://serp.co/university/seo)
+_<sup>https://serp.co/university/seo</sup>_
+
+Everything you need to learn on the subject of SEO (Search Engine Optimization)
+* **tags**: [seo](../tagged/seo.md)
 ---
 #### [FriendlyId](https://github.com/norman/friendly_id)
 _<sup>https://github.com/norman/friendly_id</sup>_

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[fortran]](https://www.bookmarks.dev?q=[fortran])
+## Bookmarks tagged [[fortran]](https://www.bookmarks.dev/search?q=[fortran])
 
 _<sup><sup>[www.bookmarks.dev/tagged/fortran](https://www.bookmarks.dev/tagged/fortran)</sup></sup>_
 ---

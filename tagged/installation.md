@@ -1,4 +1,4 @@
-## Bookmarks tagged [[installation]](https://www.bookmarks.dev?q=[installation])
+## Bookmarks tagged [[installation]](https://www.bookmarks.dev/search?q=[installation])
 
 _<sup><sup>[www.bookmarks.dev/tagged/installation](https://www.bookmarks.dev/tagged/installation)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[sublime-text]](https://www.bookmarks.dev?q=[sublime-text])
+## Bookmarks tagged [[sublime-text]](https://www.bookmarks.dev/search?q=[sublime-text])
 
 _<sup><sup>[www.bookmarks.dev/tagged/sublime-text](https://www.bookmarks.dev/tagged/sublime-text)</sup></sup>_
 ---

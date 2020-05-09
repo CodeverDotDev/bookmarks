@@ -1,4 +1,4 @@
-## Bookmarks tagged [[google-cloud-platform]](https://www.bookmarks.dev?q=[google-cloud-platform])
+## Bookmarks tagged [[google-cloud-platform]](https://www.bookmarks.dev/search?q=[google-cloud-platform])
 
 _<sup><sup>[www.bookmarks.dev/tagged/google-cloud-platform](https://www.bookmarks.dev/tagged/google-cloud-platform)</sup></sup>_
 ---

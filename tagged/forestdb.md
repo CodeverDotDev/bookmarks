@@ -1,4 +1,4 @@
-## Bookmarks tagged [[forestdb]](https://www.bookmarks.dev?q=[forestdb])
+## Bookmarks tagged [[forestdb]](https://www.bookmarks.dev/search?q=[forestdb])
 
 _<sup><sup>[www.bookmarks.dev/tagged/forestdb](https://www.bookmarks.dev/tagged/forestdb)</sup></sup>_
 ---

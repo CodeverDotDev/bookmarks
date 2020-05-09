@@ -1,4 +1,4 @@
-## Bookmarks tagged [[dashboard]](https://www.bookmarks.dev?q=[dashboard])
+## Bookmarks tagged [[dashboard]](https://www.bookmarks.dev/search?q=[dashboard])
 
 _<sup><sup>[www.bookmarks.dev/tagged/dashboard](https://www.bookmarks.dev/tagged/dashboard)</sup></sup>_
 ---

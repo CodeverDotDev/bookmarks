@@ -1,4 +1,4 @@
-## Bookmarks tagged [[axios]](https://www.bookmarks.dev?q=[axios])
+## Bookmarks tagged [[axios]](https://www.bookmarks.dev/search?q=[axios])
 
 _<sup><sup>[www.bookmarks.dev/tagged/axios](https://www.bookmarks.dev/tagged/axios)</sup></sup>_
 ---

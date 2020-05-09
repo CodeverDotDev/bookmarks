@@ -1,4 +1,4 @@
-## Bookmarks tagged [[ingress]](https://www.bookmarks.dev?q=[ingress])
+## Bookmarks tagged [[ingress]](https://www.bookmarks.dev/search?q=[ingress])
 
 _<sup><sup>[www.bookmarks.dev/tagged/ingress](https://www.bookmarks.dev/tagged/ingress)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[freelance]](https://www.bookmarks.dev?q=[freelance])
+## Bookmarks tagged [[freelance]](https://www.bookmarks.dev/search?q=[freelance])
 
 _<sup><sup>[www.bookmarks.dev/tagged/freelance](https://www.bookmarks.dev/tagged/freelance)</sup></sup>_
 ---

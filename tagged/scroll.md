@@ -1,4 +1,4 @@
-## Bookmarks tagged [[scroll]](https://www.bookmarks.dev?q=[scroll])
+## Bookmarks tagged [[scroll]](https://www.bookmarks.dev/search?q=[scroll])
 
 _<sup><sup>[www.bookmarks.dev/tagged/scroll](https://www.bookmarks.dev/tagged/scroll)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[clipper]](https://www.bookmarks.dev?q=[clipper])
+## Bookmarks tagged [[clipper]](https://www.bookmarks.dev/search?q=[clipper])
 
 _<sup><sup>[www.bookmarks.dev/tagged/clipper](https://www.bookmarks.dev/tagged/clipper)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[package]](https://www.bookmarks.dev?q=[package])
+## Bookmarks tagged [[package]](https://www.bookmarks.dev/search?q=[package])
 
 _<sup><sup>[www.bookmarks.dev/tagged/package](https://www.bookmarks.dev/tagged/package)</sup></sup>_
 ---

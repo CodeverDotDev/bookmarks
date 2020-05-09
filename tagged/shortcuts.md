@@ -1,4 +1,4 @@
-## Bookmarks tagged [[shortcuts]](https://www.bookmarks.dev?q=[shortcuts])
+## Bookmarks tagged [[shortcuts]](https://www.bookmarks.dev/search?q=[shortcuts])
 
 _<sup><sup>[www.bookmarks.dev/tagged/shortcuts](https://www.bookmarks.dev/tagged/shortcuts)</sup></sup>_
 ---

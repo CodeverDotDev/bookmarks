@@ -1,4 +1,4 @@
-## Bookmarks tagged [[decorator]](https://www.bookmarks.dev?q=[decorator])
+## Bookmarks tagged [[decorator]](https://www.bookmarks.dev/search?q=[decorator])
 
 _<sup><sup>[www.bookmarks.dev/tagged/decorator](https://www.bookmarks.dev/tagged/decorator)</sup></sup>_
 ---

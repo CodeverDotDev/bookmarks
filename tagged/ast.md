@@ -1,4 +1,4 @@
-## Bookmarks tagged [[ast]](https://www.bookmarks.dev?q=[ast])
+## Bookmarks tagged [[ast]](https://www.bookmarks.dev/search?q=[ast])
 
 _<sup><sup>[www.bookmarks.dev/tagged/ast](https://www.bookmarks.dev/tagged/ast)</sup></sup>_
 ---

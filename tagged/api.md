@@ -1,6 +1,14 @@
-## Bookmarks tagged [[api]](https://www.bookmarks.dev?q=[api])
+## Bookmarks tagged [[api]](https://www.bookmarks.dev/search?q=[api])
 
 _<sup><sup>[www.bookmarks.dev/tagged/api](https://www.bookmarks.dev/tagged/api)</sup></sup>_
+---
+#### [How to test a REST api from command line with curl – CodepediaOrg](https://www.codepedia.org/ama/how-to-test-a-rest-api-from-command-line-with-curl/)
+_<sup>https://www.codepedia.org/ama/how-to-test-a-rest-api-from-command-line-with-curl/</sup>_
+
+This post presents examples of making CRUD HTTP calls against a backend REST API. The API chosen supports www.bookmarks.dev
+* :calendar: **published on**: 2014-12-03
+* **tags**: [curl](../tagged/curl.md), [rest](../tagged/rest.md), [api](../tagged/api.md)
+* :octocat: **[source code](https://github.com/CodepediaOrg/bookmarks.dev)**
 ---
 #### [OpenAPI 3.0, And What it Means for the Future of Swagger - 1h:1min](https://www.youtube.com/watch?v=wBDSR0x3GZo)
 _<sup>https://www.youtube.com/watch?v=wBDSR0x3GZo</sup>_

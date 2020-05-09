@@ -1,4 +1,4 @@
-## Bookmarks tagged [[apl]](https://www.bookmarks.dev?q=[apl])
+## Bookmarks tagged [[apl]](https://www.bookmarks.dev/search?q=[apl])
 
 _<sup><sup>[www.bookmarks.dev/tagged/apl](https://www.bookmarks.dev/tagged/apl)</sup></sup>_
 ---

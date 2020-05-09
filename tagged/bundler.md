@@ -1,4 +1,4 @@
-## Bookmarks tagged [[bundler]](https://www.bookmarks.dev?q=[bundler])
+## Bookmarks tagged [[bundler]](https://www.bookmarks.dev/search?q=[bundler])
 
 _<sup><sup>[www.bookmarks.dev/tagged/bundler](https://www.bookmarks.dev/tagged/bundler)</sup></sup>_
 ---

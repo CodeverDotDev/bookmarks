@@ -1,4 +1,4 @@
-## Bookmarks tagged [[pyramid]](https://www.bookmarks.dev?q=[pyramid])
+## Bookmarks tagged [[pyramid]](https://www.bookmarks.dev/search?q=[pyramid])
 
 _<sup><sup>[www.bookmarks.dev/tagged/pyramid](https://www.bookmarks.dev/tagged/pyramid)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[blas]](https://www.bookmarks.dev?q=[blas])
+## Bookmarks tagged [[blas]](https://www.bookmarks.dev/search?q=[blas])
 
 _<sup><sup>[www.bookmarks.dev/tagged/blas](https://www.bookmarks.dev/tagged/blas)</sup></sup>_
 ---

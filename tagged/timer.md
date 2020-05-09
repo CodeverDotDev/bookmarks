@@ -1,4 +1,4 @@
-## Bookmarks tagged [[timer]](https://www.bookmarks.dev?q=[timer])
+## Bookmarks tagged [[timer]](https://www.bookmarks.dev/search?q=[timer])
 
 _<sup><sup>[www.bookmarks.dev/tagged/timer](https://www.bookmarks.dev/tagged/timer)</sup></sup>_
 ---

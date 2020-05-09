@@ -1,4 +1,4 @@
-## Bookmarks tagged [[podcast]](https://www.bookmarks.dev?q=[podcast])
+## Bookmarks tagged [[podcast]](https://www.bookmarks.dev/search?q=[podcast])
 
 _<sup><sup>[www.bookmarks.dev/tagged/podcast](https://www.bookmarks.dev/tagged/podcast)</sup></sup>_
 ---

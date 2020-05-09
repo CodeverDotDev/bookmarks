@@ -1,4 +1,4 @@
-## Bookmarks tagged [[pico-8]](https://www.bookmarks.dev?q=[pico-8])
+## Bookmarks tagged [[pico-8]](https://www.bookmarks.dev/search?q=[pico-8])
 
 _<sup><sup>[www.bookmarks.dev/tagged/pico-8](https://www.bookmarks.dev/tagged/pico-8)</sup></sup>_
 ---

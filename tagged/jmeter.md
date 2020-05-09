@@ -1,4 +1,4 @@
-## Bookmarks tagged [[jmeter]](https://www.bookmarks.dev?q=[jmeter])
+## Bookmarks tagged [[jmeter]](https://www.bookmarks.dev/search?q=[jmeter])
 
 _<sup><sup>[www.bookmarks.dev/tagged/jmeter](https://www.bookmarks.dev/tagged/jmeter)</sup></sup>_
 ---

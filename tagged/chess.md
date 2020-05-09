@@ -1,4 +1,4 @@
-## Bookmarks tagged [[chess]](https://www.bookmarks.dev?q=[chess])
+## Bookmarks tagged [[chess]](https://www.bookmarks.dev/search?q=[chess])
 
 _<sup><sup>[www.bookmarks.dev/tagged/chess](https://www.bookmarks.dev/tagged/chess)</sup></sup>_
 ---

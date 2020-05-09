@@ -1,4 +1,4 @@
-## Bookmarks tagged [[qa]](https://www.bookmarks.dev?q=[qa])
+## Bookmarks tagged [[qa]](https://www.bookmarks.dev/search?q=[qa])
 
 _<sup><sup>[www.bookmarks.dev/tagged/qa](https://www.bookmarks.dev/tagged/qa)</sup></sup>_
 ---

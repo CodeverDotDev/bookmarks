@@ -1,4 +1,4 @@
-## Bookmarks tagged [[miniz]](https://www.bookmarks.dev?q=[miniz])
+## Bookmarks tagged [[miniz]](https://www.bookmarks.dev/search?q=[miniz])
 
 _<sup><sup>[www.bookmarks.dev/tagged/miniz](https://www.bookmarks.dev/tagged/miniz)</sup></sup>_
 ---

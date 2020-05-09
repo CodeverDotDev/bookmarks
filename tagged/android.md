@@ -1,4 +1,4 @@
-## Bookmarks tagged [[android]](https://www.bookmarks.dev?q=[android])
+## Bookmarks tagged [[android]](https://www.bookmarks.dev/search?q=[android])
 
 _<sup><sup>[www.bookmarks.dev/tagged/android](https://www.bookmarks.dev/tagged/android)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[gatsby]](https://www.bookmarks.dev?q=[gatsby])
+## Bookmarks tagged [[gatsby]](https://www.bookmarks.dev/search?q=[gatsby])
 
 _<sup><sup>[www.bookmarks.dev/tagged/gatsby](https://www.bookmarks.dev/tagged/gatsby)</sup></sup>_
 ---

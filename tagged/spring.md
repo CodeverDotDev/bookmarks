@@ -1,6 +1,13 @@
-## Bookmarks tagged [[spring]](https://www.bookmarks.dev?q=[spring])
+## Bookmarks tagged [[spring]](https://www.bookmarks.dev/search?q=[spring])
 
 _<sup><sup>[www.bookmarks.dev/tagged/spring](https://www.bookmarks.dev/tagged/spring)</sup></sup>_
+---
+#### [Quarkus for Spring Developers](https://quarkus.io/blog/quarkus-for-spring-developers/)
+_<sup>https://quarkus.io/blog/quarkus-for-spring-developers/</sup>_
+
+The arrival of Quarkus 1.0 brings an innovative platform for developing Linux container- and kubernetes-native Java microservices. Developers typically have to set aside their existing knowledge as th...
+* :calendar: **published on**: 2019-12-11
+* **tags**: [quarkus](../tagged/quarkus.md), [spring-boot](../tagged/spring-boot.md), [spring](../tagged/spring.md), [java](../tagged/java.md)
 ---
 #### [JDK 8: Lessons Learnt With Lambdas and Streams - 30min](https://www.youtube.com/watch?v=wZKmA6XodNE&t=3s)
 _<sup>https://www.youtube.com/watch?v=wZKmA6XodNE&t=3s</sup>_

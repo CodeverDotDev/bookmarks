@@ -1,4 +1,4 @@
-## Bookmarks tagged [[asynchronous]](https://www.bookmarks.dev?q=[asynchronous])
+## Bookmarks tagged [[asynchronous]](https://www.bookmarks.dev/search?q=[asynchronous])
 
 _<sup><sup>[www.bookmarks.dev/tagged/asynchronous](https://www.bookmarks.dev/tagged/asynchronous)</sup></sup>_
 ---

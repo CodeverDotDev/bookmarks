@@ -1,4 +1,4 @@
-## Bookmarks tagged [[data-processing]](https://www.bookmarks.dev?q=[data-processing])
+## Bookmarks tagged [[data-processing]](https://www.bookmarks.dev/search?q=[data-processing])
 
 _<sup><sup>[www.bookmarks.dev/tagged/data-processing](https://www.bookmarks.dev/tagged/data-processing)</sup></sup>_
 ---

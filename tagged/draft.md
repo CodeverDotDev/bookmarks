@@ -1,4 +1,4 @@
-## Bookmarks tagged [[draft]](https://www.bookmarks.dev?q=[draft])
+## Bookmarks tagged [[draft]](https://www.bookmarks.dev/search?q=[draft])
 
 _<sup><sup>[www.bookmarks.dev/tagged/draft](https://www.bookmarks.dev/tagged/draft)</sup></sup>_
 ---

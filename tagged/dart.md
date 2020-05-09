@@ -1,4 +1,4 @@
-## Bookmarks tagged [[dart]](https://www.bookmarks.dev?q=[dart])
+## Bookmarks tagged [[dart]](https://www.bookmarks.dev/search?q=[dart])
 
 _<sup><sup>[www.bookmarks.dev/tagged/dart](https://www.bookmarks.dev/tagged/dart)</sup></sup>_
 ---

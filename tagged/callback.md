@@ -1,4 +1,4 @@
-## Bookmarks tagged [[callback]](https://www.bookmarks.dev?q=[callback])
+## Bookmarks tagged [[callback]](https://www.bookmarks.dev/search?q=[callback])
 
 _<sup><sup>[www.bookmarks.dev/tagged/callback](https://www.bookmarks.dev/tagged/callback)</sup></sup>_
 ---

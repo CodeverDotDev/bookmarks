@@ -1,4 +1,4 @@
-## Bookmarks tagged [[cheerio]](https://www.bookmarks.dev?q=[cheerio])
+## Bookmarks tagged [[cheerio]](https://www.bookmarks.dev/search?q=[cheerio])
 
 _<sup><sup>[www.bookmarks.dev/tagged/cheerio](https://www.bookmarks.dev/tagged/cheerio)</sup></sup>_
 ---

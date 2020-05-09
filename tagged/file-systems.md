@@ -1,4 +1,4 @@
-## Bookmarks tagged [[file-systems]](https://www.bookmarks.dev?q=[file-systems])
+## Bookmarks tagged [[file-systems]](https://www.bookmarks.dev/search?q=[file-systems])
 
 _<sup><sup>[www.bookmarks.dev/tagged/file-systems](https://www.bookmarks.dev/tagged/file-systems)</sup></sup>_
 ---

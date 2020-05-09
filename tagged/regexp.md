@@ -1,4 +1,4 @@
-## Bookmarks tagged [[regexp]](https://www.bookmarks.dev?q=[regexp])
+## Bookmarks tagged [[regexp]](https://www.bookmarks.dev/search?q=[regexp])
 
 _<sup><sup>[www.bookmarks.dev/tagged/regexp](https://www.bookmarks.dev/tagged/regexp)</sup></sup>_
 ---

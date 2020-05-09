@@ -1,4 +1,4 @@
-## Bookmarks tagged [[playstation]](https://www.bookmarks.dev?q=[playstation])
+## Bookmarks tagged [[playstation]](https://www.bookmarks.dev/search?q=[playstation])
 
 _<sup><sup>[www.bookmarks.dev/tagged/playstation](https://www.bookmarks.dev/tagged/playstation)</sup></sup>_
 ---

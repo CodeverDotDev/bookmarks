@@ -1,6 +1,13 @@
-## Bookmarks tagged [[github]](https://www.bookmarks.dev?q=[github])
+## Bookmarks tagged [[github]](https://www.bookmarks.dev/search?q=[github])
 
 _<sup><sup>[www.bookmarks.dev/tagged/github](https://www.bookmarks.dev/tagged/github)</sup></sup>_
+---
+#### [Primer CSS Home Page](https://primer.style/css/)
+_<sup>https://primer.style/css/</sup>_
+
+The CSS design system that powers GitHub
+* **tags**: [css](../tagged/css.md), [github](../tagged/github.md)
+* :octocat: **[source code](https://github.com/primer/css)**
 ---
 #### [Changing author info - GitHub Help](https://help.github.com/en/github/using-git/changing-author-info)
 _<sup>https://help.github.com/en/github/using-git/changing-author-info</sup>_

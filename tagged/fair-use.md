@@ -1,4 +1,4 @@
-## Bookmarks tagged [[fair-use]](https://www.bookmarks.dev?q=[fair-use])
+## Bookmarks tagged [[fair-use]](https://www.bookmarks.dev/search?q=[fair-use])
 
 _<sup><sup>[www.bookmarks.dev/tagged/fair-use](https://www.bookmarks.dev/tagged/fair-use)</sup></sup>_
 ---

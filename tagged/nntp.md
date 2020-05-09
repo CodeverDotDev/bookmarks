@@ -1,4 +1,4 @@
-## Bookmarks tagged [[nntp]](https://www.bookmarks.dev?q=[nntp])
+## Bookmarks tagged [[nntp]](https://www.bookmarks.dev/search?q=[nntp])
 
 _<sup><sup>[www.bookmarks.dev/tagged/nntp](https://www.bookmarks.dev/tagged/nntp)</sup></sup>_
 ---

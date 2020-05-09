@@ -1,4 +1,4 @@
-## Bookmarks tagged [[cheatsheets]](https://www.bookmarks.dev?q=[cheatsheets])
+## Bookmarks tagged [[cheatsheets]](https://www.bookmarks.dev/search?q=[cheatsheets])
 
 _<sup><sup>[www.bookmarks.dev/tagged/cheatsheets](https://www.bookmarks.dev/tagged/cheatsheets)</sup></sup>_
 ---

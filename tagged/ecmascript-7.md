@@ -1,4 +1,4 @@
-## Bookmarks tagged [[ecmascript-7]](https://www.bookmarks.dev?q=[ecmascript-7])
+## Bookmarks tagged [[ecmascript-7]](https://www.bookmarks.dev/search?q=[ecmascript-7])
 
 _<sup><sup>[www.bookmarks.dev/tagged/ecmascript-7](https://www.bookmarks.dev/tagged/ecmascript-7)</sup></sup>_
 ---

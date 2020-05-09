@@ -1,4 +1,4 @@
-## Bookmarks tagged [[authoring]](https://www.bookmarks.dev?q=[authoring])
+## Bookmarks tagged [[authoring]](https://www.bookmarks.dev/search?q=[authoring])
 
 _<sup><sup>[www.bookmarks.dev/tagged/authoring](https://www.bookmarks.dev/tagged/authoring)</sup></sup>_
 ---

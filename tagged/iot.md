@@ -1,4 +1,4 @@
-## Bookmarks tagged [[iot]](https://www.bookmarks.dev?q=[iot])
+## Bookmarks tagged [[iot]](https://www.bookmarks.dev/search?q=[iot])
 
 _<sup><sup>[www.bookmarks.dev/tagged/iot](https://www.bookmarks.dev/tagged/iot)</sup></sup>_
 ---

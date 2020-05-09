@@ -1,4 +1,4 @@
-## Bookmarks tagged [[resteasy]](https://www.bookmarks.dev?q=[resteasy])
+## Bookmarks tagged [[resteasy]](https://www.bookmarks.dev/search?q=[resteasy])
 
 _<sup><sup>[www.bookmarks.dev/tagged/resteasy](https://www.bookmarks.dev/tagged/resteasy)</sup></sup>_
 ---

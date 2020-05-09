@@ -1,4 +1,4 @@
-## Bookmarks tagged [[ipfs-deploy]](https://www.bookmarks.dev?q=[ipfs-deploy])
+## Bookmarks tagged [[ipfs-deploy]](https://www.bookmarks.dev/search?q=[ipfs-deploy])
 
 _<sup><sup>[www.bookmarks.dev/tagged/ipfs-deploy](https://www.bookmarks.dev/tagged/ipfs-deploy)</sup></sup>_
 ---

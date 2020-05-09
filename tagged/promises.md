@@ -1,4 +1,4 @@
-## Bookmarks tagged [[promises]](https://www.bookmarks.dev?q=[promises])
+## Bookmarks tagged [[promises]](https://www.bookmarks.dev/search?q=[promises])
 
 _<sup><sup>[www.bookmarks.dev/tagged/promises](https://www.bookmarks.dev/tagged/promises)</sup></sup>_
 ---

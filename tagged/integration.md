@@ -1,4 +1,4 @@
-## Bookmarks tagged [[integration]](https://www.bookmarks.dev?q=[integration])
+## Bookmarks tagged [[integration]](https://www.bookmarks.dev/search?q=[integration])
 
 _<sup><sup>[www.bookmarks.dev/tagged/integration](https://www.bookmarks.dev/tagged/integration)</sup></sup>_
 ---

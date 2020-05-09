@@ -1,4 +1,4 @@
-## Bookmarks tagged [[autocomplete]](https://www.bookmarks.dev?q=[autocomplete])
+## Bookmarks tagged [[autocomplete]](https://www.bookmarks.dev/search?q=[autocomplete])
 
 _<sup><sup>[www.bookmarks.dev/tagged/autocomplete](https://www.bookmarks.dev/tagged/autocomplete)</sup></sup>_
 ---

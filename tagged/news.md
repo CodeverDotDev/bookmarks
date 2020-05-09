@@ -1,4 +1,4 @@
-## Bookmarks tagged [[news]](https://www.bookmarks.dev?q=[news])
+## Bookmarks tagged [[news]](https://www.bookmarks.dev/search?q=[news])
 
 _<sup><sup>[www.bookmarks.dev/tagged/news](https://www.bookmarks.dev/tagged/news)</sup></sup>_
 ---

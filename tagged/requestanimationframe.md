@@ -1,4 +1,4 @@
-## Bookmarks tagged [[requestanimationframe]](https://www.bookmarks.dev?q=[requestanimationframe])
+## Bookmarks tagged [[requestanimationframe]](https://www.bookmarks.dev/search?q=[requestanimationframe])
 
 _<sup><sup>[www.bookmarks.dev/tagged/requestanimationframe](https://www.bookmarks.dev/tagged/requestanimationframe)</sup></sup>_
 ---

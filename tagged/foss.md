@@ -1,4 +1,4 @@
-## Bookmarks tagged [[foss]](https://www.bookmarks.dev?q=[foss])
+## Bookmarks tagged [[foss]](https://www.bookmarks.dev/search?q=[foss])
 
 _<sup><sup>[www.bookmarks.dev/tagged/foss](https://www.bookmarks.dev/tagged/foss)</sup></sup>_
 ---

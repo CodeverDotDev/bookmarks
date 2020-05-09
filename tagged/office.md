@@ -1,4 +1,4 @@
-## Bookmarks tagged [[office]](https://www.bookmarks.dev?q=[office])
+## Bookmarks tagged [[office]](https://www.bookmarks.dev/search?q=[office])
 
 _<sup><sup>[www.bookmarks.dev/tagged/office](https://www.bookmarks.dev/tagged/office)</sup></sup>_
 ---

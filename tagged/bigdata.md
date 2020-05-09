@@ -1,4 +1,4 @@
-## Bookmarks tagged [[bigdata]](https://www.bookmarks.dev?q=[bigdata])
+## Bookmarks tagged [[bigdata]](https://www.bookmarks.dev/search?q=[bigdata])
 
 _<sup><sup>[www.bookmarks.dev/tagged/bigdata](https://www.bookmarks.dev/tagged/bigdata)</sup></sup>_
 ---

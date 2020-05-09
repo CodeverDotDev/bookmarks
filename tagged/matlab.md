@@ -1,4 +1,4 @@
-## Bookmarks tagged [[matlab]](https://www.bookmarks.dev?q=[matlab])
+## Bookmarks tagged [[matlab]](https://www.bookmarks.dev/search?q=[matlab])
 
 _<sup><sup>[www.bookmarks.dev/tagged/matlab](https://www.bookmarks.dev/tagged/matlab)</sup></sup>_
 ---

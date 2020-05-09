@@ -1,4 +1,4 @@
-## Bookmarks tagged [[coverage]](https://www.bookmarks.dev?q=[coverage])
+## Bookmarks tagged [[coverage]](https://www.bookmarks.dev/search?q=[coverage])
 
 _<sup><sup>[www.bookmarks.dev/tagged/coverage](https://www.bookmarks.dev/tagged/coverage)</sup></sup>_
 ---

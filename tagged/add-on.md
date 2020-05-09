@@ -1,4 +1,4 @@
-## Bookmarks tagged [[add-on]](https://www.bookmarks.dev?q=[add-on])
+## Bookmarks tagged [[add-on]](https://www.bookmarks.dev/search?q=[add-on])
 
 _<sup><sup>[www.bookmarks.dev/tagged/add-on](https://www.bookmarks.dev/tagged/add-on)</sup></sup>_
 ---

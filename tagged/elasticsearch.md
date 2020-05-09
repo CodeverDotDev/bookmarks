@@ -1,4 +1,4 @@
-## Bookmarks tagged [[elasticsearch]](https://www.bookmarks.dev?q=[elasticsearch])
+## Bookmarks tagged [[elasticsearch]](https://www.bookmarks.dev/search?q=[elasticsearch])
 
 _<sup><sup>[www.bookmarks.dev/tagged/elasticsearch](https://www.bookmarks.dev/tagged/elasticsearch)</sup></sup>_
 ---

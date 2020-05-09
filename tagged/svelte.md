@@ -1,4 +1,4 @@
-## Bookmarks tagged [[svelte]](https://www.bookmarks.dev?q=[svelte])
+## Bookmarks tagged [[svelte]](https://www.bookmarks.dev/search?q=[svelte])
 
 _<sup><sup>[www.bookmarks.dev/tagged/svelte](https://www.bookmarks.dev/tagged/svelte)</sup></sup>_
 ---

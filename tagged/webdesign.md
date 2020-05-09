@@ -1,4 +1,4 @@
-## Bookmarks tagged [[webdesign]](https://www.bookmarks.dev?q=[webdesign])
+## Bookmarks tagged [[webdesign]](https://www.bookmarks.dev/search?q=[webdesign])
 
 _<sup><sup>[www.bookmarks.dev/tagged/webdesign](https://www.bookmarks.dev/tagged/webdesign)</sup></sup>_
 ---

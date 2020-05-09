@@ -1,4 +1,4 @@
-## Bookmarks tagged [[foreach]](https://www.bookmarks.dev?q=[foreach])
+## Bookmarks tagged [[foreach]](https://www.bookmarks.dev/search?q=[foreach])
 
 _<sup><sup>[www.bookmarks.dev/tagged/foreach](https://www.bookmarks.dev/tagged/foreach)</sup></sup>_
 ---

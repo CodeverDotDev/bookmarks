@@ -1,4 +1,4 @@
-## Bookmarks tagged [[symfony2]](https://www.bookmarks.dev?q=[symfony2])
+## Bookmarks tagged [[symfony2]](https://www.bookmarks.dev/search?q=[symfony2])
 
 _<sup><sup>[www.bookmarks.dev/tagged/symfony2](https://www.bookmarks.dev/tagged/symfony2)</sup></sup>_
 ---

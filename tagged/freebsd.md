@@ -1,4 +1,4 @@
-## Bookmarks tagged [[freebsd]](https://www.bookmarks.dev?q=[freebsd])
+## Bookmarks tagged [[freebsd]](https://www.bookmarks.dev/search?q=[freebsd])
 
 _<sup><sup>[www.bookmarks.dev/tagged/freebsd](https://www.bookmarks.dev/tagged/freebsd)</sup></sup>_
 ---

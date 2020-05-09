@@ -1,4 +1,4 @@
-## Bookmarks tagged [[state-machine]](https://www.bookmarks.dev?q=[state-machine])
+## Bookmarks tagged [[state-machine]](https://www.bookmarks.dev/search?q=[state-machine])
 
 _<sup><sup>[www.bookmarks.dev/tagged/state-machine](https://www.bookmarks.dev/tagged/state-machine)</sup></sup>_
 ---

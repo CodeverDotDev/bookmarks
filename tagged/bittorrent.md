@@ -1,4 +1,4 @@
-## Bookmarks tagged [[bittorrent]](https://www.bookmarks.dev?q=[bittorrent])
+## Bookmarks tagged [[bittorrent]](https://www.bookmarks.dev/search?q=[bittorrent])
 
 _<sup><sup>[www.bookmarks.dev/tagged/bittorrent](https://www.bookmarks.dev/tagged/bittorrent)</sup></sup>_
 ---

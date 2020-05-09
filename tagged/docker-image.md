@@ -1,4 +1,4 @@
-## Bookmarks tagged [[docker-image]](https://www.bookmarks.dev?q=[docker-image])
+## Bookmarks tagged [[docker-image]](https://www.bookmarks.dev/search?q=[docker-image])
 
 _<sup><sup>[www.bookmarks.dev/tagged/docker-image](https://www.bookmarks.dev/tagged/docker-image)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[editor-plugins]](https://www.bookmarks.dev?q=[editor-plugins])
+## Bookmarks tagged [[editor-plugins]](https://www.bookmarks.dev/search?q=[editor-plugins])
 
 _<sup><sup>[www.bookmarks.dev/tagged/editor-plugins](https://www.bookmarks.dev/tagged/editor-plugins)</sup></sup>_
 ---

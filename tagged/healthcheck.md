@@ -1,4 +1,4 @@
-## Bookmarks tagged [[healthcheck]](https://www.bookmarks.dev?q=[healthcheck])
+## Bookmarks tagged [[healthcheck]](https://www.bookmarks.dev/search?q=[healthcheck])
 
 _<sup><sup>[www.bookmarks.dev/tagged/healthcheck](https://www.bookmarks.dev/tagged/healthcheck)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[scripting-language]](https://www.bookmarks.dev?q=[scripting-language])
+## Bookmarks tagged [[scripting-language]](https://www.bookmarks.dev/search?q=[scripting-language])
 
 _<sup><sup>[www.bookmarks.dev/tagged/scripting-language](https://www.bookmarks.dev/tagged/scripting-language)</sup></sup>_
 ---

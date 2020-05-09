@@ -1,4 +1,4 @@
-## Bookmarks tagged [[javaee]](https://www.bookmarks.dev?q=[javaee])
+## Bookmarks tagged [[javaee]](https://www.bookmarks.dev/search?q=[javaee])
 
 _<sup><sup>[www.bookmarks.dev/tagged/javaee](https://www.bookmarks.dev/tagged/javaee)</sup></sup>_
 ---

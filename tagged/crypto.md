@@ -1,4 +1,4 @@
-## Bookmarks tagged [[crypto]](https://www.bookmarks.dev?q=[crypto])
+## Bookmarks tagged [[crypto]](https://www.bookmarks.dev/search?q=[crypto])
 
 _<sup><sup>[www.bookmarks.dev/tagged/crypto](https://www.bookmarks.dev/tagged/crypto)</sup></sup>_
 ---

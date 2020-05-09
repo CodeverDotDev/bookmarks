@@ -1,4 +1,4 @@
-## Bookmarks tagged [[couchdb]](https://www.bookmarks.dev?q=[couchdb])
+## Bookmarks tagged [[couchdb]](https://www.bookmarks.dev/search?q=[couchdb])
 
 _<sup><sup>[www.bookmarks.dev/tagged/couchdb](https://www.bookmarks.dev/tagged/couchdb)</sup></sup>_
 ---

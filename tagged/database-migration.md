@@ -1,4 +1,4 @@
-## Bookmarks tagged [[database-migration]](https://www.bookmarks.dev?q=[database-migration])
+## Bookmarks tagged [[database-migration]](https://www.bookmarks.dev/search?q=[database-migration])
 
 _<sup><sup>[www.bookmarks.dev/tagged/database-migration](https://www.bookmarks.dev/tagged/database-migration)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[web-asset-management]](https://www.bookmarks.dev?q=[web-asset-management])
+## Bookmarks tagged [[web-asset-management]](https://www.bookmarks.dev/search?q=[web-asset-management])
 
 _<sup><sup>[www.bookmarks.dev/tagged/web-asset-management](https://www.bookmarks.dev/tagged/web-asset-management)</sup></sup>_
 ---

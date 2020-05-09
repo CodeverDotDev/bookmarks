@@ -1,6 +1,14 @@
-## Bookmarks tagged [[string]](https://www.bookmarks.dev?q=[string])
+## Bookmarks tagged [[string]](https://www.bookmarks.dev/search?q=[string])
 
 _<sup><sup>[www.bookmarks.dev/tagged/string](https://www.bookmarks.dev/tagged/string)</sup></sup>_
+---
+#### [String Manipulation - plugin for IntelliJ IDEs](https://plugins.jetbrains.com/plugin/2162-string-manipulation)
+_<sup>https://plugins.jetbrains.com/plugin/2162-string-manipulation</sup>_
+
+Provides actions for text manipulation:
+
+* Switch case (camelCase, kebab-lowercase, KEBAB-UPPERCASE, snake_case, SCREAMING_SNAKE_CASE, dot.case, words lowercase, First word capitalized, Words Capitali...
+* **tags**: [intellij](../tagged/intellij.md), [string](../tagged/string.md), [plugins](../tagged/plugins.md)
 ---
 #### [strutil](https://github.com/ozgio/strutil)
 _<sup>https://github.com/ozgio/strutil</sup>_

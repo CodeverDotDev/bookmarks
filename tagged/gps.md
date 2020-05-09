@@ -1,4 +1,4 @@
-## Bookmarks tagged [[gps]](https://www.bookmarks.dev?q=[gps])
+## Bookmarks tagged [[gps]](https://www.bookmarks.dev/search?q=[gps])
 
 _<sup><sup>[www.bookmarks.dev/tagged/gps](https://www.bookmarks.dev/tagged/gps)</sup></sup>_
 ---

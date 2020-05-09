@@ -1,6 +1,118 @@
-## Bookmarks tagged [[angular]](https://www.bookmarks.dev?q=[angular])
+## Bookmarks tagged [[angular]](https://www.bookmarks.dev/search?q=[angular])
 
 _<sup><sup>[www.bookmarks.dev/tagged/angular](https://www.bookmarks.dev/tagged/angular)</sup></sup>_
+---
+#### [Working with Angular 5 Template Reference Variables](https://itnext.io/working-with-angular-5-template-reference-variable-e5aa59fb9af)
+_<sup>https://itnext.io/working-with-angular-5-template-reference-variable-e5aa59fb9af</sup>_
+
+A template reference variable is often a reference to a DOM element within a template. It can also be a reference to an Angular component or directive or a web component. That means you can easily acc...
+* :calendar: **published on**: 2018-04-06
+* **tags**: [angular](../tagged/angular.md)
+* :octocat: **[source code](https://stackblitz.com/edit/angular-2-template-reference-variable)**
+---
+#### [The essential difference between Constructor and ngOnInit in Angular - Angular inDepth](https://indepth.dev/the-essential-difference-between-constructor-and-ngoninit-in-angular/)
+_<sup>https://indepth.dev/the-essential-difference-between-constructor-and-ngoninit-in-angular/</sup>_
+
+This article explores the difference between Constructor and ngOnInit lifecyle method in Angular. We'll explore JS/TS language nuances, the component initialization process and how both are supposed t...
+* :calendar: **published on**: 2017-09-27
+* **tags**: [angular](../tagged/angular.md), [constructor](../tagged/constructor.md)
+---
+#### [Reloading current route in Angular 5 / Angular 6 / Angular 7](https://medium.com/engineering-on-the-incline/reloading-current-route-on-click-angular-5-1a1bfc740ab2)
+_<sup>https://medium.com/engineering-on-the-incline/reloading-current-route-on-click-angular-5-1a1bfc740ab...</sup>_
+
+As of Angular 5.1 there is a supported technique for route reloading. This can now be done using the `onSameUrlNavigation`
+configuration option as part of the built-in Angular router. Unfortunately, t...
+* :calendar: **published on**: 2018-01-15
+* **tags**: [angular](../tagged/angular.md)
+---
+#### [Component events with EventEmitter and @Output in Angular](https://ultimatecourses.com/blog/component-events-event-emitter-output-angular-2)
+_<sup>https://ultimatecourses.com/blog/component-events-event-emitter-output-angular-2</sup>_
+
+In this post we’re going to dive into Angular components and how to use the EventEmitter and Outputs, so we can transfer or notify any parent component that something has changed, or we would like to ...
+* :calendar: **published on**: 2019-07-17
+* **tags**: [angular](../tagged/angular.md)
+---
+#### [GitHub - fxmontigny/ng2-ace-editor](https://github.com/fxmontigny/ng2-ace-editor)
+_<sup>https://github.com/fxmontigny/ng2-ace-editor</sup>_
+
+Ace editor integration with typescript for angular 4 - 5 - fxmontigny/ng2-ace-editor
+* **tags**: [ace-editor](../tagged/ace-editor.md), [angular](../tagged/angular.md), [typescript](../tagged/typescript.md)
+* :octocat: **[source code](Cache Object Script)**
+---
+#### [ngx-clipboard home page](https://maxisam.github.io/ngx-clipboard/)
+_<sup>https://maxisam.github.io/ngx-clipboard/</sup>_
+
+A native clipboard directive ported from clipboard.js
+* **tags**: [angular](../tagged/angular.md), [clipboard](../tagged/clipboard.md), [clipboard.js](../tagged/clipboard.js.md)
+* :octocat: **[source code](https://github.com/maxisam/ngx-clipboard)**
+---
+#### [Angular constructor versus ngOnInit](https://ultimatecourses.com/blog/angular-constructor-ngoninit-lifecycle-hook)
+_<sup>https://ultimatecourses.com/blog/angular-constructor-ngoninit-lifecycle-hook</sup>_
+
+Let’s explore the key differences between the `OnInit` lifecycle hook in Angular versus the constructor that we declare via a TypeScript class.
+
+The lesson here is that it’s out of Angular’s control w...
+* **tags**: [angular](../tagged/angular.md), [constructor](../tagged/constructor.md)
+---
+#### [Updating Angular 2 Forms with patchValue or setValue](https://ultimatecourses.com/blog/angular-2-form-controls-patch-value-set-value)
+_<sup>https://ultimatecourses.com/blog/angular-2-form-controls-patch-value-set-value</sup>_
+
+Setting model values in Angular (v2+) can be done in a few different ways, however with reactive forms things are extremely easy to do with the new form APIs. In this post we’ll dig a little deeper as...
+* **tags**: [angular](../tagged/angular.md), [forms](../tagged/forms.md)
+* :octocat: **[source code](https://github.com/angular/angular/blob/8f5dd1f11e6ca1888fdbd3231c06d6df00aba5cc/modules/%40angular/forms/src/model.ts)**
+---
+#### [Reactive Forms in Angular: Dynamically Creating Form Fields With FormArray](https://alligator.io/angular/reactive-forms-formarray-dynamic-fields/)
+_<sup>https://alligator.io/angular/reactive-forms-formarray-dynamic-fields/</sup>_
+
+So you have a form and would like to add form fields dynamically from a response to a user event? It’s easy to do with Reactive Forms and FormArray. FormArray is a bit like FormGroup and it’s used in ...
+* **tags**: [angular](../tagged/angular.md), [forms](../tagged/forms.md)
+---
+#### [Using comma as a list separator in Angular 2](https://stackoverflow.com/questions/34053860/using-comma-as-a-list-separator-in-angular-2)
+_<sup>https://stackoverflow.com/questions/34053860/using-comma-as-a-list-separator-in-angular-2</sup>_
+
+```html
+<span *ngFor="let item of items; let isLast=last">
+   {{item}}{{isLast ? '' : ', '}}
+</span>
+```
+* :calendar: **published on**: 2015-12-02
+* **tags**: [angular](../tagged/angular.md)
+---
+#### [Angular 5 - Copy to clipboard](https://stackoverflow.com/questions/49102724/angular-5-copy-to-clipboard/52949299#52949299)
+_<sup>https://stackoverflow.com/questions/49102724/angular-5-copy-to-clipboard/52949299#52949299</sup>_
+
+Several solutions are presented.
+* :calendar: **published on**: 2018-03-05
+* **tags**: [angular](../tagged/angular.md), [typescript](../tagged/typescript.md)
+---
+#### [Angular HighlightJS Module](https://ngx-highlight.netlify.com/)
+_<sup>https://ngx-highlight.netlify.com/</sup>_
+
+Angular syntax highlighting module.
+* **tags**: [angular](../tagged/angular.md), [highlightjs](../tagged/highlightjs.md), [code-highlighting](../tagged/code-highlighting.md)
+* :octocat: **[source code](https://github.com/MurhafSousli/ngx-highlightjs)**
+---
+#### [Bizarre White Space Issue. HTML, CSS, Angular](https://stackoverflow.com/questions/27562924/bizarre-white-space-issue-html-css-angular)
+_<sup>https://stackoverflow.com/questions/27562924/bizarre-white-space-issue-html-css-angular</sup>_
+
+I know this is an old question but I recently had the same issue and it was due to my use of line breaks and indents inside the <pre> tags. For instance, my original code looked like:
+...
+* :calendar: **published on**: 2014-12-19
+* **tags**: [html](../tagged/html.md), [css](../tagged/css.md), [angular](../tagged/angular.md)
+---
+#### [Exploring set, get and Object.defineProperty in TypeScript](https://ultimatecourses.com/blog/typescript-setters-getter)
+_<sup>https://ultimatecourses.com/blog/typescript-setters-getter</sup>_
+
+When working with Javascript or TypeScript, you may have seen the `set` and `get` keywords being thrown around in various blogs or codebases - and they’re extremely useful for parsing or modifying dat...
+* :calendar: **published on**: 2017-09-26
+* **tags**: [javascript](../tagged/javascript.md), [typescript](../tagged/typescript.md), [angular](../tagged/angular.md)
+---
+#### [3 Common Angular Rxjs Pitfalls](https://blog.angular-university.io/angular-2-rxjs-common-pitfalls/)
+_<sup>https://blog.angular-university.io/angular-2-rxjs-common-pitfalls/</sup>_
+
+These are 3 situations that we can come across  while building Angular apps using  RxJs. We are going to go over why the issue happens and how to fix it
+* :calendar: **published on**: 2019-04-19
+* **tags**: [angular](../tagged/angular.md), [rxjs](../tagged/rxjs.md), [observable](../tagged/observable.md)
 ---
 #### [Angular Uniserval Guide](https://angular.io/guide/universal)
 _<sup>https://angular.io/guide/universal</sup>_
@@ -1026,8 +1138,8 @@ Webpack plugin that AoT compiles your Angular components and modules.
 * **tags**: [angular](../tagged/angular.md)
 * :octocat: **[source code](https://github.com/angular/angular-cli)**
 ---
-#### [Lifecycle Hooks - ts - GUIDE](https://angular.io/docs/ts/latest/guide/lifecycle-hooks.html)
-_<sup>https://angular.io/docs/ts/latest/guide/lifecycle-hooks.html</sup>_
+#### [Angular Lifecycle Hooks](https://angular.io/guide/lifecycle-hooks)
+_<sup>https://angular.io/guide/lifecycle-hooks</sup>_
 
 Angular calls lifecycle hook methods on directives and components as it creates, changes, and destroys them. Learn about:
 
@@ -1036,7 +1148,7 @@ Angular calls lifecycle hook methods on directives and components as it creates,
 * OnChanges
 * DoCheck
 * Af...
-* **tags**: [angular](../tagged/angular.md)
+* **tags**: [angular](../tagged/angular.md), [docs](../tagged/docs.md)
 ---
 #### [Change Detection in Angular 2 – Angular](https://vsavkin.com/change-detection-in-angular-2-4f216b855d4c)
 _<sup>https://vsavkin.com/change-detection-in-angular-2-4f216b855d4c</sup>_

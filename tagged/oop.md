@@ -1,4 +1,4 @@
-## Bookmarks tagged [[oop]](https://www.bookmarks.dev?q=[oop])
+## Bookmarks tagged [[oop]](https://www.bookmarks.dev/search?q=[oop])
 
 _<sup><sup>[www.bookmarks.dev/tagged/oop](https://www.bookmarks.dev/tagged/oop)</sup></sup>_
 ---

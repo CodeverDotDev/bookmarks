@@ -1,4 +1,4 @@
-## Bookmarks tagged [[open-graph-protocol]](https://www.bookmarks.dev?q=[open-graph-protocol])
+## Bookmarks tagged [[open-graph-protocol]](https://www.bookmarks.dev/search?q=[open-graph-protocol])
 
 _<sup><sup>[www.bookmarks.dev/tagged/open-graph-protocol](https://www.bookmarks.dev/tagged/open-graph-protocol)</sup></sup>_
 ---

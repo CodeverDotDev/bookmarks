@@ -1,4 +1,4 @@
-## Bookmarks tagged [[upstart]](https://www.bookmarks.dev?q=[upstart])
+## Bookmarks tagged [[upstart]](https://www.bookmarks.dev/search?q=[upstart])
 
 _<sup><sup>[www.bookmarks.dev/tagged/upstart](https://www.bookmarks.dev/tagged/upstart)</sup></sup>_
 ---

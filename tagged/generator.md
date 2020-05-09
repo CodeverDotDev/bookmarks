@@ -1,4 +1,4 @@
-## Bookmarks tagged [[generator]](https://www.bookmarks.dev?q=[generator])
+## Bookmarks tagged [[generator]](https://www.bookmarks.dev/search?q=[generator])
 
 _<sup><sup>[www.bookmarks.dev/tagged/generator](https://www.bookmarks.dev/tagged/generator)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[ngrx]](https://www.bookmarks.dev?q=[ngrx])
+## Bookmarks tagged [[ngrx]](https://www.bookmarks.dev/search?q=[ngrx])
 
 _<sup><sup>[www.bookmarks.dev/tagged/ngrx](https://www.bookmarks.dev/tagged/ngrx)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[garbage-collection]](https://www.bookmarks.dev?q=[garbage-collection])
+## Bookmarks tagged [[garbage-collection]](https://www.bookmarks.dev/search?q=[garbage-collection])
 
 _<sup><sup>[www.bookmarks.dev/tagged/garbage-collection](https://www.bookmarks.dev/tagged/garbage-collection)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[purescript]](https://www.bookmarks.dev?q=[purescript])
+## Bookmarks tagged [[purescript]](https://www.bookmarks.dev/search?q=[purescript])
 
 _<sup><sup>[www.bookmarks.dev/tagged/purescript](https://www.bookmarks.dev/tagged/purescript)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[sinonjs]](https://www.bookmarks.dev?q=[sinonjs])
+## Bookmarks tagged [[sinonjs]](https://www.bookmarks.dev/search?q=[sinonjs])
 
 _<sup><sup>[www.bookmarks.dev/tagged/sinonjs](https://www.bookmarks.dev/tagged/sinonjs)</sup></sup>_
 ---

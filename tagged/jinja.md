@@ -1,4 +1,4 @@
-## Bookmarks tagged [[jinja]](https://www.bookmarks.dev?q=[jinja])
+## Bookmarks tagged [[jinja]](https://www.bookmarks.dev/search?q=[jinja])
 
 _<sup><sup>[www.bookmarks.dev/tagged/jinja](https://www.bookmarks.dev/tagged/jinja)</sup></sup>_
 ---

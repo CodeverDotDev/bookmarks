@@ -1,4 +1,4 @@
-## Bookmarks tagged [[jakartaee]](https://www.bookmarks.dev?q=[jakartaee])
+## Bookmarks tagged [[jakartaee]](https://www.bookmarks.dev/search?q=[jakartaee])
 
 _<sup><sup>[www.bookmarks.dev/tagged/jakartaee](https://www.bookmarks.dev/tagged/jakartaee)</sup></sup>_
 ---

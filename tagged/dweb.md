@@ -1,4 +1,4 @@
-## Bookmarks tagged [[dweb]](https://www.bookmarks.dev?q=[dweb])
+## Bookmarks tagged [[dweb]](https://www.bookmarks.dev/search?q=[dweb])
 
 _<sup><sup>[www.bookmarks.dev/tagged/dweb](https://www.bookmarks.dev/tagged/dweb)</sup></sup>_
 ---

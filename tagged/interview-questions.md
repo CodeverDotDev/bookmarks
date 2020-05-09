@@ -1,4 +1,4 @@
-## Bookmarks tagged [[interview-questions]](https://www.bookmarks.dev?q=[interview-questions])
+## Bookmarks tagged [[interview-questions]](https://www.bookmarks.dev/search?q=[interview-questions])
 
 _<sup><sup>[www.bookmarks.dev/tagged/interview-questions](https://www.bookmarks.dev/tagged/interview-questions)</sup></sup>_
 ---

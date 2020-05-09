@@ -1,4 +1,4 @@
-## Bookmarks tagged [[formal-verification]](https://www.bookmarks.dev?q=[formal-verification])
+## Bookmarks tagged [[formal-verification]](https://www.bookmarks.dev/search?q=[formal-verification])
 
 _<sup><sup>[www.bookmarks.dev/tagged/formal-verification](https://www.bookmarks.dev/tagged/formal-verification)</sup></sup>_
 ---

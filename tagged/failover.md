@@ -1,4 +1,4 @@
-## Bookmarks tagged [[failover]](https://www.bookmarks.dev?q=[failover])
+## Bookmarks tagged [[failover]](https://www.bookmarks.dev/search?q=[failover])
 
 _<sup><sup>[www.bookmarks.dev/tagged/failover](https://www.bookmarks.dev/tagged/failover)</sup></sup>_
 ---

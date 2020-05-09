@@ -1,6 +1,13 @@
-## Bookmarks tagged [[command-line]](https://www.bookmarks.dev?q=[command-line])
+## Bookmarks tagged [[command-line]](https://www.bookmarks.dev/search?q=[command-line])
 
 _<sup><sup>[www.bookmarks.dev/tagged/command-line](https://www.bookmarks.dev/tagged/command-line)</sup></sup>_
+---
+#### [How to modify the size of a column in a Mysql database from command line – CodepediaOrg](https://www.codepedia.org/ama/how-to-modify-a-column-size-in-a-mysql-database-from-command-line)
+_<sup>https://www.codepedia.org/ama/how-to-modify-a-column-size-in-a-mysql-database-from-command-line</sup>_
+
+This blog post presents the steps required to connect to the MySql database from the command line and modify the size of a column in a table. The example is based on the MySql database that is backing...
+* :calendar: **published on**: 2020-04-13
+* **tags**: [mysql](../tagged/mysql.md), [command-line](../tagged/command-line.md), [cli](../tagged/cli.md), [debugging](../tagged/debugging.md)
 ---
 #### [Amazon S3 Tools: Command Line S3 Client and S3 Backup for Windows, Linux: s3cmd, s3express](https://s3tools.org/s3cmd)
 _<sup>https://s3tools.org/s3cmd</sup>_

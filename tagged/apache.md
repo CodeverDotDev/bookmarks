@@ -1,4 +1,4 @@
-## Bookmarks tagged [[apache]](https://www.bookmarks.dev?q=[apache])
+## Bookmarks tagged [[apache]](https://www.bookmarks.dev/search?q=[apache])
 
 _<sup><sup>[www.bookmarks.dev/tagged/apache](https://www.bookmarks.dev/tagged/apache)</sup></sup>_
 ---

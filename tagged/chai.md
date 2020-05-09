@@ -1,4 +1,4 @@
-## Bookmarks tagged [[chai]](https://www.bookmarks.dev?q=[chai])
+## Bookmarks tagged [[chai]](https://www.bookmarks.dev/search?q=[chai])
 
 _<sup><sup>[www.bookmarks.dev/tagged/chai](https://www.bookmarks.dev/tagged/chai)</sup></sup>_
 ---

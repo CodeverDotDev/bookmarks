@@ -1,4 +1,4 @@
-## Bookmarks tagged [[hadoop]](https://www.bookmarks.dev?q=[hadoop])
+## Bookmarks tagged [[hadoop]](https://www.bookmarks.dev/search?q=[hadoop])
 
 _<sup><sup>[www.bookmarks.dev/tagged/hadoop](https://www.bookmarks.dev/tagged/hadoop)</sup></sup>_
 ---

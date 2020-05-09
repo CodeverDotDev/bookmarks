@@ -1,4 +1,4 @@
-## Bookmarks tagged [[refactoring]](https://www.bookmarks.dev?q=[refactoring])
+## Bookmarks tagged [[refactoring]](https://www.bookmarks.dev/search?q=[refactoring])
 
 _<sup><sup>[www.bookmarks.dev/tagged/refactoring](https://www.bookmarks.dev/tagged/refactoring)</sup></sup>_
 ---

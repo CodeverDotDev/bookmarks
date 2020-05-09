@@ -1,4 +1,4 @@
-## Bookmarks tagged [[lumen]](https://www.bookmarks.dev?q=[lumen])
+## Bookmarks tagged [[lumen]](https://www.bookmarks.dev/search?q=[lumen])
 
 _<sup><sup>[www.bookmarks.dev/tagged/lumen](https://www.bookmarks.dev/tagged/lumen)</sup></sup>_
 ---

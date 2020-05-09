@@ -1,4 +1,4 @@
-## Bookmarks tagged [[security-tools]](https://www.bookmarks.dev?q=[security-tools])
+## Bookmarks tagged [[security-tools]](https://www.bookmarks.dev/search?q=[security-tools])
 
 _<sup><sup>[www.bookmarks.dev/tagged/security-tools](https://www.bookmarks.dev/tagged/security-tools)</sup></sup>_
 ---

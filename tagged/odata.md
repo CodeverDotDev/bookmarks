@@ -1,4 +1,4 @@
-## Bookmarks tagged [[odata]](https://www.bookmarks.dev?q=[odata])
+## Bookmarks tagged [[odata]](https://www.bookmarks.dev/search?q=[odata])
 
 _<sup><sup>[www.bookmarks.dev/tagged/odata](https://www.bookmarks.dev/tagged/odata)</sup></sup>_
 ---

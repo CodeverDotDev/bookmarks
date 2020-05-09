@@ -1,4 +1,4 @@
-## Bookmarks tagged [[sqlite]](https://www.bookmarks.dev?q=[sqlite])
+## Bookmarks tagged [[sqlite]](https://www.bookmarks.dev/search?q=[sqlite])
 
 _<sup><sup>[www.bookmarks.dev/tagged/sqlite](https://www.bookmarks.dev/tagged/sqlite)</sup></sup>_
 ---

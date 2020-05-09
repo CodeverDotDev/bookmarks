@@ -1,4 +1,4 @@
-## Bookmarks tagged [[release-management]](https://www.bookmarks.dev?q=[release-management])
+## Bookmarks tagged [[release-management]](https://www.bookmarks.dev/search?q=[release-management])
 
 _<sup><sup>[www.bookmarks.dev/tagged/release-management](https://www.bookmarks.dev/tagged/release-management)</sup></sup>_
 ---

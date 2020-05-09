@@ -1,4 +1,4 @@
-## Bookmarks tagged [[virtual-boy]](https://www.bookmarks.dev?q=[virtual-boy])
+## Bookmarks tagged [[virtual-boy]](https://www.bookmarks.dev/search?q=[virtual-boy])
 
 _<sup><sup>[www.bookmarks.dev/tagged/virtual-boy](https://www.bookmarks.dev/tagged/virtual-boy)</sup></sup>_
 ---

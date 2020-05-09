@@ -1,4 +1,4 @@
-## Bookmarks tagged [[angular-material]](https://www.bookmarks.dev?q=[angular-material])
+## Bookmarks tagged [[angular-material]](https://www.bookmarks.dev/search?q=[angular-material])
 
 _<sup><sup>[www.bookmarks.dev/tagged/angular-material](https://www.bookmarks.dev/tagged/angular-material)</sup></sup>_
 ---

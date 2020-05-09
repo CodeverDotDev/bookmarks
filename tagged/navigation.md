@@ -1,4 +1,4 @@
-## Bookmarks tagged [[navigation]](https://www.bookmarks.dev?q=[navigation])
+## Bookmarks tagged [[navigation]](https://www.bookmarks.dev/search?q=[navigation])
 
 _<sup><sup>[www.bookmarks.dev/tagged/navigation](https://www.bookmarks.dev/tagged/navigation)</sup></sup>_
 ---

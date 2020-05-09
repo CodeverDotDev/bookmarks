@@ -1,4 +1,4 @@
-## Bookmarks tagged [[vorpal]](https://www.bookmarks.dev?q=[vorpal])
+## Bookmarks tagged [[vorpal]](https://www.bookmarks.dev/search?q=[vorpal])
 
 _<sup><sup>[www.bookmarks.dev/tagged/vorpal](https://www.bookmarks.dev/tagged/vorpal)</sup></sup>_
 ---

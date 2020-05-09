@@ -1,4 +1,4 @@
-## Bookmarks tagged [[time]](https://www.bookmarks.dev?q=[time])
+## Bookmarks tagged [[time]](https://www.bookmarks.dev/search?q=[time])
 
 _<sup><sup>[www.bookmarks.dev/tagged/time](https://www.bookmarks.dev/tagged/time)</sup></sup>_
 ---

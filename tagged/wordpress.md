@@ -1,4 +1,4 @@
-## Bookmarks tagged [[wordpress]](https://www.bookmarks.dev?q=[wordpress])
+## Bookmarks tagged [[wordpress]](https://www.bookmarks.dev/search?q=[wordpress])
 
 _<sup><sup>[www.bookmarks.dev/tagged/wordpress](https://www.bookmarks.dev/tagged/wordpress)</sup></sup>_
 ---

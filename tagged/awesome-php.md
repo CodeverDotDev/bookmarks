@@ -1,4 +1,4 @@
-## Bookmarks tagged [[awesome-php]](https://www.bookmarks.dev?q=[awesome-php])
+## Bookmarks tagged [[awesome-php]](https://www.bookmarks.dev/search?q=[awesome-php])
 
 _<sup><sup>[www.bookmarks.dev/tagged/awesome-php](https://www.bookmarks.dev/tagged/awesome-php)</sup></sup>_
 ---

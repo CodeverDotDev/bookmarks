@@ -1,4 +1,4 @@
-## Bookmarks tagged [[administration]](https://www.bookmarks.dev?q=[administration])
+## Bookmarks tagged [[administration]](https://www.bookmarks.dev/search?q=[administration])
 
 _<sup><sup>[www.bookmarks.dev/tagged/administration](https://www.bookmarks.dev/tagged/administration)</sup></sup>_
 ---

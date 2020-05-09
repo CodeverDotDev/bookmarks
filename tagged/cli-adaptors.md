@@ -1,4 +1,4 @@
-## Bookmarks tagged [[cli-adaptors]](https://www.bookmarks.dev?q=[cli-adaptors])
+## Bookmarks tagged [[cli-adaptors]](https://www.bookmarks.dev/search?q=[cli-adaptors])
 
 _<sup><sup>[www.bookmarks.dev/tagged/cli-adaptors](https://www.bookmarks.dev/tagged/cli-adaptors)</sup></sup>_
 ---

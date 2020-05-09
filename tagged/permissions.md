@@ -1,4 +1,4 @@
-## Bookmarks tagged [[permissions]](https://www.bookmarks.dev?q=[permissions])
+## Bookmarks tagged [[permissions]](https://www.bookmarks.dev/search?q=[permissions])
 
 _<sup><sup>[www.bookmarks.dev/tagged/permissions](https://www.bookmarks.dev/tagged/permissions)</sup></sup>_
 ---

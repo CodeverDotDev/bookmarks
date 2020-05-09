@@ -1,4 +1,4 @@
-## Bookmarks tagged [[ruby-clients]](https://www.bookmarks.dev?q=[ruby-clients])
+## Bookmarks tagged [[ruby-clients]](https://www.bookmarks.dev/search?q=[ruby-clients])
 
 _<sup><sup>[www.bookmarks.dev/tagged/ruby-clients](https://www.bookmarks.dev/tagged/ruby-clients)</sup></sup>_
 ---

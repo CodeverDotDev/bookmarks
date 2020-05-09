@@ -1,6 +1,20 @@
-## Bookmarks tagged [[html]](https://www.bookmarks.dev?q=[html])
+## Bookmarks tagged [[html]](https://www.bookmarks.dev/search?q=[html])
 
 _<sup><sup>[www.bookmarks.dev/tagged/html](https://www.bookmarks.dev/tagged/html)</sup></sup>_
+---
+#### [Using files from web applications - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/File/Using_files_from_web_applications)
+_<sup>https://developer.mozilla.org/en-US/docs/Web/API/File/Using_files_from_web_applications</sup>_
+
+Using the File API, which was added to the DOM in HTML5, it's now possible for web content to ask the user to select local files and then read the contents of those files. This selection can be done b...
+* **tags**: [html](../tagged/html.md), [form](../tagged/form.md), [javascript](../tagged/javascript.md)
+---
+#### [Bizarre White Space Issue. HTML, CSS, Angular](https://stackoverflow.com/questions/27562924/bizarre-white-space-issue-html-css-angular)
+_<sup>https://stackoverflow.com/questions/27562924/bizarre-white-space-issue-html-css-angular</sup>_
+
+I know this is an old question but I recently had the same issue and it was due to my use of line breaks and indents inside the <pre> tags. For instance, my original code looked like:
+...
+* :calendar: **published on**: 2014-12-19
+* **tags**: [html](../tagged/html.md), [css](../tagged/css.md), [angular](../tagged/angular.md)
 ---
 #### [What is the JAMstack and how do I get started?](https://www.freecodecamp.org/news/what-is-the-jamstack-and-how-do-i-host-my-website-on-it/)
 _<sup>https://www.freecodecamp.org/news/what-is-the-jamstack-and-how-do-i-host-my-website-on-it/</sup>_

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[amazon-s3]](https://www.bookmarks.dev?q=[amazon-s3])
+## Bookmarks tagged [[amazon-s3]](https://www.bookmarks.dev/search?q=[amazon-s3])
 
 _<sup><sup>[www.bookmarks.dev/tagged/amazon-s3](https://www.bookmarks.dev/tagged/amazon-s3)</sup></sup>_
 ---

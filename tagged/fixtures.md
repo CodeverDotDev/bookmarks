@@ -1,4 +1,4 @@
-## Bookmarks tagged [[fixtures]](https://www.bookmarks.dev?q=[fixtures])
+## Bookmarks tagged [[fixtures]](https://www.bookmarks.dev/search?q=[fixtures])
 
 _<sup><sup>[www.bookmarks.dev/tagged/fixtures](https://www.bookmarks.dev/tagged/fixtures)</sup></sup>_
 ---

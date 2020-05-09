@@ -1,4 +1,4 @@
-## Bookmarks tagged [[project-layout]](https://www.bookmarks.dev?q=[project-layout])
+## Bookmarks tagged [[project-layout]](https://www.bookmarks.dev/search?q=[project-layout])
 
 _<sup><sup>[www.bookmarks.dev/tagged/project-layout](https://www.bookmarks.dev/tagged/project-layout)</sup></sup>_
 ---

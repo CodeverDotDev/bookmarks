@@ -1,4 +1,4 @@
-## Bookmarks tagged [[comparison]](https://www.bookmarks.dev?q=[comparison])
+## Bookmarks tagged [[comparison]](https://www.bookmarks.dev/search?q=[comparison])
 
 _<sup><sup>[www.bookmarks.dev/tagged/comparison](https://www.bookmarks.dev/tagged/comparison)</sup></sup>_
 ---

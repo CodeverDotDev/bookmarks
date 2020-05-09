@@ -1,4 +1,4 @@
-## Bookmarks tagged [[templating]](https://www.bookmarks.dev?q=[templating])
+## Bookmarks tagged [[templating]](https://www.bookmarks.dev/search?q=[templating])
 
 _<sup><sup>[www.bookmarks.dev/tagged/templating](https://www.bookmarks.dev/tagged/templating)</sup></sup>_
 ---

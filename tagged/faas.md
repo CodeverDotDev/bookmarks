@@ -1,4 +1,4 @@
-## Bookmarks tagged [[faas]](https://www.bookmarks.dev?q=[faas])
+## Bookmarks tagged [[faas]](https://www.bookmarks.dev/search?q=[faas])
 
 _<sup><sup>[www.bookmarks.dev/tagged/faas](https://www.bookmarks.dev/tagged/faas)</sup></sup>_
 ---

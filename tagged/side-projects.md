@@ -1,4 +1,4 @@
-## Bookmarks tagged [[side-projects]](https://www.bookmarks.dev?q=[side-projects])
+## Bookmarks tagged [[side-projects]](https://www.bookmarks.dev/search?q=[side-projects])
 
 _<sup><sup>[www.bookmarks.dev/tagged/side-projects](https://www.bookmarks.dev/tagged/side-projects)</sup></sup>_
 ---

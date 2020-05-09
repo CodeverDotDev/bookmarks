@@ -1,4 +1,4 @@
-## Bookmarks tagged [[fake-data]](https://www.bookmarks.dev?q=[fake-data])
+## Bookmarks tagged [[fake-data]](https://www.bookmarks.dev/search?q=[fake-data])
 
 _<sup><sup>[www.bookmarks.dev/tagged/fake-data](https://www.bookmarks.dev/tagged/fake-data)</sup></sup>_
 ---

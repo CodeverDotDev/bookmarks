@@ -1,4 +1,4 @@
-## Bookmarks tagged [[tap]](https://www.bookmarks.dev?q=[tap])
+## Bookmarks tagged [[tap]](https://www.bookmarks.dev/search?q=[tap])
 
 _<sup><sup>[www.bookmarks.dev/tagged/tap](https://www.bookmarks.dev/tagged/tap)</sup></sup>_
 ---

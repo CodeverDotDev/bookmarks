@@ -1,4 +1,4 @@
-## Bookmarks tagged [[news-feed]](https://www.bookmarks.dev?q=[news-feed])
+## Bookmarks tagged [[news-feed]](https://www.bookmarks.dev/search?q=[news-feed])
 
 _<sup><sup>[www.bookmarks.dev/tagged/news-feed](https://www.bookmarks.dev/tagged/news-feed)</sup></sup>_
 ---

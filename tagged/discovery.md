@@ -1,4 +1,4 @@
-## Bookmarks tagged [[discovery]](https://www.bookmarks.dev?q=[discovery])
+## Bookmarks tagged [[discovery]](https://www.bookmarks.dev/search?q=[discovery])
 
 _<sup><sup>[www.bookmarks.dev/tagged/discovery](https://www.bookmarks.dev/tagged/discovery)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[less]](https://www.bookmarks.dev?q=[less])
+## Bookmarks tagged [[less]](https://www.bookmarks.dev/search?q=[less])
 
 _<sup><sup>[www.bookmarks.dev/tagged/less](https://www.bookmarks.dev/tagged/less)</sup></sup>_
 ---

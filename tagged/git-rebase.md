@@ -1,4 +1,4 @@
-## Bookmarks tagged [[git-rebase]](https://www.bookmarks.dev?q=[git-rebase])
+## Bookmarks tagged [[git-rebase]](https://www.bookmarks.dev/search?q=[git-rebase])
 
 _<sup><sup>[www.bookmarks.dev/tagged/git-rebase](https://www.bookmarks.dev/tagged/git-rebase)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[kivy]](https://www.bookmarks.dev?q=[kivy])
+## Bookmarks tagged [[kivy]](https://www.bookmarks.dev/search?q=[kivy])
 
 _<sup><sup>[www.bookmarks.dev/tagged/kivy](https://www.bookmarks.dev/tagged/kivy)</sup></sup>_
 ---

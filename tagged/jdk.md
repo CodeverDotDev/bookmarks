@@ -1,4 +1,4 @@
-## Bookmarks tagged [[jdk]](https://www.bookmarks.dev?q=[jdk])
+## Bookmarks tagged [[jdk]](https://www.bookmarks.dev/search?q=[jdk])
 
 _<sup><sup>[www.bookmarks.dev/tagged/jdk](https://www.bookmarks.dev/tagged/jdk)</sup></sup>_
 ---

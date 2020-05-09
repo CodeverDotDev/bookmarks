@@ -1,4 +1,4 @@
-## Bookmarks tagged [[streams]](https://www.bookmarks.dev?q=[streams])
+## Bookmarks tagged [[streams]](https://www.bookmarks.dev/search?q=[streams])
 
 _<sup><sup>[www.bookmarks.dev/tagged/streams](https://www.bookmarks.dev/tagged/streams)</sup></sup>_
 ---

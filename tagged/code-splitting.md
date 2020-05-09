@@ -1,4 +1,4 @@
-## Bookmarks tagged [[code-splitting]](https://www.bookmarks.dev?q=[code-splitting])
+## Bookmarks tagged [[code-splitting]](https://www.bookmarks.dev/search?q=[code-splitting])
 
 _<sup><sup>[www.bookmarks.dev/tagged/code-splitting](https://www.bookmarks.dev/tagged/code-splitting)</sup></sup>_
 ---

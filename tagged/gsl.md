@@ -1,4 +1,4 @@
-## Bookmarks tagged [[gsl]](https://www.bookmarks.dev?q=[gsl])
+## Bookmarks tagged [[gsl]](https://www.bookmarks.dev/search?q=[gsl])
 
 _<sup><sup>[www.bookmarks.dev/tagged/gsl](https://www.bookmarks.dev/tagged/gsl)</sup></sup>_
 ---

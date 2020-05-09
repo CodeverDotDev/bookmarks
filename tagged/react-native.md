@@ -1,4 +1,4 @@
-## Bookmarks tagged [[react-native]](https://www.bookmarks.dev?q=[react-native])
+## Bookmarks tagged [[react-native]](https://www.bookmarks.dev/search?q=[react-native])
 
 _<sup><sup>[www.bookmarks.dev/tagged/react-native](https://www.bookmarks.dev/tagged/react-native)</sup></sup>_
 ---

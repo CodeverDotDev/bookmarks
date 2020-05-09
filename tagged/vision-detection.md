@@ -1,4 +1,4 @@
-## Bookmarks tagged [[vision-detection]](https://www.bookmarks.dev?q=[vision-detection])
+## Bookmarks tagged [[vision-detection]](https://www.bookmarks.dev/search?q=[vision-detection])
 
 _<sup><sup>[www.bookmarks.dev/tagged/vision-detection](https://www.bookmarks.dev/tagged/vision-detection)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[error-handling]](https://www.bookmarks.dev?q=[error-handling])
+## Bookmarks tagged [[error-handling]](https://www.bookmarks.dev/search?q=[error-handling])
 
 _<sup><sup>[www.bookmarks.dev/tagged/error-handling](https://www.bookmarks.dev/tagged/error-handling)</sup></sup>_
 ---

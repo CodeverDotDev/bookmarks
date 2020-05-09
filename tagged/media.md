@@ -1,4 +1,4 @@
-## Bookmarks tagged [[media]](https://www.bookmarks.dev?q=[media])
+## Bookmarks tagged [[media]](https://www.bookmarks.dev/search?q=[media])
 
 _<sup><sup>[www.bookmarks.dev/tagged/media](https://www.bookmarks.dev/tagged/media)</sup></sup>_
 ---

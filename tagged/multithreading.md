@@ -1,4 +1,4 @@
-## Bookmarks tagged [[multithreading]](https://www.bookmarks.dev?q=[multithreading])
+## Bookmarks tagged [[multithreading]](https://www.bookmarks.dev/search?q=[multithreading])
 
 _<sup><sup>[www.bookmarks.dev/tagged/multithreading](https://www.bookmarks.dev/tagged/multithreading)</sup></sup>_
 ---

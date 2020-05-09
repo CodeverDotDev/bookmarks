@@ -1,4 +1,4 @@
-## Bookmarks tagged [[rust]](https://www.bookmarks.dev?q=[rust])
+## Bookmarks tagged [[rust]](https://www.bookmarks.dev/search?q=[rust])
 
 _<sup><sup>[www.bookmarks.dev/tagged/rust](https://www.bookmarks.dev/tagged/rust)</sup></sup>_
 ---

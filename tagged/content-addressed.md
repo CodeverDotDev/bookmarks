@@ -1,4 +1,4 @@
-## Bookmarks tagged [[content-addressed]](https://www.bookmarks.dev?q=[content-addressed])
+## Bookmarks tagged [[content-addressed]](https://www.bookmarks.dev/search?q=[content-addressed])
 
 _<sup><sup>[www.bookmarks.dev/tagged/content-addressed](https://www.bookmarks.dev/tagged/content-addressed)</sup></sup>_
 ---

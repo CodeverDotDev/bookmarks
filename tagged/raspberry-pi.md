@@ -1,4 +1,4 @@
-## Bookmarks tagged [[raspberry-pi]](https://www.bookmarks.dev?q=[raspberry-pi])
+## Bookmarks tagged [[raspberry-pi]](https://www.bookmarks.dev/search?q=[raspberry-pi])
 
 _<sup><sup>[www.bookmarks.dev/tagged/raspberry-pi](https://www.bookmarks.dev/tagged/raspberry-pi)</sup></sup>_
 ---

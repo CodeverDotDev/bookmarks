@@ -1,4 +1,4 @@
-## Bookmarks tagged [[code-quality-tools]](https://www.bookmarks.dev?q=[code-quality-tools])
+## Bookmarks tagged [[code-quality-tools]](https://www.bookmarks.dev/search?q=[code-quality-tools])
 
 _<sup><sup>[www.bookmarks.dev/tagged/code-quality-tools](https://www.bookmarks.dev/tagged/code-quality-tools)</sup></sup>_
 ---

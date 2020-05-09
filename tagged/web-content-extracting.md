@@ -1,4 +1,4 @@
-## Bookmarks tagged [[web-content-extracting]](https://www.bookmarks.dev?q=[web-content-extracting])
+## Bookmarks tagged [[web-content-extracting]](https://www.bookmarks.dev/search?q=[web-content-extracting])
 
 _<sup><sup>[www.bookmarks.dev/tagged/web-content-extracting](https://www.bookmarks.dev/tagged/web-content-extracting)</sup></sup>_
 ---

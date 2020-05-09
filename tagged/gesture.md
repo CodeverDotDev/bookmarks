@@ -1,4 +1,4 @@
-## Bookmarks tagged [[gesture]](https://www.bookmarks.dev?q=[gesture])
+## Bookmarks tagged [[gesture]](https://www.bookmarks.dev/search?q=[gesture])
 
 _<sup><sup>[www.bookmarks.dev/tagged/gesture](https://www.bookmarks.dev/tagged/gesture)</sup></sup>_
 ---

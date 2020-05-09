@@ -1,4 +1,4 @@
-## Bookmarks tagged [[postgresql]](https://www.bookmarks.dev?q=[postgresql])
+## Bookmarks tagged [[postgresql]](https://www.bookmarks.dev/search?q=[postgresql])
 
 _<sup><sup>[www.bookmarks.dev/tagged/postgresql](https://www.bookmarks.dev/tagged/postgresql)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[action-script]](https://www.bookmarks.dev?q=[action-script])
+## Bookmarks tagged [[action-script]](https://www.bookmarks.dev/search?q=[action-script])
 
 _<sup><sup>[www.bookmarks.dev/tagged/action-script](https://www.bookmarks.dev/tagged/action-script)</sup></sup>_
 ---

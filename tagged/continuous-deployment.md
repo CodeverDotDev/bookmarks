@@ -1,6 +1,32 @@
-## Bookmarks tagged [[continuous-deployment]](https://www.bookmarks.dev?q=[continuous-deployment])
+## Bookmarks tagged [[continuous-deployment]](https://www.bookmarks.dev/search?q=[continuous-deployment])
 
 _<sup><sup>[www.bookmarks.dev/tagged/continuous-deployment](https://www.bookmarks.dev/tagged/continuous-deployment)</sup></sup>_
+---
+#### [Continuous Delivery vs Continuous Deployment - Continuous Delivery](https://continuousdelivery.com/2010/08/continuous-delivery-vs-continuous-deployment/)
+_<sup>https://continuousdelivery.com/2010/08/continuous-delivery-vs-continuous-deployment/</sup>_
+
+We decided to call the book Continuous Delivery for a few reasons. First of all, there's the somewhat pedantic fact that deployment does not imply release. As we say in the book, you can continuously ...
+* :calendar: **published on**: 2010-09-13
+* **tags**: [continuous-delivery](../tagged/continuous-delivery.md), [continuous-deployment](../tagged/continuous-deployment.md)
+---
+#### [Continuous Deployment](http://timothyfitz.com/2009/02/08/continuous-deployment/)
+_<sup>http://timothyfitz.com/2009/02/08/continuous-deployment/</sup>_
+
+So what should Alex do? Continuously deploy. Every commit should be instantly deployed to production. Let’s walk through her story again, assuming she had such an ideal implementation of Continuous De...
+* **tags**: [continuous-deployment](../tagged/continuous-deployment.md)
+---
+#### [Crisp's Blog » Continuous Delivery vs Continuous Deployment](https://blog.crisp.se/2013/02/05/yassalsundman/continuous-delivery-vs-continuous-deployment)
+_<sup>https://blog.crisp.se/2013/02/05/yassalsundman/continuous-delivery-vs-continuous-deployment</sup>_
+
+A continuous delivery pipeline automatically tests the application, but keeps the deployment decision as a manual step. A continuous deployment pipeline, on the other hand, will automatically deploy t...
+* :calendar: **published on**: 2013-05-02
+* **tags**: [continuous-delivery](../tagged/continuous-delivery.md), [continuous-deployment](../tagged/continuous-deployment.md)
+---
+#### [Trunk Based Development](https://trunkbaseddevelopment.com/)
+_<sup>https://trunkbaseddevelopment.com/</sup>_
+
+A source-control branching model, where developers collaborate on code in a single branch called ‘trunk’ *, resist any pressure to create other long-lived development branches by employing documented ...
+* **tags**: [version-control](../tagged/version-control.md), [branch](../tagged/branch.md), [continuous-deployment](../tagged/continuous-deployment.md)
 ---
 #### [Togglz - Features flag for Java](https://www.togglz.org/)
 _<sup>https://www.togglz.org/</sup>_

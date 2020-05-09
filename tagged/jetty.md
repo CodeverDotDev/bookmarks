@@ -1,4 +1,4 @@
-## Bookmarks tagged [[jetty]](https://www.bookmarks.dev?q=[jetty])
+## Bookmarks tagged [[jetty]](https://www.bookmarks.dev/search?q=[jetty])
 
 _<sup><sup>[www.bookmarks.dev/tagged/jetty](https://www.bookmarks.dev/tagged/jetty)</sup></sup>_
 ---

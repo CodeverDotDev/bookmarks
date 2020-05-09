@@ -1,4 +1,4 @@
-## Bookmarks tagged [[react-router]](https://www.bookmarks.dev?q=[react-router])
+## Bookmarks tagged [[react-router]](https://www.bookmarks.dev/search?q=[react-router])
 
 _<sup><sup>[www.bookmarks.dev/tagged/react-router](https://www.bookmarks.dev/tagged/react-router)</sup></sup>_
 ---

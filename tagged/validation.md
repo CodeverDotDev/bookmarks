@@ -1,4 +1,4 @@
-## Bookmarks tagged [[validation]](https://www.bookmarks.dev?q=[validation])
+## Bookmarks tagged [[validation]](https://www.bookmarks.dev/search?q=[validation])
 
 _<sup><sup>[www.bookmarks.dev/tagged/validation](https://www.bookmarks.dev/tagged/validation)</sup></sup>_
 ---

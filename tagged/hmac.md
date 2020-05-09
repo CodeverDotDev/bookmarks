@@ -1,4 +1,4 @@
-## Bookmarks tagged [[hmac]](https://www.bookmarks.dev?q=[hmac])
+## Bookmarks tagged [[hmac]](https://www.bookmarks.dev/search?q=[hmac])
 
 _<sup><sup>[www.bookmarks.dev/tagged/hmac](https://www.bookmarks.dev/tagged/hmac)</sup></sup>_
 ---

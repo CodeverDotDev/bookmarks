@@ -1,4 +1,4 @@
-## Bookmarks tagged [[freelance-software]](https://www.bookmarks.dev?q=[freelance-software])
+## Bookmarks tagged [[freelance-software]](https://www.bookmarks.dev/search?q=[freelance-software])
 
 _<sup><sup>[www.bookmarks.dev/tagged/freelance-software](https://www.bookmarks.dev/tagged/freelance-software)</sup></sup>_
 ---

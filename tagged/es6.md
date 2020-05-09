@@ -1,4 +1,4 @@
-## Bookmarks tagged [[es6]](https://www.bookmarks.dev?q=[es6])
+## Bookmarks tagged [[es6]](https://www.bookmarks.dev/search?q=[es6])
 
 _<sup><sup>[www.bookmarks.dev/tagged/es6](https://www.bookmarks.dev/tagged/es6)</sup></sup>_
 ---

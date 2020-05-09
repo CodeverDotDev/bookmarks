@@ -1,4 +1,4 @@
-## Bookmarks tagged [[google-cloudsql]](https://www.bookmarks.dev?q=[google-cloudsql])
+## Bookmarks tagged [[google-cloudsql]](https://www.bookmarks.dev/search?q=[google-cloudsql])
 
 _<sup><sup>[www.bookmarks.dev/tagged/google-cloudsql](https://www.bookmarks.dev/tagged/google-cloudsql)</sup></sup>_
 ---

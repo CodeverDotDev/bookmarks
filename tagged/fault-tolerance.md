@@ -1,4 +1,4 @@
-## Bookmarks tagged [[fault-tolerance]](https://www.bookmarks.dev?q=[fault-tolerance])
+## Bookmarks tagged [[fault-tolerance]](https://www.bookmarks.dev/search?q=[fault-tolerance])
 
 _<sup><sup>[www.bookmarks.dev/tagged/fault-tolerance](https://www.bookmarks.dev/tagged/fault-tolerance)</sup></sup>_
 ---

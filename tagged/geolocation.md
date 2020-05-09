@@ -1,4 +1,4 @@
-## Bookmarks tagged [[geolocation]](https://www.bookmarks.dev?q=[geolocation])
+## Bookmarks tagged [[geolocation]](https://www.bookmarks.dev/search?q=[geolocation])
 
 _<sup><sup>[www.bookmarks.dev/tagged/geolocation](https://www.bookmarks.dev/tagged/geolocation)</sup></sup>_
 ---

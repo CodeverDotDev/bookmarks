@@ -1,4 +1,4 @@
-## Bookmarks tagged [[playground]](https://www.bookmarks.dev?q=[playground])
+## Bookmarks tagged [[playground]](https://www.bookmarks.dev/search?q=[playground])
 
 _<sup><sup>[www.bookmarks.dev/tagged/playground](https://www.bookmarks.dev/tagged/playground)</sup></sup>_
 ---

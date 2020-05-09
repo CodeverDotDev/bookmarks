@@ -1,4 +1,4 @@
-## Bookmarks tagged [[https]](https://www.bookmarks.dev?q=[https])
+## Bookmarks tagged [[https]](https://www.bookmarks.dev/search?q=[https])
 
 _<sup><sup>[www.bookmarks.dev/tagged/https](https://www.bookmarks.dev/tagged/https)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[datamining]](https://www.bookmarks.dev?q=[datamining])
+## Bookmarks tagged [[datamining]](https://www.bookmarks.dev/search?q=[datamining])
 
 _<sup><sup>[www.bookmarks.dev/tagged/datamining](https://www.bookmarks.dev/tagged/datamining)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[oauth]](https://www.bookmarks.dev?q=[oauth])
+## Bookmarks tagged [[oauth]](https://www.bookmarks.dev/search?q=[oauth])
 
 _<sup><sup>[www.bookmarks.dev/tagged/oauth](https://www.bookmarks.dev/tagged/oauth)</sup></sup>_
 ---

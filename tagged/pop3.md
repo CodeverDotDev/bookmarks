@@ -1,4 +1,4 @@
-## Bookmarks tagged [[pop3]](https://www.bookmarks.dev?q=[pop3])
+## Bookmarks tagged [[pop3]](https://www.bookmarks.dev/search?q=[pop3])
 
 _<sup><sup>[www.bookmarks.dev/tagged/pop3](https://www.bookmarks.dev/tagged/pop3)</sup></sup>_
 ---

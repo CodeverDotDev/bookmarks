@@ -1,4 +1,4 @@
-## Bookmarks tagged [[widget]](https://www.bookmarks.dev?q=[widget])
+## Bookmarks tagged [[widget]](https://www.bookmarks.dev/search?q=[widget])
 
 _<sup><sup>[www.bookmarks.dev/tagged/widget](https://www.bookmarks.dev/tagged/widget)</sup></sup>_
 ---

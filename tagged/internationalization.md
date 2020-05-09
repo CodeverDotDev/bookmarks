@@ -1,4 +1,4 @@
-## Bookmarks tagged [[internationalization]](https://www.bookmarks.dev?q=[internationalization])
+## Bookmarks tagged [[internationalization]](https://www.bookmarks.dev/search?q=[internationalization])
 
 _<sup><sup>[www.bookmarks.dev/tagged/internationalization](https://www.bookmarks.dev/tagged/internationalization)</sup></sup>_
 ---

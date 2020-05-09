@@ -1,4 +1,4 @@
-## Bookmarks tagged [[embedded]](https://www.bookmarks.dev?q=[embedded])
+## Bookmarks tagged [[embedded]](https://www.bookmarks.dev/search?q=[embedded])
 
 _<sup><sup>[www.bookmarks.dev/tagged/embedded](https://www.bookmarks.dev/tagged/embedded)</sup></sup>_
 ---

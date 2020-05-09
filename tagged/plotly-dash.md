@@ -1,4 +1,4 @@
-## Bookmarks tagged [[plotly-dash]](https://www.bookmarks.dev?q=[plotly-dash])
+## Bookmarks tagged [[plotly-dash]](https://www.bookmarks.dev/search?q=[plotly-dash])
 
 _<sup><sup>[www.bookmarks.dev/tagged/plotly-dash](https://www.bookmarks.dev/tagged/plotly-dash)</sup></sup>_
 ---

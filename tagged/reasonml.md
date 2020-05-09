@@ -1,4 +1,4 @@
-## Bookmarks tagged [[reasonml]](https://www.bookmarks.dev?q=[reasonml])
+## Bookmarks tagged [[reasonml]](https://www.bookmarks.dev/search?q=[reasonml])
 
 _<sup><sup>[www.bookmarks.dev/tagged/reasonml](https://www.bookmarks.dev/tagged/reasonml)</sup></sup>_
 ---

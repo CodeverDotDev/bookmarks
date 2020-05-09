@@ -1,4 +1,4 @@
-## Bookmarks tagged [[nested]](https://www.bookmarks.dev?q=[nested])
+## Bookmarks tagged [[nested]](https://www.bookmarks.dev/search?q=[nested])
 
 _<sup><sup>[www.bookmarks.dev/tagged/nested](https://www.bookmarks.dev/tagged/nested)</sup></sup>_
 ---

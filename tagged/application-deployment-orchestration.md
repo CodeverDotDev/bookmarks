@@ -1,4 +1,4 @@
-## Bookmarks tagged [[application-deployment-orchestration]](https://www.bookmarks.dev?q=[application-deployment-orchestration])
+## Bookmarks tagged [[application-deployment-orchestration]](https://www.bookmarks.dev/search?q=[application-deployment-orchestration])
 
 _<sup><sup>[www.bookmarks.dev/tagged/application-deployment-orchestration](https://www.bookmarks.dev/tagged/application-deployment-orchestration)</sup></sup>_
 ---

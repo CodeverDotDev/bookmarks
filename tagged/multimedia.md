@@ -1,4 +1,4 @@
-## Bookmarks tagged [[multimedia]](https://www.bookmarks.dev?q=[multimedia])
+## Bookmarks tagged [[multimedia]](https://www.bookmarks.dev/search?q=[multimedia])
 
 _<sup><sup>[www.bookmarks.dev/tagged/multimedia](https://www.bookmarks.dev/tagged/multimedia)</sup></sup>_
 ---

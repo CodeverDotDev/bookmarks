@@ -1,4 +1,4 @@
-## Bookmarks tagged [[favicon]](https://www.bookmarks.dev?q=[favicon])
+## Bookmarks tagged [[favicon]](https://www.bookmarks.dev/search?q=[favicon])
 
 _<sup><sup>[www.bookmarks.dev/tagged/favicon](https://www.bookmarks.dev/tagged/favicon)</sup></sup>_
 ---

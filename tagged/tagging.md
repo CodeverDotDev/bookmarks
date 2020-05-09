@@ -1,4 +1,4 @@
-## Bookmarks tagged [[tagging]](https://www.bookmarks.dev?q=[tagging])
+## Bookmarks tagged [[tagging]](https://www.bookmarks.dev/search?q=[tagging])
 
 _<sup><sup>[www.bookmarks.dev/tagged/tagging](https://www.bookmarks.dev/tagged/tagging)</sup></sup>_
 ---

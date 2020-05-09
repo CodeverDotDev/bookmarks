@@ -1,4 +1,4 @@
-## Bookmarks tagged [[openjdk]](https://www.bookmarks.dev?q=[openjdk])
+## Bookmarks tagged [[openjdk]](https://www.bookmarks.dev/search?q=[openjdk])
 
 _<sup><sup>[www.bookmarks.dev/tagged/openjdk](https://www.bookmarks.dev/tagged/openjdk)</sup></sup>_
 ---

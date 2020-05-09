@@ -1,4 +1,4 @@
-## Bookmarks tagged [[clustering]](https://www.bookmarks.dev?q=[clustering])
+## Bookmarks tagged [[clustering]](https://www.bookmarks.dev/search?q=[clustering])
 
 _<sup><sup>[www.bookmarks.dev/tagged/clustering](https://www.bookmarks.dev/tagged/clustering)</sup></sup>_
 ---

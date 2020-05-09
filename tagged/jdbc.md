@@ -1,4 +1,4 @@
-## Bookmarks tagged [[jdbc]](https://www.bookmarks.dev?q=[jdbc])
+## Bookmarks tagged [[jdbc]](https://www.bookmarks.dev/search?q=[jdbc])
 
 _<sup><sup>[www.bookmarks.dev/tagged/jdbc](https://www.bookmarks.dev/tagged/jdbc)</sup></sup>_
 ---

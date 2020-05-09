@@ -1,4 +1,4 @@
-## Bookmarks tagged [[twitter-accounts]](https://www.bookmarks.dev?q=[twitter-accounts])
+## Bookmarks tagged [[twitter-accounts]](https://www.bookmarks.dev/search?q=[twitter-accounts])
 
 _<sup><sup>[www.bookmarks.dev/tagged/twitter-accounts](https://www.bookmarks.dev/tagged/twitter-accounts)</sup></sup>_
 ---

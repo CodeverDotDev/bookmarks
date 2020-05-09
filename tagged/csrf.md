@@ -1,4 +1,4 @@
-## Bookmarks tagged [[csrf]](https://www.bookmarks.dev?q=[csrf])
+## Bookmarks tagged [[csrf]](https://www.bookmarks.dev/search?q=[csrf])
 
 _<sup><sup>[www.bookmarks.dev/tagged/csrf](https://www.bookmarks.dev/tagged/csrf)</sup></sup>_
 ---

@@ -1,6 +1,12 @@
-## Bookmarks tagged [[scrum]](https://www.bookmarks.dev?q=[scrum])
+## Bookmarks tagged [[scrum]](https://www.bookmarks.dev/search?q=[scrum])
 
 _<sup><sup>[www.bookmarks.dev/tagged/scrum](https://www.bookmarks.dev/tagged/scrum)</sup></sup>_
+---
+#### [Scrum - what it is, how it works, and why it's awesome](https://www.atlassian.com/agile/scrum)
+_<sup>https://www.atlassian.com/agile/scrum</sup>_
+
+Scrum is a framework that helps teams work together. Much like a rugby team (where it gets its name) training for the big game, Scrum encourages teams to learn through experiences, self-organize while...
+* **tags**: [scrum](../tagged/scrum.md), [agile](../tagged/agile.md)
 ---
 #### [ A Simple Way to Run a Sprint Retrospective](https://www.mountaingoatsoftware.com/blog/a-simple-way-to-run-a-sprint-retrospective)
 _<sup>https://www.mountaingoatsoftware.com/blog/a-simple-way-to-run-a-sprint-retrospective</sup>_

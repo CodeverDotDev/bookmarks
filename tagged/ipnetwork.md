@@ -1,4 +1,4 @@
-## Bookmarks tagged [[ipnetwork]](https://www.bookmarks.dev?q=[ipnetwork])
+## Bookmarks tagged [[ipnetwork]](https://www.bookmarks.dev/search?q=[ipnetwork])
 
 _<sup><sup>[www.bookmarks.dev/tagged/ipnetwork](https://www.bookmarks.dev/tagged/ipnetwork)</sup></sup>_
 ---

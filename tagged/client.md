@@ -1,4 +1,4 @@
-## Bookmarks tagged [[client]](https://www.bookmarks.dev?q=[client])
+## Bookmarks tagged [[client]](https://www.bookmarks.dev/search?q=[client])
 
 _<sup><sup>[www.bookmarks.dev/tagged/client](https://www.bookmarks.dev/tagged/client)</sup></sup>_
 ---

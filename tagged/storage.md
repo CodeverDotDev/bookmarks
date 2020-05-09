@@ -1,4 +1,4 @@
-## Bookmarks tagged [[storage]](https://www.bookmarks.dev?q=[storage])
+## Bookmarks tagged [[storage]](https://www.bookmarks.dev/search?q=[storage])
 
 _<sup><sup>[www.bookmarks.dev/tagged/storage](https://www.bookmarks.dev/tagged/storage)</sup></sup>_
 ---

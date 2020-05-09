@@ -1,4 +1,4 @@
-## Bookmarks tagged [[science]](https://www.bookmarks.dev?q=[science])
+## Bookmarks tagged [[science]](https://www.bookmarks.dev/search?q=[science])
 
 _<sup><sup>[www.bookmarks.dev/tagged/science](https://www.bookmarks.dev/tagged/science)</sup></sup>_
 ---

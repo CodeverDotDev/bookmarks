@@ -1,4 +1,4 @@
-## Bookmarks tagged [[tools]](https://www.bookmarks.dev?q=[tools])
+## Bookmarks tagged [[tools]](https://www.bookmarks.dev/search?q=[tools])
 
 _<sup><sup>[www.bookmarks.dev/tagged/tools](https://www.bookmarks.dev/tagged/tools)</sup></sup>_
 ---

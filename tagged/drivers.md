@@ -1,4 +1,4 @@
-## Bookmarks tagged [[drivers]](https://www.bookmarks.dev?q=[drivers])
+## Bookmarks tagged [[drivers]](https://www.bookmarks.dev/search?q=[drivers])
 
 _<sup><sup>[www.bookmarks.dev/tagged/drivers](https://www.bookmarks.dev/tagged/drivers)</sup></sup>_
 ---

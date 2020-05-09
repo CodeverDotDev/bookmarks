@@ -1,4 +1,4 @@
-## Bookmarks tagged [[audio]](https://www.bookmarks.dev?q=[audio])
+## Bookmarks tagged [[audio]](https://www.bookmarks.dev/search?q=[audio])
 
 _<sup><sup>[www.bookmarks.dev/tagged/audio](https://www.bookmarks.dev/tagged/audio)</sup></sup>_
 ---

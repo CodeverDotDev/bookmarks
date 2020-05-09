@@ -1,4 +1,4 @@
-## Bookmarks tagged [[libraries]](https://www.bookmarks.dev?q=[libraries])
+## Bookmarks tagged [[libraries]](https://www.bookmarks.dev/search?q=[libraries])
 
 _<sup><sup>[www.bookmarks.dev/tagged/libraries](https://www.bookmarks.dev/tagged/libraries)</sup></sup>_
 ---

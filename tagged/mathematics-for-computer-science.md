@@ -1,4 +1,4 @@
-## Bookmarks tagged [[mathematics-for-computer-science]](https://www.bookmarks.dev?q=[mathematics-for-computer-science])
+## Bookmarks tagged [[mathematics-for-computer-science]](https://www.bookmarks.dev/search?q=[mathematics-for-computer-science])
 
 _<sup><sup>[www.bookmarks.dev/tagged/mathematics-for-computer-science](https://www.bookmarks.dev/tagged/mathematics-for-computer-science)</sup></sup>_
 ---

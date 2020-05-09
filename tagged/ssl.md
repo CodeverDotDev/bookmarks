@@ -1,4 +1,4 @@
-## Bookmarks tagged [[ssl]](https://www.bookmarks.dev?q=[ssl])
+## Bookmarks tagged [[ssl]](https://www.bookmarks.dev/search?q=[ssl])
 
 _<sup><sup>[www.bookmarks.dev/tagged/ssl](https://www.bookmarks.dev/tagged/ssl)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[self-contained-systems]](https://www.bookmarks.dev?q=[self-contained-systems])
+## Bookmarks tagged [[self-contained-systems]](https://www.bookmarks.dev/search?q=[self-contained-systems])
 
 _<sup><sup>[www.bookmarks.dev/tagged/self-contained-systems](https://www.bookmarks.dev/tagged/self-contained-systems)</sup></sup>_
 ---

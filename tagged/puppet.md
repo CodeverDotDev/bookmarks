@@ -1,4 +1,4 @@
-## Bookmarks tagged [[puppet]](https://www.bookmarks.dev?q=[puppet])
+## Bookmarks tagged [[puppet]](https://www.bookmarks.dev/search?q=[puppet])
 
 _<sup><sup>[www.bookmarks.dev/tagged/puppet](https://www.bookmarks.dev/tagged/puppet)</sup></sup>_
 ---

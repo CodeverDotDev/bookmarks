@@ -1,4 +1,4 @@
-## Bookmarks tagged [[gantt-chart]](https://www.bookmarks.dev?q=[gantt-chart])
+## Bookmarks tagged [[gantt-chart]](https://www.bookmarks.dev/search?q=[gantt-chart])
 
 _<sup><sup>[www.bookmarks.dev/tagged/gantt-chart](https://www.bookmarks.dev/tagged/gantt-chart)</sup></sup>_
 ---

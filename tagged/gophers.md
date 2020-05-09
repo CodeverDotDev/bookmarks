@@ -1,4 +1,4 @@
-## Bookmarks tagged [[gophers]](https://www.bookmarks.dev?q=[gophers])
+## Bookmarks tagged [[gophers]](https://www.bookmarks.dev/search?q=[gophers])
 
 _<sup><sup>[www.bookmarks.dev/tagged/gophers](https://www.bookmarks.dev/tagged/gophers)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[online]](https://www.bookmarks.dev?q=[online])
+## Bookmarks tagged [[online]](https://www.bookmarks.dev/search?q=[online])
 
 _<sup><sup>[www.bookmarks.dev/tagged/online](https://www.bookmarks.dev/tagged/online)</sup></sup>_
 ---

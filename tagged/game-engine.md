@@ -1,4 +1,4 @@
-## Bookmarks tagged [[game-engine]](https://www.bookmarks.dev?q=[game-engine])
+## Bookmarks tagged [[game-engine]](https://www.bookmarks.dev/search?q=[game-engine])
 
 _<sup><sup>[www.bookmarks.dev/tagged/game-engine](https://www.bookmarks.dev/tagged/game-engine)</sup></sup>_
 ---

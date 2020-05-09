@@ -1,4 +1,4 @@
-## Bookmarks tagged [[browser-detection]](https://www.bookmarks.dev?q=[browser-detection])
+## Bookmarks tagged [[browser-detection]](https://www.bookmarks.dev/search?q=[browser-detection])
 
 _<sup><sup>[www.bookmarks.dev/tagged/browser-detection](https://www.bookmarks.dev/tagged/browser-detection)</sup></sup>_
 ---

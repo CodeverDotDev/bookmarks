@@ -1,4 +1,4 @@
-## Bookmarks tagged [[build-system]](https://www.bookmarks.dev?q=[build-system])
+## Bookmarks tagged [[build-system]](https://www.bookmarks.dev/search?q=[build-system])
 
 _<sup><sup>[www.bookmarks.dev/tagged/build-system](https://www.bookmarks.dev/tagged/build-system)</sup></sup>_
 ---

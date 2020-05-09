@@ -1,4 +1,4 @@
-## Bookmarks tagged [[chrome-devtools]](https://www.bookmarks.dev?q=[chrome-devtools])
+## Bookmarks tagged [[chrome-devtools]](https://www.bookmarks.dev/search?q=[chrome-devtools])
 
 _<sup><sup>[www.bookmarks.dev/tagged/chrome-devtools](https://www.bookmarks.dev/tagged/chrome-devtools)</sup></sup>_
 ---

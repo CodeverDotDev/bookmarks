@@ -1,4 +1,4 @@
-## Bookmarks tagged [[loading-status]](https://www.bookmarks.dev?q=[loading-status])
+## Bookmarks tagged [[loading-status]](https://www.bookmarks.dev/search?q=[loading-status])
 
 _<sup><sup>[www.bookmarks.dev/tagged/loading-status](https://www.bookmarks.dev/tagged/loading-status)</sup></sup>_
 ---

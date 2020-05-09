@@ -1,4 +1,4 @@
-## Bookmarks tagged [[functional]](https://www.bookmarks.dev?q=[functional])
+## Bookmarks tagged [[functional]](https://www.bookmarks.dev/search?q=[functional])
 
 _<sup><sup>[www.bookmarks.dev/tagged/functional](https://www.bookmarks.dev/tagged/functional)</sup></sup>_
 ---

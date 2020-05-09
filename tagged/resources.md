@@ -1,4 +1,4 @@
-## Bookmarks tagged [[resources]](https://www.bookmarks.dev?q=[resources])
+## Bookmarks tagged [[resources]](https://www.bookmarks.dev/search?q=[resources])
 
 _<sup><sup>[www.bookmarks.dev/tagged/resources](https://www.bookmarks.dev/tagged/resources)</sup></sup>_
 ---

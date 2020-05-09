@@ -1,4 +1,4 @@
-## Bookmarks tagged [[kubernetes-ship]](https://www.bookmarks.dev?q=[kubernetes-ship])
+## Bookmarks tagged [[kubernetes-ship]](https://www.bookmarks.dev/search?q=[kubernetes-ship])
 
 _<sup><sup>[www.bookmarks.dev/tagged/kubernetes-ship](https://www.bookmarks.dev/tagged/kubernetes-ship)</sup></sup>_
 ---

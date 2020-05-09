@@ -1,4 +1,4 @@
-## Bookmarks tagged [[relay]](https://www.bookmarks.dev?q=[relay])
+## Bookmarks tagged [[relay]](https://www.bookmarks.dev/search?q=[relay])
 
 _<sup><sup>[www.bookmarks.dev/tagged/relay](https://www.bookmarks.dev/tagged/relay)</sup></sup>_
 ---

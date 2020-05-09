@@ -1,4 +1,4 @@
-## Bookmarks tagged [[geographic]](https://www.bookmarks.dev?q=[geographic])
+## Bookmarks tagged [[geographic]](https://www.bookmarks.dev/search?q=[geographic])
 
 _<sup><sup>[www.bookmarks.dev/tagged/geographic](https://www.bookmarks.dev/tagged/geographic)</sup></sup>_
 ---

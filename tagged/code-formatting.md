@@ -1,4 +1,4 @@
-## Bookmarks tagged [[code-formatting]](https://www.bookmarks.dev?q=[code-formatting])
+## Bookmarks tagged [[code-formatting]](https://www.bookmarks.dev/search?q=[code-formatting])
 
 _<sup><sup>[www.bookmarks.dev/tagged/code-formatting](https://www.bookmarks.dev/tagged/code-formatting)</sup></sup>_
 ---

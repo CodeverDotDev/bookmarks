@@ -1,4 +1,4 @@
-## Bookmarks tagged [[cors]](https://www.bookmarks.dev?q=[cors])
+## Bookmarks tagged [[cors]](https://www.bookmarks.dev/search?q=[cors])
 
 _<sup><sup>[www.bookmarks.dev/tagged/cors](https://www.bookmarks.dev/tagged/cors)</sup></sup>_
 ---

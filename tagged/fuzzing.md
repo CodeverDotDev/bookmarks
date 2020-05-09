@@ -1,4 +1,4 @@
-## Bookmarks tagged [[fuzzing]](https://www.bookmarks.dev?q=[fuzzing])
+## Bookmarks tagged [[fuzzing]](https://www.bookmarks.dev/search?q=[fuzzing])
 
 _<sup><sup>[www.bookmarks.dev/tagged/fuzzing](https://www.bookmarks.dev/tagged/fuzzing)</sup></sup>_
 ---

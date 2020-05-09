@@ -1,4 +1,4 @@
-## Bookmarks tagged [[grafana]](https://www.bookmarks.dev?q=[grafana])
+## Bookmarks tagged [[grafana]](https://www.bookmarks.dev/search?q=[grafana])
 
 _<sup><sup>[www.bookmarks.dev/tagged/grafana](https://www.bookmarks.dev/tagged/grafana)</sup></sup>_
 ---

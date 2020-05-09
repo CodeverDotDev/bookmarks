@@ -1,4 +1,4 @@
-## Bookmarks tagged [[image-processing:]](https://www.bookmarks.dev?q=[image-processing:])
+## Bookmarks tagged [[image-processing:]](https://www.bookmarks.dev/search?q=[image-processing:])
 
 _<sup><sup>[www.bookmarks.dev/tagged/image-processing:](https://www.bookmarks.dev/tagged/image-processing:)</sup></sup>_
 ---

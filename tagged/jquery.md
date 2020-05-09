@@ -1,4 +1,4 @@
-## Bookmarks tagged [[jquery]](https://www.bookmarks.dev?q=[jquery])
+## Bookmarks tagged [[jquery]](https://www.bookmarks.dev/search?q=[jquery])
 
 _<sup><sup>[www.bookmarks.dev/tagged/jquery](https://www.bookmarks.dev/tagged/jquery)</sup></sup>_
 ---

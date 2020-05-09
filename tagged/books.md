@@ -1,4 +1,4 @@
-## Bookmarks tagged [[books]](https://www.bookmarks.dev?q=[books])
+## Bookmarks tagged [[books]](https://www.bookmarks.dev/search?q=[books])
 
 _<sup><sup>[www.bookmarks.dev/tagged/books](https://www.bookmarks.dev/tagged/books)</sup></sup>_
 ---

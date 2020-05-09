@@ -1,4 +1,4 @@
-## Bookmarks tagged [[kong]](https://www.bookmarks.dev?q=[kong])
+## Bookmarks tagged [[kong]](https://www.bookmarks.dev/search?q=[kong])
 
 _<sup><sup>[www.bookmarks.dev/tagged/kong](https://www.bookmarks.dev/tagged/kong)</sup></sup>_
 ---

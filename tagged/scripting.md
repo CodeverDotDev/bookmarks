@@ -1,4 +1,4 @@
-## Bookmarks tagged [[scripting]](https://www.bookmarks.dev?q=[scripting])
+## Bookmarks tagged [[scripting]](https://www.bookmarks.dev/search?q=[scripting])
 
 _<sup><sup>[www.bookmarks.dev/tagged/scripting](https://www.bookmarks.dev/tagged/scripting)</sup></sup>_
 ---

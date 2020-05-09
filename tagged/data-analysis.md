@@ -1,4 +1,4 @@
-## Bookmarks tagged [[data-analysis]](https://www.bookmarks.dev?q=[data-analysis])
+## Bookmarks tagged [[data-analysis]](https://www.bookmarks.dev/search?q=[data-analysis])
 
 _<sup><sup>[www.bookmarks.dev/tagged/data-analysis](https://www.bookmarks.dev/tagged/data-analysis)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[oracle]](https://www.bookmarks.dev?q=[oracle])
+## Bookmarks tagged [[oracle]](https://www.bookmarks.dev/search?q=[oracle])
 
 _<sup><sup>[www.bookmarks.dev/tagged/oracle](https://www.bookmarks.dev/tagged/oracle)</sup></sup>_
 ---

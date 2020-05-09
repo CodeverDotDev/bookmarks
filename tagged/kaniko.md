@@ -1,4 +1,4 @@
-## Bookmarks tagged [[kaniko]](https://www.bookmarks.dev?q=[kaniko])
+## Bookmarks tagged [[kaniko]](https://www.bookmarks.dev/search?q=[kaniko])
 
 _<sup><sup>[www.bookmarks.dev/tagged/kaniko](https://www.bookmarks.dev/tagged/kaniko)</sup></sup>_
 ---

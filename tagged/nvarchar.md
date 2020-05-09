@@ -1,4 +1,4 @@
-## Bookmarks tagged [[nvarchar]](https://www.bookmarks.dev?q=[nvarchar])
+## Bookmarks tagged [[nvarchar]](https://www.bookmarks.dev/search?q=[nvarchar])
 
 _<sup><sup>[www.bookmarks.dev/tagged/nvarchar](https://www.bookmarks.dev/tagged/nvarchar)</sup></sup>_
 ---

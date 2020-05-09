@@ -1,4 +1,4 @@
-## Bookmarks tagged [[augmented-reality]](https://www.bookmarks.dev?q=[augmented-reality])
+## Bookmarks tagged [[augmented-reality]](https://www.bookmarks.dev/search?q=[augmented-reality])
 
 _<sup><sup>[www.bookmarks.dev/tagged/augmented-reality](https://www.bookmarks.dev/tagged/augmented-reality)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[opengl]](https://www.bookmarks.dev?q=[opengl])
+## Bookmarks tagged [[opengl]](https://www.bookmarks.dev/search?q=[opengl])
 
 _<sup><sup>[www.bookmarks.dev/tagged/opengl](https://www.bookmarks.dev/tagged/opengl)</sup></sup>_
 ---

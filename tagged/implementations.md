@@ -1,4 +1,4 @@
-## Bookmarks tagged [[implementations]](https://www.bookmarks.dev?q=[implementations])
+## Bookmarks tagged [[implementations]](https://www.bookmarks.dev/search?q=[implementations])
 
 _<sup><sup>[www.bookmarks.dev/tagged/implementations](https://www.bookmarks.dev/tagged/implementations)</sup></sup>_
 ---

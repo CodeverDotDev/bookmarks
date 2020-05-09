@@ -1,4 +1,4 @@
-## Bookmarks tagged [[blockchain]](https://www.bookmarks.dev?q=[blockchain])
+## Bookmarks tagged [[blockchain]](https://www.bookmarks.dev/search?q=[blockchain])
 
 _<sup><sup>[www.bookmarks.dev/tagged/blockchain](https://www.bookmarks.dev/tagged/blockchain)</sup></sup>_
 ---

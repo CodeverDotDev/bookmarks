@@ -1,4 +1,4 @@
-## Bookmarks tagged [[shell]](https://www.bookmarks.dev?q=[shell])
+## Bookmarks tagged [[shell]](https://www.bookmarks.dev/search?q=[shell])
 
 _<sup><sup>[www.bookmarks.dev/tagged/shell](https://www.bookmarks.dev/tagged/shell)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[heroku]](https://www.bookmarks.dev?q=[heroku])
+## Bookmarks tagged [[heroku]](https://www.bookmarks.dev/search?q=[heroku])
 
 _<sup><sup>[www.bookmarks.dev/tagged/heroku](https://www.bookmarks.dev/tagged/heroku)</sup></sup>_
 ---

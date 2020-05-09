@@ -1,4 +1,4 @@
-## Bookmarks tagged [[emulators]](https://www.bookmarks.dev?q=[emulators])
+## Bookmarks tagged [[emulators]](https://www.bookmarks.dev/search?q=[emulators])
 
 _<sup><sup>[www.bookmarks.dev/tagged/emulators](https://www.bookmarks.dev/tagged/emulators)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[visual-basic]](https://www.bookmarks.dev?q=[visual-basic])
+## Bookmarks tagged [[visual-basic]](https://www.bookmarks.dev/search?q=[visual-basic])
 
 _<sup><sup>[www.bookmarks.dev/tagged/visual-basic](https://www.bookmarks.dev/tagged/visual-basic)</sup></sup>_
 ---

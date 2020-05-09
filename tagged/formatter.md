@@ -1,4 +1,4 @@
-## Bookmarks tagged [[formatter]](https://www.bookmarks.dev?q=[formatter])
+## Bookmarks tagged [[formatter]](https://www.bookmarks.dev/search?q=[formatter])
 
 _<sup><sup>[www.bookmarks.dev/tagged/formatter](https://www.bookmarks.dev/tagged/formatter)</sup></sup>_
 ---

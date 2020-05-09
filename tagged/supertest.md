@@ -1,4 +1,4 @@
-## Bookmarks tagged [[supertest]](https://www.bookmarks.dev?q=[supertest])
+## Bookmarks tagged [[supertest]](https://www.bookmarks.dev/search?q=[supertest])
 
 _<sup><sup>[www.bookmarks.dev/tagged/supertest](https://www.bookmarks.dev/tagged/supertest)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[rocksdb]](https://www.bookmarks.dev?q=[rocksdb])
+## Bookmarks tagged [[rocksdb]](https://www.bookmarks.dev/search?q=[rocksdb])
 
 _<sup><sup>[www.bookmarks.dev/tagged/rocksdb](https://www.bookmarks.dev/tagged/rocksdb)</sup></sup>_
 ---

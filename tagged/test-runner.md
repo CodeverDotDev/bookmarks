@@ -1,4 +1,4 @@
-## Bookmarks tagged [[test-runner]](https://www.bookmarks.dev?q=[test-runner])
+## Bookmarks tagged [[test-runner]](https://www.bookmarks.dev/search?q=[test-runner])
 
 _<sup><sup>[www.bookmarks.dev/tagged/test-runner](https://www.bookmarks.dev/tagged/test-runner)</sup></sup>_
 ---

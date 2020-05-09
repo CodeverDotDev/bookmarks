@@ -1,4 +1,4 @@
-## Bookmarks tagged [[immutable.js]](https://www.bookmarks.dev?q=[immutable.js])
+## Bookmarks tagged [[immutable.js]](https://www.bookmarks.dev/search?q=[immutable.js])
 
 _<sup><sup>[www.bookmarks.dev/tagged/immutable.js](https://www.bookmarks.dev/tagged/immutable.js)</sup></sup>_
 ---

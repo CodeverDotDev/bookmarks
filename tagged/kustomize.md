@@ -1,4 +1,4 @@
-## Bookmarks tagged [[kustomize]](https://www.bookmarks.dev?q=[kustomize])
+## Bookmarks tagged [[kustomize]](https://www.bookmarks.dev/search?q=[kustomize])
 
 _<sup><sup>[www.bookmarks.dev/tagged/kustomize](https://www.bookmarks.dev/tagged/kustomize)</sup></sup>_
 ---

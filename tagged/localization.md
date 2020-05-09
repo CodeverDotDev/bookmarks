@@ -1,4 +1,4 @@
-## Bookmarks tagged [[localization]](https://www.bookmarks.dev?q=[localization])
+## Bookmarks tagged [[localization]](https://www.bookmarks.dev/search?q=[localization])
 
 _<sup><sup>[www.bookmarks.dev/tagged/localization](https://www.bookmarks.dev/tagged/localization)</sup></sup>_
 ---

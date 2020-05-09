@@ -1,4 +1,4 @@
-## Bookmarks tagged [[devtools]](https://www.bookmarks.dev?q=[devtools])
+## Bookmarks tagged [[devtools]](https://www.bookmarks.dev/search?q=[devtools])
 
 _<sup><sup>[www.bookmarks.dev/tagged/devtools](https://www.bookmarks.dev/tagged/devtools)</sup></sup>_
 ---

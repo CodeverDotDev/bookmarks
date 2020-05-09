@@ -1,6 +1,13 @@
-## Bookmarks tagged [[productivity]](https://www.bookmarks.dev?q=[productivity])
+## Bookmarks tagged [[productivity]](https://www.bookmarks.dev/search?q=[productivity])
 
 _<sup><sup>[www.bookmarks.dev/tagged/productivity](https://www.bookmarks.dev/tagged/productivity)</sup></sup>_
+---
+#### [Bookmarking code snippets with Codelets](https://dev.to/ama/bookmarking-code-snippets-with-codelets-3d44)
+_<sup>https://dev.to/ama/bookmarking-code-snippets-with-codelets-3d44</sup>_
+
+Presents how to use Codelets (code snippets) to increase your productivity when bookmarking and reusing code snippets from web or your own projects
+* **tags**: [productivity](../tagged/productivity.md), [productivity-tools](../tagged/productivity-tools.md)
+* :octocat: **[source code](https://github.com/CodepediaOrg/bookmarks.dev)**
 ---
 #### [Dotfiles Are Meant to Be Forked](http://zachholman.com/2010/08/dotfiles-are-meant-to-be-forked/)
 _<sup>http://zachholman.com/2010/08/dotfiles-are-meant-to-be-forked/</sup>_

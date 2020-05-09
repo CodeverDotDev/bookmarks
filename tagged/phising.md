@@ -1,4 +1,4 @@
-## Bookmarks tagged [[phising]](https://www.bookmarks.dev?q=[phising])
+## Bookmarks tagged [[phising]](https://www.bookmarks.dev/search?q=[phising])
 
 _<sup><sup>[www.bookmarks.dev/tagged/phising](https://www.bookmarks.dev/tagged/phising)</sup></sup>_
 ---

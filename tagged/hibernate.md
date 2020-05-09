@@ -1,4 +1,4 @@
-## Bookmarks tagged [[hibernate]](https://www.bookmarks.dev?q=[hibernate])
+## Bookmarks tagged [[hibernate]](https://www.bookmarks.dev/search?q=[hibernate])
 
 _<sup><sup>[www.bookmarks.dev/tagged/hibernate](https://www.bookmarks.dev/tagged/hibernate)</sup></sup>_
 ---

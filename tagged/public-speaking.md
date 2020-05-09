@@ -1,4 +1,4 @@
-## Bookmarks tagged [[public-speaking]](https://www.bookmarks.dev?q=[public-speaking])
+## Bookmarks tagged [[public-speaking]](https://www.bookmarks.dev/search?q=[public-speaking])
 
 _<sup><sup>[www.bookmarks.dev/tagged/public-speaking](https://www.bookmarks.dev/tagged/public-speaking)</sup></sup>_
 ---

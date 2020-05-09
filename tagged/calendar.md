@@ -1,4 +1,4 @@
-## Bookmarks tagged [[calendar]](https://www.bookmarks.dev?q=[calendar])
+## Bookmarks tagged [[calendar]](https://www.bookmarks.dev/search?q=[calendar])
 
 _<sup><sup>[www.bookmarks.dev/tagged/calendar](https://www.bookmarks.dev/tagged/calendar)</sup></sup>_
 ---

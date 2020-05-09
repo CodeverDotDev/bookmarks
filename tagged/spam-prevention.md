@@ -1,4 +1,4 @@
-## Bookmarks tagged [[spam-prevention]](https://www.bookmarks.dev?q=[spam-prevention])
+## Bookmarks tagged [[spam-prevention]](https://www.bookmarks.dev/search?q=[spam-prevention])
 
 _<sup><sup>[www.bookmarks.dev/tagged/spam-prevention](https://www.bookmarks.dev/tagged/spam-prevention)</sup></sup>_
 ---

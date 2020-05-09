@@ -1,4 +1,4 @@
-## Bookmarks tagged [[service]](https://www.bookmarks.dev?q=[service])
+## Bookmarks tagged [[service]](https://www.bookmarks.dev/search?q=[service])
 
 _<sup><sup>[www.bookmarks.dev/tagged/service](https://www.bookmarks.dev/tagged/service)</sup></sup>_
 ---

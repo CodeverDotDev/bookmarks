@@ -1,4 +1,4 @@
-## Bookmarks tagged [[kube-proxy]](https://www.bookmarks.dev?q=[kube-proxy])
+## Bookmarks tagged [[kube-proxy]](https://www.bookmarks.dev/search?q=[kube-proxy])
 
 _<sup><sup>[www.bookmarks.dev/tagged/kube-proxy](https://www.bookmarks.dev/tagged/kube-proxy)</sup></sup>_
 ---

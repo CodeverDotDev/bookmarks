@@ -1,4 +1,4 @@
-## Bookmarks tagged [[ipaddress]](https://www.bookmarks.dev?q=[ipaddress])
+## Bookmarks tagged [[ipaddress]](https://www.bookmarks.dev/search?q=[ipaddress])
 
 _<sup><sup>[www.bookmarks.dev/tagged/ipaddress](https://www.bookmarks.dev/tagged/ipaddress)</sup></sup>_
 ---

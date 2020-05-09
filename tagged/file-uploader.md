@@ -1,4 +1,4 @@
-## Bookmarks tagged [[file-uploader]](https://www.bookmarks.dev?q=[file-uploader])
+## Bookmarks tagged [[file-uploader]](https://www.bookmarks.dev/search?q=[file-uploader])
 
 _<sup><sup>[www.bookmarks.dev/tagged/file-uploader](https://www.bookmarks.dev/tagged/file-uploader)</sup></sup>_
 ---

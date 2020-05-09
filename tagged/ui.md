@@ -1,4 +1,4 @@
-## Bookmarks tagged [[ui]](https://www.bookmarks.dev?q=[ui])
+## Bookmarks tagged [[ui]](https://www.bookmarks.dev/search?q=[ui])
 
 _<sup><sup>[www.bookmarks.dev/tagged/ui](https://www.bookmarks.dev/tagged/ui)</sup></sup>_
 ---

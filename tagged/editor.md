@@ -1,6 +1,13 @@
-## Bookmarks tagged [[editor]](https://www.bookmarks.dev?q=[editor])
+## Bookmarks tagged [[editor]](https://www.bookmarks.dev/search?q=[editor])
 
 _<sup><sup>[www.bookmarks.dev/tagged/editor](https://www.bookmarks.dev/tagged/editor)</sup></sup>_
+---
+#### [Ace - The High Performance Code Editor for the Web - Home Page](https://ace.c9.io/)
+_<sup>https://ace.c9.io/</sup>_
+
+Ace is an embeddable code editor written in JavaScript. It matches the features and performance of native editors such as Sublime, Vim and TextMate. It can be easily embedded in any web page and JavaS...
+* **tags**: [editor](../tagged/editor.md), [ace-editor](../tagged/ace-editor.md), [javascript](../tagged/javascript.md)
+* :octocat: **[source code](https://github.com/ajaxorg/ace/)**
 ---
 #### [ace](https://github.com/ajaxorg/ace)
 _<sup>https://github.com/ajaxorg/ace</sup>_

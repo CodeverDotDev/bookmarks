@@ -1,4 +1,4 @@
-## Bookmarks tagged [[online-education]](https://www.bookmarks.dev?q=[online-education])
+## Bookmarks tagged [[online-education]](https://www.bookmarks.dev/search?q=[online-education])
 
 _<sup><sup>[www.bookmarks.dev/tagged/online-education](https://www.bookmarks.dev/tagged/online-education)</sup></sup>_
 ---

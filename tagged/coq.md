@@ -1,4 +1,4 @@
-## Bookmarks tagged [[coq]](https://www.bookmarks.dev?q=[coq])
+## Bookmarks tagged [[coq]](https://www.bookmarks.dev/search?q=[coq])
 
 _<sup><sup>[www.bookmarks.dev/tagged/coq](https://www.bookmarks.dev/tagged/coq)</sup></sup>_
 ---

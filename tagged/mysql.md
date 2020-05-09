@@ -1,6 +1,13 @@
-## Bookmarks tagged [[mysql]](https://www.bookmarks.dev?q=[mysql])
+## Bookmarks tagged [[mysql]](https://www.bookmarks.dev/search?q=[mysql])
 
 _<sup><sup>[www.bookmarks.dev/tagged/mysql](https://www.bookmarks.dev/tagged/mysql)</sup></sup>_
+---
+#### [How to modify the size of a column in a Mysql database from command line – CodepediaOrg](https://www.codepedia.org/ama/how-to-modify-a-column-size-in-a-mysql-database-from-command-line)
+_<sup>https://www.codepedia.org/ama/how-to-modify-a-column-size-in-a-mysql-database-from-command-line</sup>_
+
+This blog post presents the steps required to connect to the MySql database from the command line and modify the size of a column in a table. The example is based on the MySql database that is backing...
+* :calendar: **published on**: 2020-04-13
+* **tags**: [mysql](../tagged/mysql.md), [command-line](../tagged/command-line.md), [cli](../tagged/cli.md), [debugging](../tagged/debugging.md)
 ---
 #### [MySQL on Cloud Functions](https://fireship.io/lessons/sql-firebase-typeorm/)
 _<sup>https://fireship.io/lessons/sql-firebase-typeorm/</sup>_

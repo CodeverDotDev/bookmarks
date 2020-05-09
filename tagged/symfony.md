@@ -1,4 +1,4 @@
-## Bookmarks tagged [[symfony]](https://www.bookmarks.dev?q=[symfony])
+## Bookmarks tagged [[symfony]](https://www.bookmarks.dev/search?q=[symfony])
 
 _<sup><sup>[www.bookmarks.dev/tagged/symfony](https://www.bookmarks.dev/tagged/symfony)</sup></sup>_
 ---

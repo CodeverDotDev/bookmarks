@@ -1,4 +1,4 @@
-## Bookmarks tagged [[ufw]](https://www.bookmarks.dev?q=[ufw])
+## Bookmarks tagged [[ufw]](https://www.bookmarks.dev/search?q=[ufw])
 
 _<sup><sup>[www.bookmarks.dev/tagged/ufw](https://www.bookmarks.dev/tagged/ufw)</sup></sup>_
 ---

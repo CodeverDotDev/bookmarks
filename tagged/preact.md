@@ -1,4 +1,4 @@
-## Bookmarks tagged [[preact]](https://www.bookmarks.dev?q=[preact])
+## Bookmarks tagged [[preact]](https://www.bookmarks.dev/search?q=[preact])
 
 _<sup><sup>[www.bookmarks.dev/tagged/preact](https://www.bookmarks.dev/tagged/preact)</sup></sup>_
 ---

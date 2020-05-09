@@ -1,4 +1,4 @@
-## Bookmarks tagged [[mocha]](https://www.bookmarks.dev?q=[mocha])
+## Bookmarks tagged [[mocha]](https://www.bookmarks.dev/search?q=[mocha])
 
 _<sup><sup>[www.bookmarks.dev/tagged/mocha](https://www.bookmarks.dev/tagged/mocha)</sup></sup>_
 ---

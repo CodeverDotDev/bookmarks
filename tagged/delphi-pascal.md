@@ -1,4 +1,4 @@
-## Bookmarks tagged [[delphi-pascal]](https://www.bookmarks.dev?q=[delphi-pascal])
+## Bookmarks tagged [[delphi-pascal]](https://www.bookmarks.dev/search?q=[delphi-pascal])
 
 _<sup><sup>[www.bookmarks.dev/tagged/delphi-pascal](https://www.bookmarks.dev/tagged/delphi-pascal)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[self]](https://www.bookmarks.dev?q=[self])
+## Bookmarks tagged [[self]](https://www.bookmarks.dev/search?q=[self])
 
 _<sup><sup>[www.bookmarks.dev/tagged/self](https://www.bookmarks.dev/tagged/self)</sup></sup>_
 ---

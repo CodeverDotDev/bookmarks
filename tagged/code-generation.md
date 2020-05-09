@@ -1,4 +1,4 @@
-## Bookmarks tagged [[code-generation]](https://www.bookmarks.dev?q=[code-generation])
+## Bookmarks tagged [[code-generation]](https://www.bookmarks.dev/search?q=[code-generation])
 
 _<sup><sup>[www.bookmarks.dev/tagged/code-generation](https://www.bookmarks.dev/tagged/code-generation)</sup></sup>_
 ---

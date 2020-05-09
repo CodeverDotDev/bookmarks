@@ -1,4 +1,4 @@
-## Bookmarks tagged [[google-deployment-manager]](https://www.bookmarks.dev?q=[google-deployment-manager])
+## Bookmarks tagged [[google-deployment-manager]](https://www.bookmarks.dev/search?q=[google-deployment-manager])
 
 _<sup><sup>[www.bookmarks.dev/tagged/google-deployment-manager](https://www.bookmarks.dev/tagged/google-deployment-manager)</sup></sup>_
 ---

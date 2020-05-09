@@ -1,4 +1,4 @@
-## Bookmarks tagged [[workshoppers]](https://www.bookmarks.dev?q=[workshoppers])
+## Bookmarks tagged [[workshoppers]](https://www.bookmarks.dev/search?q=[workshoppers])
 
 _<sup><sup>[www.bookmarks.dev/tagged/workshoppers](https://www.bookmarks.dev/tagged/workshoppers)</sup></sup>_
 ---

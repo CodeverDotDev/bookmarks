@@ -1,4 +1,4 @@
-## Bookmarks tagged [[yeoman]](https://www.bookmarks.dev?q=[yeoman])
+## Bookmarks tagged [[yeoman]](https://www.bookmarks.dev/search?q=[yeoman])
 
 _<sup><sup>[www.bookmarks.dev/tagged/yeoman](https://www.bookmarks.dev/tagged/yeoman)</sup></sup>_
 ---

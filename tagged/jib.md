@@ -1,4 +1,4 @@
-## Bookmarks tagged [[jib]](https://www.bookmarks.dev?q=[jib])
+## Bookmarks tagged [[jib]](https://www.bookmarks.dev/search?q=[jib])
 
 _<sup><sup>[www.bookmarks.dev/tagged/jib](https://www.bookmarks.dev/tagged/jib)</sup></sup>_
 ---

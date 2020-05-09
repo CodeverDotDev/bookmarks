@@ -1,4 +1,4 @@
-## Bookmarks tagged [[conferences]](https://www.bookmarks.dev?q=[conferences])
+## Bookmarks tagged [[conferences]](https://www.bookmarks.dev/search?q=[conferences])
 
 _<sup><sup>[www.bookmarks.dev/tagged/conferences](https://www.bookmarks.dev/tagged/conferences)</sup></sup>_
 ---

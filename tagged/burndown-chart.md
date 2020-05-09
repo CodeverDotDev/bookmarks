@@ -1,4 +1,4 @@
-## Bookmarks tagged [[burndown-chart]](https://www.bookmarks.dev?q=[burndown-chart])
+## Bookmarks tagged [[burndown-chart]](https://www.bookmarks.dev/search?q=[burndown-chart])
 
 _<sup><sup>[www.bookmarks.dev/tagged/burndown-chart](https://www.bookmarks.dev/tagged/burndown-chart)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[emacs-lisp]](https://www.bookmarks.dev?q=[emacs-lisp])
+## Bookmarks tagged [[emacs-lisp]](https://www.bookmarks.dev/search?q=[emacs-lisp])
 
 _<sup><sup>[www.bookmarks.dev/tagged/emacs-lisp](https://www.bookmarks.dev/tagged/emacs-lisp)</sup></sup>_
 ---

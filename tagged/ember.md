@@ -1,4 +1,4 @@
-## Bookmarks tagged [[ember]](https://www.bookmarks.dev?q=[ember])
+## Bookmarks tagged [[ember]](https://www.bookmarks.dev/search?q=[ember])
 
 _<sup><sup>[www.bookmarks.dev/tagged/ember](https://www.bookmarks.dev/tagged/ember)</sup></sup>_
 ---

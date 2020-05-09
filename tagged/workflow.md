@@ -1,4 +1,4 @@
-## Bookmarks tagged [[workflow]](https://www.bookmarks.dev?q=[workflow])
+## Bookmarks tagged [[workflow]](https://www.bookmarks.dev/search?q=[workflow])
 
 _<sup><sup>[www.bookmarks.dev/tagged/workflow](https://www.bookmarks.dev/tagged/workflow)</sup></sup>_
 ---

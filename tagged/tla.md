@@ -1,4 +1,4 @@
-## Bookmarks tagged [[tla]](https://www.bookmarks.dev?q=[tla])
+## Bookmarks tagged [[tla]](https://www.bookmarks.dev/search?q=[tla])
 
 _<sup><sup>[www.bookmarks.dev/tagged/tla](https://www.bookmarks.dev/tagged/tla)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[cli-enhancements]](https://www.bookmarks.dev?q=[cli-enhancements])
+## Bookmarks tagged [[cli-enhancements]](https://www.bookmarks.dev/search?q=[cli-enhancements])
 
 _<sup><sup>[www.bookmarks.dev/tagged/cli-enhancements](https://www.bookmarks.dev/tagged/cli-enhancements)</sup></sup>_
 ---

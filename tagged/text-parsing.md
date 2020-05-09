@@ -1,4 +1,4 @@
-## Bookmarks tagged [[text-parsing]](https://www.bookmarks.dev?q=[text-parsing])
+## Bookmarks tagged [[text-parsing]](https://www.bookmarks.dev/search?q=[text-parsing])
 
 _<sup><sup>[www.bookmarks.dev/tagged/text-parsing](https://www.bookmarks.dev/tagged/text-parsing)</sup></sup>_
 ---

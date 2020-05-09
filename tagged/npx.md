@@ -1,4 +1,4 @@
-## Bookmarks tagged [[npx]](https://www.bookmarks.dev?q=[npx])
+## Bookmarks tagged [[npx]](https://www.bookmarks.dev/search?q=[npx])
 
 _<sup><sup>[www.bookmarks.dev/tagged/npx](https://www.bookmarks.dev/tagged/npx)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[pattern-recognition]](https://www.bookmarks.dev?q=[pattern-recognition])
+## Bookmarks tagged [[pattern-recognition]](https://www.bookmarks.dev/search?q=[pattern-recognition])
 
 _<sup><sup>[www.bookmarks.dev/tagged/pattern-recognition](https://www.bookmarks.dev/tagged/pattern-recognition)</sup></sup>_
 ---

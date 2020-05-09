@@ -1,4 +1,4 @@
-## Bookmarks tagged [[management]](https://www.bookmarks.dev?q=[management])
+## Bookmarks tagged [[management]](https://www.bookmarks.dev/search?q=[management])
 
 _<sup><sup>[www.bookmarks.dev/tagged/management](https://www.bookmarks.dev/tagged/management)</sup></sup>_
 ---

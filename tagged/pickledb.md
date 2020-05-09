@@ -1,4 +1,4 @@
-## Bookmarks tagged [[pickledb]](https://www.bookmarks.dev?q=[pickledb])
+## Bookmarks tagged [[pickledb]](https://www.bookmarks.dev/search?q=[pickledb])
 
 _<sup><sup>[www.bookmarks.dev/tagged/pickledb](https://www.bookmarks.dev/tagged/pickledb)</sup></sup>_
 ---

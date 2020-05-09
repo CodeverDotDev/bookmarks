@@ -1,4 +1,4 @@
-## Bookmarks tagged [[downloader]](https://www.bookmarks.dev?q=[downloader])
+## Bookmarks tagged [[downloader]](https://www.bookmarks.dev/search?q=[downloader])
 
 _<sup><sup>[www.bookmarks.dev/tagged/downloader](https://www.bookmarks.dev/tagged/downloader)</sup></sup>_
 ---

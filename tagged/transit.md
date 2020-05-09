@@ -1,4 +1,4 @@
-## Bookmarks tagged [[transit]](https://www.bookmarks.dev?q=[transit])
+## Bookmarks tagged [[transit]](https://www.bookmarks.dev/search?q=[transit])
 
 _<sup><sup>[www.bookmarks.dev/tagged/transit](https://www.bookmarks.dev/tagged/transit)</sup></sup>_
 ---

@@ -1,4 +1,4 @@
-## Bookmarks tagged [[distributed-applications]](https://www.bookmarks.dev?q=[distributed-applications])
+## Bookmarks tagged [[distributed-applications]](https://www.bookmarks.dev/search?q=[distributed-applications])
 
 _<sup><sup>[www.bookmarks.dev/tagged/distributed-applications](https://www.bookmarks.dev/tagged/distributed-applications)</sup></sup>_
 ---

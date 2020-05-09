@@ -1,4 +1,4 @@
-## Bookmarks tagged [[routers]](https://www.bookmarks.dev?q=[routers])
+## Bookmarks tagged [[routers]](https://www.bookmarks.dev/search?q=[routers])
 
 _<sup><sup>[www.bookmarks.dev/tagged/routers](https://www.bookmarks.dev/tagged/routers)</sup></sup>_
 ---

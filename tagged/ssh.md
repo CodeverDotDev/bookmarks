@@ -1,4 +1,4 @@
-## Bookmarks tagged [[ssh]](https://www.bookmarks.dev?q=[ssh])
+## Bookmarks tagged [[ssh]](https://www.bookmarks.dev/search?q=[ssh])
 
 _<sup><sup>[www.bookmarks.dev/tagged/ssh](https://www.bookmarks.dev/tagged/ssh)</sup></sup>_
 ---

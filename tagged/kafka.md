@@ -1,4 +1,4 @@
-## Bookmarks tagged [[kafka]](https://www.bookmarks.dev?q=[kafka])
+## Bookmarks tagged [[kafka]](https://www.bookmarks.dev/search?q=[kafka])
 
 _<sup><sup>[www.bookmarks.dev/tagged/kafka](https://www.bookmarks.dev/tagged/kafka)</sup></sup>_
 ---

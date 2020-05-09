@@ -1,4 +1,4 @@
-## Bookmarks tagged [[persistence]](https://www.bookmarks.dev?q=[persistence])
+## Bookmarks tagged [[persistence]](https://www.bookmarks.dev/search?q=[persistence])
 
 _<sup><sup>[www.bookmarks.dev/tagged/persistence](https://www.bookmarks.dev/tagged/persistence)</sup></sup>_
 ---

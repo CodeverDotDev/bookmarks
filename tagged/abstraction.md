@@ -1,4 +1,4 @@
-## Bookmarks tagged [[abstraction]](https://www.bookmarks.dev?q=[abstraction])
+## Bookmarks tagged [[abstraction]](https://www.bookmarks.dev/search?q=[abstraction])
 
 _<sup><sup>[www.bookmarks.dev/tagged/abstraction](https://www.bookmarks.dev/tagged/abstraction)</sup></sup>_
 ---

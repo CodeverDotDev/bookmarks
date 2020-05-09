@@ -1,4 +1,4 @@
-## Bookmarks tagged [[free-programming-books-es]](https://www.bookmarks.dev?q=[free-programming-books-es])
+## Bookmarks tagged [[free-programming-books-es]](https://www.bookmarks.dev/search?q=[free-programming-books-es])
 
 _<sup><sup>[www.bookmarks.dev/tagged/free-programming-books-es](https://www.bookmarks.dev/tagged/free-programming-books-es)</sup></sup>_
 ---

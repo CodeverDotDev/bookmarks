@@ -1,4 +1,4 @@
-## Bookmarks tagged [[data-visualiation]](https://www.bookmarks.dev?q=[data-visualiation])
+## Bookmarks tagged [[data-visualiation]](https://www.bookmarks.dev/search?q=[data-visualiation])
 
 _<sup><sup>[www.bookmarks.dev/tagged/data-visualiation](https://www.bookmarks.dev/tagged/data-visualiation)</sup></sup>_
 ---

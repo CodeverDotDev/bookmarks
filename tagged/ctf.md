@@ -1,4 +1,4 @@
-## Bookmarks tagged [[ctf]](https://www.bookmarks.dev?q=[ctf])
+## Bookmarks tagged [[ctf]](https://www.bookmarks.dev/search?q=[ctf])
 
 _<sup><sup>[www.bookmarks.dev/tagged/ctf](https://www.bookmarks.dev/tagged/ctf)</sup></sup>_
 ---

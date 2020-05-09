@@ -1,4 +1,4 @@
-## Bookmarks tagged [[presentation-programs]](https://www.bookmarks.dev?q=[presentation-programs])
+## Bookmarks tagged [[presentation-programs]](https://www.bookmarks.dev/search?q=[presentation-programs])
 
 _<sup><sup>[www.bookmarks.dev/tagged/presentation-programs](https://www.bookmarks.dev/tagged/presentation-programs)</sup></sup>_
 ---

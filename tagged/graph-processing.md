@@ -1,4 +1,4 @@
-## Bookmarks tagged [[graph-processing]](https://www.bookmarks.dev?q=[graph-processing])
+## Bookmarks tagged [[graph-processing]](https://www.bookmarks.dev/search?q=[graph-processing])
 
 _<sup><sup>[www.bookmarks.dev/tagged/graph-processing](https://www.bookmarks.dev/tagged/graph-processing)</sup></sup>_
 ---

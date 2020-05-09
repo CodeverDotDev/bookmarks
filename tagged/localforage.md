@@ -1,4 +1,4 @@
-## Bookmarks tagged [[localforage]](https://www.bookmarks.dev?q=[localforage])
+## Bookmarks tagged [[localforage]](https://www.bookmarks.dev/search?q=[localforage])
 
 _<sup><sup>[www.bookmarks.dev/tagged/localforage](https://www.bookmarks.dev/tagged/localforage)</sup></sup>_
 ---

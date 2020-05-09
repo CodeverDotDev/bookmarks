@@ -1,6 +1,21 @@
-## Bookmarks tagged [[http]](https://www.bookmarks.dev?q=[http])
+## Bookmarks tagged [[http]](https://www.bookmarks.dev/search?q=[http])
 
 _<sup><sup>[www.bookmarks.dev/tagged/http](https://www.bookmarks.dev/tagged/http)</sup></sup>_
+---
+#### [RFC 7234 - Hypertext Transfer Protocol (HTTP/1.1): Caching](https://tools.ietf.org/html/rfc7234)
+_<sup>https://tools.ietf.org/html/rfc7234</sup>_
+
+The Hypertext Transfer Protocol (HTTP) is a stateless application- level protocol for distributed, collaborative, hypertext information systems.  This document defines HTTP caches and the associated h...
+* **tags**: [http](../tagged/http.md), [http-caching](../tagged/http-caching.md)
+---
+#### [Wiremock Home Page](https://github.com/tomakehurst/wiremock)
+_<sup>https://github.com/tomakehurst/wiremock</sup>_
+
+WireMock is a simulator for HTTP-based APIs. Some might consider it a service virtualization tool or a mock server.
+
+It enables you to stay productive when an API you depend on doesn't exist or isn't ...
+* **tags**: [wiremock](../tagged/wiremock.md), [java](../tagged/java.md), [mocking](../tagged/mocking.md), [rest](../tagged/rest.md), [json](../tagged/json.md), [http](../tagged/http.md)
+* :octocat: **[source code](https://github.com/tomakehurst/wiremock)**
 ---
 #### [A brief overview of the TCP/IP model, SSL/TLS/HTTPS protocols and SSL certificates](https://itnext.io/a-brief-overview-of-the-tcp-ip-model-ssl-tls-https-protocols-and-ssl-certificates-d5a6269fe29e)
 _<sup>https://itnext.io/a-brief-overview-of-the-tcp-ip-model-ssl-tls-https-protocols-and-ssl-certificates-...</sup>_
