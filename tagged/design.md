@@ -2,6 +2,16 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/design](https://www.bookmarks.dev/tagged/design)</sup></sup>_
 ---
+#### [Why is Babel a monorepo?](https://github.com/babel/babel/blob/master/doc/design/monorepo.md)
+_<sup>https://github.com/babel/babel/blob/master/doc/design/monorepo.md</sup>_
+
+Juggling a multimodule project over multiple repos is like trying to teach a newborn baby how to
+ride a bike.
+
+Babel follows a monorepo approach, all officially maintained modules are in the same repo...
+* **tags**: [monorepo](../tagged/monorepo.md), [babel](../tagged/babel.md), [architecture](../tagged/architecture.md), [design](../tagged/design.md)
+* :octocat: **[source code](https://github.com/babel/babel)**
+---
 #### [7 Rules for Creating Gorgeous UI (Updated for 2020)](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda)
 _<sup>https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda</sup>_
 

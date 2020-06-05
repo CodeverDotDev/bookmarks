@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/ffmpeg](https://www.bookmarks.dev/tagged/ffmpeg)</sup></sup>_
 ---
+#### [CompilationGuide/macOS – FFmpeg](https://trac.ffmpeg.org/wiki/CompilationGuide/macOS)
+_<sup>https://trac.ffmpeg.org/wiki/CompilationGuide/macOS</sup>_
+
+There are a few ways to get FFmpeg on macOS
+* **tags**: [ffmpeg](../tagged/ffmpeg.md), [macos](../tagged/macos.md)
+---
 #### [Scaling – FFmpeg    ](https://trac.ffmpeg.org/wiki/Scaling)
 _<sup>https://trac.ffmpeg.org/wiki/Scaling</sup>_
 

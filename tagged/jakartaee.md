@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/jakartaee](https://www.bookmarks.dev/tagged/jakartaee)</sup></sup>_
 ---
+#### [Spring, Jakarta EE, CDI: The Good Parts - 1h:40min](https://www.youtube.com/watch?v=Px_FCgmrCLQ)
+_<sup>https://www.youtube.com/watch?v=Px_FCgmrCLQ</sup>_
+
+For few last years I was doing many presentations about problems caused by container based dependency injections and runtime aspects based on dynamic proxy. If You are not familiar with this I will qu...
+* :calendar: **published on**: 2020-06-03
+* **tags**: [javaee](../tagged/javaee.md), [java](../tagged/java.md), [jakartaee](../tagged/jakartaee.md), [spring](../tagged/spring.md)
+---
 #### [Jakarta EE Software  Homeage](https://jakarta.ee/)
 _<sup>https://jakarta.ee/</sup>_
 

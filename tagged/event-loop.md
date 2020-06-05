@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/event-loop](https://www.bookmarks.dev/tagged/event-loop)</sup></sup>_
 ---
+#### [Jake Archibald: In The Loop - JSConf.Asia - 35min](https://www.youtube.com/watch?v=cCOL7MC4Pl0)
+_<sup>https://www.youtube.com/watch?v=cCOL7MC4Pl0</sup>_
+
+Have you ever had a bug where things were happening in the wrong order, or particular style changes were being ignored? Ever fixed that bug by wrapping a section of code in a `setTimeout`? Ever found ...
+* :calendar: **published on**: 2018-02-09
+* **tags**: [JavaScript](../tagged/JavaScript.md), [Event-Loop](../tagged/Event-Loop.md), [Web-Development](../tagged/Web-Development.md), [Browser](../tagged/Browser.md)
+---
 #### [How JavaScript works in browser and node? - ITNEXT](https://itnext.io/how-javascript-works-in-browser-and-node-ab7d0d09ac2f)
 _<sup>https://itnext.io/how-javascript-works-in-browser-and-node-ab7d0d09ac2f</sup>_
 

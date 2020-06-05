@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/url](https://www.bookmarks.dev/tagged/url)</sup></sup>_
 ---
+#### [Lunatech Blog: What every web developer must know about URL encoding](https://www.talisman.org/~erlkonig/misc/lunatech%5Ewhat-every-webdev-must-know-about-url-encoding/)
+_<sup>https://www.talisman.org/~erlkonig/misc/lunatech%5Ewhat-every-webdev-must-know-about-url-encoding/</sup>_
+
+This article describes common misconceptions about Uniform Resource Locator (URL) encoding, then attempts to clarify URL encoding for HTTP, before presenting frequent problems and their solutions. Whi...
+* :calendar: **published on**: 2009-02-03
+* **tags**: [java](../tagged/java.md), [url](../tagged/url.md), [encoding](../tagged/encoding.md)
+---
 #### [How to get the full url in Express?](https://stackoverflow.com/questions/10183291/how-to-get-the-full-url-in-express)
 _<sup>https://stackoverflow.com/questions/10183291/how-to-get-the-full-url-in-express</sup>_
 

@@ -8,8 +8,8 @@ _<sup>https://tools.ietf.org/html/rfc7234</sup>_
 The Hypertext Transfer Protocol (HTTP) is a stateless application- level protocol for distributed, collaborative, hypertext information systems.  This document defines HTTP caches and the associated h...
 * **tags**: [http](../tagged/http.md), [http-caching](../tagged/http-caching.md)
 ---
-#### [Wiremock Home Page](https://github.com/tomakehurst/wiremock)
-_<sup>https://github.com/tomakehurst/wiremock</sup>_
+#### [Wiremock Home Page](http://wiremock.org/)
+_<sup>http://wiremock.org/</sup>_
 
 WireMock is a simulator for HTTP-based APIs. Some might consider it a service virtualization tool or a mock server.
 

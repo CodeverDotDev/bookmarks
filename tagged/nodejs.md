@@ -2,6 +2,22 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/nodejs](https://www.bookmarks.dev/tagged/nodejs)</sup></sup>_
 ---
+#### [Node.js multithreading: What are Worker threads, and why do they matter? - LogRocket Blog](https://blog.logrocket.com/node-js-multithreading-what-are-worker-threads-and-why-do-they-matter-48ab102f8b10/)
+_<sup>https://blog.logrocket.com/node-js-multithreading-what-are-worker-threads-and-why-do-they-matter-48a...</sup>_
+
+Since the release of Node.js v10.5.0, there’s a new worker_threads module available, and it has been stable since Node.js v12 LTS.
+
+What exactly is this Worker thread module, and why do we need it? In...
+* :calendar: **published on**: 2019-01-31
+* **tags**: [nodejs](../tagged/nodejs.md)
+---
+#### [mysticatea/npm-run-all](https://github.com/mysticatea/npm-run-all)
+_<sup>https://github.com/mysticatea/npm-run-all</sup>_
+
+A CLI tool to run multiple npm-scripts in parallel or sequential.
+* **tags**: [nodejs](../tagged/nodejs.md), [npm](../tagged/npm.md)
+* :octocat: **[source code](https://github.com/mysticatea/npm-run-all)**
+---
 #### [Using Express middleware](https://expressjs.com/en/guide/using-middleware.html#middleware.application)
 _<sup>https://expressjs.com/en/guide/using-middleware.html#middleware.application</sup>_
 

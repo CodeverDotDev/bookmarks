@@ -2,6 +2,17 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/form](https://www.bookmarks.dev/tagged/form)</sup></sup>_
 ---
+#### [I changed my implementation of an EXTREMELY deeply nested Angular Reactive Form and you won’t believe what happened - Angular inDepth](https://indepth.dev/i-changed-my-implementation-of-an-extremely-deeply-nested-angular-reactive-form-and-you-wont-believe-what-happened/)
+_<sup>https://indepth.dev/i-changed-my-implementation-of-an-extremely-deeply-nested-angular-reactive-form-...</sup>_
+
+TL;DR:
+1. Analyze a reactive form to identify the scopes for refactoring.
+2. Modularize the code by refactoring for better separation of concerns.
+3. Refactor the way the Reactive Form is generated i...
+* :calendar: **published on**: 2018-02-18
+* **tags**: [angular](../tagged/angular.md), [form](../tagged/form.md)
+* :octocat: **[source code](https://stackblitz.com/edit/reactive-forms-generate-very-large-form-final)**
+---
 #### [Using files from web applications - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/File/Using_files_from_web_applications)
 _<sup>https://developer.mozilla.org/en-US/docs/Web/API/File/Using_files_from_web_applications</sup>_
 

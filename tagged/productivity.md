@@ -2,6 +2,19 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/productivity](https://www.bookmarks.dev/tagged/productivity)</sup></sup>_
 ---
+#### [How I manage my dev bookmarks to save time and nerves - DEV Community 👩‍💻👨‍💻](https://dev.to/ama/how-i-manage-my-dev-bookmarks-and-save-time-and-nerves-56ae)
+_<sup>https://dev.to/ama/how-i-manage-my-dev-bookmarks-and-save-time-and-nerves-56ae</sup>_
+
+If you are like me and you like to keep things neat and organised, you probably end up with a dozen of folders and sub-folders in your bookmarks navigation bar. The reality is this only scales up to a...
+* :calendar: **published on**: 2019-07-13
+* **tags**: [productivity](../tagged/productivity.md), [productivity-tools](../tagged/productivity-tools.md)
+---
+#### [Witeboard Home Page](http://witeboard.com/)
+_<sup>http://witeboard.com/</sup>_
+
+Witeboard is the fastest way to collaborate real-time with your team anywhere. Whiteboard. 
+* **tags**: [productivity](../tagged/productivity.md), [productivity-tools](../tagged/productivity-tools.md), [collaboration](../tagged/collaboration.md)
+---
 #### [Bookmarking code snippets with Codelets](https://dev.to/ama/bookmarking-code-snippets-with-codelets-3d44)
 _<sup>https://dev.to/ama/bookmarking-code-snippets-with-codelets-3d44</sup>_
 

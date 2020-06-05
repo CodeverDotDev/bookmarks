@@ -30,3 +30,12 @@ After getting FFMPEG installed, let’s try it out on a MOV downloaded from my g
 * :calendar: **published on**: 2015-10-28
 * **tags**: [gif](../tagged/gif.md), [ffmpeg](../tagged/ffmpeg.md), [video-processing](../tagged/video-processing.md)
 ---
+#### [Even more about how Flexbox works — explained in big, colorful, animated gifs](https://medium.freecodecamp.org/even-more-about-how-flexbox-works-explained-in-big-colorful-animated-gifs-a5a74812b053)
+_<sup>https://medium.freecodecamp.org/even-more-about-how-flexbox-works-explained-in-big-colorful-animated...</sup>_
+
+[Last time](https://medium.freecodecamp.org/an-animated-guide-to-flexbox-d280cf6afc35) we got started with the basic Flexbox properties: flex-direction, justify-content, align-items, and align-self.
+
+...
+* :calendar: **published on**: 2017-02-21
+* **tags**: [flexbox](../tagged/flexbox.md), [gif](../tagged/gif.md)
+---

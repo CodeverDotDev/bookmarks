@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/docs](https://www.bookmarks.dev/tagged/docs)</sup></sup>_
 ---
+#### [Home - WireMock User Documentation - WireMock](http://wiremock.org/docs/)
+_<sup>http://wiremock.org/docs/</sup>_
+
+WireMock is an HTTP mock server. At its core it is web server that can be primed to serve canned responses to particular requests (stubbing) and that captures incoming requests so that they can be che...
+* **tags**: [wiremock](../tagged/wiremock.md), [docs](../tagged/docs.md)
+---
 #### [thlorenz/doctoc: 📜](https://github.com/thlorenz/doctoc)
 _<sup>https://github.com/thlorenz/doctoc</sup>_
 

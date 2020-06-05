@@ -2,6 +2,16 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/sdk](https://www.bookmarks.dev/tagged/sdk)</sup></sup>_
 ---
+#### [Writing IntelliJ IDEA Plugins](https://www.baeldung.com/intellij-new-custom-plugin)
+_<sup>https://www.baeldung.com/intellij-new-custom-plugin</sup>_
+
+To demonstrate writing an IntelliJ plugin, we'll create a plugin that provides quick access to the popular Stack Overflow website from multiple areas in the IDE. We'll add:
+
+* A Tools menu item to vis...
+* :calendar: **published on**: 2020-01-24
+* **tags**: [intellij](../tagged/intellij.md), [plugins](../tagged/plugins.md), [sdk](../tagged/sdk.md)
+* :octocat: **[source code](https://github.com/eugenp/tutorials/tree/master/intelliJ)**
+---
 #### [javascript-sdk-design](https://github.com/huei90/javascript-sdk-design)
 _<sup>https://github.com/huei90/javascript-sdk-design</sup>_
 

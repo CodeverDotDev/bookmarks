@@ -2,6 +2,47 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/git](https://www.bookmarks.dev/tagged/git)</sup></sup>_
 ---
+#### [typicode/husky: Git hooks made easy 🐶 woof!](https://github.com/typicode/husky)
+_<sup>https://github.com/typicode/husky</sup>_
+
+Husky can prevent bad git commit, git push and more 🐶 woof!
+* **tags**: [git](../tagged/git.md), [git-commit](../tagged/git-commit.md), [githooks](../tagged/githooks.md)
+* :octocat: **[source code](https://github.com/typicode/husky)**
+---
+#### [tbaggery - A Note About Git Commit Messages](https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
+_<sup>https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html</sup>_
+
+I want to take a moment to elaborate on what makes a well formed commit message. I think the best practices for commit message formatting is one of the little details that makes Git great. Understanda...
+* :calendar: **published on**: 2008-04-19
+* **tags**: [git](../tagged/git.md), [git-commit](../tagged/git-commit.md)
+---
+#### [365Git | Writing Git commit messages](https://365git.tumblr.com/post/3308646748/writing-git-commit-messages)
+_<sup>https://365git.tumblr.com/post/3308646748/writing-git-commit-messages</sup>_
+
+Unsurprisingly, there is a convention for writing Git commit messages. This comes from the submitting patches guidelines for Git itself. In summary:
+
+* The first line of the commit message should be a...
+* **tags**: [git](../tagged/git.md), [git-commit](../tagged/git-commit.md)
+---
+#### [Lerna · A tool for managing JavaScript projects with multiple packages.](https://lerna.js.org/)
+_<sup>https://lerna.js.org/</sup>_
+
+Splitting up large codebases into separate independently versioned packages is extremely useful for code sharing. However, making changes across many repositories is messy and difficult to track, and ...
+* **tags**: [javascript](../tagged/javascript.md), [npm](../tagged/npm.md), [package-management](../tagged/package-management.md), [monorepo](../tagged/monorepo.md), [git](../tagged/git.md)
+* :octocat: **[source code](https://github.com/lerna/lerna)**
+---
+#### [Git - githooks Documentation](https://git-scm.com/docs/githooks)
+_<sup>https://git-scm.com/docs/githooks</sup>_
+
+githooks - Hooks used by Git
+* **tags**: [git](../tagged/git.md), [githooks](../tagged/githooks.md)
+---
+#### [Git Hooks | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/git-hooks)
+_<sup>https://www.atlassian.com/git/tutorials/git-hooks</sup>_
+
+Git hooks are scripts that run automatically every time a particular event occurs in a Git repository. They let you customize Git’s internal behavior and trigger customizable actions at key points in ...
+* **tags**: [git](../tagged/git.md), [githooks](../tagged/githooks.md)
+---
 #### [thlorenz/doctoc: 📜](https://github.com/thlorenz/doctoc)
 _<sup>https://github.com/thlorenz/doctoc</sup>_
 

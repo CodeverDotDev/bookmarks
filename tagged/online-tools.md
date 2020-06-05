@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/online-tools](https://www.bookmarks.dev/tagged/online-tools)</sup></sup>_
 ---
+#### [Vectr - Free Online Vector Graphics Editor](https://vectr.com/)
+_<sup>https://vectr.com/</sup>_
+
+Vectr is a free graphics software used to create vector graphics easily and intuitively. It's a simple yet powerful web and desktop cross-platform tool to bring your designs into reality
+* **tags**: [svg](../tagged/svg.md), [tools](../tagged/tools.md), [online-tools](../tagged/online-tools.md)
+---
 #### [Codiva.io - Compile and Run Java Online](https://www.codiva.io/)
 _<sup>https://www.codiva.io/</sup>_
 

@@ -2,6 +2,11 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/algorithm](https://www.bookmarks.dev/tagged/algorithm)</sup></sup>_
 ---
+#### [The Algorithms](https://github.com/TheAlgorithms)
+_<sup>https://github.com/TheAlgorithms</sup>_
+
+* **tags**: [programming](../tagged/programming.md), [algorithm](../tagged/algorithm.md)
+---
 #### [algorithms](https://github.com/keon/algorithms)
 _<sup>https://github.com/keon/algorithms</sup>_
 

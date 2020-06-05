@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/docker-image](https://www.bookmarks.dev/tagged/docker-image)</sup></sup>_
 ---
+#### [rodolpheche/wiremock - Docker Hub](https://hub.docker.com/r/rodolpheche/wiremock/)
+_<sup>https://hub.docker.com/r/rodolpheche/wiremock/</sup>_
+
+Wiremock standalone HTTP server Docker image
+* **tags**: [wiremock](../tagged/wiremock.md), [docker-image](../tagged/docker-image.md)
+* :octocat: **[source code](https://github.com/rodolpheche/wiremock-docker)**
+---
 #### [GitHub - GoogleContainerTools/distroless home page](https://github.com/GoogleContainerTools/distroless)
 _<sup>https://github.com/GoogleContainerTools/distroless</sup>_
 

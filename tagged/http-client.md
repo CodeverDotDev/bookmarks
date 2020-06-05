@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/http-client](https://www.bookmarks.dev/tagged/http-client)</sup></sup>_
 ---
+#### [Unirest Java Documentation](http://kong.github.io/unirest-java/)
+_<sup>http://kong.github.io/unirest-java/</sup>_
+
+ Unirest in Java: Simplified, lightweight HTTP client library.
+* **tags**: [java](../tagged/java.md), [unirest](../tagged/unirest.md), [http-client](../tagged/http-client.md)
+* :octocat: **[source code](https://github.com/kong/unirest-java)**
+---
 #### [7 Ways to Leverage HttpInterceptors in Angular - Bits and Pieces](https://blog.bitsrc.io/7-ways-to-leverage-httpinterceptors-in-angular-59436611844d)
 _<sup>https://blog.bitsrc.io/7-ways-to-leverage-httpinterceptors-in-angular-59436611844d</sup>_
 

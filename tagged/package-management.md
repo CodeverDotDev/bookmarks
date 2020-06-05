@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/package-management](https://www.bookmarks.dev/tagged/package-management)</sup></sup>_
 ---
+#### [Lerna · A tool for managing JavaScript projects with multiple packages.](https://lerna.js.org/)
+_<sup>https://lerna.js.org/</sup>_
+
+Splitting up large codebases into separate independently versioned packages is extremely useful for code sharing. However, making changes across many repositories is messy and difficult to track, and ...
+* **tags**: [javascript](../tagged/javascript.md), [npm](../tagged/npm.md), [package-management](../tagged/package-management.md), [monorepo](../tagged/monorepo.md), [git](../tagged/git.md)
+* :octocat: **[source code](https://github.com/lerna/lerna)**
+---
 #### [go modules](https://golang.org/cmd/go/#hdr-Modules__module_versions__and_more)
 _<sup>https://golang.org/cmd/go/#hdr-Modules__module_versions__and_more</sup>_
 

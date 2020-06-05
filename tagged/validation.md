@@ -2,6 +2,18 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/validation](https://www.bookmarks.dev/tagged/validation)</sup></sup>_
 ---
+#### [List of Built-In Bean Validation Constraints](https://javaee.github.io/tutorial/bean-validation002.html)
+_<sup>https://javaee.github.io/tutorial/bean-validation002.html</sup>_
+
+Several built-in constraints are available in the `javax.validation.constraints` package. This link list them.
+* **tags**: [java](../tagged/java.md), [validation](../tagged/validation.md)
+---
+#### [Hibernate Validator - Jakarta Bean Validation Reference Implementation - Create custom constraints](https://docs.jboss.org/hibernate/stable/validator/reference/en-US/html_single/#validator-customconstraints)
+_<sup>https://docs.jboss.org/hibernate/stable/validator/reference/en-US/html_single/#validator-customconst...</sup>_
+
+The Jakarta Bean Validation API defines a whole set of standard constraint annotations such as @NotNull, @Size etc. In cases where these built-in constraints are not sufficient, you can easily create ...
+* **tags**: [java](../tagged/java.md), [validation](../tagged/validation.md)
+---
 #### [checkdigit](https://github.com/osamingo/checkdigit)
 _<sup>https://github.com/osamingo/checkdigit</sup>_
 

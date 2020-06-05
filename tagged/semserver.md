@@ -2,6 +2,15 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/semserver](https://www.bookmarks.dev/tagged/semserver)</sup></sup>_
 ---
+#### [Introduction - semantic-release](https://semantic-release.gitbook.io/semantic-release/)
+_<sup>https://semantic-release.gitbook.io/semantic-release/</sup>_
+
+semantic-release automates the whole package release workflow including: determining the next version number, generating the release notes and publishing the package.
+
+This removes the immediate conne...
+* **tags**: [semserver](../tagged/semserver.md), [release](../tagged/release.md), [semantic-release](../tagged/semantic-release.md), [semantic-versioning](../tagged/semantic-versioning.md)
+* :octocat: **[source code](https://github.com/semantic-release/semantic-release)**
+---
 #### [Sort Git Tags by Ascending and Descending Semver](https://andy-carter.com/blog/sort-git-tags-by-ascending-and-descending-semver)
 _<sup>https://andy-carter.com/blog/sort-git-tags-by-ascending-and-descending-semver</sup>_
 

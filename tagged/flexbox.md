@@ -37,10 +37,10 @@ _<sup>https://medium.freecodecamp.org/even-more-about-how-flexbox-works-explaine
 
 ...
 * :calendar: **published on**: 2017-02-21
-* **tags**: [flexbox](../tagged/flexbox.md)
+* **tags**: [flexbox](../tagged/flexbox.md), [gif](../tagged/gif.md)
 ---
-#### [How Flexbox works — explained with big, colorful, animated gifs](https://medium.freecodecamp.org/an-animated-guide-to-flexbox-d280cf6afc35)
-_<sup>https://medium.freecodecamp.org/an-animated-guide-to-flexbox-d280cf6afc35</sup>_
+#### [How Flexbox works — explained with big, colorful, animated gifs](https://www.freecodecamp.org/news/an-animated-guide-to-flexbox-d280cf6afc35/)
+_<sup>https://www.freecodecamp.org/news/an-animated-guide-to-flexbox-d280cf6afc35/</sup>_
 
 Flexbox’s underlying principle is to make layouts flexible and intuitive.
 

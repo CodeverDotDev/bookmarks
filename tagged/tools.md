@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/tools](https://www.bookmarks.dev/tagged/tools)</sup></sup>_
 ---
+#### [Vectr - Free Online Vector Graphics Editor](https://vectr.com/)
+_<sup>https://vectr.com/</sup>_
+
+Vectr is a free graphics software used to create vector graphics easily and intuitively. It's a simple yet powerful web and desktop cross-platform tool to bring your designs into reality
+* **tags**: [svg](../tagged/svg.md), [tools](../tagged/tools.md), [online-tools](../tagged/online-tools.md)
+---
 #### [Tools | the New DynamicTwitter_Logo_Blue](https://www.thenewdynamic.org/tool/)
 _<sup>https://www.thenewdynamic.org/tool/</sup>_
 

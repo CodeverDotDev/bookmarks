@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/macos](https://www.bookmarks.dev/tagged/macos)</sup></sup>_
 ---
+#### [CompilationGuide/macOS – FFmpeg](https://trac.ffmpeg.org/wiki/CompilationGuide/macOS)
+_<sup>https://trac.ffmpeg.org/wiki/CompilationGuide/macOS</sup>_
+
+There are a few ways to get FFmpeg on macOS
+* **tags**: [ffmpeg](../tagged/ffmpeg.md), [macos](../tagged/macos.md)
+---
 #### [awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line#readme)
 _<sup>https://github.com/herrbischoff/awesome-macos-command-line#readme</sup>_
 

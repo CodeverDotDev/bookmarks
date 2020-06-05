@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/jib](https://www.bookmarks.dev/tagged/jib)</sup></sup>_
 ---
+#### [Build and Push to Docker With Maven - Better Programming - Medium](https://medium.com/better-programming/build-push-to-docker-with-maven-eea7c4b8cfa2)
+_<sup>https://medium.com/better-programming/build-push-to-docker-with-maven-eea7c4b8cfa2</sup>_
+
+Automatically push your project to Docker using Spotify, fabric8, and JIB Maven plugins
+* :calendar: **published on**: 2019-10-07
+* **tags**: [maven](../tagged/maven.md), [maven-plugin](../tagged/maven-plugin.md), [docker](../tagged/docker.md), [jib](../tagged/jib.md)
+---
 #### [Spring Boot in a Container](https://spring.io/blog/2018/11/08/spring-boot-in-a-container)
 _<sup>https://spring.io/blog/2018/11/08/spring-boot-in-a-container</sup>_
 

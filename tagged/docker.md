@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/docker](https://www.bookmarks.dev/tagged/docker)</sup></sup>_
 ---
+#### [Build and Push to Docker With Maven - Better Programming - Medium](https://medium.com/better-programming/build-push-to-docker-with-maven-eea7c4b8cfa2)
+_<sup>https://medium.com/better-programming/build-push-to-docker-with-maven-eea7c4b8cfa2</sup>_
+
+Automatically push your project to Docker using Spotify, fabric8, and JIB Maven plugins
+* :calendar: **published on**: 2019-10-07
+* **tags**: [maven](../tagged/maven.md), [maven-plugin](../tagged/maven-plugin.md), [docker](../tagged/docker.md), [jib](../tagged/jib.md)
+---
 #### [Create a Reproducible Dev Environment with VS Code](https://medium.com/@james.thorniley/create-a-reproducible-dev-environment-with-vs-code-fd89285644da)
 _<sup>https://medium.com/@james.thorniley/create-a-reproducible-dev-environment-with-vs-code-fd89285644da</sup>_
 

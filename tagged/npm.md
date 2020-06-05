@@ -2,6 +2,20 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/npm](https://www.bookmarks.dev/tagged/npm)</sup></sup>_
 ---
+#### [Lerna · A tool for managing JavaScript projects with multiple packages.](https://lerna.js.org/)
+_<sup>https://lerna.js.org/</sup>_
+
+Splitting up large codebases into separate independently versioned packages is extremely useful for code sharing. However, making changes across many repositories is messy and difficult to track, and ...
+* **tags**: [javascript](../tagged/javascript.md), [npm](../tagged/npm.md), [package-management](../tagged/package-management.md), [monorepo](../tagged/monorepo.md), [git](../tagged/git.md)
+* :octocat: **[source code](https://github.com/lerna/lerna)**
+---
+#### [mysticatea/npm-run-all](https://github.com/mysticatea/npm-run-all)
+_<sup>https://github.com/mysticatea/npm-run-all</sup>_
+
+A CLI tool to run multiple npm-scripts in parallel or sequential.
+* **tags**: [nodejs](../tagged/nodejs.md), [npm](../tagged/npm.md)
+* :octocat: **[source code](https://github.com/mysticatea/npm-run-all)**
+---
 #### [How to connect to npm feeds from Azure DevOps](https://www.code4it.dev/blog/connect-npm-feeds-from-azure-devops)
 _<sup>https://www.code4it.dev/blog/connect-npm-feeds-from-azure-devops</sup>_
 

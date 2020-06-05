@@ -2,6 +2,16 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/programming](https://www.bookmarks.dev/tagged/programming)</sup></sup>_
 ---
+#### [resources · master · Edinson E. Padrón Urdaneta / My Journey to the Core · GitLab](https://gitlab.com/EPadronU/my-journey-to-the-core/-/tree/master/resources)
+_<sup>https://gitlab.com/EPadronU/my-journey-to-the-core/-/tree/master/resources</sup>_
+
+* **tags**: [resources](../tagged/resources.md), [programming](../tagged/programming.md)
+---
+#### [The Algorithms](https://github.com/TheAlgorithms)
+_<sup>https://github.com/TheAlgorithms</sup>_
+
+* **tags**: [programming](../tagged/programming.md), [algorithm](../tagged/algorithm.md)
+---
 #### [Hipsters Ponto Tech - Discussões acaloradas sobre startups, programação, ux, gadgets e as últimas tendências em tecnologia.Hipsters Ponto Tech](https://hipsters.tech/)
 _<sup>https://hipsters.tech/</sup>_
 

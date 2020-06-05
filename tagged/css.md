@@ -2,6 +2,15 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/css](https://www.bookmarks.dev/tagged/css)</sup></sup>_
 ---
+#### [How to center align font awesome icons vertically in a circle div?](https://stackoverflow.com/questions/20832226/how-to-center-align-font-awesome-icons-vertically-in-a-circle-div?rq=1)
+_<sup>https://stackoverflow.com/questions/20832226/how-to-center-align-font-awesome-icons-vertically-in-a-...</sup>_
+
+You can use line-height to align the icon in the div.
+
+Try adding this `.fa-camera-retro { line-height: inherit;}` to your css. Using inherit makes line-height take on the height of its containing div...
+* :calendar: **published on**: 2013-12-30
+* **tags**: [html](../tagged/html.md), [css](../tagged/css.md), [font-awesome](../tagged/font-awesome.md), [fonts](../tagged/fonts.md)
+---
 #### [Primer CSS Home Page](https://primer.style/css/)
 _<sup>https://primer.style/css/</sup>_
 

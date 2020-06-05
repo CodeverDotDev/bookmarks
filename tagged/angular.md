@@ -2,6 +2,47 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/angular](https://www.bookmarks.dev/tagged/angular)</sup></sup>_
 ---
+#### [Angular Home Page](https://angular.io/)
+_<sup>https://angular.io/</sup>_
+
+Angular is an application design framework and development platform for creating efficient and sophisticated single-page apps.
+* **tags**: [angular](../tagged/angular.md)
+* :octocat: **[source code](https://github.com/angular/angular)**
+---
+#### [DIY Keyboard Shortcuts in Your Angular Application - Netanel Basal](https://netbasal.com/diy-keyboard-shortcuts-in-your-angular-application-4704734547a2)
+_<sup>https://netbasal.com/diy-keyboard-shortcuts-in-your-angular-application-4704734547a2</sup>_
+
+So your new product manager’s request is to add keyboard shortcuts for common actions in the application, giving the users a fast and slick experience.
+
+As a good developer, you don’t want to reinvent...
+* :calendar: **published on**: 2019-05-21
+* **tags**: [angular](../tagged/angular.md)
+---
+#### [Angular Commit Message Guidelines](https://github.com/angular/angular/blob/master/CONTRIBUTING.md#commit)
+_<sup>https://github.com/angular/angular/blob/master/CONTRIBUTING.md#commit</sup>_
+
+We have very precise rules over how our git commit messages can be formatted. This leads to more readable messages that are easy to follow when looking through the project history. But also, we use th...
+* **tags**: [angular](../tagged/angular.md), [git-commit](../tagged/git-commit.md)
+* :octocat: **[source code](https://github.com/angular/angular/blob/master/CONTRIBUTING.md)**
+---
+#### [Avoiding common confusions with modules in Angular - Angular inDepth](https://indepth.dev/avoiding-common-confusions-with-modules-in-angular/)
+_<sup>https://indepth.dev/avoiding-common-confusions-with-modules-in-angular/</sup>_
+
+The article dives deep into inner implementation of module system in Angular. Then the author uses the discovered knowledge to shed light on common confusions related to Angular modules.
+* :calendar: **published on**: 2017-08-10
+* **tags**: [angular](../tagged/angular.md)
+---
+#### [I changed my implementation of an EXTREMELY deeply nested Angular Reactive Form and you won’t believe what happened - Angular inDepth](https://indepth.dev/i-changed-my-implementation-of-an-extremely-deeply-nested-angular-reactive-form-and-you-wont-believe-what-happened/)
+_<sup>https://indepth.dev/i-changed-my-implementation-of-an-extremely-deeply-nested-angular-reactive-form-...</sup>_
+
+TL;DR:
+1. Analyze a reactive form to identify the scopes for refactoring.
+2. Modularize the code by refactoring for better separation of concerns.
+3. Refactor the way the Reactive Form is generated i...
+* :calendar: **published on**: 2018-02-18
+* **tags**: [angular](../tagged/angular.md), [form](../tagged/form.md)
+* :octocat: **[source code](https://stackblitz.com/edit/reactive-forms-generate-very-large-form-final)**
+---
 #### [Working with Angular 5 Template Reference Variables](https://itnext.io/working-with-angular-5-template-reference-variable-e5aa59fb9af)
 _<sup>https://itnext.io/working-with-angular-5-template-reference-variable-e5aa59fb9af</sup>_
 

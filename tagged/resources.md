@@ -2,6 +2,11 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/resources](https://www.bookmarks.dev/tagged/resources)</sup></sup>_
 ---
+#### [resources · master · Edinson E. Padrón Urdaneta / My Journey to the Core · GitLab](https://gitlab.com/EPadronU/my-journey-to-the-core/-/tree/master/resources)
+_<sup>https://gitlab.com/EPadronU/my-journey-to-the-core/-/tree/master/resources</sup>_
+
+* **tags**: [resources](../tagged/resources.md), [programming](../tagged/programming.md)
+---
 #### [useful-java-links](https://github.com/Vedenin/useful-java-links#readme)
 _<sup>https://github.com/Vedenin/useful-java-links#readme</sup>_
 

@@ -2,6 +2,39 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/javascript](https://www.bookmarks.dev/tagged/javascript)</sup></sup>_
 ---
+#### [Lerna · A tool for managing JavaScript projects with multiple packages.](https://lerna.js.org/)
+_<sup>https://lerna.js.org/</sup>_
+
+Splitting up large codebases into separate independently versioned packages is extremely useful for code sharing. However, making changes across many repositories is messy and difficult to track, and ...
+* **tags**: [javascript](../tagged/javascript.md), [npm](../tagged/npm.md), [package-management](../tagged/package-management.md), [monorepo](../tagged/monorepo.md), [git](../tagged/git.md)
+* :octocat: **[source code](https://github.com/lerna/lerna)**
+---
+#### [How can I remove a specific item from an array?](https://stackoverflow.com/questions/5767325/how-can-i-remove-a-specific-item-from-an-array)
+_<sup>https://stackoverflow.com/questions/5767325/how-can-i-remove-a-specific-item-from-an-array</sup>_
+
+```
+const array = [2, 5, 9];
+
+console.log(array);
+
+const index = array.indexOf(5);
+if (index > -1) {
+  array.splice(index, 1);
+}
+
+// array = [2, 9]
+console.log(array); 
+```
+* :calendar: **published on**: 2011-04-23
+* **tags**: [javascript](../tagged/javascript.md), [arrays](../tagged/arrays.md)
+---
+#### [Jake Archibald: In The Loop - JSConf.Asia - 35min](https://www.youtube.com/watch?v=cCOL7MC4Pl0)
+_<sup>https://www.youtube.com/watch?v=cCOL7MC4Pl0</sup>_
+
+Have you ever had a bug where things were happening in the wrong order, or particular style changes were being ignored? Ever fixed that bug by wrapping a section of code in a `setTimeout`? Ever found ...
+* :calendar: **published on**: 2018-02-09
+* **tags**: [JavaScript](../tagged/JavaScript.md), [Event-Loop](../tagged/Event-Loop.md), [Web-Development](../tagged/Web-Development.md), [Browser](../tagged/Browser.md)
+---
 #### [Using files from web applications - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/File/Using_files_from_web_applications)
 _<sup>https://developer.mozilla.org/en-US/docs/Web/API/File/Using_files_from_web_applications</sup>_
 
@@ -4999,13 +5032,6 @@ application development, no defensive copying, and enabling advanced memoization
 and change detection techniques with simple ...
 * **tags**: [javascript](../tagged/javascript.md), [immutable.js](../tagged/immutable.js.md)
 * :octocat: **[source code](https://github.com/immutable-js/immutable-js)**
----
-#### [Jake Archibald: In The Loop - JSConf.Asia 2018 - YouTube](https://www.youtube.com/watch?v=cCOL7MC4Pl0)
-_<sup>https://www.youtube.com/watch?v=cCOL7MC4Pl0</sup>_
-
-Have you ever had a bug where things were happening in the wrong order, or particular style changes were being ignored? Ever fixed that bug by wrapping a section of code in a setTimeout? Ever found th...
-* :calendar: **published on**: 2018-01-27
-* **tags**: [javascript](../tagged/javascript.md)
 ---
 #### [GitHub - stoeffel/awesome-fp-js](https://github.com/stoeffel/awesome-fp-js#readme)
 _<sup>https://github.com/stoeffel/awesome-fp-js#readme</sup>_

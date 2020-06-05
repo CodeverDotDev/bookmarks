@@ -2,6 +2,11 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/api](https://www.bookmarks.dev/tagged/api)</sup></sup>_
 ---
+#### [Rolstenhouse/unofficial-apis: A collection of unofficial apis. Designed to inspire your next Friday night hack](https://github.com/Rolstenhouse/unofficial-apis)
+_<sup>https://github.com/Rolstenhouse/unofficial-apis</sup>_
+
+* **tags**: [api](../tagged/api.md)
+---
 #### [How to test a REST api from command line with curl – CodepediaOrg](https://www.codepedia.org/ama/how-to-test-a-rest-api-from-command-line-with-curl/)
 _<sup>https://www.codepedia.org/ama/how-to-test-a-rest-api-from-command-line-with-curl/</sup>_
 

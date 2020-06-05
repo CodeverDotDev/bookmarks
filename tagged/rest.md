@@ -10,8 +10,8 @@ This post presents examples of making CRUD HTTP calls against a backend REST API
 * **tags**: [curl](../tagged/curl.md), [rest](../tagged/rest.md), [api](../tagged/api.md)
 * :octocat: **[source code](https://github.com/CodepediaOrg/bookmarks.dev)**
 ---
-#### [Wiremock Home Page](https://github.com/tomakehurst/wiremock)
-_<sup>https://github.com/tomakehurst/wiremock</sup>_
+#### [Wiremock Home Page](http://wiremock.org/)
+_<sup>http://wiremock.org/</sup>_
 
 WireMock is a simulator for HTTP-based APIs. Some might consider it a service virtualization tool or a mock server.
 

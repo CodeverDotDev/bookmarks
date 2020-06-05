@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/immutable](https://www.bookmarks.dev/tagged/immutable)</sup></sup>_
 ---
+#### [Immutables.org](http://immutables.github.io/)
+_<sup>http://immutables.github.io/</sup>_
+
+Java annotation processors to generate simple, safe and consistent value objects. Do not repeat yourself, try Immutables, the most comprehensive tool in this field!
+* **tags**: [java](../tagged/java.md), [immutable](../tagged/immutable.md)
+* :octocat: **[source code](https://github.com/immutables/immutables)**
+---
 #### [Refactoring to Immutability - Kevlin Henney - YouTube](https://www.youtube.com/watch?v=APUCMSPiNh4)
 _<sup>https://www.youtube.com/watch?v=APUCMSPiNh4</sup>_
 

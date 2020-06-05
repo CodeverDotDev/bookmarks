@@ -2,6 +2,57 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/java](https://www.bookmarks.dev/tagged/java)</sup></sup>_
 ---
+#### [Spring, Jakarta EE, CDI: The Good Parts - 1h:40min](https://www.youtube.com/watch?v=Px_FCgmrCLQ)
+_<sup>https://www.youtube.com/watch?v=Px_FCgmrCLQ</sup>_
+
+For few last years I was doing many presentations about problems caused by container based dependency injections and runtime aspects based on dynamic proxy. If You are not familiar with this I will qu...
+* :calendar: **published on**: 2020-06-03
+* **tags**: [javaee](../tagged/javaee.md), [java](../tagged/java.md), [jakartaee](../tagged/jakartaee.md), [spring](../tagged/spring.md)
+---
+#### [Lunatech Blog: What every web developer must know about URL encoding](https://www.talisman.org/~erlkonig/misc/lunatech%5Ewhat-every-webdev-must-know-about-url-encoding/)
+_<sup>https://www.talisman.org/~erlkonig/misc/lunatech%5Ewhat-every-webdev-must-know-about-url-encoding/</sup>_
+
+This article describes common misconceptions about Uniform Resource Locator (URL) encoding, then attempts to clarify URL encoding for HTTP, before presenting frequent problems and their solutions. Whi...
+* :calendar: **published on**: 2009-02-03
+* **tags**: [java](../tagged/java.md), [url](../tagged/url.md), [encoding](../tagged/encoding.md)
+---
+#### [List of Built-In Bean Validation Constraints](https://javaee.github.io/tutorial/bean-validation002.html)
+_<sup>https://javaee.github.io/tutorial/bean-validation002.html</sup>_
+
+Several built-in constraints are available in the `javax.validation.constraints` package. This link list them.
+* **tags**: [java](../tagged/java.md), [validation](../tagged/validation.md)
+---
+#### [Hibernate Validator - Jakarta Bean Validation Reference Implementation - Create custom constraints](https://docs.jboss.org/hibernate/stable/validator/reference/en-US/html_single/#validator-customconstraints)
+_<sup>https://docs.jboss.org/hibernate/stable/validator/reference/en-US/html_single/#validator-customconst...</sup>_
+
+The Jakarta Bean Validation API defines a whole set of standard constraint annotations such as @NotNull, @Size etc. In cases where these built-in constraints are not sufficient, you can easily create ...
+* **tags**: [java](../tagged/java.md), [validation](../tagged/validation.md)
+---
+#### [Immutables.org](http://immutables.github.io/)
+_<sup>http://immutables.github.io/</sup>_
+
+Java annotation processors to generate simple, safe and consistent value objects. Do not repeat yourself, try Immutables, the most comprehensive tool in this field!
+* **tags**: [java](../tagged/java.md), [immutable](../tagged/immutable.md)
+* :octocat: **[source code](https://github.com/immutables/immutables)**
+---
+#### [The JDK Ecosystem - Level Up Coding](https://levelup.gitconnected.com/the-jdk-ecosystem-adeaec20b3a9)
+_<sup>https://levelup.gitconnected.com/the-jdk-ecosystem-adeaec20b3a9</sup>_
+
+About 10 years after Java’s inception in 1996, Sun Microsystems released OpenJDK in 2007, a free and open-source implementation of Java SE. Many companies started to join as contributors. And now many...
+* **tags**: [java](../tagged/java.md)
+---
+#### [Unirest Java Documentation](http://kong.github.io/unirest-java/)
+_<sup>http://kong.github.io/unirest-java/</sup>_
+
+ Unirest in Java: Simplified, lightweight HTTP client library.
+* **tags**: [java](../tagged/java.md), [unirest](../tagged/unirest.md), [http-client](../tagged/http-client.md)
+* :octocat: **[source code](https://github.com/kong/unirest-java)**
+---
+#### [World-class heap Dump analysis - Java, Android memory dump analyzer](https://heaphero.io/)
+_<sup>https://heaphero.io/</sup>_
+
+* **tags**: [java](../tagged/java.md)
+---
 #### [Method References (The Java™ Tutorials)](https://docs.oracle.com/javase/tutorial/java/javaOO/methodreferences.html)
 _<sup>https://docs.oracle.com/javase/tutorial/java/javaOO/methodreferences.html</sup>_
 
@@ -50,8 +101,8 @@ _<sup>https://github.com/google/google-java-format</sup>_
 * **tags**: [java](../tagged/java.md), [google-java-format](../tagged/google-java-format.md)
 * :octocat: **[source code](https://github.com/google/google-java-format)**
 ---
-#### [Wiremock Home Page](https://github.com/tomakehurst/wiremock)
-_<sup>https://github.com/tomakehurst/wiremock</sup>_
+#### [Wiremock Home Page](http://wiremock.org/)
+_<sup>http://wiremock.org/</sup>_
 
 WireMock is a simulator for HTTP-based APIs. Some might consider it a service virtualization tool or a mock server.
 

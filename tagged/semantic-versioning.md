@@ -1,6 +1,6 @@
-## Bookmarks tagged [[release]](https://www.bookmarks.dev/search?q=[release])
+## Bookmarks tagged [[semantic-versioning]](https://www.bookmarks.dev/search?q=[semantic-versioning])
 
-_<sup><sup>[www.bookmarks.dev/tagged/release](https://www.bookmarks.dev/tagged/release)</sup></sup>_
+_<sup><sup>[www.bookmarks.dev/tagged/semantic-versioning](https://www.bookmarks.dev/tagged/semantic-versioning)</sup></sup>_
 ---
 #### [Introduction - semantic-release](https://semantic-release.gitbook.io/semantic-release/)
 _<sup>https://semantic-release.gitbook.io/semantic-release/</sup>_
@@ -9,12 +9,5 @@ semantic-release automates the whole package release workflow including: determi
 
 This removes the immediate conne...
 * **tags**: [semserver](../tagged/semserver.md), [release](../tagged/release.md), [semantic-release](../tagged/semantic-release.md), [semantic-versioning](../tagged/semantic-versioning.md)
-* :octocat: **[source code](https://github.com/semantic-release/semantic-release)**
----
-#### [semantic-release home page](https://semantic-release.gitbook.io/)
-_<sup>https://semantic-release.gitbook.io/</sup>_
-
-Fully automated version management and package publishing
-* **tags**: [release-management](../tagged/release-management.md), [release](../tagged/release.md)
 * :octocat: **[source code](https://github.com/semantic-release/semantic-release)**
 ---

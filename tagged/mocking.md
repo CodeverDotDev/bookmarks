@@ -2,8 +2,8 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/mocking](https://www.bookmarks.dev/tagged/mocking)</sup></sup>_
 ---
-#### [Wiremock Home Page](https://github.com/tomakehurst/wiremock)
-_<sup>https://github.com/tomakehurst/wiremock</sup>_
+#### [Wiremock Home Page](http://wiremock.org/)
+_<sup>http://wiremock.org/</sup>_
 
 WireMock is a simulator for HTTP-based APIs. Some might consider it a service virtualization tool or a mock server.
 
