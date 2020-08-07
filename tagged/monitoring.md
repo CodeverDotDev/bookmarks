@@ -2,6 +2,20 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/monitoring](https://www.bookmarks.dev/tagged/monitoring)</sup></sup>_
 ---
+#### [@Stateless As JAX-RS Resource? - 5min](https://www.youtube.com/watch?time_continue=96&v=BnUsNlPnZZo&feature=emb_logo)
+_<sup>https://www.youtube.com/watch?time_continue=96&v=BnUsNlPnZZo&feature=emb_logo</sup>_
+
+@Stateless is an interesting component to be used as JAX-RS resource. Even if performance is not your primary goal: [https://www.youtube.com/watch?v=6Gm0u9gX56w](https://www.youtube.com/watch?v=6Gm0u9...
+* :calendar: **published on**: 2016-04-26
+* **tags**: [java](../tagged/java.md), [javaee](../tagged/javaee.md), [ejb](../tagged/ejb.md), [monitoring](../tagged/monitoring.md), [microservices](../tagged/microservices.md)
+---
+#### [Munin](http://munin-monitoring.org/)
+_<sup>http://munin-monitoring.org/</sup>_
+
+Munin is a networked resource monitoring tool that can help analyze resource trends and "what just happened to kill our performance?" problems. It is designed to be very plug and play. A default insta...
+* **tags**: [network](../tagged/network.md), [monitoring](../tagged/monitoring.md)
+* :octocat: **[source code](https://github.com/munin-monitoring/munin)**
+---
 #### [Micrometer Application Monitoring Home Page](http://micrometer.io/)
 _<sup>http://micrometer.io/</sup>_
 

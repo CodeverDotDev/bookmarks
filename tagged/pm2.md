@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/pm2](https://www.bookmarks.dev/tagged/pm2)</sup></sup>_
 ---
+#### [Scaling Node.js Applications](https://www.freecodecamp.org/news/scaling-node-js-applications-8492bd8afadc/)
+_<sup>https://www.freecodecamp.org/news/scaling-node-js-applications-8492bd8afadc/</sup>_
+
+Scalability in Node.js is not an afterthought. It’s something that’s baked into the core of the runtime. Node is named Node to emphasize the idea that a Node application should comprise multiple small...
+* :calendar: **published on**: 2017-07-13
+* **tags**: [nodejs](../tagged/nodejs.md), [scalability](../tagged/scalability.md), [pm2](../tagged/pm2.md)
+---
 #### [StrongLoop Process Manager](http://strong-pm.io/compare/)
 _<sup>http://strong-pm.io/compare/</sup>_
 

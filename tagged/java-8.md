@@ -2,6 +2,15 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/java-8](https://www.bookmarks.dev/tagged/java-8)</sup></sup>_
 ---
+#### [Bean Validation 2.0 - you’ve put your annotations everywhere! by Gunnar Morling - 14min](https://www.youtube.com/watch?v=GdKuxmtA65I)
+_<sup>https://www.youtube.com/watch?v=GdKuxmtA65I</sup>_
+
+Bean Validation 2.0 is out and the theme is Java 8. That’s a good thing since Java 8 brings not only new types to validate but also new locations to put annotations on.
+
+We took that round to add usef...
+* :calendar: **published on**: 2017-11-10
+* **tags**: [javabeans](../tagged/javabeans.md), [bean-validation](../tagged/bean-validation.md), [java](../tagged/java.md), [java-8](../tagged/java-8.md)
+---
 #### [Method References (The Java™ Tutorials)](https://docs.oracle.com/javase/tutorial/java/javaOO/methodreferences.html)
 _<sup>https://docs.oracle.com/javase/tutorial/java/javaOO/methodreferences.html</sup>_
 

@@ -2,6 +2,27 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/windows](https://www.bookmarks.dev/tagged/windows)</sup></sup>_
 ---
+#### [Debloat Windows 10 in 2020 – Chris Titus Tech](https://christitus.com/debloat-windows-10-2020/)
+_<sup>https://christitus.com/debloat-windows-10-2020/</sup>_
+
+Chris Titus Tech was started as a resource for all things technology. It has evolved from a YouTube channel to now be a resource for anyone wanted to learn about a variety of tech.
+* **tags**: [windows](../tagged/windows.md)
+---
+#### [Git Tips #2 - Change editor for interactive Git rebase](https://www.kevinkuszyk.com/2016/03/08/git-tips-2-change-editor-for-interactive-git-rebase/)
+_<sup>https://www.kevinkuszyk.com/2016/03/08/git-tips-2-change-editor-for-interactive-git-rebase/</sup>_
+
+Open a command prompt and type the following command:
+
+...
+* :calendar: **published on**: 2016-08-03
+* **tags**: [git](../tagged/git.md), [git-rebase](../tagged/git-rebase.md), [windows](../tagged/windows.md)
+---
+#### [f.lux: software to make your life better](https://justgetflux.com/)
+_<sup>https://justgetflux.com/</sup>_
+
+f.lux fixes this: it makes the color of your computer's display adapt to the time of day, warm at night and like sunlight during the day.
+* **tags**: [productivity](../tagged/productivity.md), [tools](../tagged/tools.md), [macos](../tagged/macos.md), [windows](../tagged/windows.md)
+---
 #### [Use Windows PowerShell to search for files](https://devblogs.microsoft.com/scripting/use-windows-powershell-to-search-for-files/)
 _<sup>https://devblogs.microsoft.com/scripting/use-windows-powershell-to-search-for-files/</sup>_
 

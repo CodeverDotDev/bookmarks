@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/uuid](https://www.bookmarks.dev/tagged/uuid)</sup></sup>_
 ---
+#### [Online UUID Generator Tool](https://www.uuidgenerator.net/)
+_<sup>https://www.uuidgenerator.net/</sup>_
+
+Online UUID Generator
+* **tags**: [uuid](../tagged/uuid.md), [online-tools](../tagged/online-tools.md), [tools](../tagged/tools.md)
+---
 #### [goid](https://github.com/jakehl/goid)
 _<sup>https://github.com/jakehl/goid</sup>_
 

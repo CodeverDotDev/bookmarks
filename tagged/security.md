@@ -2,6 +2,40 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/security](https://www.bookmarks.dev/tagged/security)</sup></sup>_
 ---
+#### [OWASP Dependency-Check Project | OWASP](https://owasp.org/www-project-dependency-check/)
+_<sup>https://owasp.org/www-project-dependency-check/</sup>_
+
+Dependency-Check is a Software Composition Analysis (SCA) tool that attempts to detect publicly disclosed vulnerabilities contained within a project’s dependencies. It does this by determining if ther...
+* **tags**: [security](../tagged/security.md), [dependency-management](../tagged/dependency-management.md)
+* :octocat: **[source code](https://github.com/jeremylong/DependencyCheck)**
+---
+#### [Same-origin policy](https://web.dev/same-origin-policy/)
+_<sup>https://web.dev/same-origin-policy/</sup>_
+
+The same-origin policy is a browser security feature that restricts how documents and scripts on one origin can interact with resources on another origin.
+* **tags**: [security](../tagged/security.md)
+---
+#### [Same-origin policy - Web security | MDN](https://developer.mozilla.org/en-US/docs/Web/Security/Same-origin_policy)
+_<sup>https://developer.mozilla.org/en-US/docs/Web/Security/Same-origin_policy</sup>_
+
+The same-origin policy is a critical security mechanism that restricts how a document or script loaded from one origin can interact with a resource from another origin. It helps isolate potentially ma...
+* **tags**: [security](../tagged/security.md)
+---
+#### [9 Security Tips to Keep Express from Getting Pwned - NodeSource](https://nodesource.com/blog/nine-security-tips-to-keep-express-from-getting-pwned)
+_<sup>https://nodesource.com/blog/nine-security-tips-to-keep-express-from-getting-pwned</sup>_
+
+Security is really hard to get right. There are so many different factors to consider, countless different ways to break an application.
+
+This is just as true with Express applications as it is with a...
+* **tags**: [expressjs](../tagged/expressjs.md), [security](../tagged/security.md)
+---
+#### [Helmet Home Page](https://helmetjs.github.io/)
+_<sup>https://helmetjs.github.io/</sup>_
+
+Helmet helps you secure your Express apps by setting various HTTP headers. It’s not a silver bullet, but it can help!
+* **tags**: [expressjs](../tagged/expressjs.md), [security](../tagged/security.md), [helmet](../tagged/helmet.md)
+* :octocat: **[source code](https://github.com/helmetjs/helmet)**
+---
 #### [GitHub - vasanthk/web-security-basics: Web security concepts](https://github.com/vasanthk/web-security-basics)
 _<sup>https://github.com/vasanthk/web-security-basics</sup>_
 
@@ -676,8 +710,8 @@ API Keys are not security. By design they lack granular control, and there are m
 * :calendar: **published on**: 2018-02-02
 * **tags**: [security](../tagged/security.md), [rest](../tagged/rest.md), [api](../tagged/api.md)
 ---
-#### [Category:OWASP Top Ten Project - OWASP](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)
-_<sup>https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project</sup>_
+#### [OWASP Top Ten Project - OWASP](https://owasp.org/www-project-top-ten/)
+_<sup>https://owasp.org/www-project-top-ten/</sup>_
 
 The OWASP Top 10 is a powerful awareness document for web application security. It represents a broad consensus about the most critical security risks to web applications. Project members include a va...
 * **tags**: [security](../tagged/security.md)

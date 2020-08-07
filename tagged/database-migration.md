@@ -2,6 +2,16 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/database-migration](https://www.bookmarks.dev/tagged/database-migration)</sup></sup>_
 ---
+#### [Keycloak upgrade while running on docker](https://stackoverflow.com/questions/47956933/keycloak-upgrade-while-running-on-docker)
+_<sup>https://stackoverflow.com/questions/47956933/keycloak-upgrade-while-running-on-docker</sup>_
+
+Advices around the following themes are given:
+* DB Migration
+* Config file migration
+* Provider, theme... migration
+* :calendar: **published on**: 2017-12-23
+* **tags**: [docker](../tagged/docker.md), [database-migration](../tagged/database-migration.md), [keycloak](../tagged/keycloak.md)
+---
 #### [One-Stop Guide to Database Migration with Flyway and Spring Boot](https://reflectoring.io/database-migration-spring-boot-flyway/)
 _<sup>https://reflectoring.io/database-migration-spring-boot-flyway/</sup>_
 

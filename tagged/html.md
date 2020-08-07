@@ -2,6 +2,27 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/html](https://www.bookmarks.dev/tagged/html)</sup></sup>_
 ---
+#### [GitHub - thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)
+_<sup>https://github.com/thedaviddias/Front-End-Checklist</sup>_
+
+The Front-End Checklist is an exhaustive list of all elements you need to have / to test before launching your website / HTML page to production.
+* **tags**: [frontend](../tagged/frontend.md), [developer-tools](../tagged/developer-tools.md), [html](../tagged/html.md), [javascript](../tagged/javascript.md)
+---
+#### [Bubbling and capturing](https://javascript.info/bubbling-and-capturing#bubbling)
+_<sup>https://javascript.info/bubbling-and-capturing#bubbling</sup>_
+
+The bubbling principle is simple.
+
+When an event happens on an element, it first runs the handlers on it, then on its parent, then all the way up on other ancestors.
+* **tags**: [javascript](../tagged/javascript.md), [event-bubbling](../tagged/event-bubbling.md), [html](../tagged/html.md)
+---
+#### [Metro 4 - Popular HTML, CSS and JS library](https://metroui.org.ua/)
+_<sup>https://metroui.org.ua/</sup>_
+
+Metro 4 is an open source toolkit for developing with HTML, CSS, and JS. Quickly prototype your ideas or build your entire app with responsive grid system, extensive prebuilt components, and powerful ...
+* **tags**: [frameworks](../tagged/frameworks.md), [css](../tagged/css.md), [html](../tagged/html.md), [javascript](../tagged/javascript.md)
+* :octocat: **[source code](https://github.com/olton/Metro-UI-CSS)**
+---
 #### [How to center align font awesome icons vertically in a circle div?](https://stackoverflow.com/questions/20832226/how-to-center-align-font-awesome-icons-vertically-in-a-circle-div?rq=1)
 _<sup>https://stackoverflow.com/questions/20832226/how-to-center-align-font-awesome-icons-vertically-in-a-...</sup>_
 

@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/version-control](https://www.bookmarks.dev/tagged/version-control)</sup></sup>_
 ---
+#### [Why I love trunk based development | Mattia Battiston | Medium](https://medium.com/@mattia.battiston/why-i-love-trunk-based-development-641fcf0b94a0)
+_<sup>https://medium.com/@mattia.battiston/why-i-love-trunk-based-development-641fcf0b94a0</sup>_
+
+Why I love Trunk Based Development (or pushing straight to master)
+* :calendar: **published on**: 2019-08-03
+* **tags**: [git](../tagged/git.md), [version-control](../tagged/version-control.md)
+---
 #### [Trunk Based Development](https://trunkbaseddevelopment.com/)
 _<sup>https://trunkbaseddevelopment.com/</sup>_
 

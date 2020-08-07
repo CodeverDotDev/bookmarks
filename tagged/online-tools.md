@@ -2,6 +2,19 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/online-tools](https://www.bookmarks.dev/tagged/online-tools)</sup></sup>_
 ---
+#### [Online UUID Generator Tool](https://www.uuidgenerator.net/)
+_<sup>https://www.uuidgenerator.net/</sup>_
+
+Online UUID Generator
+* **tags**: [uuid](../tagged/uuid.md), [online-tools](../tagged/online-tools.md), [tools](../tagged/tools.md)
+---
+#### [public-apis](https://github.com/public-apis/public-apis)
+_<sup>https://github.com/public-apis/public-apis</sup>_
+
+A collective list of free APIs for use in software and web development. 
+* **tags**: [api](../tagged/api.md), [tools](../tagged/tools.md), [online-tools](../tagged/online-tools.md)
+* :octocat: **[source code](https://github.com/public-apis/public-apis)**
+---
 #### [Vectr - Free Online Vector Graphics Editor](https://vectr.com/)
 _<sup>https://vectr.com/</sup>_
 

@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/html5](https://www.bookmarks.dev/tagged/html5)</sup></sup>_
 ---
+#### [HTML Questions | Front End Interview HandbookMenuMenu](https://yangshun.github.io/front-end-interview-handbook/en/html-questions#consider-html5-as-an-open-web-platform-what-are-the-building-blocks-of-html5)
+_<sup>https://yangshun.github.io/front-end-interview-handbook/en/html-questions#consider-html5-as-an-open-...</sup>_
+
+Answers to Front-end Job Interview Questions - HTML Questions. Pull requests for suggestions and corrections are welcome!
+* **tags**: [frontend](../tagged/frontend.md), [css](../tagged/css.md), [html5](../tagged/html5.md)
+---
 #### [awesome-html5](https://github.com/diegocard/awesome-html5#readme)
 _<sup>https://github.com/diegocard/awesome-html5#readme</sup>_
 

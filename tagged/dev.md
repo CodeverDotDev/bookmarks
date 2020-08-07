@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/dev](https://www.bookmarks.dev/tagged/dev)</sup></sup>_
 ---
+#### [Appydev | Find awesome tools](https://appydev.co/)
+_<sup>https://appydev.co/</sup>_
+
+Appydev is a collection of awesome tools, resources, communities & podcasts for developers, designers & enthusiasts
+* **tags**: [dev](../tagged/dev.md), [tools](../tagged/tools.md)
+---
 #### [Tools | the New DynamicTwitter_Logo_Blue](https://www.thenewdynamic.org/tool/)
 _<sup>https://www.thenewdynamic.org/tool/</sup>_
 

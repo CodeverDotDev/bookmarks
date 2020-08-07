@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/web-components](https://www.bookmarks.dev/tagged/web-components)</sup></sup>_
 ---
+#### [Stencil Home Page](https://stenciljs.com/)
+_<sup>https://stenciljs.com/</sup>_
+
+Stencil is a simple compiler for generating Web Components and progressive web apps (PWA). Stencil was built by the Ionic Framework team for its next generation of performant mobile and desktop Web Co...
+* **tags**: [web-components](../tagged/web-components.md), [pwa](../tagged/pwa.md)
+* :octocat: **[source code](https://github.com/ionic-team/stencil)**
+---
 #### [awesome-webcomponents-the-right-way](https://github.com/mateusortiz/webcomponents-the-right-way#readme)
 _<sup>https://github.com/mateusortiz/webcomponents-the-right-way#readme</sup>_
 

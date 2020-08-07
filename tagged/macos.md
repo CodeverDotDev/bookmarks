@@ -2,6 +2,17 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/macos](https://www.bookmarks.dev/tagged/macos)</sup></sup>_
 ---
+#### [SS64 Command line reference](https://ss64.com/)
+_<sup>https://ss64.com/</sup>_
+
+* **tags**: [command-line](../tagged/command-line.md), [linux](../tagged/linux.md), [bash-script](../tagged/bash-script.md), [macos](../tagged/macos.md)
+---
+#### [f.lux: software to make your life better](https://justgetflux.com/)
+_<sup>https://justgetflux.com/</sup>_
+
+f.lux fixes this: it makes the color of your computer's display adapt to the time of day, warm at night and like sunlight during the day.
+* **tags**: [productivity](../tagged/productivity.md), [tools](../tagged/tools.md), [macos](../tagged/macos.md), [windows](../tagged/windows.md)
+---
 #### [CompilationGuide/macOS – FFmpeg](https://trac.ffmpeg.org/wiki/CompilationGuide/macOS)
 _<sup>https://trac.ffmpeg.org/wiki/CompilationGuide/macOS</sup>_
 

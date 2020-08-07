@@ -2,6 +2,11 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/web](https://www.bookmarks.dev/tagged/web)</sup></sup>_
 ---
+#### [mod_dumpio - Apache HTTP Server Version 2.4](https://httpd.apache.org/docs/current/mod/mod_dumpio.html)
+_<sup>https://httpd.apache.org/docs/current/mod/mod_dumpio.html</sup>_
+
+* **tags**: [apache](../tagged/apache.md), [web](../tagged/web.md), [server-application](../tagged/server-application.md)
+---
 #### [GitHub - luruke/browser-2020: Things you can do with a browser in 2020 ☕️](https://github.com/luruke/browser-2020?utm_source=hackernewsletter&utm_medium=email&utm_term=fav)
 _<sup>https://github.com/luruke/browser-2020?utm_source=hackernewsletter&utm_medium=email&utm_term=fav</sup>_
 

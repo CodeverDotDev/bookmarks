@@ -2,6 +2,23 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/python](https://www.bookmarks.dev/tagged/python)</sup></sup>_
 ---
+#### [GitHub - codingsett/telepota: Python3 wrapper/library that simplifies telegram bot development](https://github.com/codingsett/telepota)
+_<sup>https://github.com/codingsett/telepota</sup>_
+
+Python3 wrapper/library that simplifies telegram bot development. It supports both sync and asyncio methods of programming. Dive in and start making awesome bots! - codingsett/telepota
+* **tags**: [telegram-bot](../tagged/telegram-bot.md), [python](../tagged/python.md), [development](../tagged/development.md)
+---
+#### [EarSketch](https://earsketch.gatech.edu/earsketch2/#)
+_<sup>https://earsketch.gatech.edu/earsketch2/#</sup>_
+
+Learning Python dev through the passion of music
+* **tags**: [music](../tagged/music.md), [music-dev](../tagged/music-dev.md), [py](../tagged/py.md), [python](../tagged/python.md), [learn-to-code](../tagged/learn-to-code.md)
+---
+#### [SymPy](https://www.sympy.org/en/index.html)
+_<sup>https://www.sympy.org/en/index.html</sup>_
+
+* **tags**: [py](../tagged/py.md), [python](../tagged/python.md), [mathematics](../tagged/mathematics.md), [mathematics-for-computer-science](../tagged/mathematics-for-computer-science.md)
+---
 #### [Google Cloud Pub/Sub Tutorial](https://cloud.google.com/functions/docs/tutorials/pubsub)
 _<sup>https://cloud.google.com/functions/docs/tutorials/pubsub</sup>_
 

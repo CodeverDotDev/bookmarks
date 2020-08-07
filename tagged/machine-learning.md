@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/machine-learning](https://www.bookmarks.dev/tagged/machine-learning)</sup></sup>_
 ---
+#### [Best Machine Learning Books (Updated for 2020)](https://blog.floydhub.com/best-machine-learning-books/)
+_<sup>https://blog.floydhub.com/best-machine-learning-books/</sup>_
+
+The list of the best machine learning & deep learning books for 2020.
+* **tags**: [machine-learning](../tagged/machine-learning.md)
+---
 #### [CCV](https://github.com/liuliu/ccv)
 _<sup>https://github.com/liuliu/ccv</sup>_
 

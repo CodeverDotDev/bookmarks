@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/vim](https://www.bookmarks.dev/tagged/vim)</sup></sup>_
 ---
+#### [Devhints — TL;DR for developer documentation](https://devhints.io/)
+_<sup>https://devhints.io/</sup>_
+
+A ridiculous collection of web development cheatsheets · One-page guide to 
+* **tags**: [cheatsheet](../tagged/cheatsheet.md), [bash](../tagged/bash.md), [react](../tagged/react.md), [sass](../tagged/sass.md), [vim](../tagged/vim.md)
+* :octocat: **[source code](https://github.com/rstacruz/cheatsheets)**
+---
 #### [rust.vim](https://github.com/rust-lang/rust.vim)
 _<sup>https://github.com/rust-lang/rust.vim</sup>_
 

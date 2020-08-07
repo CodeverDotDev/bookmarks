@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/mocking](https://www.bookmarks.dev/tagged/mocking)</sup></sup>_
 ---
+#### [Don't Mock What You Don't Own](https://maksimivanov.com/posts/dont-mock-what-you-dont-own/)
+_<sup>https://maksimivanov.com/posts/dont-mock-what-you-dont-own/</sup>_
+
+I was refactoring specs of some Rails application when I decided to mock the  class of CarierWave. I wanted to be able to check for specific…
+* :calendar: **published on**: 2017-09-11
+* **tags**: [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
+---
 #### [Wiremock Home Page](http://wiremock.org/)
 _<sup>http://wiremock.org/</sup>_
 

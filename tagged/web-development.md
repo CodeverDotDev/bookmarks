@@ -2,6 +2,27 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/web-development](https://www.bookmarks.dev/tagged/web-development)</sup></sup>_
 ---
+#### [GitHub - bmorelli25/Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
+_<sup>https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer</sup>_
+
+I created this list and am constantly updating it with new resources, information, and news. 
+* **tags**: [web-development](../tagged/web-development.md)
+* :octocat: **[source code](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)**
+---
+#### [GitHub - dexteryy/spellbook-of-modern-webdev](https://github.com/dexteryy/spellbook-of-modern-webdev)
+_<sup>https://github.com/dexteryy/spellbook-of-modern-webdev</sup>_
+
+A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development
+* **tags**: [web-development](../tagged/web-development.md), [javascript](../tagged/javascript.md)
+* :octocat: **[source code](https://github.com/dexteryy/spellbook-of-modern-webdev)**
+---
+#### [GitHub - kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+_<sup>https://github.com/kamranahmedse/developer-roadmap</sup>_
+
+Below you find a set of charts demonstrating the paths that you can take and the technologies that you would want to adopt in order to become a frontend, backend or a devops. I made these charts for a...
+* **tags**: [developer-tools](../tagged/developer-tools.md), [career](../tagged/career.md), [web-development](../tagged/web-development.md)
+* :octocat: **[source code](https://github.com/kamranahmedse/developer-roadmap)**
+---
 #### [Jake Archibald: In The Loop - JSConf.Asia - 35min](https://www.youtube.com/watch?v=cCOL7MC4Pl0)
 _<sup>https://www.youtube.com/watch?v=cCOL7MC4Pl0</sup>_
 

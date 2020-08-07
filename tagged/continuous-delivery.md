@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/continuous-delivery](https://www.bookmarks.dev/tagged/continuous-delivery)</sup></sup>_
 ---
+#### [The Death of Continuous Integration](https://www.infoq.com/presentations/death-continuous-integration/)
+_<sup>https://www.infoq.com/presentations/death-continuous-integration/</sup>_
+
+Steve Smith compares and contrasts different types of Feature Branching and Trunk Based Development, and explains why Continuous Delivery without Continuous Integration is not working.
+* **tags**: [agile](../tagged/agile.md), [continuous-integration](../tagged/continuous-integration.md), [continuous-deployment](../tagged/continuous-deployment.md), [continuous-delivery](../tagged/continuous-delivery.md)
+---
 #### [Continuous Delivery vs Continuous Deployment - Continuous Delivery](https://continuousdelivery.com/2010/08/continuous-delivery-vs-continuous-deployment/)
 _<sup>https://continuousdelivery.com/2010/08/continuous-delivery-vs-continuous-deployment/</sup>_
 

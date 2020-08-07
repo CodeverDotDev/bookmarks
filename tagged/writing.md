@@ -2,6 +2,20 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/writing](https://www.bookmarks.dev/tagged/writing)</sup></sup>_
 ---
+#### [kylelobo/The-Documentation-Compendium](https://github.com/kylelobo/The-Documentation-Compendium)
+_<sup>https://github.com/kylelobo/The-Documentation-Compendium</sup>_
+
+Various README templates & tips on writing high-quality documentation that people want to read.
+* **tags**: [documentation](../tagged/documentation.md), [writing](../tagged/writing.md), [readme](../tagged/readme.md)
+* :octocat: **[source code](https://github.com/kylelobo/The-Documentation-Compendium)**
+---
+#### [Documentation Guide — Write the Docs](https://www.writethedocs.org/guide/)
+_<sup>https://www.writethedocs.org/guide/</sup>_
+
+This guide gathers the collective wisdom of the Write the Docs community around best practices for creating software documentation.
+* **tags**: [documentation](../tagged/documentation.md), [writing](../tagged/writing.md)
+* :octocat: **[source code](https://github.com/writethedocs/www)**
+---
 #### [awesome-book-authoring](https://github.com/TalAter/awesome-book-authoring#readme)
 _<sup>https://github.com/TalAter/awesome-book-authoring#readme</sup>_
 

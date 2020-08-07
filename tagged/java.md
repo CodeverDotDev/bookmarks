@@ -2,6 +2,64 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/java](https://www.bookmarks.dev/tagged/java)</sup></sup>_
 ---
+#### [GitHub - TheAlgorithms/Java: All Algorithms implemented in Java](https://github.com/TheAlgorithms/Java)
+_<sup>https://github.com/TheAlgorithms/Java</sup>_
+
+All Algorithms implemented in Java. Contribute to TheAlgorithms/Java development by creating an account on GitHub.
+* **tags**: [java](../tagged/java.md), [algorithms](../tagged/algorithms.md)
+---
+#### [OpenJDK: jmh](https://openjdk.java.net/projects/code-tools/jmh/)
+_<sup>https://openjdk.java.net/projects/code-tools/jmh/</sup>_
+
+JMH is a Java harness for building, running, and analysing nano/micro/milli/macro benchmarks written in Java and other languages targetting the JVM.
+* **tags**: [java](../tagged/java.md), [jvm](../tagged/jvm.md), [benchmarking](../tagged/benchmarking.md)
+* :octocat: **[source code](https://hg.openjdk.java.net/code-tools/jmh/)**
+---
+#### [@Stateless As JAX-RS Resource? - 5min](https://www.youtube.com/watch?time_continue=96&v=BnUsNlPnZZo&feature=emb_logo)
+_<sup>https://www.youtube.com/watch?time_continue=96&v=BnUsNlPnZZo&feature=emb_logo</sup>_
+
+@Stateless is an interesting component to be used as JAX-RS resource. Even if performance is not your primary goal: [https://www.youtube.com/watch?v=6Gm0u9gX56w](https://www.youtube.com/watch?v=6Gm0u9...
+* :calendar: **published on**: 2016-04-26
+* **tags**: [java](../tagged/java.md), [javaee](../tagged/javaee.md), [ejb](../tagged/ejb.md), [monitoring](../tagged/monitoring.md), [microservices](../tagged/microservices.md)
+---
+#### [How do servlets work? Instantiation, sessions, shared variables and multithreading](https://stackoverflow.com/questions/3106452/how-do-servlets-work-instantiation-sessions-shared-variables-and-multithreadi)
+_<sup>https://stackoverflow.com/questions/3106452/how-do-servlets-work-instantiation-sessions-shared-varia...</sup>_
+
+Detailed response about ServletContext, HttpSession and Thread Safety
+* :calendar: **published on**: 2010-06-24
+* **tags**: [java](../tagged/java.md), [multithreading](../tagged/multithreading.md), [servlets](../tagged/servlets.md), [session-variables](../tagged/session-variables.md), [instance-variables](../tagged/instance-variables.md)
+---
+#### [Bean Validation 2.0 - you’ve put your annotations everywhere! by Gunnar Morling - 14min](https://www.youtube.com/watch?v=GdKuxmtA65I)
+_<sup>https://www.youtube.com/watch?v=GdKuxmtA65I</sup>_
+
+Bean Validation 2.0 is out and the theme is Java 8. That’s a good thing since Java 8 brings not only new types to validate but also new locations to put annotations on.
+
+We took that round to add usef...
+* :calendar: **published on**: 2017-11-10
+* **tags**: [javabeans](../tagged/javabeans.md), [bean-validation](../tagged/bean-validation.md), [java](../tagged/java.md), [java-8](../tagged/java-8.md)
+---
+#### [Create Your Own Constraints With Bean Validation 2.0 - DZone Java](https://dzone.com/articles/create-your-own-constraint-with-bean-validation-20)
+_<sup>https://dzone.com/articles/create-your-own-constraint-with-bean-validation-20</sup>_
+
+Take a look at how you can create and export your own custom constraints for Bean Validation with this step-by-step tutorial.
+* :calendar: **published on**: 2018-01-09
+* **tags**: [java](../tagged/java.md), [validation](../tagged/validation.md), [bean-validation](../tagged/bean-validation.md)
+---
+#### [Jakarta Bean Validation - Home Page](https://beanvalidation.org/)
+_<sup>https://beanvalidation.org/</sup>_
+
+What is Jakarta Bean Validation
+Jakarta Bean Validation is a Java specification which
+* lets you express constraints on object models via annotations
+* lets you write custom constraints in an ext...
+* **tags**: [java](../tagged/java.md), [javaee](../tagged/javaee.md), [bean-validation](../tagged/bean-validation.md), [javabeans](../tagged/javabeans.md), [validation](../tagged/validation.md)
+---
+#### [ A Quarter of a Century of Java - Azul Systems](https://www.azul.com/a-quarter-of-a-century-of-java/)
+_<sup>https://www.azul.com/a-quarter-of-a-century-of-java/</sup>_
+
+Java has evolved over the last 25 years. Take a look at how the core Java platform has changed over time. Happy Birthday, Java!
+* **tags**: [java](../tagged/java.md)
+---
 #### [Spring, Jakarta EE, CDI: The Good Parts - 1h:40min](https://www.youtube.com/watch?v=Px_FCgmrCLQ)
 _<sup>https://www.youtube.com/watch?v=Px_FCgmrCLQ</sup>_
 
@@ -26,7 +84,7 @@ Several built-in constraints are available in the `javax.validation.constraints`
 _<sup>https://docs.jboss.org/hibernate/stable/validator/reference/en-US/html_single/#validator-customconst...</sup>_
 
 The Jakarta Bean Validation API defines a whole set of standard constraint annotations such as @NotNull, @Size etc. In cases where these built-in constraints are not sufficient, you can easily create ...
-* **tags**: [java](../tagged/java.md), [validation](../tagged/validation.md)
+* **tags**: [java](../tagged/java.md), [validation](../tagged/validation.md), [javaee](../tagged/javaee.md)
 ---
 #### [Immutables.org](http://immutables.github.io/)
 _<sup>http://immutables.github.io/</sup>_

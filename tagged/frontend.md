@@ -2,6 +2,31 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/frontend](https://www.bookmarks.dev/tagged/frontend)</sup></sup>_
 ---
+#### [GitHub - thedaviddias/Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist)
+_<sup>https://github.com/thedaviddias/Front-End-Performance-Checklist</sup>_
+
+Performance is a huge subject, but it's not always a "back-end" or an "admin" subject: it's a Front-End responsibility too. The Front-End Performance Checklist is an exhaustive list of elements you sh...
+* **tags**: [frontend](../tagged/frontend.md), [performance](../tagged/performance.md), [checklist](../tagged/checklist.md)
+* :octocat: **[source code](https://github.com/thedaviddias/Front-End-Performance-Checklist)**
+---
+#### [GitHub - thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)
+_<sup>https://github.com/thedaviddias/Front-End-Checklist</sup>_
+
+The Front-End Checklist is an exhaustive list of all elements you need to have / to test before launching your website / HTML page to production.
+* **tags**: [frontend](../tagged/frontend.md), [developer-tools](../tagged/developer-tools.md), [html](../tagged/html.md), [javascript](../tagged/javascript.md)
+---
+#### [GitHub - grab/front-end-guide: 📚 Study guide and introduction to the modern front end stack.](https://github.com/grab/front-end-guide)
+_<sup>https://github.com/grab/front-end-guide</sup>_
+
+📚 Study guide and introduction to the modern front end stack. - grab/front-end-guide
+* **tags**: [javascript](../tagged/javascript.md), [frontend](../tagged/frontend.md)
+---
+#### [HTML Questions | Front End Interview HandbookMenuMenu](https://yangshun.github.io/front-end-interview-handbook/en/html-questions#consider-html5-as-an-open-web-platform-what-are-the-building-blocks-of-html5)
+_<sup>https://yangshun.github.io/front-end-interview-handbook/en/html-questions#consider-html5-as-an-open-...</sup>_
+
+Answers to Front-end Job Interview Questions - HTML Questions. Pull requests for suggestions and corrections are welcome!
+* **tags**: [frontend](../tagged/frontend.md), [css](../tagged/css.md), [html5](../tagged/html5.md)
+---
 #### [The Front-End Checklist](https://frontendchecklist.io/)
 _<sup>https://frontendchecklist.io/</sup>_
 

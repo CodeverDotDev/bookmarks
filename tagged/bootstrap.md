@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/bootstrap](https://www.bookmarks.dev/tagged/bootstrap)</sup></sup>_
 ---
+#### [Simple Sidebar - Bootstrap Sidebar Template](https://startbootstrap.com/templates/simple-sidebar/)
+_<sup>https://startbootstrap.com/templates/simple-sidebar/</sup>_
+
+A toggleable, simple sidebar template for Bootstrap 4 featuring a responsive sidebar navigation menu and a top navigation bar
+* **tags**: [bootstrap](../tagged/bootstrap.md)
+* :octocat: **[source code](https://github.com/StartBootstrap/startbootstrap-simple-sidebar)**
+---
 #### [btn-xs no longer a valid option in bootstrap 4?](https://stackoverflow.com/questions/33911049/btn-xs-no-longer-a-valid-option-in-bootstrap-4)
 _<sup>https://stackoverflow.com/questions/33911049/btn-xs-no-longer-a-valid-option-in-bootstrap-4</sup>_
 

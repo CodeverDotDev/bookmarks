@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/implementations](https://www.bookmarks.dev/tagged/implementations)</sup></sup>_
 ---
+#### [CDI Reference Implementation latest](https://docs.jboss.org/weld/reference/latest/en-US/html_single/)
+_<sup>https://docs.jboss.org/weld/reference/latest/en-US/html_single/</sup>_
+
+The [CDI specification](http://jcp.org/en/jsr/detail?id=346) defines a set of complementary services that help improve the structure of application code. CDI layers an enhanced lifecycle and interacti...
+* **tags**: [cdi](../tagged/cdi.md), [docs](../tagged/docs.md), [java-ee](../tagged/java-ee.md), [implementations](../tagged/implementations.md)
+---
 #### [react-transmit - Relay-inspired library based on **JavaScript Promises**](https://github.com/RickWong/react-transmit)
 _<sup>https://github.com/RickWong/react-transmit</sup>_
 

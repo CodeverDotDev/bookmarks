@@ -2,12 +2,49 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/javaee](https://www.bookmarks.dev/tagged/javaee)</sup></sup>_
 ---
+#### [What Is Faster EJBs or CDI? - YouTube](https://www.youtube.com/watch?v=6Gm0u9gX56w)
+_<sup>https://www.youtube.com/watch?v=6Gm0u9gX56w</sup>_
+
+Live coding of two simple jax-rs resources one annotated with EJB and one with CDI plus a benchmarking test with **jmh**. EJB performs better in this scenario. Write your benchmark for your situation
+* **tags**: [javaee](../tagged/javaee.md), [jaxrs](../tagged/jaxrs.md), [ejb](../tagged/ejb.md), [cdi](../tagged/cdi.md), [benchmarking](../tagged/benchmarking.md)
+---
+#### [@Stateless As JAX-RS Resource? - 5min](https://www.youtube.com/watch?time_continue=96&v=BnUsNlPnZZo&feature=emb_logo)
+_<sup>https://www.youtube.com/watch?time_continue=96&v=BnUsNlPnZZo&feature=emb_logo</sup>_
+
+@Stateless is an interesting component to be used as JAX-RS resource. Even if performance is not your primary goal: [https://www.youtube.com/watch?v=6Gm0u9gX56w](https://www.youtube.com/watch?v=6Gm0u9...
+* :calendar: **published on**: 2016-04-26
+* **tags**: [java](../tagged/java.md), [javaee](../tagged/javaee.md), [ejb](../tagged/ejb.md), [monitoring](../tagged/monitoring.md), [microservices](../tagged/microservices.md)
+---
+#### [@Singleton vs @ApplicationScope](https://stackoverflow.com/questions/26832051/singleton-vs-applicationscope/27848417)
+_<sup>https://stackoverflow.com/questions/26832051/singleton-vs-applicationscope/27848417</sup>_
+
+All those kinds of singletons (static, @javax.inject.Singleton, @javax.ejb.Singleton and @javax.enterprise.context.ApplicationScoped) are created once per JVM.
+
+Short explanation of the differences
+* :calendar: **published on**: 2014-11-09
+* **tags**: [static](../tagged/static.md), [singleton](../tagged/singleton.md), [synchronized](../tagged/synchronized.md), [javaee](../tagged/javaee.md)
+---
+#### [Jakarta Bean Validation - Home Page](https://beanvalidation.org/)
+_<sup>https://beanvalidation.org/</sup>_
+
+What is Jakarta Bean Validation
+Jakarta Bean Validation is a Java specification which
+* lets you express constraints on object models via annotations
+* lets you write custom constraints in an ext...
+* **tags**: [java](../tagged/java.md), [javaee](../tagged/javaee.md), [bean-validation](../tagged/bean-validation.md), [javabeans](../tagged/javabeans.md), [validation](../tagged/validation.md)
+---
 #### [Spring, Jakarta EE, CDI: The Good Parts - 1h:40min](https://www.youtube.com/watch?v=Px_FCgmrCLQ)
 _<sup>https://www.youtube.com/watch?v=Px_FCgmrCLQ</sup>_
 
 For few last years I was doing many presentations about problems caused by container based dependency injections and runtime aspects based on dynamic proxy. If You are not familiar with this I will qu...
 * :calendar: **published on**: 2020-06-03
 * **tags**: [javaee](../tagged/javaee.md), [java](../tagged/java.md), [jakartaee](../tagged/jakartaee.md), [spring](../tagged/spring.md)
+---
+#### [Hibernate Validator - Jakarta Bean Validation Reference Implementation - Create custom constraints](https://docs.jboss.org/hibernate/stable/validator/reference/en-US/html_single/#validator-customconstraints)
+_<sup>https://docs.jboss.org/hibernate/stable/validator/reference/en-US/html_single/#validator-customconst...</sup>_
+
+The Jakarta Bean Validation API defines a whole set of standard constraint annotations such as @NotNull, @Size etc. In cases where these built-in constraints are not sufficient, you can easily create ...
+* **tags**: [java](../tagged/java.md), [validation](../tagged/validation.md), [javaee](../tagged/javaee.md)
 ---
 #### [Thorntail Home Page](http://thorntail.io/)
 _<sup>http://thorntail.io/</sup>_

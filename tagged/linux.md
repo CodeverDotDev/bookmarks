@@ -2,6 +2,11 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/linux](https://www.bookmarks.dev/tagged/linux)</sup></sup>_
 ---
+#### [SS64 Command line reference](https://ss64.com/)
+_<sup>https://ss64.com/</sup>_
+
+* **tags**: [command-line](../tagged/command-line.md), [linux](../tagged/linux.md), [bash-script](../tagged/bash-script.md), [macos](../tagged/macos.md)
+---
 #### [Basic Linux Commands - Bash Command Line Tips You Should Know](https://www.freecodecamp.org/news/basic-linux-commands-bash-tips-you-should-know-2/)
 _<sup>https://www.freecodecamp.org/news/basic-linux-commands-bash-tips-you-should-know-2/</sup>_
 

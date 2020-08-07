@@ -2,6 +2,15 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/spring-boot](https://www.bookmarks.dev/tagged/spring-boot)</sup></sup>_
 ---
+#### [Spring Tips: Spring Batch - 39min](https://www.youtube.com/watch?v=x4nBNLoizOc)
+_<sup>https://www.youtube.com/watch?v=x4nBNLoizOc</sup>_
+
+In this tip, we'll look at how to process large amounts of sequential data using Spring Batch.
+
+spring-boot 1.5.RC and spring-batch 4
+* :calendar: **published on**: 2017-02-01
+* **tags**: [spring](../tagged/spring.md), [spring-boot](../tagged/spring-boot.md), [spring-batch](../tagged/spring-batch.md)
+---
 #### [Quarkus for Spring Developers](https://quarkus.io/blog/quarkus-for-spring-developers/)
 _<sup>https://quarkus.io/blog/quarkus-for-spring-developers/</sup>_
 

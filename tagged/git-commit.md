@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/git-commit](https://www.bookmarks.dev/tagged/git-commit)</sup></sup>_
 ---
+#### [The anatomy of a Git commit](https://blog.thoughtram.io/git/2014/11/18/the-anatomy-of-a-git-commit.html)
+_<sup>https://blog.thoughtram.io/git/2014/11/18/the-anatomy-of-a-git-commit.html</sup>_
+
+Ever wondered what a Git commit looks like internally? Why it has those long revision identifiers? If they are unique or not? We are going to look at exactly that!
+* :calendar: **published on**: 2014-11-18
+* **tags**: [git](../tagged/git.md), [git-commit](../tagged/git-commit.md)
+---
 #### [typicode/husky: Git hooks made easy 🐶 woof!](https://github.com/typicode/husky)
 _<sup>https://github.com/typicode/husky</sup>_
 
@@ -37,4 +44,12 @@ _<sup>https://github.com/conventional-changelog/conventional-changelog</sup>_
 Generate changelogs and release notes from a project's commit messages and metadata.
 * **tags**: [git-commit](../tagged/git-commit.md), [git](../tagged/git.md), [changelog](../tagged/changelog.md)
 * :octocat: **[source code](https://github.com/conventional-changelog/conventional-changelog)**
+---
+#### [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
+_<sup>https://chris.beams.io/posts/git-commit/</sup>_
+
+The contributors to these repositories know that a well-crafted Git commit message is the best way to communicate _context_ about a change to fellow developers (and indeed to their future selves).
+
+Th...
+* **tags**: [git](../tagged/git.md), [git-commit](../tagged/git-commit.md)
 ---

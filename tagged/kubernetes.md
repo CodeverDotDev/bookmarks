@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/kubernetes](https://www.bookmarks.dev/tagged/kubernetes)</sup></sup>_
 ---
+#### [kubernetes-basicLearning/readme.md at master · knrt10/kubernetes-basicLearning · GitHub](https://github.com/knrt10/kubernetes-basicLearning/blob/master/readme.md)
+_<sup>https://github.com/knrt10/kubernetes-basicLearning/blob/master/readme.md</sup>_
+
+Understand kubernetes step by step. A simple repo for beginners :fire: - knrt10/kubernetes-basicLearning
+* **tags**: [docker](../tagged/docker.md), [kubernetes](../tagged/kubernetes.md), [javascript](../tagged/javascript.md)
+---
 #### [DRY Kubernetes with Helm | mimacom](https://blog.mimacom.com/dry-kubernetes-with-helm/)
 _<sup>https://blog.mimacom.com/dry-kubernetes-with-helm/</sup>_
 

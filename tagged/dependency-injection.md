@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/dependency-injection](https://www.bookmarks.dev/tagged/dependency-injection)</sup></sup>_
 ---
+#### [Angular - Dependency injection in Angular](https://angular.io/guide/dependency-injection)
+_<sup>https://angular.io/guide/dependency-injection</sup>_
+
+In Angular, the DI framework provides declared dependencies to a class when that class is instantiated. This guide explains how DI works in Angular, and how you use it to make your apps flexible, effi...
+* **tags**: [angular](../tagged/angular.md), [dependency-injection](../tagged/dependency-injection.md)
+---
 #### [alice](https://github.com/magic003/alice)
 _<sup>https://github.com/magic003/alice</sup>_
 

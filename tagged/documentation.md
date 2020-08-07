@@ -2,6 +2,26 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/documentation](https://www.bookmarks.dev/tagged/documentation)</sup></sup>_
 ---
+#### [A minimal approach to software architecture documentation | Dev.to](https://dev.to/simonbrown/a-minimal-approach-to-software-architecture-documentation-4k6k)
+_<sup>https://dev.to/simonbrown/a-minimal-approach-to-software-architecture-documentation-4k6k</sup>_
+
+* :calendar: **published on**: 2020-07-16
+* **tags**: [documentation](../tagged/documentation.md)
+---
+#### [kylelobo/The-Documentation-Compendium](https://github.com/kylelobo/The-Documentation-Compendium)
+_<sup>https://github.com/kylelobo/The-Documentation-Compendium</sup>_
+
+Various README templates & tips on writing high-quality documentation that people want to read.
+* **tags**: [documentation](../tagged/documentation.md), [writing](../tagged/writing.md), [readme](../tagged/readme.md)
+* :octocat: **[source code](https://github.com/kylelobo/The-Documentation-Compendium)**
+---
+#### [Documentation Guide — Write the Docs](https://www.writethedocs.org/guide/)
+_<sup>https://www.writethedocs.org/guide/</sup>_
+
+This guide gathers the collective wisdom of the Write the Docs community around best practices for creating software documentation.
+* **tags**: [documentation](../tagged/documentation.md), [writing](../tagged/writing.md)
+* :octocat: **[source code](https://github.com/writethedocs/www)**
+---
 #### [Documentation | Guides | Tutorials | Quick Answers | Linode](https://www.linode.com/docs/)
 _<sup>https://www.linode.com/docs/</sup>_
 

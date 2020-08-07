@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/asynchronous](https://www.bookmarks.dev/tagged/asynchronous)</sup></sup>_
 ---
+#### [async/await in Angular `ngOnInit`](https://stackoverflow.com/questions/56092083/async-await-in-angular-ngoninit)
+_<sup>https://stackoverflow.com/questions/56092083/async-await-in-angular-ngoninit</sup>_
+
+It is no different than what you had before. `ngOnInit` will return a Promise and the caller will ignore that promise. This means that the caller will not wait for everything in your method to finish ...
+* :calendar: **published on**: 2019-05-11
+* **tags**: [angular](../tagged/angular.md), [typescript](../tagged/typescript.md), [asynchronous](../tagged/asynchronous.md), [promise](../tagged/promise.md), [observable](../tagged/observable.md)
+---
 #### [Don't Block the Event Loop (or the Worker Pool) | Node.js](https://nodejs.org/ru/docs/guides/dont-block-the-event-loop/)
 _<sup>https://nodejs.org/ru/docs/guides/dont-block-the-event-loop/</sup>_
 

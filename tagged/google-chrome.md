@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/google-chrome](https://www.bookmarks.dev/tagged/google-chrome)</sup></sup>_
 ---
+#### [Chrome DevTools Protocol](https://chromedevtools.github.io/devtools-protocol/)
+_<sup>https://chromedevtools.github.io/devtools-protocol/</sup>_
+
+The Chrome DevTools Protocol allows for tools to instrument, inspect, debug and profile Chromium, Chrome and other Blink-based browsers. Many existing projects currently use the protocol. The Chrome D...
+* **tags**: [google-chrome](../tagged/google-chrome.md), [chrome-devtools](../tagged/chrome-devtools.md)
+* :octocat: **[source code](https://github.com/ChromeDevTools/debugger-protocol-viewer)**
+---
 #### [Creating A Basic Chrome Extension](https://www.thepolyglotdeveloper.com/2018/09/creating-basic-chrome-extension/)
 _<sup>https://www.thepolyglotdeveloper.com/2018/09/creating-basic-chrome-extension/</sup>_
 

@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/api](https://www.bookmarks.dev/tagged/api)</sup></sup>_
 ---
+#### [public-apis](https://github.com/public-apis/public-apis)
+_<sup>https://github.com/public-apis/public-apis</sup>_
+
+A collective list of free APIs for use in software and web development. 
+* **tags**: [api](../tagged/api.md), [tools](../tagged/tools.md), [online-tools](../tagged/online-tools.md)
+* :octocat: **[source code](https://github.com/public-apis/public-apis)**
+---
 #### [Rolstenhouse/unofficial-apis: A collection of unofficial apis. Designed to inspire your next Friday night hack](https://github.com/Rolstenhouse/unofficial-apis)
 _<sup>https://github.com/Rolstenhouse/unofficial-apis</sup>_
 

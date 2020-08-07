@@ -2,6 +2,27 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/plugins](https://www.bookmarks.dev/tagged/plugins)</sup></sup>_
 ---
+#### [Rainbow Brackets - plugin for IntelliJ IDEs | JetBrains](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets)
+_<sup>https://plugins.jetbrains.com/plugin/10080-rainbow-brackets</sup>_
+
+Rainbow Brackets / Rainbow Parentheses for IntelliJ based IDEs
+* **tags**: [intellij](../tagged/intellij.md), [plugins](../tagged/plugins.md)
+* :octocat: **[source code](https://github.com/izhangzhihao/intellij-rainbow-brackets)**
+---
+#### [Extra Icons - plugin for IntelliJ IDEs | JetBrains](https://plugins.jetbrains.com/plugin/11058-extra-icons)
+_<sup>https://plugins.jetbrains.com/plugin/11058-extra-icons</sup>_
+
+Add icons for files like Travis YML, Appveyor YML, etc.
+* **tags**: [intellij](../tagged/intellij.md), [plugins](../tagged/plugins.md)
+* :octocat: **[source code](https://github.com/jonathanlermitage/intellij-extra-icons-plugin)**
+---
+#### [Grep Console IntelliJ Plugin](https://plugins.jetbrains.com/plugin/7125-grep-console)
+_<sup>https://plugins.jetbrains.com/plugin/7125-grep-console</sup>_
+
+Grep, tail, filter, highlight... everything you need for a console. Also can highlight the editor - nice for analyzing logs...
+* **tags**: [intellij](../tagged/intellij.md), [plugins](../tagged/plugins.md), [grep](../tagged/grep.md), [console](../tagged/console.md)
+* :octocat: **[source code](https://github.com/krasa/GrepConsole)**
+---
 #### [Writing IntelliJ IDEA Plugins](https://www.baeldung.com/intellij-new-custom-plugin)
 _<sup>https://www.baeldung.com/intellij-new-custom-plugin</sup>_
 

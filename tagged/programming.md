@@ -2,6 +2,25 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/programming](https://www.bookmarks.dev/tagged/programming)</sup></sup>_
 ---
+#### [Keynote - Jacob Kaplan-Moss - Pycon 2015 - 35min](https://www.youtube.com/watch?v=hIJdFxYlEKE)
+_<sup>https://www.youtube.com/watch?v=hIJdFxYlEKE</sup>_
+
+* :calendar: **published on**: 2015-04-12
+* **tags**: [programming](../tagged/programming.md), [pycon](../tagged/pycon.md)
+---
+#### [Essays on programming I think about a lot | benkuhn.net](https://www.benkuhn.net/progessays/)
+_<sup>https://www.benkuhn.net/progessays/</sup>_
+
+* :calendar: **published on**: 2020-07-01
+* **tags**: [programming](../tagged/programming.md)
+---
+#### [Why Programmers Need Limits - Charles Scalfani - Medium](https://medium.com/@cscalfani/why-programmers-need-limits-3d96e1a0a6db)
+_<sup>https://medium.com/@cscalfani/why-programmers-need-limits-3d96e1a0a6db</sup>_
+
+We come from a culture of No Limits or Push the Limits, but actually we need limits. We’re better off with them, but they need to be the right limits.
+* :calendar: **published on**: 2016-08-06
+* **tags**: [programming](../tagged/programming.md)
+---
 #### [resources · master · Edinson E. Padrón Urdaneta / My Journey to the Core · GitLab](https://gitlab.com/EPadronU/my-journey-to-the-core/-/tree/master/resources)
 _<sup>https://gitlab.com/EPadronU/my-journey-to-the-core/-/tree/master/resources</sup>_
 

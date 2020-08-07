@@ -2,6 +2,22 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/docker](https://www.bookmarks.dev/tagged/docker)</sup></sup>_
 ---
+#### [Keycloak upgrade while running on docker](https://stackoverflow.com/questions/47956933/keycloak-upgrade-while-running-on-docker)
+_<sup>https://stackoverflow.com/questions/47956933/keycloak-upgrade-while-running-on-docker</sup>_
+
+Advices around the following themes are given:
+* DB Migration
+* Config file migration
+* Provider, theme... migration
+* :calendar: **published on**: 2017-12-23
+* **tags**: [docker](../tagged/docker.md), [database-migration](../tagged/database-migration.md), [keycloak](../tagged/keycloak.md)
+---
+#### [kubernetes-basicLearning/readme.md at master · knrt10/kubernetes-basicLearning · GitHub](https://github.com/knrt10/kubernetes-basicLearning/blob/master/readme.md)
+_<sup>https://github.com/knrt10/kubernetes-basicLearning/blob/master/readme.md</sup>_
+
+Understand kubernetes step by step. A simple repo for beginners :fire: - knrt10/kubernetes-basicLearning
+* **tags**: [docker](../tagged/docker.md), [kubernetes](../tagged/kubernetes.md), [javascript](../tagged/javascript.md)
+---
 #### [Build and Push to Docker With Maven - Better Programming - Medium](https://medium.com/better-programming/build-push-to-docker-with-maven-eea7c4b8cfa2)
 _<sup>https://medium.com/better-programming/build-push-to-docker-with-maven-eea7c4b8cfa2</sup>_
 

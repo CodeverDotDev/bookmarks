@@ -2,6 +2,17 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/rust](https://www.bookmarks.dev/tagged/rust)</sup></sup>_
 ---
+#### [Tour of Rust](https://tourofrust.com/)
+_<sup>https://tourofrust.com/</sup>_
+
+* **tags**: [rust](../tagged/rust.md)
+---
+#### [GitHub - Dhghomon/easy_rust: Rust explained using easy English](https://github.com/Dhghomon/easy_rust?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily)
+_<sup>https://github.com/Dhghomon/easy_rust?utm_campaign=explore-email&utm_medium=email&utm_source=newslet...</sup>_
+
+Rust explained using easy English. Contribute to Dhghomon/easy_rust development by creating an account on GitHub.
+* **tags**: [rust](../tagged/rust.md)
+---
 #### [Ryan Dahl. Deno, a new way to JavaScript. JS Fest 2019 Spring - 59min](https://www.youtube.com/watch?v=z6JRlx5NC9E)
 _<sup>https://www.youtube.com/watch?v=z6JRlx5NC9E</sup>_
 

@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/sass](https://www.bookmarks.dev/tagged/sass)</sup></sup>_
 ---
+#### [Devhints — TL;DR for developer documentation](https://devhints.io/)
+_<sup>https://devhints.io/</sup>_
+
+A ridiculous collection of web development cheatsheets · One-page guide to 
+* **tags**: [cheatsheet](../tagged/cheatsheet.md), [bash](../tagged/bash.md), [react](../tagged/react.md), [sass](../tagged/sass.md), [vim](../tagged/vim.md)
+* :octocat: **[source code](https://github.com/rstacruz/cheatsheets)**
+---
 #### [awesome-sass](https://github.com/Famolus/awesome-sass#readme)
 _<sup>https://github.com/Famolus/awesome-sass#readme</sup>_
 

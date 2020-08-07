@@ -2,6 +2,14 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/maven](https://www.bookmarks.dev/tagged/maven)</sup></sup>_
 ---
+#### [Fix https repository blocking by PKIX path building failed – Sonatype Support](https://support.sonatype.com/hc/en-us/articles/213465038-Fix-https-repository-blocking-by-PKIX-path-building-failed)
+_<sup>https://support.sonatype.com/hc/en-us/articles/213465038-Fix-https-repository-blocking-by-PKIX-path-...</sup>_
+
+The Status of one or more of your repositories which have a remote URL starting with https is:
+
+...
+* **tags**: [nexus](../tagged/nexus.md), [maven](../tagged/maven.md), [proxy](../tagged/proxy.md), [https](../tagged/https.md), [ssl](../tagged/ssl.md), [pkix](../tagged/pkix.md)
+---
 #### [Build and Push to Docker With Maven - Better Programming - Medium](https://medium.com/better-programming/build-push-to-docker-with-maven-eea7c4b8cfa2)
 _<sup>https://medium.com/better-programming/build-push-to-docker-with-maven-eea7c4b8cfa2</sup>_
 

@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/pwa](https://www.bookmarks.dev/tagged/pwa)</sup></sup>_
 ---
+#### [Stencil Home Page](https://stenciljs.com/)
+_<sup>https://stenciljs.com/</sup>_
+
+Stencil is a simple compiler for generating Web Components and progressive web apps (PWA). Stencil was built by the Ionic Framework team for its next generation of performant mobile and desktop Web Co...
+* **tags**: [web-components](../tagged/web-components.md), [pwa](../tagged/pwa.md)
+* :octocat: **[source code](https://github.com/ionic-team/stencil)**
+---
 #### [Service Workers - Practical Guided Introduction (several examples)](https://blog.angular-university.io/service-workers/)
 _<sup>https://blog.angular-university.io/service-workers/</sup>_
 

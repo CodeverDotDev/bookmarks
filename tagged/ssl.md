@@ -2,6 +2,14 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/ssl](https://www.bookmarks.dev/tagged/ssl)</sup></sup>_
 ---
+#### [Fix https repository blocking by PKIX path building failed – Sonatype Support](https://support.sonatype.com/hc/en-us/articles/213465038-Fix-https-repository-blocking-by-PKIX-path-building-failed)
+_<sup>https://support.sonatype.com/hc/en-us/articles/213465038-Fix-https-repository-blocking-by-PKIX-path-...</sup>_
+
+The Status of one or more of your repositories which have a remote URL starting with https is:
+
+...
+* **tags**: [nexus](../tagged/nexus.md), [maven](../tagged/maven.md), [proxy](../tagged/proxy.md), [https](../tagged/https.md), [ssl](../tagged/ssl.md), [pkix](../tagged/pkix.md)
+---
 #### [A brief overview of the TCP/IP model, SSL/TLS/HTTPS protocols and SSL certificates](https://itnext.io/a-brief-overview-of-the-tcp-ip-model-ssl-tls-https-protocols-and-ssl-certificates-d5a6269fe29e)
 _<sup>https://itnext.io/a-brief-overview-of-the-tcp-ip-model-ssl-tls-https-protocols-and-ssl-certificates-...</sup>_
 

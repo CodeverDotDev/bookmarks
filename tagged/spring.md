@@ -2,6 +2,29 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/spring](https://www.bookmarks.dev/tagged/spring)</sup></sup>_
 ---
+#### [High Performance Batch Processing - 1h:11min](https://www.youtube.com/watch?v=J6IPlfm7N6w)
+_<sup>https://www.youtube.com/watch?v=J6IPlfm7N6w</sup>_
+
+One of the benefits of batch processing is its efficiency. This efficiency lends itself to the ability to bulk process very large volumes of data. Spring Batch 4.1 brings new enhancements to how we en...
+* :calendar: **published on**: 2018-10-04
+* **tags**: [spring](../tagged/spring.md), [spring-batch](../tagged/spring-batch.md)
+---
+#### [Spring Tips: Spring Batch - 39min](https://www.youtube.com/watch?v=x4nBNLoizOc)
+_<sup>https://www.youtube.com/watch?v=x4nBNLoizOc</sup>_
+
+In this tip, we'll look at how to process large amounts of sequential data using Spring Batch.
+
+spring-boot 1.5.RC and spring-batch 4
+* :calendar: **published on**: 2017-02-01
+* **tags**: [spring](../tagged/spring.md), [spring-boot](../tagged/spring-boot.md), [spring-batch](../tagged/spring-batch.md)
+---
+#### [GitHub - spring-projects/spring-petclinic: A sample Spring-based application](https://github.com/spring-projects/spring-petclinic)
+_<sup>https://github.com/spring-projects/spring-petclinic</sup>_
+
+A sample Spring-based application. 
+* **tags**: [spring](../tagged/spring.md), [example-apps](../tagged/example-apps.md)
+* :octocat: **[source code](https://github.com/spring-projects/spring-petclinic)**
+---
 #### [Spring, Jakarta EE, CDI: The Good Parts - 1h:40min](https://www.youtube.com/watch?v=Px_FCgmrCLQ)
 _<sup>https://www.youtube.com/watch?v=Px_FCgmrCLQ</sup>_
 

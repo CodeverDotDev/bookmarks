@@ -2,6 +2,22 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/startup](https://www.bookmarks.dev/tagged/startup)</sup></sup>_
 ---
+#### [All the Public Startup Pitch Decks in One Place - Startup Grind - Medium](https://medium.com/startup-grind/all-the-public-startup-pitch-decks-in-one-place-7d3ddff33bdc)
+_<sup>https://medium.com/startup-grind/all-the-public-startup-pitch-decks-in-one-place-7d3ddff33bdc</sup>_
+
+Thanks to the community and a bit more Googling, I’ve assembled the following list of reference pitch decks for founders to view when building their own.
+* :calendar: **published on**: 2017-01-10
+* **tags**: [startup](../tagged/startup.md)
+---
+#### [How to Start a Startup](http://paulgraham.com/start.html)
+_<sup>http://paulgraham.com/start.html</sup>_
+
+(This essay is derived from a talk at the Harvard Computer Society.)
+
+You need three things to create a successful startup: to start with good people, to make something customers actually want, and to...
+* :calendar: **published on**: 2005-03-01
+* **tags**: [startup](../tagged/startup.md)
+---
 #### [Hipsters Ponto Tech - Discussões acaloradas sobre startups, programação, ux, gadgets e as últimas tendências em tecnologia.Hipsters Ponto Tech](https://hipsters.tech/)
 _<sup>https://hipsters.tech/</sup>_
 

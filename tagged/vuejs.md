@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/vuejs](https://www.bookmarks.dev/tagged/vuejs)</sup></sup>_
 ---
+#### [Gridsome Home Page](https://gridsome.org/)
+_<sup>https://gridsome.org/</sup>_
+
+Gridsome makes it easy for developers to build static generated websites & apps that are fast by default 🚀
+* **tags**: [vuejs](../tagged/vuejs.md), [static-site-generator](../tagged/static-site-generator.md)
+* :octocat: **[source code](https://github.com/gridsome/gridsome)**
+---
 #### [Bit.dev](https://bit.dev/)
 _<sup>https://bit.dev/</sup>_
 

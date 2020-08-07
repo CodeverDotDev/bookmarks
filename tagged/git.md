@@ -2,6 +2,95 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/git](https://www.bookmarks.dev/tagged/git)</sup></sup>_
 ---
+#### [GitHub - profclems/glab: A custom Gitlab Cli tool written in Go (golang)](https://github.com/profclems/glab)
+_<sup>https://github.com/profclems/glab</sup>_
+
+A custom Gitlab Cli tool written in Go (golang). Contribute to profclems/glab development by creating an account on GitHub.
+* **tags**: [git](../tagged/git.md), [gitlab](../tagged/gitlab.md), [golang](../tagged/golang.md)
+* :octocat: **[source code](https://github.com/profclems/glab)**
+---
+#### [Introduction · Tig - Text-mode interface for Git](https://jonas.github.io/tig/)
+_<sup>https://jonas.github.io/tig/</sup>_
+
+Tig is an ncurses-based text-mode interface for git. It functions mainly as a Git repository browser, but can also assist in staging changes for commit at chunk level and act as a pager for output fro...
+* **tags**: [git](../tagged/git.md), [tig](../tagged/tig.md)
+* :octocat: **[source code](https://github.com/jonas/tig)**
+---
+#### [Git staging with Tig - DEV](https://dev.to/samuelabreu/git-staging-with-tig-b9h)
+_<sup>https://dev.to/samuelabreu/git-staging-with-tig-b9h</sup>_
+
+After i saw a few posts here talking about tig, i installed and can't live without it anymore, the sp... Tagged with git, tig, workflow, productivity.
+* :calendar: **published on**: 2020-05-15
+* **tags**: [dev.to](../tagged/dev.to.md), [git](../tagged/git.md), [tig](../tagged/tig.md)
+---
+#### [Branch by Abstraction - Trunk Based Development](https://trunkbaseddevelopment.com/branch-by-abstraction/)
+_<sup>https://trunkbaseddevelopment.com/branch-by-abstraction/</sup>_
+
+Branch by Abstraction is a set-piece technique to effect a ‘longer to complete’ change in the trunk. Say a developer (or a pair of developers), has a change that is going to take five days to complete...
+* **tags**: [git](../tagged/git.md), [cvs](../tagged/cvs.md)
+---
+#### [Why I love trunk based development | Mattia Battiston | Medium](https://medium.com/@mattia.battiston/why-i-love-trunk-based-development-641fcf0b94a0)
+_<sup>https://medium.com/@mattia.battiston/why-i-love-trunk-based-development-641fcf0b94a0</sup>_
+
+Why I love Trunk Based Development (or pushing straight to master)
+* :calendar: **published on**: 2019-08-03
+* **tags**: [git](../tagged/git.md), [version-control](../tagged/version-control.md)
+---
+#### [How to teach Git | Rachel M. Carmena](https://rachelcarmena.github.io/2018/12/12/how-to-teach-git.html)
+_<sup>https://rachelcarmena.github.io/2018/12/12/how-to-teach-git.html</sup>_
+
+How to teach Git with post-its
+* :calendar: **published on**: 2018-12-12
+* **tags**: [git](../tagged/git.md)
+---
+#### [Learn git concepts, not commands](https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc)
+_<sup>https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc</sup>_
+
+An interactive git tutorial meant to teach you how git works, not just which commands to execute.
+* :calendar: **published on**: 2019-06-06
+* **tags**: [git](../tagged/git.md)
+* :octocat: **[source code](https://github.com/UnseenWizzard/git_training.git)**
+---
+#### [The anatomy of a Git commit](https://blog.thoughtram.io/git/2014/11/18/the-anatomy-of-a-git-commit.html)
+_<sup>https://blog.thoughtram.io/git/2014/11/18/the-anatomy-of-a-git-commit.html</sup>_
+
+Ever wondered what a Git commit looks like internally? Why it has those long revision identifiers? If they are unique or not? We are going to look at exactly that!
+* :calendar: **published on**: 2014-11-18
+* **tags**: [git](../tagged/git.md), [git-commit](../tagged/git-commit.md)
+---
+#### [GitHub - tvdstaaij/node-git-describe: Git describe information at runtime, with semver support](https://github.com/tvdstaaij/node-git-describe)
+_<sup>https://github.com/tvdstaaij/node-git-describe</sup>_
+
+This Node.js module runs [`git describe`][1] on the working directory or any
+other directory and parses the output to individual components. Additionally,
+if your tags follow [semantic versioning][2] ...
+* **tags**: [nodejs](../tagged/nodejs.md), [git](../tagged/git.md)
+* :octocat: **[source code](https://github.com/tvdstaaij/node-git-describe)**
+---
+#### [Git Prune | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/git-prune)
+_<sup>https://www.atlassian.com/git/tutorials/git-prune</sup>_
+
+The `git prune` command is an internal housekeeping utility that cleans up unreachable or "orphaned" Git objects. Unreachable objects are those that are inaccessible by any refs. Any commit that canno...
+* **tags**: [git](../tagged/git.md)
+---
+#### [The Advanced Git Guide | Toptal](https://www.toptal.com/git/the-advanced-git-guide)
+_<sup>https://www.toptal.com/git/the-advanced-git-guide</sup>_
+
+In this post, you’ll learn how to leverage the following advanced Git functions:
+
+* `git stash`, which makes a temporary, local save of your code
+* `git reset`, which lets you tidy up your code before...
+* **tags**: [git](../tagged/git.md)
+---
+#### [Git Tips #2 - Change editor for interactive Git rebase](https://www.kevinkuszyk.com/2016/03/08/git-tips-2-change-editor-for-interactive-git-rebase/)
+_<sup>https://www.kevinkuszyk.com/2016/03/08/git-tips-2-change-editor-for-interactive-git-rebase/</sup>_
+
+Open a command prompt and type the following command:
+
+...
+* :calendar: **published on**: 2016-08-03
+* **tags**: [git](../tagged/git.md), [git-rebase](../tagged/git-rebase.md), [windows](../tagged/windows.md)
+---
 #### [typicode/husky: Git hooks made easy 🐶 woof!](https://github.com/typicode/husky)
 _<sup>https://github.com/typicode/husky</sup>_
 
@@ -693,7 +782,7 @@ _<sup>https://chris.beams.io/posts/git-commit/</sup>_
 The contributors to these repositories know that a well-crafted Git commit message is the best way to communicate _context_ about a change to fellow developers (and indeed to their future selves).
 
 Th...
-* **tags**: [git](../tagged/git.md)
+* **tags**: [git](../tagged/git.md), [git-commit](../tagged/git-commit.md)
 ---
 #### [Git - Remote Branches](https://git-scm.com/book/en/v2/Git-Branching-Remote-Branches)
 _<sup>https://git-scm.com/book/en/v2/Git-Branching-Remote-Branches</sup>_

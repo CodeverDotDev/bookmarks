@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/bash](https://www.bookmarks.dev/tagged/bash)</sup></sup>_
 ---
+#### [Devhints — TL;DR for developer documentation](https://devhints.io/)
+_<sup>https://devhints.io/</sup>_
+
+A ridiculous collection of web development cheatsheets · One-page guide to 
+* **tags**: [cheatsheet](../tagged/cheatsheet.md), [bash](../tagged/bash.md), [react](../tagged/react.md), [sass](../tagged/sass.md), [vim](../tagged/vim.md)
+* :octocat: **[source code](https://github.com/rstacruz/cheatsheets)**
+---
 #### [Basic Linux Commands - Bash Command Line Tips You Should Know](https://www.freecodecamp.org/news/basic-linux-commands-bash-tips-you-should-know-2/)
 _<sup>https://www.freecodecamp.org/news/basic-linux-commands-bash-tips-you-should-know-2/</sup>_
 

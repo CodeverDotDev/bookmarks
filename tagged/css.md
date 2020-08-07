@@ -2,6 +2,52 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/css](https://www.bookmarks.dev/tagged/css)</sup></sup>_
 ---
+#### [6 Powerful CSS Techniques You Can Use Instead of Javascript | Diogo Rodrigues](https://www.diogorodrigues.dev/blog/6-powerful-css-techniques-you-can-use-instead-javascript)
+_<sup>https://www.diogorodrigues.dev/blog/6-powerful-css-techniques-you-can-use-instead-javascript</sup>_
+
+From custom variables to filters, animations or math operations, CSS has taken a lot of what we used to do in JavaScript and is becoming an incredibly powerful language. Let's take a look at some exam...
+* **tags**: [css](../tagged/css.md)
+---
+#### [Things I Wish I’d Known About CSS | CSS For Designers](https://cssfordesigners.com/articles/things-i-wish-id-known-about-css?utm_source=hackernewsletter&utm_medium=email&utm_term=fav)
+_<sup>https://cssfordesigners.com/articles/things-i-wish-id-known-about-css?utm_source=hackernewsletter&ut...</sup>_
+
+* **tags**: [css](../tagged/css.md)
+---
+#### [HTML Questions | Front End Interview HandbookMenuMenu](https://yangshun.github.io/front-end-interview-handbook/en/html-questions#consider-html5-as-an-open-web-platform-what-are-the-building-blocks-of-html5)
+_<sup>https://yangshun.github.io/front-end-interview-handbook/en/html-questions#consider-html5-as-an-open-...</sup>_
+
+Answers to Front-end Job Interview Questions - HTML Questions. Pull requests for suggestions and corrections are welcome!
+* **tags**: [frontend](../tagged/frontend.md), [css](../tagged/css.md), [html5](../tagged/html5.md)
+---
+#### [zerodivs.com](https://zerodivs.com/#/)
+_<sup>https://zerodivs.com/#/</sup>_
+
+* **tags**: [css](../tagged/css.md)
+---
+#### [overflow | CSS-Tricks](https://css-tricks.com/almanac/properties/o/overflow/)
+_<sup>https://css-tricks.com/almanac/properties/o/overflow/</sup>_
+
+The overflow property controls what happens to content that breaks outside of its bounds: imagine a div in which you’ve explicitly set to be 200px wide, but contains an image that is 300px wide. That ...
+* **tags**: [css](../tagged/css.md)
+---
+#### [Introduction to CSS Transitions](https://nelsonmichael.dev/introduction-to-css-transitions-ckc396nae003u5es1097h5rr1)
+_<sup>https://nelsonmichael.dev/introduction-to-css-transitions-ckc396nae003u5es1097h5rr1</sup>_
+
+* **tags**: [css](../tagged/css.md)
+---
+#### [700+ CSS Icons, Customizable, Retina Ready & API](https://css.gg/)
+_<sup>https://css.gg/</sup>_
+
+Pure CSS icons library, Customizable & Retina-Ready built 100% in pure CSS, SVG, SVG Sprite, styled-components, Figma and Adobe XD. Easy integration: Embed, NPM & API
+* **tags**: [css](../tagged/css.md), [icon](../tagged/icon.md)
+---
+#### [Metro 4 - Popular HTML, CSS and JS library](https://metroui.org.ua/)
+_<sup>https://metroui.org.ua/</sup>_
+
+Metro 4 is an open source toolkit for developing with HTML, CSS, and JS. Quickly prototype your ideas or build your entire app with responsive grid system, extensive prebuilt components, and powerful ...
+* **tags**: [frameworks](../tagged/frameworks.md), [css](../tagged/css.md), [html](../tagged/html.md), [javascript](../tagged/javascript.md)
+* :octocat: **[source code](https://github.com/olton/Metro-UI-CSS)**
+---
 #### [How to center align font awesome icons vertically in a circle div?](https://stackoverflow.com/questions/20832226/how-to-center-align-font-awesome-icons-vertically-in-a-circle-div?rq=1)
 _<sup>https://stackoverflow.com/questions/20832226/how-to-center-align-font-awesome-icons-vertically-in-a-...</sup>_
 

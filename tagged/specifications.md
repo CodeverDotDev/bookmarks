@@ -2,6 +2,18 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/specifications](https://www.bookmarks.dev/tagged/specifications)</sup></sup>_
 ---
+#### [JSR 346: Contexts and Dependency Injection for JavaTM EE 1.1](https://jcp.org/en/jsr/detail?id=346)
+_<sup>https://jcp.org/en/jsr/detail?id=346</sup>_
+
+Contexts and Dependency Injection for Java EE (CDI) 1.0 was introduced as part of the Java EE 6 platform, and has quickly become one of the most important and popular components of the platform.
+* **tags**: [java-ee](../tagged/java-ee.md), [cdi](../tagged/cdi.md), [specifications](../tagged/specifications.md)
+---
+#### [Commenting Showing Intent [CSI]](https://standards.mousepawmedia.com/csi.html)
+_<sup>https://standards.mousepawmedia.com/csi.html</sup>_
+
+The CSI (Commenting Showing Intent) Commenting Standards refers to a style of code commenting which allows for the complete rewriting of a program in any language, given only the comments. It is also ...
+* **tags**: [comments](../tagged/comments.md), [specifications](../tagged/specifications.md)
+---
 #### [facebook/graphql](https://facebook.github.io/graphql/)
 _<sup>https://facebook.github.io/graphql/</sup>_
 

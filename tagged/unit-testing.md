@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/unit-testing](https://www.bookmarks.dev/tagged/unit-testing)</sup></sup>_
 ---
+#### [UnitTest : Solitary or Sociable | Martin Fowler](https://martinfowler.com/bliki/UnitTest.html#SolitaryOrSociable)
+_<sup>https://martinfowler.com/bliki/UnitTest.html#SolitaryOrSociable</sup>_
+
+* :calendar: **published on**: 2014-05-05
+* **tags**: [testing](../tagged/testing.md), [unit-testing](../tagged/unit-testing.md)
+---
 #### [Calen Legaspi: Separating Integration Tests from Unit Tests Using Maven Failsafe & JUnit @Category](http://calenlegaspi.blogspot.ch/2015/01/separating-integration-tests-from-unit.html)
 _<sup>http://calenlegaspi.blogspot.ch/2015/01/separating-integration-tests-from-unit.html</sup>_
 

@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/monorepo](https://www.bookmarks.dev/tagged/monorepo)</sup></sup>_
 ---
+#### [Mono-repo or multi-repo? Why choose one, when you can have both?](https://medium.com/@patrickleet/mono-repo-or-multi-repo-why-choose-one-when-you-can-have-both-e9c77bd0c668#:~:text=Mono%2Drepos%20are%20a%20source,to%20everything%20in%20one%20shot.&text=Multi%2Drepos%20on%20the%20other,into%20their%20own%20separate%20repositories.)
+_<sup>https://medium.com/@patrickleet/mono-repo-or-multi-repo-why-choose-one-when-you-can-have-both-e9c77b...</sup>_
+
+Many are still debating “mono-repo” or “multi-repo”. For those of you who have no idea what a mono or multi repo is, I’m referring the the organization of your repositories. Traditionally, there have ...
+* :calendar: **published on**: 2017-09-07
+* **tags**: [monorepo](../tagged/monorepo.md)
+---
 #### [Lerna · A tool for managing JavaScript projects with multiple packages.](https://lerna.js.org/)
 _<sup>https://lerna.js.org/</sup>_
 

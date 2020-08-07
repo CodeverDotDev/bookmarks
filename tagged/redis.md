@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/redis](https://www.bookmarks.dev/tagged/redis)</sup></sup>_
 ---
+#### [ded/express-limiter: Rate limiting middleware for Express](https://github.com/ded/express-limiter)
+_<sup>https://github.com/ded/express-limiter</sup>_
+
+Rate limiting middleware for Express
+* **tags**: [expressjs](../tagged/expressjs.md), [rate-limiting](../tagged/rate-limiting.md), [redis](../tagged/redis.md)
+* :octocat: **[source code](https://github.com/ded/express-limiter)**
+---
 #### [fpereiro/backendlore: How I write backends](https://github.com/fpereiro/backendlore)
 _<sup>https://github.com/fpereiro/backendlore</sup>_
 

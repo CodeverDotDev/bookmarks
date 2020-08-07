@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/event-loop](https://www.bookmarks.dev/tagged/event-loop)</sup></sup>_
 ---
+#### [Broken Promises - James Snell, NearForm - 33min](https://www.youtube.com/watch?&v=XV-u_Ow47s0)
+_<sup>https://www.youtube.com/watch?&v=XV-u_Ow47s0</sup>_
+
+When a customer comes to us with a complaint that their code is running slowly, our first question has become, "Are you using Promises?". When they predictably tell us yes, our response has become, "Y...
+* :calendar: **published on**: 2019-12-19
+* **tags**: [nodejs](../tagged/nodejs.md), [promises](../tagged/promises.md), [event-loop](../tagged/event-loop.md)
+---
 #### [Jake Archibald: In The Loop - JSConf.Asia - 35min](https://www.youtube.com/watch?v=cCOL7MC4Pl0)
 _<sup>https://www.youtube.com/watch?v=cCOL7MC4Pl0</sup>_
 

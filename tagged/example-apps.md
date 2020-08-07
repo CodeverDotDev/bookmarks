@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/example-apps](https://www.bookmarks.dev/tagged/example-apps)</sup></sup>_
 ---
+#### [GitHub - spring-projects/spring-petclinic: A sample Spring-based application](https://github.com/spring-projects/spring-petclinic)
+_<sup>https://github.com/spring-projects/spring-petclinic</sup>_
+
+A sample Spring-based application. 
+* **tags**: [spring](../tagged/spring.md), [example-apps](../tagged/example-apps.md)
+* :octocat: **[source code](https://github.com/spring-projects/spring-petclinic)**
+---
 #### [HackerNews](https://github.com/iSimar/HackerNews-React-Native)
 _<sup>https://github.com/iSimar/HackerNews-React-Native</sup>_
 

@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/typescript](https://www.bookmarks.dev/tagged/typescript)</sup></sup>_
 ---
+#### [async/await in Angular `ngOnInit`](https://stackoverflow.com/questions/56092083/async-await-in-angular-ngoninit)
+_<sup>https://stackoverflow.com/questions/56092083/async-await-in-angular-ngoninit</sup>_
+
+It is no different than what you had before. `ngOnInit` will return a Promise and the caller will ignore that promise. This means that the caller will not wait for everything in your method to finish ...
+* :calendar: **published on**: 2019-05-11
+* **tags**: [angular](../tagged/angular.md), [typescript](../tagged/typescript.md), [asynchronous](../tagged/asynchronous.md), [promise](../tagged/promise.md), [observable](../tagged/observable.md)
+---
 #### [GitHub - fxmontigny/ng2-ace-editor](https://github.com/fxmontigny/ng2-ace-editor)
 _<sup>https://github.com/fxmontigny/ng2-ace-editor</sup>_
 

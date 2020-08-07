@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/style-guide](https://www.bookmarks.dev/tagged/style-guide)</sup></sup>_
 ---
+#### [Google Style Guides | styleguide](https://google.github.io/styleguide/)
+_<sup>https://google.github.io/styleguide/</sup>_
+
+Style guides for Google-originated open-source projects
+* **tags**: [style-guide](../tagged/style-guide.md)
+---
 #### [Best-Ruby](https://github.com/franzejr/best-ruby)
 _<sup>https://github.com/franzejr/best-ruby</sup>_
 

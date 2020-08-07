@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/routing](https://www.bookmarks.dev/tagged/routing)</sup></sup>_
 ---
+#### [A word on Angular route resolvers – and a praise for Reactive Programming](https://angular.schule/blog/2019-07-resolvers)
+_<sup>https://angular.schule/blog/2019-07-resolvers</sup>_
+
+Resolvers are cool, but the use cases are very rare. When it comes to retrieving async data via resolvers, like HTTP requests, the User Experience suffers a lot: Resolvers wait for the async tasks to ...
+* :calendar: **published on**: 2019-07-29
+* **tags**: [angular](../tagged/angular.md), [routing](../tagged/routing.md)
+---
 #### [Reach Router Home Page](https://reach.tech/router)
 _<sup>https://reach.tech/router</sup>_
 

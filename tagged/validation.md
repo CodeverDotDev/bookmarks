@@ -2,6 +2,22 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/validation](https://www.bookmarks.dev/tagged/validation)</sup></sup>_
 ---
+#### [Create Your Own Constraints With Bean Validation 2.0 - DZone Java](https://dzone.com/articles/create-your-own-constraint-with-bean-validation-20)
+_<sup>https://dzone.com/articles/create-your-own-constraint-with-bean-validation-20</sup>_
+
+Take a look at how you can create and export your own custom constraints for Bean Validation with this step-by-step tutorial.
+* :calendar: **published on**: 2018-01-09
+* **tags**: [java](../tagged/java.md), [validation](../tagged/validation.md), [bean-validation](../tagged/bean-validation.md)
+---
+#### [Jakarta Bean Validation - Home Page](https://beanvalidation.org/)
+_<sup>https://beanvalidation.org/</sup>_
+
+What is Jakarta Bean Validation
+Jakarta Bean Validation is a Java specification which
+* lets you express constraints on object models via annotations
+* lets you write custom constraints in an ext...
+* **tags**: [java](../tagged/java.md), [javaee](../tagged/javaee.md), [bean-validation](../tagged/bean-validation.md), [javabeans](../tagged/javabeans.md), [validation](../tagged/validation.md)
+---
 #### [List of Built-In Bean Validation Constraints](https://javaee.github.io/tutorial/bean-validation002.html)
 _<sup>https://javaee.github.io/tutorial/bean-validation002.html</sup>_
 
@@ -12,7 +28,7 @@ Several built-in constraints are available in the `javax.validation.constraints`
 _<sup>https://docs.jboss.org/hibernate/stable/validator/reference/en-US/html_single/#validator-customconst...</sup>_
 
 The Jakarta Bean Validation API defines a whole set of standard constraint annotations such as @NotNull, @Size etc. In cases where these built-in constraints are not sufficient, you can easily create ...
-* **tags**: [java](../tagged/java.md), [validation](../tagged/validation.md)
+* **tags**: [java](../tagged/java.md), [validation](../tagged/validation.md), [javaee](../tagged/javaee.md)
 ---
 #### [checkdigit](https://github.com/osamingo/checkdigit)
 _<sup>https://github.com/osamingo/checkdigit</sup>_

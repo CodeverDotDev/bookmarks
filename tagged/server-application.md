@@ -2,6 +2,11 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/server-application](https://www.bookmarks.dev/tagged/server-application)</sup></sup>_
 ---
+#### [mod_dumpio - Apache HTTP Server Version 2.4](https://httpd.apache.org/docs/current/mod/mod_dumpio.html)
+_<sup>https://httpd.apache.org/docs/current/mod/mod_dumpio.html</sup>_
+
+* **tags**: [apache](../tagged/apache.md), [web](../tagged/web.md), [server-application](../tagged/server-application.md)
+---
 #### [algernon](https://github.com/xyproto/algernon)
 _<sup>https://github.com/xyproto/algernon</sup>_
 

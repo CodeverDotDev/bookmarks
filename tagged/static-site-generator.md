@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/static-site-generator](https://www.bookmarks.dev/tagged/static-site-generator)</sup></sup>_
 ---
+#### [Gridsome Home Page](https://gridsome.org/)
+_<sup>https://gridsome.org/</sup>_
+
+Gridsome makes it easy for developers to build static generated websites & apps that are fast by default 🚀
+* **tags**: [vuejs](../tagged/vuejs.md), [static-site-generator](../tagged/static-site-generator.md)
+* :octocat: **[source code](https://github.com/gridsome/gridsome)**
+---
 #### [Eleventy is a simpler static site generator.](https://www.11ty.dev/)
 _<sup>https://www.11ty.dev/</sup>_
 

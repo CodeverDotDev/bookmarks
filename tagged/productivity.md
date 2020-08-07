@@ -2,6 +2,19 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/productivity](https://www.bookmarks.dev/tagged/productivity)</sup></sup>_
 ---
+#### [Dev Bookmarks](https://www.bookmarks.dev/)
+_<sup>https://www.bookmarks.dev/</sup>_
+
+Bookmarks and Codelets Manager for Devs & Co
+* **tags**: [productivity](../tagged/productivity.md), [developer-tools](../tagged/developer-tools.md)
+* :octocat: **[source code](https://github.com/BookmarksDev/bookmarks.dev)**
+---
+#### [f.lux: software to make your life better](https://justgetflux.com/)
+_<sup>https://justgetflux.com/</sup>_
+
+f.lux fixes this: it makes the color of your computer's display adapt to the time of day, warm at night and like sunlight during the day.
+* **tags**: [productivity](../tagged/productivity.md), [tools](../tagged/tools.md), [macos](../tagged/macos.md), [windows](../tagged/windows.md)
+---
 #### [How I manage my dev bookmarks to save time and nerves - DEV Community 👩‍💻👨‍💻](https://dev.to/ama/how-i-manage-my-dev-bookmarks-and-save-time-and-nerves-56ae)
 _<sup>https://dev.to/ama/how-i-manage-my-dev-bookmarks-and-save-time-and-nerves-56ae</sup>_
 

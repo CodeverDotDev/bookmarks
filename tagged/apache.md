@@ -2,6 +2,17 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/apache](https://www.bookmarks.dev/tagged/apache)</sup></sup>_
 ---
+#### [How To Configure Apache Content Caching on CentOS 7 | DigitalOceanDigitalOcean homeDigitalOcean Homepage](https://www.digitalocean.com/community/tutorials/how-to-configure-apache-content-caching-on-centos-7)
+_<sup>https://www.digitalocean.com/community/tutorials/how-to-configure-apache-content-caching-on-centos-7</sup>_
+
+Caching is a method of improving server performance by allowing commonly requested content to be temporarily stored in a way that allows for faster access. This speeds up processing and delivery by cu...
+* **tags**: [apache](../tagged/apache.md), [web-performance](../tagged/web-performance.md), [cache](../tagged/cache.md), [centos](../tagged/centos.md)
+---
+#### [mod_dumpio - Apache HTTP Server Version 2.4](https://httpd.apache.org/docs/current/mod/mod_dumpio.html)
+_<sup>https://httpd.apache.org/docs/current/mod/mod_dumpio.html</sup>_
+
+* **tags**: [apache](../tagged/apache.md), [web](../tagged/web.md), [server-application](../tagged/server-application.md)
+---
 #### [Cipherli.st - Strong Ciphers for Apache, nginx and Lighttpd](https://cipherli.st/)
 _<sup>https://cipherli.st/</sup>_
 

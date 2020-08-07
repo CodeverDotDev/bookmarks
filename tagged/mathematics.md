@@ -2,6 +2,11 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/mathematics](https://www.bookmarks.dev/tagged/mathematics)</sup></sup>_
 ---
+#### [SymPy](https://www.sympy.org/en/index.html)
+_<sup>https://www.sympy.org/en/index.html</sup>_
+
+* **tags**: [py](../tagged/py.md), [python](../tagged/python.md), [mathematics](../tagged/mathematics.md), [mathematics-for-computer-science](../tagged/mathematics-for-computer-science.md)
+---
 #### [Think Stats: Pravděpodobnost a statistika pro programátory](http://eknihy.knihovna.cz/kniha/think-stats-pravdepodobnost-a-statistika-pro-programatory)
 _<sup>http://eknihy.knihovna.cz/kniha/think-stats-pravdepodobnost-a-statistika-pro-programatory</sup>_
 

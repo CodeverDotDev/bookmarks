@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/network](https://www.bookmarks.dev/tagged/network)</sup></sup>_
 ---
+#### [Munin](http://munin-monitoring.org/)
+_<sup>http://munin-monitoring.org/</sup>_
+
+Munin is a networked resource monitoring tool that can help analyze resource trends and "what just happened to kill our performance?" problems. It is designed to be very plug and play. A default insta...
+* **tags**: [network](../tagged/network.md), [monitoring](../tagged/monitoring.md)
+* :octocat: **[source code](https://github.com/munin-monitoring/munin)**
+---
 #### [Computer Systems Security - MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/)
 _<sup>https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-secur...</sup>_
 

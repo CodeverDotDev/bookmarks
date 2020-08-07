@@ -2,6 +2,19 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/oop](https://www.bookmarks.dev/tagged/oop)</sup></sup>_
 ---
+#### [FP vs. OO](https://www.innoq.com/en/blog/fp-vs-oo/)
+_<sup>https://www.innoq.com/en/blog/fp-vs-oo/</sup>_
+
+I recently came across a tweet stating that there were no people who “defend OO vs. FP” that actually used FP in real projects. This is not the first time I came across statements like this (like in a...
+* :calendar: **published on**: 2016-12-14
+* **tags**: [oop](../tagged/oop.md), [functional-programming](../tagged/functional-programming.md)
+---
+#### [Principles of object oriented design](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod)
+_<sup>http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod</sup>_
+
+What is object oriented design? What is it all about? What are it's benefits? What are it's costs? It may seem silly to ask these questions in a day and age when virtually every software developer is ...
+* **tags**: [oop](../tagged/oop.md)
+---
 #### [NestJS - A progressive Node.js web framework](https://nestjs.com/)
 _<sup>https://nestjs.com/</sup>_
 

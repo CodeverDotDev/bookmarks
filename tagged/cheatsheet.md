@@ -2,6 +2,18 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/cheatsheet](https://www.bookmarks.dev/tagged/cheatsheet)</sup></sup>_
 ---
+#### [Cheat sheet collection page | Red Hat Developer](https://developers.redhat.com/cheatsheets/)
+_<sup>https://developers.redhat.com/cheatsheets/</sup>_
+
+* **tags**: [cheatsheet](../tagged/cheatsheet.md)
+---
+#### [Devhints — TL;DR for developer documentation](https://devhints.io/)
+_<sup>https://devhints.io/</sup>_
+
+A ridiculous collection of web development cheatsheets · One-page guide to 
+* **tags**: [cheatsheet](../tagged/cheatsheet.md), [bash](../tagged/bash.md), [react](../tagged/react.md), [sass](../tagged/sass.md), [vim](../tagged/vim.md)
+* :octocat: **[source code](https://github.com/rstacruz/cheatsheets)**
+---
 #### [GitHub - zishon89us/node-cheat: Awesome Node Cheats](https://github.com/zishon89us/node-cheat)
 _<sup>https://github.com/zishon89us/node-cheat</sup>_
 

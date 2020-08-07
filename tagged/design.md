@@ -2,6 +2,11 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/design](https://www.bookmarks.dev/tagged/design)</sup></sup>_
 ---
+#### [Nodesign.dev | Design less develop more.](https://nodesign.dev/)
+_<sup>https://nodesign.dev/</sup>_
+
+* **tags**: [design](../tagged/design.md)
+---
 #### [Why is Babel a monorepo?](https://github.com/babel/babel/blob/master/doc/design/monorepo.md)
 _<sup>https://github.com/babel/babel/blob/master/doc/design/monorepo.md</sup>_
 

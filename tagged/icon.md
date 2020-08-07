@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/icon](https://www.bookmarks.dev/tagged/icon)</sup></sup>_
 ---
+#### [700+ CSS Icons, Customizable, Retina Ready & API](https://css.gg/)
+_<sup>https://css.gg/</sup>_
+
+Pure CSS icons library, Customizable & Retina-Ready built 100% in pure CSS, SVG, SVG Sprite, styled-components, Figma and Adobe XD. Easy integration: Embed, NPM & API
+* **tags**: [css](../tagged/css.md), [icon](../tagged/icon.md)
+---
 #### [Feather – Simply beautiful open source icons](https://feathericons.com/)
 _<sup>https://feathericons.com/</sup>_
 

@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/loading-status](https://www.bookmarks.dev/tagged/loading-status)</sup></sup>_
 ---
+#### [Adding Suspense to Angular! 🕵️‍♂️ - Netanel Basal](https://netbasal.com/adding-suspense-to-angular-%EF%B8%8F-%EF%B8%8F-1f34fd603584)
+_<sup>https://netbasal.com/adding-suspense-to-angular-%EF%B8%8F-%EF%B8%8F-1f34fd603584</sup>_
+
+I see a lot of enthusiasm lately in the React and Vue communities for the Suspense API. Suspense offers a component that allows you “wait” for some code to be rendered, and declaratively specify a loa...
+* :calendar: **published on**: 2020-07-01
+* **tags**: [angular](../tagged/angular.md), [loading-status](../tagged/loading-status.md)
+---
 #### [Mprogress.js](https://github.com/lightningtgc/MProgress.js)
 _<sup>https://github.com/lightningtgc/MProgress.js</sup>_
 

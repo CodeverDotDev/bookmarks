@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/jvm](https://www.bookmarks.dev/tagged/jvm)</sup></sup>_
 ---
+#### [OpenJDK: jmh](https://openjdk.java.net/projects/code-tools/jmh/)
+_<sup>https://openjdk.java.net/projects/code-tools/jmh/</sup>_
+
+JMH is a Java harness for building, running, and analysing nano/micro/milli/macro benchmarks written in Java and other languages targetting the JVM.
+* **tags**: [java](../tagged/java.md), [jvm](../tagged/jvm.md), [benchmarking](../tagged/benchmarking.md)
+* :octocat: **[source code](https://hg.openjdk.java.net/code-tools/jmh/)**
+---
 #### [A New Age of JVM Garbage Collectors - Alexander Yakushev - 37min](https://www.youtube.com/watch?v=k4vkd0ahWjQ)
 _<sup>https://www.youtube.com/watch?v=k4vkd0ahWjQ</sup>_
 

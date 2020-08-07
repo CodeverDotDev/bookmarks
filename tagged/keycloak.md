@@ -2,14 +2,24 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/keycloak](https://www.bookmarks.dev/tagged/keycloak)</sup></sup>_
 ---
-#### [Understanding token usage in Keycloak - JANUA](http://www.janua.fr/understanding-token-usage-in-keycloak/)
-_<sup>http://www.janua.fr/understanding-token-usage-in-keycloak/</sup>_
+#### [Understanding token usage in Keycloak - JANUA](https://www.janua.fr/understanding-token-usage-in-keycloak/)
+_<sup>https://www.janua.fr/understanding-token-usage-in-keycloak/</sup>_
 
-Tips and tricks about understanding token usage in Keycloak
+In this article Janua's CTO shares tips and tricks about understanding token usage in Keycloak
 
-Keycloak Token lifecycle is described at - 
-[https://www.keycloak.org/docs/latest/server_admin/index.html_timeouts](https://www.keycloak.o...
+Keycloak Token lifecycle is described at - [https://www.keycloak.org/docs/latest/server_admin/index.html...
+* :calendar: **published on**: 2019-02-19
 * **tags**: [keycloak](../tagged/keycloak.md)
+---
+#### [Keycloak upgrade while running on docker](https://stackoverflow.com/questions/47956933/keycloak-upgrade-while-running-on-docker)
+_<sup>https://stackoverflow.com/questions/47956933/keycloak-upgrade-while-running-on-docker</sup>_
+
+Advices around the following themes are given:
+* DB Migration
+* Config file migration
+* Provider, theme... migration
+* :calendar: **published on**: 2017-12-23
+* **tags**: [docker](../tagged/docker.md), [database-migration](../tagged/database-migration.md), [keycloak](../tagged/keycloak.md)
 ---
 #### [GitHub - keycloak/keycloak-nodejs-admin-client Home Page](https://github.com/keycloak/keycloak-nodejs-admin-client)
 _<sup>https://github.com/keycloak/keycloak-nodejs-admin-client</sup>_

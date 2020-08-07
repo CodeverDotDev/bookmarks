@@ -2,6 +2,61 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/angular](https://www.bookmarks.dev/tagged/angular)</sup></sup>_
 ---
+#### [Angular ng-template, ng-container and ngTemplateOutlet: Guided Tour](https://blog.angular-university.io/angular-ng-template-ng-container-ngtemplateoutlet/)
+_<sup>https://blog.angular-university.io/angular-ng-template-ng-container-ngtemplateoutlet/</sup>_
+
+In this post, we will be going over the following topics:
+
+* Introduction to the ng-template directive
+* Template Input Variables
+* The ng-template directive use with ngIf
+* ngIf de-suggared syntax an...
+* **tags**: [angular](../tagged/angular.md)
+---
+#### [Setters vs ngOnChanges: which one is better?](https://angularbites.com/setters-vs-ng-on-changes/)
+_<sup>https://angularbites.com/setters-vs-ng-on-changes/</sup>_
+
+Getting notified about an Angular component's property changes is normally done in 2 ways:
+
+* adding a setter to the property
+* using the `ngOnChanges` lifecycle hook
+* :calendar: **published on**: 2020-07-30
+* **tags**: [angular](../tagged/angular.md)
+---
+#### [Focusing on Form Elements The Angular Way](https://codeburst.io/focusing-on-form-elements-the-angular-way-e9a78725c04f)
+_<sup>https://codeburst.io/focusing-on-form-elements-the-angular-way-e9a78725c04f</sup>_
+
+Dynamic frameworks like Angular often call for modern user experiences. There are plenty of scenarios for this but one common question I have seen across forums such as reddit or stack overflow is “Ho...
+* **tags**: [angular](../tagged/angular.md)
+* :octocat: **[source code](https://stackblitz.com/edit/form-focus?file=src%2Fapp%2Fapp.component.ts)**
+---
+#### [A word on Angular route resolvers – and a praise for Reactive Programming](https://angular.schule/blog/2019-07-resolvers)
+_<sup>https://angular.schule/blog/2019-07-resolvers</sup>_
+
+Resolvers are cool, but the use cases are very rare. When it comes to retrieving async data via resolvers, like HTTP requests, the User Experience suffers a lot: Resolvers wait for the async tasks to ...
+* :calendar: **published on**: 2019-07-29
+* **tags**: [angular](../tagged/angular.md), [routing](../tagged/routing.md)
+---
+#### [Adding Suspense to Angular! 🕵️‍♂️ - Netanel Basal](https://netbasal.com/adding-suspense-to-angular-%EF%B8%8F-%EF%B8%8F-1f34fd603584)
+_<sup>https://netbasal.com/adding-suspense-to-angular-%EF%B8%8F-%EF%B8%8F-1f34fd603584</sup>_
+
+I see a lot of enthusiasm lately in the React and Vue communities for the Suspense API. Suspense offers a component that allows you “wait” for some code to be rendered, and declaratively specify a loa...
+* :calendar: **published on**: 2020-07-01
+* **tags**: [angular](../tagged/angular.md), [loading-status](../tagged/loading-status.md)
+---
+#### [async/await in Angular `ngOnInit`](https://stackoverflow.com/questions/56092083/async-await-in-angular-ngoninit)
+_<sup>https://stackoverflow.com/questions/56092083/async-await-in-angular-ngoninit</sup>_
+
+It is no different than what you had before. `ngOnInit` will return a Promise and the caller will ignore that promise. This means that the caller will not wait for everything in your method to finish ...
+* :calendar: **published on**: 2019-05-11
+* **tags**: [angular](../tagged/angular.md), [typescript](../tagged/typescript.md), [asynchronous](../tagged/asynchronous.md), [promise](../tagged/promise.md), [observable](../tagged/observable.md)
+---
+#### [Angular - Dependency injection in Angular](https://angular.io/guide/dependency-injection)
+_<sup>https://angular.io/guide/dependency-injection</sup>_
+
+In Angular, the DI framework provides declared dependencies to a class when that class is instantiated. This guide explains how DI works in Angular, and how you use it to make your apps flexible, effi...
+* **tags**: [angular](../tagged/angular.md), [dependency-injection](../tagged/dependency-injection.md)
+---
 #### [Angular Home Page](https://angular.io/)
 _<sup>https://angular.io/</sup>_
 

@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/go](https://www.bookmarks.dev/tagged/go)</sup></sup>_
 ---
+#### [Golang Tutorial for Node.js Developers: Getting started | @RisingStack](https://blog.risingstack.com/golang-tutorial-for-nodejs-developers-getting-started/)
+_<sup>https://blog.risingstack.com/golang-tutorial-for-nodejs-developers-getting-started/</sup>_
+
+In case you are a Node.js developer (like we are at RisingStack) and you are interested in learning Golang, this blogpost is made for you! Throughout this tutorial series, we'll cover the basics of ge...
+* **tags**: [nodejs](../tagged/nodejs.md), [go](../tagged/go.md), [tutorials](../tagged/tutorials.md)
+* :octocat: **[source code](https://github.com/RisingStack/golang-tutorial-for-nodejs-developers-getting-started)**
+---
 #### [Google Cloud Pub/Sub Tutorial](https://cloud.google.com/functions/docs/tutorials/pubsub)
 _<sup>https://cloud.google.com/functions/docs/tutorials/pubsub</sup>_
 

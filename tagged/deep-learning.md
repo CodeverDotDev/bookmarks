@@ -2,6 +2,11 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/deep-learning](https://www.bookmarks.dev/tagged/deep-learning)</sup></sup>_
 ---
+#### [Neural networks and deep learning](http://neuralnetworksanddeeplearning.com/)
+_<sup>http://neuralnetworksanddeeplearning.com/</sup>_
+
+* **tags**: [neural-networks](../tagged/neural-networks.md), [deep-learning](../tagged/deep-learning.md)
+---
 #### [Automate deep learning training with Kubernetes GPU-cluster](https://github.com/Langhalsdino/Kubernetes-GPU-Guide)
 _<sup>https://github.com/Langhalsdino/Kubernetes-GPU-Guide</sup>_
 

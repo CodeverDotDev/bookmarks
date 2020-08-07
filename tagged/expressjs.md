@@ -2,6 +2,41 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/expressjs](https://www.bookmarks.dev/tagged/expressjs)</sup></sup>_
 ---
+#### [Express behind proxies](https://expressjs.com/en/guide/behind-proxies.html)
+_<sup>https://expressjs.com/en/guide/behind-proxies.html</sup>_
+
+When running an Express app behind a proxy, set (by using app.set()) the application variable trust proxy to one of the values listed in the following table.
+* **tags**: [expressjs](../tagged/expressjs.md), [proxy](../tagged/proxy.md), [reverse-proxy](../tagged/reverse-proxy.md), [nginx](../tagged/nginx.md)
+---
+#### [9 Security Tips to Keep Express from Getting Pwned - NodeSource](https://nodesource.com/blog/nine-security-tips-to-keep-express-from-getting-pwned)
+_<sup>https://nodesource.com/blog/nine-security-tips-to-keep-express-from-getting-pwned</sup>_
+
+Security is really hard to get right. There are so many different factors to consider, countless different ways to break an application.
+
+This is just as true with Express applications as it is with a...
+* **tags**: [expressjs](../tagged/expressjs.md), [security](../tagged/security.md)
+---
+#### [ded/express-limiter: Rate limiting middleware for Express](https://github.com/ded/express-limiter)
+_<sup>https://github.com/ded/express-limiter</sup>_
+
+Rate limiting middleware for Express
+* **tags**: [expressjs](../tagged/expressjs.md), [rate-limiting](../tagged/rate-limiting.md), [redis](../tagged/redis.md)
+* :octocat: **[source code](https://github.com/ded/express-limiter)**
+---
+#### [nfriedly/express-rate-limit: Basic rate-limiting middleware for express](https://github.com/nfriedly/express-rate-limit)
+_<sup>https://github.com/nfriedly/express-rate-limit</sup>_
+
+Basic rate-limiting middleware for Express. Use to limit repeated requests to public APIs and/or endpoints such as password reset.
+* **tags**: [expressjs](../tagged/expressjs.md), [rate-limiting](../tagged/rate-limiting.md)
+* :octocat: **[source code](https://github.com/nfriedly/express-rate-limit)**
+---
+#### [Helmet Home Page](https://helmetjs.github.io/)
+_<sup>https://helmetjs.github.io/</sup>_
+
+Helmet helps you secure your Express apps by setting various HTTP headers. It’s not a silver bullet, but it can help!
+* **tags**: [expressjs](../tagged/expressjs.md), [security](../tagged/security.md), [helmet](../tagged/helmet.md)
+* :octocat: **[source code](https://github.com/helmetjs/helmet)**
+---
 #### [Build and Understand Express Middleware through Examples](https://developer.okta.com/blog/2018/09/13/build-and-understand-express-middleware-through-examples)
 _<sup>https://developer.okta.com/blog/2018/09/13/build-and-understand-express-middleware-through-examples</sup>_
 

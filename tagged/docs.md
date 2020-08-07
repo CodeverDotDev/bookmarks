@@ -2,6 +2,31 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/docs](https://www.bookmarks.dev/tagged/docs)</sup></sup>_
 ---
+#### [Common Batch Patterns](https://docs.spring.io/spring-batch/docs/current/reference/html/common-patterns.html)
+_<sup>https://docs.spring.io/spring-batch/docs/current/reference/html/common-patterns.html</sup>_
+
+In this chapter, we provide a few examples of common patterns in custom business logic. These examples primarily feature the listener interfaces.
+* **tags**: [spring-batch](../tagged/spring-batch.md), [docs](../tagged/docs.md)
+---
+#### [CDI Reference Implementation latest](https://docs.jboss.org/weld/reference/latest/en-US/html_single/)
+_<sup>https://docs.jboss.org/weld/reference/latest/en-US/html_single/</sup>_
+
+The [CDI specification](http://jcp.org/en/jsr/detail?id=346) defines a set of complementary services that help improve the structure of application code. CDI layers an enhanced lifecycle and interacti...
+* **tags**: [cdi](../tagged/cdi.md), [docs](../tagged/docs.md), [java-ee](../tagged/java-ee.md), [implementations](../tagged/implementations.md)
+---
+#### [GitHub - RichardLitt/standard-readme](https://github.com/RichardLitt/standard-readme)
+_<sup>https://github.com/RichardLitt/standard-readme</sup>_
+
+A standard style for README files.
+* **tags**: [readme](../tagged/readme.md), [docs](../tagged/docs.md)
+---
+#### [readme-md-generator - npm](https://www.npmjs.com/package/readme-md-generator)
+_<sup>https://www.npmjs.com/package/readme-md-generator</sup>_
+
+`readme-md-generator` is able to read your environment (package.json, git config...) to suggest you default answers during the README.md creation process
+* **tags**: [readme](../tagged/readme.md), [docs](../tagged/docs.md)
+* :octocat: **[source code](https://github.com/kefranabg/readme-md-generator)**
+---
 #### [Home - WireMock User Documentation - WireMock](http://wiremock.org/docs/)
 _<sup>http://wiremock.org/docs/</sup>_
 

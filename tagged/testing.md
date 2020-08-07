@@ -2,6 +2,19 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/testing](https://www.bookmarks.dev/tagged/testing)</sup></sup>_
 ---
+#### [Don't Mock What You Don't Own](https://maksimivanov.com/posts/dont-mock-what-you-dont-own/)
+_<sup>https://maksimivanov.com/posts/dont-mock-what-you-dont-own/</sup>_
+
+I was refactoring specs of some Rails application when I decided to mock the  class of CarierWave. I wanted to be able to check for specific…
+* :calendar: **published on**: 2017-09-11
+* **tags**: [testing](../tagged/testing.md), [mocking](../tagged/mocking.md)
+---
+#### [UnitTest : Solitary or Sociable | Martin Fowler](https://martinfowler.com/bliki/UnitTest.html#SolitaryOrSociable)
+_<sup>https://martinfowler.com/bliki/UnitTest.html#SolitaryOrSociable</sup>_
+
+* :calendar: **published on**: 2014-05-05
+* **tags**: [testing](../tagged/testing.md), [unit-testing](../tagged/unit-testing.md)
+---
 #### [Continuous Testing for Enterprise Organizations - The ACT Framework](https://www.theactframework.com/)
 _<sup>https://www.theactframework.com/</sup>_
 

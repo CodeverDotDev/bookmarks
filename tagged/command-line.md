@@ -2,6 +2,11 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/command-line](https://www.bookmarks.dev/tagged/command-line)</sup></sup>_
 ---
+#### [SS64 Command line reference](https://ss64.com/)
+_<sup>https://ss64.com/</sup>_
+
+* **tags**: [command-line](../tagged/command-line.md), [linux](../tagged/linux.md), [bash-script](../tagged/bash-script.md), [macos](../tagged/macos.md)
+---
 #### [How to modify the size of a column in a Mysql database from command line – CodepediaOrg](https://www.codepedia.org/ama/how-to-modify-a-column-size-in-a-mysql-database-from-command-line)
 _<sup>https://www.codepedia.org/ama/how-to-modify-a-column-size-in-a-mysql-database-from-command-line</sup>_
 

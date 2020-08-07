@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/tutorials](https://www.bookmarks.dev/tagged/tutorials)</sup></sup>_
 ---
+#### [Golang Tutorial for Node.js Developers: Getting started | @RisingStack](https://blog.risingstack.com/golang-tutorial-for-nodejs-developers-getting-started/)
+_<sup>https://blog.risingstack.com/golang-tutorial-for-nodejs-developers-getting-started/</sup>_
+
+In case you are a Node.js developer (like we are at RisingStack) and you are interested in learning Golang, this blogpost is made for you! Throughout this tutorial series, we'll cover the basics of ge...
+* **tags**: [nodejs](../tagged/nodejs.md), [go](../tagged/go.md), [tutorials](../tagged/tutorials.md)
+* :octocat: **[source code](https://github.com/RisingStack/golang-tutorial-for-nodejs-developers-getting-started)**
+---
 #### [10 Best YouTube Channels to Learn Web Development - ReadWrite](https://readwrite.com/2019/12/17/10-best-youtube-channels-to-learn-web-development/)
 _<sup>https://readwrite.com/2019/12/17/10-best-youtube-channels-to-learn-web-development/</sup>_
 

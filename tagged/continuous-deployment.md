@@ -2,6 +2,20 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/continuous-deployment](https://www.bookmarks.dev/tagged/continuous-deployment)</sup></sup>_
 ---
+#### [The Death of Continuous Integration](https://www.infoq.com/presentations/death-continuous-integration/)
+_<sup>https://www.infoq.com/presentations/death-continuous-integration/</sup>_
+
+Steve Smith compares and contrasts different types of Feature Branching and Trunk Based Development, and explains why Continuous Delivery without Continuous Integration is not working.
+* **tags**: [agile](../tagged/agile.md), [continuous-integration](../tagged/continuous-integration.md), [continuous-deployment](../tagged/continuous-deployment.md), [continuous-delivery](../tagged/continuous-delivery.md)
+---
+#### [Configuration as Code, Part 1: Getting Started with Kotlin DSL | TeamCity Blog](https://blog.jetbrains.com/teamcity/2019/03/configuration-as-code-part-1-getting-started-with-kotlin-dsl/)
+_<sup>https://blog.jetbrains.com/teamcity/2019/03/configuration-as-code-part-1-getting-started-with-kotlin...</sup>_
+
+In this series of posts, we are going to explain how to use Kotlin to define build configurations for TeamCity. We will start with the basics on how to get started with configuration-as-code in TeamCi...
+* :calendar: **published on**: 2019-03-29
+* **tags**: [teamcity](../tagged/teamcity.md), [continuous-deployment](../tagged/continuous-deployment.md), [continuous-integration](../tagged/continuous-integration.md), [kotlin](../tagged/kotlin.md)
+* :octocat: **[source code](https://github.com/antonarhipov/spring-petclinic-teamcity-dsl)**
+---
 #### [Continuous Delivery vs Continuous Deployment - Continuous Delivery](https://continuousdelivery.com/2010/08/continuous-delivery-vs-continuous-deployment/)
 _<sup>https://continuousdelivery.com/2010/08/continuous-delivery-vs-continuous-deployment/</sup>_
 

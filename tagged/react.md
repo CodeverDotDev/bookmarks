@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/react](https://www.bookmarks.dev/tagged/react)</sup></sup>_
 ---
+#### [Devhints — TL;DR for developer documentation](https://devhints.io/)
+_<sup>https://devhints.io/</sup>_
+
+A ridiculous collection of web development cheatsheets · One-page guide to 
+* **tags**: [cheatsheet](../tagged/cheatsheet.md), [bash](../tagged/bash.md), [react](../tagged/react.md), [sass](../tagged/sass.md), [vim](../tagged/vim.md)
+* :octocat: **[source code](https://github.com/rstacruz/cheatsheets)**
+---
 #### [Learn React Basics in 10 Minutes](https://www.freecodecamp.org/news/learn-react-basics-in-10-minutes/)
 _<sup>https://www.freecodecamp.org/news/learn-react-basics-in-10-minutes/</sup>_
 

@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/golang](https://www.bookmarks.dev/tagged/golang)</sup></sup>_
 ---
+#### [GitHub - profclems/glab: A custom Gitlab Cli tool written in Go (golang)](https://github.com/profclems/glab)
+_<sup>https://github.com/profclems/glab</sup>_
+
+A custom Gitlab Cli tool written in Go (golang). Contribute to profclems/glab development by creating an account on GitHub.
+* **tags**: [git](../tagged/git.md), [gitlab](../tagged/gitlab.md), [golang](../tagged/golang.md)
+* :octocat: **[source code](https://github.com/profclems/glab)**
+---
 #### [Concurrency is not parallelism - The Go Blog](https://blog.golang.org/concurrency-is-not-parallelism)
 _<sup>https://blog.golang.org/concurrency-is-not-parallelism</sup>_
 

@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/logging](https://www.bookmarks.dev/tagged/logging)</sup></sup>_
 ---
+#### [Logging levels: the wrong abstraction | IG Labs](https://labs.ig.com/logging-level-wrong-abstraction)
+_<sup>https://labs.ig.com/logging-level-wrong-abstraction</sup>_
+
+So you just wrote another try/catch block and again you start wondering: should I log this exception as an ERROR or a WARN? Or perhaps you wrote another one of those conditional branches that “should ...
+* :calendar: **published on**: 2016-04-05
+* **tags**: [logging](../tagged/logging.md)
+---
 #### [Changing the Logging Level at the Runtime for a Spring Boot Application | Baeldung](https://www.baeldung.com/spring-boot-changing-log-level-at-runtime)
 _<sup>https://www.baeldung.com/spring-boot-changing-log-level-at-runtime</sup>_
 

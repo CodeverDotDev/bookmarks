@@ -2,6 +2,104 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/javascript](https://www.bookmarks.dev/tagged/javascript)</sup></sup>_
 ---
+#### [GitHub - thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)
+_<sup>https://github.com/thedaviddias/Front-End-Checklist</sup>_
+
+The Front-End Checklist is an exhaustive list of all elements you need to have / to test before launching your website / HTML page to production.
+* **tags**: [frontend](../tagged/frontend.md), [developer-tools](../tagged/developer-tools.md), [html](../tagged/html.md), [javascript](../tagged/javascript.md)
+---
+#### [GitHub - dexteryy/spellbook-of-modern-webdev](https://github.com/dexteryy/spellbook-of-modern-webdev)
+_<sup>https://github.com/dexteryy/spellbook-of-modern-webdev</sup>_
+
+A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development
+* **tags**: [web-development](../tagged/web-development.md), [javascript](../tagged/javascript.md)
+* :octocat: **[source code](https://github.com/dexteryy/spellbook-of-modern-webdev)**
+---
+#### [Learn JavaScript by doing it](https://jskatas.org/#bundle-es6-katas)
+_<sup>https://jskatas.org/#bundle-es6-katas</sup>_
+
+* **tags**: [javascript](../tagged/javascript.md)
+---
+#### [GitHub - grab/front-end-guide: 📚 Study guide and introduction to the modern front end stack.](https://github.com/grab/front-end-guide)
+_<sup>https://github.com/grab/front-end-guide</sup>_
+
+📚 Study guide and introduction to the modern front end stack. - grab/front-end-guide
+* **tags**: [javascript](../tagged/javascript.md), [frontend](../tagged/frontend.md)
+---
+#### [You Don't Know Node - ForwardJS San Francisco - 35min](https://www.youtube.com/watch?v=oPo4EQmkjvY)
+_<sup>https://www.youtube.com/watch?v=oPo4EQmkjvY</sup>_
+
+"Before you bury yourself in packages, learn the NodeJS runtime itself. This talk will challenge the very limits of your NodeJS knowledge,"
+
+Samer Buna
+Presented at ForwardJS, July 26 & 27, 2017
+* :calendar: **published on**: 2017-09-06
+* **tags**: [javascript](../tagged/javascript.md), [nodejs](../tagged/nodejs.md)
+---
+#### [Saving and scraping a website with Puppeteer](https://fettblog.eu/scraping-with-puppeteer/)
+_<sup>https://fettblog.eu/scraping-with-puppeteer/</sup>_
+
+For some of my performance audits I need an exact copy of the webpage as it is served by my clients infrastructure. In some cases, it can be hard to get to the actual artefact. So it’s easier to fetch...
+* **tags**: [javascript](../tagged/javascript.md), [nodejs](../tagged/nodejs.md), [puppeteer](../tagged/puppeteer.md)
+---
+#### [How to generate PDF of a website page with Node.js - JavaScript In Plain English - Medium](https://medium.com/javascript-in-plain-english/generate-best-quality-pdf-of-any-webpage-html-page-in-nodejs-7b1223e1a3ac)
+_<sup>https://medium.com/javascript-in-plain-english/generate-best-quality-pdf-of-any-webpage-html-page-in...</sup>_
+
+In this article, we will see how easy it is to generate PDF of any webpage using Nodejs and send the generated pdf back to the client side application.
+We will use puppeteer tool which is a headless c...
+* :calendar: **published on**: 2020-01-21
+* **tags**: [javascript](../tagged/javascript.md), [puppeteer](../tagged/puppeteer.md), [nodejs](../tagged/nodejs.md)
+* :octocat: **[source code](https://github.com/myogeshchavan97/pdf_generation_puppeteer)**
+---
+#### [Stranger Things, JavaScript Edition](https://livecodestream.dev/post/2020-06-03-stranger-things-javascript-edition/)
+_<sup>https://livecodestream.dev/post/2020-06-03-stranger-things-javascript-edition/</sup>_
+
+Everything related to Programming, AI and computer science!
+* **tags**: [javascript](../tagged/javascript.md)
+---
+#### [kubernetes-basicLearning/readme.md at master · knrt10/kubernetes-basicLearning · GitHub](https://github.com/knrt10/kubernetes-basicLearning/blob/master/readme.md)
+_<sup>https://github.com/knrt10/kubernetes-basicLearning/blob/master/readme.md</sup>_
+
+Understand kubernetes step by step. A simple repo for beginners :fire: - knrt10/kubernetes-basicLearning
+* **tags**: [docker](../tagged/docker.md), [kubernetes](../tagged/kubernetes.md), [javascript](../tagged/javascript.md)
+---
+#### [Checking event target selectors with event bubbling in vanilla JavaScript](https://gomakethings.com/checking-event-target-selectors-with-event-bubbling-in-vanilla-javascript/)
+_<sup>https://gomakethings.com/checking-event-target-selectors-with-event-bubbling-in-vanilla-javascript/</sup>_
+
+Event bubbling is an approach to listening for events that’s better for performance and gives you a bit more flexibility.
+
+Instead of adding event listeners to specific elements, you listen to all eve...
+* **tags**: [event-bubbling](../tagged/event-bubbling.md), [javascript](../tagged/javascript.md)
+---
+#### [Bubbling and capturing](https://javascript.info/bubbling-and-capturing#bubbling)
+_<sup>https://javascript.info/bubbling-and-capturing#bubbling</sup>_
+
+The bubbling principle is simple.
+
+When an event happens on an element, it first runs the handlers on it, then on its parent, then all the way up on other ancestors.
+* **tags**: [javascript](../tagged/javascript.md), [event-bubbling](../tagged/event-bubbling.md), [html](../tagged/html.md)
+---
+#### [Building a Custom Right-Click (Context) Menu with JavaScript — SitePoint](https://www.sitepoint.com/building-custom-right-click-context-menu-javascript/)
+_<sup>https://www.sitepoint.com/building-custom-right-click-context-menu-javascript/</sup>_
+
+Web applications, as opposed to just informational websites, are being more and more utilised as the web continues to mature. Two cutting edge and leading examples of web applications are Gmail and Dr...
+* :calendar: **published on**: 2015-03-25
+* **tags**: [contextmenu](../tagged/contextmenu.md), [javascript](../tagged/javascript.md)
+* :octocat: **[source code](https://github.com/callmenick/Custom-Context-Menu)**
+---
+#### [Metro 4 - Popular HTML, CSS and JS library](https://metroui.org.ua/)
+_<sup>https://metroui.org.ua/</sup>_
+
+Metro 4 is an open source toolkit for developing with HTML, CSS, and JS. Quickly prototype your ideas or build your entire app with responsive grid system, extensive prebuilt components, and powerful ...
+* **tags**: [frameworks](../tagged/frameworks.md), [css](../tagged/css.md), [html](../tagged/html.md), [javascript](../tagged/javascript.md)
+* :octocat: **[source code](https://github.com/olton/Metro-UI-CSS)**
+---
+#### [Lesser-Known JavaScript Hazards - Better Programming - Medium](https://medium.com/better-programming/lesser-known-javascript-hazards-8d688a463b1f)
+_<sup>https://medium.com/better-programming/lesser-known-javascript-hazards-8d688a463b1f</sup>_
+
+JavaScript has been getting a lot of new, sugary features ever since we got over Harmony. While more features can allow us to write readable, high-quality code, it’s also easy to go overboard with…
+* **tags**: [javascript](../tagged/javascript.md)
+---
 #### [Lerna · A tool for managing JavaScript projects with multiple packages.](https://lerna.js.org/)
 _<sup>https://lerna.js.org/</sup>_
 

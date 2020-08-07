@@ -2,6 +2,31 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/tools](https://www.bookmarks.dev/tagged/tools)</sup></sup>_
 ---
+#### [Appydev | Find awesome tools](https://appydev.co/)
+_<sup>https://appydev.co/</sup>_
+
+Appydev is a collection of awesome tools, resources, communities & podcasts for developers, designers & enthusiasts
+* **tags**: [dev](../tagged/dev.md), [tools](../tagged/tools.md)
+---
+#### [f.lux: software to make your life better](https://justgetflux.com/)
+_<sup>https://justgetflux.com/</sup>_
+
+f.lux fixes this: it makes the color of your computer's display adapt to the time of day, warm at night and like sunlight during the day.
+* **tags**: [productivity](../tagged/productivity.md), [tools](../tagged/tools.md), [macos](../tagged/macos.md), [windows](../tagged/windows.md)
+---
+#### [Online UUID Generator Tool](https://www.uuidgenerator.net/)
+_<sup>https://www.uuidgenerator.net/</sup>_
+
+Online UUID Generator
+* **tags**: [uuid](../tagged/uuid.md), [online-tools](../tagged/online-tools.md), [tools](../tagged/tools.md)
+---
+#### [public-apis](https://github.com/public-apis/public-apis)
+_<sup>https://github.com/public-apis/public-apis</sup>_
+
+A collective list of free APIs for use in software and web development. 
+* **tags**: [api](../tagged/api.md), [tools](../tagged/tools.md), [online-tools](../tagged/online-tools.md)
+* :octocat: **[source code](https://github.com/public-apis/public-apis)**
+---
 #### [Vectr - Free Online Vector Graphics Editor](https://vectr.com/)
 _<sup>https://vectr.com/</sup>_
 

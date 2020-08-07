@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/azure](https://www.bookmarks.dev/tagged/azure)</sup></sup>_
 ---
+#### [Publishing and consuming debugging symbols for .net core library](https://medium.com/@aymendaoudi/publishing-and-consuming-debugging-symbols-for-net-core-library-d0e831f5862)
+_<sup>https://medium.com/@aymendaoudi/publishing-and-consuming-debugging-symbols-for-net-core-library-d0e8...</sup>_
+
+A good practice when having a class library that is used in one or across several projects is to make it available through a nuget feed. This library project should be pushed to this nuget feed using…
+* **tags**: [.net-core](../tagged/.net-core.md), [azure](../tagged/azure.md), [devops](../tagged/devops.md)
+---
 #### [How to connect to npm feeds from Azure DevOps](https://www.code4it.dev/blog/connect-npm-feeds-from-azure-devops)
 _<sup>https://www.code4it.dev/blog/connect-npm-feeds-from-azure-devops</sup>_
 

@@ -2,6 +2,20 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/functional-programming](https://www.bookmarks.dev/tagged/functional-programming)</sup></sup>_
 ---
+#### [FP vs. OO](https://www.innoq.com/en/blog/fp-vs-oo/)
+_<sup>https://www.innoq.com/en/blog/fp-vs-oo/</sup>_
+
+I recently came across a tweet stating that there were no people who “defend OO vs. FP” that actually used FP in real projects. This is not the first time I came across statements like this (like in a...
+* :calendar: **published on**: 2016-12-14
+* **tags**: [oop](../tagged/oop.md), [functional-programming](../tagged/functional-programming.md)
+---
+#### [So You Want to be a Functional Programmer (Part 1)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536)
+_<sup>https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536</sup>_
+
+Taking that first step to understanding Functional Programming concepts is the most important and sometimes the most difficult step. But it doesn’t have to be. Not with the right perspective.
+* :calendar: **published on**: 2016-09-03
+* **tags**: [functional-programming](../tagged/functional-programming.md)
+---
 #### [Master the JavaScript Interview: What is Functional Programming?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0)
 _<sup>https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7...</sup>_
 

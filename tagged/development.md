@@ -2,6 +2,17 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/development](https://www.bookmarks.dev/tagged/development)</sup></sup>_
 ---
+#### [GitHub - codingsett/telepota: Python3 wrapper/library that simplifies telegram bot development](https://github.com/codingsett/telepota)
+_<sup>https://github.com/codingsett/telepota</sup>_
+
+Python3 wrapper/library that simplifies telegram bot development. It supports both sync and asyncio methods of programming. Dive in and start making awesome bots! - codingsett/telepota
+* **tags**: [telegram-bot](../tagged/telegram-bot.md), [python](../tagged/python.md), [development](../tagged/development.md)
+---
+#### [Developer Roadmaps](https://roadmap.sh/roadmaps)
+_<sup>https://roadmap.sh/roadmaps</sup>_
+
+* **tags**: [roadmaps](../tagged/roadmaps.md), [development](../tagged/development.md)
+---
 #### [Tools | the New DynamicTwitter_Logo_Blue](https://www.thenewdynamic.org/tool/)
 _<sup>https://www.thenewdynamic.org/tool/</sup>_
 
