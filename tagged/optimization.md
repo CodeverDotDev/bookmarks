@@ -121,7 +121,7 @@ _<sup>https://www.nginx.com/blog/5-performance-tips-for-node-js-applications/</s
 
 Achieve high performance with node.js applications with these 5 tips from NGINX, including how to use a reverse proxy server, load balancer, and caching.
 * :calendar: **published on**: 2015-11-16
-* **tags**: [nginx](../tagged/nginx.md), [nodejs](../tagged/nodejs.md), [performance](../tagged/performance.md), [optimization](../tagged/optimization.md)
+* **tags**: [nginx](../tagged/nginx.md), [node.js](../tagged/node.js.md), [performance](../tagged/performance.md), [optimization](../tagged/optimization.md)
 ---
 #### [The Architecture of Open Source Applications (Volume 2) - nginx](http://www.aosabook.org/en/nginx.html)
 _<sup>http://www.aosabook.org/en/nginx.html</sup>_

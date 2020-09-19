@@ -6,5 +6,5 @@ _<sup><sup>[www.bookmarks.dev/tagged/cheerio](https://www.bookmarks.dev/tagged/c
 _<sup>http://www.codingpedia.org/ama/how-to-get-the-title-of-a-remote-web-page-using-javascript-and-nodejs</sup>_
 
 Example on how to do web scraping with cheerio in a NodeJS backend. 
-* **tags**: [javascript](../tagged/javascript.md), [nodejs](../tagged/nodejs.md), [cheerio](../tagged/cheerio.md)
+* **tags**: [javascript](../tagged/javascript.md), [node.js](../tagged/node.js.md), [cheerio](../tagged/cheerio.md)
 ---

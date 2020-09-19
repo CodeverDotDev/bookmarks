@@ -2,6 +2,80 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/angular](https://www.bookmarks.dev/tagged/angular)</sup></sup>_
 ---
+#### [💥 Testing Asynchronous Code with fakeAsync -  Full Example - 6min](https://www.youtube.com/watch?v=vRqRuPoFmsA)
+_<sup>https://www.youtube.com/watch?v=vRqRuPoFmsA</sup>_
+
+Example video about testing a promise with `fakeAsync`
+* :calendar: **published on**: 2019-05-31
+* **tags**: [angular](../tagged/angular.md), [testing](../tagged/testing.md)
+---
+#### [Everything you need to know about change detection in Angular - Angular inDepth](https://indepth.dev/everything-you-need-to-know-about-change-detection-in-angular/)
+_<sup>https://indepth.dev/everything-you-need-to-know-about-change-detection-in-angular/</sup>_
+
+Here we review in great details all operations performed by Angular during change detection, explore implications and take a close look at change detection API in the form of ChangeDetectorRef.
+* :calendar: **published on**: 2017-04-03
+* **tags**: [angular](../tagged/angular.md), [angular-changedetection](../tagged/angular-changedetection.md)
+---
+#### [Why do I need to call detectChanges / whenStable twice?](https://stackoverflow.com/questions/55195739/why-do-i-need-to-call-detectchanges-whenstable-twice)
+_<sup>https://stackoverflow.com/questions/55195739/why-do-i-need-to-call-detectchanges-whenstable-twice</sup>_
+
+Delayed change detection
+* :calendar: **published on**: 2019-03-16
+* **tags**: [angular](../tagged/angular.md), [angular-test](../tagged/angular-test.md), [testbed](../tagged/testbed.md)
+---
+#### [Angular Testing: async and fakeAsync](https://www.digitalocean.com/community/tutorials/angular-testing-async-fakeasync)
+_<sup>https://www.digitalocean.com/community/tutorials/angular-testing-async-fakeasync</sup>_
+
+Testing asynchronous code has always been a challenge, but it’s now easier than ever, thanks to the `async` and `fakeAsync` utilities available for Angular 2+. This should make your Angular unit and i...
+* :calendar: **published on**: 2017-07-13
+* **tags**: [angular](../tagged/angular.md), [testing](../tagged/testing.md)
+---
+#### [Angular Change Detection - How Does It Really Work?](https://blog.angular-university.io/how-does-angular-2-change-detection-really-work/)
+_<sup>https://blog.angular-university.io/how-does-angular-2-change-detection-really-work/</sup>_
+
+The Angular change detection mechanism is much more transparent and easier to reason about than its equivalent in Angular 1. But there are still situations (like when doing performance optimizations) ...
+* **tags**: [angular](../tagged/angular.md), [angular-changedetection](../tagged/angular-changedetection.md)
+---
+#### [Understanding Change Detection Strategy in Angular](https://www.digitalocean.com/community/tutorials/angular-change-detection-strategy)
+_<sup>https://www.digitalocean.com/community/tutorials/angular-change-detection-strategy</sup>_
+
+Angular performs change detection on all components (from top to bottom) every time something changes in your app from something like a user event or data received from a network request. Change detec...
+* :calendar: **published on**: 2017-05-02
+* **tags**: [angular](../tagged/angular.md)
+---
+#### [Brian Ford - Zones - NG-Conf 2014 - 16min](https://www.youtube.com/watch?v=3IqtmUscE_U)
+_<sup>https://www.youtube.com/watch?v=3IqtmUscE_U</sup>_
+
+Introduces "zones" concept with some examples and possibilities you might have using it.
+
+It is now a package in [Angular monorepo](https://github.com/angular/angular/tree/master/packages/zone.js)
+* :calendar: **published on**: 2014-01-17
+* **tags**: [angular](../tagged/angular.md), [zone.js](../tagged/zone.js.md)
+* :octocat: **[source code](https://github.com/angular/angular/tree/master/packages/zone.js)**
+---
+#### [Angular Application Architecture: Build Reux-like Apps with RxJs](https://blog.angular-university.io/angular-2-application-architecture-building-applications-using-rxjs-and-functional-reactive-programming-vs-redux/)
+_<sup>https://blog.angular-university.io/angular-2-application-architecture-building-applications-using-rx...</sup>_
+
+In this post, we are going to walk through how Angular applications can be built in a Functional Reactive style using the RxJs library that is part of Angular. We will go over the following topics:
+
+*...
+* **tags**: [angular](../tagged/angular.md), [rxjs](../tagged/rxjs.md), [functional-programming](../tagged/functional-programming.md), [redux](../tagged/redux.md)
+---
+#### [Functional Reactive Programming for Angular Developers](https://blog.angular-university.io/functional-reactive-programming-for-angular-2-developers-rxjs-and-observables/)
+_<sup>https://blog.angular-university.io/functional-reactive-programming-for-angular-2-developers-rxjs-and...</sup>_
+
+In this post, we are going to go over the concept of Functional Reactive Programming from the point of view of an Angular developer. Following topics are covered:
+
+* A new asynchronous programming con...
+* **tags**: [angular](../tagged/angular.md), [functional-programming](../tagged/functional-programming.md), [rxjs](../tagged/rxjs.md)
+---
+#### [gothinkster/realworld: "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅](https://github.com/gothinkster/realworld)
+_<sup>https://github.com/gothinkster/realworld</sup>_
+
+"The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
+* **tags**: [demo](../tagged/demo.md), [django](../tagged/django.md), [node.js](../tagged/node.js.md), [reactjs](../tagged/reactjs.md), [angular](../tagged/angular.md)
+* :octocat: **[source code](https://github.com/gothinkster/realworld)**
+---
 #### [Angular ng-template, ng-container and ngTemplateOutlet: Guided Tour](https://blog.angular-university.io/angular-ng-template-ng-container-ngtemplateoutlet/)
 _<sup>https://blog.angular-university.io/angular-ng-template-ng-container-ngtemplateoutlet/</sup>_
 
@@ -371,7 +445,7 @@ There are three ways to do this:
 _<sup>https://www.creative-tim.com/</sup>_
 
 UI Kits, Templates and Dashboards built on top of Bootstrap, Vue.js, React, Angular, Node.js and Laravel. 
-* **tags**: [user-experience](../tagged/user-experience.md), [dashboard](../tagged/dashboard.md), [angular](../tagged/angular.md), [bootstrap](../tagged/bootstrap.md), [vuejs](../tagged/vuejs.md), [reactjs](../tagged/reactjs.md), [nodejs](../tagged/nodejs.md)
+* **tags**: [user-experience](../tagged/user-experience.md), [dashboard](../tagged/dashboard.md), [angular](../tagged/angular.md), [bootstrap](../tagged/bootstrap.md), [vuejs](../tagged/vuejs.md), [reactjs](../tagged/reactjs.md), [node.js](../tagged/node.js.md)
 ---
 #### [Deep Dive into the Angular Compiler | Alex Rickabaugh | #AngularConnect  - 31min](https://www.youtube.com/watch?v=anphffaCZrQ)
 _<sup>https://www.youtube.com/watch?v=anphffaCZrQ</sup>_
@@ -911,7 +985,7 @@ _<sup>https://blog.angular-university.io/angular-authentication-jwt/</sup>_
 
 A Step-by-Step Guide for learning how to implement JWT-based Authentication in Angular, includes what to do in the backend (using Node / Typescript)
 * :calendar: **published on**: 2017-09-14
-* **tags**: [jwt](../tagged/jwt.md), [angular](../tagged/angular.md), [nodejs](../tagged/nodejs.md)
+* **tags**: [jwt](../tagged/jwt.md), [angular](../tagged/angular.md), [node.js](../tagged/node.js.md)
 ---
 #### [Angular HTTP Client - QuickStart Guide](http://blog.angular-university.io/angular-http/)
 _<sup>http://blog.angular-university.io/angular-http/</sup>_
@@ -931,7 +1005,7 @@ In this guide we are going to:
 * generate SSL certificates and configure them in NGINX
 * configure NGINX as rever...
 * :calendar: **published on**: 2017-05-21
-* **tags**: [nginx](../tagged/nginx.md), [angular](../tagged/angular.md), [nodejs](../tagged/nodejs.md)
+* **tags**: [nginx](../tagged/nginx.md), [angular](../tagged/angular.md), [node.js](../tagged/node.js.md)
 ---
 #### [Angular Bootstrap](https://valor-software.com/ngx-bootstrap/#/)
 _<sup>https://valor-software.com/ngx-bootstrap/#/</sup>_
@@ -974,7 +1048,7 @@ This guide covers the router's primary features, illustrating them through the e
 #### [Sharing coding knowledge – CodingpediaOrg](http://www.codingpedia.org/)
 _<sup>http://www.codingpedia.org/</sup>_
 
-* **tags**: [blog](../tagged/blog.md), [java](../tagged/java.md), [nodejs](../tagged/nodejs.md), [angular](../tagged/angular.md), [spring](../tagged/spring.md)
+* **tags**: [blog](../tagged/blog.md), [java](../tagged/java.md), [node.js](../tagged/node.js.md), [angular](../tagged/angular.md), [spring](../tagged/spring.md)
 ---
 #### [Architecture overview](https://angular.io/guide/architecture)
 _<sup>https://angular.io/guide/architecture</sup>_
@@ -1281,7 +1355,10 @@ _<sup>https://blog.thoughtram.io/angular/2016/01/22/understanding-zones.html</su
 #### [Angular Change Detection Explained by thoughtram](https://blog.thoughtram.io/angular/2016/02/22/angular-2-change-detection-explained.html)
 _<sup>https://blog.thoughtram.io/angular/2016/02/22/angular-2-change-detection-explained.html</sup>_
 
+NG-NL has happened and it was awesome! I had the honour of giving a talk about change detection in Angular and it seemed to be a huge success as attendees liked it a lot. With this article, we’d like ...
+* :calendar: **published on**: 2016-02-22
 * **tags**: [angular](../tagged/angular.md)
+* :octocat: **[source code](https://github.com/thoughtram/angular2-change-detection-demos)**
 ---
 #### [Passing data to and from a nested component in Angular 2](https://www.themarketingtechnologist.co/building-nested-components-in-angular-2/)
 _<sup>https://www.themarketingtechnologist.co/building-nested-components-in-angular-2/</sup>_

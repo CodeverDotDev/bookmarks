@@ -1684,31 +1684,31 @@ The easiest and most popular chatbot to implement ChatOps.
 _<sup>https://chrome.google.com/webstore/detail/octolinker/jlmafbaeoofdegohdhinkhilhclaklkp</sup>_
 
 Chrome extension that linkifies dependencies in package.json, .js, .jsx, .coffee and .md files on GitHub.
-* **tags**: [nodejs](../tagged/nodejs.md), [tools](../tagged/tools.md)
+* **tags**: [node.js](../tagged/node.js.md), [tools](../tagged/tools.md)
 ---
 #### [npm-hub](https://chrome.google.com/webstore/detail/npm-hub/kbbbjimdjbjclaebffknlabpogocablj)
 _<sup>https://chrome.google.com/webstore/detail/npm-hub/kbbbjimdjbjclaebffknlabpogocablj</sup>_
 
 Chrome extension to display npm dependencies at the bottom of a repo's readme.
-* **tags**: [nodejs](../tagged/nodejs.md), [tools](../tagged/tools.md)
+* **tags**: [node.js](../tagged/node.js.md), [tools](../tagged/tools.md)
 ---
 #### [RunKit](http://blog.tonicdev.com/2015/09/30/embedded-tonic.html)
 _<sup>http://blog.tonicdev.com/2015/09/30/embedded-tonic.html</sup>_
 
 Embed a Node.js environment on any website.
-* **tags**: [nodejs](../tagged/nodejs.md), [tools](../tagged/tools.md)
+* **tags**: [node.js](../tagged/node.js.md), [tools](../tagged/tools.md)
 ---
 #### [RequireBin](http://requirebin.com)
 _<sup>http://requirebin.com</sup>_
 
 Shareable JavaScript programs powered by npm and browserify.
-* **tags**: [nodejs](../tagged/nodejs.md), [tools](../tagged/tools.md)
+* **tags**: [node.js](../tagged/node.js.md), [tools](../tagged/tools.md)
 ---
 #### [github-npm-stats](https://chrome.google.com/webstore/detail/github-npm-stats/oomfflokggoffaiagenekchfnpighcef)
 _<sup>https://chrome.google.com/webstore/detail/github-npm-stats/oomfflokggoffaiagenekchfnpighcef</sup>_
 
 Chrome extension that displays npm download stats on GitHub.
-* **tags**: [nodejs](../tagged/nodejs.md), [tools](../tagged/tools.md)
+* **tags**: [node.js](../tagged/node.js.md), [tools](../tagged/tools.md)
 ---
 #### [graphiql](https://github.com/graphql/graphiql)
 _<sup>https://github.com/graphql/graphiql</sup>_
@@ -2044,7 +2044,7 @@ MockAPI is a simple tool that lets you easily mock up APIs, generate custom data
 _<sup>https://github.com/motdotla/dotenv</sup>_
 
 Loads environment variables from .env for nodejs projects.
-* **tags**: [nodejs](../tagged/nodejs.md), [devops](../tagged/devops.md), [tools](../tagged/tools.md)
+* **tags**: [node.js](../tagged/node.js.md), [devops](../tagged/devops.md), [tools](../tagged/tools.md)
 * :octocat: **[source code](https://github.com/motdotla/dotenv)**
 ---
 #### [CodeMirror](http://codemirror.net/)
@@ -2058,7 +2058,7 @@ CodeMirror is a versatile text editor implemented in JavaScript for the browser.
 _<sup>https://github.com/nodenv/nodenv</sup>_
 
 Manage multiple NodeJS versions. 
-* **tags**: [nodejs](../tagged/nodejs.md), [tools](../tagged/tools.md)
+* **tags**: [node.js](../tagged/node.js.md), [tools](../tagged/tools.md)
 * :octocat: **[source code](https://github.com/nodenv/nodenv)**
 ---
 #### [A personal review of automated testing tools in the JavaScript world](https://itnext.io/a-personal-review-of-automated-testing-tools-in-the-javascript-world-3c504fe6e05d)
@@ -2119,7 +2119,7 @@ An easy to use editor for crontab schedules.
 _<sup>https://github.com/diegohaz/rest</sup>_
 
 RESTful API generator using NodeJS, Express and Mongoose
-* **tags**: [nodejs](../tagged/nodejs.md), [expressjs](../tagged/expressjs.md), [mongoose](../tagged/mongoose.md), [yeoman](../tagged/yeoman.md), [tools](../tagged/tools.md)
+* **tags**: [node.js](../tagged/node.js.md), [expressjs](../tagged/expressjs.md), [mongoose](../tagged/mongoose.md), [yeoman](../tagged/yeoman.md), [tools](../tagged/tools.md)
 * :octocat: **[source code](https://github.com/diegohaz/rest)**
 ---
 #### [Witeboard](https://witeboard.com/)
@@ -2141,7 +2141,7 @@ _<sup>https://davidwalsh.name/console-probe</sup>_
 
 Though not interactive, I've found that console-probe is an improvement over console.log, providing me highlighted property types, lengths, and a nice visual tree view.
 * :calendar: **published on**: 2018-01-25
-* **tags**: [nodejs](../tagged/nodejs.md), [tools](../tagged/tools.md)
+* **tags**: [node.js](../tagged/node.js.md), [tools](../tagged/tools.md)
 * :octocat: **[source code](https://github.com/grantcarthew/node-console-probe)**
 ---
 #### [Online RSA Key Generator](http://travistidwell.com/jsencrypt/demo/)

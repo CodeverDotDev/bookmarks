@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/unix](https://www.bookmarks.dev/tagged/unix)</sup></sup>_
 ---
+#### [About hard links in Unix](https://kb.iu.edu/d/aibc)
+_<sup>https://kb.iu.edu/d/aibc</sup>_
+
+A hard link is essentially a label or name assigned to a file. Conventionally, we think of a file as consisting of a set of information that has a single name. However, it is possible to create a numb...
+* **tags**: [unix](../tagged/unix.md), [file-systems](../tagged/file-systems.md)
+---
 #### [AWK command in Unix/Linux with examples - GeeksforGeeks](https://www.geeksforgeeks.org/awk-command-unixlinux-examples/)
 _<sup>https://www.geeksforgeeks.org/awk-command-unixlinux-examples/</sup>_
 

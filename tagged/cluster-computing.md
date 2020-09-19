@@ -2,6 +2,21 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/cluster-computing](https://www.bookmarks.dev/tagged/cluster-computing)</sup></sup>_
 ---
+#### [My troubles getting to run a Node application with PM2 in cluster mode with NVM – CodepediaOrg](https://www.codepedia.org/ama/my-troubles-getting-to-run-a-node-application-with-pm2-in-cluster-mode-with-nvm)
+_<sup>https://www.codepedia.org/ama/my-troubles-getting-to-run-a-node-application-with-pm2-in-cluster-mode...</sup>_
+
+In this blog post I will list of the trouble I went through getting to run PM2 in cluster mode on an Ubuntu system, on which I had Node.js both standalone installed and managed with NVM.
+* :calendar: **published on**: 2020-09-08
+* **tags**: [node.js](../tagged/node.js.md), [cluster-computing](../tagged/cluster-computing.md), [pm2](../tagged/pm2.md), [nvm](../tagged/nvm.md)
+---
+#### [PM2 - Node.js clustering made easy with PM2](https://pm2.io/blog/2018/04/20/Node-js-clustering-made-easy-with-PM2)
+_<sup>https://pm2.io/blog/2018/04/20/Node-js-clustering-made-easy-with-PM2</sup>_
+
+How to start NodeJS in Cluster mode with PM2:
+
+
+* **tags**: [node.js](../tagged/node.js.md), [pm2](../tagged/pm2.md), [cluster-computing](../tagged/cluster-computing.md), [cluster-management](../tagged/cluster-management.md), [scalability](../tagged/scalability.md)
+---
 #### [Affordable Kubernetes Cluster - Devonblog](https://devonblog.com/containers/affordable-kubernetes-cluster/)
 _<sup>https://devonblog.com/containers/affordable-kubernetes-cluster/</sup>_
 

@@ -50,7 +50,7 @@ _<sup>https://www.youtube.com/watch?v=QcNqfvMeWow</sup>_
 
 Traditionally, a tug of war has existed between service reliability (availability, consistency, and fault tolerance), and engineering velocity. Increasing speed to fuel product innovation has meant ma...
 * :calendar: **published on**: 2017-08-01
-* **tags**: [nodejs](../tagged/nodejs.md), [paas](../tagged/paas.md), [architecture](../tagged/architecture.md)
+* **tags**: [node.js](../tagged/node.js.md), [paas](../tagged/paas.md), [architecture](../tagged/architecture.md)
 ---
 #### [What is Kubernetes? - Kubernetes](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/)
 _<sup>https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/</sup>_

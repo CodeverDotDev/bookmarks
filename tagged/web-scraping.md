@@ -7,7 +7,7 @@ _<sup>https://blog.kowalczyk.info/article/ea07db1b9bff415ab180b0525f3898f6/advan
 
 Puppeteer is a node.js library that makes it easy to do advanced web scraping and spidering.
 Older generation of web scraping and spidering tools would grab and analyze HTML pages as returned by a web...
-* **tags**: [nodejs](../tagged/nodejs.md), [puppeteer](../tagged/puppeteer.md), [web-scraping](../tagged/web-scraping.md)
+* **tags**: [node.js](../tagged/node.js.md), [puppeteer](../tagged/puppeteer.md), [web-scraping](../tagged/web-scraping.md)
 ---
 #### [cola](https://github.com/chineking/cola)
 _<sup>https://github.com/chineking/cola</sup>_

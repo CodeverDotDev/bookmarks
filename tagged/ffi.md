@@ -129,7 +129,7 @@ mruby safe bindings for Rust [<img src="https://api.travis-ci.org/anima-engine/m
 _<sup>https://github.com/neon-bindings/neon</sup>_
 
 use Rust from Node.js [<img src="https://api.travis-ci.org/neon-bindings/neon.svg?branch=master">](https://travis-ci.org/neon-bindings/neon)
-* **tags**: [rust](../tagged/rust.md), [ffi](../tagged/ffi.md), [nodejs](../tagged/nodejs.md)
+* **tags**: [rust](../tagged/rust.md), [ffi](../tagged/ffi.md), [node.js](../tagged/node.js.md)
 * :octocat: **[source code](https://github.com/neon-bindings/neon)**
 ---
 #### [SSheldon/rust-objc](https://github.com/SSheldon/rust-objc)

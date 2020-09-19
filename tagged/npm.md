@@ -13,7 +13,7 @@ Splitting up large codebases into separate independently versioned packages is e
 _<sup>https://github.com/mysticatea/npm-run-all</sup>_
 
 A CLI tool to run multiple npm-scripts in parallel or sequential.
-* **tags**: [nodejs](../tagged/nodejs.md), [npm](../tagged/npm.md)
+* **tags**: [node.js](../tagged/node.js.md), [npm](../tagged/npm.md)
 * :octocat: **[source code](https://github.com/mysticatea/npm-run-all)**
 ---
 #### [How to connect to npm feeds from Azure DevOps](https://www.code4it.dev/blog/connect-npm-feeds-from-azure-devops)
@@ -29,7 +29,7 @@ _<sup>https://stackoverflow.com/questions/10068592/how-do-i-update-devdependenci
 To update package.json in addition to the local modules, run
 ...
 * :calendar: **published on**: 2012-04-09
-* **tags**: [npm](../tagged/npm.md), [nodejs](../tagged/nodejs.md)
+* **tags**: [npm](../tagged/npm.md), [node.js](../tagged/node.js.md)
 ---
 #### [What I Learned From Creating My First Open-Source Software Project](https://medium.com/better-programming/things-i-learned-from-creating-my-first-open-source-software-project-e74844bf687a)
 _<sup>https://medium.com/better-programming/things-i-learned-from-creating-my-first-open-source-software-p...</sup>_
@@ -44,7 +44,7 @@ Those of you upgrading npm to its latest version, npm@5.2.0, might notice that i
 
 npx is a tool intended to help round out the experience of us...
 * :calendar: **published on**: 2017-07-11
-* **tags**: [npx](../tagged/npx.md), [npm](../tagged/npm.md), [nodejs](../tagged/nodejs.md)
+* **tags**: [npx](../tagged/npx.md), [npm](../tagged/npm.md), [node.js](../tagged/node.js.md)
 ---
 #### [awesome-micro-npm-packages](https://github.com/parro-it/awesome-micro-npm-packages#readme)
 _<sup>https://github.com/parro-it/awesome-micro-npm-packages#readme</sup>_
@@ -127,7 +127,7 @@ Last year, we decided to move all of our JavaScript projects from npm to Yarn. 1
 _<sup>https://github.com/web-push-libs/web-push</sup>_
 
 Web push requires that push messages triggered from a backend be done via the [Web Push Protocol](https://tools.ietf.org/html/draft-ietf-webpush-protocol) and if you want to send data with your push m...
-* **tags**: [nodejs](../tagged/nodejs.md), [npm](../tagged/npm.md), [web-push](../tagged/web-push.md), [push-api](../tagged/push-api.md)
+* **tags**: [node.js](../tagged/node.js.md), [npm](../tagged/npm.md), [web-push](../tagged/web-push.md), [push-api](../tagged/push-api.md)
 * :octocat: **[source code](https://github.com/web-push-libs/web-push)**
 ---
 #### [GitHub - peerigon/updtr: Update outdated npm modules with zero pain™](https://github.com/peerigon/updtr)
@@ -145,20 +145,20 @@ nodejs hangs when installing some packages
 Moste voted solution:
 
 **Try to remove 'package-lock.json' file from directory where 'package.json' locate.**
-* **tags**: [nodejs](../tagged/nodejs.md), [npm](../tagged/npm.md)
+* **tags**: [node.js](../tagged/node.js.md), [npm](../tagged/npm.md)
 ---
 #### [got](https://www.npmjs.com/package/got)
 _<sup>https://www.npmjs.com/package/got</sup>_
 
 Simplified HTTP requests
-* **tags**: [node](../tagged/node.md), [npm](../tagged/npm.md)
+* **tags**: [node.js](../tagged/node.js.md), [npm](../tagged/npm.md)
 * :octocat: **[source code](https://github.com/sindresorhus/got)**
 ---
 #### [qs](https://www.npmjs.com/package/qs)
 _<sup>https://www.npmjs.com/package/qs</sup>_
 
 A querystring parser that supports nesting and arrays, with a depth limit
-* **tags**: [nodejs](../tagged/nodejs.md), [npm](../tagged/npm.md)
+* **tags**: [node.js](../tagged/node.js.md), [npm](../tagged/npm.md)
 * :octocat: **[source code](https://github.com/ljharb/qs)**
 ---
 #### [npm-config documentation](https://docs.npmjs.com/misc/config)
@@ -179,25 +179,25 @@ This is the second part of a series of posts on Nexus 3 and how to use it as rep
 _<sup>https://www.youtube.com/watch?v=kK4Meix58R4</sup>_
 
 * :calendar: **published on**: 2014-12-04
-* **tags**: [nodejs](../tagged/nodejs.md), [npm](../tagged/npm.md)
+* **tags**: [node.js](../tagged/node.js.md), [npm](../tagged/npm.md)
 ---
 #### [Semantic versioning and npm](https://docs.npmjs.com/getting-started/semantic-versioning)
 _<sup>https://docs.npmjs.com/getting-started/semantic-versioning</sup>_
 
 Video and text explaining how Npm Versioning works...
-* **tags**: [npm](../tagged/npm.md), [nodejs](../tagged/nodejs.md), [semserver](../tagged/semserver.md)
+* **tags**: [npm](../tagged/npm.md), [node.js](../tagged/node.js.md), [semserver](../tagged/semserver.md)
 ---
 #### [Creating Node.js modules](https://docs.npmjs.com/getting-started/creating-node-modules)
 _<sup>https://docs.npmjs.com/getting-started/creating-node-modules</sup>_
 
 Video with text showing how to create a simple NodeJs module, export it and use it in another project. 
-* **tags**: [npm](../tagged/npm.md), [nodejs](../tagged/nodejs.md)
+* **tags**: [npm](../tagged/npm.md), [node.js](../tagged/node.js.md)
 ---
 #### [package-lock.json](https://docs.npmjs.com/files/package-lock.json)
 _<sup>https://docs.npmjs.com/files/package-lock.json</sup>_
 
 **package-lock.json** is automatically generated for any operations where npm modifies either the **node_modules** tree, or **package.json**. It describes the exact tree that was generated, such that ...
-* **tags**: [npm](../tagged/npm.md), [nodejs](../tagged/nodejs.md)
+* **tags**: [npm](../tagged/npm.md), [node.js](../tagged/node.js.md)
 ---
 #### [package-lock and npm-shrinkwrap](https://github.com/npm/npm/blob/latest/doc/spec/package-lock.md)
 _<sup>https://github.com/npm/npm/blob/latest/doc/spec/package-lock.md</sup>_
@@ -206,7 +206,7 @@ _<sup>https://github.com/npm/npm/blob/latest/doc/spec/package-lock.md</sup>_
 
 * `package-lock.json`, which is ordinarily always present and is never published.
 * `npm-shrinkwrap.json`, which is created with `npm shrinkwrap` and u...
-* **tags**: [nodejs](../tagged/nodejs.md), [npm](../tagged/npm.md)
+* **tags**: [node.js](../tagged/node.js.md), [npm](../tagged/npm.md)
 ---
 #### [How To Remove All NPM Proxy Settings | Have Fun Learning](http://luxiyalu.com/how-to-remove-all-npm-proxy-settings/)
 _<sup>http://luxiyalu.com/how-to-remove-all-npm-proxy-settings/</sup>_
@@ -244,7 +244,7 @@ How npm handles the "scripts" field in package.json
 _<sup>https://github.com/eirslett/frontend-maven-plugin</sup>_
 
 "Maven-node-grunt-gulp-npm-node-plugin to end all maven-node-grunt-gulp-npm-plugins." A Maven plugin that downloads/installs Node and NPM locally, runs NPM install, Grunt, Gulp and/or Karma.
-* **tags**: [maven](../tagged/maven.md), [gulp](../tagged/gulp.md), [nodejs](../tagged/nodejs.md), [npm](../tagged/npm.md), [maven-plugin](../tagged/maven-plugin.md)
+* **tags**: [maven](../tagged/maven.md), [gulp](../tagged/gulp.md), [node.js](../tagged/node.js.md), [npm](../tagged/npm.md), [maven-plugin](../tagged/maven-plugin.md)
 ---
 #### [npm-shrinkwrap](https://docs.npmjs.com/cli/shrinkwrap)
 _<sup>https://docs.npmjs.com/cli/shrinkwrap</sup>_
@@ -258,7 +258,7 @@ _<sup>https://docs.npmjs.com/cli/ls</sup>_
 List all installed packages. You can filter via `grep` to find out version of a package is installed. Use `--depth` to display max depth of the dependency tree
 
 ...
-* **tags**: [npm](../tagged/npm.md), [docs](../tagged/docs.md), [nodejs](../tagged/nodejs.md)
+* **tags**: [npm](../tagged/npm.md), [docs](../tagged/docs.md), [node.js](../tagged/node.js.md)
 ---
 #### [Specifics of npm's package.json handling](https://docs.npmjs.com/files/package.json)
 _<sup>https://docs.npmjs.com/files/package.json</sup>_
@@ -266,5 +266,5 @@ _<sup>https://docs.npmjs.com/files/package.json</sup>_
 This document is all you need to know about what's required in your package.json file. It must be actual JSON, not just a JavaScript object literal.
 
 A lot of the behavior described in this document i...
-* **tags**: [nodejs](../tagged/nodejs.md), [npm](../tagged/npm.md), [docs](../tagged/docs.md)
+* **tags**: [node.js](../tagged/node.js.md), [npm](../tagged/npm.md), [docs](../tagged/docs.md)
 ---

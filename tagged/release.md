@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/release](https://www.bookmarks.dev/tagged/release)</sup></sup>_
 ---
+#### [Maven – Maven Releases History](https://maven.apache.org/docs/history.html)
+_<sup>https://maven.apache.org/docs/history.html</sup>_
+
+Release notes links and reference links
+* **tags**: [maven](../tagged/maven.md), [release](../tagged/release.md)
+---
 #### [Introduction - semantic-release](https://semantic-release.gitbook.io/semantic-release/)
 _<sup>https://semantic-release.gitbook.io/semantic-release/</sup>_
 

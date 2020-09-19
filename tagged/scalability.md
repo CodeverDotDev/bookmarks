@@ -2,12 +2,28 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/scalability](https://www.bookmarks.dev/tagged/scalability)</sup></sup>_
 ---
+#### [Cloud-Native Batch Processing with Spring Batch 4 - Michael Minella - 1h:9min](https://www.youtube.com/watch?v=-Icd-s2JoAw)
+_<sup>https://www.youtube.com/watch?v=-Icd-s2JoAw</sup>_
+
+This talk will explore the latest release of Spring Batch as well as how to utilize it in a modern cloud environment. We will work through building a cloud-native batch process using Spring's stack in...
+* :calendar: **published on**: 2017-12-14
+* **tags**: [spring](../tagged/spring.md), [spring-cloud](../tagged/spring-cloud.md), [scalability](../tagged/scalability.md)
+* :octocat: **[source code](https://github.com/mminella/cloud-native-batch)**
+---
+#### [PM2 - Node.js clustering made easy with PM2](https://pm2.io/blog/2018/04/20/Node-js-clustering-made-easy-with-PM2)
+_<sup>https://pm2.io/blog/2018/04/20/Node-js-clustering-made-easy-with-PM2</sup>_
+
+How to start NodeJS in Cluster mode with PM2:
+
+
+* **tags**: [node.js](../tagged/node.js.md), [pm2](../tagged/pm2.md), [cluster-computing](../tagged/cluster-computing.md), [cluster-management](../tagged/cluster-management.md), [scalability](../tagged/scalability.md)
+---
 #### [Scaling Node.js Applications](https://www.freecodecamp.org/news/scaling-node-js-applications-8492bd8afadc/)
 _<sup>https://www.freecodecamp.org/news/scaling-node-js-applications-8492bd8afadc/</sup>_
 
 Scalability in Node.js is not an afterthought. It’s something that’s baked into the core of the runtime. Node is named Node to emphasize the idea that a Node application should comprise multiple small...
 * :calendar: **published on**: 2017-07-13
-* **tags**: [nodejs](../tagged/nodejs.md), [scalability](../tagged/scalability.md), [pm2](../tagged/pm2.md)
+* **tags**: [node.js](../tagged/node.js.md), [scalability](../tagged/scalability.md), [pm2](../tagged/pm2.md)
 ---
 #### [Google Cloud Functions - Controlling Scaling Behavior](https://cloud.google.com/functions/docs/max-instances)
 _<sup>https://cloud.google.com/functions/docs/max-instances</sup>_

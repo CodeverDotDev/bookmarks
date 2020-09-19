@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/cheatsheet](https://www.bookmarks.dev/tagged/cheatsheet)</sup></sup>_
 ---
+#### [arslanbilal/git-cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet#merge--rebase)
+_<sup>https://github.com/arslanbilal/git-cheat-sheet#merge--rebase</sup>_
+
+Git cheat sheet saves you from learning all the commands by heart.
+* **tags**: [git](../tagged/git.md), [cheatsheet](../tagged/cheatsheet.md)
+---
 #### [Cheat sheet collection page | Red Hat Developer](https://developers.redhat.com/cheatsheets/)
 _<sup>https://developers.redhat.com/cheatsheets/</sup>_
 
@@ -18,7 +24,7 @@ A ridiculous collection of web development cheatsheets · One-page guide to
 _<sup>https://github.com/zishon89us/node-cheat</sup>_
 
 :star: Awesome Node Cheats
-* **tags**: [nodejs](../tagged/nodejs.md), [cheatsheet](../tagged/cheatsheet.md), [code-snippets](../tagged/code-snippets.md)
+* **tags**: [node.js](../tagged/node.js.md), [cheatsheet](../tagged/cheatsheet.md), [code-snippets](../tagged/code-snippets.md)
 * :octocat: **[source code](https://github.com/zishon89us/node-cheat)**
 ---
 #### [JavaScript Resources | JSArray.com](https://jsarray.com/)
@@ -80,7 +86,7 @@ Quickly find your Bootstrap classes on this interactive Bootstrap cheat sheet. I
 _<sup>https://github.com/LeCoupa/awesome-cheatsheets</sup>_
 
 awesome-cheatsheets - 📚 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
-* **tags**: [javascript](../tagged/javascript.md), [nodejs](../tagged/nodejs.md), [cheatsheet](../tagged/cheatsheet.md)
+* **tags**: [javascript](../tagged/javascript.md), [node.js](../tagged/node.js.md), [cheatsheet](../tagged/cheatsheet.md)
 * :octocat: **[source code](https://github.com/LeCoupa/awesome-cheatsheets)**
 ---
 #### [XSS (Cross Site Scripting) Prevention Cheat Sheet - OWASP](https://www.owasp.org/index.php/XSS_(Cross_Site_Scripting)_Prevention_Cheat_Sheet)

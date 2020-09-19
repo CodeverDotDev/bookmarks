@@ -20,7 +20,7 @@ _<sup>https://github.com/iamkun/dayjs</sup>_
 _<sup>https://date-fns.org/</sup>_
 
 date-fns provides the most comprehensive yet simple and consistent toolset for manipulating JavaScript dates in a browser & Node.js.
-* **tags**: [javascript](../tagged/javascript.md), [nodejs](../tagged/nodejs.md), [datetime](../tagged/datetime.md)
+* **tags**: [javascript](../tagged/javascript.md), [node.js](../tagged/node.js.md), [datetime](../tagged/datetime.md)
 * :octocat: **[source code](https://github.com/date-fns/date-fns)**
 ---
 #### [chronotope/chrono](https://github.com/chronotope/chrono)

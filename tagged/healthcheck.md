@@ -7,20 +7,20 @@ _<sup>https://expressjs.com/en/advanced/healthcheck-graceful-shutdown.html</sup>
 
  Graceful shutdown
 When you deploy a new version of your application, you must replace the previous version. The process manager you’re using will first send a SIGTERM signal to the application to...
-* **tags**: [nodejs](../tagged/nodejs.md), [expressjs](../tagged/expressjs.md), [healthcheck](../tagged/healthcheck.md)
+* **tags**: [node.js](../tagged/node.js.md), [expressjs](../tagged/expressjs.md), [healthcheck](../tagged/healthcheck.md)
 ---
 #### [GitHub - gajus/lightship Home Page](https://github.com/gajus/lightship)
 _<sup>https://github.com/gajus/lightship</sup>_
 
 Abstracts readiness/ liveness checks and graceful shutdown of Node.js services running in Kubernetes. - gajus/lightship
-* **tags**: [nodejs](../tagged/nodejs.md), [kubernetes](../tagged/kubernetes.md), [healthcheck](../tagged/healthcheck.md)
+* **tags**: [node.js](../tagged/node.js.md), [kubernetes](../tagged/kubernetes.md), [healthcheck](../tagged/healthcheck.md)
 * :octocat: **[source code](https://github.com/gajus/lightship)**
 ---
 #### [GitHub - godaddy/terminus Home Page](https://github.com/godaddy/terminus)
 _<sup>https://github.com/godaddy/terminus</sup>_
 
 Graceful shutdown and Kubernetes readiness / liveness checks for any Node.js HTTP applications - godaddy/terminus
-* **tags**: [nodejs](../tagged/nodejs.md), [kubernetes](../tagged/kubernetes.md), [healthcheck](../tagged/healthcheck.md)
+* **tags**: [node.js](../tagged/node.js.md), [kubernetes](../tagged/kubernetes.md), [healthcheck](../tagged/healthcheck.md)
 * :octocat: **[source code](https://github.com/godaddy/terminus)**
 ---
 #### [GitHub - docker-library/healthcheck](https://github.com/docker-library/healthcheck)

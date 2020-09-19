@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/file-systems](https://www.bookmarks.dev/tagged/file-systems)</sup></sup>_
 ---
+#### [About hard links in Unix](https://kb.iu.edu/d/aibc)
+_<sup>https://kb.iu.edu/d/aibc</sup>_
+
+A hard link is essentially a label or name assigned to a file. Conventionally, we think of a file as consisting of a set of information that has a single name. However, it is possible to create a numb...
+* **tags**: [unix](../tagged/unix.md), [file-systems](../tagged/file-systems.md)
+---
 #### [What is the best way to upload and store pictures on the site?](https://stackoverflow.com/questions/8922056/what-is-the-best-way-to-upload-and-store-pictures-on-the-site/8922090#8922090)
 _<sup>https://stackoverflow.com/questions/8922056/what-is-the-best-way-to-upload-and-store-pictures-on-the...</sup>_
 

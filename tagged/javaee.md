@@ -177,7 +177,7 @@ _<sup>https://github.com/redhat-developer/redhat-sso-quickstarts</sup>_
 
 redhat-sso-quickstarts - Quickstarts for the Red Hat Single Sign-On (SSO) Server
 The quickstarts demonstrate securing applications with RH-SSO. They provide small, specific, working examples that can ...
-* **tags**: [rh-sso](../tagged/rh-sso.md), [nodejs](../tagged/nodejs.md), [javaee](../tagged/javaee.md), [jaxrs](../tagged/jaxrs.md)
+* **tags**: [rh-sso](../tagged/rh-sso.md), [node.js](../tagged/node.js.md), [javaee](../tagged/javaee.md), [jaxrs](../tagged/jaxrs.md)
 * :octocat: **[source code](https://github.com/redhat-developer/redhat-sso-quickstarts)**
 ---
 #### [Introduction | RESTfu­­l Jav­a­ wit­h ­JAX­-­­RS 2.­0­ (Second Edition)](https://dennis-xlc.gitbooks.io/restful-java-with-jax-rs-2-0-2rd-edition/en/index.html)

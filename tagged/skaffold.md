@@ -55,6 +55,6 @@ _<sup>https://nemethgergely.com/using-kubernetes-for-local-development/</sup>_
 
 This article walks you through how you can develop an application locally using Kubernetes
 * :calendar: **published on**: 2018-07-03
-* **tags**: [kubernetes](../tagged/kubernetes.md), [skaffold](../tagged/skaffold.md), [nodejs](../tagged/nodejs.md)
+* **tags**: [kubernetes](../tagged/kubernetes.md), [skaffold](../tagged/skaffold.md), [node.js](../tagged/node.js.md)
 * :octocat: **[source code](https://github.com/gergelyke/skaffold-nodejs-example)**
 ---

@@ -15,14 +15,14 @@ The popularization of the “ideal mea...
 _<sup>https://github.com/TryGhost/Ghost</sup>_
 
 Simple, powerful publishing platform.
-* **tags**: [nodejs](../tagged/nodejs.md), [blogging](../tagged/blogging.md)
+* **tags**: [node.js](../tagged/node.js.md), [blogging](../tagged/blogging.md)
 * :octocat: **[source code](https://github.com/TryGhost/Ghost)**
 ---
 #### [Hexo](https://github.com/hexojs/hexo)
 _<sup>https://github.com/hexojs/hexo</sup>_
 
 Fast, simple and powerful blogging framework.
-* **tags**: [nodejs](../tagged/nodejs.md), [blogging](../tagged/blogging.md)
+* **tags**: [node.js](../tagged/node.js.md), [blogging](../tagged/blogging.md)
 * :octocat: **[source code](https://github.com/hexojs/hexo)**
 ---
 #### [The world’s fastest framework for building websites](https://gohugo.io/)

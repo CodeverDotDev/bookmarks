@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/systemd](https://www.bookmarks.dev/tagged/systemd)</sup></sup>_
 ---
+#### [How To Use Systemctl to Manage Systemd Services and Units](https://www.digitalocean.com/community/tutorials/how-to-use-systemctl-to-manage-systemd-services-and-units)
+_<sup>https://www.digitalocean.com/community/tutorials/how-to-use-systemctl-to-manage-systemd-services-and...</sup>_
+
+In this guide, we will be discussing the systemctl command, which is the central management tool for controlling the init system. We will cover how to manage services, check statuses, change system st...
+* :calendar: **published on**: 2015-02-01
+* **tags**: [systemctl](../tagged/systemctl.md), [systemd](../tagged/systemd.md), [linux](../tagged/linux.md)
+---
 #### [Systemd Essentials: Working with Services, Units, and the Journal | DigitalOceanDigitalOcean](https://www.digitalocean.com/community/tutorials/systemd-essentials-working-with-services-units-and-the-journal)
 _<sup>https://www.digitalocean.com/community/tutorials/systemd-essentials-working-with-services-units-and-...</sup>_
 

@@ -246,7 +246,7 @@ This post will be a **quick practical guide** for the Angular HTTP Client module
 _<sup>http://visionmedia.github.io/superagent/</sup>_
 
 SuperAgent is light-weight progressive ajax API crafted for flexibility, readability, and a low learning curve after being frustrated with many of the existing request APIs. It also works with Node.js...
-* **tags**: [nodejs](../tagged/nodejs.md), [http-client](../tagged/http-client.md)
+* **tags**: [node.js](../tagged/node.js.md), [http-client](../tagged/http-client.md)
 * :octocat: **[source code](https://github.com/visionmedia/superagent)**
 ---
 #### [GitHub - request/request: 🏊🏾 Simplified HTTP request client.](https://github.com/request/request)
@@ -254,6 +254,6 @@ _<sup>https://github.com/request/request</sup>_
 
 Request is designed to be the simplest way possible to make http calls. It supports HTTPS and follows redirects by default.
 ...
-* **tags**: [nodejs](../tagged/nodejs.md), [http-client](../tagged/http-client.md)
+* **tags**: [node.js](../tagged/node.js.md), [http-client](../tagged/http-client.md)
 * :octocat: **[source code](https://github.com/request/request)**
 ---

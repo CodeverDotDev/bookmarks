@@ -19,7 +19,7 @@ What is object oriented design? What is it all about? What are it's benefits? Wh
 _<sup>https://nestjs.com/</sup>_
 
 NestJS is a framework for building efficient, scalable Node.js web applications. It uses modern JavaScript, is built with TypeScript and combines elements of OOP (Object Oriented Progamming), FP (Func...
-* **tags**: [nodejs](../tagged/nodejs.md), [typescript](../tagged/typescript.md), [functional-programming](../tagged/functional-programming.md), [oop](../tagged/oop.md)
+* **tags**: [node.js](../tagged/node.js.md), [typescript](../tagged/typescript.md), [functional-programming](../tagged/functional-programming.md), [oop](../tagged/oop.md)
 * :octocat: **[source code](https://github.com/nestjs/nest)**
 ---
 #### [Composition versus Inheritance](https://www.artima.com/designtechniques/compoinh.html)

@@ -13,7 +13,7 @@ _<sup>https://www.codepedia.org/ama/cleaner-code-in-expressjs-rest-api-with-cust
 
 Shows how you can make your backend ExpressJS REST API cleaner by using custom error handling middleware. Code snippets of before and after refactoring are presented to make the point
 * :calendar: **published on**: 2019-12-02
-* **tags**: [expressjs](../tagged/expressjs.md), [nodejs](../tagged/nodejs.md), [error-handling](../tagged/error-handling.md), [async-await](../tagged/async-await.md)
+* **tags**: [expressjs](../tagged/expressjs.md), [node.js](../tagged/node.js.md), [error-handling](../tagged/error-handling.md), [async-await](../tagged/async-await.md)
 * :octocat: **[source code](https://github.com/CodepediaOrg/bookmarks.dev-api)**
 ---
 #### [GitHub - davidbanham/express-async-errors](https://github.com/davidbanham/express-async-errors)
@@ -43,14 +43,14 @@ _<sup>https://thecodebarbarian.com/80-20-guide-to-express-error-handling</sup>_
 
 [Express' error handling middleware](http://expressjs.com/en/guide/error-handling.html) is a powerful tool for consolidating your HTTP error response logic. Odds are, if you've written Express code yo...
 * :calendar: **published on**: 2017-08-04
-* **tags**: [expressjs](../tagged/expressjs.md), [nodejs](../tagged/nodejs.md), [error-handling](../tagged/error-handling.md), [async-await](../tagged/async-await.md)
+* **tags**: [expressjs](../tagged/expressjs.md), [node.js](../tagged/node.js.md), [error-handling](../tagged/error-handling.md), [async-await](../tagged/async-await.md)
 ---
 #### [The 80/20 Guide to Async/Await in Node.js](http://thecodebarbarian.com/80-20-guide-to-async-await-in-node.js)
 _<sup>http://thecodebarbarian.com/80-20-guide-to-async-await-in-node.js</sup>_
 
 Arguably the biggest new feature in Node.js 7.6.0 is that the much awaited async function keyword is now available without a flag. Callback hell and promise hell are now in the past. But, like Uncle B...
 * :calendar: **published on**: 2017-03-08
-* **tags**: [nodejs](../tagged/nodejs.md), [javascript](../tagged/javascript.md), [async-await](../tagged/async-await.md), [error-handling](../tagged/error-handling.md)
+* **tags**: [node.js](../tagged/node.js.md), [javascript](../tagged/javascript.md), [async-await](../tagged/async-await.md), [error-handling](../tagged/error-handling.md)
 ---
 #### [Async Await Error Handling in JavaScript](https://thecodebarbarian.com/async-await-error-handling-in-javascript)
 _<sup>https://thecodebarbarian.com/async-await-error-handling-in-javascript</sup>_
@@ -67,7 +67,7 @@ _<sup>http://thecodebarbarian.com/unhandled-promise-rejections-in-node.js</sup>_
 Node.js 6.6.0 added a sporadically useful bug/feature: logging unhandled promise rejections to the console by default. In other words, the below script will print an error to the console:
 ...
 * :calendar: **published on**: 2017-04-04
-* **tags**: [nodejs](../tagged/nodejs.md), [promise](../tagged/promise.md), [error-handling](../tagged/error-handling.md)
+* **tags**: [node.js](../tagged/node.js.md), [promise](../tagged/promise.md), [error-handling](../tagged/error-handling.md)
 ---
 #### [errlog](https://github.com/snwfdhmp/errlog)
 _<sup>https://github.com/snwfdhmp/errlog</sup>_

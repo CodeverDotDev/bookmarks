@@ -22,5 +22,5 @@ Semver is a popular way of versioning applications and software libraries. Howev
 _<sup>https://docs.npmjs.com/getting-started/semantic-versioning</sup>_
 
 Video and text explaining how Npm Versioning works...
-* **tags**: [npm](../tagged/npm.md), [nodejs](../tagged/nodejs.md), [semserver](../tagged/semserver.md)
+* **tags**: [npm](../tagged/npm.md), [node.js](../tagged/node.js.md), [semserver](../tagged/semserver.md)
 ---

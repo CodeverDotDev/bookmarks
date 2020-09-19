@@ -13,7 +13,7 @@ Document your code and keep a live and reusable OpenAPI (Swagger) specification.
 _<sup>https://github.com/swagger-api/swagger-node</sup>_
 
 The `swagger` module provides tools for designing and building Swagger-compliant APIs entirely in Node.js. It integrates with popular Node.js servers, including Express, Hapi, Restify, and Sails, as w...
-* **tags**: [swagger](../tagged/swagger.md), [openapi](../tagged/openapi.md), [nodejs](../tagged/nodejs.md)
+* **tags**: [swagger](../tagged/swagger.md), [openapi](../tagged/openapi.md), [node.js](../tagged/node.js.md)
 * :octocat: **[source code](https://github.com/swagger-api/swagger-node)**
 ---
 #### [Swagger Converter Home Page](https://converter.swagger.io/)
@@ -44,14 +44,14 @@ _<sup>https://blog.cloudboost.io/adding-swagger-to-existing-node-js-project-92a6
 
 Today, almost every application has to be connected and to share data with other applications. The best way to do that is through APIs. For a long time there hasn’t been any industry standard for…
 * :calendar: **published on**: 2017-09-22
-* **tags**: [swagger](../tagged/swagger.md), [nodejs](../tagged/nodejs.md), [expressjs](../tagged/expressjs.md)
+* **tags**: [swagger](../tagged/swagger.md), [node.js](../tagged/node.js.md), [expressjs](../tagged/expressjs.md)
 * :octocat: **[source code](https://github.com/GenFirst/swagger-to-existing-nodejs-project)**
 ---
 #### [Swagger UI Express](https://www.npmjs.com/package/swagger-ui-express)
 _<sup>https://www.npmjs.com/package/swagger-ui-express</sup>_
 
 Adds middleware to your express app to serve the Swagger UI bound to your Swagger document. This acts as living documentation for your API hosted from within your ap
-* **tags**: [swagger](../tagged/swagger.md), [nodejs](../tagged/nodejs.md), [expressjs](../tagged/expressjs.md), [openapi](../tagged/openapi.md)
+* **tags**: [swagger](../tagged/swagger.md), [node.js](../tagged/node.js.md), [expressjs](../tagged/expressjs.md), [openapi](../tagged/openapi.md)
 * :octocat: **[source code](https://github.com/scottie1984/swagger-ui-express)**
 ---
 #### [Swagger Editor Home Page](https://editor.swagger.io/)

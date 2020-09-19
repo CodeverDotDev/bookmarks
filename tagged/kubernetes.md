@@ -19,14 +19,14 @@ One of the coolest facets of Kubernetes is the declarative deployment descriptor
 _<sup>https://github.com/gajus/lightship</sup>_
 
 Abstracts readiness/ liveness checks and graceful shutdown of Node.js services running in Kubernetes. - gajus/lightship
-* **tags**: [nodejs](../tagged/nodejs.md), [kubernetes](../tagged/kubernetes.md), [healthcheck](../tagged/healthcheck.md)
+* **tags**: [node.js](../tagged/node.js.md), [kubernetes](../tagged/kubernetes.md), [healthcheck](../tagged/healthcheck.md)
 * :octocat: **[source code](https://github.com/gajus/lightship)**
 ---
 #### [GitHub - godaddy/terminus Home Page](https://github.com/godaddy/terminus)
 _<sup>https://github.com/godaddy/terminus</sup>_
 
 Graceful shutdown and Kubernetes readiness / liveness checks for any Node.js HTTP applications - godaddy/terminus
-* **tags**: [nodejs](../tagged/nodejs.md), [kubernetes](../tagged/kubernetes.md), [healthcheck](../tagged/healthcheck.md)
+* **tags**: [node.js](../tagged/node.js.md), [kubernetes](../tagged/kubernetes.md), [healthcheck](../tagged/healthcheck.md)
 * :octocat: **[source code](https://github.com/godaddy/terminus)**
 ---
 #### [Secrets - Kubernetes](https://kubernetes.io/docs/concepts/configuration/secret/)
@@ -4214,7 +4214,7 @@ _<sup>https://www.youtube.com/watch?v=A_BYZ7hHWXE</sup>_
 
 This video is showing how to deploy Keycloak on Kubernetes as well as deploying and securing a HTML5 frontend application and a Node.js backend service and securing these with Keycloak. Video realised...
 * :calendar: **published on**: 2018-06-27
-* **tags**: [keycloak](../tagged/keycloak.md), [kubernetes](../tagged/kubernetes.md), [php](../tagged/php.md), [minikube](../tagged/minikube.md), [nodejs](../tagged/nodejs.md)
+* **tags**: [keycloak](../tagged/keycloak.md), [kubernetes](../tagged/kubernetes.md), [php](../tagged/php.md), [minikube](../tagged/minikube.md), [node.js](../tagged/node.js.md)
 * :octocat: **[source code](https://github.com/stianst/demo-kubernetes)**
 ---
 #### [Continuous Development with Java and Kubernetes - DEV Community 👩‍💻👨‍💻](https://dev.to/pozo/continuous-development-with-java-and-kubernetes-3d08)
@@ -4283,7 +4283,7 @@ _<sup>https://nemethgergely.com/using-kubernetes-for-local-development/</sup>_
 
 This article walks you through how you can develop an application locally using Kubernetes
 * :calendar: **published on**: 2018-07-03
-* **tags**: [kubernetes](../tagged/kubernetes.md), [skaffold](../tagged/skaffold.md), [nodejs](../tagged/nodejs.md)
+* **tags**: [kubernetes](../tagged/kubernetes.md), [skaffold](../tagged/skaffold.md), [node.js](../tagged/node.js.md)
 * :octocat: **[source code](https://github.com/gergelyke/skaffold-nodejs-example)**
 ---
 #### [Optimising Kubernetes deployments with Helm by Erwin de Gier - YouTube [16m]](https://www.youtube.com/watch?v=TXZBuBQpm-Q)
@@ -4359,7 +4359,7 @@ _<sup>https://nodesource.com/blog/orchestrating-nodejs-containers-with-kubernete
 
 Look under the Kubernetes hood to learn more about how K8s automates orchestration of Node.js application containers. 
 * :calendar: **published on**: 2018-05-07
-* **tags**: [nodejs](../tagged/nodejs.md), [kubernetes](../tagged/kubernetes.md)
+* **tags**: [node.js](../tagged/node.js.md), [kubernetes](../tagged/kubernetes.md)
 ---
 #### [What is Kubernetes & How to Get Started With It ](https://blog.risingstack.com/what-is-kubernetes-how-to-get-started/)
 _<sup>https://blog.risingstack.com/what-is-kubernetes-how-to-get-started/</sup>_

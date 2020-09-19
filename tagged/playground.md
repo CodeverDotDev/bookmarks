@@ -2,6 +2,15 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/playground](https://www.bookmarks.dev/tagged/playground)</sup></sup>_
 ---
+#### [Explain Git with D3](http://onlywei.github.io/explain-git-with-d3/)
+_<sup>http://onlywei.github.io/explain-git-with-d3/</sup>_
+
+This website is designed to help you understand some basic git concepts visually. This is my first attempt at using both SVG and D3. I hope it is helpful to you.
+
+Adding/staging your files for commit ...
+* **tags**: [git](../tagged/git.md), [playground](../tagged/playground.md), [d3](../tagged/d3.md), [beginners](../tagged/beginners.md)
+* :octocat: **[source code](https://github.com/onlywei/explain-git-with-d3)**
+---
 #### [CodePen](https://reactjs.org/redirect-to-codepen/hello-world)
 _<sup>https://reactjs.org/redirect-to-codepen/hello-world</sup>_
 

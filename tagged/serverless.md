@@ -115,7 +115,7 @@ Curated list of resources related to serverless computing and serverless archite
 _<sup>https://claudiajs.com/</sup>_
 
 Deploy Node.js projects to AWS Lambda and API Gateway easily.
-* **tags**: [nodejs](../tagged/nodejs.md), [aws](../tagged/aws.md), [serverless](../tagged/serverless.md)
+* **tags**: [node.js](../tagged/node.js.md), [aws](../tagged/aws.md), [serverless](../tagged/serverless.md)
 * :octocat: **[source code](https://github.com/claudiajs/claudia)**
 ---
 #### [GitHub - anaibol/awesome-serverless](https://github.com/anaibol/awesome-serverless#readme)
@@ -130,5 +130,5 @@ _<sup>https://blog.sourcerer.io/full-guide-to-developing-rest-apis-with-aws-api-
 
 In this article we’ll explore using AWS Lambda to develop a service using Node.js. Amazon recently announced an upgrade where developers using Lambda can now use an 8.10 runtime, which lets them use `...
 * :calendar: **published on**: 2018-05-09
-* **tags**: [cloud](../tagged/cloud.md), [serverless](../tagged/serverless.md), [nodejs](../tagged/nodejs.md), [aws](../tagged/aws.md)
+* **tags**: [cloud](../tagged/cloud.md), [serverless](../tagged/serverless.md), [node.js](../tagged/node.js.md), [aws](../tagged/aws.md)
 ---

@@ -7,7 +7,7 @@ _<sup>https://www.youtube.com/watch?&v=XV-u_Ow47s0</sup>_
 
 When a customer comes to us with a complaint that their code is running slowly, our first question has become, "Are you using Promises?". When they predictably tell us yes, our response has become, "Y...
 * :calendar: **published on**: 2019-12-19
-* **tags**: [nodejs](../tagged/nodejs.md), [promises](../tagged/promises.md), [event-loop](../tagged/event-loop.md)
+* **tags**: [node.js](../tagged/node.js.md), [promises](../tagged/promises.md), [event-loop](../tagged/event-loop.md)
 ---
 #### [toniov/p-iteration: Utilities that make array iteration easy when using async/await or Promises](https://github.com/toniov/p-iteration)
 _<sup>https://github.com/toniov/p-iteration</sup>_
@@ -25,49 +25,49 @@ Apart from being new and shiny, Promises are a great way to clean up your code, 
 _<sup>https://github.com/petkaantonov/bluebird</sup>_
 
 Promise library with focus on innovative features and performance.
-* **tags**: [nodejs](../tagged/nodejs.md), [control-flow](../tagged/control-flow.md), [promises](../tagged/promises.md)
+* **tags**: [node.js](../tagged/node.js.md), [control-flow](../tagged/control-flow.md), [promises](../tagged/promises.md)
 * :octocat: **[source code](https://github.com/petkaantonov/bluebird)**
 ---
 #### [pify](https://github.com/sindresorhus/pify)
 _<sup>https://github.com/sindresorhus/pify</sup>_
 
 Promisify a callback-style function.
-* **tags**: [nodejs](../tagged/nodejs.md), [control-flow](../tagged/control-flow.md), [promises](../tagged/promises.md)
+* **tags**: [node.js](../tagged/node.js.md), [control-flow](../tagged/control-flow.md), [promises](../tagged/promises.md)
 * :octocat: **[source code](https://github.com/sindresorhus/pify)**
 ---
 #### [delay](https://github.com/sindresorhus/delay)
 _<sup>https://github.com/sindresorhus/delay</sup>_
 
 Delay a promise a specified amount of time.
-* **tags**: [nodejs](../tagged/nodejs.md), [control-flow](../tagged/control-flow.md), [promises](../tagged/promises.md)
+* **tags**: [node.js](../tagged/node.js.md), [control-flow](../tagged/control-flow.md), [promises](../tagged/promises.md)
 * :octocat: **[source code](https://github.com/sindresorhus/delay)**
 ---
 #### [promise-memoize](https://github.com/nodeca/promise-memoize)
 _<sup>https://github.com/nodeca/promise-memoize</sup>_
 
 Memoize promise-returning functions, with expire and prefetch.
-* **tags**: [nodejs](../tagged/nodejs.md), [control-flow](../tagged/control-flow.md), [promises](../tagged/promises.md)
+* **tags**: [node.js](../tagged/node.js.md), [control-flow](../tagged/control-flow.md), [promises](../tagged/promises.md)
 * :octocat: **[source code](https://github.com/nodeca/promise-memoize)**
 ---
 #### [valvelet](https://github.com/lpinca/valvelet)
 _<sup>https://github.com/lpinca/valvelet</sup>_
 
 Limit the execution rate of a promise-returning function.
-* **tags**: [nodejs](../tagged/nodejs.md), [control-flow](../tagged/control-flow.md), [promises](../tagged/promises.md)
+* **tags**: [node.js](../tagged/node.js.md), [control-flow](../tagged/control-flow.md), [promises](../tagged/promises.md)
 * :octocat: **[source code](https://github.com/lpinca/valvelet)**
 ---
 #### [p-map](https://github.com/sindresorhus/p-map)
 _<sup>https://github.com/sindresorhus/p-map</sup>_
 
 Map over promises concurrently.
-* **tags**: [nodejs](../tagged/nodejs.md), [control-flow](../tagged/control-flow.md), [promises](../tagged/promises.md)
+* **tags**: [node.js](../tagged/node.js.md), [control-flow](../tagged/control-flow.md), [promises](../tagged/promises.md)
 * :octocat: **[source code](https://github.com/sindresorhus/p-map)**
 ---
 #### [More…](https://github.com/sindresorhus/promise-fun)
 _<sup>https://github.com/sindresorhus/promise-fun</sup>_
 
 Promise packages, patterns, chat, and tutorials. Contribute to sindresorhus/promise-fun development by creating an account on GitHub.
-* **tags**: [nodejs](../tagged/nodejs.md), [control-flow](../tagged/control-flow.md), [promises](../tagged/promises.md)
+* **tags**: [node.js](../tagged/node.js.md), [control-flow](../tagged/control-flow.md), [promises](../tagged/promises.md)
 * :octocat: **[source code](https://github.com/sindresorhus/promise-fun)**
 ---
 #### [awesome-promises](https://github.com/wbinnssmith/awesome-promises#readme)
@@ -84,6 +84,6 @@ Extends Chai with assertions about promises.
 
 You can write code that expresses what you really mean:
 
-* **tags**: [nodejs](../tagged/nodejs.md), [chai](../tagged/chai.md), [unit-testing](../tagged/unit-testing.md), [promises](../tagged/promises.md)
+* **tags**: [node.js](../tagged/node.js.md), [chai](../tagged/chai.md), [unit-testing](../tagged/unit-testing.md), [promises](../tagged/promises.md)
 * :octocat: **[source code](https://github.com/domenic/chai-as-promised)**
 ---

@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/java-8](https://www.bookmarks.dev/tagged/java-8)</sup></sup>_
 ---
+#### [winterbe/java8-tutorial: Modern Java - A Guide to Java 8](https://github.com/winterbe/java8-tutorial#lambda-expressions)
+_<sup>https://github.com/winterbe/java8-tutorial#lambda-expressions</sup>_
+
+Welcome to my introduction to Java 8. This tutorial guides you step by step through all new language features. Backed by short and simple code samples you'll learn how to use default interface methods...
+* **tags**: [java](../tagged/java.md), [java-8](../tagged/java-8.md)
+* :octocat: **[source code](https://github.com/winterbe/java8-tutorial#lambda-expressions)**
+---
 #### [Bean Validation 2.0 - you’ve put your annotations everywhere! by Gunnar Morling - 14min](https://www.youtube.com/watch?v=GdKuxmtA65I)
 _<sup>https://www.youtube.com/watch?v=GdKuxmtA65I</sup>_
 

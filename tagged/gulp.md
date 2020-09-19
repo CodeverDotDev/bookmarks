@@ -13,5 +13,5 @@ _<sup>https://github.com/alferov/awesome-gulp#readme</sup>_
 _<sup>https://github.com/eirslett/frontend-maven-plugin</sup>_
 
 "Maven-node-grunt-gulp-npm-node-plugin to end all maven-node-grunt-gulp-npm-plugins." A Maven plugin that downloads/installs Node and NPM locally, runs NPM install, Grunt, Gulp and/or Karma.
-* **tags**: [maven](../tagged/maven.md), [gulp](../tagged/gulp.md), [nodejs](../tagged/nodejs.md), [npm](../tagged/npm.md), [maven-plugin](../tagged/maven-plugin.md)
+* **tags**: [maven](../tagged/maven.md), [gulp](../tagged/gulp.md), [node.js](../tagged/node.js.md), [npm](../tagged/npm.md), [maven-plugin](../tagged/maven-plugin.md)
 ---

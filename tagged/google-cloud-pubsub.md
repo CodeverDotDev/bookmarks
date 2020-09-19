@@ -19,7 +19,7 @@ To develop and test your application locally, you can use the Cloud Pub/Sub emul
 _<sup>https://cloud.google.com/functions/docs/tutorials/pubsub</sup>_
 
 This simple tutorial demonstrates writing, deploying, and triggering a [Background Cloud Function](https://cloud.google.com/functions/docs/writing/background) with a [Cloud Pub/Sub trigger](https://cl...
-* **tags**: [google-cloud-functions](../tagged/google-cloud-functions.md), [nodejs](../tagged/nodejs.md), [python](../tagged/python.md), [go](../tagged/go.md), [google-cloud-pubsub](../tagged/google-cloud-pubsub.md)
+* **tags**: [google-cloud-functions](../tagged/google-cloud-functions.md), [node.js](../tagged/node.js.md), [python](../tagged/python.md), [go](../tagged/go.md), [google-cloud-pubsub](../tagged/google-cloud-pubsub.md)
 * :octocat: **[source code](https://github.com/GoogleCloudPlatform/nodejs-docs-samples/tree/master/functions/helloworld)**
 ---
 #### [deploymentmanager-samples/google/resource-snippets at master](https://github.com/GoogleCloudPlatform/deploymentmanager-samples/tree/master/google/resource-snippets)

@@ -6,7 +6,7 @@ _<sup><sup>[www.bookmarks.dev/tagged/openid-connect](https://www.bookmarks.dev/t
 _<sup>https://github.com/panva/node-openid-client</sup>_
 
 OpenID Certified™ Relying Party (RP, Client) implementation for Node.js. Wide feature coverage including optional specifications and passport strategy is included. - panva/node-openid-client
-* **tags**: [openid-connect](../tagged/openid-connect.md), [nodejs](../tagged/nodejs.md)
+* **tags**: [openid-connect](../tagged/openid-connect.md), [node.js](../tagged/node.js.md)
 ---
 #### [OAuth 2.0 and OpenID Connect (in plain English) - YouTube](https://www.youtube.com/watch?v=996OiexHze0)
 _<sup>https://www.youtube.com/watch?v=996OiexHze0</sup>_

@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/reactjs](https://www.bookmarks.dev/tagged/reactjs)</sup></sup>_
 ---
+#### [gothinkster/realworld: "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅](https://github.com/gothinkster/realworld)
+_<sup>https://github.com/gothinkster/realworld</sup>_
+
+"The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
+* **tags**: [demo](../tagged/demo.md), [django](../tagged/django.md), [node.js](../tagged/node.js.md), [reactjs](../tagged/reactjs.md), [angular](../tagged/angular.md)
+* :octocat: **[source code](https://github.com/gothinkster/realworld)**
+---
 #### [Bit.dev](https://bit.dev/)
 _<sup>https://bit.dev/</sup>_
 
@@ -29,7 +36,7 @@ I recently started working on a React project and was looking to add authenticat
 _<sup>https://www.creative-tim.com/</sup>_
 
 UI Kits, Templates and Dashboards built on top of Bootstrap, Vue.js, React, Angular, Node.js and Laravel. 
-* **tags**: [user-experience](../tagged/user-experience.md), [dashboard](../tagged/dashboard.md), [angular](../tagged/angular.md), [bootstrap](../tagged/bootstrap.md), [vuejs](../tagged/vuejs.md), [reactjs](../tagged/reactjs.md), [nodejs](../tagged/nodejs.md)
+* **tags**: [user-experience](../tagged/user-experience.md), [dashboard](../tagged/dashboard.md), [angular](../tagged/angular.md), [bootstrap](../tagged/bootstrap.md), [vuejs](../tagged/vuejs.md), [reactjs](../tagged/reactjs.md), [node.js](../tagged/node.js.md)
 ---
 #### [A cleaner multi-stage continuous deployment on Kubernetes of a Create React App with kustomize, helm and skaffold – CodepediaOrg](https://www.codepedia.org/ama/a-cleaner-multi-stage-deployment-on-kubernetes-of-a-create-react-app-with-kustomize-helm-and-skaffold)
 _<sup>https://www.codepedia.org/ama/a-cleaner-multi-stage-deployment-on-kubernetes-of-a-create-react-app-w...</sup>_
@@ -3191,7 +3198,7 @@ _<sup>https://auth0.com/blog/react-tutorial-building-and-securing-your-first-app
 
 Introduction to React and its components and routers. Tutorial of how to build a simple Q&A React app - secure backend API with Node.js and Express.
 * :calendar: **published on**: 2018-08-28
-* **tags**: [reactjs](../tagged/reactjs.md), [react-router](../tagged/react-router.md), [nodejs](../tagged/nodejs.md), [expressjs](../tagged/expressjs.md), [axios](../tagged/axios.md), [authentication](../tagged/authentication.md), [security](../tagged/security.md)
+* **tags**: [reactjs](../tagged/reactjs.md), [react-router](../tagged/react-router.md), [node.js](../tagged/node.js.md), [expressjs](../tagged/expressjs.md), [axios](../tagged/axios.md), [authentication](../tagged/authentication.md), [security](../tagged/security.md)
 * :octocat: **[source code](https://github.com/auth0-blog/react-tutorial)**
 ---
 #### [React.js Boilerplate](https://www.reactboilerplate.com/)
@@ -3316,7 +3323,7 @@ _<sup>https://medium.com/crowdbotics/deploy-a-mern-stack-app-on-heroku-b0c255744
 
 In this article, I will describe how to take an existing Web Application that is build using MongoDB, ExpressJS, Node.js, and React (often called as MERN stack) on a deployment service like Heroku
 * :calendar: **published on**: 2018-10-12
-* **tags**: [reactjs](../tagged/reactjs.md), [mern](../tagged/mern.md), [nodejs](../tagged/nodejs.md), [mongodb](../tagged/mongodb.md), [expressjs](../tagged/expressjs.md)
+* **tags**: [reactjs](../tagged/reactjs.md), [mern](../tagged/mern.md), [node.js](../tagged/node.js.md), [mongodb](../tagged/mongodb.md), [expressjs](../tagged/expressjs.md)
 * :octocat: **[source code](https://github.com/amandeepmittal/deploy-mern-on-heroku)**
 ---
 #### [React Native at Airbnb – Airbnb Engineering & Data Science – Medium](https://medium.com/airbnb-engineering/react-native-at-airbnb-f95aa460be1c)
@@ -3331,7 +3338,7 @@ _<sup>https://itnext.io/building-a-node-js-websocket-chat-app-with-socket-io-and
 
 In this tutorial we are going to build a simple chat app based on WebSockets with socket.io and React.
 * :calendar: **published on**: 2018-02-22
-* **tags**: [nodejs](../tagged/nodejs.md), [reactjs](../tagged/reactjs.md), [websocket](../tagged/websocket.md)
+* **tags**: [node.js](../tagged/node.js.md), [reactjs](../tagged/reactjs.md), [websocket](../tagged/websocket.md)
 * :octocat: **[source code](https://github.com/justadudewhohacks/websocket-chat)**
 ---
 #### [Dan Abramov - The Melting Pot of JavaScript - YouTube](https://www.youtube.com/watch?v=G39lKaONAlA)

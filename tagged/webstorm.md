@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/webstorm](https://www.bookmarks.dev/tagged/webstorm)</sup></sup>_
 ---
+#### [Troubleshooting · Jest](https://jestjs.io/docs/en/troubleshooting)
+_<sup>https://jestjs.io/docs/en/troubleshooting</sup>_
+
+Uh oh, something went wrong? Use this guide to resolve issues with Jest.
+* **tags**: [jest](../tagged/jest.md), [troubleshooting](../tagged/troubleshooting.md), [debugging](../tagged/debugging.md), [testing](../tagged/testing.md), [intellij](../tagged/intellij.md), [vscode](../tagged/vscode.md), [webstorm](../tagged/webstorm.md)
+---
 #### [Open in terminal :: JetBrains Plugin Repository](https://plugins.jetbrains.com/plugin/7817-open-in-terminal)
 _<sup>https://plugins.jetbrains.com/plugin/7817-open-in-terminal</sup>_
 
@@ -26,7 +32,7 @@ _<sup>https://blog.jetbrains.com/webstorm/2017/09/debugging-node-js-apps-in-webs
 
 Uses ExpressJS to demonstrate how to configure NodeJS debugging in WebStorm
 * :calendar: **published on**: 1987-10-20
-* **tags**: [nodejs](../tagged/nodejs.md), [debugging](../tagged/debugging.md), [webstorm](../tagged/webstorm.md)
+* **tags**: [node.js](../tagged/node.js.md), [debugging](../tagged/debugging.md), [webstorm](../tagged/webstorm.md)
 ---
 #### [GitHub - MrZaYaC/ng2-webstorm-snippets](https://github.com/MrZaYaC/ng2-webstorm-snippets)
 _<sup>https://github.com/MrZaYaC/ng2-webstorm-snippets</sup>_

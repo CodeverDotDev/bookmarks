@@ -9,7 +9,7 @@ The Node.js Event Loop: Not So Single Threaded - Bryan Hughes, Microsoft
 
 You've heard Node.js is single threaded. It's true that all JavaScript executed by Node.js is run in a single thread, but JS i...
 * :calendar: **published on**: 2017-10-16
-* **tags**: [nodejs](../tagged/nodejs.md), [event-loop](../tagged/event-loop.md), [cpp](../tagged/cpp.md)
+* **tags**: [node.js](../tagged/node.js.md), [event-loop](../tagged/event-loop.md), [cpp](../tagged/cpp.md)
 ---
 #### [Codiva.io - Compile and Run Java Online](https://www.codiva.io/)
 _<sup>https://www.codiva.io/</sup>_

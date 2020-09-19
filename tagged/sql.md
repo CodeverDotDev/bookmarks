@@ -117,7 +117,7 @@ UNMAINTAINED - SEE BELOW. A simple and lightweight SQL client desktop with cross
 _<sup>http://knexjs.org/</sup>_
 
 Knex.js is a "batteries included" SQL query builder for Postgres, MSSQL, MySQL, MariaDB, SQLite3, Oracle, and Amazon Redshift designed to be flexible, portable, and fun to use. It features both tradit...
-* **tags**: [orm](../tagged/orm.md), [sql](../tagged/sql.md), [nodejs](../tagged/nodejs.md), [postgresql](../tagged/postgresql.md), [mysql](../tagged/mysql.md)
+* **tags**: [orm](../tagged/orm.md), [sql](../tagged/sql.md), [node.js](../tagged/node.js.md), [postgresql](../tagged/postgresql.md), [mysql](../tagged/mysql.md)
 * :octocat: **[source code](https://github.com/tgriesser/knex)**
 ---
 #### [SQL SELECT DISTINCT | COUNT | ROWS | On one columns | Examples](http://www.dofactory.com/sql/select-distinct)

@@ -35,7 +35,7 @@ This is an example set of prototype images (available under https://hub.docker.c
 _<sup>https://github.com/BretFisher/node-docker-good-defaults</sup>_
 
 Sample node app for Docker examples
-* **tags**: [nodejs](../tagged/nodejs.md), [docker](../tagged/docker.md), [docker-compose](../tagged/docker-compose.md)
+* **tags**: [node.js](../tagged/node.js.md), [docker](../tagged/docker.md), [docker-compose](../tagged/docker-compose.md)
 * :octocat: **[source code](https://github.com/BretFisher/node-docker-good-defaults)**
 ---
 #### [Docker and Node.js Best Practices from Bret Fisher at DockerCon  - 42min](https://www.youtube.com/watch?v=Zgx0o8QjJk4)
@@ -43,7 +43,7 @@ _<sup>https://www.youtube.com/watch?v=Zgx0o8QjJk4</sup>_
 
 My talk on all the best of Docker for Node.js developers and DevOps dealing with Node apps. From DockerCon 2019. 
 * :calendar: **published on**: 2019-06-10
-* **tags**: [docker](../tagged/docker.md), [nodejs](../tagged/nodejs.md), [docker-compose](../tagged/docker-compose.md), [nodemon](../tagged/nodemon.md)
+* **tags**: [docker](../tagged/docker.md), [node.js](../tagged/node.js.md), [docker-compose](../tagged/docker-compose.md), [nodemon](../tagged/nodemon.md)
 * :octocat: **[source code](https://github.com/BretFisher/dockercon19)**
 ---
 #### [Docker compose with Node.js and MongoDB - Hagai Kahana - Medium](https://medium.com/@kahana.hagai/docker-compose-with-node-js-and-mongodb-dbdadab5ce0a)
@@ -53,7 +53,7 @@ This is the first of a series of posts trying to demonstrate real (simple) examp
 
 The purpose of this post is ...
 * :calendar: **published on**: 2017-12-03
-* **tags**: [docker-compose](../tagged/docker-compose.md), [mongodb](../tagged/mongodb.md), [nodejs](../tagged/nodejs.md)
+* **tags**: [docker-compose](../tagged/docker-compose.md), [mongodb](../tagged/mongodb.md), [node.js](../tagged/node.js.md)
 * :octocat: **[source code](https://github.com/hagaik/easy-node-authentication)**
 ---
 #### [Piggy Metrics](https://piggymetrics.tk/)
@@ -126,7 +126,7 @@ kompose is a tool to help users familiar with docker-compose move to Kubernetes.
 _<sup>https://github.com/dockersamples/example-voting-app</sup>_
 
 Example Docker Compose app. A simple distributed application running across multiple Docker containers.
-* **tags**: [docker](../tagged/docker.md), [docker-compose](../tagged/docker-compose.md), [python](../tagged/python.md), [nodejs](../tagged/nodejs.md), [redis](../tagged/redis.md)
+* **tags**: [docker](../tagged/docker.md), [docker-compose](../tagged/docker-compose.md), [python](../tagged/python.md), [node.js](../tagged/node.js.md), [redis](../tagged/redis.md)
 * :octocat: **[source code](https://github.com/dockersamples/example-voting-app)**
 ---
 #### [Building Microservices with Node, Docker and Nginx pt 1 - What is a Microservice?](https://www.youtube.com/watch?v=EsCfPxjmnjo)
@@ -136,7 +136,7 @@ _<sup>https://www.youtube.com/watch?v=EsCfPxjmnjo</sup>_
 * Part 1 What is a Microservice?" I walk you through what a Microservice is and what this 3 part tutorial will show you.
 * Part 2 [Making a micro...
 * :calendar: **published on**: 2017-12-29
-* **tags**: [nodejs](../tagged/nodejs.md), [microservices](../tagged/microservices.md), [docker](../tagged/docker.md), [docker-compose](../tagged/docker-compose.md), [nginx](../tagged/nginx.md)
+* **tags**: [node.js](../tagged/node.js.md), [microservices](../tagged/microservices.md), [docker](../tagged/docker.md), [docker-compose](../tagged/docker-compose.md), [nginx](../tagged/nginx.md)
 * :octocat: **[source code](https://github.com/fChristenson/microservices-example)**
 ---
 #### [Dockerizing a Node.js and MongoDB App – XOOR – Medium](https://medium.com/@xoor/dockerizing-a-node-js-and-mongodb-app-f9d80fdb280e)
@@ -144,6 +144,6 @@ _<sup>https://medium.com/@xoor/dockerizing-a-node-js-and-mongodb-app-f9d80fdb280
 
 Docker has become an extremely popular tool not only among DevOps and Infrastructure people, but also for the daily work of any developer. Simple with examples for beginners.
 * :calendar: **published on**: 2017-10-22
-* **tags**: [docker](../tagged/docker.md), [mongodb](../tagged/mongodb.md), [nodejs](../tagged/nodejs.md), [expressjs](../tagged/expressjs.md), [docker-compose](../tagged/docker-compose.md)
+* **tags**: [docker](../tagged/docker.md), [mongodb](../tagged/mongodb.md), [node.js](../tagged/node.js.md), [expressjs](../tagged/expressjs.md), [docker-compose](../tagged/docker-compose.md)
 * :octocat: **[source code](https://github.com/mpayetta/express-node-docker)**
 ---

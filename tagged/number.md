@@ -62,27 +62,27 @@ A polynomials library for JavaScript
 _<sup>https://github.com/sindresorhus/random-int</sup>_
 
 Generate a random integer.
-* **tags**: [nodejs](../tagged/nodejs.md), [number](../tagged/number.md)
+* **tags**: [node.js](../tagged/node.js.md), [number](../tagged/number.md)
 * :octocat: **[source code](https://github.com/sindresorhus/random-int)**
 ---
 #### [random-float](https://github.com/sindresorhus/random-float)
 _<sup>https://github.com/sindresorhus/random-float</sup>_
 
 Generate a random float.
-* **tags**: [nodejs](../tagged/nodejs.md), [number](../tagged/number.md)
+* **tags**: [node.js](../tagged/node.js.md), [number](../tagged/number.md)
 * :octocat: **[source code](https://github.com/sindresorhus/random-float)**
 ---
 #### [unique-random](https://github.com/sindresorhus/unique-random)
 _<sup>https://github.com/sindresorhus/unique-random</sup>_
 
 Generate random numbers that are consecutively unique.
-* **tags**: [nodejs](../tagged/nodejs.md), [number](../tagged/number.md)
+* **tags**: [node.js](../tagged/node.js.md), [number](../tagged/number.md)
 * :octocat: **[source code](https://github.com/sindresorhus/unique-random)**
 ---
 #### [round-to](https://github.com/sindresorhus/round-to)
 _<sup>https://github.com/sindresorhus/round-to</sup>_
 
 Round a number to a specific number of decimal places: `1.234` → `1.2`.
-* **tags**: [nodejs](../tagged/nodejs.md), [number](../tagged/number.md)
+* **tags**: [node.js](../tagged/node.js.md), [number](../tagged/number.md)
 * :octocat: **[source code](https://github.com/sindresorhus/round-to)**
 ---

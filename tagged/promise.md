@@ -32,7 +32,7 @@ _<sup>http://thecodebarbarian.com/unhandled-promise-rejections-in-node.js</sup>_
 Node.js 6.6.0 added a sporadically useful bug/feature: logging unhandled promise rejections to the console by default. In other words, the below script will print an error to the console:
 ...
 * :calendar: **published on**: 2017-04-04
-* **tags**: [nodejs](../tagged/nodejs.md), [promise](../tagged/promise.md), [error-handling](../tagged/error-handling.md)
+* **tags**: [node.js](../tagged/node.js.md), [promise](../tagged/promise.md), [error-handling](../tagged/error-handling.md)
 ---
 #### [GitHub - domenic/chai-as-promised](https://github.com/domenic/chai-as-promised)
 _<sup>https://github.com/domenic/chai-as-promised</sup>_

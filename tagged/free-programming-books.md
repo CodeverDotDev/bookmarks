@@ -9428,8 +9428,8 @@ _<sup>http://gitimmersion.com</sup>_
 #### [Git From The Bottom Up](https://jwiegley.github.io/git-from-the-bottom-up/)
 _<sup>https://jwiegley.github.io/git-from-the-bottom-up/</sup>_
 
-J. Wiegley
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [git](../tagged/git.md)
+Welcome to the world of Git. I hope this document will help to advance your understanding of this powerful content tracking system, and reveal a bit of the simplicity underlying it — however dizzying ...
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [git](../tagged/git.md), [beginners](../tagged/beginners.md)
 ---
 #### [Git for Computer Scientists](http://eagain.net/articles/git-for-computer-scientists/)
 _<sup>http://eagain.net/articles/git-for-computer-scientists/</sup>_

@@ -61,7 +61,7 @@ Generates static client libs for js.
 _<sup>https://github.com/axios/axios</sup>_
 
 Promise based HTTP client for the browser and node.js - axios/axios
-* **tags**: [rest](../tagged/rest.md), [rest-client](../tagged/rest-client.md), [nodejs](../tagged/nodejs.md)
+* **tags**: [rest](../tagged/rest.md), [rest-client](../tagged/rest-client.md), [node.js](../tagged/node.js.md)
 * :octocat: **[source code](https://github.com/axios/axios)**
 ---
 #### [How To Use Jersey Client Efficiently](https://blogs.oracle.com/japod/how-to-use-jersey-client-efficiently)

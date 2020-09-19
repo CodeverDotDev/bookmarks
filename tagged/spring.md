@@ -2,6 +2,21 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/spring](https://www.bookmarks.dev/tagged/spring)</sup></sup>_
 ---
+#### [Cloud-Native Batch Processing with Spring Batch 4 - Michael Minella - 1h:9min](https://www.youtube.com/watch?v=-Icd-s2JoAw)
+_<sup>https://www.youtube.com/watch?v=-Icd-s2JoAw</sup>_
+
+This talk will explore the latest release of Spring Batch as well as how to utilize it in a modern cloud environment. We will work through building a cloud-native batch process using Spring's stack in...
+* :calendar: **published on**: 2017-12-14
+* **tags**: [spring](../tagged/spring.md), [spring-cloud](../tagged/spring-cloud.md), [scalability](../tagged/scalability.md)
+* :octocat: **[source code](https://github.com/mminella/cloud-native-batch)**
+---
+#### [spring-projects/spring-framework: Spring Framework](https://github.com/spring-projects/spring-framework)
+_<sup>https://github.com/spring-projects/spring-framework</sup>_
+
+This is the home of the Spring Framework: the foundation for all [Spring projects](https://spring.io/projects). Collectively the Spring Framework and the family of Spring projects are often referred t...
+* **tags**: [spring](../tagged/spring.md), [source-code](../tagged/source-code.md)
+* :octocat: **[source code](https://github.com/spring-projects/spring-framework)**
+---
 #### [High Performance Batch Processing - 1h:11min](https://www.youtube.com/watch?v=J6IPlfm7N6w)
 _<sup>https://www.youtube.com/watch?v=J6IPlfm7N6w</sup>_
 
@@ -259,7 +274,7 @@ Rod Johnson, Juergen Hoeller, Keith Donald, Colin Sampaleanu, Rob Harrop, Thomas
 #### [Sharing coding knowledge – CodingpediaOrg](http://www.codingpedia.org/)
 _<sup>http://www.codingpedia.org/</sup>_
 
-* **tags**: [blog](../tagged/blog.md), [java](../tagged/java.md), [nodejs](../tagged/nodejs.md), [angular](../tagged/angular.md), [spring](../tagged/spring.md)
+* **tags**: [blog](../tagged/blog.md), [java](../tagged/java.md), [node.js](../tagged/node.js.md), [angular](../tagged/angular.md), [spring](../tagged/spring.md)
 ---
 #### [Tutorial – REST API design and implementation in Java with Jersey and Spring – CodingpediaOrg](http://www.codingpedia.org/ama/tutorial-rest-api-design-and-implementation-in-java-with-jersey-and-spring/)
 _<sup>http://www.codingpedia.org/ama/tutorial-rest-api-design-and-implementation-in-java-with-jersey-and-s...</sup>_

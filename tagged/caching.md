@@ -168,7 +168,7 @@ When building web applications, performance should always be a top priority. One
 _<sup>https://github.com/BryanDonovan/node-cache-manager</sup>_
 
 Cache module for Node.JS.
-* **tags**: [nodejs](../tagged/nodejs.md), [caching](../tagged/caching.md), [async-await](../tagged/async-await.md)
+* **tags**: [node.js](../tagged/node.js.md), [caching](../tagged/caching.md), [async-await](../tagged/async-await.md)
 ---
 #### [How to build and clear a reference data cache with singleton EJBs and MBeans](http://www.codingpedia.org/ama/how-to-build-and-clear-a-reference-data-cache-with-singleton-ejbs-and-mbeans/)
 _<sup>http://www.codingpedia.org/ama/how-to-build-and-clear-a-reference-data-cache-with-singleton-ejbs-and...</sup>_
@@ -181,7 +181,7 @@ In one of my projects I had a requirement to load reference data from several so
 _<sup>https://github.com/ptarjan/node-cache</sup>_
 
 A simple in-memory cache for node.js
-* **tags**: [nodejs](../tagged/nodejs.md), [caching](../tagged/caching.md)
+* **tags**: [node.js](../tagged/node.js.md), [caching](../tagged/caching.md)
 * :octocat: **[source code](https://github.com/ptarjan/node-cache)**
 ---
 #### [GitHub - ben-manes/caffeine: A high performance caching library for Java 8](https://github.com/ben-manes/caffeine)

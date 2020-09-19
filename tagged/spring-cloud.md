@@ -2,6 +2,14 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/spring-cloud](https://www.bookmarks.dev/tagged/spring-cloud)</sup></sup>_
 ---
+#### [Cloud-Native Batch Processing with Spring Batch 4 - Michael Minella - 1h:9min](https://www.youtube.com/watch?v=-Icd-s2JoAw)
+_<sup>https://www.youtube.com/watch?v=-Icd-s2JoAw</sup>_
+
+This talk will explore the latest release of Spring Batch as well as how to utilize it in a modern cloud environment. We will work through building a cloud-native batch process using Spring's stack in...
+* :calendar: **published on**: 2017-12-14
+* **tags**: [spring](../tagged/spring.md), [spring-cloud](../tagged/spring-cloud.md), [scalability](../tagged/scalability.md)
+* :octocat: **[source code](https://github.com/mminella/cloud-native-batch)**
+---
 #### [Spring - Getting Started  - Messaging with Google Cloud Pub/Sub](https://spring.io/guides/gs/messaging-gcp-pubsub/)
 _<sup>https://spring.io/guides/gs/messaging-gcp-pubsub/</sup>_
 

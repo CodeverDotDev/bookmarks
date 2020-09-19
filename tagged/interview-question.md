@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/interview-question](https://www.bookmarks.dev/tagged/interview-question)</sup></sup>_
 ---
+#### [kdn251/interviews: Everything you need to know to get the job.](https://github.com/kdn251/interviews)
+_<sup>https://github.com/kdn251/interviews</sup>_
+
+Your personal guide to Software Engineering technical interviews. 
+* **tags**: [java](../tagged/java.md), [interview-question](../tagged/interview-question.md)
+* :octocat: **[source code](https://github.com/kdn251/interviews)**
+---
 #### [Master the JavaScript Interview: What is a Pure Function?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976)
 _<sup>https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076be...</sup>_
 

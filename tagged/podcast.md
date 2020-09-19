@@ -299,7 +299,7 @@ ShopTalk is a podcast about front end web design, development and UX. Each week 
 _<sup>http://nodeup.com/</sup>_
 
 NodeUp is a podcast about Node.js
-* **tags**: [nodejs](../tagged/nodejs.md), [podcast](../tagged/podcast.md)
+* **tags**: [node.js](../tagged/node.js.md), [podcast](../tagged/podcast.md)
 ---
 #### [Bootstrapped – 25+ Years of Software Bootstrapping Experience](http://bootstrapped.fm/)
 _<sup>http://bootstrapped.fm/</sup>_

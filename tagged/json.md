@@ -2,6 +2,16 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/json](https://www.bookmarks.dev/tagged/json)</sup></sup>_
 ---
+#### [Rest API Testing With JMeter (Step by Step Guide) - Jmeter - OctoPerf](https://octoperf.com/blog/2018/04/23/jmeter-rest-api-testing/)
+_<sup>https://octoperf.com/blog/2018/04/23/jmeter-rest-api-testing/</sup>_
+
+Test a Json Rest API through a concrete example, [OctoPerf’s Json Rest API](https://api.octoperf.com/swagger-ui.html).
+
+And this guide will completely get you through the following knowledge:
+* Handle...
+* :calendar: **published on**: 2018-04-23
+* **tags**: [jmeter](../tagged/jmeter.md), [api](../tagged/api.md), [testing](../tagged/testing.md), [rest](../tagged/rest.md), [json](../tagged/json.md)
+---
 #### [Wiremock Home Page](http://wiremock.org/)
 _<sup>http://wiremock.org/</sup>_
 
@@ -454,7 +464,7 @@ jq is a lightweight and flexible command-line JSON processor.
 _<sup>https://github.com/Keyang/node-csvtojson</sup>_
 
 Blazing fast and Comprehensive CSV Parser for Node.JS / Browser / Command Line.  - Keyang/node-csvtojson
-* **tags**: [nodejs](../tagged/nodejs.md), [csv](../tagged/csv.md), [json](../tagged/json.md)
+* **tags**: [node.js](../tagged/node.js.md), [csv](../tagged/csv.md), [json](../tagged/json.md)
 * :octocat: **[source code](https://github.com/Keyang/node-csvtojson)**
 ---
 #### [How To Serialize Enums as JSON Objects with Jackson](https://www.baeldung.com/jackson-serialize-enums)

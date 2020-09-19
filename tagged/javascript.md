@@ -2,6 +2,40 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/javascript](https://www.bookmarks.dev/tagged/javascript)</sup></sup>_
 ---
+#### [In depth: Microtasks and the JavaScript runtime environment](https://developer.mozilla.org/en-US/docs/Web/API/HTML_DOM_API/Microtask_guide/In_depth)
+_<sup>https://developer.mozilla.org/en-US/docs/Web/API/HTML_DOM_API/Microtask_guide/In_depth</sup>_
+
+When debugging or, possibly, when trying to decide upon the best approach to solving a problem around timing and scheduling of tasks and microtasks, there are things about how the JavaScript runtime o...
+* **tags**: [javascript](../tagged/javascript.md), [web-api](../tagged/web-api.md)
+---
+#### [Tasks, microtasks, queues and schedules](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/)
+_<sup>https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/</sup>_
+
+When I told my colleague Matt Gaunt I was thinking of writing a piece on microtask queueing and execution within the browser's event loop, he said "I'll be honest with you Jake, I'm not going to read ...
+* :calendar: **published on**: 2015-09-17
+* **tags**: [javascript](../tagged/javascript.md), [event-loop](../tagged/event-loop.md)
+---
+#### [GitHub - TheAlgorithms/Javascript](https://github.com/TheAlgorithms/Javascript)
+_<sup>https://github.com/TheAlgorithms/Javascript</sup>_
+
+A repository for All algorithms implemented in Javascript (for educational purposes only) - TheAlgorithms/Javascript
+* **tags**: [javascript](../tagged/javascript.md), [algorithms](../tagged/algorithms.md)
+* :octocat: **[source code](https://github.com/TheAlgorithms/Javascript)**
+---
+#### [GitHub - trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+_<sup>https://github.com/trekhleb/javascript-algorithms</sup>_
+
+📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+* **tags**: [javascript](../tagged/javascript.md), [algorithms](../tagged/algorithms.md)
+* :octocat: **[source code](https://github.com/trekhleb/javascript-algorithms)**
+---
+#### [GitHub - aFarkas/lazysizes](https://github.com/aFarkas/lazysizes)
+_<sup>https://github.com/aFarkas/lazysizes</sup>_
+
+High performance and SEO friendly lazy loader for images (responsive and normal), iframes and more, that detects any visibility changes triggered through user interaction, CSS or JavaScript without co...
+* **tags**: [performance](../tagged/performance.md), [web-app](../tagged/web-app.md), [javascript](../tagged/javascript.md)
+* :octocat: **[source code](https://github.com/aFarkas/lazysizes)**
+---
 #### [GitHub - thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)
 _<sup>https://github.com/thedaviddias/Front-End-Checklist</sup>_
 
@@ -34,13 +68,13 @@ _<sup>https://www.youtube.com/watch?v=oPo4EQmkjvY</sup>_
 Samer Buna
 Presented at ForwardJS, July 26 & 27, 2017
 * :calendar: **published on**: 2017-09-06
-* **tags**: [javascript](../tagged/javascript.md), [nodejs](../tagged/nodejs.md)
+* **tags**: [javascript](../tagged/javascript.md), [node.js](../tagged/node.js.md)
 ---
 #### [Saving and scraping a website with Puppeteer](https://fettblog.eu/scraping-with-puppeteer/)
 _<sup>https://fettblog.eu/scraping-with-puppeteer/</sup>_
 
 For some of my performance audits I need an exact copy of the webpage as it is served by my clients infrastructure. In some cases, it can be hard to get to the actual artefact. So it’s easier to fetch...
-* **tags**: [javascript](../tagged/javascript.md), [nodejs](../tagged/nodejs.md), [puppeteer](../tagged/puppeteer.md)
+* **tags**: [javascript](../tagged/javascript.md), [node.js](../tagged/node.js.md), [puppeteer](../tagged/puppeteer.md)
 ---
 #### [How to generate PDF of a website page with Node.js - JavaScript In Plain English - Medium](https://medium.com/javascript-in-plain-english/generate-best-quality-pdf-of-any-webpage-html-page-in-nodejs-7b1223e1a3ac)
 _<sup>https://medium.com/javascript-in-plain-english/generate-best-quality-pdf-of-any-webpage-html-page-in...</sup>_
@@ -48,7 +82,7 @@ _<sup>https://medium.com/javascript-in-plain-english/generate-best-quality-pdf-o
 In this article, we will see how easy it is to generate PDF of any webpage using Nodejs and send the generated pdf back to the client side application.
 We will use puppeteer tool which is a headless c...
 * :calendar: **published on**: 2020-01-21
-* **tags**: [javascript](../tagged/javascript.md), [puppeteer](../tagged/puppeteer.md), [nodejs](../tagged/nodejs.md)
+* **tags**: [javascript](../tagged/javascript.md), [puppeteer](../tagged/puppeteer.md), [node.js](../tagged/node.js.md)
 * :octocat: **[source code](https://github.com/myogeshchavan97/pdf_generation_puppeteer)**
 ---
 #### [Stranger Things, JavaScript Edition](https://livecodestream.dev/post/2020-06-03-stranger-things-javascript-edition/)
@@ -131,7 +165,7 @@ _<sup>https://www.youtube.com/watch?v=cCOL7MC4Pl0</sup>_
 
 Have you ever had a bug where things were happening in the wrong order, or particular style changes were being ignored? Ever fixed that bug by wrapping a section of code in a `setTimeout`? Ever found ...
 * :calendar: **published on**: 2018-02-09
-* **tags**: [JavaScript](../tagged/JavaScript.md), [Event-Loop](../tagged/Event-Loop.md), [Web-Development](../tagged/Web-Development.md), [Browser](../tagged/Browser.md)
+* **tags**: [javascript](../tagged/javascript.md), [event-loop](../tagged/event-loop.md), [web-development](../tagged/web-development.md), [browser](../tagged/browser.md)
 ---
 #### [Using files from web applications - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/File/Using_files_from_web_applications)
 _<sup>https://developer.mozilla.org/en-US/docs/Web/API/File/Using_files_from_web_applications</sup>_
@@ -265,7 +299,7 @@ Features:
 
 - Support for version 1, 3, 4 and 5 UUIDs
 - Cross-platform: CommonJS build for Node.js and [ECMAScript Modu...
-* **tags**: [javascript](../tagged/javascript.md), [nodejs](../tagged/nodejs.md)
+* **tags**: [javascript](../tagged/javascript.md), [node.js](../tagged/node.js.md)
 * :octocat: **[source code](https://github.com/uuidjs/uuid)**
 ---
 #### [JavaScript Resources | JSArray.com](https://jsarray.com/)
@@ -421,7 +455,7 @@ _<sup>https://hackernoon.com/how-to-publish-your-website-at-no-costs-u64q31n9?so
 _<sup>https://brainhub.eu/blog/node-js-open-source-projects-2019/</sup>_
 
 Wondering if you missed out on any hot trends and projects this year? See our post and discover the most trending Node.js open source projects of 2019.
-* **tags**: [javascript](../tagged/javascript.md), [node](../tagged/node.md)
+* **tags**: [javascript](../tagged/javascript.md), [node.js](../tagged/node.js.md)
 ---
 #### [How much JavaScript do you need to know to use Node.js?](https://nodejs.dev/how-much-javascript-do-you-need-to-know-to-use-nodejs)
 _<sup>https://nodejs.dev/how-much-javascript-do-you-need-to-know-to-use-nodejs</sup>_
@@ -429,7 +463,7 @@ _<sup>https://nodejs.dev/how-much-javascript-do-you-need-to-know-to-use-nodejs</
 As a beginner, it's hard to get to a point where you are confident enough in your programming abilities.
 
 While learning to code, you might also be confused at where does JavaScript end, and where Nod...
-* **tags**: [javascript](../tagged/javascript.md), [nodejs](../tagged/nodejs.md)
+* **tags**: [javascript](../tagged/javascript.md), [node.js](../tagged/node.js.md)
 ---
 #### [JavaScript Timers - 11min](https://www.youtube.com/watch?v=YmaFAKUFmp0)
 _<sup>https://www.youtube.com/watch?v=YmaFAKUFmp0</sup>_
@@ -444,7 +478,7 @@ _<sup>https://itnext.io/how-javascript-works-in-browser-and-node-ab7d0d09ac2f</s
 
 There are many passionate developers, working on front-end or back-end, devote their life to protect realm of JavaScript. JavaScript is very easy to understand and is a essential part of front-end dev...
 * :calendar: **published on**: 2018-04-23
-* **tags**: [javascript](../tagged/javascript.md), [nodejs](../tagged/nodejs.md), [event-loop](../tagged/event-loop.md)
+* **tags**: [javascript](../tagged/javascript.md), [node.js](../tagged/node.js.md), [event-loop](../tagged/event-loop.md)
 ---
 #### [Loupe](http://latentflip.com/loupe/)
 _<sup>http://latentflip.com/loupe/</sup>_
@@ -516,12 +550,6 @@ _<sup>https://github.com/iamkun/dayjs</sup>_
 * **tags**: [javascript](../tagged/javascript.md), [javascript-frameworks](../tagged/javascript-frameworks.md), [datetime](../tagged/datetime.md)
 * :octocat: **[source code](https://github.com/iamkun/dayjs)**
 ---
-#### [Marak/faker.js home page](https://github.com/marak/Faker.js)
-_<sup>https://github.com/marak/Faker.js</sup>_
-
-generate massive amounts of realistic fake data in Node.js and the browser
-* **tags**: [javascript](../tagged/javascript.md), [javascript-frameworks](../tagged/javascript-frameworks.md), [nodejs](../tagged/nodejs.md)
----
 #### [validatorjs/validator.js: String validation](https://github.com/validatorjs/validator.js)
 _<sup>https://github.com/validatorjs/validator.js</sup>_
 
@@ -533,14 +561,14 @@ A library of string validators and sanitizers.
 _<sup>https://date-fns.org/</sup>_
 
 date-fns provides the most comprehensive yet simple and consistent toolset for manipulating JavaScript dates in a browser & Node.js.
-* **tags**: [javascript](../tagged/javascript.md), [nodejs](../tagged/nodejs.md), [datetime](../tagged/datetime.md)
+* **tags**: [javascript](../tagged/javascript.md), [node.js](../tagged/node.js.md), [datetime](../tagged/datetime.md)
 * :octocat: **[source code](https://github.com/date-fns/date-fns)**
 ---
 #### [Monitoring Node.js: Watch Your Event Loop Lag! - David Hettler 🥨](https://davidhettler.net/blog/event-loop-lag/)
 _<sup>https://davidhettler.net/blog/event-loop-lag/</sup>_
 
 In this blog post you will learn what event loop lag is, how it affects performance and why you should include this metric in your performance monitoring dashboards (if you haven’t already). Event loo...
-* **tags**: [nodejs](../tagged/nodejs.md), [javascript](../tagged/javascript.md), [event-loop](../tagged/event-loop.md)
+* **tags**: [node.js](../tagged/node.js.md), [javascript](../tagged/javascript.md), [event-loop](../tagged/event-loop.md)
 ---
 #### [The Modern JavaScript Tutorial](https://javascript.info/)
 _<sup>https://javascript.info/</sup>_
@@ -561,7 +589,7 @@ _<sup>https://www.youtube.com/watch?v=z6JRlx5NC9E</sup>_
 
 From async-await to ArrayBuffers, the JavaScript language has changes significantly in the decade since Node.js was designed. Deno takes advantage of these developments and incorporate lessons learned...
 * :calendar: **published on**: 2019-04-08
-* **tags**: [nodejs](../tagged/nodejs.md), [javascript](../tagged/javascript.md), [rust](../tagged/rust.md)
+* **tags**: [node.js](../tagged/node.js.md), [javascript](../tagged/javascript.md), [rust](../tagged/rust.md)
 ---
 #### [Regular Expressions - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)
 _<sup>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions</sup>_
@@ -623,7 +651,7 @@ _<sup>http://thecodebarbarian.com/80-20-guide-to-async-await-in-node.js</sup>_
 
 Arguably the biggest new feature in Node.js 7.6.0 is that the much awaited async function keyword is now available without a flag. Callback hell and promise hell are now in the past. But, like Uncle B...
 * :calendar: **published on**: 2017-03-08
-* **tags**: [nodejs](../tagged/nodejs.md), [javascript](../tagged/javascript.md), [async-await](../tagged/async-await.md), [error-handling](../tagged/error-handling.md)
+* **tags**: [node.js](../tagged/node.js.md), [javascript](../tagged/javascript.md), [async-await](../tagged/async-await.md), [error-handling](../tagged/error-handling.md)
 ---
 #### [Async Await Error Handling in JavaScript](https://thecodebarbarian.com/async-await-error-handling-in-javascript)
 _<sup>https://thecodebarbarian.com/async-await-error-handling-in-javascript</sup>_
@@ -655,11 +683,18 @@ A pluggable and configurable linter tool for identifying and reporting on patter
 * **tags**: [javascript](../tagged/javascript.md), [linter](../tagged/linter.md)
 * :octocat: **[source code](https://github.com/eslint/eslint)**
 ---
+#### [GitHub - Marak/faker.js Home Page](https://github.com/marak/Faker.js/)
+_<sup>https://github.com/marak/Faker.js/</sup>_
+
+generate massive amounts of realistic fake data in Node.js and the browser - Marak/faker.js
+* **tags**: [node.js](../tagged/node.js.md), [mocking](../tagged/mocking.md), [testing](../tagged/testing.md), [javascript](../tagged/javascript.md), [fake-data](../tagged/fake-data.md)
+* :octocat: **[source code](https://github.com/marak/Faker.js/)**
+---
 #### [TypeORM Home Page](http://typeorm.io/)
 _<sup>http://typeorm.io/</sup>_
 
 ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms...
-* **tags**: [typeorm](../tagged/typeorm.md), [typescript](../tagged/typescript.md), [javascript](../tagged/javascript.md), [orm](../tagged/orm.md), [mysql](../tagged/mysql.md), [postgresql](../tagged/postgresql.md), [nodejs](../tagged/nodejs.md)
+* **tags**: [typeorm](../tagged/typeorm.md), [typescript](../tagged/typescript.md), [javascript](../tagged/javascript.md), [orm](../tagged/orm.md), [mysql](../tagged/mysql.md), [postgresql](../tagged/postgresql.md), [node.js](../tagged/node.js.md)
 * :octocat: **[source code](https://github.com/typeorm/typeorm)**
 ---
 #### [Basic JavaScript: Accessing Nested Objects | Learn freeCodeCamp](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/accessing-nested-objects)
@@ -790,7 +825,7 @@ _<sup>https://www.youtube.com/watch?v=c0oy0vQKEZE</sup>_
 
 This presentation gives an overview of cutting-edge JavaScript development techniques to build modern web and Node.js apps. Discover which features to expect in Chrome and Node.js soon, how the V8 eng...
 * :calendar: **published on**: 2019-05-08
-* **tags**: [javascript](../tagged/javascript.md), [nodejs](../tagged/nodejs.md), [frontend](../tagged/frontend.md)
+* **tags**: [javascript](../tagged/javascript.md), [node.js](../tagged/node.js.md), [frontend](../tagged/frontend.md)
 ---
 #### [npm](https://www.npmjs.com/)
 _<sup>https://www.npmjs.com/</sup>_
@@ -1086,7 +1121,7 @@ A statement-by-statement javascript interpreter in the browser.
 _<sup>https://github.com/prettier/prettier</sup>_
 
 Prettier is an opinionated code formatter.
-* **tags**: [javascript](../tagged/javascript.md), [qa](../tagged/qa.md), [devtools](../tagged/devtools.md)
+* **tags**: [javascript](../tagged/javascript.md), [qa](../tagged/qa.md), [devtools](../tagged/devtools.md), [code-formatting](../tagged/code-formatting.md)
 * :octocat: **[source code](https://github.com/prettier/prettier)**
 ---
 #### [JSHint](https://github.com/jshint/jshint/)
@@ -1356,63 +1391,63 @@ Blazing fast Apple TV application development using pure JavaScript.
 _<sup>https://github.com/reactioncommerce/reaction</sup>_
 
 reactive CMS, real-time architecture and design
-* **tags**: [javascript](../tagged/javascript.md), [nodejs](../tagged/nodejs.md), [cms](../tagged/cms.md), [frameworks](../tagged/frameworks.md)
+* **tags**: [javascript](../tagged/javascript.md), [node.js](../tagged/node.js.md), [cms](../tagged/cms.md), [frameworks](../tagged/frameworks.md)
 * :octocat: **[source code](https://github.com/reactioncommerce/reaction)**
 ---
 #### [Ghost](https://github.com/tryghost/Ghost)
 _<sup>https://github.com/tryghost/Ghost</sup>_
 
 simple, powerful publishing platform
-* **tags**: [javascript](../tagged/javascript.md), [nodejs](../tagged/nodejs.md), [cms](../tagged/cms.md), [frameworks](../tagged/frameworks.md)
+* **tags**: [javascript](../tagged/javascript.md), [node.js](../tagged/node.js.md), [cms](../tagged/cms.md), [frameworks](../tagged/frameworks.md)
 * :octocat: **[source code](https://github.com/tryghost/Ghost)**
 ---
 #### [Apostrophe](https://github.com/punkave/apostrophe)
 _<sup>https://github.com/punkave/apostrophe</sup>_
 
 CMS with content editing and essential services
-* **tags**: [javascript](../tagged/javascript.md), [nodejs](../tagged/nodejs.md), [cms](../tagged/cms.md), [frameworks](../tagged/frameworks.md)
+* **tags**: [javascript](../tagged/javascript.md), [node.js](../tagged/node.js.md), [cms](../tagged/cms.md), [frameworks](../tagged/frameworks.md)
 * :octocat: **[source code](https://github.com/punkave/apostrophe)**
 ---
 #### [We.js](https://github.com/wejs/we/)
 _<sup>https://github.com/wejs/we/</sup>_
 
 framework for real time apps, sites or blogs
-* **tags**: [javascript](../tagged/javascript.md), [nodejs](../tagged/nodejs.md), [cms](../tagged/cms.md), [frameworks](../tagged/frameworks.md)
+* **tags**: [javascript](../tagged/javascript.md), [node.js](../tagged/node.js.md), [cms](../tagged/cms.md), [frameworks](../tagged/frameworks.md)
 * :octocat: **[source code](https://github.com/wejs/we/)**
 ---
 #### [Hatch.js](https://github.com/inventures/hatchjs)
 _<sup>https://github.com/inventures/hatchjs</sup>_
 
 CMS platform with social features.
-* **tags**: [javascript](../tagged/javascript.md), [nodejs](../tagged/nodejs.md), [cms](../tagged/cms.md), [frameworks](../tagged/frameworks.md)
+* **tags**: [javascript](../tagged/javascript.md), [node.js](../tagged/node.js.md), [cms](../tagged/cms.md), [frameworks](../tagged/frameworks.md)
 * :octocat: **[source code](https://github.com/inventures/hatchjs)**
 ---
 #### [TaracotJS](https://github.com/xtremespb/taracotjs-generator/)
 _<sup>https://github.com/xtremespb/taracotjs-generator/</sup>_
 
 fast and minimalist CMS based on Node.js.
-* **tags**: [javascript](../tagged/javascript.md), [nodejs](../tagged/nodejs.md), [cms](../tagged/cms.md), [frameworks](../tagged/frameworks.md)
+* **tags**: [javascript](../tagged/javascript.md), [node.js](../tagged/node.js.md), [cms](../tagged/cms.md), [frameworks](../tagged/frameworks.md)
 * :octocat: **[source code](https://github.com/xtremespb/taracotjs-generator/)**
 ---
 #### [Nodizecms](https://github.com/nodize/nodizecms)
 _<sup>https://github.com/nodize/nodizecms</sup>_
 
 CMS for CoffeeScript lovers
-* **tags**: [javascript](../tagged/javascript.md), [nodejs](../tagged/nodejs.md), [cms](../tagged/cms.md), [frameworks](../tagged/frameworks.md)
+* **tags**: [javascript](../tagged/javascript.md), [node.js](../tagged/node.js.md), [cms](../tagged/cms.md), [frameworks](../tagged/frameworks.md)
 * :octocat: **[source code](https://github.com/nodize/nodizecms)**
 ---
 #### [Cody](https://github.com/jcoppieters/cody)
 _<sup>https://github.com/jcoppieters/cody</sup>_
 
 CMS with WSYWYG editor
-* **tags**: [javascript](../tagged/javascript.md), [nodejs](../tagged/nodejs.md), [cms](../tagged/cms.md), [frameworks](../tagged/frameworks.md)
+* **tags**: [javascript](../tagged/javascript.md), [node.js](../tagged/node.js.md), [cms](../tagged/cms.md), [frameworks](../tagged/frameworks.md)
 * :octocat: **[source code](https://github.com/jcoppieters/cody)**
 ---
 #### [PencilBlue](https://github.com/pencilblue/pencilblue/)
 _<sup>https://github.com/pencilblue/pencilblue/</sup>_
 
 CMS and blogging platform
-* **tags**: [javascript](../tagged/javascript.md), [nodejs](../tagged/nodejs.md), [cms](../tagged/cms.md), [frameworks](../tagged/frameworks.md)
+* **tags**: [javascript](../tagged/javascript.md), [node.js](../tagged/node.js.md), [cms](../tagged/cms.md), [frameworks](../tagged/frameworks.md)
 * :octocat: **[source code](https://github.com/pencilblue/pencilblue/)**
 ---
 #### [mustache.js](https://github.com/janl/mustache.js)
@@ -5238,7 +5273,7 @@ _<sup>http://2ality.com/2018/04/async-iter-nodejs.html</sup>_
 
 Node.js 10 was released on April 24, 2018. This version provides experimental support for asynchronously iterating over readable streams. This blog post explains how that works.
 * :calendar: **published on**: 2018-04-24
-* **tags**: [javascript](../tagged/javascript.md), [nodejs](../tagged/nodejs.md)
+* **tags**: [javascript](../tagged/javascript.md), [node.js](../tagged/node.js.md)
 ---
 #### [2ality – JavaScript and more  ](http://2ality.com)
 _<sup>http://2ality.com</sup>_
@@ -5250,14 +5285,14 @@ _<sup>http://2ality.com</sup>_
 _<sup>https://github.com/cujojs/meld</sup>_
 
 AOP for JS with before, around, on, afterReturning, afterThrowing, after advice, and pointcuts - cujojs/meld
-* **tags**: [aop](../tagged/aop.md), [nodejs](../tagged/nodejs.md), [javascript](../tagged/javascript.md)
+* **tags**: [aop](../tagged/aop.md), [node.js](../tagged/node.js.md), [javascript](../tagged/javascript.md)
 * :octocat: **[source code](https://github.com/cujojs/meld)**
 ---
 #### [Node Http Status Codes](https://github.com/prettymuchbryce/node-http-status)
 _<sup>https://github.com/prettymuchbryce/node-http-status</sup>_
 
 Constants enumerating the HTTP status codes. All status codes defined in RFC1945 (HTTP/1.0, RFC2616 (HTTP/1.1), and RFC2518 (WebDAV) are supported. - prettymuchbryce/node-http-status
-* **tags**: [nodejs](../tagged/nodejs.md), [javascript](../tagged/javascript.md), [expressjs](../tagged/expressjs.md)
+* **tags**: [node.js](../tagged/node.js.md), [javascript](../tagged/javascript.md), [expressjs](../tagged/expressjs.md)
 * :octocat: **[source code](https://github.com/prettymuchbryce/node-http-status)**
 ---
 #### [How to use module.exports in Node.js](https://stackabuse.com/how-to-use-module-exports-in-node-js/)
@@ -5265,7 +5300,7 @@ _<sup>https://stackabuse.com/how-to-use-module-exports-in-node-js/</sup>_
 
 Explains with examples how to use nodejs modules and in the end a comparison with JavaScript ES6 modules system
 * :calendar: **published on**: 2017-08-14
-* **tags**: [nodejs](../tagged/nodejs.md), [javascript](../tagged/javascript.md)
+* **tags**: [node.js](../tagged/node.js.md), [javascript](../tagged/javascript.md)
 ---
 #### [Toastr by CodeSeven](https://codeseven.github.io/toastr/)
 _<sup>https://codeseven.github.io/toastr/</sup>_
@@ -5288,13 +5323,13 @@ _<sup>http://www.codingpedia.org/ama/parallel-calls-with-async-await-in-javascri
 
 I was blown away about the simplicity and performance gain of making parallel calls with the new async-await feature in javascript. See the blog post to understand why.
 * :calendar: **published on**: 2017-11-13
-* **tags**: [nodejs](../tagged/nodejs.md), [async-await](../tagged/async-await.md), [async](../tagged/async.md), [javascript](../tagged/javascript.md)
+* **tags**: [node.js](../tagged/node.js.md), [async-await](../tagged/async-await.md), [async](../tagged/async.md), [javascript](../tagged/javascript.md)
 ---
 #### [InversifyJS a powerful IoC container for JavaScript apps powered by TypeScript](http://inversify.io/)
 _<sup>http://inversify.io/</sup>_
 
 InversifyJS is a lightweight inversion of control (IoC) container for TypeScript and JavaScript apps.
-* **tags**: [nodejs](../tagged/nodejs.md), [typescript](../tagged/typescript.md), [javascript](../tagged/javascript.md)
+* **tags**: [node.js](../tagged/node.js.md), [typescript](../tagged/typescript.md), [javascript](../tagged/javascript.md)
 * :octocat: **[source code](https://github.com/inversify/InversifyJS/)**
 ---
 #### [Service Workers - Practical Guided Introduction (several examples)](https://blog.angular-university.io/service-workers/)
@@ -5438,7 +5473,7 @@ Learn how to build a perceptron model from scratch with Javascript!
 _<sup>https://socket.io/</sup>_
 
 Realtime application framework (Node.JS server)
-* **tags**: [nodejs](../tagged/nodejs.md), [javascript](../tagged/javascript.md)
+* **tags**: [node.js](../tagged/node.js.md), [javascript](../tagged/javascript.md)
 * :octocat: **[source code](https://github.com/socketio/socket.io/)**
 ---
 #### [undefined - JavaScript MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined)
@@ -5458,7 +5493,7 @@ Parse, validate, manipulate, and display dates in javascript.
 _<sup>https://github.com/LeCoupa/awesome-cheatsheets</sup>_
 
 awesome-cheatsheets - 📚 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
-* **tags**: [javascript](../tagged/javascript.md), [nodejs](../tagged/nodejs.md), [cheatsheet](../tagged/cheatsheet.md)
+* **tags**: [javascript](../tagged/javascript.md), [node.js](../tagged/node.js.md), [cheatsheet](../tagged/cheatsheet.md)
 * :octocat: **[source code](https://github.com/LeCoupa/awesome-cheatsheets)**
 ---
 #### [Hammer.JS - Hammer.js](http://hammerjs.github.io/)
@@ -5548,13 +5583,13 @@ _<sup>http://blog.mgechev.com/2016/04/10/scalable-javascript-single-page-app-ang
 _<sup>https://johnpapa.net/</sup>_
 
 Husband, father, & Catholic enjoying life with my family. Working @ Microsoft. Disney fanatic, web and mobile developer
-* **tags**: [blog](../tagged/blog.md), [javascript](../tagged/javascript.md), [nodejs](../tagged/nodejs.md)
+* **tags**: [blog](../tagged/blog.md), [javascript](../tagged/javascript.md), [node.js](../tagged/node.js.md)
 ---
 #### [DerickBailey.com - Trade Secrets Of A Developer / Entrepreneur](https://derickbailey.com/)
 _<sup>https://derickbailey.com/</sup>_
 
 Trade Secrets Of A Developer / Entrepreneur
-* **tags**: [blog](../tagged/blog.md), [javascript](../tagged/javascript.md), [docker](../tagged/docker.md), [nodejs](../tagged/nodejs.md)
+* **tags**: [blog](../tagged/blog.md), [javascript](../tagged/javascript.md), [docker](../tagged/docker.md), [node.js](../tagged/node.js.md)
 ---
 #### [ES6 Promises (with Angular 2) Explained - YouTube](https://www.youtube.com/watch?v=viaF0hM8G94)
 _<sup>https://www.youtube.com/watch?v=viaF0hM8G94</sup>_
@@ -5582,14 +5617,14 @@ store.js - Cross-browser storage for all use cases, used across the web.
 _<sup>http://sinonjs.org/</sup>_
 
 Standalone test spies, stubs and mocks for JavaScript. Works with any unit testing framework.
-* **tags**: [javascript](../tagged/javascript.md), [nodejs](../tagged/nodejs.md), [unit-testing](../tagged/unit-testing.md), [testing](../tagged/testing.md), [sinonjs](../tagged/sinonjs.md)
+* **tags**: [javascript](../tagged/javascript.md), [node.js](../tagged/node.js.md), [unit-testing](../tagged/unit-testing.md), [testing](../tagged/testing.md), [sinonjs](../tagged/sinonjs.md)
 * :octocat: **[source code](https://github.com/sinonjs/sinon)**
 ---
 #### [Mocha - home page](http://mochajs.org/)
 _<sup>http://mochajs.org/</sup>_
 
 Mocha is a feature-rich JavaScript test framework running on Node.js and in the browser, making asynchronous testing simple and fun. Mocha tests run serially, allowing for flexible and accurate report...
-* **tags**: [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md), [unit-testing](../tagged/unit-testing.md), [mocha](../tagged/mocha.md), [javascript](../tagged/javascript.md)
+* **tags**: [node.js](../tagged/node.js.md), [testing](../tagged/testing.md), [unit-testing](../tagged/unit-testing.md), [mocha](../tagged/mocha.md), [javascript](../tagged/javascript.md)
 * :octocat: **[source code](https://github.com/mochajs/mocha)**
 ---
 #### [Array.prototype.reduce() - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce)
@@ -5702,7 +5737,7 @@ A guide to writing asynchronous JavaScript programs
 _<sup>https://www.npmjs.com/package/debug</sup>_
 
 A tiny node.js debugging utility modelled after node core's debugging technique.
-* **tags**: [nodejs](../tagged/nodejs.md), [logging](../tagged/logging.md), [javascript](../tagged/javascript.md)
+* **tags**: [node.js](../tagged/node.js.md), [logging](../tagged/logging.md), [javascript](../tagged/javascript.md)
 * :octocat: **[source code](https://github.com/visionmedia/debug)**
 ---
 #### [Understand JavaScript Callback Functions and Use Them | JavaScript is Sexy](http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/)
@@ -5725,7 +5760,7 @@ The `forEach()` method executes a provided function once for each array element.
 _<sup>http://caolan.github.io/async/</sup>_
 
 Async is a utility module which provides straight-forward, powerful functions for working with asynchronous JavaScript. Although originally designed for use with Node.js and installable via `npm insta...
-* **tags**: [nodejs](../tagged/nodejs.md), [javascript](../tagged/javascript.md)
+* **tags**: [node.js](../tagged/node.js.md), [javascript](../tagged/javascript.md)
 * :octocat: **[source code](https://github.com/caolan/async)**
 ---
 #### [JavaScript Standard Style](https://standardjs.com/)
@@ -6817,7 +6852,7 @@ Yarn is a package manager for your code. It allows you to use and share code wit
 _<sup>http://www.codingpedia.org/ama/how-to-get-the-title-of-a-remote-web-page-using-javascript-and-nodejs</sup>_
 
 Example on how to do web scraping with cheerio in a NodeJS backend. 
-* **tags**: [javascript](../tagged/javascript.md), [nodejs](../tagged/nodejs.md), [cheerio](../tagged/cheerio.md)
+* **tags**: [javascript](../tagged/javascript.md), [node.js](../tagged/node.js.md), [cheerio](../tagged/cheerio.md)
 ---
 #### [JavaScript reference - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
 _<sup>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference</sup>_

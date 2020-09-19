@@ -2,6 +2,26 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/css](https://www.bookmarks.dev/tagged/css)</sup></sup>_
 ---
+#### [CSS selectors - Learn web development | MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors)
+_<sup>https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors</sup>_
+
+In CSS, selectors are used to target the HTML elements on our web pages that we want to style. There are a wide variety of CSS selectors available, allowing for fine-grained precision when selecting e...
+* **tags**: [css](../tagged/css.md)
+---
+#### [pattern.css - Background Patterns in CSS](https://bansal.io/pattern-css)
+_<sup>https://bansal.io/pattern-css</sup>_
+
+CSS only library to fill your empty background with beautiful patterns.
+* **tags**: [css](../tagged/css.md)
+* :octocat: **[source code](https://github.com/bansal-io/pattern.css)**
+---
+#### [CSS Layout collection](https://csslayout.io/)
+_<sup>https://csslayout.io/</sup>_
+
+A collection of popular layouts and patterns made with CSS
+* **tags**: [css](../tagged/css.md)
+* :octocat: **[source code](https://github.com/phuoc-ng/csslayout)**
+---
 #### [6 Powerful CSS Techniques You Can Use Instead of Javascript | Diogo Rodrigues](https://www.diogorodrigues.dev/blog/6-powerful-css-techniques-you-can-use-instead-javascript)
 _<sup>https://www.diogorodrigues.dev/blog/6-powerful-css-techniques-you-can-use-instead-javascript</sup>_
 

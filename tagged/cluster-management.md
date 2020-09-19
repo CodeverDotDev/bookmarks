@@ -2,6 +2,14 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/cluster-management](https://www.bookmarks.dev/tagged/cluster-management)</sup></sup>_
 ---
+#### [PM2 - Node.js clustering made easy with PM2](https://pm2.io/blog/2018/04/20/Node-js-clustering-made-easy-with-PM2)
+_<sup>https://pm2.io/blog/2018/04/20/Node-js-clustering-made-easy-with-PM2</sup>_
+
+How to start NodeJS in Cluster mode with PM2:
+
+
+* **tags**: [node.js](../tagged/node.js.md), [pm2](../tagged/pm2.md), [cluster-computing](../tagged/cluster-computing.md), [cluster-management](../tagged/cluster-management.md), [scalability](../tagged/scalability.md)
+---
 #### [Apache Aurora](https://aurora.apache.org)
 _<sup>https://aurora.apache.org</sup>_
 

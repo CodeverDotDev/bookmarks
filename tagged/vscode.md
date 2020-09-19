@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/vscode](https://www.bookmarks.dev/tagged/vscode)</sup></sup>_
 ---
+#### [Troubleshooting · Jest](https://jestjs.io/docs/en/troubleshooting)
+_<sup>https://jestjs.io/docs/en/troubleshooting</sup>_
+
+Uh oh, something went wrong? Use this guide to resolve issues with Jest.
+* **tags**: [jest](../tagged/jest.md), [troubleshooting](../tagged/troubleshooting.md), [debugging](../tagged/debugging.md), [testing](../tagged/testing.md), [intellij](../tagged/intellij.md), [vscode](../tagged/vscode.md), [webstorm](../tagged/webstorm.md)
+---
 #### [Create a Reproducible Dev Environment with VS Code](https://medium.com/@james.thorniley/create-a-reproducible-dev-environment-with-vs-code-fd89285644da)
 _<sup>https://medium.com/@james.thorniley/create-a-reproducible-dev-environment-with-vs-code-fd89285644da</sup>_
 
@@ -13,7 +19,7 @@ Dependency hell is the curse of all software developers trying to get the right 
 _<sup>https://code.visualstudio.com/docs/nodejs/nodejs-debugging</sup>_
 
 The Visual Studio Code editor includes Node.js debugging support. Set breakpoints, step-in, inspect variables and more.
-* **tags**: [nodejs](../tagged/nodejs.md), [vscode](../tagged/vscode.md), [debugging](../tagged/debugging.md)
+* **tags**: [node.js](../tagged/node.js.md), [vscode](../tagged/vscode.md), [debugging](../tagged/debugging.md)
 ---
 #### [Visual Studio Code Key Bindings](https://code.visualstudio.com/docs/getstarted/keybindings)
 _<sup>https://code.visualstudio.com/docs/getstarted/keybindings</sup>_

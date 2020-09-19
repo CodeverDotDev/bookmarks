@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/svg](https://www.bookmarks.dev/tagged/svg)</sup></sup>_
 ---
+#### [Tabler Icons - 550+ Highly customizable free SVG icons](https://tablericons.com/)
+_<sup>https://tablericons.com/</sup>_
+
+558 Fully customizable free SVG icons. 
+* **tags**: [svg](../tagged/svg.md), [icons](../tagged/icons.md)
+* :octocat: **[source code](https://github.com/tabler/tabler-icons)**
+---
 #### [Vectr - Free Online Vector Graphics Editor](https://vectr.com/)
 _<sup>https://vectr.com/</sup>_
 

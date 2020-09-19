@@ -94,14 +94,14 @@ _<sup>https://github.com/nodejs/docker-node/blob/master/docs/BestPractices.md</s
 * Docker Run
 * Security
 node-gyp in alpi...
-* **tags**: [docker](../tagged/docker.md), [nodejs](../tagged/nodejs.md)
+* **tags**: [docker](../tagged/docker.md), [node.js](../tagged/node.js.md)
 * :octocat: **[source code](https://github.com/nodejs/docker-node/blob/master/docs/BestPractices.md)**
 ---
 #### [GitHub - BretFisher/node-docker-good-defaults](https://github.com/BretFisher/node-docker-good-defaults)
 _<sup>https://github.com/BretFisher/node-docker-good-defaults</sup>_
 
 Sample node app for Docker examples
-* **tags**: [nodejs](../tagged/nodejs.md), [docker](../tagged/docker.md), [docker-compose](../tagged/docker-compose.md)
+* **tags**: [node.js](../tagged/node.js.md), [docker](../tagged/docker.md), [docker-compose](../tagged/docker-compose.md)
 * :octocat: **[source code](https://github.com/BretFisher/node-docker-good-defaults)**
 ---
 #### [Docker and Node.js Best Practices from Bret Fisher at DockerCon  - 42min](https://www.youtube.com/watch?v=Zgx0o8QjJk4)
@@ -109,14 +109,14 @@ _<sup>https://www.youtube.com/watch?v=Zgx0o8QjJk4</sup>_
 
 My talk on all the best of Docker for Node.js developers and DevOps dealing with Node apps. From DockerCon 2019. 
 * :calendar: **published on**: 2019-06-10
-* **tags**: [docker](../tagged/docker.md), [nodejs](../tagged/nodejs.md), [docker-compose](../tagged/docker-compose.md), [nodemon](../tagged/nodemon.md)
+* **tags**: [docker](../tagged/docker.md), [node.js](../tagged/node.js.md), [docker-compose](../tagged/docker-compose.md), [nodemon](../tagged/nodemon.md)
 * :octocat: **[source code](https://github.com/BretFisher/dockercon19)**
 ---
 #### [Dockerizing a Node.js web app | Node.js](https://nodejs.org/de/docs/guides/nodejs-docker-webapp/)
 _<sup>https://nodejs.org/de/docs/guides/nodejs-docker-webapp/</sup>_
 
 The goal of this example is to show you how to get a Node.js application into a Docker container. The guide is intended for development, and not for a production deployment. The guide also assumes you...
-* **tags**: [nodejs](../tagged/nodejs.md), [docker](../tagged/docker.md)
+* **tags**: [node.js](../tagged/node.js.md), [docker](../tagged/docker.md)
 ---
 #### [Docker Tips : Development With Nodemon - Better Programming - Medium](https://medium.com/better-programming/docker-in-development-with-nodemon-d500366e74df)
 _<sup>https://medium.com/better-programming/docker-in-development-with-nodemon-d500366e74df</sup>_
@@ -125,7 +125,7 @@ I have delivered several Docker trainings during the last few weeks and some que
 
 *Q: When developing my application, how can I get my changes to be taken int...
 * :calendar: **published on**: 2017-12-20
-* **tags**: [docker](../tagged/docker.md), [nodejs](../tagged/nodejs.md), [nodemon](../tagged/nodemon.md)
+* **tags**: [docker](../tagged/docker.md), [node.js](../tagged/node.js.md), [nodemon](../tagged/nodemon.md)
 * :octocat: **[source code](https://github.com/dockersamples/example-voting-app)**
 ---
 #### [Selecting A Node.js Image for Docker](https://derickbailey.com/2017/03/09/selecting-a-node-js-image-for-docker/)
@@ -135,7 +135,7 @@ Before you begin to run your Node.js application in a Docker container, or even 
 
 **Which base Node.js ...
 * :calendar: **published on**: 2017-03-09
-* **tags**: [nodejs](../tagged/nodejs.md), [docker](../tagged/docker.md), [alpine](../tagged/alpine.md)
+* **tags**: [node.js](../tagged/node.js.md), [docker](../tagged/docker.md), [alpine](../tagged/alpine.md)
 ---
 #### [Piggy Metrics](https://piggymetrics.tk/)
 _<sup>https://piggymetrics.tk/</sup>_
@@ -387,7 +387,7 @@ Types of mounts and where they live on the Docker host
 _<sup>https://github.com/dockersamples/example-voting-app</sup>_
 
 Example Docker Compose app. A simple distributed application running across multiple Docker containers.
-* **tags**: [docker](../tagged/docker.md), [docker-compose](../tagged/docker-compose.md), [python](../tagged/python.md), [nodejs](../tagged/nodejs.md), [redis](../tagged/redis.md)
+* **tags**: [docker](../tagged/docker.md), [docker-compose](../tagged/docker-compose.md), [python](../tagged/python.md), [node.js](../tagged/node.js.md), [redis](../tagged/redis.md)
 * :octocat: **[source code](https://github.com/dockersamples/example-voting-app)**
 ---
 #### [GitHub - docker/docker-bench-security](https://github.com/docker/docker-bench-security)
@@ -434,7 +434,7 @@ _<sup>https://www.youtube.com/watch?v=EsCfPxjmnjo</sup>_
 * Part 1 What is a Microservice?" I walk you through what a Microservice is and what this 3 part tutorial will show you.
 * Part 2 [Making a micro...
 * :calendar: **published on**: 2017-12-29
-* **tags**: [nodejs](../tagged/nodejs.md), [microservices](../tagged/microservices.md), [docker](../tagged/docker.md), [docker-compose](../tagged/docker-compose.md), [nginx](../tagged/nginx.md)
+* **tags**: [node.js](../tagged/node.js.md), [microservices](../tagged/microservices.md), [docker](../tagged/docker.md), [docker-compose](../tagged/docker-compose.md), [nginx](../tagged/nginx.md)
 * :octocat: **[source code](https://github.com/fChristenson/microservices-example)**
 ---
 #### [Docker Official Image packaging for MongoDB](https://github.com/docker-library/mongo)
@@ -448,7 +448,7 @@ Docker Official Image packaging for MongoDB.
 _<sup>https://hub.docker.com/_/node/</sup>_
 
 The official Node.js docker image, made with love by the node community.
-* **tags**: [docker](../tagged/docker.md), [nodejs](../tagged/nodejs.md)
+* **tags**: [docker](../tagged/docker.md), [node.js](../tagged/node.js.md)
 * :octocat: **[source code](https://github.com/nodejs/docker-node)**
 ---
 #### [Dockerizing a Node.js and MongoDB App – XOOR – Medium](https://medium.com/@xoor/dockerizing-a-node-js-and-mongodb-app-f9d80fdb280e)
@@ -456,7 +456,7 @@ _<sup>https://medium.com/@xoor/dockerizing-a-node-js-and-mongodb-app-f9d80fdb280
 
 Docker has become an extremely popular tool not only among DevOps and Infrastructure people, but also for the daily work of any developer. Simple with examples for beginners.
 * :calendar: **published on**: 2017-10-22
-* **tags**: [docker](../tagged/docker.md), [mongodb](../tagged/mongodb.md), [nodejs](../tagged/nodejs.md), [expressjs](../tagged/expressjs.md), [docker-compose](../tagged/docker-compose.md)
+* **tags**: [docker](../tagged/docker.md), [mongodb](../tagged/mongodb.md), [node.js](../tagged/node.js.md), [expressjs](../tagged/expressjs.md), [docker-compose](../tagged/docker-compose.md)
 * :octocat: **[source code](https://github.com/mpayetta/express-node-docker)**
 ---
 #### [The Basics of the Docker Run Command](https://blog.codeship.com/the-basics-of-the-docker-run-command/)
@@ -504,7 +504,7 @@ Source-to-Image (S2I) is a toolkit and workflow for building reproducible Docker
 _<sup>https://derickbailey.com/</sup>_
 
 Trade Secrets Of A Developer / Entrepreneur
-* **tags**: [blog](../tagged/blog.md), [javascript](../tagged/javascript.md), [docker](../tagged/docker.md), [nodejs](../tagged/nodejs.md)
+* **tags**: [blog](../tagged/blog.md), [javascript](../tagged/javascript.md), [docker](../tagged/docker.md), [node.js](../tagged/node.js.md)
 ---
 #### [가장 빨리 만나는 Docker](http://www.pyrasis.com/private/2014/11/30/publish-docker-for-the-really-impatient-book)
 _<sup>http://www.pyrasis.com/private/2014/11/30/publish-docker-for-the-really-impatient-book</sup>_
@@ -515,7 +515,7 @@ _<sup>http://www.pyrasis.com/private/2014/11/30/publish-docker-for-the-really-im
 _<sup>https://www.youtube.com/watch?v=ovqDdH9ngFs</sup>_
 
 See how the architecture of this cross-cutting project allows us to build isolated microservices with Node.js and Docker. Examine the tools and infrastructure we’re building across our stack that enab...
-* **tags**: [nodejs](../tagged/nodejs.md), [docker](../tagged/docker.md), [architecture](../tagged/architecture.md), [api](../tagged/api.md)
+* **tags**: [node.js](../tagged/node.js.md), [docker](../tagged/docker.md), [architecture](../tagged/architecture.md), [api](../tagged/api.md)
 ---
 #### [Elk Stack on a Docker image](https://elk-docker.readthedocs.io/#about)
 _<sup>https://elk-docker.readthedocs.io/#about</sup>_

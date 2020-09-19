@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/web-app](https://www.bookmarks.dev/tagged/web-app)</sup></sup>_
 ---
+#### [GitHub - aFarkas/lazysizes](https://github.com/aFarkas/lazysizes)
+_<sup>https://github.com/aFarkas/lazysizes</sup>_
+
+High performance and SEO friendly lazy loader for images (responsive and normal), iframes and more, that detects any visibility changes triggered through user interaction, CSS or JavaScript without co...
+* **tags**: [performance](../tagged/performance.md), [web-app](../tagged/web-app.md), [javascript](../tagged/javascript.md)
+* :octocat: **[source code](https://github.com/aFarkas/lazysizes)**
+---
 #### [The Twelve-Factor App ](https://12factor.net/)
 _<sup>https://12factor.net/</sup>_
 

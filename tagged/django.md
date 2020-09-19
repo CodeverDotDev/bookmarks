@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/django](https://www.bookmarks.dev/tagged/django)</sup></sup>_
 ---
+#### [gothinkster/realworld: "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅](https://github.com/gothinkster/realworld)
+_<sup>https://github.com/gothinkster/realworld</sup>_
+
+"The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
+* **tags**: [demo](../tagged/demo.md), [django](../tagged/django.md), [node.js](../tagged/node.js.md), [reactjs](../tagged/reactjs.md), [angular](../tagged/angular.md)
+* :octocat: **[source code](https://github.com/gothinkster/realworld)**
+---
 #### [Jinja Home Page](https://palletsprojects.com/p/jinja/)
 _<sup>https://palletsprojects.com/p/jinja/</sup>_
 

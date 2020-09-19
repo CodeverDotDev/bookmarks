@@ -23,7 +23,7 @@ _<sup>https://www.sympy.org/en/index.html</sup>_
 _<sup>https://cloud.google.com/functions/docs/tutorials/pubsub</sup>_
 
 This simple tutorial demonstrates writing, deploying, and triggering a [Background Cloud Function](https://cloud.google.com/functions/docs/writing/background) with a [Cloud Pub/Sub trigger](https://cl...
-* **tags**: [google-cloud-functions](../tagged/google-cloud-functions.md), [nodejs](../tagged/nodejs.md), [python](../tagged/python.md), [go](../tagged/go.md), [google-cloud-pubsub](../tagged/google-cloud-pubsub.md)
+* **tags**: [google-cloud-functions](../tagged/google-cloud-functions.md), [node.js](../tagged/node.js.md), [python](../tagged/python.md), [go](../tagged/go.md), [google-cloud-pubsub](../tagged/google-cloud-pubsub.md)
 * :octocat: **[source code](https://github.com/GoogleCloudPlatform/nodejs-docs-samples/tree/master/functions/helloworld)**
 ---
 #### [Jinja Home Page](https://palletsprojects.com/p/jinja/)
@@ -4757,7 +4757,7 @@ A curated list of awesome CircuitPython guides, videos, libraries, frameworks, s
 _<sup>https://github.com/dockersamples/example-voting-app</sup>_
 
 Example Docker Compose app. A simple distributed application running across multiple Docker containers.
-* **tags**: [docker](../tagged/docker.md), [docker-compose](../tagged/docker-compose.md), [python](../tagged/python.md), [nodejs](../tagged/nodejs.md), [redis](../tagged/redis.md)
+* **tags**: [docker](../tagged/docker.md), [docker-compose](../tagged/docker-compose.md), [python](../tagged/python.md), [node.js](../tagged/node.js.md), [redis](../tagged/redis.md)
 * :octocat: **[source code](https://github.com/dockersamples/example-voting-app)**
 ---
 #### [Docker SDK for Python](https://docker-py.readthedocs.io/)

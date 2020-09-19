@@ -209,35 +209,35 @@ A C++14 header-only library implementing arbitrary posit arithmetic. The posit n
 _<sup>https://github.com/scijs/ndarray</sup>_
 
 Multidimensional arrays.
-* **tags**: [nodejs](../tagged/nodejs.md), [math](../tagged/math.md)
+* **tags**: [node.js](../tagged/node.js.md), [math](../tagged/math.md)
 * :octocat: **[source code](https://github.com/scijs/ndarray)**
 ---
 #### [mathjs](https://github.com/josdejong/mathjs)
 _<sup>https://github.com/josdejong/mathjs</sup>_
 
 An extensive math library.
-* **tags**: [nodejs](../tagged/nodejs.md), [math](../tagged/math.md)
+* **tags**: [node.js](../tagged/node.js.md), [math](../tagged/math.md)
 * :octocat: **[source code](https://github.com/josdejong/mathjs)**
 ---
 #### [math-clamp](https://github.com/sindresorhus/math-clamp)
 _<sup>https://github.com/sindresorhus/math-clamp</sup>_
 
 Clamp a number.
-* **tags**: [nodejs](../tagged/nodejs.md), [math](../tagged/math.md)
+* **tags**: [node.js](../tagged/node.js.md), [math](../tagged/math.md)
 * :octocat: **[source code](https://github.com/sindresorhus/math-clamp)**
 ---
 #### [algebra](https://github.com/fibo/algebra)
 _<sup>https://github.com/fibo/algebra</sup>_
 
 Algebraic structures.
-* **tags**: [nodejs](../tagged/nodejs.md), [math](../tagged/math.md)
+* **tags**: [node.js](../tagged/node.js.md), [math](../tagged/math.md)
 * :octocat: **[source code](https://github.com/fibo/algebra)**
 ---
 #### [multimath](https://github.com/nodeca/multimath)
 _<sup>https://github.com/nodeca/multimath</sup>_
 
 Core to create fast image math in WebAssembly and JS.
-* **tags**: [nodejs](../tagged/nodejs.md), [math](../tagged/math.md)
+* **tags**: [node.js](../tagged/node.js.md), [math](../tagged/math.md)
 * :octocat: **[source code](https://github.com/nodeca/multimath)**
 ---
 #### [awesome-math](https://github.com/rossant/awesome-math#readme)

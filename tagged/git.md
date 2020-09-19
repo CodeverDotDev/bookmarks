@@ -2,6 +2,116 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/git](https://www.bookmarks.dev/tagged/git)</sup></sup>_
 ---
+#### [Understanding the GitHub flow · GitHub Guides      ](https://guides.github.com/introduction/flow/)
+_<sup>https://guides.github.com/introduction/flow/</sup>_
+
+GitHub flow is a lightweight, branch-based workflow that supports teams and projects where deployments are made regularly. This guide explains how and why GitHub flow works.
+* **tags**: [git](../tagged/git.md), [workflow](../tagged/workflow.md), [github](../tagged/github.md)
+---
+#### [A successful Git branching model » nvie.com](https://nvie.com/posts/a-successful-git-branching-model/)
+_<sup>https://nvie.com/posts/a-successful-git-branching-model/</sup>_
+
+In this post I present the development model that I’ve introduced for some of my projects (both at work and private) about a year ago, and which has turned out to be very successful. I’ve been meaning...
+* :calendar: **published on**: 2010-10-05
+* **tags**: [git](../tagged/git.md), [workflow](../tagged/workflow.md), [beginners](../tagged/beginners.md)
+---
+#### [arslanbilal/git-cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet#merge--rebase)
+_<sup>https://github.com/arslanbilal/git-cheat-sheet#merge--rebase</sup>_
+
+Git cheat sheet saves you from learning all the commands by heart.
+* **tags**: [git](../tagged/git.md), [cheatsheet](../tagged/cheatsheet.md)
+---
+#### [GitHub - git-tips/tips: Most commonly used git tips and tricks.](https://github.com/git-tips/tips)
+_<sup>https://github.com/git-tips/tips</sup>_
+
+Most commonly used git tips and tricks. Contribute to git-tips/tips development by creating an account on GitHub.
+* **tags**: [git](../tagged/git.md)
+* :octocat: **[source code](https://github.com/git-tips/tips)**
+---
+#### [Git FAQ - Git SCM Wiki](https://git.wiki.kernel.org/index.php/GitFaq)
+_<sup>https://git.wiki.kernel.org/index.php/GitFaq</sup>_
+
+* **tags**: [git](../tagged/git.md), [faq](../tagged/faq.md)
+---
+#### [The most confusing git terminology | Mark's Blog](https://longair.net/blog/2012/05/07/the-most-confusing-git-terminology/)
+_<sup>https://longair.net/blog/2012/05/07/the-most-confusing-git-terminology/</sup>_
+
+To add my usual disclaimer to the start of these blog posts, I should say that I love git; I think it’s a beautiful and elegant system, and it saves me huge amounts of time in my daily work. However, ...
+* :calendar: **published on**: 2012-05-07
+* **tags**: [git](../tagged/git.md)
+---
+#### [git: fetch and merge, don’t pull](https://longair.net/blog/2009/04/16/git-fetch-and-merge/)
+_<sup>https://longair.net/blog/2009/04/16/git-fetch-and-merge/</sup>_
+
+When using `git pull` both fetching and merging are done in one command, your working directory is updated without giving you a chance to examine the changes you’ve just brought into your repository. ...
+* :calendar: **published on**: 2009-04-16
+* **tags**: [git](../tagged/git.md), [beginners](../tagged/beginners.md)
+---
+#### [🌳🚀 CS Visualized: Useful Git Commands](https://dev.to/lydiahallie/cs-visualized-useful-git-commands-37p1)
+_<sup>https://dev.to/lydiahallie/cs-visualized-useful-git-commands-37p1</sup>_
+
+I thought it would be the perfect use case to create some visualized examples of the most common and useful commands! 🥳 Many of the commands I'm covering have optional arguments that you can use in o...
+* :calendar: **published on**: 2020-04-01
+* **tags**: [git](../tagged/git.md)
+---
+#### [Git Concepts I Wish I Knew Years Ago](https://dev.to/g_abud/advanced-git-reference-1o9j)
+_<sup>https://dev.to/g_abud/advanced-git-reference-1o9j</sup>_
+
+This guide serves as a reference for what I believe are necessary, yet lesser-known concepts. Mastering Git will make a huge difference in how you manage code and your own day-to-day workflow. Because...
+* :calendar: **published on**: 2020-07-25
+* **tags**: [git](../tagged/git.md)
+---
+#### [Git team workflows: merge or rebase?](https://www.atlassian.com/git/articles/git-team-workflows-merge-or-rebase)
+_<sup>https://www.atlassian.com/git/articles/git-team-workflows-merge-or-rebase</sup>_
+
+The question is simple: In a software team using git and feature branching, what's the best way to incorporate finished work back to your main line of development? It's one of those recurring debates ...
+* **tags**: [git](../tagged/git.md), [git-commit](../tagged/git-commit.md)
+---
+#### [git push --force-with-lease vs. --force](https://stackoverflow.com/questions/52823692/git-push-force-with-lease-vs-force)
+_<sup>https://stackoverflow.com/questions/52823692/git-push-force-with-lease-vs-force</sup>_
+
+`--force` overwrites a remote branch with your local branch.
+
+`--force-with-lease` is a safer option that will not overwrite any work on the remote branch if more commits were added to the remote bran...
+* :calendar: **published on**: 2018-10-15
+* **tags**: [git](../tagged/git.md), [git-push](../tagged/git-push.md)
+---
+#### [Explain Git with D3](http://onlywei.github.io/explain-git-with-d3/)
+_<sup>http://onlywei.github.io/explain-git-with-d3/</sup>_
+
+This website is designed to help you understand some basic git concepts visually. This is my first attempt at using both SVG and D3. I hope it is helpful to you.
+
+Adding/staging your files for commit ...
+* **tags**: [git](../tagged/git.md), [playground](../tagged/playground.md), [d3](../tagged/d3.md), [beginners](../tagged/beginners.md)
+* :octocat: **[source code](https://github.com/onlywei/explain-git-with-d3)**
+---
+#### [What&#39;s the difference between git reset --mixed, --soft, and --hard?](https://stackoverflow.com/questions/3528245/whats-the-difference-between-git-reset-mixed-soft-and-hard)
+_<sup>https://stackoverflow.com/questions/3528245/whats-the-difference-between-git-reset-mixed-soft-and-ha...</sup>_
+
+Nice explanation with example
+* :calendar: **published on**: 2010-08-20
+* **tags**: [git](../tagged/git.md), [version-control](../tagged/version-control.md)
+---
+#### [A beginner's guide to GIT BISECT - The process of elimination](https://www.metaltoad.com/blog/beginners-guide-git-bisect-process-elimination)
+_<sup>https://www.metaltoad.com/blog/beginners-guide-git-bisect-process-elimination</sup>_
+
+Using `git bisect` is like a little wizard that walks you through recent commits, asks you if they are good or bad, and narrows down the broken commit.  In this blog post, I encourage you to create a ...
+* :calendar: **published on**: 2012-04-19
+* **tags**: [git](../tagged/git.md), [git-commit](../tagged/git-commit.md)
+---
+#### [How (and why!) to keep your Git commit history clean | GitLab](https://about.gitlab.com/blog/2018/06/07/keeping-git-commit-history-clean/)
+_<sup>https://about.gitlab.com/blog/2018/06/07/keeping-git-commit-history-clean/</sup>_
+
+While working on a large project, we often deal with a lot of moving parts that are updated, added or removed. Ensuring that commit messages are maintained in such cases could be tricky, especially wh...
+* **tags**: [git](../tagged/git.md)
+---
+#### [Git Tutorial for Beginners: Command-Line Fundamentals - 30min](https://www.youtube.com/watch?v=HVsySz-h9r4)
+_<sup>https://www.youtube.com/watch?v=HVsySz-h9r4</sup>_
+
+Git is the most popular version control system out there and for good reason. In this video, we'll go over the basics of what git is and how to use it within the command-line. There are several GUI to...
+* :calendar: **published on**: 2015-08-03
+* **tags**: [git](../tagged/git.md), [command-line](../tagged/command-line.md)
+---
 #### [GitHub - profclems/glab: A custom Gitlab Cli tool written in Go (golang)](https://github.com/profclems/glab)
 _<sup>https://github.com/profclems/glab</sup>_
 
@@ -48,7 +158,7 @@ _<sup>https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc</sup>_
 
 An interactive git tutorial meant to teach you how git works, not just which commands to execute.
 * :calendar: **published on**: 2019-06-06
-* **tags**: [git](../tagged/git.md)
+* **tags**: [git](../tagged/git.md), [beginners](../tagged/beginners.md)
 * :octocat: **[source code](https://github.com/UnseenWizzard/git_training.git)**
 ---
 #### [The anatomy of a Git commit](https://blog.thoughtram.io/git/2014/11/18/the-anatomy-of-a-git-commit.html)
@@ -64,7 +174,7 @@ _<sup>https://github.com/tvdstaaij/node-git-describe</sup>_
 This Node.js module runs [`git describe`][1] on the working directory or any
 other directory and parses the output to individual components. Additionally,
 if your tags follow [semantic versioning][2] ...
-* **tags**: [nodejs](../tagged/nodejs.md), [git](../tagged/git.md)
+* **tags**: [node.js](../tagged/node.js.md), [git](../tagged/git.md)
 * :octocat: **[source code](https://github.com/tvdstaaij/node-git-describe)**
 ---
 #### [Git Prune | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/git-prune)
@@ -687,8 +797,8 @@ _<sup>http://gitimmersion.com</sup>_
 #### [Git From The Bottom Up](https://jwiegley.github.io/git-from-the-bottom-up/)
 _<sup>https://jwiegley.github.io/git-from-the-bottom-up/</sup>_
 
-J. Wiegley
-* **tags**: [free-programming-books](../tagged/free-programming-books.md), [git](../tagged/git.md)
+Welcome to the world of Git. I hope this document will help to advance your understanding of this powerful content tracking system, and reveal a bit of the simplicity underlying it — however dizzying ...
+* **tags**: [free-programming-books](../tagged/free-programming-books.md), [git](../tagged/git.md), [beginners](../tagged/beginners.md)
 ---
 #### [Git for Computer Scientists](http://eagain.net/articles/git-for-computer-scientists/)
 _<sup>http://eagain.net/articles/git-for-computer-scientists/</sup>_

@@ -12,14 +12,14 @@ A fast PostgreSQL Log Analyzer. Contribute to darold/pgbadger development by cre
 _<sup>http://typeorm.io/</sup>_
 
 ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms...
-* **tags**: [typeorm](../tagged/typeorm.md), [typescript](../tagged/typescript.md), [javascript](../tagged/javascript.md), [orm](../tagged/orm.md), [mysql](../tagged/mysql.md), [postgresql](../tagged/postgresql.md), [nodejs](../tagged/nodejs.md)
+* **tags**: [typeorm](../tagged/typeorm.md), [typescript](../tagged/typescript.md), [javascript](../tagged/javascript.md), [orm](../tagged/orm.md), [mysql](../tagged/mysql.md), [postgresql](../tagged/postgresql.md), [node.js](../tagged/node.js.md)
 * :octocat: **[source code](https://github.com/typeorm/typeorm)**
 ---
 #### [node-postgress home page](https://node-postgres.com/)
 _<sup>https://node-postgres.com/</sup>_
 
 **node-postgres** is a collection of node.js modules for interfacing with your PostgreSQL database. It has support for callbacks, promises, async/await, connection pooling, prepared statements, cursor...
-* **tags**: [nodejs](../tagged/nodejs.md), [postgresql](../tagged/postgresql.md)
+* **tags**: [node.js](../tagged/node.js.md), [postgresql](../tagged/postgresql.md)
 * :octocat: **[source code](https://github.com/brianc/node-postgres)**
 ---
 #### [Building Stateful Applications With Kubernetes and Cloud SQL (Cloud Next '19) - YouTube](https://www.youtube.com/watch?v=qVgzP3PsXFw)
@@ -57,7 +57,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 _<sup>http://knexjs.org/</sup>_
 
 Knex.js is a "batteries included" SQL query builder for Postgres, MSSQL, MySQL, MariaDB, SQLite3, Oracle, and Amazon Redshift designed to be flexible, portable, and fun to use. It features both tradit...
-* **tags**: [orm](../tagged/orm.md), [sql](../tagged/sql.md), [nodejs](../tagged/nodejs.md), [postgresql](../tagged/postgresql.md), [mysql](../tagged/mysql.md)
+* **tags**: [orm](../tagged/orm.md), [sql](../tagged/sql.md), [node.js](../tagged/node.js.md), [postgresql](../tagged/postgresql.md), [mysql](../tagged/mysql.md)
 * :octocat: **[source code](https://github.com/tgriesser/knex)**
 ---
 #### [Работа с PostgreSQL - настройка и масштабирование](http://postgresql.leopard.in.ua)

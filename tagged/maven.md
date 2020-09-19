@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/maven](https://www.bookmarks.dev/tagged/maven)</sup></sup>_
 ---
+#### [Maven – Maven Releases History](https://maven.apache.org/docs/history.html)
+_<sup>https://maven.apache.org/docs/history.html</sup>_
+
+Release notes links and reference links
+* **tags**: [maven](../tagged/maven.md), [release](../tagged/release.md)
+---
 #### [Fix https repository blocking by PKIX path building failed – Sonatype Support](https://support.sonatype.com/hc/en-us/articles/213465038-Fix-https-repository-blocking-by-PKIX-path-building-failed)
 _<sup>https://support.sonatype.com/hc/en-us/articles/213465038-Fix-https-repository-blocking-by-PKIX-path-...</sup>_
 
@@ -144,7 +150,7 @@ _<sup>https://stackoverflow.com/questions/13001371/adding-all-maven-dependencies
 _<sup>https://github.com/eirslett/frontend-maven-plugin</sup>_
 
 "Maven-node-grunt-gulp-npm-node-plugin to end all maven-node-grunt-gulp-npm-plugins." A Maven plugin that downloads/installs Node and NPM locally, runs NPM install, Grunt, Gulp and/or Karma.
-* **tags**: [maven](../tagged/maven.md), [gulp](../tagged/gulp.md), [nodejs](../tagged/nodejs.md), [npm](../tagged/npm.md), [maven-plugin](../tagged/maven-plugin.md)
+* **tags**: [maven](../tagged/maven.md), [gulp](../tagged/gulp.md), [node.js](../tagged/node.js.md), [npm](../tagged/npm.md), [maven-plugin](../tagged/maven-plugin.md)
 ---
 #### [Maven tutorial](http://tutorials.jenkov.com/maven/maven-tutorial.html)
 _<sup>http://tutorials.jenkov.com/maven/maven-tutorial.html</sup>_

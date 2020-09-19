@@ -30,7 +30,7 @@ _<sup>https://github.com/fpereiro/backendlore</sup>_
 From late 2012 to the present I have been writing backends (server-side code) for web applications. This document summarizes many aspects of how I write these pieces of code.
 
 I'm writing this lore do...
-* **tags**: [backend](../tagged/backend.md), [nodejs](../tagged/nodejs.md), [redis](../tagged/redis.md), [architecture](../tagged/architecture.md)
+* **tags**: [backend](../tagged/backend.md), [node.js](../tagged/node.js.md), [redis](../tagged/redis.md), [architecture](../tagged/architecture.md)
 * :octocat: **[source code](https://github.com/fpereiro/backendlore)**
 ---
 #### [Why Google Stores Billions of Lines of Code in a Single Repository](https://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext)
@@ -197,7 +197,7 @@ _<sup>https://www.youtube.com/watch?v=QcNqfvMeWow</sup>_
 
 Traditionally, a tug of war has existed between service reliability (availability, consistency, and fault tolerance), and engineering velocity. Increasing speed to fuel product innovation has meant ma...
 * :calendar: **published on**: 2017-08-01
-* **tags**: [nodejs](../tagged/nodejs.md), [paas](../tagged/paas.md), [architecture](../tagged/architecture.md)
+* **tags**: [node.js](../tagged/node.js.md), [paas](../tagged/paas.md), [architecture](../tagged/architecture.md)
 ---
 #### [Design Patterns: PubSub Explained – CodeKraft](https://abdulapopoola.com/2013/03/12/design-patterns-pub-sub-explained/)
 _<sup>https://abdulapopoola.com/2013/03/12/design-patterns-pub-sub-explained/</sup>_
@@ -364,7 +364,7 @@ Ask somebody in the building industry to visually communicate the architecture o
 _<sup>https://www.youtube.com/watch?v=ovqDdH9ngFs</sup>_
 
 See how the architecture of this cross-cutting project allows us to build isolated microservices with Node.js and Docker. Examine the tools and infrastructure we’re building across our stack that enab...
-* **tags**: [nodejs](../tagged/nodejs.md), [docker](../tagged/docker.md), [architecture](../tagged/architecture.md), [api](../tagged/api.md)
+* **tags**: [node.js](../tagged/node.js.md), [docker](../tagged/docker.md), [architecture](../tagged/architecture.md), [api](../tagged/api.md)
 ---
 #### [Microservices Architecture-Retail](https://www.linkedin.com/pulse/microservices-architecture-retail-rajesh-gundapaneni)
 _<sup>https://www.linkedin.com/pulse/microservices-architecture-retail-rajesh-gundapaneni</sup>_

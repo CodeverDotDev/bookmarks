@@ -6,14 +6,14 @@ _<sup><sup>[www.bookmarks.dev/tagged/soap](https://www.bookmarks.dev/tagged/soap
 _<sup>https://www.npmjs.com/package/soap</sup>_
 
 A SOAP client and server for node.js.
-* **tags**: [nodejs](../tagged/nodejs.md), [soap](../tagged/soap.md)
+* **tags**: [node.js](../tagged/node.js.md), [soap](../tagged/soap.md)
 * :octocat: **[source code](https://github.com/vpulim/node-soap)**
 ---
 #### [strong-soap](https://www.npmjs.com/package/strong-soap)
 _<sup>https://www.npmjs.com/package/strong-soap</sup>_
 
 This module provides a Node.js SOAP client for invoking web services and a mock-up SOAP server capability to create and test your web service. This module is based on `node-soap` module.
-* **tags**: [nodejs](../tagged/nodejs.md), [soap](../tagged/soap.md)
+* **tags**: [node.js](../tagged/node.js.md), [soap](../tagged/soap.md)
 * :octocat: **[source code](https://github.com/strongloop/strong-soap)**
 ---
 #### [API Mediation: Why You Need an API Experience Layer | Nordic APIs |](http://nordicapis.com/api-mediation-why-you-need-api-experience-layer/)

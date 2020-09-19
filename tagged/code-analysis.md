@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/code-analysis](https://www.bookmarks.dev/tagged/code-analysis)</sup></sup>_
 ---
+#### [SEI CERT Oracle Coding Standard for Java](https://wiki.sei.cmu.edu/confluence/display/java/SEI+CERT+Oracle+Coding+Standard+for+Java)
+_<sup>https://wiki.sei.cmu.edu/confluence/display/java/SEI+CERT+Oracle+Coding+Standard+for+Java</sup>_
+
+The Java rules and recommendations in this wiki are a work in progress and reflect the current thinking of the secure coding community. Because this is a development website, many pages are incomplete...
+* **tags**: [java](../tagged/java.md), [linter](../tagged/linter.md), [code-analysis](../tagged/code-analysis.md)
+---
 #### [apicompat](https://github.com/bradleyfalzon/apicompat)
 _<sup>https://github.com/bradleyfalzon/apicompat</sup>_
 

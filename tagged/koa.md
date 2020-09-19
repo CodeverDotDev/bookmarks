@@ -8,5 +8,5 @@ _<sup>https://github.com/koajs/koa/blob/master/docs/koa-vs-express.md</sup>_
 Philosophically, Koa aims to "fix and replace node", whereas Express "augments node".
   Koa uses promises and async functions to rid apps of callback hell and simplify error handling.
   It exposes its...
-* **tags**: [expressjs](../tagged/expressjs.md), [nodejs](../tagged/nodejs.md), [koa](../tagged/koa.md)
+* **tags**: [expressjs](../tagged/expressjs.md), [node.js](../tagged/node.js.md), [koa](../tagged/koa.md)
 ---

@@ -20,7 +20,7 @@ Learn how to use a relational MySQL database with Firebase Cloud Functions and T
 _<sup>http://typeorm.io/</sup>_
 
 ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms...
-* **tags**: [typeorm](../tagged/typeorm.md), [typescript](../tagged/typescript.md), [javascript](../tagged/javascript.md), [orm](../tagged/orm.md), [mysql](../tagged/mysql.md), [postgresql](../tagged/postgresql.md), [nodejs](../tagged/nodejs.md)
+* **tags**: [typeorm](../tagged/typeorm.md), [typescript](../tagged/typescript.md), [javascript](../tagged/javascript.md), [orm](../tagged/orm.md), [mysql](../tagged/mysql.md), [postgresql](../tagged/postgresql.md), [node.js](../tagged/node.js.md)
 * :octocat: **[source code](https://github.com/typeorm/typeorm)**
 ---
 #### [AgilData/mysql-proxy-rs](https://github.com/AgilData/mysql-proxy-rs)
@@ -54,7 +54,7 @@ UNMAINTAINED - SEE BELOW. A simple and lightweight SQL client desktop with cross
 _<sup>http://knexjs.org/</sup>_
 
 Knex.js is a "batteries included" SQL query builder for Postgres, MSSQL, MySQL, MariaDB, SQLite3, Oracle, and Amazon Redshift designed to be flexible, portable, and fun to use. It features both tradit...
-* **tags**: [orm](../tagged/orm.md), [sql](../tagged/sql.md), [nodejs](../tagged/nodejs.md), [postgresql](../tagged/postgresql.md), [mysql](../tagged/mysql.md)
+* **tags**: [orm](../tagged/orm.md), [sql](../tagged/sql.md), [node.js](../tagged/node.js.md), [postgresql](../tagged/postgresql.md), [mysql](../tagged/mysql.md)
 * :octocat: **[source code](https://github.com/tgriesser/knex)**
 ---
 #### [MySQL](http://www.peterkropff.de/site/mysql/mysql.htm)

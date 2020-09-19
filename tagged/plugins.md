@@ -2,6 +2,14 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/plugins](https://www.bookmarks.dev/tagged/plugins)</sup></sup>_
 ---
+#### [JMeter Plugins :: JMeter-Plugins.org](https://jmeter-plugins.org/)
+_<sup>https://jmeter-plugins.org/</sup>_
+
+This project is an independent set of plugins for Apache JMeter, the popular Open-Source load and performance testing tool.
+
+This catalogue lists plugins available for use with Plugins Manager.
+* **tags**: [jmeter](../tagged/jmeter.md), [plugins](../tagged/plugins.md)
+---
 #### [Rainbow Brackets - plugin for IntelliJ IDEs | JetBrains](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets)
 _<sup>https://plugins.jetbrains.com/plugin/10080-rainbow-brackets</sup>_
 

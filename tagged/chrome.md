@@ -6,7 +6,7 @@ _<sup><sup>[www.bookmarks.dev/tagged/chrome](https://www.bookmarks.dev/tagged/ch
 _<sup>https://pptr.dev/</sup>_
 
 Headless Chrome Node API 
-* **tags**: [puppeteer](../tagged/puppeteer.md), [nodejs](../tagged/nodejs.md), [chrome](../tagged/chrome.md)
+* **tags**: [puppeteer](../tagged/puppeteer.md), [node.js](../tagged/node.js.md), [chrome](../tagged/chrome.md)
 * :octocat: **[source code](https://github.com/GoogleChrome/puppeteer)**
 ---
 #### [Debugging Node.js with Chrome DevTools – Paul Irish – Medium](https://medium.com/@paul_irish/debugging-node-js-nightlies-with-chrome-devtools-7c4a1b95ae27)
@@ -14,7 +14,7 @@ _<sup>https://medium.com/@paul_irish/debugging-node-js-nightlies-with-chrome-dev
 
 Support for Node.js debuggability landed in Node.js master in May 2016. You can see it in action in the [DevTools 2016 Google I/O talk](https://www.youtube.com/watch?v=x8u0n4dT-WI&feature=youtu.be&t=2...
 * :calendar: **published on**: 2018-01-01
-* **tags**: [nodejs](../tagged/nodejs.md), [debugging](../tagged/debugging.md), [chrome](../tagged/chrome.md), [dev-tools](../tagged/dev-tools.md)
+* **tags**: [node.js](../tagged/node.js.md), [debugging](../tagged/debugging.md), [chrome](../tagged/chrome.md), [dev-tools](../tagged/dev-tools.md)
 ---
 #### [How to Use the Timeline Tool  |  Web |  Google Developers](https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/timeline-tool)
 _<sup>https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/timeline-tool</sup>_

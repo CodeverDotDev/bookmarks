@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/email](https://www.bookmarks.dev/tagged/email)</sup></sup>_
 ---
+#### [postale.io - Free email addresses for your domain name](https://postale.io/)
+_<sup>https://postale.io/</sup>_
+
+Set up professional domain emails in minutes, completely free. 5 email addresses per domain. 1 GB per mailbox. Unlimited domains. POP3/IMAP enabled. No ads. Free support.
+* **tags**: [free-email](../tagged/free-email.md), [email](../tagged/email.md)
+---
 #### [GildedHonour/atarashii_imap](https://github.com/GildedHonour/atarashii_imap)
 _<sup>https://github.com/GildedHonour/atarashii_imap</sup>_
 
@@ -289,21 +295,21 @@ Yet another Gmail/SMTP client.
 _<sup>https://github.com/andris9/Nodemailer</sup>_
 
 The fastest way to handle email.
-* **tags**: [nodejs](../tagged/nodejs.md), [email](../tagged/email.md)
+* **tags**: [node.js](../tagged/node.js.md), [email](../tagged/email.md)
 * :octocat: **[source code](https://github.com/andris9/Nodemailer)**
 ---
 #### [emailjs](https://github.com/eleith/emailjs)
 _<sup>https://github.com/eleith/emailjs</sup>_
 
 Send text/HTML emails with attachments to any SMTP server.
-* **tags**: [nodejs](../tagged/nodejs.md), [email](../tagged/email.md)
+* **tags**: [node.js](../tagged/node.js.md), [email](../tagged/email.md)
 * :octocat: **[source code](https://github.com/eleith/emailjs)**
 ---
 #### [email-templates](https://github.com/niftylettuce/email-templates)
 _<sup>https://github.com/niftylettuce/email-templates</sup>_
 
 Create, preview, and send custom email templates.
-* **tags**: [nodejs](../tagged/nodejs.md), [email](../tagged/email.md)
+* **tags**: [node.js](../tagged/node.js.md), [email](../tagged/email.md)
 * :octocat: **[source code](https://github.com/niftylettuce/email-templates)**
 ---
 #### [awesome-emails](https://github.com/jonathandion/awesome-emails#readme)
@@ -317,7 +323,7 @@ _<sup>https://github.com/jonathandion/awesome-emails#readme</sup>_
 _<sup>http://nodemailer.com/</sup>_
 
 Nodemailer is a module for Node.js to send emails
-* **tags**: [nodejs](../tagged/nodejs.md), [email](../tagged/email.md)
+* **tags**: [node.js](../tagged/node.js.md), [email](../tagged/email.md)
 * :octocat: **[source code](https://github.com/nodemailer/nodemailer)**
 ---
 #### [Understanding Public Key Cryptography](https://technet.microsoft.com/en-us/library/aa998077(v=exchg.65).aspx)

@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/marketing](https://www.bookmarks.dev/tagged/marketing)</sup></sup>_
 ---
+#### [The Technium: 1,000 True Fans](https://kk.org/thetechnium/1000-true-fans/)
+_<sup>https://kk.org/thetechnium/1000-true-fans/</sup>_
+
+This is an edited, updated version of an essay I wrote in 2008 when this now popular idea was embryonic and ragged. I recently rewrote it to convey the core ideas, minus out-of-date details. This revi...
+* **tags**: [startup](../tagged/startup.md), [marketing](../tagged/marketing.md)
+---
 #### [Personas and Pathways for Growing Communities](https://mozillascience.github.io/working-open-workshop/personas_pathways/)
 _<sup>https://mozillascience.github.io/working-open-workshop/personas_pathways/</sup>_
 

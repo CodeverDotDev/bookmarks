@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/typescript](https://www.bookmarks.dev/tagged/typescript)</sup></sup>_
 ---
+#### [Getting To Know The Partial Type in TypeScript](https://netbasal.com/getting-to-know-the-partial-type-in-typescript-ecfcfbc87cb6)
+_<sup>https://netbasal.com/getting-to-know-the-partial-type-in-typescript-ecfcfbc87cb6</sup>_
+
+`Partial` usage with examples
+* :calendar: **published on**: 2017-10-23
+* **tags**: [typescript](../tagged/typescript.md)
+---
 #### [async/await in Angular `ngOnInit`](https://stackoverflow.com/questions/56092083/async-await-in-angular-ngoninit)
 _<sup>https://stackoverflow.com/questions/56092083/async-await-in-angular-ngoninit</sup>_
 
@@ -47,7 +54,7 @@ Learn how to use a relational MySQL database with Firebase Cloud Functions and T
 _<sup>http://typeorm.io/</sup>_
 
 ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms...
-* **tags**: [typeorm](../tagged/typeorm.md), [typescript](../tagged/typescript.md), [javascript](../tagged/javascript.md), [orm](../tagged/orm.md), [mysql](../tagged/mysql.md), [postgresql](../tagged/postgresql.md), [nodejs](../tagged/nodejs.md)
+* **tags**: [typeorm](../tagged/typeorm.md), [typescript](../tagged/typescript.md), [javascript](../tagged/javascript.md), [orm](../tagged/orm.md), [mysql](../tagged/mysql.md), [postgresql](../tagged/postgresql.md), [node.js](../tagged/node.js.md)
 * :octocat: **[source code](https://github.com/typeorm/typeorm)**
 ---
 #### [TypeScript, React and Webpack](https://www.typescriptlang.org/docs/handbook/react-&-webpack.html)
@@ -64,7 +71,7 @@ _<sup>https://www.typescriptlang.org/docs/handbook/jsx.html</sup>_
 _<sup>https://nestjs.com/</sup>_
 
 NestJS is a framework for building efficient, scalable Node.js web applications. It uses modern JavaScript, is built with TypeScript and combines elements of OOP (Object Oriented Progamming), FP (Func...
-* **tags**: [nodejs](../tagged/nodejs.md), [typescript](../tagged/typescript.md), [functional-programming](../tagged/functional-programming.md), [oop](../tagged/oop.md)
+* **tags**: [node.js](../tagged/node.js.md), [typescript](../tagged/typescript.md), [functional-programming](../tagged/functional-programming.md), [oop](../tagged/oop.md)
 * :octocat: **[source code](https://github.com/nestjs/nest)**
 ---
 #### [Basic Apollo Server](https://github.com/DxCx/webpack-graphql-server)
@@ -85,14 +92,14 @@ The adapter pattern allows you to make different classes with different interfac
 _<sup>http://v4.loopback.io/</sup>_
 
 LoopBack makes it easy to build modern API applications that require complex integrations.
-* **tags**: [nodejs](../tagged/nodejs.md), [typescript](../tagged/typescript.md), [openapi](../tagged/openapi.md), [rest](../tagged/rest.md)
+* **tags**: [node.js](../tagged/node.js.md), [typescript](../tagged/typescript.md), [openapi](../tagged/openapi.md), [rest](../tagged/rest.md)
 * :octocat: **[source code](https://github.com/strongloop/loopback-next)**
 ---
 #### [InversifyJS a powerful IoC container for JavaScript apps powered by TypeScript](http://inversify.io/)
 _<sup>http://inversify.io/</sup>_
 
 InversifyJS is a lightweight inversion of control (IoC) container for TypeScript and JavaScript apps.
-* **tags**: [nodejs](../tagged/nodejs.md), [typescript](../tagged/typescript.md), [javascript](../tagged/javascript.md)
+* **tags**: [node.js](../tagged/node.js.md), [typescript](../tagged/typescript.md), [javascript](../tagged/javascript.md)
 * :octocat: **[source code](https://github.com/inversify/InversifyJS/)**
 ---
 #### [intellij idea - WebStorm/PhpStorm double quotes in TypeScript auto import - Stack Overflow](https://stackoverflow.com/questions/39779272/webstorm-phpstorm-double-quotes-in-typescript-auto-import)
@@ -125,7 +132,7 @@ flex-layout - Provides HTML UI layout for Angular applications; using Flexbox an
 _<sup>http://www.midwayjs.org/pandora/en/</sup>_
 
 A Manageable, Measurable and Traceable Node.js Application Manager represented by Alibaba powered by TypeScript
-* **tags**: [nodejs](../tagged/nodejs.md), [typescript](../tagged/typescript.md)
+* **tags**: [node.js](../tagged/node.js.md), [typescript](../tagged/typescript.md)
 * :octocat: **[source code](https://github.com/midwayjs/pandora/)**
 ---
 #### [RESTful API In Node & Express With TypeScript & MongoDB - YouTube](https://www.youtube.com/watch?v=XqbBv1i9Yhc)
@@ -133,7 +140,7 @@ _<sup>https://www.youtube.com/watch?v=XqbBv1i9Yhc</sup>_
 
 This video covers writing a RESTful JSON API using Node, Express, MongoDB, Mongoose, and TypeScript. My other Node...
 * :calendar: **published on**: 2017-07-03
-* **tags**: [nodejs](../tagged/nodejs.md), [expressjs](../tagged/expressjs.md), [mongodb](../tagged/mongodb.md), [mongoose](../tagged/mongoose.md), [typescript](../tagged/typescript.md)
+* **tags**: [node.js](../tagged/node.js.md), [expressjs](../tagged/expressjs.md), [mongodb](../tagged/mongodb.md), [mongoose](../tagged/mongoose.md), [typescript](../tagged/typescript.md)
 * :octocat: **[source code](https://github.com/iamclaytonray/tes)**
 ---
 #### [@types/mongoose-promise does not override mongoose's default promise lib · Issue #10743 · DefinitelyTyped/DefinitelyTyped · GitHub](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/10743)
@@ -155,7 +162,7 @@ _<sup>http://azimi.me/2016/09/30/nyc-mocha-typescript.1.html</sup>_
 
 `package.json` + `mocha.opts` configuration to get mocha and instanbul running with typescript
 * :calendar: **published on**: 2016-09-30
-* **tags**: [nodejs](../tagged/nodejs.md), [unit-testing](../tagged/unit-testing.md), [mocha](../tagged/mocha.md), [instanbul](../tagged/instanbul.md), [code-coverage](../tagged/code-coverage.md), [typescript](../tagged/typescript.md)
+* **tags**: [node.js](../tagged/node.js.md), [unit-testing](../tagged/unit-testing.md), [mocha](../tagged/mocha.md), [instanbul](../tagged/instanbul.md), [code-coverage](../tagged/code-coverage.md), [typescript](../tagged/typescript.md)
 ---
 #### [Scalable Single-Page Application Architecture · Minko Gechev's blog](http://blog.mgechev.com/2016/04/10/scalable-javascript-single-page-app-angular2-application-architecture/)
 _<sup>http://blog.mgechev.com/2016/04/10/scalable-javascript-single-page-app-angular2-application-architec...</sup>_
@@ -181,7 +188,7 @@ In this post, we are going to present a series of video tutorials that cover som
 _<sup>https://github.com/TypeStrong/ts-node</sup>_
 
 TypeScript execution environment and REPL for node. Works with typescript@>=1.5.
-* **tags**: [nodejs](../tagged/nodejs.md), [typescript](../tagged/typescript.md)
+* **tags**: [node.js](../tagged/node.js.md), [typescript](../tagged/typescript.md)
 * :octocat: **[source code](https://github.com/TypeStrong/ts-node)**
 ---
 #### [TypeScript – Async and Await TypeScript – Async and Await | DEV6](https://www.dev6.com/TypeScriptAsyncandAwait)
@@ -197,7 +204,7 @@ _<sup>https://blog.risingstack.com/building-a-node-js-app-with-typescript-tutori
 
 This tutorial teaches how you can build, structure, test and debug a Node.js application written in TypeScript. To do so, we use an example project which you can access anytime later.
 * :calendar: **published on**: 2017-06-20
-* **tags**: [nodejs](../tagged/nodejs.md), [typescript](../tagged/typescript.md)
+* **tags**: [node.js](../tagged/node.js.md), [typescript](../tagged/typescript.md)
 * :octocat: **[source code](https://github.com/RisingStack/node-typescript-starter)**
 ---
 #### [TypeScript クイックガイド](http://phyzkit.net/typescript/)

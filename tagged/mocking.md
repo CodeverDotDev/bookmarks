@@ -22,7 +22,7 @@ It enables you to stay productive when an API you depend on doesn't exist or isn
 _<sup>https://github.com/marak/Faker.js/</sup>_
 
 generate massive amounts of realistic fake data in Node.js and the browser - Marak/faker.js
-* **tags**: [nodejs](../tagged/nodejs.md), [mocking](../tagged/mocking.md), [testing](../tagged/testing.md)
+* **tags**: [node.js](../tagged/node.js.md), [mocking](../tagged/mocking.md), [testing](../tagged/testing.md), [javascript](../tagged/javascript.md), [fake-data](../tagged/fake-data.md)
 * :octocat: **[source code](https://github.com/marak/Faker.js/)**
 ---
 #### [RequestBin](https://requestbin.com/)
@@ -270,6 +270,6 @@ _<sup>https://github.com/typicode/json-server</sup>_
 Create a _db.json_ file
 
 ...
-* **tags**: [nodejs](../tagged/nodejs.md), [mocking](../tagged/mocking.md), [testing](../tagged/testing.md)
+* **tags**: [node.js](../tagged/node.js.md), [mocking](../tagged/mocking.md), [testing](../tagged/testing.md)
 * :octocat: **[source code](https://github.com/typicode/json-server)**
 ---

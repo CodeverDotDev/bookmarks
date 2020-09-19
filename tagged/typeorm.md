@@ -13,6 +13,6 @@ Learn how to use a relational MySQL database with Firebase Cloud Functions and T
 _<sup>http://typeorm.io/</sup>_
 
 ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms...
-* **tags**: [typeorm](../tagged/typeorm.md), [typescript](../tagged/typescript.md), [javascript](../tagged/javascript.md), [orm](../tagged/orm.md), [mysql](../tagged/mysql.md), [postgresql](../tagged/postgresql.md), [nodejs](../tagged/nodejs.md)
+* **tags**: [typeorm](../tagged/typeorm.md), [typescript](../tagged/typescript.md), [javascript](../tagged/javascript.md), [orm](../tagged/orm.md), [mysql](../tagged/mysql.md), [postgresql](../tagged/postgresql.md), [node.js](../tagged/node.js.md)
 * :octocat: **[source code](https://github.com/typeorm/typeorm)**
 ---

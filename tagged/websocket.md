@@ -96,7 +96,7 @@ _<sup>https://itnext.io/building-a-node-js-websocket-chat-app-with-socket-io-and
 
 In this tutorial we are going to build a simple chat app based on WebSockets with socket.io and React.
 * :calendar: **published on**: 2018-02-22
-* **tags**: [nodejs](../tagged/nodejs.md), [reactjs](../tagged/reactjs.md), [websocket](../tagged/websocket.md)
+* **tags**: [node.js](../tagged/node.js.md), [reactjs](../tagged/reactjs.md), [websocket](../tagged/websocket.md)
 * :octocat: **[source code](https://github.com/justadudewhohacks/websocket-chat)**
 ---
 #### [HTML Standard - Websocket](https://html.spec.whatwg.org/multipage/web-sockets.html)

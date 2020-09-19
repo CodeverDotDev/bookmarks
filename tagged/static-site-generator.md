@@ -60,34 +60,34 @@ A static website and blog generator.
 _<sup>https://github.com/jnordberg/wintersmith</sup>_
 
 Flexible, minimalistic, multi-platform static site generator.
-* **tags**: [nodejs](../tagged/nodejs.md), [static-site-generator](../tagged/static-site-generator.md)
+* **tags**: [node.js](../tagged/node.js.md), [static-site-generator](../tagged/static-site-generator.md)
 * :octocat: **[source code](https://github.com/jnordberg/wintersmith)**
 ---
 #### [Assemble](https://github.com/assemble/assemble/)
 _<sup>https://github.com/assemble/assemble/</sup>_
 
 Static site generator for Node.js, Grunt.js, and Yeoman.
-* **tags**: [nodejs](../tagged/nodejs.md), [static-site-generator](../tagged/static-site-generator.md)
+* **tags**: [node.js](../tagged/node.js.md), [static-site-generator](../tagged/static-site-generator.md)
 * :octocat: **[source code](https://github.com/assemble/assemble/)**
 ---
 #### [DocPad](https://github.com/docpad/docpad)
 _<sup>https://github.com/docpad/docpad</sup>_
 
 Static site generator with dynamic abilities and huge plugin ecosystem.
-* **tags**: [nodejs](../tagged/nodejs.md), [static-site-generator](../tagged/static-site-generator.md)
+* **tags**: [node.js](../tagged/node.js.md), [static-site-generator](../tagged/static-site-generator.md)
 * :octocat: **[source code](https://github.com/docpad/docpad)**
 ---
 #### [Phenomic](https://github.com/phenomic/phenomic)
 _<sup>https://github.com/phenomic/phenomic</sup>_
 
 Modern static website generator based on the React and Webpack ecosystem.
-* **tags**: [nodejs](../tagged/nodejs.md), [static-site-generator](../tagged/static-site-generator.md)
+* **tags**: [node.js](../tagged/node.js.md), [static-site-generator](../tagged/static-site-generator.md)
 * :octocat: **[source code](https://github.com/phenomic/phenomic)**
 ---
 #### [docsify](https://github.com/QingWei-Li/docsify)
 _<sup>https://github.com/QingWei-Li/docsify</sup>_
 
 Markdown documentation site generator with no statically built HTML files.
-* **tags**: [nodejs](../tagged/nodejs.md), [static-site-generator](../tagged/static-site-generator.md)
+* **tags**: [node.js](../tagged/node.js.md), [static-site-generator](../tagged/static-site-generator.md)
 * :octocat: **[source code](https://github.com/QingWei-Li/docsify)**
 ---

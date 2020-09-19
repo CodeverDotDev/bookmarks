@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/intellij](https://www.bookmarks.dev/tagged/intellij)</sup></sup>_
 ---
+#### [Troubleshooting · Jest](https://jestjs.io/docs/en/troubleshooting)
+_<sup>https://jestjs.io/docs/en/troubleshooting</sup>_
+
+Uh oh, something went wrong? Use this guide to resolve issues with Jest.
+* **tags**: [jest](../tagged/jest.md), [troubleshooting](../tagged/troubleshooting.md), [debugging](../tagged/debugging.md), [testing](../tagged/testing.md), [intellij](../tagged/intellij.md), [vscode](../tagged/vscode.md), [webstorm](../tagged/webstorm.md)
+---
 #### [Rainbow Brackets - plugin for IntelliJ IDEs | JetBrains](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets)
 _<sup>https://plugins.jetbrains.com/plugin/10080-rainbow-brackets</sup>_
 

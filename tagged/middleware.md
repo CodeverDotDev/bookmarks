@@ -19,6 +19,6 @@ In his presentation at MicroXchg in Berlin, Sebastian Gauder described how he an
 _<sup>https://github.com/senchalabs/connect</sup>_
 
 Connect is a middleware layer for Node.js. 
-* **tags**: [nodejs](../tagged/nodejs.md), [middleware](../tagged/middleware.md)
+* **tags**: [node.js](../tagged/node.js.md), [middleware](../tagged/middleware.md)
 * :octocat: **[source code](https://github.com/senchalabs/connect)**
 ---

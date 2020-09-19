@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/docs](https://www.bookmarks.dev/tagged/docs)</sup></sup>_
 ---
+#### [Apache JMeter  User's Manual: Best Practices](https://jmeter.apache.org/usermanual/best-practices.html)
+_<sup>https://jmeter.apache.org/usermanual/best-practices.html</sup>_
+
+Some points to consider when writing load tests
+* **tags**: [jmeter](../tagged/jmeter.md), [docs](../tagged/docs.md)
+---
 #### [Common Batch Patterns](https://docs.spring.io/spring-batch/docs/current/reference/html/common-patterns.html)
 _<sup>https://docs.spring.io/spring-batch/docs/current/reference/html/common-patterns.html</sup>_
 
@@ -58,7 +64,7 @@ _<sup>https://googleapis.dev/nodejs/pubsub/latest/index.html</sup>_
 Cloud Pub/Sub is a fully-managed real-time messaging service that allows you to send and receive messages between independent applications.
 
 This document contains to an API reference, samples, and ot...
-* **tags**: [nodejs](../tagged/nodejs.md), [google-pubsub](../tagged/google-pubsub.md), [docs](../tagged/docs.md)
+* **tags**: [node.js](../tagged/node.js.md), [google-pubsub](../tagged/google-pubsub.md), [docs](../tagged/docs.md)
 ---
 #### [Spring Boot Reference Documentation](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
 _<sup>https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/</sup>_
@@ -221,13 +227,13 @@ _<sup>https://nodejs.org/api/stream.html</sup>_
 A stream is an abstract interface for working with streaming data in Node.js. The `stream` module provides a base API that makes it easy to build objects that implement the stream interface.
 
 There ar...
-* **tags**: [nodejs](../tagged/nodejs.md), [docs](../tagged/docs.md)
+* **tags**: [node.js](../tagged/node.js.md), [docs](../tagged/docs.md)
 ---
 #### [Events | Node.js Documentation](https://nodejs.org/api/events.html)
 _<sup>https://nodejs.org/api/events.html</sup>_
 
 Much of the Node.js core API is built around an idiomatic asynchronous event-driven architecture in which certain kinds of objects (called "emitters") periodically emit named events that cause Functio...
-* **tags**: [nodejs](../tagged/nodejs.md), [docs](../tagged/docs.md)
+* **tags**: [node.js](../tagged/node.js.md), [docs](../tagged/docs.md)
 ---
 #### [Introduction](https://www.getpostman.com/docs/)
 _<sup>https://www.getpostman.com/docs/</sup>_
@@ -239,7 +245,7 @@ Install, sending API Requests, collections, api documentation etc.
 _<sup>https://nodejs.org/api/crypto.html</sup>_
 
 The `crypto` module provides cryptographic functionality that includes a set of wrappers for OpenSSL's hash, HMAC, cipher, decipher, sign and verify functions.
-* **tags**: [nodejs](../tagged/nodejs.md), [security](../tagged/security.md), [docs](../tagged/docs.md)
+* **tags**: [node.js](../tagged/node.js.md), [security](../tagged/security.md), [docs](../tagged/docs.md)
 ---
 #### [Introduction · Bootstrap ](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
 _<sup>https://getbootstrap.com/docs/4.0/getting-started/introduction/</sup>_
@@ -348,7 +354,7 @@ _<sup>https://nodejs.org/api/path.html</sup>_
 The `path` module provides utilities for working with file and directory paths. It can be accessed using:
 
 
-* **tags**: [nodejs](../tagged/nodejs.md), [docs](../tagged/docs.md)
+* **tags**: [node.js](../tagged/node.js.md), [docs](../tagged/docs.md)
 ---
 #### [Webpack: an introduction - ts - GUIDE](https://angular.io/guide/webpack)
 _<sup>https://angular.io/guide/webpack</sup>_
@@ -442,7 +448,7 @@ _<sup>https://docs.npmjs.com/cli/ls</sup>_
 List all installed packages. You can filter via `grep` to find out version of a package is installed. Use `--depth` to display max depth of the dependency tree
 
 ...
-* **tags**: [npm](../tagged/npm.md), [docs](../tagged/docs.md), [nodejs](../tagged/nodejs.md)
+* **tags**: [npm](../tagged/npm.md), [docs](../tagged/docs.md), [node.js](../tagged/node.js.md)
 ---
 #### [Welcome - Jekyll • Simple, blog-aware, static sites](http://jekyllrb.com/docs/home/)
 _<sup>http://jekyllrb.com/docs/home/</sup>_
@@ -456,7 +462,7 @@ _<sup>https://docs.npmjs.com/files/package.json</sup>_
 This document is all you need to know about what's required in your package.json file. It must be actual JSON, not just a JavaScript object literal.
 
 A lot of the behavior described in this document i...
-* **tags**: [nodejs](../tagged/nodejs.md), [npm](../tagged/npm.md), [docs](../tagged/docs.md)
+* **tags**: [node.js](../tagged/node.js.md), [npm](../tagged/npm.md), [docs](../tagged/docs.md)
 ---
 #### [Docs | Node.js](https://nodejs.org/en/docs/)
 _<sup>https://nodejs.org/en/docs/</sup>_
@@ -467,7 +473,7 @@ There are several types of documentation available on this website:
 * ES6 features
 * Frequently asked questions
 * Guides
-* **tags**: [nodejs](../tagged/nodejs.md), [docs](../tagged/docs.md)
+* **tags**: [node.js](../tagged/node.js.md), [docs](../tagged/docs.md)
 ---
 #### [Angular.io - Component Interaction](https://angular.io/guide/component-interaction)
 _<sup>https://angular.io/guide/component-interaction</sup>_

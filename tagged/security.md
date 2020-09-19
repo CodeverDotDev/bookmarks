@@ -70,7 +70,7 @@ _<sup>https://auth0.com/blog/react-tutorial-building-and-securing-your-first-app
 
 Introduction to React and its components and routers. Tutorial of how to build a simple Q&A React app - secure backend API with Node.js and Express.
 * :calendar: **published on**: 2018-08-28
-* **tags**: [reactjs](../tagged/reactjs.md), [react-router](../tagged/react-router.md), [nodejs](../tagged/nodejs.md), [expressjs](../tagged/expressjs.md), [axios](../tagged/axios.md), [authentication](../tagged/authentication.md), [security](../tagged/security.md)
+* **tags**: [reactjs](../tagged/reactjs.md), [react-router](../tagged/react-router.md), [node.js](../tagged/node.js.md), [expressjs](../tagged/expressjs.md), [axios](../tagged/axios.md), [authentication](../tagged/authentication.md), [security](../tagged/security.md)
 * :octocat: **[source code](https://github.com/auth0-blog/react-tutorial)**
 ---
 #### [WordPress Malware Redirect Hack - How To Detect & Fix It](https://secure.wphackedhelp.com/blog/wordpress-malware-redirect-hack-cleanup/)
@@ -444,21 +444,21 @@ Secure XSS Filters by Yahoo
 _<sup>https://github.com/Snyk/snyk</sup>_
 
 CLI and build-time tool to find & fix vulnerable npm dependencies.
-* **tags**: [nodejs](../tagged/nodejs.md), [security](../tagged/security.md)
+* **tags**: [node.js](../tagged/node.js.md), [security](../tagged/security.md)
 * :octocat: **[source code](https://github.com/Snyk/snyk)**
 ---
 #### [upash](https://github.com/simonepri/upash)
 _<sup>https://github.com/simonepri/upash</sup>_
 
 Unified API for all password hashing algorithms.
-* **tags**: [nodejs](../tagged/nodejs.md), [security](../tagged/security.md)
+* **tags**: [node.js](../tagged/node.js.md), [security](../tagged/security.md)
 * :octocat: **[source code](https://github.com/simonepri/upash)**
 ---
 #### [GuardRails](https://github.com/apps/guardrails)
 _<sup>https://github.com/apps/guardrails</sup>_
 
 GitHub app that provides security feedback in pull requests.
-* **tags**: [nodejs](../tagged/nodejs.md), [security](../tagged/security.md)
+* **tags**: [node.js](../tagged/node.js.md), [security](../tagged/security.md)
 * :octocat: **[source code](https://github.com/apps/guardrails)**
 ---
 #### [Apache Shiro](https://shiro.apache.org)
@@ -691,7 +691,7 @@ The Docker Bench for Security is a script that checks for dozens of common best-
 _<sup>https://github.com/lirantal/awesome-nodejs-security#readme</sup>_
 
 Awesome Node.js Security resources. Contribute to lirantal/awesome-nodejs-security development by creating an account on GitHub.
-* **tags**: [awesome-list](../tagged/awesome-list.md), [nodejs](../tagged/nodejs.md), [security](../tagged/security.md)
+* **tags**: [awesome-list](../tagged/awesome-list.md), [node.js](../tagged/node.js.md), [security](../tagged/security.md)
 * :octocat: **[source code](https://github.com/lirantal/awesome-nodejs-security)**
 ---
 #### [The Nuts and Bolts of API Security: Protecting Your Data at All Times - YouTube](https://www.youtube.com/watch?v=tj03NRM6SP8)
@@ -848,7 +848,7 @@ Cloud Security Alliance Industry Blog
 _<sup>http://www.passportjs.org/</sup>_
 
 Simple, unobtrusive authentication for Node.js
-* **tags**: [nodejs](../tagged/nodejs.md), [security](../tagged/security.md)
+* **tags**: [node.js](../tagged/node.js.md), [security](../tagged/security.md)
 * :octocat: **[source code](https://github.com/jaredhanson/passport)**
 ---
 #### [Role-based access control - Wikipedia](https://en.wikipedia.org/wiki/Role-based_access_control)
@@ -1020,7 +1020,7 @@ _<sup>https://nemethgergely.com/nodejs-security-overview/</sup>_
 
 A look at where we are with Node.js security, and what you can do to keep your customer's data safe
 * :calendar: **published on**: 2017-10-12
-* **tags**: [nodejs](../tagged/nodejs.md), [security](../tagged/security.md)
+* **tags**: [node.js](../tagged/node.js.md), [security](../tagged/security.md)
 ---
 #### [Angular Authentication: Using the Http Client and Http Interceptors](https://medium.com/@ryanchenkie_40935/angular-authentication-using-the-http-client-and-http-interceptors-2f9d1540eb8)
 _<sup>https://medium.com/@ryanchenkie_40935/angular-authentication-using-the-http-client-and-http-intercep...</sup>_
@@ -1047,7 +1047,7 @@ A Step-by-Step Guide for learning JSON Web Tokens, including signatures,  single
 _<sup>https://nodejs.org/api/crypto.html</sup>_
 
 The `crypto` module provides cryptographic functionality that includes a set of wrappers for OpenSSL's hash, HMAC, cipher, decipher, sign and verify functions.
-* **tags**: [nodejs](../tagged/nodejs.md), [security](../tagged/security.md), [docs](../tagged/docs.md)
+* **tags**: [node.js](../tagged/node.js.md), [security](../tagged/security.md), [docs](../tagged/docs.md)
 ---
 #### [SHA-256 hash calculator. Online SHA-256 hash generator. Mining Bitcoin](http://www.xorbin.com/tools/sha256-hash-calculator)
 _<sup>http://www.xorbin.com/tools/sha256-hash-calculator</sup>_

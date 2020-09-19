@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/profiler](https://www.bookmarks.dev/tagged/profiler)</sup></sup>_
 ---
+#### [idealo/mongodb-slow-operations-profiler](https://github.com/idealo/mongodb-slow-operations-profiler)
+_<sup>https://github.com/idealo/mongodb-slow-operations-profiler</sup>_
+
+This java web application collects and stores slow operations from one or more mongoDB system(s) in order to visualize and analyze them. 
+* **tags**: [mongodb](../tagged/mongodb.md), [performance](../tagged/performance.md), [profiler](../tagged/profiler.md)
+* :octocat: **[source code](https://github.com/idealo/mongodb-slow-operations-profiler)**
+---
 #### [batch-loader](https://github.com/exaspark/batch-loader)
 _<sup>https://github.com/exaspark/batch-loader</sup>_
 

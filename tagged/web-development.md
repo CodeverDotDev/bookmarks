@@ -28,7 +28,7 @@ _<sup>https://www.youtube.com/watch?v=cCOL7MC4Pl0</sup>_
 
 Have you ever had a bug where things were happening in the wrong order, or particular style changes were being ignored? Ever fixed that bug by wrapping a section of code in a `setTimeout`? Ever found ...
 * :calendar: **published on**: 2018-02-09
-* **tags**: [JavaScript](../tagged/JavaScript.md), [Event-Loop](../tagged/Event-Loop.md), [Web-Development](../tagged/Web-Development.md), [Browser](../tagged/Browser.md)
+* **tags**: [javascript](../tagged/javascript.md), [event-loop](../tagged/event-loop.md), [web-development](../tagged/web-development.md), [browser](../tagged/browser.md)
 ---
 #### [Web Skills](https://andreasbm.github.io/web-skills/)
 _<sup>https://andreasbm.github.io/web-skills/</sup>_

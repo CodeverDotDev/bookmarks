@@ -6,11 +6,11 @@ _<sup><sup>[www.bookmarks.dev/tagged/newsletters](https://www.bookmarks.dev/tagg
 _<sup>http://nodeweekly.com</sup>_
 
 Weekly e-mail round-up of Node.js news and articles.
-* **tags**: [nodejs](../tagged/nodejs.md), [newsletters](../tagged/newsletters.md)
+* **tags**: [node.js](../tagged/node.js.md), [newsletters](../tagged/newsletters.md)
 ---
 #### [Node Module Of The Week!](https://nmotw.in)
 _<sup>https://nmotw.in</sup>_
 
 Weekly dose of hand picked node modules.
-* **tags**: [nodejs](../tagged/nodejs.md), [newsletters](../tagged/newsletters.md)
+* **tags**: [node.js](../tagged/node.js.md), [newsletters](../tagged/newsletters.md)
 ---

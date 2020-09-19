@@ -2,6 +2,36 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/performance](https://www.bookmarks.dev/tagged/performance)</sup></sup>_
 ---
+#### [GitHub - aFarkas/lazysizes](https://github.com/aFarkas/lazysizes)
+_<sup>https://github.com/aFarkas/lazysizes</sup>_
+
+High performance and SEO friendly lazy loader for images (responsive and normal), iframes and more, that detects any visibility changes triggered through user interaction, CSS or JavaScript without co...
+* **tags**: [performance](../tagged/performance.md), [web-app](../tagged/web-app.md), [javascript](../tagged/javascript.md)
+* :octocat: **[source code](https://github.com/aFarkas/lazysizes)**
+---
+#### [idealo/mongodb-slow-operations-profiler](https://github.com/idealo/mongodb-slow-operations-profiler)
+_<sup>https://github.com/idealo/mongodb-slow-operations-profiler</sup>_
+
+This java web application collects and stores slow operations from one or more mongoDB system(s) in order to visualize and analyze them. 
+* **tags**: [mongodb](../tagged/mongodb.md), [performance](../tagged/performance.md), [profiler](../tagged/profiler.md)
+* :octocat: **[source code](https://github.com/idealo/mongodb-slow-operations-profiler)**
+---
+#### [Troubleshooting MongoDB 100% CPU load and slow queries ](https://medium.com/@igorkhomenko/troubleshooting-mongodb-100-cpu-load-and-slow-queries-da622c6e1339)
+_<sup>https://medium.com/@igorkhomenko/troubleshooting-mongodb-100-cpu-load-and-slow-queries-da622c6e1339</sup>_
+
+In this article I’m going to cover 3 main things:
+* How to detect the queries that lead to CPU load spikes: solution N1
+* How to detect the queries that lead to CPU load spikes: solution N2
+* How to g...
+* :calendar: **published on**: 2017-11-16
+* **tags**: [mongodb](../tagged/mongodb.md), [troubleshooting](../tagged/troubleshooting.md), [performance](../tagged/performance.md)
+---
+#### [Apache JMeter home page](https://jmeter.apache.org/)
+_<sup>https://jmeter.apache.org/</sup>_
+
+The Apache JMeter™ application is open source software, a 100% pure Java application designed to load test functional behavior and measure performance. It was originally designed for testing Web Appli...
+* **tags**: [jmeter](../tagged/jmeter.md), [performance](../tagged/performance.md), [testing](../tagged/testing.md), [java](../tagged/java.md)
+---
 #### [GitHub - thedaviddias/Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist)
 _<sup>https://github.com/thedaviddias/Front-End-Performance-Checklist</sup>_
 
@@ -41,7 +71,7 @@ _<sup>https://nodejs.org/ru/docs/guides/dont-block-the-event-loop/</sup>_
 If you're writing anything more complicated than a brief command-line script, reading this should help you write higher-performance, more-secure applications.
 
 This do...
-* **tags**: [nodejs](../tagged/nodejs.md), [event-loop](../tagged/event-loop.md), [asynchronous](../tagged/asynchronous.md), [performance](../tagged/performance.md)
+* **tags**: [node.js](../tagged/node.js.md), [event-loop](../tagged/event-loop.md), [asynchronous](../tagged/asynchronous.md), [performance](../tagged/performance.md)
 ---
 #### [Agrona](https://github.com/real-logic/Agrona)
 _<sup>https://github.com/real-logic/Agrona</sup>_
@@ -139,14 +169,14 @@ Thanks to mobile device and network proliferation, more people are using the web
 _<sup>https://rclayton.silvrback.com/speaking-intelligently-about-java-vs-node-performance</sup>_
 
 Speaking Intelligently about "Java vs Node" Performance - Please understand what's really important when it comes to the benefits of a platform.
-* **tags**: [java](../tagged/java.md), [nodejs](../tagged/nodejs.md), [performance](../tagged/performance.md), [concurrency](../tagged/concurrency.md), [benchmarking](../tagged/benchmarking.md)
+* **tags**: [java](../tagged/java.md), [node.js](../tagged/node.js.md), [performance](../tagged/performance.md), [concurrency](../tagged/concurrency.md), [benchmarking](../tagged/benchmarking.md)
 ---
 #### [5 Tips to Increase Node.js Application Performance](https://www.nginx.com/blog/5-performance-tips-for-node-js-applications/)
 _<sup>https://www.nginx.com/blog/5-performance-tips-for-node-js-applications/</sup>_
 
 Achieve high performance with node.js applications with these 5 tips from NGINX, including how to use a reverse proxy server, load balancer, and caching.
 * :calendar: **published on**: 2015-11-16
-* **tags**: [nginx](../tagged/nginx.md), [nodejs](../tagged/nodejs.md), [performance](../tagged/performance.md), [optimization](../tagged/optimization.md)
+* **tags**: [nginx](../tagged/nginx.md), [node.js](../tagged/node.js.md), [performance](../tagged/performance.md), [optimization](../tagged/optimization.md)
 ---
 #### [The Architecture of Open Source Applications (Volume 2) - nginx](http://www.aosabook.org/en/nginx.html)
 _<sup>http://www.aosabook.org/en/nginx.html</sup>_
@@ -159,7 +189,7 @@ _<sup>https://www.youtube.com/watch?v=K8spO4hHMhg</sup>_
 
 I will be taking you through the variety of resource bottlenecks you can expect to run into, like network, memory, disk and cpu. I’ll touch upon how to find these bottlenecks and what technologies you...
 * :calendar: **published on**: 2018-04-06
-* **tags**: [nodejs](../tagged/nodejs.md), [performance](../tagged/performance.md)
+* **tags**: [node.js](../tagged/node.js.md), [performance](../tagged/performance.md)
 ---
 #### [Exponential Backoff And Jitter | AWS Architecture Blog](https://aws.amazon.com/blogs/architecture/exponential-backoff-and-jitter/)
 _<sup>https://aws.amazon.com/blogs/architecture/exponential-backoff-and-jitter/</sup>_

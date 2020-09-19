@@ -6,6 +6,6 @@ _<sup><sup>[www.bookmarks.dev/tagged/query-builder](https://www.bookmarks.dev/ta
 _<sup>https://github.com/tgriesser/knex</sup>_
 
 Query builder for PostgreSQL, MySQL and SQLite3, designed to be flexible, portable, and fun to use.
-* **tags**: [nodejs](../tagged/nodejs.md), [database](../tagged/database.md), [query-builder](../tagged/query-builder.md)
+* **tags**: [node.js](../tagged/node.js.md), [database](../tagged/database.md), [query-builder](../tagged/query-builder.md)
 * :octocat: **[source code](https://github.com/tgriesser/knex)**
 ---

@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/version-control](https://www.bookmarks.dev/tagged/version-control)</sup></sup>_
 ---
+#### [What&#39;s the difference between git reset --mixed, --soft, and --hard?](https://stackoverflow.com/questions/3528245/whats-the-difference-between-git-reset-mixed-soft-and-hard)
+_<sup>https://stackoverflow.com/questions/3528245/whats-the-difference-between-git-reset-mixed-soft-and-ha...</sup>_
+
+Nice explanation with example
+* :calendar: **published on**: 2010-08-20
+* **tags**: [git](../tagged/git.md), [version-control](../tagged/version-control.md)
+---
 #### [Why I love trunk based development | Mattia Battiston | Medium](https://medium.com/@mattia.battiston/why-i-love-trunk-based-development-641fcf0b94a0)
 _<sup>https://medium.com/@mattia.battiston/why-i-love-trunk-based-development-641fcf0b94a0</sup>_
 

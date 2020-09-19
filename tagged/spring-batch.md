@@ -2,6 +2,15 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/spring-batch](https://www.bookmarks.dev/tagged/spring-batch)</sup></sup>_
 ---
+#### [Testing a Spring Batch Job](https://www.baeldung.com/spring-batch-testing-job)
+_<sup>https://www.baeldung.com/spring-batch-testing-job</sup>_
+
+In this tutorial, we'll explore the various approaches of testing a Spring Batch job.
+
+End-to-end testing verifies the complete execution of the job. Testing individual steps may help in complex scena...
+* **tags**: [spring-batch](../tagged/spring-batch.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/eugenp/tutorials/tree/master/spring-batch)**
+---
 #### [Spring Batch - Tasklets vs Chunks](https://www.baeldung.com/spring-batch-tasklet-chunk)
 _<sup>https://www.baeldung.com/spring-batch-tasklet-chunk</sup>_
 

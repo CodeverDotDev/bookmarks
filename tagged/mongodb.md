@@ -2,6 +2,23 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/mongodb](https://www.bookmarks.dev/tagged/mongodb)</sup></sup>_
 ---
+#### [idealo/mongodb-slow-operations-profiler](https://github.com/idealo/mongodb-slow-operations-profiler)
+_<sup>https://github.com/idealo/mongodb-slow-operations-profiler</sup>_
+
+This java web application collects and stores slow operations from one or more mongoDB system(s) in order to visualize and analyze them. 
+* **tags**: [mongodb](../tagged/mongodb.md), [performance](../tagged/performance.md), [profiler](../tagged/profiler.md)
+* :octocat: **[source code](https://github.com/idealo/mongodb-slow-operations-profiler)**
+---
+#### [Troubleshooting MongoDB 100% CPU load and slow queries ](https://medium.com/@igorkhomenko/troubleshooting-mongodb-100-cpu-load-and-slow-queries-da622c6e1339)
+_<sup>https://medium.com/@igorkhomenko/troubleshooting-mongodb-100-cpu-load-and-slow-queries-da622c6e1339</sup>_
+
+In this article I’m going to cover 3 main things:
+* How to detect the queries that lead to CPU load spikes: solution N1
+* How to detect the queries that lead to CPU load spikes: solution N2
+* How to g...
+* :calendar: **published on**: 2017-11-16
+* **tags**: [mongodb](../tagged/mongodb.md), [troubleshooting](../tagged/troubleshooting.md), [performance](../tagged/performance.md)
+---
 #### [Node - Exclude fields from select with Mongoose/MongoDB · Curtis Larson's Blog](https://www.curtismlarson.com/blog/2016/05/11/mongoose-mongodb-exclude-select-fields/)
 _<sup>https://www.curtismlarson.com/blog/2016/05/11/mongoose-mongodb-exclude-select-fields/</sup>_
 
@@ -22,7 +39,7 @@ _<sup>https://www.youtube.com/watch?v=CnailTcJV_U</sup>_
 
 In this video we talk about Bob Martin's Clean Architecture model and I will show you how we can apply it to a Microservice built in node.js with MongoDB and...
 * :calendar: **published on**: 2019-04-22
-* **tags**: [nodejs](../tagged/nodejs.md), [clean-code](../tagged/clean-code.md), [expressjs](../tagged/expressjs.md), [mongodb](../tagged/mongodb.md)
+* **tags**: [node.js](../tagged/node.js.md), [clean-code](../tagged/clean-code.md), [expressjs](../tagged/expressjs.md), [mongodb](../tagged/mongodb.md)
 * :octocat: **[source code](https://github.com/dev-mastery/comments-api)**
 ---
 #### [Docker compose with Node.js and MongoDB - Hagai Kahana - Medium](https://medium.com/@kahana.hagai/docker-compose-with-node-js-and-mongodb-dbdadab5ce0a)
@@ -32,7 +49,7 @@ This is the first of a series of posts trying to demonstrate real (simple) examp
 
 The purpose of this post is ...
 * :calendar: **published on**: 2017-12-03
-* **tags**: [docker-compose](../tagged/docker-compose.md), [mongodb](../tagged/mongodb.md), [nodejs](../tagged/nodejs.md)
+* **tags**: [docker-compose](../tagged/docker-compose.md), [mongodb](../tagged/mongodb.md), [node.js](../tagged/node.js.md)
 * :octocat: **[source code](https://github.com/hagaik/easy-node-authentication)**
 ---
 #### [awesome-mongodb](https://github.com/ramnes/awesome-mongodb#readme)
@@ -86,7 +103,7 @@ _<sup>http://www.codepedia.org/ama/cleaner-code-in-nodejs-with-async-await-mongo
 
 Example showing migration of Mongoose calls from previously using callbacks to using the new async-await feature in NodeJs
 * :calendar: **published on**: 2017-11-05
-* **tags**: [nodejs](../tagged/nodejs.md), [async-await](../tagged/async-await.md), [mongoose](../tagged/mongoose.md), [mongodb](../tagged/mongodb.md)
+* **tags**: [node.js](../tagged/node.js.md), [async-await](../tagged/async-await.md), [mongoose](../tagged/mongoose.md), [mongodb](../tagged/mongodb.md)
 * :octocat: **[source code](https://github.com/CodepediaOrg/bookmarks.dev-api)**
 ---
 #### [mongoose-unique-validator](https://github.com/blakehaswell/mongoose-unique-validator)
@@ -95,7 +112,7 @@ _<sup>https://github.com/blakehaswell/mongoose-unique-validator</sup>_
 mongoose-unique-validator is a plugin which adds pre-save validation for unique fields within a Mongoose schema.
 
 This makes error handling much easier, since you will get a Mongoose validation error ...
-* **tags**: [nodejs](../tagged/nodejs.md), [mongoose](../tagged/mongoose.md), [mongodb](../tagged/mongodb.md)
+* **tags**: [node.js](../tagged/node.js.md), [mongoose](../tagged/mongoose.md), [mongodb](../tagged/mongodb.md)
 * :octocat: **[source code](https://github.com/blakehaswell/mongoose-unique-validator)**
 ---
 #### [Docker Official Image packaging for MongoDB](https://github.com/docker-library/mongo)
@@ -110,7 +127,7 @@ _<sup>https://medium.com/@xoor/dockerizing-a-node-js-and-mongodb-app-f9d80fdb280
 
 Docker has become an extremely popular tool not only among DevOps and Infrastructure people, but also for the daily work of any developer. Simple with examples for beginners.
 * :calendar: **published on**: 2017-10-22
-* **tags**: [docker](../tagged/docker.md), [mongodb](../tagged/mongodb.md), [nodejs](../tagged/nodejs.md), [expressjs](../tagged/expressjs.md), [docker-compose](../tagged/docker-compose.md)
+* **tags**: [docker](../tagged/docker.md), [mongodb](../tagged/mongodb.md), [node.js](../tagged/node.js.md), [expressjs](../tagged/expressjs.md), [docker-compose](../tagged/docker-compose.md)
 * :octocat: **[source code](https://github.com/mpayetta/express-node-docker)**
 ---
 #### [Using MongoDB as realtime DB with nodeJS. – Noteworthy - The Journal Blog](https://blog.usejournal.com/using-mongodb-as-realtime-db-with-nodejs-c6f52c266750)
@@ -118,14 +135,14 @@ _<sup>https://blog.usejournal.com/using-mongodb-as-realtime-db-with-nodejs-c6f52
 
 Have you ever run into a scenario where you wanted to update your UI as soon as there is some change to your Mongo database ? For example, A new user gets added and you wanted that change to reflect…
 * :calendar: **published on**: 2018-10-03
-* **tags**: [mongodb](../tagged/mongodb.md), [mongoose](../tagged/mongoose.md), [nodejs](../tagged/nodejs.md)
+* **tags**: [mongodb](../tagged/mongodb.md), [mongoose](../tagged/mongoose.md), [node.js](../tagged/node.js.md)
 ---
 #### [Deploy a MERN stack app on Heroku – Crowdbotics – Medium](https://medium.com/crowdbotics/deploy-a-mern-stack-app-on-heroku-b0c255744a70)
 _<sup>https://medium.com/crowdbotics/deploy-a-mern-stack-app-on-heroku-b0c255744a70</sup>_
 
 In this article, I will describe how to take an existing Web Application that is build using MongoDB, ExpressJS, Node.js, and React (often called as MERN stack) on a deployment service like Heroku
 * :calendar: **published on**: 2018-10-12
-* **tags**: [reactjs](../tagged/reactjs.md), [mern](../tagged/mern.md), [nodejs](../tagged/nodejs.md), [mongodb](../tagged/mongodb.md), [expressjs](../tagged/expressjs.md)
+* **tags**: [reactjs](../tagged/reactjs.md), [mern](../tagged/mern.md), [node.js](../tagged/node.js.md), [mongodb](../tagged/mongodb.md), [expressjs](../tagged/expressjs.md)
 * :octocat: **[source code](https://github.com/amandeepmittal/deploy-mern-on-heroku)**
 ---
 #### [A Node.js Perspective on MongoDB 4.0: Transactions](http://thecodebarbarian.com/a-node-js-perspective-on-mongodb-4-transactions.html)
@@ -133,20 +150,20 @@ _<sup>http://thecodebarbarian.com/a-node-js-perspective-on-mongodb-4-transaction
 
 Transactions are undoubtedly the most important new feature in MongoDB 4.0. MongoDB has supported ACID for single document operations for many years, and denormalized data meant many apps didn't need ...
 * :calendar: **published on**: 2018-07-02
-* **tags**: [nodejs](../tagged/nodejs.md), [mongodb](../tagged/mongodb.md), [mongoose](../tagged/mongoose.md)
+* **tags**: [node.js](../tagged/node.js.md), [mongodb](../tagged/mongodb.md), [mongoose](../tagged/mongoose.md)
 ---
 #### [javascript - Mongoose Model.save() hangs when called from node.js app - Stack Overflow](https://stackoverflow.com/questions/12030371/mongoose-model-save-hangs-when-called-from-node-js-app)
 _<sup>https://stackoverflow.com/questions/12030371/mongoose-model-save-hangs-when-called-from-node-js-app</sup>_
 
 You haven't created a connection for Mongoose to use by default. Replace this:
 ...
-* **tags**: [mongoose](../tagged/mongoose.md), [mongodb](../tagged/mongodb.md), [nodejs](../tagged/nodejs.md)
+* **tags**: [mongoose](../tagged/mongoose.md), [mongodb](../tagged/mongodb.md), [node.js](../tagged/node.js.md)
 ---
 #### [MongoDB Node.js Driver](http://mongodb.github.io/node-mongodb-native/)
 _<sup>http://mongodb.github.io/node-mongodb-native/</sup>_
 
 The official MongoDB Node.js driver provides both callback-based and Promise-based interaction with MongoDB, allowing applications to take full advantage of the new features in ES6. 
-* **tags**: [mongodb](../tagged/mongodb.md), [nodejs](../tagged/nodejs.md)
+* **tags**: [mongodb](../tagged/mongodb.md), [node.js](../tagged/node.js.md)
 * :octocat: **[source code](https://github.com/mongodb/node-mongodb-native/)**
 ---
 #### [RESTful API In Node & Express With TypeScript & MongoDB - YouTube](https://www.youtube.com/watch?v=XqbBv1i9Yhc)
@@ -154,14 +171,14 @@ _<sup>https://www.youtube.com/watch?v=XqbBv1i9Yhc</sup>_
 
 This video covers writing a RESTful JSON API using Node, Express, MongoDB, Mongoose, and TypeScript. My other Node...
 * :calendar: **published on**: 2017-07-03
-* **tags**: [nodejs](../tagged/nodejs.md), [expressjs](../tagged/expressjs.md), [mongodb](../tagged/mongodb.md), [mongoose](../tagged/mongoose.md), [typescript](../tagged/typescript.md)
+* **tags**: [node.js](../tagged/node.js.md), [expressjs](../tagged/expressjs.md), [mongodb](../tagged/mongodb.md), [mongoose](../tagged/mongoose.md), [typescript](../tagged/typescript.md)
 * :octocat: **[source code](https://github.com/iamclaytonray/tes)**
 ---
 #### [GitHub - szokodiakos/typegoose: Typegoose - Define Mongoose models using TypeScript classes.](https://github.com/szokodiakos/typegoose)
 _<sup>https://github.com/szokodiakos/typegoose</sup>_
 
 typegoose - Typegoose - Define Mongoose models using TypeScript classes.
-* **tags**: [mongoose](../tagged/mongoose.md), [mongodb](../tagged/mongodb.md), [nodejs](../tagged/nodejs.md)
+* **tags**: [mongoose](../tagged/mongoose.md), [mongodb](../tagged/mongodb.md), [node.js](../tagged/node.js.md)
 * :octocat: **[source code](https://github.com/szokodiakos/typegoose)**
 ---
 #### [Common Async/Await Design Patterns in Node.js](http://thecodebarbarian.com/common-async-await-design-patterns-in-node.js.html)
@@ -169,7 +186,7 @@ _<sup>http://thecodebarbarian.com/common-async-await-design-patterns-in-node.js.
 
 Retry, parallel request, mongodb cursor etc.
 * :calendar: **published on**: 2017-03-15
-* **tags**: [nodejs](../tagged/nodejs.md), [async-await](../tagged/async-await.md), [mongodb](../tagged/mongodb.md)
+* **tags**: [node.js](../tagged/node.js.md), [async-await](../tagged/async-await.md), [mongodb](../tagged/mongodb.md)
 ---
 #### [Multi-line input in Mongo shell (Example)](https://coderwall.com/p/rmbswq/multi-line-input-in-mongo-shell)
 _<sup>https://coderwall.com/p/rmbswq/multi-line-input-in-mongo-shell</sup>_

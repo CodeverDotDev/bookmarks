@@ -395,27 +395,27 @@ A collection of tools and datasets for Chinese NLP.
 _<sup>https://github.com/wooorm/retext</sup>_
 
 An extensible natural language system.
-* **tags**: [nodejs](../tagged/nodejs.md), [nlp](../tagged/nlp.md), [natural-language-processing](../tagged/natural-language-processing.md)
+* **tags**: [node.js](../tagged/node.js.md), [nlp](../tagged/nlp.md), [natural-language-processing](../tagged/natural-language-processing.md)
 * :octocat: **[source code](https://github.com/wooorm/retext)**
 ---
 #### [franc](https://github.com/wooorm/franc)
 _<sup>https://github.com/wooorm/franc</sup>_
 
 Detect the language of text.
-* **tags**: [nodejs](../tagged/nodejs.md), [nlp](../tagged/nlp.md), [natural-language-processing](../tagged/natural-language-processing.md)
+* **tags**: [node.js](../tagged/node.js.md), [nlp](../tagged/nlp.md), [natural-language-processing](../tagged/natural-language-processing.md)
 * :octocat: **[source code](https://github.com/wooorm/franc)**
 ---
 #### [leven](https://github.com/sindresorhus/leven)
 _<sup>https://github.com/sindresorhus/leven</sup>_
 
 Measure the difference between two strings using the Levenshtein distance algorithm.
-* **tags**: [nodejs](../tagged/nodejs.md), [nlp](../tagged/nlp.md), [natural-language-processing](../tagged/natural-language-processing.md)
+* **tags**: [node.js](../tagged/node.js.md), [nlp](../tagged/nlp.md), [natural-language-processing](../tagged/natural-language-processing.md)
 * :octocat: **[source code](https://github.com/sindresorhus/leven)**
 ---
 #### [natural](https://github.com/NaturalNode/natural)
 _<sup>https://github.com/NaturalNode/natural</sup>_
 
 Natural language facility.
-* **tags**: [nodejs](../tagged/nodejs.md), [nlp](../tagged/nlp.md), [natural-language-processing](../tagged/natural-language-processing.md)
+* **tags**: [node.js](../tagged/node.js.md), [nlp](../tagged/nlp.md), [natural-language-processing](../tagged/natural-language-processing.md)
 * :octocat: **[source code](https://github.com/NaturalNode/natural)**
 ---

@@ -113,7 +113,7 @@ _<sup>https://medium.com/codingthesmartway-com-blog/creating-a-graphql-server-wi
 
 In this tutorial you’ll learn how to setup a GraphQL server with Node.js and Express. We’ll be using the Express middleware `express-graphql` in our example. Furthermore you’ll learn how to use GraphQ...
 * :calendar: **published on**: 2018-01-21
-* **tags**: [graphql](../tagged/graphql.md), [nodejs](../tagged/nodejs.md), [expressjs](../tagged/expressjs.md)
+* **tags**: [graphql](../tagged/graphql.md), [node.js](../tagged/node.js.md), [expressjs](../tagged/expressjs.md)
 ---
 #### [From REST to GraphQL a real world experiment - blog.dev-area.net](https://blog.dev-area.net/2017/01/17/from-rest-to-graphql/)
 _<sup>https://blog.dev-area.net/2017/01/17/from-rest-to-graphql/</sup>_

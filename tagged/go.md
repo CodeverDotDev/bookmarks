@@ -6,14 +6,14 @@ _<sup><sup>[www.bookmarks.dev/tagged/go](https://www.bookmarks.dev/tagged/go)</s
 _<sup>https://blog.risingstack.com/golang-tutorial-for-nodejs-developers-getting-started/</sup>_
 
 In case you are a Node.js developer (like we are at RisingStack) and you are interested in learning Golang, this blogpost is made for you! Throughout this tutorial series, we'll cover the basics of ge...
-* **tags**: [nodejs](../tagged/nodejs.md), [go](../tagged/go.md), [tutorials](../tagged/tutorials.md)
+* **tags**: [node.js](../tagged/node.js.md), [go](../tagged/go.md), [tutorials](../tagged/tutorials.md)
 * :octocat: **[source code](https://github.com/RisingStack/golang-tutorial-for-nodejs-developers-getting-started)**
 ---
 #### [Google Cloud Pub/Sub Tutorial](https://cloud.google.com/functions/docs/tutorials/pubsub)
 _<sup>https://cloud.google.com/functions/docs/tutorials/pubsub</sup>_
 
 This simple tutorial demonstrates writing, deploying, and triggering a [Background Cloud Function](https://cloud.google.com/functions/docs/writing/background) with a [Cloud Pub/Sub trigger](https://cl...
-* **tags**: [google-cloud-functions](../tagged/google-cloud-functions.md), [nodejs](../tagged/nodejs.md), [python](../tagged/python.md), [go](../tagged/go.md), [google-cloud-pubsub](../tagged/google-cloud-pubsub.md)
+* **tags**: [google-cloud-functions](../tagged/google-cloud-functions.md), [node.js](../tagged/node.js.md), [python](../tagged/python.md), [go](../tagged/go.md), [google-cloud-pubsub](../tagged/google-cloud-pubsub.md)
 * :octocat: **[source code](https://github.com/GoogleCloudPlatform/nodejs-docs-samples/tree/master/functions/helloworld)**
 ---
 #### [ChartMuseum - Helm Chart Repository](https://chartmuseum.com/docs/)
@@ -12263,7 +12263,7 @@ Go by Example is a hands-on introduction to Go using annotated example programs.
 _<sup>https://nemethgergely.com/learning-go-as-a-nodejs-developer/</sup>_
 
 In the past years, Kubernetes emerged as the go-to container scheduling and management platform. As I’d like to understand better what’s happening under the hood, I decided that I’ll learn the Go lang...
-* **tags**: [go](../tagged/go.md), [nodejs](../tagged/nodejs.md)
+* **tags**: [go](../tagged/go.md), [node.js](../tagged/node.js.md)
 ---
 #### [An Introduction to Programming in Go](https://www.golang-book.com/books/intro)
 _<sup>https://www.golang-book.com/books/intro</sup>_

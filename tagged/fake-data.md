@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/fake-data](https://www.bookmarks.dev/tagged/fake-data)</sup></sup>_
 ---
+#### [GitHub - Marak/faker.js Home Page](https://github.com/marak/Faker.js/)
+_<sup>https://github.com/marak/Faker.js/</sup>_
+
+generate massive amounts of realistic fake data in Node.js and the browser - Marak/faker.js
+* **tags**: [node.js](../tagged/node.js.md), [mocking](../tagged/mocking.md), [testing](../tagged/testing.md), [javascript](../tagged/javascript.md), [fake-data](../tagged/fake-data.md)
+* :octocat: **[source code](https://github.com/marak/Faker.js/)**
+---
 #### [mimesis](https://github.com/lk-geimfari/mimesis)
 _<sup>https://github.com/lk-geimfari/mimesis</sup>_
 

@@ -6,7 +6,7 @@ _<sup><sup>[www.bookmarks.dev/tagged/qa](https://www.bookmarks.dev/tagged/qa)</s
 _<sup>https://github.com/prettier/prettier</sup>_
 
 Prettier is an opinionated code formatter.
-* **tags**: [javascript](../tagged/javascript.md), [qa](../tagged/qa.md), [devtools](../tagged/devtools.md)
+* **tags**: [javascript](../tagged/javascript.md), [qa](../tagged/qa.md), [devtools](../tagged/devtools.md), [code-formatting](../tagged/code-formatting.md)
 * :octocat: **[source code](https://github.com/prettier/prettier)**
 ---
 #### [JSHint](https://github.com/jshint/jshint/)

@@ -7,19 +7,19 @@ _<sup>https://blog.kowalczyk.info/article/ea07db1b9bff415ab180b0525f3898f6/advan
 
 Puppeteer is a node.js library that makes it easy to do advanced web scraping and spidering.
 Older generation of web scraping and spidering tools would grab and analyze HTML pages as returned by a web...
-* **tags**: [nodejs](../tagged/nodejs.md), [puppeteer](../tagged/puppeteer.md), [web-scraping](../tagged/web-scraping.md)
+* **tags**: [node.js](../tagged/node.js.md), [puppeteer](../tagged/puppeteer.md), [web-scraping](../tagged/web-scraping.md)
 ---
 #### [Saving and scraping a website with Puppeteer](https://fettblog.eu/scraping-with-puppeteer/)
 _<sup>https://fettblog.eu/scraping-with-puppeteer/</sup>_
 
 For some of my performance audits I need an exact copy of the webpage as it is served by my clients infrastructure. In some cases, it can be hard to get to the actual artefact. So it’s easier to fetch...
-* **tags**: [javascript](../tagged/javascript.md), [nodejs](../tagged/nodejs.md), [puppeteer](../tagged/puppeteer.md)
+* **tags**: [javascript](../tagged/javascript.md), [node.js](../tagged/node.js.md), [puppeteer](../tagged/puppeteer.md)
 ---
 #### [Dynamic Social Sharing Images](https://24ways.org/2018/dynamic-social-sharing-images/)
 _<sup>https://24ways.org/2018/dynamic-social-sharing-images/</sup>_
 
 Show how to dynamically clip images from blog posts with puppeteer and nodejs
-* **tags**: [nodejs](../tagged/nodejs.md), [puppeteer](../tagged/puppeteer.md)
+* **tags**: [node.js](../tagged/node.js.md), [puppeteer](../tagged/puppeteer.md)
 * :octocat: **[source code](https://gist.github.com/drewm/993d2237e24a928151b953fa3964ce9c)**
 ---
 #### [GitHub - puppeteer/puppeteer: Headless Chrome Node.js API](https://github.com/puppeteer/puppeteer)
@@ -35,13 +35,13 @@ _<sup>https://medium.com/javascript-in-plain-english/generate-best-quality-pdf-o
 In this article, we will see how easy it is to generate PDF of any webpage using Nodejs and send the generated pdf back to the client side application.
 We will use puppeteer tool which is a headless c...
 * :calendar: **published on**: 2020-01-21
-* **tags**: [javascript](../tagged/javascript.md), [puppeteer](../tagged/puppeteer.md), [nodejs](../tagged/nodejs.md)
+* **tags**: [javascript](../tagged/javascript.md), [puppeteer](../tagged/puppeteer.md), [node.js](../tagged/node.js.md)
 * :octocat: **[source code](https://github.com/myogeshchavan97/pdf_generation_puppeteer)**
 ---
 #### [puppeteer home page](https://pptr.dev/)
 _<sup>https://pptr.dev/</sup>_
 
 Headless Chrome Node API 
-* **tags**: [puppeteer](../tagged/puppeteer.md), [nodejs](../tagged/nodejs.md), [chrome](../tagged/chrome.md)
+* **tags**: [puppeteer](../tagged/puppeteer.md), [node.js](../tagged/node.js.md), [chrome](../tagged/chrome.md)
 * :octocat: **[source code](https://github.com/GoogleChrome/puppeteer)**
 ---

@@ -74,7 +74,7 @@ _<sup>https://medium.com/the-node-js-collection/making-your-node-js-work-everywh
 
 This post walks you through creating and using environment variables, leading to a Node.js app you can run anywhere.
 * :calendar: **published on**: 2018-10-29
-* **tags**: [nodejs](../tagged/nodejs.md), [cloud](../tagged/cloud.md)
+* **tags**: [node.js](../tagged/node.js.md), [cloud](../tagged/cloud.md)
 * :octocat: **[source code](https://github.com/johnpapa/vikings)**
 ---
 #### [Gluster ](https://www.gluster.org/)
@@ -96,7 +96,7 @@ _<sup>https://blog.sourcerer.io/full-guide-to-developing-rest-apis-with-aws-api-
 
 In this article we’ll explore using AWS Lambda to develop a service using Node.js. Amazon recently announced an upgrade where developers using Lambda can now use an 8.10 runtime, which lets them use `...
 * :calendar: **published on**: 2018-05-09
-* **tags**: [cloud](../tagged/cloud.md), [serverless](../tagged/serverless.md), [nodejs](../tagged/nodejs.md), [aws](../tagged/aws.md)
+* **tags**: [cloud](../tagged/cloud.md), [serverless](../tagged/serverless.md), [node.js](../tagged/node.js.md), [aws](../tagged/aws.md)
 ---
 #### [Data Encryption Methods to Secure Your Cloud - Agile IT](https://www.agileit.com/news/data-encryption-methods-secure-cloud/)
 _<sup>https://www.agileit.com/news/data-encryption-methods-secure-cloud/</sup>_

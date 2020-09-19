@@ -2,6 +2,17 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/design](https://www.bookmarks.dev/tagged/design)</sup></sup>_
 ---
+#### [GitHub - madd86/awesome-system-design: A curated list of awesome System Design (A.K.A. Distributed Computing) resources.](https://github.com/madd86/awesome-system-design)
+_<sup>https://github.com/madd86/awesome-system-design</sup>_
+
+A curated list of awesome System Design (A.K.A. Distributed Computing) resources.  - madd86/awesome-system-design
+* **tags**: [design](../tagged/design.md)
+---
+#### [madd86/awesome-system-design: A curated list of awesome System Design (A.K.A. Distributed Computing) resources.](https://github.com/madd86/awesome-system-design#Message-Broker)
+_<sup>https://github.com/madd86/awesome-system-design#Message-Broker</sup>_
+
+* **tags**: [design](../tagged/design.md)
+---
 #### [Nodesign.dev | Design less develop more.](https://nodesign.dev/)
 _<sup>https://nodesign.dev/</sup>_
 

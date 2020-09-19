@@ -2,6 +2,14 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/redux](https://www.bookmarks.dev/tagged/redux)</sup></sup>_
 ---
+#### [Angular Application Architecture: Build Reux-like Apps with RxJs](https://blog.angular-university.io/angular-2-application-architecture-building-applications-using-rxjs-and-functional-reactive-programming-vs-redux/)
+_<sup>https://blog.angular-university.io/angular-2-application-architecture-building-applications-using-rx...</sup>_
+
+In this post, we are going to walk through how Angular applications can be built in a Functional Reactive style using the RxJs library that is part of Angular. We will go over the following topics:
+
+*...
+* **tags**: [angular](../tagged/angular.md), [rxjs](../tagged/rxjs.md), [functional-programming](../tagged/functional-programming.md), [redux](../tagged/redux.md)
+---
 #### [NGXS Home Page](https://www.ngxs.io/)
 _<sup>https://www.ngxs.io/</sup>_
 

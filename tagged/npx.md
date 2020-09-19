@@ -9,5 +9,5 @@ Those of you upgrading npm to its latest version, npm@5.2.0, might notice that i
 
 npx is a tool intended to help round out the experience of us...
 * :calendar: **published on**: 2017-07-11
-* **tags**: [npx](../tagged/npx.md), [npm](../tagged/npm.md), [nodejs](../tagged/nodejs.md)
+* **tags**: [npx](../tagged/npx.md), [npm](../tagged/npm.md), [node.js](../tagged/node.js.md)
 ---

@@ -9,5 +9,5 @@ Before you begin to run your Node.js application in a Docker container, or even 
 
 **Which base Node.js ...
 * :calendar: **published on**: 2017-03-09
-* **tags**: [nodejs](../tagged/nodejs.md), [docker](../tagged/docker.md), [alpine](../tagged/alpine.md)
+* **tags**: [node.js](../tagged/node.js.md), [docker](../tagged/docker.md), [alpine](../tagged/alpine.md)
 ---

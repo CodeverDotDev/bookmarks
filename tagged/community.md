@@ -205,35 +205,35 @@ Die neuesten Tweets von Kubernetes (@kubernetesio). Kubernetes: open source prod
 #### [Gitter](https://gitter.im/nodejs/node)
 _<sup>https://gitter.im/nodejs/node</sup>_
 
-* **tags**: [nodejs](../tagged/nodejs.md), [community](../tagged/community.md)
+* **tags**: [node.js](../tagged/node.js.md), [community](../tagged/community.md)
 ---
 #### [`#node.js` on Freenode](http://webchat.freenode.net/?channels=node.js)
 _<sup>http://webchat.freenode.net/?channels=node.js</sup>_
 
-* **tags**: [nodejs](../tagged/nodejs.md), [community](../tagged/community.md)
+* **tags**: [node.js](../tagged/node.js.md), [community](../tagged/community.md)
 ---
 #### [Stack Overflow NodeJs tagged questions](http://stackoverflow.com/questions/tagged/node.js)
 _<sup>http://stackoverflow.com/questions/tagged/node.js</sup>_
 
-* **tags**: [nodejs](../tagged/nodejs.md), [community](../tagged/community.md)
+* **tags**: [node.js](../tagged/node.js.md), [community](../tagged/community.md)
 ---
 #### [Reddit](https://www.reddit.com/r/node)
 _<sup>https://www.reddit.com/r/node</sup>_
 
 r/node: 
-* **tags**: [nodejs](../tagged/nodejs.md), [community](../tagged/community.md)
+* **tags**: [node.js](../tagged/node.js.md), [community](../tagged/community.md)
 ---
 #### [Twitter](https://twitter.com/nodejs)
 _<sup>https://twitter.com/nodejs</sup>_
 
 The latest Tweets from Node.js (@nodejs). The Node.js JavaScript Runtime.   Need some help with Node.js?   Please ask here: https://t.co/EvweB71amh. Earth and Beyond
-* **tags**: [nodejs](../tagged/nodejs.md), [community](../tagged/community.md)
+* **tags**: [node.js](../tagged/node.js.md), [community](../tagged/community.md)
 ---
 #### [Hashnode](https://hashnode.com/n/nodejs)
 _<sup>https://hashnode.com/n/nodejs</sup>_
 
 Join the premium Node.js community for developers. Platform built on the V8 JavaScript runtime to build network applications
-* **tags**: [nodejs](../tagged/nodejs.md), [community](../tagged/community.md)
+* **tags**: [node.js](../tagged/node.js.md), [community](../tagged/community.md)
 ---
 #### [Slack](https://graphql.slack.com/messages/general/)
 _<sup>https://graphql.slack.com/messages/general/</sup>_

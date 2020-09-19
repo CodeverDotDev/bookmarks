@@ -2,6 +2,22 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/troubleshooting](https://www.bookmarks.dev/tagged/troubleshooting)</sup></sup>_
 ---
+#### [Troubleshooting · Jest](https://jestjs.io/docs/en/troubleshooting)
+_<sup>https://jestjs.io/docs/en/troubleshooting</sup>_
+
+Uh oh, something went wrong? Use this guide to resolve issues with Jest.
+* **tags**: [jest](../tagged/jest.md), [troubleshooting](../tagged/troubleshooting.md), [debugging](../tagged/debugging.md), [testing](../tagged/testing.md), [intellij](../tagged/intellij.md), [vscode](../tagged/vscode.md), [webstorm](../tagged/webstorm.md)
+---
+#### [Troubleshooting MongoDB 100% CPU load and slow queries ](https://medium.com/@igorkhomenko/troubleshooting-mongodb-100-cpu-load-and-slow-queries-da622c6e1339)
+_<sup>https://medium.com/@igorkhomenko/troubleshooting-mongodb-100-cpu-load-and-slow-queries-da622c6e1339</sup>_
+
+In this article I’m going to cover 3 main things:
+* How to detect the queries that lead to CPU load spikes: solution N1
+* How to detect the queries that lead to CPU load spikes: solution N2
+* How to g...
+* :calendar: **published on**: 2017-11-16
+* **tags**: [mongodb](../tagged/mongodb.md), [troubleshooting](../tagged/troubleshooting.md), [performance](../tagged/performance.md)
+---
 #### [Resolving EACCES permissions errors when installing packages globally](https://docs.npmjs.com/resolving-eacces-permissions-errors-when-installing-packages-globally)
 _<sup>https://docs.npmjs.com/resolving-eacces-permissions-errors-when-installing-packages-globally</sup>_
 

@@ -2,6 +2,19 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/git-commit](https://www.bookmarks.dev/tagged/git-commit)</sup></sup>_
 ---
+#### [Git team workflows: merge or rebase?](https://www.atlassian.com/git/articles/git-team-workflows-merge-or-rebase)
+_<sup>https://www.atlassian.com/git/articles/git-team-workflows-merge-or-rebase</sup>_
+
+The question is simple: In a software team using git and feature branching, what's the best way to incorporate finished work back to your main line of development? It's one of those recurring debates ...
+* **tags**: [git](../tagged/git.md), [git-commit](../tagged/git-commit.md)
+---
+#### [A beginner's guide to GIT BISECT - The process of elimination](https://www.metaltoad.com/blog/beginners-guide-git-bisect-process-elimination)
+_<sup>https://www.metaltoad.com/blog/beginners-guide-git-bisect-process-elimination</sup>_
+
+Using `git bisect` is like a little wizard that walks you through recent commits, asks you if they are good or bad, and narrows down the broken commit.  In this blog post, I encourage you to create a ...
+* :calendar: **published on**: 2012-04-19
+* **tags**: [git](../tagged/git.md), [git-commit](../tagged/git-commit.md)
+---
 #### [The anatomy of a Git commit](https://blog.thoughtram.io/git/2014/11/18/the-anatomy-of-a-git-commit.html)
 _<sup>https://blog.thoughtram.io/git/2014/11/18/the-anatomy-of-a-git-commit.html</sup>_
 

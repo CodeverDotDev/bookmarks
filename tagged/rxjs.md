@@ -2,6 +2,28 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/rxjs](https://www.bookmarks.dev/tagged/rxjs)</sup></sup>_
 ---
+#### [Angular Application Architecture: Build Reux-like Apps with RxJs](https://blog.angular-university.io/angular-2-application-architecture-building-applications-using-rxjs-and-functional-reactive-programming-vs-redux/)
+_<sup>https://blog.angular-university.io/angular-2-application-architecture-building-applications-using-rx...</sup>_
+
+In this post, we are going to walk through how Angular applications can be built in a Functional Reactive style using the RxJs library that is part of Angular. We will go over the following topics:
+
+*...
+* **tags**: [angular](../tagged/angular.md), [rxjs](../tagged/rxjs.md), [functional-programming](../tagged/functional-programming.md), [redux](../tagged/redux.md)
+---
+#### [Aggregating Streams With Reduce And Scan using RxJS from @benlesh on @eggheadio](https://egghead.io/lessons/rxjs-aggregating-streams-with-reduce-and-scan-using-rxjs)
+_<sup>https://egghead.io/lessons/rxjs-aggregating-streams-with-reduce-and-scan-using-rxjs</sup>_
+
+What is the RxJS equivalent of Array reduce? What if I want to emit my reduced or aggregated value at each event? This brief tutorial covers Observable operators reduce() and scan(), their differences...
+* **tags**: [rxjs](../tagged/rxjs.md)
+---
+#### [Functional Reactive Programming for Angular Developers](https://blog.angular-university.io/functional-reactive-programming-for-angular-2-developers-rxjs-and-observables/)
+_<sup>https://blog.angular-university.io/functional-reactive-programming-for-angular-2-developers-rxjs-and...</sup>_
+
+In this post, we are going to go over the concept of Functional Reactive Programming from the point of view of an Angular developer. Following topics are covered:
+
+* A new asynchronous programming con...
+* **tags**: [angular](../tagged/angular.md), [functional-programming](../tagged/functional-programming.md), [rxjs](../tagged/rxjs.md)
+---
 #### [3 Common Angular Rxjs Pitfalls](https://blog.angular-university.io/angular-2-rxjs-common-pitfalls/)
 _<sup>https://blog.angular-university.io/angular-2-rxjs-common-pitfalls/</sup>_
 

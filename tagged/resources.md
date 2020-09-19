@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/resources](https://www.bookmarks.dev/tagged/resources)</sup></sup>_
 ---
+#### [10 Extraordinary GitHub Repos for All Developers | by Simon Holdorf | Better Programming | Medium](https://medium.com/better-programming/10-extraordinary-github-repos-for-all-developers-939cdeb28ad0)
+_<sup>https://medium.com/better-programming/10-extraordinary-github-repos-for-all-developers-939cdeb28ad0</sup>_
+
+GitHub is the number one platform for sharing all kinds of technologies, frameworks, libraries, and collections of all sorts. But with the sheer mass also comes the problem to find the most useful…
+* **tags**: [github](../tagged/github.md), [resources](../tagged/resources.md)
+---
 #### [resources · master · Edinson E. Padrón Urdaneta / My Journey to the Core · GitLab](https://gitlab.com/EPadronU/my-journey-to-the-core/-/tree/master/resources)
 _<sup>https://gitlab.com/EPadronU/my-journey-to-the-core/-/tree/master/resources</sup>_
 

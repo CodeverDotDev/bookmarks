@@ -2,6 +2,18 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/asciidoc](https://www.bookmarks.dev/tagged/asciidoc)</sup></sup>_
 ---
+#### [GitHub - darshandsoni/asciidoctor-skins: Control how your asciidoctor powered documentation looks](https://github.com/darshandsoni/asciidoctor-skins)
+_<sup>https://github.com/darshandsoni/asciidoctor-skins</sup>_
+
+Control how your asciidoctor powered documentation looks - darshandsoni/asciidoctor-skins
+* **tags**: [asciidoc](../tagged/asciidoc.md)
+---
+#### [GitHub - bodiam/awesome-asciidoc: A curated list of Awesome Asciidoc](https://github.com/bodiam/awesome-asciidoc)
+_<sup>https://github.com/bodiam/awesome-asciidoc</sup>_
+
+A curated list of Awesome Asciidoc. Contribute to bodiam/awesome-asciidoc development by creating an account on GitHub.
+* **tags**: [asciidoc](../tagged/asciidoc.md)
+---
 #### [AsciiDoc Syntax Quick Reference | Asciidoctor](http://asciidoctor.org/docs/asciidoc-syntax-quick-reference/)
 _<sup>http://asciidoctor.org/docs/asciidoc-syntax-quick-reference/</sup>_
 

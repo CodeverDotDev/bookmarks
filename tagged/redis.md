@@ -15,7 +15,7 @@ _<sup>https://github.com/fpereiro/backendlore</sup>_
 From late 2012 to the present I have been writing backends (server-side code) for web applications. This document summarizes many aspects of how I write these pieces of code.
 
 I'm writing this lore do...
-* **tags**: [backend](../tagged/backend.md), [nodejs](../tagged/nodejs.md), [redis](../tagged/redis.md), [architecture](../tagged/architecture.md)
+* **tags**: [backend](../tagged/backend.md), [node.js](../tagged/node.js.md), [redis](../tagged/redis.md), [architecture](../tagged/architecture.md)
 * :octocat: **[source code](https://github.com/fpereiro/backendlore)**
 ---
 #### [mitsuhiko/redis-rs](https://github.com/mitsuhiko/redis-rs)
@@ -42,7 +42,7 @@ Jedis is fully compatible with redis 2.8.x, 3.x.x...
 _<sup>https://github.com/dockersamples/example-voting-app</sup>_
 
 Example Docker Compose app. A simple distributed application running across multiple Docker containers.
-* **tags**: [docker](../tagged/docker.md), [docker-compose](../tagged/docker-compose.md), [python](../tagged/python.md), [nodejs](../tagged/nodejs.md), [redis](../tagged/redis.md)
+* **tags**: [docker](../tagged/docker.md), [docker-compose](../tagged/docker-compose.md), [python](../tagged/python.md), [node.js](../tagged/node.js.md), [redis](../tagged/redis.md)
 * :octocat: **[source code](https://github.com/dockersamples/example-voting-app)**
 ---
 #### [Reactive Spring - Josh Long, Mark Heckler - YouTube](https://www.youtube.com/watch?v=l7VBdWhtl7A)

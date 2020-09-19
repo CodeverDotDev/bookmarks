@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/development](https://www.bookmarks.dev/tagged/development)</sup></sup>_
 ---
+#### [GitHub - EbookFoundation/free-programming-books: Freely available programming books](https://github.com/EbookFoundation/free-programming-books?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily)
+_<sup>https://github.com/EbookFoundation/free-programming-books?utm_campaign=explore-email&utm_medium=emai...</sup>_
+
+:books: Freely available programming books. Contribute to EbookFoundation/free-programming-books development by creating an account on GitHub.
+* **tags**: [programming](../tagged/programming.md), [development](../tagged/development.md)
+---
 #### [GitHub - codingsett/telepota: Python3 wrapper/library that simplifies telegram bot development](https://github.com/codingsett/telepota)
 _<sup>https://github.com/codingsett/telepota</sup>_
 

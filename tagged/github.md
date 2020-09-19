@@ -2,6 +2,24 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/github](https://www.bookmarks.dev/tagged/github)</sup></sup>_
 ---
+#### [Understanding the GitHub flow · GitHub Guides      ](https://guides.github.com/introduction/flow/)
+_<sup>https://guides.github.com/introduction/flow/</sup>_
+
+GitHub flow is a lightweight, branch-based workflow that supports teams and projects where deployments are made regularly. This guide explains how and why GitHub flow works.
+* **tags**: [git](../tagged/git.md), [workflow](../tagged/workflow.md), [github](../tagged/github.md)
+---
+#### [10 Extraordinary GitHub Repos for All Developers | by Simon Holdorf | Better Programming | Medium](https://medium.com/better-programming/10-extraordinary-github-repos-for-all-developers-939cdeb28ad0)
+_<sup>https://medium.com/better-programming/10-extraordinary-github-repos-for-all-developers-939cdeb28ad0</sup>_
+
+GitHub is the number one platform for sharing all kinds of technologies, frameworks, libraries, and collections of all sorts. But with the sheer mass also comes the problem to find the most useful…
+* **tags**: [github](../tagged/github.md), [resources](../tagged/resources.md)
+---
+#### [10 excellent GitHub repositories for every Java developer | by Md Kamaruzzaman | Jul, 2020 | Towards Data Science](https://towardsdatascience.com/10-excellent-github-repositories-for-every-java-developer-41084a91ade9)
+_<sup>https://towardsdatascience.com/10-excellent-github-repositories-for-every-java-developer-41084a91ade...</sup>_
+
+Java is the undisputed king of the Enterprise Software development and one of the top in-demand programming languages overall. It has recently celebrated its 25th birthday, and it will remain one of…
+* **tags**: [java](../tagged/java.md), [github](../tagged/github.md)
+---
 #### [Primer CSS Home Page](https://primer.style/css/)
 _<sup>https://primer.style/css/</sup>_
 

@@ -6,7 +6,7 @@ _<sup><sup>[www.bookmarks.dev/tagged/cron](https://www.bookmarks.dev/tagged/cron
 _<sup>https://github.com/kelektiv/node-cron</sup>_
 
 Cron for NodeJS. Contribute to kelektiv/node-cron development by creating an account on GitHub.
-* **tags**: [nodejs](../tagged/nodejs.md), [cron](../tagged/cron.md)
+* **tags**: [node.js](../tagged/node.js.md), [cron](../tagged/cron.md)
 * :octocat: **[source code](https://github.com/kelektiv/node-cron)**
 ---
 #### [Cron Job Run Time Predictor](https://cronjob.xyz/)

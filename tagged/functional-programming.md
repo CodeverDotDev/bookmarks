@@ -2,6 +2,22 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/functional-programming](https://www.bookmarks.dev/tagged/functional-programming)</sup></sup>_
 ---
+#### [Angular Application Architecture: Build Reux-like Apps with RxJs](https://blog.angular-university.io/angular-2-application-architecture-building-applications-using-rxjs-and-functional-reactive-programming-vs-redux/)
+_<sup>https://blog.angular-university.io/angular-2-application-architecture-building-applications-using-rx...</sup>_
+
+In this post, we are going to walk through how Angular applications can be built in a Functional Reactive style using the RxJs library that is part of Angular. We will go over the following topics:
+
+*...
+* **tags**: [angular](../tagged/angular.md), [rxjs](../tagged/rxjs.md), [functional-programming](../tagged/functional-programming.md), [redux](../tagged/redux.md)
+---
+#### [Functional Reactive Programming for Angular Developers](https://blog.angular-university.io/functional-reactive-programming-for-angular-2-developers-rxjs-and-observables/)
+_<sup>https://blog.angular-university.io/functional-reactive-programming-for-angular-2-developers-rxjs-and...</sup>_
+
+In this post, we are going to go over the concept of Functional Reactive Programming from the point of view of an Angular developer. Following topics are covered:
+
+* A new asynchronous programming con...
+* **tags**: [angular](../tagged/angular.md), [functional-programming](../tagged/functional-programming.md), [rxjs](../tagged/rxjs.md)
+---
 #### [FP vs. OO](https://www.innoq.com/en/blog/fp-vs-oo/)
 _<sup>https://www.innoq.com/en/blog/fp-vs-oo/</sup>_
 
@@ -48,7 +64,7 @@ Simple, scalable state management
 _<sup>https://nestjs.com/</sup>_
 
 NestJS is a framework for building efficient, scalable Node.js web applications. It uses modern JavaScript, is built with TypeScript and combines elements of OOP (Object Oriented Progamming), FP (Func...
-* **tags**: [nodejs](../tagged/nodejs.md), [typescript](../tagged/typescript.md), [functional-programming](../tagged/functional-programming.md), [oop](../tagged/oop.md)
+* **tags**: [node.js](../tagged/node.js.md), [typescript](../tagged/typescript.md), [functional-programming](../tagged/functional-programming.md), [oop](../tagged/oop.md)
 * :octocat: **[source code](https://github.com/nestjs/nest)**
 ---
 #### [Coconut](http://coconut-lang.org/)
@@ -131,59 +147,59 @@ Hardcore Functional Programming for JavaScript.
 _<sup>https://lodash.com</sup>_
 
 Utility library delivering consistency, customization, performance, & extras. A better and faster Underscore.js.
-* **tags**: [nodejs](../tagged/nodejs.md), [functional-programming](../tagged/functional-programming.md)
+* **tags**: [node.js](../tagged/node.js.md), [functional-programming](../tagged/functional-programming.md)
 ---
 #### [immutable](https://github.com/facebook/immutable-js)
 _<sup>https://github.com/facebook/immutable-js</sup>_
 
 Immutable data collections.
-* **tags**: [nodejs](../tagged/nodejs.md), [functional-programming](../tagged/functional-programming.md)
+* **tags**: [node.js](../tagged/node.js.md), [functional-programming](../tagged/functional-programming.md)
 * :octocat: **[source code](https://github.com/facebook/immutable-js)**
 ---
 #### [Ramda](https://github.com/ramda/ramda)
 _<sup>https://github.com/ramda/ramda</sup>_
 
 Utility library with a focus on flexible functional composition enabled by automatic currying and reversed argument order. Avoids mutating data.
-* **tags**: [nodejs](../tagged/nodejs.md), [functional-programming](../tagged/functional-programming.md)
+* **tags**: [node.js](../tagged/node.js.md), [functional-programming](../tagged/functional-programming.md)
 * :octocat: **[source code](https://github.com/ramda/ramda)**
 ---
 #### [Folktale](http://folktale.origamitower.com)
 _<sup>http://folktale.origamitower.com</sup>_
 
 Suite of libraries for generic functional programming in JavaScript that allows you to write elegant, modular applications with fewer bugs, and more reuse.
-* **tags**: [nodejs](../tagged/nodejs.md), [functional-programming](../tagged/functional-programming.md)
+* **tags**: [node.js](../tagged/node.js.md), [functional-programming](../tagged/functional-programming.md)
 ---
 #### [Mout](https://github.com/mout/mout)
 _<sup>https://github.com/mout/mout</sup>_
 
 Utility library with the biggest difference between other existing solutions is that you can choose to load only the modules/functions that you need, no extra overhead.
-* **tags**: [nodejs](../tagged/nodejs.md), [functional-programming](../tagged/functional-programming.md)
+* **tags**: [node.js](../tagged/node.js.md), [functional-programming](../tagged/functional-programming.md)
 * :octocat: **[source code](https://github.com/mout/mout)**
 ---
 #### [Bacon.js](http://baconjs.github.io)
 _<sup>http://baconjs.github.io</sup>_
 
 Functional reactive programming.
-* **tags**: [nodejs](../tagged/nodejs.md), [functional-programming](../tagged/functional-programming.md)
+* **tags**: [node.js](../tagged/node.js.md), [functional-programming](../tagged/functional-programming.md)
 ---
 #### [RxJS](http://reactivex.io)
 _<sup>http://reactivex.io</sup>_
 
 Functional reactive library for transforming, composing, and querying various kinds of data.
-* **tags**: [nodejs](../tagged/nodejs.md), [functional-programming](../tagged/functional-programming.md)
+* **tags**: [node.js](../tagged/node.js.md), [functional-programming](../tagged/functional-programming.md)
 ---
 #### [Lazy.js](https://github.com/dtao/lazy.js)
 _<sup>https://github.com/dtao/lazy.js</sup>_
 
 Utility library similar to lodash/Underscore but with lazy evaluation, which can translate to superior performance in many cases.
-* **tags**: [nodejs](../tagged/nodejs.md), [functional-programming](../tagged/functional-programming.md)
+* **tags**: [node.js](../tagged/node.js.md), [functional-programming](../tagged/functional-programming.md)
 * :octocat: **[source code](https://github.com/dtao/lazy.js)**
 ---
 #### [Kefir.js](https://github.com/kefirjs/kefir)
 _<sup>https://github.com/kefirjs/kefir</sup>_
 
 Reactive library with focus on high performance and low memory usage.
-* **tags**: [nodejs](../tagged/nodejs.md), [functional-programming](../tagged/functional-programming.md)
+* **tags**: [node.js](../tagged/node.js.md), [functional-programming](../tagged/functional-programming.md)
 * :octocat: **[source code](https://github.com/kefirjs/kefir)**
 ---
 #### [cyclops-react](https://github.com/aol/cyclops-react)

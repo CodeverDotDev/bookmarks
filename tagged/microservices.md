@@ -89,7 +89,7 @@ _<sup>https://www.youtube.com/watch?v=mdZauKsMDiI</sup>_
 
 If you have a number of applications and services, the applications may be HTML5, server-side, or mobile, while the services may be monolithic or microservices, deployed on-premise, or to the cloud. Y...
 * :calendar: **published on**: 2018-08-16
-* **tags**: [keycloak](../tagged/keycloak.md), [microservices](../tagged/microservices.md), [php](../tagged/php.md), [nodejs](../tagged/nodejs.md)
+* **tags**: [keycloak](../tagged/keycloak.md), [microservices](../tagged/microservices.md), [php](../tagged/php.md), [node.js](../tagged/node.js.md)
 * :octocat: **[source code](https://github.com/stianst/keycloak-demo/tree/master/demo-service)**
 ---
 #### [Making microservices micro with Istio Service Mesh & Kubernetes by Ray Tsang @ Spring I/O 2018 - YouTube](https://www.youtube.com/watch?v=s31kdh7Q7Hc)
@@ -134,7 +134,7 @@ _<sup>https://www.youtube.com/watch?v=EsCfPxjmnjo</sup>_
 * Part 1 What is a Microservice?" I walk you through what a Microservice is and what this 3 part tutorial will show you.
 * Part 2 [Making a micro...
 * :calendar: **published on**: 2017-12-29
-* **tags**: [nodejs](../tagged/nodejs.md), [microservices](../tagged/microservices.md), [docker](../tagged/docker.md), [docker-compose](../tagged/docker-compose.md), [nginx](../tagged/nginx.md)
+* **tags**: [node.js](../tagged/node.js.md), [microservices](../tagged/microservices.md), [docker](../tagged/docker.md), [docker-compose](../tagged/docker-compose.md), [nginx](../tagged/nginx.md)
 * :octocat: **[source code](https://github.com/fChristenson/microservices-example)**
 ---
 #### [awesome-microservices](https://github.com/mfornos/awesome-microservices#readme)
@@ -169,14 +169,14 @@ There has been an ever growing number of teams looking to re-architect their mon
 _<sup>https://moleculer.services/</sup>_
 
 Moleculer is a fast, scalable and powerful microservices framework for Node.js.
-* **tags**: [nodejs](../tagged/nodejs.md), [microservices](../tagged/microservices.md)
+* **tags**: [node.js](../tagged/node.js.md), [microservices](../tagged/microservices.md)
 * :octocat: **[source code](https://github.com/moleculerjs/moleculer)**
 ---
 #### [Implementing Microservice Discovery in 100 Lines of Node.js ](https://github.com/asyncanup/vasco/blob/33b878b3ae43f2c75197ea3e93afa0876ce990de/vasco-talk.pdf)
 _<sup>https://github.com/asyncanup/vasco/blob/33b878b3ae43f2c75197ea3e93afa0876ce990de/vasco-talk.pdf</sup>_
 
 vasco - The Great Service Discoverer
-* **tags**: [microservices](../tagged/microservices.md), [nodejs](../tagged/nodejs.md)
+* **tags**: [microservices](../tagged/microservices.md), [node.js](../tagged/node.js.md)
 ---
 #### [GraphQL as an API Gateway to Microservices - via @codeship](https://blog.codeship.com/graphql-as-an-api-gateway-to-micro-services/)
 _<sup>https://blog.codeship.com/graphql-as-an-api-gateway-to-micro-services/</sup>_
@@ -197,7 +197,7 @@ _<sup>https://www.youtube.com/watch?v=Fbhhc4jtGW4</sup>_
 
 The fundamental performance characteristics of Node.js, along with the improvements driven through the community benchmarking workgroup, makes Node.js ideal for highly performing micro-service workloa...
 * :calendar: **published on**: 2017-10-31
-* **tags**: [nodejs](../tagged/nodejs.md), [microservices](../tagged/microservices.md)
+* **tags**: [node.js](../tagged/node.js.md), [microservices](../tagged/microservices.md)
 * :octocat: **[source code](https://github.com/ibm-developer/generator-nodeserver)**
 ---
 #### [Microservice Principles: Smart Endpoints and Dumb Pipes](https://medium.com/@nathankpeck/microservice-principles-smart-endpoints-and-dumb-pipes-5691d410700f)

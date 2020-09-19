@@ -29,7 +29,7 @@ Put down that REST Client (or, gasp, the browser!) you’re using to test that A
 _<sup>http://chaijs.com/plugins/sinon-chai/</sup>_
 
 Sinon–Chai provides a set of custom assertions for using the Sinon.JS spy, stub, and mocking framework with the Chai assertion library. You get all the benefits of Chai with all the powerful tools of ...
-* **tags**: [nodejs](../tagged/nodejs.md), [unit-testing](../tagged/unit-testing.md), [sinon](../tagged/sinon.md), [chai](../tagged/chai.md)
+* **tags**: [node.js](../tagged/node.js.md), [unit-testing](../tagged/unit-testing.md), [sinon](../tagged/sinon.md), [chai](../tagged/chai.md)
 * :octocat: **[source code](https://github.com/domenic/sinon-chai.git)**
 ---
 #### [chai-as-promised](https://www.npmjs.com/package/chai-as-promised)
@@ -39,13 +39,13 @@ Extends Chai with assertions about promises.
 
 You can write code that expresses what you really mean:
 
-* **tags**: [nodejs](../tagged/nodejs.md), [chai](../tagged/chai.md), [unit-testing](../tagged/unit-testing.md), [promises](../tagged/promises.md)
+* **tags**: [node.js](../tagged/node.js.md), [chai](../tagged/chai.md), [unit-testing](../tagged/unit-testing.md), [promises](../tagged/promises.md)
 * :octocat: **[source code](https://github.com/domenic/chai-as-promised)**
 ---
 #### [The Ultimate Unit Testing Cheat-sheet For Mocha, Chai and Sinon · GitHub](https://gist.github.com/yoavniran/1e3b0162e1545055429e)
 _<sup>https://gist.github.com/yoavniran/1e3b0162e1545055429e</sup>_
 
-* **tags**: [nodejs](../tagged/nodejs.md), [unit-testing](../tagged/unit-testing.md), [mocha](../tagged/mocha.md), [chai](../tagged/chai.md), [sinon](../tagged/sinon.md)
+* **tags**: [node.js](../tagged/node.js.md), [unit-testing](../tagged/unit-testing.md), [mocha](../tagged/mocha.md), [chai](../tagged/chai.md), [sinon](../tagged/sinon.md)
 ---
 #### [Chai home page](http://chaijs.com/)
 _<sup>http://chaijs.com/</sup>_
@@ -53,6 +53,6 @@ _<sup>http://chaijs.com/</sup>_
 Chai is a BDD / TDD assertion library for [node](http://nodejs.org) and the
 browser that can be delightfully paired with any javascript testing framework.
 
-* **tags**: [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md), [unit-testing](../tagged/unit-testing.md), [chai](../tagged/chai.md)
+* **tags**: [node.js](../tagged/node.js.md), [testing](../tagged/testing.md), [unit-testing](../tagged/unit-testing.md), [chai](../tagged/chai.md)
 * :octocat: **[source code](https://github.com/chaijs/chai)**
 ---

@@ -991,35 +991,35 @@ Cross-vendor API to manipulate network devices.
 _<sup>https://github.com/sindresorhus/get-port</sup>_
 
 Get an available port.
-* **tags**: [nodejs](../tagged/nodejs.md), [networking](../tagged/networking.md)
+* **tags**: [node.js](../tagged/node.js.md), [networking](../tagged/networking.md)
 * :octocat: **[source code](https://github.com/sindresorhus/get-port)**
 ---
 #### [ipify](https://github.com/sindresorhus/ipify)
 _<sup>https://github.com/sindresorhus/ipify</sup>_
 
 Get your public IP address.
-* **tags**: [nodejs](../tagged/nodejs.md), [networking](../tagged/networking.md)
+* **tags**: [node.js](../tagged/node.js.md), [networking](../tagged/networking.md)
 * :octocat: **[source code](https://github.com/sindresorhus/ipify)**
 ---
 #### [getmac](https://github.com/bevry/getmac)
 _<sup>https://github.com/bevry/getmac</sup>_
 
 Get the computer MAC address.
-* **tags**: [nodejs](../tagged/nodejs.md), [networking](../tagged/networking.md)
+* **tags**: [node.js](../tagged/node.js.md), [networking](../tagged/networking.md)
 * :octocat: **[source code](https://github.com/bevry/getmac)**
 ---
 #### [DHCP](https://github.com/infusion/node-dhcp)
 _<sup>https://github.com/infusion/node-dhcp</sup>_
 
 DHCP client and server.
-* **tags**: [nodejs](../tagged/nodejs.md), [networking](../tagged/networking.md)
+* **tags**: [node.js](../tagged/node.js.md), [networking](../tagged/networking.md)
 * :octocat: **[source code](https://github.com/infusion/node-dhcp)**
 ---
 #### [netcat](https://github.com/roccomuso/netcat)
 _<sup>https://github.com/roccomuso/netcat</sup>_
 
 Netcat port in pure JS.
-* **tags**: [nodejs](../tagged/nodejs.md), [networking](../tagged/networking.md)
+* **tags**: [node.js](../tagged/node.js.md), [networking](../tagged/networking.md)
 * :octocat: **[source code](https://github.com/roccomuso/netcat)**
 ---
 #### [AkkaGRPC](https://github.com/akka/akka-grpc)

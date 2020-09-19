@@ -2,6 +2,51 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/testing](https://www.bookmarks.dev/tagged/testing)</sup></sup>_
 ---
+#### [💥 Testing Asynchronous Code with fakeAsync -  Full Example - 6min](https://www.youtube.com/watch?v=vRqRuPoFmsA)
+_<sup>https://www.youtube.com/watch?v=vRqRuPoFmsA</sup>_
+
+Example video about testing a promise with `fakeAsync`
+* :calendar: **published on**: 2019-05-31
+* **tags**: [angular](../tagged/angular.md), [testing](../tagged/testing.md)
+---
+#### [Angular Testing: async and fakeAsync](https://www.digitalocean.com/community/tutorials/angular-testing-async-fakeasync)
+_<sup>https://www.digitalocean.com/community/tutorials/angular-testing-async-fakeasync</sup>_
+
+Testing asynchronous code has always been a challenge, but it’s now easier than ever, thanks to the `async` and `fakeAsync` utilities available for Angular 2+. This should make your Angular unit and i...
+* :calendar: **published on**: 2017-07-13
+* **tags**: [angular](../tagged/angular.md), [testing](../tagged/testing.md)
+---
+#### [Troubleshooting · Jest](https://jestjs.io/docs/en/troubleshooting)
+_<sup>https://jestjs.io/docs/en/troubleshooting</sup>_
+
+Uh oh, something went wrong? Use this guide to resolve issues with Jest.
+* **tags**: [jest](../tagged/jest.md), [troubleshooting](../tagged/troubleshooting.md), [debugging](../tagged/debugging.md), [testing](../tagged/testing.md), [intellij](../tagged/intellij.md), [vscode](../tagged/vscode.md), [webstorm](../tagged/webstorm.md)
+---
+#### [Rest API Testing With JMeter (Step by Step Guide) - Jmeter - OctoPerf](https://octoperf.com/blog/2018/04/23/jmeter-rest-api-testing/)
+_<sup>https://octoperf.com/blog/2018/04/23/jmeter-rest-api-testing/</sup>_
+
+Test a Json Rest API through a concrete example, [OctoPerf’s Json Rest API](https://api.octoperf.com/swagger-ui.html).
+
+And this guide will completely get you through the following knowledge:
+* Handle...
+* :calendar: **published on**: 2018-04-23
+* **tags**: [jmeter](../tagged/jmeter.md), [api](../tagged/api.md), [testing](../tagged/testing.md), [rest](../tagged/rest.md), [json](../tagged/json.md)
+---
+#### [Apache JMeter home page](https://jmeter.apache.org/)
+_<sup>https://jmeter.apache.org/</sup>_
+
+The Apache JMeter™ application is open source software, a 100% pure Java application designed to load test functional behavior and measure performance. It was originally designed for testing Web Appli...
+* **tags**: [jmeter](../tagged/jmeter.md), [performance](../tagged/performance.md), [testing](../tagged/testing.md), [java](../tagged/java.md)
+---
+#### [Testing a Spring Batch Job](https://www.baeldung.com/spring-batch-testing-job)
+_<sup>https://www.baeldung.com/spring-batch-testing-job</sup>_
+
+In this tutorial, we'll explore the various approaches of testing a Spring Batch job.
+
+End-to-end testing verifies the complete execution of the job. Testing individual steps may help in complex scena...
+* **tags**: [spring-batch](../tagged/spring-batch.md), [testing](../tagged/testing.md)
+* :octocat: **[source code](https://github.com/eugenp/tutorials/tree/master/spring-batch)**
+---
 #### [Don't Mock What You Don't Own](https://maksimivanov.com/posts/dont-mock-what-you-dont-own/)
 _<sup>https://maksimivanov.com/posts/dont-mock-what-you-dont-own/</sup>_
 
@@ -82,7 +127,7 @@ Often we’re doing this to separate the execution of f...
 _<sup>https://github.com/marak/Faker.js/</sup>_
 
 generate massive amounts of realistic fake data in Node.js and the browser - Marak/faker.js
-* **tags**: [nodejs](../tagged/nodejs.md), [mocking](../tagged/mocking.md), [testing](../tagged/testing.md)
+* **tags**: [node.js](../tagged/node.js.md), [mocking](../tagged/mocking.md), [testing](../tagged/testing.md), [javascript](../tagged/javascript.md), [fake-data](../tagged/fake-data.md)
 * :octocat: **[source code](https://github.com/marak/Faker.js/)**
 ---
 #### [Online Web service testing tool](https://extendsclass.com/web-service-tester.html)
@@ -1421,138 +1466,138 @@ A statement-by-statement javascript interpreter in the browser.
 _<sup>https://ava.li</sup>_
 
 Futuristic test runner.
-* **tags**: [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md)
+* **tags**: [node.js](../tagged/node.js.md), [testing](../tagged/testing.md)
 ---
 #### [Mocha](http://mochajs.org)
 _<sup>http://mochajs.org</sup>_
 
 Feature-rich test framework making asynchronous testing simple and fun.
-* **tags**: [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md)
+* **tags**: [node.js](../tagged/node.js.md), [testing](../tagged/testing.md)
 ---
 #### [nyc](https://github.com/bcoe/nyc)
 _<sup>https://github.com/bcoe/nyc</sup>_
 
 Code coverage tool built on istanbul that works with subprocesses.
-* **tags**: [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md)
+* **tags**: [node.js](../tagged/node.js.md), [testing](../tagged/testing.md)
 * :octocat: **[source code](https://github.com/bcoe/nyc)**
 ---
 #### [tap](https://github.com/isaacs/node-tap)
 _<sup>https://github.com/isaacs/node-tap</sup>_
 
 TAP test framework.
-* **tags**: [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md)
+* **tags**: [node.js](../tagged/node.js.md), [testing](../tagged/testing.md)
 * :octocat: **[source code](https://github.com/isaacs/node-tap)**
 ---
 #### [power-assert](https://github.com/power-assert-js/power-assert)
 _<sup>https://github.com/power-assert-js/power-assert</sup>_
 
 Provides descriptive assertion messages through the standard assert interface.
-* **tags**: [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md)
+* **tags**: [node.js](../tagged/node.js.md), [testing](../tagged/testing.md)
 * :octocat: **[source code](https://github.com/power-assert-js/power-assert)**
 ---
 #### [Mochify](https://github.com/mantoni/mochify.js)
 _<sup>https://github.com/mantoni/mochify.js</sup>_
 
 TDD with Browserify, Mocha, PhantomJS and WebDriver.
-* **tags**: [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md)
+* **tags**: [node.js](../tagged/node.js.md), [testing](../tagged/testing.md)
 * :octocat: **[source code](https://github.com/mantoni/mochify.js)**
 ---
 #### [trevor](https://github.com/vdemedes/trevor)
 _<sup>https://github.com/vdemedes/trevor</sup>_
 
 Run tests against multiple versions of Node.js without switching versions manually or pushing to Travis CI.
-* **tags**: [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md)
+* **tags**: [node.js](../tagged/node.js.md), [testing](../tagged/testing.md)
 * :octocat: **[source code](https://github.com/vdemedes/trevor)**
 ---
 #### [loadtest](https://github.com/alexfernandez/loadtest)
 _<sup>https://github.com/alexfernandez/loadtest</sup>_
 
 Run load tests for your web application, with an API for automation.
-* **tags**: [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md)
+* **tags**: [node.js](../tagged/node.js.md), [testing](../tagged/testing.md)
 * :octocat: **[source code](https://github.com/alexfernandez/loadtest)**
 ---
 #### [Sinon.JS](https://github.com/sinonjs/sinon)
 _<sup>https://github.com/sinonjs/sinon</sup>_
 
 Test spies, stubs and mocks.
-* **tags**: [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md)
+* **tags**: [node.js](../tagged/node.js.md), [testing](../tagged/testing.md)
 * :octocat: **[source code](https://github.com/sinonjs/sinon)**
 ---
 #### [navit](https://github.com/nodeca/navit)
 _<sup>https://github.com/nodeca/navit</sup>_
 
 PhantomJS / SlimerJS wrapper to simplify browser test scripting.
-* **tags**: [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md)
+* **tags**: [node.js](../tagged/node.js.md), [testing](../tagged/testing.md)
 * :octocat: **[source code](https://github.com/nodeca/navit)**
 ---
 #### [Nock](https://github.com/pgte/nock)
 _<sup>https://github.com/pgte/nock</sup>_
 
 HTTP mocking and expectations.
-* **tags**: [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md)
+* **tags**: [node.js](../tagged/node.js.md), [testing](../tagged/testing.md)
 * :octocat: **[source code](https://github.com/pgte/nock)**
 ---
 #### [intern](https://github.com/theintern/intern)
 _<sup>https://github.com/theintern/intern</sup>_
 
 Code testing stack.
-* **tags**: [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md)
+* **tags**: [node.js](../tagged/node.js.md), [testing](../tagged/testing.md)
 * :octocat: **[source code](https://github.com/theintern/intern)**
 ---
 #### [toxy](https://github.com/h2non/toxy)
 _<sup>https://github.com/h2non/toxy</sup>_
 
 Hackable HTTP proxy to simulate failure scenarios and network conditions.
-* **tags**: [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md)
+* **tags**: [node.js](../tagged/node.js.md), [testing](../tagged/testing.md)
 * :octocat: **[source code](https://github.com/h2non/toxy)**
 ---
 #### [hook-std](https://github.com/sindresorhus/hook-std)
 _<sup>https://github.com/sindresorhus/hook-std</sup>_
 
 Hook and modify stdout/stderr.
-* **tags**: [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md)
+* **tags**: [node.js](../tagged/node.js.md), [testing](../tagged/testing.md)
 * :octocat: **[source code](https://github.com/sindresorhus/hook-std)**
 ---
 #### [testen](https://github.com/egoist/testen)
 _<sup>https://github.com/egoist/testen</sup>_
 
 Run tests for multiple versions of Node.js locally with NVM.
-* **tags**: [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md)
+* **tags**: [node.js](../tagged/node.js.md), [testing](../tagged/testing.md)
 * :octocat: **[source code](https://github.com/egoist/testen)**
 ---
 #### [Nightwatch](https://github.com/nightwatchjs/nightwatch)
 _<sup>https://github.com/nightwatchjs/nightwatch</sup>_
 
 Automated UI testing framework based on Selenium WebDriver.
-* **tags**: [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md)
+* **tags**: [node.js](../tagged/node.js.md), [testing](../tagged/testing.md)
 * :octocat: **[source code](https://github.com/nightwatchjs/nightwatch)**
 ---
 #### [WebdriverIO](https://github.com/webdriverio/webdriverio)
 _<sup>https://github.com/webdriverio/webdriverio</sup>_
 
 Automated testing based on the WebDriver protocol.
-* **tags**: [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md)
+* **tags**: [node.js](../tagged/node.js.md), [testing](../tagged/testing.md)
 * :octocat: **[source code](https://github.com/webdriverio/webdriverio)**
 ---
 #### [Jest](https://github.com/facebook/jest)
 _<sup>https://github.com/facebook/jest</sup>_
 
 Painless JavaScript testing.
-* **tags**: [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md)
+* **tags**: [node.js](../tagged/node.js.md), [testing](../tagged/testing.md)
 * :octocat: **[source code](https://github.com/facebook/jest)**
 ---
 #### [TestCafe](https://github.com/DevExpress/testcafe)
 _<sup>https://github.com/DevExpress/testcafe</sup>_
 
 Automated browser testing.
-* **tags**: [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md)
+* **tags**: [node.js](../tagged/node.js.md), [testing](../tagged/testing.md)
 * :octocat: **[source code](https://github.com/DevExpress/testcafe)**
 ---
 #### [abstruse](https://github.com/bleenco/abstruse)
 _<sup>https://github.com/bleenco/abstruse</sup>_
 
 Continuous Integration server.
-* **tags**: [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md)
+* **tags**: [node.js](../tagged/node.js.md), [testing](../tagged/testing.md)
 * :octocat: **[source code](https://github.com/bleenco/abstruse)**
 ---
 #### [Awaitility](https://github.com/jayway/awaitility)
@@ -2063,26 +2108,26 @@ _<sup>https://semaphoreci.com/community/tutorials/best-practices-for-spies-stubs
 
 In this article, we'll show you the differences between spies, stubs and mocks, when and how to use them, and give you a set of best practices to help you avoid common pitfalls.
 * :calendar: **published on**: 2015-12-05
-* **tags**: [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md), [unit-testing](../tagged/unit-testing.md), [sinonjs](../tagged/sinonjs.md)
+* **tags**: [node.js](../tagged/node.js.md), [testing](../tagged/testing.md), [unit-testing](../tagged/unit-testing.md), [sinonjs](../tagged/sinonjs.md)
 ---
 #### [Assert | Node.js Documentation](https://nodejs.org/api/assert.html)
 _<sup>https://nodejs.org/api/assert.html</sup>_
 
 The `assert` module provides a simple set of assertion tests that can be used to test invariants.
-* **tags**: [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md), [unit-testing](../tagged/unit-testing.md)
+* **tags**: [node.js](../tagged/node.js.md), [testing](../tagged/testing.md), [unit-testing](../tagged/unit-testing.md)
 ---
 #### [GitHub - visionmedia/supertest home page ](https://github.com/visionmedia/supertest)
 _<sup>https://github.com/visionmedia/supertest</sup>_
 
 supertest - Super-agent driven library for testing node.js HTTP servers using a fluent API
-* **tags**: [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md), [integration-testing](../tagged/integration-testing.md)
+* **tags**: [node.js](../tagged/node.js.md), [testing](../tagged/testing.md), [integration-testing](../tagged/integration-testing.md)
 * :octocat: **[source code](https://github.com/visionmedia/supertest)**
 ---
 #### [Sinon.JS](http://sinonjs.org/)
 _<sup>http://sinonjs.org/</sup>_
 
 Standalone test spies, stubs and mocks for JavaScript. Works with any unit testing framework.
-* **tags**: [javascript](../tagged/javascript.md), [nodejs](../tagged/nodejs.md), [unit-testing](../tagged/unit-testing.md), [testing](../tagged/testing.md), [sinonjs](../tagged/sinonjs.md)
+* **tags**: [javascript](../tagged/javascript.md), [node.js](../tagged/node.js.md), [unit-testing](../tagged/unit-testing.md), [testing](../tagged/testing.md), [sinonjs](../tagged/sinonjs.md)
 * :octocat: **[source code](https://github.com/sinonjs/sinon)**
 ---
 #### [Chai home page](http://chaijs.com/)
@@ -2091,21 +2136,21 @@ _<sup>http://chaijs.com/</sup>_
 Chai is a BDD / TDD assertion library for [node](http://nodejs.org) and the
 browser that can be delightfully paired with any javascript testing framework.
 
-* **tags**: [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md), [unit-testing](../tagged/unit-testing.md), [chai](../tagged/chai.md)
+* **tags**: [node.js](../tagged/node.js.md), [testing](../tagged/testing.md), [unit-testing](../tagged/unit-testing.md), [chai](../tagged/chai.md)
 * :octocat: **[source code](https://github.com/chaijs/chai)**
 ---
 #### [Mocha - home page](http://mochajs.org/)
 _<sup>http://mochajs.org/</sup>_
 
 Mocha is a feature-rich JavaScript test framework running on Node.js and in the browser, making asynchronous testing simple and fun. Mocha tests run serially, allowing for flexible and accurate report...
-* **tags**: [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md), [unit-testing](../tagged/unit-testing.md), [mocha](../tagged/mocha.md), [javascript](../tagged/javascript.md)
+* **tags**: [node.js](../tagged/node.js.md), [testing](../tagged/testing.md), [unit-testing](../tagged/unit-testing.md), [mocha](../tagged/mocha.md), [javascript](../tagged/javascript.md)
 * :octocat: **[source code](https://github.com/mochajs/mocha)**
 ---
 #### [Node Hero - Node.js Unit Testing Tutorial | @RisingStack](https://blog.risingstack.com/node-hero-node-js-unit-testing-tutorial/)
 _<sup>https://blog.risingstack.com/node-hero-node-js-unit-testing-tutorial/</sup>_
 
 Learn what is unit testing in Node.js, and how to test your applications properly. This article is the 9th part of the Node Hero tutorial series.
-* **tags**: [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md), [unit-testing](../tagged/unit-testing.md)
+* **tags**: [node.js](../tagged/node.js.md), [testing](../tagged/testing.md), [unit-testing](../tagged/unit-testing.md)
 * :octocat: **[source code](https://github.com/RisingStack/nodehero-testing)**
 ---
 #### [GitHub - typicode/json-server: Get a full fake REST API with zero coding in less than 30 seconds (seriously)](https://github.com/typicode/json-server)
@@ -2114,14 +2159,14 @@ _<sup>https://github.com/typicode/json-server</sup>_
 Create a _db.json_ file
 
 ...
-* **tags**: [nodejs](../tagged/nodejs.md), [mocking](../tagged/mocking.md), [testing](../tagged/testing.md)
+* **tags**: [node.js](../tagged/node.js.md), [mocking](../tagged/mocking.md), [testing](../tagged/testing.md)
 * :octocat: **[source code](https://github.com/typicode/json-server)**
 ---
 #### [GitHub - substack/tape: tap-producing test harness for node and browsers](https://github.com/substack/tape)
 _<sup>https://github.com/substack/tape</sup>_
 
 tap-producing test harness for node and browsers
-* **tags**: [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md), [tape](../tagged/tape.md)
+* **tags**: [node.js](../tagged/node.js.md), [testing](../tagged/testing.md), [tape](../tagged/tape.md)
 * :octocat: **[source code](https://github.com/substack/tape)**
 ---
 #### [Test fixtures · junit-team/junit4 Wiki · GitHub](https://github.com/junit-team/junit4/wiki/test-fixtures)
@@ -2144,7 +2189,7 @@ Mocha is a $150k Porsche Panamera when the best tool for the job is a $30k Tesla
 
 Author e...
 * :calendar: **published on**: 2015-07-13
-* **tags**: [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md), [tape](../tagged/tape.md)
+* **tags**: [node.js](../tagged/node.js.md), [testing](../tagged/testing.md), [tape](../tagged/tape.md)
 * :octocat: **[source code](https://github.com/substack/tape)**
 ---
 #### [Introduction to Unit Testing in Angular ← Alligator.io](https://alligator.io/angular/introduction-unit-testing/)

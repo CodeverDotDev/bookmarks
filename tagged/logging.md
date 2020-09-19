@@ -555,21 +555,21 @@ Python client for Sentry, a log/error tracking, crash reporting and aggregation 
 _<sup>https://github.com/pinojs/pino</sup>_
 
 Extremely fast logger inspired by Bunyan.
-* **tags**: [nodejs](../tagged/nodejs.md), [logging](../tagged/logging.md)
+* **tags**: [node.js](../tagged/node.js.md), [logging](../tagged/logging.md)
 * :octocat: **[source code](https://github.com/pinojs/pino)**
 ---
 #### [console-log-level](https://github.com/watson/console-log-level)
 _<sup>https://github.com/watson/console-log-level</sup>_
 
 The most simple logger imaginable with support for log levels and custom prefixes.
-* **tags**: [nodejs](../tagged/nodejs.md), [logging](../tagged/logging.md)
+* **tags**: [node.js](../tagged/node.js.md), [logging](../tagged/logging.md)
 * :octocat: **[source code](https://github.com/watson/console-log-level)**
 ---
 #### [storyboard](https://github.com/guigrpa/storyboard)
 _<sup>https://github.com/guigrpa/storyboard</sup>_
 
 End-to-end, hierarchical, real-time, colorful logs and stories.
-* **tags**: [nodejs](../tagged/nodejs.md), [logging](../tagged/logging.md)
+* **tags**: [node.js](../tagged/node.js.md), [logging](../tagged/logging.md)
 * :octocat: **[source code](https://github.com/guigrpa/storyboard)**
 ---
 #### [Apache Log4j 2](https://logging.apache.org/log4j)
@@ -640,7 +640,7 @@ _<sup>https://thisdavej.com/using-winston-a-versatile-logging-library-for-node-j
 
 We explore how to use Winston, a versatile logging library for Node.js, including colorizing console output, logging timestamp entries, and rotating logs.
 * :calendar: **published on**: 2018-12-06
-* **tags**: [nodejs](../tagged/nodejs.md), [logging](../tagged/logging.md), [winston](../tagged/winston.md)
+* **tags**: [node.js](../tagged/node.js.md), [logging](../tagged/logging.md), [winston](../tagged/winston.md)
 ---
 #### [Hibernate Logging Guide - Use the right config for dev and prod](https://thoughts-on-java.org/hibernate-logging-guide/)
 _<sup>https://thoughts-on-java.org/hibernate-logging-guide/</sup>_
@@ -659,7 +659,7 @@ Graylog is an open source log management platform.
 _<sup>https://github.com/klauscfhq/signale</sup>_
 
 Hackable and configurable to the core, signale can be used for logging purposes, status reporting, as well as for handling the output rendering process of other node modules and applications.
-* **tags**: [nodejs](../tagged/nodejs.md), [logging](../tagged/logging.md)
+* **tags**: [node.js](../tagged/node.js.md), [logging](../tagged/logging.md)
 ---
 #### [Apache Log4j 2](https://logging.apache.org/log4j/2.x/)
 _<sup>https://logging.apache.org/log4j/2.x/</sup>_
@@ -671,7 +671,7 @@ Apache Log4j 2 is an upgrade to Log4j that provides significant improvements ove
 _<sup>https://github.com/iccicci/rotating-file-stream</sup>_
 
 rotating-file-stream - Opens a stream.Writable to a file rotated by interval and/or size. A logrotate alternative.
-* **tags**: [nodejs](../tagged/nodejs.md), [logging](../tagged/logging.md)
+* **tags**: [node.js](../tagged/node.js.md), [logging](../tagged/logging.md)
 * :octocat: **[source code](https://github.com/iccicci/rotating-file-stream)**
 ---
 #### [How to Get Node.js Logging Right | @RisingStack](https://blog.risingstack.com/node-js-logging-tutorial/)
@@ -679,20 +679,20 @@ _<sup>https://blog.risingstack.com/node-js-logging-tutorial/</sup>_
 
 The aim of this article is to provide help with Node.js logging. Learn how to use the console module, the debug module, the winston library and Trace.
 * :calendar: **published on**: 2016-10-01
-* **tags**: [nodejs](../tagged/nodejs.md), [logging](../tagged/logging.md), [winston](../tagged/winston.md)
+* **tags**: [node.js](../tagged/node.js.md), [logging](../tagged/logging.md), [winston](../tagged/winston.md)
 ---
 #### [GitHub - winstonjs/winston-daily-rotate-file](https://github.com/winstonjs/winston-daily-rotate-file)
 _<sup>https://github.com/winstonjs/winston-daily-rotate-file</sup>_
 
 A transport for winston which logs to a rotating file each day.
-* **tags**: [nodejs](../tagged/nodejs.md), [logging](../tagged/logging.md)
+* **tags**: [node.js](../tagged/node.js.md), [logging](../tagged/logging.md)
 * :octocat: **[source code](https://github.com/winstonjs/winston-daily-rotate-file)**
 ---
 #### [winston/transports.md at master · winstonjs/winston · GitHub](https://github.com/winstonjs/winston/blob/master/docs/transports.md)
 _<sup>https://github.com/winstonjs/winston/blob/master/docs/transports.md</sup>_
 
 In `winston` a transport is essentially a storage device for your logs. Each instance of a winston logger can have multiple transports configured at different levels. For example, one may want error l...
-* **tags**: [nodejs](../tagged/nodejs.md), [logging](../tagged/logging.md)
+* **tags**: [node.js](../tagged/node.js.md), [logging](../tagged/logging.md)
 * :octocat: **[source code](https://github.com/winstonjs/winston)**
 ---
 #### [The Syslog Protocol](https://tools.ietf.org/html/rfc5424)
@@ -708,25 +708,25 @@ This document describes the syslog protocol, which is used to convey
 _<sup>https://github.com/trentm/node-bunyan</sup>_
 
 A simple and fast JSON logging module for node.js services
-* **tags**: [nodejs](../tagged/nodejs.md), [logging](../tagged/logging.md)
+* **tags**: [node.js](../tagged/node.js.md), [logging](../tagged/logging.md)
 * :octocat: **[source code](https://github.com/trentm/node-bunyan)**
 ---
 #### [GitHub - winstonjs/winston: a multi-transport async logging library for node.js](https://github.com/winstonjs/winston)
 _<sup>https://github.com/winstonjs/winston</sup>_
 
 A multi-transport async logging library for node.js.
-* **tags**: [nodejs](../tagged/nodejs.md), [logging](../tagged/logging.md)
+* **tags**: [node.js](../tagged/node.js.md), [logging](../tagged/logging.md)
 * :octocat: **[source code](https://github.com/winstonjs/winston)**
 ---
 #### [debug](https://www.npmjs.com/package/debug)
 _<sup>https://www.npmjs.com/package/debug</sup>_
 
 A tiny node.js debugging utility modelled after node core's debugging technique.
-* **tags**: [nodejs](../tagged/nodejs.md), [logging](../tagged/logging.md), [javascript](../tagged/javascript.md)
+* **tags**: [node.js](../tagged/node.js.md), [logging](../tagged/logging.md), [javascript](../tagged/javascript.md)
 * :octocat: **[source code](https://github.com/visionmedia/debug)**
 ---
 #### [Comparing Winston and Bunyan Node.js Logging - StrongLoop](https://strongloop.com/strongblog/compare-node-js-logging-winston-bunyan/)
 _<sup>https://strongloop.com/strongblog/compare-node-js-logging-winston-bunyan/</sup>_
 
-* **tags**: [nodejs](../tagged/nodejs.md), [logging](../tagged/logging.md)
+* **tags**: [node.js](../tagged/node.js.md), [logging](../tagged/logging.md)
 ---

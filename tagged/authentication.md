@@ -22,7 +22,7 @@ _<sup>https://auth0.com/blog/react-tutorial-building-and-securing-your-first-app
 
 Introduction to React and its components and routers. Tutorial of how to build a simple Q&A React app - secure backend API with Node.js and Express.
 * :calendar: **published on**: 2018-08-28
-* **tags**: [reactjs](../tagged/reactjs.md), [react-router](../tagged/react-router.md), [nodejs](../tagged/nodejs.md), [expressjs](../tagged/expressjs.md), [axios](../tagged/axios.md), [authentication](../tagged/authentication.md), [security](../tagged/security.md)
+* **tags**: [reactjs](../tagged/reactjs.md), [react-router](../tagged/react-router.md), [node.js](../tagged/node.js.md), [expressjs](../tagged/expressjs.md), [axios](../tagged/axios.md), [authentication](../tagged/authentication.md), [security](../tagged/security.md)
 * :octocat: **[source code](https://github.com/auth0-blog/react-tutorial)**
 ---
 #### [Kubernetes Authentication plugins and kubeconfig](http://www.dasblinkenlichten.com/kubernetes-authentication-plugins-and-kubeconfig/)
@@ -375,21 +375,21 @@ A module for generating and verifying JSON Web Tokens.
 _<sup>https://github.com/jaredhanson/passport</sup>_
 
 Simple, unobtrusive authentication.
-* **tags**: [nodejs](../tagged/nodejs.md), [authentication](../tagged/authentication.md)
+* **tags**: [node.js](../tagged/node.js.md), [authentication](../tagged/authentication.md)
 * :octocat: **[source code](https://github.com/jaredhanson/passport)**
 ---
 #### [Grant](https://github.com/simov/grant)
 _<sup>https://github.com/simov/grant</sup>_
 
 OAuth middleware for Express, Koa, and Hapi.
-* **tags**: [nodejs](../tagged/nodejs.md), [authentication](../tagged/authentication.md)
+* **tags**: [node.js](../tagged/node.js.md), [authentication](../tagged/authentication.md)
 * :octocat: **[source code](https://github.com/simov/grant)**
 ---
 #### [CloudRail](https://github.com/CloudRail/cloudrail-si-node-sdk)
 _<sup>https://github.com/CloudRail/cloudrail-si-node-sdk</sup>_
 
 Unified API for social authentication (Facebook, Twitter, Slack, Instagram, …).
-* **tags**: [nodejs](../tagged/nodejs.md), [authentication](../tagged/authentication.md)
+* **tags**: [node.js](../tagged/node.js.md), [authentication](../tagged/authentication.md)
 * :octocat: **[source code](https://github.com/CloudRail/cloudrail-si-node-sdk)**
 ---
 #### [OAuth 2.0 and OpenID Connect (in plain English) - YouTube](https://www.youtube.com/watch?v=996OiexHze0)

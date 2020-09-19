@@ -16,12 +16,6 @@ _<sup>https://github.com/iamkun/dayjs</sup>_
 * **tags**: [javascript](../tagged/javascript.md), [javascript-frameworks](../tagged/javascript-frameworks.md), [datetime](../tagged/datetime.md)
 * :octocat: **[source code](https://github.com/iamkun/dayjs)**
 ---
-#### [Marak/faker.js home page](https://github.com/marak/Faker.js)
-_<sup>https://github.com/marak/Faker.js</sup>_
-
-generate massive amounts of realistic fake data in Node.js and the browser
-* **tags**: [javascript](../tagged/javascript.md), [javascript-frameworks](../tagged/javascript-frameworks.md), [nodejs](../tagged/nodejs.md)
----
 #### [Sapper  Home Page](https://sapper.svelte.dev/)
 _<sup>https://sapper.svelte.dev/</sup>_
 

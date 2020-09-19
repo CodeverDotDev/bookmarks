@@ -21,7 +21,7 @@ _<sup>https://medium.com/codebase/using-aws-s3-buckets-in-a-nodejs-app-74da2fc54
 
 We will go through all the process of using a S3 with NodeJS, from creating the S3 Bucket and access credentials to actually use the bucket.
 * :calendar: **published on**: 2018-01-16
-* **tags**: [nodejs](../tagged/nodejs.md), [aws](../tagged/aws.md), [amazon-s3](../tagged/amazon-s3.md)
+* **tags**: [node.js](../tagged/node.js.md), [aws](../tagged/aws.md), [amazon-s3](../tagged/amazon-s3.md)
 ---
 #### [Explore Javascript on AWS](https://aws.amazon.com/developer/language/javascript/)
 _<sup>https://aws.amazon.com/developer/language/javascript/</sup>_
@@ -62,14 +62,14 @@ Learn about Amazon's transition to a service-oriented architecture over a decade
 _<sup>https://claudiajs.com/</sup>_
 
 Deploy Node.js projects to AWS Lambda and API Gateway easily.
-* **tags**: [nodejs](../tagged/nodejs.md), [aws](../tagged/aws.md), [serverless](../tagged/serverless.md)
+* **tags**: [node.js](../tagged/node.js.md), [aws](../tagged/aws.md), [serverless](../tagged/serverless.md)
 * :octocat: **[source code](https://github.com/claudiajs/claudia)**
 ---
 #### [GitHub - awslabs/aws-serverless-express](https://github.com/awslabs/aws-serverless-express)
 _<sup>https://github.com/awslabs/aws-serverless-express</sup>_
 
 Run serverless applications and REST APIs using your existing Node.js application framework, on top of AWS Lambda and Amazon API Gateway
-* **tags**: [aws](../tagged/aws.md), [nodejs](../tagged/nodejs.md), [expressjs](../tagged/expressjs.md), [rest](../tagged/rest.md)
+* **tags**: [aws](../tagged/aws.md), [node.js](../tagged/node.js.md), [expressjs](../tagged/expressjs.md), [rest](../tagged/rest.md)
 * :octocat: **[source code](https://github.com/awslabs/aws-serverless-express)**
 ---
 #### [Full guide to developing REST API’s with AWS API Gateway and AWS Lambda](https://blog.sourcerer.io/full-guide-to-developing-rest-apis-with-aws-api-gateway-and-aws-lambda-d254729d6992)
@@ -77,7 +77,7 @@ _<sup>https://blog.sourcerer.io/full-guide-to-developing-rest-apis-with-aws-api-
 
 In this article we’ll explore using AWS Lambda to develop a service using Node.js. Amazon recently announced an upgrade where developers using Lambda can now use an 8.10 runtime, which lets them use `...
 * :calendar: **published on**: 2018-05-09
-* **tags**: [cloud](../tagged/cloud.md), [serverless](../tagged/serverless.md), [nodejs](../tagged/nodejs.md), [aws](../tagged/aws.md)
+* **tags**: [cloud](../tagged/cloud.md), [serverless](../tagged/serverless.md), [node.js](../tagged/node.js.md), [aws](../tagged/aws.md)
 ---
 #### [AWS Security Best Practices](https://d1.awsstatic.com/whitepapers/Security/AWS_Security_Best_Practices.pdf)
 _<sup>https://d1.awsstatic.com/whitepapers/Security/AWS_Security_Best_Practices.pdf</sup>_

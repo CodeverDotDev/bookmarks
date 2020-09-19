@@ -6,6 +6,6 @@ _<sup><sup>[www.bookmarks.dev/tagged/yeoman](https://www.bookmarks.dev/tagged/ye
 _<sup>https://github.com/diegohaz/rest</sup>_
 
 RESTful API generator using NodeJS, Express and Mongoose
-* **tags**: [nodejs](../tagged/nodejs.md), [expressjs](../tagged/expressjs.md), [mongoose](../tagged/mongoose.md), [yeoman](../tagged/yeoman.md), [tools](../tagged/tools.md)
+* **tags**: [node.js](../tagged/node.js.md), [expressjs](../tagged/expressjs.md), [mongoose](../tagged/mongoose.md), [yeoman](../tagged/yeoman.md), [tools](../tagged/tools.md)
 * :octocat: **[source code](https://github.com/diegohaz/rest)**
 ---

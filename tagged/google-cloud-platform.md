@@ -28,14 +28,14 @@ The Spring Cloud GCP project makes the Spring Framework a first-class citizen of
 _<sup>https://cloud.google.com/nodejs</sup>_
 
 Google Cloud Platform makes development easy using Node.js
-* **tags**: [nodejs](../tagged/nodejs.md), [google-cloud-platform](../tagged/google-cloud-platform.md)
+* **tags**: [node.js](../tagged/node.js.md), [google-cloud-platform](../tagged/google-cloud-platform.md)
 * :octocat: **[source code](https://github.com/GoogleCloudPlatform/nodejs-docs-samples)**
 ---
 #### [GitHub - GoogleCloudPlatform/functions-framework-nodejs](https://github.com/GoogleCloudPlatform/functions-framework-nodejs)
 _<sup>https://github.com/GoogleCloudPlatform/functions-framework-nodejs</sup>_
 
 FaaS (Function as a service) framework for writing portable Node.js functions - GoogleCloudPlatform/functions-framework-nodejs
-* **tags**: [faas](../tagged/faas.md), [cloud-computing](../tagged/cloud-computing.md), [google-cloud-functions](../tagged/google-cloud-functions.md), [nodejs](../tagged/nodejs.md), [google-cloud-platform](../tagged/google-cloud-platform.md)
+* **tags**: [faas](../tagged/faas.md), [cloud-computing](../tagged/cloud-computing.md), [google-cloud-functions](../tagged/google-cloud-functions.md), [node.js](../tagged/node.js.md), [google-cloud-platform](../tagged/google-cloud-platform.md)
 * :octocat: **[source code](https://github.com/GoogleCloudPlatform/functions-framework-nodejs)**
 ---
 #### [Building Stateful Applications With Kubernetes and Cloud SQL (Cloud Next '19) - YouTube](https://www.youtube.com/watch?v=qVgzP3PsXFw)

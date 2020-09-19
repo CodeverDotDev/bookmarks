@@ -29,7 +29,7 @@ _<sup>http://www.codingpedia.org/ama/parallel-calls-with-async-await-in-javascri
 
 I was blown away about the simplicity and performance gain of making parallel calls with the new async-await feature in javascript. See the blog post to understand why.
 * :calendar: **published on**: 2017-11-13
-* **tags**: [nodejs](../tagged/nodejs.md), [async-await](../tagged/async-await.md), [async](../tagged/async.md), [javascript](../tagged/javascript.md)
+* **tags**: [node.js](../tagged/node.js.md), [async-await](../tagged/async-await.md), [async](../tagged/async.md), [javascript](../tagged/javascript.md)
 ---
 #### [Asynchrony: Under the Hood - Shelley Vohr - JSConf EU 2018 - YouTube](https://www.youtube.com/watch?v=SrNQS8J67zc)
 _<sup>https://www.youtube.com/watch?v=SrNQS8J67zc</sup>_

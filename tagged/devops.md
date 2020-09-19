@@ -1010,7 +1010,7 @@ Learn about Amazon's transition to a service-oriented architecture over a decade
 _<sup>https://github.com/motdotla/dotenv</sup>_
 
 Loads environment variables from .env for nodejs projects.
-* **tags**: [nodejs](../tagged/nodejs.md), [devops](../tagged/devops.md), [tools](../tagged/tools.md)
+* **tags**: [node.js](../tagged/node.js.md), [devops](../tagged/devops.md), [tools](../tagged/tools.md)
 * :octocat: **[source code](https://github.com/motdotla/dotenv)**
 ---
 #### [Introduction to Kubernetes](http://www.baeldung.com/kubernetes)
@@ -1052,14 +1052,14 @@ _<sup>https://blog.risingstack.com/continuous-deployment-of-node-js-applications
 * Deploy
 * Rollbacks
 * :calendar: **published on**: 2014-07-30
-* **tags**: [nodejs](../tagged/nodejs.md), [devops](../tagged/devops.md)
+* **tags**: [node.js](../tagged/node.js.md), [devops](../tagged/devops.md)
 ---
 #### [StrongLoop - Best Practices for Deploying Node.js in Production ](https://strongloop.com/strongblog/node-js-deploy-production-best-practice/)
 _<sup>https://strongloop.com/strongblog/node-js-deploy-production-best-practice/</sup>_
 
 One of the struggles developers face when moving to Node.js is the lack of best practices for automated deployment of Node applications. The challenges are many-fold – packaging and dependency managem...
 * :calendar: **published on**: 2014-09-04
-* **tags**: [nodejs](../tagged/nodejs.md), [devops](../tagged/devops.md)
+* **tags**: [node.js](../tagged/node.js.md), [devops](../tagged/devops.md)
 ---
 #### [Performance Best Practices Using Express in Production](https://expressjs.com/en/advanced/best-practice-performance.html)
 _<sup>https://expressjs.com/en/advanced/best-practice-performance.html</sup>_

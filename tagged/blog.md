@@ -94,13 +94,13 @@ Space-Ready Publishing with Gatsby and IPFS
 _<sup>https://nodejs.org/en/blog/</sup>_
 
 Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.
-* **tags**: [nodejs](../tagged/nodejs.md), [blog](../tagged/blog.md)
+* **tags**: [node.js](../tagged/node.js.md), [blog](../tagged/blog.md)
 ---
 #### [webapplog.com](http://webapplog.com/tag/node-js/)
 _<sup>http://webapplog.com/tag/node-js/</sup>_
 
 Blog posts on Node.js and JavaScript from the author of Practical Node.js and Pro Express.js Azat Mardan.
-* **tags**: [nodejs](../tagged/nodejs.md), [blog](../tagged/blog.md)
+* **tags**: [node.js](../tagged/node.js.md), [blog](../tagged/blog.md)
 ---
 #### [Official GraphQL blog](https://graphql.org/blog/)
 _<sup>https://graphql.org/blog/</sup>_
@@ -160,7 +160,7 @@ Cloud Security Alliance Industry Blog
 _<sup>https://nodesource.com/blog/</sup>_
 
 Articles about the Node.js Community, How-tos, and Products from NodeSource - The Node.js Company
-* **tags**: [nodejs](../tagged/nodejs.md), [blog](../tagged/blog.md)
+* **tags**: [node.js](../tagged/node.js.md), [blog](../tagged/blog.md)
 ---
 #### [Oracle Developers Blog](https://blogs.oracle.com/developers/)
 _<sup>https://blogs.oracle.com/developers/</sup>_
@@ -218,30 +218,30 @@ Teaching is my way of learning
 _<sup>https://nemethgergely.com/archives/</sup>_
 
 Software engineer, architect, conference speaker, focused on Node.js and its ecosystem. Loves a good cup of coffee.
-* **tags**: [blog](../tagged/blog.md), [nodejs](../tagged/nodejs.md)
+* **tags**: [blog](../tagged/blog.md), [node.js](../tagged/node.js.md)
 ---
 #### [RisingStack Engineering - Node.js Tutorials & Resources](https://blog.risingstack.com/)
 _<sup>https://blog.risingstack.com/</sup>_
 
 Learn about Node.js, JavaScript & Mircoservices from the experts of RisingStack.
-* **tags**: [blog](../tagged/blog.md), [nodejs](../tagged/nodejs.md)
+* **tags**: [blog](../tagged/blog.md), [node.js](../tagged/node.js.md)
 ---
 #### [John Papa Home Page](https://johnpapa.net/)
 _<sup>https://johnpapa.net/</sup>_
 
 Husband, father, & Catholic enjoying life with my family. Working @ Microsoft. Disney fanatic, web and mobile developer
-* **tags**: [blog](../tagged/blog.md), [javascript](../tagged/javascript.md), [nodejs](../tagged/nodejs.md)
+* **tags**: [blog](../tagged/blog.md), [javascript](../tagged/javascript.md), [node.js](../tagged/node.js.md)
 ---
 #### [DerickBailey.com - Trade Secrets Of A Developer / Entrepreneur](https://derickbailey.com/)
 _<sup>https://derickbailey.com/</sup>_
 
 Trade Secrets Of A Developer / Entrepreneur
-* **tags**: [blog](../tagged/blog.md), [javascript](../tagged/javascript.md), [docker](../tagged/docker.md), [nodejs](../tagged/nodejs.md)
+* **tags**: [blog](../tagged/blog.md), [javascript](../tagged/javascript.md), [docker](../tagged/docker.md), [node.js](../tagged/node.js.md)
 ---
 #### [Sharing coding knowledge – CodingpediaOrg](http://www.codingpedia.org/)
 _<sup>http://www.codingpedia.org/</sup>_
 
-* **tags**: [blog](../tagged/blog.md), [java](../tagged/java.md), [nodejs](../tagged/nodejs.md), [angular](../tagged/angular.md), [spring](../tagged/spring.md)
+* **tags**: [blog](../tagged/blog.md), [java](../tagged/java.md), [node.js](../tagged/node.js.md), [angular](../tagged/angular.md), [spring](../tagged/spring.md)
 ---
 #### [
 Official Google Webmaster Central Blog

@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/asynchronous](https://www.bookmarks.dev/tagged/asynchronous)</sup></sup>_
 ---
+#### [Tokio home page](https://tokio.rs/)
+_<sup>https://tokio.rs/</sup>_
+
+Tokio is an asynchronous runtime for the Rust programming language. It provides the building blocks needed for writing network applications. It gives the flexibility to target a wide range of systems,...
+* **tags**: [rust](../tagged/rust.md), [asynchronous](../tagged/asynchronous.md), [runtime](../tagged/runtime.md)
+* :octocat: **[source code](https://github.com/tokio-rs/tokio)**
+---
 #### [async/await in Angular `ngOnInit`](https://stackoverflow.com/questions/56092083/async-await-in-angular-ngoninit)
 _<sup>https://stackoverflow.com/questions/56092083/async-await-in-angular-ngoninit</sup>_
 
@@ -17,7 +24,7 @@ _<sup>https://nodejs.org/ru/docs/guides/dont-block-the-event-loop/</sup>_
 If you're writing anything more complicated than a brief command-line script, reading this should help you write higher-performance, more-secure applications.
 
 This do...
-* **tags**: [nodejs](../tagged/nodejs.md), [event-loop](../tagged/event-loop.md), [asynchronous](../tagged/asynchronous.md), [performance](../tagged/performance.md)
+* **tags**: [node.js](../tagged/node.js.md), [event-loop](../tagged/event-loop.md), [asynchronous](../tagged/asynchronous.md), [performance](../tagged/performance.md)
 ---
 #### [libuv home page](https://libuv.org/)
 _<sup>https://libuv.org/</sup>_
@@ -196,7 +203,7 @@ In this tutorial you'll learn what `CompletableFuture` is and how to use `Comple
 _<sup>http://libuv.org/</sup>_
 
 libuv, a platform abstraction library with focus on asynchronous i/o.
-* **tags**: [asynchronous](../tagged/asynchronous.md), [nodejs](../tagged/nodejs.md)
+* **tags**: [asynchronous](../tagged/asynchronous.md), [node.js](../tagged/node.js.md)
 * :octocat: **[source code](https://github.com/libuv/libuv)**
 ---
 #### [Building Microservices: Inter-Process Communication](https://www.nginx.com/blog/building-microservices-inter-process-communication/)

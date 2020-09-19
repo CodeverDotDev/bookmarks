@@ -38,5 +38,5 @@ _<sup>https://medium.com/codebase/using-aws-s3-buckets-in-a-nodejs-app-74da2fc54
 
 We will go through all the process of using a S3 with NodeJS, from creating the S3 Bucket and access credentials to actually use the bucket.
 * :calendar: **published on**: 2018-01-16
-* **tags**: [nodejs](../tagged/nodejs.md), [aws](../tagged/aws.md), [amazon-s3](../tagged/amazon-s3.md)
+* **tags**: [node.js](../tagged/node.js.md), [aws](../tagged/aws.md), [amazon-s3](../tagged/amazon-s3.md)
 ---

@@ -6,7 +6,7 @@ _<sup><sup>[www.bookmarks.dev/tagged/orm](https://www.bookmarks.dev/tagged/orm)<
 _<sup>http://typeorm.io/</sup>_
 
 ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms...
-* **tags**: [typeorm](../tagged/typeorm.md), [typescript](../tagged/typescript.md), [javascript](../tagged/javascript.md), [orm](../tagged/orm.md), [mysql](../tagged/mysql.md), [postgresql](../tagged/postgresql.md), [nodejs](../tagged/nodejs.md)
+* **tags**: [typeorm](../tagged/typeorm.md), [typescript](../tagged/typescript.md), [javascript](../tagged/javascript.md), [orm](../tagged/orm.md), [mysql](../tagged/mysql.md), [postgresql](../tagged/postgresql.md), [node.js](../tagged/node.js.md)
 * :octocat: **[source code](https://github.com/typeorm/typeorm)**
 ---
 #### [diesel-rs/diesel](https://github.com/diesel-rs/diesel)
@@ -605,63 +605,63 @@ A Python Library for Simple Models and Containers Persisted in Redis.
 _<sup>https://github.com/sequelize/sequelize</sup>_
 
 Multi-dialect ORM. Supports PostgreSQL, SQLite, MySQL.
-* **tags**: [nodejs](../tagged/nodejs.md), [database](../tagged/database.md), [driver](../tagged/driver.md), [odm](../tagged/odm.md), [orm](../tagged/orm.md)
+* **tags**: [node.js](../tagged/node.js.md), [database](../tagged/database.md), [driver](../tagged/driver.md), [odm](../tagged/odm.md), [orm](../tagged/orm.md)
 * :octocat: **[source code](https://github.com/sequelize/sequelize)**
 ---
 #### [Bookshelf](https://github.com/bookshelf/bookshelf)
 _<sup>https://github.com/bookshelf/bookshelf</sup>_
 
 ORM for PostgreSQL, MySQL and SQLite3 in the style of Backbone.js.
-* **tags**: [nodejs](../tagged/nodejs.md), [database](../tagged/database.md), [driver](../tagged/driver.md), [odm](../tagged/odm.md), [orm](../tagged/orm.md)
+* **tags**: [node.js](../tagged/node.js.md), [database](../tagged/database.md), [driver](../tagged/driver.md), [odm](../tagged/odm.md), [orm](../tagged/orm.md)
 * :octocat: **[source code](https://github.com/bookshelf/bookshelf)**
 ---
 #### [Massive](https://github.com/robconery/massive-js)
 _<sup>https://github.com/robconery/massive-js</sup>_
 
 PostgreSQL data access tool.
-* **tags**: [nodejs](../tagged/nodejs.md), [database](../tagged/database.md), [driver](../tagged/driver.md), [odm](../tagged/odm.md), [orm](../tagged/orm.md)
+* **tags**: [node.js](../tagged/node.js.md), [database](../tagged/database.md), [driver](../tagged/driver.md), [odm](../tagged/odm.md), [orm](../tagged/orm.md)
 * :octocat: **[source code](https://github.com/robconery/massive-js)**
 ---
 #### [Mongoose](https://github.com/Automattic/mongoose)
 _<sup>https://github.com/Automattic/mongoose</sup>_
 
 Elegant MongoDB object modeling.
-* **tags**: [nodejs](../tagged/nodejs.md), [database](../tagged/database.md), [driver](../tagged/driver.md), [odm](../tagged/odm.md), [orm](../tagged/orm.md)
+* **tags**: [node.js](../tagged/node.js.md), [database](../tagged/database.md), [driver](../tagged/driver.md), [odm](../tagged/odm.md), [orm](../tagged/orm.md)
 * :octocat: **[source code](https://github.com/Automattic/mongoose)**
 ---
 #### [Waterline](https://github.com/balderdashy/waterline)
 _<sup>https://github.com/balderdashy/waterline</sup>_
 
 Datastore-agnostic tool that dramatically simplifies interaction with one or more databases.
-* **tags**: [nodejs](../tagged/nodejs.md), [database](../tagged/database.md), [driver](../tagged/driver.md), [odm](../tagged/odm.md), [orm](../tagged/orm.md)
+* **tags**: [node.js](../tagged/node.js.md), [database](../tagged/database.md), [driver](../tagged/driver.md), [odm](../tagged/odm.md), [orm](../tagged/orm.md)
 * :octocat: **[source code](https://github.com/balderdashy/waterline)**
 ---
 #### [OpenRecord](https://github.com/PhilWaldmann/openrecord)
 _<sup>https://github.com/PhilWaldmann/openrecord</sup>_
 
 ORM for PostgreSQL, MySQL, SQLite3 and RESTful datastores. Similar to ActiveRecord.
-* **tags**: [nodejs](../tagged/nodejs.md), [database](../tagged/database.md), [odm](../tagged/odm.md), [orm](../tagged/orm.md), [driver](../tagged/driver.md)
+* **tags**: [node.js](../tagged/node.js.md), [database](../tagged/database.md), [odm](../tagged/odm.md), [orm](../tagged/orm.md), [driver](../tagged/driver.md)
 * :octocat: **[source code](https://github.com/PhilWaldmann/openrecord)**
 ---
 #### [pg-promise](https://github.com/vitaly-t/pg-promise)
 _<sup>https://github.com/vitaly-t/pg-promise</sup>_
 
 PostgreSQL framework for native SQL using promises.
-* **tags**: [nodejs](../tagged/nodejs.md), [database](../tagged/database.md), [driver](../tagged/driver.md), [odm](../tagged/odm.md), [orm](../tagged/orm.md)
+* **tags**: [node.js](../tagged/node.js.md), [database](../tagged/database.md), [driver](../tagged/driver.md), [odm](../tagged/odm.md), [orm](../tagged/orm.md)
 * :octocat: **[source code](https://github.com/vitaly-t/pg-promise)**
 ---
 #### [Objection.js](https://github.com/Vincit/objection.js)
 _<sup>https://github.com/Vincit/objection.js</sup>_
 
 Lightweight ORM built on the SQL query builder Knex.
-* **tags**: [nodejs](../tagged/nodejs.md), [database](../tagged/database.md), [driver](../tagged/driver.md), [odm](../tagged/odm.md), [orm](../tagged/orm.md)
+* **tags**: [node.js](../tagged/node.js.md), [database](../tagged/database.md), [driver](../tagged/driver.md), [odm](../tagged/odm.md), [orm](../tagged/orm.md)
 * :octocat: **[source code](https://github.com/Vincit/objection.js)**
 ---
 #### [TypeORM](https://github.com/typeorm/typeorm)
 _<sup>https://github.com/typeorm/typeorm</sup>_
 
 ORM for PostgreSQL, MariaDB, MySQL, SQLite, and more.
-* **tags**: [nodejs](../tagged/nodejs.md), [database](../tagged/database.md), [driver](../tagged/driver.md), [odm](../tagged/odm.md), [orm](../tagged/orm.md)
+* **tags**: [node.js](../tagged/node.js.md), [database](../tagged/database.md), [driver](../tagged/driver.md), [odm](../tagged/odm.md), [orm](../tagged/orm.md)
 * :octocat: **[source code](https://github.com/typeorm/typeorm)**
 ---
 #### [graphql-bookshelf](https://github.com/brysgo/graphql-bookshelf)
@@ -753,14 +753,14 @@ TL;DR ORM is a terrible anti-pattern that violates all principles of object-orie
 _<sup>http://knexjs.org/</sup>_
 
 Knex.js is a "batteries included" SQL query builder for Postgres, MSSQL, MySQL, MariaDB, SQLite3, Oracle, and Amazon Redshift designed to be flexible, portable, and fun to use. It features both tradit...
-* **tags**: [orm](../tagged/orm.md), [sql](../tagged/sql.md), [nodejs](../tagged/nodejs.md), [postgresql](../tagged/postgresql.md), [mysql](../tagged/mysql.md)
+* **tags**: [orm](../tagged/orm.md), [sql](../tagged/sql.md), [node.js](../tagged/node.js.md), [postgresql](../tagged/postgresql.md), [mysql](../tagged/mysql.md)
 * :octocat: **[source code](https://github.com/tgriesser/knex)**
 ---
 #### [Objection.js](http://vincit.github.io/objection.js/)
 _<sup>http://vincit.github.io/objection.js/</sup>_
 
 Objection.js is an ORM for Node.js that aims to stay out of your way and make it as easy as possible to use the full power of SQL and the underlying database engine while keeping magic to a minimum.
-* **tags**: [orm](../tagged/orm.md), [nodejs](../tagged/nodejs.md)
+* **tags**: [orm](../tagged/orm.md), [node.js](../tagged/node.js.md)
 * :octocat: **[source code](https://github.com/Vincit/objection.js)**
 ---
 #### [mybatis – MyBatis 3 | Introduction](http://www.mybatis.org/mybatis-3/)

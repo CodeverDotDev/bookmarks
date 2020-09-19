@@ -2,6 +2,51 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/java](https://www.bookmarks.dev/tagged/java)</sup></sup>_
 ---
+#### [Home - javaalmanac.io](https://javaalmanac.io/)
+_<sup>https://javaalmanac.io/</sup>_
+
+* **tags**: [java](../tagged/java.md)
+---
+#### [The JMeter Maven Plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
+_<sup>https://github.com/jmeter-maven-plugin/jmeter-maven-plugin</sup>_
+
+A Maven plugin that provides the ability to run JMeter tests as part of your build
+
+All the documentation you need to configure the plugin is available on the [Github Wiki](https://github.com/jmeter-m...
+* **tags**: [jmeter](../tagged/jmeter.md), [maven-plugin](../tagged/maven-plugin.md), [java](../tagged/java.md)
+---
+#### [SEI CERT Oracle Coding Standard for Java](https://wiki.sei.cmu.edu/confluence/display/java/SEI+CERT+Oracle+Coding+Standard+for+Java)
+_<sup>https://wiki.sei.cmu.edu/confluence/display/java/SEI+CERT+Oracle+Coding+Standard+for+Java</sup>_
+
+The Java rules and recommendations in this wiki are a work in progress and reflect the current thinking of the secure coding community. Because this is a development website, many pages are incomplete...
+* **tags**: [java](../tagged/java.md), [linter](../tagged/linter.md), [code-analysis](../tagged/code-analysis.md)
+---
+#### [winterbe/java8-tutorial: Modern Java - A Guide to Java 8](https://github.com/winterbe/java8-tutorial#lambda-expressions)
+_<sup>https://github.com/winterbe/java8-tutorial#lambda-expressions</sup>_
+
+Welcome to my introduction to Java 8. This tutorial guides you step by step through all new language features. Backed by short and simple code samples you'll learn how to use default interface methods...
+* **tags**: [java](../tagged/java.md), [java-8](../tagged/java-8.md)
+* :octocat: **[source code](https://github.com/winterbe/java8-tutorial#lambda-expressions)**
+---
+#### [kdn251/interviews: Everything you need to know to get the job.](https://github.com/kdn251/interviews)
+_<sup>https://github.com/kdn251/interviews</sup>_
+
+Your personal guide to Software Engineering technical interviews. 
+* **tags**: [java](../tagged/java.md), [interview-question](../tagged/interview-question.md)
+* :octocat: **[source code](https://github.com/kdn251/interviews)**
+---
+#### [10 excellent GitHub repositories for every Java developer | by Md Kamaruzzaman | Jul, 2020 | Towards Data Science](https://towardsdatascience.com/10-excellent-github-repositories-for-every-java-developer-41084a91ade9)
+_<sup>https://towardsdatascience.com/10-excellent-github-repositories-for-every-java-developer-41084a91ade...</sup>_
+
+Java is the undisputed king of the Enterprise Software development and one of the top in-demand programming languages overall. It has recently celebrated its 25th birthday, and it will remain one of…
+* **tags**: [java](../tagged/java.md), [github](../tagged/github.md)
+---
+#### [Apache JMeter home page](https://jmeter.apache.org/)
+_<sup>https://jmeter.apache.org/</sup>_
+
+The Apache JMeter™ application is open source software, a 100% pure Java application designed to load test functional behavior and measure performance. It was originally designed for testing Web Appli...
+* **tags**: [jmeter](../tagged/jmeter.md), [performance](../tagged/performance.md), [testing](../tagged/testing.md), [java](../tagged/java.md)
+---
 #### [GitHub - TheAlgorithms/Java: All Algorithms implemented in Java](https://github.com/TheAlgorithms/Java)
 _<sup>https://github.com/TheAlgorithms/Java</sup>_
 
@@ -5287,7 +5332,7 @@ A simple and practical guide to testing and mocking with JMockit.
 _<sup>https://rclayton.silvrback.com/speaking-intelligently-about-java-vs-node-performance</sup>_
 
 Speaking Intelligently about "Java vs Node" Performance - Please understand what's really important when it comes to the benefits of a platform.
-* **tags**: [java](../tagged/java.md), [nodejs](../tagged/nodejs.md), [performance](../tagged/performance.md), [concurrency](../tagged/concurrency.md), [benchmarking](../tagged/benchmarking.md)
+* **tags**: [java](../tagged/java.md), [node.js](../tagged/node.js.md), [performance](../tagged/performance.md), [concurrency](../tagged/concurrency.md), [benchmarking](../tagged/benchmarking.md)
 ---
 #### [Mockito vs EasyMock vs JMockit](http://www.baeldung.com/mockito-vs-easymock-vs-jmockit)
 _<sup>http://www.baeldung.com/mockito-vs-easymock-vs-jmockit</sup>_
@@ -6242,7 +6287,7 @@ _<sup>http://myflex.org/books/java4kids/java4kids.htm</sup>_
 #### [Sharing coding knowledge – CodingpediaOrg](http://www.codingpedia.org/)
 _<sup>http://www.codingpedia.org/</sup>_
 
-* **tags**: [blog](../tagged/blog.md), [java](../tagged/java.md), [nodejs](../tagged/nodejs.md), [angular](../tagged/angular.md), [spring](../tagged/spring.md)
+* **tags**: [blog](../tagged/blog.md), [java](../tagged/java.md), [node.js](../tagged/node.js.md), [angular](../tagged/angular.md), [spring](../tagged/spring.md)
 ---
 #### [java - Specifying JVM arguments when calling a jar file? - Stack Overflow](https://stackoverflow.com/questions/5891123/specifying-jvm-arguments-when-calling-a-jar-file)
 _<sup>https://stackoverflow.com/questions/5891123/specifying-jvm-arguments-when-calling-a-jar-file</sup>_

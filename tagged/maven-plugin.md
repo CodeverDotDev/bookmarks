@@ -2,6 +2,14 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/maven-plugin](https://www.bookmarks.dev/tagged/maven-plugin)</sup></sup>_
 ---
+#### [The JMeter Maven Plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
+_<sup>https://github.com/jmeter-maven-plugin/jmeter-maven-plugin</sup>_
+
+A Maven plugin that provides the ability to run JMeter tests as part of your build
+
+All the documentation you need to configure the plugin is available on the [Github Wiki](https://github.com/jmeter-m...
+* **tags**: [jmeter](../tagged/jmeter.md), [maven-plugin](../tagged/maven-plugin.md), [java](../tagged/java.md)
+---
 #### [Build and Push to Docker With Maven - Better Programming - Medium](https://medium.com/better-programming/build-push-to-docker-with-maven-eea7c4b8cfa2)
 _<sup>https://medium.com/better-programming/build-push-to-docker-with-maven-eea7c4b8cfa2</sup>_
 
@@ -81,5 +89,5 @@ The Assembly Plugin for Maven is primarily intended to allow users to aggregate 
 _<sup>https://github.com/eirslett/frontend-maven-plugin</sup>_
 
 "Maven-node-grunt-gulp-npm-node-plugin to end all maven-node-grunt-gulp-npm-plugins." A Maven plugin that downloads/installs Node and NPM locally, runs NPM install, Grunt, Gulp and/or Karma.
-* **tags**: [maven](../tagged/maven.md), [gulp](../tagged/gulp.md), [nodejs](../tagged/nodejs.md), [npm](../tagged/npm.md), [maven-plugin](../tagged/maven-plugin.md)
+* **tags**: [maven](../tagged/maven.md), [gulp](../tagged/gulp.md), [node.js](../tagged/node.js.md), [npm](../tagged/npm.md), [maven-plugin](../tagged/maven-plugin.md)
 ---

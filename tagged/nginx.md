@@ -67,7 +67,7 @@ _<sup>https://www.youtube.com/watch?v=EsCfPxjmnjo</sup>_
 * Part 1 What is a Microservice?" I walk you through what a Microservice is and what this 3 part tutorial will show you.
 * Part 2 [Making a micro...
 * :calendar: **published on**: 2017-12-29
-* **tags**: [nodejs](../tagged/nodejs.md), [microservices](../tagged/microservices.md), [docker](../tagged/docker.md), [docker-compose](../tagged/docker-compose.md), [nginx](../tagged/nginx.md)
+* **tags**: [node.js](../tagged/node.js.md), [microservices](../tagged/microservices.md), [docker](../tagged/docker.md), [docker-compose](../tagged/docker-compose.md), [nginx](../tagged/nginx.md)
 * :octocat: **[source code](https://github.com/fChristenson/microservices-example)**
 ---
 #### [5 Tips to Increase Node.js Application Performance](https://www.nginx.com/blog/5-performance-tips-for-node-js-applications/)
@@ -75,7 +75,7 @@ _<sup>https://www.nginx.com/blog/5-performance-tips-for-node-js-applications/</s
 
 Achieve high performance with node.js applications with these 5 tips from NGINX, including how to use a reverse proxy server, load balancer, and caching.
 * :calendar: **published on**: 2015-11-16
-* **tags**: [nginx](../tagged/nginx.md), [nodejs](../tagged/nodejs.md), [performance](../tagged/performance.md), [optimization](../tagged/optimization.md)
+* **tags**: [nginx](../tagged/nginx.md), [node.js](../tagged/node.js.md), [performance](../tagged/performance.md), [optimization](../tagged/optimization.md)
 ---
 #### [The Architecture of Open Source Applications (Volume 2) - nginx](http://www.aosabook.org/en/nginx.html)
 _<sup>http://www.aosabook.org/en/nginx.html</sup>_
@@ -93,7 +93,7 @@ In this guide we are going to:
 * generate SSL certificates and configure them in NGINX
 * configure NGINX as rever...
 * :calendar: **published on**: 2017-05-21
-* **tags**: [nginx](../tagged/nginx.md), [angular](../tagged/angular.md), [nodejs](../tagged/nodejs.md)
+* **tags**: [nginx](../tagged/nginx.md), [angular](../tagged/angular.md), [node.js](../tagged/node.js.md)
 ---
 #### [centos - nginx missing sites-available directory - Stack Overflow](https://stackoverflow.com/questions/17413526/nginx-missing-sites-available-directory)
 _<sup>https://stackoverflow.com/questions/17413526/nginx-missing-sites-available-directory</sup>_

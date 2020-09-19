@@ -2,6 +2,16 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/rest](https://www.bookmarks.dev/tagged/rest)</sup></sup>_
 ---
+#### [Rest API Testing With JMeter (Step by Step Guide) - Jmeter - OctoPerf](https://octoperf.com/blog/2018/04/23/jmeter-rest-api-testing/)
+_<sup>https://octoperf.com/blog/2018/04/23/jmeter-rest-api-testing/</sup>_
+
+Test a Json Rest API through a concrete example, [OctoPerf’s Json Rest API](https://api.octoperf.com/swagger-ui.html).
+
+And this guide will completely get you through the following knowledge:
+* Handle...
+* :calendar: **published on**: 2018-04-23
+* **tags**: [jmeter](../tagged/jmeter.md), [api](../tagged/api.md), [testing](../tagged/testing.md), [rest](../tagged/rest.md), [json](../tagged/json.md)
+---
 #### [How to test a REST api from command line with curl – CodepediaOrg](https://www.codepedia.org/ama/how-to-test-a-rest-api-from-command-line-with-curl/)
 _<sup>https://www.codepedia.org/ama/how-to-test-a-rest-api-from-command-line-with-curl/</sup>_
 
@@ -250,67 +260,67 @@ A fully RESTful API from any existing PostgreSQL database written in Go.
 _<sup>https://github.com/restify/node-restify</sup>_
 
 Framework specifically meant for REST API.
-* **tags**: [rest](../tagged/rest.md), [nodejs](../tagged/nodejs.md)
+* **tags**: [rest](../tagged/rest.md), [node.js](../tagged/node.js.md)
 * :octocat: **[source code](https://github.com/restify/node-restify)**
 ---
 #### [Sails.js](http://sailsjs.org/)
 _<sup>http://sailsjs.org/</sup>_
 
 Node.js Web framework embedding a command to generate automatically a REST API.
-* **tags**: [rest](../tagged/rest.md), [nodejs](../tagged/nodejs.md)
+* **tags**: [rest](../tagged/rest.md), [node.js](../tagged/node.js.md)
 ---
 #### [mers](https://github.com/jspears/mers)
 _<sup>https://github.com/jspears/mers</sup>_
 
 Express service exposing Mongoose finders as RESTful API.
-* **tags**: [rest](../tagged/rest.md), [nodejs](../tagged/nodejs.md)
+* **tags**: [rest](../tagged/rest.md), [node.js](../tagged/node.js.md)
 * :octocat: **[source code](https://github.com/jspears/mers)**
 ---
 #### [Baucis](https://github.com/wprl/baucis)
 _<sup>https://github.com/wprl/baucis</sup>_
 
 Build scalable REST API based on your Mongoose entities.
-* **tags**: [rest](../tagged/rest.md), [nodejs](../tagged/nodejs.md)
+* **tags**: [rest](../tagged/rest.md), [node.js](../tagged/node.js.md)
 * :octocat: **[source code](https://github.com/wprl/baucis)**
 ---
 #### [flatiron/resourceful](https://github.com/flatiron/resourceful)
 _<sup>https://github.com/flatiron/resourceful</sup>_
 
 Isomorphic Resource engine for JavaScript.
-* **tags**: [rest](../tagged/rest.md), [nodejs](../tagged/nodejs.md)
+* **tags**: [rest](../tagged/rest.md), [node.js](../tagged/node.js.md)
 * :octocat: **[source code](https://github.com/flatiron/resourceful)**
 ---
 #### [loopback](http://loopback.io/)
 _<sup>http://loopback.io/</sup>_
 
 Powerful Node.js framework for creating APIs and easily connecting to backend data sources.
-* **tags**: [rest](../tagged/rest.md), [nodejs](../tagged/nodejs.md)
+* **tags**: [rest](../tagged/rest.md), [node.js](../tagged/node.js.md)
 ---
 #### [Feathers](http://feathersjs.com/)
 _<sup>http://feathersjs.com/</sup>_
 
 is a real-time, micro-service web framework that gives you control over your data via RESTful resources, sockets and flexible plug-ins.
-* **tags**: [rest](../tagged/rest.md), [nodejs](../tagged/nodejs.md)
+* **tags**: [rest](../tagged/rest.md), [node.js](../tagged/node.js.md)
 ---
 #### [Expressa](https://github.com/thomas4019/expressa)
 _<sup>https://github.com/thomas4019/expressa</sup>_
 
 Express middleware for creating APIs from JSON schemas with a simple admin editor and permissions model.
-* **tags**: [rest](../tagged/rest.md), [nodejs](../tagged/nodejs.md)
+* **tags**: [rest](../tagged/rest.md), [node.js](../tagged/node.js.md)
 * :octocat: **[source code](https://github.com/thomas4019/expressa)**
 ---
 #### [rest-hapi](https://github.com/JKHeadley/rest-hapi)
 _<sup>https://github.com/JKHeadley/rest-hapi</sup>_
 
 Generate RESTful API based on mongoose models that supports relational data.
-* **tags**: [rest](../tagged/rest.md), [nodejs](../tagged/nodejs.md)
+* **tags**: [rest](../tagged/rest.md), [node.js](../tagged/node.js.md)
 * :octocat: **[source code](https://github.com/JKHeadley/rest-hapi)**
 ---
 #### [Nestjsx/crud](https://github.com/nestjsx/crud)
 _<sup>https://github.com/nestjsx/crud</sup>_
 
 Generate CRUD controllers and services for RESTful API with NestJS and TypeORM.
-* **tags**: [rest](../tagged/rest.md), [nodejs](../tagged/nodejs.md)
+* **tags**: [rest](../tagged/rest.md), [node.js](../tagged/node.js.md)
 * :octocat: **[source code](https://github.com/nestjsx/crud)**
 ---
 #### [Microrest](https://github.com/marmelab/microrest.php)
@@ -1043,7 +1053,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 _<sup>https://github.com/axios/axios</sup>_
 
 Promise based HTTP client for the browser and node.js - axios/axios
-* **tags**: [rest](../tagged/rest.md), [rest-client](../tagged/rest-client.md), [nodejs](../tagged/nodejs.md)
+* **tags**: [rest](../tagged/rest.md), [rest-client](../tagged/rest-client.md), [node.js](../tagged/node.js.md)
 * :octocat: **[source code](https://github.com/axios/axios)**
 ---
 #### [Spring REST + Spring Security Example – Mkyong.com](https://www.mkyong.com/spring-boot/spring-rest-spring-security-example/)
@@ -1079,7 +1089,7 @@ API Blueprint is simple and accessible to everybody involved in the API lifecycl
 _<sup>https://www.fastify.io/</sup>_
 
 Fast and low overhead web framework, for Node.js
-* **tags**: [nodejs](../tagged/nodejs.md), [rest](../tagged/rest.md)
+* **tags**: [node.js](../tagged/node.js.md), [rest](../tagged/rest.md)
 * :octocat: **[source code](https://github.com/fastify/fastify)**
 ---
 #### [
@@ -1142,7 +1152,7 @@ Real world, specific use cases for REST, GraphQL, gRPC, and Webhooks to help API
 _<sup>http://restify.com/</sup>_
 
 A Node.js web service framework optimized for building semantically correct RESTful web services ready for production use at scale. restify optimizes for introspection and perfromance, and is used in ...
-* **tags**: [nodejs](../tagged/nodejs.md), [rest](../tagged/rest.md)
+* **tags**: [node.js](../tagged/node.js.md), [rest](../tagged/rest.md)
 * :octocat: **[source code](https://github.com/restify/node-restify)**
 ---
 #### [OData - the Best Way to REST  - homepage](https://www.odata.org/)
@@ -1229,21 +1239,21 @@ A guide on how to implement a consumer-driven contract test with Pact that verif
 _<sup>http://v4.loopback.io/</sup>_
 
 LoopBack makes it easy to build modern API applications that require complex integrations.
-* **tags**: [nodejs](../tagged/nodejs.md), [typescript](../tagged/typescript.md), [openapi](../tagged/openapi.md), [rest](../tagged/rest.md)
+* **tags**: [node.js](../tagged/node.js.md), [typescript](../tagged/typescript.md), [openapi](../tagged/openapi.md), [rest](../tagged/rest.md)
 * :octocat: **[source code](https://github.com/strongloop/loopback-next)**
 ---
 #### [GitHub - awslabs/aws-serverless-express](https://github.com/awslabs/aws-serverless-express)
 _<sup>https://github.com/awslabs/aws-serverless-express</sup>_
 
 Run serverless applications and REST APIs using your existing Node.js application framework, on top of AWS Lambda and Amazon API Gateway
-* **tags**: [aws](../tagged/aws.md), [nodejs](../tagged/nodejs.md), [expressjs](../tagged/expressjs.md), [rest](../tagged/rest.md)
+* **tags**: [aws](../tagged/aws.md), [node.js](../tagged/node.js.md), [expressjs](../tagged/expressjs.md), [rest](../tagged/rest.md)
 * :octocat: **[source code](https://github.com/awslabs/aws-serverless-express)**
 ---
 #### [GitHub - ttezel/twit: Twitter API Client for node (REST & Streaming API)](https://github.com/ttezel/twit)
 _<sup>https://github.com/ttezel/twit</sup>_
 
 Twitter API Client for node (REST & Streaming API)
-* **tags**: [nodejs](../tagged/nodejs.md), [twitter](../tagged/twitter.md), [rest](../tagged/rest.md)
+* **tags**: [node.js](../tagged/node.js.md), [twitter](../tagged/twitter.md), [rest](../tagged/rest.md)
 * :octocat: **[source code](https://github.com/ttezel/twit)**
 ---
 #### [The RESTful cookbook](http://restcookbook.com/)

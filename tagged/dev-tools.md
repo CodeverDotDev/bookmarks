@@ -228,7 +228,7 @@ _<sup>https://medium.com/@paul_irish/debugging-node-js-nightlies-with-chrome-dev
 
 Support for Node.js debuggability landed in Node.js master in May 2016. You can see it in action in the [DevTools 2016 Google I/O talk](https://www.youtube.com/watch?v=x8u0n4dT-WI&feature=youtu.be&t=2...
 * :calendar: **published on**: 2018-01-01
-* **tags**: [nodejs](../tagged/nodejs.md), [debugging](../tagged/debugging.md), [chrome](../tagged/chrome.md), [dev-tools](../tagged/dev-tools.md)
+* **tags**: [node.js](../tagged/node.js.md), [debugging](../tagged/debugging.md), [chrome](../tagged/chrome.md), [dev-tools](../tagged/dev-tools.md)
 ---
 #### [nodemon](https://nodemon.io/)
 _<sup>https://nodemon.io/</sup>_
@@ -236,7 +236,7 @@ _<sup>https://nodemon.io/</sup>_
 Nodemon is a utility that will monitor for any changes in your source and automatically restart your server. Perfect for development. Install it using [npm](https://www.npmjs.com/package/nodemon).
 
 Ju...
-* **tags**: [nodejs](../tagged/nodejs.md), [nodemon](../tagged/nodemon.md), [dev-tools](../tagged/dev-tools.md)
+* **tags**: [node.js](../tagged/node.js.md), [nodemon](../tagged/nodemon.md), [dev-tools](../tagged/dev-tools.md)
 ---
 #### [IP Banned - GIDNetwork](http://www.gidnetwork.com/tools/gzip-test.php)
 _<sup>http://www.gidnetwork.com/tools/gzip-test.php</sup>_
@@ -294,7 +294,7 @@ Production process manager for Node.js apps with a built-in load balancer.
 Starting an application in production mode is as easy as:
 
 
-* **tags**: [nodejs](../tagged/nodejs.md), [pm2](../tagged/pm2.md), [dev-tools](../tagged/dev-tools.md)
+* **tags**: [node.js](../tagged/node.js.md), [pm2](../tagged/pm2.md), [dev-tools](../tagged/dev-tools.md)
 * :octocat: **[source code](https://github.com/Unitech/pm2)**
 ---
 #### [How to Use the Timeline Tool  |  Web |  Google Developers](https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/timeline-tool)

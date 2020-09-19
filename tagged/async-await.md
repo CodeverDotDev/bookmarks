@@ -7,7 +7,7 @@ _<sup>https://www.codepedia.org/ama/cleaner-code-in-expressjs-rest-api-with-cust
 
 Shows how you can make your backend ExpressJS REST API cleaner by using custom error handling middleware. Code snippets of before and after refactoring are presented to make the point
 * :calendar: **published on**: 2019-12-02
-* **tags**: [expressjs](../tagged/expressjs.md), [nodejs](../tagged/nodejs.md), [error-handling](../tagged/error-handling.md), [async-await](../tagged/async-await.md)
+* **tags**: [expressjs](../tagged/expressjs.md), [node.js](../tagged/node.js.md), [error-handling](../tagged/error-handling.md), [async-await](../tagged/async-await.md)
 * :octocat: **[source code](https://github.com/CodepediaOrg/bookmarks.dev-api)**
 ---
 #### [GitHub - davidbanham/express-async-errors](https://github.com/davidbanham/express-async-errors)
@@ -37,14 +37,14 @@ _<sup>https://thecodebarbarian.com/80-20-guide-to-express-error-handling</sup>_
 
 [Express' error handling middleware](http://expressjs.com/en/guide/error-handling.html) is a powerful tool for consolidating your HTTP error response logic. Odds are, if you've written Express code yo...
 * :calendar: **published on**: 2017-08-04
-* **tags**: [expressjs](../tagged/expressjs.md), [nodejs](../tagged/nodejs.md), [error-handling](../tagged/error-handling.md), [async-await](../tagged/async-await.md)
+* **tags**: [expressjs](../tagged/expressjs.md), [node.js](../tagged/node.js.md), [error-handling](../tagged/error-handling.md), [async-await](../tagged/async-await.md)
 ---
 #### [The 80/20 Guide to Async/Await in Node.js](http://thecodebarbarian.com/80-20-guide-to-async-await-in-node.js)
 _<sup>http://thecodebarbarian.com/80-20-guide-to-async-await-in-node.js</sup>_
 
 Arguably the biggest new feature in Node.js 7.6.0 is that the much awaited async function keyword is now available without a flag. Callback hell and promise hell are now in the past. But, like Uncle B...
 * :calendar: **published on**: 2017-03-08
-* **tags**: [nodejs](../tagged/nodejs.md), [javascript](../tagged/javascript.md), [async-await](../tagged/async-await.md), [error-handling](../tagged/error-handling.md)
+* **tags**: [node.js](../tagged/node.js.md), [javascript](../tagged/javascript.md), [async-await](../tagged/async-await.md), [error-handling](../tagged/error-handling.md)
 ---
 #### [Async Await Error Handling in JavaScript](https://thecodebarbarian.com/async-await-error-handling-in-javascript)
 _<sup>https://thecodebarbarian.com/async-await-error-handling-in-javascript</sup>_
@@ -60,28 +60,28 @@ _<sup>http://www.codepedia.org/ama/cleaner-code-in-nodejs-with-async-await-mongo
 
 Example showing migration of Mongoose calls from previously using callbacks to using the new async-await feature in NodeJs
 * :calendar: **published on**: 2017-11-05
-* **tags**: [nodejs](../tagged/nodejs.md), [async-await](../tagged/async-await.md), [mongoose](../tagged/mongoose.md), [mongodb](../tagged/mongodb.md)
+* **tags**: [node.js](../tagged/node.js.md), [async-await](../tagged/async-await.md), [mongoose](../tagged/mongoose.md), [mongodb](../tagged/mongodb.md)
 * :octocat: **[source code](https://github.com/CodepediaOrg/bookmarks.dev-api)**
 ---
 #### [GitHub - BryanDonovan/node-cache-manager](https://github.com/BryanDonovan/node-cache-manager)
 _<sup>https://github.com/BryanDonovan/node-cache-manager</sup>_
 
 Cache module for Node.JS.
-* **tags**: [nodejs](../tagged/nodejs.md), [caching](../tagged/caching.md), [async-await](../tagged/async-await.md)
+* **tags**: [node.js](../tagged/node.js.md), [caching](../tagged/caching.md), [async-await](../tagged/async-await.md)
 ---
 #### [Parallel calls with async-await in javascript - I promise you all performance and simplicity](http://www.codingpedia.org/ama/parallel-calls-with-async-await-in-javascript-i-promise-you-all-performance-and-simplicity)
 _<sup>http://www.codingpedia.org/ama/parallel-calls-with-async-await-in-javascript-i-promise-you-all-perfo...</sup>_
 
 I was blown away about the simplicity and performance gain of making parallel calls with the new async-await feature in javascript. See the blog post to understand why.
 * :calendar: **published on**: 2017-11-13
-* **tags**: [nodejs](../tagged/nodejs.md), [async-await](../tagged/async-await.md), [async](../tagged/async.md), [javascript](../tagged/javascript.md)
+* **tags**: [node.js](../tagged/node.js.md), [async-await](../tagged/async-await.md), [async](../tagged/async.md), [javascript](../tagged/javascript.md)
 ---
 #### [Common Async/Await Design Patterns in Node.js](http://thecodebarbarian.com/common-async-await-design-patterns-in-node.js.html)
 _<sup>http://thecodebarbarian.com/common-async-await-design-patterns-in-node.js.html</sup>_
 
 Retry, parallel request, mongodb cursor etc.
 * :calendar: **published on**: 2017-03-15
-* **tags**: [nodejs](../tagged/nodejs.md), [async-await](../tagged/async-await.md), [mongodb](../tagged/mongodb.md)
+* **tags**: [node.js](../tagged/node.js.md), [async-await](../tagged/async-await.md), [mongodb](../tagged/mongodb.md)
 ---
 #### [javascript - Using async/await with a forEach loop - Stack Overflow](https://stackoverflow.com/questions/37576685/using-async-await-with-a-foreach-loop)
 _<sup>https://stackoverflow.com/questions/37576685/using-async-await-with-a-foreach-loop</sup>_

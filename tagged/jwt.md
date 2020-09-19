@@ -13,7 +13,7 @@ In spite of the popularity of JWTs, their security properties are often misunder
 _<sup>https://github.com/auth0/express-jwt</sup>_
 
 connect/express middleware that validates a JsonWebToken (JWT) and set the req.user with the attributes - auth0/express-jwt
-* **tags**: [expressjs](../tagged/expressjs.md), [nodejs](../tagged/nodejs.md), [jwt](../tagged/jwt.md)
+* **tags**: [expressjs](../tagged/expressjs.md), [node.js](../tagged/node.js.md), [jwt](../tagged/jwt.md)
 * :octocat: **[source code](https://github.com/auth0/express-jwt)**
 ---
 #### [pyjwt](https://github.com/jpadilla/pyjwt)
@@ -90,7 +90,7 @@ _<sup>https://blog.angular-university.io/angular-authentication-jwt/</sup>_
 
 A Step-by-Step Guide for learning how to implement JWT-based Authentication in Angular, includes what to do in the backend (using Node / Typescript)
 * :calendar: **published on**: 2017-09-14
-* **tags**: [jwt](../tagged/jwt.md), [angular](../tagged/angular.md), [nodejs](../tagged/nodejs.md)
+* **tags**: [jwt](../tagged/jwt.md), [angular](../tagged/angular.md), [node.js](../tagged/node.js.md)
 ---
 #### [OpenID Connect](https://auth0.com/docs/protocols/oidc)
 _<sup>https://auth0.com/docs/protocols/oidc</sup>_

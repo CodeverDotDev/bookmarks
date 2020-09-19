@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/rust](https://www.bookmarks.dev/tagged/rust)</sup></sup>_
 ---
+#### [Tokio home page](https://tokio.rs/)
+_<sup>https://tokio.rs/</sup>_
+
+Tokio is an asynchronous runtime for the Rust programming language. It provides the building blocks needed for writing network applications. It gives the flexibility to target a wide range of systems,...
+* **tags**: [rust](../tagged/rust.md), [asynchronous](../tagged/asynchronous.md), [runtime](../tagged/runtime.md)
+* :octocat: **[source code](https://github.com/tokio-rs/tokio)**
+---
 #### [Tour of Rust](https://tourofrust.com/)
 _<sup>https://tourofrust.com/</sup>_
 
@@ -18,7 +25,7 @@ _<sup>https://www.youtube.com/watch?v=z6JRlx5NC9E</sup>_
 
 From async-await to ArrayBuffers, the JavaScript language has changes significantly in the decade since Node.js was designed. Deno takes advantage of these developments and incorporate lessons learned...
 * :calendar: **published on**: 2019-04-08
-* **tags**: [nodejs](../tagged/nodejs.md), [javascript](../tagged/javascript.md), [rust](../tagged/rust.md)
+* **tags**: [node.js](../tagged/node.js.md), [javascript](../tagged/javascript.md), [rust](../tagged/rust.md)
 ---
 #### [indiscipline/zrtstr](https://github.com/indiscipline/zrtstr)
 _<sup>https://github.com/indiscipline/zrtstr</sup>_
@@ -1338,7 +1345,7 @@ mruby safe bindings for Rust [<img src="https://api.travis-ci.org/anima-engine/m
 _<sup>https://github.com/neon-bindings/neon</sup>_
 
 use Rust from Node.js [<img src="https://api.travis-ci.org/neon-bindings/neon.svg?branch=master">](https://travis-ci.org/neon-bindings/neon)
-* **tags**: [rust](../tagged/rust.md), [ffi](../tagged/ffi.md), [nodejs](../tagged/nodejs.md)
+* **tags**: [rust](../tagged/rust.md), [ffi](../tagged/ffi.md), [node.js](../tagged/node.js.md)
 * :octocat: **[source code](https://github.com/neon-bindings/neon)**
 ---
 #### [SSheldon/rust-objc](https://github.com/SSheldon/rust-objc)

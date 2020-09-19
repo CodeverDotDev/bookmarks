@@ -7,7 +7,7 @@ _<sup>https://www.codepedia.org/ama/key-takeaways-when-using-oas-3-to-document-a
 
 Recently I’ve taken the time to update the API documentation for bookmarks.dev. I used the Swagger 2.0 (aka OAS 2) before and I decided to update to OpenAPI Specification (OAS) 3. In this post I will ...
 * :calendar: **published on**: 2020-02-20
-* **tags**: [openapi](../tagged/openapi.md), [expressjs](../tagged/expressjs.md), [nodejs](../tagged/nodejs.md)
+* **tags**: [openapi](../tagged/openapi.md), [expressjs](../tagged/expressjs.md), [node.js](../tagged/node.js.md)
 * :octocat: **[source code](https://github.com/CodepediaOrg/bookmarks.dev)**
 ---
 #### [Supported JSON Schema Keywords | Swagger](https://swagger.io/docs/specification/data-models/keywords/)
@@ -27,7 +27,7 @@ Document your code and keep a live and reusable OpenAPI (Swagger) specification.
 _<sup>https://github.com/swagger-api/swagger-node</sup>_
 
 The `swagger` module provides tools for designing and building Swagger-compliant APIs entirely in Node.js. It integrates with popular Node.js servers, including Express, Hapi, Restify, and Sails, as w...
-* **tags**: [swagger](../tagged/swagger.md), [openapi](../tagged/openapi.md), [nodejs](../tagged/nodejs.md)
+* **tags**: [swagger](../tagged/swagger.md), [openapi](../tagged/openapi.md), [node.js](../tagged/node.js.md)
 * :octocat: **[source code](https://github.com/swagger-api/swagger-node)**
 ---
 #### [Swagger Converter Home Page](https://converter.swagger.io/)
@@ -87,14 +87,14 @@ The OpenAPI Specification Repository.
 _<sup>http://v4.loopback.io/</sup>_
 
 LoopBack makes it easy to build modern API applications that require complex integrations.
-* **tags**: [nodejs](../tagged/nodejs.md), [typescript](../tagged/typescript.md), [openapi](../tagged/openapi.md), [rest](../tagged/rest.md)
+* **tags**: [node.js](../tagged/node.js.md), [typescript](../tagged/typescript.md), [openapi](../tagged/openapi.md), [rest](../tagged/rest.md)
 * :octocat: **[source code](https://github.com/strongloop/loopback-next)**
 ---
 #### [Swagger UI Express](https://www.npmjs.com/package/swagger-ui-express)
 _<sup>https://www.npmjs.com/package/swagger-ui-express</sup>_
 
 Adds middleware to your express app to serve the Swagger UI bound to your Swagger document. This acts as living documentation for your API hosted from within your ap
-* **tags**: [swagger](../tagged/swagger.md), [nodejs](../tagged/nodejs.md), [expressjs](../tagged/expressjs.md), [openapi](../tagged/openapi.md)
+* **tags**: [swagger](../tagged/swagger.md), [node.js](../tagged/node.js.md), [expressjs](../tagged/expressjs.md), [openapi](../tagged/openapi.md)
 * :octocat: **[source code](https://github.com/scottie1984/swagger-ui-express)**
 ---
 #### [Swagger Editor Home Page](https://editor.swagger.io/)

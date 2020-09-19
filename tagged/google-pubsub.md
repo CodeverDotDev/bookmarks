@@ -8,7 +8,7 @@ _<sup>https://googleapis.dev/nodejs/pubsub/latest/index.html</sup>_
 Cloud Pub/Sub is a fully-managed real-time messaging service that allows you to send and receive messages between independent applications.
 
 This document contains to an API reference, samples, and ot...
-* **tags**: [nodejs](../tagged/nodejs.md), [google-pubsub](../tagged/google-pubsub.md), [docs](../tagged/docs.md)
+* **tags**: [node.js](../tagged/node.js.md), [google-pubsub](../tagged/google-pubsub.md), [docs](../tagged/docs.md)
 ---
 #### [Monitoring overview  |  Cloud Pub/Sub Documentation  |  Google Cloud](https://cloud.google.com/pubsub/docs/monitoring)
 _<sup>https://cloud.google.com/pubsub/docs/monitoring</sup>_

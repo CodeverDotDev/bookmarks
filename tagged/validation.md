@@ -138,34 +138,34 @@ multipurpose validation library. Supports both sync and async validation.
 _<sup>https://github.com/hapijs/joi</sup>_
 
 Object schema description language and validator for JavaScript objects.
-* **tags**: [nodejs](../tagged/nodejs.md), [validation](../tagged/validation.md)
+* **tags**: [node.js](../tagged/node.js.md), [validation](../tagged/validation.md)
 * :octocat: **[source code](https://github.com/hapijs/joi)**
 ---
 #### [is-my-json-valid](https://github.com/mafintosh/is-my-json-valid)
 _<sup>https://github.com/mafintosh/is-my-json-valid</sup>_
 
 JSON Schema validator that uses code generation to be extremely fast.
-* **tags**: [nodejs](../tagged/nodejs.md), [validation](../tagged/validation.md)
+* **tags**: [node.js](../tagged/node.js.md), [validation](../tagged/validation.md)
 * :octocat: **[source code](https://github.com/mafintosh/is-my-json-valid)**
 ---
 #### [property-validator](https://github.com/nettofarah/property-validator)
 _<sup>https://github.com/nettofarah/property-validator</sup>_
 
 Easy property validation for Express.
-* **tags**: [nodejs](../tagged/nodejs.md), [validation](../tagged/validation.md)
+* **tags**: [node.js](../tagged/node.js.md), [validation](../tagged/validation.md)
 * :octocat: **[source code](https://github.com/nettofarah/property-validator)**
 ---
 #### [schema-inspector](https://github.com/Atinux/schema-inspector)
 _<sup>https://github.com/Atinux/schema-inspector</sup>_
 
 JSON API sanitization and validation.
-* **tags**: [nodejs](../tagged/nodejs.md), [validation](../tagged/validation.md)
+* **tags**: [node.js](../tagged/node.js.md), [validation](../tagged/validation.md)
 * :octocat: **[source code](https://github.com/Atinux/schema-inspector)**
 ---
 #### [ajv](https://github.com/epoberezkin/ajv)
 _<sup>https://github.com/epoberezkin/ajv</sup>_
 
 The fastest JSON Schema validator. Supports v5 proposals.
-* **tags**: [nodejs](../tagged/nodejs.md), [validation](../tagged/validation.md)
+* **tags**: [node.js](../tagged/node.js.md), [validation](../tagged/validation.md)
 * :octocat: **[source code](https://github.com/epoberezkin/ajv)**
 ---

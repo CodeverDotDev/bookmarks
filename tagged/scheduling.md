@@ -41,7 +41,7 @@ A Ruby gem that provides a clear syntax for writing and deploying cron jobs.
 _<sup>http://merencia.github.io/node-cron/</sup>_
 
 The node-cron module is tiny task scheduler in pure JavaScript for node.js based on GNU crontab. This module allows you to schedule task in node.js using full crontab syntax.
-* **tags**: [nodejs](../tagged/nodejs.md), [scheduler](../tagged/scheduler.md), [scheduling](../tagged/scheduling.md)
+* **tags**: [node.js](../tagged/node.js.md), [scheduler](../tagged/scheduler.md), [scheduling](../tagged/scheduling.md)
 * :octocat: **[source code](https://github.com/merencia/node-cron)**
 ---
 #### [Creating clustered EJB 3 Timers ](http://www.mastertheboss.com/jboss-server/wildfly-8/creating-clustered-ejb-3-timers)

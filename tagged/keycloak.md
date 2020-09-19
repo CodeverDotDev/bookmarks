@@ -25,7 +25,7 @@ Advices around the following themes are given:
 _<sup>https://github.com/keycloak/keycloak-nodejs-admin-client</sup>_
 
 🔑 NodeJS keycloak admin client. 
-* **tags**: [keycloak](../tagged/keycloak.md), [nodejs](../tagged/nodejs.md)
+* **tags**: [keycloak](../tagged/keycloak.md), [node.js](../tagged/node.js.md)
 * :octocat: **[source code](https://github.com/keycloak/keycloak-nodejs-admin-client)**
 ---
 #### [GitHub - dasniko/keycloak-reactjs-demo](https://github.com/dasniko/keycloak-reactjs-demo)
@@ -93,7 +93,7 @@ _<sup>https://www.youtube.com/watch?v=A_BYZ7hHWXE</sup>_
 
 This video is showing how to deploy Keycloak on Kubernetes as well as deploying and securing a HTML5 frontend application and a Node.js backend service and securing these with Keycloak. Video realised...
 * :calendar: **published on**: 2018-06-27
-* **tags**: [keycloak](../tagged/keycloak.md), [kubernetes](../tagged/kubernetes.md), [php](../tagged/php.md), [minikube](../tagged/minikube.md), [nodejs](../tagged/nodejs.md)
+* **tags**: [keycloak](../tagged/keycloak.md), [kubernetes](../tagged/kubernetes.md), [php](../tagged/php.md), [minikube](../tagged/minikube.md), [node.js](../tagged/node.js.md)
 * :octocat: **[source code](https://github.com/stianst/demo-kubernetes)**
 ---
 #### [Repository for Keycloak Demos](https://github.com/thomasdarimont/keycloak-docker-demo)
@@ -119,7 +119,7 @@ _<sup>https://www.youtube.com/watch?v=mdZauKsMDiI</sup>_
 
 If you have a number of applications and services, the applications may be HTML5, server-side, or mobile, while the services may be monolithic or microservices, deployed on-premise, or to the cloud. Y...
 * :calendar: **published on**: 2018-08-16
-* **tags**: [keycloak](../tagged/keycloak.md), [microservices](../tagged/microservices.md), [php](../tagged/php.md), [nodejs](../tagged/nodejs.md)
+* **tags**: [keycloak](../tagged/keycloak.md), [microservices](../tagged/microservices.md), [php](../tagged/php.md), [node.js](../tagged/node.js.md)
 * :octocat: **[source code](https://github.com/stianst/keycloak-demo/tree/master/demo-service)**
 ---
 #### [Keycloak and Istio](https://www.keycloak.org/2018/02/keycloak-and-istio.html)
@@ -137,7 +137,7 @@ Istio is an platform that provides a common way to manage your service mesh. You
 _<sup>https://github.com/v-ladynev/keycloak-nodejs-example</sup>_
 
 A simply step by step Keycloak, MySQL and Node.js integration tutorial / example. There are some docker examples as well. - v-ladynev/keycloak-nodejs-example
-* **tags**: [keycloak](../tagged/keycloak.md), [nodejs](../tagged/nodejs.md)
+* **tags**: [keycloak](../tagged/keycloak.md), [node.js](../tagged/node.js.md)
 * :octocat: **[source code](https://github.com/v-ladynev/keycloak-nodejs-example)**
 ---
 #### [GitHub - mauriciovigolo/keycloak-angular: Easy Keycloak setup for Angular applications (v>4.3)](https://github.com/mauriciovigolo/keycloak-angular)

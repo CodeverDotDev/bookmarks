@@ -2,6 +2,16 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/api](https://www.bookmarks.dev/tagged/api)</sup></sup>_
 ---
+#### [Rest API Testing With JMeter (Step by Step Guide) - Jmeter - OctoPerf](https://octoperf.com/blog/2018/04/23/jmeter-rest-api-testing/)
+_<sup>https://octoperf.com/blog/2018/04/23/jmeter-rest-api-testing/</sup>_
+
+Test a Json Rest API through a concrete example, [OctoPerf’s Json Rest API](https://api.octoperf.com/swagger-ui.html).
+
+And this guide will completely get you through the following knowledge:
+* Handle...
+* :calendar: **published on**: 2018-04-23
+* **tags**: [jmeter](../tagged/jmeter.md), [api](../tagged/api.md), [testing](../tagged/testing.md), [rest](../tagged/rest.md), [json](../tagged/json.md)
+---
 #### [public-apis](https://github.com/public-apis/public-apis)
 _<sup>https://github.com/public-apis/public-apis</sup>_
 
@@ -905,5 +915,5 @@ As **API-centric** integration matures, however, it has become very clear that n
 _<sup>https://www.youtube.com/watch?v=ovqDdH9ngFs</sup>_
 
 See how the architecture of this cross-cutting project allows us to build isolated microservices with Node.js and Docker. Examine the tools and infrastructure we’re building across our stack that enab...
-* **tags**: [nodejs](../tagged/nodejs.md), [docker](../tagged/docker.md), [architecture](../tagged/architecture.md), [api](../tagged/api.md)
+* **tags**: [node.js](../tagged/node.js.md), [docker](../tagged/docker.md), [architecture](../tagged/architecture.md), [api](../tagged/api.md)
 ---

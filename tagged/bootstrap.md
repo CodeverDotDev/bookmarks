@@ -29,7 +29,7 @@ We would be building a basic app Linxer. It's an extension that can be used to s
 _<sup>https://www.creative-tim.com/</sup>_
 
 UI Kits, Templates and Dashboards built on top of Bootstrap, Vue.js, React, Angular, Node.js and Laravel. 
-* **tags**: [user-experience](../tagged/user-experience.md), [dashboard](../tagged/dashboard.md), [angular](../tagged/angular.md), [bootstrap](../tagged/bootstrap.md), [vuejs](../tagged/vuejs.md), [reactjs](../tagged/reactjs.md), [nodejs](../tagged/nodejs.md)
+* **tags**: [user-experience](../tagged/user-experience.md), [dashboard](../tagged/dashboard.md), [angular](../tagged/angular.md), [bootstrap](../tagged/bootstrap.md), [vuejs](../tagged/vuejs.md), [reactjs](../tagged/reactjs.md), [node.js](../tagged/node.js.md)
 ---
 #### [Bootswatch - Free themes for Bootstrap](https://bootswatch.com/)
 _<sup>https://bootswatch.com/</sup>_

@@ -45,7 +45,7 @@ _<sup>https://www.youtube.com/watch?v=c0oy0vQKEZE</sup>_
 
 This presentation gives an overview of cutting-edge JavaScript development techniques to build modern web and Node.js apps. Discover which features to expect in Chrome and Node.js soon, how the V8 eng...
 * :calendar: **published on**: 2019-05-08
-* **tags**: [javascript](../tagged/javascript.md), [nodejs](../tagged/nodejs.md), [frontend](../tagged/frontend.md)
+* **tags**: [javascript](../tagged/javascript.md), [node.js](../tagged/node.js.md), [frontend](../tagged/frontend.md)
 ---
 #### [java.libhunt.com](https://java.libhunt.com)
 _<sup>https://java.libhunt.com</sup>_

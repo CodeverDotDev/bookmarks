@@ -6,7 +6,7 @@ _<sup><sup>[www.bookmarks.dev/tagged/awesome-list](https://www.bookmarks.dev/tag
 _<sup>https://github.com/sindresorhus/awesome-npm</sup>_
 
 Resources and tips for using npm.
-* **tags**: [nodejs](../tagged/nodejs.md), [awesome-list](../tagged/awesome-list.md)
+* **tags**: [node.js](../tagged/node.js.md), [awesome-list](../tagged/awesome-list.md)
 * :octocat: **[source code](https://github.com/sindresorhus/awesome-npm)**
 ---
 #### [Awesome Gradle Plugins](https://github.com/ksoichiro/awesome-gradle)
@@ -3303,7 +3303,7 @@ _<sup>https://github.com/anaibol/awesome-serverless#readme</sup>_
 _<sup>https://github.com/lirantal/awesome-nodejs-security#readme</sup>_
 
 Awesome Node.js Security resources. Contribute to lirantal/awesome-nodejs-security development by creating an account on GitHub.
-* **tags**: [awesome-list](../tagged/awesome-list.md), [nodejs](../tagged/nodejs.md), [security](../tagged/security.md)
+* **tags**: [awesome-list](../tagged/awesome-list.md), [node.js](../tagged/node.js.md), [security](../tagged/security.md)
 * :octocat: **[source code](https://github.com/lirantal/awesome-nodejs-security)**
 ---
 #### [awesome-lua](https://github.com/LewisJEllis/awesome-lua#readme)
@@ -3357,7 +3357,7 @@ A curated list of awesome frameworks, libraries and software for the Java progra
 _<sup>https://github.com/sindresorhus/awesome-nodejs#readme</sup>_
 
 :zap: Delightful Node.js packages and resources.
-* **tags**: [awesome-list](../tagged/awesome-list.md), [nodejs](../tagged/nodejs.md)
+* **tags**: [awesome-list](../tagged/awesome-list.md), [node.js](../tagged/node.js.md)
 * :octocat: **[source code](https://github.com/sindresorhus/awesome-nodejs)**
 ---
 #### [awesome-mysql](https://github.com/shlomi-noach/awesome-mysql#readme)

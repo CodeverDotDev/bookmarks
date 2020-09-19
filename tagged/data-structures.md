@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/data-structures](https://www.bookmarks.dev/tagged/data-structures)</sup></sup>_
 ---
+#### [Complete Introduction to the 30 Most Essential Data Structures & Algorithms](https://dev.to/iuliagroza/complete-introduction-to-the-30-most-essential-data-structures-algorithms-43kd)
+_<sup>https://dev.to/iuliagroza/complete-introduction-to-the-30-most-essential-data-structures-algorithms-...</sup>_
+
+Data Structures &amp; Algorithms (DSA) is often considered to be an intimidating topic - a common mis... Tagged with computerscience, cpp, python, productivity.
+* **tags**: [algorithms](../tagged/algorithms.md), [data-structures](../tagged/data-structures.md)
+---
 #### [bluss/rust-itertools](https://github.com/bluss/rust-itertools)
 _<sup>https://github.com/bluss/rust-itertools</sup>_
 

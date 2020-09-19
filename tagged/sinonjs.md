@@ -7,12 +7,12 @@ _<sup>https://semaphoreci.com/community/tutorials/best-practices-for-spies-stubs
 
 In this article, we'll show you the differences between spies, stubs and mocks, when and how to use them, and give you a set of best practices to help you avoid common pitfalls.
 * :calendar: **published on**: 2015-12-05
-* **tags**: [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md), [unit-testing](../tagged/unit-testing.md), [sinonjs](../tagged/sinonjs.md)
+* **tags**: [node.js](../tagged/node.js.md), [testing](../tagged/testing.md), [unit-testing](../tagged/unit-testing.md), [sinonjs](../tagged/sinonjs.md)
 ---
 #### [Sinon.JS](http://sinonjs.org/)
 _<sup>http://sinonjs.org/</sup>_
 
 Standalone test spies, stubs and mocks for JavaScript. Works with any unit testing framework.
-* **tags**: [javascript](../tagged/javascript.md), [nodejs](../tagged/nodejs.md), [unit-testing](../tagged/unit-testing.md), [testing](../tagged/testing.md), [sinonjs](../tagged/sinonjs.md)
+* **tags**: [javascript](../tagged/javascript.md), [node.js](../tagged/node.js.md), [unit-testing](../tagged/unit-testing.md), [testing](../tagged/testing.md), [sinonjs](../tagged/sinonjs.md)
 * :octocat: **[source code](https://github.com/sinonjs/sinon)**
 ---

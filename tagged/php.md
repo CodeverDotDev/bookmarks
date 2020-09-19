@@ -771,7 +771,7 @@ _<sup>https://www.youtube.com/watch?v=A_BYZ7hHWXE</sup>_
 
 This video is showing how to deploy Keycloak on Kubernetes as well as deploying and securing a HTML5 frontend application and a Node.js backend service and securing these with Keycloak. Video realised...
 * :calendar: **published on**: 2018-06-27
-* **tags**: [keycloak](../tagged/keycloak.md), [kubernetes](../tagged/kubernetes.md), [php](../tagged/php.md), [minikube](../tagged/minikube.md), [nodejs](../tagged/nodejs.md)
+* **tags**: [keycloak](../tagged/keycloak.md), [kubernetes](../tagged/kubernetes.md), [php](../tagged/php.md), [minikube](../tagged/minikube.md), [node.js](../tagged/node.js.md)
 * :octocat: **[source code](https://github.com/stianst/demo-kubernetes)**
 ---
 #### [Securing apps and services with Keycloak authentication](https://www.youtube.com/watch?v=mdZauKsMDiI)
@@ -779,7 +779,7 @@ _<sup>https://www.youtube.com/watch?v=mdZauKsMDiI</sup>_
 
 If you have a number of applications and services, the applications may be HTML5, server-side, or mobile, while the services may be monolithic or microservices, deployed on-premise, or to the cloud. Y...
 * :calendar: **published on**: 2018-08-16
-* **tags**: [keycloak](../tagged/keycloak.md), [microservices](../tagged/microservices.md), [php](../tagged/php.md), [nodejs](../tagged/nodejs.md)
+* **tags**: [keycloak](../tagged/keycloak.md), [microservices](../tagged/microservices.md), [php](../tagged/php.md), [node.js](../tagged/node.js.md)
 * :octocat: **[source code](https://github.com/stianst/keycloak-demo/tree/master/demo-service)**
 ---
 #### [Webadatbázis-programozás](http://ade.web.elte.hu/wabp/index.html)

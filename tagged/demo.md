@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/demo](https://www.bookmarks.dev/tagged/demo)</sup></sup>_
 ---
+#### [gothinkster/realworld: "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅](https://github.com/gothinkster/realworld)
+_<sup>https://github.com/gothinkster/realworld</sup>_
+
+"The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
+* **tags**: [demo](../tagged/demo.md), [django](../tagged/django.md), [node.js](../tagged/node.js.md), [reactjs](../tagged/reactjs.md), [angular](../tagged/angular.md)
+* :octocat: **[source code](https://github.com/gothinkster/realworld)**
+---
 #### [React and React Native State Museum](https://hackernoon.com/the-react-state-museum-a278c726315)
 _<sup>https://hackernoon.com/the-react-state-museum-a278c726315</sup>_
 

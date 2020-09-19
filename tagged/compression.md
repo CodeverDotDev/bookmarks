@@ -198,42 +198,42 @@ read and write ZIP archives [![Build Status](https://api.travis-ci.org/mvdnes/zi
 _<sup>https://github.com/thejoshwolfe/yazl</sup>_
 
 Zip.
-* **tags**: [nodejs](../tagged/nodejs.md), [compression](../tagged/compression.md)
+* **tags**: [node.js](../tagged/node.js.md), [compression](../tagged/compression.md)
 * :octocat: **[source code](https://github.com/thejoshwolfe/yazl)**
 ---
 #### [yauzl](https://github.com/thejoshwolfe/yauzl)
 _<sup>https://github.com/thejoshwolfe/yauzl</sup>_
 
 Unzip.
-* **tags**: [nodejs](../tagged/nodejs.md), [compression](../tagged/compression.md)
+* **tags**: [node.js](../tagged/node.js.md), [compression](../tagged/compression.md)
 * :octocat: **[source code](https://github.com/thejoshwolfe/yauzl)**
 ---
 #### [Archiver](https://github.com/archiverjs/node-archiver)
 _<sup>https://github.com/archiverjs/node-archiver</sup>_
 
 Streaming interface for archive generation, supporting ZIP and TAR.
-* **tags**: [nodejs](../tagged/nodejs.md), [compression](../tagged/compression.md)
+* **tags**: [node.js](../tagged/node.js.md), [compression](../tagged/compression.md)
 * :octocat: **[source code](https://github.com/archiverjs/node-archiver)**
 ---
 #### [pako](https://github.com/nodeca/pako)
 _<sup>https://github.com/nodeca/pako</sup>_
 
 High speed zlib port to pure js (deflate, inflate, gzip).
-* **tags**: [nodejs](../tagged/nodejs.md), [compression](../tagged/compression.md)
+* **tags**: [node.js](../tagged/node.js.md), [compression](../tagged/compression.md)
 * :octocat: **[source code](https://github.com/nodeca/pako)**
 ---
 #### [tar-stream](https://github.com/mafintosh/tar-stream)
 _<sup>https://github.com/mafintosh/tar-stream</sup>_
 
 Streaming tar parser and generator. Also see [tar-fs](https://github.com/mafintosh/tar-fs).
-* **tags**: [nodejs](../tagged/nodejs.md), [compression](../tagged/compression.md)
+* **tags**: [node.js](../tagged/node.js.md), [compression](../tagged/compression.md)
 * :octocat: **[source code](https://github.com/mafintosh/tar-stream)**
 ---
 #### [decompress](https://github.com/kevva/decompress)
 _<sup>https://github.com/kevva/decompress</sup>_
 
 Decompression module with support for `tar`, `tar.gz` and `zip` files out of the box.
-* **tags**: [nodejs](../tagged/nodejs.md), [compression](../tagged/compression.md)
+* **tags**: [node.js](../tagged/node.js.md), [compression](../tagged/compression.md)
 * :octocat: **[source code](https://github.com/kevva/decompress)**
 ---
 #### [JSON CMP POLICY not working global level - NetScaler VPX - Discussions](https://discussions.citrix.com/topic/387724-json-cmp-policy-not-working-global-level/)

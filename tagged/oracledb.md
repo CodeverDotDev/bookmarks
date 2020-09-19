@@ -6,7 +6,7 @@ _<sup><sup>[www.bookmarks.dev/tagged/oracledb](https://www.bookmarks.dev/tagged/
 _<sup>https://github.com/oracle/node-oracledb/tree/master/examples</sup>_
 
 select, insert, promises etc.
-* **tags**: [nodejs](../tagged/nodejs.md), [oracledb](../tagged/oracledb.md), [oracle](../tagged/oracle.md)
+* **tags**: [node.js](../tagged/node.js.md), [oracledb](../tagged/oracledb.md), [oracle](../tagged/oracle.md)
 ---
 #### [The Easiest Way to Install Oracle Database on Apple Mac OS X ](https://blogs.oracle.com/opal/the-easiest-way-to-install-oracle-database-on-apple-mac-os-x)
 _<sup>https://blogs.oracle.com/opal/the-easiest-way-to-install-oracle-database-on-apple-mac-os-x</sup>_
@@ -19,6 +19,6 @@ Your OS X applications can connect to Oracle Database as if it was running nativ
 _<sup>http://www.oracle.com/technetwork/database/database-technologies/scripting-languages/node_js/index.h...</sup>_
 
 The node-oracledb driver connects to Oracle Database for fast and functional applications. It is an open source project with Apache 2.0 license. It is maintained by Oracle and is under active developm...
-* **tags**: [oracledb](../tagged/oracledb.md), [nodejs](../tagged/nodejs.md), [oracle](../tagged/oracle.md)
+* **tags**: [oracledb](../tagged/oracledb.md), [node.js](../tagged/node.js.md), [oracle](../tagged/oracle.md)
 * :octocat: **[source code](https://github.com/oracle/node-oracledb)**
 ---

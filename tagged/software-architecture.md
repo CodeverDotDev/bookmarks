@@ -6,7 +6,7 @@ _<sup><sup>[www.bookmarks.dev/tagged/software-architecture](https://www.bookmark
 _<sup>https://www.coreycleary.me/why-should-you-separate-controllers-from-services-in-node-rest-apis/</sup>_
 
 This is a follow-up to my last post, [What is the difference between Controllers and Services in Node REST API’s?](https://www.coreycleary.me/what-is-the-difference-between-controllers-and-services-in...
-* **tags**: [nodejs](../tagged/nodejs.md), [expressjs](../tagged/expressjs.md), [software-architecture](../tagged/software-architecture.md)
+* **tags**: [node.js](../tagged/node.js.md), [expressjs](../tagged/expressjs.md), [software-architecture](../tagged/software-architecture.md)
 ---
 #### [What We Got Wrong: Lessons from the Birth of Microservices - YouTube](https://www.youtube.com/watch?v=-pDyNsB9Zr0)
 _<sup>https://www.youtube.com/watch?v=-pDyNsB9Zr0</sup>_

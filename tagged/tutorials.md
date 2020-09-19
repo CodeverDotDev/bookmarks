@@ -6,7 +6,7 @@ _<sup><sup>[www.bookmarks.dev/tagged/tutorials](https://www.bookmarks.dev/tagged
 _<sup>https://blog.risingstack.com/golang-tutorial-for-nodejs-developers-getting-started/</sup>_
 
 In case you are a Node.js developer (like we are at RisingStack) and you are interested in learning Golang, this blogpost is made for you! Throughout this tutorial series, we'll cover the basics of ge...
-* **tags**: [nodejs](../tagged/nodejs.md), [go](../tagged/go.md), [tutorials](../tagged/tutorials.md)
+* **tags**: [node.js](../tagged/node.js.md), [go](../tagged/go.md), [tutorials](../tagged/tutorials.md)
 * :octocat: **[source code](https://github.com/RisingStack/golang-tutorial-for-nodejs-developers-getting-started)**
 ---
 #### [10 Best YouTube Channels to Learn Web Development - ReadWrite](https://readwrite.com/2019/12/17/10-best-youtube-channels-to-learn-web-development/)
@@ -462,46 +462,46 @@ tldr: cd your-website && npx @agentofuser/ipfs-deploy
 _<sup>http://nodeschool.io</sup>_
 
 Learn Node.js with interactive lessons.
-* **tags**: [nodejs](../tagged/nodejs.md), [tutorials](../tagged/tutorials.md)
+* **tags**: [node.js](../tagged/node.js.md), [tutorials](../tagged/tutorials.md)
 ---
 #### [The Art of Node](https://github.com/maxogden/art-of-node/#the-art-of-node)
 _<sup>https://github.com/maxogden/art-of-node/#the-art-of-node</sup>_
 
 An introduction to Node.js.
-* **tags**: [nodejs](../tagged/nodejs.md), [tutorials](../tagged/tutorials.md)
+* **tags**: [node.js](../tagged/node.js.md), [tutorials](../tagged/tutorials.md)
 * :octocat: **[source code](https://github.com/maxogden/art-of-node/#the-art-of-node)**
 ---
 #### [stream-handbook](https://github.com/substack/stream-handbook)
 _<sup>https://github.com/substack/stream-handbook</sup>_
 
 How to write Node.js programs with streams.
-* **tags**: [nodejs](../tagged/nodejs.md), [tutorials](../tagged/tutorials.md)
+* **tags**: [node.js](../tagged/node.js.md), [tutorials](../tagged/tutorials.md)
 * :octocat: **[source code](https://github.com/substack/stream-handbook)**
 ---
 #### [module-best-practices](https://github.com/mattdesl/module-best-practices)
 _<sup>https://github.com/mattdesl/module-best-practices</sup>_
 
 Some good practices when writing new npm modules.
-* **tags**: [nodejs](../tagged/nodejs.md), [tutorials](../tagged/tutorials.md)
+* **tags**: [node.js](../tagged/node.js.md), [tutorials](../tagged/tutorials.md)
 * :octocat: **[source code](https://github.com/mattdesl/module-best-practices)**
 ---
 #### [The Node Way](http://thenodeway.io)
 _<sup>http://thenodeway.io</sup>_
 
 An entire philosophy of Node.js best practices and guiding principles exists for writing maintainable modules, scalable applications, and code that is actually pleasant to read.
-* **tags**: [nodejs](../tagged/nodejs.md), [tutorials](../tagged/tutorials.md)
+* **tags**: [node.js](../tagged/node.js.md), [tutorials](../tagged/tutorials.md)
 ---
 #### [You Don't Know Node.js](https://github.com/azat-co/you-dont-know-node)
 _<sup>https://github.com/azat-co/you-dont-know-node</sup>_
 
 Introduction to Node.js core features and asynchronous JavaScript.
-* **tags**: [nodejs](../tagged/nodejs.md), [tutorials](../tagged/tutorials.md)
+* **tags**: [node.js](../tagged/node.js.md), [tutorials](../tagged/tutorials.md)
 * :octocat: **[source code](https://github.com/azat-co/you-dont-know-node)**
 ---
 #### [Portable Node.js guide](https://github.com/ehmicky/portable-node-guide)
 _<sup>https://github.com/ehmicky/portable-node-guide</sup>_
 
 Practical guide on how to write portable/cross-platform Node.js code.
-* **tags**: [nodejs](../tagged/nodejs.md), [tutorials](../tagged/tutorials.md)
+* **tags**: [node.js](../tagged/node.js.md), [tutorials](../tagged/tutorials.md)
 * :octocat: **[source code](https://github.com/ehmicky/portable-node-guide)**
 ---

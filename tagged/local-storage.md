@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/local-storage](https://www.bookmarks.dev/tagged/local-storage)</sup></sup>_
 ---
+#### [Storing data in the browser with the HTML5 localStorage API](https://ultimatecourses.com/blog/storing-data-in-the-browser-with-the-html5-local-storage-api)
+_<sup>https://ultimatecourses.com/blog/storing-data-in-the-browser-with-the-html5-local-storage-api</sup>_
+
+HTML5 localStorage is an HTML5 API that allows us to save string data in the browser. localStorage is part of the web storage specification, it also has a sister called sessionStorage which is slightl...
+* :calendar: **published on**: 2013-03-14
+* **tags**: [local-storage](../tagged/local-storage.md), [html5](../tagged/html5.md)
+---
 #### [Working with quota on mobile browsers](https://www.html5rocks.com/en/tutorials/offline/quota-research/)
 _<sup>https://www.html5rocks.com/en/tutorials/offline/quota-research/</sup>_
 

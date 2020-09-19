@@ -21,6 +21,6 @@ Put down that REST Client (or, gasp, the browser!) you’re using to test that A
 _<sup>https://github.com/visionmedia/supertest</sup>_
 
 supertest - Super-agent driven library for testing node.js HTTP servers using a fluent API
-* **tags**: [nodejs](../tagged/nodejs.md), [testing](../tagged/testing.md), [integration-testing](../tagged/integration-testing.md)
+* **tags**: [node.js](../tagged/node.js.md), [testing](../tagged/testing.md), [integration-testing](../tagged/integration-testing.md)
 * :octocat: **[source code](https://github.com/visionmedia/supertest)**
 ---
