@@ -2,6 +2,15 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/android](https://www.bookmarks.dev/tagged/android)</sup></sup>_
 ---
+#### [Advanced HTTP Mocking with WireMock at DevFest DC - 43min](https://www.youtube.com/watch?v=x3MvZ8DFrpE)
+_<sup>https://www.youtube.com/watch?v=x3MvZ8DFrpE</sup>_
+
+[Slides](https://docs.google.com/presentation/d/1SeOz3892UNID7ixe_GGCZTwoyX2bofYw3NJWsM3IgJQ/edit?usp=sharing)
+
+Create HTTP mocks with WireMock’s REST API from any language for deterministic testing a...
+* :calendar: **published on**: 2017-07-13
+* **tags**: [wiremock](../tagged/wiremock.md), [http](../tagged/http.md), [mocking](../tagged/mocking.md), [tdd](../tagged/tdd.md), [java](../tagged/java.md), [curl](../tagged/curl.md), [rest](../tagged/rest.md), [android](../tagged/android.md)
+---
 #### [apollo-android](https://github.com/apollographql/apollo-android)
 _<sup>https://github.com/apollographql/apollo-android</sup>_
 

@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/karma](https://www.bookmarks.dev/tagged/karma)</sup></sup>_
 ---
+#### [Testing Angular with jest ](https://ordina-jworks.github.io/testing/2018/08/03/testing-angular-with-jest.html)
+_<sup>https://ordina-jworks.github.io/testing/2018/08/03/testing-angular-with-jest.html</sup>_
+
+Examples about how replace some Jasmine specific code by Jest specific code.
+
+* **tags**: [angular](../tagged/angular.md), [testing](../tagged/testing.md), [jest](../tagged/jest.md), [karma](../tagged/karma.md), [jasmine](../tagged/jasmine.md)
+---
 #### [Your first unit test using Angular CLI, Karma and WebStorm | WebStorm Blog](https://blog.jetbrains.com/webstorm/2017/02/your-first-unit-test-using-angular-cli-karma-and-webstorm/)
 _<sup>https://blog.jetbrains.com/webstorm/2017/02/your-first-unit-test-using-angular-cli-karma-and-webstor...</sup>_
 

@@ -62,4 +62,5 @@ _<sup>https://scrapy.org/</sup>_
 
 A fast high-level screen scraping and web crawling framework.
 * **tags**: [python](../tagged/python.md), [web-crawling](../tagged/web-crawling.md), [web-scraping](../tagged/web-scraping.md)
+* :octocat: **[source code](https://github.com/scrapy/scrapy)**
 ---

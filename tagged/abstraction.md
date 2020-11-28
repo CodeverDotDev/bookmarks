@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/abstraction](https://www.bookmarks.dev/tagged/abstraction)</sup></sup>_
 ---
+#### [Designing at scale: How industry leaders leverage design systemsBack Button](https://www.invisionapp.com/inside-design/scale-design-systems/)
+_<sup>https://www.invisionapp.com/inside-design/scale-design-systems/</sup>_
+
+Design leaders from Google, Spotify, and Gigster share their thoughts on design systems—and their predictions for the future.
+* :calendar: **published on**: 2020-10-12
+* **tags**: [abstraction](../tagged/abstraction.md)
+---
 #### [ActiveInteraction](https://github.com/orgsync/active_interaction)
 _<sup>https://github.com/orgsync/active_interaction</sup>_
 

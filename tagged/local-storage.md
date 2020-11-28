@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/local-storage](https://www.bookmarks.dev/tagged/local-storage)</sup></sup>_
 ---
+#### [There is no simple solution for local storage - Mozilla Hacks](https://hacks.mozilla.org/2012/03/there-is-no-simple-solution-for-local-storage/)
+_<sup>https://hacks.mozilla.org/2012/03/there-is-no-simple-solution-for-local-storage/</sup>_
+
+TL;DR: we have to stop advocating localStorage as a great opportunity for storing data as it performs badly. Sadly enough the alternatives are not nearly as supported or simple to implement.
+* :calendar: **published on**: 2012-03-05
+* **tags**: [local-storage](../tagged/local-storage.md)
+---
 #### [Storing data in the browser with the HTML5 localStorage API](https://ultimatecourses.com/blog/storing-data-in-the-browser-with-the-html5-local-storage-api)
 _<sup>https://ultimatecourses.com/blog/storing-data-in-the-browser-with-the-html5-local-storage-api</sup>_
 

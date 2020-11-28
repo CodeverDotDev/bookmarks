@@ -1,0 +1,21 @@
+## Bookmarks tagged [[graphql-express]](https://www.bookmarks.dev/search?q=[graphql-express])
+
+_<sup><sup>[www.bookmarks.dev/tagged/graphql-express](https://www.bookmarks.dev/tagged/graphql-express)</sup></sup>_
+---
+#### [Eric Baer - The Evolution of API Design: From RPC to GraphQL | VueConf 2017 - 39min](https://www.youtube.com/watch?v=PmWho45WmQY)
+_<sup>https://www.youtube.com/watch?v=PmWho45WmQY</sup>_
+
+In his talk, Eric explored some of the new client-server interaction models that address today’s pressures and used history to understand the tradeoffs made at the transition between the previous desi...
+* :calendar: **published on**: 2017-08-14
+* **tags**: [graphql](../tagged/graphql.md), [graphql-express](../tagged/graphql-express.md)
+* :octocat: **[source code](https://github.com/baer/graphql-demo-evolution-of-api-design)**
+---
+#### [GraphQL Server Basics: The Network Layer | Prisma](https://www.prisma.io/blog/graphql-server-basics-the-network-layer-51d97d21861)
+_<sup>https://www.prisma.io/blog/graphql-server-basics-the-network-layer-51d97d21861</sup>_
+
+Focus on the network layer. In particular, how a GraphQL server responds to HTTP requests by processing the queries (or mutations) with the execution engine.
+
+In the Node ecosystem, Express is by far ...
+* :calendar: **published on**: 2017-11-28
+* **tags**: [graphql](../tagged/graphql.md), [graphql-express](../tagged/graphql-express.md), [apollo-server](../tagged/apollo-server.md)
+---

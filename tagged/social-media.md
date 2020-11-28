@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/social-media](https://www.bookmarks.dev/tagged/social-media)</sup></sup>_
 ---
+#### [Meta Tags — Preview, Edit and Generate](https://metatags.io/)
+_<sup>https://metatags.io/</sup>_
+
+Meta Tags is a tool to debug and generate meta tag code for any website. With Meta Tags you can edit and experiment with your content then preview how your webpage will look on Google, Facebook, Twitt...
+* **tags**: [tools](../tagged/tools.md), [social-media](../tagged/social-media.md), [meta-tags](../tagged/meta-tags.md)
+---
 #### [Angular 2+ Social Sharing Buttons for Facebook, Google Plus, Twitter, LinkedIn and Pinterest](https://jasonwatmore.com/post/2018/06/01/angular-2-social-sharing-buttons-for-facebook-google-plus-twitter-linkedin-and-pinterest)
 _<sup>https://jasonwatmore.com/post/2018/06/01/angular-2-social-sharing-buttons-for-facebook-google-plus-t...</sup>_
 

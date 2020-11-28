@@ -2,6 +2,19 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/online-tools](https://www.bookmarks.dev/tagged/online-tools)</sup></sup>_
 ---
+#### [Base64 Decode and Encode - Online](https://www.base64decode.org/)
+_<sup>https://www.base64decode.org/</sup>_
+
+Simple base64 online encoder and decoder
+* **tags**: [encoding](../tagged/encoding.md), [base64](../tagged/base64.md), [online-tools](../tagged/online-tools.md)
+---
+#### [Hat.sh | A Free, Fast, Secure client side File Encryption.](https://hat.sh/)
+_<sup>https://hat.sh/</sup>_
+
+[hat.sh](https://hat.sh) is a  javascript app that provides secure file encryption using the [AES-256-GCM](https://www.w3.org/TR/WebCryptoAPI/aes-gcm) algorithm from [WebCryptoAPI](https://www.w3.org...
+* **tags**: [tools](../tagged/tools.md), [file](../tagged/file.md), [encryption](../tagged/encryption.md), [online-tools](../tagged/online-tools.md)
+* :octocat: **[source code](https://github.com/sh-dv/hat.sh)**
+---
 #### [Online UUID Generator Tool](https://www.uuidgenerator.net/)
 _<sup>https://www.uuidgenerator.net/</sup>_
 

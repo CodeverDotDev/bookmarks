@@ -2,6 +2,18 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/specification](https://www.bookmarks.dev/tagged/specification)</sup></sup>_
 ---
+#### [General overview of GraphQL in graphql-spec/README.md](https://github.com/graphql/graphql-spec/blob/master/README.md)
+_<sup>https://github.com/graphql/graphql-spec/blob/master/README.md</sup>_
+
+Helps you get started with GraphQL concepts
+* **tags**: [graphql](../tagged/graphql.md), [specification](../tagged/specification.md), [readme](../tagged/readme.md)
+* :octocat: **[source code](https://github.com/graphql/graphql-spec)**
+---
+#### [GraphQL Specification Versions](https://spec.graphql.org/)
+_<sup>https://spec.graphql.org/</sup>_
+
+* **tags**: [graphql](../tagged/graphql.md), [specification](../tagged/specification.md), [release](../tagged/release.md)
+---
 #### [CloudEvents home page](https://cloudevents.io/)
 _<sup>https://cloudevents.io/</sup>_
 

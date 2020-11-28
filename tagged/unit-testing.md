@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/unit-testing](https://www.bookmarks.dev/tagged/unit-testing)</sup></sup>_
 ---
+#### [UnitTest](https://martinfowler.com/bliki/UnitTest.html)
+_<sup>https://martinfowler.com/bliki/UnitTest.html</sup>_
+
+Unit testing is often talked about in software development, and is a term that I've been familiar with during my whole time writing programs. Like most software development terminology, however, it's ...
+* **tags**: [testing](../tagged/testing.md), [unit-testing](../tagged/unit-testing.md)
+---
 #### [UnitTest : Solitary or Sociable | Martin Fowler](https://martinfowler.com/bliki/UnitTest.html#SolitaryOrSociable)
 _<sup>https://martinfowler.com/bliki/UnitTest.html#SolitaryOrSociable</sup>_
 

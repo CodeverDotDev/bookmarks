@@ -2,6 +2,34 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/node.js](https://www.bookmarks.dev/tagged/node.js)</sup></sup>_
 ---
+#### [Node.js Crash Course Tutorial - YouTube](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU)
+_<sup>https://www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU</sup>_
+
+Playlist of youtube videos
+* **tags**: [node.js](../tagged/node.js.md), [tutorials](../tagged/tutorials.md)
+---
+#### [DataLoader – Source code walkthrough - 34min](https://www.youtube.com/watch?v=OQTnXNCDywA)
+_<sup>https://www.youtube.com/watch?v=OQTnXNCDywA</sup>_
+
+DataLoader is a utility for batching and caching loaded data in your web service. Learn how it works with a walkthrough of its source code.
+* :calendar: **published on**: 2016-02-27
+* **tags**: [graphql](../tagged/graphql.md), [javascript](../tagged/javascript.md), [node.js](../tagged/node.js.md), [react](../tagged/react.md), [dataloader](../tagged/dataloader.md)
+* :octocat: **[source code](https://github.com/graphql/dataloader)**
+---
+#### [Getting Started With GraphQL.js](https://graphql.org/graphql-js/)
+_<sup>https://graphql.org/graphql-js/</sup>_
+
+The JavaScript reference implementation for GraphQL
+* **tags**: [graphql](../tagged/graphql.md), [javascript](../tagged/javascript.md), [node.js](../tagged/node.js.md), [graphql-js](../tagged/graphql-js.md)
+* :octocat: **[source code](https://github.com/graphql/graphql-js)**
+---
+#### [GitHub - isaacs/node-glob: glob functionality for node.js](https://github.com/isaacs/node-glob)
+_<sup>https://github.com/isaacs/node-glob</sup>_
+
+Match files using the patterns the shell uses, like stars and stuff.
+* **tags**: [node.js](../tagged/node.js.md), [glob](../tagged/glob.md)
+* :octocat: **[source code](https://github.com/isaacs/node-glob#glob-primer)**
+---
 #### [My troubles getting to run a Node application with PM2 in cluster mode with NVM – CodepediaOrg](https://www.codepedia.org/ama/my-troubles-getting-to-run-a-node-application-with-pm2-in-cluster-mode-with-nvm)
 _<sup>https://www.codepedia.org/ama/my-troubles-getting-to-run-a-node-application-with-pm2-in-cluster-mode...</sup>_
 
@@ -5502,7 +5530,7 @@ _<sup>http://browserify.org/</sup>_
 
 Browsers don't have the `require` method defined, but Node.js does. With Browserify you can write code that uses `require` in the same way that you would use it in Node.
 * **tags**: [node.js](../tagged/node.js.md)
-* :octocat: **[source code](https://github.com/substack/node-browserify)**
+* :octocat: **[source code](https://github.com/browserify/browserify)**
 ---
 #### [Node Hero - Node.js Project Structure Tutorial | @RisingStack](https://blog.risingstack.com/node-hero-node-js-project-structure-tutorial/)
 _<sup>https://blog.risingstack.com/node-hero-node-js-project-structure-tutorial/</sup>_
@@ -5652,6 +5680,7 @@ Nodemon is a utility that will monitor for any changes in your source and automa
 
 Ju...
 * **tags**: [node.js](../tagged/node.js.md), [nodemon](../tagged/nodemon.md), [dev-tools](../tagged/dev-tools.md)
+* :octocat: **[source code](https://github.com/remy/nodemon/)**
 ---
 #### [node.js - What's the difference between dependencies, devDependencies and peerDependencies in npm package.json file? - Stack Overflow](https://stackoverflow.com/questions/18875674/whats-the-difference-between-dependencies-devdependencies-and-peerdependencies)
 _<sup>https://stackoverflow.com/questions/18875674/whats-the-difference-between-dependencies-devdependenci...</sup>_

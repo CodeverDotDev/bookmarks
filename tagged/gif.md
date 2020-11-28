@@ -2,6 +2,20 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/gif](https://www.bookmarks.dev/tagged/gif)</sup></sup>_
 ---
+#### [Optimize animated GIF](https://ezgif.com/optimize)
+_<sup>https://ezgif.com/optimize</sup>_
+
+GIF compressor optimizes GIFs using gifsicle and Lossy GIF encoder, which implements lossy LZW compression.
+It can reduce animated GIF file size by 30%—50% at a cost of some dithering/noise. You can a...
+* **tags**: [gif](../tagged/gif.md), [tools](../tagged/tools.md), [optimization](../tagged/optimization.md)
+---
+#### [Gifsicle: Command-Line Animated GIFs](http://www.lcdf.org/gifsicle/)
+_<sup>http://www.lcdf.org/gifsicle/</sup>_
+
+Gifsicle is a command-line tool for creating, editing, and getting information about GIF images and animations
+* **tags**: [gif](../tagged/gif.md), [tools](../tagged/tools.md), [command-line-tools](../tagged/command-line-tools.md)
+* :octocat: **[source code](http://github.com/kohler/gifsicle)**
+---
 #### [Gifski | Sindre Sorhus](https://sindresorhus.com/gifski)
 _<sup>https://sindresorhus.com/gifski</sup>_
 
@@ -37,5 +51,14 @@ _<sup>https://medium.freecodecamp.org/even-more-about-how-flexbox-works-explaine
 
 ...
 * :calendar: **published on**: 2017-02-21
+* **tags**: [flexbox](../tagged/flexbox.md), [gif](../tagged/gif.md)
+---
+#### [How Flexbox works — explained with big, colorful, animated gifs](https://www.freecodecamp.org/news/an-animated-guide-to-flexbox-d280cf6afc35/)
+_<sup>https://www.freecodecamp.org/news/an-animated-guide-to-flexbox-d280cf6afc35/</sup>_
+
+Flexbox’s underlying principle is to make layouts flexible and intuitive.
+
+To accomplish this, it lets containers decide for themselves how to evenly distribute their children — including their size a...
+* :calendar: **published on**: 2017-01-31
 * **tags**: [flexbox](../tagged/flexbox.md), [gif](../tagged/gif.md)
 ---

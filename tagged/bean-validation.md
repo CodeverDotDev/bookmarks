@@ -2,6 +2,21 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/bean-validation](https://www.bookmarks.dev/tagged/bean-validation)</sup></sup>_
 ---
+#### [Validating JAX-RS resource data with Bean Validation in Java EE 7 and WildFly](https://samaxes.com/2014/04/jaxrs-beanvalidation-javaee7-wildfly/)
+_<sup>https://samaxes.com/2014/04/jaxrs-beanvalidation-javaee7-wildfly/</sup>_
+
+I have already approached this subject twice in the past. First, on my post Integrating Bean Validation with JAX-RS in Java EE 6, describing how to use Bean Validation with JAX-RS in JBoss AS 7, even ...
+* :calendar: **published on**: 2014-04-01
+* **tags**: [bean-validation](../tagged/bean-validation.md), [jaxrs](../tagged/jaxrs.md), [javaee](../tagged/javaee.md), [wildfly](../tagged/wildfly.md), [jboss](../tagged/jboss.md)
+* :octocat: **[source code](https://github.com/samaxes/jaxrs-beanvalidation-javaee7)**
+---
+#### [GitHub - jirutka/validator-collection](https://github.com/jirutka/validator-collection)
+_<sup>https://github.com/jirutka/validator-collection</sup>_
+
+This library allows you to easily create a “pseudo constraint” (typically named as `@EachX`) for _any_ validation constraint to annotate a collection of simple types, without writing an extra validato...
+* **tags**: [java](../tagged/java.md), [bean-validation](../tagged/bean-validation.md)
+* :octocat: **[source code](https://github.com/jirutka/validator-collection)**
+---
 #### [Bean Validation 2.0 - you’ve put your annotations everywhere! by Gunnar Morling - 14min](https://www.youtube.com/watch?v=GdKuxmtA65I)
 _<sup>https://www.youtube.com/watch?v=GdKuxmtA65I</sup>_
 

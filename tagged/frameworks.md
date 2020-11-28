@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/frameworks](https://www.bookmarks.dev/tagged/frameworks)</sup></sup>_
 ---
+#### [Graphene-Python home page](https://graphene-python.org/)
+_<sup>https://graphene-python.org/</sup>_
+
+Graphene framework for Python
+* **tags**: [graphql](../tagged/graphql.md), [python](../tagged/python.md), [frameworks](../tagged/frameworks.md)
+* :octocat: **[source code](https://github.com/graphql-python/graphene)**
+---
 #### [Arwes - Sci-Fi UI Framework](https://arwes.dev/)
 _<sup>https://arwes.dev/</sup>_
 

@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/sinonjs](https://www.bookmarks.dev/tagged/sinonjs)</sup></sup>_
 ---
+#### [Unit Testing in Angular: Stubs vs Spies vs Mocks](https://www.amadousall.com/unit-testing-angular-stubs-vs-spies-vs-mocks/)
+_<sup>https://www.amadousall.com/unit-testing-angular-stubs-vs-spies-vs-mocks/</sup>_
+
+In this article, I will show you the differences between the various kinds of test doubles, and how to use them when unit testing Angular applications using Jasmine.
+* :calendar: **published on**: 2018-02-28
+* **tags**: [testing](../tagged/testing.md), [jasmine](../tagged/jasmine.md), [sinonjs](../tagged/sinonjs.md), [test-double](../tagged/test-double.md), [angular](../tagged/angular.md)
+---
 #### [Best Practices for Spies, Stubs and Mocks in Sinon.js - Semaphore](https://semaphoreci.com/community/tutorials/best-practices-for-spies-stubs-and-mocks-in-sinon-js)
 _<sup>https://semaphoreci.com/community/tutorials/best-practices-for-spies-stubs-and-mocks-in-sinon-js</sup>_
 

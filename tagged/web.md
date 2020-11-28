@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/web](https://www.bookmarks.dev/tagged/web)</sup></sup>_
 ---
+#### [Quick and Simple Image Placeholders - Dynamic Dummy Image Generator](https://plchldr.co/)
+_<sup>https://plchldr.co/</sup>_
+
+Generate awesome placeholders for your web sites and projects. Placeholder images for your project in progress. A picture's worth a thousand words, so here's 21K worth of placeholder image generators ...
+* **tags**: [image](../tagged/image.md), [web-application](../tagged/web-application.md), [web](../tagged/web.md), [design-tools](../tagged/design-tools.md), [html](../tagged/html.md), [php](../tagged/php.md)
+---
 #### [mod_dumpio - Apache HTTP Server Version 2.4](https://httpd.apache.org/docs/current/mod/mod_dumpio.html)
 _<sup>https://httpd.apache.org/docs/current/mod/mod_dumpio.html</sup>_
 

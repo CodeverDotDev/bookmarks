@@ -2,6 +2,58 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/google-chrome-extension](https://www.bookmarks.dev/tagged/google-chrome-extension)</sup></sup>_
 ---
+#### [Message Passing - Google Chrome](https://developer.chrome.com/extensions/messaging)
+_<sup>https://developer.chrome.com/extensions/messaging</sup>_
+
+Communication between extensions and their content scripts works by using message passing. Either side can listen for messages sent from the other end, and respond on the same channel.
+* **tags**: [google-chrome-extension](../tagged/google-chrome-extension.md)
+---
+#### [Sample Extensions - Google Chrome](https://developer.chrome.com/extensions/samples)
+_<sup>https://developer.chrome.com/extensions/samples</sup>_
+
+Examples of chrome extensions
+* **tags**: [google-chrome-extension](../tagged/google-chrome-extension.md), [example](../tagged/example.md)
+---
+#### [Develop Extensions Docs Home Page - Google Chrome](https://developer.chrome.com/extensions/devguide)
+_<sup>https://developer.chrome.com/extensions/devguide</sup>_
+
+After reading the [Getting Started](https://developer.chrome.com/extensions/getstarted) tutorial and [Overview](https://developer.chrome.com/extensions/overview), use this guide as an outline to exten...
+* **tags**: [google-chrome-extension](../tagged/google-chrome-extension.md), [docs](../tagged/docs.md)
+---
+#### [Porting a Google Chrome extension](https://extensionworkshop.com/documentation/develop/porting-a-google-chrome-extension/)
+_<sup>https://extensionworkshop.com/documentation/develop/porting-a-google-chrome-extension/</sup>_
+
+Steps to migrate a chrome extension to Firefox addon
+* **tags**: [google-chrome-extension](../tagged/google-chrome-extension.md), [firefox-addon](../tagged/firefox-addon.md)
+---
+#### [Extension Compatibility Tester](https://www.extensiontest.com/)
+_<sup>https://www.extensiontest.com/</sup>_
+
+**Extension Compatibility Test for Firefox**
+
+Use this tool to test your extension’s compatibility with Firefox! To receive a report, upload your .crx file. We’ll also provide you with resources and i...
+* **tags**: [google-chrome-extension](../tagged/google-chrome-extension.md), [firefox-webextensions](../tagged/firefox-webextensions.md)
+---
+#### [GitHub - notlmn/browser-extension-template](https://github.com/notlmn/browser-extension-template)
+_<sup>https://github.com/notlmn/browser-extension-template</sup>_
+
+📕 Barebones boilerplate with webpack, options handler and auto-publishing - notlmn/browser-extension-template
+* **tags**: [browser-extension](../tagged/browser-extension.md), [google-chrome-extension](../tagged/google-chrome-extension.md), [firefox-webextensions](../tagged/firefox-webextensions.md)
+* :octocat: **[source code](https://github.com/notlmn/browser-extension-template)**
+---
+#### [mozilla/webextension-polyfill](https://github.com/mozilla/webextension-polyfill)
+_<sup>https://github.com/mozilla/webextension-polyfill</sup>_
+
+A lightweight polyfill library for Promise-based WebExtension APIs in Chrome
+* **tags**: [browser-extension](../tagged/browser-extension.md), [polyfills](../tagged/polyfills.md), [google-chrome-extension](../tagged/google-chrome-extension.md), [firefox](../tagged/firefox.md)
+* :octocat: **[source code](https://github.com/mozilla/webextension-polyfill)**
+---
+#### [Declare Permissions and Warn Users - Google Chrome](https://developer.chrome.com/extensions/permission_warnings)
+_<sup>https://developer.chrome.com/extensions/permission_warnings</sup>_
+
+Understand how warnings are displayed, how can you view warnings.  Substitute the `activeTab` persmission, to replace the need for `<all_urls>` etc.
+* **tags**: [google-chrome-extension](../tagged/google-chrome-extension.md)
+---
 #### [9 Magical Chrome Extensions for QA Testing](https://medium.com/ideas-by-crema/9-magical-chrome-extensions-for-qa-testing-14a710a097bb)
 _<sup>https://medium.com/ideas-by-crema/9-magical-chrome-extensions-for-qa-testing-14a710a097bb</sup>_
 

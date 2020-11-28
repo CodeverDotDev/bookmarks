@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/python](https://www.bookmarks.dev/tagged/python)</sup></sup>_
 ---
+#### [Graphene-Python home page](https://graphene-python.org/)
+_<sup>https://graphene-python.org/</sup>_
+
+Graphene framework for Python
+* **tags**: [graphql](../tagged/graphql.md), [python](../tagged/python.md), [frameworks](../tagged/frameworks.md)
+* :octocat: **[source code](https://github.com/graphql-python/graphene)**
+---
 #### [GitHub - codingsett/telepota: Python3 wrapper/library that simplifies telegram bot development](https://github.com/codingsett/telepota)
 _<sup>https://github.com/codingsett/telepota</sup>_
 
@@ -4293,6 +4300,7 @@ _<sup>https://scrapy.org/</sup>_
 
 A fast high-level screen scraping and web crawling framework.
 * **tags**: [python](../tagged/python.md), [web-crawling](../tagged/web-crawling.md), [web-scraping](../tagged/web-scraping.md)
+* :octocat: **[source code](https://github.com/scrapy/scrapy)**
 ---
 #### [Django](https://www.djangoproject.com/)
 _<sup>https://www.djangoproject.com/</sup>_

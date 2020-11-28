@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/developer-tools](https://www.bookmarks.dev/tagged/developer-tools)</sup></sup>_
 ---
+#### [Random Colors - Hex Color](https://hexcolor.co/random-colors)
+_<sup>https://hexcolor.co/random-colors</sup>_
+
+Get a random hex color every time you reload this page. The colors are generated with true randomness originating from atmospheric noise. Hexadecimal color codes are used to represent colors numerical...
+* **tags**: [colors](../tagged/colors.md), [design](../tagged/design.md), [webmaster](../tagged/webmaster.md), [developer-tools](../tagged/developer-tools.md)
+---
 #### [GitHub - thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)
 _<sup>https://github.com/thedaviddias/Front-End-Checklist</sup>_
 

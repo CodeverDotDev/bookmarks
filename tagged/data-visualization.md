@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/data-visualization](https://www.bookmarks.dev/tagged/data-visualization)</sup></sup>_
 ---
+#### [Why Datawrapper? | Create charts and maps with Datawrapper](https://www.datawrapper.de/why-datawrapper/)
+_<sup>https://www.datawrapper.de/why-datawrapper/</sup>_
+
+Create interactive, responsive charts with Datawrapper – no code or design skills required.
+* **tags**: [data-visualization](../tagged/data-visualization.md)
+---
 #### [saresend/gust](https://github.com/saresend/Gust)
 _<sup>https://github.com/saresend/Gust</sup>_
 

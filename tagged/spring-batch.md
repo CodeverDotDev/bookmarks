@@ -2,6 +2,14 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/spring-batch](https://www.bookmarks.dev/tagged/spring-batch)</sup></sup>_
 ---
+#### [Spring Batch Tutorial: Reading Information From a REST API](https://www.petrikainulainen.net/programming/spring-framework/spring-batch-tutorial-reading-information-from-a-rest-api/)
+_<sup>https://www.petrikainulainen.net/programming/spring-framework/spring-batch-tutorial-reading-informat...</sup>_
+
+This blog post describes how we can create a custom ItemReader that reads the input data of our batch job by using the RestTemplate class.
+* :calendar: **published on**: 2016-03-13
+* **tags**: [spring](../tagged/spring.md), [spring-batch](../tagged/spring-batch.md)
+* :octocat: **[source code](https://github.com/pkainulainen/spring-batch-examples)**
+---
 #### [Testing a Spring Batch Job](https://www.baeldung.com/spring-batch-testing-job)
 _<sup>https://www.baeldung.com/spring-batch-testing-job</sup>_
 

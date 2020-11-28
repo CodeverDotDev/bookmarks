@@ -2,6 +2,71 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/testing](https://www.bookmarks.dev/tagged/testing)</sup></sup>_
 ---
+#### [UnitTest](https://martinfowler.com/bliki/UnitTest.html)
+_<sup>https://martinfowler.com/bliki/UnitTest.html</sup>_
+
+Unit testing is often talked about in software development, and is a term that I've been familiar with during my whole time writing programs. Like most software development terminology, however, it's ...
+* **tags**: [testing](../tagged/testing.md), [unit-testing](../tagged/unit-testing.md)
+---
+#### [Justin Searls – Please don’t mock me - 51min](https://www.youtube.com/watch?v=Af4M8GMoxi4)
+_<sup>https://www.youtube.com/watch?v=Af4M8GMoxi4</sup>_
+
+Confusion over test doubles starts with what to even call them. You might know them as stubs, proxies, mocks, or spies (but I call them test doubles, because a book you've probably never read declared...
+* :calendar: **published on**: 2018-03-05
+* **tags**: [testing](../tagged/testing.md), [tdd](../tagged/tdd.md), [test-driven-development](../tagged/test-driven-development.md), [javascript](../tagged/javascript.md), [web-development](../tagged/web-development.md)
+---
+#### [Testing Angular with jest ](https://ordina-jworks.github.io/testing/2018/08/03/testing-angular-with-jest.html)
+_<sup>https://ordina-jworks.github.io/testing/2018/08/03/testing-angular-with-jest.html</sup>_
+
+Examples about how replace some Jasmine specific code by Jest specific code.
+
+* **tags**: [angular](../tagged/angular.md), [testing](../tagged/testing.md), [jest](../tagged/jest.md), [karma](../tagged/karma.md), [jasmine](../tagged/jasmine.md)
+---
+#### [Unit Testing in Angular: Stubs vs Spies vs Mocks](https://www.amadousall.com/unit-testing-angular-stubs-vs-spies-vs-mocks/)
+_<sup>https://www.amadousall.com/unit-testing-angular-stubs-vs-spies-vs-mocks/</sup>_
+
+In this article, I will show you the differences between the various kinds of test doubles, and how to use them when unit testing Angular applications using Jasmine.
+* :calendar: **published on**: 2018-02-28
+* **tags**: [testing](../tagged/testing.md), [jasmine](../tagged/jasmine.md), [sinonjs](../tagged/sinonjs.md), [test-double](../tagged/test-double.md), [angular](../tagged/angular.md)
+---
+#### [GitHub - skovhus/jest-codemods: Codemods for migrating to Jest https://github.com/facebook/jest 👾](https://github.com/skovhus/jest-codemods)
+_<sup>https://github.com/skovhus/jest-codemods</sup>_
+
+Codemods that simplify migrating JavaScript and TypeScript test files from
+[AVA](https://github.com/avajs/ava),
+[Chai](https://github.com/chaijs/chai),
+[Expect.js (by Automattic)](https://github.com/A...
+* **tags**: [jest](../tagged/jest.md), [testing](../tagged/testing.md), [migration](../tagged/migration.md)
+* :octocat: **[source code](https://github.com/skovhus/jest-codemods)**
+---
+#### [Continuous Integration with GitLab CI - 52min](https://www.youtube.com/watch?v=EuwLdbCu3DE)
+_<sup>https://www.youtube.com/watch?v=EuwLdbCu3DE</sup>_
+
+This session will introduce attendees to the basics of adding GitLab CI/CD to a project, and then build upon those basics to explore features such as dependency caching, build artifacts, GitLab Pages,...
+* :calendar: **published on**: 2019-03-10
+* **tags**: [gitlab](../tagged/gitlab.md), [testing](../tagged/testing.md), [continuous-integration](../tagged/continuous-integration.md), [continuous-delivery](../tagged/continuous-delivery.md)
+---
+#### [Is your REST assured? - blog.](https://blog.jayway.com/2011/06/04/is-your-rest-assured/)
+_<sup>https://blog.jayway.com/2011/06/04/is-your-rest-assured/</sup>_
+
+A couple of months ago I introduced a new open source Java framework for simple automated testing of REST/HTTP services called REST Assured. A lot of things have happended to the framework since then ...
+* :calendar: **published on**: 2011-06-04
+* **tags**: [rest-assured](../tagged/rest-assured.md), [rest](../tagged/rest.md), [testing](../tagged/testing.md)
+---
+#### [Comparing the top 3 Javascript testing frameworks](https://dev.to/heroku/comparing-the-top-3-javascript-testing-frameworks-2cco)
+_<sup>https://dev.to/heroku/comparing-the-top-3-javascript-testing-frameworks-2cco</sup>_
+
+In this article, I'm going to compare three popular frameworks—Mocha, Jest, and Jasmine—to help you make a more informed decision. I'll look at how these frameworks handle common test scenarios, such ...
+* :calendar: **published on**: 2020-03-18
+* **tags**: [javascript](../tagged/javascript.md), [testing](../tagged/testing.md)
+---
+#### [minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings)
+_<sup>https://github.com/minimaxir/big-list-of-naughty-strings</sup>_
+
+The Big List of Naughty Strings is an evolving list of strings which have a high probability of causing issues when used as user-input data. This is intended for use in helping both automated and manu...
+* **tags**: [testing](../tagged/testing.md), [user-input](../tagged/user-input.md), [user-interface](../tagged/user-interface.md)
+* :octocat: **[source code](https://github.com/minimaxir/big-list-of-naughty-strings)**
+---
 #### [💥 Testing Asynchronous Code with fakeAsync -  Full Example - 6min](https://www.youtube.com/watch?v=vRqRuPoFmsA)
 _<sup>https://www.youtube.com/watch?v=vRqRuPoFmsA</sup>_
 

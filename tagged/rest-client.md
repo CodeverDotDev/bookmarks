@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/rest-client](https://www.bookmarks.dev/tagged/rest-client)</sup></sup>_
 ---
+#### [Kong/insomnia](https://github.com/Kong/insomnia)
+_<sup>https://github.com/Kong/insomnia</sup>_
+
+Insomnia is a cross-platform REST client, built on top of Electron.
+* **tags**: [rest-client](../tagged/rest-client.md), [graphql](../tagged/graphql.md), [rest](../tagged/rest.md)
+* :octocat: **[source code](https://github.com/Kong/insomnia)**
+---
 #### [REST Client - Visual Studio Code Extension](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
 _<sup>https://marketplace.visualstudio.com/items?itemName=humao.rest-client</sup>_
 

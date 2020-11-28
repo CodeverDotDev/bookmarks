@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/continuous-delivery](https://www.bookmarks.dev/tagged/continuous-delivery)</sup></sup>_
 ---
+#### [Continuous Integration with GitLab CI - 52min](https://www.youtube.com/watch?v=EuwLdbCu3DE)
+_<sup>https://www.youtube.com/watch?v=EuwLdbCu3DE</sup>_
+
+This session will introduce attendees to the basics of adding GitLab CI/CD to a project, and then build upon those basics to explore features such as dependency caching, build artifacts, GitLab Pages,...
+* :calendar: **published on**: 2019-03-10
+* **tags**: [gitlab](../tagged/gitlab.md), [testing](../tagged/testing.md), [continuous-integration](../tagged/continuous-integration.md), [continuous-delivery](../tagged/continuous-delivery.md)
+---
 #### [The Death of Continuous Integration](https://www.infoq.com/presentations/death-continuous-integration/)
 _<sup>https://www.infoq.com/presentations/death-continuous-integration/</sup>_
 

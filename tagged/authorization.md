@@ -2,6 +2,15 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/authorization](https://www.bookmarks.dev/tagged/authorization)</sup></sup>_
 ---
+#### [Keycloak Authentication and Authorization in GraphQL](https://medium.com/@darahayes/keycloak-authentication-and-authorization-in-graphql-ad0a1685f7da)
+_<sup>https://medium.com/@darahayes/keycloak-authentication-and-authorization-in-graphql-ad0a1685f7da</sup>_
+
+Learn how to add Keycloak auth to Node.js GraphQL server applications. Including Authentication and Role Based Access Control using the `@auth` and `@hasRole` in the GraphQL Schema.
+
+It's basically an...
+* **tags**: [graphql](../tagged/graphql.md), [authentication](../tagged/authentication.md), [authorization](../tagged/authorization.md), [keycloak](../tagged/keycloak.md)
+* :octocat: **[source code](https://github.com/aerogear/keycloak-connect-graphql)**
+---
 #### [acl9](https://github.com/be9/acl9)
 _<sup>https://github.com/be9/acl9</sup>_
 

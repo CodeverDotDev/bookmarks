@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/twitter](https://www.bookmarks.dev/tagged/twitter)</sup></sup>_
 ---
+#### [Fancy Text Decorator - ℭ𝔬𝔬𝔩 𝕋𝕖𝕩𝕥 𝓖𝓮𝓷𝓮𝓻𝓪𝓽𝓸𝓻 😜](https://fancytextdecorator.com/)
+_<sup>https://fancytextdecorator.com/</sup>_
+
+Generate cute, beatiful and cool text what can be used on Instagram, Twitter, Youtube, Discord and all social media accounts! Generate (っ◔◡◔)っ ♥ ℭ𝔬𝔬𝔩 ♥ & ⓢⓣⓨⓛⓘⓢⓗ text fonts with symbols ✅ Let's mak...
+* :calendar: **published on**: 2020-11-16
+* **tags**: [text](../tagged/text.md), [fonts](../tagged/fonts.md), [styling](../tagged/styling.md), [twitter](../tagged/twitter.md), [youtube](../tagged/youtube.md)
+---
 #### [GitHub - ttezel/twit: Twitter API Client for node (REST & Streaming API)](https://github.com/ttezel/twit)
 _<sup>https://github.com/ttezel/twit</sup>_
 

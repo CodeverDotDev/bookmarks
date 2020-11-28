@@ -2,6 +2,20 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/architecture](https://www.bookmarks.dev/tagged/architecture)</sup></sup>_
 ---
+#### [Breaking up the monolith: A layered GraphQL architecture - Johannes Schickling @ GraphQL Europe 2018 - 17min](https://www.youtube.com/watch?v=_MmyTahR9ok)
+_<sup>https://www.youtube.com/watch?v=_MmyTahR9ok</sup>_
+
+Learn how GraphQL helps you build, clean & layered-architectures with a clear separation of concerns.
+* :calendar: **published on**: 2018-07-02
+* **tags**: [graphql](../tagged/graphql.md), [api](../tagged/api.md), [javascript](../tagged/javascript.md), [architecture](../tagged/architecture.md)
+---
+#### [Replacing Throwing Exceptions with Notification in Validations](https://martinfowler.com/articles/replaceThrowWithNotification.html)
+_<sup>https://martinfowler.com/articles/replaceThrowWithNotification.html</sup>_
+
+If you're validating some data, you usually shouldn't be using exceptions to signal validation failures. Here I describe how I'd refactor such code into using the Notification pattern.
+* :calendar: **published on**: 2014-12-09
+* **tags**: [exception-handling](../tagged/exception-handling.md), [architecture](../tagged/architecture.md), [refactoring](../tagged/refactoring.md)
+---
 #### [Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy/)
 _<sup>https://www.infoq.com/presentations/Simple-Made-Easy/</sup>_
 

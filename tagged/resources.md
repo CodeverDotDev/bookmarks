@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/resources](https://www.bookmarks.dev/tagged/resources)</sup></sup>_
 ---
+#### [GraphQL Resources to help you get started – CodepediaOrg](https://www.codepedia.org/ama/graphql-resources-to-help-you-get-started)
+_<sup>https://www.codepedia.org/ama/graphql-resources-to-help-you-get-started</sup>_
+
+List of GraphQL resources I found most useful to begin. Thus, you can get a good grasp of GraphQL in about two or three days.
+* **tags**: [graphql](../tagged/graphql.md), [resources](../tagged/resources.md), [bookmarks](../tagged/bookmarks.md)
+---
 #### [10 Extraordinary GitHub Repos for All Developers | by Simon Holdorf | Better Programming | Medium](https://medium.com/better-programming/10-extraordinary-github-repos-for-all-developers-939cdeb28ad0)
 _<sup>https://medium.com/better-programming/10-extraordinary-github-repos-for-all-developers-939cdeb28ad0</sup>_
 

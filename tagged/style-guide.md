@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/style-guide](https://www.bookmarks.dev/tagged/style-guide)</sup></sup>_
 ---
+#### [GitHub - standard/standard](https://github.com/standard/standard)
+_<sup>https://github.com/standard/standard</sup>_
+
+🌟 JavaScript Style Guide, with linter & automatic code fixer - standard/standard
+* **tags**: [javascript](../tagged/javascript.md), [linter](../tagged/linter.md), [style-guide](../tagged/style-guide.md)
+* :octocat: **[source code](https://github.com/standard/standard)**
+---
 #### [Google Style Guides | styleguide](https://google.github.io/styleguide/)
 _<sup>https://google.github.io/styleguide/</sup>_
 

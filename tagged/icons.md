@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/icons](https://www.bookmarks.dev/tagged/icons)</sup></sup>_
 ---
+#### [Iconscout home page](https://iconscout.com/)
+_<sup>https://iconscout.com/</sup>_
+
+Browse 2 Million+ high quality Icons, Illustrations and royalty-free stock photos at one place. Download Now!
+* **tags**: [icons](../tagged/icons.md)
+---
 #### [Tabler Icons - 550+ Highly customizable free SVG icons](https://tablericons.com/)
 _<sup>https://tablericons.com/</sup>_
 

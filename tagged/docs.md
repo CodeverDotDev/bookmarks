@@ -2,6 +2,18 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/docs](https://www.bookmarks.dev/tagged/docs)</sup></sup>_
 ---
+#### [Develop Extensions Docs Home Page - Google Chrome](https://developer.chrome.com/extensions/devguide)
+_<sup>https://developer.chrome.com/extensions/devguide</sup>_
+
+After reading the [Getting Started](https://developer.chrome.com/extensions/getstarted) tutorial and [Overview](https://developer.chrome.com/extensions/overview), use this guide as an outline to exten...
+* **tags**: [google-chrome-extension](../tagged/google-chrome-extension.md), [docs](../tagged/docs.md)
+---
+#### [Browser Extensions Docs - Mozilla | MDN](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions)
+_<sup>https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions</sup>_
+
+Extensions, or add-ons, can modify and enhance the capability of a browser. Extensions for Firefox are built using the WebExtensions API cross-browser technology.
+* **tags**: [browser-extension](../tagged/browser-extension.md), [docs](../tagged/docs.md), [firefox-addon](../tagged/firefox-addon.md)
+---
 #### [Apache JMeter  User's Manual: Best Practices](https://jmeter.apache.org/usermanual/best-practices.html)
 _<sup>https://jmeter.apache.org/usermanual/best-practices.html</sup>_
 
@@ -130,6 +142,13 @@ _<sup>https://knative.dev/docs/</sup>_
 Knative (pronounced kay-nay-tiv) extends Kubernetes to provide a set of middleware components that are essential to build modern, source-centric, and container-based applications that can run anywhere...
 * **tags**: [docs](../tagged/docs.md), [kubernetes](../tagged/kubernetes.md), [knative](../tagged/knative.md)
 * :octocat: **[source code](https://github.com/knative/docs)**
+---
+#### [Introduction to Apollo Server](https://www.apollographql.com/docs/apollo-server/)
+_<sup>https://www.apollographql.com/docs/apollo-server/</sup>_
+
+Apollo Server is an open-source, spec-compliant GraphQL server that's compatible with any GraphQL client, including Apollo Client. It's the best way to build a production-ready, self-documenting Graph...
+* **tags**: [graphql](../tagged/graphql.md), [javascript](../tagged/javascript.md), [docs](../tagged/docs.md), [apollo-server](../tagged/apollo-server.md), [typescript](../tagged/typescript.md)
+* :octocat: **[source code](https://github.com/apollographql/apollo-server)**
 ---
 #### [Manage data in Docker](https://docs.docker.com/storage/)
 _<sup>https://docs.docker.com/storage/</sup>_

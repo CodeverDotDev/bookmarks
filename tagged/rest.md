@@ -2,6 +2,71 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/rest](https://www.bookmarks.dev/tagged/rest)</sup></sup>_
 ---
+#### [Multiple Media Types in Java Microservices with RESTEasy](https://stackify.com/multiple-media-types-java-microservices-resteasy/)
+_<sup>https://stackify.com/multiple-media-types-java-microservices-resteasy/</sup>_
+
+Learn how RESTEasy can help you support XML and JSON in a Java web service. Know the differences between REST, media types, web services and microservices.
+* :calendar: **published on**: 2017-10-20
+* **tags**: [java](../tagged/java.md), [rest](../tagged/rest.md), [api](../tagged/api.md), [resteasy](../tagged/resteasy.md)
+---
+#### [Is your REST assured? - blog.](https://blog.jayway.com/2011/06/04/is-your-rest-assured/)
+_<sup>https://blog.jayway.com/2011/06/04/is-your-rest-assured/</sup>_
+
+A couple of months ago I introduced a new open source Java framework for simple automated testing of REST/HTTP services called REST Assured. A lot of things have happended to the framework since then ...
+* :calendar: **published on**: 2011-06-04
+* **tags**: [rest-assured](../tagged/rest-assured.md), [rest](../tagged/rest.md), [testing](../tagged/testing.md)
+---
+#### [JSONPlaceholder - Fake online REST API for testing and prototyping](https://jsonplaceholder.typicode.com/)
+_<sup>https://jsonplaceholder.typicode.com/</sup>_
+
+Free to use fake Online REST API for testing and prototyping
+Powered by [JSON Server](https://github.com/typicode/json-server) + [LowDB](https://github.com/typicode/lowdb)
+* **tags**: [json](../tagged/json.md), [mocking](../tagged/mocking.md), [fake-data](../tagged/fake-data.md), [api](../tagged/api.md), [rest](../tagged/rest.md)
+* :octocat: **[source code](https://github.com/typicode/jsonplaceholder)**
+---
+#### [Advanced HTTP Mocking with WireMock at DevFest DC - 43min](https://www.youtube.com/watch?v=x3MvZ8DFrpE)
+_<sup>https://www.youtube.com/watch?v=x3MvZ8DFrpE</sup>_
+
+[Slides](https://docs.google.com/presentation/d/1SeOz3892UNID7ixe_GGCZTwoyX2bofYw3NJWsM3IgJQ/edit?usp=sharing)
+
+Create HTTP mocks with WireMock’s REST API from any language for deterministic testing a...
+* :calendar: **published on**: 2017-07-13
+* **tags**: [wiremock](../tagged/wiremock.md), [http](../tagged/http.md), [mocking](../tagged/mocking.md), [tdd](../tagged/tdd.md), [java](../tagged/java.md), [curl](../tagged/curl.md), [rest](../tagged/rest.md), [android](../tagged/android.md)
+---
+#### [REST APIs must be hypertext-driven » Untangled by Roy. T](https://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven)
+_<sup>https://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven</sup>_
+
+I am getting frustrated by the number of people calling any HTTP-based interface a REST API. Today’s example is the SocialSite REST API. That is RPC. It screams RPC. There is so much coupling on displ...
+* :calendar: **published on**: 2008-10-20
+* **tags**: [rest](../tagged/rest.md), [api-design](../tagged/api-design.md)
+---
+#### [From REST to GraphQL](https://jacobwgillespie.com/2015-10-09-from-rest-to-graphql/#.5sdd8ltnx)
+_<sup>https://jacobwgillespie.com/2015-10-09-from-rest-to-graphql/#.5sdd8ltnx</sup>_
+
+This excellent post by Jacob Gillespie covers some of the interesting things he learned when converting a REST API to GraphQL.
+
+The first part talks about the many reasons why REST didn’t cut it any m...
+* :calendar: **published on**: 2015-10-09
+* **tags**: [rest](../tagged/rest.md), [graphql](../tagged/graphql.md)
+---
+#### [Understanding pagination: REST, GraphQL, and Relay - Apollo Blog](https://www.apollographql.com/blog/understanding-pagination-rest-graphql-and-relay-b10f835549e7/)
+_<sup>https://www.apollographql.com/blog/understanding-pagination-rest-graphql-and-relay-b10f835549e7/</sup>_
+
+In this post, I’ll cover some different approaches to pagination in REST and GraphQL:
+
+1. Pagination: what is it for?
+2. What are different types of pagination, and when are they useful?
+3. What is it...
+* :calendar: **published on**: 2016-03-09
+* **tags**: [pagination](../tagged/pagination.md), [rest](../tagged/rest.md), [graphql](../tagged/graphql.md), [relay](../tagged/relay.md)
+---
+#### [Kong/insomnia](https://github.com/Kong/insomnia)
+_<sup>https://github.com/Kong/insomnia</sup>_
+
+Insomnia is a cross-platform REST client, built on top of Electron.
+* **tags**: [rest-client](../tagged/rest-client.md), [graphql](../tagged/graphql.md), [rest](../tagged/rest.md)
+* :octocat: **[source code](https://github.com/Kong/insomnia)**
+---
 #### [Rest API Testing With JMeter (Step by Step Guide) - Jmeter - OctoPerf](https://octoperf.com/blog/2018/04/23/jmeter-rest-api-testing/)
 _<sup>https://octoperf.com/blog/2018/04/23/jmeter-rest-api-testing/</sup>_
 

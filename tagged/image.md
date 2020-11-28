@@ -2,6 +2,18 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/image](https://www.bookmarks.dev/tagged/image)</sup></sup>_
 ---
+#### [Quick and Simple Image Placeholders - Dynamic Dummy Image Generator](https://plchldr.co/)
+_<sup>https://plchldr.co/</sup>_
+
+Generate awesome placeholders for your web sites and projects. Placeholder images for your project in progress. A picture's worth a thousand words, so here's 21K worth of placeholder image generators ...
+* **tags**: [image](../tagged/image.md), [web-application](../tagged/web-application.md), [web](../tagged/web.md), [design-tools](../tagged/design-tools.md), [html](../tagged/html.md), [php](../tagged/php.md)
+---
+#### [ImgBB  home page — Free Image Hosting](https://imgbb.com/)
+_<sup>https://imgbb.com/</sup>_
+
+Free image hosting and sharing service, upload pictures, photo host. Offers integration solutions for uploading images to forums.
+* **tags**: [tools](../tagged/tools.md), [image](../tagged/image.md)
+---
 #### [bild](https://github.com/anthonynsimon/bild)
 _<sup>https://github.com/anthonynsimon/bild</sup>_
 

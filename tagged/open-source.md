@@ -2,6 +2,20 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/open-source](https://www.bookmarks.dev/tagged/open-source)</sup></sup>_
 ---
+#### [Lessons from 4 Years of GraphQL - 39min](https://www.youtube.com/watch?v=zVNrqo9XGOs)
+_<sup>https://www.youtube.com/watch?v=zVNrqo9XGOs</sup>_
+
+GraphQL has been in use at Facebook for over four years and evolved a lot before it was open sourced. During that time we learned a lot about what works and why, and derived a series of best practices...
+* :calendar: **published on**: 2016-11-03
+* **tags**: [graphql](../tagged/graphql.md), [open-source](../tagged/open-source.md)
+---
+#### [How to GraphQL - The Fullstack Tutorial for GraphQL](https://www.howtographql.com/)
+_<sup>https://www.howtographql.com/</sup>_
+
+Fullstack GraphQL Tutorial to go from zero to production covering all basics and advanced concepts. Includes tutorials for Apollo, Relay, React and NodeJS.
+* **tags**: [graphql](../tagged/graphql.md), [tutorials](../tagged/tutorials.md), [open-source](../tagged/open-source.md)
+* :octocat: **[source code](https://github.com/howtographql/howtographql)**
+---
 #### [Shields.io: Quality metadata badges for open source projects](https://shields.io/)
 _<sup>https://shields.io/</sup>_
 

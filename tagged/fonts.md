@@ -2,6 +2,20 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/fonts](https://www.bookmarks.dev/tagged/fonts)</sup></sup>_
 ---
+#### [Fancy Text Decorator - ℭ𝔬𝔬𝔩 𝕋𝕖𝕩𝕥 𝓖𝓮𝓷𝓮𝓻𝓪𝓽𝓸𝓻 😜](https://fancytextdecorator.com/)
+_<sup>https://fancytextdecorator.com/</sup>_
+
+Generate cute, beatiful and cool text what can be used on Instagram, Twitter, Youtube, Discord and all social media accounts! Generate (っ◔◡◔)っ ♥ ℭ𝔬𝔬𝔩 ♥ & ⓢⓣⓨⓛⓘⓢⓗ text fonts with symbols ✅ Let's mak...
+* :calendar: **published on**: 2020-11-16
+* **tags**: [text](../tagged/text.md), [fonts](../tagged/fonts.md), [styling](../tagged/styling.md), [twitter](../tagged/twitter.md), [youtube](../tagged/youtube.md)
+---
+#### [Hack Font](https://sourcefoundry.org/hack/)
+_<sup>https://sourcefoundry.org/hack/</sup>_
+
+Hack | A typeface designed for source code
+* **tags**: [fonts](../tagged/fonts.md)
+* :octocat: **[source code](https://github.com/source-foundry/Hack)**
+---
 #### [How to center align font awesome icons vertically in a circle div?](https://stackoverflow.com/questions/20832226/how-to-center-align-font-awesome-icons-vertically-in-a-circle-div?rq=1)
 _<sup>https://stackoverflow.com/questions/20832226/how-to-center-align-font-awesome-icons-vertically-in-a-...</sup>_
 

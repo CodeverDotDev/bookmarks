@@ -2,6 +2,14 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/json](https://www.bookmarks.dev/tagged/json)</sup></sup>_
 ---
+#### [JSONPlaceholder - Fake online REST API for testing and prototyping](https://jsonplaceholder.typicode.com/)
+_<sup>https://jsonplaceholder.typicode.com/</sup>_
+
+Free to use fake Online REST API for testing and prototyping
+Powered by [JSON Server](https://github.com/typicode/json-server) + [LowDB](https://github.com/typicode/lowdb)
+* **tags**: [json](../tagged/json.md), [mocking](../tagged/mocking.md), [fake-data](../tagged/fake-data.md), [api](../tagged/api.md), [rest](../tagged/rest.md)
+* :octocat: **[source code](https://github.com/typicode/jsonplaceholder)**
+---
 #### [Rest API Testing With JMeter (Step by Step Guide) - Jmeter - OctoPerf](https://octoperf.com/blog/2018/04/23/jmeter-rest-api-testing/)
 _<sup>https://octoperf.com/blog/2018/04/23/jmeter-rest-api-testing/</sup>_
 

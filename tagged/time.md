@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/time](https://www.bookmarks.dev/tagged/time)</sup></sup>_
 ---
+#### [The Problem with Time & Timezones - Computerphile - 10min](https://www.youtube.com/watch?v=-5wpm-gesOY)
+_<sup>https://www.youtube.com/watch?v=-5wpm-gesOY</sup>_
+
+A web app that works out how many seconds ago something happened. How hard can coding that be? Tom Scott explains how time twists and turns like a twisty-turny thing. It's not to be trifled with!
+* :calendar: **published on**: 2013-12-30
+* **tags**: [time](../tagged/time.md), [timezone](../tagged/timezone.md)
+---
 #### [carbon](https://github.com/uniplaces/carbon)
 _<sup>https://github.com/uniplaces/carbon</sup>_
 

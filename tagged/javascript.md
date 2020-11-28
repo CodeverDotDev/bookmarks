@@ -2,6 +2,90 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/javascript](https://www.bookmarks.dev/tagged/javascript)</sup></sup>_
 ---
+#### [Justin Searls – Please don’t mock me - 51min](https://www.youtube.com/watch?v=Af4M8GMoxi4)
+_<sup>https://www.youtube.com/watch?v=Af4M8GMoxi4</sup>_
+
+Confusion over test doubles starts with what to even call them. You might know them as stubs, proxies, mocks, or spies (but I call them test doubles, because a book you've probably never read declared...
+* :calendar: **published on**: 2018-03-05
+* **tags**: [testing](../tagged/testing.md), [tdd](../tagged/tdd.md), [test-driven-development](../tagged/test-driven-development.md), [javascript](../tagged/javascript.md), [web-development](../tagged/web-development.md)
+---
+#### [GitHub - cobidev/simplefolio: ⚡️ A minimal portfolio template for Developers](https://github.com/cobidev/simplefolio)
+_<sup>https://github.com/cobidev/simplefolio</sup>_
+
+⚡️ A minimal portfolio template for Developers. Contribute to cobidev/simplefolio development by creating an account on GitHub.
+* **tags**: [portfolio](../tagged/portfolio.md), [template](../tagged/template.md), [webpack](../tagged/webpack.md), [javascript](../tagged/javascript.md)
+* :octocat: **[source code](https://github.com/cobidev/simplefolio)**
+---
+#### [Comparing the top 3 Javascript testing frameworks](https://dev.to/heroku/comparing-the-top-3-javascript-testing-frameworks-2cco)
+_<sup>https://dev.to/heroku/comparing-the-top-3-javascript-testing-frameworks-2cco</sup>_
+
+In this article, I'm going to compare three popular frameworks—Mocha, Jest, and Jasmine—to help you make a more informed decision. I'll look at how these frameworks handle common test scenarios, such ...
+* :calendar: **published on**: 2020-03-18
+* **tags**: [javascript](../tagged/javascript.md), [testing](../tagged/testing.md)
+---
+#### [GitHub - lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions)
+_<sup>https://github.com/lydiahallie/javascript-questions</sup>_
+
+A long list of (advanced) JavaScript questions, and their explanations :sparkles:  
+* **tags**: [javascript](../tagged/javascript.md), [interview-questions](../tagged/interview-questions.md)
+* :octocat: **[source code](https://github.com/lydiahallie/javascript-questions)**
+---
+#### [GitHub - ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+_<sup>https://github.com/ryanmcdermott/clean-code-javascript</sup>_
+
+:bathtub: Clean Code concepts adapted for JavaScript
+* **tags**: [javascript](../tagged/javascript.md), [clean-code](../tagged/clean-code.md)
+* :octocat: **[source code](https://github.com/ryanmcdermott/clean-code-javascript)**
+---
+#### [GraphQL Server Basics: GraphQL Schemas, TypeDefs & Resolvers Explained | Prisma](https://www.prisma.io/blog/graphql-server-basics-the-schema-ac5e2950214e)
+_<sup>https://www.prisma.io/blog/graphql-server-basics-the-schema-ac5e2950214e</sup>_
+
+In this article, we unveiled the mechanics and inner workings of a GraphQL execution engine. Starting with the GraphQL schema which defines the API of the server and determines what queries and mutati...
+* **tags**: [graphql](../tagged/graphql.md), [javascript](../tagged/javascript.md), [graphql-js](../tagged/graphql-js.md)
+---
+#### [DataLoader – Source code walkthrough - 34min](https://www.youtube.com/watch?v=OQTnXNCDywA)
+_<sup>https://www.youtube.com/watch?v=OQTnXNCDywA</sup>_
+
+DataLoader is a utility for batching and caching loaded data in your web service. Learn how it works with a walkthrough of its source code.
+* :calendar: **published on**: 2016-02-27
+* **tags**: [graphql](../tagged/graphql.md), [javascript](../tagged/javascript.md), [node.js](../tagged/node.js.md), [react](../tagged/react.md), [dataloader](../tagged/dataloader.md)
+* :octocat: **[source code](https://github.com/graphql/dataloader)**
+---
+#### [Getting Started With GraphQL.js](https://graphql.org/graphql-js/)
+_<sup>https://graphql.org/graphql-js/</sup>_
+
+The JavaScript reference implementation for GraphQL
+* **tags**: [graphql](../tagged/graphql.md), [javascript](../tagged/javascript.md), [node.js](../tagged/node.js.md), [graphql-js](../tagged/graphql-js.md)
+* :octocat: **[source code](https://github.com/graphql/graphql-js)**
+---
+#### [Breaking up the monolith: A layered GraphQL architecture - Johannes Schickling @ GraphQL Europe 2018 - 17min](https://www.youtube.com/watch?v=_MmyTahR9ok)
+_<sup>https://www.youtube.com/watch?v=_MmyTahR9ok</sup>_
+
+Learn how GraphQL helps you build, clean & layered-architectures with a clear separation of concerns.
+* :calendar: **published on**: 2018-07-02
+* **tags**: [graphql](../tagged/graphql.md), [api](../tagged/api.md), [javascript](../tagged/javascript.md), [architecture](../tagged/architecture.md)
+---
+#### [JavaScript Open Source Awards 2020 Distinguishes Six Impactful Projects](https://www.infoq.com/news/2020/10/js-open-source-award-2020/)
+_<sup>https://www.infoq.com/news/2020/10/js-open-source-award-2020/</sup>_
+
+Since 2018, the JavaScript Open Source Awards distinguishes impactful open-source projects across four categories every year— Breakthrough of the Year, The Most Exciting Use of Technology, Fun Side Pr
+* :calendar: **published on**: 2020-10-20
+* **tags**: [javascript](../tagged/javascript.md)
+---
+#### [mozilla/web-ext](https://github.com/mozilla/web-ext)
+_<sup>https://github.com/mozilla/web-ext</sup>_
+
+This is a command line tool to help build, run, and test [WebExtensions](https://wiki.mozilla.org/WebExtensions).
+* **tags**: [firefox-webextensions](../tagged/firefox-webextensions.md), [javascript](../tagged/javascript.md), [browser-extension](../tagged/browser-extension.md)
+* :octocat: **[source code](https://github.com/mozilla/web-ext)**
+---
+#### [GitHub - standard/standard](https://github.com/standard/standard)
+_<sup>https://github.com/standard/standard</sup>_
+
+🌟 JavaScript Style Guide, with linter & automatic code fixer - standard/standard
+* **tags**: [javascript](../tagged/javascript.md), [linter](../tagged/linter.md), [style-guide](../tagged/style-guide.md)
+* :octocat: **[source code](https://github.com/standard/standard)**
+---
 #### [In depth: Microtasks and the JavaScript runtime environment](https://developer.mozilla.org/en-US/docs/Web/API/HTML_DOM_API/Microtask_guide/In_depth)
 _<sup>https://developer.mozilla.org/en-US/docs/Web/API/HTML_DOM_API/Microtask_guide/In_depth</sup>_
 
@@ -2779,7 +2863,7 @@ Javascript syntax highlighter.
 _<sup>https://github.com/PrismJS/prism</sup>_
 
 Lightweight, robust, elegant syntax highlighting.
-* **tags**: [javascript](../tagged/javascript.md), [code-highlighting](../tagged/code-highlighting.md)
+* **tags**: [javascript](../tagged/javascript.md), [code-highlighting](../tagged/code-highlighting.md), [prism.js](../tagged/prism.js.md)
 * :octocat: **[source code](https://github.com/PrismJS/prism)**
 ---
 #### [Mprogress.js](https://github.com/lightningtgc/MProgress.js)
@@ -4956,11 +5040,12 @@ _<sup>https://www.apollographql.com/react/</sup>_
 Documentation and example for building GraphQL apps using apollo client
 * **tags**: [graphql](../tagged/graphql.md), [javascript](../tagged/javascript.md)
 ---
-#### [Apollo Server tools documentation](https://www.apollographql.com/docs/apollo-server/)
+#### [Introduction to Apollo Server](https://www.apollographql.com/docs/apollo-server/)
 _<sup>https://www.apollographql.com/docs/apollo-server/</sup>_
 
-Documentation, tutorial and examples for building GraphQL server and connecting to SQL, MongoDB and REST endpoints.
-* **tags**: [graphql](../tagged/graphql.md), [javascript](../tagged/javascript.md)
+Apollo Server is an open-source, spec-compliant GraphQL server that's compatible with any GraphQL client, including Apollo Client. It's the best way to build a production-ready, self-documenting Graph...
+* **tags**: [graphql](../tagged/graphql.md), [javascript](../tagged/javascript.md), [docs](../tagged/docs.md), [apollo-server](../tagged/apollo-server.md), [typescript](../tagged/typescript.md)
+* :octocat: **[source code](https://github.com/apollographql/apollo-server)**
 ---
 #### [f8-apollo](https://github.com/nnance/f8app-apollo)
 _<sup>https://github.com/nnance/f8app-apollo</sup>_

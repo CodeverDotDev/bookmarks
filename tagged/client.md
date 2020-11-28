@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/client](https://www.bookmarks.dev/tagged/client)</sup></sup>_
 ---
+#### [Nosqlclient](https://www.nosqlclient.com/)
+_<sup>https://www.nosqlclient.com/</sup>_
+
+Cross-platform and self hosted, easy to use, intuitive mongodb management tool - Formerly Mongoclient
+* **tags**: [mongodb](../tagged/mongodb.md), [client](../tagged/client.md)
+* :octocat: **[source code](https://github.com/nosqlclient/nosqlclient)**
+---
 #### [relay](https://github.com/facebook/relay)
 _<sup>https://github.com/facebook/relay</sup>_
 

@@ -2,6 +2,14 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/expressjs](https://www.bookmarks.dev/tagged/expressjs)</sup></sup>_
 ---
+#### [Complete example of a CRUD API with Express GraphQL – CodepediaOrg](https://www.codepedia.org/ama/complete-example-crud-api-express-graphql)
+_<sup>https://www.codepedia.org/ama/complete-example-crud-api-express-graphql</sup>_
+
+CRUD API example implemented with GraphQL-js and expresss-graphql acting as integration point to the existing REST API supporting Bookmarks.dev
+* :calendar: **published on**: 2020-11-10
+* **tags**: [graphql](../tagged/graphql.md), [expressjs](../tagged/expressjs.md)
+* :octocat: **[source code](https://github.com/CodepediaOrg/graphql-express-crud-demo)**
+---
 #### [Express behind proxies](https://expressjs.com/en/guide/behind-proxies.html)
 _<sup>https://expressjs.com/en/guide/behind-proxies.html</sup>_
 

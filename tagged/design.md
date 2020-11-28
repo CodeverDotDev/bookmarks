@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/design](https://www.bookmarks.dev/tagged/design)</sup></sup>_
 ---
+#### [Random Colors - Hex Color](https://hexcolor.co/random-colors)
+_<sup>https://hexcolor.co/random-colors</sup>_
+
+Get a random hex color every time you reload this page. The colors are generated with true randomness originating from atmospheric noise. Hexadecimal color codes are used to represent colors numerical...
+* **tags**: [colors](../tagged/colors.md), [design](../tagged/design.md), [webmaster](../tagged/webmaster.md), [developer-tools](../tagged/developer-tools.md)
+---
 #### [GitHub - madd86/awesome-system-design: A curated list of awesome System Design (A.K.A. Distributed Computing) resources.](https://github.com/madd86/awesome-system-design)
 _<sup>https://github.com/madd86/awesome-system-design</sup>_
 

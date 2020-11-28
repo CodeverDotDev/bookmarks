@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/interview-questions](https://www.bookmarks.dev/tagged/interview-questions)</sup></sup>_
 ---
+#### [GitHub - lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions)
+_<sup>https://github.com/lydiahallie/javascript-questions</sup>_
+
+A long list of (advanced) JavaScript questions, and their explanations :sparkles:  
+* **tags**: [javascript](../tagged/javascript.md), [interview-questions](../tagged/interview-questions.md)
+* :octocat: **[source code](https://github.com/lydiahallie/javascript-questions)**
+---
 #### [13 Essential React Interview Questions](https://www.toptal.com/react/interview-questions)
 _<sup>https://www.toptal.com/react/interview-questions</sup>_
 

@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/error-handling](https://www.bookmarks.dev/tagged/error-handling)</sup></sup>_
 ---
+#### [Handling GraphQL errors like a champ with unions and interfaces - LogRocket Blog](https://blog.logrocket.com/handling-graphql-errors-like-a-champ-with-unions-and-interfaces/)
+_<sup>https://blog.logrocket.com/handling-graphql-errors-like-a-champ-with-unions-and-interfaces/</sup>_
+
+An interesting approach to handling erros in GraphQL with the possibilities that the spec provides and still have type safety.
+* :calendar: **published on**: 2019-11-19
+* **tags**: [graphql](../tagged/graphql.md), [error-handling](../tagged/error-handling.md), [apollo](../tagged/apollo.md)
+---
 #### [Express error handling](https://expressjs.com/en/guide/error-handling.html)
 _<sup>https://expressjs.com/en/guide/error-handling.html</sup>_
 

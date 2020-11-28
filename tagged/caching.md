@@ -2,6 +2,20 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/caching](https://www.bookmarks.dev/tagged/caching)</sup></sup>_
 ---
+#### [GraphQL & Caching: The Elephant in the Room - Apollo Blog](https://www.apollographql.com/blog/graphql-caching-the-elephant-in-the-room-11a3df0c23ad/)
+_<sup>https://www.apollographql.com/blog/graphql-caching-the-elephant-in-the-room-11a3df0c23ad/</sup>_
+
+If you’ve followed the discussions around whether GraphQL is a good idea or not, you might have heard things like “GraphQL breaks caching”, or “GraphQL is not cacheable”. If not, I guarantee you’ll be...
+* :calendar: **published on**: 2019-06-25
+* **tags**: [graphql](../tagged/graphql.md), [caching](../tagged/caching.md)
+---
+#### [graphql/dataloader home page](https://github.com/graphql/dataloader)
+_<sup>https://github.com/graphql/dataloader</sup>_
+
+DataLoader is a generic utility to be used as part of your application's data fetching layer to provide a consistent API over various backends and reduce requests to those backends via batching and ca...
+* **tags**: [graphql](../tagged/graphql.md), [tools](../tagged/tools.md), [caching](../tagged/caching.md), [batch](../tagged/batch.md), [dataloader](../tagged/dataloader.md)
+* :octocat: **[source code](https://github.com/graphql/dataloader)**
+---
 #### [Ehcache Home Page](http://www.ehcache.org/)
 _<sup>http://www.ehcache.org/</sup>_
 

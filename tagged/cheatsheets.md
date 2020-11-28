@@ -2,6 +2,11 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/cheatsheets](https://www.bookmarks.dev/tagged/cheatsheets)</sup></sup>_
 ---
+#### [cheat.sh/:firstpage](https://cheat.sh/)
+_<sup>https://cheat.sh/</sup>_
+
+* **tags**: [cheatsheet](../tagged/cheatsheet.md), [cheatsheets](../tagged/cheatsheets.md)
+---
 #### [Open Source Cheat Sheets | Opensource.com](https://opensource.com/downloads/cheat-sheets)
 _<sup>https://opensource.com/downloads/cheat-sheets</sup>_
 

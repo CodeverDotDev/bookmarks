@@ -2,6 +2,36 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/mocking](https://www.bookmarks.dev/tagged/mocking)</sup></sup>_
 ---
+#### [Understanding Jest Mocks. Explaining the Mock Function](https://medium.com/@rickhanlonii/understanding-jest-mocks-f0046c68e53c)
+_<sup>https://medium.com/@rickhanlonii/understanding-jest-mocks-f0046c68e53c</sup>_
+
+When we talk about mocking in Jest, we’re typically talking about replacing dependencies with the [Mock Function](https://facebook.github.io/jest/docs/en/mock-function-api.html). In this article we’ll...
+* :calendar: **published on**: 2018-03-08
+* **tags**: [jest](../tagged/jest.md), [mocking](../tagged/mocking.md)
+---
+#### [JSONPlaceholder - Fake online REST API for testing and prototyping](https://jsonplaceholder.typicode.com/)
+_<sup>https://jsonplaceholder.typicode.com/</sup>_
+
+Free to use fake Online REST API for testing and prototyping
+Powered by [JSON Server](https://github.com/typicode/json-server) + [LowDB](https://github.com/typicode/lowdb)
+* **tags**: [json](../tagged/json.md), [mocking](../tagged/mocking.md), [fake-data](../tagged/fake-data.md), [api](../tagged/api.md), [rest](../tagged/rest.md)
+* :octocat: **[source code](https://github.com/typicode/jsonplaceholder)**
+---
+#### [Advanced HTTP Mocking with WireMock at DevFest DC - 43min](https://www.youtube.com/watch?v=x3MvZ8DFrpE)
+_<sup>https://www.youtube.com/watch?v=x3MvZ8DFrpE</sup>_
+
+[Slides](https://docs.google.com/presentation/d/1SeOz3892UNID7ixe_GGCZTwoyX2bofYw3NJWsM3IgJQ/edit?usp=sharing)
+
+Create HTTP mocks with WireMock’s REST API from any language for deterministic testing a...
+* :calendar: **published on**: 2017-07-13
+* **tags**: [wiremock](../tagged/wiremock.md), [http](../tagged/http.md), [mocking](../tagged/mocking.md), [tdd](../tagged/tdd.md), [java](../tagged/java.md), [curl](../tagged/curl.md), [rest](../tagged/rest.md), [android](../tagged/android.md)
+---
+#### [FakeQL home page](https://fakeql.com/)
+_<sup>https://fakeql.com/</sup>_
+
+Create fake data and API endpoints with Blowson.
+* **tags**: [graphql](../tagged/graphql.md), [mocking](../tagged/mocking.md)
+---
 #### [Don't Mock What You Don't Own](https://maksimivanov.com/posts/dont-mock-what-you-dont-own/)
 _<sup>https://maksimivanov.com/posts/dont-mock-what-you-dont-own/</sup>_
 

@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/software](https://www.bookmarks.dev/tagged/software)</sup></sup>_
 ---
+#### [The Impermanence of Software by Andy Croll - 33min](https://www.youtube.com/watch?v=l2WgVr1rv3c)
+_<sup>https://www.youtube.com/watch?v=l2WgVr1rv3c</sup>_
+
+RubyConf 2017: Keynote - The Impermanence of Software by Andy Croll
+* :calendar: **published on**: 2017-11-28
+* **tags**: [software](../tagged/software.md)
+---
 #### [Nlance™- The Best-In-Class Freelance Software To Start Your Own Freelance Platform](https://www.ncrypted.net/nlance)
 _<sup>https://www.ncrypted.net/nlance</sup>_
 

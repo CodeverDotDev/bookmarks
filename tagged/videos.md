@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/videos](https://www.bookmarks.dev/tagged/videos)</sup></sup>_
 ---
+#### [Babel Videos](https://babeljs.io/videos.html)
+_<sup>https://babeljs.io/videos.html</sup>_
+
+Videos and podcasts about Babel and its underlying concepts.
+* **tags**: [babel](../tagged/babel.md), [babeljs](../tagged/babeljs.md), [videos](../tagged/videos.md)
+---
 #### [List of C or C++ YouTube Videos](https://github.com/fffaraz/awesome-cpp/blob/master/videos.md)
 _<sup>https://github.com/fffaraz/awesome-cpp/blob/master/videos.md</sup>_
 

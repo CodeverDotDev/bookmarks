@@ -46,7 +46,7 @@ Flexbox’s underlying principle is to make layouts flexible and intuitive.
 
 To accomplish this, it lets containers decide for themselves how to evenly distribute their children — including their size a...
 * :calendar: **published on**: 2017-01-31
-* **tags**: [flexbox](../tagged/flexbox.md)
+* **tags**: [flexbox](../tagged/flexbox.md), [gif](../tagged/gif.md)
 ---
 #### [GitHub - philipwalton/flexbugs](https://github.com/philipwalton/flexbugs)
 _<sup>https://github.com/philipwalton/flexbugs</sup>_

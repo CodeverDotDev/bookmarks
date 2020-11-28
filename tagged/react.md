@@ -2,6 +2,14 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/react](https://www.bookmarks.dev/tagged/react)</sup></sup>_
 ---
+#### [DataLoader – Source code walkthrough - 34min](https://www.youtube.com/watch?v=OQTnXNCDywA)
+_<sup>https://www.youtube.com/watch?v=OQTnXNCDywA</sup>_
+
+DataLoader is a utility for batching and caching loaded data in your web service. Learn how it works with a walkthrough of its source code.
+* :calendar: **published on**: 2016-02-27
+* **tags**: [graphql](../tagged/graphql.md), [javascript](../tagged/javascript.md), [node.js](../tagged/node.js.md), [react](../tagged/react.md), [dataloader](../tagged/dataloader.md)
+* :octocat: **[source code](https://github.com/graphql/dataloader)**
+---
 #### [Devhints — TL;DR for developer documentation](https://devhints.io/)
 _<sup>https://devhints.io/</sup>_
 

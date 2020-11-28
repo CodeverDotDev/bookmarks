@@ -2,6 +2,19 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/typescript](https://www.bookmarks.dev/tagged/typescript)</sup></sup>_
 ---
+#### [GraphQL Code Generator Home Page](https://graphql-code-generator.com/)
+_<sup>https://graphql-code-generator.com/</sup>_
+
+Generate code from your GraphQL schema and operations with a simple CLI
+* **tags**: [graphql](../tagged/graphql.md), [code-generation](../tagged/code-generation.md), [cli](../tagged/cli.md), [command-line-interface](../tagged/command-line-interface.md), [command-line-tools](../tagged/command-line-tools.md), [typescript](../tagged/typescript.md)
+* :octocat: **[source code](https://github.com/dotansimha/graphql-code-generator)**
+---
+#### [Online Typing Test - Improve Your WPM Speed!](https://onlinetypingtests.com/)
+_<sup>https://onlinetypingtests.com/</sup>_
+
+Do you think you are a good typer? An average touch typer can type at around 60 WPM (word per minute). Find out how fast you are. Teach and Learn Typing, Free! Test & Improve your Typing Speed! We Pro...
+* **tags**: [typescript](../tagged/typescript.md), [writing-tools](../tagged/writing-tools.md), [webmaster](../tagged/webmaster.md), [web-application](../tagged/web-application.md), [toolkit](../tagged/toolkit.md)
+---
 #### [Getting To Know The Partial Type in TypeScript](https://netbasal.com/getting-to-know-the-partial-type-in-typescript-ecfcfbc87cb6)
 _<sup>https://netbasal.com/getting-to-know-the-partial-type-in-typescript-ecfcfbc87cb6</sup>_
 
@@ -73,6 +86,13 @@ _<sup>https://nestjs.com/</sup>_
 NestJS is a framework for building efficient, scalable Node.js web applications. It uses modern JavaScript, is built with TypeScript and combines elements of OOP (Object Oriented Progamming), FP (Func...
 * **tags**: [node.js](../tagged/node.js.md), [typescript](../tagged/typescript.md), [functional-programming](../tagged/functional-programming.md), [oop](../tagged/oop.md)
 * :octocat: **[source code](https://github.com/nestjs/nest)**
+---
+#### [Introduction to Apollo Server](https://www.apollographql.com/docs/apollo-server/)
+_<sup>https://www.apollographql.com/docs/apollo-server/</sup>_
+
+Apollo Server is an open-source, spec-compliant GraphQL server that's compatible with any GraphQL client, including Apollo Client. It's the best way to build a production-ready, self-documenting Graph...
+* **tags**: [graphql](../tagged/graphql.md), [javascript](../tagged/javascript.md), [docs](../tagged/docs.md), [apollo-server](../tagged/apollo-server.md), [typescript](../tagged/typescript.md)
+* :octocat: **[source code](https://github.com/apollographql/apollo-server)**
 ---
 #### [Basic Apollo Server](https://github.com/DxCx/webpack-graphql-server)
 _<sup>https://github.com/DxCx/webpack-graphql-server</sup>_

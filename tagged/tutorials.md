@@ -2,6 +2,26 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/tutorials](https://www.bookmarks.dev/tagged/tutorials)</sup></sup>_
 ---
+#### [Node.js Crash Course Tutorial - YouTube](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU)
+_<sup>https://www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU</sup>_
+
+Playlist of youtube videos
+* **tags**: [node.js](../tagged/node.js.md), [tutorials](../tagged/tutorials.md)
+---
+#### [How to GraphQL - The Fullstack Tutorial for GraphQL](https://www.howtographql.com/)
+_<sup>https://www.howtographql.com/</sup>_
+
+Fullstack GraphQL Tutorial to go from zero to production covering all basics and advanced concepts. Includes tutorials for Apollo, Relay, React and NodeJS.
+* **tags**: [graphql](../tagged/graphql.md), [tutorials](../tagged/tutorials.md), [open-source](../tagged/open-source.md)
+* :octocat: **[source code](https://github.com/howtographql/howtographql)**
+---
+#### [Getting started with GraphQL Java and Spring Boot](https://www.graphql-java.com/tutorials/getting-started-with-spring-boot/)
+_<sup>https://www.graphql-java.com/tutorials/getting-started-with-spring-boot/</sup>_
+
+This is a tutorial for people who want to create a GraphQL server in Java. It requires some Spring Boot and Java knowledge and while we give a brief introduction into GraphQL, the focus of this tutori...
+* **tags**: [graphql](../tagged/graphql.md), [spring-boot](../tagged/spring-boot.md), [tutorials](../tagged/tutorials.md)
+* :octocat: **[source code](https://github.com/graphql-java/tutorials/tree/master/book-details)**
+---
 #### [Golang Tutorial for Node.js Developers: Getting started | @RisingStack](https://blog.risingstack.com/golang-tutorial-for-nodejs-developers-getting-started/)
 _<sup>https://blog.risingstack.com/golang-tutorial-for-nodejs-developers-getting-started/</sup>_
 

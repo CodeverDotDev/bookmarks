@@ -2,6 +2,60 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/tools](https://www.bookmarks.dev/tagged/tools)</sup></sup>_
 ---
+#### [graphql/dataloader home page](https://github.com/graphql/dataloader)
+_<sup>https://github.com/graphql/dataloader</sup>_
+
+DataLoader is a generic utility to be used as part of your application's data fetching layer to provide a consistent API over various backends and reduce requests to those backends via batching and ca...
+* **tags**: [graphql](../tagged/graphql.md), [tools](../tagged/tools.md), [caching](../tagged/caching.md), [batch](../tagged/batch.md), [dataloader](../tagged/dataloader.md)
+* :octocat: **[source code](https://github.com/graphql/dataloader)**
+---
+#### [GitHub - graphql/graphql-playground](https://github.com/graphql/graphql-playground)
+_<sup>https://github.com/graphql/graphql-playground</sup>_
+
+🎮  GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration) - graphql/graphql-playground
+* **tags**: [graphql](../tagged/graphql.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/graphql/graphql-playground)**
+---
+#### [Hat.sh | A Free, Fast, Secure client side File Encryption.](https://hat.sh/)
+_<sup>https://hat.sh/</sup>_
+
+[hat.sh](https://hat.sh) is a  javascript app that provides secure file encryption using the [AES-256-GCM](https://www.w3.org/TR/WebCryptoAPI/aes-gcm) algorithm from [WebCryptoAPI](https://www.w3.org...
+* **tags**: [tools](../tagged/tools.md), [file](../tagged/file.md), [encryption](../tagged/encryption.md), [online-tools](../tagged/online-tools.md)
+* :octocat: **[source code](https://github.com/sh-dv/hat.sh)**
+---
+#### [ImgBB  home page — Free Image Hosting](https://imgbb.com/)
+_<sup>https://imgbb.com/</sup>_
+
+Free image hosting and sharing service, upload pictures, photo host. Offers integration solutions for uploading images to forums.
+* **tags**: [tools](../tagged/tools.md), [image](../tagged/image.md)
+---
+#### [yoshuawuyts/vmd: preview markdown files](https://github.com/yoshuawuyts/vmd)
+_<sup>https://github.com/yoshuawuyts/vmd</sup>_
+
+Preview markdown files in a separate window. Markdown is formatted exactly the same as on GitHub.
+* **tags**: [tools](../tagged/tools.md), [markdown](../tagged/markdown.md)
+* :octocat: **[source code](https://github.com/yoshuawuyts/vmd)**
+---
+#### [Meta Tags — Preview, Edit and Generate](https://metatags.io/)
+_<sup>https://metatags.io/</sup>_
+
+Meta Tags is a tool to debug and generate meta tag code for any website. With Meta Tags you can edit and experiment with your content then preview how your webpage will look on Google, Facebook, Twitt...
+* **tags**: [tools](../tagged/tools.md), [social-media](../tagged/social-media.md), [meta-tags](../tagged/meta-tags.md)
+---
+#### [Optimize animated GIF](https://ezgif.com/optimize)
+_<sup>https://ezgif.com/optimize</sup>_
+
+GIF compressor optimizes GIFs using gifsicle and Lossy GIF encoder, which implements lossy LZW compression.
+It can reduce animated GIF file size by 30%—50% at a cost of some dithering/noise. You can a...
+* **tags**: [gif](../tagged/gif.md), [tools](../tagged/tools.md), [optimization](../tagged/optimization.md)
+---
+#### [Gifsicle: Command-Line Animated GIFs](http://www.lcdf.org/gifsicle/)
+_<sup>http://www.lcdf.org/gifsicle/</sup>_
+
+Gifsicle is a command-line tool for creating, editing, and getting information about GIF images and animations
+* **tags**: [gif](../tagged/gif.md), [tools](../tagged/tools.md), [command-line-tools](../tagged/command-line-tools.md)
+* :octocat: **[source code](http://github.com/kohler/gifsicle)**
+---
 #### [Appydev | Find awesome tools](https://appydev.co/)
 _<sup>https://appydev.co/</sup>_
 

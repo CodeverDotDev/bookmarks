@@ -27,4 +27,5 @@ Nodemon is a utility that will monitor for any changes in your source and automa
 
 Ju...
 * **tags**: [node.js](../tagged/node.js.md), [nodemon](../tagged/nodemon.md), [dev-tools](../tagged/dev-tools.md)
+* :octocat: **[source code](https://github.com/remy/nodemon/)**
 ---

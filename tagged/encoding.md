@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/encoding](https://www.bookmarks.dev/tagged/encoding)</sup></sup>_
 ---
+#### [Base64 Decode and Encode - Online](https://www.base64decode.org/)
+_<sup>https://www.base64decode.org/</sup>_
+
+Simple base64 online encoder and decoder
+* **tags**: [encoding](../tagged/encoding.md), [base64](../tagged/base64.md), [online-tools](../tagged/online-tools.md)
+---
 #### [Lunatech Blog: What every web developer must know about URL encoding](https://www.talisman.org/~erlkonig/misc/lunatech%5Ewhat-every-webdev-must-know-about-url-encoding/)
 _<sup>https://www.talisman.org/~erlkonig/misc/lunatech%5Ewhat-every-webdev-must-know-about-url-encoding/</sup>_
 

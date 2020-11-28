@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/microservices](https://www.bookmarks.dev/tagged/microservices)</sup></sup>_
 ---
+#### [Microservices Are for Humans, Not Machines](https://www.infoq.com/presentations/microservices-behavior-joy/)
+_<sup>https://www.infoq.com/presentations/microservices-behavior-joy/</sup>_
+
+Oded Shopen discusses the behavioral benefits of moving to a microservices architecture in an organization, explaining how microservices have an impact on the overall joy of a developer’s craft.
+* **tags**: [microservices](../tagged/microservices.md)
+---
 #### [@Stateless As JAX-RS Resource? - 5min](https://www.youtube.com/watch?time_continue=96&v=BnUsNlPnZZo&feature=emb_logo)
 _<sup>https://www.youtube.com/watch?time_continue=96&v=BnUsNlPnZZo&feature=emb_logo</sup>_
 

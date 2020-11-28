@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/resteasy](https://www.bookmarks.dev/tagged/resteasy)</sup></sup>_
 ---
+#### [Multiple Media Types in Java Microservices with RESTEasy](https://stackify.com/multiple-media-types-java-microservices-resteasy/)
+_<sup>https://stackify.com/multiple-media-types-java-microservices-resteasy/</sup>_
+
+Learn how RESTEasy can help you support XML and JSON in a Java web service. Know the differences between REST, media types, web services and microservices.
+* :calendar: **published on**: 2017-10-20
+* **tags**: [java](../tagged/java.md), [rest](../tagged/rest.md), [api](../tagged/api.md), [resteasy](../tagged/resteasy.md)
+---
 #### [RESTEasy Client API](https://www.baeldung.com/resteasy-client-tutorial)
 _<sup>https://www.baeldung.com/resteasy-client-tutorial</sup>_
 

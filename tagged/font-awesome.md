@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/font-awesome](https://www.bookmarks.dev/tagged/font-awesome)</sup></sup>_
 ---
+#### [Font Awesome Gallery](https://fontawesome.com/icons?d=gallery)
+_<sup>https://fontawesome.com/icons?d=gallery</sup>_
+
+Search the Font Awesome gallery
+* **tags**: [font-awesome](../tagged/font-awesome.md)
+---
 #### [How to center align font awesome icons vertically in a circle div?](https://stackoverflow.com/questions/20832226/how-to-center-align-font-awesome-icons-vertically-in-a-circle-div?rq=1)
 _<sup>https://stackoverflow.com/questions/20832226/how-to-center-align-font-awesome-icons-vertically-in-a-...</sup>_
 

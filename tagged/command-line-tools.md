@@ -2,6 +2,20 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/command-line-tools](https://www.bookmarks.dev/tagged/command-line-tools)</sup></sup>_
 ---
+#### [GraphQL Code Generator Home Page](https://graphql-code-generator.com/)
+_<sup>https://graphql-code-generator.com/</sup>_
+
+Generate code from your GraphQL schema and operations with a simple CLI
+* **tags**: [graphql](../tagged/graphql.md), [code-generation](../tagged/code-generation.md), [cli](../tagged/cli.md), [command-line-interface](../tagged/command-line-interface.md), [command-line-tools](../tagged/command-line-tools.md), [typescript](../tagged/typescript.md)
+* :octocat: **[source code](https://github.com/dotansimha/graphql-code-generator)**
+---
+#### [Gifsicle: Command-Line Animated GIFs](http://www.lcdf.org/gifsicle/)
+_<sup>http://www.lcdf.org/gifsicle/</sup>_
+
+Gifsicle is a command-line tool for creating, editing, and getting information about GIF images and animations
+* **tags**: [gif](../tagged/gif.md), [tools](../tagged/tools.md), [command-line-tools](../tagged/command-line-tools.md)
+* :octocat: **[source code](http://github.com/kohler/gifsicle)**
+---
 #### [Amazon S3 Tools: Command Line S3 Client and S3 Backup for Windows, Linux: s3cmd, s3express](https://s3tools.org/s3cmd)
 _<sup>https://s3tools.org/s3cmd</sup>_
 

@@ -2,6 +2,28 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/api](https://www.bookmarks.dev/tagged/api)</sup></sup>_
 ---
+#### [Multiple Media Types in Java Microservices with RESTEasy](https://stackify.com/multiple-media-types-java-microservices-resteasy/)
+_<sup>https://stackify.com/multiple-media-types-java-microservices-resteasy/</sup>_
+
+Learn how RESTEasy can help you support XML and JSON in a Java web service. Know the differences between REST, media types, web services and microservices.
+* :calendar: **published on**: 2017-10-20
+* **tags**: [java](../tagged/java.md), [rest](../tagged/rest.md), [api](../tagged/api.md), [resteasy](../tagged/resteasy.md)
+---
+#### [JSONPlaceholder - Fake online REST API for testing and prototyping](https://jsonplaceholder.typicode.com/)
+_<sup>https://jsonplaceholder.typicode.com/</sup>_
+
+Free to use fake Online REST API for testing and prototyping
+Powered by [JSON Server](https://github.com/typicode/json-server) + [LowDB](https://github.com/typicode/lowdb)
+* **tags**: [json](../tagged/json.md), [mocking](../tagged/mocking.md), [fake-data](../tagged/fake-data.md), [api](../tagged/api.md), [rest](../tagged/rest.md)
+* :octocat: **[source code](https://github.com/typicode/jsonplaceholder)**
+---
+#### [Breaking up the monolith: A layered GraphQL architecture - Johannes Schickling @ GraphQL Europe 2018 - 17min](https://www.youtube.com/watch?v=_MmyTahR9ok)
+_<sup>https://www.youtube.com/watch?v=_MmyTahR9ok</sup>_
+
+Learn how GraphQL helps you build, clean & layered-architectures with a clear separation of concerns.
+* :calendar: **published on**: 2018-07-02
+* **tags**: [graphql](../tagged/graphql.md), [api](../tagged/api.md), [javascript](../tagged/javascript.md), [architecture](../tagged/architecture.md)
+---
 #### [Rest API Testing With JMeter (Step by Step Guide) - Jmeter - OctoPerf](https://octoperf.com/blog/2018/04/23/jmeter-rest-api-testing/)
 _<sup>https://octoperf.com/blog/2018/04/23/jmeter-rest-api-testing/</sup>_
 

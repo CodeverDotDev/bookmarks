@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/productivity](https://www.bookmarks.dev/tagged/productivity)</sup></sup>_
 ---
+#### [Effective_Engineer.md](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f)
+_<sup>https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f</sup>_
+
+Opinion about what makes an Effective Engineer. List of books about personal improvement.
+* **tags**: [productivity](../tagged/productivity.md)
+---
 #### [Dev Bookmarks](https://www.bookmarks.dev/)
 _<sup>https://www.bookmarks.dev/</sup>_
 

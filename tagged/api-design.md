@@ -2,6 +2,20 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/api-design](https://www.bookmarks.dev/tagged/api-design)</sup></sup>_
 ---
+#### [GraphQL Schema Design: Building Evolvable Schemas - Apollo Blog](https://www.apollographql.com/blog/graphql-schema-design-building-evolvable-schemas-1501f3c59ed5/)
+_<sup>https://www.apollographql.com/blog/graphql-schema-design-building-evolvable-schemas-1501f3c59ed5/</sup>_
+
+While GraphQL allows us to continuously evolve our schemas, using deprecations for example, we should not take the decision of deprecating schema members lightly. In the end, a deprecation still requi...
+* :calendar: **published on**: 2018-06-01
+* **tags**: [graphql](../tagged/graphql.md), [migration](../tagged/migration.md), [api-design](../tagged/api-design.md), [deprecated](../tagged/deprecated.md)
+---
+#### [REST APIs must be hypertext-driven » Untangled by Roy. T](https://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven)
+_<sup>https://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven</sup>_
+
+I am getting frustrated by the number of people calling any HTTP-based interface a REST API. Today’s example is the SocialSite REST API. That is RPC. It screams RPC. There is so much coupling on displ...
+* :calendar: **published on**: 2008-10-20
+* **tags**: [rest](../tagged/rest.md), [api-design](../tagged/api-design.md)
+---
 #### [OpenAPI 3.0, And What it Means for the Future of Swagger - 1h:1min](https://www.youtube.com/watch?v=wBDSR0x3GZo)
 _<sup>https://www.youtube.com/watch?v=wBDSR0x3GZo</sup>_
 

@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/optimization](https://www.bookmarks.dev/tagged/optimization)</sup></sup>_
 ---
+#### [Optimize animated GIF](https://ezgif.com/optimize)
+_<sup>https://ezgif.com/optimize</sup>_
+
+GIF compressor optimizes GIFs using gifsicle and Lossy GIF encoder, which implements lossy LZW compression.
+It can reduce animated GIF file size by 30%—50% at a cost of some dithering/noise. You can a...
+* **tags**: [gif](../tagged/gif.md), [tools](../tagged/tools.md), [optimization](../tagged/optimization.md)
+---
 #### [Apply instant loading with the PRPL pattern](https://web.dev/apply-instant-loading-with-prpl/)
 _<sup>https://web.dev/apply-instant-loading-with-prpl/</sup>_
 

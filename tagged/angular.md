@@ -2,6 +2,41 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/angular](https://www.bookmarks.dev/tagged/angular)</sup></sup>_
 ---
+#### [Testing Angular with jest ](https://ordina-jworks.github.io/testing/2018/08/03/testing-angular-with-jest.html)
+_<sup>https://ordina-jworks.github.io/testing/2018/08/03/testing-angular-with-jest.html</sup>_
+
+Examples about how replace some Jasmine specific code by Jest specific code.
+
+* **tags**: [angular](../tagged/angular.md), [testing](../tagged/testing.md), [jest](../tagged/jest.md), [karma](../tagged/karma.md), [jasmine](../tagged/jasmine.md)
+---
+#### [Unit Testing in Angular: Stubs vs Spies vs Mocks](https://www.amadousall.com/unit-testing-angular-stubs-vs-spies-vs-mocks/)
+_<sup>https://www.amadousall.com/unit-testing-angular-stubs-vs-spies-vs-mocks/</sup>_
+
+In this article, I will show you the differences between the various kinds of test doubles, and how to use them when unit testing Angular applications using Jasmine.
+* :calendar: **published on**: 2018-02-28
+* **tags**: [testing](../tagged/testing.md), [jasmine](../tagged/jasmine.md), [sinonjs](../tagged/sinonjs.md), [test-double](../tagged/test-double.md), [angular](../tagged/angular.md)
+---
+#### [GraphQL Client for Angular](https://apollo-angular.com/)
+_<sup>https://apollo-angular.com/</sup>_
+
+GraphQL Client for Angular Framework
+* **tags**: [graphql](../tagged/graphql.md), [graphql-client](../tagged/graphql-client.md), [angular](../tagged/angular.md), [apollo](../tagged/apollo.md)
+* :octocat: **[source code](https://github.com/kamilkisiela/apollo-angular)**
+---
+#### [Persist data using Local Storage and Angular](https://firstclassjs.com/persist-data-using-local-storage-and-angular/)
+_<sup>https://firstclassjs.com/persist-data-using-local-storage-and-angular/</sup>_
+
+Local storage and Session storage are part of the so called Web storage. Both of them give us the possibility to store key-value data on client side. The data stored in local storage is deleted only w...
+* :calendar: **published on**: 2020-04-12
+* **tags**: [angular](../tagged/angular.md)
+---
+#### [Code syntax highlighting with Angular and Prism.js](https://auralinna.blog/post/2017/code-syntax-highlighting-with-angular-and-prismjs/)
+_<sup>https://auralinna.blog/post/2017/code-syntax-highlighting-with-angular-and-prismjs/</sup>_
+
+I implemented Prism.js based code syntax highlight feature for my blog. This blog post shows how to use Prism syntax highlighter with Angular.
+* :calendar: **published on**: 2017-12-28
+* **tags**: [angular](../tagged/angular.md), [prism.js](../tagged/prism.js.md), [code-highlighting](../tagged/code-highlighting.md)
+---
 #### [💥 Testing Asynchronous Code with fakeAsync -  Full Example - 6min](https://www.youtube.com/watch?v=vRqRuPoFmsA)
 _<sup>https://www.youtube.com/watch?v=vRqRuPoFmsA</sup>_
 
@@ -851,7 +886,7 @@ Angular makes it very easy to create custom form controls. Read on to learn how 
 #### [Two-way Data Binding in Angular by thoughtram](https://blog.thoughtram.io/angular/2016/10/13/two-way-data-binding-in-angular-2.html)
 _<sup>https://blog.thoughtram.io/angular/2016/10/13/two-way-data-binding-in-angular-2.html</sup>_
 
-Two-way data binding was one of the main selling points of AngularJS. Since Angular, we can build directives that implement two-way data binding. This article explains how!
+Two-way data binding was one of the main selling points of AngularJS. Since Angular, we can build directives that implement two-way data binding. This article explains very clear the “Banana in a box”...
 * :calendar: **published on**: 2016-12-18
 * **tags**: [angular](../tagged/angular.md)
 ---

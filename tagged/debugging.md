@@ -2,6 +2,14 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/debugging](https://www.bookmarks.dev/tagged/debugging)</sup></sup>_
 ---
+#### [Debugging | Firefox Extension Workshop](https://extensionworkshop.com/documentation/develop/debugging/)
+_<sup>https://extensionworkshop.com/documentation/develop/debugging/</sup>_
+
+This article explains how to use the Firefox developer tools to debug extensions.
+
+An extension can consist of several components—background scripts, popups, options pages, content scripts, sidebars, ...
+* **tags**: [firefox-webextensions](../tagged/firefox-webextensions.md), [firefox-addon](../tagged/firefox-addon.md), [debugging](../tagged/debugging.md)
+---
 #### [Troubleshooting · Jest](https://jestjs.io/docs/en/troubleshooting)
 _<sup>https://jestjs.io/docs/en/troubleshooting</sup>_
 

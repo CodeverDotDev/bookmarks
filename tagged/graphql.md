@@ -2,6 +2,241 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/graphql](https://www.bookmarks.dev/tagged/graphql)</sup></sup>_
 ---
+#### [Lessons from 4 Years of GraphQL - 39min](https://www.youtube.com/watch?v=zVNrqo9XGOs)
+_<sup>https://www.youtube.com/watch?v=zVNrqo9XGOs</sup>_
+
+GraphQL has been in use at Facebook for over four years and evolved a lot before it was open sourced. During that time we learned a lot about what works and why, and derived a series of best practices...
+* :calendar: **published on**: 2016-11-03
+* **tags**: [graphql](../tagged/graphql.md), [open-source](../tagged/open-source.md)
+---
+#### [Complete example of a CRUD API with Express GraphQL – CodepediaOrg](https://www.codepedia.org/ama/complete-example-crud-api-express-graphql)
+_<sup>https://www.codepedia.org/ama/complete-example-crud-api-express-graphql</sup>_
+
+CRUD API example implemented with GraphQL-js and expresss-graphql acting as integration point to the existing REST API supporting Bookmarks.dev
+* :calendar: **published on**: 2020-11-10
+* **tags**: [graphql](../tagged/graphql.md), [expressjs](../tagged/expressjs.md)
+* :octocat: **[source code](https://github.com/CodepediaOrg/graphql-express-crud-demo)**
+---
+#### [GraphQL Schema Design: Building Evolvable Schemas - Apollo Blog](https://www.apollographql.com/blog/graphql-schema-design-building-evolvable-schemas-1501f3c59ed5/)
+_<sup>https://www.apollographql.com/blog/graphql-schema-design-building-evolvable-schemas-1501f3c59ed5/</sup>_
+
+While GraphQL allows us to continuously evolve our schemas, using deprecations for example, we should not take the decision of deprecating schema members lightly. In the end, a deprecation still requi...
+* :calendar: **published on**: 2018-06-01
+* **tags**: [graphql](../tagged/graphql.md), [migration](../tagged/migration.md), [api-design](../tagged/api-design.md), [deprecated](../tagged/deprecated.md)
+---
+#### [GraphQL & Caching: The Elephant in the Room - Apollo Blog](https://www.apollographql.com/blog/graphql-caching-the-elephant-in-the-room-11a3df0c23ad/)
+_<sup>https://www.apollographql.com/blog/graphql-caching-the-elephant-in-the-room-11a3df0c23ad/</sup>_
+
+If you’ve followed the discussions around whether GraphQL is a good idea or not, you might have heard things like “GraphQL breaks caching”, or “GraphQL is not cacheable”. If not, I guarantee you’ll be...
+* :calendar: **published on**: 2019-06-25
+* **tags**: [graphql](../tagged/graphql.md), [caching](../tagged/caching.md)
+---
+#### [Keycloak Authentication and Authorization in GraphQL](https://medium.com/@darahayes/keycloak-authentication-and-authorization-in-graphql-ad0a1685f7da)
+_<sup>https://medium.com/@darahayes/keycloak-authentication-and-authorization-in-graphql-ad0a1685f7da</sup>_
+
+Learn how to add Keycloak auth to Node.js GraphQL server applications. Including Authentication and Role Based Access Control using the `@auth` and `@hasRole` in the GraphQL Schema.
+
+It's basically an...
+* **tags**: [graphql](../tagged/graphql.md), [authentication](../tagged/authentication.md), [authorization](../tagged/authorization.md), [keycloak](../tagged/keycloak.md)
+* :octocat: **[source code](https://github.com/aerogear/keycloak-connect-graphql)**
+---
+#### [Eric Baer - The Evolution of API Design: From RPC to GraphQL | VueConf 2017 - 39min](https://www.youtube.com/watch?v=PmWho45WmQY)
+_<sup>https://www.youtube.com/watch?v=PmWho45WmQY</sup>_
+
+In his talk, Eric explored some of the new client-server interaction models that address today’s pressures and used history to understand the tradeoffs made at the transition between the previous desi...
+* :calendar: **published on**: 2017-08-14
+* **tags**: [graphql](../tagged/graphql.md), [graphql-express](../tagged/graphql-express.md)
+* :octocat: **[source code](https://github.com/baer/graphql-demo-evolution-of-api-design)**
+---
+#### [GraphQL Under the Hood - 26min](https://www.youtube.com/watch?v=fo6X91t3O2I)
+_<sup>https://www.youtube.com/watch?v=fo6X91t3O2I</sup>_
+
+Eric Baer, Lead Software Engineer at Formidable, gave this talk at GraphQL Summit 2017. 
+
+In this talk, I take a deep dive into GraphQL’s specification and talk a bit about what actually happens when ...
+* :calendar: **published on**: 2017-11-15
+* **tags**: [graphql](../tagged/graphql.md), [lexer](../tagged/lexer.md), [abstract-syntax-tree](../tagged/abstract-syntax-tree.md)
+---
+#### [GraphQL Server Basics: The Network Layer | Prisma](https://www.prisma.io/blog/graphql-server-basics-the-network-layer-51d97d21861)
+_<sup>https://www.prisma.io/blog/graphql-server-basics-the-network-layer-51d97d21861</sup>_
+
+Focus on the network layer. In particular, how a GraphQL server responds to HTTP requests by processing the queries (or mutations) with the execution engine.
+
+In the Node ecosystem, Express is by far ...
+* :calendar: **published on**: 2017-11-28
+* **tags**: [graphql](../tagged/graphql.md), [graphql-express](../tagged/graphql-express.md), [apollo-server](../tagged/apollo-server.md)
+---
+#### [GraphQL Server Basics: GraphQL Schemas, TypeDefs & Resolvers Explained | Prisma](https://www.prisma.io/blog/graphql-server-basics-the-schema-ac5e2950214e)
+_<sup>https://www.prisma.io/blog/graphql-server-basics-the-schema-ac5e2950214e</sup>_
+
+In this article, we unveiled the mechanics and inner workings of a GraphQL execution engine. Starting with the GraphQL schema which defines the API of the server and determines what queries and mutati...
+* **tags**: [graphql](../tagged/graphql.md), [javascript](../tagged/javascript.md), [graphql-js](../tagged/graphql-js.md)
+---
+#### [Graphene-Python home page](https://graphene-python.org/)
+_<sup>https://graphene-python.org/</sup>_
+
+Graphene framework for Python
+* **tags**: [graphql](../tagged/graphql.md), [python](../tagged/python.md), [frameworks](../tagged/frameworks.md)
+* :octocat: **[source code](https://github.com/graphql-python/graphene)**
+---
+#### [DataLoader – Source code walkthrough - 34min](https://www.youtube.com/watch?v=OQTnXNCDywA)
+_<sup>https://www.youtube.com/watch?v=OQTnXNCDywA</sup>_
+
+DataLoader is a utility for batching and caching loaded data in your web service. Learn how it works with a walkthrough of its source code.
+* :calendar: **published on**: 2016-02-27
+* **tags**: [graphql](../tagged/graphql.md), [javascript](../tagged/javascript.md), [node.js](../tagged/node.js.md), [react](../tagged/react.md), [dataloader](../tagged/dataloader.md)
+* :octocat: **[source code](https://github.com/graphql/dataloader)**
+---
+#### [graphql/dataloader home page](https://github.com/graphql/dataloader)
+_<sup>https://github.com/graphql/dataloader</sup>_
+
+DataLoader is a generic utility to be used as part of your application's data fetching layer to provide a consistent API over various backends and reduce requests to those backends via batching and ca...
+* **tags**: [graphql](../tagged/graphql.md), [tools](../tagged/tools.md), [caching](../tagged/caching.md), [batch](../tagged/batch.md), [dataloader](../tagged/dataloader.md)
+* :octocat: **[source code](https://github.com/graphql/dataloader)**
+---
+#### [GitHub - graphql/graphql-playground](https://github.com/graphql/graphql-playground)
+_<sup>https://github.com/graphql/graphql-playground</sup>_
+
+🎮  GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration) - graphql/graphql-playground
+* **tags**: [graphql](../tagged/graphql.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/graphql/graphql-playground)**
+---
+#### [How to GraphQL - The Fullstack Tutorial for GraphQL](https://www.howtographql.com/)
+_<sup>https://www.howtographql.com/</sup>_
+
+Fullstack GraphQL Tutorial to go from zero to production covering all basics and advanced concepts. Includes tutorials for Apollo, Relay, React and NodeJS.
+* **tags**: [graphql](../tagged/graphql.md), [tutorials](../tagged/tutorials.md), [open-source](../tagged/open-source.md)
+* :octocat: **[source code](https://github.com/howtographql/howtographql)**
+---
+#### [Introduction to GraphQL](https://graphql.org/learn/)
+_<sup>https://graphql.org/learn/</sup>_
+
+Learn about GraphQL, how it works, and how to use it in this series of articles - from **Introduction** to **Best Practices**
+* **tags**: [graphql](../tagged/graphql.md)
+---
+#### [GraphQL Resources to help you get started – CodepediaOrg](https://www.codepedia.org/ama/graphql-resources-to-help-you-get-started)
+_<sup>https://www.codepedia.org/ama/graphql-resources-to-help-you-get-started</sup>_
+
+List of GraphQL resources I found most useful to begin. Thus, you can get a good grasp of GraphQL in about two or three days.
+* **tags**: [graphql](../tagged/graphql.md), [resources](../tagged/resources.md), [bookmarks](../tagged/bookmarks.md)
+---
+#### [Handling GraphQL errors like a champ with unions and interfaces - LogRocket Blog](https://blog.logrocket.com/handling-graphql-errors-like-a-champ-with-unions-and-interfaces/)
+_<sup>https://blog.logrocket.com/handling-graphql-errors-like-a-champ-with-unions-and-interfaces/</sup>_
+
+An interesting approach to handling erros in GraphQL with the possibilities that the spec provides and still have type safety.
+* :calendar: **published on**: 2019-11-19
+* **tags**: [graphql](../tagged/graphql.md), [error-handling](../tagged/error-handling.md), [apollo](../tagged/apollo.md)
+---
+#### [GraphQL Code Generator Home Page](https://graphql-code-generator.com/)
+_<sup>https://graphql-code-generator.com/</sup>_
+
+Generate code from your GraphQL schema and operations with a simple CLI
+* **tags**: [graphql](../tagged/graphql.md), [code-generation](../tagged/code-generation.md), [cli](../tagged/cli.md), [command-line-interface](../tagged/command-line-interface.md), [command-line-tools](../tagged/command-line-tools.md), [typescript](../tagged/typescript.md)
+* :octocat: **[source code](https://github.com/dotansimha/graphql-code-generator)**
+---
+#### [From REST to GraphQL](https://jacobwgillespie.com/2015-10-09-from-rest-to-graphql/#.5sdd8ltnx)
+_<sup>https://jacobwgillespie.com/2015-10-09-from-rest-to-graphql/#.5sdd8ltnx</sup>_
+
+This excellent post by Jacob Gillespie covers some of the interesting things he learned when converting a REST API to GraphQL.
+
+The first part talks about the many reasons why REST didn’t cut it any m...
+* :calendar: **published on**: 2015-10-09
+* **tags**: [rest](../tagged/rest.md), [graphql](../tagged/graphql.md)
+---
+#### [Explaining GraphQL Connections - Apollo Blog](https://www.apollographql.com/blog/explaining-graphql-connections-c48b7c3d6976/)
+_<sup>https://www.apollographql.com/blog/explaining-graphql-connections-c48b7c3d6976/</sup>_
+
+Connections can be hard to understand because they use opaque vocabulary like “cursor,” “connection,” and “edge.” So in this post I will explain the terminology and try to answer three important quest...
+* **tags**: [graphql](../tagged/graphql.md), [terminology](../tagged/terminology.md)
+---
+#### [Understanding pagination: REST, GraphQL, and Relay - Apollo Blog](https://www.apollographql.com/blog/understanding-pagination-rest-graphql-and-relay-b10f835549e7/)
+_<sup>https://www.apollographql.com/blog/understanding-pagination-rest-graphql-and-relay-b10f835549e7/</sup>_
+
+In this post, I’ll cover some different approaches to pagination in REST and GraphQL:
+
+1. Pagination: what is it for?
+2. What are different types of pagination, and when are they useful?
+3. What is it...
+* :calendar: **published on**: 2016-03-09
+* **tags**: [pagination](../tagged/pagination.md), [rest](../tagged/rest.md), [graphql](../tagged/graphql.md), [relay](../tagged/relay.md)
+---
+#### [FakeQL home page](https://fakeql.com/)
+_<sup>https://fakeql.com/</sup>_
+
+Create fake data and API endpoints with Blowson.
+* **tags**: [graphql](../tagged/graphql.md), [mocking](../tagged/mocking.md)
+---
+#### [General overview of GraphQL in graphql-spec/README.md](https://github.com/graphql/graphql-spec/blob/master/README.md)
+_<sup>https://github.com/graphql/graphql-spec/blob/master/README.md</sup>_
+
+Helps you get started with GraphQL concepts
+* **tags**: [graphql](../tagged/graphql.md), [specification](../tagged/specification.md), [readme](../tagged/readme.md)
+* :octocat: **[source code](https://github.com/graphql/graphql-spec)**
+---
+#### [Getting Started With GraphQL.js](https://graphql.org/graphql-js/)
+_<sup>https://graphql.org/graphql-js/</sup>_
+
+The JavaScript reference implementation for GraphQL
+* **tags**: [graphql](../tagged/graphql.md), [javascript](../tagged/javascript.md), [node.js](../tagged/node.js.md), [graphql-js](../tagged/graphql-js.md)
+* :octocat: **[source code](https://github.com/graphql/graphql-js)**
+---
+#### [Introduction to Apollo Client](https://apollographql.com/client)
+_<sup>https://apollographql.com/client</sup>_
+
+Apollo Client is a comprehensive state management library for JavaScript that enables you to manage both local and remote data with GraphQL. Use it to fetch, cache, and modify application data, all wh...
+* **tags**: [graphql](../tagged/graphql.md), [apollo](../tagged/apollo.md), [graphql-client](../tagged/graphql-client.md)
+* :octocat: **[source code](https://github.com/apollographql/apollo-client)**
+---
+#### [GraphQL Client for Angular](https://apollo-angular.com/)
+_<sup>https://apollo-angular.com/</sup>_
+
+GraphQL Client for Angular Framework
+* **tags**: [graphql](../tagged/graphql.md), [graphql-client](../tagged/graphql-client.md), [angular](../tagged/angular.md), [apollo](../tagged/apollo.md)
+* :octocat: **[source code](https://github.com/kamilkisiela/apollo-angular)**
+---
+#### [GraphQL Java	Home Page](https://www.graphql-java.com/)
+_<sup>https://www.graphql-java.com/</sup>_
+
+This is the home page of the [GraphQL Java implementation](https://github.com/graphql-java/graphql-java)
+* **tags**: [graphql](../tagged/graphql.md), [java](../tagged/java.md)
+* :octocat: **[source code](https://github.com/graphql-java/graphql-java)**
+---
+#### [GraphQL Specification Versions](https://spec.graphql.org/)
+_<sup>https://spec.graphql.org/</sup>_
+
+* **tags**: [graphql](../tagged/graphql.md), [specification](../tagged/specification.md), [release](../tagged/release.md)
+---
+#### [HowToGraphQL (Fundamentals) - Introduction (1/4) - 5min](https://www.youtube.com/watch?v=oCT4HOJsUZQ)
+_<sup>https://www.youtube.com/watch?v=oCT4HOJsUZQ</sup>_
+
+Learn what GraphQL is, how it compares to REST and about the historic context in which it was created.
+
+Following parts:
+- [HowToGraphQL (Fundamentals) - GraphQL is the better REST (2/4)](https://www....
+* :calendar: **published on**: 2017-07-17
+* **tags**: [graphql](../tagged/graphql.md)
+---
+#### [Breaking up the monolith: A layered GraphQL architecture - Johannes Schickling @ GraphQL Europe 2018 - 17min](https://www.youtube.com/watch?v=_MmyTahR9ok)
+_<sup>https://www.youtube.com/watch?v=_MmyTahR9ok</sup>_
+
+Learn how GraphQL helps you build, clean & layered-architectures with a clear separation of concerns.
+* :calendar: **published on**: 2018-07-02
+* **tags**: [graphql](../tagged/graphql.md), [api](../tagged/api.md), [javascript](../tagged/javascript.md), [architecture](../tagged/architecture.md)
+---
+#### [Getting started with GraphQL Java and Spring Boot](https://www.graphql-java.com/tutorials/getting-started-with-spring-boot/)
+_<sup>https://www.graphql-java.com/tutorials/getting-started-with-spring-boot/</sup>_
+
+This is a tutorial for people who want to create a GraphQL server in Java. It requires some Spring Boot and Java knowledge and while we give a brief introduction into GraphQL, the focus of this tutori...
+* **tags**: [graphql](../tagged/graphql.md), [spring-boot](../tagged/spring-boot.md), [tutorials](../tagged/tutorials.md)
+* :octocat: **[source code](https://github.com/graphql-java/tutorials/tree/master/book-details)**
+---
+#### [Kong/insomnia](https://github.com/Kong/insomnia)
+_<sup>https://github.com/Kong/insomnia</sup>_
+
+Insomnia is a cross-platform REST client, built on top of Electron.
+* **tags**: [rest-client](../tagged/rest-client.md), [graphql](../tagged/graphql.md), [rest](../tagged/rest.md)
+* :octocat: **[source code](https://github.com/Kong/insomnia)**
+---
 #### [GraphQL Country | GraphQL API for data about countries.](https://graphql.country)
 _<sup>https://graphql.country</sup>_
 
@@ -1739,11 +1974,12 @@ _<sup>https://www.apollographql.com/react/</sup>_
 Documentation and example for building GraphQL apps using apollo client
 * **tags**: [graphql](../tagged/graphql.md), [javascript](../tagged/javascript.md)
 ---
-#### [Apollo Server tools documentation](https://www.apollographql.com/docs/apollo-server/)
+#### [Introduction to Apollo Server](https://www.apollographql.com/docs/apollo-server/)
 _<sup>https://www.apollographql.com/docs/apollo-server/</sup>_
 
-Documentation, tutorial and examples for building GraphQL server and connecting to SQL, MongoDB and REST endpoints.
-* **tags**: [graphql](../tagged/graphql.md), [javascript](../tagged/javascript.md)
+Apollo Server is an open-source, spec-compliant GraphQL server that's compatible with any GraphQL client, including Apollo Client. It's the best way to build a production-ready, self-documenting Graph...
+* **tags**: [graphql](../tagged/graphql.md), [javascript](../tagged/javascript.md), [docs](../tagged/docs.md), [apollo-server](../tagged/apollo-server.md), [typescript](../tagged/typescript.md)
+* :octocat: **[source code](https://github.com/apollographql/apollo-server)**
 ---
 #### [f8-apollo](https://github.com/nnance/f8app-apollo)
 _<sup>https://github.com/nnance/f8app-apollo</sup>_
@@ -2282,13 +2518,6 @@ _<sup>https://learngraphql.com</sup>_
 Lessons/walkthrough of GraphQL concepts.
 * **tags**: [graphql](../tagged/graphql.md), [workshoppers](../tagged/workshoppers.md)
 ---
-#### [Lessons from 4 Years of GraphQL - YouTube](https://www.youtube.com/watch?v=zVNrqo9XGOs)
-_<sup>https://www.youtube.com/watch?v=zVNrqo9XGOs</sup>_
-
-Lee Byron, GraphQL/Facebook. GraphQL has been in use at Facebook for over four years and evolved a lot before it was open sourced. During that time we learned a lot about what works and why, and deriv...
-* :calendar: **published on**: 2016-11-03
-* **tags**: [graphql](../tagged/graphql.md)
----
 #### [awesome-graphql](https://github.com/chentsulin/awesome-graphql#readme)
 _<sup>https://github.com/chentsulin/awesome-graphql#readme</sup>_
 
@@ -2319,7 +2548,7 @@ Real world, specific use cases for REST, GraphQL, gRPC, and Webhooks to help API
 _<sup>https://www.baeldung.com/spring-graphql</sup>_
 
 Discover GraphQL - a query language for APIs.
-* :calendar: **published on**: 2001-11-18
+* :calendar: **published on**: 2019-11-18
 * **tags**: [graphql](../tagged/graphql.md), [spring-boot](../tagged/spring-boot.md)
 * :octocat: **[source code](https://github.com/eugenp/tutorials/tree/master/spring-boot)**
 ---

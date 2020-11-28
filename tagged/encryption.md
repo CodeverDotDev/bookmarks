@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/encryption](https://www.bookmarks.dev/tagged/encryption)</sup></sup>_
 ---
+#### [Hat.sh | A Free, Fast, Secure client side File Encryption.](https://hat.sh/)
+_<sup>https://hat.sh/</sup>_
+
+[hat.sh](https://hat.sh) is a  javascript app that provides secure file encryption using the [AES-256-GCM](https://www.w3.org/TR/WebCryptoAPI/aes-gcm) algorithm from [WebCryptoAPI](https://www.w3.org...
+* **tags**: [tools](../tagged/tools.md), [file](../tagged/file.md), [encryption](../tagged/encryption.md), [online-tools](../tagged/online-tools.md)
+* :octocat: **[source code](https://github.com/sh-dv/hat.sh)**
+---
 #### [The Hard Parts of JWT Security Nobody Talks About](https://www.pingidentity.com/en/company/blog/posts/2019/jwt-security-nobody-talks-about.html)
 _<sup>https://www.pingidentity.com/en/company/blog/posts/2019/jwt-security-nobody-talks-about.html</sup>_
 

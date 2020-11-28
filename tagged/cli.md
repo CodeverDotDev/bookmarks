@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/cli](https://www.bookmarks.dev/tagged/cli)</sup></sup>_
 ---
+#### [GraphQL Code Generator Home Page](https://graphql-code-generator.com/)
+_<sup>https://graphql-code-generator.com/</sup>_
+
+Generate code from your GraphQL schema and operations with a simple CLI
+* **tags**: [graphql](../tagged/graphql.md), [code-generation](../tagged/code-generation.md), [cli](../tagged/cli.md), [command-line-interface](../tagged/command-line-interface.md), [command-line-tools](../tagged/command-line-tools.md), [typescript](../tagged/typescript.md)
+* :octocat: **[source code](https://github.com/dotansimha/graphql-code-generator)**
+---
 #### [How to modify the size of a column in a Mysql database from command line – CodepediaOrg](https://www.codepedia.org/ama/how-to-modify-a-column-size-in-a-mysql-database-from-command-line)
 _<sup>https://www.codepedia.org/ama/how-to-modify-a-column-size-in-a-mysql-database-from-command-line</sup>_
 

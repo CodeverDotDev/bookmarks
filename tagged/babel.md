@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/babel](https://www.bookmarks.dev/tagged/babel)</sup></sup>_
 ---
+#### [Babel Videos](https://babeljs.io/videos.html)
+_<sup>https://babeljs.io/videos.html</sup>_
+
+Videos and podcasts about Babel and its underlying concepts.
+* **tags**: [babel](../tagged/babel.md), [babeljs](../tagged/babeljs.md), [videos](../tagged/videos.md)
+---
 #### [Why is Babel a monorepo?](https://github.com/babel/babel/blob/master/doc/design/monorepo.md)
 _<sup>https://github.com/babel/babel/blob/master/doc/design/monorepo.md</sup>_
 

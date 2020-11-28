@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/code-highlighting](https://www.bookmarks.dev/tagged/code-highlighting)</sup></sup>_
 ---
+#### [Code syntax highlighting with Angular and Prism.js](https://auralinna.blog/post/2017/code-syntax-highlighting-with-angular-and-prismjs/)
+_<sup>https://auralinna.blog/post/2017/code-syntax-highlighting-with-angular-and-prismjs/</sup>_
+
+I implemented Prism.js based code syntax highlight feature for my blog. This blog post shows how to use Prism syntax highlighter with Angular.
+* :calendar: **published on**: 2017-12-28
+* **tags**: [angular](../tagged/angular.md), [prism.js](../tagged/prism.js.md), [code-highlighting](../tagged/code-highlighting.md)
+---
 #### [Angular HighlightJS Module](https://ngx-highlight.netlify.com/)
 _<sup>https://ngx-highlight.netlify.com/</sup>_
 
@@ -75,7 +82,7 @@ Javascript syntax highlighter.
 _<sup>https://github.com/PrismJS/prism</sup>_
 
 Lightweight, robust, elegant syntax highlighting.
-* **tags**: [javascript](../tagged/javascript.md), [code-highlighting](../tagged/code-highlighting.md)
+* **tags**: [javascript](../tagged/javascript.md), [code-highlighting](../tagged/code-highlighting.md), [prism.js](../tagged/prism.js.md)
 * :octocat: **[source code](https://github.com/PrismJS/prism)**
 ---
 #### [Welcome! — Pygments](http://pygments.org/)

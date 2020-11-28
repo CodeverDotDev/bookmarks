@@ -2,6 +2,18 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/php](https://www.bookmarks.dev/tagged/php)</sup></sup>_
 ---
+#### [Quick and Simple Image Placeholders - Dynamic Dummy Image Generator](https://plchldr.co/)
+_<sup>https://plchldr.co/</sup>_
+
+Generate awesome placeholders for your web sites and projects. Placeholder images for your project in progress. A picture's worth a thousand words, so here's 21K worth of placeholder image generators ...
+* **tags**: [image](../tagged/image.md), [web-application](../tagged/web-application.md), [web](../tagged/web.md), [design-tools](../tagged/design-tools.md), [html](../tagged/html.md), [php](../tagged/php.md)
+---
+#### [Discover Apps! Application Reviews, Ratings and Rankings](https://appsrankings.com/)
+_<sup>https://appsrankings.com/</sup>_
+
+App Rankings of the latest ios apps. Reviews from various critics and app publications on new releases in a variety of genres. The latest app reviews from Apps Rankings. Star ratings, buying advice an...
+* **tags**: [ios](../tagged/ios.md), [php](../tagged/php.md), [application-management](../tagged/application-management.md)
+---
 #### [What is the best way to upload and store pictures on the site?](https://stackoverflow.com/questions/8922056/what-is-the-best-way-to-upload-and-store-pictures-on-the-site/8922090#8922090)
 _<sup>https://stackoverflow.com/questions/8922056/what-is-the-best-way-to-upload-and-store-pictures-on-the...</sup>_
 

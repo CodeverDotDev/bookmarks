@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/github](https://www.bookmarks.dev/tagged/github)</sup></sup>_
 ---
+#### [github:buttons](https://buttons.github.io/)
+_<sup>https://buttons.github.io/</sup>_
+
+The unofficial GitHub Buttons made for developers - how to configure them
+* **tags**: [github](../tagged/github.md)
+---
 #### [Understanding the GitHub flow · GitHub Guides      ](https://guides.github.com/introduction/flow/)
 _<sup>https://guides.github.com/introduction/flow/</sup>_
 

@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/clean-code](https://www.bookmarks.dev/tagged/clean-code)</sup></sup>_
 ---
+#### [GitHub - ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+_<sup>https://github.com/ryanmcdermott/clean-code-javascript</sup>_
+
+:bathtub: Clean Code concepts adapted for JavaScript
+* **tags**: [javascript](../tagged/javascript.md), [clean-code](../tagged/clean-code.md)
+* :octocat: **[source code](https://github.com/ryanmcdermott/clean-code-javascript)**
+---
 #### [Project Lombok: Clean, Concise Java Code](https://www.oracle.com/corporate/features/project-lombok.html)
 _<sup>https://www.oracle.com/corporate/features/project-lombok.html</sup>_
 

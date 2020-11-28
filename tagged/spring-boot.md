@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/spring-boot](https://www.bookmarks.dev/tagged/spring-boot)</sup></sup>_
 ---
+#### [Getting started with GraphQL Java and Spring Boot](https://www.graphql-java.com/tutorials/getting-started-with-spring-boot/)
+_<sup>https://www.graphql-java.com/tutorials/getting-started-with-spring-boot/</sup>_
+
+This is a tutorial for people who want to create a GraphQL server in Java. It requires some Spring Boot and Java knowledge and while we give a brief introduction into GraphQL, the focus of this tutori...
+* **tags**: [graphql](../tagged/graphql.md), [spring-boot](../tagged/spring-boot.md), [tutorials](../tagged/tutorials.md)
+* :octocat: **[source code](https://github.com/graphql-java/tutorials/tree/master/book-details)**
+---
 #### [Spring Tips: Spring Batch - 39min](https://www.youtube.com/watch?v=x4nBNLoizOc)
 _<sup>https://www.youtube.com/watch?v=x4nBNLoizOc</sup>_
 
@@ -189,7 +196,7 @@ In this post, we learned some basics about OpenID Connect, its history, and a bi
 _<sup>https://www.baeldung.com/spring-graphql</sup>_
 
 Discover GraphQL - a query language for APIs.
-* :calendar: **published on**: 2001-11-18
+* :calendar: **published on**: 2019-11-18
 * **tags**: [graphql](../tagged/graphql.md), [spring-boot](../tagged/spring-boot.md)
 * :octocat: **[source code](https://github.com/eugenp/tutorials/tree/master/spring-boot)**
 ---

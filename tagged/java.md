@@ -2,6 +2,42 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/java](https://www.bookmarks.dev/tagged/java)</sup></sup>_
 ---
+#### [GitHub - akullpp/awesome-java: A curated list of awesome frameworks, libraries and software for the Java programming language.](https://github.com/akullpp/awesome-java)
+_<sup>https://github.com/akullpp/awesome-java</sup>_
+
+A curated list of awesome frameworks, libraries and software for the Java programming language. - akullpp/awesome-java
+* **tags**: [java](../tagged/java.md)
+---
+#### [Multiple Media Types in Java Microservices with RESTEasy](https://stackify.com/multiple-media-types-java-microservices-resteasy/)
+_<sup>https://stackify.com/multiple-media-types-java-microservices-resteasy/</sup>_
+
+Learn how RESTEasy can help you support XML and JSON in a Java web service. Know the differences between REST, media types, web services and microservices.
+* :calendar: **published on**: 2017-10-20
+* **tags**: [java](../tagged/java.md), [rest](../tagged/rest.md), [api](../tagged/api.md), [resteasy](../tagged/resteasy.md)
+---
+#### [Advanced HTTP Mocking with WireMock at DevFest DC - 43min](https://www.youtube.com/watch?v=x3MvZ8DFrpE)
+_<sup>https://www.youtube.com/watch?v=x3MvZ8DFrpE</sup>_
+
+[Slides](https://docs.google.com/presentation/d/1SeOz3892UNID7ixe_GGCZTwoyX2bofYw3NJWsM3IgJQ/edit?usp=sharing)
+
+Create HTTP mocks with WireMock’s REST API from any language for deterministic testing a...
+* :calendar: **published on**: 2017-07-13
+* **tags**: [wiremock](../tagged/wiremock.md), [http](../tagged/http.md), [mocking](../tagged/mocking.md), [tdd](../tagged/tdd.md), [java](../tagged/java.md), [curl](../tagged/curl.md), [rest](../tagged/rest.md), [android](../tagged/android.md)
+---
+#### [GraphQL Java	Home Page](https://www.graphql-java.com/)
+_<sup>https://www.graphql-java.com/</sup>_
+
+This is the home page of the [GraphQL Java implementation](https://github.com/graphql-java/graphql-java)
+* **tags**: [graphql](../tagged/graphql.md), [java](../tagged/java.md)
+* :octocat: **[source code](https://github.com/graphql-java/graphql-java)**
+---
+#### [GitHub - jirutka/validator-collection](https://github.com/jirutka/validator-collection)
+_<sup>https://github.com/jirutka/validator-collection</sup>_
+
+This library allows you to easily create a “pseudo constraint” (typically named as `@EachX`) for _any_ validation constraint to annotate a collection of simple types, without writing an extra validato...
+* **tags**: [java](../tagged/java.md), [bean-validation](../tagged/bean-validation.md)
+* :octocat: **[source code](https://github.com/jirutka/validator-collection)**
+---
 #### [Home - javaalmanac.io](https://javaalmanac.io/)
 _<sup>https://javaalmanac.io/</sup>_
 

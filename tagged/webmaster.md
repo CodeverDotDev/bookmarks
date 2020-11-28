@@ -2,6 +2,24 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/webmaster](https://www.bookmarks.dev/tagged/webmaster)</sup></sup>_
 ---
+#### [HTML Color Picker Tool](https://hexcolor.co/color-picker)
+_<sup>https://hexcolor.co/color-picker</sup>_
+
+Searching for that perfect color has never been easier, use our HTML color picker to browse millions of colors and color harmonies. Colorpicker is a clean, easy to use, yet efficient desktop applicati...
+* **tags**: [colors](../tagged/colors.md), [design-tools](../tagged/design-tools.md), [webmaster](../tagged/webmaster.md), [html](../tagged/html.md)
+---
+#### [Online Typing Test - Improve Your WPM Speed!](https://onlinetypingtests.com/)
+_<sup>https://onlinetypingtests.com/</sup>_
+
+Do you think you are a good typer? An average touch typer can type at around 60 WPM (word per minute). Find out how fast you are. Teach and Learn Typing, Free! Test & Improve your Typing Speed! We Pro...
+* **tags**: [typescript](../tagged/typescript.md), [writing-tools](../tagged/writing-tools.md), [webmaster](../tagged/webmaster.md), [web-application](../tagged/web-application.md), [toolkit](../tagged/toolkit.md)
+---
+#### [Random Colors - Hex Color](https://hexcolor.co/random-colors)
+_<sup>https://hexcolor.co/random-colors</sup>_
+
+Get a random hex color every time you reload this page. The colors are generated with true randomness originating from atmospheric noise. Hexadecimal color codes are used to represent colors numerical...
+* **tags**: [colors](../tagged/colors.md), [design](../tagged/design.md), [webmaster](../tagged/webmaster.md), [developer-tools](../tagged/developer-tools.md)
+---
 #### [
 Official Google Webmaster Central Blog
 ](https://webmasters.googleblog.com/)

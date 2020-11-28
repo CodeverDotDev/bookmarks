@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/markdown](https://www.bookmarks.dev/tagged/markdown)</sup></sup>_
 ---
+#### [yoshuawuyts/vmd: preview markdown files](https://github.com/yoshuawuyts/vmd)
+_<sup>https://github.com/yoshuawuyts/vmd</sup>_
+
+Preview markdown files in a separate window. Markdown is formatted exactly the same as on GitHub.
+* **tags**: [tools](../tagged/tools.md), [markdown](../tagged/markdown.md)
+* :octocat: **[source code](https://github.com/yoshuawuyts/vmd)**
+---
 #### [thlorenz/doctoc: 📜](https://github.com/thlorenz/doctoc)
 _<sup>https://github.com/thlorenz/doctoc</sup>_
 

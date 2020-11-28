@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/blogging](https://www.bookmarks.dev/tagged/blogging)</sup></sup>_
 ---
+#### [Create JSON-LD Structured Data in Jekyll ](https://mincong.io/2018/08/22/create-json-ld-structured-data-in-jekyll/)
+_<sup>https://mincong.io/2018/08/22/create-json-ld-structured-data-in-jekyll/</sup>_
+
+Google uses structured data that it finds on the web to understand the content of the page, as well as to gather information about the web and the world in general. In this post, I will explain how I ...
+* :calendar: **published on**: 2018-08-22
+* **tags**: [json-ld](../tagged/json-ld.md), [structured-data](../tagged/structured-data.md), [jekyll](../tagged/jekyll.md), [blogging](../tagged/blogging.md)
+---
 #### [Size Matters: Balancing Line Length And Font Size In Responsive Web Design — Smashing MagazineSearchClear SearchBack to top](https://www.smashingmagazine.com/2014/09/balancing-line-length-font-size-responsive-web-design/)
 _<sup>https://www.smashingmagazine.com/2014/09/balancing-line-length-font-size-responsive-web-design/</sup>_
 

@@ -8,6 +8,12 @@ _<sup>https://appydev.co/</sup>_
 Appydev is a collection of awesome tools, resources, communities & podcasts for developers, designers & enthusiasts
 * **tags**: [dev](../tagged/dev.md), [tools](../tagged/tools.md)
 ---
+#### [GitHub - sindresorhus/awesome: 😎 Awesome lists about all kinds of interesting topics](https://github.com/sindresorhus/awesome?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily)
+_<sup>https://github.com/sindresorhus/awesome?utm_campaign=explore-email&utm_medium=email&utm_source=newsl...</sup>_
+
+😎 Awesome lists about all kinds of interesting topics - sindresorhus/awesome
+* **tags**: [programming](../tagged/programming.md), [dev](../tagged/dev.md)
+---
 #### [Tools | the New DynamicTwitter_Logo_Blue](https://www.thenewdynamic.org/tool/)
 _<sup>https://www.thenewdynamic.org/tool/</sup>_
 

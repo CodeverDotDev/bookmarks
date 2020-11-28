@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/exception-handling](https://www.bookmarks.dev/tagged/exception-handling)</sup></sup>_
 ---
+#### [Replacing Throwing Exceptions with Notification in Validations](https://martinfowler.com/articles/replaceThrowWithNotification.html)
+_<sup>https://martinfowler.com/articles/replaceThrowWithNotification.html</sup>_
+
+If you're validating some data, you usually shouldn't be using exceptions to signal validation failures. Here I describe how I'd refactor such code into using the Notification pattern.
+* :calendar: **published on**: 2014-12-09
+* **tags**: [exception-handling](../tagged/exception-handling.md), [architecture](../tagged/architecture.md), [refactoring](../tagged/refactoring.md)
+---
 #### [The try-with-resources Statement - Java Tutorials](https://docs.oracle.com/javase/tutorial/essential/exceptions/tryResourceClose.html)
 _<sup>https://docs.oracle.com/javase/tutorial/essential/exceptions/tryResourceClose.html</sup>_
 

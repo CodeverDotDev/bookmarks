@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/rust](https://www.bookmarks.dev/tagged/rust)</sup></sup>_
 ---
+#### [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy)
+_<sup>https://github.com/rust-lang/rust-clippy</sup>_
+
+A collection of lints to catch common mistakes and improve your Rust code.
+* **tags**: [rust](../tagged/rust.md), [linter](../tagged/linter.md)
+* :octocat: **[source code](https://github.com/rust-lang/rust-clippy)**
+---
 #### [Tokio home page](https://tokio.rs/)
 _<sup>https://tokio.rs/</sup>_
 

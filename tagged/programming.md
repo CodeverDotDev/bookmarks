@@ -43,6 +43,12 @@ _<sup>https://hipsters.tech/</sup>_
 Discussões acaloradas sobre startups, programação, ux, gadgets e as últimas tendências em tecnologia.
 * **tags**: [podcasts](../tagged/podcasts.md), [programming](../tagged/programming.md), [ux](../tagged/ux.md), [gadgets](../tagged/gadgets.md), [startup](../tagged/startup.md)
 ---
+#### [GitHub - sindresorhus/awesome: 😎 Awesome lists about all kinds of interesting topics](https://github.com/sindresorhus/awesome?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily)
+_<sup>https://github.com/sindresorhus/awesome?utm_campaign=explore-email&utm_medium=email&utm_source=newsl...</sup>_
+
+😎 Awesome lists about all kinds of interesting topics - sindresorhus/awesome
+* **tags**: [programming](../tagged/programming.md), [dev](../tagged/dev.md)
+---
 #### [Tools | the New DynamicTwitter_Logo_Blue](https://www.thenewdynamic.org/tool/)
 _<sup>https://www.thenewdynamic.org/tool/</sup>_
 

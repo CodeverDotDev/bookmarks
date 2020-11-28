@@ -2,6 +2,11 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/release](https://www.bookmarks.dev/tagged/release)</sup></sup>_
 ---
+#### [GraphQL Specification Versions](https://spec.graphql.org/)
+_<sup>https://spec.graphql.org/</sup>_
+
+* **tags**: [graphql](../tagged/graphql.md), [specification](../tagged/specification.md), [release](../tagged/release.md)
+---
 #### [Maven – Maven Releases History](https://maven.apache.org/docs/history.html)
 _<sup>https://maven.apache.org/docs/history.html</sup>_
 

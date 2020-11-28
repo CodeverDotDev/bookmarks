@@ -2,6 +2,11 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/cheatsheet](https://www.bookmarks.dev/tagged/cheatsheet)</sup></sup>_
 ---
+#### [cheat.sh/:firstpage](https://cheat.sh/)
+_<sup>https://cheat.sh/</sup>_
+
+* **tags**: [cheatsheet](../tagged/cheatsheet.md), [cheatsheets](../tagged/cheatsheets.md)
+---
 #### [arslanbilal/git-cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet#merge--rebase)
 _<sup>https://github.com/arslanbilal/git-cheat-sheet#merge--rebase</sup>_
 

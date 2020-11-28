@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/command-line-interface](https://www.bookmarks.dev/tagged/command-line-interface)</sup></sup>_
 ---
+#### [GraphQL Code Generator Home Page](https://graphql-code-generator.com/)
+_<sup>https://graphql-code-generator.com/</sup>_
+
+Generate code from your GraphQL schema and operations with a simple CLI
+* **tags**: [graphql](../tagged/graphql.md), [code-generation](../tagged/code-generation.md), [cli](../tagged/cli.md), [command-line-interface](../tagged/command-line-interface.md), [command-line-tools](../tagged/command-line-tools.md), [typescript](../tagged/typescript.md)
+* :octocat: **[source code](https://github.com/dotansimha/graphql-code-generator)**
+---
 #### [argparse](https://github.com/akamensky/argparse)
 _<sup>https://github.com/akamensky/argparse</sup>_
 

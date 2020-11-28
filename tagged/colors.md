@@ -2,6 +2,18 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/colors](https://www.bookmarks.dev/tagged/colors)</sup></sup>_
 ---
+#### [HTML Color Picker Tool](https://hexcolor.co/color-picker)
+_<sup>https://hexcolor.co/color-picker</sup>_
+
+Searching for that perfect color has never been easier, use our HTML color picker to browse millions of colors and color harmonies. Colorpicker is a clean, easy to use, yet efficient desktop applicati...
+* **tags**: [colors](../tagged/colors.md), [design-tools](../tagged/design-tools.md), [webmaster](../tagged/webmaster.md), [html](../tagged/html.md)
+---
+#### [Random Colors - Hex Color](https://hexcolor.co/random-colors)
+_<sup>https://hexcolor.co/random-colors</sup>_
+
+Get a random hex color every time you reload this page. The colors are generated with true randomness originating from atmospheric noise. Hexadecimal color codes are used to represent colors numerical...
+* **tags**: [colors](../tagged/colors.md), [design](../tagged/design.md), [webmaster](../tagged/webmaster.md), [developer-tools](../tagged/developer-tools.md)
+---
 #### [randomColor](https://github.com/davidmerfield/randomColor)
 _<sup>https://github.com/davidmerfield/randomColor</sup>_
 

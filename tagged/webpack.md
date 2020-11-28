@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/webpack](https://www.bookmarks.dev/tagged/webpack)</sup></sup>_
 ---
+#### [GitHub - cobidev/simplefolio: ⚡️ A minimal portfolio template for Developers](https://github.com/cobidev/simplefolio)
+_<sup>https://github.com/cobidev/simplefolio</sup>_
+
+⚡️ A minimal portfolio template for Developers. Contribute to cobidev/simplefolio development by creating an account on GitHub.
+* **tags**: [portfolio](../tagged/portfolio.md), [template](../tagged/template.md), [webpack](../tagged/webpack.md), [javascript](../tagged/javascript.md)
+* :octocat: **[source code](https://github.com/cobidev/simplefolio)**
+---
 #### [GitHub - erikras/react-redux-universal-hot-example](https://github.com/erikras/react-redux-universal-hot-example)
 _<sup>https://github.com/erikras/react-redux-universal-hot-example</sup>_
 

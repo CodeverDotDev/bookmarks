@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/mongodb](https://www.bookmarks.dev/tagged/mongodb)</sup></sup>_
 ---
+#### [Nosqlclient](https://www.nosqlclient.com/)
+_<sup>https://www.nosqlclient.com/</sup>_
+
+Cross-platform and self hosted, easy to use, intuitive mongodb management tool - Formerly Mongoclient
+* **tags**: [mongodb](../tagged/mongodb.md), [client](../tagged/client.md)
+* :octocat: **[source code](https://github.com/nosqlclient/nosqlclient)**
+---
 #### [idealo/mongodb-slow-operations-profiler](https://github.com/idealo/mongodb-slow-operations-profiler)
 _<sup>https://github.com/idealo/mongodb-slow-operations-profiler</sup>_
 

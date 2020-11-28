@@ -2,6 +2,11 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/ebook](https://www.bookmarks.dev/tagged/ebook)</sup></sup>_
 ---
+#### [My ebooks!](https://flaviocopes.com/page/ebooks-links/)
+_<sup>https://flaviocopes.com/page/ebooks-links/</sup>_
+
+* **tags**: [ebook](../tagged/ebook.md)
+---
 #### [Bookshop](https://github.com/worlduniting/bookshop)
 _<sup>https://github.com/worlduniting/bookshop</sup>_
 

@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/marketing](https://www.bookmarks.dev/tagged/marketing)</sup></sup>_
 ---
+#### [Create an appealing listing | Firefox Extension Workshop](https://extensionworkshop.com/documentation/develop/create-an-appealing-listing/)
+_<sup>https://extensionworkshop.com/documentation/develop/create-an-appealing-listing/</sup>_
+
+There are two essential steps to getting people to use your add-on: they need to discover your add-on and open the listing page, then the listing page needs to encourage them to click the Add to Firef...
+* **tags**: [firefox-addon](../tagged/firefox-addon.md), [firefox-webextensions](../tagged/firefox-webextensions.md), [marketing](../tagged/marketing.md)
+---
 #### [The Technium: 1,000 True Fans](https://kk.org/thetechnium/1000-true-fans/)
 _<sup>https://kk.org/thetechnium/1000-true-fans/</sup>_
 

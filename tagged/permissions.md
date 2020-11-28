@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/permissions](https://www.bookmarks.dev/tagged/permissions)</sup></sup>_
 ---
+#### [Test permission requests](https://extensionworkshop.com/documentation/develop/test-permission-requests/)
+_<sup>https://extensionworkshop.com/documentation/develop/test-permission-requests/</sup>_
+
+Your extension may contain two types of permission request: install time and runtime permission requests. This page explains how you can test the way your users will see requests for these permissions...
+* **tags**: [firefox-webextensions](../tagged/firefox-webextensions.md), [permissions](../tagged/permissions.md)
+---
 #### [Declare Permissions - Google Chrome](https://developer.chrome.com/extensions/declare_permissions)
 _<sup>https://developer.chrome.com/extensions/declare_permissions</sup>_
 

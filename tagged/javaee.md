@@ -2,6 +2,14 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/javaee](https://www.bookmarks.dev/tagged/javaee)</sup></sup>_
 ---
+#### [Validating JAX-RS resource data with Bean Validation in Java EE 7 and WildFly](https://samaxes.com/2014/04/jaxrs-beanvalidation-javaee7-wildfly/)
+_<sup>https://samaxes.com/2014/04/jaxrs-beanvalidation-javaee7-wildfly/</sup>_
+
+I have already approached this subject twice in the past. First, on my post Integrating Bean Validation with JAX-RS in Java EE 6, describing how to use Bean Validation with JAX-RS in JBoss AS 7, even ...
+* :calendar: **published on**: 2014-04-01
+* **tags**: [bean-validation](../tagged/bean-validation.md), [jaxrs](../tagged/jaxrs.md), [javaee](../tagged/javaee.md), [wildfly](../tagged/wildfly.md), [jboss](../tagged/jboss.md)
+* :octocat: **[source code](https://github.com/samaxes/jaxrs-beanvalidation-javaee7)**
+---
 #### [What Is Faster EJBs or CDI? - YouTube](https://www.youtube.com/watch?v=6Gm0u9gX56w)
 _<sup>https://www.youtube.com/watch?v=6Gm0u9gX56w</sup>_
 

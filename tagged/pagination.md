@@ -2,6 +2,17 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/pagination](https://www.bookmarks.dev/tagged/pagination)</sup></sup>_
 ---
+#### [Understanding pagination: REST, GraphQL, and Relay - Apollo Blog](https://www.apollographql.com/blog/understanding-pagination-rest-graphql-and-relay-b10f835549e7/)
+_<sup>https://www.apollographql.com/blog/understanding-pagination-rest-graphql-and-relay-b10f835549e7/</sup>_
+
+In this post, I’ll cover some different approaches to pagination in REST and GraphQL:
+
+1. Pagination: what is it for?
+2. What are different types of pagination, and when are they useful?
+3. What is it...
+* :calendar: **published on**: 2016-03-09
+* **tags**: [pagination](../tagged/pagination.md), [rest](../tagged/rest.md), [graphql](../tagged/graphql.md), [relay](../tagged/relay.md)
+---
 #### [npm - JW Angular Pagination Component](https://jasonwatmore.com/post/2018/04/26/npm-jw-angular-pagination-component)
 _<sup>https://jasonwatmore.com/post/2018/04/26/npm-jw-angular-pagination-component</sup>_
 

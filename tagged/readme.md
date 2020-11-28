@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/readme](https://www.bookmarks.dev/tagged/readme)</sup></sup>_
 ---
+#### [General overview of GraphQL in graphql-spec/README.md](https://github.com/graphql/graphql-spec/blob/master/README.md)
+_<sup>https://github.com/graphql/graphql-spec/blob/master/README.md</sup>_
+
+Helps you get started with GraphQL concepts
+* **tags**: [graphql](../tagged/graphql.md), [specification](../tagged/specification.md), [readme](../tagged/readme.md)
+* :octocat: **[source code](https://github.com/graphql/graphql-spec)**
+---
 #### [GitHub - RichardLitt/standard-readme](https://github.com/RichardLitt/standard-readme)
 _<sup>https://github.com/RichardLitt/standard-readme</sup>_
 

@@ -2,6 +2,20 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/jasmine](https://www.bookmarks.dev/tagged/jasmine)</sup></sup>_
 ---
+#### [Testing Angular with jest ](https://ordina-jworks.github.io/testing/2018/08/03/testing-angular-with-jest.html)
+_<sup>https://ordina-jworks.github.io/testing/2018/08/03/testing-angular-with-jest.html</sup>_
+
+Examples about how replace some Jasmine specific code by Jest specific code.
+
+* **tags**: [angular](../tagged/angular.md), [testing](../tagged/testing.md), [jest](../tagged/jest.md), [karma](../tagged/karma.md), [jasmine](../tagged/jasmine.md)
+---
+#### [Unit Testing in Angular: Stubs vs Spies vs Mocks](https://www.amadousall.com/unit-testing-angular-stubs-vs-spies-vs-mocks/)
+_<sup>https://www.amadousall.com/unit-testing-angular-stubs-vs-spies-vs-mocks/</sup>_
+
+In this article, I will show you the differences between the various kinds of test doubles, and how to use them when unit testing Angular applications using Jasmine.
+* :calendar: **published on**: 2018-02-28
+* **tags**: [testing](../tagged/testing.md), [jasmine](../tagged/jasmine.md), [sinonjs](../tagged/sinonjs.md), [test-double](../tagged/test-double.md), [angular](../tagged/angular.md)
+---
 #### [Introduction to Unit Testing in Angular ← Alligator.io](https://alligator.io/angular/introduction-unit-testing/)
 _<sup>https://alligator.io/angular/introduction-unit-testing/</sup>_
 

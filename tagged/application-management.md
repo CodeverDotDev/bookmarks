@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/application-management](https://www.bookmarks.dev/tagged/application-management)</sup></sup>_
 ---
+#### [Discover Apps! Application Reviews, Ratings and Rankings](https://appsrankings.com/)
+_<sup>https://appsrankings.com/</sup>_
+
+App Rankings of the latest ios apps. Reviews from various critics and app publications on new releases in a variety of genres. The latest app reviews from Apps Rankings. Star ratings, buying advice an...
+* **tags**: [ios](../tagged/ios.md), [php](../tagged/php.md), [application-management](../tagged/application-management.md)
+---
 #### [Declarative application management in Kubernetes](https://github.com/kubernetes/community/blob/master/contributors/design-proposals/architecture/declarative-application-management.md)
 _<sup>https://github.com/kubernetes/community/blob/master/contributors/design-proposals/architecture/decla...</sup>_
 
