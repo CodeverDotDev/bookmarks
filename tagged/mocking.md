@@ -2,6 +2,20 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/mocking](https://www.bookmarks.dev/tagged/mocking)</sup></sup>_
 ---
+#### [JSON Generator – tool for generating random JSON data](https://next.json-generator.com/)
+_<sup>https://next.json-generator.com/</sup>_
+
+A JSON data generator. JSON Generator generates data according to the template and saves it. Data can be requested from server using ajax with jsonp.
+* **tags**: [json](../tagged/json.md), [generator](../tagged/generator.md), [data](../tagged/data.md), [mock](../tagged/mock.md), [mockdata](../tagged/mockdata.md), [mocking](../tagged/mocking.md)
+---
+#### [When to Mock · Enterprise Craftsmanship](https://enterprisecraftsmanship.com/posts/when-to-mock/)
+_<sup>https://enterprisecraftsmanship.com/posts/when-to-mock/</sup>_
+
+
+The use of mocks in unit testing is a controversial topic (maybe less so now than several years ago). I remember how, throughout my programming career, I went from mocking almost every dependency, to...
+* :calendar: **published on**: 2020-04-15
+* **tags**: [mocking](../tagged/mocking.md)
+---
 #### [Understanding Jest Mocks. Explaining the Mock Function](https://medium.com/@rickhanlonii/understanding-jest-mocks-f0046c68e53c)
 _<sup>https://medium.com/@rickhanlonii/understanding-jest-mocks-f0046c68e53c</sup>_
 

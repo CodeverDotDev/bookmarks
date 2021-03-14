@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/ssl](https://www.bookmarks.dev/tagged/ssl)</sup></sup>_
 ---
+#### [What you really need to know about securing APIs with mutual certificates](https://nevatech.com/blog/post/What-you-need-to-know-about-securing-APIs-with-mutual-certificates)
+_<sup>https://nevatech.com/blog/post/What-you-need-to-know-about-securing-APIs-with-mutual-certificates</sup>_
+
+When configuring Mutual SSL security for your APIs, or when calling somebody else’s API using this security model, pay attention to the 4 typical requirements listed in this article. Always take into ...
+* :calendar: **published on**: 2017-12-12
+* **tags**: [ssl](../tagged/ssl.md), [ssl-certificate](../tagged/ssl-certificate.md), [rest](../tagged/rest.md), [api](../tagged/api.md)
+---
 #### [Fix https repository blocking by PKIX path building failed – Sonatype Support](https://support.sonatype.com/hc/en-us/articles/213465038-Fix-https-repository-blocking-by-PKIX-path-building-failed)
 _<sup>https://support.sonatype.com/hc/en-us/articles/213465038-Fix-https-repository-blocking-by-PKIX-path-...</sup>_
 

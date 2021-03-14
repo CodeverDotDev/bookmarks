@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/ai](https://www.bookmarks.dev/tagged/ai)</sup></sup>_
 ---
+#### [人工知能](https://www.jstage.jst.go.jp/browse/jjsai/list/-char/ja)
+_<sup>https://www.jstage.jst.go.jp/browse/jjsai/list/-char/ja</sup>_
+
+J-STAGE
+* **tags**: [ai](../tagged/ai.md)
+---
 #### [Artificial Intelligence - MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/)
 _<sup>https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligenc...</sup>_
 

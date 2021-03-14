@@ -2,6 +2,65 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/node.js](https://www.bookmarks.dev/tagged/node.js)</sup></sup>_
 ---
+#### [Defending Against Query Selector Injection Attacks](https://thecodebarbarian.wordpress.com/2014/09/04/defending-against-query-selector-injection-attacks/)
+_<sup>https://thecodebarbarian.wordpress.com/2014/09/04/defending-against-query-selector-injection-attacks...</sup>_
+
+This article shows two simple ways to protect against the attacks described in [Hacking NodeJS and MongoDB](https://blog.websecurify.com/2014/08/hacking-nodejs-and-mongodb.html). One of the them is by...
+* **tags**: [mongodb](../tagged/mongodb.md), [node.js](../tagged/node.js.md), [expressjs](../tagged/expressjs.md), [security](../tagged/security.md)
+* :octocat: **[source code](https://github.com/vkarpov15/mongo-sanitize)**
+---
+#### [GitHub - chalk/chalk: 🖍 Terminal string styling done right](https://github.com/chalk/chalk#readme)
+_<sup>https://github.com/chalk/chalk#readme</sup>_
+
+🖍 Terminal string styling done right. Contribute to chalk/chalk development by creating an account on GitHub.
+* **tags**: [node.js](../tagged/node.js.md), [terminal](../tagged/terminal.md), [cli](../tagged/cli.md), [colors](../tagged/colors.md), [fonts](../tagged/fonts.md)
+---
+#### [Create boxes in the terminal](https://github.com/sindresorhus/boxen#readme)
+_<sup>https://github.com/sindresorhus/boxen#readme</sup>_
+
+Create boxes in the terminal. Contribute to sindresorhus/boxen development by creating an account on GitHub.
+* **tags**: [node.js](../tagged/node.js.md), [terminal](../tagged/terminal.md), [cli](../tagged/cli.md), [box](../tagged/box.md), [margin](../tagged/margin.md), [border](../tagged/border.md)
+---
+#### [yargs (node.js cli parameters)](https://yargs.js.org/)
+_<sup>https://yargs.js.org/</sup>_
+
+the yargs.js.org website.
+* **tags**: [node.js](../tagged/node.js.md), [cli](../tagged/cli.md), [parameters](../tagged/parameters.md), [libraries](../tagged/libraries.md)
+---
+#### [Graphile | Powerful, Extensible and Performant GraphQL APIs Rapidly](https://www.graphile.org/postgraphile/)
+_<sup>https://www.graphile.org/postgraphile/</sup>_
+
+Instantly spin-up a GraphQL API server by pointing PostGraphile at your existing PostgreSQL database
+* **tags**: [graphql](../tagged/graphql.md), [postgresql](../tagged/postgresql.md), [node.js](../tagged/node.js.md)
+* :octocat: **[source code](https://github.com/graphile/postgraphile)**
+---
+#### [How to create html presentations with markdown files - 8min](https://www.youtube.com/watch?v=iZl7R6ntOGc)
+_<sup>https://www.youtube.com/watch?v=iZl7R6ntOGc</sup>_
+
+In this video I go over how to clone the reveal.js github repository and alter the demo's html file to read content from a markdown file. We then use a node.js express server to serve the markdown fil...
+* :calendar: **published on**: 2017-11-10
+* **tags**: [markdown](../tagged/markdown.md), [reveal.js](../tagged/reveal.js.md), [html](../tagged/html.md), [node.js](../tagged/node.js.md), [expressjs](../tagged/expressjs.md)
+---
+#### [Using WebSockets with Node.js](https://flaviocopes.com/node-websockets/)
+_<sup>https://flaviocopes.com/node-websockets/</sup>_
+
+A simple example showing how to setup a websocket server and client with the help of the popular Node.js framework [ws](https://github.com/websockets/ws)
+* **tags**: [node.js](../tagged/node.js.md), [websocket](../tagged/websocket.md), [websocket-client](../tagged/websocket-client.md), [websocket-server](../tagged/websocket-server.md)
+---
+#### [websockets/ws home page](https://github.com/websockets/ws)
+_<sup>https://github.com/websockets/ws</sup>_
+
+Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js
+* **tags**: [node.js](../tagged/node.js.md), [javascript](../tagged/javascript.md), [websocket](../tagged/websocket.md), [websocket-server](../tagged/websocket-server.md), [websocket-client](../tagged/websocket-client.md)
+* :octocat: **[source code](https://github.com/websockets/ws)**
+---
+#### [The HTML presentation framework - reveal.js home page](https://revealjs.com/)
+_<sup>https://revealjs.com/</sup>_
+
+Documentation and demos for the open source reveal.js HTML presentation framework. Slides, slideshow, ppt, presentations
+* **tags**: [dev-tools](../tagged/dev-tools.md), [node.js](../tagged/node.js.md)
+* :octocat: **[source code](https://github.com/hakimel/reveal.js)**
+---
 #### [Node.js Crash Course Tutorial - YouTube](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU)
 _<sup>https://www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU</sup>_
 
@@ -16,7 +75,7 @@ DataLoader is a utility for batching and caching loaded data in your web service
 * **tags**: [graphql](../tagged/graphql.md), [javascript](../tagged/javascript.md), [node.js](../tagged/node.js.md), [react](../tagged/react.md), [dataloader](../tagged/dataloader.md)
 * :octocat: **[source code](https://github.com/graphql/dataloader)**
 ---
-#### [Getting Started With GraphQL.js](https://graphql.org/graphql-js/)
+#### [Getting Started With GraphQL.js - home page](https://graphql.org/graphql-js/)
 _<sup>https://graphql.org/graphql-js/</sup>_
 
 The JavaScript reference implementation for GraphQL

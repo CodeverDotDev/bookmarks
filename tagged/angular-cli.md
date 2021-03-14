@@ -84,11 +84,10 @@ When you are creating your project with angular cli try this:
 ...
 * **tags**: [angular-cli](../tagged/angular-cli.md), [sass](../tagged/sass.md)
 ---
-#### [angular cli · angular/angular-cli Wiki · GitHub](https://github.com/angular/angular-cli/wiki/angular-cli)
-_<sup>https://github.com/angular/angular-cli/wiki/angular-cli</sup>_
+#### [Angular CLI Overview and Command Reference](https://angular.io/cli)
+_<sup>https://angular.io/cli</sup>_
 
-**Angular CLI Config Schema - options**
-
+The Angular CLI is a command-line interface tool that you use to initialize, develop, scaffold, and maintain Angular applications directly from a command shell.
 * **tags**: [angular-cli](../tagged/angular-cli.md)
 ---
 #### [Angular CLI](https://cli.angular.io/)

@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/exception-handling](https://www.bookmarks.dev/tagged/exception-handling)</sup></sup>_
 ---
+#### [Les exceptions, mauvaise solution pour la gestion des erreurs dans une application - Publicis Sapient Engineering - Engineering Done Rightclose-](https://blog.engineering.publicissapient.fr/2021/01/11/les-exceptions-mauvaise-solution-pour-la-gestion-des-erreurs-dans-une-application/)
+_<sup>https://blog.engineering.publicissapient.fr/2021/01/11/les-exceptions-mauvaise-solution-pour-la-gest...</sup>_
+
+En programmation, les exceptions représentent des anomalies auxquelles il est possible de répondre par un traitement spécifique qui sera déclenché à la
+* :calendar: **published on**: 2021-01-11
+* **tags**: [exception-handling](../tagged/exception-handling.md)
+---
 #### [Replacing Throwing Exceptions with Notification in Validations](https://martinfowler.com/articles/replaceThrowWithNotification.html)
 _<sup>https://martinfowler.com/articles/replaceThrowWithNotification.html</sup>_
 

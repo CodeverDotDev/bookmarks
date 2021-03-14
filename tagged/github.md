@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/github](https://www.bookmarks.dev/tagged/github)</sup></sup>_
 ---
+#### [GitHub - nektos/act: Run your GitHub Actions locally 🚀](https://github.com/nektos/act)
+_<sup>https://github.com/nektos/act</sup>_
+
+Run your GitHub Actions locally 🚀. Contribute to nektos/act development by creating an account on GitHub.
+* **tags**: [github](../tagged/github.md)
+---
 #### [github:buttons](https://buttons.github.io/)
 _<sup>https://buttons.github.io/</sup>_
 

@@ -2,6 +2,26 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/libraries](https://www.bookmarks.dev/tagged/libraries)</sup></sup>_
 ---
+#### [Deno blockchain based module registry](https://nest.land/)
+_<sup>https://nest.land/</sup>_
+
+An immutable, blockchain powered module registry for Deno.
+* **tags**: [deno](../tagged/deno.md), [libraries](../tagged/libraries.md), [modules](../tagged/modules.md), [registry](../tagged/registry.md)
+---
+#### [yargs (node.js cli parameters)](https://yargs.js.org/)
+_<sup>https://yargs.js.org/</sup>_
+
+the yargs.js.org website.
+* **tags**: [node.js](../tagged/node.js.md), [cli](../tagged/cli.md), [parameters](../tagged/parameters.md), [libraries](../tagged/libraries.md)
+---
+#### [Java libraries I like  – Eduards Sizovs](https://sizovs.net/2020/11/24/java-libraries-i-like/)
+_<sup>https://sizovs.net/2020/11/24/java-libraries-i-like/</sup>_
+
+The list was updated in 2020.
+
+Everyone knows Spring and Hibernate, but there are other libraries and frameworks that are worth your attention. I pulled a list of 36 Java libraries that I like and use...
+* **tags**: [java](../tagged/java.md), [java-8](../tagged/java-8.md), [libraries](../tagged/libraries.md)
+---
 #### [C++ Standard Library](https://en.wikipedia.org/wiki/C%2B%2B_Standard_Library)
 _<sup>https://en.wikipedia.org/wiki/C%2B%2B_Standard_Library</sup>_
 

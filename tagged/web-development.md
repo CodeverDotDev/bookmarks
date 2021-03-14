@@ -2,6 +2,23 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/web-development](https://www.bookmarks.dev/tagged/web-development)</sup></sup>_
 ---
+#### [Top Web Development Tools for Building Business Applications in 2021 | Hacker Noon](https://hackernoon.com/top-web-development-tools-for-building-business-applications-in-2021-0n1234pe?source=rss)
+_<sup>https://hackernoon.com/top-web-development-tools-for-building-business-applications-in-2021-0n1234pe...</sup>_
+
+* **tags**: [web-development](../tagged/web-development.md), [javascript](../tagged/javascript.md)
+---
+#### [The Smart Coder](https://thesmartcoder.dev/10-awesome-github-repos-every-web-developer-should-know)
+_<sup>https://thesmartcoder.dev/10-awesome-github-repos-every-web-developer-should-know</sup>_
+
+From giant repos of resources to interview prep, there’s a lot of great stuff here
+* **tags**: [web-development](../tagged/web-development.md)
+---
+#### [The Smart Coder](https://thesmartcoder.dev/9-popular-github-repos-for-every-web-developer/)
+_<sup>https://thesmartcoder.dev/9-popular-github-repos-for-every-web-developer/</sup>_
+
+Useful tools, inspiring examples, and more...
+* **tags**: [javascript](../tagged/javascript.md), [web-development](../tagged/web-development.md)
+---
 #### [Justin Searls – Please don’t mock me - 51min](https://www.youtube.com/watch?v=Af4M8GMoxi4)
 _<sup>https://www.youtube.com/watch?v=Af4M8GMoxi4</sup>_
 

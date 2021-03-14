@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/rfc](https://www.bookmarks.dev/tagged/rfc)</sup></sup>_
 ---
+#### [What's New With OAuth and OIDC? - 32min](https://www.youtube.com/watch?v=g_aVPdwBTfw)
+_<sup>https://www.youtube.com/watch?v=g_aVPdwBTfw</sup>_
+
+In this talk you'll learn about the latest developments with the OAuth​ and OIDC​ specs directly from the standards group. The latest additions to the specs enable richer experiences and better secu...
+* :calendar: **published on**: 2020-04-09
+* **tags**: [oauth2](../tagged/oauth2.md), [security](../tagged/security.md), [rfc](../tagged/rfc.md)
+---
 #### [The OAuth 2.0 Authorization Framework: Bearer Token Usage](https://tools.ietf.org/html/rfc6750)
 _<sup>https://tools.ietf.org/html/rfc6750</sup>_
 

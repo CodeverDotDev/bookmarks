@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/pdf](https://www.bookmarks.dev/tagged/pdf)</sup></sup>_
 ---
+#### [PDF to DOCX – Convert PDF to DOCX Online](https://pdf2docx.com/)
+_<sup>https://pdf2docx.com/</sup>_
+
+This free PDF to DOCX converter allows you to save a PDF file as an editable document in Office Open XML format, providing better quality than many other converters.
+* **tags**: [pdf](../tagged/pdf.md), [docx](../tagged/docx.md)
+---
 #### [libharu](https://github.com/libharu/libharu)
 _<sup>https://github.com/libharu/libharu</sup>_
 

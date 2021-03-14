@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/software-architecture](https://www.bookmarks.dev/tagged/software-architecture)</sup></sup>_
 ---
+#### [The Principles of Agile Design](https://www.infoq.com/presentations/principles-agile-oo-design/)
+_<sup>https://www.infoq.com/presentations/principles-agile-oo-design/</sup>_
+
+Bob Martin of Object Mentor presents the first of his five principles of agile design. Beginning with an explanation of the real purpose of object-oriented design - the management of dependencies - Bo...
+* **tags**: [design-patterns](../tagged/design-patterns.md), [software-architecture](../tagged/software-architecture.md), [oop](../tagged/oop.md)
+---
 #### [Why should you separate Controllers from Services in Node REST API’s? – Corey Cleary](https://www.coreycleary.me/why-should-you-separate-controllers-from-services-in-node-rest-apis/)
 _<sup>https://www.coreycleary.me/why-should-you-separate-controllers-from-services-in-node-rest-apis/</sup>_
 

@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/orm](https://www.bookmarks.dev/tagged/orm)</sup></sup>_
 ---
+#### [ORM: avoid using many to many relationships - DEV](https://dev.to/apium_hub/orm-avoid-using-many-to-many-relationships-52in)
+_<sup>https://dev.to/apium_hub/orm-avoid-using-many-to-many-relationships-52in</sup>_
+
+The usage of ORMs (data mappers) comes with a great power but also with a great responsibility. ORMs... Tagged with architecture, objectrelationalmapp, orm.
+* :calendar: **published on**: 2020-12-07
+* **tags**: [orm](../tagged/orm.md), [database](../tagged/database.md), [database-design](../tagged/database-design.md)
+---
 #### [TypeORM Home Page](http://typeorm.io/)
 _<sup>http://typeorm.io/</sup>_
 

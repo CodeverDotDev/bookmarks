@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/architecture](https://www.bookmarks.dev/tagged/architecture)</sup></sup>_
 ---
+#### [Ségrégation des interfaces : codez uniquement le nécessaire](https://itexpert.fr/blog/principe-segregation-interfaces/)
+_<sup>https://itexpert.fr/blog/principe-segregation-interfaces/</sup>_
+
+Les interfaces en POO. Bien qu’elles semblent totalement inutiles, elles sont absolument primordiales pour créer des programmes robustes et flexibles.
+* :calendar: **published on**: 2020-12-13
+* **tags**: [architecture](../tagged/architecture.md)
+---
 #### [Breaking up the monolith: A layered GraphQL architecture - Johannes Schickling @ GraphQL Europe 2018 - 17min](https://www.youtube.com/watch?v=_MmyTahR9ok)
 _<sup>https://www.youtube.com/watch?v=_MmyTahR9ok</sup>_
 

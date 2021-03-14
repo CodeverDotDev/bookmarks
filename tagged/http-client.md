@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/http-client](https://www.bookmarks.dev/tagged/http-client)</sup></sup>_
 ---
+#### [Angular HTTP Client - QuickStart Guide](https://blog.angular-university.io/angular-http/)
+_<sup>https://blog.angular-university.io/angular-http/</sup>_
+
+Complete Guide on Angular HTTP: Learn how to do common HTTP operations: GET, PUT, PATCH, DELETE,  POST, Error Handling, Interceptors, etc.
+* **tags**: [angular](../tagged/angular.md), [http-client](../tagged/http-client.md)
+---
 #### [Unirest Java Documentation](http://kong.github.io/unirest-java/)
 _<sup>http://kong.github.io/unirest-java/</sup>_
 

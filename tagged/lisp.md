@@ -2,6 +2,23 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/lisp](https://www.bookmarks.dev/tagged/lisp)</sup></sup>_
 ---
+#### [ReduceAlgebra/trunk/packages/rlisp88 at master · nilqed/ReduceAlgebra · GitHub](https://github.com/nilqed/ReduceAlgebra/tree/master/trunk/packages/rlisp88)
+_<sup>https://github.com/nilqed/ReduceAlgebra/tree/master/trunk/packages/rlisp88</sup>_
+
+https://svn.code.sf.net/p/reduce-algebra/code/. Contribute to nilqed/ReduceAlgebra development by creating an account on GitHub.
+* **tags**: [rlisp88](../tagged/rlisp88.md), [lisp](../tagged/lisp.md), [reduce](../tagged/reduce.md)
+---
+#### [GitHub - ExaScience/slick: The Slick programming language is an s-expression surface syntax for Go.](https://github.com/ExaScience/slick)
+_<sup>https://github.com/ExaScience/slick</sup>_
+
+The Slick programming language is an s-expression surface syntax for Go. - ExaScience/slick
+* **tags**: [slick](../tagged/slick.md), [go](../tagged/go.md), [lisp](../tagged/lisp.md)
+---
+#### [Island Life - Schemeでgoto (tagbody&go)](http://blog.practical-scheme.net/shiro/20110529-tagbody-go-in-scheme)
+_<sup>http://blog.practical-scheme.net/shiro/20110529-tagbody-go-in-scheme</sup>_
+
+* **tags**: [scheme](../tagged/scheme.md), [tagbody](../tagged/tagbody.md), [lisp](../tagged/lisp.md)
+---
 #### [A LISP programozási nyelv](http://mek.oszk.hu/07200/07258/index.phtml)
 _<sup>http://mek.oszk.hu/07200/07258/index.phtml</sup>_
 

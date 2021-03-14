@@ -2,6 +2,103 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/security](https://www.bookmarks.dev/tagged/security)</sup></sup>_
 ---
+#### [Defending Against Query Selector Injection Attacks](https://thecodebarbarian.wordpress.com/2014/09/04/defending-against-query-selector-injection-attacks/)
+_<sup>https://thecodebarbarian.wordpress.com/2014/09/04/defending-against-query-selector-injection-attacks...</sup>_
+
+This article shows two simple ways to protect against the attacks described in [Hacking NodeJS and MongoDB](https://blog.websecurify.com/2014/08/hacking-nodejs-and-mongodb.html). One of the them is by...
+* **tags**: [mongodb](../tagged/mongodb.md), [node.js](../tagged/node.js.md), [expressjs](../tagged/expressjs.md), [security](../tagged/security.md)
+* :octocat: **[source code](https://github.com/vkarpov15/mongo-sanitize)**
+---
+#### [CWE - Common Weakness Enumeration](https://cwe.mitre.org/index.html)
+_<sup>https://cwe.mitre.org/index.html</sup>_
+
+CWE™ is a community-developed list of software and hardware weakness types. It serves as a common language, a measuring stick for security tools, and as a baseline for weakness identification, mitigat...
+* **tags**: [security](../tagged/security.md), [security-tools](../tagged/security-tools.md), [software-development](../tagged/software-development.md)
+---
+#### [OWASP ZAP](https://www.zaproxy.org/)
+_<sup>https://www.zaproxy.org/</sup>_
+
+The OWASP Zed Attack Proxy (ZAP) is one of the world’s most popular free security tools and is actively maintained by a dedicated international team of volunteers. It can help you automatically find s...
+* **tags**: [security](../tagged/security.md), [security-tools](../tagged/security-tools.md)
+* :octocat: **[source code](https://github.com/zaproxy/zaproxy)**
+---
+#### [GitHub - dropbox/zxcvbn: Low-Budget Password Strength Estimation](https://github.com/dropbox/zxcvbn)
+_<sup>https://github.com/dropbox/zxcvbn</sup>_
+
+`zxcvbn` is a password strength estimator inspired by password crackers. Through pattern matching and conservative estimation, it recognizes and weighs 30k common passwords, common names and surnames ...
+* **tags**: [security](../tagged/security.md), [password](../tagged/password.md)
+---
+#### [What Is and How Does Single Sign-On Authentication Work?](https://auth0.com/blog/what-is-and-how-does-single-sign-on-work/)
+_<sup>https://auth0.com/blog/what-is-and-how-does-single-sign-on-work/</sup>_
+
+In this post, we will study how SSO authentication is implemented for the web.
+* :calendar: **published on**: 2015-09-23
+* **tags**: [security](../tagged/security.md), [sso](../tagged/sso.md)
+---
+#### [What Is an X.509 Certificate? - SSL.com](https://www.ssl.com/faqs/what-is-an-x-509-certificate/)
+_<sup>https://www.ssl.com/faqs/what-is-an-x-509-certificate/</sup>_
+
+**X.509** is a standard format for **public key certificates**, digital documents that securely associate cryptographic key pairs with identities such as websites, individuals, or organizations.
+
+Firs...
+* **tags**: [security](../tagged/security.md), [glossary](../tagged/glossary.md), [ssl-certificate](../tagged/ssl-certificate.md)
+---
+#### [PEM, DER, CRT, and CER: X.509 Encodings and Conversions - SSL.com](https://www.ssl.com/guide/pem-der-crt-and-cer-x-509-encodings-and-conversions/)
+_<sup>https://www.ssl.com/guide/pem-der-crt-and-cer-x-509-encodings-and-conversions/</sup>_
+
+This guide points out the major differences between PEM and DER files and common filename extensions associated with them. It also provides visual examples of each encoding, and illustrates some commo...
+* **tags**: [security](../tagged/security.md), [ssl-certificate](../tagged/ssl-certificate.md)
+---
+#### [Eavesdropping - Wikipedia](https://en.wikipedia.org/wiki/Eavesdropping)
+_<sup>https://en.wikipedia.org/wiki/Eavesdropping</sup>_
+
+Eavesdropping is the act of secretly or stealthily listening to the private conversation or communications of others without their consent in order to gather information.
+* **tags**: [security](../tagged/security.md), [glossary](../tagged/glossary.md)
+---
+#### [Entropy - an overview](https://www.sciencedirect.com/topics/computer-science/entropy)
+_<sup>https://www.sciencedirect.com/topics/computer-science/entropy</sup>_
+
+**Entropy**, in cyber security, is a measure of the randomness or diversity of a data-generating function. Data with full entropy is completely random and no meaningful patterns can be found. Low entr...
+* **tags**: [security](../tagged/security.md), [glossary](../tagged/glossary.md)
+---
+#### [mitmproxy - an interactive HTTPS proxy](https://mitmproxy.org/)
+_<sup>https://mitmproxy.org/</sup>_
+
+An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
+* **tags**: [http-proxy](../tagged/http-proxy.md), [security](../tagged/security.md), [security-tools](../tagged/security-tools.md), [proxy](../tagged/proxy.md)
+* :octocat: **[source code](https://github.com/mitmproxy/mitmproxy)**
+---
+#### [What's New With OAuth and OIDC? - 32min](https://www.youtube.com/watch?v=g_aVPdwBTfw)
+_<sup>https://www.youtube.com/watch?v=g_aVPdwBTfw</sup>_
+
+In this talk you'll learn about the latest developments with the OAuth​ and OIDC​ specs directly from the standards group. The latest additions to the specs enable richer experiences and better secu...
+* :calendar: **published on**: 2020-04-09
+* **tags**: [oauth2](../tagged/oauth2.md), [security](../tagged/security.md), [rfc](../tagged/rfc.md)
+---
+#### [What do SAST, DAST, IAST and RASP mean to developers?](https://www.softwaresecured.com/what-do-sast-dast-iast-and-rasp-mean-to-developers/)
+_<sup>https://www.softwaresecured.com/what-do-sast-dast-iast-and-rasp-mean-to-developers/</sup>_
+
+It’s estimated that 90 percent of security incidents result from attackers exploiting known software bugs. Needless to say, squashing those bugs in the development phase of software could reduce the i...
+* **tags**: [security](../tagged/security.md), [security-tools](../tagged/security-tools.md), [terminology](../tagged/terminology.md)
+---
+#### [Cross Site Request Forgery (CSRF) | OWASP Foundation](https://owasp.org/www-community/attacks/csrf)
+_<sup>https://owasp.org/www-community/attacks/csrf</sup>_
+
+Cross-Site Request Forgery (CSRF) is an attack that forces an end user to execute unwanted actions on a web application in which they’re currently authenticated. With a little help of social engineeri...
+* **tags**: [security](../tagged/security.md), [csrf](../tagged/csrf.md)
+---
+#### [What Is HSTS and How Do I Implement It?](https://www.globalsign.com/en/blog/what-is-hsts-and-how-do-i-use-it)
+_<sup>https://www.globalsign.com/en/blog/what-is-hsts-and-how-do-i-use-it</sup>_
+
+HTTP Strict Transport Security (HSTS) is a web server directive that informs user agents and web browsers how to handle its connection through a response header sent at the very beginning and back to ...
+* **tags**: [security](../tagged/security.md), [http-headers](../tagged/http-headers.md)
+---
+#### [Microsoft Security Development Lifecycle](https://www.microsoft.com/en-us/securityengineering/sdl)
+_<sup>https://www.microsoft.com/en-us/securityengineering/sdl</sup>_
+
+The Microsoft SDL introduces security and privacy considerations throughout all phases of the development process, helping developers build highly secure software, address security compliance requirem...
+* **tags**: [software-development](../tagged/software-development.md), [security](../tagged/security.md), [frameworks](../tagged/frameworks.md)
+---
 #### [OWASP Dependency-Check Project | OWASP](https://owasp.org/www-project-dependency-check/)
 _<sup>https://owasp.org/www-project-dependency-check/</sup>_
 
@@ -1209,7 +1306,7 @@ UFW, or uncomplicated firewall, is a frontend for managing firewall rules Arch L
 _<sup>https://docs.mongodb.com/manual/administration/security-checklist/</sup>_
 
 This documents provides a list of security measures that you should implement to protect your MongoDB installation.
-* **tags**: [mongodb](../tagged/mongodb.md), [security](../tagged/security.md)
+* **tags**: [mongodb](../tagged/mongodb.md), [security](../tagged/security.md), [checklist](../tagged/checklist.md)
 ---
 #### [How To Change SSH Port in Ubuntu - idroot](http://idroot.net/tutorials/how-to-change-ssh-port-in-ubuntu/)
 _<sup>http://idroot.net/tutorials/how-to-change-ssh-port-in-ubuntu/</sup>_

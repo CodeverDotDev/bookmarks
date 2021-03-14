@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/unit-testing](https://www.bookmarks.dev/tagged/unit-testing)</sup></sup>_
 ---
+#### [A Unit Tester's Guide to Mockito](https://www.toptal.com/java/a-guide-to-everyday-mockito)
+_<sup>https://www.toptal.com/java/a-guide-to-everyday-mockito</sup>_
+
+In this article, we’ll cover creating and configuring mocks and using them to verify the expected behavior of the system being tested. We’ll also dive a bit into Mockito’s internals to better understa...
+* **tags**: [testing](../tagged/testing.md), [java](../tagged/java.md), [mockito](../tagged/mockito.md), [junit](../tagged/junit.md), [unit-testing](../tagged/unit-testing.md)
+* :octocat: **[source code](https://github.com/bitlama/mockito-demo)**
+---
 #### [UnitTest](https://martinfowler.com/bliki/UnitTest.html)
 _<sup>https://martinfowler.com/bliki/UnitTest.html</sup>_
 

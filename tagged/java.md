@@ -2,6 +2,66 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/java](https://www.bookmarks.dev/tagged/java)</sup></sup>_
 ---
+#### [MicroProfile GraphQL](https://download.eclipse.org/microprofile/microprofile-graphql-1.0/microprofile-graphql.html)
+_<sup>https://download.eclipse.org/microprofile/microprofile-graphql-1.0/microprofile-graphql.html</sup>_
+
+The intent of the MicroProfile GraphQL specification is to provide a "code-first" set of APIs that will enable users to quickly develop portable GraphQL-based applications in Java.
+* **tags**: [graphql](../tagged/graphql.md), [java](../tagged/java.md)
+---
+#### [Testing Java Collections with AssertJ](https://medium.com/enfuse-io/testing-java-collections-with-assertj-2fa678d80952)
+_<sup>https://medium.com/enfuse-io/testing-java-collections-with-assertj-2fa678d80952</sup>_
+
+Testing Collections in Java? You can say “Not a big deal”. I agree, but, for example, a comparison of two Lists of custom objects can be painful and it is not the only problem you can run into. Let’s ...
+* :calendar: **published on**: 2019-09-12
+* **tags**: [java](../tagged/java.md), [testing](../tagged/testing.md), [assertj](../tagged/assertj.md)
+---
+#### [Objenesis home page](http://objenesis.org/)
+_<sup>http://objenesis.org/</sup>_
+
+Objenesis is a small Java library that serves one purpose:
+
+- **To instantiate a new object of a particular class.**
+* **tags**: [java](../tagged/java.md)
+---
+#### [A Unit Tester's Guide to Mockito](https://www.toptal.com/java/a-guide-to-everyday-mockito)
+_<sup>https://www.toptal.com/java/a-guide-to-everyday-mockito</sup>_
+
+In this article, we’ll cover creating and configuring mocks and using them to verify the expected behavior of the system being tested. We’ll also dive a bit into Mockito’s internals to better understa...
+* **tags**: [testing](../tagged/testing.md), [java](../tagged/java.md), [mockito](../tagged/mockito.md), [junit](../tagged/junit.md), [unit-testing](../tagged/unit-testing.md)
+* :octocat: **[source code](https://github.com/bitlama/mockito-demo)**
+---
+#### [Byte Buddy - runtime code generation for the Java virtual machine](https://bytebuddy.net/#/)
+_<sup>https://bytebuddy.net/#/</sup>_
+
+Byte Buddy is a code generation and manipulation library for creating and modifying Java classes during the runtime of a Java application and without the help of a compiler. Other than the code genera...
+* **tags**: [java](../tagged/java.md), [virtual-machine](../tagged/virtual-machine.md), [jvm](../tagged/jvm.md), [runtime](../tagged/runtime.md)
+* :octocat: **[source code](https://github.com/raphw/byte-buddy)**
+---
+#### [Java Annotated Monthly – December 2020 | JetBrains Blog](https://blog.jetbrains.com/idea/2020/12/java-annotated-monthly-december-2020/)
+_<sup>https://blog.jetbrains.com/idea/2020/12/java-annotated-monthly-december-2020/</sup>_
+
+* :calendar: **published on**: 2020-12-02
+* **tags**: [java](../tagged/java.md), [programming](../tagged/programming.md)
+---
+#### [Java libraries I like  – Eduards Sizovs](https://sizovs.net/2020/11/24/java-libraries-i-like/)
+_<sup>https://sizovs.net/2020/11/24/java-libraries-i-like/</sup>_
+
+The list was updated in 2020.
+
+Everyone knows Spring and Hibernate, but there are other libraries and frameworks that are worth your attention. I pulled a list of 36 Java libraries that I like and use...
+* **tags**: [java](../tagged/java.md), [java-8](../tagged/java-8.md), [libraries](../tagged/libraries.md)
+---
+#### [Essential Java - a free Java programming book](https://essential-java.programming-books.io/)
+_<sup>https://essential-java.programming-books.io/</sup>_
+
+'Essential Java' is a free programming book about Java
+* **tags**: [java](../tagged/java.md)
+---
+#### [Getting started with Java Language | Java Language Tutorial](https://java.programmingpedia.net/)
+_<sup>https://java.programmingpedia.net/</sup>_
+
+* **tags**: [java](../tagged/java.md)
+---
 #### [GitHub - akullpp/awesome-java: A curated list of awesome frameworks, libraries and software for the Java programming language.](https://github.com/akullpp/awesome-java)
 _<sup>https://github.com/akullpp/awesome-java</sup>_
 
@@ -203,14 +263,14 @@ _<sup>https://www.baeldung.com/java-collectors-tomap</sup>_
 
 In this quick tutorial, we're going to talk about the `toMap()` method of the `Collectors` class. We'll use it to collect `Streams` into a `Map` instance
 * :calendar: **published on**: 2020-04-20
-* **tags**: [java](../tagged/java.md), [java-8](../tagged/java-8.md)
+* **tags**: [java](../tagged/java.md)
 * :octocat: **[source code](https://github.com/eugenp/tutorials/tree/master/java-collections-conversions)**
 ---
 #### [State of the Lambda](http://cr.openjdk.java.net/~briangoetz/lambda/lambda-state-final.html)
 _<sup>http://cr.openjdk.java.net/~briangoetz/lambda/lambda-state-final.html</sup>_
 
 Java SE 8 adds a relatively small number of new language features -- lambda expressions, method references, default and static methods in interfaces, and more widespread use of type inference. Taken t...
-* **tags**: [java](../tagged/java.md), [lambda](../tagged/lambda.md), [java-8](../tagged/java-8.md)
+* **tags**: [java](../tagged/java.md), [lambda](../tagged/lambda.md)
 ---
 #### [Using Java Reflection](https://www.oracle.com/technical-resources/articles/java/javareflection.html)
 _<sup>https://www.oracle.com/technical-resources/articles/java/javareflection.html</sup>_
@@ -2369,14 +2429,7 @@ Ultra-fast, SQL-like queries on Java collections.
 _<sup>https://github.com/iluwatar/java-design-patterns</sup>_
 
 Implementation and explanation of the most common design patterns.
-* **tags**: [java](../tagged/java.md), [java](../tagged/java.md)
-* :octocat: **[source code](https://github.com/iluwatar/java-design-patterns)**
----
-#### [Design Patterns](https://github.com/iluwatar/java-design-patterns)
-_<sup>https://github.com/iluwatar/java-design-patterns</sup>_
-
-Implementation and explanation of the most common design patterns.
-* **tags**: [java](../tagged/java.md), [java](../tagged/java.md)
+* **tags**: [java](../tagged/java.md)
 * :octocat: **[source code](https://github.com/iluwatar/java-design-patterns)**
 ---
 #### [Failsafe](https://github.com/jhalterman/failsafe)
@@ -2581,14 +2634,7 @@ Lightweight, small and customizable FTP server.
 _<sup>https://github.com/winterbe/java8-tutorial</sup>_
 
 Popular Java 8 guide.
-* **tags**: [java](../tagged/java.md), [java](../tagged/java.md)
-* :octocat: **[source code](https://github.com/winterbe/java8-tutorial)**
----
-#### [Modern Java - A Guide to Java 8](https://github.com/winterbe/java8-tutorial)
-_<sup>https://github.com/winterbe/java8-tutorial</sup>_
-
-Popular Java 8 guide.
-* **tags**: [java](../tagged/java.md), [java](../tagged/java.md)
+* **tags**: [java](../tagged/java.md)
 * :octocat: **[source code](https://github.com/winterbe/java8-tutorial)**
 ---
 #### [Modernizer](https://github.com/andrewgaul/modernizer-maven-plugin)
@@ -3577,14 +3623,7 @@ High-level framework for developing enterprise applications with a rich web inte
 _<sup>https://github.com/networknt/light-java</sup>_
 
 A fast, lightweight and productive microservices framework with built-in [security](https://github.com/networknt/light-oauth2).
-* **tags**: [java](../tagged/java.md), [java](../tagged/java.md)
-* :octocat: **[source code](https://github.com/networknt/light-java)**
----
-#### [Light-Java](https://github.com/networknt/light-java)
-_<sup>https://github.com/networknt/light-java</sup>_
-
-A fast, lightweight and productive microservices framework with built-in [security](https://github.com/networknt/light-oauth2).
-* **tags**: [java](../tagged/java.md), [java](../tagged/java.md)
+* **tags**: [java](../tagged/java.md)
 * :octocat: **[source code](https://github.com/networknt/light-java)**
 ---
 #### [Orienteer](https://github.com/OrienteerBAP/Orienteer)

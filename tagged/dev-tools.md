@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/dev-tools](https://www.bookmarks.dev/tagged/dev-tools)</sup></sup>_
 ---
+#### [The HTML presentation framework - reveal.js home page](https://revealjs.com/)
+_<sup>https://revealjs.com/</sup>_
+
+Documentation and demos for the open source reveal.js HTML presentation framework. Slides, slideshow, ppt, presentations
+* **tags**: [dev-tools](../tagged/dev-tools.md), [node.js](../tagged/node.js.md)
+* :octocat: **[source code](https://github.com/hakimel/reveal.js)**
+---
 #### [Postwoman • API request builder](https://postwoman.io/)
 _<sup>https://postwoman.io/</sup>_
 

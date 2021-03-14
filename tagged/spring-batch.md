@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/spring-batch](https://www.bookmarks.dev/tagged/spring-batch)</sup></sup>_
 ---
+#### [Spring Batch - Reference Documentation](https://docs.spring.io/spring-batch/docs/current/reference/html/index-single.html)
+_<sup>https://docs.spring.io/spring-batch/docs/current/reference/html/index-single.html</sup>_
+
+Spring Batch Single Html Documentation
+* **tags**: [spring-batch](../tagged/spring-batch.md), [docs](../tagged/docs.md)
+---
 #### [Spring Batch Tutorial: Reading Information From a REST API](https://www.petrikainulainen.net/programming/spring-framework/spring-batch-tutorial-reading-information-from-a-rest-api/)
 _<sup>https://www.petrikainulainen.net/programming/spring-framework/spring-batch-tutorial-reading-informat...</sup>_
 

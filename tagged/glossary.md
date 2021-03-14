@@ -2,6 +2,26 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/glossary](https://www.bookmarks.dev/tagged/glossary)</sup></sup>_
 ---
+#### [What Is an X.509 Certificate? - SSL.com](https://www.ssl.com/faqs/what-is-an-x-509-certificate/)
+_<sup>https://www.ssl.com/faqs/what-is-an-x-509-certificate/</sup>_
+
+**X.509** is a standard format for **public key certificates**, digital documents that securely associate cryptographic key pairs with identities such as websites, individuals, or organizations.
+
+Firs...
+* **tags**: [security](../tagged/security.md), [glossary](../tagged/glossary.md), [ssl-certificate](../tagged/ssl-certificate.md)
+---
+#### [Eavesdropping - Wikipedia](https://en.wikipedia.org/wiki/Eavesdropping)
+_<sup>https://en.wikipedia.org/wiki/Eavesdropping</sup>_
+
+Eavesdropping is the act of secretly or stealthily listening to the private conversation or communications of others without their consent in order to gather information.
+* **tags**: [security](../tagged/security.md), [glossary](../tagged/glossary.md)
+---
+#### [Entropy - an overview](https://www.sciencedirect.com/topics/computer-science/entropy)
+_<sup>https://www.sciencedirect.com/topics/computer-science/entropy</sup>_
+
+**Entropy**, in cyber security, is a measure of the randomness or diversity of a data-generating function. Data with full entropy is completely random and no meaningful patterns can be found. Low entr...
+* **tags**: [security](../tagged/security.md), [glossary](../tagged/glossary.md)
+---
 #### [Standardized Glossary - Kubernetes](https://kubernetes.io/docs/reference/glossary/)
 _<sup>https://kubernetes.io/docs/reference/glossary/</sup>_
 

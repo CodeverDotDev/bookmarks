@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/unix](https://www.bookmarks.dev/tagged/unix)</sup></sup>_
 ---
+#### [Unix Toolbox](http://cb.vu/unixtoolbox.xhtml?utm_medium=email&utm_source=topic+optin&utm_campaign=awareness&utm_content=20200314+prog+nl&utm_medium=email&utm_source=topic+optin&utm_campaign=awareness&utm_content=20210116+prog+nl&mkt_tok=eyJpIjoiTkRobFl6VmtNekpoWm1WaiIsInQiOiI1cm1MdUcxYVV5ZUc2aEJEeEFWVk9YYTVuN0l3UHJNU2h3ZEVkZVhXbzZFRlBLSXEwQWdqZkZOSndkZVwvM2N5d1hBNHBqU2xja0Q3S3ZVa1Bpd0p0aEhGbHBOVmxYUkNGSWYxQmVhTlVYditkNStzb01TUENPcXdJZk1RRldsWk8ifQ%3D%3D#screen)
+_<sup>http://cb.vu/unixtoolbox.xhtml?utm_medium=email&utm_source=topic+optin&utm_campaign=awareness&utm_co...</sup>_
+
+A collection of Unix/Linux/BSD commands and tasks which are useful for IT work or for advanced users, a compact and practical reference.
+* **tags**: [linux](../tagged/linux.md), [unix](../tagged/unix.md)
+---
 #### [About hard links in Unix](https://kb.iu.edu/d/aibc)
 _<sup>https://kb.iu.edu/d/aibc</sup>_
 

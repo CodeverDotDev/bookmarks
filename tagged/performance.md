@@ -2,6 +2,14 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/performance](https://www.bookmarks.dev/tagged/performance)</sup></sup>_
 ---
+#### [Bulk Processing with BULK COLLECT and FORALL](https://blogs.oracle.com/oraclemagazine/bulk-processing-with-bulk-collect-and-forall)
+_<sup>https://blogs.oracle.com/oraclemagazine/bulk-processing-with-bulk-collect-and-forall</sup>_
+
+In this article, I will cover the two most important of these features: BULK COLLECT and FORALL.
+* BULK COLLECT: SELECT statements that retrieve multiple rows with a single fetch, improving the speed ...
+* :calendar: **published on**: 2012-10-01
+* **tags**: [oracle](../tagged/oracle.md), [plsql](../tagged/plsql.md), [performance](../tagged/performance.md), [optimization](../tagged/optimization.md)
+---
 #### [GitHub - aFarkas/lazysizes](https://github.com/aFarkas/lazysizes)
 _<sup>https://github.com/aFarkas/lazysizes</sup>_
 

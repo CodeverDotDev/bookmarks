@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/business-process](https://www.bookmarks.dev/tagged/business-process)</sup></sup>_
 ---
+#### [Go-to-market strategy for engineers - Zero Credibility](https://www.spakhm.com/p/go-to-market-strategy-for-engineers)
+_<sup>https://www.spakhm.com/p/go-to-market-strategy-for-engineers</sup>_
+
+Roughly, a go-to-market strategy is the answer to the question "how will you sell what you've made?". Are you startup A or startup B?
+* :calendar: **published on**: 2020-09-18
+* **tags**: [business-process](../tagged/business-process.md), [marketing](../tagged/marketing.md)
+---
 #### [Recovery point objective - Wikipedia](https://en.wikipedia.org/wiki/Recovery_point_objective)
 _<sup>https://en.wikipedia.org/wiki/Recovery_point_objective</sup>_
 

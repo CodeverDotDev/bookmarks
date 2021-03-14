@@ -2,6 +2,22 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/specification](https://www.bookmarks.dev/tagged/specification)</sup></sup>_
 ---
+#### [RFC 2965 - HTTP State Management Mechanism](https://tools.ietf.org/html/rfc2965)
+_<sup>https://tools.ietf.org/html/rfc2965</sup>_
+
+   This document specifies a way to create a stateful session with
+   Hypertext Transfer Protocol (HTTP) requests and responses.  It
+   describes three new headers, Cookie, Cookie2, and Set-Cookie2, w...
+* **tags**: [http](../tagged/http.md), [cookies](../tagged/cookies.md), [specification](../tagged/specification.md)
+---
+#### [RFC 7636 - Proof Key for Code Exchange by OAuth Public Clients](https://tools.ietf.org/html/rfc7636)
+_<sup>https://tools.ietf.org/html/rfc7636</sup>_
+
+ OAuth 2.0 public clients utilizing the Authorization Code Grant are
+   susceptible to the authorization code interception attack.  This
+   specification describes the attack as well as a technique to...
+* **tags**: [oauth2](../tagged/oauth2.md), [openid-connect](../tagged/openid-connect.md), [specification](../tagged/specification.md)
+---
 #### [General overview of GraphQL in graphql-spec/README.md](https://github.com/graphql/graphql-spec/blob/master/README.md)
 _<sup>https://github.com/graphql/graphql-spec/blob/master/README.md</sup>_
 

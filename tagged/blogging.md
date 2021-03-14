@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/blogging](https://www.bookmarks.dev/tagged/blogging)</sup></sup>_
 ---
+#### [How to give your Jekyll Site Structured Data for Search with JSON-LD](https://aramzs.github.io/jekyll/schema-dot-org/2018/04/27/how-to-make-your-jekyll-site-structured.html)
+_<sup>https://aramzs.github.io/jekyll/schema-dot-org/2018/04/27/how-to-make-your-jekyll-site-structured.ht...</sup>_
+
+You’ve got Jekyll, now you need to get all your structured data ready for Google, archival systems and more with Schema.org markup. Here’s how you can deploy a structured data in a JSON-LD format to y...
+* :calendar: **published on**: 2018-04-27
+* **tags**: [blogging](../tagged/blogging.md), [jekyll](../tagged/jekyll.md), [structured-data](../tagged/structured-data.md)
+---
 #### [Create JSON-LD Structured Data in Jekyll ](https://mincong.io/2018/08/22/create-json-ld-structured-data-in-jekyll/)
 _<sup>https://mincong.io/2018/08/22/create-json-ld-structured-data-in-jekyll/</sup>_
 

@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/cheatsheets](https://www.bookmarks.dev/tagged/cheatsheets)</sup></sup>_
 ---
+#### [5 Useful Cheatsheet Websites For Programmers | by Harsh Patel | JavaScript in Plain English | Feb, 2021 | Medium](https://medium.com/javascript-in-plain-english/5-website-cheat-sheet-for-programmer-d6fdf9d8e311)
+_<sup>https://medium.com/javascript-in-plain-english/5-website-cheat-sheet-for-programmer-d6fdf9d8e311</sup>_
+
+As a programmer, we’re learning lots of technologies. We’re using multiple technologies in the development process. At that time we can’t remember all syntax, methods, functions, or other…
+* **tags**: [cheatsheets](../tagged/cheatsheets.md)
+---
 #### [cheat.sh/:firstpage](https://cheat.sh/)
 _<sup>https://cheat.sh/</sup>_
 

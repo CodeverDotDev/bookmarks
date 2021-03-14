@@ -2,6 +2,23 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/database](https://www.bookmarks.dev/tagged/database)</sup></sup>_
 ---
+#### [How to Create Database Indexes: Databases for Developers: Performance 12min](https://www.youtube.com/watch?v=7wLFr7ZnKPU&feature=emb_logo)
+_<sup>https://www.youtube.com/watch?v=7wLFr7ZnKPU&feature=emb_logo</sup>_
+
+Indexes are one of the most common performance tools available. 
+But how do you create one? And how does it help the database find your data faster?
+
+Watch this video to learn how to create an index a...
+* :calendar: **published on**: 2020-06-15
+* **tags**: [oracle](../tagged/oracle.md), [database](../tagged/database.md), [indexing](../tagged/indexing.md), [sql](../tagged/sql.md)
+---
+#### [ORM: avoid using many to many relationships - DEV](https://dev.to/apium_hub/orm-avoid-using-many-to-many-relationships-52in)
+_<sup>https://dev.to/apium_hub/orm-avoid-using-many-to-many-relationships-52in</sup>_
+
+The usage of ORMs (data mappers) comes with a great power but also with a great responsibility. ORMs... Tagged with architecture, objectrelationalmapp, orm.
+* :calendar: **published on**: 2020-12-07
+* **tags**: [orm](../tagged/orm.md), [database](../tagged/database.md), [database-design](../tagged/database-design.md)
+---
 #### [GitHub - darold/pgbadger: A fast PostgreSQL Log Analyzer](https://github.com/darold/pgbadger)
 _<sup>https://github.com/darold/pgbadger</sup>_
 

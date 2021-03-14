@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/rest](https://www.bookmarks.dev/tagged/rest)</sup></sup>_
 ---
+#### [What you really need to know about securing APIs with mutual certificates](https://nevatech.com/blog/post/What-you-need-to-know-about-securing-APIs-with-mutual-certificates)
+_<sup>https://nevatech.com/blog/post/What-you-need-to-know-about-securing-APIs-with-mutual-certificates</sup>_
+
+When configuring Mutual SSL security for your APIs, or when calling somebody else’s API using this security model, pay attention to the 4 typical requirements listed in this article. Always take into ...
+* :calendar: **published on**: 2017-12-12
+* **tags**: [ssl](../tagged/ssl.md), [ssl-certificate](../tagged/ssl-certificate.md), [rest](../tagged/rest.md), [api](../tagged/api.md)
+---
 #### [Multiple Media Types in Java Microservices with RESTEasy](https://stackify.com/multiple-media-types-java-microservices-resteasy/)
 _<sup>https://stackify.com/multiple-media-types-java-microservices-resteasy/</sup>_
 

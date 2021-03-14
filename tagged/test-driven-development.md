@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/test-driven-development](https://www.bookmarks.dev/tagged/test-driven-development)</sup></sup>_
 ---
+#### [Le TDD, cet éternel incompris](https://www.synbioz.com/blog/tech/le-tdd-cet-eternel-incompris)
+_<sup>https://www.synbioz.com/blog/tech/le-tdd-cet-eternel-incompris</sup>_
+
+Petite introduction au « Test Driven Development » et sa philosophie.
+* :calendar: **published on**: 2020-12-11
+* **tags**: [test-driven-development](../tagged/test-driven-development.md)
+---
 #### [Justin Searls – Please don’t mock me - 51min](https://www.youtube.com/watch?v=Af4M8GMoxi4)
 _<sup>https://www.youtube.com/watch?v=Af4M8GMoxi4</sup>_
 

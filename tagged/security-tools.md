@@ -2,6 +2,32 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/security-tools](https://www.bookmarks.dev/tagged/security-tools)</sup></sup>_
 ---
+#### [CWE - Common Weakness Enumeration](https://cwe.mitre.org/index.html)
+_<sup>https://cwe.mitre.org/index.html</sup>_
+
+CWE™ is a community-developed list of software and hardware weakness types. It serves as a common language, a measuring stick for security tools, and as a baseline for weakness identification, mitigat...
+* **tags**: [security](../tagged/security.md), [security-tools](../tagged/security-tools.md), [software-development](../tagged/software-development.md)
+---
+#### [OWASP ZAP](https://www.zaproxy.org/)
+_<sup>https://www.zaproxy.org/</sup>_
+
+The OWASP Zed Attack Proxy (ZAP) is one of the world’s most popular free security tools and is actively maintained by a dedicated international team of volunteers. It can help you automatically find s...
+* **tags**: [security](../tagged/security.md), [security-tools](../tagged/security-tools.md)
+* :octocat: **[source code](https://github.com/zaproxy/zaproxy)**
+---
+#### [mitmproxy - an interactive HTTPS proxy](https://mitmproxy.org/)
+_<sup>https://mitmproxy.org/</sup>_
+
+An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
+* **tags**: [http-proxy](../tagged/http-proxy.md), [security](../tagged/security.md), [security-tools](../tagged/security-tools.md), [proxy](../tagged/proxy.md)
+* :octocat: **[source code](https://github.com/mitmproxy/mitmproxy)**
+---
+#### [What do SAST, DAST, IAST and RASP mean to developers?](https://www.softwaresecured.com/what-do-sast-dast-iast-and-rasp-mean-to-developers/)
+_<sup>https://www.softwaresecured.com/what-do-sast-dast-iast-and-rasp-mean-to-developers/</sup>_
+
+It’s estimated that 90 percent of security incidents result from attackers exploiting known software bugs. Needless to say, squashing those bugs in the development phase of software could reduce the i...
+* **tags**: [security](../tagged/security.md), [security-tools](../tagged/security-tools.md), [terminology](../tagged/terminology.md)
+---
 #### [arvancloud/libinjection-rs](https://github.com/arvancloud/libinjection-rs)
 _<sup>https://github.com/arvancloud/libinjection-rs</sup>_
 

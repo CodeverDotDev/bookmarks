@@ -2,6 +2,19 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/optimization](https://www.bookmarks.dev/tagged/optimization)</sup></sup>_
 ---
+#### [Is Scheme Faster than C?](https://web.archive.org/web/20100310163003/https://www.cs.indiana.edu/~jsobel/c455-c511.updated.txt)
+_<sup>https://web.archive.org/web/20100310163003/https://www.cs.indiana.edu/~jsobel/c455-c511.updated.txt</sup>_
+
+* **tags**: [scheme](../tagged/scheme.md), [optimization](../tagged/optimization.md)
+---
+#### [Bulk Processing with BULK COLLECT and FORALL](https://blogs.oracle.com/oraclemagazine/bulk-processing-with-bulk-collect-and-forall)
+_<sup>https://blogs.oracle.com/oraclemagazine/bulk-processing-with-bulk-collect-and-forall</sup>_
+
+In this article, I will cover the two most important of these features: BULK COLLECT and FORALL.
+* BULK COLLECT: SELECT statements that retrieve multiple rows with a single fetch, improving the speed ...
+* :calendar: **published on**: 2012-10-01
+* **tags**: [oracle](../tagged/oracle.md), [plsql](../tagged/plsql.md), [performance](../tagged/performance.md), [optimization](../tagged/optimization.md)
+---
 #### [Optimize animated GIF](https://ezgif.com/optimize)
 _<sup>https://ezgif.com/optimize</sup>_
 

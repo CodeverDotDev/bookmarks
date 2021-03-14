@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/oop](https://www.bookmarks.dev/tagged/oop)</sup></sup>_
 ---
+#### [The Principles of Agile Design](https://www.infoq.com/presentations/principles-agile-oo-design/)
+_<sup>https://www.infoq.com/presentations/principles-agile-oo-design/</sup>_
+
+Bob Martin of Object Mentor presents the first of his five principles of agile design. Beginning with an explanation of the real purpose of object-oriented design - the management of dependencies - Bo...
+* **tags**: [design-patterns](../tagged/design-patterns.md), [software-architecture](../tagged/software-architecture.md), [oop](../tagged/oop.md)
+---
 #### [FP vs. OO](https://www.innoq.com/en/blog/fp-vs-oo/)
 _<sup>https://www.innoq.com/en/blog/fp-vs-oo/</sup>_
 

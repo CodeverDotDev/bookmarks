@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/authentication](https://www.bookmarks.dev/tagged/authentication)</sup></sup>_
 ---
+#### [PKCE support with Keycloak 7.0 for mobile apps - JANUA](https://www.janua.fr/pkce-support-with-keycloak-7-0/)
+_<sup>https://www.janua.fr/pkce-support-with-keycloak-7-0/</sup>_
+
+PKCE support with Keycloak 7.0: Keycloak 7.0 has been released on Aug 25th 2019 with PKCE support. This represents a major breakthrough for all mobile apps to increase security and to mitigate malicio...
+* **tags**: [keycloak](../tagged/keycloak.md), [oauth2](../tagged/oauth2.md), [authentication](../tagged/authentication.md), [authorization](../tagged/authorization.md)
+---
 #### [Keycloak Authentication and Authorization in GraphQL](https://medium.com/@darahayes/keycloak-authentication-and-authorization-in-graphql-ad0a1685f7da)
 _<sup>https://medium.com/@darahayes/keycloak-authentication-and-authorization-in-graphql-ad0a1685f7da</sup>_
 

@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/mongodb](https://www.bookmarks.dev/tagged/mongodb)</sup></sup>_
 ---
+#### [Defending Against Query Selector Injection Attacks](https://thecodebarbarian.wordpress.com/2014/09/04/defending-against-query-selector-injection-attacks/)
+_<sup>https://thecodebarbarian.wordpress.com/2014/09/04/defending-against-query-selector-injection-attacks...</sup>_
+
+This article shows two simple ways to protect against the attacks described in [Hacking NodeJS and MongoDB](https://blog.websecurify.com/2014/08/hacking-nodejs-and-mongodb.html). One of the them is by...
+* **tags**: [mongodb](../tagged/mongodb.md), [node.js](../tagged/node.js.md), [expressjs](../tagged/expressjs.md), [security](../tagged/security.md)
+* :octocat: **[source code](https://github.com/vkarpov15/mongo-sanitize)**
+---
 #### [Nosqlclient](https://www.nosqlclient.com/)
 _<sup>https://www.nosqlclient.com/</sup>_
 
@@ -276,7 +283,7 @@ Use sandbox plans which are free and are ideal for learning, developing, and pro
 _<sup>https://docs.mongodb.com/manual/administration/security-checklist/</sup>_
 
 This documents provides a list of security measures that you should implement to protect your MongoDB installation.
-* **tags**: [mongodb](../tagged/mongodb.md), [security](../tagged/security.md)
+* **tags**: [mongodb](../tagged/mongodb.md), [security](../tagged/security.md), [checklist](../tagged/checklist.md)
 ---
 #### [The MongoDB Manual](https://docs.mongodb.com/manual/)
 _<sup>https://docs.mongodb.com/manual/</sup>_

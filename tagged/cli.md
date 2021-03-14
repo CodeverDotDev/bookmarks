@@ -2,6 +2,24 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/cli](https://www.bookmarks.dev/tagged/cli)</sup></sup>_
 ---
+#### [GitHub - chalk/chalk: 🖍 Terminal string styling done right](https://github.com/chalk/chalk#readme)
+_<sup>https://github.com/chalk/chalk#readme</sup>_
+
+🖍 Terminal string styling done right. Contribute to chalk/chalk development by creating an account on GitHub.
+* **tags**: [node.js](../tagged/node.js.md), [terminal](../tagged/terminal.md), [cli](../tagged/cli.md), [colors](../tagged/colors.md), [fonts](../tagged/fonts.md)
+---
+#### [Create boxes in the terminal](https://github.com/sindresorhus/boxen#readme)
+_<sup>https://github.com/sindresorhus/boxen#readme</sup>_
+
+Create boxes in the terminal. Contribute to sindresorhus/boxen development by creating an account on GitHub.
+* **tags**: [node.js](../tagged/node.js.md), [terminal](../tagged/terminal.md), [cli](../tagged/cli.md), [box](../tagged/box.md), [margin](../tagged/margin.md), [border](../tagged/border.md)
+---
+#### [yargs (node.js cli parameters)](https://yargs.js.org/)
+_<sup>https://yargs.js.org/</sup>_
+
+the yargs.js.org website.
+* **tags**: [node.js](../tagged/node.js.md), [cli](../tagged/cli.md), [parameters](../tagged/parameters.md), [libraries](../tagged/libraries.md)
+---
 #### [GraphQL Code Generator Home Page](https://graphql-code-generator.com/)
 _<sup>https://graphql-code-generator.com/</sup>_
 

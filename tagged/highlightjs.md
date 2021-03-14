@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/highlightjs](https://www.bookmarks.dev/tagged/highlightjs)</sup></sup>_
 ---
+#### [How to insert and highlight code in Jekyll blog post on Codepedia.org – CodepediaOrg](https://www.codepedia.org/ama/how-to-insert-and-highlight-code-in-jekyll-blog-post-on-codingpedia-org)
+_<sup>https://www.codepedia.org/ama/how-to-insert-and-highlight-code-in-jekyll-blog-post-on-codingpedia-or...</sup>_
+
+This demo post displays the various ways of inserting and highlighting code in Markdown, when posting on Codepedia.org
+* **tags**: [code-highlighting](../tagged/code-highlighting.md), [jekyll](../tagged/jekyll.md), [highlightjs](../tagged/highlightjs.md)
+---
 #### [highlight.js themes ](https://github.com/highlightjs/highlight.js/tree/master/src/styles)
 _<sup>https://github.com/highlightjs/highlight.js/tree/master/src/styles</sup>_
 

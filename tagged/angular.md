@@ -2,6 +2,33 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/angular](https://www.bookmarks.dev/tagged/angular)</sup></sup>_
 ---
+#### [Angular HTTP Client - QuickStart Guide](https://blog.angular-university.io/angular-http/)
+_<sup>https://blog.angular-university.io/angular-http/</sup>_
+
+Complete Guide on Angular HTTP: Learn how to do common HTTP operations: GET, PUT, PATCH, DELETE,  POST, Error Handling, Interceptors, etc.
+* **tags**: [angular](../tagged/angular.md), [http-client](../tagged/http-client.md)
+---
+#### [PART 1 — The Case For Component Inheritance In Angular | by Sani Yusuf | Medium](https://medium.com/@saniyusuf/part-1-the-case-for-component-inheritance-in-angular-a34fe2a0f7ac)
+_<sup>https://medium.com/@saniyusuf/part-1-the-case-for-component-inheritance-in-angular-a34fe2a0f7ac</sup>_
+
+Component Inheritance is where arguably, Angular’s least used and discussed feature comes to the fray. What is Component inheritance in Angular and what does it look like? Component inheritance in Ang...
+* :calendar: **published on**: 2018-12-14
+* **tags**: [angular](../tagged/angular.md), [inheritance](../tagged/inheritance.md)
+---
+#### [Exploring Angular Lifecycle Hooks – OnInit ](https://ultimatecourses.com/blog/exploring-angular-lifecycle-hooks-oninit)
+_<sup>https://ultimatecourses.com/blog/exploring-angular-lifecycle-hooks-oninit</sup>_
+
+In this article, we will review how to implement OnInit, common use cases for OnInit, and wrap-up with some bonus use cases for OnInit to answer all those questions.
+* :calendar: **published on**: 2019-05-23
+* **tags**: [angular](../tagged/angular.md)
+---
+#### [brtnshrdr/angular2-hotkeys home page](https://github.com/brtnshrdr/angular2-hotkeys/)
+_<sup>https://github.com/brtnshrdr/angular2-hotkeys/</sup>_
+
+Keyboard shortcuts for Angular 2 apps
+* **tags**: [angular](../tagged/angular.md), [typescript](../tagged/typescript.md), [shortcuts](../tagged/shortcuts.md), [hotkeys](../tagged/hotkeys.md)
+* :octocat: **[source code](https://github.com/brtnshrdr/angular2-hotkeys/)**
+---
 #### [Testing Angular with jest ](https://ordina-jworks.github.io/testing/2018/08/03/testing-angular-with-jest.html)
 _<sup>https://ordina-jworks.github.io/testing/2018/08/03/testing-angular-with-jest.html</sup>_
 
@@ -413,7 +440,7 @@ _<sup>https://coryrylan.com/blog/using-angular-forms-with-async-data</sup>_
 
 Most single page apps deal with asynchronous API calls in conjunction with user input in some way. Often it’s not clear how or what the best practices are when dealing with async data and forms togeth...
 * :calendar: **published on**: 2018-01-28
-* **tags**: [angular](../tagged/angular.md), [forms](../tagged/forms.md)
+* **tags**: [angular](../tagged/angular.md), [forms](../tagged/forms.md), [async](../tagged/async.md)
 * :octocat: **[source code](https://stackblitz.com/edit/angular-uquzq9)**
 ---
 #### [Reducing the forms boilerplate — make your Angular forms reusable](https://medium.com/angular-in-depth/reducing-the-forms-boilerplate-make-your-angular-forms-reusable-ee06d7c07f47)

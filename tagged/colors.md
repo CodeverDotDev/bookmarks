@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/colors](https://www.bookmarks.dev/tagged/colors)</sup></sup>_
 ---
+#### [GitHub - chalk/chalk: 🖍 Terminal string styling done right](https://github.com/chalk/chalk#readme)
+_<sup>https://github.com/chalk/chalk#readme</sup>_
+
+🖍 Terminal string styling done right. Contribute to chalk/chalk development by creating an account on GitHub.
+* **tags**: [node.js](../tagged/node.js.md), [terminal](../tagged/terminal.md), [cli](../tagged/cli.md), [colors](../tagged/colors.md), [fonts](../tagged/fonts.md)
+---
 #### [HTML Color Picker Tool](https://hexcolor.co/color-picker)
 _<sup>https://hexcolor.co/color-picker</sup>_
 

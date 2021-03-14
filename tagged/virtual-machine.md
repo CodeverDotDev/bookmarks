@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/virtual-machine](https://www.bookmarks.dev/tagged/virtual-machine)</sup></sup>_
 ---
+#### [Byte Buddy - runtime code generation for the Java virtual machine](https://bytebuddy.net/#/)
+_<sup>https://bytebuddy.net/#/</sup>_
+
+Byte Buddy is a code generation and manipulation library for creating and modifying Java classes during the runtime of a Java application and without the help of a compiler. Other than the code genera...
+* **tags**: [java](../tagged/java.md), [virtual-machine](../tagged/virtual-machine.md), [jvm](../tagged/jvm.md), [runtime](../tagged/runtime.md)
+* :octocat: **[source code](https://github.com/raphw/byte-buddy)**
+---
 #### [CarpVM](https://github.com/tekknolagi/carp)
 _<sup>https://github.com/tekknolagi/carp</sup>_
 

@@ -2,6 +2,19 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/programming](https://www.bookmarks.dev/tagged/programming)</sup></sup>_
 ---
+#### [Java Annotated Monthly – December 2020 | JetBrains Blog](https://blog.jetbrains.com/idea/2020/12/java-annotated-monthly-december-2020/)
+_<sup>https://blog.jetbrains.com/idea/2020/12/java-annotated-monthly-december-2020/</sup>_
+
+* :calendar: **published on**: 2020-12-02
+* **tags**: [java](../tagged/java.md), [programming](../tagged/programming.md)
+---
+#### [La meilleure technique de résolution de problèmes en programmation - Je suis un dev](https://www.jesuisundev.com/resolution-de-problemes/)
+_<sup>https://www.jesuisundev.com/resolution-de-problemes/</sup>_
+
+La résolution de problèmes est ta principale activité en tant que développeur. Devenir bon là-dedans, c'est obligatoire.
+* :calendar: **published on**: 2020-12-14
+* **tags**: [programming](../tagged/programming.md), [methodology](../tagged/methodology.md)
+---
 #### [GitHub - EbookFoundation/free-programming-books: Freely available programming books](https://github.com/EbookFoundation/free-programming-books?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily)
 _<sup>https://github.com/EbookFoundation/free-programming-books?utm_campaign=explore-email&utm_medium=emai...</sup>_
 

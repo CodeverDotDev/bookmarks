@@ -9,3 +9,9 @@ Performance is a huge subject, but it's not always a "back-end" or an "admin" su
 * **tags**: [frontend](../tagged/frontend.md), [performance](../tagged/performance.md), [checklist](../tagged/checklist.md)
 * :octocat: **[source code](https://github.com/thedaviddias/Front-End-Performance-Checklist)**
 ---
+#### [Security Checklist — MongoDB Manual](https://docs.mongodb.com/manual/administration/security-checklist/)
+_<sup>https://docs.mongodb.com/manual/administration/security-checklist/</sup>_
+
+This documents provides a list of security measures that you should implement to protect your MongoDB installation.
+* **tags**: [mongodb](../tagged/mongodb.md), [security](../tagged/security.md), [checklist](../tagged/checklist.md)
+---

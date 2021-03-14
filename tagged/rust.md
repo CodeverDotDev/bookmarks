@@ -2,6 +2,17 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/rust](https://www.bookmarks.dev/tagged/rust)</sup></sup>_
 ---
+#### [
+        
+        A half-hour to learn Rust - fasterthanli.me
+        
+    ](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
+_<sup>https://fasterthanli.me/articles/a-half-hour-to-learn-rust</sup>_
+
+In order to increase fluency in a programming language, one has to read a lot of it.
+But how can you read a lot of it if you don't know what it means? In this article, instead o...
+* **tags**: [rust](../tagged/rust.md)
+---
 #### [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy)
 _<sup>https://github.com/rust-lang/rust-clippy</sup>_
 

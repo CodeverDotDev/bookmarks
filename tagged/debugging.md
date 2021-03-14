@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/debugging](https://www.bookmarks.dev/tagged/debugging)</sup></sup>_
 ---
+#### [Root Cause Analysis Example](https://www.shmula.com/root-cause-analysis/)
+_<sup>https://www.shmula.com/root-cause-analysis/</sup>_
+
+Root Cause Analysis is a helpful business tool with application to all areas of business and technology. Eliminating or reducing the root cause is much more effective than fixing a symptom. Involving ...
+* **tags**: [methodology](../tagged/methodology.md), [debugging](../tagged/debugging.md)
+---
 #### [Debugging | Firefox Extension Workshop](https://extensionworkshop.com/documentation/develop/debugging/)
 _<sup>https://extensionworkshop.com/documentation/develop/debugging/</sup>_
 

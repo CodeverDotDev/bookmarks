@@ -2,6 +2,28 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/websocket](https://www.bookmarks.dev/tagged/websocket)</sup></sup>_
 ---
+#### [subscriptions-transport-ws - npm](https://www.npmjs.com/package/subscriptions-transport-ws)
+_<sup>https://www.npmjs.com/package/subscriptions-transport-ws</sup>_
+
+(Work in progress!)
+
+A GraphQL WebSocket server and client to facilitate GraphQL queries, mutations and subscriptions over WebSocket.
+* **tags**: [graphql](../tagged/graphql.md), [graphql-client](../tagged/graphql-client.md), [websocket](../tagged/websocket.md)
+* :octocat: **[source code](https://github.com/apollostack/subscriptions-transport-ws)**
+---
+#### [Using WebSockets with Node.js](https://flaviocopes.com/node-websockets/)
+_<sup>https://flaviocopes.com/node-websockets/</sup>_
+
+A simple example showing how to setup a websocket server and client with the help of the popular Node.js framework [ws](https://github.com/websockets/ws)
+* **tags**: [node.js](../tagged/node.js.md), [websocket](../tagged/websocket.md), [websocket-client](../tagged/websocket-client.md), [websocket-server](../tagged/websocket-server.md)
+---
+#### [websockets/ws home page](https://github.com/websockets/ws)
+_<sup>https://github.com/websockets/ws</sup>_
+
+Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js
+* **tags**: [node.js](../tagged/node.js.md), [javascript](../tagged/javascript.md), [websocket](../tagged/websocket.md), [websocket-server](../tagged/websocket-server.md), [websocket-client](../tagged/websocket-client.md)
+* :octocat: **[source code](https://github.com/websockets/ws)**
+---
 #### [AnyCable](http://anycable.io)
 _<sup>http://anycable.io</sup>_
 

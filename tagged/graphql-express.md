@@ -2,6 +2,15 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/graphql-express](https://www.bookmarks.dev/tagged/graphql-express)</sup></sup>_
 ---
+#### [keycloak-connect-graphql - npm](https://www.npmjs.com/package/keycloak-connect-graphql)
+_<sup>https://www.npmjs.com/package/keycloak-connect-graphql</sup>_
+
+A comprehensive solution for adding keycloak Authentication and Authorization to your Express based GraphQL server.
+
+Based on the keycloak-connect middleware for Express. Provides useful Authenticatio...
+* **tags**: [graphql](../tagged/graphql.md), [graphql-express](../tagged/graphql-express.md), [keycloak](../tagged/keycloak.md)
+* :octocat: **[source code](https://github.com/aerogear/keycloak-connect-graphql)**
+---
 #### [Eric Baer - The Evolution of API Design: From RPC to GraphQL | VueConf 2017 - 39min](https://www.youtube.com/watch?v=PmWho45WmQY)
 _<sup>https://www.youtube.com/watch?v=PmWho45WmQY</sup>_
 

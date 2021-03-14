@@ -2,6 +2,20 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/testing](https://www.bookmarks.dev/tagged/testing)</sup></sup>_
 ---
+#### [Testing Java Collections with AssertJ](https://medium.com/enfuse-io/testing-java-collections-with-assertj-2fa678d80952)
+_<sup>https://medium.com/enfuse-io/testing-java-collections-with-assertj-2fa678d80952</sup>_
+
+Testing Collections in Java? You can say “Not a big deal”. I agree, but, for example, a comparison of two Lists of custom objects can be painful and it is not the only problem you can run into. Let’s ...
+* :calendar: **published on**: 2019-09-12
+* **tags**: [java](../tagged/java.md), [testing](../tagged/testing.md), [assertj](../tagged/assertj.md)
+---
+#### [A Unit Tester's Guide to Mockito](https://www.toptal.com/java/a-guide-to-everyday-mockito)
+_<sup>https://www.toptal.com/java/a-guide-to-everyday-mockito</sup>_
+
+In this article, we’ll cover creating and configuring mocks and using them to verify the expected behavior of the system being tested. We’ll also dive a bit into Mockito’s internals to better understa...
+* **tags**: [testing](../tagged/testing.md), [java](../tagged/java.md), [mockito](../tagged/mockito.md), [junit](../tagged/junit.md), [unit-testing](../tagged/unit-testing.md)
+* :octocat: **[source code](https://github.com/bitlama/mockito-demo)**
+---
 #### [UnitTest](https://martinfowler.com/bliki/UnitTest.html)
 _<sup>https://martinfowler.com/bliki/UnitTest.html</sup>_
 

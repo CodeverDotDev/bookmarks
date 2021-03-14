@@ -6,7 +6,7 @@ _<sup><sup>[www.bookmarks.dev/tagged/lambda](https://www.bookmarks.dev/tagged/la
 _<sup>http://cr.openjdk.java.net/~briangoetz/lambda/lambda-state-final.html</sup>_
 
 Java SE 8 adds a relatively small number of new language features -- lambda expressions, method references, default and static methods in interfaces, and more widespread use of type inference. Taken t...
-* **tags**: [java](../tagged/java.md), [lambda](../tagged/lambda.md), [java-8](../tagged/java-8.md)
+* **tags**: [java](../tagged/java.md), [lambda](../tagged/lambda.md)
 ---
 #### [JDK 8: Lessons Learnt With Lambdas and Streams - 30min](https://www.youtube.com/watch?v=wZKmA6XodNE&t=3s)
 _<sup>https://www.youtube.com/watch?v=wZKmA6XodNE&t=3s</sup>_

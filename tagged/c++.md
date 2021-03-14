@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/c++](https://www.bookmarks.dev/tagged/c++)</sup></sup>_
 ---
+#### [Learning C/C++: How pointers work? | Mindsers Blog](https://mindsers.blog/en/pointers-c-cplusplus/)
+_<sup>https://mindsers.blog/en/pointers-c-cplusplus/</sup>_
+
+Pointers are hated by many 1st-year student of any dev school though it really isn't that bad. I'm going to give you few elements to help you master pointers
+* :calendar: **published on**: 2019-09-11
+* **tags**: [c](../tagged/c.md), [c++](../tagged/c++.md)
+---
 #### [libgraphqlparser](https://github.com/graphql/libgraphqlparser)
 _<sup>https://github.com/graphql/libgraphqlparser</sup>_
 

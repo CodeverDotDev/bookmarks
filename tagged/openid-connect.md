@@ -2,6 +2,14 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/openid-connect](https://www.bookmarks.dev/tagged/openid-connect)</sup></sup>_
 ---
+#### [RFC 7636 - Proof Key for Code Exchange by OAuth Public Clients](https://tools.ietf.org/html/rfc7636)
+_<sup>https://tools.ietf.org/html/rfc7636</sup>_
+
+ OAuth 2.0 public clients utilizing the Authorization Code Grant are
+   susceptible to the authorization code interception attack.  This
+   specification describes the attack as well as a technique to...
+* **tags**: [oauth2](../tagged/oauth2.md), [openid-connect](../tagged/openid-connect.md), [specification](../tagged/specification.md)
+---
 #### [GitHub - panva/node-openid-client](https://github.com/panva/node-openid-client)
 _<sup>https://github.com/panva/node-openid-client</sup>_
 
@@ -57,6 +65,12 @@ _<sup>https://www.youtube.com/watch?v=tj03NRM6SP8</sup>_
 Nice introduction (just introduction) to oauth, openid-connect, possible use for securing microservices...
 * :calendar: **published on**: 2015-05-20
 * **tags**: [api](../tagged/api.md), [security](../tagged/security.md), [oauth2](../tagged/oauth2.md), [openid-connect](../tagged/openid-connect.md), [microservices](../tagged/microservices.md)
+---
+#### [Understanding Refresh Tokens - Auth0](https://auth0.com/learn/refresh-tokens/)
+_<sup>https://auth0.com/learn/refresh-tokens/</sup>_
+
+A **Refresh Token** is a special kind of token that can be used to obtain a renewed access token —that allows accessing a protected resource— at any time. You can request new access tokens until the r...
+* **tags**: [jwt](../tagged/jwt.md), [oauth2](../tagged/oauth2.md), [openid-connect](../tagged/openid-connect.md)
 ---
 #### [OpenID Connect](https://auth0.com/docs/protocols/oidc)
 _<sup>https://auth0.com/docs/protocols/oidc</sup>_

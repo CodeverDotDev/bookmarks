@@ -2,6 +2,53 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/oauth2](https://www.bookmarks.dev/tagged/oauth2)</sup></sup>_
 ---
+#### [OAuth 2 Simplified](https://aaronparecki.com/oauth-2-simplified/)
+_<sup>https://aaronparecki.com/oauth-2-simplified/</sup>_
+
+This post describes OAuth 2.0 in a simplified format to help developers and service providers implement the protocol. (
+* **tags**: [oauth2](../tagged/oauth2.md), [single-page-application](../tagged/single-page-application.md), [native](../tagged/native.md), [web-application](../tagged/web-application.md)
+---
+#### [Implement the OAuth 2.0 Authorization Code with PKCE Flow](https://developer.okta.com/blog/2019/08/22/okta-authjs-pkce)
+_<sup>https://developer.okta.com/blog/2019/08/22/okta-authjs-pkce</sup>_
+
+In this post, you’ll learn some foundational concepts of OIDC and OAuth2. You’ll be guided through a simple SPA example written in Vue.js that starts with the older (now deprecated) Implicit flow and ...
+* :calendar: **published on**: 2019-09-22
+* **tags**: [oauth2](../tagged/oauth2.md), [authorization](../tagged/authorization.md), [pkce](../tagged/pkce.md)
+---
+#### [Prevent Attacks and Redirect Users with OAuth 2.0 State Parameters](https://auth0.com/docs/protocols/state-parameters)
+_<sup>https://auth0.com/docs/protocols/state-parameters</sup>_
+
+Authorization protocols provide a `state` parameter that allows you to restore the previous state of your application. The `state` parameter preserves some state objects set by the client in the Autho...
+* **tags**: [oauth2](../tagged/oauth2.md), [csrf](../tagged/csrf.md)
+---
+#### [Is the OAuth 2.0 Implicit Flow Dead?](https://developer.okta.com/blog/2019/05/01/is-the-oauth-implicit-flow-dead)
+_<sup>https://developer.okta.com/blog/2019/05/01/is-the-oauth-implicit-flow-dead</sup>_
+
+You may have heard some buzz recently about the OAuth 2.0 Implicit flow. The OAuth Working Group has published some new guidance around the Implicit flow and JavaScript-based apps, specifically that t...
+* :calendar: **published on**: 2019-05-01
+* **tags**: [oauth2](../tagged/oauth2.md), [authorization](../tagged/authorization.md)
+---
+#### [PKCE support with Keycloak 7.0 for mobile apps - JANUA](https://www.janua.fr/pkce-support-with-keycloak-7-0/)
+_<sup>https://www.janua.fr/pkce-support-with-keycloak-7-0/</sup>_
+
+PKCE support with Keycloak 7.0: Keycloak 7.0 has been released on Aug 25th 2019 with PKCE support. This represents a major breakthrough for all mobile apps to increase security and to mitigate malicio...
+* **tags**: [keycloak](../tagged/keycloak.md), [oauth2](../tagged/oauth2.md), [authentication](../tagged/authentication.md), [authorization](../tagged/authorization.md)
+---
+#### [RFC 7636 - Proof Key for Code Exchange by OAuth Public Clients](https://tools.ietf.org/html/rfc7636)
+_<sup>https://tools.ietf.org/html/rfc7636</sup>_
+
+ OAuth 2.0 public clients utilizing the Authorization Code Grant are
+   susceptible to the authorization code interception attack.  This
+   specification describes the attack as well as a technique to...
+* **tags**: [oauth2](../tagged/oauth2.md), [openid-connect](../tagged/openid-connect.md), [specification](../tagged/specification.md)
+---
+#### [What's New With OAuth and OIDC? - 32min](https://www.youtube.com/watch?v=g_aVPdwBTfw)
+_<sup>https://www.youtube.com/watch?v=g_aVPdwBTfw</sup>_
+
+In this talk you'll learn about the latest developments with the OAuth​ and OIDC​ specs directly from the standards group. The latest additions to the specs enable richer experiences and better secu...
+* :calendar: **published on**: 2020-04-09
+* **tags**: [oauth2](../tagged/oauth2.md), [security](../tagged/security.md), [rfc](../tagged/rfc.md)
+---
 #### [React Simple Auth: React + Redux + OAuth 2.0 - Matt Mazzola - Medium](https://medium.com/@mattmazzola/react-simple-auth-react-redux-oauth-2-0-de6ea9df0a63)
 _<sup>https://medium.com/@mattmazzola/react-simple-auth-react-redux-oauth-2-0-de6ea9df0a63</sup>_
 
@@ -81,6 +128,12 @@ _<sup>https://www.youtube.com/watch?v=tj03NRM6SP8</sup>_
 Nice introduction (just introduction) to oauth, openid-connect, possible use for securing microservices...
 * :calendar: **published on**: 2015-05-20
 * **tags**: [api](../tagged/api.md), [security](../tagged/security.md), [oauth2](../tagged/oauth2.md), [openid-connect](../tagged/openid-connect.md), [microservices](../tagged/microservices.md)
+---
+#### [Understanding Refresh Tokens - Auth0](https://auth0.com/learn/refresh-tokens/)
+_<sup>https://auth0.com/learn/refresh-tokens/</sup>_
+
+A **Refresh Token** is a special kind of token that can be used to obtain a renewed access token —that allows accessing a protected resource— at any time. You can request new access tokens until the r...
+* **tags**: [jwt](../tagged/jwt.md), [oauth2](../tagged/oauth2.md), [openid-connect](../tagged/openid-connect.md)
 ---
 #### [OpenID Connect](https://auth0.com/docs/protocols/oidc)
 _<sup>https://auth0.com/docs/protocols/oidc</sup>_

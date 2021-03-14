@@ -2,6 +2,21 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/keycloak](https://www.bookmarks.dev/tagged/keycloak)</sup></sup>_
 ---
+#### [PKCE support with Keycloak 7.0 for mobile apps - JANUA](https://www.janua.fr/pkce-support-with-keycloak-7-0/)
+_<sup>https://www.janua.fr/pkce-support-with-keycloak-7-0/</sup>_
+
+PKCE support with Keycloak 7.0: Keycloak 7.0 has been released on Aug 25th 2019 with PKCE support. This represents a major breakthrough for all mobile apps to increase security and to mitigate malicio...
+* **tags**: [keycloak](../tagged/keycloak.md), [oauth2](../tagged/oauth2.md), [authentication](../tagged/authentication.md), [authorization](../tagged/authorization.md)
+---
+#### [keycloak-connect-graphql - npm](https://www.npmjs.com/package/keycloak-connect-graphql)
+_<sup>https://www.npmjs.com/package/keycloak-connect-graphql</sup>_
+
+A comprehensive solution for adding keycloak Authentication and Authorization to your Express based GraphQL server.
+
+Based on the keycloak-connect middleware for Express. Provides useful Authenticatio...
+* **tags**: [graphql](../tagged/graphql.md), [graphql-express](../tagged/graphql-express.md), [keycloak](../tagged/keycloak.md)
+* :octocat: **[source code](https://github.com/aerogear/keycloak-connect-graphql)**
+---
 #### [Keycloak Authentication and Authorization in GraphQL](https://medium.com/@darahayes/keycloak-authentication-and-authorization-in-graphql-ad0a1685f7da)
 _<sup>https://medium.com/@darahayes/keycloak-authentication-and-authorization-in-graphql-ad0a1685f7da</sup>_
 

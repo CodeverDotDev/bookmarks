@@ -2,6 +2,87 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/graphql](https://www.bookmarks.dev/tagged/graphql)</sup></sup>_
 ---
+#### [MicroProfile GraphQL](https://download.eclipse.org/microprofile/microprofile-graphql-1.0/microprofile-graphql.html)
+_<sup>https://download.eclipse.org/microprofile/microprofile-graphql-1.0/microprofile-graphql.html</sup>_
+
+The intent of the MicroProfile GraphQL specification is to provide a "code-first" set of APIs that will enable users to quickly develop portable GraphQL-based applications in Java.
+* **tags**: [graphql](../tagged/graphql.md), [java](../tagged/java.md)
+---
+#### [Apollo-Angular 1.2 — using GraphQL in your apps just got a whole lot easier!](https://medium.com/the-guild/apollo-angular-code-generation-7903da1f8559)
+_<sup>https://medium.com/the-guild/apollo-angular-code-generation-7903da1f8559</sup>_
+
+TL;DR
+- [Code generation for Apollo Angular](https://graphql-code-generator.com/docs/plugins/typescript-apollo-angular)
+- Query, Mutation, Subscription as an Angular service
+- Apollo Angular Boost
+- T...
+* **tags**: [apollo-angular](../tagged/apollo-angular.md), [graphql](../tagged/graphql.md), [graphql-client](../tagged/graphql-client.md), [code-generation](../tagged/code-generation.md)
+* :octocat: **[source code](https://github.com/kamilkisiela/apollo-angular-services)**
+---
+#### [subscriptions-transport-ws - npm](https://www.npmjs.com/package/subscriptions-transport-ws)
+_<sup>https://www.npmjs.com/package/subscriptions-transport-ws</sup>_
+
+(Work in progress!)
+
+A GraphQL WebSocket server and client to facilitate GraphQL queries, mutations and subscriptions over WebSocket.
+* **tags**: [graphql](../tagged/graphql.md), [graphql-client](../tagged/graphql-client.md), [websocket](../tagged/websocket.md)
+* :octocat: **[source code](https://github.com/apollostack/subscriptions-transport-ws)**
+---
+#### [Designing GraphQL Mutations - Apollo Blog](https://www.apollographql.com/blog/designing-graphql-mutations-e09de826ed97/)
+_<sup>https://www.apollographql.com/blog/designing-graphql-mutations-e09de826ed97/</sup>_
+
+Designing a good GraphQL API is tricky, because you always want to balance utility and convenience with a consideration around how the API may evolve in the future.
+
+The main points to consider when d...
+* :calendar: **published on**: 2017-03-28
+* **tags**: [graphql](../tagged/graphql.md), [api-design](../tagged/api-design.md)
+---
+#### [Graphile | Powerful, Extensible and Performant GraphQL APIs Rapidly](https://www.graphile.org/postgraphile/)
+_<sup>https://www.graphile.org/postgraphile/</sup>_
+
+Instantly spin-up a GraphQL API server by pointing PostGraphile at your existing PostgreSQL database
+* **tags**: [graphql](../tagged/graphql.md), [postgresql](../tagged/postgresql.md), [node.js](../tagged/node.js.md)
+* :octocat: **[source code](https://github.com/graphile/postgraphile)**
+---
+#### [GraphQL Mutation Design: Anemic Mutations](https://xuorig.medium.com/graphql-mutation-design-anemic-mutations-dd107ba70496)
+_<sup>https://xuorig.medium.com/graphql-mutation-design-anemic-mutations-dd107ba70496</sup>_
+
+Mutations are one of the trickiest part of a GraphQL schema to design. We spend a lot of time talking about GraphQL queries and how easy they are to use. However, mutations get far less love.
+
+In this...
+* :calendar: **published on**: 2018-02-18
+* **tags**: [graphql](../tagged/graphql.md), [api-design](../tagged/api-design.md)
+---
+#### [GraphQL explained - Apollo Blog](https://www.apollographql.com/blog/graphql-explained-5844742f195e/)
+_<sup>https://www.apollographql.com/blog/graphql-explained-5844742f195e/</sup>_
+
+In this post, I’m going to answer one simple question: **How does a GraphQL server turn a query into a response?**
+* :calendar: **published on**: 2016-05-23
+* **tags**: [graphql](../tagged/graphql.md), [graphql-js](../tagged/graphql-js.md)
+---
+#### [keycloak-connect-graphql - npm](https://www.npmjs.com/package/keycloak-connect-graphql)
+_<sup>https://www.npmjs.com/package/keycloak-connect-graphql</sup>_
+
+A comprehensive solution for adding keycloak Authentication and Authorization to your Express based GraphQL server.
+
+Based on the keycloak-connect middleware for Express. Provides useful Authenticatio...
+* **tags**: [graphql](../tagged/graphql.md), [graphql-express](../tagged/graphql-express.md), [keycloak](../tagged/keycloak.md)
+* :octocat: **[source code](https://github.com/aerogear/keycloak-connect-graphql)**
+---
+#### [GraphQL: The Mental Model — Dhaivat Pandya - 21min](https://www.youtube.com/watch?v=zWhVAN4Tg6M)
+_<sup>https://www.youtube.com/watch?v=zWhVAN4Tg6M</sup>_
+
+Explains the Graph part in **Graph**QL and how Apollo Client handles caching and the assumptions it makes. 
+* :calendar: **published on**: 2017-02-07
+* **tags**: [graphql](../tagged/graphql.md), [apollo-client](../tagged/apollo-client.md), [caching](../tagged/caching.md)
+---
+#### [GraphQL Concepts Visualized - Apollo Blog](https://www.apollographql.com/blog/the-concepts-of-graphql-bc68bd819be3/)
+_<sup>https://www.apollographql.com/blog/the-concepts-of-graphql-bc68bd819be3/</sup>_
+
+GraphQL is often explained as a “unified interface to access data from different sources”. Although this explanation is accurate, it doesn’t reveal the underlying ideas or the motivation behind GraphQ...
+* :calendar: **published on**: 2016-08-18
+* **tags**: [graphql](../tagged/graphql.md), [apollo-client](../tagged/apollo-client.md), [caching](../tagged/caching.md)
+---
 #### [Lessons from 4 Years of GraphQL - 39min](https://www.youtube.com/watch?v=zVNrqo9XGOs)
 _<sup>https://www.youtube.com/watch?v=zVNrqo9XGOs</sup>_
 
@@ -173,7 +254,7 @@ Helps you get started with GraphQL concepts
 * **tags**: [graphql](../tagged/graphql.md), [specification](../tagged/specification.md), [readme](../tagged/readme.md)
 * :octocat: **[source code](https://github.com/graphql/graphql-spec)**
 ---
-#### [Getting Started With GraphQL.js](https://graphql.org/graphql-js/)
+#### [Getting Started With GraphQL.js - home page](https://graphql.org/graphql-js/)
 _<sup>https://graphql.org/graphql-js/</sup>_
 
 The JavaScript reference implementation for GraphQL

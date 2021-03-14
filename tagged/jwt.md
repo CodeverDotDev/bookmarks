@@ -68,7 +68,7 @@ Let’s take a look at how to use Angular’s HttpInterceptor interface to make 
 _<sup>https://auth0.com/learn/refresh-tokens/</sup>_
 
 A **Refresh Token** is a special kind of token that can be used to obtain a renewed access token —that allows accessing a protected resource— at any time. You can request new access tokens until the r...
-* **tags**: [jwt](../tagged/jwt.md)
+* **tags**: [jwt](../tagged/jwt.md), [oauth2](../tagged/oauth2.md), [openid-connect](../tagged/openid-connect.md)
 ---
 #### [5 Steps to Add Modern Authentication to Legacy Apps Using JWTs](https://auth0.com/blog/5-steps-to-add-modern-authentication-to-legacy-apps-using-jwts/)
 _<sup>https://auth0.com/blog/5-steps-to-add-modern-authentication-to-legacy-apps-using-jwts/</sup>_

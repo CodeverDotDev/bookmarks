@@ -2,6 +2,24 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/software-development](https://www.bookmarks.dev/tagged/software-development)</sup></sup>_
 ---
+#### [CWE - Common Weakness Enumeration](https://cwe.mitre.org/index.html)
+_<sup>https://cwe.mitre.org/index.html</sup>_
+
+CWE™ is a community-developed list of software and hardware weakness types. It serves as a common language, a measuring stick for security tools, and as a baseline for weakness identification, mitigat...
+* **tags**: [security](../tagged/security.md), [security-tools](../tagged/security-tools.md), [software-development](../tagged/software-development.md)
+---
+#### [Microsoft Security Development Lifecycle](https://www.microsoft.com/en-us/securityengineering/sdl)
+_<sup>https://www.microsoft.com/en-us/securityengineering/sdl</sup>_
+
+The Microsoft SDL introduces security and privacy considerations throughout all phases of the development process, helping developers build highly secure software, address security compliance requirem...
+* **tags**: [software-development](../tagged/software-development.md), [security](../tagged/security.md), [frameworks](../tagged/frameworks.md)
+---
+#### [Clean Code Developer](https://clean-code-developer.de/)
+_<sup>https://clean-code-developer.de/</sup>_
+
+Mit Clean Code Prinzipien und Praktiken zu mehr Qualität in der Softwareentwicklung.
+* **tags**: [clean-code](../tagged/clean-code.md), [software-development](../tagged/software-development.md)
+---
 #### [Why Google Stores Billions of Lines of Code in a Single Repository](https://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext)
 _<sup>https://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single...</sup>_
 

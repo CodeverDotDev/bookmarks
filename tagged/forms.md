@@ -20,7 +20,7 @@ _<sup>https://coryrylan.com/blog/using-angular-forms-with-async-data</sup>_
 
 Most single page apps deal with asynchronous API calls in conjunction with user input in some way. Often it’s not clear how or what the best practices are when dealing with async data and forms togeth...
 * :calendar: **published on**: 2018-01-28
-* **tags**: [angular](../tagged/angular.md), [forms](../tagged/forms.md)
+* **tags**: [angular](../tagged/angular.md), [forms](../tagged/forms.md), [async](../tagged/async.md)
 * :octocat: **[source code](https://stackblitz.com/edit/angular-uquzq9)**
 ---
 #### [Reducing the forms boilerplate — make your Angular forms reusable](https://medium.com/angular-in-depth/reducing-the-forms-boilerplate-make-your-angular-forms-reusable-ee06d7c07f47)

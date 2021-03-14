@@ -2,6 +2,14 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/hibernate](https://www.bookmarks.dev/tagged/hibernate)</sup></sup>_
 ---
+#### [Hibernate Envers - Getting started](https://thorben-janssen.com/hibernate-envers-getting-started/)
+_<sup>https://thorben-janssen.com/hibernate-envers-getting-started/</sup>_
+
+[Youtube Video for blog post - 8min](https://www.youtube.com/watch?v=aPGLwjCHWvI)
+
+A lot of business applications require an audit log that documents all changes that were performed on the managed dat...
+* **tags**: [hibernate](../tagged/hibernate.md), [audit](../tagged/audit.md), [logging](../tagged/logging.md)
+---
 #### [Complete Guide: Inheritance strategies with JPA and Hibernate](https://thoughts-on-java.org/complete-guide-inheritance-strategies-jpa-hibernate/#comments)
 _<sup>https://thoughts-on-java.org/complete-guide-inheritance-strategies-jpa-hibernate/#comments</sup>_
 

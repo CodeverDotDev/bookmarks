@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/fonts](https://www.bookmarks.dev/tagged/fonts)</sup></sup>_
 ---
+#### [GitHub - chalk/chalk: 🖍 Terminal string styling done right](https://github.com/chalk/chalk#readme)
+_<sup>https://github.com/chalk/chalk#readme</sup>_
+
+🖍 Terminal string styling done right. Contribute to chalk/chalk development by creating an account on GitHub.
+* **tags**: [node.js](../tagged/node.js.md), [terminal](../tagged/terminal.md), [cli](../tagged/cli.md), [colors](../tagged/colors.md), [fonts](../tagged/fonts.md)
+---
 #### [Fancy Text Decorator - ℭ𝔬𝔬𝔩 𝕋𝕖𝕩𝕥 𝓖𝓮𝓷𝓮𝓻𝓪𝓽𝓸𝓻 😜](https://fancytextdecorator.com/)
 _<sup>https://fancytextdecorator.com/</sup>_
 

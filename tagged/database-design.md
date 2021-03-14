@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/database-design](https://www.bookmarks.dev/tagged/database-design)</sup></sup>_
 ---
+#### [ORM: avoid using many to many relationships - DEV](https://dev.to/apium_hub/orm-avoid-using-many-to-many-relationships-52in)
+_<sup>https://dev.to/apium_hub/orm-avoid-using-many-to-many-relationships-52in</sup>_
+
+The usage of ORMs (data mappers) comes with a great power but also with a great responsibility. ORMs... Tagged with architecture, objectrelationalmapp, orm.
+* :calendar: **published on**: 2020-12-07
+* **tags**: [orm](../tagged/orm.md), [database](../tagged/database.md), [database-design](../tagged/database-design.md)
+---
 #### [Two-phase commit protocol - Wikipedia](https://en.wikipedia.org/wiki/Two-phase_commit_protocol)
 _<sup>https://en.wikipedia.org/wiki/Two-phase_commit_protocol</sup>_
 

@@ -2,6 +2,18 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/c](https://www.bookmarks.dev/tagged/c)</sup></sup>_
 ---
+#### [C Is Not a Low-level Language - ACM Queue](https://queue.acm.org/detail.cfm?id=3212479)
+_<sup>https://queue.acm.org/detail.cfm?id=3212479</sup>_
+
+* **tags**: [c](../tagged/c.md)
+---
+#### [Learning C/C++: How pointers work? | Mindsers Blog](https://mindsers.blog/en/pointers-c-cplusplus/)
+_<sup>https://mindsers.blog/en/pointers-c-cplusplus/</sup>_
+
+Pointers are hated by many 1st-year student of any dev school though it really isn't that bad. I'm going to give you few elements to help you master pointers
+* :calendar: **published on**: 2019-09-11
+* **tags**: [c](../tagged/c.md), [c++](../tagged/c++.md)
+---
 #### [Codiva.io - Compile and Run Java Online](https://www.codiva.io/)
 _<sup>https://www.codiva.io/</sup>_
 

@@ -2,6 +2,78 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/javascript](https://www.bookmarks.dev/tagged/javascript)</sup></sup>_
 ---
+#### [websockets/ws home page](https://github.com/websockets/ws)
+_<sup>https://github.com/websockets/ws</sup>_
+
+Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js
+* **tags**: [node.js](../tagged/node.js.md), [javascript](../tagged/javascript.md), [websocket](../tagged/websocket.md), [websocket-server](../tagged/websocket-server.md), [websocket-client](../tagged/websocket-client.md)
+* :octocat: **[source code](https://github.com/websockets/ws)**
+---
+#### [Top Web Development Tools for Building Business Applications in 2021 | Hacker Noon](https://hackernoon.com/top-web-development-tools-for-building-business-applications-in-2021-0n1234pe?source=rss)
+_<sup>https://hackernoon.com/top-web-development-tools-for-building-business-applications-in-2021-0n1234pe...</sup>_
+
+* **tags**: [web-development](../tagged/web-development.md), [javascript](../tagged/javascript.md)
+---
+#### [Top Frontend Frameworks - KeyCDN](https://www.keycdn.com/blog/frontend-frameworks)
+_<sup>https://www.keycdn.com/blog/frontend-frameworks</sup>_
+
+* **tags**: [javascript](../tagged/javascript.md), [frontend](../tagged/frontend.md), [frameworks](../tagged/frameworks.md)
+---
+#### [Taimoor Sattar | tech articles and entrepreneur](https://taimoorsattar.dev)
+_<sup>https://taimoorsattar.dev</sup>_
+
+I’m a full-stack developer. I write about tech articles and entrepreneur. I write about content that more related to problem-solving related to programming, money, and the latest trends.
+* :calendar: **published on**: 2021-01-12
+* **tags**: [javascript](../tagged/javascript.md), [website](../tagged/website.md), [development](../tagged/development.md), [blog](../tagged/blog.md)
+* :octocat: **[source code](https://github.com/taimoorsattar7/taimoorsattar.dev)**
+---
+#### [Stimulus: A modest JavaScript framework for the HTML you already have.](https://stimulus.hotwire.dev/)
+_<sup>https://stimulus.hotwire.dev/</sup>_
+
+Stimulus is a JavaScript framework with modest ambitions. It doesn’t seek to take over your entire front-end—in fact, it’s not concerned with rendering HTML at all. Instead, it’s designed to augment y...
+* **tags**: [javascript](../tagged/javascript.md)
+---
+#### [PixelCraft: A Pixel Art Editor](https://github.com/rgab1508/PixelCraft)
+_<sup>https://github.com/rgab1508/PixelCraft</sup>_
+
+ PixelCraft
+A pixel Art & Animation Creation Tool Built using HTML5 Canvas.  
+It is a Progressive Web App (PWA) with offline compatibility.  
+It is mobile-friendly and is very easy to use.  
+
+![Pixel...
+* :calendar: **published on**: 2020-09-11
+* **tags**: [pixel](../tagged/pixel.md), [html](../tagged/html.md), [css](../tagged/css.md), [javascript](../tagged/javascript.md), [canvas](../tagged/canvas.md)
+* :octocat: **[source code](https://github.com/rgab1508/PixelCraft)**
+---
+#### [JavaScript ES2020 has Arrived. Looking at the top new features of… | by Taran | codeburst](https://codeburst.io/javascript-es2020-is-here-360a8304b0e6)
+_<sup>https://codeburst.io/javascript-es2020-is-here-360a8304b0e6</sup>_
+
+* **tags**: [javascript](../tagged/javascript.md)
+---
+#### [10 JavaScript Hacks Every Web Developer Should Know](https://www.freecodecamp.org/news/javascript-hacks/)
+_<sup>https://www.freecodecamp.org/news/javascript-hacks/</sup>_
+
+* **tags**: [javascript](../tagged/javascript.md)
+---
+#### [Do This Not That, JavaScript Edition](https://medium.com/young-coder/do-this-not-that-javascript-edition-72d0efaa5c65)
+_<sup>https://medium.com/young-coder/do-this-not-that-javascript-edition-72d0efaa5c65</sup>_
+
+* **tags**: [javascript](../tagged/javascript.md)
+---
+#### [Mousetrap - Keyboard shortcuts in Javascript](https://craig.is/killing/mice)
+_<sup>https://craig.is/killing/mice</sup>_
+
+A simple library for handling keyboard shortcuts in Javascript
+* **tags**: [javascript](../tagged/javascript.md), [shortcuts](../tagged/shortcuts.md)
+* :octocat: **[source code](https://github.com/ccampbell/mousetrap)**
+---
+#### [The Smart Coder](https://thesmartcoder.dev/9-popular-github-repos-for-every-web-developer/)
+_<sup>https://thesmartcoder.dev/9-popular-github-repos-for-every-web-developer/</sup>_
+
+Useful tools, inspiring examples, and more...
+* **tags**: [javascript](../tagged/javascript.md), [web-development](../tagged/web-development.md)
+---
 #### [Justin Searls – Please don’t mock me - 51min](https://www.youtube.com/watch?v=Af4M8GMoxi4)
 _<sup>https://www.youtube.com/watch?v=Af4M8GMoxi4</sup>_
 
@@ -51,7 +123,7 @@ DataLoader is a utility for batching and caching loaded data in your web service
 * **tags**: [graphql](../tagged/graphql.md), [javascript](../tagged/javascript.md), [node.js](../tagged/node.js.md), [react](../tagged/react.md), [dataloader](../tagged/dataloader.md)
 * :octocat: **[source code](https://github.com/graphql/dataloader)**
 ---
-#### [Getting Started With GraphQL.js](https://graphql.org/graphql-js/)
+#### [Getting Started With GraphQL.js - home page](https://graphql.org/graphql-js/)
 _<sup>https://graphql.org/graphql-js/</sup>_
 
 The JavaScript reference implementation for GraphQL

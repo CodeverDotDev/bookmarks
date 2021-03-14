@@ -2,6 +2,17 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/frameworks](https://www.bookmarks.dev/tagged/frameworks)</sup></sup>_
 ---
+#### [Microsoft Security Development Lifecycle](https://www.microsoft.com/en-us/securityengineering/sdl)
+_<sup>https://www.microsoft.com/en-us/securityengineering/sdl</sup>_
+
+The Microsoft SDL introduces security and privacy considerations throughout all phases of the development process, helping developers build highly secure software, address security compliance requirem...
+* **tags**: [software-development](../tagged/software-development.md), [security](../tagged/security.md), [frameworks](../tagged/frameworks.md)
+---
+#### [Top Frontend Frameworks - KeyCDN](https://www.keycdn.com/blog/frontend-frameworks)
+_<sup>https://www.keycdn.com/blog/frontend-frameworks</sup>_
+
+* **tags**: [javascript](../tagged/javascript.md), [frontend](../tagged/frontend.md), [frameworks](../tagged/frameworks.md)
+---
 #### [Graphene-Python home page](https://graphene-python.org/)
 _<sup>https://graphene-python.org/</sup>_
 

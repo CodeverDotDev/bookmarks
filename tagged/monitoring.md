@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/monitoring](https://www.bookmarks.dev/tagged/monitoring)</sup></sup>_
 ---
+#### [AwesomeTechStack](https://awesometechstack.com)
+_<sup>https://awesometechstack.com</sup>_
+
+Analyze technology stacks of websites. AwesomeTechStack provides insights into the security, modernity, and performance of any website's technology stack and guidance to improve core web vital and tec...
+* :calendar: **published on**: 2020-03-02
+* **tags**: [monitoring](../tagged/monitoring.md), [analysis](../tagged/analysis.md), [vue](../tagged/vue.md), [nuxt](../tagged/nuxt.md), [website](../tagged/website.md)
+---
 #### [@Stateless As JAX-RS Resource? - 5min](https://www.youtube.com/watch?time_continue=96&v=BnUsNlPnZZo&feature=emb_logo)
 _<sup>https://www.youtube.com/watch?time_continue=96&v=BnUsNlPnZZo&feature=emb_logo</sup>_
 

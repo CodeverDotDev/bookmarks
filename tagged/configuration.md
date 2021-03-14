@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/configuration](https://www.bookmarks.dev/tagged/configuration)</sup></sup>_
 ---
+#### [How To Install and Secure Redis on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-redis-on-ubuntu-18-04)
+_<sup>https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-redis-on-ubuntu-18-04</sup>_
+
+Redis is an in-memory key-value store known for its flexibility, performance, and wide language support. This tutorial demonstrates how to install and configure Redis on an Ubuntu 18.04 server.
+* **tags**: [redis](../tagged/redis.md), [configuration](../tagged/configuration.md)
+---
 #### [Ansible](http://docs.ansible.com/ansible/latest/modules/k8s_raw_module.html)
 _<sup>http://docs.ansible.com/ansible/latest/modules/k8s_raw_module.html</sup>_
 

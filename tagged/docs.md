@@ -2,6 +2,19 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/docs](https://www.bookmarks.dev/tagged/docs)</sup></sup>_
 ---
+#### [Your First Visual Studio Code Extension - official docs](https://code.visualstudio.com/api/get-started/your-first-extension)
+_<sup>https://code.visualstudio.com/api/get-started/your-first-extension</sup>_
+
+In this topic, we'll teach you the fundamental concepts for building extensions. 
+* **tags**: [vscode](../tagged/vscode.md), [vscode-extensions](../tagged/vscode-extensions.md), [docs](../tagged/docs.md)
+* :octocat: **[source code](https://github.com/microsoft/vscode-extension-samples/tree/master/helloworld-sample)**
+---
+#### [Spring Batch - Reference Documentation](https://docs.spring.io/spring-batch/docs/current/reference/html/index-single.html)
+_<sup>https://docs.spring.io/spring-batch/docs/current/reference/html/index-single.html</sup>_
+
+Spring Batch Single Html Documentation
+* **tags**: [spring-batch](../tagged/spring-batch.md), [docs](../tagged/docs.md)
+---
 #### [Develop Extensions Docs Home Page - Google Chrome](https://developer.chrome.com/extensions/devguide)
 _<sup>https://developer.chrome.com/extensions/devguide</sup>_
 

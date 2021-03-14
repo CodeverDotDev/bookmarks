@@ -2,6 +2,16 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/scheme](https://www.bookmarks.dev/tagged/scheme)</sup></sup>_
 ---
+#### [Is Scheme Faster than C?](https://web.archive.org/web/20100310163003/https://www.cs.indiana.edu/~jsobel/c455-c511.updated.txt)
+_<sup>https://web.archive.org/web/20100310163003/https://www.cs.indiana.edu/~jsobel/c455-c511.updated.txt</sup>_
+
+* **tags**: [scheme](../tagged/scheme.md), [optimization](../tagged/optimization.md)
+---
+#### [Island Life - Schemeでgoto (tagbody&go)](http://blog.practical-scheme.net/shiro/20110529-tagbody-go-in-scheme)
+_<sup>http://blog.practical-scheme.net/shiro/20110529-tagbody-go-in-scheme</sup>_
+
+* **tags**: [scheme](../tagged/scheme.md), [tagbody](../tagged/tagbody.md), [lisp](../tagged/lisp.md)
+---
 #### [入門Scheme](https://web.archive.org/web/20140812144348/http://www4.ocn.ne.jp/~inukai/scheme_primer_j.html)
 _<sup>https://web.archive.org/web/20140812144348/http://www4.ocn.ne.jp/~inukai/scheme_primer_j.html</sup>_
 

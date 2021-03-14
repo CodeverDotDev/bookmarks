@@ -2,6 +2,19 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/design-patterns](https://www.bookmarks.dev/tagged/design-patterns)</sup></sup>_
 ---
+#### [AnemicDomainModel](https://www.martinfowler.com/bliki/AnemicDomainModel.html)
+_<sup>https://www.martinfowler.com/bliki/AnemicDomainModel.html</sup>_
+
+The basic symptom of an Anemic Domain Model is that at first blush it looks like the real thing. There are objects, many named after the nouns in the domain space, and these objects are connected with...
+* :calendar: **published on**: 2003-11-25
+* **tags**: [design-patterns](../tagged/design-patterns.md), [anti-patterns](../tagged/anti-patterns.md), [domain-driven-design](../tagged/domain-driven-design.md)
+---
+#### [The Principles of Agile Design](https://www.infoq.com/presentations/principles-agile-oo-design/)
+_<sup>https://www.infoq.com/presentations/principles-agile-oo-design/</sup>_
+
+Bob Martin of Object Mentor presents the first of his five principles of agile design. Beginning with an explanation of the real purpose of object-oriented design - the management of dependencies - Bo...
+* **tags**: [design-patterns](../tagged/design-patterns.md), [software-architecture](../tagged/software-architecture.md), [oop](../tagged/oop.md)
+---
 #### [algorithms](https://github.com/keon/algorithms)
 _<sup>https://github.com/keon/algorithms</sup>_
 

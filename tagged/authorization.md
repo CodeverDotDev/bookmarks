@@ -2,6 +2,26 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/authorization](https://www.bookmarks.dev/tagged/authorization)</sup></sup>_
 ---
+#### [Implement the OAuth 2.0 Authorization Code with PKCE Flow](https://developer.okta.com/blog/2019/08/22/okta-authjs-pkce)
+_<sup>https://developer.okta.com/blog/2019/08/22/okta-authjs-pkce</sup>_
+
+In this post, you’ll learn some foundational concepts of OIDC and OAuth2. You’ll be guided through a simple SPA example written in Vue.js that starts with the older (now deprecated) Implicit flow and ...
+* :calendar: **published on**: 2019-09-22
+* **tags**: [oauth2](../tagged/oauth2.md), [authorization](../tagged/authorization.md), [pkce](../tagged/pkce.md)
+---
+#### [Is the OAuth 2.0 Implicit Flow Dead?](https://developer.okta.com/blog/2019/05/01/is-the-oauth-implicit-flow-dead)
+_<sup>https://developer.okta.com/blog/2019/05/01/is-the-oauth-implicit-flow-dead</sup>_
+
+You may have heard some buzz recently about the OAuth 2.0 Implicit flow. The OAuth Working Group has published some new guidance around the Implicit flow and JavaScript-based apps, specifically that t...
+* :calendar: **published on**: 2019-05-01
+* **tags**: [oauth2](../tagged/oauth2.md), [authorization](../tagged/authorization.md)
+---
+#### [PKCE support with Keycloak 7.0 for mobile apps - JANUA](https://www.janua.fr/pkce-support-with-keycloak-7-0/)
+_<sup>https://www.janua.fr/pkce-support-with-keycloak-7-0/</sup>_
+
+PKCE support with Keycloak 7.0: Keycloak 7.0 has been released on Aug 25th 2019 with PKCE support. This represents a major breakthrough for all mobile apps to increase security and to mitigate malicio...
+* **tags**: [keycloak](../tagged/keycloak.md), [oauth2](../tagged/oauth2.md), [authentication](../tagged/authentication.md), [authorization](../tagged/authorization.md)
+---
 #### [Keycloak Authentication and Authorization in GraphQL](https://medium.com/@darahayes/keycloak-authentication-and-authorization-in-graphql-ad0a1685f7da)
 _<sup>https://medium.com/@darahayes/keycloak-authentication-and-authorization-in-graphql-ad0a1685f7da</sup>_
 

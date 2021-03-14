@@ -2,6 +2,24 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/api-design](https://www.bookmarks.dev/tagged/api-design)</sup></sup>_
 ---
+#### [Designing GraphQL Mutations - Apollo Blog](https://www.apollographql.com/blog/designing-graphql-mutations-e09de826ed97/)
+_<sup>https://www.apollographql.com/blog/designing-graphql-mutations-e09de826ed97/</sup>_
+
+Designing a good GraphQL API is tricky, because you always want to balance utility and convenience with a consideration around how the API may evolve in the future.
+
+The main points to consider when d...
+* :calendar: **published on**: 2017-03-28
+* **tags**: [graphql](../tagged/graphql.md), [api-design](../tagged/api-design.md)
+---
+#### [GraphQL Mutation Design: Anemic Mutations](https://xuorig.medium.com/graphql-mutation-design-anemic-mutations-dd107ba70496)
+_<sup>https://xuorig.medium.com/graphql-mutation-design-anemic-mutations-dd107ba70496</sup>_
+
+Mutations are one of the trickiest part of a GraphQL schema to design. We spend a lot of time talking about GraphQL queries and how easy they are to use. However, mutations get far less love.
+
+In this...
+* :calendar: **published on**: 2018-02-18
+* **tags**: [graphql](../tagged/graphql.md), [api-design](../tagged/api-design.md)
+---
 #### [GraphQL Schema Design: Building Evolvable Schemas - Apollo Blog](https://www.apollographql.com/blog/graphql-schema-design-building-evolvable-schemas-1501f3c59ed5/)
 _<sup>https://www.apollographql.com/blog/graphql-schema-design-building-evolvable-schemas-1501f3c59ed5/</sup>_
 

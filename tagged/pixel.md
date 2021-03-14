@@ -2,6 +2,19 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/pixel](https://www.bookmarks.dev/tagged/pixel)</sup></sup>_
 ---
+#### [PixelCraft: A Pixel Art Editor](https://github.com/rgab1508/PixelCraft)
+_<sup>https://github.com/rgab1508/PixelCraft</sup>_
+
+ PixelCraft
+A pixel Art & Animation Creation Tool Built using HTML5 Canvas.  
+It is a Progressive Web App (PWA) with offline compatibility.  
+It is mobile-friendly and is very easy to use.  
+
+![Pixel...
+* :calendar: **published on**: 2020-09-11
+* **tags**: [pixel](../tagged/pixel.md), [html](../tagged/html.md), [css](../tagged/css.md), [javascript](../tagged/javascript.md), [canvas](../tagged/canvas.md)
+* :octocat: **[source code](https://github.com/rgab1508/PixelCraft)**
+---
 #### [awesome-pixel-art](https://github.com/Siilwyn/awesome-pixel-art#readme)
 _<sup>https://github.com/Siilwyn/awesome-pixel-art#readme</sup>_
 

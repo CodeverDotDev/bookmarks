@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/windows](https://www.bookmarks.dev/tagged/windows)</sup></sup>_
 ---
+#### [How to Change Your Default Web Browser in Windows](https://www.pcmag.com/how-to/how-to-change-your-default-web-browser)
+_<sup>https://www.pcmag.com/how-to/how-to-change-your-default-web-browser</sup>_
+
+For Windows 10, type **Default apps** in System bar and then change the order for browsers
+* **tags**: [windows](../tagged/windows.md)
+---
 #### [Debloat Windows 10 in 2020 – Chris Titus Tech](https://christitus.com/debloat-windows-10-2020/)
 _<sup>https://christitus.com/debloat-windows-10-2020/</sup>_
 

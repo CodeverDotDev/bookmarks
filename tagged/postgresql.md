@@ -2,6 +2,13 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/postgresql](https://www.bookmarks.dev/tagged/postgresql)</sup></sup>_
 ---
+#### [Graphile | Powerful, Extensible and Performant GraphQL APIs Rapidly](https://www.graphile.org/postgraphile/)
+_<sup>https://www.graphile.org/postgraphile/</sup>_
+
+Instantly spin-up a GraphQL API server by pointing PostGraphile at your existing PostgreSQL database
+* **tags**: [graphql](../tagged/graphql.md), [postgresql](../tagged/postgresql.md), [node.js](../tagged/node.js.md)
+* :octocat: **[source code](https://github.com/graphile/postgraphile)**
+---
 #### [GitHub - darold/pgbadger: A fast PostgreSQL Log Analyzer](https://github.com/darold/pgbadger)
 _<sup>https://github.com/darold/pgbadger</sup>_
 

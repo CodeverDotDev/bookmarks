@@ -2,6 +2,26 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/jekyll](https://www.bookmarks.dev/tagged/jekyll)</sup></sup>_
 ---
+#### [How to insert and highlight code in Jekyll blog post on Codepedia.org – CodepediaOrg](https://www.codepedia.org/ama/how-to-insert-and-highlight-code-in-jekyll-blog-post-on-codingpedia-org)
+_<sup>https://www.codepedia.org/ama/how-to-insert-and-highlight-code-in-jekyll-blog-post-on-codingpedia-or...</sup>_
+
+This demo post displays the various ways of inserting and highlighting code in Markdown, when posting on Codepedia.org
+* **tags**: [code-highlighting](../tagged/code-highlighting.md), [jekyll](../tagged/jekyll.md), [highlightjs](../tagged/highlightjs.md)
+---
+#### [Liquid template language home page](https://shopify.github.io/liquid/)
+_<sup>https://shopify.github.io/liquid/</sup>_
+
+Liquid is an open-source template language created by Shopify and written in Ruby. It is the backbone of Shopify themes and is used to load dynamic content on storefronts.
+* **tags**: [liquid](../tagged/liquid.md), [jekyll](../tagged/jekyll.md)
+* :octocat: **[source code](https://github.com/Shopify/liquid)**
+---
+#### [How to give your Jekyll Site Structured Data for Search with JSON-LD](https://aramzs.github.io/jekyll/schema-dot-org/2018/04/27/how-to-make-your-jekyll-site-structured.html)
+_<sup>https://aramzs.github.io/jekyll/schema-dot-org/2018/04/27/how-to-make-your-jekyll-site-structured.ht...</sup>_
+
+You’ve got Jekyll, now you need to get all your structured data ready for Google, archival systems and more with Schema.org markup. Here’s how you can deploy a structured data in a JSON-LD format to y...
+* :calendar: **published on**: 2018-04-27
+* **tags**: [blogging](../tagged/blogging.md), [jekyll](../tagged/jekyll.md), [structured-data](../tagged/structured-data.md)
+---
 #### [Create JSON-LD Structured Data in Jekyll ](https://mincong.io/2018/08/22/create-json-ld-structured-data-in-jekyll/)
 _<sup>https://mincong.io/2018/08/22/create-json-ld-structured-data-in-jekyll/</sup>_
 

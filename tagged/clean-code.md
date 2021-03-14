@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/clean-code](https://www.bookmarks.dev/tagged/clean-code)</sup></sup>_
 ---
+#### [Clean Code Developer](https://clean-code-developer.de/)
+_<sup>https://clean-code-developer.de/</sup>_
+
+Mit Clean Code Prinzipien und Praktiken zu mehr Qualität in der Softwareentwicklung.
+* **tags**: [clean-code](../tagged/clean-code.md), [software-development](../tagged/software-development.md)
+---
 #### [GitHub - ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 _<sup>https://github.com/ryanmcdermott/clean-code-javascript</sup>_
 

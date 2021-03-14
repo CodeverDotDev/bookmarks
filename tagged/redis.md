@@ -2,6 +2,12 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/redis](https://www.bookmarks.dev/tagged/redis)</sup></sup>_
 ---
+#### [How To Install and Secure Redis on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-redis-on-ubuntu-18-04)
+_<sup>https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-redis-on-ubuntu-18-04</sup>_
+
+Redis is an in-memory key-value store known for its flexibility, performance, and wide language support. This tutorial demonstrates how to install and configure Redis on an Ubuntu 18.04 server.
+* **tags**: [redis](../tagged/redis.md), [configuration](../tagged/configuration.md)
+---
 #### [ded/express-limiter: Rate limiting middleware for Express](https://github.com/ded/express-limiter)
 _<sup>https://github.com/ded/express-limiter</sup>_
 

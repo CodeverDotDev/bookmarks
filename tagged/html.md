@@ -2,6 +2,26 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/html](https://www.bookmarks.dev/tagged/html)</sup></sup>_
 ---
+#### [How to create html presentations with markdown files - 8min](https://www.youtube.com/watch?v=iZl7R6ntOGc)
+_<sup>https://www.youtube.com/watch?v=iZl7R6ntOGc</sup>_
+
+In this video I go over how to clone the reveal.js github repository and alter the demo's html file to read content from a markdown file. We then use a node.js express server to serve the markdown fil...
+* :calendar: **published on**: 2017-11-10
+* **tags**: [markdown](../tagged/markdown.md), [reveal.js](../tagged/reveal.js.md), [html](../tagged/html.md), [node.js](../tagged/node.js.md), [expressjs](../tagged/expressjs.md)
+---
+#### [PixelCraft: A Pixel Art Editor](https://github.com/rgab1508/PixelCraft)
+_<sup>https://github.com/rgab1508/PixelCraft</sup>_
+
+ PixelCraft
+A pixel Art & Animation Creation Tool Built using HTML5 Canvas.  
+It is a Progressive Web App (PWA) with offline compatibility.  
+It is mobile-friendly and is very easy to use.  
+
+![Pixel...
+* :calendar: **published on**: 2020-09-11
+* **tags**: [pixel](../tagged/pixel.md), [html](../tagged/html.md), [css](../tagged/css.md), [javascript](../tagged/javascript.md), [canvas](../tagged/canvas.md)
+* :octocat: **[source code](https://github.com/rgab1508/PixelCraft)**
+---
 #### [Quick and Simple Image Placeholders - Dynamic Dummy Image Generator](https://plchldr.co/)
 _<sup>https://plchldr.co/</sup>_
 

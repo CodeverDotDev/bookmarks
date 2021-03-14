@@ -2,6 +2,14 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/blog](https://www.bookmarks.dev/tagged/blog)</sup></sup>_
 ---
+#### [Taimoor Sattar | tech articles and entrepreneur](https://taimoorsattar.dev)
+_<sup>https://taimoorsattar.dev</sup>_
+
+I’m a full-stack developer. I write about tech articles and entrepreneur. I write about content that more related to problem-solving related to programming, money, and the latest trends.
+* :calendar: **published on**: 2021-01-12
+* **tags**: [javascript](../tagged/javascript.md), [website](../tagged/website.md), [development](../tagged/development.md), [blog](../tagged/blog.md)
+* :octocat: **[source code](https://github.com/taimoorsattar7/taimoorsattar.dev)**
+---
 #### [Coding For Speed](https://codingforspeed.com/)
 _<sup>https://codingforspeed.com/</sup>_
 

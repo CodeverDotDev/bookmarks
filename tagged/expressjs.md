@@ -2,6 +2,20 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/expressjs](https://www.bookmarks.dev/tagged/expressjs)</sup></sup>_
 ---
+#### [Defending Against Query Selector Injection Attacks](https://thecodebarbarian.wordpress.com/2014/09/04/defending-against-query-selector-injection-attacks/)
+_<sup>https://thecodebarbarian.wordpress.com/2014/09/04/defending-against-query-selector-injection-attacks...</sup>_
+
+This article shows two simple ways to protect against the attacks described in [Hacking NodeJS and MongoDB](https://blog.websecurify.com/2014/08/hacking-nodejs-and-mongodb.html). One of the them is by...
+* **tags**: [mongodb](../tagged/mongodb.md), [node.js](../tagged/node.js.md), [expressjs](../tagged/expressjs.md), [security](../tagged/security.md)
+* :octocat: **[source code](https://github.com/vkarpov15/mongo-sanitize)**
+---
+#### [How to create html presentations with markdown files - 8min](https://www.youtube.com/watch?v=iZl7R6ntOGc)
+_<sup>https://www.youtube.com/watch?v=iZl7R6ntOGc</sup>_
+
+In this video I go over how to clone the reveal.js github repository and alter the demo's html file to read content from a markdown file. We then use a node.js express server to serve the markdown fil...
+* :calendar: **published on**: 2017-11-10
+* **tags**: [markdown](../tagged/markdown.md), [reveal.js](../tagged/reveal.js.md), [html](../tagged/html.md), [node.js](../tagged/node.js.md), [expressjs](../tagged/expressjs.md)
+---
 #### [Complete example of a CRUD API with Express GraphQL – CodepediaOrg](https://www.codepedia.org/ama/complete-example-crud-api-express-graphql)
 _<sup>https://www.codepedia.org/ama/complete-example-crud-api-express-graphql</sup>_
 

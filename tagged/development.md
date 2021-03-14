@@ -2,6 +2,21 @@
 
 _<sup><sup>[www.bookmarks.dev/tagged/development](https://www.bookmarks.dev/tagged/development)</sup></sup>_
 ---
+#### [Taimoor Sattar | tech articles and entrepreneur](https://taimoorsattar.dev)
+_<sup>https://taimoorsattar.dev</sup>_
+
+I’m a full-stack developer. I write about tech articles and entrepreneur. I write about content that more related to problem-solving related to programming, money, and the latest trends.
+* :calendar: **published on**: 2021-01-12
+* **tags**: [javascript](../tagged/javascript.md), [website](../tagged/website.md), [development](../tagged/development.md), [blog](../tagged/blog.md)
+* :octocat: **[source code](https://github.com/taimoorsattar7/taimoorsattar.dev)**
+---
+#### [Developer Roadmaps](https://roadmap.sh/)
+_<sup>https://roadmap.sh/</sup>_
+
+Community driven roadmaps, articles, guides, quizzes, tips and resources for developers to learn from, identify their career paths, know what they don't know, find out the knowledge gaps, learn and im...
+* **tags**: [roadmaps](../tagged/roadmaps.md), [development](../tagged/development.md)
+* :octocat: **[source code](https://github.com/kamranahmedse/developer-roadmap)**
+---
 #### [GitHub - EbookFoundation/free-programming-books: Freely available programming books](https://github.com/EbookFoundation/free-programming-books?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily)
 _<sup>https://github.com/EbookFoundation/free-programming-books?utm_campaign=explore-email&utm_medium=emai...</sup>_
 
