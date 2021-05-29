@@ -1,4 +1,3 @@
-<br />
 <div align="center">
 	<img width="560" src="images/codever-bookmarks-header-560x137.png" alt="Codever bookmarks">
 	<br>
