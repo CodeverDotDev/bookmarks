@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[grep]](https://www.codever.land/search?q=[grep])
 
-_<sup><sup>[www.codever.land/bookmarks/t/grep](www.codever.land/bookmarks/t/grep)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/grep](https://www.codever.land/bookmarks/t/grep)</sup></sup>_
 ---
 #### [Grep Console IntelliJ Plugin](https://plugins.jetbrains.com/plugin/7125-grep-console)
 _<sup>https://plugins.jetbrains.com/plugin/7125-grep-console</sup>_

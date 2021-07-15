@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[video-processing]](https://www.codever.land/search?q=[video-processing])
 
-_<sup><sup>[www.codever.land/bookmarks/t/video-processing](www.codever.land/bookmarks/t/video-processing)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/video-processing](https://www.codever.land/bookmarks/t/video-processing)</sup></sup>_
 ---
 #### [Gifski | Sindre Sorhus](https://sindresorhus.com/gifski)
 _<sup>https://sindresorhus.com/gifski</sup>_

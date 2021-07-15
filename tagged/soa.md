@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[soa]](https://www.codever.land/search?q=[soa])
 
-_<sup><sup>[www.codever.land/bookmarks/t/soa](www.codever.land/bookmarks/t/soa)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/soa](https://www.codever.land/bookmarks/t/soa)</sup></sup>_
 ---
 #### [Consumer-Driven Contracts: A Service Evolution Pattern](https://martinfowler.com/articles/consumerDrivenContracts.html)
 _<sup>https://martinfowler.com/articles/consumerDrivenContracts.html</sup>_

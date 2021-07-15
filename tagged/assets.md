@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[assets]](https://www.codever.land/search?q=[assets])
 
-_<sup><sup>[www.codever.land/bookmarks/t/assets](www.codever.land/bookmarks/t/assets)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/assets](https://www.codever.land/bookmarks/t/assets)</sup></sup>_
 ---
 #### [Asset Sync](https://github.com/AssetSync/asset_sync)
 _<sup>https://github.com/AssetSync/asset_sync</sup>_

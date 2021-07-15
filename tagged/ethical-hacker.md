@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[ethical-hacker]](https://www.codever.land/search?q=[ethical-hacker])
 
-_<sup><sup>[www.codever.land/bookmarks/t/ethical-hacker](www.codever.land/bookmarks/t/ethical-hacker)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/ethical-hacker](https://www.codever.land/bookmarks/t/ethical-hacker)</sup></sup>_
 ---
 #### [GETTING STARTED | hackers-arise](https://www.hackers-arise.com/getting-started)
 _<sup>https://www.hackers-arise.com/getting-started</sup>_

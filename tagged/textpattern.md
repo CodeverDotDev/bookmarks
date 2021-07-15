@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[textpattern]](https://www.codever.land/search?q=[textpattern])
 
-_<sup><sup>[www.codever.land/bookmarks/t/textpattern](www.codever.land/bookmarks/t/textpattern)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/textpattern](https://www.codever.land/bookmarks/t/textpattern)</sup></sup>_
 ---
 #### [awesome-textpattern](https://github.com/drmonkeyninja/awesome-textpattern#readme)
 _<sup>https://github.com/drmonkeyninja/awesome-textpattern#readme</sup>_

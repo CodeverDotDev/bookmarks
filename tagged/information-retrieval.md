@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[information-retrieval]](https://www.codever.land/search?q=[information-retrieval])
 
-_<sup><sup>[www.codever.land/bookmarks/t/information-retrieval](www.codever.land/bookmarks/t/information-retrieval)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/information-retrieval](https://www.codever.land/bookmarks/t/information-retrieval)</sup></sup>_
 ---
 #### [Introduction to Information Retrieval](http://nlp.stanford.edu/IR-book/information-retrieval-book.html)
 _<sup>http://nlp.stanford.edu/IR-book/information-retrieval-book.html</sup>_

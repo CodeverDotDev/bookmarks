@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[sinonjs]](https://www.codever.land/search?q=[sinonjs])
 
-_<sup><sup>[www.codever.land/bookmarks/t/sinonjs](www.codever.land/bookmarks/t/sinonjs)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/sinonjs](https://www.codever.land/bookmarks/t/sinonjs)</sup></sup>_
 ---
 #### [Unit Testing in Angular: Stubs vs Spies vs Mocks](https://www.amadousall.com/unit-testing-angular-stubs-vs-spies-vs-mocks/)
 _<sup>https://www.amadousall.com/unit-testing-angular-stubs-vs-spies-vs-mocks/</sup>_

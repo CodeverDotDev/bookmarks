@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[deprecated]](https://www.codever.land/search?q=[deprecated])
 
-_<sup><sup>[www.codever.land/bookmarks/t/deprecated](www.codever.land/bookmarks/t/deprecated)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/deprecated](https://www.codever.land/bookmarks/t/deprecated)</sup></sup>_
 ---
 #### [GraphQL Schema Design: Building Evolvable Schemas - Apollo Blog](https://www.apollographql.com/blog/graphql-schema-design-building-evolvable-schemas-1501f3c59ed5/)
 _<sup>https://www.apollographql.com/blog/graphql-schema-design-building-evolvable-schemas-1501f3c59ed5/</sup>_

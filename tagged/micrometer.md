@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[micrometer]](https://www.codever.land/search?q=[micrometer])
 
-_<sup><sup>[www.codever.land/bookmarks/t/micrometer](www.codever.land/bookmarks/t/micrometer)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/micrometer](https://www.codever.land/bookmarks/t/micrometer)</sup></sup>_
 ---
 #### [Micrometer Application Monitoring Home Page](http://micrometer.io/)
 _<sup>http://micrometer.io/</sup>_

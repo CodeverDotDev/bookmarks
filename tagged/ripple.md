@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[ripple]](https://www.codever.land/search?q=[ripple])
 
-_<sup><sup>[www.codever.land/bookmarks/t/ripple](www.codever.land/bookmarks/t/ripple)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/ripple](https://www.codever.land/bookmarks/t/ripple)</sup></sup>_
 ---
 #### [awesome-ripple](https://github.com/vhpoet/awesome-ripple#readme)
 _<sup>https://github.com/vhpoet/awesome-ripple#readme</sup>_

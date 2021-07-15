@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[exception-handling]](https://www.codever.land/search?q=[exception-handling])
 
-_<sup><sup>[www.codever.land/bookmarks/t/exception-handling](www.codever.land/bookmarks/t/exception-handling)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/exception-handling](https://www.codever.land/bookmarks/t/exception-handling)</sup></sup>_
 ---
 #### [Les exceptions, mauvaise solution pour la gestion des erreurs dans une application - Publicis Sapient Engineering - Engineering Done Rightclose-](https://blog.engineering.publicissapient.fr/2021/01/11/les-exceptions-mauvaise-solution-pour-la-gestion-des-erreurs-dans-une-application/)
 _<sup>https://blog.engineering.publicissapient.fr/2021/01/11/les-exceptions-mauvaise-solution-pour-la-gest...</sup>_

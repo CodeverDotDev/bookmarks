@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[autoit]](https://www.codever.land/search?q=[autoit])
 
-_<sup><sup>[www.codever.land/bookmarks/t/autoit](www.codever.land/bookmarks/t/autoit)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/autoit](https://www.codever.land/bookmarks/t/autoit)</sup></sup>_
 ---
 #### [awesome-AutoIt](https://github.com/J2TeaM/awesome-AutoIt#readme)
 _<sup>https://github.com/J2TeaM/awesome-AutoIt#readme</sup>_

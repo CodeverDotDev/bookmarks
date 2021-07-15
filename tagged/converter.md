@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[converter]](https://www.codever.land/search?q=[converter])
 
-_<sup><sup>[www.codever.land/bookmarks/t/converter](www.codever.land/bookmarks/t/converter)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/converter](https://www.codever.land/bookmarks/t/converter)</sup></sup>_
 ---
 #### [How to convert milliseconds to date string in Oracle SQL](http://www.asjava.com/oracle/how-to-convert-milliseconds-to-date-string-in-oracle-sql/)
 _<sup>http://www.asjava.com/oracle/how-to-convert-milliseconds-to-date-string-in-oracle-sql/</sup>_

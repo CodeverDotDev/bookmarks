@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[programming-languages]](https://www.codever.land/search?q=[programming-languages])
 
-_<sup><sup>[www.codever.land/bookmarks/t/programming-languages](www.codever.land/bookmarks/t/programming-languages)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/programming-languages](https://www.codever.land/bookmarks/t/programming-languages)</sup></sup>_
 ---
 #### [awesome-javascript](https://github.com/sorrycc/awesome-javascript#readme)
 _<sup>https://github.com/sorrycc/awesome-javascript#readme</sup>_

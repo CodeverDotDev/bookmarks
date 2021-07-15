@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[feed]](https://www.codever.land/search?q=[feed])
 
-_<sup><sup>[www.codever.land/bookmarks/t/feed](www.codever.land/bookmarks/t/feed)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/feed](https://www.codever.land/bookmarks/t/feed)</sup></sup>_
 ---
 #### [Lobsters](https://lobste.rs/)
 _<sup>https://lobste.rs/</sup>_

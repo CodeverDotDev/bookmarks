@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[embedded-systems]](https://www.codever.land/search?q=[embedded-systems])
 
-_<sup><sup>[www.codever.land/bookmarks/t/embedded-systems](www.codever.land/bookmarks/t/embedded-systems)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/embedded-systems](https://www.codever.land/bookmarks/t/embedded-systems)</sup></sup>_
 ---
 #### [Introduction to Microcontrollers](http://www.embeddedrelated.com/showarticle/453.php)
 _<sup>http://www.embeddedrelated.com/showarticle/453.php</sup>_

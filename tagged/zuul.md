@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[zuul]](https://www.codever.land/search?q=[zuul])
 
-_<sup><sup>[www.codever.land/bookmarks/t/zuul](www.codever.land/bookmarks/t/zuul)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/zuul](https://www.codever.land/bookmarks/t/zuul)</sup></sup>_
 ---
 #### [GitHub - Netflix/zuul home page](https://github.com/Netflix/zuul)
 _<sup>https://github.com/Netflix/zuul</sup>_

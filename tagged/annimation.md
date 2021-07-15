@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[annimation]](https://www.codever.land/search?q=[annimation])
 
-_<sup><sup>[www.codever.land/bookmarks/t/annimation](www.codever.land/bookmarks/t/annimation)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/annimation](https://www.codever.land/bookmarks/t/annimation)</sup></sup>_
 ---
 #### [GreenSock](https://greensock.com/)
 _<sup>https://greensock.com/</sup>_

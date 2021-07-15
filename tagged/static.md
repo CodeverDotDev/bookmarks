@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[static]](https://www.codever.land/search?q=[static])
 
-_<sup><sup>[www.codever.land/bookmarks/t/static](www.codever.land/bookmarks/t/static)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/static](https://www.codever.land/bookmarks/t/static)</sup></sup>_
 ---
 #### [@Singleton vs @ApplicationScope](https://stackoverflow.com/questions/26832051/singleton-vs-applicationscope/27848417)
 _<sup>https://stackoverflow.com/questions/26832051/singleton-vs-applicationscope/27848417</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[animagion]](https://www.codever.land/search?q=[animagion])
 
-_<sup><sup>[www.codever.land/bookmarks/t/animagion](www.codever.land/bookmarks/t/animagion)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/animagion](https://www.codever.land/bookmarks/t/animagion)</sup></sup>_
 ---
 #### [
     Animating with Lottie | CSS-Tricks  ](https://css-tricks.com/animating-with-lottie/)

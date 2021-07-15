@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[lapack]](https://www.codever.land/search?q=[lapack])
 
-_<sup><sup>[www.codever.land/bookmarks/t/lapack](www.codever.land/bookmarks/t/lapack)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/lapack](https://www.codever.land/bookmarks/t/lapack)</sup></sup>_
 ---
 #### [stainless-steel/lapack](https://github.com/blas-lapack-rs/lapack)
 _<sup>https://github.com/blas-lapack-rs/lapack</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[message-driven-bean]](https://www.codever.land/search?q=[message-driven-bean])
 
-_<sup><sup>[www.codever.land/bookmarks/t/message-driven-bean](www.codever.land/bookmarks/t/message-driven-bean)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/message-driven-bean](https://www.codever.land/bookmarks/t/message-driven-bean)</sup></sup>_
 ---
 #### [Message Driven Beans, attributes explanation - Jboss Docs](https://docs.jboss.org/ejb3/docs/tutorial/mdb/mdb.html)
 _<sup>https://docs.jboss.org/ejb3/docs/tutorial/mdb/mdb.html</sup>_

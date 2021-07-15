@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[threat-model]](https://www.codever.land/search?q=[threat-model])
 
-_<sup><sup>[www.codever.land/bookmarks/t/threat-model](www.codever.land/bookmarks/t/threat-model)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/threat-model](https://www.codever.land/bookmarks/t/threat-model)</sup></sup>_
 ---
 #### [Threat Dragon home page](https://threatdragon.org/)
 _<sup>https://threatdragon.org/</sup>_

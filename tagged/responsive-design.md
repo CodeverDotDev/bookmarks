@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[responsive-design]](https://www.codever.land/search?q=[responsive-design])
 
-_<sup><sup>[www.codever.land/bookmarks/t/responsive-design](www.codever.land/bookmarks/t/responsive-design)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/responsive-design](https://www.codever.land/bookmarks/t/responsive-design)</sup></sup>_
 ---
 #### [embedresponsively.com](https://embedresponsively.com/)
 _<sup>https://embedresponsively.com/</sup>_

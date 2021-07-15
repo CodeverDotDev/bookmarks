@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[babel]](https://www.codever.land/search?q=[babel])
 
-_<sup><sup>[www.codever.land/bookmarks/t/babel](www.codever.land/bookmarks/t/babel)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/babel](https://www.codever.land/bookmarks/t/babel)</sup></sup>_
 ---
 #### [Babel · The compiler for next generation JavaScript](https://babeljs.io/)
 _<sup>https://babeljs.io/</sup>_

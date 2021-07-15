@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[ftp]](https://www.codever.land/search?q=[ftp])
 
-_<sup><sup>[www.codever.land/bookmarks/t/ftp](www.codever.land/bookmarks/t/ftp)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/ftp](https://www.codever.land/bookmarks/t/ftp)</sup></sup>_
 ---
 #### [mattnenterprise/rust-ftp](https://github.com/mattnenterprise/rust-ftp)
 _<sup>https://github.com/mattnenterprise/rust-ftp</sup>_

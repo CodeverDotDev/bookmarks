@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[rr]](https://www.codever.land/search?q=[rr])
 
-_<sup><sup>[www.codever.land/bookmarks/t/rr](www.codever.land/bookmarks/t/rr)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/rr](https://www.codever.land/bookmarks/t/rr)</sup></sup>_
 ---
 #### [rr](https://rr-project.org/)
 _<sup>https://rr-project.org/</sup>_

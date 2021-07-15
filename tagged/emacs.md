@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[emacs]](https://www.codever.land/search?q=[emacs])
 
-_<sup><sup>[www.codever.land/bookmarks/t/emacs](www.codever.land/bookmarks/t/emacs)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/emacs](https://www.codever.land/bookmarks/t/emacs)</sup></sup>_
 ---
 #### [How do I make Git use the editor of my choice for commits?](https://stackoverflow.com/questions/2596805/how-do-i-make-git-use-the-editor-of-my-choice-for-commits)
 _<sup>https://stackoverflow.com/questions/2596805/how-do-i-make-git-use-the-editor-of-my-choice-for-commit...</sup>_

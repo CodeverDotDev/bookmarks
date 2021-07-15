@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[sap]](https://www.codever.land/search?q=[sap])
 
-_<sup><sup>[www.codever.land/bookmarks/t/sap](www.codever.land/bookmarks/t/sap)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/sap](https://www.codever.land/bookmarks/t/sap)</sup></sup>_
 ---
 #### [SAP Graph Multi-Part Tutorial: Information Map | SAP Blogs](https://blogs.sap.com/2021/06/08/sap-graph-multi-part-tutorial-information-map/)
 _<sup>https://blogs.sap.com/2021/06/08/sap-graph-multi-part-tutorial-information-map/</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[free-programming-books-hu]](https://www.codever.land/search?q=[free-programming-books-hu])
 
-_<sup><sup>[www.codever.land/bookmarks/t/free-programming-books-hu](www.codever.land/bookmarks/t/free-programming-books-hu)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/free-programming-books-hu](https://www.codever.land/bookmarks/t/free-programming-books-hu)</sup></sup>_
 ---
 #### [Windows Phone fejlesztés lépésről lépésre](http://mek.oszk.hu/10300/10393/)
 _<sup>http://mek.oszk.hu/10300/10393/</sup>_

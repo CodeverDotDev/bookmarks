@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[racket]](https://www.codever.land/search?q=[racket])
 
-_<sup><sup>[www.codever.land/bookmarks/t/racket](www.codever.land/bookmarks/t/racket)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/racket](https://www.codever.land/bookmarks/t/racket)</sup></sup>_
 ---
 #### [The Racket Guide](http://docs.racket-lang.org/guide/index.html)
 _<sup>http://docs.racket-lang.org/guide/index.html</sup>_

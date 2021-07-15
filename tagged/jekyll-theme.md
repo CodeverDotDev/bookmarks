@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[jekyll-theme]](https://www.codever.land/search?q=[jekyll-theme])
 
-_<sup><sup>[www.codever.land/bookmarks/t/jekyll-theme](www.codever.land/bookmarks/t/jekyll-theme)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/jekyll-theme](https://www.codever.land/bookmarks/t/jekyll-theme)</sup></sup>_
 ---
 #### [Welcome to the Neo-HPSTR Blog – Blog Title](http://aronbordin.com/neo-hpstr-jekyll-theme/)
 _<sup>http://aronbordin.com/neo-hpstr-jekyll-theme/</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[monitoring]](https://www.codever.land/search?q=[monitoring])
 
-_<sup><sup>[www.codever.land/bookmarks/t/monitoring](www.codever.land/bookmarks/t/monitoring)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/monitoring](https://www.codever.land/bookmarks/t/monitoring)</sup></sup>_
 ---
 #### [prometheus/jmx_exporter home page](https://github.com/prometheus/jmx_exporter)
 _<sup>https://github.com/prometheus/jmx_exporter</sup>_

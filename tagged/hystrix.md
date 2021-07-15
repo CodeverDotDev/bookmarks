@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[hystrix]](https://www.codever.land/search?q=[hystrix])
 
-_<sup><sup>[www.codever.land/bookmarks/t/hystrix](www.codever.land/bookmarks/t/hystrix)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/hystrix](https://www.codever.land/bookmarks/t/hystrix)</sup></sup>_
 ---
 #### [A Guide to Spring Cloud Netflix - Hystrix](https://www.baeldung.com/spring-cloud-netflix-hystrix)
 _<sup>https://www.baeldung.com/spring-cloud-netflix-hystrix</sup>_

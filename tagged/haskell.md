@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[haskell]](https://www.codever.land/search?q=[haskell])
 
-_<sup><sup>[www.codever.land/bookmarks/t/haskell](www.codever.land/bookmarks/t/haskell)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/haskell](https://www.codever.land/bookmarks/t/haskell)</sup></sup>_
 ---
 #### [mgattozzi/curryrs](https://github.com/mgattozzi/curryrs)
 _<sup>https://github.com/mgattozzi/curryrs</sup>_

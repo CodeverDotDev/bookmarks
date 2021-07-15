@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[database]](https://www.codever.land/search?q=[database])
 
-_<sup><sup>[www.codever.land/bookmarks/t/database](www.codever.land/bookmarks/t/database)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/database](https://www.codever.land/bookmarks/t/database)</sup></sup>_
 ---
 #### [Redis Quick Start – Redis](https://redis.io/topics/quickstart)
 _<sup>https://redis.io/topics/quickstart</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[implementation]](https://www.codever.land/search?q=[implementation])
 
-_<sup><sup>[www.codever.land/bookmarks/t/implementation](www.codever.land/bookmarks/t/implementation)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/implementation](https://www.codever.land/bookmarks/t/implementation)</sup></sup>_
 ---
 #### [Flux Comparision](https://github.com/voronianski/flux-comparison)
 _<sup>https://github.com/voronianski/flux-comparison</sup>_

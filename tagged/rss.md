@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[rss]](https://www.codever.land/search?q=[rss])
 
-_<sup><sup>[www.codever.land/bookmarks/t/rss](www.codever.land/bookmarks/t/rss)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/rss](https://www.codever.land/bookmarks/t/rss)</sup></sup>_
 ---
 #### [Feed normalizer](https://github.com/aasmith/feed-normalizer)
 _<sup>https://github.com/aasmith/feed-normalizer</sup>_

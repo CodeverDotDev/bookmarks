@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[bigdata]](https://www.codever.land/search?q=[bigdata])
 
-_<sup><sup>[www.codever.land/bookmarks/t/bigdata](www.codever.land/bookmarks/t/bigdata)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/bigdata](https://www.codever.land/bookmarks/t/bigdata)</sup></sup>_
 ---
 #### [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata#readme)
 _<sup>https://github.com/onurakpolat/awesome-bigdata#readme</sup>_

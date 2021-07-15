@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[tracing]](https://www.codever.land/search?q=[tracing])
 
-_<sup><sup>[www.codever.land/bookmarks/t/tracing](www.codever.land/bookmarks/t/tracing)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/tracing](https://www.codever.land/bookmarks/t/tracing)</sup></sup>_
 ---
 #### [dotScale 2017 - Adrian Cole - Observability 3 ways: Logging, Metrics & Tracing  - 18min](https://www.youtube.com/watch?v=juP9VApKy_I)
 _<sup>https://www.youtube.com/watch?v=juP9VApKy_I</sup>_

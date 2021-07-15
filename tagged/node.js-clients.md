@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[node.js-clients]](https://www.codever.land/search?q=[node.js-clients])
 
-_<sup><sup>[www.codever.land/bookmarks/t/node.js-clients](www.codever.land/bookmarks/t/node.js-clients)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/node.js-clients](https://www.codever.land/bookmarks/t/node.js-clients)</sup></sup>_
 ---
 #### [restler](https://github.com/danwrong/restler)
 _<sup>https://github.com/danwrong/restler</sup>_

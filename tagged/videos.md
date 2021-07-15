@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[videos]](https://www.codever.land/search?q=[videos])
 
-_<sup><sup>[www.codever.land/bookmarks/t/videos](www.codever.land/bookmarks/t/videos)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/videos](https://www.codever.land/bookmarks/t/videos)</sup></sup>_
 ---
 #### [leonardomso/33-js-concepts: 📜 33 JavaScript concepts every developer should know.](https://github.com/leonardomso/33-js-concepts)
 _<sup>https://github.com/leonardomso/33-js-concepts</sup>_

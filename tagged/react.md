@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[react]](https://www.codever.land/search?q=[react])
 
-_<sup><sup>[www.codever.land/bookmarks/t/react](www.codever.land/bookmarks/t/react)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/react](https://www.codever.land/bookmarks/t/react)</sup></sup>_
 ---
 #### [Some problems with React/Redux](https://staltz.com/some-problems-with-react-redux.html)
 _<sup>https://staltz.com/some-problems-with-react-redux.html</sup>_

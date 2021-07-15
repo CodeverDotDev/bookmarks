@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[float]](https://www.codever.land/search?q=[float])
 
-_<sup><sup>[www.codever.land/bookmarks/t/float](www.codever.land/bookmarks/t/float)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/float](https://www.codever.land/bookmarks/t/float)</sup></sup>_
 ---
 #### [Stripe Currency - Are all amounts in cents / 100ths, or does it depend on currency?](https://stackoverflow.com/questions/35326710/stripe-currency-are-all-amounts-in-cents-100ths-or-does-it-depend-on-curren)
 _<sup>https://stackoverflow.com/questions/35326710/stripe-currency-are-all-amounts-in-cents-100ths-or-does...</sup>_

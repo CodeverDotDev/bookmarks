@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[amazon-s3]](https://www.codever.land/search?q=[amazon-s3])
 
-_<sup><sup>[www.codever.land/bookmarks/t/amazon-s3](www.codever.land/bookmarks/t/amazon-s3)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/amazon-s3](https://www.codever.land/bookmarks/t/amazon-s3)</sup></sup>_
 ---
 #### [How to specify upload directory in multer-S3 for AWS-S3 bucket?](https://stackoverflow.com/questions/44028876/how-to-specify-upload-directory-in-multer-s3-for-aws-s3-bucket/44029666)
 _<sup>https://stackoverflow.com/questions/44028876/how-to-specify-upload-directory-in-multer-s3-for-aws-s3...</sup>_

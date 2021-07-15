@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[userscripts]](https://www.codever.land/search?q=[userscripts])
 
-_<sup><sup>[www.codever.land/bookmarks/t/userscripts](www.codever.land/bookmarks/t/userscripts)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/userscripts](https://www.codever.land/bookmarks/t/userscripts)</sup></sup>_
 ---
 #### [awesome-userscripts](https://github.com/brunocvcunha/awesome-userscripts#readme)
 _<sup>https://github.com/brunocvcunha/awesome-userscripts#readme</sup>_

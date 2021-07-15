@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[subversion]](https://www.codever.land/search?q=[subversion])
 
-_<sup><sup>[www.codever.land/bookmarks/t/subversion](www.codever.land/bookmarks/t/subversion)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/subversion](https://www.codever.land/bookmarks/t/subversion)</sup></sup>_
 ---
 #### [Version Control with Subversion](http://svnbook.red-bean.com)
 _<sup>http://svnbook.red-bean.com</sup>_

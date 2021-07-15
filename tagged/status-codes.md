@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[status-codes]](https://www.codever.land/search?q=[status-codes])
 
-_<sup><sup>[www.codever.land/bookmarks/t/status-codes](www.codever.land/bookmarks/t/status-codes)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/status-codes](https://www.codever.land/bookmarks/t/status-codes)</sup></sup>_
 ---
 #### [The HTTP Status Codes List](https://flaviocopes.com/http-status-codes/)
 _<sup>https://flaviocopes.com/http-status-codes/</sup>_

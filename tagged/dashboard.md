@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[dashboard]](https://www.codever.land/search?q=[dashboard])
 
-_<sup><sup>[www.codever.land/bookmarks/t/dashboard](www.codever.land/bookmarks/t/dashboard)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/dashboard](https://www.codever.land/bookmarks/t/dashboard)</sup></sup>_
 ---
 #### [JVM (Micrometer) dashboardData for Grafana | Grafana Labs](https://grafana.com/grafana/dashboards/4701)
 _<sup>https://grafana.com/grafana/dashboards/4701</sup>_

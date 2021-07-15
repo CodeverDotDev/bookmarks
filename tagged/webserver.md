@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[webserver]](https://www.codever.land/search?q=[webserver])
 
-_<sup><sup>[www.codever.land/bookmarks/t/webserver](www.codever.land/bookmarks/t/webserver)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/webserver](https://www.codever.land/bookmarks/t/webserver)</sup></sup>_
 ---
 #### [thecoshman/http](https://github.com/thecoshman/http)
 _<sup>https://github.com/thecoshman/http</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[gsl]](https://www.codever.land/search?q=[gsl])
 
-_<sup><sup>[www.codever.land/bookmarks/t/gsl](www.codever.land/bookmarks/t/gsl)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/gsl](https://www.codever.land/bookmarks/t/gsl)</sup></sup>_
 ---
 #### [GuillaumeGomez/rust-GSL](https://github.com/GuillaumeGomez)
 _<sup>https://github.com/GuillaumeGomez</sup>_

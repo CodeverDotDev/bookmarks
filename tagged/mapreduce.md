@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[mapreduce]](https://www.codever.land/search?q=[mapreduce])
 
-_<sup><sup>[www.codever.land/bookmarks/t/mapreduce](www.codever.land/bookmarks/t/mapreduce)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/mapreduce](https://www.codever.land/bookmarks/t/mapreduce)</sup></sup>_
 ---
 #### [What is MapReduce? - YouTube](https://www.youtube.com/watch?v=43fqzaSH0CQ)
 _<sup>https://www.youtube.com/watch?v=43fqzaSH0CQ</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[ms-office]](https://www.codever.land/search?q=[ms-office])
 
-_<sup><sup>[www.codever.land/bookmarks/t/ms-office](www.codever.land/bookmarks/t/ms-office)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/ms-office](https://www.codever.land/bookmarks/t/ms-office)</sup></sup>_
 ---
 #### [excelize](https://github.com/360EntSecGroup-Skylar/excelize)
 _<sup>https://github.com/360EntSecGroup-Skylar/excelize</sup>_

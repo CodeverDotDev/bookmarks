@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[free-programming-books-gr]](https://www.codever.land/search?q=[free-programming-books-gr])
 
-_<sup><sup>[www.codever.land/bookmarks/t/free-programming-books-gr](www.codever.land/bookmarks/t/free-programming-books-gr)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/free-programming-books-gr](https://www.codever.land/bookmarks/t/free-programming-books-gr)</sup></sup>_
 ---
 #### [Συστήματα Βάσεων Δεδομένων - Θεωρία και πρακτική εφαρμογή](http://studentguru.gr/cfs-file/__key/telligent-evolution-components-attachments/13-1200-00-00-00-13-46-27/vaseis_5F00_dedomenwn.pdf)
 _<sup>http://studentguru.gr/cfs-file/__key/telligent-evolution-components-attachments/13-1200-00-00-00-13-...</sup>_

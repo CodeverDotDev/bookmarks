@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[esolangs]](https://www.codever.land/search?q=[esolangs])
 
-_<sup><sup>[www.codever.land/bookmarks/t/esolangs](www.codever.land/bookmarks/t/esolangs)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/esolangs](https://www.codever.land/bookmarks/t/esolangs)</sup></sup>_
 ---
 #### [awesome-esolangs](https://github.com/angrykoala/awesome-esolangs#readme)
 _<sup>https://github.com/angrykoala/awesome-esolangs#readme</sup>_

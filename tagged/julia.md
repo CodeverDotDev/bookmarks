@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[julia]](https://www.codever.land/search?q=[julia])
 
-_<sup><sup>[www.codever.land/bookmarks/t/julia](www.codever.land/bookmarks/t/julia)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/julia](https://www.codever.land/bookmarks/t/julia)</sup></sup>_
 ---
 #### [awesome-Julia.jl](https://github.com/svaksha/Julia.jl#readme)
 _<sup>https://github.com/svaksha/Julia.jl#readme</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[design-patterns]](https://www.codever.land/search?q=[design-patterns])
 
-_<sup><sup>[www.codever.land/bookmarks/t/design-patterns](www.codever.land/bookmarks/t/design-patterns)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/design-patterns](https://www.codever.land/bookmarks/t/design-patterns)</sup></sup>_
 ---
 #### [sohamkamani/javascript-design-patterns-for-humans](https://github.com/sohamkamani/javascript-design-patterns-for-humans)
 _<sup>https://github.com/sohamkamani/javascript-design-patterns-for-humans</sup>_

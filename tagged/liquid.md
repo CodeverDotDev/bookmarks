@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[liquid]](https://www.codever.land/search?q=[liquid])
 
-_<sup><sup>[www.codever.land/bookmarks/t/liquid](www.codever.land/bookmarks/t/liquid)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/liquid](https://www.codever.land/bookmarks/t/liquid)</sup></sup>_
 ---
 #### [Liquid template language home page](https://shopify.github.io/liquid/)
 _<sup>https://shopify.github.io/liquid/</sup>_

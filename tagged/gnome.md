@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[gnome]](https://www.codever.land/search?q=[gnome])
 
-_<sup><sup>[www.codever.land/bookmarks/t/gnome](www.codever.land/bookmarks/t/gnome)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/gnome](https://www.codever.land/bookmarks/t/gnome)</sup></sup>_
 ---
 #### [awesome-gnome](https://github.com/Kazhnuz/awesome-gnome#readme)
 _<sup>https://github.com/Kazhnuz/awesome-gnome#readme</sup>_

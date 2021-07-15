@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[layouts]](https://www.codever.land/search?q=[layouts])
 
-_<sup><sup>[www.codever.land/bookmarks/t/layouts](www.codever.land/bookmarks/t/layouts)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/layouts](https://www.codever.land/bookmarks/t/layouts)</sup></sup>_
 ---
 #### [CSS Templates](https://www.w3schools.com/css/css_templates.asp)
 _<sup>https://www.w3schools.com/css/css_templates.asp</sup>_

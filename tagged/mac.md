@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[mac]](https://www.codever.land/search?q=[mac])
 
-_<sup><sup>[www.codever.land/bookmarks/t/mac](www.codever.land/bookmarks/t/mac)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/mac](https://www.codever.land/bookmarks/t/mac)</sup></sup>_
 ---
 #### [Get started with Docker for Mac](https://docs.docker.com/docker-for-mac/)
 _<sup>https://docs.docker.com/docker-for-mac/</sup>_

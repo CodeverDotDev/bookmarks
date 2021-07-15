@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[software-engineering]](https://www.codever.land/search?q=[software-engineering])
 
-_<sup><sup>[www.codever.land/bookmarks/t/software-engineering](www.codever.land/bookmarks/t/software-engineering)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/software-engineering](https://www.codever.land/bookmarks/t/software-engineering)</sup></sup>_
 ---
 #### [What Is Functional Programming?](http://blog.jenkster.com/2015/12/what-is-functional-programming.html)
 _<sup>http://blog.jenkster.com/2015/12/what-is-functional-programming.html</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[no-code]](https://www.codever.land/search?q=[no-code])
 
-_<sup><sup>[www.codever.land/bookmarks/t/no-code](www.codever.land/bookmarks/t/no-code)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/no-code](https://www.codever.land/bookmarks/t/no-code)</sup></sup>_
 ---
 #### [Trello](https://trello.com/b/A4OmiAWb/100-no-code-resources)
 _<sup>https://trello.com/b/A4OmiAWb/100-no-code-resources</sup>_

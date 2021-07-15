@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[slider]](https://www.codever.land/search?q=[slider])
 
-_<sup><sup>[www.codever.land/bookmarks/t/slider](www.codever.land/bookmarks/t/slider)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/slider](https://www.codever.land/bookmarks/t/slider)</sup></sup>_
 ---
 #### [Swiper](https://github.com/nolimits4web/Swiper)
 _<sup>https://github.com/nolimits4web/Swiper</sup>_

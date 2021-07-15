@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[specification]](https://www.codever.land/search?q=[specification])
 
-_<sup><sup>[www.codever.land/bookmarks/t/specification](www.codever.land/bookmarks/t/specification)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/specification](https://www.codever.land/bookmarks/t/specification)</sup></sup>_
 ---
 #### [Apache Avro™ Specification Current](https://avro.apache.org/docs/current/spec.html)
 _<sup>https://avro.apache.org/docs/current/spec.html</sup>_

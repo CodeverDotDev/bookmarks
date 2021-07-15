@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[kustomize]](https://www.codever.land/search?q=[kustomize])
 
-_<sup><sup>[www.codever.land/bookmarks/t/kustomize](www.codever.land/bookmarks/t/kustomize)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/kustomize](https://www.codever.land/bookmarks/t/kustomize)</sup></sup>_
 ---
 #### [A cleaner multi-stage continuous deployment on Kubernetes of a Create React App with kustomize, helm and skaffold – CodepediaOrg](https://www.codepedia.org/ama/a-cleaner-multi-stage-deployment-on-kubernetes-of-a-create-react-app-with-kustomize-helm-and-skaffold)
 _<sup>https://www.codepedia.org/ama/a-cleaner-multi-stage-deployment-on-kubernetes-of-a-create-react-app-w...</sup>_

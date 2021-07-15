@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[reflection]](https://www.codever.land/search?q=[reflection])
 
-_<sup><sup>[www.codever.land/bookmarks/t/reflection](www.codever.land/bookmarks/t/reflection)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/reflection](https://www.codever.land/bookmarks/t/reflection)</sup></sup>_
 ---
 #### [Using Java Reflection](https://www.oracle.com/technical-resources/articles/java/javareflection.html)
 _<sup>https://www.oracle.com/technical-resources/articles/java/javareflection.html</sup>_

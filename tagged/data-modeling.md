@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[data-modeling]](https://www.codever.land/search?q=[data-modeling])
 
-_<sup><sup>[www.codever.land/bookmarks/t/data-modeling](www.codever.land/bookmarks/t/data-modeling)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/data-modeling](https://www.codever.land/bookmarks/t/data-modeling)</sup></sup>_
 ---
 #### [Modeling Data for NoSQL Document Databases - YouTube [31min]](https://www.youtube.com/watch?v=IUxT7ZRHlZ4)
 _<sup>https://www.youtube.com/watch?v=IUxT7ZRHlZ4</sup>_

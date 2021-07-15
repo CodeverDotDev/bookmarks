@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[gideros]](https://www.codever.land/search?q=[gideros])
 
-_<sup><sup>[www.codever.land/bookmarks/t/gideros](www.codever.land/bookmarks/t/gideros)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/gideros](https://www.codever.land/bookmarks/t/gideros)</sup></sup>_
 ---
 #### [awesome-gideros](https://github.com/stetso/awesome-gideros#readme)
 _<sup>https://github.com/stetso/awesome-gideros#readme</sup>_

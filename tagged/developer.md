@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[developer]](https://www.codever.land/search?q=[developer])
 
-_<sup><sup>[www.codever.land/bookmarks/t/developer](www.codever.land/bookmarks/t/developer)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/developer](https://www.codever.land/bookmarks/t/developer)</sup></sup>_
 ---
 #### [SAP Developer Advocates Home](https://developers.sap.com/developer-advocates.html)
 _<sup>https://developers.sap.com/developer-advocates.html</sup>_

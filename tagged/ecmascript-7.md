@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[ecmascript-7]](https://www.codever.land/search?q=[ecmascript-7])
 
-_<sup><sup>[www.codever.land/bookmarks/t/ecmascript-7](www.codever.land/bookmarks/t/ecmascript-7)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/ecmascript-7](https://www.codever.land/bookmarks/t/ecmascript-7)</sup></sup>_
 ---
 #### [StrongLoop - Asynchronous Error Handling in Express with Promises, Generators and ES7 ](https://strongloop.com/strongblog/async-error-handling-expressjs-es7-promises-generators/)
 _<sup>https://strongloop.com/strongblog/async-error-handling-expressjs-es7-promises-generators/</sup>_

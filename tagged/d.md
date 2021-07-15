@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[d]](https://www.codever.land/search?q=[d])
 
-_<sup><sup>[www.codever.land/bookmarks/t/d](www.codever.land/bookmarks/t/d)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/d](https://www.codever.land/bookmarks/t/d)</sup></sup>_
 ---
 #### [awesome-d](https://github.com/zhaopuming/awesome-d#readme)
 _<sup>https://github.com/zhaopuming/awesome-d#readme</sup>_

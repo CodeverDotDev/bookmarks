@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[web-application]](https://www.codever.land/search?q=[web-application])
 
-_<sup><sup>[www.codever.land/bookmarks/t/web-application](www.codever.land/bookmarks/t/web-application)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/web-application](https://www.codever.land/bookmarks/t/web-application)</sup></sup>_
 ---
 #### [My Programming Journal](http://waynewallace.sdf.org/programming-blog.html)
 _<sup>http://waynewallace.sdf.org/programming-blog.html</sup>_

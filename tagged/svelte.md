@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[svelte]](https://www.codever.land/search?q=[svelte])
 
-_<sup><sup>[www.codever.land/bookmarks/t/svelte](www.codever.land/bookmarks/t/svelte)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/svelte](https://www.codever.land/bookmarks/t/svelte)</sup></sup>_
 ---
 #### [Getting Acquainted With Svelte, the New Framework on the Block | CSS-Tricks](https://css-tricks.com/getting-acquainted-with-svelte-the-new-framework-on-the-block/)
 _<sup>https://css-tricks.com/getting-acquainted-with-svelte-the-new-framework-on-the-block/</sup>_

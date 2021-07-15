@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[professional-development]](https://www.codever.land/search?q=[professional-development])
 
-_<sup><sup>[www.codever.land/bookmarks/t/professional-development](www.codever.land/bookmarks/t/professional-development)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/professional-development](https://www.codever.land/bookmarks/t/professional-development)</sup></sup>_
 ---
 #### [Why programmers work at night](https://leanpub.com/nightowls/read)
 _<sup>https://leanpub.com/nightowls/read</sup>_

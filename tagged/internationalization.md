@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[internationalization]](https://www.codever.land/search?q=[internationalization])
 
-_<sup><sup>[www.codever.land/bookmarks/t/internationalization](www.codever.land/bookmarks/t/internationalization)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/internationalization](https://www.codever.land/bookmarks/t/internationalization)</sup></sup>_
 ---
 #### [gettext](http://www.gnu.org/software/gettext/)
 _<sup>http://www.gnu.org/software/gettext/</sup>_

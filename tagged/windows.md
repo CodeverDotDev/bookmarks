@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[windows]](https://www.codever.land/search?q=[windows])
 
-_<sup><sup>[www.codever.land/bookmarks/t/windows](www.codever.land/bookmarks/t/windows)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/windows](https://www.codever.land/bookmarks/t/windows)</sup></sup>_
 ---
 #### [GitHub - jlevy/the-art-of-command-line: Master the command line, in one page](https://github.com/jlevy/the-art-of-command-line)
 _<sup>https://github.com/jlevy/the-art-of-command-line</sup>_

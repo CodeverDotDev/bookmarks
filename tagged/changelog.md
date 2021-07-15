@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[changelog]](https://www.codever.land/search?q=[changelog])
 
-_<sup><sup>[www.codever.land/bookmarks/t/changelog](www.codever.land/bookmarks/t/changelog)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/changelog](https://www.codever.land/bookmarks/t/changelog)</sup></sup>_
 ---
 #### [Keep a Changelog](https://keepachangelog.com/)
 _<sup>https://keepachangelog.com/</sup>_

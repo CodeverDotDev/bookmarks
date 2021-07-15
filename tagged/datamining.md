@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[datamining]](https://www.codever.land/search?q=[datamining])
 
-_<sup><sup>[www.codever.land/bookmarks/t/datamining](www.codever.land/bookmarks/t/datamining)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/datamining](https://www.codever.land/bookmarks/t/datamining)</sup></sup>_
 ---
 #### [Theory and Applications for Advanced Text Mining](http://www.intechopen.com/books/theory-and-applications-for-advanced-text-mining)
 _<sup>http://www.intechopen.com/books/theory-and-applications-for-advanced-text-mining</sup>_

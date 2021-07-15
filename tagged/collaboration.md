@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[collaboration]](https://www.codever.land/search?q=[collaboration])
 
-_<sup><sup>[www.codever.land/bookmarks/t/collaboration](www.codever.land/bookmarks/t/collaboration)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/collaboration](https://www.codever.land/bookmarks/t/collaboration)</sup></sup>_
 ---
 #### [Witeboard Home Page](http://witeboard.com/)
 _<sup>http://witeboard.com/</sup>_

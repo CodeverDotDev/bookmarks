@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[plugin]](https://www.codever.land/search?q=[plugin])
 
-_<sup><sup>[www.codever.land/bookmarks/t/plugin](www.codever.land/bookmarks/t/plugin)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/plugin](https://www.codever.land/bookmarks/t/plugin)</sup></sup>_
 ---
 #### [How To Set Up the Yoast SEO Plugin for WordPress and DiviHow To Set Up the Yoast SEO Plugin for WordPress and Divi](https://divi.space/plugins/how-to-set-up-the-yoast-seo-plugin-for-divi/)
 _<sup>https://divi.space/plugins/how-to-set-up-the-yoast-seo-plugin-for-divi/</sup>_

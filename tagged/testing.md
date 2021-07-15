@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[testing]](https://www.codever.land/search?q=[testing])
 
-_<sup><sup>[www.codever.land/bookmarks/t/testing](www.codever.land/bookmarks/t/testing)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/testing](https://www.codever.land/bookmarks/t/testing)</sup></sup>_
 ---
 #### [Modèles de typologie de tests. Voici des modèles qui servent à… | by Jean-Pierre Lambert | Jean-Pierre Lambert's blog](https://jp-lambert.me/mod%C3%A8les-de-typologie-de-tests-2cb630a47283)
 _<sup>https://jp-lambert.me/mod%C3%A8les-de-typologie-de-tests-2cb630a47283</sup>_

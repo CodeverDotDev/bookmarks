@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[space]](https://www.codever.land/search?q=[space])
 
-_<sup><sup>[www.codever.land/bookmarks/t/space](www.codever.land/bookmarks/t/space)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/space](https://www.codever.land/bookmarks/t/space)</sup></sup>_
 ---
 #### [StackPath](https://www.spaceweatherlive.com/en.html)
 _<sup>https://www.spaceweatherlive.com/en.html</sup>_

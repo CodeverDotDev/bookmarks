@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[regular-expressions]](https://www.codever.land/search?q=[regular-expressions])
 
-_<sup><sup>[www.codever.land/bookmarks/t/regular-expressions](www.codever.land/bookmarks/t/regular-expressions)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/regular-expressions](https://www.codever.land/bookmarks/t/regular-expressions)</sup></sup>_
 ---
 #### [The Bastards Book of Regular Expressions: Finding Patterns in Everyday Text](https://leanpub.com/bastards-regexes)
 _<sup>https://leanpub.com/bastards-regexes</sup>_

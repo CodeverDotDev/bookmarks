@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[azure]](https://www.codever.land/search?q=[azure])
 
-_<sup><sup>[www.codever.land/bookmarks/t/azure](www.codever.land/bookmarks/t/azure)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/azure](https://www.codever.land/bookmarks/t/azure)</sup></sup>_
 ---
 #### [Publishing and consuming debugging symbols for .net core library](https://medium.com/@aymendaoudi/publishing-and-consuming-debugging-symbols-for-net-core-library-d0e831f5862)
 _<sup>https://medium.com/@aymendaoudi/publishing-and-consuming-debugging-symbols-for-net-core-library-d0e8...</sup>_

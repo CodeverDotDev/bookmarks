@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[metadata]](https://www.codever.land/search?q=[metadata])
 
-_<sup><sup>[www.codever.land/bookmarks/t/metadata](www.codever.land/bookmarks/t/metadata)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/metadata](https://www.codever.land/bookmarks/t/metadata)</sup></sup>_
 ---
 #### [beets](https://github.com/beetbox/beets)
 _<sup>https://github.com/beetbox/beets</sup>_

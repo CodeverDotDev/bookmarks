@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[git]](https://www.codever.land/search?q=[git])
 
-_<sup><sup>[www.codever.land/bookmarks/t/git](www.codever.land/bookmarks/t/git)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/git](https://www.codever.land/bookmarks/t/git)</sup></sup>_
 ---
 #### [Git Forks and Upstreams: How-to and a cool tip | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/git-forks-and-upstreams)
 _<sup>https://www.atlassian.com/git/tutorials/git-forks-and-upstreams</sup>_

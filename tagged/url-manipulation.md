@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[url-manipulation]](https://www.codever.land/search?q=[url-manipulation])
 
-_<sup><sup>[www.codever.land/bookmarks/t/url-manipulation](www.codever.land/bookmarks/t/url-manipulation)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/url-manipulation](https://www.codever.land/bookmarks/t/url-manipulation)</sup></sup>_
 ---
 #### [furl](https://github.com/gruns/furl)
 _<sup>https://github.com/gruns/furl</sup>_

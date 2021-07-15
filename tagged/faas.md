@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[faas]](https://www.codever.land/search?q=[faas])
 
-_<sup><sup>[www.codever.land/bookmarks/t/faas](www.codever.land/bookmarks/t/faas)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/faas](https://www.codever.land/bookmarks/t/faas)</sup></sup>_
 ---
 #### [GitHub - GoogleCloudPlatform/functions-framework-nodejs](https://github.com/GoogleCloudPlatform/functions-framework-nodejs)
 _<sup>https://github.com/GoogleCloudPlatform/functions-framework-nodejs</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[process-management]](https://www.codever.land/search?q=[process-management])
 
-_<sup><sup>[www.codever.land/bookmarks/t/process-management](www.codever.land/bookmarks/t/process-management)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/process-management](https://www.codever.land/bookmarks/t/process-management)</sup></sup>_
 ---
 #### [Bluepill](https://github.com/bluepill-rb/bluepill)
 _<sup>https://github.com/bluepill-rb/bluepill</sup>_

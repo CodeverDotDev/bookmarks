@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[error-handling]](https://www.codever.land/search?q=[error-handling])
 
-_<sup><sup>[www.codever.land/bookmarks/t/error-handling](www.codever.land/bookmarks/t/error-handling)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/error-handling](https://www.codever.land/bookmarks/t/error-handling)</sup></sup>_
 ---
 #### [RxJs Error Handling: Complete Practical Guide](https://blog.angular-university.io/rxjs-error-handling/)
 _<sup>https://blog.angular-university.io/rxjs-error-handling/</sup>_

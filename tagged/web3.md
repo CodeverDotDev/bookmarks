@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[web3]](https://www.codever.land/search?q=[web3])
 
-_<sup><sup>[www.codever.land/bookmarks/t/web3](www.codever.land/bookmarks/t/web3)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/web3](https://www.codever.land/bookmarks/t/web3)</sup></sup>_
 ---
 #### [Interplanetary Gatsby](https://interplanetarygatsby.com)
 _<sup>https://interplanetarygatsby.com</sup>_

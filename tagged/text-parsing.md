@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[text-parsing]](https://www.codever.land/search?q=[text-parsing])
 
-_<sup><sup>[www.codever.land/bookmarks/t/text-parsing](www.codever.land/bookmarks/t/text-parsing)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/text-parsing](https://www.codever.land/bookmarks/t/text-parsing)</sup></sup>_
 ---
 #### [tablib](https://github.com/kennethreitz/tablib)
 _<sup>https://github.com/kennethreitz/tablib</sup>_

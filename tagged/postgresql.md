@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[postgresql]](https://www.codever.land/search?q=[postgresql])
 
-_<sup><sup>[www.codever.land/bookmarks/t/postgresql](www.codever.land/bookmarks/t/postgresql)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/postgresql](https://www.codever.land/bookmarks/t/postgresql)</sup></sup>_
 ---
 #### [PostgreSQL: The world's most advanced open source database](https://www.postgresql.org/)
 _<sup>https://www.postgresql.org/</sup>_

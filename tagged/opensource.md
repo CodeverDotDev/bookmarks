@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[opensource]](https://www.codever.land/search?q=[opensource])
 
-_<sup><sup>[www.codever.land/bookmarks/t/opensource](www.codever.land/bookmarks/t/opensource)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/opensource](https://www.codever.land/bookmarks/t/opensource)</sup></sup>_
 ---
 #### [When we share, everyone wins - Creative Commons](https://creativecommons.org/)
 _<sup>https://creativecommons.org/</sup>_

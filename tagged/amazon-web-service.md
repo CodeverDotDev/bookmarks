@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[amazon-web-service]](https://www.codever.land/search?q=[amazon-web-service])
 
-_<sup><sup>[www.codever.land/bookmarks/t/amazon-web-service](www.codever.land/bookmarks/t/amazon-web-service)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/amazon-web-service](https://www.codever.land/bookmarks/t/amazon-web-service)</sup></sup>_
 ---
 #### [아마존 웹 서비스를 다루는 기술](http://www.pyrasis.com/private/2014/09/30/publish-the-art-of-amazon-web-services-book)
 _<sup>http://www.pyrasis.com/private/2014/09/30/publish-the-art-of-amazon-web-services-book</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[csrf]](https://www.codever.land/search?q=[csrf])
 
-_<sup><sup>[www.codever.land/bookmarks/t/csrf](www.codever.land/bookmarks/t/csrf)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/csrf](https://www.codever.land/bookmarks/t/csrf)</sup></sup>_
 ---
 #### [Prevent Attacks and Redirect Users with OAuth 2.0 State Parameters](https://auth0.com/docs/protocols/state-parameters)
 _<sup>https://auth0.com/docs/protocols/state-parameters</sup>_

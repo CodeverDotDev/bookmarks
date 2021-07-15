@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[nlp]](https://www.codever.land/search?q=[nlp])
 
-_<sup><sup>[www.codever.land/bookmarks/t/nlp](www.codever.land/bookmarks/t/nlp)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/nlp](https://www.codever.land/bookmarks/t/nlp)</sup></sup>_
 ---
 #### [getlang](https://github.com/rylans/getlang)
 _<sup>https://github.com/rylans/getlang</sup>_

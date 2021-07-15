@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[graphql]](https://www.codever.land/search?q=[graphql])
 
-_<sup><sup>[www.codever.land/bookmarks/t/graphql](www.codever.land/bookmarks/t/graphql)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/graphql](https://www.codever.land/bookmarks/t/graphql)</sup></sup>_
 ---
 #### [MicroProfile GraphQL](https://download.eclipse.org/microprofile/microprofile-graphql-1.0/microprofile-graphql.html)
 _<sup>https://download.eclipse.org/microprofile/microprofile-graphql-1.0/microprofile-graphql.html</sup>_

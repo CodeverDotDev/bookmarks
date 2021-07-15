@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[dns]](https://www.codever.land/search?q=[dns])
 
-_<sup><sup>[www.codever.land/bookmarks/t/dns](www.codever.land/bookmarks/t/dns)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/dns](https://www.codever.land/bookmarks/t/dns)</sup></sup>_
 ---
 #### [DNS Checker - DNS Check Propagation Tool](https://dnschecker.org/)
 _<sup>https://dnschecker.org/</sup>_

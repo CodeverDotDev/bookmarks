@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[firewall]](https://www.codever.land/search?q=[firewall])
 
-_<sup><sup>[www.codever.land/bookmarks/t/firewall](www.codever.land/bookmarks/t/firewall)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/firewall](https://www.codever.land/bookmarks/t/firewall)</sup></sup>_
 ---
 #### [What Is a Firewall? - Cisco](https://www.cisco.com/c/en/us/products/security/firewalls/what-is-a-firewall.html)
 _<sup>https://www.cisco.com/c/en/us/products/security/firewalls/what-is-a-firewall.html</sup>_

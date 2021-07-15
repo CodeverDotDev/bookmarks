@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[code-quality]](https://www.codever.land/search?q=[code-quality])
 
-_<sup><sup>[www.codever.land/bookmarks/t/code-quality](www.codever.land/bookmarks/t/code-quality)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/code-quality](https://www.codever.land/bookmarks/t/code-quality)</sup></sup>_
 ---
 #### [Codacy](https://www.codacy.com/)
 _<sup>https://www.codacy.com/</sup>_

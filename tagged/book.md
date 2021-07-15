@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[book]](https://www.codever.land/search?q=[book])
 
-_<sup><sup>[www.codever.land/bookmarks/t/book](www.codever.land/bookmarks/t/book)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/book](https://www.codever.land/bookmarks/t/book)</sup></sup>_
 ---
 #### [Introduction - TypeScript Deep Dive](https://basarat.gitbook.io/typescript/)
 _<sup>https://basarat.gitbook.io/typescript/</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[gif]](https://www.codever.land/search?q=[gif])
 
-_<sup><sup>[www.codever.land/bookmarks/t/gif](www.codever.land/bookmarks/t/gif)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/gif](https://www.codever.land/bookmarks/t/gif)</sup></sup>_
 ---
 #### [ScreenToGif home page](https://www.screentogif.com/)
 _<sup>https://www.screentogif.com/</sup>_

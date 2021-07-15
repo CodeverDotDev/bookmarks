@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[npx]](https://www.codever.land/search?q=[npx])
 
-_<sup><sup>[www.codever.land/bookmarks/t/npx](www.codever.land/bookmarks/t/npx)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/npx](https://www.codever.land/bookmarks/t/npx)</sup></sup>_
 ---
 #### [Introducing npx: an npm package runner - Kat Marchán - Medium](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b)
 _<sup>https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b</sup>_

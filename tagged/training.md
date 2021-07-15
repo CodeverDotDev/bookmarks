@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[training]](https://www.codever.land/search?q=[training])
 
-_<sup><sup>[www.codever.land/bookmarks/t/training](www.codever.land/bookmarks/t/training)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/training](https://www.codever.land/bookmarks/t/training)</sup></sup>_
 ---
 #### [GETTING STARTED | hackers-arise](https://www.hackers-arise.com/getting-started)
 _<sup>https://www.hackers-arise.com/getting-started</sup>_

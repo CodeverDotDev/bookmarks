@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[quarkus]](https://www.codever.land/search?q=[quarkus])
 
-_<sup><sup>[www.codever.land/bookmarks/t/quarkus](www.codever.land/bookmarks/t/quarkus)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/quarkus](https://www.codever.land/bookmarks/t/quarkus)</sup></sup>_
 ---
 #### [Quarkus for Spring Developers](https://quarkus.io/blog/quarkus-for-spring-developers/)
 _<sup>https://quarkus.io/blog/quarkus-for-spring-developers/</sup>_

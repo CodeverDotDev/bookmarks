@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[html-table]](https://www.codever.land/search?q=[html-table])
 
-_<sup><sup>[www.codever.land/bookmarks/t/html-table](www.codever.land/bookmarks/t/html-table)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/html-table](https://www.codever.land/bookmarks/t/html-table)</sup></sup>_
 ---
 #### [jTable](https://github.com/hikalkan/jtable)
 _<sup>https://github.com/hikalkan/jtable</sup>_

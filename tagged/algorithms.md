@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[algorithms]](https://www.codever.land/search?q=[algorithms])
 
-_<sup><sup>[www.codever.land/bookmarks/t/algorithms](www.codever.land/bookmarks/t/algorithms)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/algorithms](https://www.codever.land/bookmarks/t/algorithms)</sup></sup>_
 ---
 #### [Complete Introduction to the 30 Most Essential Data Structures & Algorithms](https://dev.to/iuliagroza/complete-introduction-to-the-30-most-essential-data-structures-algorithms-43kd)
 _<sup>https://dev.to/iuliagroza/complete-introduction-to-the-30-most-essential-data-structures-algorithms-...</sup>_

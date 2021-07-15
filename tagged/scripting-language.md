@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[scripting-language]](https://www.codever.land/search?q=[scripting-language])
 
-_<sup><sup>[www.codever.land/bookmarks/t/scripting-language](www.codever.land/bookmarks/t/scripting-language)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/scripting-language](https://www.codever.land/bookmarks/t/scripting-language)</sup></sup>_
 ---
 #### [agora](https://github.com/PuerkitoBio/agora)
 _<sup>https://github.com/PuerkitoBio/agora</sup>_

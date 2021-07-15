@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[websocket]](https://www.codever.land/search?q=[websocket])
 
-_<sup><sup>[www.codever.land/bookmarks/t/websocket](www.codever.land/bookmarks/t/websocket)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/websocket](https://www.codever.land/bookmarks/t/websocket)</sup></sup>_
 ---
 #### [subscriptions-transport-ws - npm](https://www.npmjs.com/package/subscriptions-transport-ws)
 _<sup>https://www.npmjs.com/package/subscriptions-transport-ws</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[parser]](https://www.codever.land/search?q=[parser])
 
-_<sup><sup>[www.codever.land/bookmarks/t/parser](www.codever.land/bookmarks/t/parser)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/parser](https://www.codever.land/bookmarks/t/parser)</sup></sup>_
 ---
 #### [ply](https://github.com/dabeaz/ply)
 _<sup>https://github.com/dabeaz/ply</sup>_

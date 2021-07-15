@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[weather]](https://www.codever.land/search?q=[weather])
 
-_<sup><sup>[www.codever.land/bookmarks/t/weather](www.codever.land/bookmarks/t/weather)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/weather](https://www.codever.land/bookmarks/t/weather)</sup></sup>_
 ---
 #### [StackPath](https://www.spaceweatherlive.com/en.html)
 _<sup>https://www.spaceweatherlive.com/en.html</sup>_

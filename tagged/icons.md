@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[icons]](https://www.codever.land/search?q=[icons])
 
-_<sup><sup>[www.codever.land/bookmarks/t/icons](www.codever.land/bookmarks/t/icons)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/icons](https://www.codever.land/bookmarks/t/icons)</sup></sup>_
 ---
 #### [Iconscout home page](https://iconscout.com/)
 _<sup>https://iconscout.com/</sup>_

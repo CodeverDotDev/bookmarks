@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[debugging]](https://www.codever.land/search?q=[debugging])
 
-_<sup><sup>[www.codever.land/bookmarks/t/debugging](www.codever.land/bookmarks/t/debugging)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/debugging](https://www.codever.land/bookmarks/t/debugging)</sup></sup>_
 ---
 #### [Root Cause Analysis Example](https://www.shmula.com/root-cause-analysis/)
 _<sup>https://www.shmula.com/root-cause-analysis/</sup>_

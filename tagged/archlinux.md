@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[archlinux]](https://www.codever.land/search?q=[archlinux])
 
-_<sup><sup>[www.codever.land/bookmarks/t/archlinux](www.codever.land/bookmarks/t/archlinux)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/archlinux](https://www.codever.land/bookmarks/t/archlinux)</sup></sup>_
 ---
 #### [How to Configure a Firewall with UFW](https://www.linode.com/docs/security/firewalls/configure-firewall-with-ufw)
 _<sup>https://www.linode.com/docs/security/firewalls/configure-firewall-with-ufw</sup>_

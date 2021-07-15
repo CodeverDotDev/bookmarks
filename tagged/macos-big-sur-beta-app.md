@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[macos-big-sur-beta-app]](https://www.codever.land/search?q=[macos-big-sur-beta-app])
 
-_<sup><sup>[www.codever.land/bookmarks/t/macos-big-sur-beta-app](www.codever.land/bookmarks/t/macos-big-sur-beta-app)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/macos-big-sur-beta-app](https://www.codever.land/bookmarks/t/macos-big-sur-beta-app)</sup></sup>_
 ---
 #### [GitHub - Dimillian/RedditOS: A SwiftUI Reddit client for macOS Big Sur](https://github.com/Dimillian/RedditOS)
 _<sup>https://github.com/Dimillian/RedditOS</sup>_

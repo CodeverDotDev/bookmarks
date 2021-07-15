@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[monolith]](https://www.codever.land/search?q=[monolith])
 
-_<sup><sup>[www.codever.land/bookmarks/t/monolith](www.codever.land/bookmarks/t/monolith)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/monolith](https://www.codever.land/bookmarks/t/monolith)</sup></sup>_
 ---
 #### [Microservice Trade-Offs](https://martinfowler.com/articles/microservice-trade-offs.html)
 _<sup>https://martinfowler.com/articles/microservice-trade-offs.html</sup>_

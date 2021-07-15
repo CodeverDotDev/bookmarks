@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[network-virtualization]](https://www.codever.land/search?q=[network-virtualization])
 
-_<sup><sup>[www.codever.land/bookmarks/t/network-virtualization](www.codever.land/bookmarks/t/network-virtualization)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/network-virtualization](https://www.codever.land/bookmarks/t/network-virtualization)</sup></sup>_
 ---
 #### [mininet](https://github.com/mininet/mininet)
 _<sup>https://github.com/mininet/mininet</sup>_

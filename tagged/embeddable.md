@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[embeddable]](https://www.codever.land/search?q=[embeddable])
 
-_<sup><sup>[www.codever.land/bookmarks/t/embeddable](www.codever.land/bookmarks/t/embeddable)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/embeddable](https://www.codever.land/bookmarks/t/embeddable)</sup></sup>_
 ---
 #### [QuickJS Javascript Engine](https://bellard.org/quickjs/quickjs.html#Main-Features)
 _<sup>https://bellard.org/quickjs/quickjs.html#Main-Features</sup>_

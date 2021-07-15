@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[complex]](https://www.codever.land/search?q=[complex])
 
-_<sup><sup>[www.codever.land/bookmarks/t/complex](www.codever.land/bookmarks/t/complex)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/complex](https://www.codever.land/bookmarks/t/complex)</sup></sup>_
 ---
 #### [Basic JavaScript: Manipulating Complex Objects | Learn freeCodeCamp](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/manipulating-complex-objects)
 _<sup>https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/manipulati...</sup>_

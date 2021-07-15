@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[date]](https://www.codever.land/search?q=[date])
 
-_<sup><sup>[www.codever.land/bookmarks/t/date](www.codever.land/bookmarks/t/date)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/date](https://www.codever.land/bookmarks/t/date)</sup></sup>_
 ---
 #### [Luxon home page](https://moment.github.io/luxon/)
 _<sup>https://moment.github.io/luxon/</sup>_

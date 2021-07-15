@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[brendan-eich]](https://www.codever.land/search?q=[brendan-eich])
 
-_<sup><sup>[www.codever.land/bookmarks/t/brendan-eich](www.codever.land/bookmarks/t/brendan-eich)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/brendan-eich](https://www.codever.land/bookmarks/t/brendan-eich)</sup></sup>_
 ---
 #### [Brendan Eich: JavaScript, Firefox, Mozilla, and Brave | Lex Fridman Podcast #160 - Invidious](https://invidious.snopyta.org/watch?v=krB0enBeSiE)
 _<sup>https://invidious.snopyta.org/watch?v=krB0enBeSiE</sup>_

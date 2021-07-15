@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[product-management]](https://www.codever.land/search?q=[product-management])
 
-_<sup><sup>[www.codever.land/bookmarks/t/product-management](www.codever.land/bookmarks/t/product-management)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/product-management](https://www.codever.land/bookmarks/t/product-management)</sup></sup>_
 ---
 #### [Tips for Jumpstarting Your Career As a Product Manager - Stack Overflow Blog](https://stackoverflow.blog/2017/06/23/tips-jumpstarting-career-product-manager/)
 _<sup>https://stackoverflow.blog/2017/06/23/tips-jumpstarting-career-product-manager/</sup>_

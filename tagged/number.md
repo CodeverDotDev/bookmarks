@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[number]](https://www.codever.land/search?q=[number])
 
-_<sup><sup>[www.codever.land/bookmarks/t/number](www.codever.land/bookmarks/t/number)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/number](https://www.codever.land/bookmarks/t/number)</sup></sup>_
 ---
 #### [Numeral-js](https://github.com/adamwdraper/Numeral-js)
 _<sup>https://github.com/adamwdraper/Numeral-js</sup>_

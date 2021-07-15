@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[nosql]](https://www.codever.land/search?q=[nosql])
 
-_<sup><sup>[www.codever.land/bookmarks/t/nosql](www.codever.land/bookmarks/t/nosql)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/nosql](https://www.codever.land/bookmarks/t/nosql)</sup></sup>_
 ---
 #### [SQL vs NoSQL or MySQL vs MongoDB - 21min](https://www.youtube.com/watch?v=ZS_kXvOeQ5Y)
 _<sup>https://www.youtube.com/watch?v=ZS_kXvOeQ5Y</sup>_

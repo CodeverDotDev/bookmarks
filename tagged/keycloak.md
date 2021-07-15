@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[keycloak]](https://www.codever.land/search?q=[keycloak])
 
-_<sup><sup>[www.codever.land/bookmarks/t/keycloak](www.codever.land/bookmarks/t/keycloak)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/keycloak](https://www.codever.land/bookmarks/t/keycloak)</sup></sup>_
 ---
 #### [Offline Sessions and Offline tokens within Keycloak - JANUA](https://www.janua.fr/offline-sessions-and-offline-tokens-within-keycloak/)
 _<sup>https://www.janua.fr/offline-sessions-and-offline-tokens-within-keycloak/</sup>_

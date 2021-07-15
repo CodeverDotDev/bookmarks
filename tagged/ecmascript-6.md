@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[ecmascript-6]](https://www.codever.land/search?q=[ecmascript-6])
 
-_<sup><sup>[www.codever.land/bookmarks/t/ecmascript-6](www.codever.land/bookmarks/t/ecmascript-6)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/ecmascript-6](https://www.codever.land/bookmarks/t/ecmascript-6)</sup></sup>_
 ---
 #### [Javascript Modules](https://exploringjs.com/es6/ch_modules.html)
 _<sup>https://exploringjs.com/es6/ch_modules.html</sup>_

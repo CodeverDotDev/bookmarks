@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[gameboy]](https://www.codever.land/search?q=[gameboy])
 
-_<sup><sup>[www.codever.land/bookmarks/t/gameboy](www.codever.land/bookmarks/t/gameboy)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/gameboy](https://www.codever.land/bookmarks/t/gameboy)</sup></sup>_
 ---
 #### [Gekkio/mooneye-gb](https://github.com/Gekkio/mooneye-gb)
 _<sup>https://github.com/Gekkio/mooneye-gb</sup>_

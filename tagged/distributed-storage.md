@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[distributed-storage]](https://www.codever.land/search?q=[distributed-storage])
 
-_<sup><sup>[www.codever.land/bookmarks/t/distributed-storage](www.codever.land/bookmarks/t/distributed-storage)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/distributed-storage](https://www.codever.land/bookmarks/t/distributed-storage)</sup></sup>_
 ---
 #### [etcd home page](https://etcd.io/)
 _<sup>https://etcd.io/</sup>_

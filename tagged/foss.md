@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[foss]](https://www.codever.land/search?q=[foss])
 
-_<sup><sup>[www.codever.land/bookmarks/t/foss](www.codever.land/bookmarks/t/foss)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/foss](https://www.codever.land/bookmarks/t/foss)</sup></sup>_
 ---
 #### [How to Contribute to Open Source Software - Kill All Defects](https://killalldefects.com/2020/01/26/how-to-contribute-to-open-source-software/)
 _<sup>https://killalldefects.com/2020/01/26/how-to-contribute-to-open-source-software/</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[naming-conventions]](https://www.codever.land/search?q=[naming-conventions])
 
-_<sup><sup>[www.codever.land/bookmarks/t/naming-conventions](www.codever.land/bookmarks/t/naming-conventions)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/naming-conventions](https://www.codever.land/bookmarks/t/naming-conventions)</sup></sup>_
 ---
 #### [Should package names be singular or plural? - Software Engineering Stack Exchange](https://softwareengineering.stackexchange.com/questions/75919/should-package-names-be-singular-or-plural)
 _<sup>https://softwareengineering.stackexchange.com/questions/75919/should-package-names-be-singular-or-pl...</sup>_

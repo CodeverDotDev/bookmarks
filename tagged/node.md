@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[node]](https://www.codever.land/search?q=[node])
 
-_<sup><sup>[www.codever.land/bookmarks/t/node](www.codever.land/bookmarks/t/node)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/node](https://www.codever.land/bookmarks/t/node)</sup></sup>_
 ---
 #### [Babel · The compiler for next generation JavaScript](https://babeljs.io/)
 _<sup>https://babeljs.io/</sup>_

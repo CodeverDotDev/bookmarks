@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[intellij]](https://www.codever.land/search?q=[intellij])
 
-_<sup><sup>[www.codever.land/bookmarks/t/intellij](www.codever.land/bookmarks/t/intellij)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/intellij](https://www.codever.land/bookmarks/t/intellij)</sup></sup>_
 ---
 #### [So, I wrote my first IntelliJ plugin to help me bookmark code ](https://www.codepedia.org/ama/my-first-intellij-plugin-to-help-me-bookmark-code)
 _<sup>https://www.codepedia.org/ama/my-first-intellij-plugin-to-help-me-bookmark-code</sup>_

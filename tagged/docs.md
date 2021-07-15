@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[docs]](https://www.codever.land/search?q=[docs])
 
-_<sup><sup>[www.codever.land/bookmarks/t/docs](www.codever.land/bookmarks/t/docs)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/docs](https://www.codever.land/bookmarks/t/docs)</sup></sup>_
 ---
 #### [Keep a Changelog](https://keepachangelog.com/)
 _<sup>https://keepachangelog.com/</sup>_

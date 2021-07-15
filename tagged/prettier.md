@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[prettier]](https://www.codever.land/search?q=[prettier])
 
-_<sup><sup>[www.codever.land/bookmarks/t/prettier](www.codever.land/bookmarks/t/prettier)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/prettier](https://www.codever.land/bookmarks/t/prettier)</sup></sup>_
 ---
 #### [prettier-atom](https://atom.io/packages/prettier-atom)
 _<sup>https://atom.io/packages/prettier-atom</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[keyboard-wrappers]](https://www.codever.land/search?q=[keyboard-wrappers])
 
-_<sup><sup>[www.codever.land/bookmarks/t/keyboard-wrappers](www.codever.land/bookmarks/t/keyboard-wrappers)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/keyboard-wrappers](https://www.codever.land/bookmarks/t/keyboard-wrappers)</sup></sup>_
 ---
 #### [mousetrap](https://github.com/ccampbell/mousetrap)
 _<sup>https://github.com/ccampbell/mousetrap</sup>_

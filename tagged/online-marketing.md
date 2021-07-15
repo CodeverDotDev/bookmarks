@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[online-marketing]](https://www.codever.land/search?q=[online-marketing])
 
-_<sup><sup>[www.codever.land/bookmarks/t/online-marketing](www.codever.land/bookmarks/t/online-marketing)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/online-marketing](https://www.codever.land/bookmarks/t/online-marketing)</sup></sup>_
 ---
 #### [ZYPPY SEO — Higher Google Rankings & Traffic](https://zyppy.com/)
 _<sup>https://zyppy.com/</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[gitlab]](https://www.codever.land/search?q=[gitlab])
 
-_<sup><sup>[www.codever.land/bookmarks/t/gitlab](www.codever.land/bookmarks/t/gitlab)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/gitlab](https://www.codever.land/bookmarks/t/gitlab)</sup></sup>_
 ---
 #### [Continuous Integration with GitLab CI - 52min](https://www.youtube.com/watch?v=EuwLdbCu3DE)
 _<sup>https://www.youtube.com/watch?v=EuwLdbCu3DE</sup>_

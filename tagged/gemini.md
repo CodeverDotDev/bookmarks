@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[gemini]](https://www.codever.land/search?q=[gemini])
 
-_<sup><sup>[www.codever.land/bookmarks/t/gemini](www.codever.land/bookmarks/t/gemini)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/gemini](https://www.codever.land/bookmarks/t/gemini)</sup></sup>_
 ---
 #### [ gemini://gemini.cyberbot.space /gemlog/ ](https://gemini.susa.net:1993/cgi-bin/proxy.sh?url=gemini%3A%2F%2Fgemini%2Ecyberbot%2Espace%2Fgemlog%2F)
 _<sup>https://gemini.susa.net:1993/cgi-bin/proxy.sh?url=gemini%3A%2F%2Fgemini%2Ecyberbot%2Espace%2Fgemlog%...</sup>_

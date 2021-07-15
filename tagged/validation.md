@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[validation]](https://www.codever.land/search?q=[validation])
 
-_<sup><sup>[www.codever.land/bookmarks/t/validation](www.codever.land/bookmarks/t/validation)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/validation](https://www.codever.land/bookmarks/t/validation)</sup></sup>_
 ---
 #### [Create Your Own Constraints With Bean Validation 2.0 - DZone Java](https://dzone.com/articles/create-your-own-constraint-with-bean-validation-20)
 _<sup>https://dzone.com/articles/create-your-own-constraint-with-bean-validation-20</sup>_

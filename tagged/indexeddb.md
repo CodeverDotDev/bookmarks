@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[indexeddb]](https://www.codever.land/search?q=[indexeddb])
 
-_<sup><sup>[www.codever.land/bookmarks/t/indexeddb](www.codever.land/bookmarks/t/indexeddb)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/indexeddb](https://www.codever.land/bookmarks/t/indexeddb)</sup></sup>_
 ---
 #### [Client-side storage - Learn web development | MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Client-side_storage)
 _<sup>https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Client-side_storage</sup>_

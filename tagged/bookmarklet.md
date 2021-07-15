@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[bookmarklet]](https://www.codever.land/search?q=[bookmarklet])
 
-_<sup><sup>[www.codever.land/bookmarks/t/bookmarklet](www.codever.land/bookmarks/t/bookmarklet)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/bookmarklet](https://www.codever.land/bookmarks/t/bookmarklet)</sup></sup>_
 ---
 #### [11.2: Bookmarklets - Programming with Text - YouTube](https://www.youtube.com/watch?v=DloHqUfPbJc)
 _<sup>https://www.youtube.com/watch?v=DloHqUfPbJc</sup>_

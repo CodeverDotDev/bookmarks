@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[unicode]](https://www.codever.land/search?q=[unicode])
 
-_<sup><sup>[www.codever.land/bookmarks/t/unicode](www.codever.land/bookmarks/t/unicode)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/unicode](https://www.codever.land/bookmarks/t/unicode)</sup></sup>_
 ---
 #### [awesome-Awesome-Unicode](https://github.com/jagracey/Awesome-Unicode#readme)
 _<sup>https://github.com/jagracey/Awesome-Unicode#readme</sup>_

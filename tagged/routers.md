@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[routers]](https://www.codever.land/search?q=[routers])
 
-_<sup><sup>[www.codever.land/bookmarks/t/routers](www.codever.land/bookmarks/t/routers)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/routers](https://www.codever.land/bookmarks/t/routers)</sup></sup>_
 ---
 #### [alien](https://github.com/gernest/alien)
 _<sup>https://github.com/gernest/alien</sup>_

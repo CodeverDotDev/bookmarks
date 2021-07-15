@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[code-analysis]](https://www.codever.land/search?q=[code-analysis])
 
-_<sup><sup>[www.codever.land/bookmarks/t/code-analysis](www.codever.land/bookmarks/t/code-analysis)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/code-analysis](https://www.codever.land/bookmarks/t/code-analysis)</sup></sup>_
 ---
 #### [Refactoring: clean your code](https://refactoring.guru/refactoring)
 _<sup>https://refactoring.guru/refactoring</sup>_

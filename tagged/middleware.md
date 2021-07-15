@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[middleware]](https://www.codever.land/search?q=[middleware])
 
-_<sup><sup>[www.codever.land/bookmarks/t/middleware](www.codever.land/bookmarks/t/middleware)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/middleware](https://www.codever.land/bookmarks/t/middleware)</sup></sup>_
 ---
 #### [Build and Understand Express Middleware through Examples](https://developer.okta.com/blog/2018/09/13/build-and-understand-express-middleware-through-examples)
 _<sup>https://developer.okta.com/blog/2018/09/13/build-and-understand-express-middleware-through-examples</sup>_

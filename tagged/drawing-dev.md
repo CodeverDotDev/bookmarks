@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[drawing-dev]](https://www.codever.land/search?q=[drawing-dev])
 
-_<sup><sup>[www.codever.land/bookmarks/t/drawing-dev](www.codever.land/bookmarks/t/drawing-dev)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/drawing-dev](https://www.codever.land/bookmarks/t/drawing-dev)</sup></sup>_
 ---
 #### [Shelly: a programming language for drawing](https://shelly.dev/)
 _<sup>https://shelly.dev/</sup>_

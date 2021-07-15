@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[streams]](https://www.codever.land/search?q=[streams])
 
-_<sup><sup>[www.codever.land/bookmarks/t/streams](www.codever.land/bookmarks/t/streams)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/streams](https://www.codever.land/bookmarks/t/streams)</sup></sup>_
 ---
 #### [Highland.js](https://github.com/caolan/highland)
 _<sup>https://github.com/caolan/highland</sup>_

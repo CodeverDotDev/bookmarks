@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[rxjava]](https://www.codever.land/search?q=[rxjava])
 
-_<sup><sup>[www.codever.land/bookmarks/t/rxjava](www.codever.land/bookmarks/t/rxjava)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/rxjava](https://www.codever.land/bookmarks/t/rxjava)</sup></sup>_
 ---
 #### [awesome-rxjava](https://github.com/eleventigers/awesome-rxjava#readme)
 _<sup>https://github.com/eleventigers/awesome-rxjava#readme</sup>_

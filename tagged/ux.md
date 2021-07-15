@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[ux]](https://www.codever.land/search?q=[ux])
 
-_<sup><sup>[www.codever.land/bookmarks/t/ux](www.codever.land/bookmarks/t/ux)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/ux](https://www.codever.land/bookmarks/t/ux)</sup></sup>_
 ---
 #### [GitHub - bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
 _<sup>https://github.com/bradtraversy/design-resources-for-developers</sup>_

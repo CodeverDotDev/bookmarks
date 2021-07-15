@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[ada]](https://www.codever.land/search?q=[ada])
 
-_<sup><sup>[www.codever.land/bookmarks/t/ada](www.codever.land/bookmarks/t/ada)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/ada](https://www.codever.land/bookmarks/t/ada)</sup></sup>_
 ---
 #### [awesome-ada](https://github.com/ohenley/awesome-ada#readme)
 _<sup>https://github.com/ohenley/awesome-ada#readme</sup>_

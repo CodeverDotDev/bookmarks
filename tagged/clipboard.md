@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[clipboard]](https://www.codever.land/search?q=[clipboard])
 
-_<sup><sup>[www.codever.land/bookmarks/t/clipboard](www.codever.land/bookmarks/t/clipboard)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/clipboard](https://www.codever.land/bookmarks/t/clipboard)</sup></sup>_
 ---
 #### [ngx-clipboard home page](https://maxisam.github.io/ngx-clipboard/)
 _<sup>https://maxisam.github.io/ngx-clipboard/</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[faq]](https://www.codever.land/search?q=[faq])
 
-_<sup><sup>[www.codever.land/bookmarks/t/faq](www.codever.land/bookmarks/t/faq)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/faq](https://www.codever.land/bookmarks/t/faq)</sup></sup>_
 ---
 #### [Frequently Asked Questions about the GNU Licenses
 - GNU Project - Free Software Foundation](https://www.gnu.org/licenses/gpl-faq.html)

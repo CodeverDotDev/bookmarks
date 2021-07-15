@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[manpage]](https://www.codever.land/search?q=[manpage])
 
-_<sup><sup>[www.codever.land/bookmarks/t/manpage](www.codever.land/bookmarks/t/manpage)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/manpage](https://www.codever.land/bookmarks/t/manpage)</sup></sup>_
 ---
 #### [TLDR pages](https://tldr.sh/)
 _<sup>https://tldr.sh/</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[storage]](https://www.codever.land/search?q=[storage])
 
-_<sup><sup>[www.codever.land/bookmarks/t/storage](www.codever.land/bookmarks/t/storage)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/storage](https://www.codever.land/bookmarks/t/storage)</sup></sup>_
 ---
 #### [localForage](https://github.com/mozilla/localForage)
 _<sup>https://github.com/mozilla/localForage</sup>_

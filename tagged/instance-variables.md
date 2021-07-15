@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[instance-variables]](https://www.codever.land/search?q=[instance-variables])
 
-_<sup><sup>[www.codever.land/bookmarks/t/instance-variables](www.codever.land/bookmarks/t/instance-variables)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/instance-variables](https://www.codever.land/bookmarks/t/instance-variables)</sup></sup>_
 ---
 #### [How do servlets work? Instantiation, sessions, shared variables and multithreading](https://stackoverflow.com/questions/3106452/how-do-servlets-work-instantiation-sessions-shared-variables-and-multithreadi)
 _<sup>https://stackoverflow.com/questions/3106452/how-do-servlets-work-instantiation-sessions-shared-varia...</sup>_

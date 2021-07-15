@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[concurrency]](https://www.codever.land/search?q=[concurrency])
 
-_<sup><sup>[www.codever.land/bookmarks/t/concurrency](www.codever.land/bookmarks/t/concurrency)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/concurrency](https://www.codever.land/bookmarks/t/concurrency)</sup></sup>_
 ---
 #### [alpaka](https://github.com/ComputationalRadiationPhysics/alpaka)
 _<sup>https://github.com/ComputationalRadiationPhysics/alpaka</sup>_

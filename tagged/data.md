@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[data]](https://www.codever.land/search?q=[data])
 
-_<sup><sup>[www.codever.land/bookmarks/t/data](www.codever.land/bookmarks/t/data)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/data](https://www.codever.land/bookmarks/t/data)</sup></sup>_
 ---
 #### [JSON Generator – tool for generating random JSON data](https://next.json-generator.com/)
 _<sup>https://next.json-generator.com/</sup>_

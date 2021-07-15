@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[j]](https://www.codever.land/search?q=[j])
 
-_<sup><sup>[www.codever.land/bookmarks/t/j](www.codever.land/bookmarks/t/j)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/j](https://www.codever.land/bookmarks/t/j)</sup></sup>_
 ---
 #### [Math for the Layman by Kenneth E Iverson](http://www.jsoftware.com/books/pdf/mftl.zip)
 _<sup>http://www.jsoftware.com/books/pdf/mftl.zip</sup>_

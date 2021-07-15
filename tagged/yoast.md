@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[yoast]](https://www.codever.land/search?q=[yoast])
 
-_<sup><sup>[www.codever.land/bookmarks/t/yoast](www.codever.land/bookmarks/t/yoast)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/yoast](https://www.codever.land/bookmarks/t/yoast)</sup></sup>_
 ---
 #### [SEO News webinars • Yoast](https://yoast.com/webinar/)
 _<sup>https://yoast.com/webinar/</sup>_

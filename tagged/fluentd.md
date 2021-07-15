@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[fluentd]](https://www.codever.land/search?q=[fluentd])
 
-_<sup><sup>[www.codever.land/bookmarks/t/fluentd](www.codever.land/bookmarks/t/fluentd)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/fluentd](https://www.codever.land/bookmarks/t/fluentd)</sup></sup>_
 ---
 #### [Centralized Logging Solution for Google Cloud Platform (Cloud Next '18) - 41min](https://www.youtube.com/watch?v=6GQqneNFVkU)
 _<sup>https://www.youtube.com/watch?v=6GQqneNFVkU</sup>_

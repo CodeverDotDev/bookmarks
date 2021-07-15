@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[q-sharp]](https://www.codever.land/search?q=[q-sharp])
 
-_<sup><sup>[www.codever.land/bookmarks/t/q-sharp](www.codever.land/bookmarks/t/q-sharp)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/q-sharp](https://www.codever.land/bookmarks/t/q-sharp)</sup></sup>_
 ---
 #### [awesome-qsharp](https://github.com/ebraminio/awesome-qsharp#readme)
 _<sup>https://github.com/ebraminio/awesome-qsharp#readme</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[http-headers]](https://www.codever.land/search?q=[http-headers])
 
-_<sup><sup>[www.codever.land/bookmarks/t/http-headers](www.codever.land/bookmarks/t/http-headers)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/http-headers](https://www.codever.land/bookmarks/t/http-headers)</sup></sup>_
 ---
 #### [HTTP Strict Transport Security Header Testing Tool](https://gf.dev/hsts-test)
 _<sup>https://gf.dev/hsts-test</sup>_

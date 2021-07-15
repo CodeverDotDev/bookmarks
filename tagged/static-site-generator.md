@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[static-site-generator]](https://www.codever.land/search?q=[static-site-generator])
 
-_<sup><sup>[www.codever.land/bookmarks/t/static-site-generator](www.codever.land/bookmarks/t/static-site-generator)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/static-site-generator](https://www.codever.land/bookmarks/t/static-site-generator)</sup></sup>_
 ---
 #### [Docusaurus home page](https://docusaurus.io/)
 _<sup>https://docusaurus.io/</sup>_

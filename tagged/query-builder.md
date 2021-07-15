@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[query-builder]](https://www.codever.land/search?q=[query-builder])
 
-_<sup><sup>[www.codever.land/bookmarks/t/query-builder](www.codever.land/bookmarks/t/query-builder)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/query-builder](https://www.codever.land/bookmarks/t/query-builder)</sup></sup>_
 ---
 #### [Knex.js - A SQL Query Builder for Javascript - home page](https://knexjs.org/)
 _<sup>https://knexjs.org/</sup>_

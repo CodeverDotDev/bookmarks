@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[tool]](https://www.codever.land/search?q=[tool])
 
-_<sup><sup>[www.codever.land/bookmarks/t/tool](www.codever.land/bookmarks/t/tool)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/tool](https://www.codever.land/bookmarks/t/tool)</sup></sup>_
 ---
 #### [dig Man Page - Linux - SS64.com](https://ss64.com/bash/dig.html)
 _<sup>https://ss64.com/bash/dig.html</sup>_

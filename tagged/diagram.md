@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[diagram]](https://www.codever.land/search?q=[diagram])
 
-_<sup><sup>[www.codever.land/bookmarks/t/diagram](www.codever.land/bookmarks/t/diagram)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/diagram](https://www.codever.land/bookmarks/t/diagram)</sup></sup>_
 ---
 #### [mermaid docs](https://mermaidjs.github.io/)
 _<sup>https://mermaidjs.github.io/</sup>_

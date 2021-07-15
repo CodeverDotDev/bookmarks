@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[content-security-policy]](https://www.codever.land/search?q=[content-security-policy])
 
-_<sup><sup>[www.codever.land/bookmarks/t/content-security-policy](www.codever.land/bookmarks/t/content-security-policy)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/content-security-policy](https://www.codever.land/bookmarks/t/content-security-policy)</sup></sup>_
 ---
 #### [CSP Evaluator](https://csp-evaluator.withgoogle.com/)
 _<sup>https://csp-evaluator.withgoogle.com/</sup>_

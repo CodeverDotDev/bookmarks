@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[seo]](https://www.codever.land/search?q=[seo])
 
-_<sup><sup>[www.codever.land/bookmarks/t/seo](www.codever.land/bookmarks/t/seo)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/seo](https://www.codever.land/bookmarks/t/seo)</sup></sup>_
 ---
 #### [Search Engine Journal - SEO, Search Marketing News and Tutorials](https://www.searchenginejournal.com/)
 _<sup>https://www.searchenginejournal.com/</sup>_

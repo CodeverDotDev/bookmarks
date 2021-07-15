@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[desktop-applications]](https://www.codever.land/search?q=[desktop-applications])
 
-_<sup><sup>[www.codever.land/bookmarks/t/desktop-applications](www.codever.land/bookmarks/t/desktop-applications)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/desktop-applications](https://www.codever.land/bookmarks/t/desktop-applications)</sup></sup>_
 ---
 #### [Kubernetic](https://kubernetic.com/)
 _<sup>https://kubernetic.com/</sup>_

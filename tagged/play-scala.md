@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[play-scala]](https://www.codever.land/search?q=[play-scala])
 
-_<sup><sup>[www.codever.land/bookmarks/t/play-scala](www.codever.land/bookmarks/t/play-scala)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/play-scala](https://www.codever.land/bookmarks/t/play-scala)</sup></sup>_
 ---
 #### [Play Framework Recipes](http://alvinalexander.com/scala/scala-cookbook-play-framework-recipes-pdf-ebook)
 _<sup>http://alvinalexander.com/scala/scala-cookbook-play-framework-recipes-pdf-ebook</sup>_

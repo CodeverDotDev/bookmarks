@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[php]](https://www.codever.land/search?q=[php])
 
-_<sup><sup>[www.codever.land/bookmarks/t/php](www.codever.land/bookmarks/t/php)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/php](https://www.codever.land/bookmarks/t/php)</sup></sup>_
 ---
 #### [GitHub - Log1x/navi: A developer-friendly alternative to the WordPress NavWalker.](https://github.com/Log1x/navi)
 _<sup>https://github.com/Log1x/navi</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[nodejs]](https://www.codever.land/search?q=[nodejs])
 
-_<sup><sup>[www.codever.land/bookmarks/t/nodejs](www.codever.land/bookmarks/t/nodejs)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/nodejs](https://www.codever.land/bookmarks/t/nodejs)</sup></sup>_
 ---
 #### [Introduction to Node.js](https://nodejs.dev/learn)
 _<sup>https://nodejs.dev/learn</sup>_

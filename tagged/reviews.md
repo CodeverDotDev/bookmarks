@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[reviews]](https://www.codever.land/search?q=[reviews])
 
-_<sup><sup>[www.codever.land/bookmarks/t/reviews](www.codever.land/bookmarks/t/reviews)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/reviews](https://www.codever.land/bookmarks/t/reviews)</sup></sup>_
 ---
 #### [What creators should know about Google’s product reviews updateGoogleGoogle](https://developers.google.com/search/blog/2021/04/product-reviews-update)
 _<sup>https://developers.google.com/search/blog/2021/04/product-reviews-update</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[lumen]](https://www.codever.land/search?q=[lumen])
 
-_<sup><sup>[www.codever.land/bookmarks/t/lumen](www.codever.land/bookmarks/t/lumen)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/lumen](https://www.codever.land/bookmarks/t/lumen)</sup></sup>_
 ---
 #### [awesome-lumen](https://github.com/unicodeveloper/awesome-lumen#readme)
 _<sup>https://github.com/unicodeveloper/awesome-lumen#readme</sup>_

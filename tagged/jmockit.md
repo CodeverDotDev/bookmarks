@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[jmockit]](https://www.codever.land/search?q=[jmockit])
 
-_<sup><sup>[www.codever.land/bookmarks/t/jmockit](www.codever.land/bookmarks/t/jmockit)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/jmockit](https://www.codever.land/bookmarks/t/jmockit)</sup></sup>_
 ---
 #### [The JMockit testing toolkit](http://jmockit.github.io/)
 _<sup>http://jmockit.github.io/</sup>_

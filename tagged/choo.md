@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[choo]](https://www.codever.land/search?q=[choo])
 
-_<sup><sup>[www.codever.land/bookmarks/t/choo](www.codever.land/bookmarks/t/choo)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/choo](https://www.codever.land/bookmarks/t/choo)</sup></sup>_
 ---
 #### [awesome-choo](https://github.com/choojs/awesome-choo#readme)
 _<sup>https://github.com/choojs/awesome-choo#readme</sup>_

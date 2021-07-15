@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[rfc]](https://www.codever.land/search?q=[rfc])
 
-_<sup><sup>[www.codever.land/bookmarks/t/rfc](www.codever.land/bookmarks/t/rfc)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/rfc](https://www.codever.land/bookmarks/t/rfc)</sup></sup>_
 ---
 #### [What's New With OAuth and OIDC? - 32min](https://www.youtube.com/watch?v=g_aVPdwBTfw)
 _<sup>https://www.youtube.com/watch?v=g_aVPdwBTfw</sup>_

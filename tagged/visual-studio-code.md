@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[visual-studio-code]](https://www.codever.land/search?q=[visual-studio-code])
 
-_<sup><sup>[www.codever.land/bookmarks/t/visual-studio-code](www.codever.land/bookmarks/t/visual-studio-code)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/visual-studio-code](https://www.codever.land/bookmarks/t/visual-studio-code)</sup></sup>_
 ---
 #### [Extension Manifest | Visual Studio Code Extension API](https://code.visualstudio.com/api/references/extension-manifest)
 _<sup>https://code.visualstudio.com/api/references/extension-manifest</sup>_

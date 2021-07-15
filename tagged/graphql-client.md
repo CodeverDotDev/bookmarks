@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[graphql-client]](https://www.codever.land/search?q=[graphql-client])
 
-_<sup><sup>[www.codever.land/bookmarks/t/graphql-client](www.codever.land/bookmarks/t/graphql-client)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/graphql-client](https://www.codever.land/bookmarks/t/graphql-client)</sup></sup>_
 ---
 #### [Apollo-Angular 1.2 — using GraphQL in your apps just got a whole lot easier!](https://medium.com/the-guild/apollo-angular-code-generation-7903da1f8559)
 _<sup>https://medium.com/the-guild/apollo-angular-code-generation-7903da1f8559</sup>_

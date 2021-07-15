@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[nodemon]](https://www.codever.land/search?q=[nodemon])
 
-_<sup><sup>[www.codever.land/bookmarks/t/nodemon](www.codever.land/bookmarks/t/nodemon)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/nodemon](https://www.codever.land/bookmarks/t/nodemon)</sup></sup>_
 ---
 #### [Docker and Node.js Best Practices from Bret Fisher at DockerCon  - 42min](https://www.youtube.com/watch?v=Zgx0o8QjJk4)
 _<sup>https://www.youtube.com/watch?v=Zgx0o8QjJk4</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[protocol-buffers]](https://www.codever.land/search?q=[protocol-buffers])
 
-_<sup><sup>[www.codever.land/bookmarks/t/protocol-buffers](www.codever.land/bookmarks/t/protocol-buffers)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/protocol-buffers](https://www.codever.land/bookmarks/t/protocol-buffers)</sup></sup>_
 ---
 #### [Protocol Buffers ](https://developers.google.com/protocol-buffers/)
 _<sup>https://developers.google.com/protocol-buffers/</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[database-driver]](https://www.codever.land/search?q=[database-driver])
 
-_<sup><sup>[www.codever.land/bookmarks/t/database-driver](www.codever.land/bookmarks/t/database-driver)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/database-driver](https://www.codever.land/bookmarks/t/database-driver)</sup></sup>_
 ---
 #### [Cassandra Driver](https://github.com/datastax/ruby-driver)
 _<sup>https://github.com/datastax/ruby-driver</sup>_

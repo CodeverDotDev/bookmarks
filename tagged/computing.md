@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[computing]](https://www.codever.land/search?q=[computing])
 
-_<sup><sup>[www.codever.land/bookmarks/t/computing](www.codever.land/bookmarks/t/computing)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/computing](https://www.codever.land/bookmarks/t/computing)</sup></sup>_
 ---
 #### [Loader (computing) - Wikipedia](https://en.wikipedia.org/wiki/Loader_(computing))
 _<sup>https://en.wikipedia.org/wiki/Loader_(computing)</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[standard-ml]](https://www.codever.land/search?q=[standard-ml])
 
-_<sup><sup>[www.codever.land/bookmarks/t/standard-ml](www.codever.land/bookmarks/t/standard-ml)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/standard-ml](https://www.codever.land/bookmarks/t/standard-ml)</sup></sup>_
 ---
 #### [プログラミング言語Standard ML入門](http://www.pllab.riec.tohoku.ac.jp/smlsharp/smlIntroSlidesJP.pdf)
 _<sup>http://www.pllab.riec.tohoku.ac.jp/smlsharp/smlIntroSlidesJP.pdf</sup>_

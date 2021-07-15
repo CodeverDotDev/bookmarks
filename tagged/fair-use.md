@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[fair-use]](https://www.codever.land/search?q=[fair-use])
 
-_<sup><sup>[www.codever.land/bookmarks/t/fair-use](www.codever.land/bookmarks/t/fair-use)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/fair-use](https://www.codever.land/bookmarks/t/fair-use)</sup></sup>_
 ---
 #### [A Writer's Guide to Permissions and Fair Use | Jane Friedman](https://www.janefriedman.com/permissions-and-fair-use/)
 _<sup>https://www.janefriedman.com/permissions-and-fair-use/</sup>_

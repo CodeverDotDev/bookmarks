@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[hmac]](https://www.codever.land/search?q=[hmac])
 
-_<sup><sup>[www.codever.land/bookmarks/t/hmac](www.codever.land/bookmarks/t/hmac)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/hmac](https://www.codever.land/bookmarks/t/hmac)</sup></sup>_
 ---
 #### [JWT: The  Complete Guide to JSON Web Tokens](https://blog.angular-university.io/angular-jwt/)
 _<sup>https://blog.angular-university.io/angular-jwt/</sup>_

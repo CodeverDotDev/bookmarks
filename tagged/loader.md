@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[loader]](https://www.codever.land/search?q=[loader])
 
-_<sup><sup>[www.codever.land/bookmarks/t/loader](www.codever.land/bookmarks/t/loader)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/loader](https://www.codever.land/bookmarks/t/loader)</sup></sup>_
 ---
 #### [RequireJS](https://github.com/requirejs/requirejs)
 _<sup>https://github.com/requirejs/requirejs</sup>_

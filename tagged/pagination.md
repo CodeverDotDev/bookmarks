@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[pagination]](https://www.codever.land/search?q=[pagination])
 
-_<sup><sup>[www.codever.land/bookmarks/t/pagination](www.codever.land/bookmarks/t/pagination)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/pagination](https://www.codever.land/bookmarks/t/pagination)</sup></sup>_
 ---
 #### [Understanding pagination: REST, GraphQL, and Relay - Apollo Blog](https://www.apollographql.com/blog/understanding-pagination-rest-graphql-and-relay-b10f835549e7/)
 _<sup>https://www.apollographql.com/blog/understanding-pagination-rest-graphql-and-relay-b10f835549e7/</sup>_

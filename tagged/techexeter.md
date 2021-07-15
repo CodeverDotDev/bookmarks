@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[techexeter]](https://www.codever.land/search?q=[techexeter])
 
-_<sup><sup>[www.codever.land/bookmarks/t/techexeter](www.codever.land/bookmarks/t/techexeter)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/techexeter](https://www.codever.land/bookmarks/t/techexeter)</sup></sup>_
 ---
 #### [Craig Buckler  - A first look at Deno - 27min](https://youtu.be/JEv4qntldi8)
 _<sup>https://youtu.be/JEv4qntldi8</sup>_

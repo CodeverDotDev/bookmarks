@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[debugger]](https://www.codever.land/search?q=[debugger])
 
-_<sup><sup>[www.codever.land/bookmarks/t/debugger](www.codever.land/bookmarks/t/debugger)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/debugger](https://www.codever.land/bookmarks/t/debugger)</sup></sup>_
 ---
 #### [Comparison of debuggers](https://en.wikipedia.org/wiki/Comparison_of_debuggers)
 _<sup>https://en.wikipedia.org/wiki/Comparison_of_debuggers</sup>_

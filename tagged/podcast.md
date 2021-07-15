@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[podcast]](https://www.codever.land/search?q=[podcast])
 
-_<sup><sup>[www.codever.land/bookmarks/t/podcast](www.codever.land/bookmarks/t/podcast)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/podcast](https://www.codever.land/bookmarks/t/podcast)</sup></sup>_
 ---
 #### [TechRepublic's Dynamic Developer podcast - TechRepublic](https://www.techrepublic.com/article/techrepublic-dynamic-developer-podcast/#ftag=MSF8469b3d)
 _<sup>https://www.techrepublic.com/article/techrepublic-dynamic-developer-podcast/#ftag=MSF8469b3d</sup>_

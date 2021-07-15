@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[secret-generation]](https://www.codever.land/search?q=[secret-generation])
 
-_<sup><sup>[www.codever.land/bookmarks/t/secret-generation](www.codever.land/bookmarks/t/secret-generation)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/secret-generation](https://www.codever.land/bookmarks/t/secret-generation)</sup></sup>_
 ---
 #### [CyberArk Conjur Kubernetes Authenticator](https://developer.conjur.net/reference/integrations/kubernetesopenshift.html)
 _<sup>https://developer.conjur.net/reference/integrations/kubernetesopenshift.html</sup>_

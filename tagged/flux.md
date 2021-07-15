@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[flux]](https://www.codever.land/search?q=[flux])
 
-_<sup><sup>[www.codever.land/bookmarks/t/flux](www.codever.land/bookmarks/t/flux)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/flux](https://www.codever.land/bookmarks/t/flux)</sup></sup>_
 ---
 #### [Ngrx Store - An Architecture Guide](https://blog.angular-university.io/angular-ngrx-store-and-effects-crash-course/)
 _<sup>https://blog.angular-university.io/angular-ngrx-store-and-effects-crash-course/</sup>_

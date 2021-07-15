@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[jest]](https://www.codever.land/search?q=[jest])
 
-_<sup><sup>[www.codever.land/bookmarks/t/jest](www.codever.land/bookmarks/t/jest)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/jest](https://www.codever.land/bookmarks/t/jest)</sup></sup>_
 ---
 #### [Understanding Jest Mocks. Explaining the Mock Function](https://medium.com/@rickhanlonii/understanding-jest-mocks-f0046c68e53c)
 _<sup>https://medium.com/@rickhanlonii/understanding-jest-mocks-f0046c68e53c</sup>_

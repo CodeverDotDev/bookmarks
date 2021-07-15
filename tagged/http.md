@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[http]](https://www.codever.land/search?q=[http])
 
-_<sup><sup>[www.codever.land/bookmarks/t/http](www.codever.land/bookmarks/t/http)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/http](https://www.codever.land/bookmarks/t/http)</sup></sup>_
 ---
 #### [The HTTP Status Codes List](https://flaviocopes.com/http-status-codes/)
 _<sup>https://flaviocopes.com/http-status-codes/</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[spock-framework]](https://www.codever.land/search?q=[spock-framework])
 
-_<sup><sup>[www.codever.land/bookmarks/t/spock-framework](www.codever.land/bookmarks/t/spock-framework)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/spock-framework](https://www.codever.land/bookmarks/t/spock-framework)</sup></sup>_
 ---
 #### [Spock Framework リファレンスドキュメント](http://spock-framework-reference-documentation-ja.readthedocs.org/ja/latest/)
 _<sup>http://spock-framework-reference-documentation-ja.readthedocs.org/ja/latest/</sup>_

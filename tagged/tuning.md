@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[tuning]](https://www.codever.land/search?q=[tuning])
 
-_<sup><sup>[www.codever.land/bookmarks/t/tuning](www.codever.land/bookmarks/t/tuning)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/tuning](https://www.codever.land/bookmarks/t/tuning)</sup></sup>_
 ---
 #### [Ktune](https://github.com/skippbox/ktune)
 _<sup>https://github.com/skippbox/ktune</sup>_

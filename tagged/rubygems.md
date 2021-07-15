@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[rubygems]](https://www.codever.land/search?q=[rubygems])
 
-_<sup><sup>[www.codever.land/bookmarks/t/rubygems](www.codever.land/bookmarks/t/rubygems)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/rubygems](https://www.codever.land/bookmarks/t/rubygems)</sup></sup>_
 ---
 #### [Gemsmith](https://github.com/bkuhlmann/gemsmith)
 _<sup>https://github.com/bkuhlmann/gemsmith</sup>_

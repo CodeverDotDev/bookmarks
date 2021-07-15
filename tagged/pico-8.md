@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[pico-8]](https://www.codever.land/search?q=[pico-8])
 
-_<sup><sup>[www.codever.land/bookmarks/t/pico-8](www.codever.land/bookmarks/t/pico-8)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/pico-8](https://www.codever.land/bookmarks/t/pico-8)</sup></sup>_
 ---
 #### [awesome-PICO-8](https://github.com/pico-8/awesome-PICO-8#readme)
 _<sup>https://github.com/pico-8/awesome-PICO-8#readme</sup>_

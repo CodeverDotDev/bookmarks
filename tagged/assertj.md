@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[assertj]](https://www.codever.land/search?q=[assertj])
 
-_<sup><sup>[www.codever.land/bookmarks/t/assertj](www.codever.land/bookmarks/t/assertj)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/assertj](https://www.codever.land/bookmarks/t/assertj)</sup></sup>_
 ---
 #### [Testing Java Collections with AssertJ](https://medium.com/enfuse-io/testing-java-collections-with-assertj-2fa678d80952)
 _<sup>https://medium.com/enfuse-io/testing-java-collections-with-assertj-2fa678d80952</sup>_

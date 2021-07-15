@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[soap]](https://www.codever.land/search?q=[soap])
 
-_<sup><sup>[www.codever.land/bookmarks/t/soap](www.codever.land/bookmarks/t/soap)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/soap](https://www.codever.land/bookmarks/t/soap)</sup></sup>_
 ---
 #### [npm-soap](https://www.npmjs.com/package/soap)
 _<sup>https://www.npmjs.com/package/soap</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[free-programming-books-se]](https://www.codever.land/search?q=[free-programming-books-se])
 
-_<sup><sup>[www.codever.land/bookmarks/t/free-programming-books-se](www.codever.land/bookmarks/t/free-programming-books-se)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/free-programming-books-se](https://www.codever.land/bookmarks/t/free-programming-books-se)</sup></sup>_
 ---
 #### [Programmera i PHP](https://sv.wikibooks.org/wiki/Programmera_i_PHP)
 _<sup>https://sv.wikibooks.org/wiki/Programmera_i_PHP</sup>_

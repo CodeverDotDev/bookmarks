@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[utp]](https://www.codever.land/search?q=[utp])
 
-_<sup><sup>[www.codever.land/bookmarks/t/utp](www.codever.land/bookmarks/t/utp)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/utp](https://www.codever.land/bookmarks/t/utp)</sup></sup>_
 ---
 #### [meqif/rust-utp](https://github.com/meqif/rust-utp)
 _<sup>https://github.com/meqif/rust-utp</sup>_

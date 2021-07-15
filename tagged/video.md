@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[video]](https://www.codever.land/search?q=[video])
 
-_<sup><sup>[www.codever.land/bookmarks/t/video](www.codever.land/bookmarks/t/video)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/video](https://www.codever.land/bookmarks/t/video)</sup></sup>_
 ---
 #### [
 FFmpeg](https://ffmpeg.org/)

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[modal-dialog]](https://www.codever.land/search?q=[modal-dialog])
 
-_<sup><sup>[www.codever.land/bookmarks/t/modal-dialog](www.codever.land/bookmarks/t/modal-dialog)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/modal-dialog](https://www.codever.land/bookmarks/t/modal-dialog)</sup></sup>_
 ---
 #### [Magnific-Popup](https://github.com/dimsemenov/Magnific-Popup)
 _<sup>https://github.com/dimsemenov/Magnific-Popup</sup>_

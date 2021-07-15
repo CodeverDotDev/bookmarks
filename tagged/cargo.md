@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[cargo]](https://www.codever.land/search?q=[cargo])
 
-_<sup><sup>[www.codever.land/bookmarks/t/cargo](www.codever.land/bookmarks/t/cargo)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/cargo](https://www.codever.land/bookmarks/t/cargo)</sup></sup>_
 ---
 #### [Cargo](https://crates.io/)
 _<sup>https://crates.io/</sup>_

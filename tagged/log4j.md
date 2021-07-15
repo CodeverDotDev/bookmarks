@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[log4j]](https://www.codever.land/search?q=[log4j])
 
-_<sup><sup>[www.codever.land/bookmarks/t/log4j](www.codever.land/bookmarks/t/log4j)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/log4j](https://www.codever.land/bookmarks/t/log4j)</sup></sup>_
 ---
 #### [The State of Logging in Java](https://stackify.com/logging-java/)
 _<sup>https://stackify.com/logging-java/</sup>_

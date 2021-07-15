@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[vagrant]](https://www.codever.land/search?q=[vagrant])
 
-_<sup><sup>[www.codever.land/bookmarks/t/vagrant](www.codever.land/bookmarks/t/vagrant)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/vagrant](https://www.codever.land/bookmarks/t/vagrant)</sup></sup>_
 ---
 #### [awesome-vagrant](https://github.com/iJackUA/awesome-vagrant#readme)
 _<sup>https://github.com/iJackUA/awesome-vagrant#readme</sup>_

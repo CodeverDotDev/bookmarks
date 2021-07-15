@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[text-editor]](https://www.codever.land/search?q=[text-editor])
 
-_<sup><sup>[www.codever.land/bookmarks/t/text-editor](www.codever.land/bookmarks/t/text-editor)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/text-editor](https://www.codever.land/bookmarks/t/text-editor)</sup></sup>_
 ---
 #### [gchp/iota](https://github.com/gchp/iota)
 _<sup>https://github.com/gchp/iota</sup>_

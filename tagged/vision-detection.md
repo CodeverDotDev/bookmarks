@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[vision-detection]](https://www.codever.land/search?q=[vision-detection])
 
-_<sup><sup>[www.codever.land/bookmarks/t/vision-detection](www.codever.land/bookmarks/t/vision-detection)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/vision-detection](https://www.codever.land/bookmarks/t/vision-detection)</sup></sup>_
 ---
 #### [tracking.js](https://github.com/eduardolundgren/tracking.js)
 _<sup>https://github.com/eduardolundgren/tracking.js</sup>_

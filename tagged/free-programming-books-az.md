@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[free-programming-books-az]](https://www.codever.land/search?q=[free-programming-books-az])
 
-_<sup><sup>[www.codever.land/bookmarks/t/free-programming-books-az](www.codever.land/bookmarks/t/free-programming-books-az)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/free-programming-books-az](https://www.codever.land/bookmarks/t/free-programming-books-az)</sup></sup>_
 ---
 #### [PHP](http://ilkaddimlar.com/PHP/PHP/17/PHP)
 _<sup>http://ilkaddimlar.com/PHP/PHP/17/PHP</sup>_

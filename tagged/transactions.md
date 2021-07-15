@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[transactions]](https://www.codever.land/search?q=[transactions])
 
-_<sup><sup>[www.codever.land/bookmarks/t/transactions](www.codever.land/bookmarks/t/transactions)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/transactions](https://www.codever.land/bookmarks/t/transactions)</sup></sup>_
 ---
 #### [Two-phase commit protocol - Wikipedia](https://en.wikipedia.org/wiki/Two-phase_commit_protocol)
 _<sup>https://en.wikipedia.org/wiki/Two-phase_commit_protocol</sup>_

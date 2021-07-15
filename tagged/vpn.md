@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[vpn]](https://www.codever.land/search?q=[vpn])
 
-_<sup><sup>[www.codever.land/bookmarks/t/vpn](www.codever.land/bookmarks/t/vpn)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/vpn](https://www.codever.land/bookmarks/t/vpn)</sup></sup>_
 ---
 #### [Migrating to GCP? First Things First: VPCs (Networking End to End) - 7min](https://www.youtube.com/watch?v=cNb7xKyya5c)
 _<sup>https://www.youtube.com/watch?v=cNb7xKyya5c</sup>_

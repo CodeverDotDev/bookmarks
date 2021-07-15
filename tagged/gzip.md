@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[gzip]](https://www.codever.land/search?q=[gzip])
 
-_<sup><sup>[www.codever.land/bookmarks/t/gzip](www.codever.land/bookmarks/t/gzip)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/gzip](https://www.codever.land/bookmarks/t/gzip)</sup></sup>_
 ---
 #### [carols10cents/zopfli](https://github.com/carols10cents/zopfli)
 _<sup>https://github.com/carols10cents/zopfli</sup>_

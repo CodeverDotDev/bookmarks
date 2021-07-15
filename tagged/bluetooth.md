@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[bluetooth]](https://www.codever.land/search?q=[bluetooth])
 
-_<sup><sup>[www.codever.land/bookmarks/t/bluetooth](www.codever.land/bookmarks/t/bluetooth)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/bluetooth](https://www.codever.land/bookmarks/t/bluetooth)</sup></sup>_
 ---
 #### [awesome-beacon](https://github.com/beaconinside/awesome-beacon#readme)
 _<sup>https://github.com/beaconinside/awesome-beacon#readme</sup>_

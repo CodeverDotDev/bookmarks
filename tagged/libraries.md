@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[libraries]](https://www.codever.land/search?q=[libraries])
 
-_<sup><sup>[www.codever.land/bookmarks/t/libraries](www.codever.land/bookmarks/t/libraries)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/libraries](https://www.codever.land/bookmarks/t/libraries)</sup></sup>_
 ---
 #### [API VS bibliothèques : comprendre l'intérêt](https://tferdinand.net/api-vs-bibliotheques-comprendre-linteret/)
 _<sup>https://tferdinand.net/api-vs-bibliotheques-comprendre-linteret/</sup>_

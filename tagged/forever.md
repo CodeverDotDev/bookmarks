@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[forever]](https://www.codever.land/search?q=[forever])
 
-_<sup><sup>[www.codever.land/bookmarks/t/forever](www.codever.land/bookmarks/t/forever)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/forever](https://www.codever.land/bookmarks/t/forever)</sup></sup>_
 ---
 #### [StrongLoop Process Manager](http://strong-pm.io/compare/)
 _<sup>http://strong-pm.io/compare/</sup>_

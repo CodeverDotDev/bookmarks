@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[typescript]](https://www.codever.land/search?q=[typescript])
 
-_<sup><sup>[www.codever.land/bookmarks/t/typescript](www.codever.land/bookmarks/t/typescript)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/typescript](https://www.codever.land/bookmarks/t/typescript)</sup></sup>_
 ---
 #### [Introduction - TypeScript Deep Dive](https://basarat.gitbook.io/typescript/)
 _<sup>https://basarat.gitbook.io/typescript/</sup>_

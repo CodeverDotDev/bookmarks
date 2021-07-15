@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[reveal.js]](https://www.codever.land/search?q=[reveal.js])
 
-_<sup><sup>[www.codever.land/bookmarks/t/reveal.js](www.codever.land/bookmarks/t/reveal.js)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/reveal.js](https://www.codever.land/bookmarks/t/reveal.js)</sup></sup>_
 ---
 #### [How to create html presentations with markdown files - 8min](https://www.youtube.com/watch?v=iZl7R6ntOGc)
 _<sup>https://www.youtube.com/watch?v=iZl7R6ntOGc</sup>_

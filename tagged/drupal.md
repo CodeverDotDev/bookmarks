@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[drupal]](https://www.codever.land/search?q=[drupal])
 
-_<sup><sup>[www.codever.land/bookmarks/t/drupal](www.codever.land/bookmarks/t/drupal)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/drupal](https://www.codever.land/bookmarks/t/drupal)</sup></sup>_
 ---
 #### [awesome-drupal](https://github.com/nirgn975/awesome-drupal#readme)
 _<sup>https://github.com/nirgn975/awesome-drupal#readme</sup>_

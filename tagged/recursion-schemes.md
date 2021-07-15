@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[recursion-schemes]](https://www.codever.land/search?q=[recursion-schemes])
 
-_<sup><sup>[www.codever.land/bookmarks/t/recursion-schemes](www.codever.land/bookmarks/t/recursion-schemes)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/recursion-schemes](https://www.codever.land/bookmarks/t/recursion-schemes)</sup></sup>_
 ---
 #### [awesome-recursion-schemes](https://github.com/passy/awesome-recursion-schemes#readme)
 _<sup>https://github.com/passy/awesome-recursion-schemes#readme</sup>_

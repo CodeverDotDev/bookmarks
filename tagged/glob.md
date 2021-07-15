@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[glob]](https://www.codever.land/search?q=[glob])
 
-_<sup><sup>[www.codever.land/bookmarks/t/glob](www.codever.land/bookmarks/t/glob)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/glob](https://www.codever.land/bookmarks/t/glob)</sup></sup>_
 ---
 #### [GitHub - isaacs/node-glob: glob functionality for node.js](https://github.com/isaacs/node-glob)
 _<sup>https://github.com/isaacs/node-glob</sup>_

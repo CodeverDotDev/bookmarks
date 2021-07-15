@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[microsoft-windows]](https://www.codever.land/search?q=[microsoft-windows])
 
-_<sup><sup>[www.codever.land/bookmarks/t/microsoft-windows](www.codever.land/bookmarks/t/microsoft-windows)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/microsoft-windows](https://www.codever.land/bookmarks/t/microsoft-windows)</sup></sup>_
 ---
 #### [Python(x,y)](x,y)
 _<sup>x,y</sup>_

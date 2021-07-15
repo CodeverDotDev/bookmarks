@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[port]](https://www.codever.land/search?q=[port])
 
-_<sup><sup>[www.codever.land/bookmarks/t/port](www.codever.land/bookmarks/t/port)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/port](https://www.codever.land/bookmarks/t/port)</sup></sup>_
 ---
 #### [scp with port number specified](https://stackoverflow.com/questions/10341032/scp-with-port-number-specified)
 _<sup>https://stackoverflow.com/questions/10341032/scp-with-port-number-specified</sup>_

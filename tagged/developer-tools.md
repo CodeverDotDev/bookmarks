@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[developer-tools]](https://www.codever.land/search?q=[developer-tools])
 
-_<sup><sup>[www.codever.land/bookmarks/t/developer-tools](www.codever.land/bookmarks/t/developer-tools)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/developer-tools](https://www.codever.land/bookmarks/t/developer-tools)</sup></sup>_
 ---
 #### [Random Colors - Hex Color](https://hexcolor.co/random-colors)
 _<sup>https://hexcolor.co/random-colors</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[free-programming-books-mm]](https://www.codever.land/search?q=[free-programming-books-mm])
 
-_<sup><sup>[www.codever.land/bookmarks/t/free-programming-books-mm](www.codever.land/bookmarks/t/free-programming-books-mm)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/free-programming-books-mm](https://www.codever.land/bookmarks/t/free-programming-books-mm)</sup></sup>_
 ---
 #### [Rockstar Developer](http://eimaung.com/rockstar-developer)
 _<sup>http://eimaung.com/rockstar-developer</sup>_

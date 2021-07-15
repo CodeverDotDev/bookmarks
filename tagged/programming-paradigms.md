@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[programming-paradigms]](https://www.codever.land/search?q=[programming-paradigms])
 
-_<sup><sup>[www.codever.land/bookmarks/t/programming-paradigms](www.codever.land/bookmarks/t/programming-paradigms)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/programming-paradigms](https://www.codever.land/bookmarks/t/programming-paradigms)</sup></sup>_
 ---
 #### [Type Theory and Functional Programming](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/)
 _<sup>https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/</sup>_

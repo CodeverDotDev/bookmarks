@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[cloud-computing]](https://www.codever.land/search?q=[cloud-computing])
 
-_<sup><sup>[www.codever.land/bookmarks/t/cloud-computing](www.codever.land/bookmarks/t/cloud-computing)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/cloud-computing](https://www.codever.land/bookmarks/t/cloud-computing)</sup></sup>_
 ---
 #### [Pourquoi votre infra-as-code ne tient pas ses promesses ?](https://blog.wescale.fr/2021/06/17/pourquoi-votre-infrastructure-as-code-ne-tient-pas-ses-promesses/)
 _<sup>https://blog.wescale.fr/2021/06/17/pourquoi-votre-infrastructure-as-code-ne-tient-pas-ses-promesses/</sup>_

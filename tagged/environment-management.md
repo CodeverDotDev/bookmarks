@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[environment-management]](https://www.codever.land/search?q=[environment-management])
 
-_<sup><sup>[www.codever.land/bookmarks/t/environment-management](www.codever.land/bookmarks/t/environment-management)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/environment-management](https://www.codever.land/bookmarks/t/environment-management)</sup></sup>_
 ---
 #### [Angular Configuring Application Environments](https://angular.io/guide/build#configuring-application-environments)
 _<sup>https://angular.io/guide/build#configuring-application-environments</sup>_

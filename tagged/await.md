@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[await]](https://www.codever.land/search?q=[await])
 
-_<sup><sup>[www.codever.land/bookmarks/t/await](www.codever.land/bookmarks/t/await)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/await](https://www.codever.land/bookmarks/t/await)</sup></sup>_
 ---
 #### [How the new ‘Top Level Await’ feature works in JavaScript | by Kesk -*- | JavaScript in Plain English](https://javascript.plainenglish.io/javascript-top-level-await-in-a-nutshell-4e352b3fc8c8)
 _<sup>https://javascript.plainenglish.io/javascript-top-level-await-in-a-nutshell-4e352b3fc8c8</sup>_

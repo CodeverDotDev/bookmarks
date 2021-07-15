@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[example]](https://www.codever.land/search?q=[example])
 
-_<sup><sup>[www.codever.land/bookmarks/t/example](www.codever.land/bookmarks/t/example)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/example](https://www.codever.land/bookmarks/t/example)</sup></sup>_
 ---
 #### [Cron examples](https://crontab.guru/examples.html)
 _<sup>https://crontab.guru/examples.html</sup>_

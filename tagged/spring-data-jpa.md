@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[spring-data-jpa]](https://www.codever.land/search?q=[spring-data-jpa])
 
-_<sup><sup>[www.codever.land/bookmarks/t/spring-data-jpa](www.codever.land/bookmarks/t/spring-data-jpa)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/spring-data-jpa](https://www.codever.land/bookmarks/t/spring-data-jpa)</sup></sup>_
 ---
 #### [Handling entities inheritance with Spring Data JPA – Netgloo Blog](https://blog.netgloo.com/2014/12/18/handling-entities-inheritance-with-spring-data-jpa/)
 _<sup>https://blog.netgloo.com/2014/12/18/handling-entities-inheritance-with-spring-data-jpa/</sup>_

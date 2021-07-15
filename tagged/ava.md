@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[ava]](https://www.codever.land/search?q=[ava])
 
-_<sup><sup>[www.codever.land/bookmarks/t/ava](www.codever.land/bookmarks/t/ava)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/ava](https://www.codever.land/bookmarks/t/ava)</sup></sup>_
 ---
 #### [awesome-ava](https://github.com/avajs/awesome-ava#readme)
 _<sup>https://github.com/avajs/awesome-ava#readme</sup>_

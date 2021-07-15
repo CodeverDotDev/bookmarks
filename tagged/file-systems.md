@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[file-systems]](https://www.codever.land/search?q=[file-systems])
 
-_<sup><sup>[www.codever.land/bookmarks/t/file-systems](www.codever.land/bookmarks/t/file-systems)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/file-systems](https://www.codever.land/bookmarks/t/file-systems)</sup></sup>_
 ---
 #### [About hard links in Unix](https://kb.iu.edu/d/aibc)
 _<sup>https://kb.iu.edu/d/aibc</sup>_

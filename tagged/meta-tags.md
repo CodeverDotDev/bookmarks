@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[meta-tags]](https://www.codever.land/search?q=[meta-tags])
 
-_<sup><sup>[www.codever.land/bookmarks/t/meta-tags](www.codever.land/bookmarks/t/meta-tags)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/meta-tags](https://www.codever.land/bookmarks/t/meta-tags)</sup></sup>_
 ---
 #### [Meta Tags — Preview, Edit and Generate](https://metatags.io/)
 _<sup>https://metatags.io/</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[redux]](https://www.codever.land/search?q=[redux])
 
-_<sup><sup>[www.codever.land/bookmarks/t/redux](www.codever.land/bookmarks/t/redux)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/redux](https://www.codever.land/bookmarks/t/redux)</sup></sup>_
 ---
 #### [Managing State in Angular 2 - Kyle Cordes - Oct 2016 - 46min](https://www.youtube.com/watch?v=eBLTz8QRg4Q)
 _<sup>https://www.youtube.com/watch?v=eBLTz8QRg4Q</sup>_

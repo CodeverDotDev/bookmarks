@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[jwk]](https://www.codever.land/search?q=[jwk])
 
-_<sup><sup>[www.codever.land/bookmarks/t/jwk](www.codever.land/bookmarks/t/jwk)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/jwk](https://www.codever.land/bookmarks/t/jwk)</sup></sup>_
 ---
 #### [JSON Web Key (JWK) rfc specification](https://tools.ietf.org/html/rfc7517)
 _<sup>https://tools.ietf.org/html/rfc7517</sup>_

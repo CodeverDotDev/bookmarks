@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[jsconference]](https://www.codever.land/search?q=[jsconference])
 
-_<sup><sup>[www.codever.land/bookmarks/t/jsconference](www.codever.land/bookmarks/t/jsconference)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/jsconference](https://www.codever.land/bookmarks/t/jsconference)</sup></sup>_
 ---
 #### [Stage - JSWorld Conference USA](https://live.jsworldconference.com/stage/live)
 _<sup>https://live.jsworldconference.com/stage/live</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[dtrace]](https://www.codever.land/search?q=[dtrace])
 
-_<sup><sup>[www.codever.land/bookmarks/t/dtrace](www.codever.land/bookmarks/t/dtrace)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/dtrace](https://www.codever.land/bookmarks/t/dtrace)</sup></sup>_
 ---
 #### [awesome-dtrace](https://github.com/xen0l/awesome-dtrace#readme)
 _<sup>https://github.com/xen0l/awesome-dtrace#readme</sup>_

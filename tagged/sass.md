@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[sass]](https://www.codever.land/search?q=[sass])
 
-_<sup><sup>[www.codever.land/bookmarks/t/sass](www.codever.land/bookmarks/t/sass)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/sass](https://www.codever.land/bookmarks/t/sass)</sup></sup>_
 ---
 #### [GitHub - pengwynn/sass-and-compass-in-action: Code samples for Sass and Compass in Action](https://github.com/pengwynn/sass-and-compass-in-action)
 _<sup>https://github.com/pengwynn/sass-and-compass-in-action</sup>_

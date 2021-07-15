@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[programming]](https://www.codever.land/search?q=[programming])
 
-_<sup><sup>[www.codever.land/bookmarks/t/programming](www.codever.land/bookmarks/t/programming)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/programming](https://www.codever.land/bookmarks/t/programming)</sup></sup>_
 ---
 #### [GitHub - charlax/professional-programming resources](https://github.com/charlax/professional-programming)
 _<sup>https://github.com/charlax/professional-programming</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[golang]](https://www.codever.land/search?q=[golang])
 
-_<sup><sup>[www.codever.land/bookmarks/t/golang](www.codever.land/bookmarks/t/golang)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/golang](https://www.codever.land/bookmarks/t/golang)</sup></sup>_
 ---
 #### [GitHub - profclems/glab: A custom Gitlab Cli tool written in Go (golang)](https://github.com/profclems/glab)
 _<sup>https://github.com/profclems/glab</sup>_

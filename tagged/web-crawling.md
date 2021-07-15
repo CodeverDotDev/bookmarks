@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[web-crawling]](https://www.codever.land/search?q=[web-crawling])
 
-_<sup><sup>[www.codever.land/bookmarks/t/web-crawling](www.codever.land/bookmarks/t/web-crawling)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/web-crawling](https://www.codever.land/bookmarks/t/web-crawling)</sup></sup>_
 ---
 #### [anemone](https://github.com/chriskite/anemone)
 _<sup>https://github.com/chriskite/anemone</sup>_

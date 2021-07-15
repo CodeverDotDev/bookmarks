@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[document-processing]](https://www.codever.land/search?q=[document-processing])
 
-_<sup><sup>[www.codever.land/bookmarks/t/document-processing](www.codever.land/bookmarks/t/document-processing)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/document-processing](https://www.codever.land/bookmarks/t/document-processing)</sup></sup>_
 ---
 #### [Apache POI](https://poi.apache.org/)
 _<sup>https://poi.apache.org/</sup>_

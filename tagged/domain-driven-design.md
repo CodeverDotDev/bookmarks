@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[domain-driven-design]](https://www.codever.land/search?q=[domain-driven-design])
 
-_<sup><sup>[www.codever.land/bookmarks/t/domain-driven-design](www.codever.land/bookmarks/t/domain-driven-design)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/domain-driven-design](https://www.codever.land/bookmarks/t/domain-driven-design)</sup></sup>_
 ---
 #### [A Discussion on Domain Driven Design: Value Objects · Los Techies](https://lostechies.com/joeocampo/2007/04/23/a-discussion-on-domain-driven-design-value-objects/)
 _<sup>https://lostechies.com/joeocampo/2007/04/23/a-discussion-on-domain-driven-design-value-objects/</sup>_

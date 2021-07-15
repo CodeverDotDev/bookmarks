@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[creative-commons]](https://www.codever.land/search?q=[creative-commons])
 
-_<sup><sup>[www.codever.land/bookmarks/t/creative-commons](www.codever.land/bookmarks/t/creative-commons)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/creative-commons](https://www.codever.land/bookmarks/t/creative-commons)</sup></sup>_
 ---
 #### [CC Search](https://search.creativecommons.org/)
 _<sup>https://search.creativecommons.org/</sup>_

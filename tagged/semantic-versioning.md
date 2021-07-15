@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[semantic-versioning]](https://www.codever.land/search?q=[semantic-versioning])
 
-_<sup><sup>[www.codever.land/bookmarks/t/semantic-versioning](www.codever.land/bookmarks/t/semantic-versioning)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/semantic-versioning](https://www.codever.land/bookmarks/t/semantic-versioning)</sup></sup>_
 ---
 #### [Introduction - semantic-release](https://semantic-release.gitbook.io/semantic-release/)
 _<sup>https://semantic-release.gitbook.io/semantic-release/</sup>_

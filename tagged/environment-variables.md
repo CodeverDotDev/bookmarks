@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[environment-variables]](https://www.codever.land/search?q=[environment-variables])
 
-_<sup><sup>[www.codever.land/bookmarks/t/environment-variables](www.codever.land/bookmarks/t/environment-variables)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/environment-variables](https://www.codever.land/bookmarks/t/environment-variables)</sup></sup>_
 ---
 #### [Spring Boot Externalized Configuration](https://docs.spring.io/spring-boot/docs/current/reference/html/boot-features-external-config.html)
 _<sup>https://docs.spring.io/spring-boot/docs/current/reference/html/boot-features-external-config.html</sup>_

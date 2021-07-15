@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[network]](https://www.codever.land/search?q=[network])
 
-_<sup><sup>[www.codever.land/bookmarks/t/network](www.codever.land/bookmarks/t/network)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/network](https://www.codever.land/bookmarks/t/network)</sup></sup>_
 ---
 #### [Munin](http://munin-monitoring.org/)
 _<sup>http://munin-monitoring.org/</sup>_

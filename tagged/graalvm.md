@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[graalvm]](https://www.codever.land/search?q=[graalvm])
 
-_<sup><sup>[www.codever.land/bookmarks/t/graalvm](www.codever.land/bookmarks/t/graalvm)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/graalvm](https://www.codever.land/bookmarks/t/graalvm)</sup></sup>_
 ---
 #### [Quarkus - Supersonic Subatomic Java](https://quarkus.io/)
 _<sup>https://quarkus.io/</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[id-generation]](https://www.codever.land/search?q=[id-generation])
 
-_<sup><sup>[www.codever.land/bookmarks/t/id-generation](www.codever.land/bookmarks/t/id-generation)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/id-generation](https://www.codever.land/bookmarks/t/id-generation)</sup></sup>_
 ---
 #### [RobThree/IdGen: Twitter Snowflake-alike ID generator for .Net](https://github.com/RobThree/IdGen)
 _<sup>https://github.com/RobThree/IdGen</sup>_

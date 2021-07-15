@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[atom]](https://www.codever.land/search?q=[atom])
 
-_<sup><sup>[www.codever.land/bookmarks/t/atom](www.codever.land/bookmarks/t/atom)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/atom](https://www.codever.land/bookmarks/t/atom)</sup></sup>_
 ---
 #### [zargony/atom-language-rust](https://github.com/zargony/atom-language-rust)
 _<sup>https://github.com/zargony/atom-language-rust</sup>_

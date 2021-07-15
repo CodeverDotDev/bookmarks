@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[ubuntu]](https://www.codever.land/search?q=[ubuntu])
 
-_<sup><sup>[www.codever.land/bookmarks/t/ubuntu](www.codever.land/bookmarks/t/ubuntu)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/ubuntu](https://www.codever.land/bookmarks/t/ubuntu)</sup></sup>_
 ---
 #### [UFW - Community Help Wiki](https://help.ubuntu.com/community/UFW)
 _<sup>https://help.ubuntu.com/community/UFW</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[coap]](https://www.codever.land/search?q=[coap])
 
-_<sup><sup>[www.codever.land/bookmarks/t/coap](www.codever.land/bookmarks/t/coap)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/coap](https://www.codever.land/bookmarks/t/coap)</sup></sup>_
 ---
 #### [Covertness/coap-rs](https://github.com/Covertness/coap-rs)
 _<sup>https://github.com/Covertness/coap-rs</sup>_

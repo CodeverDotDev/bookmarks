@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[containers]](https://www.codever.land/search?q=[containers])
 
-_<sup><sup>[www.codever.land/bookmarks/t/containers](www.codever.land/bookmarks/t/containers)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/containers](https://www.codever.land/bookmarks/t/containers)</sup></sup>_
 ---
 #### [Building a container from scratch in Go - Liz Rice (Microscaling Systems) - YouTube](https://www.youtube.com/watch?v=Utf-A4rODH8)
 _<sup>https://www.youtube.com/watch?v=Utf-A4rODH8</sup>_

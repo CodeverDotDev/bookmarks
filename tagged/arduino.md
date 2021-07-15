@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[arduino]](https://www.codever.land/search?q=[arduino])
 
-_<sup><sup>[www.codever.land/bookmarks/t/arduino](www.codever.land/bookmarks/t/arduino)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/arduino](https://www.codever.land/bookmarks/t/arduino)</sup></sup>_
 ---
 #### [avr-rust/ruduino](https://github.com/avr-rust/ruduino)
 _<sup>https://github.com/avr-rust/ruduino</sup>_

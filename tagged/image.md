@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[image]](https://www.codever.land/search?q=[image])
 
-_<sup><sup>[www.codever.land/bookmarks/t/image](www.codever.land/bookmarks/t/image)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/image](https://www.codever.land/bookmarks/t/image)</sup></sup>_
 ---
 #### [GIMP -How to make a text balloon/speech bubble - GIMP tutorial - 4min](https://www.youtube.com/watch?v=MT0g_xp42Wg)
 _<sup>https://www.youtube.com/watch?v=MT0g_xp42Wg</sup>_

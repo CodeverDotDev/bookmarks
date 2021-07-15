@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[line-endings]](https://www.codever.land/search?q=[line-endings])
 
-_<sup><sup>[www.codever.land/bookmarks/t/line-endings](www.codever.land/bookmarks/t/line-endings)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/line-endings](https://www.codever.land/bookmarks/t/line-endings)</sup></sup>_
 ---
 #### [How to find out line-endings in a text file?](https://stackoverflow.com/questions/3569997/how-to-find-out-line-endings-in-a-text-file)
 _<sup>https://stackoverflow.com/questions/3569997/how-to-find-out-line-endings-in-a-text-file</sup>_

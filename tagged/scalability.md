@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[scalability]](https://www.codever.land/search?q=[scalability])
 
-_<sup><sup>[www.codever.land/bookmarks/t/scalability](www.codever.land/bookmarks/t/scalability)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/scalability](https://www.codever.land/bookmarks/t/scalability)</sup></sup>_
 ---
 #### [Cloud-Native Batch Processing with Spring Batch 4 - Michael Minella - 1h:9min](https://www.youtube.com/watch?v=-Icd-s2JoAw)
 _<sup>https://www.youtube.com/watch?v=-Icd-s2JoAw</sup>_

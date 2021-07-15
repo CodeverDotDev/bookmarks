@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[cqrs]](https://www.codever.land/search?q=[cqrs])
 
-_<sup><sup>[www.codever.land/bookmarks/t/cqrs](www.codever.land/bookmarks/t/cqrs)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/cqrs](https://www.codever.land/bookmarks/t/cqrs)</sup></sup>_
 ---
 #### [NGXS Home Page](https://www.ngxs.io/)
 _<sup>https://www.ngxs.io/</sup>_

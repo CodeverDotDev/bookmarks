@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[visual-studio]](https://www.codever.land/search?q=[visual-studio])
 
-_<sup><sup>[www.codever.land/bookmarks/t/visual-studio](www.codever.land/bookmarks/t/visual-studio)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/visual-studio](https://www.codever.land/bookmarks/t/visual-studio)</sup></sup>_
 ---
 #### [PistonDevelopers/VisualRust](https://github.com/PistonDevelopers/VisualRust)
 _<sup>https://github.com/PistonDevelopers/VisualRust</sup>_

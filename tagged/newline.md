@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[newline]](https://www.codever.land/search?q=[newline])
 
-_<sup><sup>[www.codever.land/bookmarks/t/newline](www.codever.land/bookmarks/t/newline)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/newline](https://www.codever.land/bookmarks/t/newline)</sup></sup>_
 ---
 #### [How to find out line-endings in a text file?](https://stackoverflow.com/questions/3569997/how-to-find-out-line-endings-in-a-text-file)
 _<sup>https://stackoverflow.com/questions/3569997/how-to-find-out-line-endings-in-a-text-file</sup>_

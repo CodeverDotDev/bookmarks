@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[border]](https://www.codever.land/search?q=[border])
 
-_<sup><sup>[www.codever.land/bookmarks/t/border](www.codever.land/bookmarks/t/border)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/border](https://www.codever.land/bookmarks/t/border)</sup></sup>_
 ---
 #### [Create boxes in the terminal](https://github.com/sindresorhus/boxen#readme)
 _<sup>https://github.com/sindresorhus/boxen#readme</sup>_

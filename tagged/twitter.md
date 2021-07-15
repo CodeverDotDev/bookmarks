@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[twitter]](https://www.codever.land/search?q=[twitter])
 
-_<sup><sup>[www.codever.land/bookmarks/t/twitter](www.codever.land/bookmarks/t/twitter)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/twitter](https://www.codever.land/bookmarks/t/twitter)</sup></sup>_
 ---
 #### [Fancy Text Decorator - ℭ𝔬𝔬𝔩 𝕋𝕖𝕩𝕥 𝓖𝓮𝓷𝓮𝓻𝓪𝓽𝓸𝓻 😜](https://fancytextdecorator.com/)
 _<sup>https://fancytextdecorator.com/</sup>_

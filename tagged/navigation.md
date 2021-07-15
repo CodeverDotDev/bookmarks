@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[navigation]](https://www.codever.land/search?q=[navigation])
 
-_<sup><sup>[www.codever.land/bookmarks/t/navigation](www.codever.land/bookmarks/t/navigation)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/navigation](https://www.codever.land/bookmarks/t/navigation)</sup></sup>_
 ---
 #### [GitHub - Log1x/navi: A developer-friendly alternative to the WordPress NavWalker.](https://github.com/Log1x/navi)
 _<sup>https://github.com/Log1x/navi</sup>_

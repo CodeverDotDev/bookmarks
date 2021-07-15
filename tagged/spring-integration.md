@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[spring-integration]](https://www.codever.land/search?q=[spring-integration])
 
-_<sup><sup>[www.codever.land/bookmarks/t/spring-integration](www.codever.land/bookmarks/t/spring-integration)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/spring-integration](https://www.codever.land/bookmarks/t/spring-integration)</sup></sup>_
 ---
 #### [Spring - Getting Started  - Messaging with Google Cloud Pub/Sub](https://spring.io/guides/gs/messaging-gcp-pubsub/)
 _<sup>https://spring.io/guides/gs/messaging-gcp-pubsub/</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[splunk]](https://www.codever.land/search?q=[splunk])
 
-_<sup><sup>[www.codever.land/bookmarks/t/splunk](www.codever.land/bookmarks/t/splunk)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/splunk](https://www.codever.land/bookmarks/t/splunk)</sup></sup>_
 ---
 #### [The Essential Guide to Machine Data](https://www.splunk.com/pdfs/ebooks/the-essential-guide-to-machine-data.pdf)
 _<sup>https://www.splunk.com/pdfs/ebooks/the-essential-guide-to-machine-data.pdf</sup>_

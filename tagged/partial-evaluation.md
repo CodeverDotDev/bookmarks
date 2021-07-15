@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[partial-evaluation]](https://www.codever.land/search?q=[partial-evaluation])
 
-_<sup><sup>[www.codever.land/bookmarks/t/partial-evaluation](www.codever.land/bookmarks/t/partial-evaluation)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/partial-evaluation](https://www.codever.land/bookmarks/t/partial-evaluation)</sup></sup>_
 ---
 #### [Partial Evaluation and Automatic Program Generation](http://www.itu.dk/people/sestoft/pebook/)
 _<sup>http://www.itu.dk/people/sestoft/pebook/</sup>_

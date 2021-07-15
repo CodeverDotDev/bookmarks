@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[courses]](https://www.codever.land/search?q=[courses])
 
-_<sup><sup>[www.codever.land/bookmarks/t/courses](www.codever.land/bookmarks/t/courses)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/courses](https://www.codever.land/bookmarks/t/courses)</sup></sup>_
 ---
 #### [Helm using Interactive Browser-Based Labs](https://www.katacoda.com/courses/helm)
 _<sup>https://www.katacoda.com/courses/helm</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[emoji]](https://www.codever.land/search?q=[emoji])
 
-_<sup><sup>[www.codever.land/bookmarks/t/emoji](www.codever.land/bookmarks/t/emoji)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/emoji](https://www.codever.land/bookmarks/t/emoji)</sup></sup>_
 ---
 #### [
         Markdown Emoji - Visual Studio Marketplace

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[free-programming-books-fi]](https://www.codever.land/search?q=[free-programming-books-fi])
 
-_<sup><sup>[www.codever.land/bookmarks/t/free-programming-books-fi](www.codever.land/bookmarks/t/free-programming-books-fi)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/free-programming-books-fi](https://www.codever.land/bookmarks/t/free-programming-books-fi)</sup></sup>_
 ---
 #### [Ruby](https://fi.wikibooks.org/wiki/Ruby)
 _<sup>https://fi.wikibooks.org/wiki/Ruby</sup>_

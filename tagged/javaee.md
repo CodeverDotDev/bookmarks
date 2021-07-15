@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[javaee]](https://www.codever.land/search?q=[javaee])
 
-_<sup><sup>[www.codever.land/bookmarks/t/javaee](www.codever.land/bookmarks/t/javaee)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/javaee](https://www.codever.land/bookmarks/t/javaee)</sup></sup>_
 ---
 #### [CDI and @Startup: SOLVED! | New posts here >>> rmannibucau.metawerx.net](https://rmannibucau.wordpress.com/2015/03/10/cdi-and-startup/)
 _<sup>https://rmannibucau.wordpress.com/2015/03/10/cdi-and-startup/</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[website]](https://www.codever.land/search?q=[website])
 
-_<sup><sup>[www.codever.land/bookmarks/t/website](www.codever.land/bookmarks/t/website)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/website](https://www.codever.land/bookmarks/t/website)</sup></sup>_
 ---
 #### [HTTrack Website Copier - Free Software Offline Browser (GNU GPL)](https://www.httrack.com/)
 _<sup>https://www.httrack.com/</sup>_

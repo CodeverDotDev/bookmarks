@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[industrial]](https://www.codever.land/search?q=[industrial])
 
-_<sup><sup>[www.codever.land/bookmarks/t/industrial](www.codever.land/bookmarks/t/industrial)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/industrial](https://www.codever.land/bookmarks/t/industrial)</sup></sup>_
 ---
 #### [slowtec/tokio-modbus](https://github.com/slowtec/tokio-modbus)
 _<sup>https://github.com/slowtec/tokio-modbus</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[oop]](https://www.codever.land/search?q=[oop])
 
-_<sup><sup>[www.codever.land/bookmarks/t/oop](www.codever.land/bookmarks/t/oop)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/oop](https://www.codever.land/bookmarks/t/oop)</sup></sup>_
 ---
 #### [Understanding Constructor Injection - Manning](https://freecontent.manning.com/understanding-constructor-injection/)
 _<sup>https://freecontent.manning.com/understanding-constructor-injection/</sup>_

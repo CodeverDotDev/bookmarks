@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[logstash]](https://www.codever.land/search?q=[logstash])
 
-_<sup><sup>[www.codever.land/bookmarks/t/logstash](www.codever.land/bookmarks/t/logstash)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/logstash](https://www.codever.land/bookmarks/t/logstash)</sup></sup>_
 ---
 #### [Elk Stack on a Docker image](https://elk-docker.readthedocs.io/#about)
 _<sup>https://elk-docker.readthedocs.io/#about</sup>_

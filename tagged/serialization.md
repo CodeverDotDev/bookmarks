@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[serialization]](https://www.codever.land/search?q=[serialization])
 
-_<sup><sup>[www.codever.land/bookmarks/t/serialization](www.codever.land/bookmarks/t/serialization)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/serialization](https://www.codever.land/bookmarks/t/serialization)</sup></sup>_
 ---
 #### [Bond](https://github.com/Microsoft/bond)
 _<sup>https://github.com/Microsoft/bond</sup>_

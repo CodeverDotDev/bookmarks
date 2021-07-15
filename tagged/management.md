@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[management]](https://www.codever.land/search?q=[management])
 
-_<sup><sup>[www.codever.land/bookmarks/t/management](www.codever.land/bookmarks/t/management)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/management](https://www.codever.land/bookmarks/t/management)</sup></sup>_
 ---
 #### [n](https://github.com/tj/n)
 _<sup>https://github.com/tj/n</sup>_

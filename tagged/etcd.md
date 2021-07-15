@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[etcd]](https://www.codever.land/search?q=[etcd])
 
-_<sup><sup>[www.codever.land/bookmarks/t/etcd](www.codever.land/bookmarks/t/etcd)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/etcd](https://www.codever.land/bookmarks/t/etcd)</sup></sup>_
 ---
 #### [etcd home page](https://etcd.io/)
 _<sup>https://etcd.io/</sup>_

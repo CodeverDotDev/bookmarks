@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[embedded]](https://www.codever.land/search?q=[embedded])
 
-_<sup><sup>[www.codever.land/bookmarks/t/embedded](www.codever.land/bookmarks/t/embedded)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/embedded](https://www.codever.land/bookmarks/t/embedded)</sup></sup>_
 ---
 #### [embedresponsively.com](https://embedresponsively.com/)
 _<sup>https://embedresponsively.com/</sup>_

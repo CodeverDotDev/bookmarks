@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[vapt]](https://www.codever.land/search?q=[vapt])
 
-_<sup><sup>[www.codever.land/bookmarks/t/vapt](www.codever.land/bookmarks/t/vapt)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/vapt](https://www.codever.land/bookmarks/t/vapt)</sup></sup>_
 ---
 #### [Rustbuster](https://iwantmore.pizza/posts/rustbuster.html)
 _<sup>https://iwantmore.pizza/posts/rustbuster.html</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[computer-science]](https://www.codever.land/search?q=[computer-science])
 
-_<sup><sup>[www.codever.land/bookmarks/t/computer-science](www.codever.land/bookmarks/t/computer-science)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/computer-science](https://www.codever.land/bookmarks/t/computer-science)</sup></sup>_
 ---
 #### [ELI5: What is Big O notation? : explainlikeimfive](https://www.reddit.com/r/explainlikeimfive/comments/1fxgvv/eli5_what_is_big_o_notation/)
 _<sup>https://www.reddit.com/r/explainlikeimfive/comments/1fxgvv/eli5_what_is_big_o_notation/</sup>_

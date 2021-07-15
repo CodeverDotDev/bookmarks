@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[annotations]](https://www.codever.land/search?q=[annotations])
 
-_<sup><sup>[www.codever.land/bookmarks/t/annotations](www.codever.land/bookmarks/t/annotations)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/annotations](https://www.codever.land/bookmarks/t/annotations)</sup></sup>_
 ---
 #### [CDI and @Startup: SOLVED! | New posts here >>> rmannibucau.metawerx.net](https://rmannibucau.wordpress.com/2015/03/10/cdi-and-startup/)
 _<sup>https://rmannibucau.wordpress.com/2015/03/10/cdi-and-startup/</sup>_

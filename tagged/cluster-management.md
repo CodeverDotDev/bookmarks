@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[cluster-management]](https://www.codever.land/search?q=[cluster-management])
 
-_<sup><sup>[www.codever.land/bookmarks/t/cluster-management](www.codever.land/bookmarks/t/cluster-management)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/cluster-management](https://www.codever.land/bookmarks/t/cluster-management)</sup></sup>_
 ---
 #### [PM2 - Node.js clustering made easy with PM2](https://pm2.io/blog/2018/04/20/Node-js-clustering-made-easy-with-PM2)
 _<sup>https://pm2.io/blog/2018/04/20/Node-js-clustering-made-easy-with-PM2</sup>_

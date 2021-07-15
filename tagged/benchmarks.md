@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[benchmarks]](https://www.codever.land/search?q=[benchmarks])
 
-_<sup><sup>[www.codever.land/bookmarks/t/benchmarks](www.codever.land/bookmarks/t/benchmarks)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/benchmarks](https://www.codever.land/bookmarks/t/benchmarks)</sup></sup>_
 ---
 #### [TeXitoi/benchmarksgame-rs](https://github.com/TeXitoi/benchmarksgame-rs)
 _<sup>https://github.com/TeXitoi/benchmarksgame-rs</sup>_

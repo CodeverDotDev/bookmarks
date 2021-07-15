@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[teamcity]](https://www.codever.land/search?q=[teamcity])
 
-_<sup><sup>[www.codever.land/bookmarks/t/teamcity](www.codever.land/bookmarks/t/teamcity)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/teamcity](https://www.codever.land/bookmarks/t/teamcity)</sup></sup>_
 ---
 #### [Configuration as Code, Part 1: Getting Started with Kotlin DSL | TeamCity Blog](https://blog.jetbrains.com/teamcity/2019/03/configuration-as-code-part-1-getting-started-with-kotlin-dsl/)
 _<sup>https://blog.jetbrains.com/teamcity/2019/03/configuration-as-code-part-1-getting-started-with-kotlin...</sup>_

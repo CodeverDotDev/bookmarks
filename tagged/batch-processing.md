@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[batch-processing]](https://www.codever.land/search?q=[batch-processing])
 
-_<sup><sup>[www.codever.land/bookmarks/t/batch-processing](www.codever.land/bookmarks/t/batch-processing)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/batch-processing](https://www.codever.land/bookmarks/t/batch-processing)</sup></sup>_
 ---
 #### [Apache Beam Home Page](https://beam.apache.org/)
 _<sup>https://beam.apache.org/</sup>_

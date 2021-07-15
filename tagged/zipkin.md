@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[zipkin]](https://www.codever.land/search?q=[zipkin])
 
-_<sup><sup>[www.codever.land/bookmarks/t/zipkin](www.codever.land/bookmarks/t/zipkin)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/zipkin](https://www.codever.land/bookmarks/t/zipkin)</sup></sup>_
 ---
 #### [OpenZipkin · A distributed tracing system      ](https://zipkin.io/)
 _<sup>https://zipkin.io/</sup>_

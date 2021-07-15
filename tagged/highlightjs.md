@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[highlightjs]](https://www.codever.land/search?q=[highlightjs])
 
-_<sup><sup>[www.codever.land/bookmarks/t/highlightjs](www.codever.land/bookmarks/t/highlightjs)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/highlightjs](https://www.codever.land/bookmarks/t/highlightjs)</sup></sup>_
 ---
 #### [How to insert and highlight code in Jekyll blog post on Codepedia.org – CodepediaOrg](https://www.codepedia.org/ama/how-to-insert-and-highlight-code-in-jekyll-blog-post-on-codingpedia-org)
 _<sup>https://www.codepedia.org/ama/how-to-insert-and-highlight-code-in-jekyll-blog-post-on-codingpedia-or...</sup>_

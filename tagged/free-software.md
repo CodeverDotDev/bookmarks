@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[free-software]](https://www.codever.land/search?q=[free-software])
 
-_<sup><sup>[www.codever.land/bookmarks/t/free-software](www.codever.land/bookmarks/t/free-software)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/free-software](https://www.codever.land/bookmarks/t/free-software)</sup></sup>_
 ---
 #### [HTTrack Website Copier - Free Software Offline Browser (GNU GPL)](https://www.httrack.com/)
 _<sup>https://www.httrack.com/</sup>_

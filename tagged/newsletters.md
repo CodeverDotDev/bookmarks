@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[newsletters]](https://www.codever.land/search?q=[newsletters])
 
-_<sup><sup>[www.codever.land/bookmarks/t/newsletters](www.codever.land/bookmarks/t/newsletters)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/newsletters](https://www.codever.land/bookmarks/t/newsletters)</sup></sup>_
 ---
 #### [Node Weekly](http://nodeweekly.com)
 _<sup>http://nodeweekly.com</sup>_

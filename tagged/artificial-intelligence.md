@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[artificial-intelligence]](https://www.codever.land/search?q=[artificial-intelligence])
 
-_<sup><sup>[www.codever.land/bookmarks/t/artificial-intelligence](www.codever.land/bookmarks/t/artificial-intelligence)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/artificial-intelligence](https://www.codever.land/bookmarks/t/artificial-intelligence)</sup></sup>_
 ---
 #### [ANNetGPGPU](https://github.com/ANNetGPGPU/ANNetGPGPU)
 _<sup>https://github.com/ANNetGPGPU/ANNetGPGPU</sup>_

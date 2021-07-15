@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[curl]](https://www.codever.land/search?q=[curl])
 
-_<sup><sup>[www.codever.land/bookmarks/t/curl](www.codever.land/bookmarks/t/curl)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/curl](https://www.codever.land/bookmarks/t/curl)</sup></sup>_
 ---
 #### [Advanced HTTP Mocking with WireMock at DevFest DC - 43min](https://www.youtube.com/watch?v=x3MvZ8DFrpE)
 _<sup>https://www.youtube.com/watch?v=x3MvZ8DFrpE</sup>_

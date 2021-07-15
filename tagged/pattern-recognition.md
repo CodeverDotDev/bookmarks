@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[pattern-recognition]](https://www.codever.land/search?q=[pattern-recognition])
 
-_<sup><sup>[www.codever.land/bookmarks/t/pattern-recognition](www.codever.land/bookmarks/t/pattern-recognition)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/pattern-recognition](https://www.codever.land/bookmarks/t/pattern-recognition)</sup></sup>_
 ---
 #### [sfikas/rusteval](https://github.com/sfikas/rusteval)
 _<sup>https://github.com/sfikas/rusteval</sup>_

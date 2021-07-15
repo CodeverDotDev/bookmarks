@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[asynchronous]](https://www.codever.land/search?q=[asynchronous])
 
-_<sup><sup>[www.codever.land/bookmarks/t/asynchronous](www.codever.land/bookmarks/t/asynchronous)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/asynchronous](https://www.codever.land/bookmarks/t/asynchronous)</sup></sup>_
 ---
 #### [Tokio home page](https://tokio.rs/)
 _<sup>https://tokio.rs/</sup>_

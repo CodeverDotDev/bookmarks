@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[docker-image]](https://www.codever.land/search?q=[docker-image])
 
-_<sup><sup>[www.codever.land/bookmarks/t/docker-image](www.codever.land/bookmarks/t/docker-image)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/docker-image](https://www.codever.land/bookmarks/t/docker-image)</sup></sup>_
 ---
 #### [rodolpheche/wiremock - Docker Hub](https://hub.docker.com/r/rodolpheche/wiremock/)
 _<sup>https://hub.docker.com/r/rodolpheche/wiremock/</sup>_

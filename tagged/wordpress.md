@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[wordpress]](https://www.codever.land/search?q=[wordpress])
 
-_<sup><sup>[www.codever.land/bookmarks/t/wordpress](www.codever.land/bookmarks/t/wordpress)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/wordpress](https://www.codever.land/bookmarks/t/wordpress)</sup></sup>_
 ---
 #### [Post Status | WordPress.org](https://wordpress.org/support/article/post-status/)
 _<sup>https://wordpress.org/support/article/post-status/</sup>_

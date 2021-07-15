@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[database-migration]](https://www.codever.land/search?q=[database-migration])
 
-_<sup><sup>[www.codever.land/bookmarks/t/database-migration](www.codever.land/bookmarks/t/database-migration)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/database-migration](https://www.codever.land/bookmarks/t/database-migration)</sup></sup>_
 ---
 #### [Keycloak upgrade while running on docker](https://stackoverflow.com/questions/47956933/keycloak-upgrade-while-running-on-docker)
 _<sup>https://stackoverflow.com/questions/47956933/keycloak-upgrade-while-running-on-docker</sup>_

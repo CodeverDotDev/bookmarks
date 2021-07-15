@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[basics]](https://www.codever.land/search?q=[basics])
 
-_<sup><sup>[www.codever.land/bookmarks/t/basics](www.codever.land/bookmarks/t/basics)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/basics](https://www.codever.land/bookmarks/t/basics)</sup></sup>_
 ---
 #### [Guide to Spring Batch Processing | Toptal](https://www.toptal.com/spring/spring-batch-tutorial)
 _<sup>https://www.toptal.com/spring/spring-batch-tutorial</sup>_

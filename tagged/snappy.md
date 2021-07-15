@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[snappy]](https://www.codever.land/search?q=[snappy])
 
-_<sup><sup>[www.codever.land/bookmarks/t/snappy](www.codever.land/bookmarks/t/snappy)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/snappy](https://www.codever.land/bookmarks/t/snappy)</sup></sup>_
 ---
 #### [JeffBelgum/rust-snappy](https://github.com/JeffBelgum/rust-snappy)
 _<sup>https://github.com/JeffBelgum/rust-snappy</sup>_

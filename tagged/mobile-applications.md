@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[mobile-applications]](https://www.codever.land/search?q=[mobile-applications])
 
-_<sup><sup>[www.codever.land/bookmarks/t/mobile-applications](www.codever.land/bookmarks/t/mobile-applications)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/mobile-applications](https://www.codever.land/bookmarks/t/mobile-applications)</sup></sup>_
 ---
 #### [Cabin](https://github.com/bitnami/cabin)
 _<sup>https://github.com/bitnami/cabin</sup>_

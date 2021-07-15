@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[ossec]](https://www.codever.land/search?q=[ossec])
 
-_<sup><sup>[www.codever.land/bookmarks/t/ossec](www.codever.land/bookmarks/t/ossec)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/ossec](https://www.codever.land/bookmarks/t/ossec)</sup></sup>_
 ---
 #### [GitHub - Atomicorp/ossec-docker: Official OSSEC docker container](https://github.com/Atomicorp/ossec-docker)
 _<sup>https://github.com/Atomicorp/ossec-docker</sup>_

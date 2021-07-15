@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[appium]](https://www.codever.land/search?q=[appium])
 
-_<sup><sup>[www.codever.land/bookmarks/t/appium](www.codever.land/bookmarks/t/appium)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/appium](https://www.codever.land/bookmarks/t/appium)</sup></sup>_
 ---
 #### [awesome-appium](https://github.com/SrinivasanTarget/awesome-appium#readme)
 _<sup>https://github.com/SrinivasanTarget/awesome-appium#readme</sup>_

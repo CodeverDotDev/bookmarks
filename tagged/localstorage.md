@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[localstorage]](https://www.codever.land/search?q=[localstorage])
 
-_<sup><sup>[www.codever.land/bookmarks/t/localstorage](www.codever.land/bookmarks/t/localstorage)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/localstorage](https://www.codever.land/bookmarks/t/localstorage)</sup></sup>_
 ---
 #### [Client-side caching with Angular](https://maurogarcia.dev/maurogarcia.dev/posts/client-side-caching-with-angular/)
 _<sup>https://maurogarcia.dev/maurogarcia.dev/posts/client-side-caching-with-angular/</sup>_

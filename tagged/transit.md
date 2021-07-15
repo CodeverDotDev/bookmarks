@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[transit]](https://www.codever.land/search?q=[transit])
 
-_<sup><sup>[www.codever.land/bookmarks/t/transit](www.codever.land/bookmarks/t/transit)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/transit](https://www.codever.land/bookmarks/t/transit)</sup></sup>_
 ---
 #### [awesome-transit](https://github.com/CUTR-at-USF/awesome-transit#readme)
 _<sup>https://github.com/CUTR-at-USF/awesome-transit#readme</sup>_

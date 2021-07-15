@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[jq]](https://www.codever.land/search?q=[jq])
 
-_<sup><sup>[www.codever.land/bookmarks/t/jq](www.codever.land/bookmarks/t/jq)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/jq](https://www.codever.land/bookmarks/t/jq)</sup></sup>_
 ---
 #### [jq home page](https://stedolan.github.io/jq/)
 _<sup>https://stedolan.github.io/jq/</sup>_

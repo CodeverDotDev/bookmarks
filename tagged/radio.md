@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[radio]](https://www.codever.land/search?q=[radio])
 
-_<sup><sup>[www.codever.land/bookmarks/t/radio](www.codever.land/bookmarks/t/radio)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/radio](https://www.codever.land/bookmarks/t/radio)</sup></sup>_
 ---
 #### [awesome-radio](https://github.com/kyleterry/awesome-radio#readme)
 _<sup>https://github.com/kyleterry/awesome-radio#readme</sup>_

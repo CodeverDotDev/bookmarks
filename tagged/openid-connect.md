@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[openid-connect]](https://www.codever.land/search?q=[openid-connect])
 
-_<sup><sup>[www.codever.land/bookmarks/t/openid-connect](www.codever.land/bookmarks/t/openid-connect)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/openid-connect](https://www.codever.land/bookmarks/t/openid-connect)</sup></sup>_
 ---
 #### [Examples of offline token usage in Keycloak - JANUA](https://www.janua.fr/examples-of-offline-token-usage-in-keycloak/)
 _<sup>https://www.janua.fr/examples-of-offline-token-usage-in-keycloak/</sup>_

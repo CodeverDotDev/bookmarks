@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[oauth]](https://www.codever.land/search?q=[oauth])
 
-_<sup><sup>[www.codever.land/bookmarks/t/oauth](www.codever.land/bookmarks/t/oauth)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/oauth](https://www.codever.land/bookmarks/t/oauth)</sup></sup>_
 ---
 #### [authboss](https://github.com/volatiletech/authboss)
 _<sup>https://github.com/volatiletech/authboss</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[troubleshooting]](https://www.codever.land/search?q=[troubleshooting])
 
-_<sup><sup>[www.codever.land/bookmarks/t/troubleshooting](www.codever.land/bookmarks/t/troubleshooting)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/troubleshooting](https://www.codever.land/bookmarks/t/troubleshooting)</sup></sup>_
 ---
 #### [Troubleshooting · Jest](https://jestjs.io/docs/en/troubleshooting)
 _<sup>https://jestjs.io/docs/en/troubleshooting</sup>_

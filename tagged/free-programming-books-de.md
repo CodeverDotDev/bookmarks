@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[free-programming-books-de]](https://www.codever.land/search?q=[free-programming-books-de])
 
-_<sup><sup>[www.codever.land/bookmarks/t/free-programming-books-de](www.codever.land/bookmarks/t/free-programming-books-de)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/free-programming-books-de](https://www.codever.land/bookmarks/t/free-programming-books-de)</sup></sup>_
 ---
 #### [Visual Basic 2008](http://openbook.rheinwerk-verlag.de/visualbasic_2008/)
 _<sup>http://openbook.rheinwerk-verlag.de/visualbasic_2008/</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[forum]](https://www.codever.land/search?q=[forum])
 
-_<sup><sup>[www.codever.land/bookmarks/t/forum](www.codever.land/bookmarks/t/forum)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/forum](https://www.codever.land/bookmarks/t/forum)</sup></sup>_
 ---
 #### [nodeBB](https://github.com/NodeBB/NodeBB)
 _<sup>https://github.com/NodeBB/NodeBB</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[google-pubsub]](https://www.codever.land/search?q=[google-pubsub])
 
-_<sup><sup>[www.codever.land/bookmarks/t/google-pubsub](www.codever.land/bookmarks/t/google-pubsub)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/google-pubsub](https://www.codever.land/bookmarks/t/google-pubsub)</sup></sup>_
 ---
 #### [Google Cloud Pub/Sub: Node.js Client Documentation](https://googleapis.dev/nodejs/pubsub/latest/index.html)
 _<sup>https://googleapis.dev/nodejs/pubsub/latest/index.html</sup>_

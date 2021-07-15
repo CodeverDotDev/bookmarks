@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[jakartaee]](https://www.codever.land/search?q=[jakartaee])
 
-_<sup><sup>[www.codever.land/bookmarks/t/jakartaee](www.codever.land/bookmarks/t/jakartaee)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/jakartaee](https://www.codever.land/bookmarks/t/jakartaee)</sup></sup>_
 ---
 #### [Spring, Jakarta EE, CDI: The Good Parts - 1h:40min](https://www.youtube.com/watch?v=Px_FCgmrCLQ)
 _<sup>https://www.youtube.com/watch?v=Px_FCgmrCLQ</sup>_

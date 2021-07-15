@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[service]](https://www.codever.land/search?q=[service])
 
-_<sup><sup>[www.codever.land/bookmarks/t/service](www.codever.land/bookmarks/t/service)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/service](https://www.codever.land/bookmarks/t/service)</sup></sup>_
 ---
 #### [deps.rs](https://github.com/srijs/deps.rs)
 _<sup>https://github.com/srijs/deps.rs</sup>_

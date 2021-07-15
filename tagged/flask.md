@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[flask]](https://www.codever.land/search?q=[flask])
 
-_<sup><sup>[www.codever.land/bookmarks/t/flask](www.codever.land/bookmarks/t/flask)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/flask](https://www.codever.land/bookmarks/t/flask)</sup></sup>_
 ---
 #### [Learn Kubernetes in Under 3 Hours: A Detailed Guide to Orchestrating Containers](https://www.freecodecamp.org/news/learn-kubernetes-in-under-3-hours-a-detailed-guide-to-orchestrating-containers-114ff420e882/)
 _<sup>https://www.freecodecamp.org/news/learn-kubernetes-in-under-3-hours-a-detailed-guide-to-orchestratin...</sup>_

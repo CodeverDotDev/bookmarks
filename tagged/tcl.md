@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[tcl]](https://www.codever.land/search?q=[tcl])
 
-_<sup><sup>[www.codever.land/bookmarks/t/tcl](www.codever.land/bookmarks/t/tcl)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/tcl](https://www.codever.land/bookmarks/t/tcl)</sup></sup>_
 ---
 #### [TclWise](http://www.invece.org/tclwise/index.html)
 _<sup>http://www.invece.org/tclwise/index.html</sup>_

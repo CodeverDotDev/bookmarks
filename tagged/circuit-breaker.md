@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[circuit-breaker]](https://www.codever.land/search?q=[circuit-breaker])
 
-_<sup><sup>[www.codever.land/bookmarks/t/circuit-breaker](www.codever.land/bookmarks/t/circuit-breaker)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/circuit-breaker](https://www.codever.land/bookmarks/t/circuit-breaker)</sup></sup>_
 ---
 #### [Istio home page](https://istio.io/)
 _<sup>https://istio.io/</sup>_

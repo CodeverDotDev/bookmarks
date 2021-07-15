@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[filesystem]](https://www.codever.land/search?q=[filesystem])
 
-_<sup><sup>[www.codever.land/bookmarks/t/filesystem](www.codever.land/bookmarks/t/filesystem)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/filesystem](https://www.codever.land/bookmarks/t/filesystem)</sup></sup>_
 ---
 #### [pop-os/sys-mount](https://github.com/pop-os/sys-mount)
 _<sup>https://github.com/pop-os/sys-mount</sup>_

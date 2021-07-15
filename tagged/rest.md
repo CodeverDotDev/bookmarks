@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[rest]](https://www.codever.land/search?q=[rest])
 
-_<sup><sup>[www.codever.land/bookmarks/t/rest](www.codever.land/bookmarks/t/rest)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/rest](https://www.codever.land/bookmarks/t/rest)</sup></sup>_
 ---
 #### [Understanding And Using REST APIs — Smashing MagazineClear SearchBack to top](https://www.smashingmagazine.com/2018/01/understanding-using-rest-api/)
 _<sup>https://www.smashingmagazine.com/2018/01/understanding-using-rest-api/</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[sdk]](https://www.codever.land/search?q=[sdk])
 
-_<sup><sup>[www.codever.land/bookmarks/t/sdk](www.codever.land/bookmarks/t/sdk)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/sdk](https://www.codever.land/bookmarks/t/sdk)</sup></sup>_
 ---
 #### [Writing IntelliJ IDEA Plugins](https://www.baeldung.com/intellij-new-custom-plugin)
 _<sup>https://www.baeldung.com/intellij-new-custom-plugin</sup>_

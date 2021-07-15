@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[communication]](https://www.codever.land/search?q=[communication])
 
-_<sup><sup>[www.codever.land/bookmarks/t/communication](www.codever.land/bookmarks/t/communication)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/communication](https://www.codever.land/bookmarks/t/communication)</sup></sup>_
 ---
 #### [Real-Time In-App Chat and Communication Platform | PubNub](https://www.pubnub.com/)
 _<sup>https://www.pubnub.com/</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[permissions]](https://www.codever.land/search?q=[permissions])
 
-_<sup><sup>[www.codever.land/bookmarks/t/permissions](www.codever.land/bookmarks/t/permissions)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/permissions](https://www.codever.land/bookmarks/t/permissions)</sup></sup>_
 ---
 #### [Test permission requests](https://extensionworkshop.com/documentation/develop/test-permission-requests/)
 _<sup>https://extensionworkshop.com/documentation/develop/test-permission-requests/</sup>_

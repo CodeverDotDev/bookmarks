@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[accessibility]](https://www.codever.land/search?q=[accessibility])
 
-_<sup><sup>[www.codever.land/bookmarks/t/accessibility](www.codever.land/bookmarks/t/accessibility)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/accessibility](https://www.codever.land/bookmarks/t/accessibility)</sup></sup>_
 ---
 #### [awesome-a11y](https://github.com/brunopulis/awesome-a11y#readme)
 _<sup>https://github.com/brunopulis/awesome-a11y#readme</sup>_

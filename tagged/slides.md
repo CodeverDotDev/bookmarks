@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[slides]](https://www.codever.land/search?q=[slides])
 
-_<sup><sup>[www.codever.land/bookmarks/t/slides](www.codever.land/bookmarks/t/slides)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/slides](https://www.codever.land/bookmarks/t/slides)</sup></sup>_
 ---
 #### [Slidev home page](https://sli.dev/)
 _<sup>https://sli.dev/</sup>_

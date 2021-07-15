@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[web-scraping]](https://www.codever.land/search?q=[web-scraping])
 
-_<sup><sup>[www.codever.land/bookmarks/t/web-scraping](www.codever.land/bookmarks/t/web-scraping)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/web-scraping](https://www.codever.land/bookmarks/t/web-scraping)</sup></sup>_
 ---
 #### [GitHub - jsdom/jsdom](https://github.com/jsdom/jsdom)
 _<sup>https://github.com/jsdom/jsdom</sup>_

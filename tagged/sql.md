@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[sql]](https://www.codever.land/search?q=[sql])
 
-_<sup><sup>[www.codever.land/bookmarks/t/sql](www.codever.land/bookmarks/t/sql)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/sql](https://www.codever.land/bookmarks/t/sql)</sup></sup>_
 ---
 #### [SQL vs NoSQL or MySQL vs MongoDB - 21min](https://www.youtube.com/watch?v=ZS_kXvOeQ5Y)
 _<sup>https://www.youtube.com/watch?v=ZS_kXvOeQ5Y</sup>_

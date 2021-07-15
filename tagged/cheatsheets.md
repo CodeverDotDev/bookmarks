@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[cheatsheets]](https://www.codever.land/search?q=[cheatsheets])
 
-_<sup><sup>[www.codever.land/bookmarks/t/cheatsheets](www.codever.land/bookmarks/t/cheatsheets)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/cheatsheets](https://www.codever.land/bookmarks/t/cheatsheets)</sup></sup>_
 ---
 #### [5 Useful Cheatsheet Websites For Programmers | by Harsh Patel | JavaScript in Plain English | Feb, 2021 | Medium](https://medium.com/javascript-in-plain-english/5-website-cheat-sheet-for-programmer-d6fdf9d8e311)
 _<sup>https://medium.com/javascript-in-plain-english/5-website-cheat-sheet-for-programmer-d6fdf9d8e311</sup>_

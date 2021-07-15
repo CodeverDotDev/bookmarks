@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[stub]](https://www.codever.land/search?q=[stub])
 
-_<sup><sup>[www.codever.land/bookmarks/t/stub](www.codever.land/bookmarks/t/stub)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/stub](https://www.codever.land/bookmarks/t/stub)</sup></sup>_
 ---
 #### [Mocks Aren't Stubs](https://martinfowler.com/articles/mocksArentStubs.html)
 _<sup>https://martinfowler.com/articles/mocksArentStubs.html</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[social-media]](https://www.codever.land/search?q=[social-media])
 
-_<sup><sup>[www.codever.land/bookmarks/t/social-media](www.codever.land/bookmarks/t/social-media)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/social-media](https://www.codever.land/bookmarks/t/social-media)</sup></sup>_
 ---
 #### [Meta Tags — Preview, Edit and Generate](https://metatags.io/)
 _<sup>https://metatags.io/</sup>_

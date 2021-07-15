@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[embedded-resource]](https://www.codever.land/search?q=[embedded-resource])
 
-_<sup><sup>[www.codever.land/bookmarks/t/embedded-resource](www.codever.land/bookmarks/t/embedded-resource)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/embedded-resource](https://www.codever.land/bookmarks/t/embedded-resource)</sup></sup>_
 ---
 #### [esc](https://github.com/mjibson/esc)
 _<sup>https://github.com/mjibson/esc</sup>_

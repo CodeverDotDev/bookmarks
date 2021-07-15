@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[ejb]](https://www.codever.land/search?q=[ejb])
 
-_<sup><sup>[www.codever.land/bookmarks/t/ejb](www.codever.land/bookmarks/t/ejb)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/ejb](https://www.codever.land/bookmarks/t/ejb)</sup></sup>_
 ---
 #### [CDI and @Startup: SOLVED! | New posts here >>> rmannibucau.metawerx.net](https://rmannibucau.wordpress.com/2015/03/10/cdi-and-startup/)
 _<sup>https://rmannibucau.wordpress.com/2015/03/10/cdi-and-startup/</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[ionic]](https://www.codever.land/search?q=[ionic])
 
-_<sup><sup>[www.codever.land/bookmarks/t/ionic](www.codever.land/bookmarks/t/ionic)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/ionic](https://www.codever.land/bookmarks/t/ionic)</sup></sup>_
 ---
 #### [awesome-ionic](https://github.com/candelibas/awesome-ionic#readme)
 _<sup>https://github.com/candelibas/awesome-ionic#readme</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[release-management]](https://www.codever.land/search?q=[release-management])
 
-_<sup><sup>[www.codever.land/bookmarks/t/release-management](www.codever.land/bookmarks/t/release-management)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/release-management](https://www.codever.land/bookmarks/t/release-management)</sup></sup>_
 ---
 #### [semantic-release home page](https://semantic-release.gitbook.io/)
 _<sup>https://semantic-release.gitbook.io/</sup>_

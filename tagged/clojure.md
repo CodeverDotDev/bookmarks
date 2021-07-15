@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[clojure]](https://www.codever.land/search?q=[clojure])
 
-_<sup><sup>[www.codever.land/bookmarks/t/clojure](www.codever.land/bookmarks/t/clojure)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/clojure](https://www.codever.land/bookmarks/t/clojure)</sup></sup>_
 ---
 #### [graphql-clj](https://github.com/tendant/graphql-clj)
 _<sup>https://github.com/tendant/graphql-clj</sup>_

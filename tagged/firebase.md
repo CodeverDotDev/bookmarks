@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[firebase]](https://www.codever.land/search?q=[firebase])
 
-_<sup><sup>[www.codever.land/bookmarks/t/firebase](www.codever.land/bookmarks/t/firebase)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/firebase](https://www.codever.land/bookmarks/t/firebase)</sup></sup>_
 ---
 #### [awesome-firebase](https://github.com/jthegedus/awesome-firebase#readme)
 _<sup>https://github.com/jthegedus/awesome-firebase#readme</sup>_

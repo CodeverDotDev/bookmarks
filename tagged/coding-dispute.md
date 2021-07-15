@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[coding-dispute]](https://www.codever.land/search?q=[coding-dispute])
 
-_<sup><sup>[www.codever.land/bookmarks/t/coding-dispute](www.codever.land/bookmarks/t/coding-dispute)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/coding-dispute](https://www.codever.land/bookmarks/t/coding-dispute)</sup></sup>_
 ---
 #### [Why do interface names begin with “I” – Brad Abrams ](https://blogs.msdn.microsoft.com/brada/2004/02/03/why-do-interface-names-begin-with-i/)
 _<sup>https://blogs.msdn.microsoft.com/brada/2004/02/03/why-do-interface-names-begin-with-i/</sup>_

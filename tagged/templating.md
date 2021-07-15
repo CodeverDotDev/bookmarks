@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[templating]](https://www.codever.land/search?q=[templating])
 
-_<sup><sup>[www.codever.land/bookmarks/t/templating](www.codever.land/bookmarks/t/templating)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/templating](https://www.codever.land/bookmarks/t/templating)</sup></sup>_
 ---
 #### [marko](https://github.com/marko-js/marko)
 _<sup>https://github.com/marko-js/marko</sup>_

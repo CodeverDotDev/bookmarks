@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[telegram-bot]](https://www.codever.land/search?q=[telegram-bot])
 
-_<sup><sup>[www.codever.land/bookmarks/t/telegram-bot](www.codever.land/bookmarks/t/telegram-bot)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/telegram-bot](https://www.codever.land/bookmarks/t/telegram-bot)</sup></sup>_
 ---
 #### [GitHub - codingsett/telepota: Python3 wrapper/library that simplifies telegram bot development](https://github.com/codingsett/telepota)
 _<sup>https://github.com/codingsett/telepota</sup>_

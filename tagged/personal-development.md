@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[personal-development]](https://www.codever.land/search?q=[personal-development])
 
-_<sup><sup>[www.codever.land/bookmarks/t/personal-development](www.codever.land/bookmarks/t/personal-development)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/personal-development](https://www.codever.land/bookmarks/t/personal-development)</sup></sup>_
 ---
 #### [The Tech Geek’s Guide To Talking To Other People At Work](https://www.fastcompany.com/3067971/the-tech-geeks-guide-to-talking-to-other-people-at-work)
 _<sup>https://www.fastcompany.com/3067971/the-tech-geeks-guide-to-talking-to-other-people-at-work</sup>_

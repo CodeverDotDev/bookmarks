@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[playstation]](https://www.codever.land/search?q=[playstation])
 
-_<sup><sup>[www.codever.land/bookmarks/t/playstation](www.codever.land/bookmarks/t/playstation)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/playstation](https://www.codever.land/bookmarks/t/playstation)</sup></sup>_
 ---
 #### [simias/rustation](https://github.com/simias/rustation)
 _<sup>https://github.com/simias/rustation</sup>_

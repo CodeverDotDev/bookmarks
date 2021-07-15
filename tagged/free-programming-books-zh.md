@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[free-programming-books-zh]](https://www.codever.land/search?q=[free-programming-books-zh])
 
-_<sup><sup>[www.codever.land/bookmarks/t/free-programming-books-zh](www.codever.land/bookmarks/t/free-programming-books-zh)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/free-programming-books-zh](https://www.codever.land/bookmarks/t/free-programming-books-zh)</sup></sup>_
 ---
 #### [Visual Prolog 7边练边学](http://wiki.visual-prolog.com/index.php?title=Visual_Prolog_for_Tyros_in_Chinese)
 _<sup>http://wiki.visual-prolog.com/index.php?title=Visual_Prolog_for_Tyros_in_Chinese</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[static-code-analysis]](https://www.codever.land/search?q=[static-code-analysis])
 
-_<sup><sup>[www.codever.land/bookmarks/t/static-code-analysis](www.codever.land/bookmarks/t/static-code-analysis)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/static-code-analysis](https://www.codever.land/bookmarks/t/static-code-analysis)</sup></sup>_
 ---
 #### [Cppcheck](http://cppcheck.sourceforge.net/)
 _<sup>http://cppcheck.sourceforge.net/</sup>_

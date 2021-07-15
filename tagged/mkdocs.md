@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[mkdocs]](https://www.codever.land/search?q=[mkdocs])
 
-_<sup><sup>[www.codever.land/bookmarks/t/mkdocs](www.codever.land/bookmarks/t/mkdocs)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/mkdocs](https://www.codever.land/bookmarks/t/mkdocs)</sup></sup>_
 ---
 #### [mkdocstrings/mkdocstrings: Automatic documentation from sources, for MkDocs.](https://github.com/mkdocstrings/mkdocstrings)
 _<sup>https://github.com/mkdocstrings/mkdocstrings</sup>_

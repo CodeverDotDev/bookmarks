@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[copyright]](https://www.codever.land/search?q=[copyright])
 
-_<sup><sup>[www.codever.land/bookmarks/t/copyright](www.codever.land/bookmarks/t/copyright)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/copyright](https://www.codever.land/bookmarks/t/copyright)</sup></sup>_
 ---
 #### [A Writer's Guide to Permissions and Fair Use | Jane Friedman](https://www.janefriedman.com/permissions-and-fair-use/)
 _<sup>https://www.janefriedman.com/permissions-and-fair-use/</sup>_

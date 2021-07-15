@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[craftcms]](https://www.codever.land/search?q=[craftcms])
 
-_<sup><sup>[www.codever.land/bookmarks/t/craftcms](www.codever.land/bookmarks/t/craftcms)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/craftcms](https://www.codever.land/bookmarks/t/craftcms)</sup></sup>_
 ---
 #### [awesome-craftcms](https://github.com/craftcms/awesome#readme)
 _<sup>https://github.com/craftcms/awesome#readme</sup>_

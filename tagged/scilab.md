@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[scilab]](https://www.codever.land/search?q=[scilab])
 
-_<sup><sup>[www.codever.land/bookmarks/t/scilab](www.codever.land/bookmarks/t/scilab)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/scilab](https://www.codever.land/bookmarks/t/scilab)</sup></sup>_
 ---
 #### [Einführung in Scilab/Xcos 5.4](http://www.buech-gifhorn.de/scilab/Einfuehrung.pdf)
 _<sup>http://www.buech-gifhorn.de/scilab/Einfuehrung.pdf</sup>_

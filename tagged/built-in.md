@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[built-in]](https://www.codever.land/search?q=[built-in])
 
-_<sup><sup>[www.codever.land/bookmarks/t/built-in](www.codever.land/bookmarks/t/built-in)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/built-in](https://www.codever.land/bookmarks/t/built-in)</sup></sup>_
 ---
 #### [dataclasses](https://docs.python.org/3/library/dataclasses.html)
 _<sup>https://docs.python.org/3/library/dataclasses.html</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[rxjs]](https://www.codever.land/search?q=[rxjs])
 
-_<sup><sup>[www.codever.land/bookmarks/t/rxjs](www.codever.land/bookmarks/t/rxjs)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/rxjs](https://www.codever.land/bookmarks/t/rxjs)</sup></sup>_
 ---
 #### [Angular - The RxJS library](https://angular.io/guide/rx-library)
 _<sup>https://angular.io/guide/rx-library</sup>_

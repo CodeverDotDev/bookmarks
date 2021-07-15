@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[access-control]](https://www.codever.land/search?q=[access-control])
 
-_<sup><sup>[www.codever.land/bookmarks/t/access-control](www.codever.land/bookmarks/t/access-control)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/access-control](https://www.codever.land/bookmarks/t/access-control)</sup></sup>_
 ---
 #### [Role-based access control - Wikipedia](https://en.wikipedia.org/wiki/Role-based_access_control)
 _<sup>https://en.wikipedia.org/wiki/Role-based_access_control</sup>_

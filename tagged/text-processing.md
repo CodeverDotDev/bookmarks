@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[text-processing]](https://www.codever.land/search?q=[text-processing])
 
-_<sup><sup>[www.codever.land/bookmarks/t/text-processing](www.codever.land/bookmarks/t/text-processing)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/text-processing](https://www.codever.land/bookmarks/t/text-processing)</sup></sup>_
 ---
 #### [TankerHQ/ruplacer](https://github.com/TankerHQ/ruplacer)
 _<sup>https://github.com/TankerHQ/ruplacer</sup>_

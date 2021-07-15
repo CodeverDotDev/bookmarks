@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[time]](https://www.codever.land/search?q=[time])
 
-_<sup><sup>[www.codever.land/bookmarks/t/time](www.codever.land/bookmarks/t/time)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/time](https://www.codever.land/bookmarks/t/time)</sup></sup>_
 ---
 #### [The Problem with Time & Timezones - Computerphile - 10min](https://www.youtube.com/watch?v=-5wpm-gesOY)
 _<sup>https://www.youtube.com/watch?v=-5wpm-gesOY</sup>_

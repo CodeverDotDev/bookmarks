@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[algorithm]](https://www.codever.land/search?q=[algorithm])
 
-_<sup><sup>[www.codever.land/bookmarks/t/algorithm](www.codever.land/bookmarks/t/algorithm)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/algorithm](https://www.codever.land/bookmarks/t/algorithm)</sup></sup>_
 ---
 #### [The Algorithms](https://github.com/TheAlgorithms)
 _<sup>https://github.com/TheAlgorithms</sup>_

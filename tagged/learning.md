@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[learning]](https://www.codever.land/search?q=[learning])
 
-_<sup><sup>[www.codever.land/bookmarks/t/learning](www.codever.land/bookmarks/t/learning)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/learning](https://www.codever.land/bookmarks/t/learning)</sup></sup>_
 ---
 #### [The difference between note-taking and note-making - Ness Labs](https://nesslabs.com/from-note-taking-to-note-making)
 _<sup>https://nesslabs.com/from-note-taking-to-note-making</sup>_

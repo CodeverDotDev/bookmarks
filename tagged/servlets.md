@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[servlets]](https://www.codever.land/search?q=[servlets])
 
-_<sup><sup>[www.codever.land/bookmarks/t/servlets](www.codever.land/bookmarks/t/servlets)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/servlets](https://www.codever.land/bookmarks/t/servlets)</sup></sup>_
 ---
 #### [How do servlets work? Instantiation, sessions, shared variables and multithreading](https://stackoverflow.com/questions/3106452/how-do-servlets-work-instantiation-sessions-shared-variables-and-multithreadi)
 _<sup>https://stackoverflow.com/questions/3106452/how-do-servlets-work-instantiation-sessions-shared-varia...</sup>_

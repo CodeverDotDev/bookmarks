@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[deployment]](https://www.codever.land/search?q=[deployment])
 
-_<sup><sup>[www.codever.land/bookmarks/t/deployment](www.codever.land/bookmarks/t/deployment)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/deployment](https://www.codever.land/bookmarks/t/deployment)</sup></sup>_
 ---
 #### [emk/rust-musl-builder](https://github.com/emk/rust-musl-builder)
 _<sup>https://github.com/emk/rust-musl-builder</sup>_

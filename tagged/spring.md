@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[spring]](https://www.codever.land/search?q=[spring])
 
-_<sup><sup>[www.codever.land/bookmarks/t/spring](www.codever.land/bookmarks/t/spring)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/spring](https://www.codever.land/bookmarks/t/spring)</sup></sup>_
 ---
 #### [Spring Batch Tutorial: Reading Information From a REST API](https://www.petrikainulainen.net/programming/spring-framework/spring-batch-tutorial-reading-information-from-a-rest-api/)
 _<sup>https://www.petrikainulainen.net/programming/spring-framework/spring-batch-tutorial-reading-informat...</sup>_

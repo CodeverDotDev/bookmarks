@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[nat]](https://www.codever.land/search?q=[nat])
 
-_<sup><sup>[www.codever.land/bookmarks/t/nat](www.codever.land/bookmarks/t/nat)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/nat](https://www.codever.land/bookmarks/t/nat)</sup></sup>_
 ---
 #### [NAT - SNAT, DNAT, PAT & Port Forwarding - YouTube](https://www.youtube.com/watch?v=wg8Hosr20yw)
 _<sup>https://www.youtube.com/watch?v=wg8Hosr20yw</sup>_

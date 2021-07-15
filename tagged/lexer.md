@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[lexer]](https://www.codever.land/search?q=[lexer])
 
-_<sup><sup>[www.codever.land/bookmarks/t/lexer](www.codever.land/bookmarks/t/lexer)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/lexer](https://www.codever.land/bookmarks/t/lexer)</sup></sup>_
 ---
 #### [GraphQL Under the Hood - 26min](https://www.youtube.com/watch?v=fo6X91t3O2I)
 _<sup>https://www.youtube.com/watch?v=fo6X91t3O2I</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[cli-adaptors]](https://www.codever.land/search?q=[cli-adaptors])
 
-_<sup><sup>[www.codever.land/bookmarks/t/cli-adaptors](www.codever.land/bookmarks/t/cli-adaptors)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/cli-adaptors](https://www.codever.land/bookmarks/t/cli-adaptors)</sup></sup>_
 ---
 #### [click](https://github.com/databricks/click)
 _<sup>https://github.com/databricks/click</sup>_

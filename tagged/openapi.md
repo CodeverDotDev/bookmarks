@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[openapi]](https://www.codever.land/search?q=[openapi])
 
-_<sup><sup>[www.codever.land/bookmarks/t/openapi](www.codever.land/bookmarks/t/openapi)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/openapi](https://www.codever.land/bookmarks/t/openapi)</sup></sup>_
 ---
 #### [Key takeaways when using Open API Specification 3 to document an ExpressJS API – CodepediaOrg](https://www.codepedia.org/ama/key-takeaways-when-using-oas-3-to-document-an-expressjs-rest-api)
 _<sup>https://www.codepedia.org/ama/key-takeaways-when-using-oas-3-to-document-an-expressjs-rest-api</sup>_

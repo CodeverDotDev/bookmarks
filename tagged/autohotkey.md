@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[autohotkey]](https://www.codever.land/search?q=[autohotkey])
 
-_<sup><sup>[www.codever.land/bookmarks/t/autohotkey](www.codever.land/bookmarks/t/autohotkey)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/autohotkey](https://www.codever.land/bookmarks/t/autohotkey)</sup></sup>_
 ---
 #### [awesome-AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey#readme)
 _<sup>https://github.com/ahkscript/awesome-AutoHotkey#readme</sup>_

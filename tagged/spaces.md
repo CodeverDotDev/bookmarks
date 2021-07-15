@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[spaces]](https://www.codever.land/search?q=[spaces])
 
-_<sup><sup>[www.codever.land/bookmarks/t/spaces](www.codever.land/bookmarks/t/spaces)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/spaces](https://www.codever.land/bookmarks/t/spaces)</sup></sup>_
 ---
 #### [Basic JavaScript: Accessing Object Properties with Bracket Notation | Learn freeCodeCamp](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/accessing-object-properties-with-bracket-notation)
 _<sup>https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/accessing-...</sup>_

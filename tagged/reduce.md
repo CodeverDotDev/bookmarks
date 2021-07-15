@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[reduce]](https://www.codever.land/search?q=[reduce])
 
-_<sup><sup>[www.codever.land/bookmarks/t/reduce](www.codever.land/bookmarks/t/reduce)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/reduce](https://www.codever.land/bookmarks/t/reduce)</sup></sup>_
 ---
 #### [ReduceAlgebra/trunk/packages/rlisp88 at master · nilqed/ReduceAlgebra · GitHub](https://github.com/nilqed/ReduceAlgebra/tree/master/trunk/packages/rlisp88)
 _<sup>https://github.com/nilqed/ReduceAlgebra/tree/master/trunk/packages/rlisp88</sup>_

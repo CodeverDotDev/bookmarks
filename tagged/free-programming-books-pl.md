@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[free-programming-books-pl]](https://www.codever.land/search?q=[free-programming-books-pl])
 
-_<sup><sup>[www.codever.land/bookmarks/t/free-programming-books-pl](www.codever.land/bookmarks/t/free-programming-books-pl)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/free-programming-books-pl](https://www.codever.land/bookmarks/t/free-programming-books-pl)</sup></sup>_
 ---
 #### [SQL - podstawy (na stronie)](http://andrzejklusiewicz.blogspot.com/2010/11/kurs-oracle-sql.html)
 _<sup>http://andrzejklusiewicz.blogspot.com/2010/11/kurs-oracle-sql.html</sup>_

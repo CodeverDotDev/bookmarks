@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[action-script]](https://www.codever.land/search?q=[action-script])
 
-_<sup><sup>[www.codever.land/bookmarks/t/action-script](www.codever.land/bookmarks/t/action-script)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/action-script](https://www.codever.land/bookmarks/t/action-script)</sup></sup>_
 ---
 #### [Einstieg in ActionScript](http://openbook.rheinwerk-verlag.de/actionscript_einstieg/)
 _<sup>http://openbook.rheinwerk-verlag.de/actionscript_einstieg/</sup>_

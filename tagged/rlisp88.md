@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[rlisp88]](https://www.codever.land/search?q=[rlisp88])
 
-_<sup><sup>[www.codever.land/bookmarks/t/rlisp88](www.codever.land/bookmarks/t/rlisp88)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/rlisp88](https://www.codever.land/bookmarks/t/rlisp88)</sup></sup>_
 ---
 #### [ReduceAlgebra/trunk/packages/rlisp88 at master · nilqed/ReduceAlgebra · GitHub](https://github.com/nilqed/ReduceAlgebra/tree/master/trunk/packages/rlisp88)
 _<sup>https://github.com/nilqed/ReduceAlgebra/tree/master/trunk/packages/rlisp88</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[cron]](https://www.codever.land/search?q=[cron])
 
-_<sup><sup>[www.codever.land/bookmarks/t/cron](www.codever.land/bookmarks/t/cron)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/cron](https://www.codever.land/bookmarks/t/cron)</sup></sup>_
 ---
 #### [Cron examples](https://crontab.guru/examples.html)
 _<sup>https://crontab.guru/examples.html</sup>_

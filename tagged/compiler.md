@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[compiler]](https://www.codever.land/search?q=[compiler])
 
-_<sup><sup>[www.codever.land/bookmarks/t/compiler](www.codever.land/bookmarks/t/compiler)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/compiler](https://www.codever.land/bookmarks/t/compiler)</sup></sup>_
 ---
 #### [A crash course in just-in-time (JIT) compilers - Mozilla Hacks - the Web developer blog](https://hacks.mozilla.org/2017/02/a-crash-course-in-just-in-time-jit-compilers/)
 _<sup>https://hacks.mozilla.org/2017/02/a-crash-course-in-just-in-time-jit-compilers/</sup>_

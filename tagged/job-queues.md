@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[job-queues]](https://www.codever.land/search?q=[job-queues])
 
-_<sup><sup>[www.codever.land/bookmarks/t/job-queues](www.codever.land/bookmarks/t/job-queues)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/job-queues](https://www.codever.land/bookmarks/t/job-queues)</sup></sup>_
 ---
 #### [kue](https://github.com/Automattic/kue)
 _<sup>https://github.com/Automattic/kue</sup>_

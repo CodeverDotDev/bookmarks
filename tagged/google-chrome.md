@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[google-chrome]](https://www.codever.land/search?q=[google-chrome])
 
-_<sup><sup>[www.codever.land/bookmarks/t/google-chrome](www.codever.land/bookmarks/t/google-chrome)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/google-chrome](https://www.codever.land/bookmarks/t/google-chrome)</sup></sup>_
 ---
 #### [Chrome DevTools Protocol](https://chromedevtools.github.io/devtools-protocol/)
 _<sup>https://chromedevtools.github.io/devtools-protocol/</sup>_

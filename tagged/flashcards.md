@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[flashcards]](https://www.codever.land/search?q=[flashcards])
 
-_<sup><sup>[www.codever.land/bookmarks/t/flashcards](www.codever.land/bookmarks/t/flashcards)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/flashcards](https://www.codever.land/bookmarks/t/flashcards)</sup></sup>_
 ---
 #### [
 Brainscape: The Best Flashcards App | Make Flashcards Online

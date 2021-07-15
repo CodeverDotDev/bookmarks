@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[scratch]](https://www.codever.land/search?q=[scratch])
 
-_<sup><sup>[www.codever.land/bookmarks/t/scratch](www.codever.land/bookmarks/t/scratch)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/scratch](https://www.codever.land/bookmarks/t/scratch)</sup></sup>_
 ---
 #### [炎の型 With Scratch (ゲームプログラム入門) ](https://kyorohiro.gitbooks.io/doc_scratch/)
 _<sup>https://kyorohiro.gitbooks.io/doc_scratch/</sup>_

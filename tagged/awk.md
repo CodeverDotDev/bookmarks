@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[awk]](https://www.codever.land/search?q=[awk])
 
-_<sup><sup>[www.codever.land/bookmarks/t/awk](www.codever.land/bookmarks/t/awk)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/awk](https://www.codever.land/bookmarks/t/awk)</sup></sup>_
 ---
 #### [AWK command in Unix/Linux with examples - GeeksforGeeks](https://www.geeksforgeeks.org/awk-command-unixlinux-examples/)
 _<sup>https://www.geeksforgeeks.org/awk-command-unixlinux-examples/</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[tig]](https://www.codever.land/search?q=[tig])
 
-_<sup><sup>[www.codever.land/bookmarks/t/tig](www.codever.land/bookmarks/t/tig)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/tig](https://www.codever.land/bookmarks/t/tig)</sup></sup>_
 ---
 #### [Introduction · Tig - Text-mode interface for Git](https://jonas.github.io/tig/)
 _<sup>https://jonas.github.io/tig/</sup>_

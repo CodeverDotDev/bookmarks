@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[apache-wicket]](https://www.codever.land/search?q=[apache-wicket])
 
-_<sup><sup>[www.codever.land/bookmarks/t/apache-wicket](www.codever.land/bookmarks/t/apache-wicket)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/apache-wicket](https://www.codever.land/bookmarks/t/apache-wicket)</sup></sup>_
 ---
 #### [awesome-wicket](https://github.com/PhantomYdn/awesome-wicket#readme)
 _<sup>https://github.com/PhantomYdn/awesome-wicket#readme</sup>_

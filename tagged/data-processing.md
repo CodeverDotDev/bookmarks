@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[data-processing]](https://www.codever.land/search?q=[data-processing])
 
-_<sup><sup>[www.codever.land/bookmarks/t/data-processing](www.codever.land/bookmarks/t/data-processing)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/data-processing](https://www.codever.land/bookmarks/t/data-processing)</sup></sup>_
 ---
 #### [bluss/ndarray](https://github.com/rust-ndarray/ndarray)
 _<sup>https://github.com/rust-ndarray/ndarray</sup>_

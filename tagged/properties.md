@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[properties]](https://www.codever.land/search?q=[properties])
 
-_<sup><sup>[www.codever.land/bookmarks/t/properties](www.codever.land/bookmarks/t/properties)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/properties](https://www.codever.land/bookmarks/t/properties)</sup></sup>_
 ---
 #### [Basic JavaScript: Delete Properties from a JavaScript Object | Learn freeCodeCamp](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/delete-properties-from-a-javascript-object)
 _<sup>https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/delete-pro...</sup>_

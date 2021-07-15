@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[realtime]](https://www.codever.land/search?q=[realtime])
 
-_<sup><sup>[www.codever.land/bookmarks/t/realtime](www.codever.land/bookmarks/t/realtime)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/realtime](https://www.codever.land/bookmarks/t/realtime)</sup></sup>_
 ---
 #### [Real-Time In-App Chat and Communication Platform | PubNub](https://www.pubnub.com/)
 _<sup>https://www.pubnub.com/</sup>_

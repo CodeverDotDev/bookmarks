@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[lookups]](https://www.codever.land/search?q=[lookups])
 
-_<sup><sup>[www.codever.land/bookmarks/t/lookups](www.codever.land/bookmarks/t/lookups)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/lookups](https://www.codever.land/bookmarks/t/lookups)</sup></sup>_
 ---
 #### [dig Man Page - Linux - SS64.com](https://ss64.com/bash/dig.html)
 _<sup>https://ss64.com/bash/dig.html</sup>_

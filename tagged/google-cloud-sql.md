@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[google-cloud-sql]](https://www.codever.land/search?q=[google-cloud-sql])
 
-_<sup><sup>[www.codever.land/bookmarks/t/google-cloud-sql](www.codever.land/bookmarks/t/google-cloud-sql)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/google-cloud-sql](https://www.codever.land/bookmarks/t/google-cloud-sql)</sup></sup>_
 ---
 #### [Connecting to Cloud SQL](https://cloud.google.com/functions/docs/sql)
 _<sup>https://cloud.google.com/functions/docs/sql</sup>_

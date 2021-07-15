@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[conferences]](https://www.codever.land/search?q=[conferences])
 
-_<sup><sup>[www.codever.land/bookmarks/t/conferences](www.codever.land/bookmarks/t/conferences)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/conferences](https://www.codever.land/bookmarks/t/conferences)</sup></sup>_
 ---
 #### [Container Camp](http://container.camp/)
 _<sup>http://container.camp/</sup>_

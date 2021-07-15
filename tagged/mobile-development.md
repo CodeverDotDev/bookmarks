@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[mobile-development]](https://www.codever.land/search?q=[mobile-development])
 
-_<sup><sup>[www.codever.land/bookmarks/t/mobile-development](www.codever.land/bookmarks/t/mobile-development)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/mobile-development](https://www.codever.land/bookmarks/t/mobile-development)</sup></sup>_
 ---
 #### [dryrun](https://github.com/cesarferreira/dryrun)
 _<sup>https://github.com/cesarferreira/dryrun</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[alfred]](https://www.codever.land/search?q=[alfred])
 
-_<sup><sup>[www.codever.land/bookmarks/t/alfred](www.codever.land/bookmarks/t/alfred)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/alfred](https://www.codever.land/bookmarks/t/alfred)</sup></sup>_
 ---
 #### [awesome-alfred-workflows](https://github.com/derimagia/awesome-alfred-workflows#readme)
 _<sup>https://github.com/derimagia/awesome-alfred-workflows#readme</sup>_

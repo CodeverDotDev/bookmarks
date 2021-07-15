@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[distributed-systems]](https://www.codever.land/search?q=[distributed-systems])
 
-_<sup><sup>[www.codever.land/bookmarks/t/distributed-systems](www.codever.land/bookmarks/t/distributed-systems)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/distributed-systems](https://www.codever.land/bookmarks/t/distributed-systems)</sup></sup>_
 ---
 #### [antimonyproject/antimony](https://github.com/antimonyproject/antimony)
 _<sup>https://github.com/antimonyproject/antimony</sup>_

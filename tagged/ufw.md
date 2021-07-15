@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[ufw]](https://www.codever.land/search?q=[ufw])
 
-_<sup><sup>[www.codever.land/bookmarks/t/ufw](www.codever.land/bookmarks/t/ufw)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/ufw](https://www.codever.land/bookmarks/t/ufw)</sup></sup>_
 ---
 #### [UFW - Community Help Wiki](https://help.ubuntu.com/community/UFW)
 _<sup>https://help.ubuntu.com/community/UFW</sup>_

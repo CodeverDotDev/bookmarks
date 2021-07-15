@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[free-programming-books-fr]](https://www.codever.land/search?q=[free-programming-books-fr])
 
-_<sup><sup>[www.codever.land/bookmarks/t/free-programming-books-fr](www.codever.land/bookmarks/t/free-programming-books-fr)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/free-programming-books-fr](https://www.codever.land/bookmarks/t/free-programming-books-fr)</sup></sup>_
 ---
 #### [Vim pour les humains](https://vimebook.com/fr)
 _<sup>https://vimebook.com/fr</sup>_

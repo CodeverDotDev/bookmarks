@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[webpack]](https://www.codever.land/search?q=[webpack])
 
-_<sup><sup>[www.codever.land/bookmarks/t/webpack](www.codever.land/bookmarks/t/webpack)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/webpack](https://www.codever.land/bookmarks/t/webpack)</sup></sup>_
 ---
 #### [You Might Not Need Laravel Mix - Stage Right Labs](https://stagerightlabs.com/blog/you-might-not-need-laravel-mix)
 _<sup>https://stagerightlabs.com/blog/you-might-not-need-laravel-mix</sup>_

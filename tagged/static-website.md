@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[static-website]](https://www.codever.land/search?q=[static-website])
 
-_<sup><sup>[www.codever.land/bookmarks/t/static-website](www.codever.land/bookmarks/t/static-website)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/static-website](https://www.codever.land/bookmarks/t/static-website)</sup></sup>_
 ---
 #### [The Complete Beginner's Guide to Deploying Your First Static Website to IPFS](https://interplanetarygatsby.com/ipfs-deploy/)
 _<sup>https://interplanetarygatsby.com/ipfs-deploy/</sup>_

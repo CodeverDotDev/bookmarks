@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[music]](https://www.codever.land/search?q=[music])
 
-_<sup><sup>[www.codever.land/bookmarks/t/music](www.codever.land/bookmarks/t/music)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/music](https://www.codever.land/bookmarks/t/music)</sup></sup>_
 ---
 #### [Sonic Pi - The Live Coding Music Synth for Everyone](https://sonic-pi.net/)
 _<sup>https://sonic-pi.net/</sup>_

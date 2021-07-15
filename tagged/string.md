@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[string]](https://www.codever.land/search?q=[string])
 
-_<sup><sup>[www.codever.land/bookmarks/t/string](www.codever.land/bookmarks/t/string)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/string](https://www.codever.land/bookmarks/t/string)</sup></sup>_
 ---
 #### [String Manipulation - plugin for IntelliJ IDEs](https://plugins.jetbrains.com/plugin/2162-string-manipulation)
 _<sup>https://plugins.jetbrains.com/plugin/2162-string-manipulation</sup>_

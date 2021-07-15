@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[availability]](https://www.codever.land/search?q=[availability])
 
-_<sup><sup>[www.codever.land/bookmarks/t/availability](www.codever.land/bookmarks/t/availability)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/availability](https://www.codever.land/bookmarks/t/availability)</sup></sup>_
 ---
 #### [Enable Rolling updates in Kubernetes with Zero downtime](https://medium.com/platformer-blog/enable-rolling-updates-in-kubernetes-with-zero-downtime-31d7ec388c81)
 _<sup>https://medium.com/platformer-blog/enable-rolling-updates-in-kubernetes-with-zero-downtime-31d7ec388...</sup>_

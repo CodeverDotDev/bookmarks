@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[ethereum]](https://www.codever.land/search?q=[ethereum])
 
-_<sup><sup>[www.codever.land/bookmarks/t/ethereum](www.codever.land/bookmarks/t/ethereum)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/ethereum](https://www.codever.land/bookmarks/t/ethereum)</sup></sup>_
 ---
 #### [awesome-Awesome-Ethereum](https://github.com/Tom2718/Awesome-Ethereum#readme)
 _<sup>https://github.com/Tom2718/Awesome-Ethereum#readme</sup>_

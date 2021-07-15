@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[postman]](https://www.codever.land/search?q=[postman])
 
-_<sup><sup>[www.codever.land/bookmarks/t/postman](www.codever.land/bookmarks/t/postman)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/postman](https://www.codever.land/bookmarks/t/postman)</sup></sup>_
 ---
 #### [Debugging and logs](https://www.getpostman.com/docs/postman/sending_api_requests/debugging_and_logs)
 _<sup>https://www.getpostman.com/docs/postman/sending_api_requests/debugging_and_logs</sup>_

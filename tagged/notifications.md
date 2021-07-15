@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[notifications]](https://www.codever.land/search?q=[notifications])
 
-_<sup><sup>[www.codever.land/bookmarks/t/notifications](www.codever.land/bookmarks/t/notifications)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/notifications](https://www.codever.land/bookmarks/t/notifications)</sup></sup>_
 ---
 #### [iziToast home page](https://izitoast.marcelodolza.com/)
 _<sup>https://izitoast.marcelodolza.com/</sup>_

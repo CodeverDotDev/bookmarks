@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[widget]](https://www.codever.land/search?q=[widget])
 
-_<sup><sup>[www.codever.land/bookmarks/t/widget](www.codever.land/bookmarks/t/widget)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/widget](https://www.codever.land/bookmarks/t/widget)</sup></sup>_
 ---
 #### [typeahead.js](https://github.com/twitter/typeahead.js)
 _<sup>https://github.com/twitter/typeahead.js</sup>_

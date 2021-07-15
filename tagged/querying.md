@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[querying]](https://www.codever.land/search?q=[querying])
 
-_<sup><sup>[www.codever.land/bookmarks/t/querying](www.codever.land/bookmarks/t/querying)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/querying](https://www.codever.land/bookmarks/t/querying)</sup></sup>_
 ---
 #### [Hurl.it](https://www.hurl.it/)
 _<sup>https://www.hurl.it/</sup>_

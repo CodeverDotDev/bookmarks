@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[design]](https://www.codever.land/search?q=[design])
 
-_<sup><sup>[www.codever.land/bookmarks/t/design](www.codever.land/bookmarks/t/design)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/design](https://www.codever.land/bookmarks/t/design)</sup></sup>_
 ---
 #### [iLoveCoding](https://ilovecoding.org/blog/design-101)
 _<sup>https://ilovecoding.org/blog/design-101</sup>_

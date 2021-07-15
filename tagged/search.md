@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[search]](https://www.codever.land/search?q=[search])
 
-_<sup><sup>[www.codever.land/bookmarks/t/search](www.codever.land/bookmarks/t/search)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/search](https://www.codever.land/bookmarks/t/search)</sup></sup>_
 ---
 #### [Qdrant - Vector Search Engine](https://qdrant.tech/)
 _<sup>https://qdrant.tech/</sup>_

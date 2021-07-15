@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[slack]](https://www.codever.land/search?q=[slack])
 
-_<sup><sup>[www.codever.land/bookmarks/t/slack](www.codever.land/bookmarks/t/slack)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/slack](https://www.codever.land/bookmarks/t/slack)</sup></sup>_
 ---
 #### [awesome-slack](https://github.com/matiassingers/awesome-slack#readme)
 _<sup>https://github.com/matiassingers/awesome-slack#readme</sup>_

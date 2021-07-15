@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[webinars]](https://www.codever.land/search?q=[webinars])
 
-_<sup><sup>[www.codever.land/bookmarks/t/webinars](www.codever.land/bookmarks/t/webinars)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/webinars](https://www.codever.land/bookmarks/t/webinars)</sup></sup>_
 ---
 #### [SEO News webinars • Yoast](https://yoast.com/webinar/)
 _<sup>https://yoast.com/webinar/</sup>_

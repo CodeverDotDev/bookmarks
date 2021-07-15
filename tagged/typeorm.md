@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[typeorm]](https://www.codever.land/search?q=[typeorm])
 
-_<sup><sup>[www.codever.land/bookmarks/t/typeorm](www.codever.land/bookmarks/t/typeorm)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/typeorm](https://www.codever.land/bookmarks/t/typeorm)</sup></sup>_
 ---
 #### [MySQL on Cloud Functions](https://fireship.io/lessons/sql-firebase-typeorm/)
 _<sup>https://fireship.io/lessons/sql-firebase-typeorm/</sup>_

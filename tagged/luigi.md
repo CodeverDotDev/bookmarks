@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[luigi]](https://www.codever.land/search?q=[luigi])
 
-_<sup><sup>[www.codever.land/bookmarks/t/luigi](www.codever.land/bookmarks/t/luigi)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/luigi](https://www.codever.land/bookmarks/t/luigi)</sup></sup>_
 ---
 #### [Luigi - The Enterprise-Ready Micro Frontend Framework](https://luigi-project.io/)
 _<sup>https://luigi-project.io/</sup>_

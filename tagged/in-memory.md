@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[in-memory]](https://www.codever.land/search?q=[in-memory])
 
-_<sup><sup>[www.codever.land/bookmarks/t/in-memory](www.codever.land/bookmarks/t/in-memory)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/in-memory](https://www.codever.land/bookmarks/t/in-memory)</sup></sup>_
 ---
 #### [Angular data-provider services: in-memory data cache](https://medium.com/@garfunkel61/https-medium-com-garfunkel61-angular-data-provider-services-in-memory-data-cache-c495a0ac35da)
 _<sup>https://medium.com/@garfunkel61/https-medium-com-garfunkel61-angular-data-provider-services-in-memor...</sup>_

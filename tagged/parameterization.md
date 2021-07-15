@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[parameterization]](https://www.codever.land/search?q=[parameterization])
 
-_<sup><sup>[www.codever.land/bookmarks/t/parameterization](www.codever.land/bookmarks/t/parameterization)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/parameterization](https://www.codever.land/bookmarks/t/parameterization)</sup></sup>_
 ---
 #### [Burst](https://github.com/square/burst)
 _<sup>https://github.com/square/burst</sup>_

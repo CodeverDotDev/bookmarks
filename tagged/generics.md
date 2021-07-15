@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[generics]](https://www.codever.land/search?q=[generics])
 
-_<sup><sup>[www.codever.land/bookmarks/t/generics](www.codever.land/bookmarks/t/generics)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/generics](https://www.codever.land/bookmarks/t/generics)</sup></sup>_
 ---
 #### [Lesson: Generics (The Java™ Tutorials)](https://docs.oracle.com/javase/tutorial/extra/generics/index.html)
 _<sup>https://docs.oracle.com/javase/tutorial/extra/generics/index.html</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[chapel]](https://www.codever.land/search?q=[chapel])
 
-_<sup><sup>[www.codever.land/bookmarks/t/chapel](www.codever.land/bookmarks/t/chapel)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/chapel](https://www.codever.land/bookmarks/t/chapel)</sup></sup>_
 ---
 #### [Chapel Tutorial for Programmers](http://web.archive.org/web/20150310075109/http://cs.colby.edu/kgburke/?resource=chapelTutorial)
 _<sup>http://web.archive.org/web/20150310075109/http://cs.colby.edu/kgburke/?resource=chapelTutorial</sup>_

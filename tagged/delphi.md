@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[delphi]](https://www.codever.land/search?q=[delphi])
 
-_<sup><sup>[www.codever.land/bookmarks/t/delphi](www.codever.land/bookmarks/t/delphi)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/delphi](https://www.codever.land/bookmarks/t/delphi)</sup></sup>_
 ---
 #### [awesome-delphi](https://github.com/Fr0sT-Brutal/awesome-delphi#readme)
 _<sup>https://github.com/Fr0sT-Brutal/awesome-delphi#readme</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[rate-limiting]](https://www.codever.land/search?q=[rate-limiting])
 
-_<sup><sup>[www.codever.land/bookmarks/t/rate-limiting](www.codever.land/bookmarks/t/rate-limiting)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/rate-limiting](https://www.codever.land/bookmarks/t/rate-limiting)</sup></sup>_
 ---
 #### [GitHub - animir/node-rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible)
 _<sup>https://github.com/animir/node-rate-limiter-flexible</sup>_

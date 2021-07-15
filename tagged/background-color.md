@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[background-color]](https://www.codever.land/search?q=[background-color])
 
-_<sup><sup>[www.codever.land/bookmarks/t/background-color](www.codever.land/bookmarks/t/background-color)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/background-color](https://www.codever.land/bookmarks/t/background-color)</sup></sup>_
 ---
 #### [Why does HTML think “chucknorris” is a color?](https://stackoverflow.com/questions/8318911/why-does-html-think-chucknorris-is-a-color)
 _<sup>https://stackoverflow.com/questions/8318911/why-does-html-think-chucknorris-is-a-color</sup>_

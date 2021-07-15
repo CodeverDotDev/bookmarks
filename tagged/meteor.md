@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[meteor]](https://www.codever.land/search?q=[meteor])
 
-_<sup><sup>[www.codever.land/bookmarks/t/meteor](www.codever.land/bookmarks/t/meteor)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/meteor](https://www.codever.land/bookmarks/t/meteor)</sup></sup>_
 ---
 #### [awesome-meteor](https://github.com/Urigo/awesome-meteor#readme)
 _<sup>https://github.com/Urigo/awesome-meteor#readme</sup>_

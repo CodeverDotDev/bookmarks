@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[post]](https://www.codever.land/search?q=[post])
 
-_<sup><sup>[www.codever.land/bookmarks/t/post](www.codever.land/bookmarks/t/post)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/post](https://www.codever.land/bookmarks/t/post)</sup></sup>_
 ---
 #### [How to retrieve the POST query parameters using Express](https://flaviocopes.com/express-post-query-variables/)
 _<sup>https://flaviocopes.com/express-post-query-variables/</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[rust]](https://www.codever.land/search?q=[rust])
 
-_<sup><sup>[www.codever.land/bookmarks/t/rust](www.codever.land/bookmarks/t/rust)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/rust](https://www.codever.land/bookmarks/t/rust)</sup></sup>_
 ---
 #### [Qdrant - Vector Search Engine](https://qdrant.tech/)
 _<sup>https://qdrant.tech/</sup>_

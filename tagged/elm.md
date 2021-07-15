@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[elm]](https://www.codever.land/search?q=[elm])
 
-_<sup><sup>[www.codever.land/bookmarks/t/elm](www.codever.land/bookmarks/t/elm)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/elm](https://www.codever.land/bookmarks/t/elm)</sup></sup>_
 ---
 #### [Some problems with React/Redux](https://staltz.com/some-problems-with-react-redux.html)
 _<sup>https://staltz.com/some-problems-with-react-redux.html</sup>_

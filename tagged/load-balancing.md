@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[load-balancing]](https://www.codever.land/search?q=[load-balancing])
 
-_<sup><sup>[www.codever.land/bookmarks/t/load-balancing](www.codever.land/bookmarks/t/load-balancing)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/load-balancing](https://www.codever.land/bookmarks/t/load-balancing)</sup></sup>_
 ---
 #### [Application Capacity Optimizations with Global Load Balancing](https://cloud.google.com/solutions/about-capacity-optimization-with-global-lb)
 _<sup>https://cloud.google.com/solutions/about-capacity-optimization-with-global-lb</sup>_

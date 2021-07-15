@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[arrays]](https://www.codever.land/search?q=[arrays])
 
-_<sup><sup>[www.codever.land/bookmarks/t/arrays](www.codever.land/bookmarks/t/arrays)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/arrays](https://www.codever.land/bookmarks/t/arrays)</sup></sup>_
 ---
 #### [How can I remove a specific item from an array?](https://stackoverflow.com/questions/5767325/how-can-i-remove-a-specific-item-from-an-array)
 _<sup>https://stackoverflow.com/questions/5767325/how-can-i-remove-a-specific-item-from-an-array</sup>_

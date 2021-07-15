@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[fuzzing]](https://www.codever.land/search?q=[fuzzing])
 
-_<sup><sup>[www.codever.land/bookmarks/t/fuzzing](www.codever.land/bookmarks/t/fuzzing)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/fuzzing](https://www.codever.land/bookmarks/t/fuzzing)</sup></sup>_
 ---
 #### [go-fuzz](https://github.com/dvyukov/go-fuzz)
 _<sup>https://github.com/dvyukov/go-fuzz</sup>_

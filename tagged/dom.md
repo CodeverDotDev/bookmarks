@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[dom]](https://www.codever.land/search?q=[dom])
 
-_<sup><sup>[www.codever.land/bookmarks/t/dom](www.codever.land/bookmarks/t/dom)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/dom](https://www.codever.land/bookmarks/t/dom)</sup></sup>_
 ---
 #### [GitHub - jsdom/jsdom](https://github.com/jsdom/jsdom)
 _<sup>https://github.com/jsdom/jsdom</sup>_

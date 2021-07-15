@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[productivity]](https://www.codever.land/search?q=[productivity])
 
-_<sup><sup>[www.codever.land/bookmarks/t/productivity](www.codever.land/bookmarks/t/productivity)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/productivity](https://www.codever.land/bookmarks/t/productivity)</sup></sup>_
 ---
 #### [So, I wrote my first IntelliJ plugin to help me bookmark code ](https://www.codepedia.org/ama/my-first-intellij-plugin-to-help-me-bookmark-code)
 _<sup>https://www.codepedia.org/ama/my-first-intellij-plugin-to-help-me-bookmark-code</sup>_

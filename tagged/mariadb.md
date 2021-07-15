@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[mariadb]](https://www.codever.land/search?q=[mariadb])
 
-_<sup><sup>[www.codever.land/bookmarks/t/mariadb](www.codever.land/bookmarks/t/mariadb)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/mariadb](https://www.codever.land/bookmarks/t/mariadb)</sup></sup>_
 ---
 #### [MariaDB Foundation - MariaDB.org](https://mariadb.org/)
 _<sup>https://mariadb.org/</sup>_

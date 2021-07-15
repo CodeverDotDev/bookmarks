@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[spring-cloud-gateway]](https://www.codever.land/search?q=[spring-cloud-gateway])
 
-_<sup><sup>[www.codever.land/bookmarks/t/spring-cloud-gateway](www.codever.land/bookmarks/t/spring-cloud-gateway)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/spring-cloud-gateway](https://www.codever.land/bookmarks/t/spring-cloud-gateway)</sup></sup>_
 ---
 #### [Introducing Spring Cloud Gateway by Spencer Gibb @ Spring I/O 2018 - YouTube](https://www.youtube.com/watch?v=NkgooKSeF8w)
 _<sup>https://www.youtube.com/watch?v=NkgooKSeF8w</sup>_

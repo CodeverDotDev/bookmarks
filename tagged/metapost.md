@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[metapost]](https://www.codever.land/search?q=[metapost])
 
-_<sup><sup>[www.codever.land/bookmarks/t/metapost](www.codever.land/bookmarks/t/metapost)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/metapost](https://www.codever.land/bookmarks/t/metapost)</sup></sup>_
 ---
 #### [Создание иллюстраций в MetaPost](http://www.inp.nsk.su/~baldin/mpost/index.html)
 _<sup>http://www.inp.nsk.su/~baldin/mpost/index.html</sup>_

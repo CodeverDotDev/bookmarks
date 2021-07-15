@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[nntp]](https://www.codever.land/search?q=[nntp])
 
-_<sup><sup>[www.codever.land/bookmarks/t/nntp](www.codever.land/bookmarks/t/nntp)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/nntp](https://www.codever.land/bookmarks/t/nntp)</sup></sup>_
 ---
 #### [mattnenterprise/rust-nntp](https://github.com/mattnenterprise/rust-nntp)
 _<sup>https://github.com/mattnenterprise/rust-nntp</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[cms]](https://www.codever.land/search?q=[cms])
 
-_<sup><sup>[www.codever.land/bookmarks/t/cms](www.codever.land/bookmarks/t/cms)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/cms](https://www.codever.land/bookmarks/t/cms)</sup></sup>_
 ---
 #### [The TYPO3 Project and Community – Open Source CMS](https://typo3.org/)
 _<sup>https://typo3.org/</sup>_

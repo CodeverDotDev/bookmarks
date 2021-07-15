@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[agile]](https://www.codever.land/search?q=[agile])
 
-_<sup><sup>[www.codever.land/bookmarks/t/agile](www.codever.land/bookmarks/t/agile)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/agile](https://www.codever.land/bookmarks/t/agile)</sup></sup>_
 ---
 #### [Une critique du manifeste Agile. (1/3)Document](https://itexpert.fr/blog/critique-manifeste-agile/)
 _<sup>https://itexpert.fr/blog/critique-manifeste-agile/</sup>_

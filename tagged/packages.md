@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[packages]](https://www.codever.land/search?q=[packages])
 
-_<sup><sup>[www.codever.land/bookmarks/t/packages](www.codever.land/bookmarks/t/packages)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/packages](https://www.codever.land/bookmarks/t/packages)</sup></sup>_
 ---
 #### [JSPM - ES Module Package Manager and CDN - jspm.org](https://jspm.org/)
 _<sup>https://jspm.org/</sup>_

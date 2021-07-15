@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[code-review]](https://www.codever.land/search?q=[code-review])
 
-_<sup><sup>[www.codever.land/bookmarks/t/code-review](www.codever.land/bookmarks/t/code-review)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/code-review](https://www.codever.land/bookmarks/t/code-review)</sup></sup>_
 ---
 #### [So gehen Googles Entwickler bei Code-Reviews vor](https://t3n.de/news/gehen-googles-entwickler-1196130/)
 _<sup>https://t3n.de/news/gehen-googles-entwickler-1196130/</sup>_

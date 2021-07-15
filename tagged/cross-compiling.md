@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[cross-compiling]](https://www.codever.land/search?q=[cross-compiling])
 
-_<sup><sup>[www.codever.land/bookmarks/t/cross-compiling](www.codever.land/bookmarks/t/cross-compiling)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/cross-compiling](https://www.codever.land/bookmarks/t/cross-compiling)</sup></sup>_
 ---
 #### [japaric/rust-cross](https://github.com/japaric/rust-cross)
 _<sup>https://github.com/japaric/rust-cross</sup>_

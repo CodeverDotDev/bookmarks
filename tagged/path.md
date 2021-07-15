@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[path]](https://www.codever.land/search?q=[path])
 
-_<sup><sup>[www.codever.land/bookmarks/t/path](www.codever.land/bookmarks/t/path)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/path](https://www.codever.land/bookmarks/t/path)</sup></sup>_
 ---
 #### [How to Add a Directory to Your $PATH in Linux](https://www.howtogeek.com/658904/how-to-add-a-directory-to-your-path-in-linux/)
 _<sup>https://www.howtogeek.com/658904/how-to-add-a-directory-to-your-path-in-linux/</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[queue]](https://www.codever.land/search?q=[queue])
 
-_<sup><sup>[www.codever.land/bookmarks/t/queue](www.codever.land/bookmarks/t/queue)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/queue](https://www.codever.land/bookmarks/t/queue)</sup></sup>_
 ---
 #### [celery](http://www.celeryproject.org/)
 _<sup>http://www.celeryproject.org/</sup>_

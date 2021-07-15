@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[npm]](https://www.codever.land/search?q=[npm])
 
-_<sup><sup>[www.codever.land/bookmarks/t/npm](www.codever.land/bookmarks/t/npm)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/npm](https://www.codever.land/bookmarks/t/npm)</sup></sup>_
 ---
 #### [Hello from pnpm | pnpmMenu](https://pnpm.io/)
 _<sup>https://pnpm.io/</sup>_

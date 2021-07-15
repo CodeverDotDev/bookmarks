@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[authoring]](https://www.codever.land/search?q=[authoring])
 
-_<sup><sup>[www.codever.land/bookmarks/t/authoring](www.codever.land/bookmarks/t/authoring)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/authoring](https://www.codever.land/bookmarks/t/authoring)</sup></sup>_
 ---
 #### [awesome-book-authoring](https://github.com/TalAter/awesome-book-authoring#readme)
 _<sup>https://github.com/TalAter/awesome-book-authoring#readme</sup>_

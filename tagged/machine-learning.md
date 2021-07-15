@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[machine-learning]](https://www.codever.land/search?q=[machine-learning])
 
-_<sup><sup>[www.codever.land/bookmarks/t/machine-learning](www.codever.land/bookmarks/t/machine-learning)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/machine-learning](https://www.codever.land/bookmarks/t/machine-learning)</sup></sup>_
 ---
 #### [Qdrant - Vector Search Engine](https://qdrant.tech/)
 _<sup>https://qdrant.tech/</sup>_

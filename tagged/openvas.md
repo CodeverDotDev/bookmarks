@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[openvas]](https://www.codever.land/search?q=[openvas])
 
-_<sup><sup>[www.codever.land/bookmarks/t/openvas](www.codever.land/bookmarks/t/openvas)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/openvas](https://www.codever.land/bookmarks/t/openvas)</sup></sup>_
 ---
 #### [GitHub - Atomicorp/openvas-docker: A docker container for openvas](https://github.com/Atomicorp/openvas-docker)
 _<sup>https://github.com/Atomicorp/openvas-docker</sup>_

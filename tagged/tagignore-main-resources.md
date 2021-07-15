@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[tagignore-main-resources]](https://www.codever.land/search?q=[tagignore-main-resources])
 
-_<sup><sup>[www.codever.land/bookmarks/t/tagignore-main-resources](www.codever.land/bookmarks/t/tagignore-main-resources)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/tagignore-main-resources](https://www.codever.land/bookmarks/t/tagignore-main-resources)</sup></sup>_
 ---
 #### [Kubernetes Documentation](https://kubernetes.io/docs/home/)
 _<sup>https://kubernetes.io/docs/home/</sup>_

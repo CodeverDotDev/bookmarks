@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[cap]](https://www.codever.land/search?q=[cap])
 
-_<sup><sup>[www.codever.land/bookmarks/t/cap](www.codever.land/bookmarks/t/cap)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/cap](https://www.codever.land/bookmarks/t/cap)</sup></sup>_
 ---
 #### [GitHub - DalRaeSolutions/dalrae.cap.reuse: Shell for the reuse repos and the talking points](https://github.com/DalRaeSolutions/dalrae.cap.reuse)
 _<sup>https://github.com/DalRaeSolutions/dalrae.cap.reuse</sup>_

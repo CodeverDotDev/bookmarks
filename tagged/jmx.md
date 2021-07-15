@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[jmx]](https://www.codever.land/search?q=[jmx])
 
-_<sup><sup>[www.codever.land/bookmarks/t/jmx](www.codever.land/bookmarks/t/jmx)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/jmx](https://www.codever.land/bookmarks/t/jmx)</sup></sup>_
 ---
 #### [prometheus/jmx_exporter home page](https://github.com/prometheus/jmx_exporter)
 _<sup>https://github.com/prometheus/jmx_exporter</sup>_

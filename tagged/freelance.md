@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[freelance]](https://www.codever.land/search?q=[freelance])
 
-_<sup><sup>[www.codever.land/bookmarks/t/freelance](www.codever.land/bookmarks/t/freelance)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/freelance](https://www.codever.land/bookmarks/t/freelance)</sup></sup>_
 ---
 #### [How I Made Over $150k on Upwork - The Ascent](https://medium.com/the-ascent/how-i-made-over-150k-on-upwork-d3dc4a9a4b68)
 _<sup>https://medium.com/the-ascent/how-i-made-over-150k-on-upwork-d3dc4a9a4b68</sup>_

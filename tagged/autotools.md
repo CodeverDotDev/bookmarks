@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[autotools]](https://www.codever.land/search?q=[autotools])
 
-_<sup><sup>[www.codever.land/bookmarks/t/autotools](www.codever.land/bookmarks/t/autotools)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/autotools](https://www.codever.land/bookmarks/t/autotools)</sup></sup>_
 ---
 #### [GNU Autoconf, Automake and Libtool](http://sourceware.org/autobook/)
 _<sup>http://sourceware.org/autobook/</sup>_

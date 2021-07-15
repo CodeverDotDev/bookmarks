@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[code-formatting]](https://www.codever.land/search?q=[code-formatting])
 
-_<sup><sup>[www.codever.land/bookmarks/t/code-formatting](www.codever.land/bookmarks/t/code-formatting)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/code-formatting](https://www.codever.land/bookmarks/t/code-formatting)</sup></sup>_
 ---
 #### [black](https://github.com/ambv/black)
 _<sup>https://github.com/ambv/black</sup>_

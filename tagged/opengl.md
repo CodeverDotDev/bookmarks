@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[opengl]](https://www.codever.land/search?q=[opengl])
 
-_<sup><sup>[www.codever.land/bookmarks/t/opengl](www.codever.land/bookmarks/t/opengl)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/opengl](https://www.codever.land/bookmarks/t/opengl)</sup></sup>_
 ---
 #### [gl](https://github.com/go-gl/gl)
 _<sup>https://github.com/go-gl/gl</sup>_

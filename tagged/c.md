@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[c]](https://www.codever.land/search?q=[c])
 
-_<sup><sup>[www.codever.land/bookmarks/t/c](www.codever.land/bookmarks/t/c)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/c](https://www.codever.land/bookmarks/t/c)</sup></sup>_
 ---
 #### [C Is Not a Low-level Language - ACM Queue](https://queue.acm.org/detail.cfm?id=3212479)
 _<sup>https://queue.acm.org/detail.cfm?id=3212479</sup>_

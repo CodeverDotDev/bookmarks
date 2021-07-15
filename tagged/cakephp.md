@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[cakephp]](https://www.codever.land/search?q=[cakephp])
 
-_<sup><sup>[www.codever.land/bookmarks/t/cakephp](www.codever.land/bookmarks/t/cakephp)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/cakephp](https://www.codever.land/bookmarks/t/cakephp)</sup></sup>_
 ---
 #### [awesome-cakephp](https://github.com/friendsofcake/awesome-cakephp#readme)
 _<sup>https://github.com/friendsofcake/awesome-cakephp#readme</sup>_

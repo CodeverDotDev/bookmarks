@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[contract-testing]](https://www.codever.land/search?q=[contract-testing])
 
-_<sup><sup>[www.codever.land/bookmarks/t/contract-testing](www.codever.land/bookmarks/t/contract-testing)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/contract-testing](https://www.codever.land/bookmarks/t/contract-testing)</sup></sup>_
 ---
 #### [How Pact works](https://pactflow.io/how-pact-works/#slide-1)
 _<sup>https://pactflow.io/how-pact-works/#slide-1</sup>_

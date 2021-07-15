@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[typechecking]](https://www.codever.land/search?q=[typechecking])
 
-_<sup><sup>[www.codever.land/bookmarks/t/typechecking](www.codever.land/bookmarks/t/typechecking)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/typechecking](https://www.codever.land/bookmarks/t/typechecking)</sup></sup>_
 ---
 #### [Flow - A Static Type Checker for JavaScript](https://flow.org/)
 _<sup>https://flow.org/</sup>_

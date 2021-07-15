@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[devops-tools]](https://www.codever.land/search?q=[devops-tools])
 
-_<sup><sup>[www.codever.land/bookmarks/t/devops-tools](www.codever.land/bookmarks/t/devops-tools)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/devops-tools](https://www.codever.land/bookmarks/t/devops-tools)</sup></sup>_
 ---
 #### [GitHub - Atomicorp/ossec-docker: Official OSSEC docker container](https://github.com/Atomicorp/ossec-docker)
 _<sup>https://github.com/Atomicorp/ossec-docker</sup>_

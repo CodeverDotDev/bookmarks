@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[screen-resolution]](https://www.codever.land/search?q=[screen-resolution])
 
-_<sup><sup>[www.codever.land/bookmarks/t/screen-resolution](www.codever.land/bookmarks/t/screen-resolution)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/screen-resolution](https://www.codever.land/bookmarks/t/screen-resolution)</sup></sup>_
 ---
 #### [
 	What is my Screen Resolution: Find Screen resolution of any device

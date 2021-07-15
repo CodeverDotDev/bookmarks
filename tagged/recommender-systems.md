@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[recommender-systems]](https://www.codever.land/search?q=[recommender-systems])
 
-_<sup><sup>[www.codever.land/bookmarks/t/recommender-systems](www.codever.land/bookmarks/t/recommender-systems)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/recommender-systems](https://www.codever.land/bookmarks/t/recommender-systems)</sup></sup>_
 ---
 #### [annoy](https://github.com/spotify/annoy)
 _<sup>https://github.com/spotify/annoy</sup>_

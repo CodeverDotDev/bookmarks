@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[syslog]](https://www.codever.land/search?q=[syslog])
 
-_<sup><sup>[www.codever.land/bookmarks/t/syslog](www.codever.land/bookmarks/t/syslog)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/syslog](https://www.codever.land/bookmarks/t/syslog)</sup></sup>_
 ---
 #### [The Syslog Protocol](https://tools.ietf.org/html/rfc5424)
 _<sup>https://tools.ietf.org/html/rfc5424</sup>_

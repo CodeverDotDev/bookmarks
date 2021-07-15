@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[education]](https://www.codever.land/search?q=[education])
 
-_<sup><sup>[www.codever.land/bookmarks/t/education](www.codever.land/bookmarks/t/education)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/education](https://www.codever.land/bookmarks/t/education)</sup></sup>_
 ---
 #### [GitHub - jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)
 _<sup>https://github.com/jwasham/coding-interview-university</sup>_

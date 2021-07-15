@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[sqlite]](https://www.codever.land/search?q=[sqlite])
 
-_<sup><sup>[www.codever.land/bookmarks/t/sqlite](www.codever.land/bookmarks/t/sqlite)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/sqlite](https://www.codever.land/bookmarks/t/sqlite)</sup></sup>_
 ---
 #### [jgallagher/rusqlite](https://github.com/jgallagher/rusqlite)
 _<sup>https://github.com/jgallagher/rusqlite</sup>_

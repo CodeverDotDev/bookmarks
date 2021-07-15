@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[lift]](https://www.codever.land/search?q=[lift])
 
-_<sup><sup>[www.codever.land/bookmarks/t/lift](www.codever.land/bookmarks/t/lift)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/lift](https://www.codever.land/bookmarks/t/lift)</sup></sup>_
 ---
 #### [Simply Lift](http://simply.liftweb.net/Simply_Lift.pdf)
 _<sup>http://simply.liftweb.net/Simply_Lift.pdf</sup>_

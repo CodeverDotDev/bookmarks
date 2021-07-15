@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[svg]](https://www.codever.land/search?q=[svg])
 
-_<sup><sup>[www.codever.land/bookmarks/t/svg](www.codever.land/bookmarks/t/svg)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/svg](https://www.codever.land/bookmarks/t/svg)</sup></sup>_
 ---
 #### [Free Lottie Animation Files, Tools & Plugins - LottieFiles](https://lottiefiles.com/)
 _<sup>https://lottiefiles.com/</sup>_

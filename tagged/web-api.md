@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[web-api]](https://www.codever.land/search?q=[web-api])
 
-_<sup><sup>[www.codever.land/bookmarks/t/web-api](www.codever.land/bookmarks/t/web-api)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/web-api](https://www.codever.land/bookmarks/t/web-api)</sup></sup>_
 ---
 #### [In depth: Microtasks and the JavaScript runtime environment](https://developer.mozilla.org/en-US/docs/Web/API/HTML_DOM_API/Microtask_guide/In_depth)
 _<sup>https://developer.mozilla.org/en-US/docs/Web/API/HTML_DOM_API/Microtask_guide/In_depth</sup>_

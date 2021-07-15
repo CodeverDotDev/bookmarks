@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[saltstack]](https://www.codever.land/search?q=[saltstack])
 
-_<sup><sup>[www.codever.land/bookmarks/t/saltstack](www.codever.land/bookmarks/t/saltstack)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/saltstack](https://www.codever.land/bookmarks/t/saltstack)</sup></sup>_
 ---
 #### [awesome-saltstack](https://github.com/hbokh/awesome-saltstack#readme)
 _<sup>https://github.com/hbokh/awesome-saltstack#readme</sup>_

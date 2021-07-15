@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[f-sharp]](https://www.codever.land/search?q=[f-sharp])
 
-_<sup><sup>[www.codever.land/bookmarks/t/f-sharp](www.codever.land/bookmarks/t/f-sharp)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/f-sharp](https://www.codever.land/bookmarks/t/f-sharp)</sup></sup>_
 ---
 #### [Real World Functional Programming](https://msdn.microsoft.com/en-us/library/hh314518.aspx)
 _<sup>https://msdn.microsoft.com/en-us/library/hh314518.aspx</sup>_

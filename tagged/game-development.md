@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[game-development]](https://www.codever.land/search?q=[game-development])
 
-_<sup><sup>[www.codever.land/bookmarks/t/game-development](www.codever.land/bookmarks/t/game-development)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/game-development](https://www.codever.land/bookmarks/t/game-development)</sup></sup>_
 ---
 #### [SiegeLord/RustAllegro](https://github.com/SiegeLord/RustAllegro)
 _<sup>https://github.com/SiegeLord/RustAllegro</sup>_

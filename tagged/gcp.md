@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[gcp]](https://www.codever.land/search?q=[gcp])
 
-_<sup><sup>[www.codever.land/bookmarks/t/gcp](www.codever.land/bookmarks/t/gcp)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/gcp](https://www.codever.land/bookmarks/t/gcp)</sup></sup>_
 ---
 #### [GCP metrics  |  Stackdriver Monitoring   |  Google Cloud](https://cloud.google.com/monitoring/api/metrics_gcp)
 _<sup>https://cloud.google.com/monitoring/api/metrics_gcp</sup>_

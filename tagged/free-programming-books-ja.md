@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[free-programming-books-ja]](https://www.codever.land/search?q=[free-programming-books-ja])
 
-_<sup><sup>[www.codever.land/bookmarks/t/free-programming-books-ja](www.codever.land/bookmarks/t/free-programming-books-ja)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/free-programming-books-ja](https://www.codever.land/bookmarks/t/free-programming-books-ja)</sup></sup>_
 ---
 #### [Vim スクリプト書法](http://vim-jp.org/vimdoc-ja/usr_41.html)
 _<sup>http://vim-jp.org/vimdoc-ja/usr_41.html</sup>_

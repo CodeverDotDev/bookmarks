@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[stackdriver]](https://www.codever.land/search?q=[stackdriver])
 
-_<sup><sup>[www.codever.land/bookmarks/t/stackdriver](www.codever.land/bookmarks/t/stackdriver)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/stackdriver](https://www.codever.land/bookmarks/t/stackdriver)</sup></sup>_
 ---
 #### [Using Prometheus  |  Stackdriver Monitoring  |  Google Cloud](https://cloud.google.com/monitoring/kubernetes-engine/prometheus)
 _<sup>https://cloud.google.com/monitoring/kubernetes-engine/prometheus</sup>_

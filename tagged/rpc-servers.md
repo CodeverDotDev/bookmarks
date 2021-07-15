@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[rpc-servers]](https://www.codever.land/search?q=[rpc-servers])
 
-_<sup><sup>[www.codever.land/bookmarks/t/rpc-servers](www.codever.land/bookmarks/t/rpc-servers)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/rpc-servers](https://www.codever.land/bookmarks/t/rpc-servers)</sup></sup>_
 ---
 #### [SimpleJSONRPCServer](https://github.com/joshmarshall/jsonrpclib/)
 _<sup>https://github.com/joshmarshall/jsonrpclib/</sup>_

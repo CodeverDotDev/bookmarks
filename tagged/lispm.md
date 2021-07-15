@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[lispm]](https://www.codever.land/search?q=[lispm])
 
-_<sup><sup>[www.codever.land/bookmarks/t/lispm](www.codever.land/bookmarks/t/lispm)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/lispm](https://www.codever.land/bookmarks/t/lispm)</sup></sup>_
 ---
 #### [jwz: MOST-POSITIVE-BIGNUM](https://www.jwz.org/blog/2008/03/most-positive-bignum/)
 _<sup>https://www.jwz.org/blog/2008/03/most-positive-bignum/</sup>_

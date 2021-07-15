@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[cmd]](https://www.codever.land/search?q=[cmd])
 
-_<sup><sup>[www.codever.land/bookmarks/t/cmd](www.codever.land/bookmarks/t/cmd)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/cmd](https://www.codever.land/bookmarks/t/cmd)</sup></sup>_
 ---
 #### [Use Windows PowerShell to search for files](https://devblogs.microsoft.com/scripting/use-windows-powershell-to-search-for-files/)
 _<sup>https://devblogs.microsoft.com/scripting/use-windows-powershell-to-search-for-files/</sup>_

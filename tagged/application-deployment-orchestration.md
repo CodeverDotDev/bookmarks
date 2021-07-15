@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[application-deployment-orchestration]](https://www.codever.land/search?q=[application-deployment-orchestration])
 
-_<sup><sup>[www.codever.land/bookmarks/t/application-deployment-orchestration](www.codever.land/bookmarks/t/application-deployment-orchestration)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/application-deployment-orchestration](https://www.codever.land/bookmarks/t/application-deployment-orchestration)</sup></sup>_
 ---
 #### [AppController](https://github.com/Mirantis/k8s-AppController)
 _<sup>https://github.com/Mirantis/k8s-AppController</sup>_

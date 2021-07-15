@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[latency]](https://www.codever.land/search?q=[latency])
 
-_<sup><sup>[www.codever.land/bookmarks/t/latency](www.codever.land/bookmarks/t/latency)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/latency](https://www.codever.land/bookmarks/t/latency)</sup></sup>_
 ---
 #### [GitHub - Netflix/Hystrix](https://github.com/Netflix/Hystrix)
 _<sup>https://github.com/Netflix/Hystrix</sup>_

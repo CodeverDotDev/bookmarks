@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[apache-kafka]](https://www.codever.land/search?q=[apache-kafka])
 
-_<sup><sup>[www.codever.land/bookmarks/t/apache-kafka](www.codever.land/bookmarks/t/apache-kafka)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/apache-kafka](https://www.codever.land/bookmarks/t/apache-kafka)</sup></sup>_
 ---
 #### [kafka-python](https://github.com/dpkp/kafka-python)
 _<sup>https://github.com/dpkp/kafka-python</sup>_

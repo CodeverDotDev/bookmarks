@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[bean-mapping]](https://www.codever.land/search?q=[bean-mapping])
 
-_<sup><sup>[www.codever.land/bookmarks/t/bean-mapping](www.codever.land/bookmarks/t/bean-mapping)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/bean-mapping](https://www.codever.land/bookmarks/t/bean-mapping)</sup></sup>_
 ---
 #### [dOOv](https://github.com/doov-io/doov)
 _<sup>https://github.com/doov-io/doov</sup>_

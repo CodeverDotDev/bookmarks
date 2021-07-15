@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[web-frameworks]](https://www.codever.land/search?q=[web-frameworks])
 
-_<sup><sup>[www.codever.land/bookmarks/t/web-frameworks](www.codever.land/bookmarks/t/web-frameworks)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/web-frameworks](https://www.codever.land/bookmarks/t/web-frameworks)</sup></sup>_
 ---
 #### [aah](https://aahframework.org)
 _<sup>https://aahframework.org</sup>_

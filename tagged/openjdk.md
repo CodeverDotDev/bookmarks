@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[openjdk]](https://www.codever.land/search?q=[openjdk])
 
-_<sup><sup>[www.codever.land/bookmarks/t/openjdk](www.codever.land/bookmarks/t/openjdk)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/openjdk](https://www.codever.land/bookmarks/t/openjdk)</sup></sup>_
 ---
 #### [OpenJDK and Containers - Red Hat Developer Blog](https://developers.redhat.com/blog/2017/04/04/openjdk-and-containers/)
 _<sup>https://developers.redhat.com/blog/2017/04/04/openjdk-and-containers/</sup>_

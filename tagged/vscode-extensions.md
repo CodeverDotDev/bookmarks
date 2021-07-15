@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[vscode-extensions]](https://www.codever.land/search?q=[vscode-extensions])
 
-_<sup><sup>[www.codever.land/bookmarks/t/vscode-extensions](www.codever.land/bookmarks/t/vscode-extensions)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/vscode-extensions](https://www.codever.land/bookmarks/t/vscode-extensions)</sup></sup>_
 ---
 #### [Extension Guidelines | Visual Studio Code Extension API](https://code.visualstudio.com/api/references/extension-guidelines)
 _<sup>https://code.visualstudio.com/api/references/extension-guidelines</sup>_

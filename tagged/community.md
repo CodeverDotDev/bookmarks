@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[community]](https://www.codever.land/search?q=[community])
 
-_<sup><sup>[www.codever.land/bookmarks/t/community](www.codever.land/bookmarks/t/community)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/community](https://www.codever.land/bookmarks/t/community)</sup></sup>_
 ---
 #### [SAP Developer Advocates Home](https://developers.sap.com/developer-advocates.html)
 _<sup>https://developers.sap.com/developer-advocates.html</sup>_

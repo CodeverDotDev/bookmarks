@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[peripherals]](https://www.codever.land/search?q=[peripherals])
 
-_<sup><sup>[www.codever.land/bookmarks/t/peripherals](www.codever.land/bookmarks/t/peripherals)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/peripherals](https://www.codever.land/bookmarks/t/peripherals)</sup></sup>_
 ---
 #### [Susurrus/serialport-rs](https://github.com/Susurrus/serialport-rs)
 _<sup>https://github.com/Susurrus/serialport-rs</sup>_

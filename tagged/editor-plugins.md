@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[editor-plugins]](https://www.codever.land/search?q=[editor-plugins])
 
-_<sup><sup>[www.codever.land/bookmarks/t/editor-plugins](www.codever.land/bookmarks/t/editor-plugins)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/editor-plugins](https://www.codever.land/bookmarks/t/editor-plugins)</sup></sup>_
 ---
 #### [Go plugin for JetBrains IDEs](https://plugins.jetbrains.com/plugin/9568-go)
 _<sup>https://plugins.jetbrains.com/plugin/9568-go</sup>_

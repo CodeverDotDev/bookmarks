@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[docker-compose]](https://www.codever.land/search?q=[docker-compose])
 
-_<sup><sup>[www.codever.land/bookmarks/t/docker-compose](www.codever.land/bookmarks/t/docker-compose)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/docker-compose](https://www.codever.land/bookmarks/t/docker-compose)</sup></sup>_
 ---
 #### [Setting Up Authelia With SWAG](https://blog.linuxserver.io/2020/08/26/setting-up-authelia/)
 _<sup>https://blog.linuxserver.io/2020/08/26/setting-up-authelia/</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[zx-spectrum]](https://www.codever.land/search?q=[zx-spectrum])
 
-_<sup><sup>[www.codever.land/bookmarks/t/zx-spectrum](www.codever.land/bookmarks/t/zx-spectrum)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/zx-spectrum](https://www.codever.land/bookmarks/t/zx-spectrum)</sup></sup>_
 ---
 #### [pacmancoder/rustzx](https://github.com/pacmancoder/rustzx)
 _<sup>https://github.com/pacmancoder/rustzx</sup>_

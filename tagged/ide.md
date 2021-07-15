@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[ide]](https://www.codever.land/search?q=[ide])
 
-_<sup><sup>[www.codever.land/bookmarks/t/ide](www.codever.land/bookmarks/t/ide)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/ide](https://www.codever.land/bookmarks/t/ide)</sup></sup>_
 ---
 #### [Codiva.io - Compile and Run Java Online](https://www.codiva.io/)
 _<sup>https://www.codiva.io/</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[web-content-extracting]](https://www.codever.land/search?q=[web-content-extracting])
 
-_<sup><sup>[www.codever.land/bookmarks/t/web-content-extracting](www.codever.land/bookmarks/t/web-content-extracting)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/web-content-extracting](https://www.codever.land/bookmarks/t/web-content-extracting)</sup></sup>_
 ---
 #### [html2text](https://github.com/Alir3z4/html2text)
 _<sup>https://github.com/Alir3z4/html2text</sup>_

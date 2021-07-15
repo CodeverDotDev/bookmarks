@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[admin-interface]](https://www.codever.land/search?q=[admin-interface])
 
-_<sup><sup>[www.codever.land/bookmarks/t/admin-interface](www.codever.land/bookmarks/t/admin-interface)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/admin-interface](https://www.codever.land/bookmarks/t/admin-interface)</sup></sup>_
 ---
 #### [ActiveAdmin](http://activeadmin.info)
 _<sup>http://activeadmin.info</sup>_

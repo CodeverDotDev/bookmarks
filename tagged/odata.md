@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[odata]](https://www.codever.land/search?q=[odata])
 
-_<sup><sup>[www.codever.land/bookmarks/t/odata](www.codever.land/bookmarks/t/odata)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/odata](https://www.codever.land/bookmarks/t/odata)</sup></sup>_
 ---
 #### [GitHub - SAP/odata-vocabularies: SAP Vocabularies for semantic markup of structured data published via OData (www.odata.org) services.](https://github.com/SAP/odata-vocabularies)
 _<sup>https://github.com/SAP/odata-vocabularies</sup>_

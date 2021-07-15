@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[ui5]](https://www.codever.land/search?q=[ui5])
 
-_<sup><sup>[www.codever.land/bookmarks/t/ui5](www.codever.land/bookmarks/t/ui5)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/ui5](https://www.codever.land/bookmarks/t/ui5)</sup></sup>_
 ---
 #### [Releases — OpenUI5](https://openui5.org/releases/)
 _<sup>https://openui5.org/releases/</sup>_

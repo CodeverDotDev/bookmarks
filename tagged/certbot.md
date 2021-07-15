@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[certbot]](https://www.codever.land/search?q=[certbot])
 
-_<sup><sup>[www.codever.land/bookmarks/t/certbot](www.codever.land/bookmarks/t/certbot)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/certbot](https://www.codever.land/bookmarks/t/certbot)</sup></sup>_
 ---
 #### [Welcome to the Certbot documentation! ](https://certbot.eff.org/docs/)
 _<sup>https://certbot.eff.org/docs/</sup>_

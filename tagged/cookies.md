@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[cookies]](https://www.codever.land/search?q=[cookies])
 
-_<sup><sup>[www.codever.land/bookmarks/t/cookies](www.codever.land/bookmarks/t/cookies)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/cookies](https://www.codever.land/bookmarks/t/cookies)</sup></sup>_
 ---
 #### [RFC 2965 - HTTP State Management Mechanism](https://tools.ietf.org/html/rfc2965)
 _<sup>https://tools.ietf.org/html/rfc2965</sup>_

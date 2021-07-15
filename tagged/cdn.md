@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[cdn]](https://www.codever.land/search?q=[cdn])
 
-_<sup><sup>[www.codever.land/bookmarks/t/cdn](www.codever.land/bookmarks/t/cdn)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/cdn](https://www.codever.land/bookmarks/t/cdn)</sup></sup>_
 ---
 #### [JSPM - ES Module Package Manager and CDN - jspm.org](https://jspm.org/)
 _<sup>https://jspm.org/</sup>_

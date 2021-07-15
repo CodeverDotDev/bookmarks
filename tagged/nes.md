@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[nes]](https://www.codever.land/search?q=[nes])
 
-_<sup><sup>[www.codever.land/bookmarks/t/nes](www.codever.land/bookmarks/t/nes)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/nes](https://www.codever.land/bookmarks/t/nes)</sup></sup>_
 ---
 #### [iamsix/oxidenes](https://github.com/iamsix/oxidenes)
 _<sup>https://github.com/iamsix/oxidenes</sup>_

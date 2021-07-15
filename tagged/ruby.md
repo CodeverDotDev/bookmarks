@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[ruby]](https://www.codever.land/search?q=[ruby])
 
-_<sup><sup>[www.codever.land/bookmarks/t/ruby](www.codever.land/bookmarks/t/ruby)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/ruby](https://www.codever.land/bookmarks/t/ruby)</sup></sup>_
 ---
 #### [🌈 Newsletter Wor #13: L'open-source: engagez-vous, rengagez-vous qu'ils disaient - Newsletter Women On Rails](https://womenonrails.substack.com/p/-newsletter-wor-13-lopen-source-engagez)
 _<sup>https://womenonrails.substack.com/p/-newsletter-wor-13-lopen-source-engagez</sup>_

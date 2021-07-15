@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[parallel-processing]](https://www.codever.land/search?q=[parallel-processing])
 
-_<sup><sup>[www.codever.land/bookmarks/t/parallel-processing](www.codever.land/bookmarks/t/parallel-processing)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/parallel-processing](https://www.codever.land/bookmarks/t/parallel-processing)</sup></sup>_
 ---
 #### [Angular Multiple HTTP Requests with RxJS - Angular 7 | 8](https://coryrylan.com/blog/angular-multiple-http-requests-with-rxjs)
 _<sup>https://coryrylan.com/blog/angular-multiple-http-requests-with-rxjs</sup>_

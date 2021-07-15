@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[ecmascript]](https://www.codever.land/search?q=[ecmascript])
 
-_<sup><sup>[www.codever.land/bookmarks/t/ecmascript](www.codever.land/bookmarks/t/ecmascript)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/ecmascript](https://www.codever.land/bookmarks/t/ecmascript)</sup></sup>_
 ---
 #### [ECMAScript® 2022 Language Specification](https://tc39.es/ecma262/)
 _<sup>https://tc39.es/ecma262/</sup>_

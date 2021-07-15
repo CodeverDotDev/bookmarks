@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[apollo-client]](https://www.codever.land/search?q=[apollo-client])
 
-_<sup><sup>[www.codever.land/bookmarks/t/apollo-client](www.codever.land/bookmarks/t/apollo-client)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/apollo-client](https://www.codever.land/bookmarks/t/apollo-client)</sup></sup>_
 ---
 #### [GraphQL: The Mental Model — Dhaivat Pandya - 21min](https://www.youtube.com/watch?v=zWhVAN4Tg6M)
 _<sup>https://www.youtube.com/watch?v=zWhVAN4Tg6M</sup>_

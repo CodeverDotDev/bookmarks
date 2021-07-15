@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[lighttpd]](https://www.codever.land/search?q=[lighttpd])
 
-_<sup><sup>[www.codever.land/bookmarks/t/lighttpd](www.codever.land/bookmarks/t/lighttpd)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/lighttpd](https://www.codever.land/bookmarks/t/lighttpd)</sup></sup>_
 ---
 #### [Cipherli.st - Strong Ciphers for Apache, nginx and Lighttpd](https://cipherli.st/)
 _<sup>https://cipherli.st/</sup>_

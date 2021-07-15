@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[django]](https://www.codever.land/search?q=[django])
 
-_<sup><sup>[www.codever.land/bookmarks/t/django](www.codever.land/bookmarks/t/django)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/django](https://www.codever.land/bookmarks/t/django)</sup></sup>_
 ---
 #### [Fingerprint-based authentication and Authorization in Python(Django) web applications - DEV Community 👩‍💻👨‍💻](https://dev.to/sirneij/fingerprint-based-authentication-and-authorization-in-python-django-web-applications-2c6l)
 _<sup>https://dev.to/sirneij/fingerprint-based-authentication-and-authorization-in-python-django-web-appli...</sup>_

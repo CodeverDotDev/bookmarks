@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[kivy]](https://www.codever.land/search?q=[kivy])
 
-_<sup><sup>[www.codever.land/bookmarks/t/kivy](www.codever.land/bookmarks/t/kivy)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/kivy](https://www.codever.land/bookmarks/t/kivy)</sup></sup>_
 ---
 #### [Kivy Programming Guide](https://kivy.org/docs/guide-index.html)
 _<sup>https://kivy.org/docs/guide-index.html</sup>_

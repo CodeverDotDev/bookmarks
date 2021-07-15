@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[dev.to]](https://www.codever.land/search?q=[dev.to])
 
-_<sup><sup>[www.codever.land/bookmarks/t/dev.to](www.codever.land/bookmarks/t/dev.to)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/dev.to](https://www.codever.land/bookmarks/t/dev.to)</sup></sup>_
 ---
 #### [Git staging with Tig - DEV](https://dev.to/samuelabreu/git-staging-with-tig-b9h)
 _<sup>https://dev.to/samuelabreu/git-staging-with-tig-b9h</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[readme]](https://www.codever.land/search?q=[readme])
 
-_<sup><sup>[www.codever.land/bookmarks/t/readme](www.codever.land/bookmarks/t/readme)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/readme](https://www.codever.land/bookmarks/t/readme)</sup></sup>_
 ---
 #### [General overview of GraphQL in graphql-spec/README.md](https://github.com/graphql/graphql-spec/blob/master/README.md)
 _<sup>https://github.com/graphql/graphql-spec/blob/master/README.md</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[ryan-dahl]](https://www.codever.land/search?q=[ryan-dahl])
 
-_<sup><sup>[www.codever.land/bookmarks/t/ryan-dahl](www.codever.land/bookmarks/t/ryan-dahl)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/ryan-dahl](https://www.codever.land/bookmarks/t/ryan-dahl)</sup></sup>_
 ---
 #### [10 Things I Regret About Node.js - Ryan Dahl - JSConf EU](https://youtu.be/428ejtNbd5A)
 _<sup>https://youtu.be/428ejtNbd5A</sup>_

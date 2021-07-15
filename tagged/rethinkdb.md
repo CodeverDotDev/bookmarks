@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[rethinkdb]](https://www.codever.land/search?q=[rethinkdb])
 
-_<sup><sup>[www.codever.land/bookmarks/t/rethinkdb](www.codever.land/bookmarks/t/rethinkdb)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/rethinkdb](https://www.codever.land/bookmarks/t/rethinkdb)</sup></sup>_
 ---
 #### [awesome-rethinkdb](https://github.com/d3viant0ne/awesome-rethinkdb#readme)
 _<sup>https://github.com/d3viant0ne/awesome-rethinkdb#readme</sup>_

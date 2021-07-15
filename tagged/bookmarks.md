@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[bookmarks]](https://www.codever.land/search?q=[bookmarks])
 
-_<sup><sup>[www.codever.land/bookmarks/t/bookmarks](www.codever.land/bookmarks/t/bookmarks)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/bookmarks](https://www.codever.land/bookmarks/t/bookmarks)</sup></sup>_
 ---
 #### [bahamas10/node-netscape-bookmarks](https://github.com/bahamas10/node-netscape-bookmarks)
 _<sup>https://github.com/bahamas10/node-netscape-bookmarks</sup>_

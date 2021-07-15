@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[bash]](https://www.codever.land/search?q=[bash])
 
-_<sup><sup>[www.codever.land/bookmarks/t/bash](www.codever.land/bookmarks/t/bash)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/bash](https://www.codever.land/bookmarks/t/bash)</sup></sup>_
 ---
 #### [How to find out line-endings in a text file?](https://stackoverflow.com/questions/3569997/how-to-find-out-line-endings-in-a-text-file)
 _<sup>https://stackoverflow.com/questions/3569997/how-to-find-out-line-endings-in-a-text-file</sup>_

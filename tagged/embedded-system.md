@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[embedded-system]](https://www.codever.land/search?q=[embedded-system])
 
-_<sup><sup>[www.codever.land/bookmarks/t/embedded-system](www.codever.land/bookmarks/t/embedded-system)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/embedded-system](https://www.codever.land/bookmarks/t/embedded-system)</sup></sup>_
 ---
 #### [組込みソフトウェア開発向け コーディング作法ガイド［C++言語版］](http://www.ipa.go.jp/files/000005142.pdf)
 _<sup>http://www.ipa.go.jp/files/000005142.pdf</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[compiler-design]](https://www.codever.land/search?q=[compiler-design])
 
-_<sup><sup>[www.codever.land/bookmarks/t/compiler-design](www.codever.land/bookmarks/t/compiler-design)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/compiler-design](https://www.codever.land/bookmarks/t/compiler-design)</sup></sup>_
 ---
 #### [Practical and Theoretical Aspects of Compiler Construction](http://web.stanford.edu/class/archive/cs/cs143/cs143.1128/)
 _<sup>http://web.stanford.edu/class/archive/cs/cs143/cs143.1128/</sup>_

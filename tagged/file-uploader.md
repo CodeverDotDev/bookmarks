@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[file-uploader]](https://www.codever.land/search?q=[file-uploader])
 
-_<sup><sup>[www.codever.land/bookmarks/t/file-uploader](www.codever.land/bookmarks/t/file-uploader)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/file-uploader](https://www.codever.land/bookmarks/t/file-uploader)</sup></sup>_
 ---
 #### [Uppy](https://uppy.io/)
 _<sup>https://uppy.io/</sup>_

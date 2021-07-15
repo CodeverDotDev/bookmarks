@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[programmer]](https://www.codever.land/search?q=[programmer])
 
-_<sup><sup>[www.codever.land/bookmarks/t/programmer](www.codever.land/bookmarks/t/programmer)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/programmer](https://www.codever.land/bookmarks/t/programmer)</sup></sup>_
 ---
 #### [Fabrice Bellard's Home Page](https://bellard.org/)
 _<sup>https://bellard.org/</sup>_

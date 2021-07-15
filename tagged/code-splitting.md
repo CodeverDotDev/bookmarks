@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[code-splitting]](https://www.codever.land/search?q=[code-splitting])
 
-_<sup><sup>[www.codever.land/bookmarks/t/code-splitting](www.codever.land/bookmarks/t/code-splitting)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/code-splitting](https://www.codever.land/bookmarks/t/code-splitting)</sup></sup>_
 ---
 #### [Route preloading strategies in Angular](https://web.dev/route-preloading-in-angular/)
 _<sup>https://web.dev/route-preloading-in-angular/</sup>_

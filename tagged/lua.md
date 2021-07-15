@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[lua]](https://www.codever.land/search?q=[lua])
 
-_<sup><sup>[www.codever.land/bookmarks/t/lua](www.codever.land/bookmarks/t/lua)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/lua](https://www.codever.land/bookmarks/t/lua)</sup></sup>_
 ---
 #### [jcmoyer/rust-lua53](https://github.com/jcmoyer/rust-lua53)
 _<sup>https://github.com/jcmoyer/rust-lua53</sup>_

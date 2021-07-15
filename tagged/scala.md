@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[scala]](https://www.codever.land/search?q=[scala])
 
-_<sup><sup>[www.codever.land/bookmarks/t/scala](www.codever.land/bookmarks/t/scala)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/scala](https://www.codever.land/bookmarks/t/scala)</sup></sup>_
 ---
 #### [sangria](https://github.com/sangria-graphql/sangria)
 _<sup>https://github.com/sangria-graphql/sangria</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[math]](https://www.codever.land/search?q=[math])
 
-_<sup><sup>[www.codever.land/bookmarks/t/math](www.codever.land/bookmarks/t/math)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/math](https://www.codever.land/bookmarks/t/math)</sup></sup>_
 ---
 #### [Apophenia](https://github.com/b-k/apophenia)
 _<sup>https://github.com/b-k/apophenia</sup>_

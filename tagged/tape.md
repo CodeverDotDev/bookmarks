@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[tape]](https://www.codever.land/search?q=[tape])
 
-_<sup><sup>[www.codever.land/bookmarks/t/tape](www.codever.land/bookmarks/t/tape)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/tape](https://www.codever.land/bookmarks/t/tape)</sup></sup>_
 ---
 #### [GitHub - substack/tape: tap-producing test harness for node and browsers](https://github.com/substack/tape)
 _<sup>https://github.com/substack/tape</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[polymer]](https://www.codever.land/search?q=[polymer])
 
-_<sup><sup>[www.codever.land/bookmarks/t/polymer](www.codever.land/bookmarks/t/polymer)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/polymer](https://www.codever.land/bookmarks/t/polymer)</sup></sup>_
 ---
 #### [awesome-polymer](https://github.com/Granze/awesome-polymer#readme)
 _<sup>https://github.com/Granze/awesome-polymer#readme</sup>_

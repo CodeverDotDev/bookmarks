@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[event-bubbling]](https://www.codever.land/search?q=[event-bubbling])
 
-_<sup><sup>[www.codever.land/bookmarks/t/event-bubbling](www.codever.land/bookmarks/t/event-bubbling)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/event-bubbling](https://www.codever.land/bookmarks/t/event-bubbling)</sup></sup>_
 ---
 #### [Checking event target selectors with event bubbling in vanilla JavaScript](https://gomakethings.com/checking-event-target-selectors-with-event-bubbling-in-vanilla-javascript/)
 _<sup>https://gomakethings.com/checking-event-target-selectors-with-event-bubbling-in-vanilla-javascript/</sup>_

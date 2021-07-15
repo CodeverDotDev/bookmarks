@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[lottie]](https://www.codever.land/search?q=[lottie])
 
-_<sup><sup>[www.codever.land/bookmarks/t/lottie](www.codever.land/bookmarks/t/lottie)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/lottie](https://www.codever.land/bookmarks/t/lottie)</sup></sup>_
 ---
 #### [Free Lottie Animation Files, Tools & Plugins - LottieFiles](https://lottiefiles.com/)
 _<sup>https://lottiefiles.com/</sup>_

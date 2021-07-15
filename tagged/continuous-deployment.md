@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[continuous-deployment]](https://www.codever.land/search?q=[continuous-deployment])
 
-_<sup><sup>[www.codever.land/bookmarks/t/continuous-deployment](www.codever.land/bookmarks/t/continuous-deployment)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/continuous-deployment](https://www.codever.land/bookmarks/t/continuous-deployment)</sup></sup>_
 ---
 #### [The Death of Continuous Integration](https://www.infoq.com/presentations/death-continuous-integration/)
 _<sup>https://www.infoq.com/presentations/death-continuous-integration/</sup>_

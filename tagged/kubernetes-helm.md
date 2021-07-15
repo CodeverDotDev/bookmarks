@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[kubernetes-helm]](https://www.codever.land/search?q=[kubernetes-helm])
 
-_<sup><sup>[www.codever.land/bookmarks/t/kubernetes-helm](www.codever.land/bookmarks/t/kubernetes-helm)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/kubernetes-helm](https://www.codever.land/bookmarks/t/kubernetes-helm)</sup></sup>_
 ---
 #### [Deploy Your App with Template Free YAML - Ryan Cox, Lyft - YouTube](https://www.youtube.com/watch?v=ahMIBxufNR0)
 _<sup>https://www.youtube.com/watch?v=ahMIBxufNR0</sup>_

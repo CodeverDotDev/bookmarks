@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[jackson]](https://www.codever.land/search?q=[jackson])
 
-_<sup><sup>[www.codever.land/bookmarks/t/jackson](www.codever.land/bookmarks/t/jackson)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/jackson](https://www.codever.land/bookmarks/t/jackson)</sup></sup>_
 ---
 #### [How To Serialize Enums as JSON Objects with Jackson](https://www.baeldung.com/jackson-serialize-enums)
 _<sup>https://www.baeldung.com/jackson-serialize-enums</sup>_

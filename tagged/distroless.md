@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[distroless]](https://www.codever.land/search?q=[distroless])
 
-_<sup><sup>[www.codever.land/bookmarks/t/distroless](www.codever.land/bookmarks/t/distroless)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/distroless](https://www.codever.land/bookmarks/t/distroless)</sup></sup>_
 ---
 #### [GitHub - GoogleContainerTools/distroless home page](https://github.com/GoogleContainerTools/distroless)
 _<sup>https://github.com/GoogleContainerTools/distroless</sup>_

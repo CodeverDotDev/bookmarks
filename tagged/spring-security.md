@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[spring-security]](https://www.codever.land/search?q=[spring-security])
 
-_<sup><sup>[www.codever.land/bookmarks/t/spring-security](www.codever.land/bookmarks/t/spring-security)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/spring-security](https://www.codever.land/bookmarks/t/spring-security)</sup></sup>_
 ---
 #### [Spring REST + Spring Security Example – Mkyong.com](https://www.mkyong.com/spring-boot/spring-rest-spring-security-example/)
 _<sup>https://www.mkyong.com/spring-boot/spring-rest-spring-security-example/</sup>_

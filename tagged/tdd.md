@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[tdd]](https://www.codever.land/search?q=[tdd])
 
-_<sup><sup>[www.codever.land/bookmarks/t/tdd](www.codever.land/bookmarks/t/tdd)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/tdd](https://www.codever.land/bookmarks/t/tdd)</sup></sup>_
 ---
 #### [Justin Searls – Please don’t mock me - 51min](https://www.youtube.com/watch?v=Af4M8GMoxi4)
 _<sup>https://www.youtube.com/watch?v=Af4M8GMoxi4</sup>_

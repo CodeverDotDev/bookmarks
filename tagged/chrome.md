@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[chrome]](https://www.codever.land/search?q=[chrome])
 
-_<sup><sup>[www.codever.land/bookmarks/t/chrome](www.codever.land/bookmarks/t/chrome)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/chrome](https://www.codever.land/bookmarks/t/chrome)</sup></sup>_
 ---
 #### [V8 JavaScript engine](https://v8.dev/)
 _<sup>https://v8.dev/</sup>_

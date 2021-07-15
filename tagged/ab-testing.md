@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[ab-testing]](https://www.codever.land/search?q=[ab-testing])
 
-_<sup><sup>[www.codever.land/bookmarks/t/ab-testing](www.codever.land/bookmarks/t/ab-testing)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/ab-testing](https://www.codever.land/bookmarks/t/ab-testing)</sup></sup>_
 ---
 #### [Motorhead](https://github.com/amatsuda/motorhead)
 _<sup>https://github.com/amatsuda/motorhead</sup>_

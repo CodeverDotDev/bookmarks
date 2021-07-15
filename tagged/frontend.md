@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[frontend]](https://www.codever.land/search?q=[frontend])
 
-_<sup><sup>[www.codever.land/bookmarks/t/frontend](www.codever.land/bookmarks/t/frontend)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/frontend](https://www.codever.land/bookmarks/t/frontend)</sup></sup>_
 ---
 #### [iziToast home page](https://izitoast.marcelodolza.com/)
 _<sup>https://izitoast.marcelodolza.com/</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[mysql]](https://www.codever.land/search?q=[mysql])
 
-_<sup><sup>[www.codever.land/bookmarks/t/mysql](www.codever.land/bookmarks/t/mysql)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/mysql](https://www.codever.land/bookmarks/t/mysql)</sup></sup>_
 ---
 #### [TUTORIAL MYSQL DATABASE BAHASA INDONESIA - 6h:37min](https://www.youtube.com/watch?v=xYBclb-sYQ4)
 _<sup>https://www.youtube.com/watch?v=xYBclb-sYQ4</sup>_

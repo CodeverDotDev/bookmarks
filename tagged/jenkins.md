@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[jenkins]](https://www.codever.land/search?q=[jenkins])
 
-_<sup><sup>[www.codever.land/bookmarks/t/jenkins](www.codever.land/bookmarks/t/jenkins)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/jenkins](https://www.codever.land/bookmarks/t/jenkins)</sup></sup>_
 ---
 #### [Jenkins-Kubernetes Plugin](https://github.com/jenkinsci/kubernetes-plugin)
 _<sup>https://github.com/jenkinsci/kubernetes-plugin</sup>_

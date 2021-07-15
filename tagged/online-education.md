@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[online-education]](https://www.codever.land/search?q=[online-education])
 
-_<sup><sup>[www.codever.land/bookmarks/t/online-education](www.codever.land/bookmarks/t/online-education)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/online-education](https://www.codever.land/bookmarks/t/online-education)</sup></sup>_
 ---
 #### [计蒜客](http://www.jisuanke.com)
 _<sup>http://www.jisuanke.com</sup>_

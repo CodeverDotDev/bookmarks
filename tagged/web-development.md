@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[web-development]](https://www.codever.land/search?q=[web-development])
 
-_<sup><sup>[www.codever.land/bookmarks/t/web-development](www.codever.land/bookmarks/t/web-development)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/web-development](https://www.codever.land/bookmarks/t/web-development)</sup></sup>_
 ---
 #### [GreenSock](https://greensock.com/)
 _<sup>https://greensock.com/</sup>_

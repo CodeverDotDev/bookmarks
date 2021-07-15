@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[gmp]](https://www.codever.land/search?q=[gmp])
 
-_<sup><sup>[www.codever.land/bookmarks/t/gmp](www.codever.land/bookmarks/t/gmp)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/gmp](https://www.codever.land/bookmarks/t/gmp)</sup></sup>_
 ---
 #### [fizyk20/rust-gmp](https://github.com/fizyk20/rust-gmp)
 _<sup>https://github.com/fizyk20/rust-gmp</sup>_

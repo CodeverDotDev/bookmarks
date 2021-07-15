@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[templates]](https://www.codever.land/search?q=[templates])
 
-_<sup><sup>[www.codever.land/bookmarks/t/templates](www.codever.land/bookmarks/t/templates)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/templates](https://www.codever.land/bookmarks/t/templates)</sup></sup>_
 ---
 #### [CSS Templates](https://www.w3schools.com/css/css_templates.asp)
 _<sup>https://www.w3schools.com/css/css_templates.asp</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[semantic-release]](https://www.codever.land/search?q=[semantic-release])
 
-_<sup><sup>[www.codever.land/bookmarks/t/semantic-release](www.codever.land/bookmarks/t/semantic-release)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/semantic-release](https://www.codever.land/bookmarks/t/semantic-release)</sup></sup>_
 ---
 #### [Introduction - semantic-release](https://semantic-release.gitbook.io/semantic-release/)
 _<sup>https://semantic-release.gitbook.io/semantic-release/</sup>_

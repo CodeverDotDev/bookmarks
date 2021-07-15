@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[browser]](https://www.codever.land/search?q=[browser])
 
-_<sup><sup>[www.codever.land/bookmarks/t/browser](www.codever.land/bookmarks/t/browser)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/browser](https://www.codever.land/bookmarks/t/browser)</sup></sup>_
 ---
 #### [Client-side storage - Learn web development | MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Client-side_storage)
 _<sup>https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Client-side_storage</sup>_

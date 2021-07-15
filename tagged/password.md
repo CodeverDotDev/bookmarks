@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[password]](https://www.codever.land/search?q=[password])
 
-_<sup><sup>[www.codever.land/bookmarks/t/password](www.codever.land/bookmarks/t/password)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/password](https://www.codever.land/bookmarks/t/password)</sup></sup>_
 ---
 #### [Hashing in Action: Understanding bcrypt](https://auth0.com/blog/hashing-in-action-understanding-bcrypt/)
 _<sup>https://auth0.com/blog/hashing-in-action-understanding-bcrypt/</sup>_

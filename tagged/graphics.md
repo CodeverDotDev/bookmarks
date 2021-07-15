@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[graphics]](https://www.codever.land/search?q=[graphics])
 
-_<sup><sup>[www.codever.land/bookmarks/t/graphics](www.codever.land/bookmarks/t/graphics)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/graphics](https://www.codever.land/bookmarks/t/graphics)</sup></sup>_
 ---
 #### [assimp](https://github.com/assimp/assimp)
 _<sup>https://github.com/assimp/assimp</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[cobol]](https://www.codever.land/search?q=[cobol])
 
-_<sup><sup>[www.codever.land/bookmarks/t/cobol](www.codever.land/bookmarks/t/cobol)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/cobol](https://www.codever.land/bookmarks/t/cobol)</sup></sup>_
 ---
 #### [OpenCOBOL 1.1 - Programmer's Guide](http://open-cobol.sourceforge.net/guides/OpenCOBOL%20Programmers%20Guide.pdf)
 _<sup>http://open-cobol.sourceforge.net/guides/OpenCOBOL%20Programmers%20Guide.pdf</sup>_

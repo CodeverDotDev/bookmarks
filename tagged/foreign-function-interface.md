@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[foreign-function-interface]](https://www.codever.land/search?q=[foreign-function-interface])
 
-_<sup><sup>[www.codever.land/bookmarks/t/foreign-function-interface](www.codever.land/bookmarks/t/foreign-function-interface)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/foreign-function-interface](https://www.codever.land/bookmarks/t/foreign-function-interface)</sup></sup>_
 ---
 #### [cffi](https://pypi.python.org/pypi/cffi)
 _<sup>https://pypi.python.org/pypi/cffi</sup>_

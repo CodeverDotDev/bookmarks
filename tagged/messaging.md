@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[messaging]](https://www.codever.land/search?q=[messaging])
 
-_<sup><sup>[www.codever.land/bookmarks/t/messaging](www.codever.land/bookmarks/t/messaging)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/messaging](https://www.codever.land/bookmarks/t/messaging)</sup></sup>_
 ---
 #### [Message Driven Beans, attributes explanation - Jboss Docs](https://docs.jboss.org/ejb3/docs/tutorial/mdb/mdb.html)
 _<sup>https://docs.jboss.org/ejb3/docs/tutorial/mdb/mdb.html</sup>_

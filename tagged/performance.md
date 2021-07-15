@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[performance]](https://www.codever.land/search?q=[performance])
 
-_<sup><sup>[www.codever.land/bookmarks/t/performance](www.codever.land/bookmarks/t/performance)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/performance](https://www.codever.land/bookmarks/t/performance)</sup></sup>_
 ---
 #### [Bulk Processing with BULK COLLECT and FORALL](https://blogs.oracle.com/oraclemagazine/bulk-processing-with-bulk-collect-and-forall)
 _<sup>https://blogs.oracle.com/oraclemagazine/bulk-processing-with-bulk-collect-and-forall</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[log-analyzer]](https://www.codever.land/search?q=[log-analyzer])
 
-_<sup><sup>[www.codever.land/bookmarks/t/log-analyzer](www.codever.land/bookmarks/t/log-analyzer)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/log-analyzer](https://www.codever.land/bookmarks/t/log-analyzer)</sup></sup>_
 ---
 #### [GitHub - Atomicorp/ossec-docker: Official OSSEC docker container](https://github.com/Atomicorp/ossec-docker)
 _<sup>https://github.com/Atomicorp/ossec-docker</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[url]](https://www.codever.land/search?q=[url])
 
-_<sup><sup>[www.codever.land/bookmarks/t/url](www.codever.land/bookmarks/t/url)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/url](https://www.codever.land/bookmarks/t/url)</sup></sup>_
 ---
 #### [Lunatech Blog: What every web developer must know about URL encoding](https://www.talisman.org/~erlkonig/misc/lunatech%5Ewhat-every-webdev-must-know-about-url-encoding/)
 _<sup>https://www.talisman.org/~erlkonig/misc/lunatech%5Ewhat-every-webdev-must-know-about-url-encoding/</sup>_

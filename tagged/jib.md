@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[jib]](https://www.codever.land/search?q=[jib])
 
-_<sup><sup>[www.codever.land/bookmarks/t/jib](www.codever.land/bookmarks/t/jib)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/jib](https://www.codever.land/bookmarks/t/jib)</sup></sup>_
 ---
 #### [Build and Push to Docker With Maven - Better Programming - Medium](https://medium.com/better-programming/build-push-to-docker-with-maven-eea7c4b8cfa2)
 _<sup>https://medium.com/better-programming/build-push-to-docker-with-maven-eea7c4b8cfa2</sup>_

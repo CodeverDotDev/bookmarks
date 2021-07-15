@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[pm2]](https://www.codever.land/search?q=[pm2])
 
-_<sup><sup>[www.codever.land/bookmarks/t/pm2](www.codever.land/bookmarks/t/pm2)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/pm2](https://www.codever.land/bookmarks/t/pm2)</sup></sup>_
 ---
 #### [My troubles getting to run a Node application with PM2 in cluster mode with NVM – CodepediaOrg](https://www.codepedia.org/ama/my-troubles-getting-to-run-a-node-application-with-pm2-in-cluster-mode-with-nvm)
 _<sup>https://www.codepedia.org/ama/my-troubles-getting-to-run-a-node-application-with-pm2-in-cluster-mode...</sup>_

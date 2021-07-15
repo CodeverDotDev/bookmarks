@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[godot]](https://www.codever.land/search?q=[godot])
 
-_<sup><sup>[www.codever.land/bookmarks/t/godot](www.codever.land/bookmarks/t/godot)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/godot](https://www.codever.land/bookmarks/t/godot)</sup></sup>_
 ---
 #### [awesome-godot](https://github.com/Calinou/awesome-godot#readme)
 _<sup>https://github.com/Calinou/awesome-godot#readme</sup>_

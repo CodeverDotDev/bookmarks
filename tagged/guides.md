@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[guides]](https://www.codever.land/search?q=[guides])
 
-_<sup><sup>[www.codever.land/bookmarks/t/guides](www.codever.land/bookmarks/t/guides)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/guides](https://www.codever.land/bookmarks/t/guides)</sup></sup>_
 ---
 #### [OWASP API Security - Top 10 | OWASP](https://owasp.org/www-project-api-security/)
 _<sup>https://owasp.org/www-project-api-security/</sup>_

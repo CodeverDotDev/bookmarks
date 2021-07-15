@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[spring-cloud]](https://www.codever.land/search?q=[spring-cloud])
 
-_<sup><sup>[www.codever.land/bookmarks/t/spring-cloud](www.codever.land/bookmarks/t/spring-cloud)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/spring-cloud](https://www.codever.land/bookmarks/t/spring-cloud)</sup></sup>_
 ---
 #### [Cloud-Native Batch Processing with Spring Batch 4 - Michael Minella - 1h:9min](https://www.youtube.com/watch?v=-Icd-s2JoAw)
 _<sup>https://www.youtube.com/watch?v=-Icd-s2JoAw</sup>_

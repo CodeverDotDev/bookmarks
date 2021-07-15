@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[https]](https://www.codever.land/search?q=[https])
 
-_<sup><sup>[www.codever.land/bookmarks/t/https](www.codever.land/bookmarks/t/https)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/https](https://www.codever.land/bookmarks/t/https)</sup></sup>_
 ---
 #### [Fix https repository blocking by PKIX path building failed – Sonatype Support](https://support.sonatype.com/hc/en-us/articles/213465038-Fix-https-repository-blocking-by-PKIX-path-building-failed)
 _<sup>https://support.sonatype.com/hc/en-us/articles/213465038-Fix-https-repository-blocking-by-PKIX-path-...</sup>_

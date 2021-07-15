@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[ssl]](https://www.codever.land/search?q=[ssl])
 
-_<sup><sup>[www.codever.land/bookmarks/t/ssl](www.codever.land/bookmarks/t/ssl)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/ssl](https://www.codever.land/bookmarks/t/ssl)</sup></sup>_
 ---
 #### [What you really need to know about securing APIs with mutual certificates](https://nevatech.com/blog/post/What-you-need-to-know-about-securing-APIs-with-mutual-certificates)
 _<sup>https://nevatech.com/blog/post/What-you-need-to-know-about-securing-APIs-with-mutual-certificates</sup>_

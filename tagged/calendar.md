@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[calendar]](https://www.codever.land/search?q=[calendar])
 
-_<sup><sup>[www.codever.land/bookmarks/t/calendar](www.codever.land/bookmarks/t/calendar)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/calendar](https://www.codever.land/bookmarks/t/calendar)</sup></sup>_
 ---
 #### [pickadate.js](https://github.com/amsul/pickadate.js)
 _<sup>https://github.com/amsul/pickadate.js</sup>_

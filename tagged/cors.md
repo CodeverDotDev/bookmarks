@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[cors]](https://www.codever.land/search?q=[cors])
 
-_<sup><sup>[www.codever.land/bookmarks/t/cors](www.codever.land/bookmarks/t/cors)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/cors](https://www.codever.land/bookmarks/t/cors)</sup></sup>_
 ---
 #### [How CORS (Cross-Origin Resource Sharing) Works? - The Startup - Medium](https://medium.com/swlh/how-cors-cross-origin-resource-sharing-works-79f959a84f0e)
 _<sup>https://medium.com/swlh/how-cors-cross-origin-resource-sharing-works-79f959a84f0e</sup>_

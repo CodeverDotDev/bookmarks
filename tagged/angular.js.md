@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[angular.js]](https://www.codever.land/search?q=[angular.js])
 
-_<sup><sup>[www.codever.land/bookmarks/t/angular.js](www.codever.land/bookmarks/t/angular.js)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/angular.js](https://www.codever.land/bookmarks/t/angular.js)</sup></sup>_
 ---
 #### [すぐできる AngularJS](http://8th713.github.io/LearnAngularJS)
 _<sup>http://8th713.github.io/LearnAngularJS</sup>_

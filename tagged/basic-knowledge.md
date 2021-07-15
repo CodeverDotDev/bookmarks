@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[basic-knowledge]](https://www.codever.land/search?q=[basic-knowledge])
 
-_<sup><sup>[www.codever.land/bookmarks/t/basic-knowledge](www.codever.land/bookmarks/t/basic-knowledge)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/basic-knowledge](https://www.codever.land/bookmarks/t/basic-knowledge)</sup></sup>_
 ---
 #### [First Class](http://wiki.c2.com/?FirstClass)
 _<sup>http://wiki.c2.com/?FirstClass</sup>_

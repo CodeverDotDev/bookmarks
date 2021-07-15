@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[rx]](https://www.codever.land/search?q=[rx])
 
-_<sup><sup>[www.codever.land/bookmarks/t/rx](www.codever.land/bookmarks/t/rx)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/rx](https://www.codever.land/bookmarks/t/rx)</sup></sup>_
 ---
 #### [2 minute introduction to Rx – André Staltz – Medium](https://medium.com/@andrestaltz/2-minute-introduction-to-rx-24c8ca793877)
 _<sup>https://medium.com/@andrestaltz/2-minute-introduction-to-rx-24c8ca793877</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[distributed-tracing]](https://www.codever.land/search?q=[distributed-tracing])
 
-_<sup><sup>[www.codever.land/bookmarks/t/distributed-tracing](www.codever.land/bookmarks/t/distributed-tracing)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/distributed-tracing](https://www.codever.land/bookmarks/t/distributed-tracing)</sup></sup>_
 ---
 #### [Dapper, a Large-Scale Distributed Systems Tracing Infrastructure](https://ai.google/research/pubs/pub36356)
 _<sup>https://ai.google/research/pubs/pub36356</sup>_

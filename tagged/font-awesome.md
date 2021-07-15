@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[font-awesome]](https://www.codever.land/search?q=[font-awesome])
 
-_<sup><sup>[www.codever.land/bookmarks/t/font-awesome](www.codever.land/bookmarks/t/font-awesome)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/font-awesome](https://www.codever.land/bookmarks/t/font-awesome)</sup></sup>_
 ---
 #### [Font Awesome Gallery](https://fontawesome.com/icons?d=gallery)
 _<sup>https://fontawesome.com/icons?d=gallery</sup>_

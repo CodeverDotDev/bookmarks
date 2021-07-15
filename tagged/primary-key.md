@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[primary-key]](https://www.codever.land/search?q=[primary-key])
 
-_<sup><sup>[www.codever.land/bookmarks/t/primary-key](www.codever.land/bookmarks/t/primary-key)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/primary-key](https://www.codever.land/bookmarks/t/primary-key)</sup></sup>_
 ---
 #### [UUID or GUID as Primary Keys? Be Careful!](https://tomharrisonjr.com/uuid-or-guid-as-primary-keys-be-careful-7b2aa3dcb439)
 _<sup>https://tomharrisonjr.com/uuid-or-guid-as-primary-keys-be-careful-7b2aa3dcb439</sup>_

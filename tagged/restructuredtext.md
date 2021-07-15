@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[restructuredtext]](https://www.codever.land/search?q=[restructuredtext])
 
-_<sup><sup>[www.codever.land/bookmarks/t/restructuredtext](www.codever.land/bookmarks/t/restructuredtext)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/restructuredtext](https://www.codever.land/bookmarks/t/restructuredtext)</sup></sup>_
 ---
 #### [reStructuredText 简明教程](http://jwch.sdut.edu.cn/book/rst.html)
 _<sup>http://jwch.sdut.edu.cn/book/rst.html</sup>_

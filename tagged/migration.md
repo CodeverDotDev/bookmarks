@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[migration]](https://www.codever.land/search?q=[migration])
 
-_<sup><sup>[www.codever.land/bookmarks/t/migration](www.codever.land/bookmarks/t/migration)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/migration](https://www.codever.land/bookmarks/t/migration)</sup></sup>_
 ---
 #### [GitHub - skovhus/jest-codemods: Codemods for migrating to Jest https://github.com/facebook/jest 👾](https://github.com/skovhus/jest-codemods)
 _<sup>https://github.com/skovhus/jest-codemods</sup>_

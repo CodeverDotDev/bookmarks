@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[compsci]](https://www.codever.land/search?q=[compsci])
 
-_<sup><sup>[www.codever.land/bookmarks/t/compsci](www.codever.land/bookmarks/t/compsci)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/compsci](https://www.codever.land/bookmarks/t/compsci)</sup></sup>_
 ---
 #### [Lobsters](https://lobste.rs/)
 _<sup>https://lobste.rs/</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[agnostico]](https://www.codever.land/search?q=[agnostico])
 
-_<sup><sup>[www.codever.land/bookmarks/t/agnostico](www.codever.land/bookmarks/t/agnostico)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/agnostico](https://www.codever.land/bookmarks/t/agnostico)</sup></sup>_
 ---
 #### [Dispense del Corso di Algoritmi e Strutture Dati](http://www.dmi.unict.it/nicosia/lectures/programmazione-scientifica/algo.pdf)
 _<sup>http://www.dmi.unict.it/nicosia/lectures/programmazione-scientifica/algo.pdf</sup>_

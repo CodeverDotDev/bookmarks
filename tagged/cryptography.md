@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[cryptography]](https://www.codever.land/search?q=[cryptography])
 
-_<sup><sup>[www.codever.land/bookmarks/t/cryptography](www.codever.land/bookmarks/t/cryptography)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/cryptography](https://www.codever.land/bookmarks/t/cryptography)</sup></sup>_
 ---
 #### [CyberChef home page](https://gchq.github.io/CyberChef/)
 _<sup>https://gchq.github.io/CyberChef/</sup>_

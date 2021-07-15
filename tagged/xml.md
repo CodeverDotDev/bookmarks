@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[xml]](https://www.codever.land/search?q=[xml])
 
-_<sup><sup>[www.codever.land/bookmarks/t/xml](www.codever.land/bookmarks/t/xml)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/xml](https://www.codever.land/bookmarks/t/xml)</sup></sup>_
 ---
 #### [Testing for equality of xml files having different ordering of nested elements](https://www.insystems.nl/blog/testing-for-equality-of-xml-files-having-different-ordering-of-nested-elements/)
 _<sup>https://www.insystems.nl/blog/testing-for-equality-of-xml-files-having-different-ordering-of-nested-...</sup>_

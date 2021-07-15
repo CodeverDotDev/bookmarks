@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[emulation]](https://www.codever.land/search?q=[emulation])
 
-_<sup><sup>[www.codever.land/bookmarks/t/emulation](www.codever.land/bookmarks/t/emulation)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/emulation](https://www.codever.land/bookmarks/t/emulation)</sup></sup>_
 ---
 #### [Testing apps locally with the emulator  - Google Pub/Sub](https://cloud.google.com/pubsub/docs/emulator)
 _<sup>https://cloud.google.com/pubsub/docs/emulator</sup>_

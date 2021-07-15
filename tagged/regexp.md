@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[regexp]](https://www.codever.land/search?q=[regexp])
 
-_<sup><sup>[www.codever.land/bookmarks/t/regexp](www.codever.land/bookmarks/t/regexp)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/regexp](https://www.codever.land/bookmarks/t/regexp)</sup></sup>_
 ---
 #### [GitHub - epoberezkin/fast-deep-equal](https://github.com/epoberezkin/fast-deep-equal)
 _<sup>https://github.com/epoberezkin/fast-deep-equal</sup>_

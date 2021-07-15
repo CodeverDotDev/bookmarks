@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[github-pages]](https://www.codever.land/search?q=[github-pages])
 
-_<sup><sup>[www.codever.land/bookmarks/t/github-pages](www.codever.land/bookmarks/t/github-pages)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/github-pages](https://www.codever.land/bookmarks/t/github-pages)</sup></sup>_
 ---
 #### [GitHub Pages home page](https://pages.github.com/)
 _<sup>https://pages.github.com/</sup>_

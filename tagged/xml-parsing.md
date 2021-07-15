@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[xml-parsing]](https://www.codever.land/search?q=[xml-parsing])
 
-_<sup><sup>[www.codever.land/bookmarks/t/xml-parsing](www.codever.land/bookmarks/t/xml-parsing)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/xml-parsing](https://www.codever.land/bookmarks/t/xml-parsing)</sup></sup>_
 ---
 #### [HappyMapper](https://github.com/dam5s/happymapper)
 _<sup>https://github.com/dam5s/happymapper</sup>_

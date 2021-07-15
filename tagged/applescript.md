@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[applescript]](https://www.codever.land/search?q=[applescript])
 
-_<sup><sup>[www.codever.land/bookmarks/t/applescript](www.codever.land/bookmarks/t/applescript)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/applescript](https://www.codever.land/bookmarks/t/applescript)</sup></sup>_
 ---
 #### [Bash でやってることを AppleScript でやろうとするとこうなる](http://qiita.com/mattintosh4/items/353c57ba75eda20af3c4)
 _<sup>http://qiita.com/mattintosh4/items/353c57ba75eda20af3c4</sup>_

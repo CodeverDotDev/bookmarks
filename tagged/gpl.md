@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[gpl]](https://www.codever.land/search?q=[gpl])
 
-_<sup><sup>[www.codever.land/bookmarks/t/gpl](www.codever.land/bookmarks/t/gpl)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/gpl](https://www.codever.land/bookmarks/t/gpl)</sup></sup>_
 ---
 #### [HTTrack Website Copier - Free Software Offline Browser (GNU GPL)](https://www.httrack.com/)
 _<sup>https://www.httrack.com/</sup>_

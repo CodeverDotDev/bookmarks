@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[mybatis]](https://www.codever.land/search?q=[mybatis])
 
-_<sup><sup>[www.codever.land/bookmarks/t/mybatis](www.codever.land/bookmarks/t/mybatis)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/mybatis](https://www.codever.land/bookmarks/t/mybatis)</sup></sup>_
 ---
 #### [mybatis – MyBatis 3 | Introduction](http://www.mybatis.org/mybatis-3/)
 _<sup>http://www.mybatis.org/mybatis-3/</sup>_

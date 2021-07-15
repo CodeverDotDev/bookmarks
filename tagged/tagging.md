@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[tagging]](https://www.codever.land/search?q=[tagging])
 
-_<sup><sup>[www.codever.land/bookmarks/t/tagging](www.codever.land/bookmarks/t/tagging)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/tagging](https://www.codever.land/bookmarks/t/tagging)</sup></sup>_
 ---
 #### [django-taggit](https://github.com/jazzband/django-taggit)
 _<sup>https://github.com/jazzband/django-taggit</sup>_

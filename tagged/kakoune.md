@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[kakoune]](https://www.codever.land/search?q=[kakoune])
 
-_<sup><sup>[www.codever.land/bookmarks/t/kakoune](www.codever.land/bookmarks/t/kakoune)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/kakoune](https://www.codever.land/bookmarks/t/kakoune)</sup></sup>_
 ---
 #### [ul/kak-lsp](https://github.com/ul/kak-lsp/)
 _<sup>https://github.com/ul/kak-lsp/</sup>_

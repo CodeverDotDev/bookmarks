@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[grails]](https://www.codever.land/search?q=[grails])
 
-_<sup><sup>[www.codever.land/bookmarks/t/grails](www.codever.land/bookmarks/t/grails)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/grails](https://www.codever.land/bookmarks/t/grails)</sup></sup>_
 ---
 #### [Grailsを用いたファイルアップローダ作成](https://www.ntts.co.jp/column/tec/java_02/)
 _<sup>https://www.ntts.co.jp/column/tec/java_02/</sup>_

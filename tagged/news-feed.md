@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[news-feed]](https://www.codever.land/search?q=[news-feed])
 
-_<sup><sup>[www.codever.land/bookmarks/t/news-feed](www.codever.land/bookmarks/t/news-feed)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/news-feed](https://www.codever.land/bookmarks/t/news-feed)</sup></sup>_
 ---
 #### [django-activity-stream](https://github.com/justquick/django-activity-stream)
 _<sup>https://github.com/justquick/django-activity-stream</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[scheduling]](https://www.codever.land/search?q=[scheduling])
 
-_<sup><sup>[www.codever.land/bookmarks/t/scheduling](www.codever.land/bookmarks/t/scheduling)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/scheduling](https://www.codever.land/bookmarks/t/scheduling)</sup></sup>_
 ---
 #### [minicron](https://github.com/jamesrwhite/minicron)
 _<sup>https://github.com/jamesrwhite/minicron</sup>_

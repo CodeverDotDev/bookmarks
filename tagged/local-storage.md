@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[local-storage]](https://www.codever.land/search?q=[local-storage])
 
-_<sup><sup>[www.codever.land/bookmarks/t/local-storage](www.codever.land/bookmarks/t/local-storage)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/local-storage](https://www.codever.land/bookmarks/t/local-storage)</sup></sup>_
 ---
 #### [Client-side storage - Learn web development | MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Client-side_storage)
 _<sup>https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Client-side_storage</sup>_

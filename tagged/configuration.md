@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[configuration]](https://www.codever.land/search?q=[configuration])
 
-_<sup><sup>[www.codever.land/bookmarks/t/configuration](www.codever.land/bookmarks/t/configuration)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/configuration](https://www.codever.land/bookmarks/t/configuration)</sup></sup>_
 ---
 #### [How To Install and Secure Redis on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-redis-on-ubuntu-18-04)
 _<sup>https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-redis-on-ubuntu-18-04</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[pycon]](https://www.codever.land/search?q=[pycon])
 
-_<sup><sup>[www.codever.land/bookmarks/t/pycon](www.codever.land/bookmarks/t/pycon)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/pycon](https://www.codever.land/bookmarks/t/pycon)</sup></sup>_
 ---
 #### [Keynote - Jacob Kaplan-Moss - Pycon 2015 - 35min](https://www.youtube.com/watch?v=hIJdFxYlEKE)
 _<sup>https://www.youtube.com/watch?v=hIJdFxYlEKE</sup>_

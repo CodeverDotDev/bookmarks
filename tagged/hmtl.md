@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[hmtl]](https://www.codever.land/search?q=[hmtl])
 
-_<sup><sup>[www.codever.land/bookmarks/t/hmtl](www.codever.land/bookmarks/t/hmtl)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/hmtl](https://www.codever.land/bookmarks/t/hmtl)</sup></sup>_
 ---
 #### [HTML](http://tutorialehtml.com/ro/introducere-in-html/)
 _<sup>http://tutorialehtml.com/ro/introducere-in-html/</sup>_

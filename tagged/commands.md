@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[commands]](https://www.codever.land/search?q=[commands])
 
-_<sup><sup>[www.codever.land/bookmarks/t/commands](www.codever.land/bookmarks/t/commands)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/commands](https://www.codever.land/bookmarks/t/commands)</sup></sup>_
 ---
 #### [generate · angular/angular-cli Wiki · GitHub](https://github.com/angular/angular-cli/wiki/generate)
 _<sup>https://github.com/angular/angular-cli/wiki/generate</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[learn-to-code]](https://www.codever.land/search?q=[learn-to-code])
 
-_<sup><sup>[www.codever.land/bookmarks/t/learn-to-code](www.codever.land/bookmarks/t/learn-to-code)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/learn-to-code](https://www.codever.land/bookmarks/t/learn-to-code)</sup></sup>_
 ---
 #### [LeetCode - The World's Leading Online Programming Learning Platform](https://leetcode.com/)
 _<sup>https://leetcode.com/</sup>_

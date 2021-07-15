@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[ngrx]](https://www.codever.land/search?q=[ngrx])
 
-_<sup><sup>[www.codever.land/bookmarks/t/ngrx](www.codever.land/bookmarks/t/ngrx)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/ngrx](https://www.codever.land/bookmarks/t/ngrx)</sup></sup>_
 ---
 #### [Managing State in Angular 2 - Kyle Cordes - Oct 2016 - 46min](https://www.youtube.com/watch?v=eBLTz8QRg4Q)
 _<sup>https://www.youtube.com/watch?v=eBLTz8QRg4Q</sup>_

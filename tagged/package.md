@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[package]](https://www.codever.land/search?q=[package])
 
-_<sup><sup>[www.codever.land/bookmarks/t/package](www.codever.land/bookmarks/t/package)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/package](https://www.codever.land/bookmarks/t/package)</sup></sup>_
 ---
 #### [webtorrent](https://github.com/feross/webtorrent)
 _<sup>https://github.com/feross/webtorrent</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[turbo]](https://www.codever.land/search?q=[turbo])
 
-_<sup><sup>[www.codever.land/bookmarks/t/turbo](www.codever.land/bookmarks/t/turbo)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/turbo](https://www.codever.land/bookmarks/t/turbo)</sup></sup>_
 ---
 #### [Introducing Turbo: 5x faster than Yarn & NPM, and runs natively in-browser 🔥](https://medium.com/@ericsimons/introducing-turbo-5x-faster-than-yarn-npm-and-runs-natively-in-browser-cc2c39715403)
 _<sup>https://medium.com/@ericsimons/introducing-turbo-5x-faster-than-yarn-npm-and-runs-natively-in-browse...</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[alias]](https://www.codever.land/search?q=[alias])
 
-_<sup><sup>[www.codever.land/bookmarks/t/alias](www.codever.land/bookmarks/t/alias)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/alias](https://www.codever.land/bookmarks/t/alias)</sup></sup>_
 ---
 #### [Include my Git Aliases - Haacked](https://haacked.com/archive/2019/02/14/including-git-aliases/)
 _<sup>https://haacked.com/archive/2019/02/14/including-git-aliases/</sup>_

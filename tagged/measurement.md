@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[measurement]](https://www.codever.land/search?q=[measurement])
 
-_<sup><sup>[www.codever.land/bookmarks/t/measurement](www.codever.land/bookmarks/t/measurement)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/measurement](https://www.codever.land/bookmarks/t/measurement)</sup></sup>_
 ---
 #### [Measured](https://github.com/Shopify/measured)
 _<sup>https://github.com/Shopify/measured</sup>_

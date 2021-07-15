@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[instanbul]](https://www.codever.land/search?q=[instanbul])
 
-_<sup><sup>[www.codever.land/bookmarks/t/instanbul](www.codever.land/bookmarks/t/instanbul)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/instanbul](https://www.codever.land/bookmarks/t/instanbul)</sup></sup>_
 ---
 #### [Setting up test coverage using Mocha, Istanbul, NYC with TypeScript](http://azimi.me/2016/09/30/nyc-mocha-typescript.1.html)
 _<sup>http://azimi.me/2016/09/30/nyc-mocha-typescript.1.html</sup>_

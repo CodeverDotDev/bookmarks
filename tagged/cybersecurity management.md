@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[cybersecurity management]](https://www.codever.land/search?q=[cybersecurity management])
 
-_<sup><sup>[www.codever.land/bookmarks/t/cybersecurity management](www.codever.land/bookmarks/t/cybersecurity management)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/cybersecurity management](https://www.codever.land/bookmarks/t/cybersecurity management)</sup></sup>_
 ---
 #### [What Is Cybersecurity Management and Why Is It Important? - Answer Watcher](https://www.answerwatcher.com/cybersecurity-management-importance/)
 _<sup>https://www.answerwatcher.com/cybersecurity-management-importance/</sup>_

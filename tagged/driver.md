@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[driver]](https://www.codever.land/search?q=[driver])
 
-_<sup><sup>[www.codever.land/bookmarks/t/driver](www.codever.land/bookmarks/t/driver)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/driver](https://www.codever.land/bookmarks/t/driver)</sup></sup>_
 ---
 #### [Sequelize](https://github.com/sequelize/sequelize)
 _<sup>https://github.com/sequelize/sequelize</sup>_

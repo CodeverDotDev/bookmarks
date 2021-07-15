@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[dev-fun]](https://www.codever.land/search?q=[dev-fun])
 
-_<sup><sup>[www.codever.land/bookmarks/t/dev-fun](www.codever.land/bookmarks/t/dev-fun)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/dev-fun](https://www.codever.land/bookmarks/t/dev-fun)</sup></sup>_
 ---
 #### [awesome-dev-fun](https://github.com/mislavcimpersak/awesome-dev-fun#readme)
 _<sup>https://github.com/mislavcimpersak/awesome-dev-fun#readme</sup>_

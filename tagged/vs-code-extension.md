@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[vs-code-extension]](https://www.codever.land/search?q=[vs-code-extension])
 
-_<sup><sup>[www.codever.land/bookmarks/t/vs-code-extension](www.codever.land/bookmarks/t/vs-code-extension)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/vs-code-extension](https://www.codever.land/bookmarks/t/vs-code-extension)</sup></sup>_
 ---
 #### [Your first Visual Studio Code Extension | medium article](https://medium.com/@rmmmsy/your-first-visual-studio-code-extension-ce8e040ba8ca)
 _<sup>https://medium.com/@rmmmsy/your-first-visual-studio-code-extension-ce8e040ba8ca</sup>_

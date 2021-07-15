@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[redis]](https://www.codever.land/search?q=[redis])
 
-_<sup><sup>[www.codever.land/bookmarks/t/redis](www.codever.land/bookmarks/t/redis)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/redis](https://www.codever.land/bookmarks/t/redis)</sup></sup>_
 ---
 #### [Try Redis](https://try.redis.io)
 _<sup>https://try.redis.io</sup>_

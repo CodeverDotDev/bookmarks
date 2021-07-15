@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[ebook]](https://www.codever.land/search?q=[ebook])
 
-_<sup><sup>[www.codever.land/bookmarks/t/ebook](www.codever.land/bookmarks/t/ebook)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/ebook](https://www.codever.land/bookmarks/t/ebook)</sup></sup>_
 ---
 #### [My ebooks!](https://flaviocopes.com/page/ebooks-links/)
 _<sup>https://flaviocopes.com/page/ebooks-links/</sup>_

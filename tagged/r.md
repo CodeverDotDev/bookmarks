@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[r]](https://www.codever.land/search?q=[r])
 
-_<sup><sup>[www.codever.land/bookmarks/t/r](www.codever.land/bookmarks/t/r)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/r](https://www.codever.land/bookmarks/t/r)</sup></sup>_
 ---
 #### [Tools for summarizing and visualizing regression models](https://cran.r-project.org/web/packages/jtools/vignettes/summ.html#effect_plot)
 _<sup>https://cran.r-project.org/web/packages/jtools/vignettes/summ.html#effect_plot</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[tmux]](https://www.codever.land/search?q=[tmux])
 
-_<sup><sup>[www.codever.land/bookmarks/t/tmux](www.codever.land/bookmarks/t/tmux)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/tmux](https://www.codever.land/bookmarks/t/tmux)</sup></sup>_
 ---
 #### [Tmux Cheat Sheet & Quick Reference](https://tmuxcheatsheet.com/)
 _<sup>https://tmuxcheatsheet.com/</sup>_

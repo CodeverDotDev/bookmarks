@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[free-programming-books-ro]](https://www.codever.land/search?q=[free-programming-books-ro])
 
-_<sup><sup>[www.codever.land/bookmarks/t/free-programming-books-ro](www.codever.land/bookmarks/t/free-programming-books-ro)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/free-programming-books-ro](https://www.codever.land/bookmarks/t/free-programming-books-ro)</sup></sup>_
 ---
 #### [PHP](http://php.punctsivirgula.ro)
 _<sup>http://php.punctsivirgula.ro</sup>_

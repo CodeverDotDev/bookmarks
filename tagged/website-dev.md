@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[website-dev]](https://www.codever.land/search?q=[website-dev])
 
-_<sup><sup>[www.codever.land/bookmarks/t/website-dev](www.codever.land/bookmarks/t/website-dev)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/website-dev](https://www.codever.land/bookmarks/t/website-dev)</sup></sup>_
 ---
 #### [
 	What is my Screen Resolution: Find Screen resolution of any device

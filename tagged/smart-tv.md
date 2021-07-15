@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[smart-tv]](https://www.codever.land/search?q=[smart-tv])
 
-_<sup><sup>[www.codever.land/bookmarks/t/smart-tv](www.codever.land/bookmarks/t/smart-tv)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/smart-tv](https://www.codever.land/bookmarks/t/smart-tv)</sup></sup>_
 ---
 #### [awesome-smart-tv](https://github.com/vitalets/awesome-smart-tv#readme)
 _<sup>https://github.com/vitalets/awesome-smart-tv#readme</sup>_

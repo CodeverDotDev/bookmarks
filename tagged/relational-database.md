@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[relational-database]](https://www.codever.land/search?q=[relational-database])
 
-_<sup><sup>[www.codever.land/bookmarks/t/relational-database](www.codever.land/bookmarks/t/relational-database)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/relational-database](https://www.codever.land/bookmarks/t/relational-database)</sup></sup>_
 ---
 #### [postgrest](https://github.com/begriffs/postgrest)
 _<sup>https://github.com/begriffs/postgrest</sup>_

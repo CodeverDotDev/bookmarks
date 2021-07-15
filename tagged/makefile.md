@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[makefile]](https://www.codever.land/search?q=[makefile])
 
-_<sup><sup>[www.codever.land/bookmarks/t/makefile](www.codever.land/bookmarks/t/makefile)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/makefile](https://www.codever.land/bookmarks/t/makefile)</sup></sup>_
 ---
 #### [GNU make manual](https://www.gnu.org/software/make/manual/make.html)
 _<sup>https://www.gnu.org/software/make/manual/make.html</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[broadcasting]](https://www.codever.land/search?q=[broadcasting])
 
-_<sup><sup>[www.codever.land/bookmarks/t/broadcasting](www.codever.land/bookmarks/t/broadcasting)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/broadcasting](https://www.codever.land/bookmarks/t/broadcasting)</sup></sup>_
 ---
 #### [awesome-broadcasting](https://github.com/ebu/awesome-broadcasting#readme)
 _<sup>https://github.com/ebu/awesome-broadcasting#readme</sup>_

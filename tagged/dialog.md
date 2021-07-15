@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[dialog]](https://www.codever.land/search?q=[dialog])
 
-_<sup><sup>[www.codever.land/bookmarks/t/dialog](www.codever.land/bookmarks/t/dialog)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/dialog](https://www.codever.land/bookmarks/t/dialog)</sup></sup>_
 ---
 #### [iziToast home page](https://izitoast.marcelodolza.com/)
 _<sup>https://izitoast.marcelodolza.com/</sup>_

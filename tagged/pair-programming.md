@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[pair-programming]](https://www.codever.land/search?q=[pair-programming])
 
-_<sup><sup>[www.codever.land/bookmarks/t/pair-programming](www.codever.land/bookmarks/t/pair-programming)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/pair-programming](https://www.codever.land/bookmarks/t/pair-programming)</sup></sup>_
 ---
 #### [NT Coding Blog: Guiding newbie toward productivity](http://ntcoding.co.uk/blog/2013/01/guiding-newbie-toward-productivity.html)
 _<sup>http://ntcoding.co.uk/blog/2013/01/guiding-newbie-toward-productivity.html</sup>_

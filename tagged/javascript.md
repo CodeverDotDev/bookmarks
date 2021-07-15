@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[javascript]](https://www.codever.land/search?q=[javascript])
 
-_<sup><sup>[www.codever.land/bookmarks/t/javascript](www.codever.land/bookmarks/t/javascript)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/javascript](https://www.codever.land/bookmarks/t/javascript)</sup></sup>_
 ---
 #### [GitHub - elsewhencode/project-guidelines: A set of best practices for JavaScript projects](https://github.com/elsewhencode/project-guidelines)
 _<sup>https://github.com/elsewhencode/project-guidelines</sup>_

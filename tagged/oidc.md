@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[oidc]](https://www.codever.land/search?q=[oidc])
 
-_<sup><sup>[www.codever.land/bookmarks/t/oidc](www.codever.land/bookmarks/t/oidc)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/oidc](https://www.codever.land/bookmarks/t/oidc)</sup></sup>_
 ---
 #### [OpenID Connect debugger](https://oidcdebugger.com/)
 _<sup>https://oidcdebugger.com/</sup>_

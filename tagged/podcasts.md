@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[podcasts]](https://www.codever.land/search?q=[podcasts])
 
-_<sup><sup>[www.codever.land/bookmarks/t/podcasts](www.codever.land/bookmarks/t/podcasts)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/podcasts](https://www.codever.land/bookmarks/t/podcasts)</sup></sup>_
 ---
 #### [Hipsters Ponto Tech - Discussões acaloradas sobre startups, programação, ux, gadgets e as últimas tendências em tecnologia.Hipsters Ponto Tech](https://hipsters.tech/)
 _<sup>https://hipsters.tech/</sup>_

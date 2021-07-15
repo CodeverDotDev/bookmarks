@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[gnu]](https://www.codever.land/search?q=[gnu])
 
-_<sup><sup>[www.codever.land/bookmarks/t/gnu](www.codever.land/bookmarks/t/gnu)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/gnu](https://www.codever.land/bookmarks/t/gnu)</sup></sup>_
 ---
 #### [MNT Reform | Crowd Supply](https://www.crowdsupply.com/mnt/reform)
 _<sup>https://www.crowdsupply.com/mnt/reform</sup>_

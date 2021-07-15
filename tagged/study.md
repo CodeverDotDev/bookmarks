@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[study]](https://www.codever.land/search?q=[study])
 
-_<sup><sup>[www.codever.land/bookmarks/t/study](www.codever.land/bookmarks/t/study)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/study](https://www.codever.land/bookmarks/t/study)</sup></sup>_
 ---
 #### [
 Brainscape: The Best Flashcards App | Make Flashcards Online

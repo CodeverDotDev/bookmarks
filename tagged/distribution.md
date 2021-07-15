@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[distribution]](https://www.codever.land/search?q=[distribution])
 
-_<sup><sup>[www.codever.land/bookmarks/t/distribution](www.codever.land/bookmarks/t/distribution)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/distribution](https://www.codever.land/bookmarks/t/distribution)</sup></sup>_
 ---
 #### [dh-virtualenv](https://github.com/spotify/dh-virtualenv)
 _<sup>https://github.com/spotify/dh-virtualenv</sup>_

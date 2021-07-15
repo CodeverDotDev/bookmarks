@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[modules]](https://www.codever.land/search?q=[modules])
 
-_<sup><sup>[www.codever.land/bookmarks/t/modules](www.codever.land/bookmarks/t/modules)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/modules](https://www.codever.land/bookmarks/t/modules)</sup></sup>_
 ---
 #### [Deno blockchain based module registry](https://nest.land/)
 _<sup>https://nest.land/</sup>_

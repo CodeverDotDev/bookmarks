@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[image-processing:]](https://www.codever.land/search?q=[image-processing:])
 
-_<sup><sup>[www.codever.land/bookmarks/t/image-processing:](www.codever.land/bookmarks/t/image-processing:)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/image-processing:](https://www.codever.land/bookmarks/t/image-processing:)</sup></sup>_
 ---
 #### [spejss/Image-Processing-CLI-in-Rust](https://github.com/spejss/Image-Processing-CLI-in-Rust)
 _<sup>https://github.com/spejss/Image-Processing-CLI-in-Rust</sup>_

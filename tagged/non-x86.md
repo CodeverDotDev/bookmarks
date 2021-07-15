@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[non-x86]](https://www.codever.land/search?q=[non-x86])
 
-_<sup><sup>[www.codever.land/bookmarks/t/non-x86](www.codever.land/bookmarks/t/non-x86)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/non-x86](https://www.codever.land/bookmarks/t/non-x86)</sup></sup>_
 ---
 #### [The Second Book of Machine Language](http://www.atariarchives.org/2bml/)
 _<sup>http://www.atariarchives.org/2bml/</sup>_

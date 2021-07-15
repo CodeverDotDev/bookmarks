@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[database-indexes]](https://www.codever.land/search?q=[database-indexes])
 
-_<sup><sup>[www.codever.land/bookmarks/t/database-indexes](www.codever.land/bookmarks/t/database-indexes)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/database-indexes](https://www.codever.land/bookmarks/t/database-indexes)</sup></sup>_
 ---
 #### [How does database indexing work?](https://stackoverflow.com/questions/1108/how-does-database-indexing-work)
 _<sup>https://stackoverflow.com/questions/1108/how-does-database-indexing-work</sup>_

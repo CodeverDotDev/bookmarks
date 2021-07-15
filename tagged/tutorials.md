@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[tutorials]](https://www.codever.land/search?q=[tutorials])
 
-_<sup><sup>[www.codever.land/bookmarks/t/tutorials](www.codever.land/bookmarks/t/tutorials)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/tutorials](https://www.codever.land/bookmarks/t/tutorials)</sup></sup>_
 ---
 #### [Lesson: Generics (The Java™ Tutorials)](https://docs.oracle.com/javase/tutorial/extra/generics/index.html)
 _<sup>https://docs.oracle.com/javase/tutorial/extra/generics/index.html</sup>_

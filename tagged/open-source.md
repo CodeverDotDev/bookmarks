@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[open-source]](https://www.codever.land/search?q=[open-source])
 
-_<sup><sup>[www.codever.land/bookmarks/t/open-source](www.codever.land/bookmarks/t/open-source)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/open-source](https://www.codever.land/bookmarks/t/open-source)</sup></sup>_
 ---
 #### [Licenses | Choose a License](https://choosealicense.com/licenses/)
 _<sup>https://choosealicense.com/licenses/</sup>_

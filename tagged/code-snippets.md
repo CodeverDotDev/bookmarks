@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[code-snippets]](https://www.codever.land/search?q=[code-snippets])
 
-_<sup><sup>[www.codever.land/bookmarks/t/code-snippets](www.codever.land/bookmarks/t/code-snippets)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/code-snippets](https://www.codever.land/bookmarks/t/code-snippets)</sup></sup>_
 ---
 #### [GitHub - dapbs/customer_service_bot: codeacademy customer_service_bot](https://github.com/dapbs/customer_service_bot)
 _<sup>https://github.com/dapbs/customer_service_bot</sup>_

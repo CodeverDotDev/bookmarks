@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[lisp]](https://www.codever.land/search?q=[lisp])
 
-_<sup><sup>[www.codever.land/bookmarks/t/lisp](www.codever.land/bookmarks/t/lisp)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/lisp](https://www.codever.land/bookmarks/t/lisp)</sup></sup>_
 ---
 #### [LISP - Lambda Functions - Tutorialspoint](https://www.tutorialspoint.com/lisp/lisp_lambda_functions.htm)
 _<sup>https://www.tutorialspoint.com/lisp/lisp_lambda_functions.htm</sup>_

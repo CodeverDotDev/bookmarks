@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[journal]](https://www.codever.land/search?q=[journal])
 
-_<sup><sup>[www.codever.land/bookmarks/t/journal](www.codever.land/bookmarks/t/journal)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/journal](https://www.codever.land/bookmarks/t/journal)</sup></sup>_
 ---
 #### [Things I Don’t Know as of 2018 — Overreacted](https://overreacted.io/things-i-dont-know-as-of-2018/)
 _<sup>https://overreacted.io/things-i-dont-know-as-of-2018/</sup>_

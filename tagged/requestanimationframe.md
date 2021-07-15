@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[requestanimationframe]](https://www.codever.land/search?q=[requestanimationframe])
 
-_<sup><sup>[www.codever.land/bookmarks/t/requestanimationframe](www.codever.land/bookmarks/t/requestanimationframe)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/requestanimationframe](https://www.codever.land/bookmarks/t/requestanimationframe)</sup></sup>_
 ---
 #### [JavaScript Timers - 11min](https://www.youtube.com/watch?v=YmaFAKUFmp0)
 _<sup>https://www.youtube.com/watch?v=YmaFAKUFmp0</sup>_

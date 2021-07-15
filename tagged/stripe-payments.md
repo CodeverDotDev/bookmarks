@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[stripe-payments]](https://www.codever.land/search?q=[stripe-payments])
 
-_<sup><sup>[www.codever.land/bookmarks/t/stripe-payments](www.codever.land/bookmarks/t/stripe-payments)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/stripe-payments](https://www.codever.land/bookmarks/t/stripe-payments)</sup></sup>_
 ---
 #### [Stripe Currency - Are all amounts in cents / 100ths, or does it depend on currency?](https://stackoverflow.com/questions/35326710/stripe-currency-are-all-amounts-in-cents-100ths-or-does-it-depend-on-curren)
 _<sup>https://stackoverflow.com/questions/35326710/stripe-currency-are-all-amounts-in-cents-100ths-or-does...</sup>_

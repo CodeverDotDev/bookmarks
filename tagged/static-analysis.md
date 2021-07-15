@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[static-analysis]](https://www.codever.land/search?q=[static-analysis])
 
-_<sup><sup>[www.codever.land/bookmarks/t/static-analysis](www.codever.land/bookmarks/t/static-analysis)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/static-analysis](https://www.codever.land/bookmarks/t/static-analysis)</sup></sup>_
 ---
 #### [kube-score](https://github.com/zegl/kube-score)
 _<sup>https://github.com/zegl/kube-score</sup>_

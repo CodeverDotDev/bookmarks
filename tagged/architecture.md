@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[architecture]](https://www.codever.land/search?q=[architecture])
 
-_<sup><sup>[www.codever.land/bookmarks/t/architecture](www.codever.land/bookmarks/t/architecture)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/architecture](https://www.codever.land/bookmarks/t/architecture)</sup></sup>_
 ---
 #### [Microservice Trade-Offs](https://martinfowler.com/articles/microservice-trade-offs.html)
 _<sup>https://martinfowler.com/articles/microservice-trade-offs.html</sup>_

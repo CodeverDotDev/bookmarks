@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[web-programming]](https://www.codever.land/search?q=[web-programming])
 
-_<sup><sup>[www.codever.land/bookmarks/t/web-programming](www.codever.land/bookmarks/t/web-programming)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/web-programming](https://www.codever.land/bookmarks/t/web-programming)</sup></sup>_
 ---
 #### [alexcrichton/curl-rust](https://github.com/alexcrichton/curl-rust)
 _<sup>https://github.com/alexcrichton/curl-rust</sup>_

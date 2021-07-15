@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[offline]](https://www.codever.land/search?q=[offline])
 
-_<sup><sup>[www.codever.land/bookmarks/t/offline](www.codever.land/bookmarks/t/offline)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/offline](https://www.codever.land/bookmarks/t/offline)</sup></sup>_
 ---
 #### [HTTrack Website Copier - Free Software Offline Browser (GNU GPL)](https://www.httrack.com/)
 _<sup>https://www.httrack.com/</sup>_

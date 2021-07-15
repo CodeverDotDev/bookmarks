@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[bundler]](https://www.codever.land/search?q=[bundler])
 
-_<sup><sup>[www.codever.land/bookmarks/t/bundler](www.codever.land/bookmarks/t/bundler)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/bundler](https://www.codever.land/bookmarks/t/bundler)</sup></sup>_
 ---
 #### [rollup.js home page](https://rollupjs.org/guide/en/)
 _<sup>https://rollupjs.org/guide/en/</sup>_

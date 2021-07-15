@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[complexity]](https://www.codever.land/search?q=[complexity])
 
-_<sup><sup>[www.codever.land/bookmarks/t/complexity](www.codever.land/bookmarks/t/complexity)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/complexity](https://www.codever.land/bookmarks/t/complexity)</sup></sup>_
 ---
 #### [Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy/)
 _<sup>https://www.infoq.com/presentations/Simple-Made-Easy/</sup>_

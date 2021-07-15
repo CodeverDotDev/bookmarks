@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[quickjs]](https://www.codever.land/search?q=[quickjs])
 
-_<sup><sup>[www.codever.land/bookmarks/t/quickjs](www.codever.land/bookmarks/t/quickjs)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/quickjs](https://www.codever.land/bookmarks/t/quickjs)</sup></sup>_
 ---
 #### [Fabrice Bellard's Home Page](https://bellard.org/)
 _<sup>https://bellard.org/</sup>_

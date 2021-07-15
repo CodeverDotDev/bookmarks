@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[typography]](https://www.codever.land/search?q=[typography])
 
-_<sup><sup>[www.codever.land/bookmarks/t/typography](www.codever.land/bookmarks/t/typography)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/typography](https://www.codever.land/bookmarks/t/typography)</sup></sup>_
 ---
 #### [FlowType.JS](https://github.com/simplefocus/FlowType.JS)
 _<sup>https://github.com/simplefocus/FlowType.JS</sup>_

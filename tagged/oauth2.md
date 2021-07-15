@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[oauth2]](https://www.codever.land/search?q=[oauth2])
 
-_<sup><sup>[www.codever.land/bookmarks/t/oauth2](www.codever.land/bookmarks/t/oauth2)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/oauth2](https://www.codever.land/bookmarks/t/oauth2)</sup></sup>_
 ---
 #### [Setting Up Authelia With SWAG](https://blog.linuxserver.io/2020/08/26/setting-up-authelia/)
 _<sup>https://blog.linuxserver.io/2020/08/26/setting-up-authelia/</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[google-java-format]](https://www.codever.land/search?q=[google-java-format])
 
-_<sup><sup>[www.codever.land/bookmarks/t/google-java-format](www.codever.land/bookmarks/t/google-java-format)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/google-java-format](https://www.codever.land/bookmarks/t/google-java-format)</sup></sup>_
 ---
 #### [google-java-format - plugin for IntelliJ IDEs](https://plugins.jetbrains.com/plugin/8527-google-java-format)
 _<sup>https://plugins.jetbrains.com/plugin/8527-google-java-format</sup>_

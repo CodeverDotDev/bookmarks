@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[developer-conference]](https://www.codever.land/search?q=[developer-conference])
 
-_<sup><sup>[www.codever.land/bookmarks/t/developer-conference](www.codever.land/bookmarks/t/developer-conference)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/developer-conference](https://www.codever.land/bookmarks/t/developer-conference)</sup></sup>_
 ---
 #### [Google I/O 2009 - The Myth of the Genius Programmer - 55min](https://www.youtube.com/watch?v=0SARbwvhupQ)
 _<sup>https://www.youtube.com/watch?v=0SARbwvhupQ</sup>_

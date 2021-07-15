@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[uml]](https://www.codever.land/search?q=[uml])
 
-_<sup><sup>[www.codever.land/bookmarks/t/uml](www.codever.land/bookmarks/t/uml)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/uml](https://www.codever.land/bookmarks/t/uml)</sup></sup>_
 ---
 #### [UML Association vs Aggregation vs Composition](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/uml-aggregation-vs-composition/)
 _<sup>https://www.visual-paradigm.com/guide/uml-unified-modeling-language/uml-aggregation-vs-composition/</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[symfony2]](https://www.codever.land/search?q=[symfony2])
 
-_<sup><sup>[www.codever.land/bookmarks/t/symfony2](www.codever.land/bookmarks/t/symfony2)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/symfony2](https://www.codever.land/bookmarks/t/symfony2)</sup></sup>_
 ---
 #### [REST APIs with Symfony2: the Right Way](http://williamdurand.fr/2012/08/02/rest-apis-with-symfony2-the-right-way/)
 _<sup>http://williamdurand.fr/2012/08/02/rest-apis-with-symfony2-the-right-way/</sup>_

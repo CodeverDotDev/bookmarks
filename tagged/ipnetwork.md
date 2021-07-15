@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[ipnetwork]](https://www.codever.land/search?q=[ipnetwork])
 
-_<sup><sup>[www.codever.land/bookmarks/t/ipnetwork](www.codever.land/bookmarks/t/ipnetwork)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/ipnetwork](https://www.codever.land/bookmarks/t/ipnetwork)</sup></sup>_
 ---
 #### [achanda/ipnetwork](https://github.com/achanda/ipnetwork)
 _<sup>https://github.com/achanda/ipnetwork</sup>_

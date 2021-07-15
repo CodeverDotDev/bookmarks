@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[application-architecture]](https://www.codever.land/search?q=[application-architecture])
 
-_<sup><sup>[www.codever.land/bookmarks/t/application-architecture](www.codever.land/bookmarks/t/application-architecture)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/application-architecture](https://www.codever.land/bookmarks/t/application-architecture)</sup></sup>_
 ---
 #### [Angular 2 Application Architecture: Build Reux-like Apps with RxJs](http://blog.angular-university.io/angular-2-application-architecture-building-applications-using-rxjs-and-functional-reactive-programming-vs-redux/)
 _<sup>http://blog.angular-university.io/angular-2-application-architecture-building-applications-using-rxj...</sup>_

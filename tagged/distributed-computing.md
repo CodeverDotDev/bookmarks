@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[distributed-computing]](https://www.codever.land/search?q=[distributed-computing])
 
-_<sup><sup>[www.codever.land/bookmarks/t/distributed-computing](www.codever.land/bookmarks/t/distributed-computing)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/distributed-computing](https://www.codever.land/bookmarks/t/distributed-computing)</sup></sup>_
 ---
 #### [GitHub - Netflix/chaosmonkey home page](https://github.com/Netflix/chaosmonkey)
 _<sup>https://github.com/Netflix/chaosmonkey</sup>_

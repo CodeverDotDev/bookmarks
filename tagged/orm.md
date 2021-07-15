@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[orm]](https://www.codever.land/search?q=[orm])
 
-_<sup><sup>[www.codever.land/bookmarks/t/orm](www.codever.land/bookmarks/t/orm)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/orm](https://www.codever.land/bookmarks/t/orm)</sup></sup>_
 ---
 #### [Sequelize ORM](https://sequelize.org/)
 _<sup>https://sequelize.org/</sup>_

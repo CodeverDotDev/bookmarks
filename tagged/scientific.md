@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[scientific]](https://www.codever.land/search?q=[scientific])
 
-_<sup><sup>[www.codever.land/bookmarks/t/scientific](www.codever.land/bookmarks/t/scientific)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/scientific](https://www.codever.land/bookmarks/t/scientific)</sup></sup>_
 ---
 #### [PyCall](https://github.com/mrkn/pycall.rb)
 _<sup>https://github.com/mrkn/pycall.rb</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[news]](https://www.codever.land/search?q=[news])
 
-_<sup><sup>[www.codever.land/bookmarks/t/news](www.codever.land/bookmarks/t/news)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/news](https://www.codever.land/bookmarks/t/news)</sup></sup>_
 ---
 #### [Torque Magazine - the latest WordPress news and developments](https://torquemag.io/)
 _<sup>https://torquemag.io/</sup>_

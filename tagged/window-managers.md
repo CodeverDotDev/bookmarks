@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[window-managers]](https://www.codever.land/search?q=[window-managers])
 
-_<sup><sup>[www.codever.land/bookmarks/t/window-managers](www.codever.land/bookmarks/t/window-managers)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/window-managers](https://www.codever.land/bookmarks/t/window-managers)</sup></sup>_
 ---
 #### [way-cooler/way-cooler](https://github.com/way-cooler/way-cooler)
 _<sup>https://github.com/way-cooler/way-cooler</sup>_

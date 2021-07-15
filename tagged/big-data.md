@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[big-data]](https://www.codever.land/search?q=[big-data])
 
-_<sup><sup>[www.codever.land/bookmarks/t/big-data](www.codever.land/bookmarks/t/big-data)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/big-data](https://www.codever.land/bookmarks/t/big-data)</sup></sup>_
 ---
 #### [Big Data: Concepts from A to Z - DEV Community 👩‍💻👨‍💻](https://dev.to/helenanders26/big-data-from-a-to-z-3l7j)
 _<sup>https://dev.to/helenanders26/big-data-from-a-to-z-3l7j</sup>_

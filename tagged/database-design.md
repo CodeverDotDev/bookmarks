@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[database-design]](https://www.codever.land/search?q=[database-design])
 
-_<sup><sup>[www.codever.land/bookmarks/t/database-design](www.codever.land/bookmarks/t/database-design)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/database-design](https://www.codever.land/bookmarks/t/database-design)</sup></sup>_
 ---
 #### [UUID or GUID as Primary Keys? Be Careful!](https://tomharrisonjr.com/uuid-or-guid-as-primary-keys-be-careful-7b2aa3dcb439)
 _<sup>https://tomharrisonjr.com/uuid-or-guid-as-primary-keys-be-careful-7b2aa3dcb439</sup>_

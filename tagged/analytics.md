@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[analytics]](https://www.codever.land/search?q=[analytics])
 
-_<sup><sup>[www.codever.land/bookmarks/t/analytics](www.codever.land/bookmarks/t/analytics)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/analytics](https://www.codever.land/bookmarks/t/analytics)</sup></sup>_
 ---
 #### [Grafana Home Page](https://grafana.com/)
 _<sup>https://grafana.com/</sup>_

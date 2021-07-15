@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[unix]](https://www.codever.land/search?q=[unix])
 
-_<sup><sup>[www.codever.land/bookmarks/t/unix](www.codever.land/bookmarks/t/unix)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/unix](https://www.codever.land/bookmarks/t/unix)</sup></sup>_
 ---
 #### [GitHub - jlevy/the-art-of-command-line: Master the command line, in one page](https://github.com/jlevy/the-art-of-command-line)
 _<sup>https://github.com/jlevy/the-art-of-command-line</sup>_

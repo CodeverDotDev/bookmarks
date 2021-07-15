@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[interview-question]](https://www.codever.land/search?q=[interview-question])
 
-_<sup><sup>[www.codever.land/bookmarks/t/interview-question](www.codever.land/bookmarks/t/interview-question)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/interview-question](https://www.codever.land/bookmarks/t/interview-question)</sup></sup>_
 ---
 #### [GitHub - jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)
 _<sup>https://github.com/jwasham/coding-interview-university</sup>_

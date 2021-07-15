@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[es7]](https://www.codever.land/search?q=[es7])
 
-_<sup><sup>[www.codever.land/bookmarks/t/es7](www.codever.land/bookmarks/t/es7)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/es7](https://www.codever.land/bookmarks/t/es7)</sup></sup>_
 ---
 #### [Taming the asynchronous beast with ES7](https://pouchdb.com/2015/03/05/taming-the-async-beast-with-es7.html)
 _<sup>https://pouchdb.com/2015/03/05/taming-the-async-beast-with-es7.html</sup>_

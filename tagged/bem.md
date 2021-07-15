@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[bem]](https://www.codever.land/search?q=[bem])
 
-_<sup><sup>[www.codever.land/bookmarks/t/bem](www.codever.land/bookmarks/t/bem)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/bem](https://www.codever.land/bookmarks/t/bem)</sup></sup>_
 ---
 #### [awesome-BEM-resources](https://github.com/sturobson/BEM-resources#readme)
 _<sup>https://github.com/sturobson/BEM-resources#readme</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[microfrontend]](https://www.codever.land/search?q=[microfrontend])
 
-_<sup><sup>[www.codever.land/bookmarks/t/microfrontend](www.codever.land/bookmarks/t/microfrontend)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/microfrontend](https://www.codever.land/bookmarks/t/microfrontend)</sup></sup>_
 ---
 #### [Luigi - The Enterprise-Ready Micro Frontend Framework](https://luigi-project.io/)
 _<sup>https://luigi-project.io/</sup>_

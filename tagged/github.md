@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[github]](https://www.codever.land/search?q=[github])
 
-_<sup><sup>[www.codever.land/bookmarks/t/github](www.codever.land/bookmarks/t/github)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/github](https://www.codever.land/bookmarks/t/github)</sup></sup>_
 ---
 #### [Docker images for syslog-ng development, testing, playground.](https://github.com/balabit/syslog-ng-docker)
 _<sup>https://github.com/balabit/syslog-ng-docker</sup>_

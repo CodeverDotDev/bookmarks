@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[security-tools]](https://www.codever.land/search?q=[security-tools])
 
-_<sup><sup>[www.codever.land/bookmarks/t/security-tools](www.codever.land/bookmarks/t/security-tools)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/security-tools](https://www.codever.land/bookmarks/t/security-tools)</sup></sup>_
 ---
 #### [Analyse des dépendances - Sécurisation du cycle de développement applicatif](https://blog.wescale.fr/2021/06/22/securisation-du-cycle-de-developpement-applicatif-analyse-des-dependances/)
 _<sup>https://blog.wescale.fr/2021/06/22/securisation-du-cycle-de-developpement-applicatif-analyse-des-dep...</sup>_

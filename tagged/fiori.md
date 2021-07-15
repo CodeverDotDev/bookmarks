@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[fiori]](https://www.codever.land/search?q=[fiori])
 
-_<sup><sup>[www.codever.land/bookmarks/t/fiori](www.codever.land/bookmarks/t/fiori)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/fiori](https://www.codever.land/bookmarks/t/fiori)</sup></sup>_
 ---
 #### [SAP Fiori Apps Reference Library](https://fioriappslibrary.hana.ondemand.com/sap/fix/externalViewer/)
 _<sup>https://fioriappslibrary.hana.ondemand.com/sap/fix/externalViewer/</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[tcl-tk]](https://www.codever.land/search?q=[tcl-tk])
 
-_<sup><sup>[www.codever.land/bookmarks/t/tcl-tk](www.codever.land/bookmarks/t/tcl-tk)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/tcl-tk](https://www.codever.land/bookmarks/t/tcl-tk)</sup></sup>_
 ---
 #### [Tcl/Tk入門](http://aoba.cc.saga-u.ac.jp/lecture/TclTk/text.pdf)
 _<sup>http://aoba.cc.saga-u.ac.jp/lecture/TclTk/text.pdf</sup>_

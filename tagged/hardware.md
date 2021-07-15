@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[hardware]](https://www.codever.land/search?q=[hardware])
 
-_<sup><sup>[www.codever.land/bookmarks/t/hardware](www.codever.land/bookmarks/t/hardware)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/hardware](https://www.codever.land/bookmarks/t/hardware)</sup></sup>_
 ---
 #### [ino](http://inotool.org/)
 _<sup>http://inotool.org/</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[immutable.js]](https://www.codever.land/search?q=[immutable.js])
 
-_<sup><sup>[www.codever.land/bookmarks/t/immutable.js](www.codever.land/bookmarks/t/immutable.js)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/immutable.js](https://www.codever.land/bookmarks/t/immutable.js)</sup></sup>_
 ---
 #### [Immutable.js home page](https://immutable-js.github.io/immutable-js/)
 _<sup>https://immutable-js.github.io/immutable-js/</sup>_

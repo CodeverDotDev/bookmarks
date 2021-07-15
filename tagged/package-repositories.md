@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[package-repositories]](https://www.codever.land/search?q=[package-repositories])
 
-_<sup><sup>[www.codever.land/bookmarks/t/package-repositories](www.codever.land/bookmarks/t/package-repositories)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/package-repositories](https://www.codever.land/bookmarks/t/package-repositories)</sup></sup>_
 ---
 #### [warehouse](https://github.com/pypa/warehouse)
 _<sup>https://github.com/pypa/warehouse</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[command-line]](https://www.codever.land/search?q=[command-line])
 
-_<sup><sup>[www.codever.land/bookmarks/t/command-line](www.codever.land/bookmarks/t/command-line)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/command-line](https://www.codever.land/bookmarks/t/command-line)</sup></sup>_
 ---
 #### [How to find out line-endings in a text file?](https://stackoverflow.com/questions/3569997/how-to-find-out-line-endings-in-a-text-file)
 _<sup>https://stackoverflow.com/questions/3569997/how-to-find-out-line-endings-in-a-text-file</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[bigonotation]](https://www.codever.land/search?q=[bigonotation])
 
-_<sup><sup>[www.codever.land/bookmarks/t/bigonotation](www.codever.land/bookmarks/t/bigonotation)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/bigonotation](https://www.codever.land/bookmarks/t/bigonotation)</sup></sup>_
 ---
 #### [ELI5: What is Big O notation? : explainlikeimfive](https://www.reddit.com/r/explainlikeimfive/comments/1fxgvv/eli5_what_is_big_o_notation/)
 _<sup>https://www.reddit.com/r/explainlikeimfive/comments/1fxgvv/eli5_what_is_big_o_notation/</sup>_

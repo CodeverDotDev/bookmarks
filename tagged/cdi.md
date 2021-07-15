@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[cdi]](https://www.codever.land/search?q=[cdi])
 
-_<sup><sup>[www.codever.land/bookmarks/t/cdi](www.codever.land/bookmarks/t/cdi)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/cdi](https://www.codever.land/bookmarks/t/cdi)</sup></sup>_
 ---
 #### [CDI and @Startup: SOLVED! | New posts here >>> rmannibucau.metawerx.net](https://rmannibucau.wordpress.com/2015/03/10/cdi-and-startup/)
 _<sup>https://rmannibucau.wordpress.com/2015/03/10/cdi-and-startup/</sup>_

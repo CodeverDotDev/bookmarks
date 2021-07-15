@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[tei]](https://www.codever.land/search?q=[tei])
 
-_<sup><sup>[www.codever.land/bookmarks/t/tei](www.codever.land/bookmarks/t/tei)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/tei](https://www.codever.land/bookmarks/t/tei)</sup></sup>_
 ---
 #### [Qu'est-ce que la Text Encoding Initiative ?](http://books.openedition.org/oep/1237)
 _<sup>http://books.openedition.org/oep/1237</sup>_

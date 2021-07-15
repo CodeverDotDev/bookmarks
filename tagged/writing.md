@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[writing]](https://www.codever.land/search?q=[writing])
 
-_<sup><sup>[www.codever.land/bookmarks/t/writing](www.codever.land/bookmarks/t/writing)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/writing](https://www.codever.land/bookmarks/t/writing)</sup></sup>_
 ---
 #### [kylelobo/The-Documentation-Compendium](https://github.com/kylelobo/The-Documentation-Compendium)
 _<sup>https://github.com/kylelobo/The-Documentation-Compendium</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[react-hooks]](https://www.codever.land/search?q=[react-hooks])
 
-_<sup><sup>[www.codever.land/bookmarks/t/react-hooks](www.codever.land/bookmarks/t/react-hooks)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/react-hooks](https://www.codever.land/bookmarks/t/react-hooks)</sup></sup>_
 ---
 #### [React Hooks](https://reactjs.org/docs/hooks-intro.html)
 _<sup>https://reactjs.org/docs/hooks-intro.html</sup>_

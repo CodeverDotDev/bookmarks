@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[mongoose]](https://www.codever.land/search?q=[mongoose])
 
-_<sup><sup>[www.codever.land/bookmarks/t/mongoose](www.codever.land/bookmarks/t/mongoose)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/mongoose](https://www.codever.land/bookmarks/t/mongoose)</sup></sup>_
 ---
 #### [Mongoose](https://mongoosejs.com/docs/guide.html)
 _<sup>https://mongoosejs.com/docs/guide.html</sup>_

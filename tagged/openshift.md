@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[openshift]](https://www.codever.land/search?q=[openshift])
 
-_<sup><sup>[www.codever.land/bookmarks/t/openshift](www.codever.land/bookmarks/t/openshift)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/openshift](https://www.codever.land/bookmarks/t/openshift)</sup></sup>_
 ---
 #### [GitHub - openshift/source-to-image: A tool for building/building artifacts from source and injecting into docker images](https://github.com/openshift/source-to-image)
 _<sup>https://github.com/openshift/source-to-image</sup>_

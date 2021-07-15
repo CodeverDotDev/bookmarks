@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[maven]](https://www.codever.land/search?q=[maven])
 
-_<sup><sup>[www.codever.land/bookmarks/t/maven](www.codever.land/bookmarks/t/maven)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/maven](https://www.codever.land/bookmarks/t/maven)</sup></sup>_
 ---
 #### [Maven – Maven Releases History](https://maven.apache.org/docs/history.html)
 _<sup>https://maven.apache.org/docs/history.html</sup>_

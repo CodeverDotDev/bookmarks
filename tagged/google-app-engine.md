@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[google-app-engine]](https://www.codever.land/search?q=[google-app-engine])
 
-_<sup><sup>[www.codever.land/bookmarks/t/google-app-engine](www.codever.land/bookmarks/t/google-app-engine)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/google-app-engine](https://www.codever.land/bookmarks/t/google-app-engine)</sup></sup>_
 ---
 #### [DenisKolodin/rust-app-engine](https://github.com/DenisKolodin/rust-app-engine)
 _<sup>https://github.com/DenisKolodin/rust-app-engine</sup>_

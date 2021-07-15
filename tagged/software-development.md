@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[software-development]](https://www.codever.land/search?q=[software-development])
 
-_<sup><sup>[www.codever.land/bookmarks/t/software-development](www.codever.land/bookmarks/t/software-development)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/software-development](https://www.codever.land/bookmarks/t/software-development)</sup></sup>_
 ---
 #### [Les principes SOLID – Programmation orientée objet • Dev Java ](https://dev-java.fr/principes-solid-programmation-objet/)
 _<sup>https://dev-java.fr/principes-solid-programmation-objet/</sup>_

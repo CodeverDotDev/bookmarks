@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[graylog]](https://www.codever.land/search?q=[graylog])
 
-_<sup><sup>[www.codever.land/bookmarks/t/graylog](www.codever.land/bookmarks/t/graylog)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/graylog](https://www.codever.land/bookmarks/t/graylog)</sup></sup>_
 ---
 #### [Graylog documentation ](http://docs.graylog.org)
 _<sup>http://docs.graylog.org</sup>_

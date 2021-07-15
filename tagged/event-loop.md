@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[event-loop]](https://www.codever.land/search?q=[event-loop])
 
-_<sup><sup>[www.codever.land/bookmarks/t/event-loop](www.codever.land/bookmarks/t/event-loop)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/event-loop](https://www.codever.land/bookmarks/t/event-loop)</sup></sup>_
 ---
 #### [33 Fundamentals Every JavaScript Developer Should Know | by Stephen Curtis](https://medium.com/@stephenthecurt/33-fundamentals-every-javascript-developer-should-know-13dd720a90d1)
 _<sup>https://medium.com/@stephenthecurt/33-fundamentals-every-javascript-developer-should-know-13dd720a90...</sup>_

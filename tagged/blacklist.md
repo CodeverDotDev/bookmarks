@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[blacklist]](https://www.codever.land/search?q=[blacklist])
 
-_<sup><sup>[www.codever.land/bookmarks/t/blacklist](www.codever.land/bookmarks/t/blacklist)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/blacklist](https://www.codever.land/bookmarks/t/blacklist)</sup></sup>_
 ---
 #### [Email Blocklist Checker](https://grademyemail.co/email-blocklist-checker)
 _<sup>https://grademyemail.co/email-blocklist-checker</sup>_

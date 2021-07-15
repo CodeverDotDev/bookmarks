@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[bazel]](https://www.codever.land/search?q=[bazel])
 
-_<sup><sup>[www.codever.land/bookmarks/t/bazel](www.codever.land/bookmarks/t/bazel)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/bazel](https://www.codever.land/bookmarks/t/bazel)</sup></sup>_
 ---
 #### [Google Open Source Container Tools: Life of a happy developer in a container world  by  David Gageot - YouTube](https://www.youtube.com/watch?v=4uU44VviyjM)
 _<sup>https://www.youtube.com/watch?v=4uU44VviyjM</sup>_

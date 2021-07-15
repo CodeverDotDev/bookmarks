@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[diff]](https://www.codever.land/search?q=[diff])
 
-_<sup><sup>[www.codever.land/bookmarks/t/diff](www.codever.land/bookmarks/t/diff)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/diff](https://www.codever.land/bookmarks/t/diff)</sup></sup>_
 ---
 #### [Diffy](https://github.com/samg/diffy)
 _<sup>https://github.com/samg/diffy</sup>_

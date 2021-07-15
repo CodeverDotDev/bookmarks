@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[object-comparison]](https://www.codever.land/search?q=[object-comparison])
 
-_<sup><sup>[www.codever.land/bookmarks/t/object-comparison](www.codever.land/bookmarks/t/object-comparison)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/object-comparison](https://www.codever.land/bookmarks/t/object-comparison)</sup></sup>_
 ---
 #### [Object comparison in JavaScript](https://stackoverflow.com/questions/1068834/object-comparison-in-javascript)
 _<sup>https://stackoverflow.com/questions/1068834/object-comparison-in-javascript</sup>_

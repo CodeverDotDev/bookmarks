@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[micropython]](https://www.codever.land/search?q=[micropython])
 
-_<sup><sup>[www.codever.land/bookmarks/t/micropython](www.codever.land/bookmarks/t/micropython)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/micropython](https://www.codever.land/bookmarks/t/micropython)</sup></sup>_
 ---
 #### [awesome-circuitpython](https://github.com/adafruit/awesome-circuitpython#readme)
 _<sup>https://github.com/adafruit/awesome-circuitpython#readme</sup>_

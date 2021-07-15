@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[diagnostics]](https://www.codever.land/search?q=[diagnostics])
 
-_<sup><sup>[www.codever.land/bookmarks/t/diagnostics](www.codever.land/bookmarks/t/diagnostics)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/diagnostics](https://www.codever.land/bookmarks/t/diagnostics)</sup></sup>_
 ---
 #### [Arthas Java Diagnostics Tool - home page ](https://alibaba.github.io/arthas/en/)
 _<sup>https://alibaba.github.io/arthas/en/</sup>_

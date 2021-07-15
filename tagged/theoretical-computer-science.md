@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[theoretical-computer-science]](https://www.codever.land/search?q=[theoretical-computer-science])
 
-_<sup><sup>[www.codever.land/bookmarks/t/theoretical-computer-science](www.codever.land/bookmarks/t/theoretical-computer-science)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/theoretical-computer-science](https://www.codever.land/bookmarks/t/theoretical-computer-science)</sup></sup>_
 ---
 #### [Think Complexity](http://www.greenteapress.com/compmod/)
 _<sup>http://www.greenteapress.com/compmod/</sup>_

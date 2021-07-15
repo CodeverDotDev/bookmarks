@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[batch]](https://www.codever.land/search?q=[batch])
 
-_<sup><sup>[www.codever.land/bookmarks/t/batch](www.codever.land/bookmarks/t/batch)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/batch](https://www.codever.land/bookmarks/t/batch)</sup></sup>_
 ---
 #### [graphql/dataloader home page](https://github.com/graphql/dataloader)
 _<sup>https://github.com/graphql/dataloader</sup>_

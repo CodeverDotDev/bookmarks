@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[state-management]](https://www.codever.land/search?q=[state-management])
 
-_<sup><sup>[www.codever.land/bookmarks/t/state-management](www.codever.land/bookmarks/t/state-management)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/state-management](https://www.codever.land/bookmarks/t/state-management)</sup></sup>_
 ---
 #### [Managing State in Angular 2 - Kyle Cordes - Oct 2016 - 46min](https://www.youtube.com/watch?v=eBLTz8QRg4Q)
 _<sup>https://www.youtube.com/watch?v=eBLTz8QRg4Q</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[java-ee]](https://www.codever.land/search?q=[java-ee])
 
-_<sup><sup>[www.codever.land/bookmarks/t/java-ee](www.codever.land/bookmarks/t/java-ee)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/java-ee](https://www.codever.land/bookmarks/t/java-ee)</sup></sup>_
 ---
 #### [JSR 346: Contexts and Dependency Injection for JavaTM EE 1.1](https://jcp.org/en/jsr/detail?id=346)
 _<sup>https://jcp.org/en/jsr/detail?id=346</sup>_

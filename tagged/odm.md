@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[odm]](https://www.codever.land/search?q=[odm])
 
-_<sup><sup>[www.codever.land/bookmarks/t/odm](www.codever.land/bookmarks/t/odm)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/odm](https://www.codever.land/bookmarks/t/odm)</sup></sup>_
 ---
 #### [ActiveRecord](https://github.com/rails/rails/tree/master/activerecord)
 _<sup>https://github.com/rails/rails/tree/master/activerecord</sup>_

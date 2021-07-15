@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[currency]](https://www.codever.land/search?q=[currency])
 
-_<sup><sup>[www.codever.land/bookmarks/t/currency](www.codever.land/bookmarks/t/currency)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/currency](https://www.codever.land/bookmarks/t/currency)</sup></sup>_
 ---
 #### [Stripe Currency - Are all amounts in cents / 100ths, or does it depend on currency?](https://stackoverflow.com/questions/35326710/stripe-currency-are-all-amounts-in-cents-100ths-or-does-it-depend-on-curren)
 _<sup>https://stackoverflow.com/questions/35326710/stripe-currency-are-all-amounts-in-cents-100ths-or-does...</sup>_

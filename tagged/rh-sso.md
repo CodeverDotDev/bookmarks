@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[rh-sso]](https://www.codever.land/search?q=[rh-sso])
 
-_<sup><sup>[www.codever.land/bookmarks/t/rh-sso](www.codever.land/bookmarks/t/rh-sso)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/rh-sso](https://www.codever.land/bookmarks/t/rh-sso)</sup></sup>_
 ---
 #### [Mapping LDAP Group and Roles to RedHat SSO Keycloak - JANUA](http://www.janua.fr/mapping-ldap-group-and-roles-to-redhat-sso-keycloak/)
 _<sup>http://www.janua.fr/mapping-ldap-group-and-roles-to-redhat-sso-keycloak/</sup>_

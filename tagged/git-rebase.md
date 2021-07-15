@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[git-rebase]](https://www.codever.land/search?q=[git-rebase])
 
-_<sup><sup>[www.codever.land/bookmarks/t/git-rebase](www.codever.land/bookmarks/t/git-rebase)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/git-rebase](https://www.codever.land/bookmarks/t/git-rebase)</sup></sup>_
 ---
 #### [Git Tips #2 - Change editor for interactive Git rebase](https://www.kevinkuszyk.com/2016/03/08/git-tips-2-change-editor-for-interactive-git-rebase/)
 _<sup>https://www.kevinkuszyk.com/2016/03/08/git-tips-2-change-editor-for-interactive-git-rebase/</sup>_

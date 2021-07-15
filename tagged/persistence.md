@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[persistence]](https://www.codever.land/search?q=[persistence])
 
-_<sup><sup>[www.codever.land/bookmarks/t/persistence](www.codever.land/bookmarks/t/persistence)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/persistence](https://www.codever.land/bookmarks/t/persistence)</sup></sup>_
 ---
 #### [What is the best way to upload and store pictures on the site?](https://stackoverflow.com/questions/8922056/what-is-the-best-way-to-upload-and-store-pictures-on-the-site/8922090#8922090)
 _<sup>https://stackoverflow.com/questions/8922056/what-is-the-best-way-to-upload-and-store-pictures-on-the...</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[hibernate]](https://www.codever.land/search?q=[hibernate])
 
-_<sup><sup>[www.codever.land/bookmarks/t/hibernate](www.codever.land/bookmarks/t/hibernate)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/hibernate](https://www.codever.land/bookmarks/t/hibernate)</sup></sup>_
 ---
 #### [Enum Mappings with Hibernate - The Complete Guide](https://thorben-janssen.com/hibernate-enum-mappings/)
 _<sup>https://thorben-janssen.com/hibernate-enum-mappings/</sup>_

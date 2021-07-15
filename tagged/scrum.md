@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[scrum]](https://www.codever.land/search?q=[scrum])
 
-_<sup><sup>[www.codever.land/bookmarks/t/scrum](www.codever.land/bookmarks/t/scrum)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/scrum](https://www.codever.land/bookmarks/t/scrum)</sup></sup>_
 ---
 #### [Scrum - what it is, how it works, and why it's awesome](https://www.atlassian.com/agile/scrum)
 _<sup>https://www.atlassian.com/agile/scrum</sup>_

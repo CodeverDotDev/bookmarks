@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[h2o]](https://www.codever.land/search?q=[h2o])
 
-_<sup><sup>[www.codever.land/bookmarks/t/h2o](www.codever.land/bookmarks/t/h2o)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/h2o](https://www.codever.land/bookmarks/t/h2o)</sup></sup>_
 ---
 #### [awesome-h2o](https://github.com/h2oai/awesome-h2o#readme)
 _<sup>https://github.com/h2oai/awesome-h2o#readme</sup>_

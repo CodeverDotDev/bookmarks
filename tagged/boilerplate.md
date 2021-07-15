@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[boilerplate]](https://www.codever.land/search?q=[boilerplate])
 
-_<sup><sup>[www.codever.land/bookmarks/t/boilerplate](www.codever.land/bookmarks/t/boilerplate)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/boilerplate](https://www.codever.land/bookmarks/t/boilerplate)</sup></sup>_
 ---
 #### [Create React Native App - Create a React Native app on any OS with no build config, with or without Expo](https://github.com/react-community/create-react-native-app)
 _<sup>https://github.com/react-community/create-react-native-app</sup>_

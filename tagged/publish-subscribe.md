@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[publish-subscribe]](https://www.codever.land/search?q=[publish-subscribe])
 
-_<sup><sup>[www.codever.land/bookmarks/t/publish-subscribe](www.codever.land/bookmarks/t/publish-subscribe)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/publish-subscribe](https://www.codever.land/bookmarks/t/publish-subscribe)</sup></sup>_
 ---
 #### [Testing apps locally with the emulator  - Google Pub/Sub](https://cloud.google.com/pubsub/docs/emulator)
 _<sup>https://cloud.google.com/pubsub/docs/emulator</sup>_

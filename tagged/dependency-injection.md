@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[dependency-injection]](https://www.codever.land/search?q=[dependency-injection])
 
-_<sup><sup>[www.codever.land/bookmarks/t/dependency-injection](www.codever.land/bookmarks/t/dependency-injection)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/dependency-injection](https://www.codever.land/bookmarks/t/dependency-injection)</sup></sup>_
 ---
 #### [Understanding Constructor Injection - Manning](https://freecontent.manning.com/understanding-constructor-injection/)
 _<sup>https://freecontent.manning.com/understanding-constructor-injection/</sup>_

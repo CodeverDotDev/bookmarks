@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[access-token]](https://www.codever.land/search?q=[access-token])
 
-_<sup><sup>[www.codever.land/bookmarks/t/access-token](www.codever.land/bookmarks/t/access-token)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/access-token](https://www.codever.land/bookmarks/t/access-token)</sup></sup>_
 ---
 #### [Offline Sessions and Offline tokens within Keycloak - JANUA](https://www.janua.fr/offline-sessions-and-offline-tokens-within-keycloak/)
 _<sup>https://www.janua.fr/offline-sessions-and-offline-tokens-within-keycloak/</sup>_

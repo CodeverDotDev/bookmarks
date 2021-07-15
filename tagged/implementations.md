@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[implementations]](https://www.codever.land/search?q=[implementations])
 
-_<sup><sup>[www.codever.land/bookmarks/t/implementations](www.codever.land/bookmarks/t/implementations)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/implementations](https://www.codever.land/bookmarks/t/implementations)</sup></sup>_
 ---
 #### [CDI Reference Implementation latest](https://docs.jboss.org/weld/reference/latest/en-US/html_single/)
 _<sup>https://docs.jboss.org/weld/reference/latest/en-US/html_single/</sup>_

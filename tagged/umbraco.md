@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[umbraco]](https://www.codever.land/search?q=[umbraco])
 
-_<sup><sup>[www.codever.land/bookmarks/t/umbraco](www.codever.land/bookmarks/t/umbraco)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/umbraco](https://www.codever.land/bookmarks/t/umbraco)</sup></sup>_
 ---
 #### [awesome-umbraco](https://github.com/umbraco-community/awesome-umbraco#readme)
 _<sup>https://github.com/umbraco-community/awesome-umbraco#readme</sup>_

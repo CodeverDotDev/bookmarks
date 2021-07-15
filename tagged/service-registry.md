@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[service-registry]](https://www.codever.land/search?q=[service-registry])
 
-_<sup><sup>[www.codever.land/bookmarks/t/service-registry](www.codever.land/bookmarks/t/service-registry)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/service-registry](https://www.codever.land/bookmarks/t/service-registry)</sup></sup>_
 ---
 #### [GitHub - Netflix/eureka](https://github.com/Netflix/eureka)
 _<sup>https://github.com/Netflix/eureka</sup>_

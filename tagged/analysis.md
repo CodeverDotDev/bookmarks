@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[analysis]](https://www.codever.land/search?q=[analysis])
 
-_<sup><sup>[www.codever.land/bookmarks/t/analysis](www.codever.land/bookmarks/t/analysis)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/analysis](https://www.codever.land/bookmarks/t/analysis)</sup></sup>_
 ---
 #### [AwesomeTechStack](https://awesometechstack.com)
 _<sup>https://awesometechstack.com</sup>_

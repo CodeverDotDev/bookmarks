@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[promises]](https://www.codever.land/search?q=[promises])
 
-_<sup><sup>[www.codever.land/bookmarks/t/promises](www.codever.land/bookmarks/t/promises)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/promises](https://www.codever.land/bookmarks/t/promises)</sup></sup>_
 ---
 #### [Deno - A secure runtime for JavaScript and TypeScriptMenu | DenoGithub | Deno](https://deno.land/)
 _<sup>https://deno.land/</sup>_

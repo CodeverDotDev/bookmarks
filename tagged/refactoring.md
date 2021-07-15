@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[refactoring]](https://www.codever.land/search?q=[refactoring])
 
-_<sup><sup>[www.codever.land/bookmarks/t/refactoring](www.codever.land/bookmarks/t/refactoring)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/refactoring](https://www.codever.land/bookmarks/t/refactoring)</sup></sup>_
 ---
 #### [Replacing Throwing Exceptions with Notification in Validations](https://martinfowler.com/articles/replaceThrowWithNotification.html)
 _<sup>https://martinfowler.com/articles/replaceThrowWithNotification.html</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[python]](https://www.codever.land/search?q=[python])
 
-_<sup><sup>[www.codever.land/bookmarks/t/python](www.codever.land/bookmarks/t/python)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/python](https://www.codever.land/bookmarks/t/python)</sup></sup>_
 ---
 #### [Integrating Javascript and python](https://writtenwisdom.hashnode.dev/integrating-javascript-and-python)
 _<sup>https://writtenwisdom.hashnode.dev/integrating-javascript-and-python</sup>_

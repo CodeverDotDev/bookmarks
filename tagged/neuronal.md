@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[neuronal]](https://www.codever.land/search?q=[neuronal])
 
-_<sup><sup>[www.codever.land/bookmarks/t/neuronal](www.codever.land/bookmarks/t/neuronal)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/neuronal](https://www.codever.land/bookmarks/t/neuronal)</sup></sup>_
 ---
 #### [Qdrant - Vector Search Engine](https://qdrant.tech/)
 _<sup>https://qdrant.tech/</sup>_

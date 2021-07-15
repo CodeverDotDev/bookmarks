@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[prolog]](https://www.codever.land/search?q=[prolog])
 
-_<sup><sup>[www.codever.land/bookmarks/t/prolog](www.codever.land/bookmarks/t/prolog)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/prolog](https://www.codever.land/bookmarks/t/prolog)</sup></sup>_
 ---
 #### [Programowanie w logice z ograniczeniami: Łagodne wprowadzenie dla platformy ECLiPSe](http://www.pwlzo.pl)
 _<sup>http://www.pwlzo.pl</sup>_

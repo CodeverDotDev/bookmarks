@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[wsgi]](https://www.codever.land/search?q=[wsgi])
 
-_<sup><sup>[www.codever.land/bookmarks/t/wsgi](www.codever.land/bookmarks/t/wsgi)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/wsgi](https://www.codever.land/bookmarks/t/wsgi)</sup></sup>_
 ---
 #### [bjoern](https://github.com/jonashaag/bjoern)
 _<sup>https://github.com/jonashaag/bjoern</sup>_

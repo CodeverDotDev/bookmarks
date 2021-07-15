@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[voice-command]](https://www.codever.land/search?q=[voice-command])
 
-_<sup><sup>[www.codever.land/bookmarks/t/voice-command](www.codever.land/bookmarks/t/voice-command)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/voice-command](https://www.codever.land/bookmarks/t/voice-command)</sup></sup>_
 ---
 #### [annyang](https://github.com/TalAter/annyang)
 _<sup>https://github.com/TalAter/annyang</sup>_

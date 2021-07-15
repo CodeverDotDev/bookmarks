@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[git-commit]](https://www.codever.land/search?q=[git-commit])
 
-_<sup><sup>[www.codever.land/bookmarks/t/git-commit](www.codever.land/bookmarks/t/git-commit)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/git-commit](https://www.codever.land/bookmarks/t/git-commit)</sup></sup>_
 ---
 #### [How to change the git commit author?](https://brayanarrieta.hashnode.dev/how-to-change-the-git-commit-author)
 _<sup>https://brayanarrieta.hashnode.dev/how-to-change-the-git-commit-author</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[pop3]](https://www.codever.land/search?q=[pop3])
 
-_<sup><sup>[www.codever.land/bookmarks/t/pop3](www.codever.land/bookmarks/t/pop3)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/pop3](https://www.codever.land/bookmarks/t/pop3)</sup></sup>_
 ---
 #### [mattnenterprise/rust-pop3](https://github.com/mattnenterprise/rust-pop3)
 _<sup>https://github.com/mattnenterprise/rust-pop3</sup>_

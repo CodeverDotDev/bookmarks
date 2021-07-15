@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[http-server]](https://www.codever.land/search?q=[http-server])
 
-_<sup><sup>[www.codever.land/bookmarks/t/http-server](www.codever.land/bookmarks/t/http-server)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/http-server](https://www.codever.land/bookmarks/t/http-server)</sup></sup>_
 ---
 #### [express-graphql](https://github.com/graphql/express-graphql)
 _<sup>https://github.com/graphql/express-graphql</sup>_

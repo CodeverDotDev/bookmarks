@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[paradigm-programming]](https://www.codever.land/search?q=[paradigm-programming])
 
-_<sup><sup>[www.codever.land/bookmarks/t/paradigm-programming](www.codever.land/bookmarks/t/paradigm-programming)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/paradigm-programming](https://www.codever.land/bookmarks/t/paradigm-programming)</sup></sup>_
 ---
 #### [Практика функционального программирования](http://fprog.ru)
 _<sup>http://fprog.ru</sup>_

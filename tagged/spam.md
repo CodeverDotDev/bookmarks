@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[spam]](https://www.codever.land/search?q=[spam])
 
-_<sup><sup>[www.codever.land/bookmarks/t/spam](www.codever.land/bookmarks/t/spam)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/spam](https://www.codever.land/bookmarks/t/spam)</sup></sup>_
 ---
 #### [Email Blocklist Checker](https://grademyemail.co/email-blocklist-checker)
 _<sup>https://grademyemail.co/email-blocklist-checker</sup>_

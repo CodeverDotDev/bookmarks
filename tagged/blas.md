@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[blas]](https://www.codever.land/search?q=[blas])
 
-_<sup><sup>[www.codever.land/bookmarks/t/blas](www.codever.land/bookmarks/t/blas)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/blas](https://www.codever.land/bookmarks/t/blas)</sup></sup>_
 ---
 #### [mikkyang/rust-blas](https://github.com/mikkyang/rust-blas)
 _<sup>https://github.com/mikkyang/rust-blas</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[sage]](https://www.codever.land/search?q=[sage])
 
-_<sup><sup>[www.codever.land/bookmarks/t/sage](www.codever.land/bookmarks/t/sage)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/sage](https://www.codever.land/bookmarks/t/sage)</sup></sup>_
 ---
 #### [Calcul mathématique avec Sage](https://hal.inria.fr/inria-00540485/file/sagebook-web-20130530.pdf)
 _<sup>https://hal.inria.fr/inria-00540485/file/sagebook-web-20130530.pdf</sup>_

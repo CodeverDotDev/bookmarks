@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[keystore]](https://www.codever.land/search?q=[keystore])
 
-_<sup><sup>[www.codever.land/bookmarks/t/keystore](www.codever.land/bookmarks/t/keystore)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/keystore](https://www.codever.land/bookmarks/t/keystore)</sup></sup>_
 ---
 #### [Difference Between Java Keystore and Truststore](https://www.baeldung.com/java-keystore-truststore-difference)
 _<sup>https://www.baeldung.com/java-keystore-truststore-difference</sup>_

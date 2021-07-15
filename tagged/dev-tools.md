@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[dev-tools]](https://www.codever.land/search?q=[dev-tools])
 
-_<sup><sup>[www.codever.land/bookmarks/t/dev-tools](www.codever.land/bookmarks/t/dev-tools)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/dev-tools](https://www.codever.land/bookmarks/t/dev-tools)</sup></sup>_
 ---
 #### [The HTML presentation framework - reveal.js home page](https://revealjs.com/)
 _<sup>https://revealjs.com/</sup>_

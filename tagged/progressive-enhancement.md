@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[progressive-enhancement]](https://www.codever.land/search?q=[progressive-enhancement])
 
-_<sup><sup>[www.codever.land/bookmarks/t/progressive-enhancement](www.codever.land/bookmarks/t/progressive-enhancement)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/progressive-enhancement](https://www.codever.land/bookmarks/t/progressive-enhancement)</sup></sup>_
 ---
 #### [awesome-progressive-enhancement-resources](https://github.com/jbmoelker/progressive-enhancement-resources#readme)
 _<sup>https://github.com/jbmoelker/progressive-enhancement-resources#readme</sup>_

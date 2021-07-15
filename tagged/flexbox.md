@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[flexbox]](https://www.codever.land/search?q=[flexbox])
 
-_<sup><sup>[www.codever.land/bookmarks/t/flexbox](www.codever.land/bookmarks/t/flexbox)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/flexbox](https://www.codever.land/bookmarks/t/flexbox)</sup></sup>_
 ---
 #### [The Most Popular Navigation Bars created with Flexbox](https://medium.com/flexbox-and-grids/the-most-popular-navigation-bars-created-with-flexbox-6c0f59f55686)
 _<sup>https://medium.com/flexbox-and-grids/the-most-popular-navigation-bars-created-with-flexbox-6c0f59f55...</sup>_

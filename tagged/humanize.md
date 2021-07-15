@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[humanize]](https://www.codever.land/search?q=[humanize])
 
-_<sup><sup>[www.codever.land/bookmarks/t/humanize](www.codever.land/bookmarks/t/humanize)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/humanize](https://www.codever.land/bookmarks/t/humanize)</sup></sup>_
 ---
 #### [pretty-bytes](https://github.com/sindresorhus/pretty-bytes)
 _<sup>https://github.com/sindresorhus/pretty-bytes</sup>_

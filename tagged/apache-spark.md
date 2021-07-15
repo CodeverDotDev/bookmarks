@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[apache-spark]](https://www.codever.land/search?q=[apache-spark])
 
-_<sup><sup>[www.codever.land/bookmarks/t/apache-spark](www.codever.land/bookmarks/t/apache-spark)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/apache-spark](https://www.codever.land/bookmarks/t/apache-spark)</sup></sup>_
 ---
 #### [awesome-spark](https://github.com/awesome-spark/awesome-spark#readme)
 _<sup>https://github.com/awesome-spark/awesome-spark#readme</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[secret-management]](https://www.codever.land/search?q=[secret-management])
 
-_<sup><sup>[www.codever.land/bookmarks/t/secret-management](www.codever.land/bookmarks/t/secret-management)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/secret-management](https://www.codever.land/bookmarks/t/secret-management)</sup></sup>_
 ---
 #### [CyberArk Conjur Kubernetes Authenticator](https://developer.conjur.net/reference/integrations/kubernetesopenshift.html)
 _<sup>https://developer.conjur.net/reference/integrations/kubernetesopenshift.html</sup>_

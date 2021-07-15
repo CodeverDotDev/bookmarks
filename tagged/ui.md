@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[ui]](https://www.codever.land/search?q=[ui])
 
-_<sup><sup>[www.codever.land/bookmarks/t/ui](www.codever.land/bookmarks/t/ui)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/ui](https://www.codever.land/bookmarks/t/ui)</sup></sup>_
 ---
 #### [Luigi - The Enterprise-Ready Micro Frontend Framework](https://luigi-project.io/)
 _<sup>https://luigi-project.io/</sup>_

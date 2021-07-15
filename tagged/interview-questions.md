@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[interview-questions]](https://www.codever.land/search?q=[interview-questions])
 
-_<sup><sup>[www.codever.land/bookmarks/t/interview-questions](www.codever.land/bookmarks/t/interview-questions)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/interview-questions](https://www.codever.land/bookmarks/t/interview-questions)</sup></sup>_
 ---
 #### [50 Common Interview Questions and Answers | The MuseThe Muse Logo](https://www.themuse.com/advice/interview-questions-and-answers)
 _<sup>https://www.themuse.com/advice/interview-questions-and-answers</sup>_

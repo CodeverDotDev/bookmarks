@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[license]](https://www.codever.land/search?q=[license])
 
-_<sup><sup>[www.codever.land/bookmarks/t/license](www.codever.land/bookmarks/t/license)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/license](https://www.codever.land/bookmarks/t/license)</sup></sup>_
 ---
 #### [Licenses | Choose a License](https://choosealicense.com/licenses/)
 _<sup>https://choosealicense.com/licenses/</sup>_

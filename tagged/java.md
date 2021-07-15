@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[java]](https://www.codever.land/search?q=[java])
 
-_<sup><sup>[www.codever.land/bookmarks/t/java](www.codever.land/bookmarks/t/java)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/java](https://www.codever.land/bookmarks/t/java)</sup></sup>_
 ---
 #### [prometheus/jmx_exporter home page](https://github.com/prometheus/jmx_exporter)
 _<sup>https://github.com/prometheus/jmx_exporter</sup>_

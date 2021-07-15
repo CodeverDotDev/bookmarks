@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[apache-avro]](https://www.codever.land/search?q=[apache-avro])
 
-_<sup><sup>[www.codever.land/bookmarks/t/apache-avro](www.codever.land/bookmarks/t/apache-avro)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/apache-avro](https://www.codever.land/bookmarks/t/apache-avro)</sup></sup>_
 ---
 #### [Apache Avro™ Specification Current](https://avro.apache.org/docs/current/spec.html)
 _<sup>https://avro.apache.org/docs/current/spec.html</sup>_

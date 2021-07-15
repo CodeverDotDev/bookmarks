@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[comments]](https://www.codever.land/search?q=[comments])
 
-_<sup><sup>[www.codever.land/bookmarks/t/comments](www.codever.land/bookmarks/t/comments)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/comments](https://www.codever.land/bookmarks/t/comments)</sup></sup>_
 ---
 #### [Commenting Showing Intent [CSI]](https://standards.mousepawmedia.com/csi.html)
 _<sup>https://standards.mousepawmedia.com/csi.html</sup>_

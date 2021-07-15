@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[authentication]](https://www.codever.land/search?q=[authentication])
 
-_<sup><sup>[www.codever.land/bookmarks/t/authentication](www.codever.land/bookmarks/t/authentication)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/authentication](https://www.codever.land/bookmarks/t/authentication)</sup></sup>_
 ---
 #### [PKCE support with Keycloak 7.0 for mobile apps - JANUA](https://www.janua.fr/pkce-support-with-keycloak-7-0/)
 _<sup>https://www.janua.fr/pkce-support-with-keycloak-7-0/</sup>_

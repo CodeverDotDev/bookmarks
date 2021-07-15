@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[distributed-cache]](https://www.codever.land/search?q=[distributed-cache])
 
-_<sup><sup>[www.codever.land/bookmarks/t/distributed-cache](www.codever.land/bookmarks/t/distributed-cache)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/distributed-cache](https://www.codever.land/bookmarks/t/distributed-cache)</sup></sup>_
 ---
 #### [Infinispan Homepage - Infinispan](http://infinispan.org/)
 _<sup>http://infinispan.org/</sup>_

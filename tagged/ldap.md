@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[ldap]](https://www.codever.land/search?q=[ldap])
 
-_<sup><sup>[www.codever.land/bookmarks/t/ldap](www.codever.land/bookmarks/t/ldap)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/ldap](https://www.codever.land/bookmarks/t/ldap)</sup></sup>_
 ---
 #### [Mapping LDAP Group and Roles to RedHat SSO Keycloak - JANUA](http://www.janua.fr/mapping-ldap-group-and-roles-to-redhat-sso-keycloak/)
 _<sup>http://www.janua.fr/mapping-ldap-group-and-roles-to-redhat-sso-keycloak/</sup>_

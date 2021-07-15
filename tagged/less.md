@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[less]](https://www.codever.land/search?q=[less])
 
-_<sup><sup>[www.codever.land/bookmarks/t/less](www.codever.land/bookmarks/t/less)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/less](https://www.codever.land/bookmarks/t/less)</sup></sup>_
 ---
 #### [awesome-less](https://github.com/LucasBassetti/awesome-less#readme)
 _<sup>https://github.com/LucasBassetti/awesome-less#readme</sup>_

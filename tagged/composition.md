@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[composition]](https://www.codever.land/search?q=[composition])
 
-_<sup><sup>[www.codever.land/bookmarks/t/composition](www.codever.land/bookmarks/t/composition)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/composition](https://www.codever.land/bookmarks/t/composition)</sup></sup>_
 ---
 #### [UML Association vs Aggregation vs Composition](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/uml-aggregation-vs-composition/)
 _<sup>https://www.visual-paradigm.com/guide/uml-unified-modeling-language/uml-aggregation-vs-composition/</sup>_

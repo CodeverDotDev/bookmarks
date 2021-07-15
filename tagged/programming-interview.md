@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[programming-interview]](https://www.codever.land/search?q=[programming-interview])
 
-_<sup><sup>[www.codever.land/bookmarks/t/programming-interview](www.codever.land/bookmarks/t/programming-interview)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/programming-interview](https://www.codever.land/bookmarks/t/programming-interview)</sup></sup>_
 ---
 #### [awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions#readme)
 _<sup>https://github.com/MaximAbramchuck/awesome-interview-questions#readme</sup>_

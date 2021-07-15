@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[stomp]](https://www.codever.land/search?q=[stomp])
 
-_<sup><sup>[www.codever.land/bookmarks/t/stomp](www.codever.land/bookmarks/t/stomp)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/stomp](https://www.codever.land/bookmarks/t/stomp)</sup></sup>_
 ---
 #### [zslayton/stomp-rs](https://github.com/zslayton/stomp-rs)
 _<sup>https://github.com/zslayton/stomp-rs</sup>_

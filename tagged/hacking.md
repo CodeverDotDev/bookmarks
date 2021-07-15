@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[hacking]](https://www.codever.land/search?q=[hacking])
 
-_<sup><sup>[www.codever.land/bookmarks/t/hacking](www.codever.land/bookmarks/t/hacking)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/hacking](https://www.codever.land/bookmarks/t/hacking)</sup></sup>_
 ---
 #### [Honeypot Logs: A Botnet’s Search for Mikrotik Routers | by malwaremily | Medium](https://malwaremily.medium.com/honeypot-logs-a-botnets-search-for-mikrotik-routers-48e69e110e52)
 _<sup>https://malwaremily.medium.com/honeypot-logs-a-botnets-search-for-mikrotik-routers-48e69e110e52</sup>_

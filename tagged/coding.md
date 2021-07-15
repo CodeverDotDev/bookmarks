@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[coding]](https://www.codever.land/search?q=[coding])
 
-_<sup><sup>[www.codever.land/bookmarks/t/coding](www.codever.land/bookmarks/t/coding)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/coding](https://www.codever.land/bookmarks/t/coding)</sup></sup>_
 ---
 #### [Things I Don’t Know as of 2018 — Overreacted](https://overreacted.io/things-i-dont-know-as-of-2018/)
 _<sup>https://overreacted.io/things-i-dont-know-as-of-2018/</sup>_

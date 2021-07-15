@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[dependency-management]](https://www.codever.land/search?q=[dependency-management])
 
-_<sup><sup>[www.codever.land/bookmarks/t/dependency-management](www.codever.land/bookmarks/t/dependency-management)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/dependency-management](https://www.codever.land/bookmarks/t/dependency-management)</sup></sup>_
 ---
 #### [OWASP Dependency-Check Project | OWASP](https://owasp.org/www-project-dependency-check/)
 _<sup>https://owasp.org/www-project-dependency-check/</sup>_

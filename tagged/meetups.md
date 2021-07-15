@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[meetups]](https://www.codever.land/search?q=[meetups])
 
-_<sup><sup>[www.codever.land/bookmarks/t/meetups](www.codever.land/bookmarks/t/meetups)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/meetups](https://www.codever.land/bookmarks/t/meetups)</sup></sup>_
 ---
 #### [Brisbane Gophers](https://www.meetup.com/Brisbane-Golang-Meetup/)
 _<sup>https://www.meetup.com/Brisbane-Golang-Meetup/</sup>_

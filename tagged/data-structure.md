@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[data-structure]](https://www.codever.land/search?q=[data-structure])
 
-_<sup><sup>[www.codever.land/bookmarks/t/data-structure](www.codever.land/bookmarks/t/data-structure)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/data-structure](https://www.codever.land/bookmarks/t/data-structure)</sup></sup>_
 ---
 #### [mori](https://github.com/swannodette/mori)
 _<sup>https://github.com/swannodette/mori</sup>_

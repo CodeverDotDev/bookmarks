@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[neo4j]](https://www.codever.land/search?q=[neo4j])
 
-_<sup><sup>[www.codever.land/bookmarks/t/neo4j](www.codever.land/bookmarks/t/neo4j)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/neo4j](https://www.codever.land/bookmarks/t/neo4j)</sup></sup>_
 ---
 #### [awesome-neo4j](https://github.com/neueda/awesome-neo4j#readme)
 _<sup>https://github.com/neueda/awesome-neo4j#readme</sup>_

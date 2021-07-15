@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[hbase]](https://www.codever.land/search?q=[hbase])
 
-_<sup><sup>[www.codever.land/bookmarks/t/hbase](www.codever.land/bookmarks/t/hbase)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/hbase](https://www.codever.land/bookmarks/t/hbase)</sup></sup>_
 ---
 #### [awesome-hbase](https://github.com/rayokota/awesome-hbase#readme)
 _<sup>https://github.com/rayokota/awesome-hbase#readme</sup>_

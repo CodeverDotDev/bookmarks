@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[source-code]](https://www.codever.land/search?q=[source-code])
 
-_<sup><sup>[www.codever.land/bookmarks/t/source-code](www.codever.land/bookmarks/t/source-code)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/source-code](https://www.codever.land/bookmarks/t/source-code)</sup></sup>_
 ---
 #### [spring-projects/spring-framework: Spring Framework](https://github.com/spring-projects/spring-framework)
 _<sup>https://github.com/spring-projects/spring-framework</sup>_

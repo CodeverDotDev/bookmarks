@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[vuejs]](https://www.codever.land/search?q=[vuejs])
 
-_<sup><sup>[www.codever.land/bookmarks/t/vuejs](www.codever.land/bookmarks/t/vuejs)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/vuejs](https://www.codever.land/bookmarks/t/vuejs)</sup></sup>_
 ---
 #### [Gridsome Home Page](https://gridsome.org/)
 _<sup>https://gridsome.org/</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[package-manager]](https://www.codever.land/search?q=[package-manager])
 
-_<sup><sup>[www.codever.land/bookmarks/t/package-manager](www.codever.land/bookmarks/t/package-manager)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/package-manager](https://www.codever.land/bookmarks/t/package-manager)</sup></sup>_
 ---
 #### [Chocolatey - The package manager for Windows](https://chocolatey.org)
 _<sup>https://chocolatey.org</sup>_

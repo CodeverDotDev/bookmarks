@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[mobile]](https://www.codever.land/search?q=[mobile])
 
-_<sup><sup>[www.codever.land/bookmarks/t/mobile](www.codever.land/bookmarks/t/mobile)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/mobile](https://www.codever.land/bookmarks/t/mobile)</sup></sup>_
 ---
 #### [
     React Native is the Future of Mobile at Shopify

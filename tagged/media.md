@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[media]](https://www.codever.land/search?q=[media])
 
-_<sup><sup>[www.codever.land/bookmarks/t/media](www.codever.land/bookmarks/t/media)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/media](https://www.codever.land/bookmarks/t/media)</sup></sup>_
 ---
 #### [embedresponsively.com](https://embedresponsively.com/)
 _<sup>https://embedresponsively.com/</sup>_

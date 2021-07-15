@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[installation]](https://www.codever.land/search?q=[installation])
 
-_<sup><sup>[www.codever.land/bookmarks/t/installation](www.codever.land/bookmarks/t/installation)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/installation](https://www.codever.land/bookmarks/t/installation)</sup></sup>_
 ---
 #### [Brew PHP Switcher](https://github.com/philcook/brew-php-switcher)
 _<sup>https://github.com/philcook/brew-php-switcher</sup>_

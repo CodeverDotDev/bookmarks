@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[animation]](https://www.codever.land/search?q=[animation])
 
-_<sup><sup>[www.codever.land/bookmarks/t/animation](www.codever.land/bookmarks/t/animation)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/animation](https://www.codever.land/bookmarks/t/animation)</sup></sup>_
 ---
 #### [Free Lottie Animation Files, Tools & Plugins - LottieFiles](https://lottiefiles.com/)
 _<sup>https://lottiefiles.com/</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[jupyter]](https://www.codever.land/search?q=[jupyter])
 
-_<sup><sup>[www.codever.land/bookmarks/t/jupyter](www.codever.land/bookmarks/t/jupyter)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/jupyter](https://www.codever.land/bookmarks/t/jupyter)</sup></sup>_
 ---
 #### [GitHub - dapbs/customer_service_bot: codeacademy customer_service_bot](https://github.com/dapbs/customer_service_bot)
 _<sup>https://github.com/dapbs/customer_service_bot</sup>_

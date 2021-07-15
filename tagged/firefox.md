@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[firefox]](https://www.codever.land/search?q=[firefox])
 
-_<sup><sup>[www.codever.land/bookmarks/t/firefox](www.codever.land/bookmarks/t/firefox)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/firefox](https://www.codever.land/bookmarks/t/firefox)</sup></sup>_
 ---
 #### [GitHub - mozilla/extension-workshop: Firefox Extension Workshop](https://github.com/mozilla/extension-workshop)
 _<sup>https://github.com/mozilla/extension-workshop</sup>_

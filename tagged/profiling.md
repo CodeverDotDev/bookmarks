@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[profiling]](https://www.codever.land/search?q=[profiling])
 
-_<sup><sup>[www.codever.land/bookmarks/t/profiling](www.codever.land/bookmarks/t/profiling)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/profiling](https://www.codever.land/bookmarks/t/profiling)</sup></sup>_
 ---
 #### [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine)
 _<sup>https://github.com/sharkdp/hyperfine</sup>_

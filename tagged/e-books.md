@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[e-books]](https://www.codever.land/search?q=[e-books])
 
-_<sup><sup>[www.codever.land/bookmarks/t/e-books](www.codever.land/bookmarks/t/e-books)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/e-books](https://www.codever.land/bookmarks/t/e-books)</sup></sup>_
 ---
 #### [A Go Developer's Notebook](https://leanpub.com/GoNotebook/read)
 _<sup>https://leanpub.com/GoNotebook/read</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[smart-system]](https://www.codever.land/search?q=[smart-system])
 
-_<sup><sup>[www.codever.land/bookmarks/t/smart-system](www.codever.land/bookmarks/t/smart-system)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/smart-system](https://www.codever.land/bookmarks/t/smart-system)</sup></sup>_
 ---
 #### [一步步搭建物联网系统](https://github.com/phodal/designiot)
 _<sup>https://github.com/phodal/designiot</sup>_

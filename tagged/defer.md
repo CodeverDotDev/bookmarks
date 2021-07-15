@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[defer]](https://www.codever.land/search?q=[defer])
 
-_<sup><sup>[www.codever.land/bookmarks/t/defer](www.codever.land/bookmarks/t/defer)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/defer](https://www.codever.land/bookmarks/t/defer)</sup></sup>_
 ---
 #### [Efficiently load JavaScript with defer and async](https://flaviocopes.com/javascript-async-defer/)
 _<sup>https://flaviocopes.com/javascript-async-defer/</sup>_

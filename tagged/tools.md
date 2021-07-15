@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[tools]](https://www.codever.land/search?q=[tools])
 
-_<sup><sup>[www.codever.land/bookmarks/t/tools](www.codever.land/bookmarks/t/tools)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/tools](https://www.codever.land/bookmarks/t/tools)</sup></sup>_
 ---
 #### [Slidev home page](https://sli.dev/)
 _<sup>https://sli.dev/</sup>_

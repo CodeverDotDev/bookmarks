@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[idris]](https://www.codever.land/search?q=[idris])
 
-_<sup><sup>[www.codever.land/bookmarks/t/idris](www.codever.land/bookmarks/t/idris)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/idris](https://www.codever.land/bookmarks/t/idris)</sup></sup>_
 ---
 #### [awesome-idris](https://github.com/joaomilho/awesome-idris#readme)
 _<sup>https://github.com/joaomilho/awesome-idris#readme</sup>_

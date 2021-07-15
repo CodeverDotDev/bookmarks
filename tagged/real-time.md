@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[real-time]](https://www.codever.land/search?q=[real-time])
 
-_<sup><sup>[www.codever.land/bookmarks/t/real-time](www.codever.land/bookmarks/t/real-time)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/real-time](https://www.codever.land/bookmarks/t/real-time)</sup></sup>_
 ---
 #### [µWebSockets](https://github.com/uWebSockets/uWebSockets)
 _<sup>https://github.com/uWebSockets/uWebSockets</sup>_

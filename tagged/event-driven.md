@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[event-driven]](https://www.codever.land/search?q=[event-driven])
 
-_<sup><sup>[www.codever.land/bookmarks/t/event-driven](www.codever.land/bookmarks/t/event-driven)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/event-driven](https://www.codever.land/bookmarks/t/event-driven)</sup></sup>_
 ---
 #### [CloudEvents home page](https://cloudevents.io/)
 _<sup>https://cloudevents.io/</sup>_

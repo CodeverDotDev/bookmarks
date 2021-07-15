@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[css-tricks]](https://www.codever.land/search?q=[css-tricks])
 
-_<sup><sup>[www.codever.land/bookmarks/t/css-tricks](www.codever.land/bookmarks/t/css-tricks)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/css-tricks](https://www.codever.land/bookmarks/t/css-tricks)</sup></sup>_
 ---
 #### [
     Animating with Lottie | CSS-Tricks  ](https://css-tricks.com/animating-with-lottie/)

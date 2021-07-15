@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[content-addressed]](https://www.codever.land/search?q=[content-addressed])
 
-_<sup><sup>[www.codever.land/bookmarks/t/content-addressed](www.codever.land/bookmarks/t/content-addressed)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/content-addressed](https://www.codever.land/bookmarks/t/content-addressed)</sup></sup>_
 ---
 #### [The Complete Beginner's Guide to Deploying Your First Static Website to IPFS](https://interplanetarygatsby.com/ipfs-deploy/)
 _<sup>https://interplanetarygatsby.com/ipfs-deploy/</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[linux]](https://www.codever.land/search?q=[linux])
 
-_<sup><sup>[www.codever.land/bookmarks/t/linux](www.codever.land/bookmarks/t/linux)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/linux](https://www.codever.land/bookmarks/t/linux)</sup></sup>_
 ---
 #### [How to find out line-endings in a text file?](https://stackoverflow.com/questions/3569997/how-to-find-out-line-endings-in-a-text-file)
 _<sup>https://stackoverflow.com/questions/3569997/how-to-find-out-line-endings-in-a-text-file</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[control-flow]](https://www.codever.land/search?q=[control-flow])
 
-_<sup><sup>[www.codever.land/bookmarks/t/control-flow](www.codever.land/bookmarks/t/control-flow)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/control-flow](https://www.codever.land/bookmarks/t/control-flow)</sup></sup>_
 ---
 #### [q](https://github.com/kriskowal/q)
 _<sup>https://github.com/kriskowal/q</sup>_

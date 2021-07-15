@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[salesforce]](https://www.codever.land/search?q=[salesforce])
 
-_<sup><sup>[www.codever.land/bookmarks/t/salesforce](www.codever.land/bookmarks/t/salesforce)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/salesforce](https://www.codever.land/bookmarks/t/salesforce)</sup></sup>_
 ---
 #### [awesome-salesforce](https://github.com/mailtoharshit/awesome-salesforce#readme)
 _<sup>https://github.com/mailtoharshit/awesome-salesforce#readme</sup>_

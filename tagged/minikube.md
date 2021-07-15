@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[minikube]](https://www.codever.land/search?q=[minikube])
 
-_<sup><sup>[www.codever.land/bookmarks/t/minikube](www.codever.land/bookmarks/t/minikube)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/minikube](https://www.codever.land/bookmarks/t/minikube)</sup></sup>_
 ---
 #### [Keycloak on Kubernetes - YouTube](https://www.youtube.com/watch?v=A_BYZ7hHWXE)
 _<sup>https://www.youtube.com/watch?v=A_BYZ7hHWXE</sup>_

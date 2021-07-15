@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[free-programming-books-id]](https://www.codever.land/search?q=[free-programming-books-id])
 
-_<sup><sup>[www.codever.land/bookmarks/t/free-programming-books-id](www.codever.land/bookmarks/t/free-programming-books-id)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/free-programming-books-id](https://www.codever.land/bookmarks/t/free-programming-books-id)</sup></sup>_
 ---
 #### [Workshop Python 101](http://sakti.github.io/python101/)
 _<sup>http://sakti.github.io/python101/</sup>_

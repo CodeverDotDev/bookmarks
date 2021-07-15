@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[gui]](https://www.codever.land/search?q=[gui])
 
-_<sup><sup>[www.codever.land/bookmarks/t/gui](www.codever.land/bookmarks/t/gui)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/gui](https://www.codever.land/bookmarks/t/gui)</sup></sup>_
 ---
 #### [Boden](https://github.com/AshampooSystems/boden)
 _<sup>https://github.com/AshampooSystems/boden</sup>_

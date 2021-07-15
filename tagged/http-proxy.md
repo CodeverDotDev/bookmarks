@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[http-proxy]](https://www.codever.land/search?q=[http-proxy])
 
-_<sup><sup>[www.codever.land/bookmarks/t/http-proxy](www.codever.land/bookmarks/t/http-proxy)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/http-proxy](https://www.codever.land/bookmarks/t/http-proxy)</sup></sup>_
 ---
 #### [mitmproxy - an interactive HTTPS proxy](https://mitmproxy.org/)
 _<sup>https://mitmproxy.org/</sup>_

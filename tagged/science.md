@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[science]](https://www.codever.land/search?q=[science])
 
-_<sup><sup>[www.codever.land/bookmarks/t/science](www.codever.land/bookmarks/t/science)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/science](https://www.codever.land/bookmarks/t/science)</sup></sup>_
 ---
 #### [assocentity](https://github.com/ndabAP/assocentity)
 _<sup>https://github.com/ndabAP/assocentity</sup>_

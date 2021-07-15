@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[browserify]](https://www.codever.land/search?q=[browserify])
 
-_<sup><sup>[www.codever.land/bookmarks/t/browserify](www.codever.land/bookmarks/t/browserify)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/browserify](https://www.codever.land/bookmarks/t/browserify)</sup></sup>_
 ---
 #### [awesome-browserify](https://github.com/browserify/awesome-browserify#readme)
 _<sup>https://github.com/browserify/awesome-browserify#readme</sup>_

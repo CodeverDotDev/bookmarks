@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[jquery]](https://www.codever.land/search?q=[jquery])
 
-_<sup><sup>[www.codever.land/bookmarks/t/jquery](www.codever.land/bookmarks/t/jquery)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/jquery](https://www.codever.land/bookmarks/t/jquery)</sup></sup>_
 ---
 #### [How to build a Google Chrome Extension ― Scotch.io](https://scotch.io/@dongido/how-to-build-a-google-chrome-extension)
 _<sup>https://scotch.io/@dongido/how-to-build-a-google-chrome-extension</sup>_

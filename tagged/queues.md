@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[queues]](https://www.codever.land/search?q=[queues])
 
-_<sup><sup>[www.codever.land/bookmarks/t/queues](www.codever.land/bookmarks/t/queues)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/queues](https://www.codever.land/bookmarks/t/queues)</sup></sup>_
 ---
 #### [Backburner](https://github.com/nesquena/backburner)
 _<sup>https://github.com/nesquena/backburner</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[portfolio]](https://www.codever.land/search?q=[portfolio])
 
-_<sup><sup>[www.codever.land/bookmarks/t/portfolio](www.codever.land/bookmarks/t/portfolio)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/portfolio](https://www.codever.land/bookmarks/t/portfolio)</sup></sup>_
 ---
 #### [GitHub - cobidev/simplefolio: ⚡️ A minimal portfolio template for Developers](https://github.com/cobidev/simplefolio)
 _<sup>https://github.com/cobidev/simplefolio</sup>_

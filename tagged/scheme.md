@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[scheme]](https://www.codever.land/search?q=[scheme])
 
-_<sup><sup>[www.codever.land/bookmarks/t/scheme](www.codever.land/bookmarks/t/scheme)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/scheme](https://www.codever.land/bookmarks/t/scheme)</sup></sup>_
 ---
 #### [Is Scheme Faster than C?](https://web.archive.org/web/20100310163003/https://www.cs.indiana.edu/~jsobel/c455-c511.updated.txt)
 _<sup>https://web.archive.org/web/20100310163003/https://www.cs.indiana.edu/~jsobel/c455-c511.updated.txt</sup>_

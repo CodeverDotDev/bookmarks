@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[minify]](https://www.codever.land/search?q=[minify])
 
-_<sup><sup>[www.codever.land/bookmarks/t/minify](www.codever.land/bookmarks/t/minify)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/minify](https://www.codever.land/bookmarks/t/minify)</sup></sup>_
 ---
 #### [babili](https://github.com/babel/babili)
 _<sup>https://github.com/babel/babili</sup>_

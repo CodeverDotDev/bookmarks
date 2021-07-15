@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[parallel-programming]](https://www.codever.land/search?q=[parallel-programming])
 
-_<sup><sup>[www.codever.land/bookmarks/t/parallel-programming](www.codever.land/bookmarks/t/parallel-programming)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/parallel-programming](https://www.codever.land/bookmarks/t/parallel-programming)</sup></sup>_
 ---
 #### [The OpenCL Programming Book](https://www.fixstars.com/en/opencl/book/OpenCLProgrammingBook/contents/)
 _<sup>https://www.fixstars.com/en/opencl/book/OpenCLProgrammingBook/contents/</sup>_

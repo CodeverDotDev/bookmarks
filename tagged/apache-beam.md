@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[apache-beam]](https://www.codever.land/search?q=[apache-beam])
 
-_<sup><sup>[www.codever.land/bookmarks/t/apache-beam](www.codever.land/bookmarks/t/apache-beam)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/apache-beam](https://www.codever.land/bookmarks/t/apache-beam)</sup></sup>_
 ---
 #### [Apache Beam Home Page](https://beam.apache.org/)
 _<sup>https://beam.apache.org/</sup>_

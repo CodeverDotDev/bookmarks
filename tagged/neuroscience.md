@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[neuroscience]](https://www.codever.land/search?q=[neuroscience])
 
-_<sup><sup>[www.codever.land/bookmarks/t/neuroscience](www.codever.land/bookmarks/t/neuroscience)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/neuroscience](https://www.codever.land/bookmarks/t/neuroscience)</sup></sup>_
 ---
 #### [awesome-neuroscience](https://github.com/analyticalmonk/awesome-neuroscience#readme)
 _<sup>https://github.com/analyticalmonk/awesome-neuroscience#readme</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[enhancement]](https://www.codever.land/search?q=[enhancement])
 
-_<sup><sup>[www.codever.land/bookmarks/t/enhancement](www.codever.land/bookmarks/t/enhancement)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/enhancement](https://www.codever.land/bookmarks/t/enhancement)</sup></sup>_
 ---
 #### [dataclasses](https://docs.python.org/3/library/dataclasses.html)
 _<sup>https://docs.python.org/3/library/dataclasses.html</sup>_

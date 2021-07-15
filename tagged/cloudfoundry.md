@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[cloudfoundry]](https://www.codever.land/search?q=[cloudfoundry])
 
-_<sup><sup>[www.codever.land/bookmarks/t/cloudfoundry](www.codever.land/bookmarks/t/cloudfoundry)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/cloudfoundry](https://www.codever.land/bookmarks/t/cloudfoundry)</sup></sup>_
 ---
 #### [CAP@SAP Home](https://cap.cloud.sap/docs/)
 _<sup>https://cap.cloud.sap/docs/</sup>_

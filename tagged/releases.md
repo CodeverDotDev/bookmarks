@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[releases]](https://www.codever.land/search?q=[releases])
 
-_<sup><sup>[www.codever.land/bookmarks/t/releases](www.codever.land/bookmarks/t/releases)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/releases](https://www.codever.land/bookmarks/t/releases)</sup></sup>_
 ---
 #### [Releases — OpenUI5](https://openui5.org/releases/)
 _<sup>https://openui5.org/releases/</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[job-interview]](https://www.codever.land/search?q=[job-interview])
 
-_<sup><sup>[www.codever.land/bookmarks/t/job-interview](www.codever.land/bookmarks/t/job-interview)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/job-interview](https://www.codever.land/bookmarks/t/job-interview)</sup></sup>_
 ---
 #### [Job negotiation for programmers: the basic principles](https://codewithoutrules.com/2019/11/27/job-negotiation-for-programmers/)
 _<sup>https://codewithoutrules.com/2019/11/27/job-negotiation-for-programmers/</sup>_

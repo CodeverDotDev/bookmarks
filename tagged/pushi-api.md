@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[pushi-api]](https://www.codever.land/search?q=[pushi-api])
 
-_<sup><sup>[www.codever.land/bookmarks/t/pushi-api](www.codever.land/bookmarks/t/pushi-api)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/pushi-api](https://www.codever.land/bookmarks/t/pushi-api)</sup></sup>_
 ---
 #### [Sending Web Push Notifications from Node.js](https://thecodebarbarian.com/sending-web-push-notifications-from-node-js.html)
 _<sup>https://thecodebarbarian.com/sending-web-push-notifications-from-node-js.html</sup>_

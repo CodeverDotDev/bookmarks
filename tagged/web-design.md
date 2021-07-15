@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[web-design]](https://www.codever.land/search?q=[web-design])
 
-_<sup><sup>[www.codever.land/bookmarks/t/web-design](www.codever.land/bookmarks/t/web-design)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/web-design](https://www.codever.land/bookmarks/t/web-design)</sup></sup>_
 ---
 #### [Learn basic UI Design in 5 minutes](https://www.freecodecamp.org/news/learn-ui-design-in-5-minutes-tutorial/)
 _<sup>https://www.freecodecamp.org/news/learn-ui-design-in-5-minutes-tutorial/</sup>_

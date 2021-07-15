@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[ai]](https://www.codever.land/search?q=[ai])
 
-_<sup><sup>[www.codever.land/bookmarks/t/ai](www.codever.land/bookmarks/t/ai)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/ai](https://www.codever.land/bookmarks/t/ai)</sup></sup>_
 ---
 #### [人工知能](https://www.jstage.jst.go.jp/browse/jjsai/list/-char/ja)
 _<sup>https://www.jstage.jst.go.jp/browse/jjsai/list/-char/ja</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[ted]](https://www.codever.land/search?q=[ted])
 
-_<sup><sup>[www.codever.land/bookmarks/t/ted](www.codever.land/bookmarks/t/ted)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/ted](https://www.codever.land/bookmarks/t/ted)</sup></sup>_
 ---
 #### [My Favorite Ted Talks - Adrian Matei](https://www.adrianmatei.me/blog/inspiration/favorite-ted-talks)
 _<sup>https://www.adrianmatei.me/blog/inspiration/favorite-ted-talks</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[discovery]](https://www.codever.land/search?q=[discovery])
 
-_<sup><sup>[www.codever.land/bookmarks/t/discovery](www.codever.land/bookmarks/t/discovery)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/discovery](https://www.codever.land/bookmarks/t/discovery)</sup></sup>_
 ---
 #### [ActiveModel::Serializers](https://github.com/rails-api/active_model_serializers)
 _<sup>https://github.com/rails-api/active_model_serializers</sup>_

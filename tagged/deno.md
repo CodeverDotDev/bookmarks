@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[deno]](https://www.codever.land/search?q=[deno])
 
-_<sup><sup>[www.codever.land/bookmarks/t/deno](www.codever.land/bookmarks/t/deno)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/deno](https://www.codever.land/bookmarks/t/deno)</sup></sup>_
 ---
 #### [Building a CLI with Deno 🦕 | learning as we go](https://alexandrempsantos.com/deno/build-a-cli-with-deno/)
 _<sup>https://alexandrempsantos.com/deno/build-a-cli-with-deno/</sup>_

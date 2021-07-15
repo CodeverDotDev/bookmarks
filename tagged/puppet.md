@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[puppet]](https://www.codever.land/search?q=[puppet])
 
-_<sup><sup>[www.codever.land/bookmarks/t/puppet](www.codever.land/bookmarks/t/puppet)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/puppet](https://www.codever.land/bookmarks/t/puppet)</sup></sup>_
 ---
 #### [Puppet Cookbook](https://www.puppetcookbook.com/)
 _<sup>https://www.puppetcookbook.com/</sup>_

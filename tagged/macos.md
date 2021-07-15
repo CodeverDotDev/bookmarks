@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[macos]](https://www.codever.land/search?q=[macos])
 
-_<sup><sup>[www.codever.land/bookmarks/t/macos](www.codever.land/bookmarks/t/macos)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/macos](https://www.codever.land/bookmarks/t/macos)</sup></sup>_
 ---
 #### [GitHub - jlevy/the-art-of-command-line: Master the command line, in one page](https://github.com/jlevy/the-art-of-command-line)
 _<sup>https://github.com/jlevy/the-art-of-command-line</sup>_

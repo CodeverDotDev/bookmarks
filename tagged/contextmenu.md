@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[contextmenu]](https://www.codever.land/search?q=[contextmenu])
 
-_<sup><sup>[www.codever.land/bookmarks/t/contextmenu](www.codever.land/bookmarks/t/contextmenu)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/contextmenu](https://www.codever.land/bookmarks/t/contextmenu)</sup></sup>_
 ---
 #### [Building a Custom Right-Click (Context) Menu with JavaScript — SitePoint](https://www.sitepoint.com/building-custom-right-click-context-menu-javascript/)
 _<sup>https://www.sitepoint.com/building-custom-right-click-context-menu-javascript/</sup>_

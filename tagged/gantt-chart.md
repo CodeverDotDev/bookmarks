@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[gantt-chart]](https://www.codever.land/search?q=[gantt-chart])
 
-_<sup><sup>[www.codever.land/bookmarks/t/gantt-chart](www.codever.land/bookmarks/t/gantt-chart)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/gantt-chart](https://www.codever.land/bookmarks/t/gantt-chart)</sup></sup>_
 ---
 #### [Gantt Charts vs Burn-Down Charts - YouTube](https://www.youtube.com/watch?v=U_jwpInVXD8)
 _<sup>https://www.youtube.com/watch?v=U_jwpInVXD8</sup>_

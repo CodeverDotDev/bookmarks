@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[iterm]](https://www.codever.land/search?q=[iterm])
 
-_<sup><sup>[www.codever.land/bookmarks/t/iterm](www.codever.land/bookmarks/t/iterm)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/iterm](https://www.codever.land/bookmarks/t/iterm)</sup></sup>_
 ---
 #### [iTerm2 - macOS Terminal Replacement](http://www.iterm2.com/)
 _<sup>http://www.iterm2.com/</sup>_

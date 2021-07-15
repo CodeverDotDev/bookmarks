@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[system-tools]](https://www.codever.land/search?q=[system-tools])
 
-_<sup><sup>[www.codever.land/bookmarks/t/system-tools](www.codever.land/bookmarks/t/system-tools)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/system-tools](https://www.codever.land/bookmarks/t/system-tools)</sup></sup>_
 ---
 #### [brocode/fblog](https://github.com/brocode/fblog)
 _<sup>https://github.com/brocode/fblog</sup>_

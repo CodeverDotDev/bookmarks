@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[oracle]](https://www.codever.land/search?q=[oracle])
 
-_<sup><sup>[www.codever.land/bookmarks/t/oracle](www.codever.land/bookmarks/t/oracle)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/oracle](https://www.codever.land/bookmarks/t/oracle)</sup></sup>_
 ---
 #### [Bulk Processing with BULK COLLECT and FORALL](https://blogs.oracle.com/oraclemagazine/bulk-processing-with-bulk-collect-and-forall)
 _<sup>https://blogs.oracle.com/oraclemagazine/bulk-processing-with-bulk-collect-and-forall</sup>_

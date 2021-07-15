@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[date-manipulation]](https://www.codever.land/search?q=[date-manipulation])
 
-_<sup><sup>[www.codever.land/bookmarks/t/date-manipulation](www.codever.land/bookmarks/t/date-manipulation)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/date-manipulation](https://www.codever.land/bookmarks/t/date-manipulation)</sup></sup>_
 ---
 #### [Luxon home page](https://moment.github.io/luxon/)
 _<sup>https://moment.github.io/luxon/</sup>_

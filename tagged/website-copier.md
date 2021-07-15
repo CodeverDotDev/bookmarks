@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[website-copier]](https://www.codever.land/search?q=[website-copier])
 
-_<sup><sup>[www.codever.land/bookmarks/t/website-copier](www.codever.land/bookmarks/t/website-copier)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/website-copier](https://www.codever.land/bookmarks/t/website-copier)</sup></sup>_
 ---
 #### [HTTrack Website Copier - Free Software Offline Browser (GNU GPL)](https://www.httrack.com/)
 _<sup>https://www.httrack.com/</sup>_

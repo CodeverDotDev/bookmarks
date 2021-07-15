@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[test-double]](https://www.codever.land/search?q=[test-double])
 
-_<sup><sup>[www.codever.land/bookmarks/t/test-double](www.codever.land/bookmarks/t/test-double)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/test-double](https://www.codever.land/bookmarks/t/test-double)</sup></sup>_
 ---
 #### [Unit Testing in Angular: Stubs vs Spies vs Mocks](https://www.amadousall.com/unit-testing-angular-stubs-vs-spies-vs-mocks/)
 _<sup>https://www.amadousall.com/unit-testing-angular-stubs-vs-spies-vs-mocks/</sup>_

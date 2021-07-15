@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[static-typing]](https://www.codever.land/search?q=[static-typing])
 
-_<sup><sup>[www.codever.land/bookmarks/t/static-typing](www.codever.land/bookmarks/t/static-typing)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/static-typing](https://www.codever.land/bookmarks/t/static-typing)</sup></sup>_
 ---
 #### [mypy](http://mypy-lang.org/)
 _<sup>http://mypy-lang.org/</sup>_

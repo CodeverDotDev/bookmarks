@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[fullstack]](https://www.codever.land/search?q=[fullstack])
 
-_<sup><sup>[www.codever.land/bookmarks/t/fullstack](www.codever.land/bookmarks/t/fullstack)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/fullstack](https://www.codever.land/bookmarks/t/fullstack)</sup></sup>_
 ---
 #### [My Programming Journal](http://waynewallace.sdf.org/programming-blog.html)
 _<sup>http://waynewallace.sdf.org/programming-blog.html</sup>_

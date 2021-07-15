@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[security]](https://www.codever.land/search?q=[security])
 
-_<sup><sup>[www.codever.land/bookmarks/t/security](www.codever.land/bookmarks/t/security)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/security](https://www.codever.land/bookmarks/t/security)</sup></sup>_
 ---
 #### [Create ipsec tunnel between google cloud platform and mikrotik | by Hasanuddin Muhamad | Medium](https://hasanuddin-muhamad15.medium.com/create-ipsec-tunnel-between-google-cloud-platform-and-mikrotik-8a8469c0f019)
 _<sup>https://hasanuddin-muhamad15.medium.com/create-ipsec-tunnel-between-google-cloud-platform-and-mikrot...</sup>_

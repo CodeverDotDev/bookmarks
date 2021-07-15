@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[darkmode]](https://www.codever.land/search?q=[darkmode])
 
-_<sup><sup>[www.codever.land/bookmarks/t/darkmode](www.codever.land/bookmarks/t/darkmode)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/darkmode](https://www.codever.land/bookmarks/t/darkmode)</sup></sup>_
 ---
 #### [How I added Dark Mode to my website](https://flaviocopes.com/dark-mode/)
 _<sup>https://flaviocopes.com/dark-mode/</sup>_

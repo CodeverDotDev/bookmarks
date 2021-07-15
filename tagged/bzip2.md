@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[bzip2]](https://www.codever.land/search?q=[bzip2])
 
-_<sup><sup>[www.codever.land/bookmarks/t/bzip2](www.codever.land/bookmarks/t/bzip2)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/bzip2](https://www.codever.land/bookmarks/t/bzip2)</sup></sup>_
 ---
 #### [alexcrichton/bzip2-rs](https://github.com/alexcrichton/bzip2-rs)
 _<sup>https://github.com/alexcrichton/bzip2-rs</sup>_

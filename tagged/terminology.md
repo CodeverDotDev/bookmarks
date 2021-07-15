@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[terminology]](https://www.codever.land/search?q=[terminology])
 
-_<sup><sup>[www.codever.land/bookmarks/t/terminology](www.codever.land/bookmarks/t/terminology)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/terminology](https://www.codever.land/bookmarks/t/terminology)</sup></sup>_
 ---
 #### [What do SAST, DAST, IAST and RASP mean to developers?](https://www.softwaresecured.com/what-do-sast-dast-iast-and-rasp-mean-to-developers/)
 _<sup>https://www.softwaresecured.com/what-do-sast-dast-iast-and-rasp-mean-to-developers/</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[server-application]](https://www.codever.land/search?q=[server-application])
 
-_<sup><sup>[www.codever.land/bookmarks/t/server-application](www.codever.land/bookmarks/t/server-application)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/server-application](https://www.codever.land/bookmarks/t/server-application)</sup></sup>_
 ---
 #### [GitHub - Atomicorp/ossec-docker: Official OSSEC docker container](https://github.com/Atomicorp/ossec-docker)
 _<sup>https://github.com/Atomicorp/ossec-docker</sup>_

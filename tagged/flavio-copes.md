@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[flavio-copes]](https://www.codever.land/search?q=[flavio-copes])
 
-_<sup><sup>[www.codever.land/bookmarks/t/flavio-copes](www.codever.land/bookmarks/t/flavio-copes)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/flavio-copes](https://www.codever.land/bookmarks/t/flavio-copes)</sup></sup>_
 ---
 #### [The HTTP Status Codes List](https://flaviocopes.com/http-status-codes/)
 _<sup>https://flaviocopes.com/http-status-codes/</sup>_

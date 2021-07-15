@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[kubernetes]](https://www.codever.land/search?q=[kubernetes])
 
-_<sup><sup>[www.codever.land/bookmarks/t/kubernetes](www.codever.land/bookmarks/t/kubernetes)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/kubernetes](https://www.codever.land/bookmarks/t/kubernetes)</sup></sup>_
 ---
 #### [Falco home page](https://falco.org/)
 _<sup>https://falco.org/</sup>_

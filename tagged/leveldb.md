@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[leveldb]](https://www.codever.land/search?q=[leveldb])
 
-_<sup><sup>[www.codever.land/bookmarks/t/leveldb](www.codever.land/bookmarks/t/leveldb)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/leveldb](https://www.codever.land/bookmarks/t/leveldb)</sup></sup>_
 ---
 #### [skade/leveldb](https://github.com/skade/leveldb)
 _<sup>https://github.com/skade/leveldb</sup>_

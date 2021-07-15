@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[goroutine]](https://www.codever.land/search?q=[goroutine])
 
-_<sup><sup>[www.codever.land/bookmarks/t/goroutine](www.codever.land/bookmarks/t/goroutine)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/goroutine](https://www.codever.land/bookmarks/t/goroutine)</sup></sup>_
 ---
 #### [ants](https://github.com/panjf2000/ants)
 _<sup>https://github.com/panjf2000/ants</sup>_

@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[public-speaking]](https://www.codever.land/search?q=[public-speaking])
 
-_<sup><sup>[www.codever.land/bookmarks/t/public-speaking](www.codever.land/bookmarks/t/public-speaking)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/public-speaking](https://www.codever.land/bookmarks/t/public-speaking)</sup></sup>_
 ---
 #### [How To Speak by Patrick Winston - 1h:3min](https://www.youtube.com/watch?v=Unzc731iCUY)
 _<sup>https://www.youtube.com/watch?v=Unzc731iCUY</sup>_

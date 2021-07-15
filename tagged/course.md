@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[course]](https://www.codever.land/search?q=[course])
 
-_<sup><sup>[www.codever.land/bookmarks/t/course](www.codever.land/bookmarks/t/course)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/course](https://www.codever.land/bookmarks/t/course)</sup></sup>_
 ---
 #### [veryacademy/YT-Django-DRF-Simple-Blog-Series-Part-1](https://github.com/veryacademy/YT-Django-DRF-Simple-Blog-Series-Part-1)
 _<sup>https://github.com/veryacademy/YT-Django-DRF-Simple-Blog-Series-Part-1</sup>_

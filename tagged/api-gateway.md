@@ -1,6 +1,6 @@
 ## Bookmarks tagged [[api-gateway]](https://www.codever.land/search?q=[api-gateway])
 
-_<sup><sup>[www.codever.land/bookmarks/t/api-gateway](www.codever.land/bookmarks/t/api-gateway)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/api-gateway](https://www.codever.land/bookmarks/t/api-gateway)</sup></sup>_
 ---
 #### [Kong](https://github.com/Kong/kong)
 _<sup>https://github.com/Kong/kong</sup>_
