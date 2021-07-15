@@ -6,7 +6,7 @@
 <br />
 
 <div align="center">
-⚡️🔖  Public bookmarks shared with :heart: &nbsp; from <a href="https://www.codever.land" target="_blank">www.codever.land</a> 🔖⚡️
+ ⚡️🔖  &nbsp; Public bookmarks shared with :heart: &nbsp; from <a href="https://www.codever.land" target="_blank">www.codever.land</a> &nbsp; 🔖⚡️
 </div>
 
 <div align="center">
