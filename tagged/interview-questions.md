@@ -1,6 +1,19 @@
-## Bookmarks tagged [[interview-questions]](https://www.bookmarks.dev/search?q=[interview-questions])
+## Bookmarks tagged [[interview-questions]](https://www.codever.land/search?q=[interview-questions])
 
-_<sup><sup>[www.bookmarks.dev/tagged/interview-questions](https://www.bookmarks.dev/tagged/interview-questions)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/interview-questions](www.codever.land/bookmarks/t/interview-questions)</sup></sup>_
+---
+#### [50 Common Interview Questions and Answers | The MuseThe Muse Logo](https://www.themuse.com/advice/interview-questions-and-answers)
+_<sup>https://www.themuse.com/advice/interview-questions-and-answers</sup>_
+
+We've compiled a list of 50 common interview questions you might be asked—plus advice on how to answer each and every one of them.
+* **tags**: [interview-questions](../tagged/interview-questions.md)
+---
+#### [yangshun/tech-interview-handbook: ](https://github.com/yangshun/tech-interview-handbook)
+_<sup>https://github.com/yangshun/tech-interview-handbook</sup>_
+
+💯 Materials to help you rock your next coding interview
+* **tags**: [interview-questions](../tagged/interview-questions.md)
+* :octocat: **[source code](https://github.com/yangshun/tech-interview-handbook)**
 ---
 #### [GitHub - lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions)
 _<sup>https://github.com/lydiahallie/javascript-questions</sup>_

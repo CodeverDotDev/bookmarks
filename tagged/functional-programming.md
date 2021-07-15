@@ -1,6 +1,6 @@
-## Bookmarks tagged [[functional-programming]](https://www.bookmarks.dev/search?q=[functional-programming])
+## Bookmarks tagged [[functional-programming]](https://www.codever.land/search?q=[functional-programming])
 
-_<sup><sup>[www.bookmarks.dev/tagged/functional-programming](https://www.bookmarks.dev/tagged/functional-programming)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/functional-programming](www.codever.land/bookmarks/t/functional-programming)</sup></sup>_
 ---
 #### [Angular Application Architecture: Build Reux-like Apps with RxJs](https://blog.angular-university.io/angular-2-application-architecture-building-applications-using-rxjs-and-functional-reactive-programming-vs-redux/)
 _<sup>https://blog.angular-university.io/angular-2-application-architecture-building-applications-using-rx...</sup>_

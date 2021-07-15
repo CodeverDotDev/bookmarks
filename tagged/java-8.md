@@ -1,6 +1,6 @@
-## Bookmarks tagged [[java-8]](https://www.bookmarks.dev/search?q=[java-8])
+## Bookmarks tagged [[java-8]](https://www.codever.land/search?q=[java-8])
 
-_<sup><sup>[www.bookmarks.dev/tagged/java-8](https://www.bookmarks.dev/tagged/java-8)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/java-8](www.codever.land/bookmarks/t/java-8)</sup></sup>_
 ---
 #### [Java libraries I like  – Eduards Sizovs](https://sizovs.net/2020/11/24/java-libraries-i-like/)
 _<sup>https://sizovs.net/2020/11/24/java-libraries-i-like/</sup>_

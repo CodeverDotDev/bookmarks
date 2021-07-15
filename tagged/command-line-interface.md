@@ -1,6 +1,6 @@
-## Bookmarks tagged [[command-line-interface]](https://www.bookmarks.dev/search?q=[command-line-interface])
+## Bookmarks tagged [[command-line-interface]](https://www.codever.land/search?q=[command-line-interface])
 
-_<sup><sup>[www.bookmarks.dev/tagged/command-line-interface](https://www.bookmarks.dev/tagged/command-line-interface)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/command-line-interface](www.codever.land/bookmarks/t/command-line-interface)</sup></sup>_
 ---
 #### [GraphQL Code Generator Home Page](https://graphql-code-generator.com/)
 _<sup>https://graphql-code-generator.com/</sup>_

@@ -1,6 +1,16 @@
-## Bookmarks tagged [[changelog]](https://www.bookmarks.dev/search?q=[changelog])
+## Bookmarks tagged [[changelog]](https://www.codever.land/search?q=[changelog])
 
-_<sup><sup>[www.bookmarks.dev/tagged/changelog](https://www.bookmarks.dev/tagged/changelog)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/changelog](www.codever.land/bookmarks/t/changelog)</sup></sup>_
+---
+#### [Keep a Changelog](https://keepachangelog.com/)
+_<sup>https://keepachangelog.com/</sup>_
+
+Guiding Principles
+* Changelogs are for humans, not machines.
+* There should be an entry for every single version.
+* The same types of changes should be grouped.
+* Versions and sections should be link...
+* **tags**: [changelog](../tagged/changelog.md), [docs](../tagged/docs.md)
 ---
 #### [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog)
 _<sup>https://github.com/conventional-changelog/conventional-changelog</sup>_

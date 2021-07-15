@@ -1,6 +1,6 @@
-## Bookmarks tagged [[knative]](https://www.bookmarks.dev/search?q=[knative])
+## Bookmarks tagged [[knative]](https://www.codever.land/search?q=[knative])
 
-_<sup><sup>[www.bookmarks.dev/tagged/knative](https://www.bookmarks.dev/tagged/knative)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/knative](www.codever.land/bookmarks/t/knative)</sup></sup>_
 ---
 #### [Welcome to Knative home page](https://knative.dev/docs/)
 _<sup>https://knative.dev/docs/</sup>_

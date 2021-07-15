@@ -1,6 +1,6 @@
-## Bookmarks tagged [[challenge]](https://www.bookmarks.dev/search?q=[challenge])
+## Bookmarks tagged [[challenge]](https://www.codever.land/search?q=[challenge])
 
-_<sup><sup>[www.bookmarks.dev/tagged/challenge](https://www.bookmarks.dev/tagged/challenge)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/challenge](www.codever.land/bookmarks/t/challenge)</sup></sup>_
 ---
 #### [Project Euler](https://projecteuler.net/)
 _<sup>https://projecteuler.net/</sup>_

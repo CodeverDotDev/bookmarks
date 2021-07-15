@@ -1,6 +1,6 @@
-## Bookmarks tagged [[angular-cli]](https://www.bookmarks.dev/search?q=[angular-cli])
+## Bookmarks tagged [[angular-cli]](https://www.codever.land/search?q=[angular-cli])
 
-_<sup><sup>[www.bookmarks.dev/tagged/angular-cli](https://www.bookmarks.dev/tagged/angular-cli)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/angular-cli](www.codever.land/bookmarks/t/angular-cli)</sup></sup>_
 ---
 #### [Angular Configuring Application Environments](https://angular.io/guide/build#configuring-application-environments)
 _<sup>https://angular.io/guide/build#configuring-application-environments</sup>_

@@ -1,6 +1,6 @@
-## Bookmarks tagged [[startup]](https://www.bookmarks.dev/search?q=[startup])
+## Bookmarks tagged [[startup]](https://www.codever.land/search?q=[startup])
 
-_<sup><sup>[www.bookmarks.dev/tagged/startup](https://www.bookmarks.dev/tagged/startup)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/startup](www.codever.land/bookmarks/t/startup)</sup></sup>_
 ---
 #### [The Technium: 1,000 True Fans](https://kk.org/thetechnium/1000-true-fans/)
 _<sup>https://kk.org/thetechnium/1000-true-fans/</sup>_

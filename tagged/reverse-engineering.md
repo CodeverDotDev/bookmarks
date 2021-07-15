@@ -1,6 +1,6 @@
-## Bookmarks tagged [[reverse-engineering]](https://www.bookmarks.dev/search?q=[reverse-engineering])
+## Bookmarks tagged [[reverse-engineering]](https://www.codever.land/search?q=[reverse-engineering])
 
-_<sup><sup>[www.bookmarks.dev/tagged/reverse-engineering](https://www.bookmarks.dev/tagged/reverse-engineering)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/reverse-engineering](www.codever.land/bookmarks/t/reverse-engineering)</sup></sup>_
 ---
 #### [Reverse Engineering for Beginners](http://beginners.re)
 _<sup>http://beginners.re</sup>_

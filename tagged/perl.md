@@ -1,6 +1,6 @@
-## Bookmarks tagged [[perl]](https://www.bookmarks.dev/search?q=[perl])
+## Bookmarks tagged [[perl]](https://www.codever.land/search?q=[perl])
 
-_<sup><sup>[www.bookmarks.dev/tagged/perl](https://www.bookmarks.dev/tagged/perl)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/perl](www.codever.land/bookmarks/t/perl)</sup></sup>_
 ---
 #### [vickenty/mi-rust](https://github.com/vickenty/mi-rust)
 _<sup>https://github.com/vickenty/mi-rust</sup>_

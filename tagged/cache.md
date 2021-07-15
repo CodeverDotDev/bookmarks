@@ -1,6 +1,6 @@
-## Bookmarks tagged [[cache]](https://www.bookmarks.dev/search?q=[cache])
+## Bookmarks tagged [[cache]](https://www.codever.land/search?q=[cache])
 
-_<sup><sup>[www.bookmarks.dev/tagged/cache](https://www.bookmarks.dev/tagged/cache)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/cache](www.codever.land/bookmarks/t/cache)</sup></sup>_
 ---
 #### [How To Configure Apache Content Caching on CentOS 7 | DigitalOceanDigitalOcean homeDigitalOcean Homepage](https://www.digitalocean.com/community/tutorials/how-to-configure-apache-content-caching-on-centos-7)
 _<sup>https://www.digitalocean.com/community/tutorials/how-to-configure-apache-content-caching-on-centos-7</sup>_

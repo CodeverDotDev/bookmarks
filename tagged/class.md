@@ -1,6 +1,6 @@
-## Bookmarks tagged [[class]](https://www.bookmarks.dev/search?q=[class])
+## Bookmarks tagged [[class]](https://www.codever.land/search?q=[class])
 
-_<sup><sup>[www.bookmarks.dev/tagged/class](https://www.bookmarks.dev/tagged/class)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/class](www.codever.land/bookmarks/t/class)</sup></sup>_
 ---
 #### [dataclasses](https://docs.python.org/3/library/dataclasses.html)
 _<sup>https://docs.python.org/3/library/dataclasses.html</sup>_

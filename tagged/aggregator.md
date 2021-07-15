@@ -1,6 +1,6 @@
-## Bookmarks tagged [[aggregator]](https://www.bookmarks.dev/search?q=[aggregator])
+## Bookmarks tagged [[aggregator]](https://www.codever.land/search?q=[aggregator])
 
-_<sup><sup>[www.bookmarks.dev/tagged/aggregator](https://www.bookmarks.dev/tagged/aggregator)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/aggregator](www.codever.land/bookmarks/t/aggregator)</sup></sup>_
 ---
 #### [Lobsters](https://lobste.rs/)
 _<sup>https://lobste.rs/</sup>_

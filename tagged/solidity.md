@@ -1,6 +1,6 @@
-## Bookmarks tagged [[solidity]](https://www.bookmarks.dev/search?q=[solidity])
+## Bookmarks tagged [[solidity]](https://www.codever.land/search?q=[solidity])
 
-_<sup><sup>[www.bookmarks.dev/tagged/solidity](https://www.bookmarks.dev/tagged/solidity)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/solidity](www.codever.land/bookmarks/t/solidity)</sup></sup>_
 ---
 #### [Solidity — Solidity 0.5.4 ドキュメント](https://solidity-jp.readthedocs.io/ja/latest/)
 _<sup>https://solidity-jp.readthedocs.io/ja/latest/</sup>_

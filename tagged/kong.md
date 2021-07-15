@@ -1,6 +1,6 @@
-## Bookmarks tagged [[kong]](https://www.bookmarks.dev/search?q=[kong])
+## Bookmarks tagged [[kong]](https://www.codever.land/search?q=[kong])
 
-_<sup><sup>[www.bookmarks.dev/tagged/kong](https://www.bookmarks.dev/tagged/kong)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/kong](www.codever.land/bookmarks/t/kong)</sup></sup>_
 ---
 #### [Kong: Kubernetes Ingress Controller - KongHQ](https://konghq.com/blog/kong-kubernetes-ingress-controller/)
 _<sup>https://konghq.com/blog/kong-kubernetes-ingress-controller/</sup>_

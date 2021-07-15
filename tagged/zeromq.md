@@ -1,6 +1,6 @@
-## Bookmarks tagged [[zeromq]](https://www.bookmarks.dev/search?q=[zeromq])
+## Bookmarks tagged [[zeromq]](https://www.codever.land/search?q=[zeromq])
 
-_<sup><sup>[www.bookmarks.dev/tagged/zeromq](https://www.bookmarks.dev/tagged/zeromq)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/zeromq](www.codever.land/bookmarks/t/zeromq)</sup></sup>_
 ---
 #### [erickt/rust-zmq](https://github.com/erickt/rust-zmq)
 _<sup>https://github.com/erickt/rust-zmq</sup>_

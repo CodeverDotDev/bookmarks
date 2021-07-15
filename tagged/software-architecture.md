@@ -1,6 +1,13 @@
-## Bookmarks tagged [[software-architecture]](https://www.bookmarks.dev/search?q=[software-architecture])
+## Bookmarks tagged [[software-architecture]](https://www.codever.land/search?q=[software-architecture])
 
-_<sup><sup>[www.bookmarks.dev/tagged/software-architecture](https://www.bookmarks.dev/tagged/software-architecture)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/software-architecture](www.codever.land/bookmarks/t/software-architecture)</sup></sup>_
+---
+#### [Les principes SOLID – Programmation orientée objet • Dev Java ](https://dev-java.fr/principes-solid-programmation-objet/)
+_<sup>https://dev-java.fr/principes-solid-programmation-objet/</sup>_
+
+Les principes SOLID ont été conceptualisés pour la première fois par Robert C. Martin en 2000 : Design Principles and ... Lire la suite
+* :calendar: **published on**: 2021-06-26
+* **tags**: [software-architecture](../tagged/software-architecture.md), [software-development](../tagged/software-development.md), [software-quality](../tagged/software-quality.md)
 ---
 #### [The Principles of Agile Design](https://www.infoq.com/presentations/principles-agile-oo-design/)
 _<sup>https://www.infoq.com/presentations/principles-agile-oo-design/</sup>_

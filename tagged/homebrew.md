@@ -1,6 +1,6 @@
-## Bookmarks tagged [[homebrew]](https://www.bookmarks.dev/search?q=[homebrew])
+## Bookmarks tagged [[homebrew]](https://www.codever.land/search?q=[homebrew])
 
-_<sup><sup>[www.bookmarks.dev/tagged/homebrew](https://www.bookmarks.dev/tagged/homebrew)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/homebrew](www.codever.land/bookmarks/t/homebrew)</sup></sup>_
 ---
 #### [GitHub - Homebrew/homebrew-cask home page](https://github.com/Homebrew/homebrew-cask)
 _<sup>https://github.com/Homebrew/homebrew-cask</sup>_

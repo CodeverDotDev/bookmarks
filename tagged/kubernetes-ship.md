@@ -1,6 +1,6 @@
-## Bookmarks tagged [[kubernetes-ship]](https://www.bookmarks.dev/search?q=[kubernetes-ship])
+## Bookmarks tagged [[kubernetes-ship]](https://www.codever.land/search?q=[kubernetes-ship])
 
-_<sup><sup>[www.bookmarks.dev/tagged/kubernetes-ship](https://www.bookmarks.dev/tagged/kubernetes-ship)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/kubernetes-ship](www.codever.land/bookmarks/t/kubernetes-ship)</sup></sup>_
 ---
 #### [Replicated Ship - Manage 3rd-party Kubernetes apps home page](https://www.replicated.com/ship)
 _<sup>https://www.replicated.com/ship</sup>_

@@ -1,6 +1,19 @@
-## Bookmarks tagged [[android]](https://www.bookmarks.dev/search?q=[android])
+## Bookmarks tagged [[android]](https://www.codever.land/search?q=[android])
 
-_<sup><sup>[www.bookmarks.dev/tagged/android](https://www.bookmarks.dev/tagged/android)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/android](www.codever.land/bookmarks/t/android)</sup></sup>_
+---
+#### [Can I email… All HTML and CSS features on Can I email…](https://www.caniemail.com/features/)
+_<sup>https://www.caniemail.com/features/</sup>_
+
+> All HTML and CSS features on Can I email…
+
+ Can I email…
+
+[caniemail.com](https://www.caniemail.com) provides email clients support tables for HTML and CSS features.
+
+_Can I email_ runs on [Jekyll...
+* **tags**: [css](../tagged/css.md), [html](../tagged/html.md), [webdesign](../tagged/webdesign.md), [email](../tagged/email.md), [android](../tagged/android.md), [ios](../tagged/ios.md), [jekyll](../tagged/jekyll.md), [github](../tagged/github.md)
+* :octocat: **[source code](https://github.com/HTeuMeuLeu/caniemail)**
 ---
 #### [Advanced HTTP Mocking with WireMock at DevFest DC - 43min](https://www.youtube.com/watch?v=x3MvZ8DFrpE)
 _<sup>https://www.youtube.com/watch?v=x3MvZ8DFrpE</sup>_

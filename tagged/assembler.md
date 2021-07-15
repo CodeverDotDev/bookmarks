@@ -1,6 +1,6 @@
-## Bookmarks tagged [[assembler]](https://www.bookmarks.dev/search?q=[assembler])
+## Bookmarks tagged [[assembler]](https://www.codever.land/search?q=[assembler])
 
-_<sup><sup>[www.bookmarks.dev/tagged/assembler](https://www.bookmarks.dev/tagged/assembler)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/assembler](www.codever.land/bookmarks/t/assembler)</sup></sup>_
 ---
 #### [awesome-asm](https://github.com/jaspergould/awesome-asm#readme)
 _<sup>https://github.com/jaspergould/awesome-asm#readme</sup>_

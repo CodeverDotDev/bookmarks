@@ -1,6 +1,6 @@
-## Bookmarks tagged [[coffeescript]](https://www.bookmarks.dev/search?q=[coffeescript])
+## Bookmarks tagged [[coffeescript]](https://www.codever.land/search?q=[coffeescript])
 
-_<sup><sup>[www.bookmarks.dev/tagged/coffeescript](https://www.bookmarks.dev/tagged/coffeescript)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/coffeescript](www.codever.land/bookmarks/t/coffeescript)</sup></sup>_
 ---
 #### [Документация CoffeeScript](http://cidocs.ru/coffeescript/)
 _<sup>http://cidocs.ru/coffeescript/</sup>_

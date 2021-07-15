@@ -1,6 +1,18 @@
-## Bookmarks tagged [[git]](https://www.bookmarks.dev/search?q=[git])
+## Bookmarks tagged [[git]](https://www.codever.land/search?q=[git])
 
-_<sup><sup>[www.bookmarks.dev/tagged/git](https://www.bookmarks.dev/tagged/git)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/git](www.codever.land/bookmarks/t/git)</sup></sup>_
+---
+#### [Git Forks and Upstreams: How-to and a cool tip | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/git-forks-and-upstreams)
+_<sup>https://www.atlassian.com/git/tutorials/git-forks-and-upstreams</sup>_
+
+To make sure all contributors are drawing from the same place, you’ll need to know some principles of how git forking interacts with git upstream. In this blog, I’ll introduce you to the basics, the g...
+* **tags**: [git](../tagged/git.md)
+---
+#### [How to change the git commit author?](https://brayanarrieta.hashnode.dev/how-to-change-the-git-commit-author)
+_<sup>https://brayanarrieta.hashnode.dev/how-to-change-the-git-commit-author</sup>_
+
+git
+* **tags**: [github](../tagged/github.md), [git](../tagged/git.md), [git-commit](../tagged/git-commit.md)
 ---
 #### [How do I make Git use the editor of my choice for commits?](https://stackoverflow.com/questions/2596805/how-do-i-make-git-use-the-editor-of-my-choice-for-commits)
 _<sup>https://stackoverflow.com/questions/2596805/how-do-i-make-git-use-the-editor-of-my-choice-for-commit...</sup>_

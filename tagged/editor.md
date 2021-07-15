@@ -1,6 +1,6 @@
-## Bookmarks tagged [[editor]](https://www.bookmarks.dev/search?q=[editor])
+## Bookmarks tagged [[editor]](https://www.codever.land/search?q=[editor])
 
-_<sup><sup>[www.bookmarks.dev/tagged/editor](https://www.bookmarks.dev/tagged/editor)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/editor](www.codever.land/bookmarks/t/editor)</sup></sup>_
 ---
 #### [How do I make Git use the editor of my choice for commits?](https://stackoverflow.com/questions/2596805/how-do-i-make-git-use-the-editor-of-my-choice-for-commits)
 _<sup>https://stackoverflow.com/questions/2596805/how-do-i-make-git-use-the-editor-of-my-choice-for-commit...</sup>_

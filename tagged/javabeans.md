@@ -1,6 +1,6 @@
-## Bookmarks tagged [[javabeans]](https://www.bookmarks.dev/search?q=[javabeans])
+## Bookmarks tagged [[javabeans]](https://www.codever.land/search?q=[javabeans])
 
-_<sup><sup>[www.bookmarks.dev/tagged/javabeans](https://www.bookmarks.dev/tagged/javabeans)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/javabeans](www.codever.land/bookmarks/t/javabeans)</sup></sup>_
 ---
 #### [Bean Validation 2.0 - you’ve put your annotations everywhere! by Gunnar Morling - 14min](https://www.youtube.com/watch?v=GdKuxmtA65I)
 _<sup>https://www.youtube.com/watch?v=GdKuxmtA65I</sup>_

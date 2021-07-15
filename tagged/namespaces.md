@@ -1,6 +1,6 @@
-## Bookmarks tagged [[namespaces]](https://www.bookmarks.dev/search?q=[namespaces])
+## Bookmarks tagged [[namespaces]](https://www.codever.land/search?q=[namespaces])
 
-_<sup><sup>[www.bookmarks.dev/tagged/namespaces](https://www.bookmarks.dev/tagged/namespaces)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/namespaces](www.codever.land/bookmarks/t/namespaces)</sup></sup>_
 ---
 #### [Organizing Kubernetes with Namespaces (Kubernetes Best Practices) - YouTube](https://www.youtube.com/watch?v=xpnZX3if9Tc)
 _<sup>https://www.youtube.com/watch?v=xpnZX3if9Tc</sup>_

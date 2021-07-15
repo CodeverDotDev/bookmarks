@@ -1,6 +1,6 @@
-## Bookmarks tagged [[copy]](https://www.bookmarks.dev/search?q=[copy])
+## Bookmarks tagged [[copy]](https://www.codever.land/search?q=[copy])
 
-_<sup><sup>[www.bookmarks.dev/tagged/copy](https://www.bookmarks.dev/tagged/copy)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/copy](www.codever.land/bookmarks/t/copy)</sup></sup>_
 ---
 #### [Cut and Copy Commands  |  Web  |  Google Developers](https://developers.google.com/web/updates/2015/04/cut-and-copy-commands)
 _<sup>https://developers.google.com/web/updates/2015/04/cut-and-copy-commands</sup>_

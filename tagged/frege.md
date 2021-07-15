@@ -1,6 +1,6 @@
-## Bookmarks tagged [[frege]](https://www.bookmarks.dev/search?q=[frege])
+## Bookmarks tagged [[frege]](https://www.codever.land/search?q=[frege])
 
-_<sup><sup>[www.bookmarks.dev/tagged/frege](https://www.bookmarks.dev/tagged/frege)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/frege](www.codever.land/bookmarks/t/frege)</sup></sup>_
 ---
 #### [awesome-frege](https://github.com/sfischer13/awesome-frege#readme)
 _<sup>https://github.com/sfischer13/awesome-frege#readme</sup>_

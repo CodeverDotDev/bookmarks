@@ -1,6 +1,6 @@
-## Bookmarks tagged [[open-graph-protocol]](https://www.bookmarks.dev/search?q=[open-graph-protocol])
+## Bookmarks tagged [[open-graph-protocol]](https://www.codever.land/search?q=[open-graph-protocol])
 
-_<sup><sup>[www.bookmarks.dev/tagged/open-graph-protocol](https://www.bookmarks.dev/tagged/open-graph-protocol)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/open-graph-protocol](www.codever.land/bookmarks/t/open-graph-protocol)</sup></sup>_
 ---
 #### [The Open Graph protocol home page](https://ogp.me/)
 _<sup>https://ogp.me/</sup>_

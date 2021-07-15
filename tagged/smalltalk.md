@@ -1,6 +1,6 @@
-## Bookmarks tagged [[smalltalk]](https://www.bookmarks.dev/search?q=[smalltalk])
+## Bookmarks tagged [[smalltalk]](https://www.codever.land/search?q=[smalltalk])
 
-_<sup><sup>[www.bookmarks.dev/tagged/smalltalk](https://www.bookmarks.dev/tagged/smalltalk)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/smalltalk](www.codever.land/bookmarks/t/smalltalk)</sup></sup>_
 ---
 #### [Смолток: Язык и его реализация](https://sites.google.com/site/polyglotsqueak/)
 _<sup>https://sites.google.com/site/polyglotsqueak/</sup>_

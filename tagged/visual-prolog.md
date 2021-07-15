@@ -1,6 +1,6 @@
-## Bookmarks tagged [[visual-prolog]](https://www.bookmarks.dev/search?q=[visual-prolog])
+## Bookmarks tagged [[visual-prolog]](https://www.codever.land/search?q=[visual-prolog])
 
-_<sup><sup>[www.bookmarks.dev/tagged/visual-prolog](https://www.bookmarks.dev/tagged/visual-prolog)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/visual-prolog](www.codever.land/bookmarks/t/visual-prolog)</sup></sup>_
 ---
 #### [Visual Prolog for Tyros](http://wiki.visual-prolog.com/index.php?title=Visual_Prolog_for_Tyros)
 _<sup>http://wiki.visual-prolog.com/index.php?title=Visual_Prolog_for_Tyros</sup>_

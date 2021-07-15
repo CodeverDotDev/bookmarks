@@ -1,6 +1,6 @@
-## Bookmarks tagged [[pgf-tikz]](https://www.bookmarks.dev/search?q=[pgf-tikz])
+## Bookmarks tagged [[pgf-tikz]](https://www.codever.land/search?q=[pgf-tikz])
 
-_<sup><sup>[www.bookmarks.dev/tagged/pgf-tikz](https://www.bookmarks.dev/tagged/pgf-tikz)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/pgf-tikz](www.codever.land/bookmarks/t/pgf-tikz)</sup></sup>_
 ---
 #### [TikZ pour l'impatient](http://math.et.info.free.fr/TikZ/)
 _<sup>http://math.et.info.free.fr/TikZ/</sup>_

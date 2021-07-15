@@ -1,6 +1,6 @@
-## Bookmarks tagged [[css-preprocessor]](https://www.bookmarks.dev/search?q=[css-preprocessor])
+## Bookmarks tagged [[css-preprocessor]](https://www.codever.land/search?q=[css-preprocessor])
 
-_<sup><sup>[www.bookmarks.dev/tagged/css-preprocessor](https://www.bookmarks.dev/tagged/css-preprocessor)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/css-preprocessor](www.codever.land/bookmarks/t/css-preprocessor)</sup></sup>_
 ---
 #### [gcss](https://github.com/yosssi/gcss)
 _<sup>https://github.com/yosssi/gcss</sup>_

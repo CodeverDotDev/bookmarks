@@ -1,6 +1,6 @@
-## Bookmarks tagged [[scripting]](https://www.bookmarks.dev/search?q=[scripting])
+## Bookmarks tagged [[scripting]](https://www.codever.land/search?q=[scripting])
 
-_<sup><sup>[www.bookmarks.dev/tagged/scripting](https://www.bookmarks.dev/tagged/scripting)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/scripting](www.codever.land/bookmarks/t/scripting)</sup></sup>_
 ---
 #### [AngelScript](https://www.angelcode.com/angelscript/)
 _<sup>https://www.angelcode.com/angelscript/</sup>_

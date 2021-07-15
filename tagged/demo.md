@@ -1,6 +1,6 @@
-## Bookmarks tagged [[demo]](https://www.bookmarks.dev/search?q=[demo])
+## Bookmarks tagged [[demo]](https://www.codever.land/search?q=[demo])
 
-_<sup><sup>[www.bookmarks.dev/tagged/demo](https://www.bookmarks.dev/tagged/demo)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/demo](www.codever.land/bookmarks/t/demo)</sup></sup>_
 ---
 #### [gothinkster/realworld: "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅](https://github.com/gothinkster/realworld)
 _<sup>https://github.com/gothinkster/realworld</sup>_

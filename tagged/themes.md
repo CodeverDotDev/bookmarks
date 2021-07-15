@@ -1,6 +1,6 @@
-## Bookmarks tagged [[themes]](https://www.bookmarks.dev/search?q=[themes])
+## Bookmarks tagged [[themes]](https://www.codever.land/search?q=[themes])
 
-_<sup><sup>[www.bookmarks.dev/tagged/themes](https://www.bookmarks.dev/tagged/themes)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/themes](www.codever.land/bookmarks/t/themes)</sup></sup>_
 ---
 #### [highlight.js themes ](https://github.com/highlightjs/highlight.js/tree/master/src/styles)
 _<sup>https://github.com/highlightjs/highlight.js/tree/master/src/styles</sup>_

@@ -1,6 +1,6 @@
-## Bookmarks tagged [[music-dev]](https://www.bookmarks.dev/search?q=[music-dev])
+## Bookmarks tagged [[music-dev]](https://www.codever.land/search?q=[music-dev])
 
-_<sup><sup>[www.bookmarks.dev/tagged/music-dev](https://www.bookmarks.dev/tagged/music-dev)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/music-dev](www.codever.land/bookmarks/t/music-dev)</sup></sup>_
 ---
 #### [Sonic Pi - The Live Coding Music Synth for Everyone](https://sonic-pi.net/)
 _<sup>https://sonic-pi.net/</sup>_

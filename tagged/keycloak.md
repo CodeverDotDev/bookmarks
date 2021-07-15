@@ -1,6 +1,28 @@
-## Bookmarks tagged [[keycloak]](https://www.bookmarks.dev/search?q=[keycloak])
+## Bookmarks tagged [[keycloak]](https://www.codever.land/search?q=[keycloak])
 
-_<sup><sup>[www.bookmarks.dev/tagged/keycloak](https://www.bookmarks.dev/tagged/keycloak)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/keycloak](www.codever.land/bookmarks/t/keycloak)</sup></sup>_
+---
+#### [Offline Sessions and Offline tokens within Keycloak - JANUA](https://www.janua.fr/offline-sessions-and-offline-tokens-within-keycloak/)
+_<sup>https://www.janua.fr/offline-sessions-and-offline-tokens-within-keycloak/</sup>_
+
+This article is dedicated to describe the behaviour and usage of offline sessions and offline tokens within Keycloak.
+* :calendar: **published on**: 2019-08-28
+* **tags**: [keycloak](../tagged/keycloak.md), [access-token](../tagged/access-token.md)
+---
+#### [Step-by-step guide how integrate Keycloak with Angular application](https://wkrzywiec.medium.com/step-by-step-guide-how-integrate-keycloak-with-angular-application-d96b05f7dfdd)
+_<sup>https://wkrzywiec.medium.com/step-by-step-guide-how-integrate-keycloak-with-angular-application-d96b...</sup>_
+
+The aim of this post is to show you a basic set up an Angular application so that it will be integrated with Keycloak and it will be able to consume protected HTTP resource that requires an access tok...
+* :calendar: **published on**: 2021-03-22
+* **tags**: [angular](../tagged/angular.md), [keycloak](../tagged/keycloak.md), [docker](../tagged/docker.md), [docker-compose](../tagged/docker-compose.md)
+* :octocat: **[source code](https://github.com/wkrzywiec/keycloak-security-example)**
+---
+#### [Examples of offline token usage in Keycloak - JANUA](https://www.janua.fr/examples-of-offline-token-usage-in-keycloak/)
+_<sup>https://www.janua.fr/examples-of-offline-token-usage-in-keycloak/</sup>_
+
+In this article we share examples of offline token usage in Keycloa
+* **tags**: [keycloak](../tagged/keycloak.md), [openid-connect](../tagged/openid-connect.md), [access-token](../tagged/access-token.md)
+* :octocat: **[source code](https://github.com/keycloak/keycloak/tree/master/examples/demo-template/offline-access-app)**
 ---
 #### [PKCE support with Keycloak 7.0 for mobile apps - JANUA](https://www.janua.fr/pkce-support-with-keycloak-7-0/)
 _<sup>https://www.janua.fr/pkce-support-with-keycloak-7-0/</sup>_
@@ -29,9 +51,9 @@ It's basically an...
 #### [Understanding token usage in Keycloak - JANUA](https://www.janua.fr/understanding-token-usage-in-keycloak/)
 _<sup>https://www.janua.fr/understanding-token-usage-in-keycloak/</sup>_
 
-In this article Janua's CTO shares tips and tricks about understanding token usage in Keycloak
+In this article Janua's CTO shares tips and tricks about understanding token usage in Keycloak. Access tokens, refresh tokens and offline tokens are discussed.
 
-Keycloak Token lifecycle is described at - [https://www.keycloak.org/docs/latest/server_admin/index.html...
+Keycloak Token lifecycle is described a...
 * :calendar: **published on**: 2019-02-19
 * **tags**: [keycloak](../tagged/keycloak.md)
 ---

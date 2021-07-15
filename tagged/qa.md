@@ -1,6 +1,6 @@
-## Bookmarks tagged [[qa]](https://www.bookmarks.dev/search?q=[qa])
+## Bookmarks tagged [[qa]](https://www.codever.land/search?q=[qa])
 
-_<sup><sup>[www.bookmarks.dev/tagged/qa](https://www.bookmarks.dev/tagged/qa)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/qa](www.codever.land/bookmarks/t/qa)</sup></sup>_
 ---
 #### [prettier](https://github.com/prettier/prettier)
 _<sup>https://github.com/prettier/prettier</sup>_

@@ -1,6 +1,6 @@
-## Bookmarks tagged [[third-party-apis]](https://www.bookmarks.dev/search?q=[third-party-apis])
+## Bookmarks tagged [[third-party-apis]](https://www.codever.land/search?q=[third-party-apis])
 
-_<sup><sup>[www.bookmarks.dev/tagged/third-party-apis](https://www.bookmarks.dev/tagged/third-party-apis)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/third-party-apis](www.codever.land/bookmarks/t/third-party-apis)</sup></sup>_
 ---
 #### [discordrb](https://github.com/meew0/discordrb)
 _<sup>https://github.com/meew0/discordrb</sup>_

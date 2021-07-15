@@ -1,6 +1,12 @@
-## Bookmarks tagged [[orm]](https://www.bookmarks.dev/search?q=[orm])
+## Bookmarks tagged [[orm]](https://www.codever.land/search?q=[orm])
 
-_<sup><sup>[www.bookmarks.dev/tagged/orm](https://www.bookmarks.dev/tagged/orm)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/orm](www.codever.land/bookmarks/t/orm)</sup></sup>_
+---
+#### [Sequelize ORM](https://sequelize.org/)
+_<sup>https://sequelize.org/</sup>_
+
+* **tags**: [database](../tagged/database.md), [orm](../tagged/orm.md)
+* :octocat: **[source code](https://github.com/sequelize/sequelize/)**
 ---
 #### [ORM: avoid using many to many relationships - DEV](https://dev.to/apium_hub/orm-avoid-using-many-to-many-relationships-52in)
 _<sup>https://dev.to/apium_hub/orm-avoid-using-many-to-many-relationships-52in</sup>_

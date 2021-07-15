@@ -1,6 +1,6 @@
-## Bookmarks tagged [[jdbc]](https://www.bookmarks.dev/search?q=[jdbc])
+## Bookmarks tagged [[jdbc]](https://www.codever.land/search?q=[jdbc])
 
-_<sup><sup>[www.bookmarks.dev/tagged/jdbc](https://www.bookmarks.dev/tagged/jdbc)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/jdbc](www.codever.land/bookmarks/t/jdbc)</sup></sup>_
 ---
 #### [mybatis – MyBatis 3 | Introduction](http://www.mybatis.org/mybatis-3/)
 _<sup>http://www.mybatis.org/mybatis-3/</sup>_

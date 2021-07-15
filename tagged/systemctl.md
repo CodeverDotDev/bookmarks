@@ -1,6 +1,6 @@
-## Bookmarks tagged [[systemctl]](https://www.bookmarks.dev/search?q=[systemctl])
+## Bookmarks tagged [[systemctl]](https://www.codever.land/search?q=[systemctl])
 
-_<sup><sup>[www.bookmarks.dev/tagged/systemctl](https://www.bookmarks.dev/tagged/systemctl)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/systemctl](www.codever.land/bookmarks/t/systemctl)</sup></sup>_
 ---
 #### [How To Use Systemctl to Manage Systemd Services and Units](https://www.digitalocean.com/community/tutorials/how-to-use-systemctl-to-manage-systemd-services-and-units)
 _<sup>https://www.digitalocean.com/community/tutorials/how-to-use-systemctl-to-manage-systemd-services-and...</sup>_

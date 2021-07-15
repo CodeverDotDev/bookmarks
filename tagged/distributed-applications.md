@@ -1,6 +1,6 @@
-## Bookmarks tagged [[distributed-applications]](https://www.bookmarks.dev/search?q=[distributed-applications])
+## Bookmarks tagged [[distributed-applications]](https://www.codever.land/search?q=[distributed-applications])
 
-_<sup><sup>[www.bookmarks.dev/tagged/distributed-applications](https://www.bookmarks.dev/tagged/distributed-applications)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/distributed-applications](www.codever.land/bookmarks/t/distributed-applications)</sup></sup>_
 ---
 #### [Apache Geode](https://geode.apache.org)
 _<sup>https://geode.apache.org</sup>_

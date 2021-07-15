@@ -1,6 +1,6 @@
-## Bookmarks tagged [[jamstack]](https://www.bookmarks.dev/search?q=[jamstack])
+## Bookmarks tagged [[jamstack]](https://www.codever.land/search?q=[jamstack])
 
-_<sup><sup>[www.bookmarks.dev/tagged/jamstack](https://www.bookmarks.dev/tagged/jamstack)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/jamstack](www.codever.land/bookmarks/t/jamstack)</sup></sup>_
 ---
 #### [What is the JAMstack and how do I get started?](https://www.freecodecamp.org/news/what-is-the-jamstack-and-how-do-i-host-my-website-on-it/)
 _<sup>https://www.freecodecamp.org/news/what-is-the-jamstack-and-how-do-i-host-my-website-on-it/</sup>_

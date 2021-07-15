@@ -1,6 +1,6 @@
-## Bookmarks tagged [[zsh]](https://www.bookmarks.dev/search?q=[zsh])
+## Bookmarks tagged [[zsh]](https://www.codever.land/search?q=[zsh])
 
-_<sup><sup>[www.bookmarks.dev/tagged/zsh](https://www.bookmarks.dev/tagged/zsh)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/zsh](www.codever.land/bookmarks/t/zsh)</sup></sup>_
 ---
 #### [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins#readme)
 _<sup>https://github.com/unixorn/awesome-zsh-plugins#readme</sup>_

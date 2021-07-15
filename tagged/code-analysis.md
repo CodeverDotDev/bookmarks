@@ -1,6 +1,12 @@
-## Bookmarks tagged [[code-analysis]](https://www.bookmarks.dev/search?q=[code-analysis])
+## Bookmarks tagged [[code-analysis]](https://www.codever.land/search?q=[code-analysis])
 
-_<sup><sup>[www.bookmarks.dev/tagged/code-analysis](https://www.bookmarks.dev/tagged/code-analysis)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/code-analysis](www.codever.land/bookmarks/t/code-analysis)</sup></sup>_
+---
+#### [Refactoring: clean your code](https://refactoring.guru/refactoring)
+_<sup>https://refactoring.guru/refactoring</sup>_
+
+Refactoring is the controllable process of systematically improving your code without writing new functionality. The goal of refactoring is to pay off technical debt. The mantra of refactoring is clea...
+* **tags**: [code-analysis](../tagged/code-analysis.md), [clean](../tagged/clean.md)
 ---
 #### [SEI CERT Oracle Coding Standard for Java](https://wiki.sei.cmu.edu/confluence/display/java/SEI+CERT+Oracle+Coding+Standard+for+Java)
 _<sup>https://wiki.sei.cmu.edu/confluence/display/java/SEI+CERT+Oracle+Coding+Standard+for+Java</sup>_

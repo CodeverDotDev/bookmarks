@@ -1,6 +1,51 @@
-## Bookmarks tagged [[caching]](https://www.bookmarks.dev/search?q=[caching])
+## Bookmarks tagged [[caching]](https://www.codever.land/search?q=[caching])
 
-_<sup><sup>[www.bookmarks.dev/tagged/caching](https://www.bookmarks.dev/tagged/caching)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/caching](www.codever.land/bookmarks/t/caching)</sup></sup>_
+---
+#### [Caching with RxJs Observables in Angular](https://www.syntaxsuccess.com/viewarticle/caching-with-rxjs-observables-in-angular-2.0)
+_<sup>https://www.syntaxsuccess.com/viewarticle/caching-with-rxjs-observables-in-angular-2.0</sup>_
+
+Simple caching with observables and `publishReplay(1)` and `refCount`
+
+
+* :calendar: **published on**: 2016-04-23
+* **tags**: [angular](../tagged/angular.md), [caching](../tagged/caching.md), [rxjs](../tagged/rxjs.md), [observable](../tagged/observable.md), [http-client](../tagged/http-client.md)
+* :octocat: **[source code](https://github.com/thelgevold/angular-2-samples/tree/master/src/apps/shared-components/rxjs-caching)**
+---
+#### [Angular data-provider services: in-memory data cache](https://medium.com/@garfunkel61/https-medium-com-garfunkel61-angular-data-provider-services-in-memory-data-cache-c495a0ac35da)
+_<sup>https://medium.com/@garfunkel61/https-medium-com-garfunkel61-angular-data-provider-services-in-memor...</sup>_
+
+Let’s see how we can build simple in-memory cache in a Angular application.
+* **tags**: [angular](../tagged/angular.md), [caching](../tagged/caching.md), [in-memory](../tagged/in-memory.md)
+---
+#### [Client-side storage - Learn web development | MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Client-side_storage)
+_<sup>https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Client-side_storage</sup>_
+
+Modern web browsers support a number of ways for web sites to store data on the user's computer — with the user's permission — then retrieve it when necessary. This lets you persist data for long-term...
+* **tags**: [local-storage](../tagged/local-storage.md), [client](../tagged/client.md), [browser](../tagged/browser.md), [caching](../tagged/caching.md), [cacheapi](../tagged/cacheapi.md), [indexeddb](../tagged/indexeddb.md)
+---
+#### [Client-side caching with Angular](https://maurogarcia.dev/maurogarcia.dev/posts/client-side-caching-with-angular/)
+_<sup>https://maurogarcia.dev/maurogarcia.dev/posts/client-side-caching-with-angular/</sup>_
+
+In this article, I'm gonna show you how to implement client-side caching with Angular. By the end of this post, you'll be able to cache your http request like this:
+
+...
+* :calendar: **published on**: 2019-11-03
+* **tags**: [angular](../tagged/angular.md), [caching](../tagged/caching.md), [localstorage](../tagged/localstorage.md)
+---
+#### [node-cache/node-cache home page](https://github.com/node-cache/node-cache)
+_<sup>https://github.com/node-cache/node-cache</sup>_
+
+a node internal (in-memory) caching module
+* **tags**: [node.js](../tagged/node.js.md), [caching](../tagged/caching.md), [in-memory](../tagged/in-memory.md)
+* :octocat: **[source code](https://github.com/node-cache/node-cache)**
+---
+#### [pamelafox/lscache home page](https://github.com/pamelafox/lscache)
+_<sup>https://github.com/pamelafox/lscache</sup>_
+
+A localStorage-based memcache-inspired client-side caching library.
+* **tags**: [local-storage](../tagged/local-storage.md), [caching](../tagged/caching.md)
+* :octocat: **[source code](https://github.com/pamelafox/lscache)**
 ---
 #### [GraphQL: The Mental Model — Dhaivat Pandya - 21min](https://www.youtube.com/watch?v=zWhVAN4Tg6M)
 _<sup>https://www.youtube.com/watch?v=zWhVAN4Tg6M</sup>_

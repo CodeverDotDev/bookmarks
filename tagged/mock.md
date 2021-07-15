@@ -1,6 +1,6 @@
-## Bookmarks tagged [[mock]](https://www.bookmarks.dev/search?q=[mock])
+## Bookmarks tagged [[mock]](https://www.codever.land/search?q=[mock])
 
-_<sup><sup>[www.bookmarks.dev/tagged/mock](https://www.bookmarks.dev/tagged/mock)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/mock](www.codever.land/bookmarks/t/mock)</sup></sup>_
 ---
 #### [JSON Generator – tool for generating random JSON data](https://next.json-generator.com/)
 _<sup>https://next.json-generator.com/</sup>_

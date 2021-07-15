@@ -1,6 +1,31 @@
-## Bookmarks tagged [[prometheus]](https://www.bookmarks.dev/search?q=[prometheus])
+## Bookmarks tagged [[prometheus]](https://www.codever.land/search?q=[prometheus])
 
-_<sup><sup>[www.bookmarks.dev/tagged/prometheus](https://www.bookmarks.dev/tagged/prometheus)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/prometheus](www.codever.land/bookmarks/t/prometheus)</sup></sup>_
+---
+#### [prometheus/jmx_exporter home page](https://github.com/prometheus/jmx_exporter)
+_<sup>https://github.com/prometheus/jmx_exporter</sup>_
+
+JMX to Prometheus exporter: a collector that can configurably scrape and expose mBeans of a JMX target.
+
+This exporter is intended to be run as a Java Agent, exposing a HTTP server and serving metrics...
+* **tags**: [prometheus](../tagged/prometheus.md), [monitoring](../tagged/monitoring.md), [java](../tagged/java.md), [java-agent](../tagged/java-agent.md), [jmx](../tagged/jmx.md)
+* :octocat: **[source code](https://github.com/prometheus/jmx_exporter)**
+---
+#### [GitHub - siimon/prom-client: Prometheus client for node.js](https://github.com/siimon/prom-client)
+_<sup>https://github.com/siimon/prom-client</sup>_
+
+Prometheus client for node.js. Contribute to siimon/prom-client development by creating an account on GitHub.
+* **tags**: [prometheus](../tagged/prometheus.md), [node.js](../tagged/node.js.md)
+* :octocat: **[source code](https://github.com/siimon/prom-client)**
+---
+#### [How Prometheus Monitoring works | Prometheus Architecture explained - 21min](https://www.youtube.com/watch?v=h4Sl21AKiDg)
+_<sup>https://www.youtube.com/watch?v=h4Sl21AKiDg</sup>_
+
+Fully understand how Prometheus Monitoring works | Explaining Prometheus Architecture | What is Prometheus Monitoring | Prometheus Monitoring Tutorial
+
+- Demo Part 1: Setup Prometheus Monitoring and G...
+* :calendar: **published on**: 2020-04-24
+* **tags**: [prometheus](../tagged/prometheus.md), [monitoring](../tagged/monitoring.md)
 ---
 #### [A docker-compose stack for Prometheus monitoring](https://github.com/vegasbrianc/prometheus)
 _<sup>https://github.com/vegasbrianc/prometheus</sup>_

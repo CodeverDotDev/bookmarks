@@ -1,6 +1,6 @@
-## Bookmarks tagged [[abstract-syntax-tree]](https://www.bookmarks.dev/search?q=[abstract-syntax-tree])
+## Bookmarks tagged [[abstract-syntax-tree]](https://www.codever.land/search?q=[abstract-syntax-tree])
 
-_<sup><sup>[www.bookmarks.dev/tagged/abstract-syntax-tree](https://www.bookmarks.dev/tagged/abstract-syntax-tree)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/abstract-syntax-tree](www.codever.land/bookmarks/t/abstract-syntax-tree)</sup></sup>_
 ---
 #### [GraphQL Under the Hood - 26min](https://www.youtube.com/watch?v=fo6X91t3O2I)
 _<sup>https://www.youtube.com/watch?v=fo6X91t3O2I</sup>_

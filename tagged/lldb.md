@@ -1,6 +1,6 @@
-## Bookmarks tagged [[lldb]](https://www.bookmarks.dev/search?q=[lldb])
+## Bookmarks tagged [[lldb]](https://www.codever.land/search?q=[lldb])
 
-_<sup><sup>[www.bookmarks.dev/tagged/lldb](https://www.bookmarks.dev/tagged/lldb)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/lldb](www.codever.land/bookmarks/t/lldb)</sup></sup>_
 ---
 #### [lldb_batchmode.py](https://github.com/rust-lang/rust/blob/master/src/etc/lldb_batchmode.py)
 _<sup>https://github.com/rust-lang/rust/blob/master/src/etc/lldb_batchmode.py</sup>_

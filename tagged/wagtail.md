@@ -1,6 +1,6 @@
-## Bookmarks tagged [[wagtail]](https://www.bookmarks.dev/search?q=[wagtail])
+## Bookmarks tagged [[wagtail]](https://www.codever.land/search?q=[wagtail])
 
-_<sup><sup>[www.bookmarks.dev/tagged/wagtail](https://www.bookmarks.dev/tagged/wagtail)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/wagtail](www.codever.land/bookmarks/t/wagtail)</sup></sup>_
 ---
 #### [awesome-wagtail](https://github.com/springload/awesome-wagtail#readme)
 _<sup>https://github.com/springload/awesome-wagtail#readme</sup>_

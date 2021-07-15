@@ -1,6 +1,6 @@
-## Bookmarks tagged [[application-management]](https://www.bookmarks.dev/search?q=[application-management])
+## Bookmarks tagged [[application-management]](https://www.codever.land/search?q=[application-management])
 
-_<sup><sup>[www.bookmarks.dev/tagged/application-management](https://www.bookmarks.dev/tagged/application-management)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/application-management](www.codever.land/bookmarks/t/application-management)</sup></sup>_
 ---
 #### [Discover Apps! Application Reviews, Ratings and Rankings](https://appsrankings.com/)
 _<sup>https://appsrankings.com/</sup>_

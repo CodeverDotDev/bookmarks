@@ -1,6 +1,36 @@
-## Bookmarks tagged [[tutorials]](https://www.bookmarks.dev/search?q=[tutorials])
+## Bookmarks tagged [[tutorials]](https://www.codever.land/search?q=[tutorials])
 
-_<sup><sup>[www.bookmarks.dev/tagged/tutorials](https://www.bookmarks.dev/tagged/tutorials)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/tutorials](www.codever.land/bookmarks/t/tutorials)</sup></sup>_
+---
+#### [Lesson: Generics (The Java™ Tutorials)](https://docs.oracle.com/javase/tutorial/extra/generics/index.html)
+_<sup>https://docs.oracle.com/javase/tutorial/extra/generics/index.html</sup>_
+
+Introduced in J2SE 5.0, this long-awaited enhancement to the type system allows a type or method to operate on objects of various types while providing compile-time type safety. It adds compile-time t...
+* **tags**: [java](../tagged/java.md), [generics](../tagged/generics.md), [tutorials](../tagged/tutorials.md)
+---
+#### [TypeScript Course for Beginners 2021 - Learn TypeScript from Scratch! - 3h:16min](https://youtu.be/BwuLxPH8IDs)
+_<sup>https://youtu.be/BwuLxPH8IDs</sup>_
+
+Free TypeScript Introduction for Beginners: Get Started with TypeScript, learn the Basics, its Features, Workflows and how to use it!
+
+Join the full TypeScript Course: https://acad.link/typescript 
+Jo...
+* :calendar: **published on**: 2020-01-21
+* **tags**: [typescript](../tagged/typescript.md), [tutorials](../tagged/tutorials.md)
+---
+#### [GitHub - github/mentorships: GitHub Open Source Mentorships (deprecated)](https://github.com/github/mentorships)
+_<sup>https://github.com/github/mentorships</sup>_
+
+GitHub Open Source Mentorships (deprecated). Contribute to github/mentorships development by creating an account on GitHub.
+* **tags**: [github](../tagged/github.md), [tutorials](../tagged/tutorials.md), [community](../tagged/community.md), [open-source](../tagged/open-source.md), [learn-to-code](../tagged/learn-to-code.md)
+* :octocat: **[source code](https://github.com/github/mentorships)**
+---
+#### [GitHub - mozilla/extension-workshop: Firefox Extension Workshop](https://github.com/mozilla/extension-workshop)
+_<sup>https://github.com/mozilla/extension-workshop</sup>_
+
+Firefox Extension Workshop. Contribute to mozilla/extension-workshop development by creating an account on GitHub.
+* **tags**: [tutorials](../tagged/tutorials.md), [firefox](../tagged/firefox.md), [webextensions](../tagged/webextensions.md), [learn-to-code](../tagged/learn-to-code.md)
+* :octocat: **[source code](https://github.com/mozilla/extension-workshop)**
 ---
 #### [Node.js Crash Course Tutorial - YouTube](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU)
 _<sup>https://www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU</sup>_

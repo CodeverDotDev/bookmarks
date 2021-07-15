@@ -1,6 +1,6 @@
-## Bookmarks tagged [[spam-prevention]](https://www.bookmarks.dev/search?q=[spam-prevention])
+## Bookmarks tagged [[spam-prevention]](https://www.codever.land/search?q=[spam-prevention])
 
-_<sup><sup>[www.bookmarks.dev/tagged/spam-prevention](https://www.bookmarks.dev/tagged/spam-prevention)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/spam-prevention](www.codever.land/bookmarks/t/spam-prevention)</sup></sup>_
 ---
 #### [Email Blocklist Checker](https://grademyemail.co/email-blocklist-checker)
 _<sup>https://grademyemail.co/email-blocklist-checker</sup>_

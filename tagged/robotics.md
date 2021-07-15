@@ -1,6 +1,6 @@
-## Bookmarks tagged [[robotics]](https://www.bookmarks.dev/search?q=[robotics])
+## Bookmarks tagged [[robotics]](https://www.codever.land/search?q=[robotics])
 
-_<sup><sup>[www.bookmarks.dev/tagged/robotics](https://www.bookmarks.dev/tagged/robotics)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/robotics](www.codever.land/bookmarks/t/robotics)</sup></sup>_
 ---
 #### [MOOS-IvP](http://moos-ivp.org)
 _<sup>http://moos-ivp.org</sup>_

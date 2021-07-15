@@ -1,6 +1,6 @@
-## Bookmarks tagged [[methodology]](https://www.bookmarks.dev/search?q=[methodology])
+## Bookmarks tagged [[methodology]](https://www.codever.land/search?q=[methodology])
 
-_<sup><sup>[www.bookmarks.dev/tagged/methodology](https://www.bookmarks.dev/tagged/methodology)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/methodology](www.codever.land/bookmarks/t/methodology)</sup></sup>_
 ---
 #### [Root Cause Analysis Example](https://www.shmula.com/root-cause-analysis/)
 _<sup>https://www.shmula.com/root-cause-analysis/</sup>_

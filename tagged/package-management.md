@@ -1,6 +1,6 @@
-## Bookmarks tagged [[package-management]](https://www.bookmarks.dev/search?q=[package-management])
+## Bookmarks tagged [[package-management]](https://www.codever.land/search?q=[package-management])
 
-_<sup><sup>[www.bookmarks.dev/tagged/package-management](https://www.bookmarks.dev/tagged/package-management)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/package-management](www.codever.land/bookmarks/t/package-management)</sup></sup>_
 ---
 #### [Lerna · A tool for managing JavaScript projects with multiple packages.](https://lerna.js.org/)
 _<sup>https://lerna.js.org/</sup>_

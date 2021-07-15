@@ -1,6 +1,6 @@
-## Bookmarks tagged [[side-projects]](https://www.bookmarks.dev/search?q=[side-projects])
+## Bookmarks tagged [[side-projects]](https://www.codever.land/search?q=[side-projects])
 
-_<sup><sup>[www.bookmarks.dev/tagged/side-projects](https://www.bookmarks.dev/tagged/side-projects)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/side-projects](www.codever.land/bookmarks/t/side-projects)</sup></sup>_
 ---
 #### [The Indie Hackers Podcast: Tips for Growing Your Online Business](https://www.indiehackers.com/podcast)
 _<sup>https://www.indiehackers.com/podcast</sup>_

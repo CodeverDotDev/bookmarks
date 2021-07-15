@@ -1,6 +1,6 @@
-## Bookmarks tagged [[template]](https://www.bookmarks.dev/search?q=[template])
+## Bookmarks tagged [[template]](https://www.codever.land/search?q=[template])
 
-_<sup><sup>[www.bookmarks.dev/tagged/template](https://www.bookmarks.dev/tagged/template)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/template](www.codever.land/bookmarks/t/template)</sup></sup>_
 ---
 #### [GitHub - cobidev/simplefolio: ⚡️ A minimal portfolio template for Developers](https://github.com/cobidev/simplefolio)
 _<sup>https://github.com/cobidev/simplefolio</sup>_

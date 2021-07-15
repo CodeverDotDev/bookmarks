@@ -1,6 +1,6 @@
-## Bookmarks tagged [[mobx]](https://www.bookmarks.dev/search?q=[mobx])
+## Bookmarks tagged [[mobx]](https://www.codever.land/search?q=[mobx])
 
-_<sup><sup>[www.bookmarks.dev/tagged/mobx](https://www.bookmarks.dev/tagged/mobx)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/mobx](www.codever.land/bookmarks/t/mobx)</sup></sup>_
 ---
 #### [mobx-react - React component wrapper for combining React with MobX](https://github.com/mobxjs/mobx-react)
 _<sup>https://github.com/mobxjs/mobx-react</sup>_

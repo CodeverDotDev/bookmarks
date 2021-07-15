@@ -1,6 +1,6 @@
-## Bookmarks tagged [[miniz]](https://www.bookmarks.dev/search?q=[miniz])
+## Bookmarks tagged [[miniz]](https://www.codever.land/search?q=[miniz])
 
-_<sup><sup>[www.bookmarks.dev/tagged/miniz](https://www.bookmarks.dev/tagged/miniz)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/miniz](www.codever.land/bookmarks/t/miniz)</sup></sup>_
 ---
 #### [alexcrichton/flate2-rs](https://github.com/alexcrichton/flate2-rs)
 _<sup>https://github.com/alexcrichton/flate2-rs</sup>_

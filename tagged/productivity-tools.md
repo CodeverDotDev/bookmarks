@@ -1,6 +1,12 @@
-## Bookmarks tagged [[productivity-tools]](https://www.bookmarks.dev/search?q=[productivity-tools])
+## Bookmarks tagged [[productivity-tools]](https://www.codever.land/search?q=[productivity-tools])
 
-_<sup><sup>[www.bookmarks.dev/tagged/productivity-tools](https://www.bookmarks.dev/tagged/productivity-tools)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/productivity-tools](www.codever.land/bookmarks/t/productivity-tools)</sup></sup>_
+---
+#### [So, I wrote my first IntelliJ plugin to help me bookmark code ](https://www.codepedia.org/ama/my-first-intellij-plugin-to-help-me-bookmark-code)
+_<sup>https://www.codepedia.org/ama/my-first-intellij-plugin-to-help-me-bookmark-code</sup>_
+
+Shows the basic steps needed to create a simple IntelliJ plugins which makes saving and searching snippets from IntelliJ IDEs to [Codever](https://www.codever.land) very easy.
+* **tags**: [intellij](../tagged/intellij.md), [plugins](../tagged/plugins.md), [productivity](../tagged/productivity.md), [productivity-tools](../tagged/productivity-tools.md)
 ---
 #### [How I manage my dev bookmarks to save time and nerves - DEV Community 👩‍💻👨‍💻](https://dev.to/ama/how-i-manage-my-dev-bookmarks-and-save-time-and-nerves-56ae)
 _<sup>https://dev.to/ama/how-i-manage-my-dev-bookmarks-and-save-time-and-nerves-56ae</sup>_

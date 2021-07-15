@@ -1,6 +1,6 @@
-## Bookmarks tagged [[aspectj]](https://www.bookmarks.dev/search?q=[aspectj])
+## Bookmarks tagged [[aspectj]](https://www.codever.land/search?q=[aspectj])
 
-_<sup><sup>[www.bookmarks.dev/tagged/aspectj](https://www.bookmarks.dev/tagged/aspectj)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/aspectj](www.codever.land/bookmarks/t/aspectj)</sup></sup>_
 ---
 #### [AspectJ Kitabı](http://kodcu.com/aspectj-ebook/)
 _<sup>http://kodcu.com/aspectj-ebook/</sup>_

@@ -1,6 +1,6 @@
-## Bookmarks tagged [[google-cloud-platform]](https://www.bookmarks.dev/search?q=[google-cloud-platform])
+## Bookmarks tagged [[google-cloud-platform]](https://www.codever.land/search?q=[google-cloud-platform])
 
-_<sup><sup>[www.bookmarks.dev/tagged/google-cloud-platform](https://www.bookmarks.dev/tagged/google-cloud-platform)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/google-cloud-platform](www.codever.land/bookmarks/t/google-cloud-platform)</sup></sup>_
 ---
 #### [Using Prometheus  |  Stackdriver Monitoring  |  Google Cloud](https://cloud.google.com/monitoring/kubernetes-engine/prometheus)
 _<sup>https://cloud.google.com/monitoring/kubernetes-engine/prometheus</sup>_

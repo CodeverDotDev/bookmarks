@@ -1,6 +1,6 @@
-## Bookmarks tagged [[books]](https://www.bookmarks.dev/search?q=[books])
+## Bookmarks tagged [[books]](https://www.codever.land/search?q=[books])
 
-_<sup><sup>[www.bookmarks.dev/tagged/books](https://www.bookmarks.dev/tagged/books)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/books](www.codever.land/bookmarks/t/books)</sup></sup>_
 ---
 #### [List of Free C or C++ Books](https://github.com/fffaraz/awesome-cpp/blob/master/books.md)
 _<sup>https://github.com/fffaraz/awesome-cpp/blob/master/books.md</sup>_

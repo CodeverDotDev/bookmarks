@@ -1,6 +1,18 @@
-## Bookmarks tagged [[unix]](https://www.bookmarks.dev/search?q=[unix])
+## Bookmarks tagged [[unix]](https://www.codever.land/search?q=[unix])
 
-_<sup><sup>[www.bookmarks.dev/tagged/unix](https://www.bookmarks.dev/tagged/unix)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/unix](www.codever.land/bookmarks/t/unix)</sup></sup>_
+---
+#### [GitHub - jlevy/the-art-of-command-line: Master the command line, in one page](https://github.com/jlevy/the-art-of-command-line)
+_<sup>https://github.com/jlevy/the-art-of-command-line</sup>_
+
+Master the command line, in one page. Contribute to jlevy/the-art-of-command-line development by creating an account on GitHub.
+* **tags**: [windows](../tagged/windows.md), [macos](../tagged/macos.md), [linux](../tagged/linux.md), [bash](../tagged/bash.md), [documentation](../tagged/documentation.md), [unix](../tagged/unix.md)
+* :octocat: **[source code](https://github.com/jlevy/the-art-of-command-line)**
+---
+#### [screen Cheat Sheet - Kapeli](https://kapeli.com/cheat_sheets/screen.docset/Contents/Resources/Documents/index)
+_<sup>https://kapeli.com/cheat_sheets/screen.docset/Contents/Resources/Documents/index</sup>_
+
+* **tags**: [gnu-screen](../tagged/gnu-screen.md), [cheatsheet](../tagged/cheatsheet.md), [linux](../tagged/linux.md), [unix](../tagged/unix.md), [terminal](../tagged/terminal.md)
 ---
 #### [Unix Toolbox](http://cb.vu/unixtoolbox.xhtml?utm_medium=email&utm_source=topic+optin&utm_campaign=awareness&utm_content=20200314+prog+nl&utm_medium=email&utm_source=topic+optin&utm_campaign=awareness&utm_content=20210116+prog+nl&mkt_tok=eyJpIjoiTkRobFl6VmtNekpoWm1WaiIsInQiOiI1cm1MdUcxYVV5ZUc2aEJEeEFWVk9YYTVuN0l3UHJNU2h3ZEVkZVhXbzZFRlBLSXEwQWdqZkZOSndkZVwvM2N5d1hBNHBqU2xja0Q3S3ZVa1Bpd0p0aEhGbHBOVmxYUkNGSWYxQmVhTlVYditkNStzb01TUENPcXdJZk1RRldsWk8ifQ%3D%3D#screen)
 _<sup>http://cb.vu/unixtoolbox.xhtml?utm_medium=email&utm_source=topic+optin&utm_campaign=awareness&utm_co...</sup>_

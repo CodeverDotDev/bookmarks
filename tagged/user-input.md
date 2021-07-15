@@ -1,6 +1,6 @@
-## Bookmarks tagged [[user-input]](https://www.bookmarks.dev/search?q=[user-input])
+## Bookmarks tagged [[user-input]](https://www.codever.land/search?q=[user-input])
 
-_<sup><sup>[www.bookmarks.dev/tagged/user-input](https://www.bookmarks.dev/tagged/user-input)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/user-input](www.codever.land/bookmarks/t/user-input)</sup></sup>_
 ---
 #### [minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings)
 _<sup>https://github.com/minimaxir/big-list-of-naughty-strings</sup>_

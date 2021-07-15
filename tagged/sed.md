@@ -1,6 +1,6 @@
-## Bookmarks tagged [[sed]](https://www.bookmarks.dev/search?q=[sed])
+## Bookmarks tagged [[sed]](https://www.codever.land/search?q=[sed])
 
-_<sup><sup>[www.bookmarks.dev/tagged/sed](https://www.bookmarks.dev/tagged/sed)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/sed](www.codever.land/bookmarks/t/sed)</sup></sup>_
 ---
 #### [SED 教室](http://www.gcd.org/sengoku/sedlec/)
 _<sup>http://www.gcd.org/sengoku/sedlec/</sup>_

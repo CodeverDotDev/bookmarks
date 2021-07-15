@@ -1,6 +1,6 @@
-## Bookmarks tagged [[range]](https://www.bookmarks.dev/search?q=[range])
+## Bookmarks tagged [[range]](https://www.codever.land/search?q=[range])
 
-_<sup><sup>[www.bookmarks.dev/tagged/range](https://www.bookmarks.dev/tagged/range)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/range](www.codever.land/bookmarks/t/range)</sup></sup>_
 ---
 #### [Ion.RangeSlider](https://github.com/IonDen/ion.rangeSlider)
 _<sup>https://github.com/IonDen/ion.rangeSlider</sup>_

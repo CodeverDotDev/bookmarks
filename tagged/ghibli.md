@@ -1,6 +1,6 @@
-## Bookmarks tagged [[ghibli]](https://www.bookmarks.dev/search?q=[ghibli])
+## Bookmarks tagged [[ghibli]](https://www.codever.land/search?q=[ghibli])
 
-_<sup><sup>[www.bookmarks.dev/tagged/ghibli](https://www.bookmarks.dev/tagged/ghibli)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/ghibli](www.codever.land/bookmarks/t/ghibli)</sup></sup>_
 ---
 #### [Creating Ghibli-Style Textures in Substance Painter - YouTube](https://www.youtube.com/watch?v=h8llGEKIQT0)
 _<sup>https://www.youtube.com/watch?v=h8llGEKIQT0</sup>_

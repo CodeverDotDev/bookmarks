@@ -1,6 +1,12 @@
-## Bookmarks tagged [[generics]](https://www.bookmarks.dev/search?q=[generics])
+## Bookmarks tagged [[generics]](https://www.codever.land/search?q=[generics])
 
-_<sup><sup>[www.bookmarks.dev/tagged/generics](https://www.bookmarks.dev/tagged/generics)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/generics](www.codever.land/bookmarks/t/generics)</sup></sup>_
+---
+#### [Lesson: Generics (The Java™ Tutorials)](https://docs.oracle.com/javase/tutorial/extra/generics/index.html)
+_<sup>https://docs.oracle.com/javase/tutorial/extra/generics/index.html</sup>_
+
+Introduced in J2SE 5.0, this long-awaited enhancement to the type system allows a type or method to operate on objects of various types while providing compile-time type safety. It adds compile-time t...
+* **tags**: [java](../tagged/java.md), [generics](../tagged/generics.md), [tutorials](../tagged/tutorials.md)
 ---
 #### [efaceconv](https://github.com/t0pep0/efaceconv)
 _<sup>https://github.com/t0pep0/efaceconv</sup>_

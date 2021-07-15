@@ -1,6 +1,6 @@
-## Bookmarks tagged [[dart]](https://www.bookmarks.dev/search?q=[dart])
+## Bookmarks tagged [[dart]](https://www.codever.land/search?q=[dart])
 
-_<sup><sup>[www.bookmarks.dev/tagged/dart](https://www.bookmarks.dev/tagged/dart)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/dart](www.codever.land/bookmarks/t/dart)</sup></sup>_
 ---
 #### [awesome-dart](https://github.com/yissachar/awesome-dart#readme)
 _<sup>https://github.com/yissachar/awesome-dart#readme</sup>_

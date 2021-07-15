@@ -1,6 +1,6 @@
-## Bookmarks tagged [[iptables]](https://www.bookmarks.dev/search?q=[iptables])
+## Bookmarks tagged [[iptables]](https://www.codever.land/search?q=[iptables])
 
-_<sup><sup>[www.bookmarks.dev/tagged/iptables](https://www.bookmarks.dev/tagged/iptables)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/iptables](www.codever.land/bookmarks/t/iptables)</sup></sup>_
 ---
 #### [Understanding Kubernetes Kube-Proxy](https://supergiant.io/blog/understanding-kubernetes-kube-proxy/)
 _<sup>https://supergiant.io/blog/understanding-kubernetes-kube-proxy/</sup>_

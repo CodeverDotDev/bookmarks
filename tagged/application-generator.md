@@ -1,6 +1,6 @@
-## Bookmarks tagged [[application-generator]](https://www.bookmarks.dev/search?q=[application-generator])
+## Bookmarks tagged [[application-generator]](https://www.codever.land/search?q=[application-generator])
 
-_<sup><sup>[www.bookmarks.dev/tagged/application-generator](https://www.bookmarks.dev/tagged/application-generator)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/application-generator](www.codever.land/bookmarks/t/application-generator)</sup></sup>_
 ---
 #### [Bootstrappers](https://github.com/xdite/bootstrappers)
 _<sup>https://github.com/xdite/bootstrappers</sup>_

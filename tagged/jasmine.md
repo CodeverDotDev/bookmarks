@@ -1,6 +1,6 @@
-## Bookmarks tagged [[jasmine]](https://www.bookmarks.dev/search?q=[jasmine])
+## Bookmarks tagged [[jasmine]](https://www.codever.land/search?q=[jasmine])
 
-_<sup><sup>[www.bookmarks.dev/tagged/jasmine](https://www.bookmarks.dev/tagged/jasmine)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/jasmine](www.codever.land/bookmarks/t/jasmine)</sup></sup>_
 ---
 #### [Testing Angular with jest ](https://ordina-jworks.github.io/testing/2018/08/03/testing-angular-with-jest.html)
 _<sup>https://ordina-jworks.github.io/testing/2018/08/03/testing-angular-with-jest.html</sup>_

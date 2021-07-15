@@ -1,6 +1,6 @@
-## Bookmarks tagged [[mockito]](https://www.bookmarks.dev/search?q=[mockito])
+## Bookmarks tagged [[mockito]](https://www.codever.land/search?q=[mockito])
 
-_<sup><sup>[www.bookmarks.dev/tagged/mockito](https://www.bookmarks.dev/tagged/mockito)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/mockito](www.codever.land/bookmarks/t/mockito)</sup></sup>_
 ---
 #### [A Unit Tester's Guide to Mockito](https://www.toptal.com/java/a-guide-to-everyday-mockito)
 _<sup>https://www.toptal.com/java/a-guide-to-everyday-mockito</sup>_

@@ -1,6 +1,6 @@
-## Bookmarks tagged [[data-science]](https://www.bookmarks.dev/search?q=[data-science])
+## Bookmarks tagged [[data-science]](https://www.codever.land/search?q=[data-science])
 
-_<sup><sup>[www.bookmarks.dev/tagged/data-science](https://www.bookmarks.dev/tagged/data-science)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/data-science](www.codever.land/bookmarks/t/data-science)</sup></sup>_
 ---
 #### [Big Data: Concepts from A to Z - DEV Community 👩‍💻👨‍💻](https://dev.to/helenanders26/big-data-from-a-to-z-3l7j)
 _<sup>https://dev.to/helenanders26/big-data-from-a-to-z-3l7j</sup>_

@@ -1,6 +1,6 @@
-## Bookmarks tagged [[mvc]](https://www.bookmarks.dev/search?q=[mvc])
+## Bookmarks tagged [[mvc]](https://www.codever.land/search?q=[mvc])
 
-_<sup><sup>[www.bookmarks.dev/tagged/mvc](https://www.bookmarks.dev/tagged/mvc)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/mvc](www.codever.land/bookmarks/t/mvc)</sup></sup>_
 ---
 #### [angular.js](https://github.com/angular/angular.js)
 _<sup>https://github.com/angular/angular.js</sup>_

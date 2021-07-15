@@ -1,6 +1,6 @@
-## Bookmarks tagged [[dataloader]](https://www.bookmarks.dev/search?q=[dataloader])
+## Bookmarks tagged [[dataloader]](https://www.codever.land/search?q=[dataloader])
 
-_<sup><sup>[www.bookmarks.dev/tagged/dataloader](https://www.bookmarks.dev/tagged/dataloader)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/dataloader](www.codever.land/bookmarks/t/dataloader)</sup></sup>_
 ---
 #### [DataLoader – Source code walkthrough - 34min](https://www.youtube.com/watch?v=OQTnXNCDywA)
 _<sup>https://www.youtube.com/watch?v=OQTnXNCDywA</sup>_

@@ -1,6 +1,6 @@
-## Bookmarks tagged [[pandas]](https://www.bookmarks.dev/search?q=[pandas])
+## Bookmarks tagged [[pandas]](https://www.codever.land/search?q=[pandas])
 
-_<sup><sup>[www.bookmarks.dev/tagged/pandas](https://www.bookmarks.dev/tagged/pandas)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/pandas](www.codever.land/bookmarks/t/pandas)</sup></sup>_
 ---
 #### [Learn Pandas](https://bitbucket.org/hrojas/learn-pandas)
 _<sup>https://bitbucket.org/hrojas/learn-pandas</sup>_

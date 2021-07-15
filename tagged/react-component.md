@@ -1,6 +1,6 @@
-## Bookmarks tagged [[react-component]](https://www.bookmarks.dev/search?q=[react-component])
+## Bookmarks tagged [[react-component]](https://www.codever.land/search?q=[react-component])
 
-_<sup><sup>[www.bookmarks.dev/tagged/react-component](https://www.bookmarks.dev/tagged/react-component)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/react-component](www.codever.land/bookmarks/t/react-component)</sup></sup>_
 ---
 #### [material-ui](https://github.com/mui-org/material-ui)
 _<sup>https://github.com/mui-org/material-ui</sup>_

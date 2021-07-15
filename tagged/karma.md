@@ -1,6 +1,6 @@
-## Bookmarks tagged [[karma]](https://www.bookmarks.dev/search?q=[karma])
+## Bookmarks tagged [[karma]](https://www.codever.land/search?q=[karma])
 
-_<sup><sup>[www.bookmarks.dev/tagged/karma](https://www.bookmarks.dev/tagged/karma)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/karma](www.codever.land/bookmarks/t/karma)</sup></sup>_
 ---
 #### [Testing Angular with jest ](https://ordina-jworks.github.io/testing/2018/08/03/testing-angular-with-jest.html)
 _<sup>https://ordina-jworks.github.io/testing/2018/08/03/testing-angular-with-jest.html</sup>_

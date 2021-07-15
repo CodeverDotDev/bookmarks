@@ -1,6 +1,6 @@
-## Bookmarks tagged [[stream]](https://www.bookmarks.dev/search?q=[stream])
+## Bookmarks tagged [[stream]](https://www.codever.land/search?q=[stream])
 
-_<sup><sup>[www.bookmarks.dev/tagged/stream](https://www.bookmarks.dev/tagged/stream)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/stream](www.codever.land/bookmarks/t/stream)</sup></sup>_
 ---
 #### [A Brief History of Streams - YouTube](https://www.youtube.com/watch?v=gx9ZNY9DNBs)
 _<sup>https://www.youtube.com/watch?v=gx9ZNY9DNBs</sup>_

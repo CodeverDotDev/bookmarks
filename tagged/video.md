@@ -1,6 +1,19 @@
-## Bookmarks tagged [[video]](https://www.bookmarks.dev/search?q=[video])
+## Bookmarks tagged [[video]](https://www.codever.land/search?q=[video])
 
-_<sup><sup>[www.bookmarks.dev/tagged/video](https://www.bookmarks.dev/tagged/video)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/video](www.codever.land/bookmarks/t/video)</sup></sup>_
+---
+#### [
+FFmpeg](https://ffmpeg.org/)
+_<sup>https://ffmpeg.org/</sup>_
+
+* **tags**: [ffmpeg](../tagged/ffmpeg.md), [audio](../tagged/audio.md), [video](../tagged/video.md)
+---
+#### [embedresponsively.com](https://embedresponsively.com/)
+_<sup>https://embedresponsively.com/</sup>_
+
+Embed Responsively helps web content producers transform fixed width embedded content into fluid responsive embeds.
+
+* **tags**: [video](../tagged/video.md), [media](../tagged/media.md), [embedded](../tagged/embedded.md), [responsive-design](../tagged/responsive-design.md)
 ---
 #### [How to embed a youtube video in an angular material dialog – CodepediaOrg](https://www.codepedia.org/ama/how-to-embed-a-youtube-video-in-an-angular-material-dialog)
 _<sup>https://www.codepedia.org/ama/how-to-embed-a-youtube-video-in-an-angular-material-dialog</sup>_

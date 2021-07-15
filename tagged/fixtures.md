@@ -1,6 +1,6 @@
-## Bookmarks tagged [[fixtures]](https://www.bookmarks.dev/search?q=[fixtures])
+## Bookmarks tagged [[fixtures]](https://www.codever.land/search?q=[fixtures])
 
-_<sup><sup>[www.bookmarks.dev/tagged/fixtures](https://www.bookmarks.dev/tagged/fixtures)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/fixtures](www.codever.land/bookmarks/t/fixtures)</sup></sup>_
 ---
 #### [Beanmother](https://github.com/keepcosmos/beanmother)
 _<sup>https://github.com/keepcosmos/beanmother</sup>_

@@ -1,6 +1,6 @@
-## Bookmarks tagged [[upstart]](https://www.bookmarks.dev/search?q=[upstart])
+## Bookmarks tagged [[upstart]](https://www.codever.land/search?q=[upstart])
 
-_<sup><sup>[www.bookmarks.dev/tagged/upstart](https://www.bookmarks.dev/tagged/upstart)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/upstart](www.codever.land/bookmarks/t/upstart)</sup></sup>_
 ---
 #### [upstart - event-based init daemon](http://upstart.ubuntu.com/)
 _<sup>http://upstart.ubuntu.com/</sup>_

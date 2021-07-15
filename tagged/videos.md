@@ -1,6 +1,13 @@
-## Bookmarks tagged [[videos]](https://www.bookmarks.dev/search?q=[videos])
+## Bookmarks tagged [[videos]](https://www.codever.land/search?q=[videos])
 
-_<sup><sup>[www.bookmarks.dev/tagged/videos](https://www.bookmarks.dev/tagged/videos)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/videos](www.codever.land/bookmarks/t/videos)</sup></sup>_
+---
+#### [leonardomso/33-js-concepts: 📜 33 JavaScript concepts every developer should know.](https://github.com/leonardomso/33-js-concepts)
+_<sup>https://github.com/leonardomso/33-js-concepts</sup>_
+
+This repository was created with the intention of helping developers master their concepts in JavaScript. It is not a requirement, but a guide for future studies. It is based on an article written by ...
+* **tags**: [javascript](../tagged/javascript.md), [resources](../tagged/resources.md), [videos](../tagged/videos.md), [bookmarks](../tagged/bookmarks.md)
+* :octocat: **[source code](https://github.com/leonardomso/33-js-concepts)**
 ---
 #### [Babel Videos](https://babeljs.io/videos.html)
 _<sup>https://babeljs.io/videos.html</sup>_

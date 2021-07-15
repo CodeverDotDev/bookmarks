@@ -1,6 +1,6 @@
-## Bookmarks tagged [[lazy-loading]](https://www.bookmarks.dev/search?q=[lazy-loading])
+## Bookmarks tagged [[lazy-loading]](https://www.codever.land/search?q=[lazy-loading])
 
-_<sup><sup>[www.bookmarks.dev/tagged/lazy-loading](https://www.bookmarks.dev/tagged/lazy-loading)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/lazy-loading](www.codever.land/bookmarks/t/lazy-loading)</sup></sup>_
 ---
 #### [Route-level code splitting in Angular](https://web.dev/route-level-code-splitting-in-angular/)
 _<sup>https://web.dev/route-level-code-splitting-in-angular/</sup>_

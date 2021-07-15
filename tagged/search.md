@@ -1,6 +1,24 @@
-## Bookmarks tagged [[search]](https://www.bookmarks.dev/search?q=[search])
+## Bookmarks tagged [[search]](https://www.codever.land/search?q=[search])
 
-_<sup><sup>[www.bookmarks.dev/tagged/search](https://www.bookmarks.dev/tagged/search)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/search](www.codever.land/bookmarks/t/search)</sup></sup>_
+---
+#### [Qdrant - Vector Search Engine](https://qdrant.tech/)
+_<sup>https://qdrant.tech/</sup>_
+
+Qdrant - Open-Source Vector Search Engine. The neural search engine developed in Rust :crab:. It allows embeddings or neural network encoders to be turned into full-fledged applications for matching, ...
+* :calendar: **published on**: 2021-05-01
+* **tags**: [rust](../tagged/rust.md), [search](../tagged/search.md), [open-source](../tagged/open-source.md), [neuronal](../tagged/neuronal.md), [machine-learning](../tagged/machine-learning.md)
+* :octocat: **[source code](https://github.com/qdrant/qdrant)**
+---
+#### [What creators should know about Google’s product reviews updateGoogleGoogle](https://developers.google.com/search/blog/2021/04/product-reviews-update)
+_<sup>https://developers.google.com/search/blog/2021/04/product-reviews-update</sup>_
+
+* **tags**: [google](../tagged/google.md), [search](../tagged/search.md), [update](../tagged/update.md), [reviews](../tagged/reviews.md)
+---
+#### [SAP Programmable Search Engine](https://cse.google.com/cse?cx=013447253335410278659:k8ob9ipscwg#gsc.tab=0)
+_<sup>https://cse.google.com/cse?cx=013447253335410278659:k8ob9ipscwg#gsc.tab=0</sup>_
+
+* **tags**: [sap](../tagged/sap.md), [search](../tagged/search.md), [google](../tagged/google.md)
 ---
 #### [Search for code in Bitbucket Server - Atlassian Documentation](https://confluence.atlassian.com/bitbucketserver/search-for-code-in-bitbucket-server-814204781.html)
 _<sup>https://confluence.atlassian.com/bitbucketserver/search-for-code-in-bitbucket-server-814204781.html</sup>_

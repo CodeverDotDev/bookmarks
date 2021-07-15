@@ -1,6 +1,6 @@
-## Bookmarks tagged [[event-stream]](https://www.bookmarks.dev/search?q=[event-stream])
+## Bookmarks tagged [[event-stream]](https://www.codever.land/search?q=[event-stream])
 
-_<sup><sup>[www.bookmarks.dev/tagged/event-stream](https://www.bookmarks.dev/tagged/event-stream)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/event-stream](www.codever.land/bookmarks/t/event-stream)</sup></sup>_
 ---
 #### [ETL Is Dead, Long Live Streams: real-time streams w/ Apache Kafka - YouTube](https://www.youtube.com/watch?v=I32hmY4diFY)
 _<sup>https://www.youtube.com/watch?v=I32hmY4diFY</sup>_

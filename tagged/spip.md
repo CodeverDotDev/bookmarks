@@ -1,6 +1,6 @@
-## Bookmarks tagged [[spip]](https://www.bookmarks.dev/search?q=[spip])
+## Bookmarks tagged [[spip]](https://www.codever.land/search?q=[spip])
 
-_<sup><sup>[www.bookmarks.dev/tagged/spip](https://www.bookmarks.dev/tagged/spip)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/spip](www.codever.land/bookmarks/t/spip)</sup></sup>_
 ---
 #### [Programmer avec SPIP](http://programmer.spip.net)
 _<sup>http://programmer.spip.net</sup>_

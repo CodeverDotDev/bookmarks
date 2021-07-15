@@ -1,6 +1,6 @@
-## Bookmarks tagged [[bitcoin]](https://www.bookmarks.dev/search?q=[bitcoin])
+## Bookmarks tagged [[bitcoin]](https://www.codever.land/search?q=[bitcoin])
 
-_<sup><sup>[www.bookmarks.dev/tagged/bitcoin](https://www.bookmarks.dev/tagged/bitcoin)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/bitcoin](www.codever.land/bookmarks/t/bitcoin)</sup></sup>_
 ---
 #### [awesome-bitcoin](https://github.com/igorbarinov/awesome-bitcoin#readme)
 _<sup>https://github.com/igorbarinov/awesome-bitcoin#readme</sup>_

@@ -1,6 +1,42 @@
-## Bookmarks tagged [[architecture]](https://www.bookmarks.dev/search?q=[architecture])
+## Bookmarks tagged [[architecture]](https://www.codever.land/search?q=[architecture])
 
-_<sup><sup>[www.bookmarks.dev/tagged/architecture](https://www.bookmarks.dev/tagged/architecture)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/architecture](www.codever.land/bookmarks/t/architecture)</sup></sup>_
+---
+#### [Microservice Trade-Offs](https://martinfowler.com/articles/microservice-trade-offs.html)
+_<sup>https://martinfowler.com/articles/microservice-trade-offs.html</sup>_
+
+Many development teams have found the microservices architectural style to be a superior approach to a monolithic architecture. But other teams have found them to be a productivity-sapping burden. Lik...
+* :calendar: **published on**: 2015-07-01
+* **tags**: [microservices](../tagged/microservices.md), [monolith](../tagged/monolith.md), [architecture](../tagged/architecture.md)
+---
+#### [Fundamentals of Software Architecture — Neal Ford and Mark Richards - 57min](https://www.youtube.com/watch?v=fvSZ7gocaxI)
+_<sup>https://www.youtube.com/watch?v=fvSZ7gocaxI</sup>_
+
+Software architecture is frequently highlighted as one of the most desirable careers. But there's never been a handbook that gives you everything you need to know to succeed — until now. In this webin...
+* :calendar: **published on**: 2020-04-17
+* **tags**: [programming](../tagged/programming.md), [architecture](../tagged/architecture.md)
+---
+#### [Ngrx Store - An Architecture Guide](https://blog.angular-university.io/angular-ngrx-store-and-effects-crash-course/)
+_<sup>https://blog.angular-university.io/angular-ngrx-store-and-effects-crash-course/</sup>_
+
+Using a store architecture represents a big architectural shift: with the arrival of single page applications, we moved the Model to View transformation from the server to the client.
+
+Store architect...
+* **tags**: [angular](../tagged/angular.md), [flux](../tagged/flux.md), [ngrx](../tagged/ngrx.md), [architecture](../tagged/architecture.md)
+---
+#### [The Onion Architecture : part 1 | Programming with Palermo](https://jeffreypalermo.com/2008/07/the-onion-architecture-part-1/)
+_<sup>https://jeffreypalermo.com/2008/07/the-onion-architecture-part-1/</sup>_
+
+I’ve spoken several times about a specific type of architecture I call “Onion Architecture”.  I’ve found that it leads to more maintainable applications since it emphasizes separation of concerns thro...
+* :calendar: **published on**: 2008-07-29
+* **tags**: [architecture](../tagged/architecture.md)
+---
+#### [Unit test your Java architecture - ArchUnit home page](https://www.archunit.org/)
+_<sup>https://www.archunit.org/</sup>_
+
+ArchUnit is a free, simple and extensible library for checking the architecture of your Java code using any plain Java unit test framework. That is, ArchUnit can check dependencies between packages an...
+* **tags**: [java](../tagged/java.md), [testing](../tagged/testing.md), [architecture](../tagged/architecture.md)
+* :octocat: **[source code](https://github.com/TNG/ArchUnit)**
 ---
 #### [Ségrégation des interfaces : codez uniquement le nécessaire](https://itexpert.fr/blog/principe-segregation-interfaces/)
 _<sup>https://itexpert.fr/blog/principe-segregation-interfaces/</sup>_
@@ -44,6 +80,13 @@ ride a bike.
 Babel follows a monorepo approach, all officially maintained modules are in the same repo...
 * **tags**: [monorepo](../tagged/monorepo.md), [babel](../tagged/babel.md), [architecture](../tagged/architecture.md), [design](../tagged/design.md)
 * :octocat: **[source code](https://github.com/babel/babel)**
+---
+#### [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
+_<sup>https://github.com/donnemartin/system-design-primer</sup>_
+
+Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+* **tags**: [system-design](../tagged/system-design.md), [architecture](../tagged/architecture.md)
+* :octocat: **[source code](https://github.com/donnemartin/system-design-primer)**
 ---
 #### [fpereiro/backendlore: How I write backends](https://github.com/fpereiro/backendlore)
 _<sup>https://github.com/fpereiro/backendlore</sup>_

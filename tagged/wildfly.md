@@ -1,6 +1,6 @@
-## Bookmarks tagged [[wildfly]](https://www.bookmarks.dev/search?q=[wildfly])
+## Bookmarks tagged [[wildfly]](https://www.codever.land/search?q=[wildfly])
 
-_<sup><sup>[www.bookmarks.dev/tagged/wildfly](https://www.bookmarks.dev/tagged/wildfly)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/wildfly](www.codever.land/bookmarks/t/wildfly)</sup></sup>_
 ---
 #### [Validating JAX-RS resource data with Bean Validation in Java EE 7 and WildFly](https://samaxes.com/2014/04/jaxrs-beanvalidation-javaee7-wildfly/)
 _<sup>https://samaxes.com/2014/04/jaxrs-beanvalidation-javaee7-wildfly/</sup>_

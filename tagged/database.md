@@ -1,6 +1,47 @@
-## Bookmarks tagged [[database]](https://www.bookmarks.dev/search?q=[database])
+## Bookmarks tagged [[database]](https://www.codever.land/search?q=[database])
 
-_<sup><sup>[www.bookmarks.dev/tagged/database](https://www.bookmarks.dev/tagged/database)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/database](www.codever.land/bookmarks/t/database)</sup></sup>_
+---
+#### [Redis Quick Start – Redis](https://redis.io/topics/quickstart)
+_<sup>https://redis.io/topics/quickstart</sup>_
+
+* **tags**: [redis](../tagged/redis.md), [javascript](../tagged/javascript.md), [database](../tagged/database.md)
+---
+#### [MongoDB Node.js Driver](https://mongodb.github.io/node-mongodb-native/)
+_<sup>https://mongodb.github.io/node-mongodb-native/</sup>_
+
+* **tags**: [mogodb](../tagged/mogodb.md), [database](../tagged/database.md), [javascript](../tagged/javascript.md)
+---
+#### [How to Install and Configure Redis on Linux System](https://www.ubuntupit.com/how-to-install-and-configure-redis-on-linux-system/)
+_<sup>https://www.ubuntupit.com/how-to-install-and-configure-redis-on-linux-system/</sup>_
+
+Redis is a in-built memory tool for loading server/webpages faster. Here, we will see how to install and use Redis on Linux system.
+* **tags**: [redis](../tagged/redis.md), [database](../tagged/database.md)
+---
+#### [Sequelize ORM](https://sequelize.org/)
+_<sup>https://sequelize.org/</sup>_
+
+* **tags**: [database](../tagged/database.md), [orm](../tagged/orm.md)
+* :octocat: **[source code](https://github.com/sequelize/sequelize/)**
+---
+#### [MariaDB Foundation - MariaDB.org](https://mariadb.org/)
+_<sup>https://mariadb.org/</sup>_
+
+* **tags**: [database](../tagged/database.md), [mariadb](../tagged/mariadb.md), [mysql](../tagged/mysql.md)
+---
+#### [Fully Managed Database as a Service - PostgreSQL | Heroku](https://www.heroku.com/postgres)
+_<sup>https://www.heroku.com/postgres</sup>_
+
+Deploy data-driven apps using Heroku’s managed database as a service for PostgreSQL with operational expertise built in, security by default, and more.
+* **tags**: [database](../tagged/database.md), [postgres](../tagged/postgres.md), [heroku](../tagged/heroku.md)
+---
+#### [UUID or GUID as Primary Keys? Be Careful!](https://tomharrisonjr.com/uuid-or-guid-as-primary-keys-be-careful-7b2aa3dcb439)
+_<sup>https://tomharrisonjr.com/uuid-or-guid-as-primary-keys-be-careful-7b2aa3dcb439</sup>_
+
+* Reasons UUIDs are Good
+* Reasons UUIDs May Not be Good
+* :calendar: **published on**: 2017-02-13
+* **tags**: [sql](../tagged/sql.md), [database](../tagged/database.md), [database-design](../tagged/database-design.md), [primary-key](../tagged/primary-key.md)
 ---
 #### [How to Create Database Indexes: Databases for Developers: Performance 12min](https://www.youtube.com/watch?v=7wLFr7ZnKPU&feature=emb_logo)
 _<sup>https://www.youtube.com/watch?v=7wLFr7ZnKPU&feature=emb_logo</sup>_

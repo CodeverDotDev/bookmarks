@@ -1,6 +1,6 @@
-## Bookmarks tagged [[apache-cxf]](https://www.bookmarks.dev/search?q=[apache-cxf])
+## Bookmarks tagged [[apache-cxf]](https://www.codever.land/search?q=[apache-cxf])
 
-_<sup><sup>[www.bookmarks.dev/tagged/apache-cxf](https://www.bookmarks.dev/tagged/apache-cxf)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/apache-cxf](www.codever.land/bookmarks/t/apache-cxf)</sup></sup>_
 ---
 #### [Apache CXF - Spring Boot SOAP Web Service Client Server Example](https://www.codenotfound.com/apache-cxf-spring-boot-soap-web-service-client-server-example.html)
 _<sup>https://www.codenotfound.com/apache-cxf-spring-boot-soap-web-service-client-server-example.html</sup>_

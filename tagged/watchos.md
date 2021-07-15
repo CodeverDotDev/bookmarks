@@ -1,6 +1,6 @@
-## Bookmarks tagged [[watchos]](https://www.bookmarks.dev/search?q=[watchos])
+## Bookmarks tagged [[watchos]](https://www.codever.land/search?q=[watchos])
 
-_<sup><sup>[www.bookmarks.dev/tagged/watchos](https://www.bookmarks.dev/tagged/watchos)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/watchos](www.codever.land/bookmarks/t/watchos)</sup></sup>_
 ---
 #### [awesome-watchos](https://github.com/yenchenlin/awesome-watchos#readme)
 _<sup>https://github.com/yenchenlin/awesome-watchos#readme</sup>_

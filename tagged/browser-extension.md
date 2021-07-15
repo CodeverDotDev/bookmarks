@@ -1,6 +1,6 @@
-## Bookmarks tagged [[browser-extension]](https://www.bookmarks.dev/search?q=[browser-extension])
+## Bookmarks tagged [[browser-extension]](https://www.codever.land/search?q=[browser-extension])
 
-_<sup><sup>[www.bookmarks.dev/tagged/browser-extension](https://www.bookmarks.dev/tagged/browser-extension)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/browser-extension](www.codever.land/bookmarks/t/browser-extension)</sup></sup>_
 ---
 #### [Example extensions - Mozilla | MDN](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Examples)
 _<sup>https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Examples</sup>_

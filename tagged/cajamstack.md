@@ -1,6 +1,6 @@
-## Bookmarks tagged [[cajamstack]](https://www.bookmarks.dev/search?q=[cajamstack])
+## Bookmarks tagged [[cajamstack]](https://www.codever.land/search?q=[cajamstack])
 
-_<sup><sup>[www.bookmarks.dev/tagged/cajamstack](https://www.bookmarks.dev/tagged/cajamstack)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/cajamstack](www.codever.land/bookmarks/t/cajamstack)</sup></sup>_
 ---
 #### [The Complete Beginner's Guide to Deploying Your First Static Website to IPFS](https://interplanetarygatsby.com/ipfs-deploy/)
 _<sup>https://interplanetarygatsby.com/ipfs-deploy/</sup>_

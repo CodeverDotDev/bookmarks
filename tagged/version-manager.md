@@ -1,6 +1,6 @@
-## Bookmarks tagged [[version-manager]](https://www.bookmarks.dev/search?q=[version-manager])
+## Bookmarks tagged [[version-manager]](https://www.codever.land/search?q=[version-manager])
 
-_<sup><sup>[www.bookmarks.dev/tagged/version-manager](https://www.bookmarks.dev/tagged/version-manager)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/version-manager](www.codever.land/bookmarks/t/version-manager)</sup></sup>_
 ---
 #### [jabba](https://github.com/shyiko/jabba)
 _<sup>https://github.com/shyiko/jabba</sup>_

@@ -1,6 +1,6 @@
-## Bookmarks tagged [[release]](https://www.bookmarks.dev/search?q=[release])
+## Bookmarks tagged [[release]](https://www.codever.land/search?q=[release])
 
-_<sup><sup>[www.bookmarks.dev/tagged/release](https://www.bookmarks.dev/tagged/release)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/release](www.codever.land/bookmarks/t/release)</sup></sup>_
 ---
 #### [GraphQL Specification Versions](https://spec.graphql.org/)
 _<sup>https://spec.graphql.org/</sup>_

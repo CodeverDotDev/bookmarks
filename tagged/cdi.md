@@ -1,6 +1,13 @@
-## Bookmarks tagged [[cdi]](https://www.bookmarks.dev/search?q=[cdi])
+## Bookmarks tagged [[cdi]](https://www.codever.land/search?q=[cdi])
 
-_<sup><sup>[www.bookmarks.dev/tagged/cdi](https://www.bookmarks.dev/tagged/cdi)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/cdi](www.codever.land/bookmarks/t/cdi)</sup></sup>_
+---
+#### [CDI and @Startup: SOLVED! | New posts here >>> rmannibucau.metawerx.net](https://rmannibucau.wordpress.com/2015/03/10/cdi-and-startup/)
+_<sup>https://rmannibucau.wordpress.com/2015/03/10/cdi-and-startup/</sup>_
+
+Speaking on the CDI list about CDI 2.0 standalone container API Jozef Hartinger sent an answer which is quite obvious when you know it but which can change your life if you don’t: how CDI 1.1 introduc...
+* :calendar: **published on**: 2015-03-10
+* **tags**: [javaee](../tagged/javaee.md), [cdi](../tagged/cdi.md), [ejb](../tagged/ejb.md), [annotations](../tagged/annotations.md)
 ---
 #### [JSR 346: Contexts and Dependency Injection for JavaTM EE 1.1](https://jcp.org/en/jsr/detail?id=346)
 _<sup>https://jcp.org/en/jsr/detail?id=346</sup>_

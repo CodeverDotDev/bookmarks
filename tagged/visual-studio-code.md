@@ -1,6 +1,24 @@
-## Bookmarks tagged [[visual-studio-code]](https://www.bookmarks.dev/search?q=[visual-studio-code])
+## Bookmarks tagged [[visual-studio-code]](https://www.codever.land/search?q=[visual-studio-code])
 
-_<sup><sup>[www.bookmarks.dev/tagged/visual-studio-code](https://www.bookmarks.dev/tagged/visual-studio-code)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/visual-studio-code](www.codever.land/bookmarks/t/visual-studio-code)</sup></sup>_
+---
+#### [Extension Manifest | Visual Studio Code Extension API](https://code.visualstudio.com/api/references/extension-manifest)
+_<sup>https://code.visualstudio.com/api/references/extension-manifest</sup>_
+
+Every Visual Studio Code extension needs a manifest file `package.json` at the root of the extension directory structure. 
+
+
+* **tags**: [visual-studio-code](../tagged/visual-studio-code.md), [vscode-extensions](../tagged/vscode-extensions.md)
+---
+#### [Publishing Extensions | Visual Studio Code Extension API](https://code.visualstudio.com/api/working-with-extensions/publishing-extension)
+_<sup>https://code.visualstudio.com/api/working-with-extensions/publishing-extension</sup>_
+
+This topics covers:
+- Using vsce, the CLI tool for managing VS Code extensions
+- Packaging, publishing and unpublishing extensions
+- Registering a publisherId necessary for publishing extensions
+
+* **tags**: [visual-studio-code](../tagged/visual-studio-code.md), [vscode-extensions](../tagged/vscode-extensions.md)
 ---
 #### [💡 10 VS Code extensions I can't code without - DEV Community 👩‍💻👨‍💻](https://dev.to/godcrampy/10-vs-code-extensions-i-can-t-code-without-3ann)
 _<sup>https://dev.to/godcrampy/10-vs-code-extensions-i-can-t-code-without-3ann</sup>_

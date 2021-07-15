@@ -1,6 +1,6 @@
-## Bookmarks tagged [[bots]](https://www.bookmarks.dev/search?q=[bots])
+## Bookmarks tagged [[bots]](https://www.codever.land/search?q=[bots])
 
-_<sup><sup>[www.bookmarks.dev/tagged/bots](https://www.bookmarks.dev/tagged/bots)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/bots](www.codever.land/bookmarks/t/bots)</sup></sup>_
 ---
 #### [go-chat-bot](https://github.com/go-chat-bot/bot)
 _<sup>https://github.com/go-chat-bot/bot</sup>_

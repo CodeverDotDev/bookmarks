@@ -1,13 +1,19 @@
-## Bookmarks tagged [[promises]](https://www.bookmarks.dev/search?q=[promises])
+## Bookmarks tagged [[promises]](https://www.codever.land/search?q=[promises])
 
-_<sup><sup>[www.bookmarks.dev/tagged/promises](https://www.bookmarks.dev/tagged/promises)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/promises](www.codever.land/bookmarks/t/promises)</sup></sup>_
 ---
-#### [Broken Promises - James Snell, NearForm - 33min](https://www.youtube.com/watch?&v=XV-u_Ow47s0)
-_<sup>https://www.youtube.com/watch?&v=XV-u_Ow47s0</sup>_
+#### [Deno - A secure runtime for JavaScript and TypeScriptMenu | DenoGithub | Deno](https://deno.land/)
+_<sup>https://deno.land/</sup>_
+
+* **tags**: [deno](../tagged/deno.md), [javascript](../tagged/javascript.md), [promises](../tagged/promises.md)
+---
+#### [Broken Promises - James Snell, NearForm - 33min](https://www.youtube.com/watch?v=XV-u_Ow47s0)
+_<sup>https://www.youtube.com/watch?v=XV-u_Ow47s0</sup>_
 
 When a customer comes to us with a complaint that their code is running slowly, our first question has become, "Are you using Promises?". When they predictably tell us yes, our response has become, "Y...
 * :calendar: **published on**: 2019-12-19
-* **tags**: [node.js](../tagged/node.js.md), [promises](../tagged/promises.md), [event-loop](../tagged/event-loop.md)
+* **tags**: [node.js](../tagged/node.js.md), [javascript](../tagged/javascript.md), [promises](../tagged/promises.md)
+* :octocat: **[source code](https://github.com/jasnell/broken-promises)**
 ---
 #### [toniov/p-iteration: Utilities that make array iteration easy when using async/await or Promises](https://github.com/toniov/p-iteration)
 _<sup>https://github.com/toniov/p-iteration</sup>_

@@ -1,6 +1,6 @@
-## Bookmarks tagged [[coreml]](https://www.bookmarks.dev/search?q=[coreml])
+## Bookmarks tagged [[coreml]](https://www.codever.land/search?q=[coreml])
 
-_<sup><sup>[www.bookmarks.dev/tagged/coreml](https://www.bookmarks.dev/tagged/coreml)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/coreml](www.codever.land/bookmarks/t/coreml)</sup></sup>_
 ---
 #### [awesome-Awesome-CoreML-Models](https://github.com/likedan/Awesome-CoreML-Models#readme)
 _<sup>https://github.com/likedan/Awesome-CoreML-Models#readme</sup>_

@@ -1,6 +1,6 @@
-## Bookmarks tagged [[base64]](https://www.bookmarks.dev/search?q=[base64])
+## Bookmarks tagged [[base64]](https://www.codever.land/search?q=[base64])
 
-_<sup><sup>[www.bookmarks.dev/tagged/base64](https://www.bookmarks.dev/tagged/base64)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/base64](www.codever.land/bookmarks/t/base64)</sup></sup>_
 ---
 #### [Base64 Decode and Encode - Online](https://www.base64decode.org/)
 _<sup>https://www.base64decode.org/</sup>_

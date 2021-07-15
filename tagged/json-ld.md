@@ -1,6 +1,6 @@
-## Bookmarks tagged [[json-ld]](https://www.bookmarks.dev/search?q=[json-ld])
+## Bookmarks tagged [[json-ld]](https://www.codever.land/search?q=[json-ld])
 
-_<sup><sup>[www.bookmarks.dev/tagged/json-ld](https://www.bookmarks.dev/tagged/json-ld)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/json-ld](www.codever.land/bookmarks/t/json-ld)</sup></sup>_
 ---
 #### [Create JSON-LD Structured Data in Jekyll ](https://mincong.io/2018/08/22/create-json-ld-structured-data-in-jekyll/)
 _<sup>https://mincong.io/2018/08/22/create-json-ld-structured-data-in-jekyll/</sup>_

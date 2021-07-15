@@ -1,6 +1,6 @@
-## Bookmarks tagged [[track]](https://www.bookmarks.dev/search?q=[track])
+## Bookmarks tagged [[track]](https://www.codever.land/search?q=[track])
 
-_<sup><sup>[www.bookmarks.dev/tagged/track](https://www.bookmarks.dev/tagged/track)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/track](www.codever.land/bookmarks/t/track)</sup></sup>_
 ---
 #### [Tracking app for GPA enabled devices](https://theindiantracker.com)
 _<sup>https://theindiantracker.com</sup>_

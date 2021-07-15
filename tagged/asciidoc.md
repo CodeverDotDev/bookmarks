@@ -1,6 +1,6 @@
-## Bookmarks tagged [[asciidoc]](https://www.bookmarks.dev/search?q=[asciidoc])
+## Bookmarks tagged [[asciidoc]](https://www.codever.land/search?q=[asciidoc])
 
-_<sup><sup>[www.bookmarks.dev/tagged/asciidoc](https://www.bookmarks.dev/tagged/asciidoc)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/asciidoc](www.codever.land/bookmarks/t/asciidoc)</sup></sup>_
 ---
 #### [Antora home page](https://antora.org/)
 _<sup>https://antora.org/</sup>_

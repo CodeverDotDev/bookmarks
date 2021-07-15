@@ -1,6 +1,22 @@
-## Bookmarks tagged [[webassembly]](https://www.bookmarks.dev/search?q=[webassembly])
+## Bookmarks tagged [[webassembly]](https://www.codever.land/search?q=[webassembly])
 
-_<sup><sup>[www.bookmarks.dev/tagged/webassembly](https://www.bookmarks.dev/tagged/webassembly)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/webassembly](www.codever.land/bookmarks/t/webassembly)</sup></sup>_
+---
+#### [10 Things I Regret About Node.js - Ryan Dahl - JSConf EU](https://youtu.be/428ejtNbd5A)
+_<sup>https://youtu.be/428ejtNbd5A</sup>_
+
+* **tags**: [deno](../tagged/deno.md), [javascript](../tagged/javascript.md), [typescript](../tagged/typescript.md), [webassembly](../tagged/webassembly.md), [ryan-dahl](../tagged/ryan-dahl.md)
+---
+#### [Deno, a new way to JavaScript. Ryan Dahl. JS Fest 2019 Spring](https://invidious.snopyta.org/watch?v=z6JRlx5NC9E)
+_<sup>https://invidious.snopyta.org/watch?v=z6JRlx5NC9E</sup>_
+
+* **tags**: [deno](../tagged/deno.md), [javascript](../tagged/javascript.md), [typescript](../tagged/typescript.md), [webassembly](../tagged/webassembly.md), [ryan-dahl](../tagged/ryan-dahl.md)
+---
+#### [GitHub - appcypher/awesome-wasm-langs: 😎 A curated list of languages that compile directly to or have their VMs in WebAssembly](https://github.com/appcypher/awesome-wasm-langs)
+_<sup>https://github.com/appcypher/awesome-wasm-langs</sup>_
+
+😎 A curated list of languages that compile directly to or have their VMs in WebAssembly - appcypher/awesome-wasm-langs
+* **tags**: [javascript](../tagged/javascript.md), [webassembly](../tagged/webassembly.md)
 ---
 #### [WebAssembly Home Page](https://webassembly.org/)
 _<sup>https://webassembly.org/</sup>_

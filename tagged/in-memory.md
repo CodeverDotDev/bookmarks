@@ -1,6 +1,19 @@
-## Bookmarks tagged [[in-memory]](https://www.bookmarks.dev/search?q=[in-memory])
+## Bookmarks tagged [[in-memory]](https://www.codever.land/search?q=[in-memory])
 
-_<sup><sup>[www.bookmarks.dev/tagged/in-memory](https://www.bookmarks.dev/tagged/in-memory)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/in-memory](www.codever.land/bookmarks/t/in-memory)</sup></sup>_
+---
+#### [Angular data-provider services: in-memory data cache](https://medium.com/@garfunkel61/https-medium-com-garfunkel61-angular-data-provider-services-in-memory-data-cache-c495a0ac35da)
+_<sup>https://medium.com/@garfunkel61/https-medium-com-garfunkel61-angular-data-provider-services-in-memor...</sup>_
+
+Let’s see how we can build simple in-memory cache in a Angular application.
+* **tags**: [angular](../tagged/angular.md), [caching](../tagged/caching.md), [in-memory](../tagged/in-memory.md)
+---
+#### [node-cache/node-cache home page](https://github.com/node-cache/node-cache)
+_<sup>https://github.com/node-cache/node-cache</sup>_
+
+a node internal (in-memory) caching module
+* **tags**: [node.js](../tagged/node.js.md), [caching](../tagged/caching.md), [in-memory](../tagged/in-memory.md)
+* :octocat: **[source code](https://github.com/node-cache/node-cache)**
 ---
 #### [Infinispan Homepage - Infinispan](http://infinispan.org/)
 _<sup>http://infinispan.org/</sup>_

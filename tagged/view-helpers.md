@@ -1,6 +1,6 @@
-## Bookmarks tagged [[view-helpers]](https://www.bookmarks.dev/search?q=[view-helpers])
+## Bookmarks tagged [[view-helpers]](https://www.codever.land/search?q=[view-helpers])
 
-_<sup><sup>[www.bookmarks.dev/tagged/view-helpers](https://www.bookmarks.dev/tagged/view-helpers)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/view-helpers](www.codever.land/bookmarks/t/view-helpers)</sup></sup>_
 ---
 #### [auto_html](https://github.com/dejan/auto_html)
 _<sup>https://github.com/dejan/auto_html</sup>_

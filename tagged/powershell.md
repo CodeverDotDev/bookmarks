@@ -1,6 +1,6 @@
-## Bookmarks tagged [[powershell]](https://www.bookmarks.dev/search?q=[powershell])
+## Bookmarks tagged [[powershell]](https://www.codever.land/search?q=[powershell])
 
-_<sup><sup>[www.bookmarks.dev/tagged/powershell](https://www.bookmarks.dev/tagged/powershell)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/powershell](www.codever.land/bookmarks/t/powershell)</sup></sup>_
 ---
 #### [Use Windows PowerShell to search for files](https://devblogs.microsoft.com/scripting/use-windows-powershell-to-search-for-files/)
 _<sup>https://devblogs.microsoft.com/scripting/use-windows-powershell-to-search-for-files/</sup>_

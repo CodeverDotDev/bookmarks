@@ -1,6 +1,6 @@
-## Bookmarks tagged [[jws]](https://www.bookmarks.dev/search?q=[jws])
+## Bookmarks tagged [[jws]](https://www.codever.land/search?q=[jws])
 
-_<sup><sup>[www.bookmarks.dev/tagged/jws](https://www.bookmarks.dev/tagged/jws)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/jws](www.codever.land/bookmarks/t/jws)</sup></sup>_
 ---
 #### [JWT, JWS and JWE for Not So Dummies! (Part I)](https://medium.facilelogin.com/jwt-jws-and-jwe-for-not-so-dummies-b63310d201a3)
 _<sup>https://medium.facilelogin.com/jwt-jws-and-jwe-for-not-so-dummies-b63310d201a3</sup>_

@@ -1,6 +1,6 @@
-## Bookmarks tagged [[tikz]](https://www.bookmarks.dev/search?q=[tikz])
+## Bookmarks tagged [[tikz]](https://www.codever.land/search?q=[tikz])
 
-_<sup><sup>[www.bookmarks.dev/tagged/tikz](https://www.bookmarks.dev/tagged/tikz)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/tikz](www.codever.land/bookmarks/t/tikz)</sup></sup>_
 ---
 #### [awesome-tikz](https://github.com/xiaohanyu/awesome-tikz#readme)
 _<sup>https://github.com/xiaohanyu/awesome-tikz#readme</sup>_

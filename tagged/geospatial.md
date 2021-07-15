@@ -1,6 +1,6 @@
-## Bookmarks tagged [[geospatial]](https://www.bookmarks.dev/search?q=[geospatial])
+## Bookmarks tagged [[geospatial]](https://www.codever.land/search?q=[geospatial])
 
-_<sup><sup>[www.bookmarks.dev/tagged/geospatial](https://www.bookmarks.dev/tagged/geospatial)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/geospatial](www.codever.land/bookmarks/t/geospatial)</sup></sup>_
 ---
 #### [Georust](https://github.com/georust)
 _<sup>https://github.com/georust</sup>_

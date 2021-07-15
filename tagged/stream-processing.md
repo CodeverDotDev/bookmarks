@@ -1,6 +1,6 @@
-## Bookmarks tagged [[stream-processing]](https://www.bookmarks.dev/search?q=[stream-processing])
+## Bookmarks tagged [[stream-processing]](https://www.codever.land/search?q=[stream-processing])
 
-_<sup><sup>[www.bookmarks.dev/tagged/stream-processing](https://www.bookmarks.dev/tagged/stream-processing)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/stream-processing](www.codever.land/bookmarks/t/stream-processing)</sup></sup>_
 ---
 #### [Apache Beam Home Page](https://beam.apache.org/)
 _<sup>https://beam.apache.org/</sup>_

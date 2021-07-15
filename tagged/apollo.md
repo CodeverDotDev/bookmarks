@@ -1,6 +1,6 @@
-## Bookmarks tagged [[apollo]](https://www.bookmarks.dev/search?q=[apollo])
+## Bookmarks tagged [[apollo]](https://www.codever.land/search?q=[apollo])
 
-_<sup><sup>[www.bookmarks.dev/tagged/apollo](https://www.bookmarks.dev/tagged/apollo)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/apollo](www.codever.land/bookmarks/t/apollo)</sup></sup>_
 ---
 #### [Handling GraphQL errors like a champ with unions and interfaces - LogRocket Blog](https://blog.logrocket.com/handling-graphql-errors-like-a-champ-with-unions-and-interfaces/)
 _<sup>https://blog.logrocket.com/handling-graphql-errors-like-a-champ-with-unions-and-interfaces/</sup>_

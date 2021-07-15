@@ -1,6 +1,6 @@
-## Bookmarks tagged [[free-programming-books-pt_pt]](https://www.bookmarks.dev/search?q=[free-programming-books-pt_pt])
+## Bookmarks tagged [[free-programming-books-pt_pt]](https://www.codever.land/search?q=[free-programming-books-pt_pt])
 
-_<sup><sup>[www.bookmarks.dev/tagged/free-programming-books-pt_pt](https://www.bookmarks.dev/tagged/free-programming-books-pt_pt)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/free-programming-books-pt_pt](www.codever.land/bookmarks/t/free-programming-books-pt_pt)</sup></sup>_
 ---
 #### [Lógica Computacional (com Prolog)](http://www4.di.uminho.pt/~mjf/pub/LC-Prolog.pdf)
 _<sup>http://www4.di.uminho.pt/~mjf/pub/LC-Prolog.pdf</sup>_

@@ -1,6 +1,21 @@
-## Bookmarks tagged [[dom]](https://www.bookmarks.dev/search?q=[dom])
+## Bookmarks tagged [[dom]](https://www.codever.land/search?q=[dom])
 
-_<sup><sup>[www.bookmarks.dev/tagged/dom](https://www.bookmarks.dev/tagged/dom)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/dom](www.codever.land/bookmarks/t/dom)</sup></sup>_
+---
+#### [GitHub - jsdom/jsdom](https://github.com/jsdom/jsdom)
+_<sup>https://github.com/jsdom/jsdom</sup>_
+
+jsdom is a pure-JavaScript implementation of many web standards, notably the WHATWG [DOM](https://dom.spec.whatwg.org/) and [HTML](https://html.spec.whatwg.org/multipage/) Standards, for use with Node...
+* **tags**: [web-scraping](../tagged/web-scraping.md), [tools](../tagged/tools.md), [dom](../tagged/dom.md), [node.js](../tagged/node.js.md), [javascript](../tagged/javascript.md)
+* :octocat: **[source code](https://github.com/jsdom/jsdom)**
+---
+#### [Add Items with Javascript DOM ](https://codepen.io/bradtraversy/pen/Bwapow)
+_<sup>https://codepen.io/bradtraversy/pen/Bwapow</sup>_
+
+Learn how to add items to a list dynamically based on user input with JavaScript and the DOM.
+* :calendar: **published on**: 2021-04-17
+* **tags**: [javascript](../tagged/javascript.md), [dom](../tagged/dom.md), [example](../tagged/example.md), [how-to](../tagged/how-to.md)
+* :octocat: **[source code](https://codepen.io/bradtraversy/pen/Bwapow)**
 ---
 #### [Cut and Copy Commands  |  Web  |  Google Developers](https://developers.google.com/web/updates/2015/04/cut-and-copy-commands)
 _<sup>https://developers.google.com/web/updates/2015/04/cut-and-copy-commands</sup>_

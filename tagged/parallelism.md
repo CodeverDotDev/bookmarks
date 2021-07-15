@@ -1,6 +1,6 @@
-## Bookmarks tagged [[parallelism]](https://www.bookmarks.dev/search?q=[parallelism])
+## Bookmarks tagged [[parallelism]](https://www.codever.land/search?q=[parallelism])
 
-_<sup><sup>[www.bookmarks.dev/tagged/parallelism](https://www.bookmarks.dev/tagged/parallelism)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/parallelism](www.codever.land/bookmarks/t/parallelism)</sup></sup>_
 ---
 #### [Celluloid](http://celluloid.io)
 _<sup>http://celluloid.io</sup>_

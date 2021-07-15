@@ -1,6 +1,6 @@
-## Bookmarks tagged [[spring-webflux]](https://www.bookmarks.dev/search?q=[spring-webflux])
+## Bookmarks tagged [[spring-webflux]](https://www.codever.land/search?q=[spring-webflux])
 
-_<sup><sup>[www.bookmarks.dev/tagged/spring-webflux](https://www.bookmarks.dev/tagged/spring-webflux)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/spring-webflux](www.codever.land/bookmarks/t/spring-webflux)</sup></sup>_
 ---
 #### [Build Reactive APIs with Spring WebFlux](https://developer.okta.com/blog/2018/09/24/reactive-apis-with-spring-webflux#secure-your-spring-webflux-reactive-api-with-oidc)
 _<sup>https://developer.okta.com/blog/2018/09/24/reactive-apis-with-spring-webflux#secure-your-spring-webf...</sup>_

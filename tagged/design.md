@@ -1,6 +1,29 @@
-## Bookmarks tagged [[design]](https://www.bookmarks.dev/search?q=[design])
+## Bookmarks tagged [[design]](https://www.codever.land/search?q=[design])
 
-_<sup><sup>[www.bookmarks.dev/tagged/design](https://www.bookmarks.dev/tagged/design)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/design](www.codever.land/bookmarks/t/design)</sup></sup>_
+---
+#### [iLoveCoding](https://ilovecoding.org/blog/design-101)
+_<sup>https://ilovecoding.org/blog/design-101</sup>_
+
+* **tags**: [design](../tagged/design.md)
+---
+#### [GitHub - bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
+_<sup>https://github.com/bradtraversy/design-resources-for-developers</sup>_
+
+Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more - bradtraversy/design-resources-for-developers
+* **tags**: [ux](../tagged/ux.md), [design](../tagged/design.md), [resources](../tagged/resources.md)
+* :octocat: **[source code](https://github.com/bradtraversy/design-resources-for-developers)**
+---
+#### [70+ Free Design Resources for Developers](https://blog.moeminmamdouh.com/70-free-design-resources-for-developers)
+_<sup>https://blog.moeminmamdouh.com/70-free-design-resources-for-developers</sup>_
+
+Be sure to follow me on Twitter for more value-packed content like this :)
+Colors
+
+ColorHunt: Free and open platform for color inspiration with thousands of trendy hand-picked color palettes
+
+Coolors:...
+* **tags**: [design](../tagged/design.md)
 ---
 #### [Random Colors - Hex Color](https://hexcolor.co/random-colors)
 _<sup>https://hexcolor.co/random-colors</sup>_

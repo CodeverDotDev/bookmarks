@@ -1,6 +1,18 @@
-## Bookmarks tagged [[http]](https://www.bookmarks.dev/search?q=[http])
+## Bookmarks tagged [[http]](https://www.codever.land/search?q=[http])
 
-_<sup><sup>[www.bookmarks.dev/tagged/http](https://www.bookmarks.dev/tagged/http)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/http](www.codever.land/bookmarks/t/http)</sup></sup>_
+---
+#### [The HTTP Status Codes List](https://flaviocopes.com/http-status-codes/)
+_<sup>https://flaviocopes.com/http-status-codes/</sup>_
+
+Every HTTP response comes with a status code that signals with a clear number information about how the request was processed
+* **tags**: [http](../tagged/http.md), [status-codes](../tagged/status-codes.md), [flavio](../tagged/flavio.md), [flavio-copes](../tagged/flavio-copes.md)
+---
+#### [HTTP Strict Transport Security Header Testing Tool](https://gf.dev/hsts-test)
+_<sup>https://gf.dev/hsts-test</sup>_
+
+Check if your site is defending from cookie hijacking & protocol downgrade attack
+* **tags**: [http](../tagged/http.md), [security-tools](../tagged/security-tools.md), [http-headers](../tagged/http-headers.md)
 ---
 #### [RFC 2965 - HTTP State Management Mechanism](https://tools.ietf.org/html/rfc2965)
 _<sup>https://tools.ietf.org/html/rfc2965</sup>_

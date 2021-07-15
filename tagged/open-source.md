@@ -1,6 +1,57 @@
-## Bookmarks tagged [[open-source]](https://www.bookmarks.dev/search?q=[open-source])
+## Bookmarks tagged [[open-source]](https://www.codever.land/search?q=[open-source])
 
-_<sup><sup>[www.bookmarks.dev/tagged/open-source](https://www.bookmarks.dev/tagged/open-source)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/open-source](www.codever.land/bookmarks/t/open-source)</sup></sup>_
+---
+#### [Licenses | Choose a License](https://choosealicense.com/licenses/)
+_<sup>https://choosealicense.com/licenses/</sup>_
+
+Open source licenses grant permission for anybody to use, modify, and share licensed software for any purpose, subject to conditions preserving the provenance and openness of the software. The followi...
+* **tags**: [license](../tagged/license.md), [open-source](../tagged/open-source.md)
+---
+#### [🌈 Newsletter Wor #13: L'open-source: engagez-vous, rengagez-vous qu'ils disaient - Newsletter Women On Rails](https://womenonrails.substack.com/p/-newsletter-wor-13-lopen-source-engagez)
+_<sup>https://womenonrails.substack.com/p/-newsletter-wor-13-lopen-source-engagez</sup>_
+
+Une newsletter bimensuelle sur l'actualité Ruby on Rails et web
+* :calendar: **published on**: 2021-06-22
+* **tags**: [open-source](../tagged/open-source.md), [ruby](../tagged/ruby.md), [ruby-on-rails](../tagged/ruby-on-rails.md)
+---
+#### [La culture de l’informatique libre : zoom sur l’Open Source | by Linkvalue ](https://blog.link-value.fr/la-culture-de-linformatique-libre-zoom-sur-l-open-source-73a7b5837457)
+_<sup>https://blog.link-value.fr/la-culture-de-linformatique-libre-zoom-sur-l-open-source-73a7b5837457</sup>_
+
+Venez découvrir ou mieux comprendre le principe de l’Open Source, cet article a justement pour objectif de permettre à tous, quel que soit votre métier, expertise ou fonction, d’avoir une vision clair...
+* :calendar: **published on**: 2019-07-18
+* **tags**: [open-source](../tagged/open-source.md)
+---
+#### [Open Source Insights](https://deps.dev/)
+_<sup>https://deps.dev/</sup>_
+
+* **tags**: [open-source](../tagged/open-source.md)
+---
+#### [Qdrant - Vector Search Engine](https://qdrant.tech/)
+_<sup>https://qdrant.tech/</sup>_
+
+Qdrant - Open-Source Vector Search Engine. The neural search engine developed in Rust :crab:. It allows embeddings or neural network encoders to be turned into full-fledged applications for matching, ...
+* :calendar: **published on**: 2021-05-01
+* **tags**: [rust](../tagged/rust.md), [search](../tagged/search.md), [open-source](../tagged/open-source.md), [neuronal](../tagged/neuronal.md), [machine-learning](../tagged/machine-learning.md)
+* :octocat: **[source code](https://github.com/qdrant/qdrant)**
+---
+#### [Google I/O 2009 - The Myth of the Genius Programmer - 55min](https://www.youtube.com/watch?v=0SARbwvhupQ)
+_<sup>https://www.youtube.com/watch?v=0SARbwvhupQ</sup>_
+
+Google I/O 2009 - The Myth of the Genius Programmer
+
+Brian Fitzpatrick, Ben Collins-Sussman
+
+A pervasive elitism hovers in the background of collaborative software development:  everyone secretly want...
+* :calendar: **published on**: 2009-06-02
+* **tags**: [google](../tagged/google.md), [developer-conference](../tagged/developer-conference.md), [open-source](../tagged/open-source.md)
+---
+#### [GitHub - github/mentorships: GitHub Open Source Mentorships (deprecated)](https://github.com/github/mentorships)
+_<sup>https://github.com/github/mentorships</sup>_
+
+GitHub Open Source Mentorships (deprecated). Contribute to github/mentorships development by creating an account on GitHub.
+* **tags**: [github](../tagged/github.md), [tutorials](../tagged/tutorials.md), [community](../tagged/community.md), [open-source](../tagged/open-source.md), [learn-to-code](../tagged/learn-to-code.md)
+* :octocat: **[source code](https://github.com/github/mentorships)**
 ---
 #### [Lessons from 4 Years of GraphQL - 39min](https://www.youtube.com/watch?v=zVNrqo9XGOs)
 _<sup>https://www.youtube.com/watch?v=zVNrqo9XGOs</sup>_

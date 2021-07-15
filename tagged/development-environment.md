@@ -1,6 +1,6 @@
-## Bookmarks tagged [[development-environment]](https://www.bookmarks.dev/search?q=[development-environment])
+## Bookmarks tagged [[development-environment]](https://www.codever.land/search?q=[development-environment])
 
-_<sup><sup>[www.bookmarks.dev/tagged/development-environment](https://www.bookmarks.dev/tagged/development-environment)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/development-environment](www.codever.land/bookmarks/t/development-environment)</sup></sup>_
 ---
 #### [Create a Reproducible Dev Environment with VS Code](https://medium.com/@james.thorniley/create-a-reproducible-dev-environment-with-vs-code-fd89285644da)
 _<sup>https://medium.com/@james.thorniley/create-a-reproducible-dev-environment-with-vs-code-fd89285644da</sup>_

@@ -1,6 +1,6 @@
-## Bookmarks tagged [[free-programming-books]](https://www.bookmarks.dev/search?q=[free-programming-books])
+## Bookmarks tagged [[free-programming-books]](https://www.codever.land/search?q=[free-programming-books])
 
-_<sup><sup>[www.bookmarks.dev/tagged/free-programming-books](https://www.bookmarks.dev/tagged/free-programming-books)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/free-programming-books](www.codever.land/bookmarks/t/free-programming-books)</sup></sup>_
 ---
 #### [awesome-free-programming-books](https://github.com/EbookFoundation/free-programming-books#readme)
 _<sup>https://github.com/EbookFoundation/free-programming-books#readme</sup>_

@@ -1,6 +1,6 @@
-## Bookmarks tagged [[ssh]](https://www.bookmarks.dev/search?q=[ssh])
+## Bookmarks tagged [[ssh]](https://www.codever.land/search?q=[ssh])
 
-_<sup><sup>[www.bookmarks.dev/tagged/ssh](https://www.bookmarks.dev/tagged/ssh)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/ssh](www.codever.land/bookmarks/t/ssh)</sup></sup>_
 ---
 #### [alexcrichton/ssh2-rs](https://github.com/alexcrichton/ssh2-rs)
 _<sup>https://github.com/alexcrichton/ssh2-rs</sup>_

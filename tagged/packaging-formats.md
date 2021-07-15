@@ -1,6 +1,6 @@
-## Bookmarks tagged [[packaging-formats]](https://www.bookmarks.dev/search?q=[packaging-formats])
+## Bookmarks tagged [[packaging-formats]](https://www.codever.land/search?q=[packaging-formats])
 
-_<sup><sup>[www.bookmarks.dev/tagged/packaging-formats](https://www.bookmarks.dev/tagged/packaging-formats)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/packaging-formats](www.codever.land/bookmarks/t/packaging-formats)</sup></sup>_
 ---
 #### [pop-os/debarchive](https://github.com/pop-os/debarchive)
 _<sup>https://github.com/pop-os/debarchive</sup>_

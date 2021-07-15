@@ -1,6 +1,88 @@
-## Bookmarks tagged [[java]](https://www.bookmarks.dev/search?q=[java])
+## Bookmarks tagged [[java]](https://www.codever.land/search?q=[java])
 
-_<sup><sup>[www.bookmarks.dev/tagged/java](https://www.bookmarks.dev/tagged/java)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/java](www.codever.land/bookmarks/t/java)</sup></sup>_
+---
+#### [prometheus/jmx_exporter home page](https://github.com/prometheus/jmx_exporter)
+_<sup>https://github.com/prometheus/jmx_exporter</sup>_
+
+JMX to Prometheus exporter: a collector that can configurably scrape and expose mBeans of a JMX target.
+
+This exporter is intended to be run as a Java Agent, exposing a HTTP server and serving metrics...
+* **tags**: [prometheus](../tagged/prometheus.md), [monitoring](../tagged/monitoring.md), [java](../tagged/java.md), [java-agent](../tagged/java-agent.md), [jmx](../tagged/jmx.md)
+* :octocat: **[source code](https://github.com/prometheus/jmx_exporter)**
+---
+#### [Écrire un code lisible et facile à maintenir en Java • Dev Java - Freelance Java](https://dev-java.fr/bonnes-pratiques-code-java-lisible-maintenable/)
+_<sup>https://dev-java.fr/bonnes-pratiques-code-java-lisible-maintenable/</sup>_
+
+Il n’est pas facile d’écrire du code propre, il doit être lisible et maintenable, pour soi-même et surtout pour les ... Lire la suite
+* :calendar: **published on**: 2021-06-23
+* **tags**: [java](../tagged/java.md), [programming](../tagged/programming.md)
+---
+#### [Comprendre les Optional en Java • Dev Java - Freelance Java](https://dev-java.fr/comprendre-optional-java/)
+_<sup>https://dev-java.fr/comprendre-optional-java/</sup>_
+
+Introduction Optional, une classe introduite dans Java 8, est souvent mal utilisée. L’élimination des valeurs nulles n’est pas un objectif ... Lire la suite
+* :calendar: **published on**: 2021-06-17
+* **tags**: [java](../tagged/java.md), [programming](../tagged/programming.md)
+---
+#### [Difference Between Java Keystore and Truststore](https://www.baeldung.com/java-keystore-truststore-difference)
+_<sup>https://www.baeldung.com/java-keystore-truststore-difference</sup>_
+
+In this quick article, we'll provide an overview of the differences between a Java keystore and a Java truststore.
+
+A **Java keystore stores** private key entries, certificates with public keys or jus...
+* :calendar: **published on**: 2021-05-21
+* **tags**: [java](../tagged/java.md), [keystore](../tagged/keystore.md), [truststore](../tagged/truststore.md)
+---
+#### [Home · xmlunit/user-guide Wiki](https://github.com/xmlunit/user-guide/wiki)
+_<sup>https://github.com/xmlunit/user-guide/wiki</sup>_
+
+XMLUnit is a library available for Java and .NET that helps verifying pieces of XML contain what they are supposed to. Its main use is inside of Unit Tests where you verify content created by your pro...
+* **tags**: [xmlunit](../tagged/xmlunit.md), [user-guide](../tagged/user-guide.md), [java](../tagged/java.md), [.net](../tagged/.net.md)
+---
+#### [Lesson: Generics (The Java™ Tutorials)](https://docs.oracle.com/javase/tutorial/extra/generics/index.html)
+_<sup>https://docs.oracle.com/javase/tutorial/extra/generics/index.html</sup>_
+
+Introduced in J2SE 5.0, this long-awaited enhancement to the type system allows a type or method to operate on objects of various types while providing compile-time type safety. It adds compile-time t...
+* **tags**: [java](../tagged/java.md), [generics](../tagged/generics.md), [tutorials](../tagged/tutorials.md)
+---
+#### [XMLUnit - Unit Testing XML for Java and .NET home page](https://www.xmlunit.org/)
+_<sup>https://www.xmlunit.org/</sup>_
+
+When testing XML your application creates, simple string comparisons don't cut it as there are many different ways the same XML content is serialized to a string. It doesn't even stop with serializati...
+* **tags**: [java](../tagged/java.md), [.net](../tagged/.net.md), [testing](../tagged/testing.md), [xml](../tagged/xml.md), [xmlunit](../tagged/xmlunit.md), [unit-testing](../tagged/unit-testing.md)
+* :octocat: **[source code](https://github.com/xmlunit/xmlunit)**
+---
+#### [Introduction To XMLUnit 2.x](https://www.baeldung.com/xmlunit2)
+_<sup>https://www.baeldung.com/xmlunit2</sup>_
+
+XMLUnit 2.x is a powerful library that helps us test and verify XML content, and comes in particularly handy when we know exactly what that XML should contain.
+
+And so we'll mainly be using XMLUnit in...
+* **tags**: [xmlunit](../tagged/xmlunit.md), [testing](../tagged/testing.md), [java](../tagged/java.md)
+* :octocat: **[source code](https://github.com/eugenp/tutorials/tree/master/testing-modules/xmlunit-2)**
+---
+#### [Enum Mappings with Hibernate - The Complete Guide](https://thorben-janssen.com/hibernate-enum-mappings/)
+_<sup>https://thorben-janssen.com/hibernate-enum-mappings/</sup>_
+
+With Hibernate, you can map enums in 3 ways:
+
+1. Hibernate’s standard mappings provide a simple way to store enum values in your database. You can choose if you want to persist the String representati...
+* **tags**: [java](../tagged/java.md), [jpa](../tagged/jpa.md), [hibernate](../tagged/hibernate.md)
+---
+#### [Unit test your Java architecture - ArchUnit home page](https://www.archunit.org/)
+_<sup>https://www.archunit.org/</sup>_
+
+ArchUnit is a free, simple and extensible library for checking the architecture of your Java code using any plain Java unit test framework. That is, ArchUnit can check dependencies between packages an...
+* **tags**: [java](../tagged/java.md), [testing](../tagged/testing.md), [architecture](../tagged/architecture.md)
+* :octocat: **[source code](https://github.com/TNG/ArchUnit)**
+---
+#### [Message Driven Beans, attributes explanation - Jboss Docs](https://docs.jboss.org/ejb3/docs/tutorial/mdb/mdb.html)
+_<sup>https://docs.jboss.org/ejb3/docs/tutorial/mdb/mdb.html</sup>_
+
+This example shows you how to implement an MDB with EJB 3.0 using annotations.
+Take a look at [ExampleMDB.java](https://docs.jboss.org/ejb3/docs/tutorial/mdb/src/org/jboss/tutorial/mdb/bean/ExampleMDB...
+* **tags**: [java](../tagged/java.md), [javaee](../tagged/javaee.md), [ejb](../tagged/ejb.md), [message-driven-bean](../tagged/message-driven-bean.md), [messaging](../tagged/messaging.md)
 ---
 #### [MicroProfile GraphQL](https://download.eclipse.org/microprofile/microprofile-graphql-1.0/microprofile-graphql.html)
 _<sup>https://download.eclipse.org/microprofile/microprofile-graphql-1.0/microprofile-graphql.html</sup>_

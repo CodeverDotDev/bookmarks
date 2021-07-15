@@ -1,6 +1,6 @@
-## Bookmarks tagged [[administration]](https://www.bookmarks.dev/search?q=[administration])
+## Bookmarks tagged [[administration]](https://www.codever.land/search?q=[administration])
 
-_<sup><sup>[www.bookmarks.dev/tagged/administration](https://www.bookmarks.dev/tagged/administration)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/administration](www.codever.land/bookmarks/t/administration)</sup></sup>_
 ---
 #### [ajenti](https://github.com/ajenti/ajenti)
 _<sup>https://github.com/ajenti/ajenti</sup>_

@@ -1,6 +1,6 @@
-## Bookmarks tagged [[mobile-website]](https://www.bookmarks.dev/search?q=[mobile-website])
+## Bookmarks tagged [[mobile-website]](https://www.codever.land/search?q=[mobile-website])
 
-_<sup><sup>[www.bookmarks.dev/tagged/mobile-website](https://www.bookmarks.dev/tagged/mobile-website)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/mobile-website](www.codever.land/bookmarks/t/mobile-website)</sup></sup>_
 ---
 #### [awesome-mobile-web-development](https://github.com/myshov/awesome-mobile-web-development#readme)
 _<sup>https://github.com/myshov/awesome-mobile-web-development#readme</sup>_

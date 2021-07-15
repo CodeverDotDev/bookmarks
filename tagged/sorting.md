@@ -1,6 +1,6 @@
-## Bookmarks tagged [[sorting]](https://www.bookmarks.dev/search?q=[sorting])
+## Bookmarks tagged [[sorting]](https://www.codever.land/search?q=[sorting])
 
-_<sup><sup>[www.bookmarks.dev/tagged/sorting](https://www.bookmarks.dev/tagged/sorting)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/sorting](www.codever.land/bookmarks/t/sorting)</sup></sup>_
 ---
 #### [pdqsort](https://github.com/orlp/pdqsort)
 _<sup>https://github.com/orlp/pdqsort</sup>_

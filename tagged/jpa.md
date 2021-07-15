@@ -1,6 +1,14 @@
-## Bookmarks tagged [[jpa]](https://www.bookmarks.dev/search?q=[jpa])
+## Bookmarks tagged [[jpa]](https://www.codever.land/search?q=[jpa])
 
-_<sup><sup>[www.bookmarks.dev/tagged/jpa](https://www.bookmarks.dev/tagged/jpa)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/jpa](www.codever.land/bookmarks/t/jpa)</sup></sup>_
+---
+#### [Enum Mappings with Hibernate - The Complete Guide](https://thorben-janssen.com/hibernate-enum-mappings/)
+_<sup>https://thorben-janssen.com/hibernate-enum-mappings/</sup>_
+
+With Hibernate, you can map enums in 3 ways:
+
+1. Hibernate’s standard mappings provide a simple way to store enum values in your database. You can choose if you want to persist the String representati...
+* **tags**: [java](../tagged/java.md), [jpa](../tagged/jpa.md), [hibernate](../tagged/hibernate.md)
 ---
 #### [How to make a property nullable in JPA - GAE/J?](https://stackoverflow.com/questions/1910215/how-to-make-a-property-nullable-in-jpa-gae-j)
 _<sup>https://stackoverflow.com/questions/1910215/how-to-make-a-property-nullable-in-jpa-gae-j</sup>_

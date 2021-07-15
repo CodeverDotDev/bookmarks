@@ -1,6 +1,6 @@
-## Bookmarks tagged [[code-coverage]](https://www.bookmarks.dev/search?q=[code-coverage])
+## Bookmarks tagged [[code-coverage]](https://www.codever.land/search?q=[code-coverage])
 
-_<sup><sup>[www.bookmarks.dev/tagged/code-coverage](https://www.bookmarks.dev/tagged/code-coverage)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/code-coverage](www.codever.land/bookmarks/t/code-coverage)</sup></sup>_
 ---
 #### [coverage](https://pypi.python.org/pypi/coverage)
 _<sup>https://pypi.python.org/pypi/coverage</sup>_

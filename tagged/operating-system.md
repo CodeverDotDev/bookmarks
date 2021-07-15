@@ -1,6 +1,6 @@
-## Bookmarks tagged [[operating-system]](https://www.bookmarks.dev/search?q=[operating-system])
+## Bookmarks tagged [[operating-system]](https://www.codever.land/search?q=[operating-system])
 
-_<sup><sup>[www.bookmarks.dev/tagged/operating-system](https://www.bookmarks.dev/tagged/operating-system)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/operating-system](www.codever.land/bookmarks/t/operating-system)</sup></sup>_
 ---
 #### [Rust OS Comparison](https://github.com/flosse/rust-os-comparison)
 _<sup>https://github.com/flosse/rust-os-comparison</sup>_

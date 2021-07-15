@@ -1,6 +1,68 @@
-## Bookmarks tagged [[angular]](https://www.bookmarks.dev/search?q=[angular])
+## Bookmarks tagged [[angular]](https://www.codever.land/search?q=[angular])
 
-_<sup><sup>[www.bookmarks.dev/tagged/angular](https://www.bookmarks.dev/tagged/angular)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/angular](www.codever.land/bookmarks/t/angular)</sup></sup>_
+---
+#### [Step-by-step guide how integrate Keycloak with Angular application](https://wkrzywiec.medium.com/step-by-step-guide-how-integrate-keycloak-with-angular-application-d96b05f7dfdd)
+_<sup>https://wkrzywiec.medium.com/step-by-step-guide-how-integrate-keycloak-with-angular-application-d96b...</sup>_
+
+The aim of this post is to show you a basic set up an Angular application so that it will be integrated with Keycloak and it will be able to consume protected HTTP resource that requires an access tok...
+* :calendar: **published on**: 2021-03-22
+* **tags**: [angular](../tagged/angular.md), [keycloak](../tagged/keycloak.md), [docker](../tagged/docker.md), [docker-compose](../tagged/docker-compose.md)
+* :octocat: **[source code](https://github.com/wkrzywiec/keycloak-security-example)**
+---
+#### [Angular - The RxJS library](https://angular.io/guide/rx-library)
+_<sup>https://angular.io/guide/rx-library</sup>_
+
+Reactive programming is an asynchronous programming paradigm concerned with data streams and the propagation of change (Wikipedia). RxJS (Reactive Extensions for JavaScript) is a library for reactive ...
+* **tags**: [angular](../tagged/angular.md), [rxjs](../tagged/rxjs.md), [docs](../tagged/docs.md)
+---
+#### [Caching with RxJs Observables in Angular](https://www.syntaxsuccess.com/viewarticle/caching-with-rxjs-observables-in-angular-2.0)
+_<sup>https://www.syntaxsuccess.com/viewarticle/caching-with-rxjs-observables-in-angular-2.0</sup>_
+
+Simple caching with observables and `publishReplay(1)` and `refCount`
+
+
+* :calendar: **published on**: 2016-04-23
+* **tags**: [angular](../tagged/angular.md), [caching](../tagged/caching.md), [rxjs](../tagged/rxjs.md), [observable](../tagged/observable.md), [http-client](../tagged/http-client.md)
+* :octocat: **[source code](https://github.com/thelgevold/angular-2-samples/tree/master/src/apps/shared-components/rxjs-caching)**
+---
+#### [Managing State in Angular 2 - Kyle Cordes - Oct 2016 - 46min](https://www.youtube.com/watch?v=eBLTz8QRg4Q)
+_<sup>https://www.youtube.com/watch?v=eBLTz8QRg4Q</sup>_
+
+This month at the St. Lewis Angular Lunch, Kyle spoke about managing state in Angular 2 applications. The crying baby thumbnail accurately reflects how many developers have come to experience state ma...
+* :calendar: **published on**: 2016-10-20
+* **tags**: [angular](../tagged/angular.md), [state-management](../tagged/state-management.md), [ngrx](../tagged/ngrx.md), [redux](../tagged/redux.md)
+---
+#### [Angular data-provider services: in-memory data cache](https://medium.com/@garfunkel61/https-medium-com-garfunkel61-angular-data-provider-services-in-memory-data-cache-c495a0ac35da)
+_<sup>https://medium.com/@garfunkel61/https-medium-com-garfunkel61-angular-data-provider-services-in-memor...</sup>_
+
+Let’s see how we can build simple in-memory cache in a Angular application.
+* **tags**: [angular](../tagged/angular.md), [caching](../tagged/caching.md), [in-memory](../tagged/in-memory.md)
+---
+#### [Ngrx Store - An Architecture Guide](https://blog.angular-university.io/angular-ngrx-store-and-effects-crash-course/)
+_<sup>https://blog.angular-university.io/angular-ngrx-store-and-effects-crash-course/</sup>_
+
+Using a store architecture represents a big architectural shift: with the arrival of single page applications, we moved the Model to View transformation from the server to the client.
+
+Store architect...
+* **tags**: [angular](../tagged/angular.md), [flux](../tagged/flux.md), [ngrx](../tagged/ngrx.md), [architecture](../tagged/architecture.md)
+---
+#### [Client-side caching with Angular](https://maurogarcia.dev/maurogarcia.dev/posts/client-side-caching-with-angular/)
+_<sup>https://maurogarcia.dev/maurogarcia.dev/posts/client-side-caching-with-angular/</sup>_
+
+In this article, I'm gonna show you how to implement client-side caching with Angular. By the end of this post, you'll be able to cache your http request like this:
+
+...
+* :calendar: **published on**: 2019-11-03
+* **tags**: [angular](../tagged/angular.md), [caching](../tagged/caching.md), [localstorage](../tagged/localstorage.md)
+---
+#### [RxJs Error Handling: Complete Practical Guide](https://blog.angular-university.io/rxjs-error-handling/)
+_<sup>https://blog.angular-university.io/rxjs-error-handling/</sup>_
+
+Error handling is an essential part of RxJs, as we will need it in just about any reactive program that we write.
+
+Error handling in RxJS is likely not as well understood as other parts of the library...
+* **tags**: [angular](../tagged/angular.md), [rxjs](../tagged/rxjs.md), [error-handling](../tagged/error-handling.md)
 ---
 #### [Angular HTTP Client - QuickStart Guide](https://blog.angular-university.io/angular-http/)
 _<sup>https://blog.angular-university.io/angular-http/</sup>_
@@ -56,6 +118,7 @@ _<sup>https://firstclassjs.com/persist-data-using-local-storage-and-angular/</su
 Local storage and Session storage are part of the so called Web storage. Both of them give us the possibility to store key-value data on client side. The data stored in local storage is deleted only w...
 * :calendar: **published on**: 2020-04-12
 * **tags**: [angular](../tagged/angular.md)
+* :octocat: **[source code](https://github.com/vikobg/first-class-js/tree/master/angular-local-storage)**
 ---
 #### [Code syntax highlighting with Angular and Prism.js](https://auralinna.blog/post/2017/code-syntax-highlighting-with-angular-and-prismjs/)
 _<sup>https://auralinna.blog/post/2017/code-syntax-highlighting-with-angular-and-prismjs/</sup>_
@@ -418,7 +481,7 @@ _<sup>https://coryrylan.com/blog/angular-multiple-http-requests-with-rxjs</sup>_
 
 A typical pattern we run into with single page apps is to gather up data from multiple API endpoints and then display the gathered data to the user. Fetching numerous asynchronous requests and managin...
 * :calendar: **published on**: 2019-06-18
-* **tags**: [angular](../tagged/angular.md), [rxjs](../tagged/rxjs.md)
+* **tags**: [angular](../tagged/angular.md), [rxjs](../tagged/rxjs.md), [parallel-processing](../tagged/parallel-processing.md)
 * :octocat: **[source code](https://stackblitz.com/edit/angular-jjp2oy)**
 ---
 #### [7 Ways to Leverage HttpInterceptors in Angular - Bits and Pieces](https://blog.bitsrc.io/7-ways-to-leverage-httpinterceptors-in-angular-59436611844d)

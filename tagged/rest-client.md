@@ -1,6 +1,6 @@
-## Bookmarks tagged [[rest-client]](https://www.bookmarks.dev/search?q=[rest-client])
+## Bookmarks tagged [[rest-client]](https://www.codever.land/search?q=[rest-client])
 
-_<sup><sup>[www.bookmarks.dev/tagged/rest-client](https://www.bookmarks.dev/tagged/rest-client)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/rest-client](www.codever.land/bookmarks/t/rest-client)</sup></sup>_
 ---
 #### [Kong/insomnia](https://github.com/Kong/insomnia)
 _<sup>https://github.com/Kong/insomnia</sup>_

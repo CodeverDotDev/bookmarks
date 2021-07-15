@@ -1,6 +1,13 @@
-## Bookmarks tagged [[media]](https://www.bookmarks.dev/search?q=[media])
+## Bookmarks tagged [[media]](https://www.codever.land/search?q=[media])
 
-_<sup><sup>[www.bookmarks.dev/tagged/media](https://www.bookmarks.dev/tagged/media)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/media](www.codever.land/bookmarks/t/media)</sup></sup>_
+---
+#### [embedresponsively.com](https://embedresponsively.com/)
+_<sup>https://embedresponsively.com/</sup>_
+
+Embed Responsively helps web content producers transform fixed width embedded content into fluid responsive embeds.
+
+* **tags**: [video](../tagged/video.md), [media](../tagged/media.md), [embedded](../tagged/embedded.md), [responsive-design](../tagged/responsive-design.md)
 ---
 #### [awesome-python-scientific-audio](https://github.com/faroit/awesome-python-scientific-audio#readme)
 _<sup>https://github.com/faroit/awesome-python-scientific-audio#readme</sup>_

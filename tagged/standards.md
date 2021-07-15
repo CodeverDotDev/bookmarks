@@ -1,6 +1,6 @@
-## Bookmarks tagged [[standards]](https://www.bookmarks.dev/search?q=[standards])
+## Bookmarks tagged [[standards]](https://www.codever.land/search?q=[standards])
 
-_<sup><sup>[www.bookmarks.dev/tagged/standards](https://www.bookmarks.dev/tagged/standards)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/standards](www.codever.land/bookmarks/t/standards)</sup></sup>_
 ---
 #### [JSON API](http://jsonapi.org/)
 _<sup>http://jsonapi.org/</sup>_

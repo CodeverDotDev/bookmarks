@@ -1,6 +1,6 @@
-## Bookmarks tagged [[docx]](https://www.bookmarks.dev/search?q=[docx])
+## Bookmarks tagged [[docx]](https://www.codever.land/search?q=[docx])
 
-_<sup><sup>[www.bookmarks.dev/tagged/docx](https://www.bookmarks.dev/tagged/docx)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/docx](www.codever.land/bookmarks/t/docx)</sup></sup>_
 ---
 #### [PDF to DOCX – Convert PDF to DOCX Online](https://pdf2docx.com/)
 _<sup>https://pdf2docx.com/</sup>_

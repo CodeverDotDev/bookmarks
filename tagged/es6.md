@@ -1,6 +1,6 @@
-## Bookmarks tagged [[es6]](https://www.bookmarks.dev/search?q=[es6])
+## Bookmarks tagged [[es6]](https://www.codever.land/search?q=[es6])
 
-_<sup><sup>[www.bookmarks.dev/tagged/es6](https://www.bookmarks.dev/tagged/es6)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/es6](www.codever.land/bookmarks/t/es6)</sup></sup>_
 ---
 #### [es6features](https://github.com/lukehoban/es6features)
 _<sup>https://github.com/lukehoban/es6features</sup>_

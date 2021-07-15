@@ -1,6 +1,20 @@
-## Bookmarks tagged [[redux]](https://www.bookmarks.dev/search?q=[redux])
+## Bookmarks tagged [[redux]](https://www.codever.land/search?q=[redux])
 
-_<sup><sup>[www.bookmarks.dev/tagged/redux](https://www.bookmarks.dev/tagged/redux)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/redux](www.codever.land/bookmarks/t/redux)</sup></sup>_
+---
+#### [Managing State in Angular 2 - Kyle Cordes - Oct 2016 - 46min](https://www.youtube.com/watch?v=eBLTz8QRg4Q)
+_<sup>https://www.youtube.com/watch?v=eBLTz8QRg4Q</sup>_
+
+This month at the St. Lewis Angular Lunch, Kyle spoke about managing state in Angular 2 applications. The crying baby thumbnail accurately reflects how many developers have come to experience state ma...
+* :calendar: **published on**: 2016-10-20
+* **tags**: [angular](../tagged/angular.md), [state-management](../tagged/state-management.md), [ngrx](../tagged/ngrx.md), [redux](../tagged/redux.md)
+---
+#### [Some problems with React/Redux](https://staltz.com/some-problems-with-react-redux.html)
+_<sup>https://staltz.com/some-problems-with-react-redux.html</sup>_
+
+Some pain points about using React and Redux
+* :calendar: **published on**: 2016-01-26
+* **tags**: [react](../tagged/react.md), [redux](../tagged/redux.md), [cyclejs](../tagged/cyclejs.md), [elm](../tagged/elm.md)
 ---
 #### [Angular Application Architecture: Build Reux-like Apps with RxJs](https://blog.angular-university.io/angular-2-application-architecture-building-applications-using-rxjs-and-functional-reactive-programming-vs-redux/)
 _<sup>https://blog.angular-university.io/angular-2-application-architecture-building-applications-using-rx...</sup>_

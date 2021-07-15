@@ -1,6 +1,6 @@
-## Bookmarks tagged [[metalistas]](https://www.bookmarks.dev/search?q=[metalistas])
+## Bookmarks tagged [[metalistas]](https://www.codever.land/search?q=[metalistas])
 
-_<sup><sup>[www.bookmarks.dev/tagged/metalistas](https://www.bookmarks.dev/tagged/metalistas)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/metalistas](www.codever.land/bookmarks/t/metalistas)</sup></sup>_
 ---
 #### [OPENLIBRA La Biblioteca Libre online que estabas esperando](http://www.etnassoft.com/biblioteca/)
 _<sup>http://www.etnassoft.com/biblioteca/</sup>_

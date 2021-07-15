@@ -1,6 +1,6 @@
-## Bookmarks tagged [[pickledb]](https://www.bookmarks.dev/search?q=[pickledb])
+## Bookmarks tagged [[pickledb]](https://www.codever.land/search?q=[pickledb])
 
-_<sup><sup>[www.bookmarks.dev/tagged/pickledb](https://www.bookmarks.dev/tagged/pickledb)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/pickledb](www.codever.land/bookmarks/t/pickledb)</sup></sup>_
 ---
 #### [seladb/pickledb-rs](https://github.com/seladb/pickledb-rs)
 _<sup>https://github.com/seladb/pickledb-rs</sup>_

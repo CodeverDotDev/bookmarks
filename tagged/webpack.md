@@ -1,6 +1,14 @@
-## Bookmarks tagged [[webpack]](https://www.bookmarks.dev/search?q=[webpack])
+## Bookmarks tagged [[webpack]](https://www.codever.land/search?q=[webpack])
 
-_<sup><sup>[www.bookmarks.dev/tagged/webpack](https://www.bookmarks.dev/tagged/webpack)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/webpack](www.codever.land/bookmarks/t/webpack)</sup></sup>_
+---
+#### [You Might Not Need Laravel Mix - Stage Right Labs](https://stagerightlabs.com/blog/you-might-not-need-laravel-mix)
+_<sup>https://stagerightlabs.com/blog/you-might-not-need-laravel-mix</sup>_
+
+An alternative to Laravel Mix for compiling JS and CSS especially Tailwind CSS.
+The compiler is ESBUILD
+* :calendar: **published on**: 2021-03-22
+* **tags**: [laravel-mix](../tagged/laravel-mix.md), [jscompile](../tagged/jscompile.md), [esbuild](../tagged/esbuild.md), [javascript](../tagged/javascript.md), [webpack](../tagged/webpack.md)
 ---
 #### [GitHub - cobidev/simplefolio: ⚡️ A minimal portfolio template for Developers](https://github.com/cobidev/simplefolio)
 _<sup>https://github.com/cobidev/simplefolio</sup>_

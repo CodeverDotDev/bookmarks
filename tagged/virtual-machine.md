@@ -1,6 +1,6 @@
-## Bookmarks tagged [[virtual-machine]](https://www.bookmarks.dev/search?q=[virtual-machine])
+## Bookmarks tagged [[virtual-machine]](https://www.codever.land/search?q=[virtual-machine])
 
-_<sup><sup>[www.bookmarks.dev/tagged/virtual-machine](https://www.bookmarks.dev/tagged/virtual-machine)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/virtual-machine](www.codever.land/bookmarks/t/virtual-machine)</sup></sup>_
 ---
 #### [Byte Buddy - runtime code generation for the Java virtual machine](https://bytebuddy.net/#/)
 _<sup>https://bytebuddy.net/#/</sup>_

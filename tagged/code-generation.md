@@ -1,6 +1,6 @@
-## Bookmarks tagged [[code-generation]](https://www.bookmarks.dev/search?q=[code-generation])
+## Bookmarks tagged [[code-generation]](https://www.codever.land/search?q=[code-generation])
 
-_<sup><sup>[www.bookmarks.dev/tagged/code-generation](https://www.bookmarks.dev/tagged/code-generation)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/code-generation](www.codever.land/bookmarks/t/code-generation)</sup></sup>_
 ---
 #### [Apollo-Angular 1.2 — using GraphQL in your apps just got a whole lot easier!](https://medium.com/the-guild/apollo-angular-code-generation-7903da1f8559)
 _<sup>https://medium.com/the-guild/apollo-angular-code-generation-7903da1f8559</sup>_

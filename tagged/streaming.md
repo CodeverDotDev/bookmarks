@@ -1,6 +1,6 @@
-## Bookmarks tagged [[streaming]](https://www.bookmarks.dev/search?q=[streaming])
+## Bookmarks tagged [[streaming]](https://www.codever.land/search?q=[streaming])
 
-_<sup><sup>[www.bookmarks.dev/tagged/streaming](https://www.bookmarks.dev/tagged/streaming)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/streaming](www.codever.land/bookmarks/t/streaming)</sup></sup>_
 ---
 #### [Tailor](https://github.com/zalando/tailor)
 _<sup>https://github.com/zalando/tailor</sup>_

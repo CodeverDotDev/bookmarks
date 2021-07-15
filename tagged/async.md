@@ -1,6 +1,12 @@
-## Bookmarks tagged [[async]](https://www.bookmarks.dev/search?q=[async])
+## Bookmarks tagged [[async]](https://www.codever.land/search?q=[async])
 
-_<sup><sup>[www.bookmarks.dev/tagged/async](https://www.bookmarks.dev/tagged/async)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/async](www.codever.land/bookmarks/t/async)</sup></sup>_
+---
+#### [Efficiently load JavaScript with defer and async](https://flaviocopes.com/javascript-async-defer/)
+_<sup>https://flaviocopes.com/javascript-async-defer/</sup>_
+
+When loading a script on an HTML page, you need to be careful not to harm the loading performance of the page. Depending on where and how you add your scripts to an HTML page will influence the loadin...
+* **tags**: [javascript](../tagged/javascript.md), [async](../tagged/async.md), [defer](../tagged/defer.md)
 ---
 #### [Using Angular Forms with Async Data - Angular](https://coryrylan.com/blog/using-angular-forms-with-async-data)
 _<sup>https://coryrylan.com/blog/using-angular-forms-with-async-data</sup>_

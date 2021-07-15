@@ -1,6 +1,6 @@
-## Bookmarks tagged [[google-cloudsql]](https://www.bookmarks.dev/search?q=[google-cloudsql])
+## Bookmarks tagged [[google-cloudsql]](https://www.codever.land/search?q=[google-cloudsql])
 
-_<sup><sup>[www.bookmarks.dev/tagged/google-cloudsql](https://www.bookmarks.dev/tagged/google-cloudsql)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/google-cloudsql](www.codever.land/bookmarks/t/google-cloudsql)</sup></sup>_
 ---
 #### [Building Stateful Applications With Kubernetes and Cloud SQL (Cloud Next '19) - YouTube](https://www.youtube.com/watch?v=qVgzP3PsXFw)
 _<sup>https://www.youtube.com/watch?v=qVgzP3PsXFw</sup>_

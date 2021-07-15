@@ -1,6 +1,6 @@
-## Bookmarks tagged [[web-applications]](https://www.bookmarks.dev/search?q=[web-applications])
+## Bookmarks tagged [[web-applications]](https://www.codever.land/search?q=[web-applications])
 
-_<sup><sup>[www.bookmarks.dev/tagged/web-applications](https://www.bookmarks.dev/tagged/web-applications)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/web-applications](www.codever.land/bookmarks/t/web-applications)</sup></sup>_
 ---
 #### [Kubernator](https://github.com/smpio/kubernator)
 _<sup>https://github.com/smpio/kubernator</sup>_

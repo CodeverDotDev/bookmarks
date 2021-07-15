@@ -1,6 +1,6 @@
-## Bookmarks tagged [[sso]](https://www.bookmarks.dev/search?q=[sso])
+## Bookmarks tagged [[sso]](https://www.codever.land/search?q=[sso])
 
-_<sup><sup>[www.bookmarks.dev/tagged/sso](https://www.bookmarks.dev/tagged/sso)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/sso](www.codever.land/bookmarks/t/sso)</sup></sup>_
 ---
 #### [What Is and How Does Single Sign-On Authentication Work?](https://auth0.com/blog/what-is-and-how-does-single-sign-on-work/)
 _<sup>https://auth0.com/blog/what-is-and-how-does-single-sign-on-work/</sup>_

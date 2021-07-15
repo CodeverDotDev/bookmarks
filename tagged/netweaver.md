@@ -1,6 +1,6 @@
-## Bookmarks tagged [[netweaver]](https://www.bookmarks.dev/search?q=[netweaver])
+## Bookmarks tagged [[netweaver]](https://www.codever.land/search?q=[netweaver])
 
-_<sup><sup>[www.bookmarks.dev/tagged/netweaver](https://www.bookmarks.dev/tagged/netweaver)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/netweaver](www.codever.land/bookmarks/t/netweaver)</sup></sup>_
 ---
 #### [SAP Javadocs](https://help.sap.com/viewer/product/JAVADOCS/1.0/en-US)
 _<sup>https://help.sap.com/viewer/product/JAVADOCS/1.0/en-US</sup>_

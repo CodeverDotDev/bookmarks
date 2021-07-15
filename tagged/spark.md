@@ -1,6 +1,6 @@
-## Bookmarks tagged [[spark]](https://www.bookmarks.dev/search?q=[spark])
+## Bookmarks tagged [[spark]](https://www.codever.land/search?q=[spark])
 
-_<sup><sup>[www.bookmarks.dev/tagged/spark](https://www.bookmarks.dev/tagged/spark)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/spark](www.codever.land/bookmarks/t/spark)</sup></sup>_
 ---
 #### [Mastering Apache Spark](https://www.gitbook.com/book/jaceklaskowski/mastering-apache-spark/details)
 _<sup>https://www.gitbook.com/book/jaceklaskowski/mastering-apache-spark/details</sup>_

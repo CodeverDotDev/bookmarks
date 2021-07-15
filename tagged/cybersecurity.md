@@ -1,6 +1,6 @@
-## Bookmarks tagged [[cybersecurity]](https://www.bookmarks.dev/search?q=[cybersecurity])
+## Bookmarks tagged [[cybersecurity]](https://www.codever.land/search?q=[cybersecurity])
 
-_<sup><sup>[www.bookmarks.dev/tagged/cybersecurity](https://www.bookmarks.dev/tagged/cybersecurity)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/cybersecurity](www.codever.land/bookmarks/t/cybersecurity)</sup></sup>_
 ---
 #### [Welcome - CTF-wiki](https://csea-iitb.github.io/IITBreachers-wiki/)
 _<sup>https://csea-iitb.github.io/IITBreachers-wiki/</sup>_

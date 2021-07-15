@@ -1,6 +1,6 @@
-## Bookmarks tagged [[text]](https://www.bookmarks.dev/search?q=[text])
+## Bookmarks tagged [[text]](https://www.codever.land/search?q=[text])
 
-_<sup><sup>[www.bookmarks.dev/tagged/text](https://www.bookmarks.dev/tagged/text)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/text](www.codever.land/bookmarks/t/text)</sup></sup>_
 ---
 #### [Fancy Text Decorator - ℭ𝔬𝔬𝔩 𝕋𝕖𝕩𝕥 𝓖𝓮𝓷𝓮𝓻𝓪𝓽𝓸𝓻 😜](https://fancytextdecorator.com/)
 _<sup>https://fancytextdecorator.com/</sup>_

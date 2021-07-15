@@ -1,6 +1,13 @@
-## Bookmarks tagged [[interview-question]](https://www.bookmarks.dev/search?q=[interview-question])
+## Bookmarks tagged [[interview-question]](https://www.codever.land/search?q=[interview-question])
 
-_<sup><sup>[www.bookmarks.dev/tagged/interview-question](https://www.bookmarks.dev/tagged/interview-question)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/interview-question](www.codever.land/bookmarks/t/interview-question)</sup></sup>_
+---
+#### [GitHub - jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)
+_<sup>https://github.com/jwasham/coding-interview-university</sup>_
+
+A complete computer science study plan to become a software engineer. - jwasham/coding-interview-university
+* **tags**: [interview-question](../tagged/interview-question.md), [education](../tagged/education.md)
+* :octocat: **[source code](https://github.com/jwasham/coding-interview-university)**
 ---
 #### [kdn251/interviews: Everything you need to know to get the job.](https://github.com/kdn251/interviews)
 _<sup>https://github.com/kdn251/interviews</sup>_

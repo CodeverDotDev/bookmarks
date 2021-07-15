@@ -1,6 +1,6 @@
-## Bookmarks tagged [[charts]](https://www.bookmarks.dev/search?q=[charts])
+## Bookmarks tagged [[charts]](https://www.codever.land/search?q=[charts])
 
-_<sup><sup>[www.bookmarks.dev/tagged/charts](https://www.bookmarks.dev/tagged/charts)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/charts](www.codever.land/bookmarks/t/charts)</sup></sup>_
 ---
 #### [DevExtreme React Chart - High-performance plugin-based React chart for Bootstrap and Material Design](https://devexpress.github.io/devextreme-reactive/react/chart/)
 _<sup>https://devexpress.github.io/devextreme-reactive/react/chart/</sup>_

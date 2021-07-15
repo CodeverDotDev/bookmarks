@@ -1,6 +1,6 @@
-## Bookmarks tagged [[database-drivers]](https://www.bookmarks.dev/search?q=[database-drivers])
+## Bookmarks tagged [[database-drivers]](https://www.codever.land/search?q=[database-drivers])
 
-_<sup><sup>[www.bookmarks.dev/tagged/database-drivers](https://www.bookmarks.dev/tagged/database-drivers)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/database-drivers](www.codever.land/bookmarks/t/database-drivers)</sup></sup>_
 ---
 #### [avatica](https://github.com/apache/calcite-avatica-go)
 _<sup>https://github.com/apache/calcite-avatica-go</sup>_

@@ -1,6 +1,6 @@
-## Bookmarks tagged [[drag-and-drop]](https://www.bookmarks.dev/search?q=[drag-and-drop])
+## Bookmarks tagged [[drag-and-drop]](https://www.codever.land/search?q=[drag-and-drop])
 
-_<sup><sup>[www.bookmarks.dev/tagged/drag-and-drop](https://www.bookmarks.dev/tagged/drag-and-drop)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/drag-and-drop](www.codever.land/bookmarks/t/drag-and-drop)</sup></sup>_
 ---
 #### [SortableJS Home Page](https://sortablejs.github.io/Sortable/)
 _<sup>https://sortablejs.github.io/Sortable/</sup>_

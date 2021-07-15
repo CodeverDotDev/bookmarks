@@ -1,6 +1,6 @@
-## Bookmarks tagged [[geolocation]](https://www.bookmarks.dev/search?q=[geolocation])
+## Bookmarks tagged [[geolocation]](https://www.codever.land/search?q=[geolocation])
 
-_<sup><sup>[www.bookmarks.dev/tagged/geolocation](https://www.bookmarks.dev/tagged/geolocation)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/geolocation](www.codever.land/bookmarks/t/geolocation)</sup></sup>_
 ---
 #### [Geocoder](https://github.com/alexreisner/geocoder)
 _<sup>https://github.com/alexreisner/geocoder</sup>_

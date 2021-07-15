@@ -1,6 +1,6 @@
-## Bookmarks tagged [[e-commerce]](https://www.bookmarks.dev/search?q=[e-commerce])
+## Bookmarks tagged [[e-commerce]](https://www.codever.land/search?q=[e-commerce])
 
-_<sup><sup>[www.bookmarks.dev/tagged/e-commerce](https://www.bookmarks.dev/tagged/e-commerce)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/e-commerce](www.codever.land/bookmarks/t/e-commerce)</sup></sup>_
 ---
 #### [Active Merchant](https://github.com/activemerchant/active_merchant)
 _<sup>https://github.com/activemerchant/active_merchant</sup>_

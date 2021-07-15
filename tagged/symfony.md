@@ -1,6 +1,6 @@
-## Bookmarks tagged [[symfony]](https://www.bookmarks.dev/search?q=[symfony])
+## Bookmarks tagged [[symfony]](https://www.codever.land/search?q=[symfony])
 
-_<sup><sup>[www.bookmarks.dev/tagged/symfony](https://www.bookmarks.dev/tagged/symfony)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/symfony](www.codever.land/bookmarks/t/symfony)</sup></sup>_
 ---
 #### [awesome-symfony](https://github.com/sitepoint-editors/awesome-symfony#readme)
 _<sup>https://github.com/sitepoint-editors/awesome-symfony#readme</sup>_

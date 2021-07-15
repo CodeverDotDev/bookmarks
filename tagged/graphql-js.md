@@ -1,6 +1,6 @@
-## Bookmarks tagged [[graphql-js]](https://www.bookmarks.dev/search?q=[graphql-js])
+## Bookmarks tagged [[graphql-js]](https://www.codever.land/search?q=[graphql-js])
 
-_<sup><sup>[www.bookmarks.dev/tagged/graphql-js](https://www.bookmarks.dev/tagged/graphql-js)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/graphql-js](www.codever.land/bookmarks/t/graphql-js)</sup></sup>_
 ---
 #### [GraphQL explained - Apollo Blog](https://www.apollographql.com/blog/graphql-explained-5844742f195e/)
 _<sup>https://www.apollographql.com/blog/graphql-explained-5844742f195e/</sup>_

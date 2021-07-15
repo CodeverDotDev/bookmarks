@@ -1,6 +1,6 @@
-## Bookmarks tagged [[icon]](https://www.bookmarks.dev/search?q=[icon])
+## Bookmarks tagged [[icon]](https://www.codever.land/search?q=[icon])
 
-_<sup><sup>[www.bookmarks.dev/tagged/icon](https://www.bookmarks.dev/tagged/icon)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/icon](www.codever.land/bookmarks/t/icon)</sup></sup>_
 ---
 #### [700+ CSS Icons, Customizable, Retina Ready & API](https://css.gg/)
 _<sup>https://css.gg/</sup>_

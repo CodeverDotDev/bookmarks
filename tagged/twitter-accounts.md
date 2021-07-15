@@ -1,6 +1,6 @@
-## Bookmarks tagged [[twitter-accounts]](https://www.bookmarks.dev/search?q=[twitter-accounts])
+## Bookmarks tagged [[twitter-accounts]](https://www.codever.land/search?q=[twitter-accounts])
 
-_<sup><sup>[www.bookmarks.dev/tagged/twitter-accounts](https://www.bookmarks.dev/tagged/twitter-accounts)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/twitter-accounts](www.codever.land/bookmarks/t/twitter-accounts)</sup></sup>_
 ---
 #### [Apcera](https://twitter.com/Apcera)
 _<sup>https://twitter.com/Apcera</sup>_

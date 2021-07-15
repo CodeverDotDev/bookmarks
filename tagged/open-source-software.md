@@ -1,6 +1,6 @@
-## Bookmarks tagged [[open-source-software]](https://www.bookmarks.dev/search?q=[open-source-software])
+## Bookmarks tagged [[open-source-software]](https://www.codever.land/search?q=[open-source-software])
 
-_<sup><sup>[www.bookmarks.dev/tagged/open-source-software](https://www.bookmarks.dev/tagged/open-source-software)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/open-source-software](www.codever.land/bookmarks/t/open-source-software)</sup></sup>_
 ---
 #### [GitHub - darold/pgbadger: A fast PostgreSQL Log Analyzer](https://github.com/darold/pgbadger)
 _<sup>https://github.com/darold/pgbadger</sup>_

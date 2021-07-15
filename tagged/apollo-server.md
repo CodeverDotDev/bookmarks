@@ -1,6 +1,6 @@
-## Bookmarks tagged [[apollo-server]](https://www.bookmarks.dev/search?q=[apollo-server])
+## Bookmarks tagged [[apollo-server]](https://www.codever.land/search?q=[apollo-server])
 
-_<sup><sup>[www.bookmarks.dev/tagged/apollo-server](https://www.bookmarks.dev/tagged/apollo-server)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/apollo-server](www.codever.land/bookmarks/t/apollo-server)</sup></sup>_
 ---
 #### [GraphQL Server Basics: The Network Layer | Prisma](https://www.prisma.io/blog/graphql-server-basics-the-network-layer-51d97d21861)
 _<sup>https://www.prisma.io/blog/graphql-server-basics-the-network-layer-51d97d21861</sup>_

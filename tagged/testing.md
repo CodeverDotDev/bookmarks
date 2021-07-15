@@ -1,6 +1,36 @@
-## Bookmarks tagged [[testing]](https://www.bookmarks.dev/search?q=[testing])
+## Bookmarks tagged [[testing]](https://www.codever.land/search?q=[testing])
 
-_<sup><sup>[www.bookmarks.dev/tagged/testing](https://www.bookmarks.dev/tagged/testing)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/testing](www.codever.land/bookmarks/t/testing)</sup></sup>_
+---
+#### [Modèles de typologie de tests. Voici des modèles qui servent à… | by Jean-Pierre Lambert | Jean-Pierre Lambert's blog](https://jp-lambert.me/mod%C3%A8les-de-typologie-de-tests-2cb630a47283)
+_<sup>https://jp-lambert.me/mod%C3%A8les-de-typologie-de-tests-2cb630a47283</sup>_
+
+Dans cet article, je vous présente différents modèles qui servent à classifier les différents types de test. Le but de ces modèles est de prendre de la hauteur et comprendre pourquoi définit-on ces…
+* :calendar: **published on**: 2019-01-29
+* **tags**: [testing](../tagged/testing.md)
+---
+#### [XMLUnit - Unit Testing XML for Java and .NET home page](https://www.xmlunit.org/)
+_<sup>https://www.xmlunit.org/</sup>_
+
+When testing XML your application creates, simple string comparisons don't cut it as there are many different ways the same XML content is serialized to a string. It doesn't even stop with serializati...
+* **tags**: [java](../tagged/java.md), [.net](../tagged/.net.md), [testing](../tagged/testing.md), [xml](../tagged/xml.md), [xmlunit](../tagged/xmlunit.md), [unit-testing](../tagged/unit-testing.md)
+* :octocat: **[source code](https://github.com/xmlunit/xmlunit)**
+---
+#### [Introduction To XMLUnit 2.x](https://www.baeldung.com/xmlunit2)
+_<sup>https://www.baeldung.com/xmlunit2</sup>_
+
+XMLUnit 2.x is a powerful library that helps us test and verify XML content, and comes in particularly handy when we know exactly what that XML should contain.
+
+And so we'll mainly be using XMLUnit in...
+* **tags**: [xmlunit](../tagged/xmlunit.md), [testing](../tagged/testing.md), [java](../tagged/java.md)
+* :octocat: **[source code](https://github.com/eugenp/tutorials/tree/master/testing-modules/xmlunit-2)**
+---
+#### [Unit test your Java architecture - ArchUnit home page](https://www.archunit.org/)
+_<sup>https://www.archunit.org/</sup>_
+
+ArchUnit is a free, simple and extensible library for checking the architecture of your Java code using any plain Java unit test framework. That is, ArchUnit can check dependencies between packages an...
+* **tags**: [java](../tagged/java.md), [testing](../tagged/testing.md), [architecture](../tagged/architecture.md)
+* :octocat: **[source code](https://github.com/TNG/ArchUnit)**
 ---
 #### [Testing Java Collections with AssertJ](https://medium.com/enfuse-io/testing-java-collections-with-assertj-2fa678d80952)
 _<sup>https://medium.com/enfuse-io/testing-java-collections-with-assertj-2fa678d80952</sup>_

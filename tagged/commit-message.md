@@ -1,6 +1,6 @@
-## Bookmarks tagged [[commit-message]](https://www.bookmarks.dev/search?q=[commit-message])
+## Bookmarks tagged [[commit-message]](https://www.codever.land/search?q=[commit-message])
 
-_<sup><sup>[www.bookmarks.dev/tagged/commit-message](https://www.bookmarks.dev/tagged/commit-message)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/commit-message](www.codever.land/bookmarks/t/commit-message)</sup></sup>_
 ---
 #### [How do I make Git use the editor of my choice for commits?](https://stackoverflow.com/questions/2596805/how-do-i-make-git-use-the-editor-of-my-choice-for-commits)
 _<sup>https://stackoverflow.com/questions/2596805/how-do-i-make-git-use-the-editor-of-my-choice-for-commit...</sup>_

@@ -1,6 +1,6 @@
-## Bookmarks tagged [[eclipse]](https://www.bookmarks.dev/search?q=[eclipse])
+## Bookmarks tagged [[eclipse]](https://www.codever.land/search?q=[eclipse])
 
-_<sup><sup>[www.bookmarks.dev/tagged/eclipse](https://www.bookmarks.dev/tagged/eclipse)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/eclipse](www.codever.land/bookmarks/t/eclipse)</sup></sup>_
 ---
 #### [Eclipse Corrosion](https://github.com/eclipse/corrosion)
 _<sup>https://github.com/eclipse/corrosion</sup>_

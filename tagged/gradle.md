@@ -1,6 +1,6 @@
-## Bookmarks tagged [[gradle]](https://www.bookmarks.dev/search?q=[gradle])
+## Bookmarks tagged [[gradle]](https://www.codever.land/search?q=[gradle])
 
-_<sup><sup>[www.bookmarks.dev/tagged/gradle](https://www.bookmarks.dev/tagged/gradle)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/gradle](www.codever.land/bookmarks/t/gradle)</sup></sup>_
 ---
 #### [Google Cloud Platform Blog Introducing Jib — build Java Docker images better](https://cloudplatform.googleblog.com/2018/07/introducing-jib-build-java-docker-images-better.html)
 _<sup>https://cloudplatform.googleblog.com/2018/07/introducing-jib-build-java-docker-images-better.html</sup>_

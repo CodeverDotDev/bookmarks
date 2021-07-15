@@ -1,6 +1,6 @@
-## Bookmarks tagged [[interactive-interpreter]](https://www.bookmarks.dev/search?q=[interactive-interpreter])
+## Bookmarks tagged [[interactive-interpreter]](https://www.codever.land/search?q=[interactive-interpreter])
 
-_<sup><sup>[www.bookmarks.dev/tagged/interactive-interpreter](https://www.bookmarks.dev/tagged/interactive-interpreter)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/interactive-interpreter](www.codever.land/bookmarks/t/interactive-interpreter)</sup></sup>_
 ---
 #### [bpython](https://github.com/bpython/bpython)
 _<sup>https://github.com/bpython/bpython</sup>_

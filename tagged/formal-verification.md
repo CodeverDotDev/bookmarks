@@ -1,6 +1,6 @@
-## Bookmarks tagged [[formal-verification]](https://www.bookmarks.dev/search?q=[formal-verification])
+## Bookmarks tagged [[formal-verification]](https://www.codever.land/search?q=[formal-verification])
 
-_<sup><sup>[www.bookmarks.dev/tagged/formal-verification](https://www.bookmarks.dev/tagged/formal-verification)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/formal-verification](www.codever.land/bookmarks/t/formal-verification)</sup></sup>_
 ---
 #### [CATG](https://github.com/ksen007/janala2)
 _<sup>https://github.com/ksen007/janala2</sup>_

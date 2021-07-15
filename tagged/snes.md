@@ -1,6 +1,6 @@
-## Bookmarks tagged [[snes]](https://www.bookmarks.dev/search?q=[snes])
+## Bookmarks tagged [[snes]](https://www.codever.land/search?q=[snes])
 
-_<sup><sup>[www.bookmarks.dev/tagged/snes](https://www.bookmarks.dev/tagged/snes)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/snes](www.codever.land/bookmarks/t/snes)</sup></sup>_
 ---
 #### [ioncodes/snesutilities](https://github.com/ioncodes/snesutilities)
 _<sup>https://github.com/ioncodes/snesutilities</sup>_

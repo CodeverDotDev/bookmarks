@@ -1,6 +1,6 @@
-## Bookmarks tagged [[sql-server]](https://www.bookmarks.dev/search?q=[sql-server])
+## Bookmarks tagged [[sql-server]](https://www.codever.land/search?q=[sql-server])
 
-_<sup><sup>[www.bookmarks.dev/tagged/sql-server](https://www.bookmarks.dev/tagged/sql-server)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/sql-server](www.codever.land/bookmarks/t/sql-server)</sup></sup>_
 ---
 #### [steffengy/tiberius](https://github.com/steffengy/tiberius)
 _<sup>https://github.com/steffengy/tiberius</sup>_

@@ -1,6 +1,13 @@
-## Bookmarks tagged [[web-scraping]](https://www.bookmarks.dev/search?q=[web-scraping])
+## Bookmarks tagged [[web-scraping]](https://www.codever.land/search?q=[web-scraping])
 
-_<sup><sup>[www.bookmarks.dev/tagged/web-scraping](https://www.bookmarks.dev/tagged/web-scraping)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/web-scraping](www.codever.land/bookmarks/t/web-scraping)</sup></sup>_
+---
+#### [GitHub - jsdom/jsdom](https://github.com/jsdom/jsdom)
+_<sup>https://github.com/jsdom/jsdom</sup>_
+
+jsdom is a pure-JavaScript implementation of many web standards, notably the WHATWG [DOM](https://dom.spec.whatwg.org/) and [HTML](https://html.spec.whatwg.org/multipage/) Standards, for use with Node...
+* **tags**: [web-scraping](../tagged/web-scraping.md), [tools](../tagged/tools.md), [dom](../tagged/dom.md), [node.js](../tagged/node.js.md), [javascript](../tagged/javascript.md)
+* :octocat: **[source code](https://github.com/jsdom/jsdom)**
 ---
 #### [Advanced web spidering with Puppeteer](https://blog.kowalczyk.info/article/ea07db1b9bff415ab180b0525f3898f6/advanced-web-spidering-with-puppeteer.html)
 _<sup>https://blog.kowalczyk.info/article/ea07db1b9bff415ab180b0525f3898f6/advanced-web-spidering-with-pup...</sup>_

@@ -1,6 +1,6 @@
-## Bookmarks tagged [[distributed-transactions]](https://www.bookmarks.dev/search?q=[distributed-transactions])
+## Bookmarks tagged [[distributed-transactions]](https://www.codever.land/search?q=[distributed-transactions])
 
-_<sup><sup>[www.bookmarks.dev/tagged/distributed-transactions](https://www.bookmarks.dev/tagged/distributed-transactions)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/distributed-transactions](www.codever.land/bookmarks/t/distributed-transactions)</sup></sup>_
 ---
 #### [Atomikos](https://www.atomikos.com)
 _<sup>https://www.atomikos.com</sup>_

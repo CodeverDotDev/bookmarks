@@ -1,6 +1,6 @@
-## Bookmarks tagged [[automotive]](https://www.bookmarks.dev/search?q=[automotive])
+## Bookmarks tagged [[automotive]](https://www.codever.land/search?q=[automotive])
 
-_<sup><sup>[www.bookmarks.dev/tagged/automotive](https://www.bookmarks.dev/tagged/automotive)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/automotive](www.codever.land/bookmarks/t/automotive)</sup></sup>_
 ---
 #### [JulianSchmid/dlt_parse](https://github.com/JulianSchmid/dlt-parse-rs)
 _<sup>https://github.com/JulianSchmid/dlt-parse-rs</sup>_

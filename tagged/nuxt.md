@@ -1,6 +1,6 @@
-## Bookmarks tagged [[nuxt]](https://www.bookmarks.dev/search?q=[nuxt])
+## Bookmarks tagged [[nuxt]](https://www.codever.land/search?q=[nuxt])
 
-_<sup><sup>[www.bookmarks.dev/tagged/nuxt](https://www.bookmarks.dev/tagged/nuxt)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/nuxt](www.codever.land/bookmarks/t/nuxt)</sup></sup>_
 ---
 #### [AwesomeTechStack](https://awesometechstack.com)
 _<sup>https://awesometechstack.com</sup>_

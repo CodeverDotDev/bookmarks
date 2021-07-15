@@ -1,6 +1,6 @@
-## Bookmarks tagged [[löve]](https://www.bookmarks.dev/search?q=[löve])
+## Bookmarks tagged [[löve]](https://www.codever.land/search?q=[löve])
 
-_<sup><sup>[www.bookmarks.dev/tagged/löve](https://www.bookmarks.dev/tagged/löve)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/löve](www.codever.land/bookmarks/t/löve)</sup></sup>_
 ---
 #### [awesome-love2d](https://github.com/love2d-community/awesome-love2d#readme)
 _<sup>https://github.com/love2d-community/awesome-love2d#readme</sup>_

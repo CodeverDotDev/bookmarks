@@ -1,6 +1,6 @@
-## Bookmarks tagged [[webstorm]](https://www.bookmarks.dev/search?q=[webstorm])
+## Bookmarks tagged [[webstorm]](https://www.codever.land/search?q=[webstorm])
 
-_<sup><sup>[www.bookmarks.dev/tagged/webstorm](https://www.bookmarks.dev/tagged/webstorm)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/webstorm](www.codever.land/bookmarks/t/webstorm)</sup></sup>_
 ---
 #### [Troubleshooting · Jest](https://jestjs.io/docs/en/troubleshooting)
 _<sup>https://jestjs.io/docs/en/troubleshooting</sup>_

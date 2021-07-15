@@ -1,6 +1,6 @@
-## Bookmarks tagged [[object]](https://www.bookmarks.dev/search?q=[object])
+## Bookmarks tagged [[object]](https://www.codever.land/search?q=[object])
 
-_<sup><sup>[www.bookmarks.dev/tagged/object](https://www.bookmarks.dev/tagged/object)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/object](www.codever.land/bookmarks/t/object)</sup></sup>_
 ---
 #### [Object comparison in JavaScript](https://stackoverflow.com/questions/1068834/object-comparison-in-javascript)
 _<sup>https://stackoverflow.com/questions/1068834/object-comparison-in-javascript</sup>_

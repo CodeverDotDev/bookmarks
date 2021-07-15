@@ -1,6 +1,6 @@
-## Bookmarks tagged [[office]](https://www.bookmarks.dev/search?q=[office])
+## Bookmarks tagged [[office]](https://www.codever.land/search?q=[office])
 
-_<sup><sup>[www.bookmarks.dev/tagged/office](https://www.bookmarks.dev/tagged/office)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/office](www.codever.land/bookmarks/t/office)</sup></sup>_
 ---
 #### [openpyxl](https://openpyxl.readthedocs.io/en/stable/)
 _<sup>https://openpyxl.readthedocs.io/en/stable/</sup>_

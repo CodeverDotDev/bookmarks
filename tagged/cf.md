@@ -1,6 +1,6 @@
-## Bookmarks tagged [[cf]](https://www.bookmarks.dev/search?q=[cf])
+## Bookmarks tagged [[cf]](https://www.codever.land/search?q=[cf])
 
-_<sup><sup>[www.bookmarks.dev/tagged/cf](https://www.bookmarks.dev/tagged/cf)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/cf](www.codever.land/bookmarks/t/cf)</sup></sup>_
 ---
 #### [CAP@SAP Home](https://cap.cloud.sap/docs/)
 _<sup>https://cap.cloud.sap/docs/</sup>_

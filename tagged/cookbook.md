@@ -1,6 +1,6 @@
-## Bookmarks tagged [[cookbook]](https://www.bookmarks.dev/search?q=[cookbook])
+## Bookmarks tagged [[cookbook]](https://www.codever.land/search?q=[cookbook])
 
-_<sup><sup>[www.bookmarks.dev/tagged/cookbook](https://www.bookmarks.dev/tagged/cookbook)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/cookbook](www.codever.land/bookmarks/t/cookbook)</sup></sup>_
 ---
 #### [Upstart Intro, Cookbook and Best Practises](http://upstart.ubuntu.com/cookbook/)
 _<sup>http://upstart.ubuntu.com/cookbook/</sup>_

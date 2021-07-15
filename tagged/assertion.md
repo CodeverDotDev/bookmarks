@@ -1,6 +1,6 @@
-## Bookmarks tagged [[assertion]](https://www.bookmarks.dev/search?q=[assertion])
+## Bookmarks tagged [[assertion]](https://www.codever.land/search?q=[assertion])
 
-_<sup><sup>[www.bookmarks.dev/tagged/assertion](https://www.bookmarks.dev/tagged/assertion)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/assertion](www.codever.land/bookmarks/t/assertion)</sup></sup>_
 ---
 #### [chai](https://github.com/chaijs/chai)
 _<sup>https://github.com/chaijs/chai</sup>_

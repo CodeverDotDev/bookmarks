@@ -1,6 +1,6 @@
-## Bookmarks tagged [[social-networking]](https://www.bookmarks.dev/search?q=[social-networking])
+## Bookmarks tagged [[social-networking]](https://www.codever.land/search?q=[social-networking])
 
-_<sup><sup>[www.bookmarks.dev/tagged/social-networking](https://www.bookmarks.dev/tagged/social-networking)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/social-networking](www.codever.land/bookmarks/t/social-networking)</sup></sup>_
 ---
 #### [Decidim](https://github.com/decidim/decidim)
 _<sup>https://github.com/decidim/decidim</sup>_

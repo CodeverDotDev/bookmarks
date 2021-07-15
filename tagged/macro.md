@@ -1,6 +1,6 @@
-## Bookmarks tagged [[macro]](https://www.bookmarks.dev/search?q=[macro])
+## Bookmarks tagged [[macro]](https://www.codever.land/search?q=[macro])
 
-_<sup><sup>[www.bookmarks.dev/tagged/macro](https://www.bookmarks.dev/tagged/macro)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/macro](www.codever.land/bookmarks/t/macro)</sup></sup>_
 ---
 #### [mattgathu/cute](https://github.com/mattgathu/cute)
 _<sup>https://github.com/mattgathu/cute</sup>_

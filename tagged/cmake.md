@@ -1,6 +1,6 @@
-## Bookmarks tagged [[cmake]](https://www.bookmarks.dev/search?q=[cmake])
+## Bookmarks tagged [[cmake]](https://www.codever.land/search?q=[cmake])
 
-_<sup><sup>[www.bookmarks.dev/tagged/cmake](https://www.bookmarks.dev/tagged/cmake)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/cmake](www.codever.land/bookmarks/t/cmake)</sup></sup>_
 ---
 #### [Devolutions/CMakeRust](https://github.com/Devolutions/CMakeRust)
 _<sup>https://github.com/Devolutions/CMakeRust</sup>_

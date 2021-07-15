@@ -1,6 +1,6 @@
-## Bookmarks tagged [[licensing]](https://www.bookmarks.dev/search?q=[licensing])
+## Bookmarks tagged [[licensing]](https://www.codever.land/search?q=[licensing])
 
-_<sup><sup>[www.bookmarks.dev/tagged/licensing](https://www.bookmarks.dev/tagged/licensing)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/licensing](www.codever.land/bookmarks/t/licensing)</sup></sup>_
 ---
 #### [The Public Domain: Enclosing the Commons of the Mind](http://www.thepublicdomain.org/download/)
 _<sup>http://www.thepublicdomain.org/download/</sup>_

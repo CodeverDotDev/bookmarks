@@ -1,6 +1,13 @@
-## Bookmarks tagged [[web-application]](https://www.bookmarks.dev/search?q=[web-application])
+## Bookmarks tagged [[web-application]](https://www.codever.land/search?q=[web-application])
 
-_<sup><sup>[www.bookmarks.dev/tagged/web-application](https://www.bookmarks.dev/tagged/web-application)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/web-application](www.codever.land/bookmarks/t/web-application)</sup></sup>_
+---
+#### [My Programming Journal](http://waynewallace.sdf.org/programming-blog.html)
+_<sup>http://waynewallace.sdf.org/programming-blog.html</sup>_
+
+Open source Bookmarks and Code Snippets Manager for Developers & Co. Easy bookmarking with bookmarklets, browser extensions and IDE plugins. Quick retrieval of dev bookmarks with custom and rapid sear...
+* :calendar: **published on**: 2021-04-18
+* **tags**: [programming](../tagged/programming.md), [journal](../tagged/journal.md), [web-application](../tagged/web-application.md), [fullstack](../tagged/fullstack.md), [developer](../tagged/developer.md)
 ---
 #### [OAuth 2 Simplified](https://aaronparecki.com/oauth-2-simplified/)
 _<sup>https://aaronparecki.com/oauth-2-simplified/</sup>_
@@ -24,7 +31,7 @@ Do you think you are a good typer? An average touch typer can type at around 60 
 _<sup>https://parceljs.org/</sup>_
 
 Blazing fast, zero configuration web application bundler
-* **tags**: [web-application](../tagged/web-application.md), [bundler](../tagged/bundler.md)
+* **tags**: [web-application](../tagged/web-application.md), [bundler](../tagged/bundler.md), [javascript](../tagged/javascript.md)
 * :octocat: **[source code](https://github.com/parcel-bundler/parcel)**
 ---
 #### [3V4L](https://3v4l.org/)

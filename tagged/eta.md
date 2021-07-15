@@ -1,6 +1,6 @@
-## Bookmarks tagged [[eta]](https://www.bookmarks.dev/search?q=[eta])
+## Bookmarks tagged [[eta]](https://www.codever.land/search?q=[eta])
 
-_<sup><sup>[www.bookmarks.dev/tagged/eta](https://www.bookmarks.dev/tagged/eta)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/eta](www.codever.land/bookmarks/t/eta)</sup></sup>_
 ---
 #### [awesome-eta](https://github.com/sfischer13/awesome-eta#readme)
 _<sup>https://github.com/sfischer13/awesome-eta#readme</sup>_

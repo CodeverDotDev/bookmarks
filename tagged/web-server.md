@@ -1,6 +1,6 @@
-## Bookmarks tagged [[web-server]](https://www.bookmarks.dev/search?q=[web-server])
+## Bookmarks tagged [[web-server]](https://www.codever.land/search?q=[web-server])
 
-_<sup><sup>[www.bookmarks.dev/tagged/web-server](https://www.bookmarks.dev/tagged/web-server)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/web-server](www.codever.land/bookmarks/t/web-server)</sup></sup>_
 ---
 #### [Goliath](https://github.com/postrank-labs/goliath)
 _<sup>https://github.com/postrank-labs/goliath</sup>_

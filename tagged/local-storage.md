@@ -1,6 +1,19 @@
-## Bookmarks tagged [[local-storage]](https://www.bookmarks.dev/search?q=[local-storage])
+## Bookmarks tagged [[local-storage]](https://www.codever.land/search?q=[local-storage])
 
-_<sup><sup>[www.bookmarks.dev/tagged/local-storage](https://www.bookmarks.dev/tagged/local-storage)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/local-storage](www.codever.land/bookmarks/t/local-storage)</sup></sup>_
+---
+#### [Client-side storage - Learn web development | MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Client-side_storage)
+_<sup>https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Client-side_storage</sup>_
+
+Modern web browsers support a number of ways for web sites to store data on the user's computer — with the user's permission — then retrieve it when necessary. This lets you persist data for long-term...
+* **tags**: [local-storage](../tagged/local-storage.md), [client](../tagged/client.md), [browser](../tagged/browser.md), [caching](../tagged/caching.md), [cacheapi](../tagged/cacheapi.md), [indexeddb](../tagged/indexeddb.md)
+---
+#### [pamelafox/lscache home page](https://github.com/pamelafox/lscache)
+_<sup>https://github.com/pamelafox/lscache</sup>_
+
+A localStorage-based memcache-inspired client-side caching library.
+* **tags**: [local-storage](../tagged/local-storage.md), [caching](../tagged/caching.md)
+* :octocat: **[source code](https://github.com/pamelafox/lscache)**
 ---
 #### [There is no simple solution for local storage - Mozilla Hacks](https://hacks.mozilla.org/2012/03/there-is-no-simple-solution-for-local-storage/)
 _<sup>https://hacks.mozilla.org/2012/03/there-is-no-simple-solution-for-local-storage/</sup>_

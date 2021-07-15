@@ -1,6 +1,16 @@
-## Bookmarks tagged [[http-client]](https://www.bookmarks.dev/search?q=[http-client])
+## Bookmarks tagged [[http-client]](https://www.codever.land/search?q=[http-client])
 
-_<sup><sup>[www.bookmarks.dev/tagged/http-client](https://www.bookmarks.dev/tagged/http-client)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/http-client](www.codever.land/bookmarks/t/http-client)</sup></sup>_
+---
+#### [Caching with RxJs Observables in Angular](https://www.syntaxsuccess.com/viewarticle/caching-with-rxjs-observables-in-angular-2.0)
+_<sup>https://www.syntaxsuccess.com/viewarticle/caching-with-rxjs-observables-in-angular-2.0</sup>_
+
+Simple caching with observables and `publishReplay(1)` and `refCount`
+
+
+* :calendar: **published on**: 2016-04-23
+* **tags**: [angular](../tagged/angular.md), [caching](../tagged/caching.md), [rxjs](../tagged/rxjs.md), [observable](../tagged/observable.md), [http-client](../tagged/http-client.md)
+* :octocat: **[source code](https://github.com/thelgevold/angular-2-samples/tree/master/src/apps/shared-components/rxjs-caching)**
 ---
 #### [Angular HTTP Client - QuickStart Guide](https://blog.angular-university.io/angular-http/)
 _<sup>https://blog.angular-university.io/angular-http/</sup>_

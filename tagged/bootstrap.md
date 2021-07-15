@@ -1,6 +1,6 @@
-## Bookmarks tagged [[bootstrap]](https://www.bookmarks.dev/search?q=[bootstrap])
+## Bookmarks tagged [[bootstrap]](https://www.codever.land/search?q=[bootstrap])
 
-_<sup><sup>[www.bookmarks.dev/tagged/bootstrap](https://www.bookmarks.dev/tagged/bootstrap)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/bootstrap](www.codever.land/bookmarks/t/bootstrap)</sup></sup>_
 ---
 #### [Simple Sidebar - Bootstrap Sidebar Template](https://startbootstrap.com/templates/simple-sidebar/)
 _<sup>https://startbootstrap.com/templates/simple-sidebar/</sup>_

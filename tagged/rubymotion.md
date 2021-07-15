@@ -1,6 +1,6 @@
-## Bookmarks tagged [[rubymotion]](https://www.bookmarks.dev/search?q=[rubymotion])
+## Bookmarks tagged [[rubymotion]](https://www.codever.land/search?q=[rubymotion])
 
-_<sup><sup>[www.bookmarks.dev/tagged/rubymotion](https://www.bookmarks.dev/tagged/rubymotion)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/rubymotion](www.codever.land/bookmarks/t/rubymotion)</sup></sup>_
 ---
 #### [awesome-rubymotion](https://github.com/motion-open-source/awesome-rubymotion#readme)
 _<sup>https://github.com/motion-open-source/awesome-rubymotion#readme</sup>_

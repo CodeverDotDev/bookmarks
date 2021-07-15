@@ -1,6 +1,6 @@
-## Bookmarks tagged [[babeljs]](https://www.bookmarks.dev/search?q=[babeljs])
+## Bookmarks tagged [[babeljs]](https://www.codever.land/search?q=[babeljs])
 
-_<sup><sup>[www.bookmarks.dev/tagged/babeljs](https://www.bookmarks.dev/tagged/babeljs)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/babeljs](www.codever.land/bookmarks/t/babeljs)</sup></sup>_
 ---
 #### [Babel Videos](https://babeljs.io/videos.html)
 _<sup>https://babeljs.io/videos.html</sup>_

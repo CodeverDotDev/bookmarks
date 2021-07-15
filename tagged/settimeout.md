@@ -1,6 +1,6 @@
-## Bookmarks tagged [[settimeout]](https://www.bookmarks.dev/search?q=[settimeout])
+## Bookmarks tagged [[settimeout]](https://www.codever.land/search?q=[settimeout])
 
-_<sup><sup>[www.bookmarks.dev/tagged/settimeout](https://www.bookmarks.dev/tagged/settimeout)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/settimeout](www.codever.land/bookmarks/t/settimeout)</sup></sup>_
 ---
 #### [JavaScript Timers - 11min](https://www.youtube.com/watch?v=YmaFAKUFmp0)
 _<sup>https://www.youtube.com/watch?v=YmaFAKUFmp0</sup>_

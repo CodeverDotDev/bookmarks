@@ -1,6 +1,6 @@
-## Bookmarks tagged [[backend]](https://www.bookmarks.dev/search?q=[backend])
+## Bookmarks tagged [[backend]](https://www.codever.land/search?q=[backend])
 
-_<sup><sup>[www.bookmarks.dev/tagged/backend](https://www.bookmarks.dev/tagged/backend)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/backend](www.codever.land/bookmarks/t/backend)</sup></sup>_
 ---
 #### [fpereiro/backendlore: How I write backends](https://github.com/fpereiro/backendlore)
 _<sup>https://github.com/fpereiro/backendlore</sup>_

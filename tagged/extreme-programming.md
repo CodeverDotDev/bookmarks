@@ -1,6 +1,6 @@
-## Bookmarks tagged [[extreme-programming]](https://www.bookmarks.dev/search?q=[extreme-programming])
+## Bookmarks tagged [[extreme-programming]](https://www.codever.land/search?q=[extreme-programming])
 
-_<sup><sup>[www.bookmarks.dev/tagged/extreme-programming](https://www.bookmarks.dev/tagged/extreme-programming)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/extreme-programming](www.codever.land/bookmarks/t/extreme-programming)</sup></sup>_
 ---
 #### [User Stories von DasScrumTeam](https://www.dasscrumteam.com/de/user-stories)
 _<sup>https://www.dasscrumteam.com/de/user-stories</sup>_

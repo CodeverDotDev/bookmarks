@@ -1,6 +1,6 @@
-## Bookmarks tagged [[launchpad]](https://www.bookmarks.dev/search?q=[launchpad])
+## Bookmarks tagged [[launchpad]](https://www.codever.land/search?q=[launchpad])
 
-_<sup><sup>[www.bookmarks.dev/tagged/launchpad](https://www.bookmarks.dev/tagged/launchpad)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/launchpad](www.codever.land/bookmarks/t/launchpad)</sup></sup>_
 ---
 #### [SAP Fiori Apps Reference Library](https://fioriappslibrary.hana.ondemand.com/sap/fix/externalViewer/)
 _<sup>https://fioriappslibrary.hana.ondemand.com/sap/fix/externalViewer/</sup>_

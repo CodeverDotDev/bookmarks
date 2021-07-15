@@ -1,6 +1,6 @@
-## Bookmarks tagged [[compression]](https://www.bookmarks.dev/search?q=[compression])
+## Bookmarks tagged [[compression]](https://www.codever.land/search?q=[compression])
 
-_<sup><sup>[www.bookmarks.dev/tagged/compression](https://www.bookmarks.dev/tagged/compression)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/compression](www.codever.land/bookmarks/t/compression)</sup></sup>_
 ---
 #### [Javascript Compressor - compress code online for free](https://javascriptcompressor.com/)
 _<sup>https://javascriptcompressor.com/</sup>_

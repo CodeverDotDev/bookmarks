@@ -1,6 +1,12 @@
-## Bookmarks tagged [[saas]](https://www.bookmarks.dev/search?q=[saas])
+## Bookmarks tagged [[saas]](https://www.codever.land/search?q=[saas])
 
-_<sup><sup>[www.bookmarks.dev/tagged/saas](https://www.bookmarks.dev/tagged/saas)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/saas](www.codever.land/bookmarks/t/saas)</sup></sup>_
+---
+#### [Dev Bookmarks](https://www.bookmarks.dev/howto/bookmarklets)
+_<sup>https://www.bookmarks.dev/howto/bookmarklets</sup>_
+
+Open source Bookmarks and Code Snippets Manager for Developers & Co. Easy bookmarking with bookmarklets, browser extensions and IDE plugins. Quick retrieval of dev bookmarks with custom and rapid sear...
+* **tags**: [.net](../tagged/.net.md), [saas](../tagged/saas.md)
 ---
 #### [Runscope](https://www.runscope.com/)
 _<sup>https://www.runscope.com/</sup>_

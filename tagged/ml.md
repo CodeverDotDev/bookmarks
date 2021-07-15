@@ -1,6 +1,6 @@
-## Bookmarks tagged [[ml]](https://www.bookmarks.dev/search?q=[ml])
+## Bookmarks tagged [[ml]](https://www.codever.land/search?q=[ml])
 
-_<sup><sup>[www.bookmarks.dev/tagged/ml](https://www.bookmarks.dev/tagged/ml)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/ml](www.codever.land/bookmarks/t/ml)</sup></sup>_
 ---
 #### [ATSプログラミング入門](http://jats-ug.metasepi.org/doc/ATS2/INT2PROGINATS/index.html)
 _<sup>http://jats-ug.metasepi.org/doc/ATS2/INT2PROGINATS/index.html</sup>_

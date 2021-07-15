@@ -1,6 +1,6 @@
-## Bookmarks tagged [[nvarchar]](https://www.bookmarks.dev/search?q=[nvarchar])
+## Bookmarks tagged [[nvarchar]](https://www.codever.land/search?q=[nvarchar])
 
-_<sup><sup>[www.bookmarks.dev/tagged/nvarchar](https://www.bookmarks.dev/tagged/nvarchar)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/nvarchar](www.codever.land/bookmarks/t/nvarchar)</sup></sup>_
 ---
 #### [sql server - What is the difference between varchar and nvarchar? - Stack Overflow](http://stackoverflow.com/questions/144283/what-is-the-difference-between-varchar-and-nvarchar)
 _<sup>http://stackoverflow.com/questions/144283/what-is-the-difference-between-varchar-and-nvarchar</sup>_

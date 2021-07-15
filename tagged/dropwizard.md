@@ -1,6 +1,6 @@
-## Bookmarks tagged [[dropwizard]](https://www.bookmarks.dev/search?q=[dropwizard])
+## Bookmarks tagged [[dropwizard]](https://www.codever.land/search?q=[dropwizard])
 
-_<sup><sup>[www.bookmarks.dev/tagged/dropwizard](https://www.bookmarks.dev/tagged/dropwizard)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/dropwizard](www.codever.land/bookmarks/t/dropwizard)</sup></sup>_
 ---
 #### [awesome-GitHub - stve/](https://github.com/stve/awesome-dropwizard#readme)
 _<sup>https://github.com/stve/awesome-dropwizard#readme</sup>_

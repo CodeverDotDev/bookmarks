@@ -1,6 +1,6 @@
-## Bookmarks tagged [[fonts]](https://www.bookmarks.dev/search?q=[fonts])
+## Bookmarks tagged [[fonts]](https://www.codever.land/search?q=[fonts])
 
-_<sup><sup>[www.bookmarks.dev/tagged/fonts](https://www.bookmarks.dev/tagged/fonts)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/fonts](www.codever.land/bookmarks/t/fonts)</sup></sup>_
 ---
 #### [GitHub - chalk/chalk: 🖍 Terminal string styling done right](https://github.com/chalk/chalk#readme)
 _<sup>https://github.com/chalk/chalk#readme</sup>_

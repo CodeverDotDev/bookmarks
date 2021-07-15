@@ -1,6 +1,6 @@
-## Bookmarks tagged [[dojo]](https://www.bookmarks.dev/search?q=[dojo])
+## Bookmarks tagged [[dojo]](https://www.codever.land/search?q=[dojo])
 
-_<sup><sup>[www.bookmarks.dev/tagged/dojo](https://www.bookmarks.dev/tagged/dojo)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/dojo](www.codever.land/bookmarks/t/dojo)</sup></sup>_
 ---
 #### [awesome-dojo](https://github.com/petk/awesome-dojo#readme)
 _<sup>https://github.com/petk/awesome-dojo#readme</sup>_

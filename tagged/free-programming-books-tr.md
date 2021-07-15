@@ -1,6 +1,6 @@
-## Bookmarks tagged [[free-programming-books-tr]](https://www.bookmarks.dev/search?q=[free-programming-books-tr])
+## Bookmarks tagged [[free-programming-books-tr]](https://www.codever.land/search?q=[free-programming-books-tr])
 
-_<sup><sup>[www.bookmarks.dev/tagged/free-programming-books-tr](https://www.bookmarks.dev/tagged/free-programming-books-tr)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/free-programming-books-tr](www.codever.land/bookmarks/t/free-programming-books-tr)</sup></sup>_
 ---
 #### [Swift Türkiye](http://www.swiftturkiye.org)
 _<sup>http://www.swiftturkiye.org</sup>_

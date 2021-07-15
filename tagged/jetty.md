@@ -1,6 +1,6 @@
-## Bookmarks tagged [[jetty]](https://www.bookmarks.dev/search?q=[jetty])
+## Bookmarks tagged [[jetty]](https://www.codever.land/search?q=[jetty])
 
-_<sup><sup>[www.bookmarks.dev/tagged/jetty](https://www.bookmarks.dev/tagged/jetty)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/jetty](www.codever.land/bookmarks/t/jetty)</sup></sup>_
 ---
 #### [Jetty - Servlet Engine and Http Server](http://www.eclipse.org/jetty/documentation/)
 _<sup>http://www.eclipse.org/jetty/documentation/</sup>_

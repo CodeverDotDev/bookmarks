@@ -1,6 +1,6 @@
-## Bookmarks tagged [[web-app]](https://www.bookmarks.dev/search?q=[web-app])
+## Bookmarks tagged [[web-app]](https://www.codever.land/search?q=[web-app])
 
-_<sup><sup>[www.bookmarks.dev/tagged/web-app](https://www.bookmarks.dev/tagged/web-app)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/web-app](www.codever.land/bookmarks/t/web-app)</sup></sup>_
 ---
 #### [GitHub - aFarkas/lazysizes](https://github.com/aFarkas/lazysizes)
 _<sup>https://github.com/aFarkas/lazysizes</sup>_

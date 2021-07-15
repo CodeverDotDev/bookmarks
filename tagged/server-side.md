@@ -1,6 +1,6 @@
-## Bookmarks tagged [[server-side]](https://www.bookmarks.dev/search?q=[server-side])
+## Bookmarks tagged [[server-side]](https://www.codever.land/search?q=[server-side])
 
-_<sup><sup>[www.bookmarks.dev/tagged/server-side](https://www.bookmarks.dev/tagged/server-side)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/server-side](www.codever.land/bookmarks/t/server-side)</sup></sup>_
 ---
 #### [Sapper  Home Page](https://sapper.svelte.dev/)
 _<sup>https://sapper.svelte.dev/</sup>_

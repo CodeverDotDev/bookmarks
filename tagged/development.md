@@ -1,6 +1,6 @@
-## Bookmarks tagged [[development]](https://www.bookmarks.dev/search?q=[development])
+## Bookmarks tagged [[development]](https://www.codever.land/search?q=[development])
 
-_<sup><sup>[www.bookmarks.dev/tagged/development](https://www.bookmarks.dev/tagged/development)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/development](www.codever.land/bookmarks/t/development)</sup></sup>_
 ---
 #### [Taimoor Sattar | tech articles and entrepreneur](https://taimoorsattar.dev)
 _<sup>https://taimoorsattar.dev</sup>_

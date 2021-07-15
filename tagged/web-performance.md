@@ -1,6 +1,6 @@
-## Bookmarks tagged [[web-performance]](https://www.bookmarks.dev/search?q=[web-performance])
+## Bookmarks tagged [[web-performance]](https://www.codever.land/search?q=[web-performance])
 
-_<sup><sup>[www.bookmarks.dev/tagged/web-performance](https://www.bookmarks.dev/tagged/web-performance)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/web-performance](www.codever.land/bookmarks/t/web-performance)</sup></sup>_
 ---
 #### [How To Configure Apache Content Caching on CentOS 7 | DigitalOceanDigitalOcean homeDigitalOcean Homepage](https://www.digitalocean.com/community/tutorials/how-to-configure-apache-content-caching-on-centos-7)
 _<sup>https://www.digitalocean.com/community/tutorials/how-to-configure-apache-content-caching-on-centos-7</sup>_

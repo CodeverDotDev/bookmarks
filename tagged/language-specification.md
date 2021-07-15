@@ -1,6 +1,6 @@
-## Bookmarks tagged [[language-specification]](https://www.bookmarks.dev/search?q=[language-specification])
+## Bookmarks tagged [[language-specification]](https://www.codever.land/search?q=[language-specification])
 
-_<sup><sup>[www.bookmarks.dev/tagged/language-specification](https://www.bookmarks.dev/tagged/language-specification)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/language-specification](www.codever.land/bookmarks/t/language-specification)</sup></sup>_
 ---
 #### [shnewto/bnf](https://github.com/shnewto/bnf)
 _<sup>https://github.com/shnewto/bnf</sup>_

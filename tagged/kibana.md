@@ -1,6 +1,6 @@
-## Bookmarks tagged [[kibana]](https://www.bookmarks.dev/search?q=[kibana])
+## Bookmarks tagged [[kibana]](https://www.codever.land/search?q=[kibana])
 
-_<sup><sup>[www.bookmarks.dev/tagged/kibana](https://www.bookmarks.dev/tagged/kibana)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/kibana](www.codever.land/bookmarks/t/kibana)</sup></sup>_
 ---
 #### [Elk Stack on a Docker image](https://elk-docker.readthedocs.io/#about)
 _<sup>https://elk-docker.readthedocs.io/#about</sup>_

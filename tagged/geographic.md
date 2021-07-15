@@ -1,6 +1,6 @@
-## Bookmarks tagged [[geographic]](https://www.bookmarks.dev/search?q=[geographic])
+## Bookmarks tagged [[geographic]](https://www.codever.land/search?q=[geographic])
 
-_<sup><sup>[www.bookmarks.dev/tagged/geographic](https://www.bookmarks.dev/tagged/geographic)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/geographic](www.codever.land/bookmarks/t/geographic)</sup></sup>_
 ---
 #### [geocache](https://github.com/melihmucuk/geocache)
 _<sup>https://github.com/melihmucuk/geocache</sup>_

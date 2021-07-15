@@ -1,6 +1,6 @@
-## Bookmarks tagged [[plotly-dash]](https://www.bookmarks.dev/search?q=[plotly-dash])
+## Bookmarks tagged [[plotly-dash]](https://www.codever.land/search?q=[plotly-dash])
 
-_<sup><sup>[www.bookmarks.dev/tagged/plotly-dash](https://www.bookmarks.dev/tagged/plotly-dash)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/plotly-dash](www.codever.land/bookmarks/t/plotly-dash)</sup></sup>_
 ---
 #### [awesome-dash](https://github.com/Acrotrend/awesome-dash#readme)
 _<sup>https://github.com/Acrotrend/awesome-dash#readme</sup>_

@@ -1,6 +1,6 @@
-## Bookmarks tagged [[clean-code]](https://www.bookmarks.dev/search?q=[clean-code])
+## Bookmarks tagged [[clean-code]](https://www.codever.land/search?q=[clean-code])
 
-_<sup><sup>[www.bookmarks.dev/tagged/clean-code](https://www.bookmarks.dev/tagged/clean-code)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/clean-code](www.codever.land/bookmarks/t/clean-code)</sup></sup>_
 ---
 #### [Clean Code Developer](https://clean-code-developer.de/)
 _<sup>https://clean-code-developer.de/</sup>_

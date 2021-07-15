@@ -1,6 +1,6 @@
-## Bookmarks tagged [[resiliency]](https://www.bookmarks.dev/search?q=[resiliency])
+## Bookmarks tagged [[resiliency]](https://www.codever.land/search?q=[resiliency])
 
-_<sup><sup>[www.bookmarks.dev/tagged/resiliency](https://www.bookmarks.dev/tagged/resiliency)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/resiliency](www.codever.land/bookmarks/t/resiliency)</sup></sup>_
 ---
 #### [GitHub - Netflix/chaosmonkey home page](https://github.com/Netflix/chaosmonkey)
 _<sup>https://github.com/Netflix/chaosmonkey</sup>_

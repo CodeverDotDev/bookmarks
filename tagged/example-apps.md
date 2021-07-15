@@ -1,6 +1,13 @@
-## Bookmarks tagged [[example-apps]](https://www.bookmarks.dev/search?q=[example-apps])
+## Bookmarks tagged [[example-apps]](https://www.codever.land/search?q=[example-apps])
 
-_<sup><sup>[www.bookmarks.dev/tagged/example-apps](https://www.bookmarks.dev/tagged/example-apps)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/example-apps](www.codever.land/bookmarks/t/example-apps)</sup></sup>_
+---
+#### [GitHub - dapbs/customer_service_bot: codeacademy customer_service_bot](https://github.com/dapbs/customer_service_bot)
+_<sup>https://github.com/dapbs/customer_service_bot</sup>_
+
+codeacademy customer_service_bot. Contribute to dapbs/customer_service_bot development by creating an account on GitHub.
+* **tags**: [learn-to-code](../tagged/learn-to-code.md), [jupyter](../tagged/jupyter.md), [python](../tagged/python.md), [code-snippets](../tagged/code-snippets.md), [example-apps](../tagged/example-apps.md)
+* :octocat: **[source code](https://github.com/dapbs/customer_service_bot)**
 ---
 #### [GitHub - spring-projects/spring-petclinic: A sample Spring-based application](https://github.com/spring-projects/spring-petclinic)
 _<sup>https://github.com/spring-projects/spring-petclinic</sup>_

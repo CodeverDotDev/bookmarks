@@ -1,6 +1,6 @@
-## Bookmarks tagged [[tla]](https://www.bookmarks.dev/search?q=[tla])
+## Bookmarks tagged [[tla]](https://www.codever.land/search?q=[tla])
 
-_<sup><sup>[www.bookmarks.dev/tagged/tla](https://www.bookmarks.dev/tagged/tla)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/tla](www.codever.land/bookmarks/t/tla)</sup></sup>_
 ---
 #### [Specifying Systems: The TLA+ Language and Tools for Hardware and Software Engineers](http://research.microsoft.com/en-us/um/people/lamport/tla/book.html)
 _<sup>http://research.microsoft.com/en-us/um/people/lamport/tla/book.html</sup>_

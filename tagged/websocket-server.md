@@ -1,6 +1,6 @@
-## Bookmarks tagged [[websocket-server]](https://www.bookmarks.dev/search?q=[websocket-server])
+## Bookmarks tagged [[websocket-server]](https://www.codever.land/search?q=[websocket-server])
 
-_<sup><sup>[www.bookmarks.dev/tagged/websocket-server](https://www.bookmarks.dev/tagged/websocket-server)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/websocket-server](www.codever.land/bookmarks/t/websocket-server)</sup></sup>_
 ---
 #### [Using WebSockets with Node.js](https://flaviocopes.com/node-websockets/)
 _<sup>https://flaviocopes.com/node-websockets/</sup>_

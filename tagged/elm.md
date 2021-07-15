@@ -1,6 +1,13 @@
-## Bookmarks tagged [[elm]](https://www.bookmarks.dev/search?q=[elm])
+## Bookmarks tagged [[elm]](https://www.codever.land/search?q=[elm])
 
-_<sup><sup>[www.bookmarks.dev/tagged/elm](https://www.bookmarks.dev/tagged/elm)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/elm](www.codever.land/bookmarks/t/elm)</sup></sup>_
+---
+#### [Some problems with React/Redux](https://staltz.com/some-problems-with-react-redux.html)
+_<sup>https://staltz.com/some-problems-with-react-redux.html</sup>_
+
+Some pain points about using React and Redux
+* :calendar: **published on**: 2016-01-26
+* **tags**: [react](../tagged/react.md), [redux](../tagged/redux.md), [cyclejs](../tagged/cyclejs.md), [elm](../tagged/elm.md)
 ---
 #### [An Introduction to Elm](https://guide.elm-lang.org/)
 _<sup>https://guide.elm-lang.org/</sup>_

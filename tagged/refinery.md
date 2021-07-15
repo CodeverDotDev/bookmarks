@@ -1,6 +1,6 @@
-## Bookmarks tagged [[refinery]](https://www.bookmarks.dev/search?q=[refinery])
+## Bookmarks tagged [[refinery]](https://www.codever.land/search?q=[refinery])
 
-_<sup><sup>[www.bookmarks.dev/tagged/refinery](https://www.bookmarks.dev/tagged/refinery)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/refinery](www.codever.land/bookmarks/t/refinery)</sup></sup>_
 ---
 #### [awesome-refinerycms](https://github.com/refinerycms-contrib/awesome-refinerycms#readme)
 _<sup>https://github.com/refinerycms-contrib/awesome-refinerycms#readme</sup>_

@@ -1,6 +1,6 @@
-## Bookmarks tagged [[sitemap]](https://www.bookmarks.dev/search?q=[sitemap])
+## Bookmarks tagged [[sitemap]](https://www.codever.land/search?q=[sitemap])
 
-_<sup><sup>[www.bookmarks.dev/tagged/sitemap](https://www.bookmarks.dev/tagged/sitemap)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/sitemap](www.codever.land/bookmarks/t/sitemap)</sup></sup>_
 ---
 #### [sitemaps.org - Home](https://www.sitemaps.org/index.html)
 _<sup>https://www.sitemaps.org/index.html</sup>_

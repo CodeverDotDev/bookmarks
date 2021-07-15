@@ -1,6 +1,6 @@
-## Bookmarks tagged [[application-development]](https://www.bookmarks.dev/search?q=[application-development])
+## Bookmarks tagged [[application-development]](https://www.codever.land/search?q=[application-development])
 
-_<sup><sup>[www.bookmarks.dev/tagged/application-development](https://www.bookmarks.dev/tagged/application-development)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/application-development](www.codever.land/bookmarks/t/application-development)</sup></sup>_
 ---
 #### [Mobile application development - Mobisoft Infotech](https://mobisoftinfotech.com/services/mobile-application-development-company)
 _<sup>https://mobisoftinfotech.com/services/mobile-application-development-company</sup>_

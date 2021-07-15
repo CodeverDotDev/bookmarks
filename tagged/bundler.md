@@ -1,6 +1,13 @@
-## Bookmarks tagged [[bundler]](https://www.bookmarks.dev/search?q=[bundler])
+## Bookmarks tagged [[bundler]](https://www.codever.land/search?q=[bundler])
 
-_<sup><sup>[www.bookmarks.dev/tagged/bundler](https://www.bookmarks.dev/tagged/bundler)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/bundler](www.codever.land/bookmarks/t/bundler)</sup></sup>_
+---
+#### [rollup.js home page](https://rollupjs.org/guide/en/)
+_<sup>https://rollupjs.org/guide/en/</sup>_
+
+Rollup is a module bundler for JavaScript which compiles small pieces of code into something larger and more complex, such as a library or application. It uses the new standardized format for code mod...
+* **tags**: [javascript](../tagged/javascript.md), [bundler](../tagged/bundler.md)
+* :octocat: **[source code](https://github.com/rollup/rollup)**
 ---
 #### [A code, bundle, pack workflow for webextension projects - DEV Community 👩‍💻👨‍💻](https://dev.to/ramitmittal/a-code-bundle-pack-workflow-for-webextension-projects-4nhe)
 _<sup>https://dev.to/ramitmittal/a-code-bundle-pack-workflow-for-webextension-projects-4nhe</sup>_
@@ -13,7 +20,7 @@ Till now we have been working with a bare-minimum setup for building webextensio
 _<sup>https://parceljs.org/</sup>_
 
 Blazing fast, zero configuration web application bundler
-* **tags**: [web-application](../tagged/web-application.md), [bundler](../tagged/bundler.md)
+* **tags**: [web-application](../tagged/web-application.md), [bundler](../tagged/bundler.md), [javascript](../tagged/javascript.md)
 * :octocat: **[source code](https://github.com/parcel-bundler/parcel)**
 ---
 #### [browserify](https://github.com/substack/node-browserify)

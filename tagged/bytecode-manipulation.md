@@ -1,6 +1,6 @@
-## Bookmarks tagged [[bytecode-manipulation]](https://www.bookmarks.dev/search?q=[bytecode-manipulation])
+## Bookmarks tagged [[bytecode-manipulation]](https://www.codever.land/search?q=[bytecode-manipulation])
 
-_<sup><sup>[www.bookmarks.dev/tagged/bytecode-manipulation](https://www.bookmarks.dev/tagged/bytecode-manipulation)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/bytecode-manipulation](www.codever.land/bookmarks/t/bytecode-manipulation)</sup></sup>_
 ---
 #### [ASM](http://asm.ow2.org)
 _<sup>http://asm.ow2.org</sup>_

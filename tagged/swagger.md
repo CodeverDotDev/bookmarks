@@ -1,6 +1,6 @@
-## Bookmarks tagged [[swagger]](https://www.bookmarks.dev/search?q=[swagger])
+## Bookmarks tagged [[swagger]](https://www.codever.land/search?q=[swagger])
 
-_<sup><sup>[www.bookmarks.dev/tagged/swagger](https://www.bookmarks.dev/tagged/swagger)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/swagger](www.codever.land/bookmarks/t/swagger)</sup></sup>_
 ---
 #### [Surnet/swagger-jsdoc: Generates swagger doc based on JSDoc.](https://github.com/Surnet/swagger-jsdoc)
 _<sup>https://github.com/Surnet/swagger-jsdoc</sup>_

@@ -1,6 +1,6 @@
-## Bookmarks tagged [[native]](https://www.bookmarks.dev/search?q=[native])
+## Bookmarks tagged [[native]](https://www.codever.land/search?q=[native])
 
-_<sup><sup>[www.bookmarks.dev/tagged/native](https://www.bookmarks.dev/tagged/native)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/native](www.codever.land/bookmarks/t/native)</sup></sup>_
 ---
 #### [OAuth 2 Simplified](https://aaronparecki.com/oauth-2-simplified/)
 _<sup>https://aaronparecki.com/oauth-2-simplified/</sup>_

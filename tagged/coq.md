@@ -1,6 +1,6 @@
-## Bookmarks tagged [[coq]](https://www.bookmarks.dev/search?q=[coq])
+## Bookmarks tagged [[coq]](https://www.codever.land/search?q=[coq])
 
-_<sup><sup>[www.bookmarks.dev/tagged/coq](https://www.bookmarks.dev/tagged/coq)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/coq](www.codever.land/bookmarks/t/coq)</sup></sup>_
 ---
 #### [zeimer.github.io (Programowanie Funkcyjne)](https://zeimer.github.io)
 _<sup>https://zeimer.github.io</sup>_

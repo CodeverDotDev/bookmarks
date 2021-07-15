@@ -1,6 +1,6 @@
-## Bookmarks tagged [[alexa]](https://www.bookmarks.dev/search?q=[alexa])
+## Bookmarks tagged [[alexa]](https://www.codever.land/search?q=[alexa])
 
-_<sup><sup>[www.bookmarks.dev/tagged/alexa](https://www.bookmarks.dev/tagged/alexa)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/alexa](www.codever.land/bookmarks/t/alexa)</sup></sup>_
 ---
 #### [awesome-amazon-alexa](https://github.com/miguelmota/awesome-amazon-alexa#readme)
 _<sup>https://github.com/miguelmota/awesome-amazon-alexa#readme</sup>_

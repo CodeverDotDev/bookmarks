@@ -1,6 +1,6 @@
-## Bookmarks tagged [[spy]](https://www.bookmarks.dev/search?q=[spy])
+## Bookmarks tagged [[spy]](https://www.codever.land/search?q=[spy])
 
-_<sup><sup>[www.bookmarks.dev/tagged/spy](https://www.bookmarks.dev/tagged/spy)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/spy](www.codever.land/bookmarks/t/spy)</sup></sup>_
 ---
 #### [The little mocker](https://blog.cleancoder.com/uncle-bob/2014/05/14/TheLittleMocker.html)
 _<sup>https://blog.cleancoder.com/uncle-bob/2014/05/14/TheLittleMocker.html</sup>_

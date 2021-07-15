@@ -1,6 +1,19 @@
-## Bookmarks tagged [[jekyll]](https://www.bookmarks.dev/search?q=[jekyll])
+## Bookmarks tagged [[jekyll]](https://www.codever.land/search?q=[jekyll])
 
-_<sup><sup>[www.bookmarks.dev/tagged/jekyll](https://www.bookmarks.dev/tagged/jekyll)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/jekyll](www.codever.land/bookmarks/t/jekyll)</sup></sup>_
+---
+#### [Can I email… All HTML and CSS features on Can I email…](https://www.caniemail.com/features/)
+_<sup>https://www.caniemail.com/features/</sup>_
+
+> All HTML and CSS features on Can I email…
+
+ Can I email…
+
+[caniemail.com](https://www.caniemail.com) provides email clients support tables for HTML and CSS features.
+
+_Can I email_ runs on [Jekyll...
+* **tags**: [css](../tagged/css.md), [html](../tagged/html.md), [webdesign](../tagged/webdesign.md), [email](../tagged/email.md), [android](../tagged/android.md), [ios](../tagged/ios.md), [jekyll](../tagged/jekyll.md), [github](../tagged/github.md)
+* :octocat: **[source code](https://github.com/HTeuMeuLeu/caniemail)**
 ---
 #### [How to insert and highlight code in Jekyll blog post on Codepedia.org – CodepediaOrg](https://www.codepedia.org/ama/how-to-insert-and-highlight-code-in-jekyll-blog-post-on-codingpedia-org)
 _<sup>https://www.codepedia.org/ama/how-to-insert-and-highlight-code-in-jekyll-blog-post-on-codingpedia-or...</sup>_

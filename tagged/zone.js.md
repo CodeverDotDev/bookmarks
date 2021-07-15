@@ -1,6 +1,6 @@
-## Bookmarks tagged [[zone.js]](https://www.bookmarks.dev/search?q=[zone.js])
+## Bookmarks tagged [[zone.js]](https://www.codever.land/search?q=[zone.js])
 
-_<sup><sup>[www.bookmarks.dev/tagged/zone.js](https://www.bookmarks.dev/tagged/zone.js)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/zone.js](www.codever.land/bookmarks/t/zone.js)</sup></sup>_
 ---
 #### [Brian Ford - Zones - NG-Conf 2014 - 16min](https://www.youtube.com/watch?v=3IqtmUscE_U)
 _<sup>https://www.youtube.com/watch?v=3IqtmUscE_U</sup>_

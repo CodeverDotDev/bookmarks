@@ -1,6 +1,6 @@
-## Bookmarks tagged [[mapping]](https://www.bookmarks.dev/search?q=[mapping])
+## Bookmarks tagged [[mapping]](https://www.codever.land/search?q=[mapping])
 
-_<sup><sup>[www.bookmarks.dev/tagged/mapping](https://www.bookmarks.dev/tagged/mapping)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/mapping](www.codever.land/bookmarks/t/mapping)</sup></sup>_
 ---
 #### [MapStruct – Java bean mappings, the easy way!](http://mapstruct.org/)
 _<sup>http://mapstruct.org/</sup>_

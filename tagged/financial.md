@@ -1,6 +1,6 @@
-## Bookmarks tagged [[financial]](https://www.bookmarks.dev/search?q=[financial])
+## Bookmarks tagged [[financial]](https://www.codever.land/search?q=[financial])
 
-_<sup><sup>[www.bookmarks.dev/tagged/financial](https://www.bookmarks.dev/tagged/financial)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/financial](www.codever.land/bookmarks/t/financial)</sup></sup>_
 ---
 #### [accounting](https://github.com/leekchan/accounting)
 _<sup>https://github.com/leekchan/accounting</sup>_

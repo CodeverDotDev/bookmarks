@@ -1,6 +1,6 @@
-## Bookmarks tagged [[tizen]](https://www.bookmarks.dev/search?q=[tizen])
+## Bookmarks tagged [[tizen]](https://www.codever.land/search?q=[tizen])
 
-_<sup><sup>[www.bookmarks.dev/tagged/tizen](https://www.bookmarks.dev/tagged/tizen)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/tizen](www.codever.land/bookmarks/t/tizen)</sup></sup>_
 ---
 #### [Tizen for Dummies](https://developer.tizen.org/sites/default/files/blogs/tizenfordummiesmainchangelist.pdf)
 _<sup>https://developer.tizen.org/sites/default/files/blogs/tizenfordummiesmainchangelist.pdf</sup>_

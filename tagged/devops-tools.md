@@ -1,6 +1,34 @@
-## Bookmarks tagged [[devops-tools]](https://www.bookmarks.dev/search?q=[devops-tools])
+## Bookmarks tagged [[devops-tools]](https://www.codever.land/search?q=[devops-tools])
 
-_<sup><sup>[www.bookmarks.dev/tagged/devops-tools](https://www.bookmarks.dev/tagged/devops-tools)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/devops-tools](www.codever.land/bookmarks/t/devops-tools)</sup></sup>_
+---
+#### [GitHub - Atomicorp/ossec-docker: Official OSSEC docker container](https://github.com/Atomicorp/ossec-docker)
+_<sup>https://github.com/Atomicorp/ossec-docker</sup>_
+
+Official OSSEC docker container. Contribute to Atomicorp/ossec-docker development by creating an account on GitHub.
+* **tags**: [docker](../tagged/docker.md), [security-tools](../tagged/security-tools.md), [monitoring](../tagged/monitoring.md), [ossec](../tagged/ossec.md), [log-analyzer](../tagged/log-analyzer.md), [devops-tools](../tagged/devops-tools.md), [server-application](../tagged/server-application.md)
+* :octocat: **[source code](https://github.com/Atomicorp/ossec-docker)**
+---
+#### [mkdocstrings/mkdocstrings: Automatic documentation from sources, for MkDocs.](https://github.com/mkdocstrings/mkdocstrings)
+_<sup>https://github.com/mkdocstrings/mkdocstrings</sup>_
+
+Automatic documentation from sources, for MkDocs.
+* **tags**: [mkdocs](../tagged/mkdocs.md), [python](../tagged/python.md), [doc-tools](../tagged/doc-tools.md), [devops-tools](../tagged/devops-tools.md)
+* :octocat: **[source code](https://github.com/mkdocstrings/mkdocstrings)**
+---
+#### [GitHub - Atomicorp/openvas-docker: A docker container for openvas](https://github.com/Atomicorp/openvas-docker)
+_<sup>https://github.com/Atomicorp/openvas-docker</sup>_
+
+A docker container for openvas. Contribute to Atomicorp/openvas-docker development by creating an account on GitHub.
+* **tags**: [security-tools](../tagged/security-tools.md), [monitoring](../tagged/monitoring.md), [devops-tools](../tagged/devops-tools.md), [openvas](../tagged/openvas.md), [docker](../tagged/docker.md)
+* :octocat: **[source code](https://github.com/Atomicorp/openvas-docker)**
+---
+#### [GitHub - Atomicorp/gvm: Greenbone Vulnerability Manager / Openvas packaging project](https://github.com/Atomicorp/gvm)
+_<sup>https://github.com/Atomicorp/gvm</sup>_
+
+Greenbone Vulnerability Manager / Openvas packaging project - Atomicorp/gvm
+* **tags**: [security-tools](../tagged/security-tools.md), [openvas](../tagged/openvas.md), [monitoring](../tagged/monitoring.md), [devops-tools](../tagged/devops-tools.md)
+* :octocat: **[source code](https://github.com/Atomicorp/gvm)**
 ---
 #### [Deploying Kubernetes with Ansible and Terraform](http://solinea.com/blog/deploying-kubernetes-ansible-terraform)
 _<sup>http://solinea.com/blog/deploying-kubernetes-ansible-terraform</sup>_

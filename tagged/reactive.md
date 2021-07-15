@@ -1,6 +1,6 @@
-## Bookmarks tagged [[reactive]](https://www.bookmarks.dev/search?q=[reactive])
+## Bookmarks tagged [[reactive]](https://www.codever.land/search?q=[reactive])
 
-_<sup><sup>[www.bookmarks.dev/tagged/reactive](https://www.bookmarks.dev/tagged/reactive)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/reactive](www.codever.land/bookmarks/t/reactive)</sup></sup>_
 ---
 #### [Akka](https://akka.io)
 _<sup>https://akka.io</sup>_

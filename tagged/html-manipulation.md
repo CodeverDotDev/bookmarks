@@ -1,6 +1,6 @@
-## Bookmarks tagged [[html-manipulation]](https://www.bookmarks.dev/search?q=[html-manipulation])
+## Bookmarks tagged [[html-manipulation]](https://www.codever.land/search?q=[html-manipulation])
 
-_<sup><sup>[www.bookmarks.dev/tagged/html-manipulation](https://www.bookmarks.dev/tagged/html-manipulation)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/html-manipulation](www.codever.land/bookmarks/t/html-manipulation)</sup></sup>_
 ---
 #### [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 _<sup>https://www.crummy.com/software/BeautifulSoup/bs4/doc/</sup>_

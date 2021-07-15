@@ -1,6 +1,6 @@
-## Bookmarks tagged [[git-tag]](https://www.bookmarks.dev/search?q=[git-tag])
+## Bookmarks tagged [[git-tag]](https://www.codever.land/search?q=[git-tag])
 
-_<sup><sup>[www.bookmarks.dev/tagged/git-tag](https://www.bookmarks.dev/tagged/git-tag)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/git-tag](www.codever.land/bookmarks/t/git-tag)</sup></sup>_
 ---
 #### [Sort Git Tags by Ascending and Descending Semver](https://andy-carter.com/blog/sort-git-tags-by-ascending-and-descending-semver)
 _<sup>https://andy-carter.com/blog/sort-git-tags-by-ascending-and-descending-semver</sup>_

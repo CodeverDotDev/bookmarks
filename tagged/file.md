@@ -1,6 +1,6 @@
-## Bookmarks tagged [[file]](https://www.bookmarks.dev/search?q=[file])
+## Bookmarks tagged [[file]](https://www.codever.land/search?q=[file])
 
-_<sup><sup>[www.bookmarks.dev/tagged/file](https://www.bookmarks.dev/tagged/file)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/file](www.codever.land/bookmarks/t/file)</sup></sup>_
 ---
 #### [Hat.sh | A Free, Fast, Secure client side File Encryption.](https://hat.sh/)
 _<sup>https://hat.sh/</sup>_

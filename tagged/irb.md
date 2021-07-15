@@ -1,6 +1,6 @@
-## Bookmarks tagged [[irb]](https://www.bookmarks.dev/search?q=[irb])
+## Bookmarks tagged [[irb]](https://www.codever.land/search?q=[irb])
 
-_<sup><sup>[www.bookmarks.dev/tagged/irb](https://www.bookmarks.dev/tagged/irb)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/irb](www.codever.land/bookmarks/t/irb)</sup></sup>_
 ---
 #### [Clipboard](https://github.com/janlelis/clipboard)
 _<sup>https://github.com/janlelis/clipboard</sup>_

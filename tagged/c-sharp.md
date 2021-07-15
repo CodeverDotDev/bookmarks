@@ -1,6 +1,6 @@
-## Bookmarks tagged [[c-sharp]](https://www.bookmarks.dev/search?q=[c-sharp])
+## Bookmarks tagged [[c-sharp]](https://www.codever.land/search?q=[c-sharp])
 
-_<sup><sup>[www.bookmarks.dev/tagged/c-sharp](https://www.bookmarks.dev/tagged/c-sharp)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/c-sharp](www.codever.land/bookmarks/t/c-sharp)</sup></sup>_
 ---
 #### [Why do interface names begin with “I” – Brad Abrams ](https://blogs.msdn.microsoft.com/brada/2004/02/03/why-do-interface-names-begin-with-i/)
 _<sup>https://blogs.msdn.microsoft.com/brada/2004/02/03/why-do-interface-names-begin-with-i/</sup>_

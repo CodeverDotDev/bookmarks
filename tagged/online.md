@@ -1,6 +1,6 @@
-## Bookmarks tagged [[online]](https://www.bookmarks.dev/search?q=[online])
+## Bookmarks tagged [[online]](https://www.codever.land/search?q=[online])
 
-_<sup><sup>[www.bookmarks.dev/tagged/online](https://www.bookmarks.dev/tagged/online)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/online](www.codever.land/bookmarks/t/online)</sup></sup>_
 ---
 #### [Online Web service testing tool](https://extendsclass.com/web-service-tester.html)
 _<sup>https://extendsclass.com/web-service-tester.html</sup>_

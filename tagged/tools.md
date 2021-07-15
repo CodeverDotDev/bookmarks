@@ -1,6 +1,33 @@
-## Bookmarks tagged [[tools]](https://www.bookmarks.dev/search?q=[tools])
+## Bookmarks tagged [[tools]](https://www.codever.land/search?q=[tools])
 
-_<sup><sup>[www.bookmarks.dev/tagged/tools](https://www.bookmarks.dev/tagged/tools)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/tools](www.codever.land/bookmarks/t/tools)</sup></sup>_
+---
+#### [Slidev home page](https://sli.dev/)
+_<sup>https://sli.dev/</sup>_
+
+Presentation slides for developers.
+* **tags**: [tools](../tagged/tools.md), [slides](../tagged/slides.md), [presentation](../tagged/presentation.md)
+* :octocat: **[source code](https://github.com/slidevjs/slidev)**
+---
+#### [ScreenToGif home page](https://www.screentogif.com/)
+_<sup>https://www.screentogif.com/</sup>_
+
+Free screen recorder tool. Record, edit and save as a gif or video.
+* **tags**: [gif](../tagged/gif.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/NickeManarin/ScreenToGif)**
+---
+#### [DNS Checker - DNS Check Propagation Tool](https://dnschecker.org/)
+_<sup>https://dnschecker.org/</sup>_
+
+CHECK DNS PROPAGATION
+* **tags**: [dns](../tagged/dns.md), [tools](../tagged/tools.md)
+---
+#### [GitHub - jsdom/jsdom](https://github.com/jsdom/jsdom)
+_<sup>https://github.com/jsdom/jsdom</sup>_
+
+jsdom is a pure-JavaScript implementation of many web standards, notably the WHATWG [DOM](https://dom.spec.whatwg.org/) and [HTML](https://html.spec.whatwg.org/multipage/) Standards, for use with Node...
+* **tags**: [web-scraping](../tagged/web-scraping.md), [tools](../tagged/tools.md), [dom](../tagged/dom.md), [node.js](../tagged/node.js.md), [javascript](../tagged/javascript.md)
+* :octocat: **[source code](https://github.com/jsdom/jsdom)**
 ---
 #### [Rich Results Test - Google Search Console](https://search.google.com/test/rich-results)
 _<sup>https://search.google.com/test/rich-results</sup>_

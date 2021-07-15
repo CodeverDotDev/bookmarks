@@ -1,6 +1,6 @@
-## Bookmarks tagged [[beginners]](https://www.bookmarks.dev/search?q=[beginners])
+## Bookmarks tagged [[beginners]](https://www.codever.land/search?q=[beginners])
 
-_<sup><sup>[www.bookmarks.dev/tagged/beginners](https://www.bookmarks.dev/tagged/beginners)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/beginners](www.codever.land/bookmarks/t/beginners)</sup></sup>_
 ---
 #### [A successful Git branching model » nvie.com](https://nvie.com/posts/a-successful-git-branching-model/)
 _<sup>https://nvie.com/posts/a-successful-git-branching-model/</sup>_

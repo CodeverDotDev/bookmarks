@@ -1,6 +1,6 @@
-## Bookmarks tagged [[selenium]](https://www.bookmarks.dev/search?q=[selenium])
+## Bookmarks tagged [[selenium]](https://www.codever.land/search?q=[selenium])
 
-_<sup><sup>[www.bookmarks.dev/tagged/selenium](https://www.bookmarks.dev/tagged/selenium)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/selenium](www.codever.land/bookmarks/t/selenium)</sup></sup>_
 ---
 #### [awesome-selenium](https://github.com/christian-bromann/awesome-selenium#readme)
 _<sup>https://github.com/christian-bromann/awesome-selenium#readme</sup>_

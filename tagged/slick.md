@@ -1,6 +1,6 @@
-## Bookmarks tagged [[slick]](https://www.bookmarks.dev/search?q=[slick])
+## Bookmarks tagged [[slick]](https://www.codever.land/search?q=[slick])
 
-_<sup><sup>[www.bookmarks.dev/tagged/slick](https://www.bookmarks.dev/tagged/slick)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/slick](www.codever.land/bookmarks/t/slick)</sup></sup>_
 ---
 #### [GitHub - ExaScience/slick: The Slick programming language is an s-expression surface syntax for Go.](https://github.com/ExaScience/slick)
 _<sup>https://github.com/ExaScience/slick</sup>_

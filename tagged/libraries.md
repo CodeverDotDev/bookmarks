@@ -1,6 +1,12 @@
-## Bookmarks tagged [[libraries]](https://www.bookmarks.dev/search?q=[libraries])
+## Bookmarks tagged [[libraries]](https://www.codever.land/search?q=[libraries])
 
-_<sup><sup>[www.bookmarks.dev/tagged/libraries](https://www.bookmarks.dev/tagged/libraries)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/libraries](www.codever.land/bookmarks/t/libraries)</sup></sup>_
+---
+#### [API VS bibliothèques : comprendre l'intérêt](https://tferdinand.net/api-vs-bibliotheques-comprendre-linteret/)
+_<sup>https://tferdinand.net/api-vs-bibliotheques-comprendre-linteret/</sup>_
+
+* :calendar: **published on**: 2021-06-21
+* **tags**: [api](../tagged/api.md), [libraries](../tagged/libraries.md)
 ---
 #### [Deno blockchain based module registry](https://nest.land/)
 _<sup>https://nest.land/</sup>_

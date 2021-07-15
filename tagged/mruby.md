@@ -1,6 +1,6 @@
-## Bookmarks tagged [[mruby]](https://www.bookmarks.dev/search?q=[mruby])
+## Bookmarks tagged [[mruby]](https://www.codever.land/search?q=[mruby])
 
-_<sup><sup>[www.bookmarks.dev/tagged/mruby](https://www.bookmarks.dev/tagged/mruby)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/mruby](www.codever.land/bookmarks/t/mruby)</sup></sup>_
 ---
 #### [anima-engine/mrusty](https://github.com/anima-engine/mrusty)
 _<sup>https://github.com/anima-engine/mrusty</sup>_

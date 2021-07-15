@@ -1,6 +1,6 @@
-## Bookmarks tagged [[computation]](https://www.bookmarks.dev/search?q=[computation])
+## Bookmarks tagged [[computation]](https://www.codever.land/search?q=[computation])
 
-_<sup><sup>[www.bookmarks.dev/tagged/computation](https://www.bookmarks.dev/tagged/computation)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/computation](www.codever.land/bookmarks/t/computation)</sup></sup>_
 ---
 #### [noshu/lbfgsb-sys](https://github.com/noshu/lbfgsb-sys)
 _<sup>https://github.com/noshu/lbfgsb-sys</sup>_

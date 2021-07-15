@@ -1,6 +1,6 @@
-## Bookmarks tagged [[code-quality-tools]](https://www.bookmarks.dev/search?q=[code-quality-tools])
+## Bookmarks tagged [[code-quality-tools]](https://www.codever.land/search?q=[code-quality-tools])
 
-_<sup><sup>[www.bookmarks.dev/tagged/code-quality-tools](https://www.bookmarks.dev/tagged/code-quality-tools)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/code-quality-tools](www.codever.land/bookmarks/t/code-quality-tools)</sup></sup>_
 ---
 #### [ESLint - Pluggable JavaScript linter](http://eslint.org/)
 _<sup>http://eslint.org/</sup>_

@@ -1,6 +1,6 @@
-## Bookmarks tagged [[generator]](https://www.bookmarks.dev/search?q=[generator])
+## Bookmarks tagged [[generator]](https://www.codever.land/search?q=[generator])
 
-_<sup><sup>[www.bookmarks.dev/tagged/generator](https://www.bookmarks.dev/tagged/generator)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/generator](www.codever.land/bookmarks/t/generator)</sup></sup>_
 ---
 #### [JSON Generator – tool for generating random JSON data](https://next.json-generator.com/)
 _<sup>https://next.json-generator.com/</sup>_

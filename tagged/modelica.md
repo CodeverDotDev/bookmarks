@@ -1,6 +1,6 @@
-## Bookmarks tagged [[modelica]](https://www.bookmarks.dev/search?q=[modelica])
+## Bookmarks tagged [[modelica]](https://www.codever.land/search?q=[modelica])
 
-_<sup><sup>[www.bookmarks.dev/tagged/modelica](https://www.bookmarks.dev/tagged/modelica)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/modelica](www.codever.land/bookmarks/t/modelica)</sup></sup>_
 ---
 #### [Modelica by Example](http://book.xogeny.com)
 _<sup>http://book.xogeny.com</sup>_

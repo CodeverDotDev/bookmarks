@@ -1,6 +1,6 @@
-## Bookmarks tagged [[rpc]](https://www.bookmarks.dev/search?q=[rpc])
+## Bookmarks tagged [[rpc]](https://www.codever.land/search?q=[rpc])
 
-_<sup><sup>[www.bookmarks.dev/tagged/rpc](https://www.bookmarks.dev/tagged/rpc)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/rpc](www.codever.land/bookmarks/t/rpc)</sup></sup>_
 ---
 #### [gRPC](http://grpc.io)
 _<sup>http://grpc.io</sup>_

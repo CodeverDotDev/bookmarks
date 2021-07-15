@@ -1,6 +1,6 @@
-## Bookmarks tagged [[windows-phone]](https://www.bookmarks.dev/search?q=[windows-phone])
+## Bookmarks tagged [[windows-phone]](https://www.codever.land/search?q=[windows-phone])
 
-_<sup><sup>[www.bookmarks.dev/tagged/windows-phone](https://www.bookmarks.dev/tagged/windows-phone)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/windows-phone](www.codever.land/bookmarks/t/windows-phone)</sup></sup>_
 ---
 #### [Windows Phone fejlesztés lépésről lépésre](http://mek.oszk.hu/10300/10393/)
 _<sup>http://mek.oszk.hu/10300/10393/</sup>_

@@ -1,6 +1,6 @@
-## Bookmarks tagged [[db2]](https://www.bookmarks.dev/search?q=[db2])
+## Bookmarks tagged [[db2]](https://www.codever.land/search?q=[db2])
 
-_<sup><sup>[www.bookmarks.dev/tagged/db2](https://www.bookmarks.dev/tagged/db2)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/db2](www.codever.land/bookmarks/t/db2)</sup></sup>_
 ---
 #### [Getting started with IBM DB2 development](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Getting_Started_with_DB2_App_Dev_p2.pdf)
 _<sup>http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Getting_Started_with_DB2_App_Dev_p2.pdf</sup>_

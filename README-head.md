@@ -1,18 +1,18 @@
 <div align="center">
-    <h2>Bookmarks for Developers & Co</h2>
-	<img width="200" height="200" src="images/bookmarks.dev-logo-md.png" alt="Dev Bookmarks">
+	<img width="560" src="images/codever-bookmarks-header-560x137.png" alt="Codever bookmarks">
 	<br>
 </div>
 
-<br>
-<p align="center">
-Public bookmarks, grouped by tags, shared with :heart: from <a href="https://www.bookmarks.dev" target="_blank">www.bookmarks.dev</a>
-</p>
+<br />
 
 <div align="center">
-	<b>Create a <a href="https://www.bookmarks.dev/howto">Bookmarks.dev account</a> and help build the ultimate dev resource repository.</b>
+⚡️🔖  Public bookmarks shared with :heart: &nbsp; from <a href="https://www.codever.land" target="_blank">www.codever.land</a> 🔖⚡️
 </div>
 
-<br>
+<div align="center">
+	:point_right: <b>Create a <a href="https://www.codever.land/register">Codever account</a> and help build the ultimate dev resource repository.</b>
+</div>
+
+<br />
 
 ## Tags

@@ -1,6 +1,17 @@
-## Bookmarks tagged [[course]](https://www.bookmarks.dev/search?q=[course])
+## Bookmarks tagged [[course]](https://www.codever.land/search?q=[course])
 
-_<sup><sup>[www.bookmarks.dev/tagged/course](https://www.bookmarks.dev/tagged/course)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/course](www.codever.land/bookmarks/t/course)</sup></sup>_
+---
+#### [veryacademy/YT-Django-DRF-Simple-Blog-Series-Part-1](https://github.com/veryacademy/YT-Django-DRF-Simple-Blog-Series-Part-1)
+_<sup>https://github.com/veryacademy/YT-Django-DRF-Simple-Blog-Series-Part-1</sup>_
+
+* :calendar: **published on**: 2021-07-04
+* **tags**: [course](../tagged/course.md), [django](../tagged/django.md), [github](../tagged/github.md)
+---
+#### [Learn Code the Hard Way](https://learncodethehardway.org/)
+_<sup>https://learncodethehardway.org/</sup>_
+
+* **tags**: [programming](../tagged/programming.md), [how-to](../tagged/how-to.md), [course](../tagged/course.md), [book](../tagged/book.md)
 ---
 #### [awesome-courses](https://github.com/prakhar1989/awesome-courses#readme)
 _<sup>https://github.com/prakhar1989/awesome-courses#readme</sup>_

@@ -1,6 +1,13 @@
-## Bookmarks tagged [[static-site-generator]](https://www.bookmarks.dev/search?q=[static-site-generator])
+## Bookmarks tagged [[static-site-generator]](https://www.codever.land/search?q=[static-site-generator])
 
-_<sup><sup>[www.bookmarks.dev/tagged/static-site-generator](https://www.bookmarks.dev/tagged/static-site-generator)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/static-site-generator](www.codever.land/bookmarks/t/static-site-generator)</sup></sup>_
+---
+#### [Docusaurus home page](https://docusaurus.io/)
+_<sup>https://docusaurus.io/</sup>_
+
+An optimized site generator in React. Docusaurus helps you to move fast and write content. Build documentation websites, blogs, marketing pages, and more.
+* **tags**: [react](../tagged/react.md), [static-site-generator](../tagged/static-site-generator.md), [javascript](../tagged/javascript.md), [documentation](../tagged/documentation.md), [docs](../tagged/docs.md)
+* :octocat: **[source code](https://github.com/facebook/docusaurus)**
 ---
 #### [Gridsome Home Page](https://gridsome.org/)
 _<sup>https://gridsome.org/</sup>_

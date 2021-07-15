@@ -1,6 +1,6 @@
-## Bookmarks tagged [[styling]](https://www.bookmarks.dev/search?q=[styling])
+## Bookmarks tagged [[styling]](https://www.codever.land/search?q=[styling])
 
-_<sup><sup>[www.bookmarks.dev/tagged/styling](https://www.bookmarks.dev/tagged/styling)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/styling](www.codever.land/bookmarks/t/styling)</sup></sup>_
 ---
 #### [Fancy Text Decorator - ℭ𝔬𝔬𝔩 𝕋𝕖𝕩𝕥 𝓖𝓮𝓷𝓮𝓻𝓪𝓽𝓸𝓻 😜](https://fancytextdecorator.com/)
 _<sup>https://fancytextdecorator.com/</sup>_

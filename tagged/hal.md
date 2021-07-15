@@ -1,6 +1,6 @@
-## Bookmarks tagged [[hal]](https://www.bookmarks.dev/search?q=[hal])
+## Bookmarks tagged [[hal]](https://www.codever.land/search?q=[hal])
 
-_<sup><sup>[www.bookmarks.dev/tagged/hal](https://www.bookmarks.dev/tagged/hal)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/hal](www.codever.land/bookmarks/t/hal)</sup></sup>_
 ---
 #### [  The Hypertext Application Language - HAL](http://stateless.co/hal_specification.html)
 _<sup>http://stateless.co/hal_specification.html</sup>_

@@ -1,6 +1,6 @@
-## Bookmarks tagged [[ctf]](https://www.bookmarks.dev/search?q=[ctf])
+## Bookmarks tagged [[ctf]](https://www.codever.land/search?q=[ctf])
 
-_<sup><sup>[www.bookmarks.dev/tagged/ctf](https://www.bookmarks.dev/tagged/ctf)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/ctf](www.codever.land/bookmarks/t/ctf)</sup></sup>_
 ---
 #### [Welcome - CTF-wiki](https://csea-iitb.github.io/IITBreachers-wiki/)
 _<sup>https://csea-iitb.github.io/IITBreachers-wiki/</sup>_

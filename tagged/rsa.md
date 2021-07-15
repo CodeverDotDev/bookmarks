@@ -1,6 +1,6 @@
-## Bookmarks tagged [[rsa]](https://www.bookmarks.dev/search?q=[rsa])
+## Bookmarks tagged [[rsa]](https://www.codever.land/search?q=[rsa])
 
-_<sup><sup>[www.bookmarks.dev/tagged/rsa](https://www.bookmarks.dev/tagged/rsa)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/rsa](www.codever.land/bookmarks/t/rsa)</sup></sup>_
 ---
 #### [Public Key Cryptography: RSA Encryption Algorithm - YouTube](https://www.youtube.com/watch?v=wXB-V_Keiu8)
 _<sup>https://www.youtube.com/watch?v=wXB-V_Keiu8</sup>_

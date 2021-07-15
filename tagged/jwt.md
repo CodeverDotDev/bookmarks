@@ -1,6 +1,6 @@
-## Bookmarks tagged [[jwt]](https://www.bookmarks.dev/search?q=[jwt])
+## Bookmarks tagged [[jwt]](https://www.codever.land/search?q=[jwt])
 
-_<sup><sup>[www.bookmarks.dev/tagged/jwt](https://www.bookmarks.dev/tagged/jwt)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/jwt](www.codever.land/bookmarks/t/jwt)</sup></sup>_
 ---
 #### [The Hard Parts of JWT Security Nobody Talks About](https://www.pingidentity.com/en/company/blog/posts/2019/jwt-security-nobody-talks-about.html)
 _<sup>https://www.pingidentity.com/en/company/blog/posts/2019/jwt-security-nobody-talks-about.html</sup>_

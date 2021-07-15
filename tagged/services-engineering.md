@@ -1,6 +1,6 @@
-## Bookmarks tagged [[services-engineering]](https://www.bookmarks.dev/search?q=[services-engineering])
+## Bookmarks tagged [[services-engineering]](https://www.codever.land/search?q=[services-engineering])
 
-_<sup><sup>[www.bookmarks.dev/tagged/services-engineering](https://www.bookmarks.dev/tagged/services-engineering)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/services-engineering](www.codever.land/bookmarks/t/services-engineering)</sup></sup>_
 ---
 #### [awesome-services-engineering](https://github.com/mmcgrana/services-engineering#readme)
 _<sup>https://github.com/mmcgrana/services-engineering#readme</sup>_

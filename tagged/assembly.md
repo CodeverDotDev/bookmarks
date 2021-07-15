@@ -1,6 +1,6 @@
-## Bookmarks tagged [[assembly]](https://www.bookmarks.dev/search?q=[assembly])
+## Bookmarks tagged [[assembly]](https://www.codever.land/search?q=[assembly])
 
-_<sup><sup>[www.bookmarks.dev/tagged/assembly](https://www.bookmarks.dev/tagged/assembly)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/assembly](www.codever.land/bookmarks/t/assembly)</sup></sup>_
 ---
 #### [Программирование на языке ассемблера NASM для ОС Unix](http://www.stolyarov.info/books/pdf/nasm_unix.pdf)
 _<sup>http://www.stolyarov.info/books/pdf/nasm_unix.pdf</sup>_

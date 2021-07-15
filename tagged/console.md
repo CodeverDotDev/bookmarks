@@ -1,6 +1,6 @@
-## Bookmarks tagged [[console]](https://www.bookmarks.dev/search?q=[console])
+## Bookmarks tagged [[console]](https://www.codever.land/search?q=[console])
 
-_<sup><sup>[www.bookmarks.dev/tagged/console](https://www.bookmarks.dev/tagged/console)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/console](www.codever.land/bookmarks/t/console)</sup></sup>_
 ---
 #### [Grep Console IntelliJ Plugin](https://plugins.jetbrains.com/plugin/7125-grep-console)
 _<sup>https://plugins.jetbrains.com/plugin/7125-grep-console</sup>_

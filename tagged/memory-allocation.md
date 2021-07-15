@@ -1,6 +1,6 @@
-## Bookmarks tagged [[memory-allocation]](https://www.bookmarks.dev/search?q=[memory-allocation])
+## Bookmarks tagged [[memory-allocation]](https://www.codever.land/search?q=[memory-allocation])
 
-_<sup><sup>[www.bookmarks.dev/tagged/memory-allocation](https://www.bookmarks.dev/tagged/memory-allocation)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/memory-allocation](www.codever.land/bookmarks/t/memory-allocation)</sup></sup>_
 ---
 #### [Boehm GC](https://github.com/ivmai/bdwgc)
 _<sup>https://github.com/ivmai/bdwgc</sup>_

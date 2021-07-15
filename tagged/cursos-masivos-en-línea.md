@@ -1,6 +1,6 @@
-## Bookmarks tagged [[cursos-masivos-en-línea]](https://www.bookmarks.dev/search?q=[cursos-masivos-en-línea])
+## Bookmarks tagged [[cursos-masivos-en-línea]](https://www.codever.land/search?q=[cursos-masivos-en-línea])
 
-_<sup><sup>[www.bookmarks.dev/tagged/cursos-masivos-en-línea](https://www.bookmarks.dev/tagged/cursos-masivos-en-línea)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/cursos-masivos-en-línea](www.codever.land/bookmarks/t/cursos-masivos-en-línea)</sup></sup>_
 ---
 #### [MIT Opencourseware en Español](http://mit.ocw.universia.net)
 _<sup>http://mit.ocw.universia.net</sup>_

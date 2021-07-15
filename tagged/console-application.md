@@ -1,6 +1,6 @@
-## Bookmarks tagged [[console-application]](https://www.bookmarks.dev/search?q=[console-application])
+## Bookmarks tagged [[console-application]](https://www.codever.land/search?q=[console-application])
 
-_<sup><sup>[www.bookmarks.dev/tagged/console-application](https://www.bookmarks.dev/tagged/console-application)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/console-application](www.codever.land/bookmarks/t/console-application)</sup></sup>_
 ---
 #### [asciigraph](https://github.com/guptarohit/asciigraph)
 _<sup>https://github.com/guptarohit/asciigraph</sup>_

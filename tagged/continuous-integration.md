@@ -1,6 +1,6 @@
-## Bookmarks tagged [[continuous-integration]](https://www.bookmarks.dev/search?q=[continuous-integration])
+## Bookmarks tagged [[continuous-integration]](https://www.codever.land/search?q=[continuous-integration])
 
-_<sup><sup>[www.bookmarks.dev/tagged/continuous-integration](https://www.bookmarks.dev/tagged/continuous-integration)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/continuous-integration](www.codever.land/bookmarks/t/continuous-integration)</sup></sup>_
 ---
 #### [Continuous Integration with GitLab CI - 52min](https://www.youtube.com/watch?v=EuwLdbCu3DE)
 _<sup>https://www.youtube.com/watch?v=EuwLdbCu3DE</sup>_

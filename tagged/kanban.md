@@ -1,6 +1,6 @@
-## Bookmarks tagged [[kanban]](https://www.bookmarks.dev/search?q=[kanban])
+## Bookmarks tagged [[kanban]](https://www.codever.land/search?q=[kanban])
 
-_<sup><sup>[www.bookmarks.dev/tagged/kanban](https://www.bookmarks.dev/tagged/kanban)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/kanban](www.codever.land/bookmarks/t/kanban)</sup></sup>_
 ---
 #### [Agile best practices and tutorials](https://www.atlassian.com/agile)
 _<sup>https://www.atlassian.com/agile</sup>_

@@ -1,6 +1,6 @@
-## Bookmarks tagged [[coding-style-tools]](https://www.bookmarks.dev/search?q=[coding-style-tools])
+## Bookmarks tagged [[coding-style-tools]](https://www.codever.land/search?q=[coding-style-tools])
 
-_<sup><sup>[www.bookmarks.dev/tagged/coding-style-tools](https://www.bookmarks.dev/tagged/coding-style-tools)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/coding-style-tools](www.codever.land/bookmarks/t/coding-style-tools)</sup></sup>_
 ---
 #### [Artistic Style](http://astyle.sourceforge.net/)
 _<sup>http://astyle.sourceforge.net/</sup>_

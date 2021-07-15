@@ -1,6 +1,6 @@
-## Bookmarks tagged [[disaster-recovery]](https://www.bookmarks.dev/search?q=[disaster-recovery])
+## Bookmarks tagged [[disaster-recovery]](https://www.codever.land/search?q=[disaster-recovery])
 
-_<sup><sup>[www.bookmarks.dev/tagged/disaster-recovery](https://www.bookmarks.dev/tagged/disaster-recovery)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/disaster-recovery](www.codever.land/bookmarks/t/disaster-recovery)</sup></sup>_
 ---
 #### [Velero](https://github.com/heptio/velero)
 _<sup>https://github.com/heptio/velero</sup>_

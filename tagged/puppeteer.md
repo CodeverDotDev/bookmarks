@@ -1,6 +1,6 @@
-## Bookmarks tagged [[puppeteer]](https://www.bookmarks.dev/search?q=[puppeteer])
+## Bookmarks tagged [[puppeteer]](https://www.codever.land/search?q=[puppeteer])
 
-_<sup><sup>[www.bookmarks.dev/tagged/puppeteer](https://www.bookmarks.dev/tagged/puppeteer)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/puppeteer](www.codever.land/bookmarks/t/puppeteer)</sup></sup>_
 ---
 #### [Advanced web spidering with Puppeteer](https://blog.kowalczyk.info/article/ea07db1b9bff415ab180b0525f3898f6/advanced-web-spidering-with-puppeteer.html)
 _<sup>https://blog.kowalczyk.info/article/ea07db1b9bff415ab180b0525f3898f6/advanced-web-spidering-with-pup...</sup>_

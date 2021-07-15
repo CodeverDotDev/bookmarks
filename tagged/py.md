@@ -1,6 +1,6 @@
-## Bookmarks tagged [[py]](https://www.bookmarks.dev/search?q=[py])
+## Bookmarks tagged [[py]](https://www.codever.land/search?q=[py])
 
-_<sup><sup>[www.bookmarks.dev/tagged/py](https://www.bookmarks.dev/tagged/py)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/py](www.codever.land/bookmarks/t/py)</sup></sup>_
 ---
 #### [EarSketch](https://earsketch.gatech.edu/earsketch2/#)
 _<sup>https://earsketch.gatech.edu/earsketch2/#</sup>_

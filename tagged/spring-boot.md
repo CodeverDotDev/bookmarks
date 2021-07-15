@@ -1,6 +1,6 @@
-## Bookmarks tagged [[spring-boot]](https://www.bookmarks.dev/search?q=[spring-boot])
+## Bookmarks tagged [[spring-boot]](https://www.codever.land/search?q=[spring-boot])
 
-_<sup><sup>[www.bookmarks.dev/tagged/spring-boot](https://www.bookmarks.dev/tagged/spring-boot)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/spring-boot](www.codever.land/bookmarks/t/spring-boot)</sup></sup>_
 ---
 #### [Getting started with GraphQL Java and Spring Boot](https://www.graphql-java.com/tutorials/getting-started-with-spring-boot/)
 _<sup>https://www.graphql-java.com/tutorials/getting-started-with-spring-boot/</sup>_

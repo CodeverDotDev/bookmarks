@@ -1,6 +1,13 @@
-## Bookmarks tagged [[unit-testing]](https://www.bookmarks.dev/search?q=[unit-testing])
+## Bookmarks tagged [[unit-testing]](https://www.codever.land/search?q=[unit-testing])
 
-_<sup><sup>[www.bookmarks.dev/tagged/unit-testing](https://www.bookmarks.dev/tagged/unit-testing)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/unit-testing](www.codever.land/bookmarks/t/unit-testing)</sup></sup>_
+---
+#### [XMLUnit - Unit Testing XML for Java and .NET home page](https://www.xmlunit.org/)
+_<sup>https://www.xmlunit.org/</sup>_
+
+When testing XML your application creates, simple string comparisons don't cut it as there are many different ways the same XML content is serialized to a string. It doesn't even stop with serializati...
+* **tags**: [java](../tagged/java.md), [.net](../tagged/.net.md), [testing](../tagged/testing.md), [xml](../tagged/xml.md), [xmlunit](../tagged/xmlunit.md), [unit-testing](../tagged/unit-testing.md)
+* :octocat: **[source code](https://github.com/xmlunit/xmlunit)**
 ---
 #### [A Unit Tester's Guide to Mockito](https://www.toptal.com/java/a-guide-to-everyday-mockito)
 _<sup>https://www.toptal.com/java/a-guide-to-everyday-mockito</sup>_

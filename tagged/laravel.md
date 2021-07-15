@@ -1,6 +1,6 @@
-## Bookmarks tagged [[laravel]](https://www.bookmarks.dev/search?q=[laravel])
+## Bookmarks tagged [[laravel]](https://www.codever.land/search?q=[laravel])
 
-_<sup><sup>[www.bookmarks.dev/tagged/laravel](https://www.bookmarks.dev/tagged/laravel)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/laravel](www.codever.land/bookmarks/t/laravel)</sup></sup>_
 ---
 #### [awesome-laravel](https://github.com/chiraggude/awesome-laravel#readme)
 _<sup>https://github.com/chiraggude/awesome-laravel#readme</sup>_

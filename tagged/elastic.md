@@ -1,6 +1,6 @@
-## Bookmarks tagged [[elastic]](https://www.bookmarks.dev/search?q=[elastic])
+## Bookmarks tagged [[elastic]](https://www.codever.land/search?q=[elastic])
 
-_<sup><sup>[www.bookmarks.dev/tagged/elastic](https://www.bookmarks.dev/tagged/elastic)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/elastic](www.codever.land/bookmarks/t/elastic)</sup></sup>_
 ---
 #### [Elk Stack on a Docker image](https://elk-docker.readthedocs.io/#about)
 _<sup>https://elk-docker.readthedocs.io/#about</sup>_

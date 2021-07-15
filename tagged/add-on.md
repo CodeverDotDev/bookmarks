@@ -1,6 +1,6 @@
-## Bookmarks tagged [[add-on]](https://www.bookmarks.dev/search?q=[add-on])
+## Bookmarks tagged [[add-on]](https://www.codever.land/search?q=[add-on])
 
-_<sup><sup>[www.bookmarks.dev/tagged/add-on](https://www.bookmarks.dev/tagged/add-on)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/add-on](www.codever.land/bookmarks/t/add-on)</sup></sup>_
 ---
 #### [awesome-git-addons](https://github.com/stevemao/awesome-git-addons#readme)
 _<sup>https://github.com/stevemao/awesome-git-addons#readme</sup>_

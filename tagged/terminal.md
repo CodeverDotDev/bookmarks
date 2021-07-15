@@ -1,6 +1,11 @@
-## Bookmarks tagged [[terminal]](https://www.bookmarks.dev/search?q=[terminal])
+## Bookmarks tagged [[terminal]](https://www.codever.land/search?q=[terminal])
 
-_<sup><sup>[www.bookmarks.dev/tagged/terminal](https://www.bookmarks.dev/tagged/terminal)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/terminal](www.codever.land/bookmarks/t/terminal)</sup></sup>_
+---
+#### [screen Cheat Sheet - Kapeli](https://kapeli.com/cheat_sheets/screen.docset/Contents/Resources/Documents/index)
+_<sup>https://kapeli.com/cheat_sheets/screen.docset/Contents/Resources/Documents/index</sup>_
+
+* **tags**: [gnu-screen](../tagged/gnu-screen.md), [cheatsheet](../tagged/cheatsheet.md), [linux](../tagged/linux.md), [unix](../tagged/unix.md), [terminal](../tagged/terminal.md)
 ---
 #### [GitHub - chalk/chalk: 🖍 Terminal string styling done right](https://github.com/chalk/chalk#readme)
 _<sup>https://github.com/chalk/chalk#readme</sup>_

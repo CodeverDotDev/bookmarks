@@ -1,6 +1,6 @@
-## Bookmarks tagged [[metrics]](https://www.bookmarks.dev/search?q=[metrics])
+## Bookmarks tagged [[metrics]](https://www.codever.land/search?q=[metrics])
 
-_<sup><sup>[www.bookmarks.dev/tagged/metrics](https://www.bookmarks.dev/tagged/metrics)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/metrics](www.codever.land/bookmarks/t/metrics)</sup></sup>_
 ---
 #### [dotScale 2017 - Adrian Cole - Observability 3 ways: Logging, Metrics & Tracing  - 18min](https://www.youtube.com/watch?v=juP9VApKy_I)
 _<sup>https://www.youtube.com/watch?v=juP9VApKy_I</sup>_

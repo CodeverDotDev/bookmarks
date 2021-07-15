@@ -1,6 +1,6 @@
-## Bookmarks tagged [[functional]](https://www.bookmarks.dev/search?q=[functional])
+## Bookmarks tagged [[functional]](https://www.codever.land/search?q=[functional])
 
-_<sup><sup>[www.bookmarks.dev/tagged/functional](https://www.bookmarks.dev/tagged/functional)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/functional](www.codever.land/bookmarks/t/functional)</sup></sup>_
 ---
 #### [fpGo](https://github.com/TeaEntityLab/fpGo)
 _<sup>https://github.com/TeaEntityLab/fpGo</sup>_

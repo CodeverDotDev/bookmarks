@@ -1,6 +1,6 @@
-## Bookmarks tagged [[localforage]](https://www.bookmarks.dev/search?q=[localforage])
+## Bookmarks tagged [[localforage]](https://www.codever.land/search?q=[localforage])
 
-_<sup><sup>[www.bookmarks.dev/tagged/localforage](https://www.bookmarks.dev/tagged/localforage)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/localforage](www.codever.land/bookmarks/t/localforage)</sup></sup>_
 ---
 #### [localForage](https://localforage.github.io/localForage/)
 _<sup>https://localforage.github.io/localForage/</sup>_

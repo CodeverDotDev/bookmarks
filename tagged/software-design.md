@@ -1,6 +1,6 @@
-## Bookmarks tagged [[software-design]](https://www.bookmarks.dev/search?q=[software-design])
+## Bookmarks tagged [[software-design]](https://www.codever.land/search?q=[software-design])
 
-_<sup><sup>[www.bookmarks.dev/tagged/software-design](https://www.bookmarks.dev/tagged/software-design)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/software-design](www.codever.land/bookmarks/t/software-design)</sup></sup>_
 ---
 #### [Stuart Halloway - Narcissistic Design - YouTube](https://www.youtube.com/watch?v=LEZv-kQUSi4)
 _<sup>https://www.youtube.com/watch?v=LEZv-kQUSi4</sup>_

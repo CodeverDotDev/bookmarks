@@ -1,6 +1,6 @@
-## Bookmarks tagged [[formatter]](https://www.bookmarks.dev/search?q=[formatter])
+## Bookmarks tagged [[formatter]](https://www.codever.land/search?q=[formatter])
 
-_<sup><sup>[www.bookmarks.dev/tagged/formatter](https://www.bookmarks.dev/tagged/formatter)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/formatter](www.codever.land/bookmarks/t/formatter)</sup></sup>_
 ---
 #### [Prettier Home Page](https://prettier.io/)
 _<sup>https://prettier.io/</sup>_

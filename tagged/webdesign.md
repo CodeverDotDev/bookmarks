@@ -1,6 +1,25 @@
-## Bookmarks tagged [[webdesign]](https://www.bookmarks.dev/search?q=[webdesign])
+## Bookmarks tagged [[webdesign]](https://www.codever.land/search?q=[webdesign])
 
-_<sup><sup>[www.bookmarks.dev/tagged/webdesign](https://www.bookmarks.dev/tagged/webdesign)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/webdesign](www.codever.land/bookmarks/t/webdesign)</sup></sup>_
+---
+#### [Can I email… All HTML and CSS features on Can I email…](https://www.caniemail.com/features/)
+_<sup>https://www.caniemail.com/features/</sup>_
+
+> All HTML and CSS features on Can I email…
+
+ Can I email…
+
+[caniemail.com](https://www.caniemail.com) provides email clients support tables for HTML and CSS features.
+
+_Can I email_ runs on [Jekyll...
+* **tags**: [css](../tagged/css.md), [html](../tagged/html.md), [webdesign](../tagged/webdesign.md), [email](../tagged/email.md), [android](../tagged/android.md), [ios](../tagged/ios.md), [jekyll](../tagged/jekyll.md), [github](../tagged/github.md)
+* :octocat: **[source code](https://github.com/HTeuMeuLeu/caniemail)**
+---
+#### [20+ More Free Design Resources for Developers](https://blog.moeminmamdouh.com/20-more-free-design-resources-for-developers)
+_<sup>https://blog.moeminmamdouh.com/20-more-free-design-resources-for-developers</sup>_
+
+20+ free design resources for developers, including stock Images/Videos/Music/Sound Effects.
+* **tags**: [webdesign](../tagged/webdesign.md)
 ---
 #### [The Front-End Checklist](https://frontendchecklist.io/)
 _<sup>https://frontendchecklist.io/</sup>_

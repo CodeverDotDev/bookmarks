@@ -1,6 +1,6 @@
-## Bookmarks tagged [[jinja]](https://www.bookmarks.dev/search?q=[jinja])
+## Bookmarks tagged [[jinja]](https://www.codever.land/search?q=[jinja])
 
-_<sup><sup>[www.bookmarks.dev/tagged/jinja](https://www.bookmarks.dev/tagged/jinja)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/jinja](www.codever.land/bookmarks/t/jinja)</sup></sup>_
 ---
 #### [Jinja Home Page](https://palletsprojects.com/p/jinja/)
 _<sup>https://palletsprojects.com/p/jinja/</sup>_

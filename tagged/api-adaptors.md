@@ -1,6 +1,6 @@
-## Bookmarks tagged [[api-adaptors]](https://www.bookmarks.dev/search?q=[api-adaptors])
+## Bookmarks tagged [[api-adaptors]](https://www.codever.land/search?q=[api-adaptors])
 
-_<sup><sup>[www.bookmarks.dev/tagged/api-adaptors](https://www.bookmarks.dev/tagged/api-adaptors)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/api-adaptors](www.codever.land/bookmarks/t/api-adaptors)</sup></sup>_
 ---
 #### [click](https://github.com/databricks/click)
 _<sup>https://github.com/databricks/click</sup>_

@@ -1,6 +1,6 @@
-## Bookmarks tagged [[iaas]](https://www.bookmarks.dev/search?q=[iaas])
+## Bookmarks tagged [[iaas]](https://www.codever.land/search?q=[iaas])
 
-_<sup><sup>[www.bookmarks.dev/tagged/iaas](https://www.bookmarks.dev/tagged/iaas)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/iaas](www.codever.land/bookmarks/t/iaas)</sup></sup>_
 ---
 #### [awesome-free-for-dev](https://github.com/ripienaar/free-for-dev#readme)
 _<sup>https://github.com/ripienaar/free-for-dev#readme</sup>_

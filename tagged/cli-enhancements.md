@@ -1,6 +1,6 @@
-## Bookmarks tagged [[cli-enhancements]](https://www.bookmarks.dev/search?q=[cli-enhancements])
+## Bookmarks tagged [[cli-enhancements]](https://www.codever.land/search?q=[cli-enhancements])
 
-_<sup><sup>[www.bookmarks.dev/tagged/cli-enhancements](https://www.bookmarks.dev/tagged/cli-enhancements)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/cli-enhancements](www.codever.land/bookmarks/t/cli-enhancements)</sup></sup>_
 ---
 #### [httpie](https://github.com/jakubroztocil/httpie)
 _<sup>https://github.com/jakubroztocil/httpie</sup>_

@@ -1,6 +1,6 @@
-## Bookmarks tagged [[job-scheduling]](https://www.bookmarks.dev/search?q=[job-scheduling])
+## Bookmarks tagged [[job-scheduling]](https://www.codever.land/search?q=[job-scheduling])
 
-_<sup><sup>[www.bookmarks.dev/tagged/job-scheduling](https://www.bookmarks.dev/tagged/job-scheduling)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/job-scheduling](www.codever.land/bookmarks/t/job-scheduling)</sup></sup>_
 ---
 #### [clockwerk](http://github.com/onatm/clockwerk)
 _<sup>http://github.com/onatm/clockwerk</sup>_

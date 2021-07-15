@@ -1,6 +1,6 @@
-## Bookmarks tagged [[automation]](https://www.bookmarks.dev/search?q=[automation])
+## Bookmarks tagged [[automation]](https://www.codever.land/search?q=[automation])
 
-_<sup><sup>[www.bookmarks.dev/tagged/automation](https://www.bookmarks.dev/tagged/automation)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/automation](www.codever.land/bookmarks/t/automation)</sup></sup>_
 ---
 #### [slowtec/tokio-modbus](https://github.com/slowtec/tokio-modbus)
 _<sup>https://github.com/slowtec/tokio-modbus</sup>_

@@ -1,6 +1,6 @@
-## Bookmarks tagged [[cert-manager]](https://www.bookmarks.dev/search?q=[cert-manager])
+## Bookmarks tagged [[cert-manager]](https://www.codever.land/search?q=[cert-manager])
 
-_<sup><sup>[www.bookmarks.dev/tagged/cert-manager](https://www.bookmarks.dev/tagged/cert-manager)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/cert-manager](www.codever.land/bookmarks/t/cert-manager)</sup></sup>_
 ---
 #### [Using Kustomize for per-environment deployment of cert-manager resources](https://blog.jetstack.io/blog/kustomize-cert-manager/)
 _<sup>https://blog.jetstack.io/blog/kustomize-cert-manager/</sup>_

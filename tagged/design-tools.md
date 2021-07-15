@@ -1,6 +1,13 @@
-## Bookmarks tagged [[design-tools]](https://www.bookmarks.dev/search?q=[design-tools])
+## Bookmarks tagged [[design-tools]](https://www.codever.land/search?q=[design-tools])
 
-_<sup><sup>[www.bookmarks.dev/tagged/design-tools](https://www.bookmarks.dev/tagged/design-tools)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/design-tools](www.codever.land/bookmarks/t/design-tools)</sup></sup>_
+---
+#### [GitHub - pengwynn/sass-and-compass-in-action: Code samples for Sass and Compass in Action](https://github.com/pengwynn/sass-and-compass-in-action)
+_<sup>https://github.com/pengwynn/sass-and-compass-in-action</sup>_
+
+Code samples for Sass and Compass in Action. Contribute to pengwynn/sass-and-compass-in-action development by creating an account on GitHub.
+* **tags**: [sass](../tagged/sass.md), [scss](../tagged/scss.md), [design-tools](../tagged/design-tools.md), [code-snippets](../tagged/code-snippets.md), [learn-to-code](../tagged/learn-to-code.md)
+* :octocat: **[source code](https://github.com/pengwynn/sass-and-compass-in-action)**
 ---
 #### [Quick and Simple Image Placeholders - Dynamic Dummy Image Generator](https://plchldr.co/)
 _<sup>https://plchldr.co/</sup>_

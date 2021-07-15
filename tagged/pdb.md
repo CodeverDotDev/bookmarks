@@ -1,6 +1,6 @@
-## Bookmarks tagged [[pdb]](https://www.bookmarks.dev/search?q=[pdb])
+## Bookmarks tagged [[pdb]](https://www.codever.land/search?q=[pdb])
 
-_<sup><sup>[www.bookmarks.dev/tagged/pdb](https://www.bookmarks.dev/tagged/pdb)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/pdb](www.codever.land/bookmarks/t/pdb)</sup></sup>_
 ---
 #### [ipdb](https://github.com/gotcha/ipdb)
 _<sup>https://github.com/gotcha/ipdb</sup>_

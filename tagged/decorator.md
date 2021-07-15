@@ -1,6 +1,6 @@
-## Bookmarks tagged [[decorator]](https://www.bookmarks.dev/search?q=[decorator])
+## Bookmarks tagged [[decorator]](https://www.codever.land/search?q=[decorator])
 
-_<sup><sup>[www.bookmarks.dev/tagged/decorator](https://www.bookmarks.dev/tagged/decorator)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/decorator](www.codever.land/bookmarks/t/decorator)</sup></sup>_
 ---
 #### [Draper](https://github.com/drapergem/draper)
 _<sup>https://github.com/drapergem/draper</sup>_

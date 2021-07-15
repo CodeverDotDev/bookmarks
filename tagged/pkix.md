@@ -1,6 +1,6 @@
-## Bookmarks tagged [[pkix]](https://www.bookmarks.dev/search?q=[pkix])
+## Bookmarks tagged [[pkix]](https://www.codever.land/search?q=[pkix])
 
-_<sup><sup>[www.bookmarks.dev/tagged/pkix](https://www.bookmarks.dev/tagged/pkix)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/pkix](www.codever.land/bookmarks/t/pkix)</sup></sup>_
 ---
 #### [Fix https repository blocking by PKIX path building failed – Sonatype Support](https://support.sonatype.com/hc/en-us/articles/213465038-Fix-https-repository-blocking-by-PKIX-path-building-failed)
 _<sup>https://support.sonatype.com/hc/en-us/articles/213465038-Fix-https-repository-blocking-by-PKIX-path-...</sup>_

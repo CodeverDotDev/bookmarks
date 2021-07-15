@@ -1,6 +1,6 @@
-## Bookmarks tagged [[input]](https://www.bookmarks.dev/search?q=[input])
+## Bookmarks tagged [[input]](https://www.codever.land/search?q=[input])
 
-_<sup><sup>[www.bookmarks.dev/tagged/input](https://www.bookmarks.dev/tagged/input)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/input](www.codever.land/bookmarks/t/input)</sup></sup>_
 ---
 #### [typeahead.js](https://github.com/twitter/typeahead.js)
 _<sup>https://github.com/twitter/typeahead.js</sup>_

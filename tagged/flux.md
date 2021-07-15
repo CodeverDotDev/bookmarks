@@ -1,6 +1,14 @@
-## Bookmarks tagged [[flux]](https://www.bookmarks.dev/search?q=[flux])
+## Bookmarks tagged [[flux]](https://www.codever.land/search?q=[flux])
 
-_<sup><sup>[www.bookmarks.dev/tagged/flux](https://www.bookmarks.dev/tagged/flux)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/flux](www.codever.land/bookmarks/t/flux)</sup></sup>_
+---
+#### [Ngrx Store - An Architecture Guide](https://blog.angular-university.io/angular-ngrx-store-and-effects-crash-course/)
+_<sup>https://blog.angular-university.io/angular-ngrx-store-and-effects-crash-course/</sup>_
+
+Using a store architecture represents a big architectural shift: with the arrival of single page applications, we moved the Model to View transformation from the server to the client.
+
+Store architect...
+* **tags**: [angular](../tagged/angular.md), [flux](../tagged/flux.md), [ngrx](../tagged/ngrx.md), [architecture](../tagged/architecture.md)
 ---
 #### [Flux Comparision](https://github.com/voronianski/flux-comparison)
 _<sup>https://github.com/voronianski/flux-comparison</sup>_

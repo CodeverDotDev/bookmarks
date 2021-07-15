@@ -1,6 +1,22 @@
-## Bookmarks tagged [[docker-compose]](https://www.bookmarks.dev/search?q=[docker-compose])
+## Bookmarks tagged [[docker-compose]](https://www.codever.land/search?q=[docker-compose])
 
-_<sup><sup>[www.bookmarks.dev/tagged/docker-compose](https://www.bookmarks.dev/tagged/docker-compose)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/docker-compose](www.codever.land/bookmarks/t/docker-compose)</sup></sup>_
+---
+#### [Setting Up Authelia With SWAG](https://blog.linuxserver.io/2020/08/26/setting-up-authelia/)
+_<sup>https://blog.linuxserver.io/2020/08/26/setting-up-authelia/</sup>_
+
+This article details how SSO via Authelia can be easily set up using SWAG's preset Authelia confs.
+* :calendar: **published on**: 2020-08-26
+* **tags**: [docker-compose](../tagged/docker-compose.md), [nginx](../tagged/nginx.md), [tls](../tagged/tls.md), [oauth2](../tagged/oauth2.md), [cloud](../tagged/cloud.md), [linux](../tagged/linux.md)
+* :octocat: **[source code](https://github.com/linuxserver/docker-swag)**
+---
+#### [Step-by-step guide how integrate Keycloak with Angular application](https://wkrzywiec.medium.com/step-by-step-guide-how-integrate-keycloak-with-angular-application-d96b05f7dfdd)
+_<sup>https://wkrzywiec.medium.com/step-by-step-guide-how-integrate-keycloak-with-angular-application-d96b...</sup>_
+
+The aim of this post is to show you a basic set up an Angular application so that it will be integrated with Keycloak and it will be able to consume protected HTTP resource that requires an access tok...
+* :calendar: **published on**: 2021-03-22
+* **tags**: [angular](../tagged/angular.md), [keycloak](../tagged/keycloak.md), [docker](../tagged/docker.md), [docker-compose](../tagged/docker-compose.md)
+* :octocat: **[source code](https://github.com/wkrzywiec/keycloak-security-example)**
 ---
 #### [A docker-compose stack for Prometheus monitoring](https://github.com/vegasbrianc/prometheus)
 _<sup>https://github.com/vegasbrianc/prometheus</sup>_

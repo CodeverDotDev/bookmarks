@@ -1,6 +1,25 @@
-## Bookmarks tagged [[python]](https://www.bookmarks.dev/search?q=[python])
+## Bookmarks tagged [[python]](https://www.codever.land/search?q=[python])
 
-_<sup><sup>[www.bookmarks.dev/tagged/python](https://www.bookmarks.dev/tagged/python)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/python](www.codever.land/bookmarks/t/python)</sup></sup>_
+---
+#### [Integrating Javascript and python](https://writtenwisdom.hashnode.dev/integrating-javascript-and-python)
+_<sup>https://writtenwisdom.hashnode.dev/integrating-javascript-and-python</sup>_
+
+* **tags**: [python](../tagged/python.md)
+---
+#### [GitHub - dapbs/customer_service_bot: codeacademy customer_service_bot](https://github.com/dapbs/customer_service_bot)
+_<sup>https://github.com/dapbs/customer_service_bot</sup>_
+
+codeacademy customer_service_bot. Contribute to dapbs/customer_service_bot development by creating an account on GitHub.
+* **tags**: [learn-to-code](../tagged/learn-to-code.md), [jupyter](../tagged/jupyter.md), [python](../tagged/python.md), [code-snippets](../tagged/code-snippets.md), [example-apps](../tagged/example-apps.md)
+* :octocat: **[source code](https://github.com/dapbs/customer_service_bot)**
+---
+#### [mkdocstrings/mkdocstrings: Automatic documentation from sources, for MkDocs.](https://github.com/mkdocstrings/mkdocstrings)
+_<sup>https://github.com/mkdocstrings/mkdocstrings</sup>_
+
+Automatic documentation from sources, for MkDocs.
+* **tags**: [mkdocs](../tagged/mkdocs.md), [python](../tagged/python.md), [doc-tools](../tagged/doc-tools.md), [devops-tools](../tagged/devops-tools.md)
+* :octocat: **[source code](https://github.com/mkdocstrings/mkdocstrings)**
 ---
 #### [Graphene-Python home page](https://graphene-python.org/)
 _<sup>https://graphene-python.org/</sup>_

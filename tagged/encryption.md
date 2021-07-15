@@ -1,6 +1,6 @@
-## Bookmarks tagged [[encryption]](https://www.bookmarks.dev/search?q=[encryption])
+## Bookmarks tagged [[encryption]](https://www.codever.land/search?q=[encryption])
 
-_<sup><sup>[www.bookmarks.dev/tagged/encryption](https://www.bookmarks.dev/tagged/encryption)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/encryption](www.codever.land/bookmarks/t/encryption)</sup></sup>_
 ---
 #### [Hat.sh | A Free, Fast, Secure client side File Encryption.](https://hat.sh/)
 _<sup>https://hat.sh/</sup>_

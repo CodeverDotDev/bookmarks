@@ -1,6 +1,12 @@
-## Bookmarks tagged [[animation]](https://www.bookmarks.dev/search?q=[animation])
+## Bookmarks tagged [[animation]](https://www.codever.land/search?q=[animation])
 
-_<sup><sup>[www.bookmarks.dev/tagged/animation](https://www.bookmarks.dev/tagged/animation)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/animation](www.codever.land/bookmarks/t/animation)</sup></sup>_
+---
+#### [Free Lottie Animation Files, Tools & Plugins - LottieFiles](https://lottiefiles.com/)
+_<sup>https://lottiefiles.com/</sup>_
+
+The world’s largest online platform for the world’s smallest animation format for designers, developers, and more. Access Lottie animation tools and plugins for Android, iOS, and Web.
+* **tags**: [lottie](../tagged/lottie.md), [animation](../tagged/animation.md), [svg](../tagged/svg.md), [opensource](../tagged/opensource.md)
 ---
 #### [velocity](https://github.com/julianshapiro/velocity)
 _<sup>https://github.com/julianshapiro/velocity</sup>_

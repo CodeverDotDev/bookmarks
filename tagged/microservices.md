@@ -1,6 +1,13 @@
-## Bookmarks tagged [[microservices]](https://www.bookmarks.dev/search?q=[microservices])
+## Bookmarks tagged [[microservices]](https://www.codever.land/search?q=[microservices])
 
-_<sup><sup>[www.bookmarks.dev/tagged/microservices](https://www.bookmarks.dev/tagged/microservices)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/microservices](www.codever.land/bookmarks/t/microservices)</sup></sup>_
+---
+#### [Microservice Trade-Offs](https://martinfowler.com/articles/microservice-trade-offs.html)
+_<sup>https://martinfowler.com/articles/microservice-trade-offs.html</sup>_
+
+Many development teams have found the microservices architectural style to be a superior approach to a monolithic architecture. But other teams have found them to be a productivity-sapping burden. Lik...
+* :calendar: **published on**: 2015-07-01
+* **tags**: [microservices](../tagged/microservices.md), [monolith](../tagged/monolith.md), [architecture](../tagged/architecture.md)
 ---
 #### [Microservices Are for Humans, Not Machines](https://www.infoq.com/presentations/microservices-behavior-joy/)
 _<sup>https://www.infoq.com/presentations/microservices-behavior-joy/</sup>_

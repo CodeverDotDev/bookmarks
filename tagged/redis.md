@@ -1,6 +1,28 @@
-## Bookmarks tagged [[redis]](https://www.bookmarks.dev/search?q=[redis])
+## Bookmarks tagged [[redis]](https://www.codever.land/search?q=[redis])
 
-_<sup><sup>[www.bookmarks.dev/tagged/redis](https://www.bookmarks.dev/tagged/redis)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/redis](www.codever.land/bookmarks/t/redis)</sup></sup>_
+---
+#### [Try Redis](https://try.redis.io)
+_<sup>https://try.redis.io</sup>_
+
+* **tags**: [redis](../tagged/redis.md), [javascript](../tagged/javascript.md)
+---
+#### [Redis Quick Start – Redis](https://redis.io/topics/quickstart)
+_<sup>https://redis.io/topics/quickstart</sup>_
+
+* **tags**: [redis](../tagged/redis.md), [javascript](../tagged/javascript.md), [database](../tagged/database.md)
+---
+#### [Hashing in Action: Understanding bcrypt](https://auth0.com/blog/hashing-in-action-understanding-bcrypt/)
+_<sup>https://auth0.com/blog/hashing-in-action-understanding-bcrypt/</sup>_
+
+bcrypt allows us to build a password security platform that can scale with computation power and provides us with hashing and salting mechanisms.
+* **tags**: [hashing](../tagged/hashing.md), [password](../tagged/password.md), [bcrypt](../tagged/bcrypt.md), [redis](../tagged/redis.md), [javascript](../tagged/javascript.md)
+---
+#### [How to Install and Configure Redis on Linux System](https://www.ubuntupit.com/how-to-install-and-configure-redis-on-linux-system/)
+_<sup>https://www.ubuntupit.com/how-to-install-and-configure-redis-on-linux-system/</sup>_
+
+Redis is a in-built memory tool for loading server/webpages faster. Here, we will see how to install and use Redis on Linux system.
+* **tags**: [redis](../tagged/redis.md), [database](../tagged/database.md)
 ---
 #### [How To Install and Secure Redis on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-redis-on-ubuntu-18-04)
 _<sup>https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-redis-on-ubuntu-18-04</sup>_

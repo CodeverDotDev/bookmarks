@@ -1,6 +1,13 @@
-## Bookmarks tagged [[gif]](https://www.bookmarks.dev/search?q=[gif])
+## Bookmarks tagged [[gif]](https://www.codever.land/search?q=[gif])
 
-_<sup><sup>[www.bookmarks.dev/tagged/gif](https://www.bookmarks.dev/tagged/gif)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/gif](www.codever.land/bookmarks/t/gif)</sup></sup>_
+---
+#### [ScreenToGif home page](https://www.screentogif.com/)
+_<sup>https://www.screentogif.com/</sup>_
+
+Free screen recorder tool. Record, edit and save as a gif or video.
+* **tags**: [gif](../tagged/gif.md), [tools](../tagged/tools.md)
+* :octocat: **[source code](https://github.com/NickeManarin/ScreenToGif)**
 ---
 #### [Optimize animated GIF](https://ezgif.com/optimize)
 _<sup>https://ezgif.com/optimize</sup>_

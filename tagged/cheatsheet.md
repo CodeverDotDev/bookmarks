@@ -1,6 +1,23 @@
-## Bookmarks tagged [[cheatsheet]](https://www.bookmarks.dev/search?q=[cheatsheet])
+## Bookmarks tagged [[cheatsheet]](https://www.codever.land/search?q=[cheatsheet])
 
-_<sup><sup>[www.bookmarks.dev/tagged/cheatsheet](https://www.bookmarks.dev/tagged/cheatsheet)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/cheatsheet](www.codever.land/bookmarks/t/cheatsheet)</sup></sup>_
+---
+#### [Tmux Cheat Sheet & Quick Reference](https://tmuxcheatsheet.com/)
+_<sup>https://tmuxcheatsheet.com/</sup>_
+
+Latest shortcuts, quick reference, examples for tmux terminal multiplexer which runs on Linux, OS X, OpenBSD, FreeBSD, NetBSD, etc...
+* **tags**: [tmux](../tagged/tmux.md), [cheatsheet](../tagged/cheatsheet.md)
+---
+#### [screen Cheat Sheet - Kapeli](https://kapeli.com/cheat_sheets/screen.docset/Contents/Resources/Documents/index)
+_<sup>https://kapeli.com/cheat_sheets/screen.docset/Contents/Resources/Documents/index</sup>_
+
+* **tags**: [gnu-screen](../tagged/gnu-screen.md), [cheatsheet](../tagged/cheatsheet.md), [linux](../tagged/linux.md), [unix](../tagged/unix.md), [terminal](../tagged/terminal.md)
+---
+#### [npm cheatsheet](https://devhints.io/npm)
+_<sup>https://devhints.io/npm</sup>_
+
+The one-page guide to npm: usage, examples, links, snippets, and more.
+* **tags**: [node](../tagged/node.md), [npm](../tagged/npm.md), [cheatsheet](../tagged/cheatsheet.md)
 ---
 #### [cheat.sh/:firstpage](https://cheat.sh/)
 _<sup>https://cheat.sh/</sup>_

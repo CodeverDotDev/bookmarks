@@ -1,6 +1,6 @@
-## Bookmarks tagged [[resteasy]](https://www.bookmarks.dev/search?q=[resteasy])
+## Bookmarks tagged [[resteasy]](https://www.codever.land/search?q=[resteasy])
 
-_<sup><sup>[www.bookmarks.dev/tagged/resteasy](https://www.bookmarks.dev/tagged/resteasy)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/resteasy](www.codever.land/bookmarks/t/resteasy)</sup></sup>_
 ---
 #### [Multiple Media Types in Java Microservices with RESTEasy](https://stackify.com/multiple-media-types-java-microservices-resteasy/)
 _<sup>https://stackify.com/multiple-media-types-java-microservices-resteasy/</sup>_

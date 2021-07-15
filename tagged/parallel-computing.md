@@ -1,6 +1,6 @@
-## Bookmarks tagged [[parallel-computing]](https://www.bookmarks.dev/search?q=[parallel-computing])
+## Bookmarks tagged [[parallel-computing]](https://www.codever.land/search?q=[parallel-computing])
 
-_<sup><sup>[www.bookmarks.dev/tagged/parallel-computing](https://www.bookmarks.dev/tagged/parallel-computing)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/parallel-computing](www.codever.land/bookmarks/t/parallel-computing)</sup></sup>_
 ---
 #### [連載講座: 高生産並列言語を使いこなす [1](http://www.cc.u-tokyo.ac.jp/support/press/news/VOL13/No1/Rensai201101.pdf)
 _<sup>http://www.cc.u-tokyo.ac.jp/support/press/news/VOL13/No1/Rensai201101.pdf</sup>_

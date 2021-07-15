@@ -1,6 +1,6 @@
-## Bookmarks tagged [[singleton]](https://www.bookmarks.dev/search?q=[singleton])
+## Bookmarks tagged [[singleton]](https://www.codever.land/search?q=[singleton])
 
-_<sup><sup>[www.bookmarks.dev/tagged/singleton](https://www.bookmarks.dev/tagged/singleton)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/singleton](www.codever.land/bookmarks/t/singleton)</sup></sup>_
 ---
 #### [@Singleton vs @ApplicationScope](https://stackoverflow.com/questions/26832051/singleton-vs-applicationscope/27848417)
 _<sup>https://stackoverflow.com/questions/26832051/singleton-vs-applicationscope/27848417</sup>_

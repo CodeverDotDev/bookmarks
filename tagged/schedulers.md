@@ -1,6 +1,6 @@
-## Bookmarks tagged [[schedulers]](https://www.bookmarks.dev/search?q=[schedulers])
+## Bookmarks tagged [[schedulers]](https://www.codever.land/search?q=[schedulers])
 
-_<sup><sup>[www.bookmarks.dev/tagged/schedulers](https://www.bookmarks.dev/tagged/schedulers)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/schedulers](www.codever.land/bookmarks/t/schedulers)</sup></sup>_
 ---
 #### [bashScheduler](https://github.com/rothgar/bashScheduler)
 _<sup>https://github.com/rothgar/bashScheduler</sup>_

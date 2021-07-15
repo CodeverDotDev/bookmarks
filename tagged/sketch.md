@@ -1,6 +1,6 @@
-## Bookmarks tagged [[sketch]](https://www.bookmarks.dev/search?q=[sketch])
+## Bookmarks tagged [[sketch]](https://www.codever.land/search?q=[sketch])
 
-_<sup><sup>[www.bookmarks.dev/tagged/sketch](https://www.bookmarks.dev/tagged/sketch)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/sketch](www.codever.land/bookmarks/t/sketch)</sup></sup>_
 ---
 #### [awesome-sketch](https://github.com/diessica/awesome-sketch#readme)
 _<sup>https://github.com/diessica/awesome-sketch#readme</sup>_

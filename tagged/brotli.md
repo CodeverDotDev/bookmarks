@@ -1,6 +1,6 @@
-## Bookmarks tagged [[brotli]](https://www.bookmarks.dev/search?q=[brotli])
+## Bookmarks tagged [[brotli]](https://www.codever.land/search?q=[brotli])
 
-_<sup><sup>[www.bookmarks.dev/tagged/brotli](https://www.bookmarks.dev/tagged/brotli)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/brotli](www.codever.land/bookmarks/t/brotli)</sup></sup>_
 ---
 #### [Brotli](https://opensource.googleblog.com/2015/09/introducing-brotli-new-compression.html)
 _<sup>https://opensource.googleblog.com/2015/09/introducing-brotli-new-compression.html</sup>_

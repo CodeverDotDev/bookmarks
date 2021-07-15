@@ -1,6 +1,6 @@
-## Bookmarks tagged [[speech]](https://www.bookmarks.dev/search?q=[speech])
+## Bookmarks tagged [[speech]](https://www.codever.land/search?q=[speech])
 
-_<sup><sup>[www.bookmarks.dev/tagged/speech](https://www.bookmarks.dev/tagged/speech)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/speech](www.codever.land/bookmarks/t/speech)</sup></sup>_
 ---
 #### [組込みソフトウェア開発向け コーディング作法ガイド［C++言語版］](http://www.ipa.go.jp/files/000005142.pdf)
 _<sup>http://www.ipa.go.jp/files/000005142.pdf</sup>_

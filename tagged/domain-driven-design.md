@@ -1,6 +1,13 @@
-## Bookmarks tagged [[domain-driven-design]](https://www.bookmarks.dev/search?q=[domain-driven-design])
+## Bookmarks tagged [[domain-driven-design]](https://www.codever.land/search?q=[domain-driven-design])
 
-_<sup><sup>[www.bookmarks.dev/tagged/domain-driven-design](https://www.bookmarks.dev/tagged/domain-driven-design)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/domain-driven-design](www.codever.land/bookmarks/t/domain-driven-design)</sup></sup>_
+---
+#### [A Discussion on Domain Driven Design: Value Objects · Los Techies](https://lostechies.com/joeocampo/2007/04/23/a-discussion-on-domain-driven-design-value-objects/)
+_<sup>https://lostechies.com/joeocampo/2007/04/23/a-discussion-on-domain-driven-design-value-objects/</sup>_
+
+Entities have a lot of overhead associated with them. They have a full lifecycle from cradle to grave. They also have identity which forces the domain model to be very expressive in tracking and coord...
+* :calendar: **published on**: 2007-04-23
+* **tags**: [domain-driven-design](../tagged/domain-driven-design.md), [oop](../tagged/oop.md)
 ---
 #### [AnemicDomainModel](https://www.martinfowler.com/bliki/AnemicDomainModel.html)
 _<sup>https://www.martinfowler.com/bliki/AnemicDomainModel.html</sup>_

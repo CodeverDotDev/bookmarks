@@ -1,6 +1,6 @@
-## Bookmarks tagged [[job-interviews]](https://www.bookmarks.dev/search?q=[job-interviews])
+## Bookmarks tagged [[job-interviews]](https://www.codever.land/search?q=[job-interviews])
 
-_<sup><sup>[www.bookmarks.dev/tagged/job-interviews](https://www.bookmarks.dev/tagged/job-interviews)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/job-interviews](www.codever.land/bookmarks/t/job-interviews)</sup></sup>_
 ---
 #### [How To Speak by Patrick Winston - 1h:3min](https://www.youtube.com/watch?v=Unzc731iCUY)
 _<sup>https://www.youtube.com/watch?v=Unzc731iCUY</sup>_

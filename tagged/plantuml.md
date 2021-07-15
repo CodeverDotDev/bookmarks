@@ -1,6 +1,6 @@
-## Bookmarks tagged [[plantuml]](https://www.bookmarks.dev/search?q=[plantuml])
+## Bookmarks tagged [[plantuml]](https://www.codever.land/search?q=[plantuml])
 
-_<sup><sup>[www.bookmarks.dev/tagged/plantuml](https://www.bookmarks.dev/tagged/plantuml)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/plantuml](www.codever.land/bookmarks/t/plantuml)</sup></sup>_
 ---
 #### [PlantUML Home Page](http://plantuml.com/)
 _<sup>http://plantuml.com/</sup>_

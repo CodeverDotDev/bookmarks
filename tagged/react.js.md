@@ -1,6 +1,6 @@
-## Bookmarks tagged [[react.js]](https://www.bookmarks.dev/search?q=[react.js])
+## Bookmarks tagged [[react.js]](https://www.codever.land/search?q=[react.js])
 
-_<sup><sup>[www.bookmarks.dev/tagged/react.js](https://www.bookmarks.dev/tagged/react.js)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/react.js](www.codever.land/bookmarks/t/react.js)</sup></sup>_
 ---
 #### [The Road to learn React - Build a Hacker News App along the Way](https://leanpub.com/the-road-to-learn-react)
 _<sup>https://leanpub.com/the-road-to-learn-react</sup>_

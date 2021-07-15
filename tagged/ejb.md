@@ -1,6 +1,20 @@
-## Bookmarks tagged [[ejb]](https://www.bookmarks.dev/search?q=[ejb])
+## Bookmarks tagged [[ejb]](https://www.codever.land/search?q=[ejb])
 
-_<sup><sup>[www.bookmarks.dev/tagged/ejb](https://www.bookmarks.dev/tagged/ejb)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/ejb](www.codever.land/bookmarks/t/ejb)</sup></sup>_
+---
+#### [CDI and @Startup: SOLVED! | New posts here >>> rmannibucau.metawerx.net](https://rmannibucau.wordpress.com/2015/03/10/cdi-and-startup/)
+_<sup>https://rmannibucau.wordpress.com/2015/03/10/cdi-and-startup/</sup>_
+
+Speaking on the CDI list about CDI 2.0 standalone container API Jozef Hartinger sent an answer which is quite obvious when you know it but which can change your life if you don’t: how CDI 1.1 introduc...
+* :calendar: **published on**: 2015-03-10
+* **tags**: [javaee](../tagged/javaee.md), [cdi](../tagged/cdi.md), [ejb](../tagged/ejb.md), [annotations](../tagged/annotations.md)
+---
+#### [Message Driven Beans, attributes explanation - Jboss Docs](https://docs.jboss.org/ejb3/docs/tutorial/mdb/mdb.html)
+_<sup>https://docs.jboss.org/ejb3/docs/tutorial/mdb/mdb.html</sup>_
+
+This example shows you how to implement an MDB with EJB 3.0 using annotations.
+Take a look at [ExampleMDB.java](https://docs.jboss.org/ejb3/docs/tutorial/mdb/src/org/jboss/tutorial/mdb/bean/ExampleMDB...
+* **tags**: [java](../tagged/java.md), [javaee](../tagged/javaee.md), [ejb](../tagged/ejb.md), [message-driven-bean](../tagged/message-driven-bean.md), [messaging](../tagged/messaging.md)
 ---
 #### [What Is Faster EJBs or CDI? - YouTube](https://www.youtube.com/watch?v=6Gm0u9gX56w)
 _<sup>https://www.youtube.com/watch?v=6Gm0u9gX56w</sup>_

@@ -1,6 +1,6 @@
-## Bookmarks tagged [[failover]](https://www.bookmarks.dev/search?q=[failover])
+## Bookmarks tagged [[failover]](https://www.codever.land/search?q=[failover])
 
-_<sup><sup>[www.bookmarks.dev/tagged/failover](https://www.bookmarks.dev/tagged/failover)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/failover](www.codever.land/bookmarks/t/failover)</sup></sup>_
 ---
 #### [Catastrophic Failover](https://martinfowler.com/bliki/CatastrophicFailover.html)
 _<sup>https://martinfowler.com/bliki/CatastrophicFailover.html</sup>_

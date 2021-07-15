@@ -1,6 +1,6 @@
-## Bookmarks tagged [[pipeline]](https://www.bookmarks.dev/search?q=[pipeline])
+## Bookmarks tagged [[pipeline]](https://www.codever.land/search?q=[pipeline])
 
-_<sup><sup>[www.bookmarks.dev/tagged/pipeline](https://www.bookmarks.dev/tagged/pipeline)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/pipeline](www.codever.land/bookmarks/t/pipeline)</sup></sup>_
 ---
 #### [Anton Arhipov - Build pipelines with TeamCity - 33min](https://www.youtube.com/watch?v=IHddt8HZLnE)
 _<sup>https://www.youtube.com/watch?v=IHddt8HZLnE</sup>_

@@ -1,6 +1,6 @@
-## Bookmarks tagged [[honeypot]](https://www.bookmarks.dev/search?q=[honeypot])
+## Bookmarks tagged [[honeypot]](https://www.codever.land/search?q=[honeypot])
 
-_<sup><sup>[www.bookmarks.dev/tagged/honeypot](https://www.bookmarks.dev/tagged/honeypot)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/honeypot](www.codever.land/bookmarks/t/honeypot)</sup></sup>_
 ---
 #### [awesome-honeypots](https://github.com/paralax/awesome-honeypots#readme)
 _<sup>https://github.com/paralax/awesome-honeypots#readme</sup>_

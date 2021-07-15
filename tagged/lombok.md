@@ -1,6 +1,6 @@
-## Bookmarks tagged [[lombok]](https://www.bookmarks.dev/search?q=[lombok])
+## Bookmarks tagged [[lombok]](https://www.codever.land/search?q=[lombok])
 
-_<sup><sup>[www.bookmarks.dev/tagged/lombok](https://www.bookmarks.dev/tagged/lombok)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/lombok](www.codever.land/bookmarks/t/lombok)</sup></sup>_
 ---
 #### [Project Lombok: Clean, Concise Java Code](https://www.oracle.com/corporate/features/project-lombok.html)
 _<sup>https://www.oracle.com/corporate/features/project-lombok.html</sup>_

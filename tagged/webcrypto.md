@@ -1,6 +1,6 @@
-## Bookmarks tagged [[webcrypto]](https://www.bookmarks.dev/search?q=[webcrypto])
+## Bookmarks tagged [[webcrypto]](https://www.codever.land/search?q=[webcrypto])
 
-_<sup><sup>[www.bookmarks.dev/tagged/webcrypto](https://www.bookmarks.dev/tagged/webcrypto)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/webcrypto](www.codever.land/bookmarks/t/webcrypto)</sup></sup>_
 ---
 #### [Moving beyond localStorage – Standard Journal](https://journal.standardnotes.org/moving-beyond-localstorage-991e3695be15)
 _<sup>https://journal.standardnotes.org/moving-beyond-localstorage-991e3695be15</sup>_

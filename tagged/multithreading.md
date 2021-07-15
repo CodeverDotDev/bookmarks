@@ -1,6 +1,6 @@
-## Bookmarks tagged [[multithreading]](https://www.bookmarks.dev/search?q=[multithreading])
+## Bookmarks tagged [[multithreading]](https://www.codever.land/search?q=[multithreading])
 
-_<sup><sup>[www.bookmarks.dev/tagged/multithreading](https://www.bookmarks.dev/tagged/multithreading)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/multithreading](www.codever.land/bookmarks/t/multithreading)</sup></sup>_
 ---
 #### [How do servlets work? Instantiation, sessions, shared variables and multithreading](https://stackoverflow.com/questions/3106452/how-do-servlets-work-instantiation-sessions-shared-variables-and-multithreadi)
 _<sup>https://stackoverflow.com/questions/3106452/how-do-servlets-work-instantiation-sessions-shared-varia...</sup>_

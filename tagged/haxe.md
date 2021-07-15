@@ -1,6 +1,6 @@
-## Bookmarks tagged [[haxe]](https://www.bookmarks.dev/search?q=[haxe])
+## Bookmarks tagged [[haxe]](https://www.codever.land/search?q=[haxe])
 
-_<sup><sup>[www.bookmarks.dev/tagged/haxe](https://www.bookmarks.dev/tagged/haxe)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/haxe](www.codever.land/bookmarks/t/haxe)</sup></sup>_
 ---
 #### [Kha Handbook](https://github.com/KTXSoftware/Kha/wiki/Tutorials)
 _<sup>https://github.com/KTXSoftware/Kha/wiki/Tutorials</sup>_

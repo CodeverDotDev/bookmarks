@@ -1,6 +1,6 @@
-## Bookmarks tagged [[service-mesh]](https://www.bookmarks.dev/search?q=[service-mesh])
+## Bookmarks tagged [[service-mesh]](https://www.codever.land/search?q=[service-mesh])
 
-_<sup><sup>[www.bookmarks.dev/tagged/service-mesh](https://www.bookmarks.dev/tagged/service-mesh)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/service-mesh](www.codever.land/bookmarks/t/service-mesh)</sup></sup>_
 ---
 #### [Life of a packet through Istio by Matt Turner - YouTube](https://www.youtube.com/watch?v=cB611FtjHcQ)
 _<sup>https://www.youtube.com/watch?v=cB611FtjHcQ</sup>_

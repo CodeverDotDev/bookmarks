@@ -1,6 +1,6 @@
-## Bookmarks tagged [[firefox-addon]](https://www.bookmarks.dev/search?q=[firefox-addon])
+## Bookmarks tagged [[firefox-addon]](https://www.codever.land/search?q=[firefox-addon])
 
-_<sup><sup>[www.bookmarks.dev/tagged/firefox-addon](https://www.bookmarks.dev/tagged/firefox-addon)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/firefox-addon](www.codever.land/bookmarks/t/firefox-addon)</sup></sup>_
 ---
 #### [Example extensions - Mozilla | MDN](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Examples)
 _<sup>https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Examples</sup>_

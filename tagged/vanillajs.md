@@ -1,6 +1,6 @@
-## Bookmarks tagged [[vanillajs]](https://www.bookmarks.dev/search?q=[vanillajs])
+## Bookmarks tagged [[vanillajs]](https://www.codever.land/search?q=[vanillajs])
 
-_<sup><sup>[www.bookmarks.dev/tagged/vanillajs](https://www.bookmarks.dev/tagged/vanillajs)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/vanillajs](www.codever.land/bookmarks/t/vanillajs)</sup></sup>_
 ---
 #### [Daily Dev Tips just for you - Daily Dev Tips](https://daily-dev-tips.com)
 _<sup>https://daily-dev-tips.com</sup>_

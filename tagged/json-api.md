@@ -1,6 +1,6 @@
-## Bookmarks tagged [[json-api]](https://www.bookmarks.dev/search?q=[json-api])
+## Bookmarks tagged [[json-api]](https://www.codever.land/search?q=[json-api])
 
-_<sup><sup>[www.bookmarks.dev/tagged/json-api](https://www.bookmarks.dev/tagged/json-api)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/json-api](www.codever.land/bookmarks/t/json-api)</sup></sup>_
 ---
 #### [JSON:API Home page](https://jsonapi.org/)
 _<sup>https://jsonapi.org/</sup>_

@@ -1,6 +1,6 @@
-## Bookmarks tagged [[assembly-language]](https://www.bookmarks.dev/search?q=[assembly-language])
+## Bookmarks tagged [[assembly-language]](https://www.codever.land/search?q=[assembly-language])
 
-_<sup><sup>[www.bookmarks.dev/tagged/assembly-language](https://www.bookmarks.dev/tagged/assembly-language)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/assembly-language](www.codever.land/bookmarks/t/assembly-language)</sup></sup>_
 ---
 #### [The Second Book of Machine Language](http://www.atariarchives.org/2bml/)
 _<sup>http://www.atariarchives.org/2bml/</sup>_

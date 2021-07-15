@@ -1,6 +1,19 @@
-## Bookmarks tagged [[dependency-injection]](https://www.bookmarks.dev/search?q=[dependency-injection])
+## Bookmarks tagged [[dependency-injection]](https://www.codever.land/search?q=[dependency-injection])
 
-_<sup><sup>[www.bookmarks.dev/tagged/dependency-injection](https://www.bookmarks.dev/tagged/dependency-injection)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/dependency-injection](www.codever.land/bookmarks/t/dependency-injection)</sup></sup>_
+---
+#### [Understanding Constructor Injection - Manning](https://freecontent.manning.com/understanding-constructor-injection/)
+_<sup>https://freecontent.manning.com/understanding-constructor-injection/</sup>_
+
+Constructor Injection is the act of statically defining the list of required Dependencies by specifying them as parameters to the class’s constructor.
+* **tags**: [dependency-injection](../tagged/dependency-injection.md), [oop](../tagged/oop.md)
+---
+#### [Analyse des dépendances - Sécurisation du cycle de développement applicatif](https://blog.wescale.fr/2021/06/22/securisation-du-cycle-de-developpement-applicatif-analyse-des-dependances/)
+_<sup>https://blog.wescale.fr/2021/06/22/securisation-du-cycle-de-developpement-applicatif-analyse-des-dep...</sup>_
+
+La sécurité applicative est un enjeu qui doit être pris en compte dès la conception du projet, chaperonné tout au long du cycle de développement.
+* :calendar: **published on**: 2021-06-22
+* **tags**: [dependency-injection](../tagged/dependency-injection.md), [security-tools](../tagged/security-tools.md)
 ---
 #### [Angular - Dependency injection in Angular](https://angular.io/guide/dependency-injection)
 _<sup>https://angular.io/guide/dependency-injection</sup>_

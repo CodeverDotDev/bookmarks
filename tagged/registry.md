@@ -1,6 +1,6 @@
-## Bookmarks tagged [[registry]](https://www.bookmarks.dev/search?q=[registry])
+## Bookmarks tagged [[registry]](https://www.codever.land/search?q=[registry])
 
-_<sup><sup>[www.bookmarks.dev/tagged/registry](https://www.bookmarks.dev/tagged/registry)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/registry](www.codever.land/bookmarks/t/registry)</sup></sup>_
 ---
 #### [Deno blockchain based module registry](https://nest.land/)
 _<sup>https://nest.land/</sup>_

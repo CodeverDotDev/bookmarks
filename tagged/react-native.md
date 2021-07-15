@@ -1,6 +1,6 @@
-## Bookmarks tagged [[react-native]](https://www.bookmarks.dev/search?q=[react-native])
+## Bookmarks tagged [[react-native]](https://www.codever.land/search?q=[react-native])
 
-_<sup><sup>[www.bookmarks.dev/tagged/react-native](https://www.bookmarks.dev/tagged/react-native)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/react-native](www.codever.land/bookmarks/t/react-native)</sup></sup>_
 ---
 #### [React Native Newsletter](http://brentvatne.ca/react-native-newsletter/)
 _<sup>http://brentvatne.ca/react-native-newsletter/</sup>_

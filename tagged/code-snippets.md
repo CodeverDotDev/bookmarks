@@ -1,6 +1,20 @@
-## Bookmarks tagged [[code-snippets]](https://www.bookmarks.dev/search?q=[code-snippets])
+## Bookmarks tagged [[code-snippets]](https://www.codever.land/search?q=[code-snippets])
 
-_<sup><sup>[www.bookmarks.dev/tagged/code-snippets](https://www.bookmarks.dev/tagged/code-snippets)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/code-snippets](www.codever.land/bookmarks/t/code-snippets)</sup></sup>_
+---
+#### [GitHub - dapbs/customer_service_bot: codeacademy customer_service_bot](https://github.com/dapbs/customer_service_bot)
+_<sup>https://github.com/dapbs/customer_service_bot</sup>_
+
+codeacademy customer_service_bot. Contribute to dapbs/customer_service_bot development by creating an account on GitHub.
+* **tags**: [learn-to-code](../tagged/learn-to-code.md), [jupyter](../tagged/jupyter.md), [python](../tagged/python.md), [code-snippets](../tagged/code-snippets.md), [example-apps](../tagged/example-apps.md)
+* :octocat: **[source code](https://github.com/dapbs/customer_service_bot)**
+---
+#### [GitHub - pengwynn/sass-and-compass-in-action: Code samples for Sass and Compass in Action](https://github.com/pengwynn/sass-and-compass-in-action)
+_<sup>https://github.com/pengwynn/sass-and-compass-in-action</sup>_
+
+Code samples for Sass and Compass in Action. Contribute to pengwynn/sass-and-compass-in-action development by creating an account on GitHub.
+* **tags**: [sass](../tagged/sass.md), [scss](../tagged/scss.md), [design-tools](../tagged/design-tools.md), [code-snippets](../tagged/code-snippets.md), [learn-to-code](../tagged/learn-to-code.md)
+* :octocat: **[source code](https://github.com/pengwynn/sass-and-compass-in-action)**
 ---
 #### [GitHub - zishon89us/node-cheat: Awesome Node Cheats](https://github.com/zishon89us/node-cheat)
 _<sup>https://github.com/zishon89us/node-cheat</sup>_

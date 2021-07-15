@@ -1,6 +1,6 @@
-## Bookmarks tagged [[shrinkwrap]](https://www.bookmarks.dev/search?q=[shrinkwrap])
+## Bookmarks tagged [[shrinkwrap]](https://www.codever.land/search?q=[shrinkwrap])
 
-_<sup><sup>[www.bookmarks.dev/tagged/shrinkwrap](https://www.bookmarks.dev/tagged/shrinkwrap)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/shrinkwrap](www.codever.land/bookmarks/t/shrinkwrap)</sup></sup>_
 ---
 #### [ShrinkWrap Resolver · Arquillian](http://arquillian.org/modules/resolver-shrinkwrap/)
 _<sup>http://arquillian.org/modules/resolver-shrinkwrap/</sup>_

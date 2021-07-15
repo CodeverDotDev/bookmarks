@@ -1,6 +1,6 @@
-## Bookmarks tagged [[indexing]](https://www.bookmarks.dev/search?q=[indexing])
+## Bookmarks tagged [[indexing]](https://www.codever.land/search?q=[indexing])
 
-_<sup><sup>[www.bookmarks.dev/tagged/indexing](https://www.bookmarks.dev/tagged/indexing)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/indexing](www.codever.land/bookmarks/t/indexing)</sup></sup>_
 ---
 #### [How to Create Database Indexes: Databases for Developers: Performance 12min](https://www.youtube.com/watch?v=7wLFr7ZnKPU&feature=emb_logo)
 _<sup>https://www.youtube.com/watch?v=7wLFr7ZnKPU&feature=emb_logo</sup>_

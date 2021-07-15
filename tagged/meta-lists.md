@@ -1,6 +1,6 @@
-## Bookmarks tagged [[meta-lists]](https://www.bookmarks.dev/search?q=[meta-lists])
+## Bookmarks tagged [[meta-lists]](https://www.codever.land/search?q=[meta-lists])
 
-_<sup><sup>[www.bookmarks.dev/tagged/meta-lists](https://www.bookmarks.dev/tagged/meta-lists)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/meta-lists](www.codever.land/bookmarks/t/meta-lists)</sup></sup>_
 ---
 #### [Galileo Computing - openbook](https://www.rheinwerk-verlag.de/openbook/)
 _<sup>https://www.rheinwerk-verlag.de/openbook/</sup>_

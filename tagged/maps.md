@@ -1,6 +1,6 @@
-## Bookmarks tagged [[maps]](https://www.bookmarks.dev/search?q=[maps])
+## Bookmarks tagged [[maps]](https://www.codever.land/search?q=[maps])
 
-_<sup><sup>[www.bookmarks.dev/tagged/maps](https://www.bookmarks.dev/tagged/maps)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/maps](www.codever.land/bookmarks/t/maps)</sup></sup>_
 ---
 #### [react-googlemaps - React interface to Google maps](https://github.com/pieterv/react-googlemaps)
 _<sup>https://github.com/pieterv/react-googlemaps</sup>_

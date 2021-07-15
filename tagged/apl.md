@@ -1,6 +1,6 @@
-## Bookmarks tagged [[apl]](https://www.bookmarks.dev/search?q=[apl])
+## Bookmarks tagged [[apl]](https://www.codever.land/search?q=[apl])
 
-_<sup><sup>[www.bookmarks.dev/tagged/apl](https://www.bookmarks.dev/tagged/apl)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/apl](www.codever.land/bookmarks/t/apl)</sup></sup>_
 ---
 #### [Mastering Dyalog APL](http://www.dyalog.com/mastering-dyalog-apl.htm)
 _<sup>http://www.dyalog.com/mastering-dyalog-apl.htm</sup>_

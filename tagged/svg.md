@@ -1,6 +1,19 @@
-## Bookmarks tagged [[svg]](https://www.bookmarks.dev/search?q=[svg])
+## Bookmarks tagged [[svg]](https://www.codever.land/search?q=[svg])
 
-_<sup><sup>[www.bookmarks.dev/tagged/svg](https://www.bookmarks.dev/tagged/svg)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/svg](www.codever.land/bookmarks/t/svg)</sup></sup>_
+---
+#### [Free Lottie Animation Files, Tools & Plugins - LottieFiles](https://lottiefiles.com/)
+_<sup>https://lottiefiles.com/</sup>_
+
+The world’s largest online platform for the world’s smallest animation format for designers, developers, and more. Access Lottie animation tools and plugins for Android, iOS, and Web.
+* **tags**: [lottie](../tagged/lottie.md), [animation](../tagged/animation.md), [svg](../tagged/svg.md), [opensource](../tagged/opensource.md)
+---
+#### [
+    Animating with Lottie | CSS-Tricks  ](https://css-tricks.com/animating-with-lottie/)
+_<sup>https://css-tricks.com/animating-with-lottie/</sup>_
+
+I believe animation on the web is not only fun, but engaging in such a way that it has converted site visitors into customers. Think of the “Like” button
+* **tags**: [animagion](../tagged/animagion.md), [svg](../tagged/svg.md), [lottie](../tagged/lottie.md), [css-tricks](../tagged/css-tricks.md)
 ---
 #### [Tabler Icons - 550+ Highly customizable free SVG icons](https://tablericons.com/)
 _<sup>https://tablericons.com/</sup>_

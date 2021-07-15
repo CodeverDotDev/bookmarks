@@ -1,6 +1,6 @@
-## Bookmarks tagged [[actionscript-3]](https://www.bookmarks.dev/search?q=[actionscript-3])
+## Bookmarks tagged [[actionscript-3]](https://www.codever.land/search?q=[actionscript-3])
 
-_<sup><sup>[www.bookmarks.dev/tagged/actionscript-3](https://www.bookmarks.dev/tagged/actionscript-3)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/actionscript-3](www.codever.land/bookmarks/t/actionscript-3)</sup></sup>_
 ---
 #### [awesome-actionscript3](https://github.com/robinrodricks/awesome-actionscript3#readme)
 _<sup>https://github.com/robinrodricks/awesome-actionscript3#readme</sup>_

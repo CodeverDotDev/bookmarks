@@ -1,6 +1,6 @@
-## Bookmarks tagged [[picolisp]](https://www.bookmarks.dev/search?q=[picolisp])
+## Bookmarks tagged [[picolisp]](https://www.codever.land/search?q=[picolisp])
 
-_<sup><sup>[www.bookmarks.dev/tagged/picolisp](https://www.bookmarks.dev/tagged/picolisp)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/picolisp](www.codever.land/bookmarks/t/picolisp)</sup></sup>_
 ---
 #### [PicoLisp Works](https://github.com/tj64/picolisp-works)
 _<sup>https://github.com/tj64/picolisp-works</sup>_

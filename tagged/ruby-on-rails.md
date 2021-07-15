@@ -1,6 +1,13 @@
-## Bookmarks tagged [[ruby-on-rails]](https://www.bookmarks.dev/search?q=[ruby-on-rails])
+## Bookmarks tagged [[ruby-on-rails]](https://www.codever.land/search?q=[ruby-on-rails])
 
-_<sup><sup>[www.bookmarks.dev/tagged/ruby-on-rails](https://www.bookmarks.dev/tagged/ruby-on-rails)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/ruby-on-rails](www.codever.land/bookmarks/t/ruby-on-rails)</sup></sup>_
+---
+#### [🌈 Newsletter Wor #13: L'open-source: engagez-vous, rengagez-vous qu'ils disaient - Newsletter Women On Rails](https://womenonrails.substack.com/p/-newsletter-wor-13-lopen-source-engagez)
+_<sup>https://womenonrails.substack.com/p/-newsletter-wor-13-lopen-source-engagez</sup>_
+
+Une newsletter bimensuelle sur l'actualité Ruby on Rails et web
+* :calendar: **published on**: 2021-06-22
+* **tags**: [open-source](../tagged/open-source.md), [ruby](../tagged/ruby.md), [ruby-on-rails](../tagged/ruby-on-rails.md)
 ---
 #### [awesome-rails](https://github.com/ekremkaraca/awesome-rails#readme)
 _<sup>https://github.com/ekremkaraca/awesome-rails#readme</sup>_

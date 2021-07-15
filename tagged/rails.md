@@ -1,6 +1,6 @@
-## Bookmarks tagged [[rails]](https://www.bookmarks.dev/search?q=[rails])
+## Bookmarks tagged [[rails]](https://www.codever.land/search?q=[rails])
 
-_<sup><sup>[www.bookmarks.dev/tagged/rails](https://www.bookmarks.dev/tagged/rails)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/rails](www.codever.land/bookmarks/t/rails)</sup></sup>_
 ---
 #### [Bootstrappers](https://github.com/xdite/bootstrappers)
 _<sup>https://github.com/xdite/bootstrappers</sup>_

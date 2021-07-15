@@ -1,6 +1,6 @@
-## Bookmarks tagged [[yeoman]](https://www.bookmarks.dev/search?q=[yeoman])
+## Bookmarks tagged [[yeoman]](https://www.codever.land/search?q=[yeoman])
 
-_<sup><sup>[www.bookmarks.dev/tagged/yeoman](https://www.bookmarks.dev/tagged/yeoman)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/yeoman](www.codever.land/bookmarks/t/yeoman)</sup></sup>_
 ---
 #### [GitHub - diegohaz/rest: REST API generator with Node.js, Express and Mongoose](https://github.com/diegohaz/rest)
 _<sup>https://github.com/diegohaz/rest</sup>_

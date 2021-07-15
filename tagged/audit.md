@@ -1,6 +1,6 @@
-## Bookmarks tagged [[audit]](https://www.bookmarks.dev/search?q=[audit])
+## Bookmarks tagged [[audit]](https://www.codever.land/search?q=[audit])
 
-_<sup><sup>[www.bookmarks.dev/tagged/audit](https://www.bookmarks.dev/tagged/audit)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/audit](www.codever.land/bookmarks/t/audit)</sup></sup>_
 ---
 #### [Hibernate Envers - Getting started](https://thorben-janssen.com/hibernate-envers-getting-started/)
 _<sup>https://thorben-janssen.com/hibernate-envers-getting-started/</sup>_

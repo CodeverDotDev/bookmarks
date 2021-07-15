@@ -1,6 +1,6 @@
-## Bookmarks tagged [[spring-data]](https://www.bookmarks.dev/search?q=[spring-data])
+## Bookmarks tagged [[spring-data]](https://www.codever.land/search?q=[spring-data])
 
-_<sup><sup>[www.bookmarks.dev/tagged/spring-data](https://www.bookmarks.dev/tagged/spring-data)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/spring-data](www.codever.land/bookmarks/t/spring-data)</sup></sup>_
 ---
 #### [Spring Data Repositories compared](https://www.baeldung.com/spring-data-repositories)
 _<sup>https://www.baeldung.com/spring-data-repositories</sup>_

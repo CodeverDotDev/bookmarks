@@ -1,6 +1,6 @@
-## Bookmarks tagged [[sublime]](https://www.bookmarks.dev/search?q=[sublime])
+## Bookmarks tagged [[sublime]](https://www.codever.land/search?q=[sublime])
 
-_<sup><sup>[www.bookmarks.dev/tagged/sublime](https://www.bookmarks.dev/tagged/sublime)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/sublime](www.codever.land/bookmarks/t/sublime)</sup></sup>_
 ---
 #### [awesome-sublime-bookmarks](https://github.com/dreikanter/sublime-bookmarks#readme)
 _<sup>https://github.com/dreikanter/sublime-bookmarks#readme</sup>_

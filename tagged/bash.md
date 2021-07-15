@@ -1,6 +1,20 @@
-## Bookmarks tagged [[bash]](https://www.bookmarks.dev/search?q=[bash])
+## Bookmarks tagged [[bash]](https://www.codever.land/search?q=[bash])
 
-_<sup><sup>[www.bookmarks.dev/tagged/bash](https://www.bookmarks.dev/tagged/bash)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/bash](www.codever.land/bookmarks/t/bash)</sup></sup>_
+---
+#### [How to find out line-endings in a text file?](https://stackoverflow.com/questions/3569997/how-to-find-out-line-endings-in-a-text-file)
+_<sup>https://stackoverflow.com/questions/3569997/how-to-find-out-line-endings-in-a-text-file</sup>_
+
+Describes how to find / display line endings in files on linux system.
+* :calendar: **published on**: 2010-08-25
+* **tags**: [linux](../tagged/linux.md), [bash](../tagged/bash.md), [command-line](../tagged/command-line.md), [newline](../tagged/newline.md), [line-endings](../tagged/line-endings.md)
+---
+#### [GitHub - jlevy/the-art-of-command-line: Master the command line, in one page](https://github.com/jlevy/the-art-of-command-line)
+_<sup>https://github.com/jlevy/the-art-of-command-line</sup>_
+
+Master the command line, in one page. Contribute to jlevy/the-art-of-command-line development by creating an account on GitHub.
+* **tags**: [windows](../tagged/windows.md), [macos](../tagged/macos.md), [linux](../tagged/linux.md), [bash](../tagged/bash.md), [documentation](../tagged/documentation.md), [unix](../tagged/unix.md)
+* :octocat: **[source code](https://github.com/jlevy/the-art-of-command-line)**
 ---
 #### [Devhints — TL;DR for developer documentation](https://devhints.io/)
 _<sup>https://devhints.io/</sup>_

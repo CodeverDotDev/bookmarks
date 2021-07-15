@@ -1,6 +1,6 @@
-## Bookmarks tagged [[aws-sdk]](https://www.bookmarks.dev/search?q=[aws-sdk])
+## Bookmarks tagged [[aws-sdk]](https://www.codever.land/search?q=[aws-sdk])
 
-_<sup><sup>[www.bookmarks.dev/tagged/aws-sdk](https://www.bookmarks.dev/tagged/aws-sdk)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/aws-sdk](www.codever.land/bookmarks/t/aws-sdk)</sup></sup>_
 ---
 #### [Uploading Photos to Amazon S3: Full Code - AWS SDK for JavaScript](https://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/s3-example-photo-album.html)
 _<sup>https://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/s3-example-photo-album.html</sup>_

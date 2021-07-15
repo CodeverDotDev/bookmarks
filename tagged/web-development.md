@@ -1,6 +1,20 @@
-## Bookmarks tagged [[web-development]](https://www.bookmarks.dev/search?q=[web-development])
+## Bookmarks tagged [[web-development]](https://www.codever.land/search?q=[web-development])
 
-_<sup><sup>[www.bookmarks.dev/tagged/web-development](https://www.bookmarks.dev/tagged/web-development)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/web-development](www.codever.land/bookmarks/t/web-development)</sup></sup>_
+---
+#### [GreenSock](https://greensock.com/)
+_<sup>https://greensock.com/</sup>_
+
+GSAP is an industry standard JavaScript animation library from GreenSock that lets you craft high-performance animations that work in every major browser.
+* **tags**: [javascript](../tagged/javascript.md), [annimation](../tagged/annimation.md), [web-development](../tagged/web-development.md)
+---
+#### [GitHub - kamranahmedse/developer-roadmap: Roadmap to becoming a web developer in 2021](https://github.com/kamranahmedse/developer-roadmap/blob/master/README.md)
+_<sup>https://github.com/kamranahmedse/developer-roadmap/blob/master/README.md</sup>_
+
+Roadmap to becoming a web developer in 2021. Contribute to kamranahmedse/developer-roadmap development by creating an account on GitHub.
+* :calendar: **published on**: 2021-01-05
+* **tags**: [web-development](../tagged/web-development.md), [roadmaps](../tagged/roadmaps.md)
+* :octocat: **[source code](https://github.com/kamranahmedse/developer-roadmap)**
 ---
 #### [Top Web Development Tools for Building Business Applications in 2021 | Hacker Noon](https://hackernoon.com/top-web-development-tools-for-building-business-applications-in-2021-0n1234pe?source=rss)
 _<sup>https://hackernoon.com/top-web-development-tools-for-building-business-applications-in-2021-0n1234pe...</sup>_

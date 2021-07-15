@@ -1,6 +1,14 @@
-## Bookmarks tagged [[hibernate]](https://www.bookmarks.dev/search?q=[hibernate])
+## Bookmarks tagged [[hibernate]](https://www.codever.land/search?q=[hibernate])
 
-_<sup><sup>[www.bookmarks.dev/tagged/hibernate](https://www.bookmarks.dev/tagged/hibernate)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/hibernate](www.codever.land/bookmarks/t/hibernate)</sup></sup>_
+---
+#### [Enum Mappings with Hibernate - The Complete Guide](https://thorben-janssen.com/hibernate-enum-mappings/)
+_<sup>https://thorben-janssen.com/hibernate-enum-mappings/</sup>_
+
+With Hibernate, you can map enums in 3 ways:
+
+1. Hibernate’s standard mappings provide a simple way to store enum values in your database. You can choose if you want to persist the String representati...
+* **tags**: [java](../tagged/java.md), [jpa](../tagged/jpa.md), [hibernate](../tagged/hibernate.md)
 ---
 #### [Hibernate Envers - Getting started](https://thorben-janssen.com/hibernate-envers-getting-started/)
 _<sup>https://thorben-janssen.com/hibernate-envers-getting-started/</sup>_

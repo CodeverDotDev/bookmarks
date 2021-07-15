@@ -1,6 +1,6 @@
-## Bookmarks tagged [[utilities]](https://www.bookmarks.dev/search?q=[utilities])
+## Bookmarks tagged [[utilities]](https://www.codever.land/search?q=[utilities])
 
-_<sup><sup>[www.bookmarks.dev/tagged/utilities](https://www.bookmarks.dev/tagged/utilities)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/utilities](www.codever.land/bookmarks/t/utilities)</sup></sup>_
 ---
 #### [brycx/checkpwn](https://github.com/brycx/checkpwn)
 _<sup>https://github.com/brycx/checkpwn</sup>_

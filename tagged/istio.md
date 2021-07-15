@@ -1,6 +1,6 @@
-## Bookmarks tagged [[istio]](https://www.bookmarks.dev/search?q=[istio])
+## Bookmarks tagged [[istio]](https://www.codever.land/search?q=[istio])
 
-_<sup><sup>[www.bookmarks.dev/tagged/istio](https://www.bookmarks.dev/tagged/istio)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/istio](www.codever.land/bookmarks/t/istio)</sup></sup>_
 ---
 #### [Life of a packet through Istio by Matt Turner - YouTube](https://www.youtube.com/watch?v=cB611FtjHcQ)
 _<sup>https://www.youtube.com/watch?v=cB611FtjHcQ</sup>_

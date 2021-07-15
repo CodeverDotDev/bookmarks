@@ -1,6 +1,6 @@
-## Bookmarks tagged [[cordova]](https://www.bookmarks.dev/search?q=[cordova])
+## Bookmarks tagged [[cordova]](https://www.codever.land/search?q=[cordova])
 
-_<sup><sup>[www.bookmarks.dev/tagged/cordova](https://www.bookmarks.dev/tagged/cordova)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/cordova](www.codever.land/bookmarks/t/cordova)</sup></sup>_
 ---
 #### [awesome-cordova](https://github.com/busterc/awesome-cordova#readme)
 _<sup>https://github.com/busterc/awesome-cordova#readme</sup>_

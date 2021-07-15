@@ -1,6 +1,6 @@
-## Bookmarks tagged [[event-driven-design]](https://www.bookmarks.dev/search?q=[event-driven-design])
+## Bookmarks tagged [[event-driven-design]](https://www.codever.land/search?q=[event-driven-design])
 
-_<sup><sup>[www.bookmarks.dev/tagged/event-driven-design](https://www.bookmarks.dev/tagged/event-driven-design)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/event-driven-design](www.codever.land/bookmarks/t/event-driven-design)</sup></sup>_
 ---
 #### [5 Protocols For Event-Driven API Architectures](https://nordicapis.com/5-protocols-for-event-driven-api-architectures/)
 _<sup>https://nordicapis.com/5-protocols-for-event-driven-api-architectures/</sup>_

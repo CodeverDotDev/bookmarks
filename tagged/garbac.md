@@ -1,6 +1,6 @@
-## Bookmarks tagged [[garbac]](https://www.bookmarks.dev/search?q=[garbac])
+## Bookmarks tagged [[garbac]](https://www.codever.land/search?q=[garbac])
 
-_<sup><sup>[www.bookmarks.dev/tagged/garbac](https://www.bookmarks.dev/tagged/garbac)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/garbac](www.codever.land/bookmarks/t/garbac)</sup></sup>_
 ---
 #### [A New Age of JVM Garbage Collectors - Alexander Yakushev - 37min](https://www.youtube.com/watch?v=k4vkd0ahWjQ)
 _<sup>https://www.youtube.com/watch?v=k4vkd0ahWjQ</sup>_

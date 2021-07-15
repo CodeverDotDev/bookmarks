@@ -1,6 +1,6 @@
-## Bookmarks tagged [[distributed-system]](https://www.bookmarks.dev/search?q=[distributed-system])
+## Bookmarks tagged [[distributed-system]](https://www.codever.land/search?q=[distributed-system])
 
-_<sup><sup>[www.bookmarks.dev/tagged/distributed-system](https://www.bookmarks.dev/tagged/distributed-system)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/distributed-system](www.codever.land/bookmarks/t/distributed-system)</sup></sup>_
 ---
 #### [Nordic.js 2019 • James Simpson - Building Distributed Systems with Node.js  - 23min](https://www.youtube.com/watch?v=GUtd-zEDgjQ)
 _<sup>https://www.youtube.com/watch?v=GUtd-zEDgjQ</sup>_

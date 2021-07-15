@@ -1,6 +1,6 @@
-## Bookmarks tagged [[distributed]](https://www.bookmarks.dev/search?q=[distributed])
+## Bookmarks tagged [[distributed]](https://www.codever.land/search?q=[distributed])
 
-_<sup><sup>[www.bookmarks.dev/tagged/distributed](https://www.bookmarks.dev/tagged/distributed)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/distributed](www.codever.land/bookmarks/t/distributed)</sup></sup>_
 ---
 #### [GitHub - Netflix/Hystrix](https://github.com/Netflix/Hystrix)
 _<sup>https://github.com/Netflix/Hystrix</sup>_

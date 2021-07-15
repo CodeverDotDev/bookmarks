@@ -1,6 +1,6 @@
-## Bookmarks tagged [[preact]](https://www.bookmarks.dev/search?q=[preact])
+## Bookmarks tagged [[preact]](https://www.codever.land/search?q=[preact])
 
-_<sup><sup>[www.bookmarks.dev/tagged/preact](https://www.bookmarks.dev/tagged/preact)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/preact](www.codever.land/bookmarks/t/preact)</sup></sup>_
 ---
 #### [awesome-preact](https://github.com/ooade/awesome-preact#readme)
 _<sup>https://github.com/ooade/awesome-preact#readme</sup>_

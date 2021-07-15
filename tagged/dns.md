@@ -1,6 +1,18 @@
-## Bookmarks tagged [[dns]](https://www.bookmarks.dev/search?q=[dns])
+## Bookmarks tagged [[dns]](https://www.codever.land/search?q=[dns])
 
-_<sup><sup>[www.bookmarks.dev/tagged/dns](https://www.bookmarks.dev/tagged/dns)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/dns](www.codever.land/bookmarks/t/dns)</sup></sup>_
+---
+#### [DNS Checker - DNS Check Propagation Tool](https://dnschecker.org/)
+_<sup>https://dnschecker.org/</sup>_
+
+CHECK DNS PROPAGATION
+* **tags**: [dns](../tagged/dns.md), [tools](../tagged/tools.md)
+---
+#### [dig Man Page - Linux - SS64.com](https://ss64.com/bash/dig.html)
+_<sup>https://ss64.com/bash/dig.html</sup>_
+
+* :calendar: **published on**: 2021-04-19
+* **tags**: [dig](../tagged/dig.md), [dns](../tagged/dns.md), [tool](../tagged/tool.md), [lookups](../tagged/lookups.md)
 ---
 #### [MX Lookup Tool - Check your DNS MX Records online - MxToolbox](https://mxtoolbox.com/)
 _<sup>https://mxtoolbox.com/</sup>_

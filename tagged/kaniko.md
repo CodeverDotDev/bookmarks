@@ -1,6 +1,6 @@
-## Bookmarks tagged [[kaniko]](https://www.bookmarks.dev/search?q=[kaniko])
+## Bookmarks tagged [[kaniko]](https://www.codever.land/search?q=[kaniko])
 
-_<sup><sup>[www.bookmarks.dev/tagged/kaniko](https://www.bookmarks.dev/tagged/kaniko)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/kaniko](www.codever.land/bookmarks/t/kaniko)</sup></sup>_
 ---
 #### [Google Open Source Container Tools: Life of a happy developer in a container world  by  David Gageot - YouTube](https://www.youtube.com/watch?v=4uU44VviyjM)
 _<sup>https://www.youtube.com/watch?v=4uU44VviyjM</sup>_

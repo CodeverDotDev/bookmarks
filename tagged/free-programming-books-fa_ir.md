@@ -1,6 +1,6 @@
-## Bookmarks tagged [[free-programming-books-fa_ir]](https://www.bookmarks.dev/search?q=[free-programming-books-fa_ir])
+## Bookmarks tagged [[free-programming-books-fa_ir]](https://www.codever.land/search?q=[free-programming-books-fa_ir])
 
-_<sup><sup>[www.bookmarks.dev/tagged/free-programming-books-fa_ir](https://www.bookmarks.dev/tagged/free-programming-books-fa_ir)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/free-programming-books-fa_ir](www.codever.land/bookmarks/t/free-programming-books-fa_ir)</sup></sup>_
 ---
 #### [الگوهای طراحی در برنامه‌نویسی شیء‌گرا](https://github.com/khajavi/Practical-Design-Patterns)
 _<sup>https://github.com/khajavi/Practical-Design-Patterns</sup>_

@@ -1,6 +1,6 @@
-## Bookmarks tagged [[google-compute-engine]](https://www.bookmarks.dev/search?q=[google-compute-engine])
+## Bookmarks tagged [[google-compute-engine]](https://www.codever.land/search?q=[google-compute-engine])
 
-_<sup><sup>[www.bookmarks.dev/tagged/google-compute-engine](https://www.bookmarks.dev/tagged/google-compute-engine)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/google-compute-engine](www.codever.land/bookmarks/t/google-compute-engine)</sup></sup>_
 ---
 #### [Application Capacity Optimizations with Global Load Balancing](https://cloud.google.com/solutions/about-capacity-optimization-with-global-lb)
 _<sup>https://cloud.google.com/solutions/about-capacity-optimization-with-global-lb</sup>_

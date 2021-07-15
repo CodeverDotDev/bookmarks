@@ -1,6 +1,11 @@
-## Bookmarks tagged [[next.js]](https://www.bookmarks.dev/search?q=[next.js])
+## Bookmarks tagged [[next.js]](https://www.codever.land/search?q=[next.js])
 
-_<sup><sup>[www.bookmarks.dev/tagged/next.js](https://www.bookmarks.dev/tagged/next.js)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/next.js](www.codever.land/bookmarks/t/next.js)</sup></sup>_
+---
+#### [Build a realtime table with Next.js](https://pusher.com/tutorials/realtime-tables-nextjs)
+_<sup>https://pusher.com/tutorials/realtime-tables-nextjs</sup>_
+
+* **tags**: [next.js](../tagged/next.js.md)
 ---
 #### [Official Next.js plugins](https://github.com/zeit/next-plugins)
 _<sup>https://github.com/zeit/next-plugins</sup>_

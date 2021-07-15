@@ -1,6 +1,20 @@
-## Bookmarks tagged [[openid-connect]](https://www.bookmarks.dev/search?q=[openid-connect])
+## Bookmarks tagged [[openid-connect]](https://www.codever.land/search?q=[openid-connect])
 
-_<sup><sup>[www.bookmarks.dev/tagged/openid-connect](https://www.bookmarks.dev/tagged/openid-connect)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/openid-connect](www.codever.land/bookmarks/t/openid-connect)</sup></sup>_
+---
+#### [Examples of offline token usage in Keycloak - JANUA](https://www.janua.fr/examples-of-offline-token-usage-in-keycloak/)
+_<sup>https://www.janua.fr/examples-of-offline-token-usage-in-keycloak/</sup>_
+
+In this article we share examples of offline token usage in Keycloa
+* **tags**: [keycloak](../tagged/keycloak.md), [openid-connect](../tagged/openid-connect.md), [access-token](../tagged/access-token.md)
+* :octocat: **[source code](https://github.com/keycloak/keycloak/tree/master/examples/demo-template/offline-access-app)**
+---
+#### [IdentityModel/oidc-client-js](https://github.com/IdentityModel/oidc-client-js/)
+_<sup>https://github.com/IdentityModel/oidc-client-js/</sup>_
+
+OpenID Connect (OIDC) and OAuth2 protocol support for browser-based JavaScript applications
+* **tags**: [javascript](../tagged/javascript.md), [openid-connect](../tagged/openid-connect.md), [oauth2](../tagged/oauth2.md)
+* :octocat: **[source code](https://github.com/IdentityModel/oidc-client-js/)**
 ---
 #### [RFC 7636 - Proof Key for Code Exchange by OAuth Public Clients](https://tools.ietf.org/html/rfc7636)
 _<sup>https://tools.ietf.org/html/rfc7636</sup>_

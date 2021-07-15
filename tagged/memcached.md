@@ -1,6 +1,6 @@
-## Bookmarks tagged [[memcached]](https://www.bookmarks.dev/search?q=[memcached])
+## Bookmarks tagged [[memcached]](https://www.codever.land/search?q=[memcached])
 
-_<sup><sup>[www.bookmarks.dev/tagged/memcached](https://www.bookmarks.dev/tagged/memcached)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/memcached](www.codever.land/bookmarks/t/memcached)</sup></sup>_
 ---
 #### [memcached - a distributed memory object caching system](http://memcached.org/)
 _<sup>http://memcached.org/</sup>_

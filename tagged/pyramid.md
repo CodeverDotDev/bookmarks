@@ -1,6 +1,6 @@
-## Bookmarks tagged [[pyramid]](https://www.bookmarks.dev/search?q=[pyramid])
+## Bookmarks tagged [[pyramid]](https://www.codever.land/search?q=[pyramid])
 
-_<sup><sup>[www.bookmarks.dev/tagged/pyramid](https://www.bookmarks.dev/tagged/pyramid)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/pyramid](www.codever.land/bookmarks/t/pyramid)</sup></sup>_
 ---
 #### [cornice](https://github.com/Cornices/cornice)
 _<sup>https://github.com/Cornices/cornice</sup>_

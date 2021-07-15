@@ -1,6 +1,19 @@
-## Bookmarks tagged [[frontend]](https://www.bookmarks.dev/search?q=[frontend])
+## Bookmarks tagged [[frontend]](https://www.codever.land/search?q=[frontend])
 
-_<sup><sup>[www.bookmarks.dev/tagged/frontend](https://www.bookmarks.dev/tagged/frontend)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/frontend](www.codever.land/bookmarks/t/frontend)</sup></sup>_
+---
+#### [iziToast home page](https://izitoast.marcelodolza.com/)
+_<sup>https://izitoast.marcelodolza.com/</sup>_
+
+Elegant, responsive, flexible and lightweight notification plugin with no dependencies. by Marcelo Dolza.
+* **tags**: [notifications](../tagged/notifications.md), [frontend](../tagged/frontend.md), [javascript](../tagged/javascript.md), [popup](../tagged/popup.md), [dialog](../tagged/dialog.md)
+* :octocat: **[source code](https://github.com/marcelodolza/iziToast)**
+---
+#### [Luigi - The Enterprise-Ready Micro Frontend Framework](https://luigi-project.io/)
+_<sup>https://luigi-project.io/</sup>_
+
+Luigi is a micro frontend framework that enables you to create a unified user experience across a large set of functionality
+* **tags**: [luigi](../tagged/luigi.md), [frontend](../tagged/frontend.md), [ui](../tagged/ui.md), [microfrontend](../tagged/microfrontend.md), [sap](../tagged/sap.md)
 ---
 #### [Top Frontend Frameworks - KeyCDN](https://www.keycdn.com/blog/frontend-frameworks)
 _<sup>https://www.keycdn.com/blog/frontend-frameworks</sup>_

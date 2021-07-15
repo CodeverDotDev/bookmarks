@@ -1,6 +1,6 @@
-## Bookmarks tagged [[fake-data]](https://www.bookmarks.dev/search?q=[fake-data])
+## Bookmarks tagged [[fake-data]](https://www.codever.land/search?q=[fake-data])
 
-_<sup><sup>[www.bookmarks.dev/tagged/fake-data](https://www.bookmarks.dev/tagged/fake-data)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/fake-data](www.codever.land/bookmarks/t/fake-data)</sup></sup>_
 ---
 #### [JSONPlaceholder - Fake online REST API for testing and prototyping](https://jsonplaceholder.typicode.com/)
 _<sup>https://jsonplaceholder.typicode.com/</sup>_

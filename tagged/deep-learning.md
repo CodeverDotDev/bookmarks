@@ -1,6 +1,6 @@
-## Bookmarks tagged [[deep-learning]](https://www.bookmarks.dev/search?q=[deep-learning])
+## Bookmarks tagged [[deep-learning]](https://www.codever.land/search?q=[deep-learning])
 
-_<sup><sup>[www.bookmarks.dev/tagged/deep-learning](https://www.bookmarks.dev/tagged/deep-learning)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/deep-learning](www.codever.land/bookmarks/t/deep-learning)</sup></sup>_
 ---
 #### [Neural networks and deep learning](http://neuralnetworksanddeeplearning.com/)
 _<sup>http://neuralnetworksanddeeplearning.com/</sup>_

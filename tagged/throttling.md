@@ -1,6 +1,6 @@
-## Bookmarks tagged [[throttling]](https://www.bookmarks.dev/search?q=[throttling])
+## Bookmarks tagged [[throttling]](https://www.codever.land/search?q=[throttling])
 
-_<sup><sup>[www.bookmarks.dev/tagged/throttling](https://www.bookmarks.dev/tagged/throttling)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/throttling](www.codever.land/bookmarks/t/throttling)</sup></sup>_
 ---
 #### [Setting Resource Requests and Limits in Kubernetes (Kubernetes Best Practices) - 9min](https://www.youtube.com/watch?v=xjpHggHKm78)
 _<sup>https://www.youtube.com/watch?v=xjpHggHKm78</sup>_

@@ -1,6 +1,6 @@
-## Bookmarks tagged [[csharp]](https://www.bookmarks.dev/search?q=[csharp])
+## Bookmarks tagged [[csharp]](https://www.codever.land/search?q=[csharp])
 
-_<sup><sup>[www.bookmarks.dev/tagged/csharp](https://www.bookmarks.dev/tagged/csharp)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/csharp](www.codever.land/bookmarks/t/csharp)</sup></sup>_
 ---
 #### [First steps with asynchronous programming in C#](https://www.code4it.dev/blog/asynchronous-programming-in-csharp)
 _<sup>https://www.code4it.dev/blog/asynchronous-programming-in-csharp</sup>_

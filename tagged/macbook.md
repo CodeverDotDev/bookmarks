@@ -1,6 +1,6 @@
-## Bookmarks tagged [[macbook]](https://www.bookmarks.dev/search?q=[macbook])
+## Bookmarks tagged [[macbook]](https://www.codever.land/search?q=[macbook])
 
-_<sup><sup>[www.bookmarks.dev/tagged/macbook](https://www.bookmarks.dev/tagged/macbook)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/macbook](www.codever.land/bookmarks/t/macbook)</sup></sup>_
 ---
 #### [GitHub - Dimillian/RedditOS: A SwiftUI Reddit client for macOS Big Sur](https://github.com/Dimillian/RedditOS)
 _<sup>https://github.com/Dimillian/RedditOS</sup>_

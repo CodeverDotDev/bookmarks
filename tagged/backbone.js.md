@@ -1,6 +1,6 @@
-## Bookmarks tagged [[backbone.js]](https://www.bookmarks.dev/search?q=[backbone.js])
+## Bookmarks tagged [[backbone.js]](https://www.codever.land/search?q=[backbone.js])
 
-_<sup><sup>[www.bookmarks.dev/tagged/backbone.js](https://www.bookmarks.dev/tagged/backbone.js)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/backbone.js](www.codever.land/bookmarks/t/backbone.js)</sup></sup>_
 ---
 #### [Backboneドキュメント日本語訳](https://github.com/enja-oss/Backbone)
 _<sup>https://github.com/enja-oss/Backbone</sup>_

@@ -1,6 +1,6 @@
-## Bookmarks tagged [[log]](https://www.bookmarks.dev/search?q=[log])
+## Bookmarks tagged [[log]](https://www.codever.land/search?q=[log])
 
-_<sup><sup>[www.bookmarks.dev/tagged/log](https://www.bookmarks.dev/tagged/log)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/log](www.codever.land/bookmarks/t/log)</sup></sup>_
 ---
 #### [log](https://github.com/adamschwartz/log)
 _<sup>https://github.com/adamschwartz/log</sup>_

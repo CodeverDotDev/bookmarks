@@ -1,6 +1,6 @@
-## Bookmarks tagged [[ffi]](https://www.bookmarks.dev/search?q=[ffi])
+## Bookmarks tagged [[ffi]](https://www.codever.land/search?q=[ffi])
 
-_<sup><sup>[www.bookmarks.dev/tagged/ffi](https://www.bookmarks.dev/tagged/ffi)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/ffi](www.codever.land/bookmarks/t/ffi)</sup></sup>_
 ---
 #### [Foreign Function Interface](https://doc.rust-lang.org/book/first-edition/ffi.html)
 _<sup>https://doc.rust-lang.org/book/first-edition/ffi.html</sup>_

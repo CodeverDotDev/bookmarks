@@ -1,6 +1,6 @@
-## Bookmarks tagged [[aws]](https://www.bookmarks.dev/search?q=[aws])
+## Bookmarks tagged [[aws]](https://www.codever.land/search?q=[aws])
 
-_<sup><sup>[www.bookmarks.dev/tagged/aws](https://www.bookmarks.dev/tagged/aws)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/aws](www.codever.land/bookmarks/t/aws)</sup></sup>_
 ---
 #### [GitHub - badunk/multer-s3 home page](https://github.com/badunk/multer-s3)
 _<sup>https://github.com/badunk/multer-s3</sup>_

@@ -1,6 +1,6 @@
-## Bookmarks tagged [[githooks]](https://www.bookmarks.dev/search?q=[githooks])
+## Bookmarks tagged [[githooks]](https://www.codever.land/search?q=[githooks])
 
-_<sup><sup>[www.bookmarks.dev/tagged/githooks](https://www.bookmarks.dev/tagged/githooks)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/githooks](www.codever.land/bookmarks/t/githooks)</sup></sup>_
 ---
 #### [typicode/husky: Git hooks made easy 🐶 woof!](https://github.com/typicode/husky)
 _<sup>https://github.com/typicode/husky</sup>_

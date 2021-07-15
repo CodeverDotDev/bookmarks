@@ -1,6 +1,41 @@
-## Bookmarks tagged [[docker]](https://www.bookmarks.dev/search?q=[docker])
+## Bookmarks tagged [[docker]](https://www.codever.land/search?q=[docker])
 
-_<sup><sup>[www.bookmarks.dev/tagged/docker](https://www.bookmarks.dev/tagged/docker)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/docker](www.codever.land/bookmarks/t/docker)</sup></sup>_
+---
+#### [Docker images for syslog-ng development, testing, playground.](https://github.com/balabit/syslog-ng-docker)
+_<sup>https://github.com/balabit/syslog-ng-docker</sup>_
+
+Docker images for syslog-ng development, testing, playground. - balabit/syslog-ng-docker
+* **tags**: [github](../tagged/github.md), [repo](../tagged/repo.md), [docker](../tagged/docker.md)
+---
+#### [10 best practices to containerize Node.js web applications with Docker | Snyk Blog](https://snyk.io/blog/10-best-practices-to-containerize-nodejs-web-applications-with-docker/)
+_<sup>https://snyk.io/blog/10-best-practices-to-containerize-nodejs-web-applications-with-docker/</sup>_
+
+The following article provides production-grade guidelines for building optimized and secure Node.js Docker images. You’ll find it helpful regardless of the Node.js application you aim to build. This ...
+* :calendar: **published on**: 2021-01-13
+* **tags**: [node.js](../tagged/node.js.md), [docker](../tagged/docker.md), [security](../tagged/security.md)
+---
+#### [Step-by-step guide how integrate Keycloak with Angular application](https://wkrzywiec.medium.com/step-by-step-guide-how-integrate-keycloak-with-angular-application-d96b05f7dfdd)
+_<sup>https://wkrzywiec.medium.com/step-by-step-guide-how-integrate-keycloak-with-angular-application-d96b...</sup>_
+
+The aim of this post is to show you a basic set up an Angular application so that it will be integrated with Keycloak and it will be able to consume protected HTTP resource that requires an access tok...
+* :calendar: **published on**: 2021-03-22
+* **tags**: [angular](../tagged/angular.md), [keycloak](../tagged/keycloak.md), [docker](../tagged/docker.md), [docker-compose](../tagged/docker-compose.md)
+* :octocat: **[source code](https://github.com/wkrzywiec/keycloak-security-example)**
+---
+#### [GitHub - Atomicorp/ossec-docker: Official OSSEC docker container](https://github.com/Atomicorp/ossec-docker)
+_<sup>https://github.com/Atomicorp/ossec-docker</sup>_
+
+Official OSSEC docker container. Contribute to Atomicorp/ossec-docker development by creating an account on GitHub.
+* **tags**: [docker](../tagged/docker.md), [security-tools](../tagged/security-tools.md), [monitoring](../tagged/monitoring.md), [ossec](../tagged/ossec.md), [log-analyzer](../tagged/log-analyzer.md), [devops-tools](../tagged/devops-tools.md), [server-application](../tagged/server-application.md)
+* :octocat: **[source code](https://github.com/Atomicorp/ossec-docker)**
+---
+#### [GitHub - Atomicorp/openvas-docker: A docker container for openvas](https://github.com/Atomicorp/openvas-docker)
+_<sup>https://github.com/Atomicorp/openvas-docker</sup>_
+
+A docker container for openvas. Contribute to Atomicorp/openvas-docker development by creating an account on GitHub.
+* **tags**: [security-tools](../tagged/security-tools.md), [monitoring](../tagged/monitoring.md), [devops-tools](../tagged/devops-tools.md), [openvas](../tagged/openvas.md), [docker](../tagged/docker.md)
+* :octocat: **[source code](https://github.com/Atomicorp/openvas-docker)**
 ---
 #### [Keycloak upgrade while running on docker](https://stackoverflow.com/questions/47956933/keycloak-upgrade-while-running-on-docker)
 _<sup>https://stackoverflow.com/questions/47956933/keycloak-upgrade-while-running-on-docker</sup>_

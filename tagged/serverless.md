@@ -1,6 +1,6 @@
-## Bookmarks tagged [[serverless]](https://www.bookmarks.dev/search?q=[serverless])
+## Bookmarks tagged [[serverless]](https://www.codever.land/search?q=[serverless])
 
-_<sup><sup>[www.bookmarks.dev/tagged/serverless](https://www.bookmarks.dev/tagged/serverless)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/serverless](www.codever.land/bookmarks/t/serverless)</sup></sup>_
 ---
 #### [Getting started with node.js on Google Cloud Functions - 17min](https://www.youtube.com/watch?v=MgivoBkvS5o)
 _<sup>https://www.youtube.com/watch?v=MgivoBkvS5o</sup>_

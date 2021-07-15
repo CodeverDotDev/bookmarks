@@ -1,6 +1,6 @@
-## Bookmarks tagged [[free-programming-books-ko]](https://www.bookmarks.dev/search?q=[free-programming-books-ko])
+## Bookmarks tagged [[free-programming-books-ko]](https://www.codever.land/search?q=[free-programming-books-ko])
 
-_<sup><sup>[www.bookmarks.dev/tagged/free-programming-books-ko](https://www.bookmarks.dev/tagged/free-programming-books-ko)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/free-programming-books-ko](www.codever.land/bookmarks/t/free-programming-books-ko)</sup></sup>_
 ---
 #### [Swift 언어 개발문서](http://swift.leantra.kr)
 _<sup>http://swift.leantra.kr</sup>_

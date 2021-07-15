@@ -1,6 +1,32 @@
-## Bookmarks tagged [[mysql]](https://www.bookmarks.dev/search?q=[mysql])
+## Bookmarks tagged [[mysql]](https://www.codever.land/search?q=[mysql])
 
-_<sup><sup>[www.bookmarks.dev/tagged/mysql](https://www.bookmarks.dev/tagged/mysql)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/mysql](www.codever.land/bookmarks/t/mysql)</sup></sup>_
+---
+#### [TUTORIAL MYSQL DATABASE BAHASA INDONESIA - 6h:37min](https://www.youtube.com/watch?v=xYBclb-sYQ4)
+_<sup>https://www.youtube.com/watch?v=xYBclb-sYQ4</sup>_
+
+INDONESIA
+* :calendar: **published on**: 2021-01-14
+* **tags**: [mysql](../tagged/mysql.md), [belajar-mysql-database-indonesia](../tagged/belajar-mysql-database-indonesia.md)
+---
+#### [SQL vs NoSQL or MySQL vs MongoDB - 21min](https://www.youtube.com/watch?v=ZS_kXvOeQ5Y)
+_<sup>https://www.youtube.com/watch?v=ZS_kXvOeQ5Y</sup>_
+
+SQL or NoSQL? MySQL vs MongoDB? Which database is better? Which one should you use?
+* :calendar: **published on**: 2018-07-25
+* **tags**: [sql](../tagged/sql.md), [nosql](../tagged/nosql.md), [mongodb](../tagged/mongodb.md), [mysql](../tagged/mysql.md)
+---
+#### [MariaDB Foundation - MariaDB.org](https://mariadb.org/)
+_<sup>https://mariadb.org/</sup>_
+
+* **tags**: [database](../tagged/database.md), [mariadb](../tagged/mariadb.md), [mysql](../tagged/mysql.md)
+---
+#### [Knex.js - A SQL Query Builder for Javascript - home page](https://knexjs.org/)
+_<sup>https://knexjs.org/</sup>_
+
+Knex.js (pronounced /kəˈnɛks/) is a "batteries included" SQL query builder for Postgres, MSSQL, MySQL, MariaDB, SQLite3, Oracle, and Amazon Redshift designed to be flexible, portable, and fun to use. ...
+* **tags**: [sql](../tagged/sql.md), [node.js](../tagged/node.js.md), [query-builder](../tagged/query-builder.md), [mysql](../tagged/mysql.md), [postgresql](../tagged/postgresql.md)
+* :octocat: **[source code](https://github.com/knex/knex)**
 ---
 #### [How to modify the size of a column in a Mysql database from command line – CodepediaOrg](https://www.codepedia.org/ama/how-to-modify-a-column-size-in-a-mysql-database-from-command-line)
 _<sup>https://www.codepedia.org/ama/how-to-modify-a-column-size-in-a-mysql-database-from-command-line</sup>_

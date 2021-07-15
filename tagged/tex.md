@@ -1,6 +1,6 @@
-## Bookmarks tagged [[tex]](https://www.bookmarks.dev/search?q=[tex])
+## Bookmarks tagged [[tex]](https://www.codever.land/search?q=[tex])
 
-_<sup><sup>[www.bookmarks.dev/tagged/tex](https://www.bookmarks.dev/tagged/tex)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/tex](www.codever.land/bookmarks/t/tex)</sup></sup>_
 ---
 #### [TeX pour l'Impatient](http://www.apprendre-en-ligne.net/LaTeX/teximpatient.pdf)
 _<sup>http://www.apprendre-en-ligne.net/LaTeX/teximpatient.pdf</sup>_

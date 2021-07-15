@@ -1,6 +1,12 @@
-## Bookmarks tagged [[static-site-generation]](https://www.bookmarks.dev/search?q=[static-site-generation])
+## Bookmarks tagged [[static-site-generation]](https://www.codever.land/search?q=[static-site-generation])
 
-_<sup><sup>[www.bookmarks.dev/tagged/static-site-generation](https://www.bookmarks.dev/tagged/static-site-generation)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/static-site-generation](www.codever.land/bookmarks/t/static-site-generation)</sup></sup>_
+---
+#### [Free Static Site Generator Tools and Hosting | Codementor](https://www.codementor.io/@nukalasurender2108/free-static-site-generator-tools-and-hosting-1h2m07r1w8)
+_<sup>https://www.codementor.io/@nukalasurender2108/free-static-site-generator-tools-and-hosting-1h2m07r1w...</sup>_
+
+Create your portfolio website with free static site generators and deploy it for free. No maintenance required.
+* **tags**: [static-site-generation](../tagged/static-site-generation.md)
 ---
 #### [Eleventy is a simpler static site generator.](https://www.11ty.dev/)
 _<sup>https://www.11ty.dev/</sup>_

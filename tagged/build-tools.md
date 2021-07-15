@@ -1,6 +1,6 @@
-## Bookmarks tagged [[build-tools]](https://www.bookmarks.dev/search?q=[build-tools])
+## Bookmarks tagged [[build-tools]](https://www.codever.land/search?q=[build-tools])
 
-_<sup><sup>[www.bookmarks.dev/tagged/build-tools](https://www.bookmarks.dev/tagged/build-tools)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/build-tools](www.codever.land/bookmarks/t/build-tools)</sup></sup>_
 ---
 #### [BitBake](http://www.yoctoproject.org/docs/1.6/bitbake-user-manual/bitbake-user-manual.html)
 _<sup>http://www.yoctoproject.org/docs/1.6/bitbake-user-manual/bitbake-user-manual.html</sup>_

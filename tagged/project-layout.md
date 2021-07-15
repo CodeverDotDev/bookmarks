@@ -1,6 +1,6 @@
-## Bookmarks tagged [[project-layout]](https://www.bookmarks.dev/search?q=[project-layout])
+## Bookmarks tagged [[project-layout]](https://www.codever.land/search?q=[project-layout])
 
-_<sup><sup>[www.bookmarks.dev/tagged/project-layout](https://www.bookmarks.dev/tagged/project-layout)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/project-layout](www.codever.land/bookmarks/t/project-layout)</sup></sup>_
 ---
 #### [go-sample](https://github.com/zitryss/go-sample)
 _<sup>https://github.com/zitryss/go-sample</sup>_

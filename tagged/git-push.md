@@ -1,6 +1,6 @@
-## Bookmarks tagged [[git-push]](https://www.bookmarks.dev/search?q=[git-push])
+## Bookmarks tagged [[git-push]](https://www.codever.land/search?q=[git-push])
 
-_<sup><sup>[www.bookmarks.dev/tagged/git-push](https://www.bookmarks.dev/tagged/git-push)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/git-push](www.codever.land/bookmarks/t/git-push)</sup></sup>_
 ---
 #### [git push --force-with-lease vs. --force](https://stackoverflow.com/questions/52823692/git-push-force-with-lease-vs-force)
 _<sup>https://stackoverflow.com/questions/52823692/git-push-force-with-lease-vs-force</sup>_

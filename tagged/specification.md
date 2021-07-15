@@ -1,6 +1,12 @@
-## Bookmarks tagged [[specification]](https://www.bookmarks.dev/search?q=[specification])
+## Bookmarks tagged [[specification]](https://www.codever.land/search?q=[specification])
 
-_<sup><sup>[www.bookmarks.dev/tagged/specification](https://www.bookmarks.dev/tagged/specification)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/specification](www.codever.land/bookmarks/t/specification)</sup></sup>_
+---
+#### [Apache Avro™ Specification Current](https://avro.apache.org/docs/current/spec.html)
+_<sup>https://avro.apache.org/docs/current/spec.html</sup>_
+
+This document defines Apache Avro. It is intended to be the authoritative specification. Implementations of Avro must adhere to this document.
+* **tags**: [apache-avro](../tagged/apache-avro.md), [specification](../tagged/specification.md)
 ---
 #### [RFC 2965 - HTTP State Management Mechanism](https://tools.ietf.org/html/rfc2965)
 _<sup>https://tools.ietf.org/html/rfc2965</sup>_

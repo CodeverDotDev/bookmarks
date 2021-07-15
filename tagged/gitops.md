@@ -1,6 +1,6 @@
-## Bookmarks tagged [[gitops]](https://www.bookmarks.dev/search?q=[gitops])
+## Bookmarks tagged [[gitops]](https://www.codever.land/search?q=[gitops])
 
-_<sup><sup>[www.bookmarks.dev/tagged/gitops](https://www.bookmarks.dev/tagged/gitops)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/gitops](www.codever.land/bookmarks/t/gitops)</sup></sup>_
 ---
 #### [GitOps](https://www.weave.works/technologies/gitops/)
 _<sup>https://www.weave.works/technologies/gitops/</sup>_

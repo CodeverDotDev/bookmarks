@@ -1,6 +1,24 @@
-## Bookmarks tagged [[mongodb]](https://www.bookmarks.dev/search?q=[mongodb])
+## Bookmarks tagged [[mongodb]](https://www.codever.land/search?q=[mongodb])
 
-_<sup><sup>[www.bookmarks.dev/tagged/mongodb](https://www.bookmarks.dev/tagged/mongodb)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/mongodb](www.codever.land/bookmarks/t/mongodb)</sup></sup>_
+---
+#### [SQL vs NoSQL or MySQL vs MongoDB - 21min](https://www.youtube.com/watch?v=ZS_kXvOeQ5Y)
+_<sup>https://www.youtube.com/watch?v=ZS_kXvOeQ5Y</sup>_
+
+SQL or NoSQL? MySQL vs MongoDB? Which database is better? Which one should you use?
+* :calendar: **published on**: 2018-07-25
+* **tags**: [sql](../tagged/sql.md), [nosql](../tagged/nosql.md), [mongodb](../tagged/mongodb.md), [mysql](../tagged/mysql.md)
+---
+#### [Welcome to the MongoDB Documentation — MongoDB Documentation](https://docs.mongodb.com/)
+_<sup>https://docs.mongodb.com/</sup>_
+
+* **tags**: [mongodb](../tagged/mongodb.md)
+---
+#### [Railway](https://railway.app/)
+_<sup>https://railway.app/</sup>_
+
+Infrastructure, Instantly
+* **tags**: [mongodb](../tagged/mongodb.md)
 ---
 #### [Defending Against Query Selector Injection Attacks](https://thecodebarbarian.wordpress.com/2014/09/04/defending-against-query-selector-injection-attacks/)
 _<sup>https://thecodebarbarian.wordpress.com/2014/09/04/defending-against-query-selector-injection-attacks...</sup>_

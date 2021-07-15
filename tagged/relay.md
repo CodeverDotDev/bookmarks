@@ -1,6 +1,6 @@
-## Bookmarks tagged [[relay]](https://www.bookmarks.dev/search?q=[relay])
+## Bookmarks tagged [[relay]](https://www.codever.land/search?q=[relay])
 
-_<sup><sup>[www.bookmarks.dev/tagged/relay](https://www.bookmarks.dev/tagged/relay)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/relay](www.codever.land/bookmarks/t/relay)</sup></sup>_
 ---
 #### [Understanding pagination: REST, GraphQL, and Relay - Apollo Blog](https://www.apollographql.com/blog/understanding-pagination-rest-graphql-and-relay-b10f835549e7/)
 _<sup>https://www.apollographql.com/blog/understanding-pagination-rest-graphql-and-relay-b10f835549e7/</sup>_

@@ -1,6 +1,6 @@
-## Bookmarks tagged [[jdk]](https://www.bookmarks.dev/search?q=[jdk])
+## Bookmarks tagged [[jdk]](https://www.codever.land/search?q=[jdk])
 
-_<sup><sup>[www.bookmarks.dev/tagged/jdk](https://www.bookmarks.dev/tagged/jdk)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/jdk](www.codever.land/bookmarks/t/jdk)</sup></sup>_
 ---
 #### [java - Getting the parameters of a running JVM - Stack Overflow](https://stackoverflow.com/questions/5317152/getting-the-parameters-of-a-running-jvm)
 _<sup>https://stackoverflow.com/questions/5317152/getting-the-parameters-of-a-running-jvm</sup>_

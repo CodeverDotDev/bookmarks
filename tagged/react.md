@@ -1,6 +1,20 @@
-## Bookmarks tagged [[react]](https://www.bookmarks.dev/search?q=[react])
+## Bookmarks tagged [[react]](https://www.codever.land/search?q=[react])
 
-_<sup><sup>[www.bookmarks.dev/tagged/react](https://www.bookmarks.dev/tagged/react)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/react](www.codever.land/bookmarks/t/react)</sup></sup>_
+---
+#### [Some problems with React/Redux](https://staltz.com/some-problems-with-react-redux.html)
+_<sup>https://staltz.com/some-problems-with-react-redux.html</sup>_
+
+Some pain points about using React and Redux
+* :calendar: **published on**: 2016-01-26
+* **tags**: [react](../tagged/react.md), [redux](../tagged/redux.md), [cyclejs](../tagged/cyclejs.md), [elm](../tagged/elm.md)
+---
+#### [Docusaurus home page](https://docusaurus.io/)
+_<sup>https://docusaurus.io/</sup>_
+
+An optimized site generator in React. Docusaurus helps you to move fast and write content. Build documentation websites, blogs, marketing pages, and more.
+* **tags**: [react](../tagged/react.md), [static-site-generator](../tagged/static-site-generator.md), [javascript](../tagged/javascript.md), [documentation](../tagged/documentation.md), [docs](../tagged/docs.md)
+* :octocat: **[source code](https://github.com/facebook/docusaurus)**
 ---
 #### [DataLoader – Source code walkthrough - 34min](https://www.youtube.com/watch?v=OQTnXNCDywA)
 _<sup>https://www.youtube.com/watch?v=OQTnXNCDywA</sup>_

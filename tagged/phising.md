@@ -1,6 +1,6 @@
-## Bookmarks tagged [[phising]](https://www.bookmarks.dev/search?q=[phising])
+## Bookmarks tagged [[phising]](https://www.codever.land/search?q=[phising])
 
-_<sup><sup>[www.bookmarks.dev/tagged/phising](https://www.bookmarks.dev/tagged/phising)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/phising](www.codever.land/bookmarks/t/phising)</sup></sup>_
 ---
 #### [What is Phishing and Phishing Scams](https://www.microsoft.com/en-us/safety/online-privacy/phishing-symptoms.aspx)
 _<sup>https://www.microsoft.com/en-us/safety/online-privacy/phishing-symptoms.aspx</sup>_

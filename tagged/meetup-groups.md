@@ -1,6 +1,6 @@
-## Bookmarks tagged [[meetup-groups]](https://www.bookmarks.dev/search?q=[meetup-groups])
+## Bookmarks tagged [[meetup-groups]](https://www.codever.land/search?q=[meetup-groups])
 
-_<sup><sup>[www.bookmarks.dev/tagged/meetup-groups](https://www.bookmarks.dev/tagged/meetup-groups)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/meetup-groups](www.codever.land/bookmarks/t/meetup-groups)</sup></sup>_
 ---
 #### [Amsterdam](https://www.meetup.com/Amsterdam-Kubernetes-Meetup/)
 _<sup>https://www.meetup.com/Amsterdam-Kubernetes-Meetup/</sup>_

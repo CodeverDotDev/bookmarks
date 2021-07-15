@@ -1,6 +1,6 @@
-## Bookmarks tagged [[kde]](https://www.bookmarks.dev/search?q=[kde])
+## Bookmarks tagged [[kde]](https://www.codever.land/search?q=[kde])
 
-_<sup><sup>[www.bookmarks.dev/tagged/kde](https://www.bookmarks.dev/tagged/kde)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/kde](www.codever.land/bookmarks/t/kde)</sup></sup>_
 ---
 #### [awesome-kde](https://github.com/francoism90/awesome-kde#readme)
 _<sup>https://github.com/francoism90/awesome-kde#readme</sup>_

@@ -1,6 +1,6 @@
-## Bookmarks tagged [[wiremock]](https://www.bookmarks.dev/search?q=[wiremock])
+## Bookmarks tagged [[wiremock]](https://www.codever.land/search?q=[wiremock])
 
-_<sup><sup>[www.bookmarks.dev/tagged/wiremock](https://www.bookmarks.dev/tagged/wiremock)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/wiremock](www.codever.land/bookmarks/t/wiremock)</sup></sup>_
 ---
 #### [Advanced HTTP Mocking with WireMock at DevFest DC - 43min](https://www.youtube.com/watch?v=x3MvZ8DFrpE)
 _<sup>https://www.youtube.com/watch?v=x3MvZ8DFrpE</sup>_

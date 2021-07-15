@@ -1,6 +1,6 @@
-## Bookmarks tagged [[marketing]](https://www.bookmarks.dev/search?q=[marketing])
+## Bookmarks tagged [[marketing]](https://www.codever.land/search?q=[marketing])
 
-_<sup><sup>[www.bookmarks.dev/tagged/marketing](https://www.bookmarks.dev/tagged/marketing)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/marketing](www.codever.land/bookmarks/t/marketing)</sup></sup>_
 ---
 #### [Go-to-market strategy for engineers - Zero Credibility](https://www.spakhm.com/p/go-to-market-strategy-for-engineers)
 _<sup>https://www.spakhm.com/p/go-to-market-strategy-for-engineers</sup>_

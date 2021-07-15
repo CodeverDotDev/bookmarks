@@ -1,6 +1,6 @@
-## Bookmarks tagged [[weld]](https://www.bookmarks.dev/search?q=[weld])
+## Bookmarks tagged [[weld]](https://www.codever.land/search?q=[weld])
 
-_<sup><sup>[www.bookmarks.dev/tagged/weld](https://www.bookmarks.dev/tagged/weld)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/weld](www.codever.land/bookmarks/t/weld)</sup></sup>_
 ---
 #### [ CDI Reference Implementation](http://docs.jboss.org/weld/reference/latest/en-US/html_single/)
 _<sup>http://docs.jboss.org/weld/reference/latest/en-US/html_single/</sup>_

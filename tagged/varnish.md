@@ -1,6 +1,6 @@
-## Bookmarks tagged [[varnish]](https://www.bookmarks.dev/search?q=[varnish])
+## Bookmarks tagged [[varnish]](https://www.codever.land/search?q=[varnish])
 
-_<sup><sup>[www.bookmarks.dev/tagged/varnish](https://www.bookmarks.dev/tagged/varnish)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/varnish](www.codever.land/bookmarks/t/varnish)</sup></sup>_
 ---
 #### [Varnish HTTP Cache](https://varnish-cache.org/)
 _<sup>https://varnish-cache.org/</sup>_

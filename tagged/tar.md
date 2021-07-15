@@ -1,6 +1,6 @@
-## Bookmarks tagged [[tar]](https://www.bookmarks.dev/search?q=[tar])
+## Bookmarks tagged [[tar]](https://www.codever.land/search?q=[tar])
 
-_<sup><sup>[www.bookmarks.dev/tagged/tar](https://www.bookmarks.dev/tagged/tar)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/tar](www.codever.land/bookmarks/t/tar)</sup></sup>_
 ---
 #### [alexcrichton/tar-rs](https://github.com/alexcrichton/tar-rs)
 _<sup>https://github.com/alexcrichton/tar-rs</sup>_

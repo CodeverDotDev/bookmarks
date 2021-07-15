@@ -1,6 +1,6 @@
-## Bookmarks tagged [[spring-batch]](https://www.bookmarks.dev/search?q=[spring-batch])
+## Bookmarks tagged [[spring-batch]](https://www.codever.land/search?q=[spring-batch])
 
-_<sup><sup>[www.bookmarks.dev/tagged/spring-batch](https://www.bookmarks.dev/tagged/spring-batch)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/spring-batch](www.codever.land/bookmarks/t/spring-batch)</sup></sup>_
 ---
 #### [Spring Batch - Reference Documentation](https://docs.spring.io/spring-batch/docs/current/reference/html/index-single.html)
 _<sup>https://docs.spring.io/spring-batch/docs/current/reference/html/index-single.html</sup>_

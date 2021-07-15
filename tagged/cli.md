@@ -1,6 +1,6 @@
-## Bookmarks tagged [[cli]](https://www.bookmarks.dev/search?q=[cli])
+## Bookmarks tagged [[cli]](https://www.codever.land/search?q=[cli])
 
-_<sup><sup>[www.bookmarks.dev/tagged/cli](https://www.bookmarks.dev/tagged/cli)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/cli](www.codever.land/bookmarks/t/cli)</sup></sup>_
 ---
 #### [GitHub - chalk/chalk: 🖍 Terminal string styling done right](https://github.com/chalk/chalk#readme)
 _<sup>https://github.com/chalk/chalk#readme</sup>_

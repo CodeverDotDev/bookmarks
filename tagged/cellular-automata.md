@@ -1,6 +1,6 @@
-## Bookmarks tagged [[cellular-automata]](https://www.bookmarks.dev/search?q=[cellular-automata])
+## Bookmarks tagged [[cellular-automata]](https://www.codever.land/search?q=[cellular-automata])
 
-_<sup><sup>[www.bookmarks.dev/tagged/cellular-automata](https://www.bookmarks.dev/tagged/cellular-automata)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/cellular-automata](www.codever.land/bookmarks/t/cellular-automata)</sup></sup>_
 ---
 #### [Cellular Automata Books](http://uncomp.uwe.ac.uk/genaro/Cellular_Automata_Repository/Books.html)
 _<sup>http://uncomp.uwe.ac.uk/genaro/Cellular_Automata_Repository/Books.html</sup>_

@@ -1,6 +1,6 @@
-## Bookmarks tagged [[favicon]](https://www.bookmarks.dev/search?q=[favicon])
+## Bookmarks tagged [[favicon]](https://www.codever.land/search?q=[favicon])
 
-_<sup><sup>[www.bookmarks.dev/tagged/favicon](https://www.bookmarks.dev/tagged/favicon)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/favicon](www.codever.land/bookmarks/t/favicon)</sup></sup>_
 ---
 #### [X-Icon Editor](http://www.xiconeditor.com/)
 _<sup>http://www.xiconeditor.com/</sup>_

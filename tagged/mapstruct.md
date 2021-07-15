@@ -1,6 +1,6 @@
-## Bookmarks tagged [[mapstruct]](https://www.bookmarks.dev/search?q=[mapstruct])
+## Bookmarks tagged [[mapstruct]](https://www.codever.land/search?q=[mapstruct])
 
-_<sup><sup>[www.bookmarks.dev/tagged/mapstruct](https://www.bookmarks.dev/tagged/mapstruct)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/mapstruct](www.codever.land/bookmarks/t/mapstruct)</sup></sup>_
 ---
 #### [GitHub - mapstruct/mapstruct-examples](https://github.com/mapstruct/mapstruct-examples)
 _<sup>https://github.com/mapstruct/mapstruct-examples</sup>_

@@ -1,6 +1,6 @@
-## Bookmarks tagged [[theory]](https://www.bookmarks.dev/search?q=[theory])
+## Bookmarks tagged [[theory]](https://www.codever.land/search?q=[theory])
 
-_<sup><sup>[www.bookmarks.dev/tagged/theory](https://www.bookmarks.dev/tagged/theory)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/theory](www.codever.land/bookmarks/t/theory)</sup></sup>_
 ---
 #### [awesome-papers-we-love](https://github.com/papers-we-love/papers-we-love#readme)
 _<sup>https://github.com/papers-we-love/papers-we-love#readme</sup>_

@@ -1,6 +1,6 @@
-## Bookmarks tagged [[chrome-devtools]](https://www.bookmarks.dev/search?q=[chrome-devtools])
+## Bookmarks tagged [[chrome-devtools]](https://www.codever.land/search?q=[chrome-devtools])
 
-_<sup><sup>[www.bookmarks.dev/tagged/chrome-devtools](https://www.bookmarks.dev/tagged/chrome-devtools)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/chrome-devtools](www.codever.land/bookmarks/t/chrome-devtools)</sup></sup>_
 ---
 #### [Chrome DevTools Protocol](https://chromedevtools.github.io/devtools-protocol/)
 _<sup>https://chromedevtools.github.io/devtools-protocol/</sup>_

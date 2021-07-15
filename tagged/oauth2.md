@@ -1,6 +1,21 @@
-## Bookmarks tagged [[oauth2]](https://www.bookmarks.dev/search?q=[oauth2])
+## Bookmarks tagged [[oauth2]](https://www.codever.land/search?q=[oauth2])
 
-_<sup><sup>[www.bookmarks.dev/tagged/oauth2](https://www.bookmarks.dev/tagged/oauth2)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/oauth2](www.codever.land/bookmarks/t/oauth2)</sup></sup>_
+---
+#### [Setting Up Authelia With SWAG](https://blog.linuxserver.io/2020/08/26/setting-up-authelia/)
+_<sup>https://blog.linuxserver.io/2020/08/26/setting-up-authelia/</sup>_
+
+This article details how SSO via Authelia can be easily set up using SWAG's preset Authelia confs.
+* :calendar: **published on**: 2020-08-26
+* **tags**: [docker-compose](../tagged/docker-compose.md), [nginx](../tagged/nginx.md), [tls](../tagged/tls.md), [oauth2](../tagged/oauth2.md), [cloud](../tagged/cloud.md), [linux](../tagged/linux.md)
+* :octocat: **[source code](https://github.com/linuxserver/docker-swag)**
+---
+#### [IdentityModel/oidc-client-js](https://github.com/IdentityModel/oidc-client-js/)
+_<sup>https://github.com/IdentityModel/oidc-client-js/</sup>_
+
+OpenID Connect (OIDC) and OAuth2 protocol support for browser-based JavaScript applications
+* **tags**: [javascript](../tagged/javascript.md), [openid-connect](../tagged/openid-connect.md), [oauth2](../tagged/oauth2.md)
+* :octocat: **[source code](https://github.com/IdentityModel/oidc-client-js/)**
 ---
 #### [OAuth 2 Simplified](https://aaronparecki.com/oauth-2-simplified/)
 _<sup>https://aaronparecki.com/oauth-2-simplified/</sup>_

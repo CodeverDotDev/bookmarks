@@ -1,6 +1,6 @@
-## Bookmarks tagged [[vba]](https://www.bookmarks.dev/search?q=[vba])
+## Bookmarks tagged [[vba]](https://www.codever.land/search?q=[vba])
 
-_<sup><sup>[www.bookmarks.dev/tagged/vba](https://www.bookmarks.dev/tagged/vba)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/vba](www.codever.land/bookmarks/t/vba)</sup></sup>_
 ---
 #### [VBA基礎文法最速マスター](http://d.hatena.ne.jp/nattou_curry_2/20100129/1264787849)
 _<sup>http://d.hatena.ne.jp/nattou_curry_2/20100129/1264787849</sup>_

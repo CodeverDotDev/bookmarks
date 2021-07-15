@@ -1,6 +1,13 @@
-## Bookmarks tagged [[event-loop]](https://www.bookmarks.dev/search?q=[event-loop])
+## Bookmarks tagged [[event-loop]](https://www.codever.land/search?q=[event-loop])
 
-_<sup><sup>[www.bookmarks.dev/tagged/event-loop](https://www.bookmarks.dev/tagged/event-loop)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/event-loop](www.codever.land/bookmarks/t/event-loop)</sup></sup>_
+---
+#### [33 Fundamentals Every JavaScript Developer Should Know | by Stephen Curtis](https://medium.com/@stephenthecurt/33-fundamentals-every-javascript-developer-should-know-13dd720a90d1)
+_<sup>https://medium.com/@stephenthecurt/33-fundamentals-every-javascript-developer-should-know-13dd720a90...</sup>_
+
+The article lists 33 core concepts to understand to really get Javascript
+* :calendar: **published on**: 2017-09-03
+* **tags**: [javascript](../tagged/javascript.md), [event-loop](../tagged/event-loop.md)
 ---
 #### [Tasks, microtasks, queues and schedules](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/)
 _<sup>https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/</sup>_
@@ -8,13 +15,6 @@ _<sup>https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/</sup
 When I told my colleague Matt Gaunt I was thinking of writing a piece on microtask queueing and execution within the browser's event loop, he said "I'll be honest with you Jake, I'm not going to read ...
 * :calendar: **published on**: 2015-09-17
 * **tags**: [javascript](../tagged/javascript.md), [event-loop](../tagged/event-loop.md)
----
-#### [Broken Promises - James Snell, NearForm - 33min](https://www.youtube.com/watch?&v=XV-u_Ow47s0)
-_<sup>https://www.youtube.com/watch?&v=XV-u_Ow47s0</sup>_
-
-When a customer comes to us with a complaint that their code is running slowly, our first question has become, "Are you using Promises?". When they predictably tell us yes, our response has become, "Y...
-* :calendar: **published on**: 2019-12-19
-* **tags**: [node.js](../tagged/node.js.md), [promises](../tagged/promises.md), [event-loop](../tagged/event-loop.md)
 ---
 #### [Jake Archibald: In The Loop - JSConf.Asia - 35min](https://www.youtube.com/watch?v=cCOL7MC4Pl0)
 _<sup>https://www.youtube.com/watch?v=cCOL7MC4Pl0</sup>_

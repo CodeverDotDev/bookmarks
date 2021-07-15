@@ -1,6 +1,6 @@
-## Bookmarks tagged [[captcha]](https://www.bookmarks.dev/search?q=[captcha])
+## Bookmarks tagged [[captcha]](https://www.codever.land/search?q=[captcha])
 
-_<sup><sup>[www.bookmarks.dev/tagged/captcha](https://www.bookmarks.dev/tagged/captcha)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/captcha](www.codever.land/bookmarks/t/captcha)</sup></sup>_
 ---
 #### [awesome-captcha](https://github.com/ZYSzys/awesome-captcha#readme)
 _<sup>https://github.com/ZYSzys/awesome-captcha#readme</sup>_

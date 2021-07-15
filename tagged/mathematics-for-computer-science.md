@@ -1,6 +1,6 @@
-## Bookmarks tagged [[mathematics-for-computer-science]](https://www.bookmarks.dev/search?q=[mathematics-for-computer-science])
+## Bookmarks tagged [[mathematics-for-computer-science]](https://www.codever.land/search?q=[mathematics-for-computer-science])
 
-_<sup><sup>[www.bookmarks.dev/tagged/mathematics-for-computer-science](https://www.bookmarks.dev/tagged/mathematics-for-computer-science)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/mathematics-for-computer-science](www.codever.land/bookmarks/t/mathematics-for-computer-science)</sup></sup>_
 ---
 #### [SymPy](https://www.sympy.org/en/index.html)
 _<sup>https://www.sympy.org/en/index.html</sup>_

@@ -1,6 +1,12 @@
-## Bookmarks tagged [[http-headers]](https://www.bookmarks.dev/search?q=[http-headers])
+## Bookmarks tagged [[http-headers]](https://www.codever.land/search?q=[http-headers])
 
-_<sup><sup>[www.bookmarks.dev/tagged/http-headers](https://www.bookmarks.dev/tagged/http-headers)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/http-headers](www.codever.land/bookmarks/t/http-headers)</sup></sup>_
+---
+#### [HTTP Strict Transport Security Header Testing Tool](https://gf.dev/hsts-test)
+_<sup>https://gf.dev/hsts-test</sup>_
+
+Check if your site is defending from cookie hijacking & protocol downgrade attack
+* **tags**: [http](../tagged/http.md), [security-tools](../tagged/security-tools.md), [http-headers](../tagged/http-headers.md)
 ---
 #### [What Is HSTS and How Do I Implement It?](https://www.globalsign.com/en/blog/what-is-hsts-and-how-do-i-use-it)
 _<sup>https://www.globalsign.com/en/blog/what-is-hsts-and-how-do-i-use-it</sup>_

@@ -1,6 +1,30 @@
-## Bookmarks tagged [[rxjs]](https://www.bookmarks.dev/search?q=[rxjs])
+## Bookmarks tagged [[rxjs]](https://www.codever.land/search?q=[rxjs])
 
-_<sup><sup>[www.bookmarks.dev/tagged/rxjs](https://www.bookmarks.dev/tagged/rxjs)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/rxjs](www.codever.land/bookmarks/t/rxjs)</sup></sup>_
+---
+#### [Angular - The RxJS library](https://angular.io/guide/rx-library)
+_<sup>https://angular.io/guide/rx-library</sup>_
+
+Reactive programming is an asynchronous programming paradigm concerned with data streams and the propagation of change (Wikipedia). RxJS (Reactive Extensions for JavaScript) is a library for reactive ...
+* **tags**: [angular](../tagged/angular.md), [rxjs](../tagged/rxjs.md), [docs](../tagged/docs.md)
+---
+#### [Caching with RxJs Observables in Angular](https://www.syntaxsuccess.com/viewarticle/caching-with-rxjs-observables-in-angular-2.0)
+_<sup>https://www.syntaxsuccess.com/viewarticle/caching-with-rxjs-observables-in-angular-2.0</sup>_
+
+Simple caching with observables and `publishReplay(1)` and `refCount`
+
+
+* :calendar: **published on**: 2016-04-23
+* **tags**: [angular](../tagged/angular.md), [caching](../tagged/caching.md), [rxjs](../tagged/rxjs.md), [observable](../tagged/observable.md), [http-client](../tagged/http-client.md)
+* :octocat: **[source code](https://github.com/thelgevold/angular-2-samples/tree/master/src/apps/shared-components/rxjs-caching)**
+---
+#### [RxJs Error Handling: Complete Practical Guide](https://blog.angular-university.io/rxjs-error-handling/)
+_<sup>https://blog.angular-university.io/rxjs-error-handling/</sup>_
+
+Error handling is an essential part of RxJs, as we will need it in just about any reactive program that we write.
+
+Error handling in RxJS is likely not as well understood as other parts of the library...
+* **tags**: [angular](../tagged/angular.md), [rxjs](../tagged/rxjs.md), [error-handling](../tagged/error-handling.md)
 ---
 #### [Angular Application Architecture: Build Reux-like Apps with RxJs](https://blog.angular-university.io/angular-2-application-architecture-building-applications-using-rxjs-and-functional-reactive-programming-vs-redux/)
 _<sup>https://blog.angular-university.io/angular-2-application-architecture-building-applications-using-rx...</sup>_
@@ -36,7 +60,7 @@ _<sup>https://coryrylan.com/blog/angular-multiple-http-requests-with-rxjs</sup>_
 
 A typical pattern we run into with single page apps is to gather up data from multiple API endpoints and then display the gathered data to the user. Fetching numerous asynchronous requests and managin...
 * :calendar: **published on**: 2019-06-18
-* **tags**: [angular](../tagged/angular.md), [rxjs](../tagged/rxjs.md)
+* **tags**: [angular](../tagged/angular.md), [rxjs](../tagged/rxjs.md), [parallel-processing](../tagged/parallel-processing.md)
 * :octocat: **[source code](https://stackblitz.com/edit/angular-jjp2oy)**
 ---
 #### [NGXS Home Page](https://www.ngxs.io/)

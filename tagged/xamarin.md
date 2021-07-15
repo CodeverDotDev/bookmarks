@@ -1,6 +1,6 @@
-## Bookmarks tagged [[xamarin]](https://www.bookmarks.dev/search?q=[xamarin])
+## Bookmarks tagged [[xamarin]](https://www.codever.land/search?q=[xamarin])
 
-_<sup><sup>[www.bookmarks.dev/tagged/xamarin](https://www.bookmarks.dev/tagged/xamarin)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/xamarin](www.codever.land/bookmarks/t/xamarin)</sup></sup>_
 ---
 #### [awesome-xamarin](https://github.com/XamSome/awesome-xamarin#readme)
 _<sup>https://github.com/XamSome/awesome-xamarin#readme</sup>_

@@ -1,6 +1,6 @@
-## Bookmarks tagged [[content-management-system]](https://www.bookmarks.dev/search?q=[content-management-system])
+## Bookmarks tagged [[content-management-system]](https://www.codever.land/search?q=[content-management-system])
 
-_<sup><sup>[www.bookmarks.dev/tagged/content-management-system](https://www.bookmarks.dev/tagged/content-management-system)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/content-management-system](www.codever.land/bookmarks/t/content-management-system)</sup></sup>_
 ---
 #### [Alchemy CMS](https://alchemy-cms.com)
 _<sup>https://alchemy-cms.com</sup>_

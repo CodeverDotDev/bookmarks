@@ -1,6 +1,6 @@
-## Bookmarks tagged [[recruiting]](https://www.bookmarks.dev/search?q=[recruiting])
+## Bookmarks tagged [[recruiting]](https://www.codever.land/search?q=[recruiting])
 
-_<sup><sup>[www.bookmarks.dev/tagged/recruiting](https://www.bookmarks.dev/tagged/recruiting)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/recruiting](www.codever.land/bookmarks/t/recruiting)</sup></sup>_
 ---
 #### [Finding Great Developers – Joel on Software](https://www.joelonsoftware.com/2006/09/06/finding-great-developers-2/)
 _<sup>https://www.joelonsoftware.com/2006/09/06/finding-great-developers-2/</sup>_

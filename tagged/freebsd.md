@@ -1,6 +1,6 @@
-## Bookmarks tagged [[freebsd]](https://www.bookmarks.dev/search?q=[freebsd])
+## Bookmarks tagged [[freebsd]](https://www.codever.land/search?q=[freebsd])
 
-_<sup><sup>[www.bookmarks.dev/tagged/freebsd](https://www.bookmarks.dev/tagged/freebsd)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/freebsd](www.codever.land/bookmarks/t/freebsd)</sup></sup>_
 ---
 #### [fubarnetes/libjail-rs](https://github.com/fubarnetes/libjail-rs/)
 _<sup>https://github.com/fubarnetes/libjail-rs/</sup>_

@@ -1,6 +1,6 @@
-## Bookmarks tagged [[yarn]](https://www.bookmarks.dev/search?q=[yarn])
+## Bookmarks tagged [[yarn]](https://www.codever.land/search?q=[yarn])
 
-_<sup><sup>[www.bookmarks.dev/tagged/yarn](https://www.bookmarks.dev/tagged/yarn)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/yarn](www.codever.land/bookmarks/t/yarn)</sup></sup>_
 ---
 #### [GitHub - mixmaxhq/deyarn: A command-line tool for converting projects that use Yarn to npm.](https://github.com/mixmaxhq/deyarn)
 _<sup>https://github.com/mixmaxhq/deyarn</sup>_

@@ -1,6 +1,6 @@
-## Bookmarks tagged [[parsing]](https://www.bookmarks.dev/search?q=[parsing])
+## Bookmarks tagged [[parsing]](https://www.codever.land/search?q=[parsing])
 
-_<sup><sup>[www.bookmarks.dev/tagged/parsing](https://www.bookmarks.dev/tagged/parsing)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/parsing](www.codever.land/bookmarks/t/parsing)</sup></sup>_
 ---
 #### [Geal/nom](https://github.com/Geal/nom)
 _<sup>https://github.com/Geal/nom</sup>_

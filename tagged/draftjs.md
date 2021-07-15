@@ -1,6 +1,6 @@
-## Bookmarks tagged [[draftjs]](https://www.bookmarks.dev/search?q=[draftjs])
+## Bookmarks tagged [[draftjs]](https://www.codever.land/search?q=[draftjs])
 
-_<sup><sup>[www.bookmarks.dev/tagged/draftjs](https://www.bookmarks.dev/tagged/draftjs)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/draftjs](www.codever.land/bookmarks/t/draftjs)</sup></sup>_
 ---
 #### [awesome-draft-js](https://github.com/nikgraf/awesome-draft-js#readme)
 _<sup>https://github.com/nikgraf/awesome-draft-js#readme</sup>_

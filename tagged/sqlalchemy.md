@@ -1,6 +1,6 @@
-## Bookmarks tagged [[sqlalchemy]](https://www.bookmarks.dev/search?q=[sqlalchemy])
+## Bookmarks tagged [[sqlalchemy]](https://www.codever.land/search?q=[sqlalchemy])
 
-_<sup><sup>[www.bookmarks.dev/tagged/sqlalchemy](https://www.bookmarks.dev/tagged/sqlalchemy)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/sqlalchemy](www.codever.land/bookmarks/t/sqlalchemy)</sup></sup>_
 ---
 #### [awesome-sqlalchemy](https://github.com/dahlia/awesome-sqlalchemy#readme)
 _<sup>https://github.com/dahlia/awesome-sqlalchemy#readme</sup>_

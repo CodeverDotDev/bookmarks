@@ -1,6 +1,6 @@
-## Bookmarks tagged [[angularjs]](https://www.bookmarks.dev/search?q=[angularjs])
+## Bookmarks tagged [[angularjs]](https://www.codever.land/search?q=[angularjs])
 
-_<sup><sup>[www.bookmarks.dev/tagged/angularjs](https://www.bookmarks.dev/tagged/angularjs)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/angularjs](www.codever.land/bookmarks/t/angularjs)</sup></sup>_
 ---
 #### [Cómo aprender AngularJS](http://raulexposito.com/documentos/como-aprender-angularjs/)
 _<sup>http://raulexposito.com/documentos/como-aprender-angularjs/</sup>_

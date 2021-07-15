@@ -1,6 +1,6 @@
-## Bookmarks tagged [[timer]](https://www.bookmarks.dev/search?q=[timer])
+## Bookmarks tagged [[timer]](https://www.codever.land/search?q=[timer])
 
-_<sup><sup>[www.bookmarks.dev/tagged/timer](https://www.bookmarks.dev/tagged/timer)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/timer](www.codever.land/bookmarks/t/timer)</sup></sup>_
 ---
 #### [JavaScript Timers - 11min](https://www.youtube.com/watch?v=YmaFAKUFmp0)
 _<sup>https://www.youtube.com/watch?v=YmaFAKUFmp0</sup>_

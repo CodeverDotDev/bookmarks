@@ -1,6 +1,6 @@
-## Bookmarks tagged [[neural-networks]](https://www.bookmarks.dev/search?q=[neural-networks])
+## Bookmarks tagged [[neural-networks]](https://www.codever.land/search?q=[neural-networks])
 
-_<sup><sup>[www.bookmarks.dev/tagged/neural-networks](https://www.bookmarks.dev/tagged/neural-networks)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/neural-networks](www.codever.land/bookmarks/t/neural-networks)</sup></sup>_
 ---
 #### [Neural networks and deep learning](http://neuralnetworksanddeeplearning.com/)
 _<sup>http://neuralnetworksanddeeplearning.com/</sup>_

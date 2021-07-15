@@ -1,6 +1,6 @@
-## Bookmarks tagged [[livecode]](https://www.bookmarks.dev/search?q=[livecode])
+## Bookmarks tagged [[livecode]](https://www.codever.land/search?q=[livecode])
 
-_<sup><sup>[www.bookmarks.dev/tagged/livecode](https://www.bookmarks.dev/tagged/livecode)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/livecode](www.codever.land/bookmarks/t/livecode)</sup></sup>_
 ---
 #### [Guida a livecode](http://www.maxvessi.net/pmwiki/pmwiki.php?n=Main.GuidaALivecode)
 _<sup>http://www.maxvessi.net/pmwiki/pmwiki.php?n=Main.GuidaALivecode</sup>_

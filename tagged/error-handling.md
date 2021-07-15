@@ -1,6 +1,14 @@
-## Bookmarks tagged [[error-handling]](https://www.bookmarks.dev/search?q=[error-handling])
+## Bookmarks tagged [[error-handling]](https://www.codever.land/search?q=[error-handling])
 
-_<sup><sup>[www.bookmarks.dev/tagged/error-handling](https://www.bookmarks.dev/tagged/error-handling)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/error-handling](www.codever.land/bookmarks/t/error-handling)</sup></sup>_
+---
+#### [RxJs Error Handling: Complete Practical Guide](https://blog.angular-university.io/rxjs-error-handling/)
+_<sup>https://blog.angular-university.io/rxjs-error-handling/</sup>_
+
+Error handling is an essential part of RxJs, as we will need it in just about any reactive program that we write.
+
+Error handling in RxJS is likely not as well understood as other parts of the library...
+* **tags**: [angular](../tagged/angular.md), [rxjs](../tagged/rxjs.md), [error-handling](../tagged/error-handling.md)
 ---
 #### [Handling GraphQL errors like a champ with unions and interfaces - LogRocket Blog](https://blog.logrocket.com/handling-graphql-errors-like-a-champ-with-unions-and-interfaces/)
 _<sup>https://blog.logrocket.com/handling-graphql-errors-like-a-champ-with-unions-and-interfaces/</sup>_

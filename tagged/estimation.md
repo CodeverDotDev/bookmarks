@@ -1,6 +1,6 @@
-## Bookmarks tagged [[estimation]](https://www.bookmarks.dev/search?q=[estimation])
+## Bookmarks tagged [[estimation]](https://www.codever.land/search?q=[estimation])
 
-_<sup><sup>[www.bookmarks.dev/tagged/estimation](https://www.bookmarks.dev/tagged/estimation)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/estimation](www.codever.land/bookmarks/t/estimation)</sup></sup>_
 ---
 #### [Bay XP Meeting Part 1: Agile Estimation, Mike Cohn - YouTube](https://www.youtube.com/watch?v=fb9Rzyi8b90)
 _<sup>https://www.youtube.com/watch?v=fb9Rzyi8b90</sup>_

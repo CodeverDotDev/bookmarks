@@ -1,6 +1,37 @@
-## Bookmarks tagged [[css]](https://www.bookmarks.dev/search?q=[css])
+## Bookmarks tagged [[css]](https://www.codever.land/search?q=[css])
 
-_<sup><sup>[www.bookmarks.dev/tagged/css](https://www.bookmarks.dev/tagged/css)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/css](www.codever.land/bookmarks/t/css)</sup></sup>_
+---
+#### [Can I email… All HTML and CSS features on Can I email…](https://www.caniemail.com/features/)
+_<sup>https://www.caniemail.com/features/</sup>_
+
+> All HTML and CSS features on Can I email…
+
+ Can I email…
+
+[caniemail.com](https://www.caniemail.com) provides email clients support tables for HTML and CSS features.
+
+_Can I email_ runs on [Jekyll...
+* **tags**: [css](../tagged/css.md), [html](../tagged/html.md), [webdesign](../tagged/webdesign.md), [email](../tagged/email.md), [android](../tagged/android.md), [ios](../tagged/ios.md), [jekyll](../tagged/jekyll.md), [github](../tagged/github.md)
+* :octocat: **[source code](https://github.com/HTeuMeuLeu/caniemail)**
+---
+#### [Learn CSS](https://web.dev/learn/css/)
+_<sup>https://web.dev/learn/css/</sup>_
+
+An evergreen CSS course and reference to level up your web styling expertise.
+* **tags**: [css](../tagged/css.md)
+---
+#### [Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/)
+_<sup>https://caniuse.com/</sup>_
+
+* :calendar: **published on**: 2021-04-19
+* **tags**: [css](../tagged/css.md), [html5](../tagged/html5.md), [css3](../tagged/css3.md), [compatibility](../tagged/compatibility.md)
+---
+#### [CSS Templates](https://www.w3schools.com/css/css_templates.asp)
+_<sup>https://www.w3schools.com/css/css_templates.asp</sup>_
+
+* :calendar: **published on**: 2021-04-18
+* **tags**: [css](../tagged/css.md), [layouts](../tagged/layouts.md), [templates](../tagged/templates.md), [w3schools](../tagged/w3schools.md)
 ---
 #### [PixelCraft: A Pixel Art Editor](https://github.com/rgab1508/PixelCraft)
 _<sup>https://github.com/rgab1508/PixelCraft</sup>_

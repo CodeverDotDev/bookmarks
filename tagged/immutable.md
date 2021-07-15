@@ -1,6 +1,6 @@
-## Bookmarks tagged [[immutable]](https://www.bookmarks.dev/search?q=[immutable])
+## Bookmarks tagged [[immutable]](https://www.codever.land/search?q=[immutable])
 
-_<sup><sup>[www.bookmarks.dev/tagged/immutable](https://www.bookmarks.dev/tagged/immutable)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/immutable](www.codever.land/bookmarks/t/immutable)</sup></sup>_
 ---
 #### [Immutables.org](http://immutables.github.io/)
 _<sup>http://immutables.github.io/</sup>_

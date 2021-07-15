@@ -1,6 +1,6 @@
-## Bookmarks tagged [[event-sourcing]](https://www.bookmarks.dev/search?q=[event-sourcing])
+## Bookmarks tagged [[event-sourcing]](https://www.codever.land/search?q=[event-sourcing])
 
-_<sup><sup>[www.bookmarks.dev/tagged/event-sourcing](https://www.bookmarks.dev/tagged/event-sourcing)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/event-sourcing](www.codever.land/bookmarks/t/event-sourcing)</sup></sup>_
 ---
 #### [GOTO 2017 • The Many Meanings of Event-Driven Architecture • Martin Fowler - YouTube](https://www.youtube.com/watch?v=STKCRSUsyP0)
 _<sup>https://www.youtube.com/watch?v=STKCRSUsyP0</sup>_

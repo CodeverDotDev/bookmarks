@@ -1,6 +1,6 @@
-## Bookmarks tagged [[waterfall]](https://www.bookmarks.dev/search?q=[waterfall])
+## Bookmarks tagged [[waterfall]](https://www.codever.land/search?q=[waterfall])
 
-_<sup><sup>[www.bookmarks.dev/tagged/waterfall](https://www.bookmarks.dev/tagged/waterfall)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/waterfall](www.codever.land/bookmarks/t/waterfall)</sup></sup>_
 ---
 #### [Agile is not now, nor was it ever, Waterfall. | 8th Light](https://8thlight.com/blog/uncle-bob/2015/10/16/agile-and-waterfall.html)
 _<sup>https://8thlight.com/blog/uncle-bob/2015/10/16/agile-and-waterfall.html</sup>_

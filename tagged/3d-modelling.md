@@ -1,6 +1,6 @@
-## Bookmarks tagged [[3d-modelling]](https://www.bookmarks.dev/search?q=[3d-modelling])
+## Bookmarks tagged [[3d-modelling]](https://www.codever.land/search?q=[3d-modelling])
 
-_<sup><sup>[www.bookmarks.dev/tagged/3d-modelling](https://www.bookmarks.dev/tagged/3d-modelling)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/3d-modelling](www.codever.land/bookmarks/t/3d-modelling)</sup></sup>_
 ---
 #### [Creating Ghibli-Style Textures in Substance Painter - YouTube](https://www.youtube.com/watch?v=h8llGEKIQT0)
 _<sup>https://www.youtube.com/watch?v=h8llGEKIQT0</sup>_

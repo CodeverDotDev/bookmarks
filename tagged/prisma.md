@@ -1,6 +1,6 @@
-## Bookmarks tagged [[prisma]](https://www.bookmarks.dev/search?q=[prisma])
+## Bookmarks tagged [[prisma]](https://www.codever.land/search?q=[prisma])
 
-_<sup><sup>[www.bookmarks.dev/tagged/prisma](https://www.bookmarks.dev/tagged/prisma)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/prisma](www.codever.land/bookmarks/t/prisma)</sup></sup>_
 ---
 #### [awesome-prisma](https://github.com/catalinmiron/awesome-prisma#readme))
 _<sup>https://github.com/catalinmiron/awesome-prisma#readme)</sup>_

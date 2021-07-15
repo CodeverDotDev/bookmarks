@@ -1,6 +1,6 @@
-## Bookmarks tagged [[vhdl]](https://www.bookmarks.dev/search?q=[vhdl])
+## Bookmarks tagged [[vhdl]](https://www.codever.land/search?q=[vhdl])
 
-_<sup><sup>[www.bookmarks.dev/tagged/vhdl](https://www.bookmarks.dev/tagged/vhdl)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/vhdl](www.codever.land/bookmarks/t/vhdl)</sup></sup>_
 ---
 #### [VHDL Tutorial: Learn By Example](http://esd.cs.ucr.edu/labs/tutorial/)
 _<sup>http://esd.cs.ucr.edu/labs/tutorial/</sup>_

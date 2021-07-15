@@ -1,6 +1,61 @@
-## Bookmarks tagged [[typescript]](https://www.bookmarks.dev/search?q=[typescript])
+## Bookmarks tagged [[typescript]](https://www.codever.land/search?q=[typescript])
 
-_<sup><sup>[www.bookmarks.dev/tagged/typescript](https://www.bookmarks.dev/tagged/typescript)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/typescript](www.codever.land/bookmarks/t/typescript)</sup></sup>_
+---
+#### [Introduction - TypeScript Deep Dive](https://basarat.gitbook.io/typescript/)
+_<sup>https://basarat.gitbook.io/typescript/</sup>_
+
+* **tags**: [typescript](../tagged/typescript.md), [book](../tagged/book.md), [documentation](../tagged/documentation.md)
+---
+#### [Building a CLI with Deno 🦕 | learning as we go](https://alexandrempsantos.com/deno/build-a-cli-with-deno/)
+_<sup>https://alexandrempsantos.com/deno/build-a-cli-with-deno/</sup>_
+
+How to build and distribute a CLI with Deno that fetches the weather for a specific location
+* **tags**: [deno](../tagged/deno.md), [javascript](../tagged/javascript.md), [typescript](../tagged/typescript.md), [web-assembly](../tagged/web-assembly.md)
+---
+#### [Deno - Everything I know](https://wiki.nikitavoloboev.xyz/web/deno)
+_<sup>https://wiki.nikitavoloboev.xyz/web/deno</sup>_
+
+* **tags**: [deno](../tagged/deno.md), [javascript](../tagged/javascript.md), [typescript](../tagged/typescript.md), [web-assembly](../tagged/web-assembly.md)
+---
+#### [TypeScript Course for Beginners 2021 - Learn TypeScript from Scratch! - 3h:16min](https://youtu.be/BwuLxPH8IDs)
+_<sup>https://youtu.be/BwuLxPH8IDs</sup>_
+
+Free TypeScript Introduction for Beginners: Get Started with TypeScript, learn the Basics, its Features, Workflows and how to use it!
+
+Join the full TypeScript Course: https://acad.link/typescript 
+Jo...
+* :calendar: **published on**: 2020-01-21
+* **tags**: [typescript](../tagged/typescript.md), [tutorials](../tagged/tutorials.md)
+---
+#### [Craig Buckler  - A first look at Deno - 27min](https://youtu.be/JEv4qntldi8)
+_<sup>https://youtu.be/JEv4qntldi8</sup>_
+
+Node.js is a cross-platform JavaScript runtime developed by Ryan Dahl using Chrome's V8 engine. It has been one of the most successful web technologies of the past decade. Deno is a new cross-platform...
+* :calendar: **published on**: 2020-12-22
+* **tags**: [techexeter](../tagged/techexeter.md), [deno](../tagged/deno.md), [javascript](../tagged/javascript.md), [typescript](../tagged/typescript.md)
+---
+#### [Deno, a Secure Runtime for JavaScript and TypeScript](https://youtu.be/doug6st5vAs)
+_<sup>https://youtu.be/doug6st5vAs</sup>_
+
+Deno is a runtime for JavaScript and TypeScript that is based on the V8 JavaScript engine and the Rust programming language. It was created by Ryan Dahl, original creator of Node.js, and is focused on...
+* **tags**: [typescript](../tagged/typescript.md), [javascript](../tagged/javascript.md), [typescript](../tagged/typescript.md)
+---
+#### [Deno, a Secure Runtime for JavaScript and TypeScript](https://youtu.be/doug6st5vAs)
+_<sup>https://youtu.be/doug6st5vAs</sup>_
+
+Deno is a runtime for JavaScript and TypeScript that is based on the V8 JavaScript engine and the Rust programming language. It was created by Ryan Dahl, original creator of Node.js, and is focused on...
+* **tags**: [typescript](../tagged/typescript.md), [javascript](../tagged/javascript.md), [typescript](../tagged/typescript.md)
+---
+#### [10 Things I Regret About Node.js - Ryan Dahl - JSConf EU](https://youtu.be/428ejtNbd5A)
+_<sup>https://youtu.be/428ejtNbd5A</sup>_
+
+* **tags**: [deno](../tagged/deno.md), [javascript](../tagged/javascript.md), [typescript](../tagged/typescript.md), [webassembly](../tagged/webassembly.md), [ryan-dahl](../tagged/ryan-dahl.md)
+---
+#### [Deno, a new way to JavaScript. Ryan Dahl. JS Fest 2019 Spring](https://invidious.snopyta.org/watch?v=z6JRlx5NC9E)
+_<sup>https://invidious.snopyta.org/watch?v=z6JRlx5NC9E</sup>_
+
+* **tags**: [deno](../tagged/deno.md), [javascript](../tagged/javascript.md), [typescript](../tagged/typescript.md), [webassembly](../tagged/webassembly.md), [ryan-dahl](../tagged/ryan-dahl.md)
 ---
 #### [brtnshrdr/angular2-hotkeys home page](https://github.com/brtnshrdr/angular2-hotkeys/)
 _<sup>https://github.com/brtnshrdr/angular2-hotkeys/</sup>_

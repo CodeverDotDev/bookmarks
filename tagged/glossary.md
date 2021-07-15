@@ -1,6 +1,6 @@
-## Bookmarks tagged [[glossary]](https://www.bookmarks.dev/search?q=[glossary])
+## Bookmarks tagged [[glossary]](https://www.codever.land/search?q=[glossary])
 
-_<sup><sup>[www.bookmarks.dev/tagged/glossary](https://www.bookmarks.dev/tagged/glossary)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/glossary](www.codever.land/bookmarks/t/glossary)</sup></sup>_
 ---
 #### [What Is an X.509 Certificate? - SSL.com](https://www.ssl.com/faqs/what-is-an-x-509-certificate/)
 _<sup>https://www.ssl.com/faqs/what-is-an-x-509-certificate/</sup>_

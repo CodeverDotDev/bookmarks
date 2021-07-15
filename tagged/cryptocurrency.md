@@ -1,6 +1,6 @@
-## Bookmarks tagged [[cryptocurrency]](https://www.bookmarks.dev/search?q=[cryptocurrency])
+## Bookmarks tagged [[cryptocurrency]](https://www.codever.land/search?q=[cryptocurrency])
 
-_<sup><sup>[www.bookmarks.dev/tagged/cryptocurrency](https://www.bookmarks.dev/tagged/cryptocurrency)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/cryptocurrency](www.codever.land/bookmarks/t/cryptocurrency)</sup></sup>_
 ---
 #### [Introduction To Cryptocurrency](https://nakamoto.com/introduction-to-cryptocurrency/)
 _<sup>https://nakamoto.com/introduction-to-cryptocurrency/</sup>_

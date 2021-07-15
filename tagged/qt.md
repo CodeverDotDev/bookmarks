@@ -1,6 +1,6 @@
-## Bookmarks tagged [[qt]](https://www.bookmarks.dev/search?q=[qt])
+## Bookmarks tagged [[qt]](https://www.codever.land/search?q=[qt])
 
-_<sup><sup>[www.bookmarks.dev/tagged/qt](https://www.bookmarks.dev/tagged/qt)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/qt](www.codever.land/bookmarks/t/qt)</sup></sup>_
 ---
 #### [awesome-qt](https://github.com/JesseTG/awesome-qt#readme)
 _<sup>https://github.com/JesseTG/awesome-qt#readme</sup>_

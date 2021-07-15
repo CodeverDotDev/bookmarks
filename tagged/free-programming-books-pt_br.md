@@ -1,6 +1,6 @@
-## Bookmarks tagged [[free-programming-books-pt_br]](https://www.bookmarks.dev/search?q=[free-programming-books-pt_br])
+## Bookmarks tagged [[free-programming-books-pt_br]](https://www.codever.land/search?q=[free-programming-books-pt_br])
 
-_<sup><sup>[www.bookmarks.dev/tagged/free-programming-books-pt_br](https://www.bookmarks.dev/tagged/free-programming-books-pt_br)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/free-programming-books-pt_br](www.codever.land/bookmarks/t/free-programming-books-pt_br)</sup></sup>_
 ---
 #### [Vim para Noobs](http://woliveiras.com.br/vimparanoobs/)
 _<sup>http://woliveiras.com.br/vimparanoobs/</sup>_

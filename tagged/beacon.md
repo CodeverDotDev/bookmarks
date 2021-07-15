@@ -1,6 +1,6 @@
-## Bookmarks tagged [[beacon]](https://www.bookmarks.dev/search?q=[beacon])
+## Bookmarks tagged [[beacon]](https://www.codever.land/search?q=[beacon])
 
-_<sup><sup>[www.bookmarks.dev/tagged/beacon](https://www.bookmarks.dev/tagged/beacon)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/beacon](www.codever.land/bookmarks/t/beacon)</sup></sup>_
 ---
 #### [awesome-beacon](https://github.com/beaconinside/awesome-beacon#readme)
 _<sup>https://github.com/beaconinside/awesome-beacon#readme</sup>_

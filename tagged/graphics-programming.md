@@ -1,6 +1,6 @@
-## Bookmarks tagged [[graphics-programming]](https://www.bookmarks.dev/search?q=[graphics-programming])
+## Bookmarks tagged [[graphics-programming]](https://www.codever.land/search?q=[graphics-programming])
 
-_<sup><sup>[www.bookmarks.dev/tagged/graphics-programming](https://www.bookmarks.dev/tagged/graphics-programming)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/graphics-programming](www.codever.land/bookmarks/t/graphics-programming)</sup></sup>_
 ---
 #### [Tutorials for modern OpenGL](http://www.opengl-tutorial.org)
 _<sup>http://www.opengl-tutorial.org</sup>_

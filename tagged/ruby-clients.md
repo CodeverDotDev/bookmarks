@@ -1,6 +1,6 @@
-## Bookmarks tagged [[ruby-clients]](https://www.bookmarks.dev/search?q=[ruby-clients])
+## Bookmarks tagged [[ruby-clients]](https://www.codever.land/search?q=[ruby-clients])
 
-_<sup><sup>[www.bookmarks.dev/tagged/ruby-clients](https://www.bookmarks.dev/tagged/ruby-clients)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/ruby-clients](www.codever.land/bookmarks/t/ruby-clients)</sup></sup>_
 ---
 #### [Net::HTTP](http://ruby-doc.org/stdlib/libdoc/net/http/rdoc/Net/HTTP.html)
 _<sup>http://ruby-doc.org/stdlib/libdoc/net/http/rdoc/Net/HTTP.html</sup>_

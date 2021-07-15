@@ -1,6 +1,6 @@
-## Bookmarks tagged [[promise]](https://www.bookmarks.dev/search?q=[promise])
+## Bookmarks tagged [[promise]](https://www.codever.land/search?q=[promise])
 
-_<sup><sup>[www.bookmarks.dev/tagged/promise](https://www.bookmarks.dev/tagged/promise)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/promise](www.codever.land/bookmarks/t/promise)</sup></sup>_
 ---
 #### [async/await in Angular `ngOnInit`](https://stackoverflow.com/questions/56092083/async-await-in-angular-ngoninit)
 _<sup>https://stackoverflow.com/questions/56092083/async-await-in-angular-ngoninit</sup>_

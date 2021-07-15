@@ -1,6 +1,13 @@
-## Bookmarks tagged [[ruby]](https://www.bookmarks.dev/search?q=[ruby])
+## Bookmarks tagged [[ruby]](https://www.codever.land/search?q=[ruby])
 
-_<sup><sup>[www.bookmarks.dev/tagged/ruby](https://www.bookmarks.dev/tagged/ruby)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/ruby](www.codever.land/bookmarks/t/ruby)</sup></sup>_
+---
+#### [🌈 Newsletter Wor #13: L'open-source: engagez-vous, rengagez-vous qu'ils disaient - Newsletter Women On Rails](https://womenonrails.substack.com/p/-newsletter-wor-13-lopen-source-engagez)
+_<sup>https://womenonrails.substack.com/p/-newsletter-wor-13-lopen-source-engagez</sup>_
+
+Une newsletter bimensuelle sur l'actualité Ruby on Rails et web
+* :calendar: **published on**: 2021-06-22
+* **tags**: [open-source](../tagged/open-source.md), [ruby](../tagged/ruby.md), [ruby-on-rails](../tagged/ruby-on-rails.md)
 ---
 #### [Rouge](http://rouge.jneen.net/)
 _<sup>http://rouge.jneen.net/</sup>_

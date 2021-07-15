@@ -1,6 +1,6 @@
-## Bookmarks tagged [[benchmarking]](https://www.bookmarks.dev/search?q=[benchmarking])
+## Bookmarks tagged [[benchmarking]](https://www.codever.land/search?q=[benchmarking])
 
-_<sup><sup>[www.bookmarks.dev/tagged/benchmarking](https://www.bookmarks.dev/tagged/benchmarking)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/benchmarking](www.codever.land/bookmarks/t/benchmarking)</sup></sup>_
 ---
 #### [What Is Faster EJBs or CDI? - YouTube](https://www.youtube.com/watch?v=6Gm0u9gX56w)
 _<sup>https://www.youtube.com/watch?v=6Gm0u9gX56w</sup>_

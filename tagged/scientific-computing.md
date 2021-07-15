@@ -1,6 +1,6 @@
-## Bookmarks tagged [[scientific-computing]](https://www.bookmarks.dev/search?q=[scientific-computing])
+## Bookmarks tagged [[scientific-computing]](https://www.codever.land/search?q=[scientific-computing])
 
-_<sup><sup>[www.bookmarks.dev/tagged/scientific-computing](https://www.bookmarks.dev/tagged/scientific-computing)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/scientific-computing](www.codever.land/bookmarks/t/scientific-computing)</sup></sup>_
 ---
 #### [AMGCL](https://github.com/ddemidov/amgcl)
 _<sup>https://github.com/ddemidov/amgcl</sup>_

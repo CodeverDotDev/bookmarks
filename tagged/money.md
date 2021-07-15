@@ -1,6 +1,6 @@
-## Bookmarks tagged [[money]](https://www.bookmarks.dev/search?q=[money])
+## Bookmarks tagged [[money]](https://www.codever.land/search?q=[money])
 
-_<sup><sup>[www.bookmarks.dev/tagged/money](https://www.bookmarks.dev/tagged/money)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/money](www.codever.land/bookmarks/t/money)</sup></sup>_
 ---
 #### [eu_central_bank](https://github.com/RubyMoney/eu_central_bank)
 _<sup>https://github.com/RubyMoney/eu_central_bank</sup>_

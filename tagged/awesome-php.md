@@ -1,6 +1,6 @@
-## Bookmarks tagged [[awesome-php]](https://www.bookmarks.dev/search?q=[awesome-php])
+## Bookmarks tagged [[awesome-php]](https://www.codever.land/search?q=[awesome-php])
 
-_<sup><sup>[www.bookmarks.dev/tagged/awesome-php](https://www.bookmarks.dev/tagged/awesome-php)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/awesome-php](www.codever.land/bookmarks/t/awesome-php)</sup></sup>_
 ---
 #### [Brew PHP Switcher](https://github.com/philcook/brew-php-switcher)
 _<sup>https://github.com/philcook/brew-php-switcher</sup>_

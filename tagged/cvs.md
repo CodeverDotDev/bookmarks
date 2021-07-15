@@ -1,6 +1,6 @@
-## Bookmarks tagged [[cvs]](https://www.bookmarks.dev/search?q=[cvs])
+## Bookmarks tagged [[cvs]](https://www.codever.land/search?q=[cvs])
 
-_<sup><sup>[www.bookmarks.dev/tagged/cvs](https://www.bookmarks.dev/tagged/cvs)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/cvs](www.codever.land/bookmarks/t/cvs)</sup></sup>_
 ---
 #### [Branch by Abstraction - Trunk Based Development](https://trunkbaseddevelopment.com/branch-by-abstraction/)
 _<sup>https://trunkbaseddevelopment.com/branch-by-abstraction/</sup>_

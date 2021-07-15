@@ -1,6 +1,6 @@
-## Bookmarks tagged [[delphi-pascal]](https://www.bookmarks.dev/search?q=[delphi-pascal])
+## Bookmarks tagged [[delphi-pascal]](https://www.codever.land/search?q=[delphi-pascal])
 
-_<sup><sup>[www.bookmarks.dev/tagged/delphi-pascal](https://www.bookmarks.dev/tagged/delphi-pascal)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/delphi-pascal](www.codever.land/bookmarks/t/delphi-pascal)</sup></sup>_
 ---
 #### [Free Pascal: Reference guide](http://ftp.icm.edu.pl/packages/fpc/docs-pdf/ref.pdf)
 _<sup>http://ftp.icm.edu.pl/packages/fpc/docs-pdf/ref.pdf</sup>_

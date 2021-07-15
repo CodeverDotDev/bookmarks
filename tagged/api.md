@@ -1,6 +1,23 @@
-## Bookmarks tagged [[api]](https://www.bookmarks.dev/search?q=[api])
+## Bookmarks tagged [[api]](https://www.codever.land/search?q=[api])
 
-_<sup><sup>[www.bookmarks.dev/tagged/api](https://www.bookmarks.dev/tagged/api)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/api](www.codever.land/bookmarks/t/api)</sup></sup>_
+---
+#### [SAP Graph Multi-Part Tutorial: Information Map | SAP Blogs](https://blogs.sap.com/2021/06/08/sap-graph-multi-part-tutorial-information-map/)
+_<sup>https://blogs.sap.com/2021/06/08/sap-graph-multi-part-tutorial-information-map/</sup>_
+
+Hello! SAP Graph is the new unified and consolidated API for SAP’s Integrated Intelligent Suite. Developers use SAP Graph to build applications that access a business data graph of SAP-managed data,
+* **tags**: [sap](../tagged/sap.md), [graph](../tagged/graph.md), [api](../tagged/api.md), [cloud](../tagged/cloud.md)
+---
+#### [API VS bibliothèques : comprendre l'intérêt](https://tferdinand.net/api-vs-bibliotheques-comprendre-linteret/)
+_<sup>https://tferdinand.net/api-vs-bibliotheques-comprendre-linteret/</sup>_
+
+* :calendar: **published on**: 2021-06-21
+* **tags**: [api](../tagged/api.md), [libraries](../tagged/libraries.md)
+---
+#### [ThatAPICompany – Creating API First, Data Driven Companies.](https://thatapicompany.com/)
+_<sup>https://thatapicompany.com/</sup>_
+
+* **tags**: [api](../tagged/api.md), [javascript](../tagged/javascript.md)
 ---
 #### [What you really need to know about securing APIs with mutual certificates](https://nevatech.com/blog/post/What-you-need-to-know-about-securing-APIs-with-mutual-certificates)
 _<sup>https://nevatech.com/blog/post/What-you-need-to-know-about-securing-APIs-with-mutual-certificates</sup>_

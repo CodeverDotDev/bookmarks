@@ -1,6 +1,6 @@
-## Bookmarks tagged [[command-line-tools]](https://www.bookmarks.dev/search?q=[command-line-tools])
+## Bookmarks tagged [[command-line-tools]](https://www.codever.land/search?q=[command-line-tools])
 
-_<sup><sup>[www.bookmarks.dev/tagged/command-line-tools](https://www.bookmarks.dev/tagged/command-line-tools)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/command-line-tools](www.codever.land/bookmarks/t/command-line-tools)</sup></sup>_
 ---
 #### [GraphQL Code Generator Home Page](https://graphql-code-generator.com/)
 _<sup>https://graphql-code-generator.com/</sup>_

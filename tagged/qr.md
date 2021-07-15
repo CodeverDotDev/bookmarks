@@ -1,6 +1,6 @@
-## Bookmarks tagged [[qr]](https://www.bookmarks.dev/search?q=[qr])
+## Bookmarks tagged [[qr]](https://www.codever.land/search?q=[qr])
 
-_<sup><sup>[www.bookmarks.dev/tagged/qr](https://www.bookmarks.dev/tagged/qr)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/qr](www.codever.land/bookmarks/t/qr)</sup></sup>_
 ---
 #### [QR-code](https://github.com/whomwah/rqrcode)
 _<sup>https://github.com/whomwah/rqrcode</sup>_

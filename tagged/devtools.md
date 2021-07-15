@@ -1,6 +1,6 @@
-## Bookmarks tagged [[devtools]](https://www.bookmarks.dev/search?q=[devtools])
+## Bookmarks tagged [[devtools]](https://www.codever.land/search?q=[devtools])
 
-_<sup><sup>[www.bookmarks.dev/tagged/devtools](https://www.bookmarks.dev/tagged/devtools)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/devtools](www.codever.land/bookmarks/t/devtools)</sup></sup>_
 ---
 #### [prettier](https://github.com/prettier/prettier)
 _<sup>https://github.com/prettier/prettier</sup>_

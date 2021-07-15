@@ -1,6 +1,6 @@
-## Bookmarks tagged [[utility]](https://www.bookmarks.dev/search?q=[utility])
+## Bookmarks tagged [[utility]](https://www.codever.land/search?q=[utility])
 
-_<sup><sup>[www.bookmarks.dev/tagged/utility](https://www.bookmarks.dev/tagged/utility)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/utility](www.codever.land/bookmarks/t/utility)</sup></sup>_
 ---
 #### [Awesome Print](https://github.com/awesome-print/awesome_print)
 _<sup>https://github.com/awesome-print/awesome_print</sup>_

@@ -1,6 +1,6 @@
-## Bookmarks tagged [[linkedin]](https://www.bookmarks.dev/search?q=[linkedin])
+## Bookmarks tagged [[linkedin]](https://www.codever.land/search?q=[linkedin])
 
-_<sup><sup>[www.bookmarks.dev/tagged/linkedin](https://www.bookmarks.dev/tagged/linkedin)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/linkedin](www.codever.land/bookmarks/t/linkedin)</sup></sup>_
 ---
 #### [6 Strategies for Running a Successful LinkedIn Group | OPEN Forum](https://www.americanexpress.com/us/small-business/openforum/articles/6-strategies-for-running-a-successful-linkedin-group/)
 _<sup>https://www.americanexpress.com/us/small-business/openforum/articles/6-strategies-for-running-a-succ...</sup>_

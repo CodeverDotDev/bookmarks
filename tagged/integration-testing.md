@@ -1,6 +1,6 @@
-## Bookmarks tagged [[integration-testing]](https://www.bookmarks.dev/search?q=[integration-testing])
+## Bookmarks tagged [[integration-testing]](https://www.codever.land/search?q=[integration-testing])
 
-_<sup><sup>[www.bookmarks.dev/tagged/integration-testing](https://www.bookmarks.dev/tagged/integration-testing)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/integration-testing](www.codever.land/bookmarks/t/integration-testing)</sup></sup>_
 ---
 #### [Arquillian  Home Page](http://arquillian.org/)
 _<sup>http://arquillian.org/</sup>_

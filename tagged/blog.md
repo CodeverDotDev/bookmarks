@@ -1,6 +1,6 @@
-## Bookmarks tagged [[blog]](https://www.bookmarks.dev/search?q=[blog])
+## Bookmarks tagged [[blog]](https://www.codever.land/search?q=[blog])
 
-_<sup><sup>[www.bookmarks.dev/tagged/blog](https://www.bookmarks.dev/tagged/blog)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/blog](www.codever.land/bookmarks/t/blog)</sup></sup>_
 ---
 #### [Taimoor Sattar | tech articles and entrepreneur](https://taimoorsattar.dev)
 _<sup>https://taimoorsattar.dev</sup>_

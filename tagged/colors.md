@@ -1,6 +1,6 @@
-## Bookmarks tagged [[colors]](https://www.bookmarks.dev/search?q=[colors])
+## Bookmarks tagged [[colors]](https://www.codever.land/search?q=[colors])
 
-_<sup><sup>[www.bookmarks.dev/tagged/colors](https://www.bookmarks.dev/tagged/colors)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/colors](www.codever.land/bookmarks/t/colors)</sup></sup>_
 ---
 #### [GitHub - chalk/chalk: 🖍 Terminal string styling done right](https://github.com/chalk/chalk#readme)
 _<sup>https://github.com/chalk/chalk#readme</sup>_

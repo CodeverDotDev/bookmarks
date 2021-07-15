@@ -1,6 +1,6 @@
-## Bookmarks tagged [[specifications]](https://www.bookmarks.dev/search?q=[specifications])
+## Bookmarks tagged [[specifications]](https://www.codever.land/search?q=[specifications])
 
-_<sup><sup>[www.bookmarks.dev/tagged/specifications](https://www.bookmarks.dev/tagged/specifications)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/specifications](www.codever.land/bookmarks/t/specifications)</sup></sup>_
 ---
 #### [JSR 346: Contexts and Dependency Injection for JavaTM EE 1.1](https://jcp.org/en/jsr/detail?id=346)
 _<sup>https://jcp.org/en/jsr/detail?id=346</sup>_

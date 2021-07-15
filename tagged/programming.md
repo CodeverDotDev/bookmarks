@@ -1,6 +1,65 @@
-## Bookmarks tagged [[programming]](https://www.bookmarks.dev/search?q=[programming])
+## Bookmarks tagged [[programming]](https://www.codever.land/search?q=[programming])
 
-_<sup><sup>[www.bookmarks.dev/tagged/programming](https://www.bookmarks.dev/tagged/programming)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/programming](www.codever.land/bookmarks/t/programming)</sup></sup>_
+---
+#### [GitHub - charlax/professional-programming resources](https://github.com/charlax/professional-programming)
+_<sup>https://github.com/charlax/professional-programming</sup>_
+
+A collection of full-stack resources for programmers. - charlax/professional-programming
+* **tags**: [programming](../tagged/programming.md), [resources](../tagged/resources.md)
+* :octocat: **[source code](https://github.com/charlax/professional-programming)**
+---
+#### [Écrire un code lisible et facile à maintenir en Java • Dev Java - Freelance Java](https://dev-java.fr/bonnes-pratiques-code-java-lisible-maintenable/)
+_<sup>https://dev-java.fr/bonnes-pratiques-code-java-lisible-maintenable/</sup>_
+
+Il n’est pas facile d’écrire du code propre, il doit être lisible et maintenable, pour soi-même et surtout pour les ... Lire la suite
+* :calendar: **published on**: 2021-06-23
+* **tags**: [java](../tagged/java.md), [programming](../tagged/programming.md)
+---
+#### [Comprendre les Optional en Java • Dev Java - Freelance Java](https://dev-java.fr/comprendre-optional-java/)
+_<sup>https://dev-java.fr/comprendre-optional-java/</sup>_
+
+Introduction Optional, une classe introduite dans Java 8, est souvent mal utilisée. L’élimination des valeurs nulles n’est pas un objectif ... Lire la suite
+* :calendar: **published on**: 2021-06-17
+* **tags**: [java](../tagged/java.md), [programming](../tagged/programming.md)
+---
+#### [Fundamentals of Software Architecture — Neal Ford and Mark Richards - 57min](https://www.youtube.com/watch?v=fvSZ7gocaxI)
+_<sup>https://www.youtube.com/watch?v=fvSZ7gocaxI</sup>_
+
+Software architecture is frequently highlighted as one of the most desirable careers. But there's never been a handbook that gives you everything you need to know to succeed — until now. In this webin...
+* :calendar: **published on**: 2020-04-17
+* **tags**: [programming](../tagged/programming.md), [architecture](../tagged/architecture.md)
+---
+#### [Branchless Programming: Why "If" is Sloowww... and what we can do about it! - Invidious](https://invidious.snopyta.org/watch?v=bVJ-mWWL7cE)
+_<sup>https://invidious.snopyta.org/watch?v=bVJ-mWWL7cE</sup>_
+
+* **tags**: [branchless](../tagged/branchless.md), [programming](../tagged/programming.md)
+---
+#### [Learn Code the Hard Way](https://learncodethehardway.org/)
+_<sup>https://learncodethehardway.org/</sup>_
+
+* **tags**: [programming](../tagged/programming.md), [how-to](../tagged/how-to.md), [course](../tagged/course.md), [book](../tagged/book.md)
+---
+#### [ELI5: What is Big O notation? : explainlikeimfive](https://www.reddit.com/r/explainlikeimfive/comments/1fxgvv/eli5_what_is_big_o_notation/)
+_<sup>https://www.reddit.com/r/explainlikeimfive/comments/1fxgvv/eli5_what_is_big_o_notation/</sup>_
+
+19.3m members in the explainlikeimfive community. Explain Like I'm Five is the best forum and archive on the internet for layperson-friendly …
+* **tags**: [programming](../tagged/programming.md), [computer-science](../tagged/computer-science.md), [bigonotation](../tagged/bigonotation.md)
+---
+#### [Algorithm Complexity and Big O Notation](https://flaviocopes.com/complexity-big-o-notation/)
+_<sup>https://flaviocopes.com/complexity-big-o-notation/</sup>_
+
+Let’s discuss algorithms complexity, and in particular how we measure it in the context of algorithms.
+Different algorithms, given the same problem to solve and the same inputs, take a different time ...
+* :calendar: **published on**: 2021-04-19
+* **tags**: [programming](../tagged/programming.md), [bigonotation](../tagged/bigonotation.md), [computer-science](../tagged/computer-science.md)
+---
+#### [My Programming Journal](http://waynewallace.sdf.org/programming-blog.html)
+_<sup>http://waynewallace.sdf.org/programming-blog.html</sup>_
+
+Open source Bookmarks and Code Snippets Manager for Developers & Co. Easy bookmarking with bookmarklets, browser extensions and IDE plugins. Quick retrieval of dev bookmarks with custom and rapid sear...
+* :calendar: **published on**: 2021-04-18
+* **tags**: [programming](../tagged/programming.md), [journal](../tagged/journal.md), [web-application](../tagged/web-application.md), [fullstack](../tagged/fullstack.md), [developer](../tagged/developer.md)
 ---
 #### [Java Annotated Monthly – December 2020 | JetBrains Blog](https://blog.jetbrains.com/idea/2020/12/java-annotated-monthly-december-2020/)
 _<sup>https://blog.jetbrains.com/idea/2020/12/java-annotated-monthly-december-2020/</sup>_

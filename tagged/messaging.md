@@ -1,6 +1,13 @@
-## Bookmarks tagged [[messaging]](https://www.bookmarks.dev/search?q=[messaging])
+## Bookmarks tagged [[messaging]](https://www.codever.land/search?q=[messaging])
 
-_<sup><sup>[www.bookmarks.dev/tagged/messaging](https://www.bookmarks.dev/tagged/messaging)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/messaging](www.codever.land/bookmarks/t/messaging)</sup></sup>_
+---
+#### [Message Driven Beans, attributes explanation - Jboss Docs](https://docs.jboss.org/ejb3/docs/tutorial/mdb/mdb.html)
+_<sup>https://docs.jboss.org/ejb3/docs/tutorial/mdb/mdb.html</sup>_
+
+This example shows you how to implement an MDB with EJB 3.0 using annotations.
+Take a look at [ExampleMDB.java](https://docs.jboss.org/ejb3/docs/tutorial/mdb/src/org/jboss/tutorial/mdb/bean/ExampleMDB...
+* **tags**: [java](../tagged/java.md), [javaee](../tagged/javaee.md), [ejb](../tagged/ejb.md), [message-driven-bean](../tagged/message-driven-bean.md), [messaging](../tagged/messaging.md)
 ---
 #### [APNs2](https://github.com/sideshow/apns2)
 _<sup>https://github.com/sideshow/apns2</sup>_

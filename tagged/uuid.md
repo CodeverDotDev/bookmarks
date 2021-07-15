@@ -1,6 +1,6 @@
-## Bookmarks tagged [[uuid]](https://www.bookmarks.dev/search?q=[uuid])
+## Bookmarks tagged [[uuid]](https://www.codever.land/search?q=[uuid])
 
-_<sup><sup>[www.bookmarks.dev/tagged/uuid](https://www.bookmarks.dev/tagged/uuid)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/uuid](www.codever.land/bookmarks/t/uuid)</sup></sup>_
 ---
 #### [Online UUID Generator Tool](https://www.uuidgenerator.net/)
 _<sup>https://www.uuidgenerator.net/</sup>_

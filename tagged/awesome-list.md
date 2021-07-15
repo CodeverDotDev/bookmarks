@@ -1,6 +1,6 @@
-## Bookmarks tagged [[awesome-list]](https://www.bookmarks.dev/search?q=[awesome-list]) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+## Bookmarks tagged [[awesome-list]](https://www.codever.land/search?q=[awesome-list]) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-_<sup><sup>[www.bookmarks.dev/tagged/awesome-list](https://www.bookmarks.dev/tagged/awesome-list)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/awesome-list](www.codever.land/bookmarks/t/awesome-list)</sup></sup>_
 ---
 #### [awesome-npm](https://github.com/sindresorhus/awesome-npm)
 _<sup>https://github.com/sindresorhus/awesome-npm</sup>_

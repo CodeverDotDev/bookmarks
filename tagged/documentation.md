@@ -1,6 +1,25 @@
-## Bookmarks tagged [[documentation]](https://www.bookmarks.dev/search?q=[documentation])
+## Bookmarks tagged [[documentation]](https://www.codever.land/search?q=[documentation])
 
-_<sup><sup>[www.bookmarks.dev/tagged/documentation](https://www.bookmarks.dev/tagged/documentation)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/documentation](www.codever.land/bookmarks/t/documentation)</sup></sup>_
+---
+#### [Introduction - TypeScript Deep Dive](https://basarat.gitbook.io/typescript/)
+_<sup>https://basarat.gitbook.io/typescript/</sup>_
+
+* **tags**: [typescript](../tagged/typescript.md), [book](../tagged/book.md), [documentation](../tagged/documentation.md)
+---
+#### [GitHub - jlevy/the-art-of-command-line: Master the command line, in one page](https://github.com/jlevy/the-art-of-command-line)
+_<sup>https://github.com/jlevy/the-art-of-command-line</sup>_
+
+Master the command line, in one page. Contribute to jlevy/the-art-of-command-line development by creating an account on GitHub.
+* **tags**: [windows](../tagged/windows.md), [macos](../tagged/macos.md), [linux](../tagged/linux.md), [bash](../tagged/bash.md), [documentation](../tagged/documentation.md), [unix](../tagged/unix.md)
+* :octocat: **[source code](https://github.com/jlevy/the-art-of-command-line)**
+---
+#### [Docusaurus home page](https://docusaurus.io/)
+_<sup>https://docusaurus.io/</sup>_
+
+An optimized site generator in React. Docusaurus helps you to move fast and write content. Build documentation websites, blogs, marketing pages, and more.
+* **tags**: [react](../tagged/react.md), [static-site-generator](../tagged/static-site-generator.md), [javascript](../tagged/javascript.md), [documentation](../tagged/documentation.md), [docs](../tagged/docs.md)
+* :octocat: **[source code](https://github.com/facebook/docusaurus)**
 ---
 #### [Antora home page](https://antora.org/)
 _<sup>https://antora.org/</sup>_

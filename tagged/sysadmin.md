@@ -1,6 +1,6 @@
-## Bookmarks tagged [[sysadmin]](https://www.bookmarks.dev/search?q=[sysadmin])
+## Bookmarks tagged [[sysadmin]](https://www.codever.land/search?q=[sysadmin])
 
-_<sup><sup>[www.bookmarks.dev/tagged/sysadmin](https://www.bookmarks.dev/tagged/sysadmin)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/sysadmin](www.codever.land/bookmarks/t/sysadmin)</sup></sup>_
 ---
 #### [awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin#readme)
 _<sup>https://github.com/n1trux/awesome-sysadmin#readme</sup>_

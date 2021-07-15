@@ -1,6 +1,13 @@
-## Bookmarks tagged [[image]](https://www.bookmarks.dev/search?q=[image])
+## Bookmarks tagged [[image]](https://www.codever.land/search?q=[image])
 
-_<sup><sup>[www.bookmarks.dev/tagged/image](https://www.bookmarks.dev/tagged/image)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/image](www.codever.land/bookmarks/t/image)</sup></sup>_
+---
+#### [GIMP -How to make a text balloon/speech bubble - GIMP tutorial - 4min](https://www.youtube.com/watch?v=MT0g_xp42Wg)
+_<sup>https://www.youtube.com/watch?v=MT0g_xp42Wg</sup>_
+
+GIMP tutorial on how to use gimp to make a text balloon/speech bubble. Very simple way of making shapes in GIMP with the selection tools, making a path from the selection and stroking the path. All do...
+* :calendar: **published on**: 2010-01-16
+* **tags**: [gimp](../tagged/gimp.md), [image](../tagged/image.md)
 ---
 #### [Quick and Simple Image Placeholders - Dynamic Dummy Image Generator](https://plchldr.co/)
 _<sup>https://plchldr.co/</sup>_

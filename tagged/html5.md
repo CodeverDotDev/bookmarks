@@ -1,6 +1,12 @@
-## Bookmarks tagged [[html5]](https://www.bookmarks.dev/search?q=[html5])
+## Bookmarks tagged [[html5]](https://www.codever.land/search?q=[html5])
 
-_<sup><sup>[www.bookmarks.dev/tagged/html5](https://www.bookmarks.dev/tagged/html5)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/html5](www.codever.land/bookmarks/t/html5)</sup></sup>_
+---
+#### [Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/)
+_<sup>https://caniuse.com/</sup>_
+
+* :calendar: **published on**: 2021-04-19
+* **tags**: [css](../tagged/css.md), [html5](../tagged/html5.md), [css3](../tagged/css3.md), [compatibility](../tagged/compatibility.md)
 ---
 #### [Storing data in the browser with the HTML5 localStorage API](https://ultimatecourses.com/blog/storing-data-in-the-browser-with-the-html5-local-storage-api)
 _<sup>https://ultimatecourses.com/blog/storing-data-in-the-browser-with-the-html5-local-storage-api</sup>_

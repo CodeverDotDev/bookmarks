@@ -1,6 +1,6 @@
-## Bookmarks tagged [[mercurial]](https://www.bookmarks.dev/search?q=[mercurial])
+## Bookmarks tagged [[mercurial]](https://www.codever.land/search?q=[mercurial])
 
-_<sup><sup>[www.bookmarks.dev/tagged/mercurial](https://www.bookmarks.dev/tagged/mercurial)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/mercurial](www.codever.land/bookmarks/t/mercurial)</sup></sup>_
 ---
 #### [Mercurial チュートリアル hginit.com の和訳](http://d.hatena.ne.jp/mmitou/20100501/1272680474)
 _<sup>http://d.hatena.ne.jp/mmitou/20100501/1272680474</sup>_

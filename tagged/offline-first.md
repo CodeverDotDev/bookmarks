@@ -1,6 +1,6 @@
-## Bookmarks tagged [[offline-first]](https://www.bookmarks.dev/search?q=[offline-first])
+## Bookmarks tagged [[offline-first]](https://www.codever.land/search?q=[offline-first])
 
-_<sup><sup>[www.bookmarks.dev/tagged/offline-first](https://www.bookmarks.dev/tagged/offline-first)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/offline-first](www.codever.land/bookmarks/t/offline-first)</sup></sup>_
 ---
 #### [awesome-offline-first](https://github.com/pazguille/offline-first#readme)
 _<sup>https://github.com/pazguille/offline-first#readme</sup>_

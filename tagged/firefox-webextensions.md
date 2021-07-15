@@ -1,6 +1,6 @@
-## Bookmarks tagged [[firefox-webextensions]](https://www.bookmarks.dev/search?q=[firefox-webextensions])
+## Bookmarks tagged [[firefox-webextensions]](https://www.codever.land/search?q=[firefox-webextensions])
 
-_<sup><sup>[www.bookmarks.dev/tagged/firefox-webextensions](https://www.bookmarks.dev/tagged/firefox-webextensions)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/firefox-webextensions](www.codever.land/bookmarks/t/firefox-webextensions)</sup></sup>_
 ---
 #### [Example extensions - Mozilla | MDN](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Examples)
 _<sup>https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Examples</sup>_

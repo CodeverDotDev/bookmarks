@@ -1,6 +1,6 @@
-## Bookmarks tagged [[flamegraph]](https://www.bookmarks.dev/search?q=[flamegraph])
+## Bookmarks tagged [[flamegraph]](https://www.codever.land/search?q=[flamegraph])
 
-_<sup><sup>[www.bookmarks.dev/tagged/flamegraph](https://www.bookmarks.dev/tagged/flamegraph)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/flamegraph](www.codever.land/bookmarks/t/flamegraph)</sup></sup>_
 ---
 #### [mrhooray/torch](https://github.com/mrhooray/torch)
 _<sup>https://github.com/mrhooray/torch</sup>_

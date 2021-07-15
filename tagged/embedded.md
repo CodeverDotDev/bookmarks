@@ -1,6 +1,13 @@
-## Bookmarks tagged [[embedded]](https://www.bookmarks.dev/search?q=[embedded])
+## Bookmarks tagged [[embedded]](https://www.codever.land/search?q=[embedded])
 
-_<sup><sup>[www.bookmarks.dev/tagged/embedded](https://www.bookmarks.dev/tagged/embedded)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/embedded](www.codever.land/bookmarks/t/embedded)</sup></sup>_
+---
+#### [embedresponsively.com](https://embedresponsively.com/)
+_<sup>https://embedresponsively.com/</sup>_
+
+Embed Responsively helps web content producers transform fixed width embedded content into fluid responsive embeds.
+
+* **tags**: [video](../tagged/video.md), [media](../tagged/media.md), [embedded](../tagged/embedded.md), [responsive-design](../tagged/responsive-design.md)
 ---
 #### [Rust Embedded](https://rust-embedded.org/)
 _<sup>https://rust-embedded.org/</sup>_

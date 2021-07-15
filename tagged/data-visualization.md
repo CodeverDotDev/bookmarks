@@ -1,6 +1,6 @@
-## Bookmarks tagged [[data-visualization]](https://www.bookmarks.dev/search?q=[data-visualization])
+## Bookmarks tagged [[data-visualization]](https://www.codever.land/search?q=[data-visualization])
 
-_<sup><sup>[www.bookmarks.dev/tagged/data-visualization](https://www.bookmarks.dev/tagged/data-visualization)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/data-visualization](www.codever.land/bookmarks/t/data-visualization)</sup></sup>_
 ---
 #### [Why Datawrapper? | Create charts and maps with Datawrapper](https://www.datawrapper.de/why-datawrapper/)
 _<sup>https://www.datawrapper.de/why-datawrapper/</sup>_

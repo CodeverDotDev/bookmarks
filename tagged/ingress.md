@@ -1,6 +1,6 @@
-## Bookmarks tagged [[ingress]](https://www.bookmarks.dev/search?q=[ingress])
+## Bookmarks tagged [[ingress]](https://www.codever.land/search?q=[ingress])
 
-_<sup><sup>[www.bookmarks.dev/tagged/ingress](https://www.bookmarks.dev/tagged/ingress)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/ingress](www.codever.land/bookmarks/t/ingress)</sup></sup>_
 ---
 #### [Ingress Controllers - Kubernetes](https://kubernetes.io/docs/concepts/services-networking/ingress-controllers/)
 _<sup>https://kubernetes.io/docs/concepts/services-networking/ingress-controllers/</sup>_

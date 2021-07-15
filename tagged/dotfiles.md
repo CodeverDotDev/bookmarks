@@ -1,6 +1,6 @@
-## Bookmarks tagged [[dotfiles]](https://www.bookmarks.dev/search?q=[dotfiles])
+## Bookmarks tagged [[dotfiles]](https://www.codever.land/search?q=[dotfiles])
 
-_<sup><sup>[www.bookmarks.dev/tagged/dotfiles](https://www.bookmarks.dev/tagged/dotfiles)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/dotfiles](www.codever.land/bookmarks/t/dotfiles)</sup></sup>_
 ---
 #### [awesome-dotfiles](https://github.com/webpro/awesome-dotfiles#readme)
 _<sup>https://github.com/webpro/awesome-dotfiles#readme</sup>_

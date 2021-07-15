@@ -1,6 +1,6 @@
-## Bookmarks tagged [[inter-process-communication]](https://www.bookmarks.dev/search?q=[inter-process-communication])
+## Bookmarks tagged [[inter-process-communication]](https://www.codever.land/search?q=[inter-process-communication])
 
-_<sup><sup>[www.bookmarks.dev/tagged/inter-process-communication](https://www.bookmarks.dev/tagged/inter-process-communication)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/inter-process-communication](www.codever.land/bookmarks/t/inter-process-communication)</sup></sup>_
 ---
 #### [Apache Thrift](https://thrift.apache.org/)
 _<sup>https://thrift.apache.org/</sup>_

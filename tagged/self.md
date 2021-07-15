@@ -1,6 +1,6 @@
-## Bookmarks tagged [[self]](https://www.bookmarks.dev/search?q=[self])
+## Bookmarks tagged [[self]](https://www.codever.land/search?q=[self])
 
-_<sup><sup>[www.bookmarks.dev/tagged/self](https://www.bookmarks.dev/tagged/self)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/self](www.codever.land/bookmarks/t/self)</sup></sup>_
 ---
 #### [The Self Handbook](http://handbook.selflanguage.org/current/)
 _<sup>http://handbook.selflanguage.org/current/</sup>_

@@ -1,6 +1,21 @@
-## Bookmarks tagged [[ngrx]](https://www.bookmarks.dev/search?q=[ngrx])
+## Bookmarks tagged [[ngrx]](https://www.codever.land/search?q=[ngrx])
 
-_<sup><sup>[www.bookmarks.dev/tagged/ngrx](https://www.bookmarks.dev/tagged/ngrx)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/ngrx](www.codever.land/bookmarks/t/ngrx)</sup></sup>_
+---
+#### [Managing State in Angular 2 - Kyle Cordes - Oct 2016 - 46min](https://www.youtube.com/watch?v=eBLTz8QRg4Q)
+_<sup>https://www.youtube.com/watch?v=eBLTz8QRg4Q</sup>_
+
+This month at the St. Lewis Angular Lunch, Kyle spoke about managing state in Angular 2 applications. The crying baby thumbnail accurately reflects how many developers have come to experience state ma...
+* :calendar: **published on**: 2016-10-20
+* **tags**: [angular](../tagged/angular.md), [state-management](../tagged/state-management.md), [ngrx](../tagged/ngrx.md), [redux](../tagged/redux.md)
+---
+#### [Ngrx Store - An Architecture Guide](https://blog.angular-university.io/angular-ngrx-store-and-effects-crash-course/)
+_<sup>https://blog.angular-university.io/angular-ngrx-store-and-effects-crash-course/</sup>_
+
+Using a store architecture represents a big architectural shift: with the arrival of single page applications, we moved the Model to View transformation from the server to the client.
+
+Store architect...
+* **tags**: [angular](../tagged/angular.md), [flux](../tagged/flux.md), [ngrx](../tagged/ngrx.md), [architecture](../tagged/architecture.md)
 ---
 #### [Communication Patterns in Angular - BB Tutorials & Thoughts - Medium](https://medium.com/bb-tutorials-and-thoughts/communication-patterns-in-angular-9b0a829aa916)
 _<sup>https://medium.com/bb-tutorials-and-thoughts/communication-patterns-in-angular-9b0a829aa916</sup>_

@@ -1,6 +1,6 @@
-## Bookmarks tagged [[sublime-text]](https://www.bookmarks.dev/search?q=[sublime-text])
+## Bookmarks tagged [[sublime-text]](https://www.codever.land/search?q=[sublime-text])
 
-_<sup><sup>[www.bookmarks.dev/tagged/sublime-text](https://www.bookmarks.dev/tagged/sublime-text)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/sublime-text](www.codever.land/bookmarks/t/sublime-text)</sup></sup>_
 ---
 #### [rust-lang/rust-enhanced](https://github.com/rust-lang/rust-enhanced)
 _<sup>https://github.com/rust-lang/rust-enhanced</sup>_

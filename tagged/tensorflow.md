@@ -1,6 +1,6 @@
-## Bookmarks tagged [[tensorflow]](https://www.bookmarks.dev/search?q=[tensorflow])
+## Bookmarks tagged [[tensorflow]](https://www.codever.land/search?q=[tensorflow])
 
-_<sup><sup>[www.bookmarks.dev/tagged/tensorflow](https://www.bookmarks.dev/tagged/tensorflow)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/tensorflow](www.codever.land/bookmarks/t/tensorflow)</sup></sup>_
 ---
 #### [awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow#readme)
 _<sup>https://github.com/jtoy/awesome-tensorflow#readme</sup>_

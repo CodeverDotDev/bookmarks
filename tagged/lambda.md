@@ -1,6 +1,6 @@
-## Bookmarks tagged [[lambda]](https://www.bookmarks.dev/search?q=[lambda])
+## Bookmarks tagged [[lambda]](https://www.codever.land/search?q=[lambda])
 
-_<sup><sup>[www.bookmarks.dev/tagged/lambda](https://www.bookmarks.dev/tagged/lambda)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/lambda](www.codever.land/bookmarks/t/lambda)</sup></sup>_
 ---
 #### [State of the Lambda](http://cr.openjdk.java.net/~briangoetz/lambda/lambda-state-final.html)
 _<sup>http://cr.openjdk.java.net/~briangoetz/lambda/lambda-state-final.html</sup>_

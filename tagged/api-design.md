@@ -1,6 +1,6 @@
-## Bookmarks tagged [[api-design]](https://www.bookmarks.dev/search?q=[api-design])
+## Bookmarks tagged [[api-design]](https://www.codever.land/search?q=[api-design])
 
-_<sup><sup>[www.bookmarks.dev/tagged/api-design](https://www.bookmarks.dev/tagged/api-design)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/api-design](www.codever.land/bookmarks/t/api-design)</sup></sup>_
 ---
 #### [Designing GraphQL Mutations - Apollo Blog](https://www.apollographql.com/blog/designing-graphql-mutations-e09de826ed97/)
 _<sup>https://www.apollographql.com/blog/designing-graphql-mutations-e09de826ed97/</sup>_

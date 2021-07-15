@@ -1,6 +1,6 @@
-## Bookmarks tagged [[push-api]](https://www.bookmarks.dev/search?q=[push-api])
+## Bookmarks tagged [[push-api]](https://www.codever.land/search?q=[push-api])
 
-_<sup><sup>[www.bookmarks.dev/tagged/push-api](https://www.bookmarks.dev/tagged/push-api)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/push-api](www.codever.land/bookmarks/t/push-api)</sup></sup>_
 ---
 #### [GitHub - web-push-libs/web-push: Web Push library for Node.js](https://github.com/web-push-libs/web-push)
 _<sup>https://github.com/web-push-libs/web-push</sup>_

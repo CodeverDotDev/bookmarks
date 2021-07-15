@@ -1,6 +1,6 @@
-## Bookmarks tagged [[burndown-chart]](https://www.bookmarks.dev/search?q=[burndown-chart])
+## Bookmarks tagged [[burndown-chart]](https://www.codever.land/search?q=[burndown-chart])
 
-_<sup><sup>[www.bookmarks.dev/tagged/burndown-chart](https://www.bookmarks.dev/tagged/burndown-chart)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/burndown-chart](www.codever.land/bookmarks/t/burndown-chart)</sup></sup>_
 ---
 #### [Gantt Charts vs Burn-Down Charts - YouTube](https://www.youtube.com/watch?v=U_jwpInVXD8)
 _<sup>https://www.youtube.com/watch?v=U_jwpInVXD8</sup>_

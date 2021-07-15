@@ -1,6 +1,6 @@
-## Bookmarks tagged [[free-programming-books-cs]](https://www.bookmarks.dev/search?q=[free-programming-books-cs])
+## Bookmarks tagged [[free-programming-books-cs]](https://www.codever.land/search?q=[free-programming-books-cs])
 
-_<sup><sup>[www.bookmarks.dev/tagged/free-programming-books-cs](https://www.bookmarks.dev/tagged/free-programming-books-cs)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/free-programming-books-cs](www.codever.land/bookmarks/t/free-programming-books-cs)</sup></sup>_
 ---
 #### [XML pro každého](http://www.root.cz/knihy/xml-pro-kazdeho/)
 _<sup>http://www.root.cz/knihy/xml-pro-kazdeho/</sup>_

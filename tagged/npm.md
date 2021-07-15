@@ -1,6 +1,18 @@
-## Bookmarks tagged [[npm]](https://www.bookmarks.dev/search?q=[npm])
+## Bookmarks tagged [[npm]](https://www.codever.land/search?q=[npm])
 
-_<sup><sup>[www.bookmarks.dev/tagged/npm](https://www.bookmarks.dev/tagged/npm)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/npm](www.codever.land/bookmarks/t/npm)</sup></sup>_
+---
+#### [Hello from pnpm | pnpmMenu](https://pnpm.io/)
+_<sup>https://pnpm.io/</sup>_
+
+Fast, disk space efficient package manager
+* **tags**: [javascript](../tagged/javascript.md), [node](../tagged/node.md), [npm](../tagged/npm.md), [pnpm](../tagged/pnpm.md)
+---
+#### [npm cheatsheet](https://devhints.io/npm)
+_<sup>https://devhints.io/npm</sup>_
+
+The one-page guide to npm: usage, examples, links, snippets, and more.
+* **tags**: [node](../tagged/node.md), [npm](../tagged/npm.md), [cheatsheet](../tagged/cheatsheet.md)
 ---
 #### [UNPKG home page](https://unpkg.com/)
 _<sup>https://unpkg.com/</sup>_

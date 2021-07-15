@@ -1,6 +1,6 @@
-## Bookmarks tagged [[flipper]](https://www.bookmarks.dev/search?q=[flipper])
+## Bookmarks tagged [[flipper]](https://www.codever.land/search?q=[flipper])
 
-_<sup><sup>[www.bookmarks.dev/tagged/flipper](https://www.bookmarks.dev/tagged/flipper)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/flipper](www.codever.land/bookmarks/t/flipper)</sup></sup>_
 ---
 #### [Motorhead](https://github.com/amatsuda/motorhead)
 _<sup>https://github.com/amatsuda/motorhead</sup>_

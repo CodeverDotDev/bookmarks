@@ -1,6 +1,6 @@
-## Bookmarks tagged [[query-language]](https://www.bookmarks.dev/search?q=[query-language])
+## Bookmarks tagged [[query-language]](https://www.codever.land/search?q=[query-language])
 
-_<sup><sup>[www.bookmarks.dev/tagged/query-language](https://www.bookmarks.dev/tagged/query-language)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/query-language](www.codever.land/bookmarks/t/query-language)</sup></sup>_
 ---
 #### [gojsonq](https://github.com/thedevsaddam/gojsonq)
 _<sup>https://github.com/thedevsaddam/gojsonq</sup>_

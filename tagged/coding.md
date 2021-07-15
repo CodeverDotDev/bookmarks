@@ -1,6 +1,12 @@
-## Bookmarks tagged [[coding]](https://www.bookmarks.dev/search?q=[coding])
+## Bookmarks tagged [[coding]](https://www.codever.land/search?q=[coding])
 
-_<sup><sup>[www.bookmarks.dev/tagged/coding](https://www.bookmarks.dev/tagged/coding)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/coding](www.codever.land/bookmarks/t/coding)</sup></sup>_
+---
+#### [Things I Don’t Know as of 2018 — Overreacted](https://overreacted.io/things-i-dont-know-as-of-2018/)
+_<sup>https://overreacted.io/things-i-dont-know-as-of-2018/</sup>_
+
+We can admit our knowledge gaps without devaluing our expertise.
+* **tags**: [hacker-blog](../tagged/hacker-blog.md), [programmer](../tagged/programmer.md), [coding](../tagged/coding.md), [journal](../tagged/journal.md)
 ---
 #### [Lobsters](https://lobste.rs/)
 _<sup>https://lobste.rs/</sup>_

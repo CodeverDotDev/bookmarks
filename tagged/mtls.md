@@ -1,6 +1,6 @@
-## Bookmarks tagged [[mtls]](https://www.bookmarks.dev/search?q=[mtls])
+## Bookmarks tagged [[mtls]](https://www.codever.land/search?q=[mtls])
 
-_<sup><sup>[www.bookmarks.dev/tagged/mtls](https://www.bookmarks.dev/tagged/mtls)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/mtls](www.codever.land/bookmarks/t/mtls)</sup></sup>_
 ---
 #### [Increasing Security with a Service Mesh - Christian Posta Explores the Capabilities of Istio](https://www.infoq.com/articles/istio-security-mtls-jwt)
 _<sup>https://www.infoq.com/articles/istio-security-mtls-jwt</sup>_

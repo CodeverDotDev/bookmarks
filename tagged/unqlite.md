@@ -1,6 +1,6 @@
-## Bookmarks tagged [[unqlite]](https://www.bookmarks.dev/search?q=[unqlite])
+## Bookmarks tagged [[unqlite]](https://www.codever.land/search?q=[unqlite])
 
-_<sup><sup>[www.bookmarks.dev/tagged/unqlite](https://www.bookmarks.dev/tagged/unqlite)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/unqlite](www.codever.land/bookmarks/t/unqlite)</sup></sup>_
 ---
 #### [zitsen/unqlite.rs](https://github.com/zitsen/unqlite.rs)
 _<sup>https://github.com/zitsen/unqlite.rs</sup>_

@@ -1,6 +1,13 @@
-## Bookmarks tagged [[ux]](https://www.bookmarks.dev/search?q=[ux])
+## Bookmarks tagged [[ux]](https://www.codever.land/search?q=[ux])
 
-_<sup><sup>[www.bookmarks.dev/tagged/ux](https://www.bookmarks.dev/tagged/ux)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/ux](www.codever.land/bookmarks/t/ux)</sup></sup>_
+---
+#### [GitHub - bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
+_<sup>https://github.com/bradtraversy/design-resources-for-developers</sup>_
+
+Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more - bradtraversy/design-resources-for-developers
+* **tags**: [ux](../tagged/ux.md), [design](../tagged/design.md), [resources](../tagged/resources.md)
+* :octocat: **[source code](https://github.com/bradtraversy/design-resources-for-developers)**
 ---
 #### [Hipsters Ponto Tech - Discussões acaloradas sobre startups, programação, ux, gadgets e as últimas tendências em tecnologia.Hipsters Ponto Tech](https://hipsters.tech/)
 _<sup>https://hipsters.tech/</sup>_

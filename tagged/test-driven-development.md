@@ -1,6 +1,6 @@
-## Bookmarks tagged [[test-driven-development]](https://www.bookmarks.dev/search?q=[test-driven-development])
+## Bookmarks tagged [[test-driven-development]](https://www.codever.land/search?q=[test-driven-development])
 
-_<sup><sup>[www.bookmarks.dev/tagged/test-driven-development](https://www.bookmarks.dev/tagged/test-driven-development)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/test-driven-development](www.codever.land/bookmarks/t/test-driven-development)</sup></sup>_
 ---
 #### [Le TDD, cet éternel incompris](https://www.synbioz.com/blog/tech/le-tdd-cet-eternel-incompris)
 _<sup>https://www.synbioz.com/blog/tech/le-tdd-cet-eternel-incompris</sup>_

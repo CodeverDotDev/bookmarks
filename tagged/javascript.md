@@ -1,6 +1,368 @@
-## Bookmarks tagged [[javascript]](https://www.bookmarks.dev/search?q=[javascript])
+## Bookmarks tagged [[javascript]](https://www.codever.land/search?q=[javascript])
 
-_<sup><sup>[www.bookmarks.dev/tagged/javascript](https://www.bookmarks.dev/tagged/javascript)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/javascript](www.codever.land/bookmarks/t/javascript)</sup></sup>_
+---
+#### [GitHub - elsewhencode/project-guidelines: A set of best practices for JavaScript projects](https://github.com/elsewhencode/project-guidelines)
+_<sup>https://github.com/elsewhencode/project-guidelines</sup>_
+
+A set of best practices for JavaScript projects. Contribute to elsewhencode/project-guidelines development by creating an account on GitHub.
+* **tags**: [javascript](../tagged/javascript.md)
+* :octocat: **[source code](https://github.com/elsewhencode/project-guidelines)**
+---
+#### [How to Format Dates in JavaScript with One Line of Code](https://www.freecodecamp.org/news/how-to-format-dates-in-javascript/)
+_<sup>https://www.freecodecamp.org/news/how-to-format-dates-in-javascript/</sup>_
+
+For a long time, I've used libraries like Date-fns whenever I need to format dates in JavaScript. But it gets really weird whenever I do this in small projects that require simple date formats which J...
+* **tags**: [javascript](../tagged/javascript.md)
+---
+#### [iziToast home page](https://izitoast.marcelodolza.com/)
+_<sup>https://izitoast.marcelodolza.com/</sup>_
+
+Elegant, responsive, flexible and lightweight notification plugin with no dependencies. by Marcelo Dolza.
+* **tags**: [notifications](../tagged/notifications.md), [frontend](../tagged/frontend.md), [javascript](../tagged/javascript.md), [popup](../tagged/popup.md), [dialog](../tagged/dialog.md)
+* :octocat: **[source code](https://github.com/marcelodolza/iziToast)**
+---
+#### [Deep JavaScript](https://exploringjs.com/deep-js/toc.html)
+_<sup>https://exploringjs.com/deep-js/toc.html</sup>_
+
+* **tags**: [javascript](../tagged/javascript.md)
+---
+#### [Try Redis](https://try.redis.io)
+_<sup>https://try.redis.io</sup>_
+
+* **tags**: [redis](../tagged/redis.md), [javascript](../tagged/javascript.md)
+---
+#### [How to retrieve the POST query parameters using Express](https://flaviocopes.com/express-post-query-variables/)
+_<sup>https://flaviocopes.com/express-post-query-variables/</sup>_
+
+Found out how to retrieve the POST query parameters using Express
+* **tags**: [javascript](../tagged/javascript.md), [post](../tagged/post.md), [query](../tagged/query.md), [express](../tagged/express.md), [flavio](../tagged/flavio.md), [tutorial](../tagged/tutorial.md), [how-to](../tagged/how-to.md)
+---
+#### [Understanding And Using REST APIs — Smashing MagazineClear SearchBack to top](https://www.smashingmagazine.com/2018/01/understanding-using-rest-api/)
+_<sup>https://www.smashingmagazine.com/2018/01/understanding-using-rest-api/</sup>_
+
+Everything you need to know about REST APIs, from start to finish. How and why to use REST APIs, how to deal with headers, error messages and API versions. Let’s get started.
+* **tags**: [rest](../tagged/rest.md), [javascript](../tagged/javascript.md)
+---
+#### [ECMAScript® 2022 Language Specification](https://tc39.es/ecma262/)
+_<sup>https://tc39.es/ecma262/</sup>_
+
+* **tags**: [javascript](../tagged/javascript.md), [ecmascript](../tagged/ecmascript.md)
+---
+#### [QuickJS Javascript Engine](https://bellard.org/quickjs/quickjs.html#Main-Features)
+_<sup>https://bellard.org/quickjs/quickjs.html#Main-Features</sup>_
+
+QuickJS Javascript Engine
+* **tags**: [qjs](../tagged/qjs.md), [quickjs](../tagged/quickjs.md), [javascript](../tagged/javascript.md), [embeddable](../tagged/embeddable.md)
+---
+#### [Redis Quick Start – Redis](https://redis.io/topics/quickstart)
+_<sup>https://redis.io/topics/quickstart</sup>_
+
+* **tags**: [redis](../tagged/redis.md), [javascript](../tagged/javascript.md), [database](../tagged/database.md)
+---
+#### [Hashing in Action: Understanding bcrypt](https://auth0.com/blog/hashing-in-action-understanding-bcrypt/)
+_<sup>https://auth0.com/blog/hashing-in-action-understanding-bcrypt/</sup>_
+
+bcrypt allows us to build a password security platform that can scale with computation power and provides us with hashing and salting mechanisms.
+* **tags**: [hashing](../tagged/hashing.md), [password](../tagged/password.md), [bcrypt](../tagged/bcrypt.md), [redis](../tagged/redis.md), [javascript](../tagged/javascript.md)
+---
+#### [MongoDB Node.js Driver](https://mongodb.github.io/node-mongodb-native/)
+_<sup>https://mongodb.github.io/node-mongodb-native/</sup>_
+
+* **tags**: [mogodb](../tagged/mogodb.md), [database](../tagged/database.md), [javascript](../tagged/javascript.md)
+---
+#### [Babel · The compiler for next generation JavaScript](https://babeljs.io/)
+_<sup>https://babeljs.io/</sup>_
+
+The compiler for next generation JavaScript
+* **tags**: [babel](../tagged/babel.md), [javascript](../tagged/javascript.md), [node](../tagged/node.md)
+---
+#### [Modern Javascript: Everything you missed over the last 10 years by Sandro Turriate](https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years)
+_<sup>https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years</sup>_
+
+* **tags**: [javascript](../tagged/javascript.md)
+---
+#### [Javascript Modules](https://exploringjs.com/es6/ch_modules.html)
+_<sup>https://exploringjs.com/es6/ch_modules.html</sup>_
+
+Good detailed overview of Javascript Modules
+* **tags**: [javascript](../tagged/javascript.md), [book](../tagged/book.md), [ecmascript-6](../tagged/ecmascript-6.md)
+---
+#### [Hello from pnpm | pnpmMenu](https://pnpm.io/)
+_<sup>https://pnpm.io/</sup>_
+
+Fast, disk space efficient package manager
+* **tags**: [javascript](../tagged/javascript.md), [node](../tagged/node.md), [npm](../tagged/npm.md), [pnpm](../tagged/pnpm.md)
+---
+#### [For mission-critical Node.js applications](https://nodesource.com/)
+_<sup>https://nodesource.com/</sup>_
+
+NodeSource products provide real-time insight into application performance and security, empowering organizations to successfully operationalize Node.js
+* **tags**: [javascript](../tagged/javascript.md), [node](../tagged/node.md), [node.js](../tagged/node.js.md)
+---
+#### [OpenJS Certification and Training Programs - OpenJS Foundation](https://openjsf.org/certification/)
+_<sup>https://openjsf.org/certification/</sup>_
+
+* **tags**: [javascript](../tagged/javascript.md), [openjs](../tagged/openjs.md), [certification](../tagged/certification.md)
+---
+#### [Introduction to Node.js](https://nodejs.dev/learn)
+_<sup>https://nodejs.dev/learn</sup>_
+
+Getting started guide to Node.js, the server-side JavaScript runtime environment. Node.js is built on top of the Google Chrome V8 JavaScript engine, and it's mainly used to create web servers - but it...
+* **tags**: [how-to](../tagged/how-to.md), [javascript](../tagged/javascript.md), [learn-to-code](../tagged/learn-to-code.md), [nodejs](../tagged/nodejs.md), [node](../tagged/node.md)
+---
+#### [Introduction to Node.js](https://nodejs.dev/learn/)
+_<sup>https://nodejs.dev/learn/</sup>_
+
+Getting started guide to Node.js, the server-side JavaScript runtime environment. Node.js is built on top of the Google Chrome V8 JavaScript engine, and it's mainly used to create web servers - but it...
+* **tags**: [javascript](../tagged/javascript.md), [learn](../tagged/learn.md), [node](../tagged/node.md), [how-to](../tagged/how-to.md)
+---
+#### [Stage - JSWorld Conference USA](https://live.jsworldconference.com/stage/live)
+_<sup>https://live.jsworldconference.com/stage/live</sup>_
+
+United States's Premier Javascript Conference of 2021. 
+
+* **tags**: [javascript](../tagged/javascript.md), [jsconference](../tagged/jsconference.md), [jsworld](../tagged/jsworld.md)
+---
+#### [JSWORLD Conference USA](https://usa.jsworldconference.com/)
+_<sup>https://usa.jsworldconference.com/</sup>_
+
+JSworld Conference USA by Frontend Love takes place Friday 21st May 2021 with our first United States Sole Focussed JavaScript Conference. 
+* **tags**: [javascript](../tagged/javascript.md), [conference](../tagged/conference.md)
+---
+#### [How I added Dark Mode to my website](https://flaviocopes.com/dark-mode/)
+_<sup>https://flaviocopes.com/dark-mode/</sup>_
+
+The step by step instructions to make 2 versions of your website, to make it perfect for both day and night use
+* **tags**: [javascript](../tagged/javascript.md), [darkmode](../tagged/darkmode.md), [flavio](../tagged/flavio.md)
+---
+#### [GitHub - jsdom/jsdom](https://github.com/jsdom/jsdom)
+_<sup>https://github.com/jsdom/jsdom</sup>_
+
+jsdom is a pure-JavaScript implementation of many web standards, notably the WHATWG [DOM](https://dom.spec.whatwg.org/) and [HTML](https://html.spec.whatwg.org/multipage/) Standards, for use with Node...
+* **tags**: [web-scraping](../tagged/web-scraping.md), [tools](../tagged/tools.md), [dom](../tagged/dom.md), [node.js](../tagged/node.js.md), [javascript](../tagged/javascript.md)
+* :octocat: **[source code](https://github.com/jsdom/jsdom)**
+---
+#### [leonardomso/33-js-concepts: 📜 33 JavaScript concepts every developer should know.](https://github.com/leonardomso/33-js-concepts)
+_<sup>https://github.com/leonardomso/33-js-concepts</sup>_
+
+This repository was created with the intention of helping developers master their concepts in JavaScript. It is not a requirement, but a guide for future studies. It is based on an article written by ...
+* **tags**: [javascript](../tagged/javascript.md), [resources](../tagged/resources.md), [videos](../tagged/videos.md), [bookmarks](../tagged/bookmarks.md)
+* :octocat: **[source code](https://github.com/leonardomso/33-js-concepts)**
+---
+#### [33 Fundamentals Every JavaScript Developer Should Know | by Stephen Curtis](https://medium.com/@stephenthecurt/33-fundamentals-every-javascript-developer-should-know-13dd720a90d1)
+_<sup>https://medium.com/@stephenthecurt/33-fundamentals-every-javascript-developer-should-know-13dd720a90...</sup>_
+
+The article lists 33 core concepts to understand to really get Javascript
+* :calendar: **published on**: 2017-09-03
+* **tags**: [javascript](../tagged/javascript.md), [event-loop](../tagged/event-loop.md)
+---
+#### [Efficiently load JavaScript with defer and async](https://flaviocopes.com/javascript-async-defer/)
+_<sup>https://flaviocopes.com/javascript-async-defer/</sup>_
+
+When loading a script on an HTML page, you need to be careful not to harm the loading performance of the page. Depending on where and how you add your scripts to an HTML page will influence the loadin...
+* **tags**: [javascript](../tagged/javascript.md), [async](../tagged/async.md), [defer](../tagged/defer.md)
+---
+#### [You Might Not Need Laravel Mix - Stage Right Labs](https://stagerightlabs.com/blog/you-might-not-need-laravel-mix)
+_<sup>https://stagerightlabs.com/blog/you-might-not-need-laravel-mix</sup>_
+
+An alternative to Laravel Mix for compiling JS and CSS especially Tailwind CSS.
+The compiler is ESBUILD
+* :calendar: **published on**: 2021-03-22
+* **tags**: [laravel-mix](../tagged/laravel-mix.md), [jscompile](../tagged/jscompile.md), [esbuild](../tagged/esbuild.md), [javascript](../tagged/javascript.md), [webpack](../tagged/webpack.md)
+---
+#### [ThatAPICompany – Creating API First, Data Driven Companies.](https://thatapicompany.com/)
+_<sup>https://thatapicompany.com/</sup>_
+
+* **tags**: [api](../tagged/api.md), [javascript](../tagged/javascript.md)
+---
+#### [How the new ‘Top Level Await’ feature works in JavaScript | by Kesk -*- | JavaScript in Plain English](https://javascript.plainenglish.io/javascript-top-level-await-in-a-nutshell-4e352b3fc8c8)
+_<sup>https://javascript.plainenglish.io/javascript-top-level-await-in-a-nutshell-4e352b3fc8c8</sup>_
+
+Previously, in order to use await, code needed to be inside a function marked as async. This meant that you couldn’t use await outside any function notation. Top-level await enables modules to act…
+* **tags**: [javascript](../tagged/javascript.md), [await](../tagged/await.md), [top-level-await](../tagged/top-level-await.md)
+---
+#### [Building a CLI with Deno 🦕 | learning as we go](https://alexandrempsantos.com/deno/build-a-cli-with-deno/)
+_<sup>https://alexandrempsantos.com/deno/build-a-cli-with-deno/</sup>_
+
+How to build and distribute a CLI with Deno that fetches the weather for a specific location
+* **tags**: [deno](../tagged/deno.md), [javascript](../tagged/javascript.md), [typescript](../tagged/typescript.md), [web-assembly](../tagged/web-assembly.md)
+---
+#### [Deno - Everything I know](https://wiki.nikitavoloboev.xyz/web/deno)
+_<sup>https://wiki.nikitavoloboev.xyz/web/deno</sup>_
+
+* **tags**: [deno](../tagged/deno.md), [javascript](../tagged/javascript.md), [typescript](../tagged/typescript.md), [web-assembly](../tagged/web-assembly.md)
+---
+#### [GreenSock](https://greensock.com/)
+_<sup>https://greensock.com/</sup>_
+
+GSAP is an industry standard JavaScript animation library from GreenSock that lets you craft high-performance animations that work in every major browser.
+* **tags**: [javascript](../tagged/javascript.md), [annimation](../tagged/annimation.md), [web-development](../tagged/web-development.md)
+---
+#### [Craig Buckler  - A first look at Deno - 27min](https://youtu.be/JEv4qntldi8)
+_<sup>https://youtu.be/JEv4qntldi8</sup>_
+
+Node.js is a cross-platform JavaScript runtime developed by Ryan Dahl using Chrome's V8 engine. It has been one of the most successful web technologies of the past decade. Deno is a new cross-platform...
+* :calendar: **published on**: 2020-12-22
+* **tags**: [techexeter](../tagged/techexeter.md), [deno](../tagged/deno.md), [javascript](../tagged/javascript.md), [typescript](../tagged/typescript.md)
+---
+#### [Deno, a Secure Runtime for JavaScript and TypeScript](https://youtu.be/doug6st5vAs)
+_<sup>https://youtu.be/doug6st5vAs</sup>_
+
+Deno is a runtime for JavaScript and TypeScript that is based on the V8 JavaScript engine and the Rust programming language. It was created by Ryan Dahl, original creator of Node.js, and is focused on...
+* **tags**: [typescript](../tagged/typescript.md), [javascript](../tagged/javascript.md), [typescript](../tagged/typescript.md)
+---
+#### [10 Things I Regret About Node.js - Ryan Dahl - JSConf EU](https://youtu.be/428ejtNbd5A)
+_<sup>https://youtu.be/428ejtNbd5A</sup>_
+
+* **tags**: [deno](../tagged/deno.md), [javascript](../tagged/javascript.md), [typescript](../tagged/typescript.md), [webassembly](../tagged/webassembly.md), [ryan-dahl](../tagged/ryan-dahl.md)
+---
+#### [Deno, a new way to JavaScript. Ryan Dahl. JS Fest 2019 Spring](https://invidious.snopyta.org/watch?v=z6JRlx5NC9E)
+_<sup>https://invidious.snopyta.org/watch?v=z6JRlx5NC9E</sup>_
+
+* **tags**: [deno](../tagged/deno.md), [javascript](../tagged/javascript.md), [typescript](../tagged/typescript.md), [webassembly](../tagged/webassembly.md), [ryan-dahl](../tagged/ryan-dahl.md)
+---
+#### [The JavaScript Bootcamp](https://thejsbootcamp.com/)
+_<sup>https://thejsbootcamp.com/</sup>_
+
+* **tags**: [javascript](../tagged/javascript.md), [bootcamp](../tagged/bootcamp.md), [flavio](../tagged/flavio.md)
+---
+#### [JSPM - ES Module Package Manager and CDN - jspm.org](https://jspm.org/)
+_<sup>https://jspm.org/</sup>_
+
+* **tags**: [javascript](../tagged/javascript.md), [packages](../tagged/packages.md), [cdn](../tagged/cdn.md)
+---
+#### [Skypack: search millions of open source JavaScript packages](https://www.skypack.dev/)
+_<sup>https://www.skypack.dev/</sup>_
+
+Search millions of open source JavaScript packages on Skypack. Free to use.
+* **tags**: [javascript](../tagged/javascript.md), [packages](../tagged/packages.md)
+---
+#### [jsDelivr - A free, fast, and reliable CDN for open source](https://www.jsdelivr.com/)
+_<sup>https://www.jsdelivr.com/</sup>_
+
+Supports npm, GitHub, WordPress, Deno, and more. Largest network and best performance among all CDNs. Serving more than 80 billion requests per month.
+* **tags**: [javascript](../tagged/javascript.md), [cdn](../tagged/cdn.md), [opensource](../tagged/opensource.md)
+---
+#### [Deno - A secure runtime for JavaScript and TypeScriptMenu | DenoGithub | Deno](https://deno.land/)
+_<sup>https://deno.land/</sup>_
+
+* **tags**: [deno](../tagged/deno.md), [javascript](../tagged/javascript.md), [promises](../tagged/promises.md)
+---
+#### [Docusaurus home page](https://docusaurus.io/)
+_<sup>https://docusaurus.io/</sup>_
+
+An optimized site generator in React. Docusaurus helps you to move fast and write content. Build documentation websites, blogs, marketing pages, and more.
+* **tags**: [react](../tagged/react.md), [static-site-generator](../tagged/static-site-generator.md), [javascript](../tagged/javascript.md), [documentation](../tagged/documentation.md), [docs](../tagged/docs.md)
+* :octocat: **[source code](https://github.com/facebook/docusaurus)**
+---
+#### [My SPLASH Keynote on "the JavaScript World Domination Plan at 16 Years." Brendan Eich](https://www.slideshare.net/BrendanEich/splash-9915475)
+_<sup>https://www.slideshare.net/BrendanEich/splash-9915475</sup>_
+
+My SPLASH Keynote on "the JavaScript World Domination Plan at 16 Years."
+* **tags**: [javascript](../tagged/javascript.md), [brendan eich](../tagged/brendan eich.md), [slides](../tagged/slides.md)
+---
+#### [Brendan Eich: JavaScript, Firefox, Mozilla, and Brave | Lex Fridman Podcast #160 - Invidious](https://invidious.snopyta.org/watch?v=krB0enBeSiE)
+_<sup>https://invidious.snopyta.org/watch?v=krB0enBeSiE</sup>_
+
+* **tags**: [brendan-eich](../tagged/brendan-eich.md), [javascript](../tagged/javascript.md), [lex-fridman](../tagged/lex-fridman.md)
+---
+#### [Safe integers in JavaScript](https://2ality.com/2013/10/safe-integers.html)
+_<sup>https://2ality.com/2013/10/safe-integers.html</sup>_
+
+* **tags**: [javascript](../tagged/javascript.md), [safe](../tagged/safe.md), [integers](../tagged/integers.md)
+---
+#### [Stripe Currency - Are all amounts in cents / 100ths, or does it depend on currency?](https://stackoverflow.com/questions/35326710/stripe-currency-are-all-amounts-in-cents-100ths-or-does-it-depend-on-curren)
+_<sup>https://stackoverflow.com/questions/35326710/stripe-currency-are-all-amounts-in-cents-100ths-or-does...</sup>_
+
+* :calendar: **published on**: 2016-02-10
+* **tags**: [stripe-payments](../tagged/stripe-payments.md), [javascript](../tagged/javascript.md), [float](../tagged/float.md), [currency](../tagged/currency.md), [storing](../tagged/storing.md)
+---
+#### [How to handle precision and rounding errors in currency?](https://stackoverflow.com/questions/39256662/how-to-handle-precision-and-rounding-errors-in-currency/39256914#39256914)
+_<sup>https://stackoverflow.com/questions/39256662/how-to-handle-precision-and-rounding-errors-in-currency...</sup>_
+
+* :calendar: **published on**: 2016-08-30
+* **tags**: [currency](../tagged/currency.md), [javascript](../tagged/javascript.md), [numbers](../tagged/numbers.md), [precision](../tagged/precision.md), [currency](../tagged/currency.md), [float](../tagged/float.md), [floating-point](../tagged/floating-point.md)
+---
+#### [RunJS - A playground for JavaScript and TypeScriptTwitter iconGitHub iconProduct Hunt icon](https://runjs.app/)
+_<sup>https://runjs.app/</sup>_
+
+RunJS is a modern JavaScript and TypeScript playground, displaying instant results as you type and providing access to Node and browser APIs.
+* **tags**: [javascript](../tagged/javascript.md), [desktop](../tagged/desktop.md), [runtime](../tagged/runtime.md), [repl](../tagged/repl.md)
+---
+#### [Node.js](https://nodejs.org/en/)
+_<sup>https://nodejs.org/en/</sup>_
+
+Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.
+* **tags**: [javascript](../tagged/javascript.md), [node](../tagged/node.md)
+---
+#### [V8 JavaScript engine](https://v8.dev/)
+_<sup>https://v8.dev/</sup>_
+
+V8 is Google’s open source high-performance JavaScript and WebAssembly engine, written in C++.
+* **tags**: [chrome](../tagged/chrome.md), [v8](../tagged/v8.md), [javascript](../tagged/javascript.md), [engine](../tagged/engine.md), [web-assembly](../tagged/web-assembly.md), [ecmascript](../tagged/ecmascript.md)
+---
+#### [prettier-atom](https://atom.io/packages/prettier-atom)
+_<sup>https://atom.io/packages/prettier-atom</sup>_
+
+At GitHub, we’re building the text editor we’ve always wanted: hackable to the core, but approachable on the first day without ever touching a config file. We can’t wait to see what you build with it.
+* **tags**: [prettier](../tagged/prettier.md), [javascript](../tagged/javascript.md)
+---
+#### [Add Items with Javascript DOM ](https://codepen.io/bradtraversy/pen/Bwapow)
+_<sup>https://codepen.io/bradtraversy/pen/Bwapow</sup>_
+
+Learn how to add items to a list dynamically based on user input with JavaScript and the DOM.
+* :calendar: **published on**: 2021-04-17
+* **tags**: [javascript](../tagged/javascript.md), [dom](../tagged/dom.md), [example](../tagged/example.md), [how-to](../tagged/how-to.md)
+* :octocat: **[source code](https://codepen.io/bradtraversy/pen/Bwapow)**
+---
+#### [sohamkamani/javascript-design-patterns-for-humans](https://github.com/sohamkamani/javascript-design-patterns-for-humans)
+_<sup>https://github.com/sohamkamani/javascript-design-patterns-for-humans</sup>_
+
+An ultra-simplified explanation of design patterns implemented in javascript
+* **tags**: [design-patterns](../tagged/design-patterns.md), [javascript](../tagged/javascript.md), [oop](../tagged/oop.md)
+* :octocat: **[source code](https://github.com/sohamkamani/javascript-design-patterns-for-humans)**
+---
+#### [How to Set Expiry Time (TTL) for LocalStorage With Javascript](https://www.sohamkamani.com/blog/javascript-localstorage-with-ttl-expiry/)
+_<sup>https://www.sohamkamani.com/blog/javascript-localstorage-with-ttl-expiry/</sup>_
+
+This post will explain how to implement expiry times for items stored in the browsers localStorage.
+* :calendar: **published on**: 2019-11-14
+* **tags**: [localstorage](../tagged/localstorage.md), [javascript](../tagged/javascript.md)
+---
+#### [rollup.js home page](https://rollupjs.org/guide/en/)
+_<sup>https://rollupjs.org/guide/en/</sup>_
+
+Rollup is a module bundler for JavaScript which compiles small pieces of code into something larger and more complex, such as a library or application. It uses the new standardized format for code mod...
+* **tags**: [javascript](../tagged/javascript.md), [bundler](../tagged/bundler.md)
+* :octocat: **[source code](https://github.com/rollup/rollup)**
+---
+#### [Broken Promises - James Snell, NearForm - 33min](https://www.youtube.com/watch?v=XV-u_Ow47s0)
+_<sup>https://www.youtube.com/watch?v=XV-u_Ow47s0</sup>_
+
+When a customer comes to us with a complaint that their code is running slowly, our first question has become, "Are you using Promises?". When they predictably tell us yes, our response has become, "Y...
+* :calendar: **published on**: 2019-12-19
+* **tags**: [node.js](../tagged/node.js.md), [javascript](../tagged/javascript.md), [promises](../tagged/promises.md)
+* :octocat: **[source code](https://github.com/jasnell/broken-promises)**
+---
+#### [IdentityModel/oidc-client-js](https://github.com/IdentityModel/oidc-client-js/)
+_<sup>https://github.com/IdentityModel/oidc-client-js/</sup>_
+
+OpenID Connect (OIDC) and OAuth2 protocol support for browser-based JavaScript applications
+* **tags**: [javascript](../tagged/javascript.md), [openid-connect](../tagged/openid-connect.md), [oauth2](../tagged/oauth2.md)
+* :octocat: **[source code](https://github.com/IdentityModel/oidc-client-js/)**
+---
+#### [GitHub - appcypher/awesome-wasm-langs: 😎 A curated list of languages that compile directly to or have their VMs in WebAssembly](https://github.com/appcypher/awesome-wasm-langs)
+_<sup>https://github.com/appcypher/awesome-wasm-langs</sup>_
+
+😎 A curated list of languages that compile directly to or have their VMs in WebAssembly - appcypher/awesome-wasm-langs
+* **tags**: [javascript](../tagged/javascript.md), [webassembly](../tagged/webassembly.md)
+---
+#### [List of languages that compile to JS · jashkenas/coffeescript Wiki · GitHub](https://github.com/jashkenas/coffeescript/wiki/list-of-languages-that-compile-to-js)
+_<sup>https://github.com/jashkenas/coffeescript/wiki/list-of-languages-that-compile-to-js</sup>_
+
+Unfancy JavaScript. Contribute to jashkenas/coffeescript development by creating an account on GitHub.
+* **tags**: [javascript](../tagged/javascript.md)
 ---
 #### [websockets/ws home page](https://github.com/websockets/ws)
 _<sup>https://github.com/websockets/ws</sup>_
@@ -74,6 +436,13 @@ _<sup>https://thesmartcoder.dev/9-popular-github-repos-for-every-web-developer/<
 Useful tools, inspiring examples, and more...
 * **tags**: [javascript](../tagged/javascript.md), [web-development](../tagged/web-development.md)
 ---
+#### [The HTML presentation framework - reveal.js home page](https://revealjs.com/)
+_<sup>https://revealjs.com/</sup>_
+
+Documentation and demos for the open source reveal.js HTML presentation framework. Slides, slideshow, ppt, presentations
+* **tags**: [dev-tools](../tagged/dev-tools.md), [node.js](../tagged/node.js.md), [javascript](../tagged/javascript.md)
+* :octocat: **[source code](https://github.com/hakimel/reveal.js)**
+---
 #### [Justin Searls – Please don’t mock me - 51min](https://www.youtube.com/watch?v=Af4M8GMoxi4)
 _<sup>https://www.youtube.com/watch?v=Af4M8GMoxi4</sup>_
 
@@ -143,6 +512,13 @@ _<sup>https://www.infoq.com/news/2020/10/js-open-source-award-2020/</sup>_
 Since 2018, the JavaScript Open Source Awards distinguishes impactful open-source projects across four categories every year— Breakthrough of the Year, The Most Exciting Use of Technology, Fun Side Pr
 * :calendar: **published on**: 2020-10-20
 * **tags**: [javascript](../tagged/javascript.md)
+---
+#### [Parcel home page](https://parceljs.org/)
+_<sup>https://parceljs.org/</sup>_
+
+Blazing fast, zero configuration web application bundler
+* **tags**: [web-application](../tagged/web-application.md), [bundler](../tagged/bundler.md), [javascript](../tagged/javascript.md)
+* :octocat: **[source code](https://github.com/parcel-bundler/parcel)**
 ---
 #### [mozilla/web-ext](https://github.com/mozilla/web-ext)
 _<sup>https://github.com/mozilla/web-ext</sup>_

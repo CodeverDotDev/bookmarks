@@ -1,6 +1,62 @@
-## Bookmarks tagged [[node.js]](https://www.bookmarks.dev/search?q=[node.js])
+## Bookmarks tagged [[node.js]](https://www.codever.land/search?q=[node.js])
 
-_<sup><sup>[www.bookmarks.dev/tagged/node.js](https://www.bookmarks.dev/tagged/node.js)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/node.js](www.codever.land/bookmarks/t/node.js)</sup></sup>_
+---
+#### [GitHub - siimon/prom-client: Prometheus client for node.js](https://github.com/siimon/prom-client)
+_<sup>https://github.com/siimon/prom-client</sup>_
+
+Prometheus client for node.js. Contribute to siimon/prom-client development by creating an account on GitHub.
+* **tags**: [prometheus](../tagged/prometheus.md), [node.js](../tagged/node.js.md)
+* :octocat: **[source code](https://github.com/siimon/prom-client)**
+---
+#### [bahamas10/node-netscape-bookmarks](https://github.com/bahamas10/node-netscape-bookmarks)
+_<sup>https://github.com/bahamas10/node-netscape-bookmarks</sup>_
+
+Create a netscape format bookmarks file (works with Chrome)
+* **tags**: [node.js](../tagged/node.js.md), [bookmarks](../tagged/bookmarks.md)
+* :octocat: **[source code](https://github.com/bahamas10/node-netscape-bookmarks)**
+---
+#### [10 best practices to containerize Node.js web applications with Docker | Snyk Blog](https://snyk.io/blog/10-best-practices-to-containerize-nodejs-web-applications-with-docker/)
+_<sup>https://snyk.io/blog/10-best-practices-to-containerize-nodejs-web-applications-with-docker/</sup>_
+
+The following article provides production-grade guidelines for building optimized and secure Node.js Docker images. You’ll find it helpful regardless of the Node.js application you aim to build. This ...
+* :calendar: **published on**: 2021-01-13
+* **tags**: [node.js](../tagged/node.js.md), [docker](../tagged/docker.md), [security](../tagged/security.md)
+---
+#### [For mission-critical Node.js applications](https://nodesource.com/)
+_<sup>https://nodesource.com/</sup>_
+
+NodeSource products provide real-time insight into application performance and security, empowering organizations to successfully operationalize Node.js
+* **tags**: [javascript](../tagged/javascript.md), [node](../tagged/node.md), [node.js](../tagged/node.js.md)
+---
+#### [GitHub - jsdom/jsdom](https://github.com/jsdom/jsdom)
+_<sup>https://github.com/jsdom/jsdom</sup>_
+
+jsdom is a pure-JavaScript implementation of many web standards, notably the WHATWG [DOM](https://dom.spec.whatwg.org/) and [HTML](https://html.spec.whatwg.org/multipage/) Standards, for use with Node...
+* **tags**: [web-scraping](../tagged/web-scraping.md), [tools](../tagged/tools.md), [dom](../tagged/dom.md), [node.js](../tagged/node.js.md), [javascript](../tagged/javascript.md)
+* :octocat: **[source code](https://github.com/jsdom/jsdom)**
+---
+#### [node-cache/node-cache home page](https://github.com/node-cache/node-cache)
+_<sup>https://github.com/node-cache/node-cache</sup>_
+
+a node internal (in-memory) caching module
+* **tags**: [node.js](../tagged/node.js.md), [caching](../tagged/caching.md), [in-memory](../tagged/in-memory.md)
+* :octocat: **[source code](https://github.com/node-cache/node-cache)**
+---
+#### [Broken Promises - James Snell, NearForm - 33min](https://www.youtube.com/watch?v=XV-u_Ow47s0)
+_<sup>https://www.youtube.com/watch?v=XV-u_Ow47s0</sup>_
+
+When a customer comes to us with a complaint that their code is running slowly, our first question has become, "Are you using Promises?". When they predictably tell us yes, our response has become, "Y...
+* :calendar: **published on**: 2019-12-19
+* **tags**: [node.js](../tagged/node.js.md), [javascript](../tagged/javascript.md), [promises](../tagged/promises.md)
+* :octocat: **[source code](https://github.com/jasnell/broken-promises)**
+---
+#### [Knex.js - A SQL Query Builder for Javascript - home page](https://knexjs.org/)
+_<sup>https://knexjs.org/</sup>_
+
+Knex.js (pronounced /kəˈnɛks/) is a "batteries included" SQL query builder for Postgres, MSSQL, MySQL, MariaDB, SQLite3, Oracle, and Amazon Redshift designed to be flexible, portable, and fun to use. ...
+* **tags**: [sql](../tagged/sql.md), [node.js](../tagged/node.js.md), [query-builder](../tagged/query-builder.md), [mysql](../tagged/mysql.md), [postgresql](../tagged/postgresql.md)
+* :octocat: **[source code](https://github.com/knex/knex)**
 ---
 #### [Defending Against Query Selector Injection Attacks](https://thecodebarbarian.wordpress.com/2014/09/04/defending-against-query-selector-injection-attacks/)
 _<sup>https://thecodebarbarian.wordpress.com/2014/09/04/defending-against-query-selector-injection-attacks...</sup>_
@@ -58,7 +114,7 @@ Simple to use, blazing fast and thoroughly tested WebSocket client and server fo
 _<sup>https://revealjs.com/</sup>_
 
 Documentation and demos for the open source reveal.js HTML presentation framework. Slides, slideshow, ppt, presentations
-* **tags**: [dev-tools](../tagged/dev-tools.md), [node.js](../tagged/node.js.md)
+* **tags**: [dev-tools](../tagged/dev-tools.md), [node.js](../tagged/node.js.md), [javascript](../tagged/javascript.md)
 * :octocat: **[source code](https://github.com/hakimel/reveal.js)**
 ---
 #### [Node.js Crash Course Tutorial - YouTube](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU)
@@ -164,13 +220,6 @@ _<sup>https://www.freecodecamp.org/news/scaling-node-js-applications-8492bd8afad
 Scalability in Node.js is not an afterthought. It’s something that’s baked into the core of the runtime. Node is named Node to emphasize the idea that a Node application should comprise multiple small...
 * :calendar: **published on**: 2017-07-13
 * **tags**: [node.js](../tagged/node.js.md), [scalability](../tagged/scalability.md), [pm2](../tagged/pm2.md)
----
-#### [Broken Promises - James Snell, NearForm - 33min](https://www.youtube.com/watch?&v=XV-u_Ow47s0)
-_<sup>https://www.youtube.com/watch?&v=XV-u_Ow47s0</sup>_
-
-When a customer comes to us with a complaint that their code is running slowly, our first question has become, "Are you using Promises?". When they predictably tell us yes, our response has become, "Y...
-* :calendar: **published on**: 2019-12-19
-* **tags**: [node.js](../tagged/node.js.md), [promises](../tagged/promises.md), [event-loop](../tagged/event-loop.md)
 ---
 #### [Advanced web spidering with Puppeteer](https://blog.kowalczyk.info/article/ea07db1b9bff415ab180b0525f3898f6/advanced-web-spidering-with-puppeteer.html)
 _<sup>https://blog.kowalczyk.info/article/ea07db1b9bff415ab180b0525f3898f6/advanced-web-spidering-with-pup...</sup>_

@@ -1,6 +1,6 @@
-## Bookmarks tagged [[antd]](https://www.bookmarks.dev/search?q=[antd])
+## Bookmarks tagged [[antd]](https://www.codever.land/search?q=[antd])
 
-_<sup><sup>[www.bookmarks.dev/tagged/antd](https://www.bookmarks.dev/tagged/antd)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/antd](www.codever.land/bookmarks/t/antd)</sup></sup>_
 ---
 #### [awesome-ant-design](https://github.com/websemantics/awesome-ant-design#readme)
 _<sup>https://github.com/websemantics/awesome-ant-design#readme</sup>_

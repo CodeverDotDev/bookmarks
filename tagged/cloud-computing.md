@@ -1,6 +1,13 @@
-## Bookmarks tagged [[cloud-computing]](https://www.bookmarks.dev/search?q=[cloud-computing])
+## Bookmarks tagged [[cloud-computing]](https://www.codever.land/search?q=[cloud-computing])
 
-_<sup><sup>[www.bookmarks.dev/tagged/cloud-computing](https://www.bookmarks.dev/tagged/cloud-computing)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/cloud-computing](www.codever.land/bookmarks/t/cloud-computing)</sup></sup>_
+---
+#### [Pourquoi votre infra-as-code ne tient pas ses promesses ?](https://blog.wescale.fr/2021/06/17/pourquoi-votre-infrastructure-as-code-ne-tient-pas-ses-promesses/)
+_<sup>https://blog.wescale.fr/2021/06/17/pourquoi-votre-infrastructure-as-code-ne-tient-pas-ses-promesses/</sup>_
+
+Les promesses de l’IaC sont grandes ! Mais vous devez briser 7 murs pour les tenir et suivre 5 KPI pour les valider.
+* :calendar: **published on**: 2021-06-17
+* **tags**: [cloud](../tagged/cloud.md), [cloud-computing](../tagged/cloud-computing.md)
 ---
 #### [Defining Cloud Native | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/definition)
 _<sup>https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/definition</sup>_

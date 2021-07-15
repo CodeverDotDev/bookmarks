@@ -1,6 +1,6 @@
-## Bookmarks tagged [[openmp]](https://www.bookmarks.dev/search?q=[openmp])
+## Bookmarks tagged [[openmp]](https://www.codever.land/search?q=[openmp])
 
-_<sup><sup>[www.bookmarks.dev/tagged/openmp](https://www.bookmarks.dev/tagged/openmp)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/openmp](www.codever.land/bookmarks/t/openmp)</sup></sup>_
 ---
 #### [OpenMP Application Programming Interface Standard Version 4.0](http://www.openmp.org/mp-documents/OpenMP4.0.0.pdf)
 _<sup>http://www.openmp.org/mp-documents/OpenMP4.0.0.pdf</sup>_

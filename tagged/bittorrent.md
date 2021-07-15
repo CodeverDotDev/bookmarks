@@ -1,6 +1,6 @@
-## Bookmarks tagged [[bittorrent]](https://www.bookmarks.dev/search?q=[bittorrent])
+## Bookmarks tagged [[bittorrent]](https://www.codever.land/search?q=[bittorrent])
 
-_<sup><sup>[www.bookmarks.dev/tagged/bittorrent](https://www.bookmarks.dev/tagged/bittorrent)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/bittorrent](www.codever.land/bookmarks/t/bittorrent)</sup></sup>_
 ---
 #### [jech/dht](https://github.com/jech/dht)
 _<sup>https://github.com/jech/dht</sup>_

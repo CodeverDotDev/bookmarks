@@ -1,6 +1,6 @@
-## Bookmarks tagged [[posts]](https://www.bookmarks.dev/search?q=[posts])
+## Bookmarks tagged [[posts]](https://www.codever.land/search?q=[posts])
 
-_<sup><sup>[www.bookmarks.dev/tagged/posts](https://www.bookmarks.dev/tagged/posts)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/posts](www.codever.land/bookmarks/t/posts)</sup></sup>_
 ---
 #### [Using DataLoader to batch GraphQL requests](http://gajus.com/blog/9/using-dataloader-to-batch-requests)
 _<sup>http://gajus.com/blog/9/using-dataloader-to-batch-requests</sup>_

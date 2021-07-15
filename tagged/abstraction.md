@@ -1,6 +1,6 @@
-## Bookmarks tagged [[abstraction]](https://www.bookmarks.dev/search?q=[abstraction])
+## Bookmarks tagged [[abstraction]](https://www.codever.land/search?q=[abstraction])
 
-_<sup><sup>[www.bookmarks.dev/tagged/abstraction](https://www.bookmarks.dev/tagged/abstraction)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/abstraction](www.codever.land/bookmarks/t/abstraction)</sup></sup>_
 ---
 #### [Designing at scale: How industry leaders leverage design systemsBack Button](https://www.invisionapp.com/inside-design/scale-design-systems/)
 _<sup>https://www.invisionapp.com/inside-design/scale-design-systems/</sup>_

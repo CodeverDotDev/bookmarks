@@ -1,6 +1,6 @@
-## Bookmarks tagged [[web-services]](https://www.bookmarks.dev/search?q=[web-services])
+## Bookmarks tagged [[web-services]](https://www.codever.land/search?q=[web-services])
 
-_<sup><sup>[www.bookmarks.dev/tagged/web-services](https://www.bookmarks.dev/tagged/web-services)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/web-services](www.codever.land/bookmarks/t/web-services)</sup></sup>_
 ---
 #### [RESTful Web Services](http://restfulwebapis.org/RESTful_Web_Services.pdf)
 _<sup>http://restfulwebapis.org/RESTful_Web_Services.pdf</sup>_

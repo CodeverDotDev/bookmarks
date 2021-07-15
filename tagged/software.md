@@ -1,6 +1,6 @@
-## Bookmarks tagged [[software]](https://www.bookmarks.dev/search?q=[software])
+## Bookmarks tagged [[software]](https://www.codever.land/search?q=[software])
 
-_<sup><sup>[www.bookmarks.dev/tagged/software](https://www.bookmarks.dev/tagged/software)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/software](www.codever.land/bookmarks/t/software)</sup></sup>_
 ---
 #### [The Impermanence of Software by Andy Croll - 33min](https://www.youtube.com/watch?v=l2WgVr1rv3c)
 _<sup>https://www.youtube.com/watch?v=l2WgVr1rv3c</sup>_

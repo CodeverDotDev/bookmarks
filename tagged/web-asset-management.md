@@ -1,6 +1,6 @@
-## Bookmarks tagged [[web-asset-management]](https://www.bookmarks.dev/search?q=[web-asset-management])
+## Bookmarks tagged [[web-asset-management]](https://www.codever.land/search?q=[web-asset-management])
 
-_<sup><sup>[www.bookmarks.dev/tagged/web-asset-management](https://www.bookmarks.dev/tagged/web-asset-management)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/web-asset-management](www.codever.land/bookmarks/t/web-asset-management)</sup></sup>_
 ---
 #### [django-compressor](https://github.com/django-compressor/django-compressor)
 _<sup>https://github.com/django-compressor/django-compressor</sup>_

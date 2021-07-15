@@ -1,6 +1,6 @@
-## Bookmarks tagged [[meetup]](https://www.bookmarks.dev/search?q=[meetup])
+## Bookmarks tagged [[meetup]](https://www.codever.land/search?q=[meetup])
 
-_<sup><sup>[www.bookmarks.dev/tagged/meetup](https://www.bookmarks.dev/tagged/meetup)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/meetup](www.codever.land/bookmarks/t/meetup)</sup></sup>_
 ---
 #### [GraphQL-Amsterdam](https://www.meetup.com/Amsterdam-GraphQL-Meetup/)
 _<sup>https://www.meetup.com/Amsterdam-GraphQL-Meetup/</sup>_

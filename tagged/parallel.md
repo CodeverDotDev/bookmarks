@@ -1,6 +1,6 @@
-## Bookmarks tagged [[parallel]](https://www.bookmarks.dev/search?q=[parallel])
+## Bookmarks tagged [[parallel]](https://www.codever.land/search?q=[parallel])
 
-_<sup><sup>[www.bookmarks.dev/tagged/parallel](https://www.bookmarks.dev/tagged/parallel)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/parallel](www.codever.land/bookmarks/t/parallel)</sup></sup>_
 ---
 #### [Параллельные технологии](http://www.inp.nsk.su/~baldin/Parallel/index.html)
 _<sup>http://www.inp.nsk.su/~baldin/Parallel/index.html</sup>_

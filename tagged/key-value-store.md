@@ -1,6 +1,6 @@
-## Bookmarks tagged [[key-value-store]](https://www.bookmarks.dev/search?q=[key-value-store])
+## Bookmarks tagged [[key-value-store]](https://www.codever.land/search?q=[key-value-store])
 
-_<sup><sup>[www.bookmarks.dev/tagged/key-value-store](https://www.bookmarks.dev/tagged/key-value-store)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/key-value-store](www.codever.land/bookmarks/t/key-value-store)</sup></sup>_
 ---
 #### [etcd home page](https://etcd.io/)
 _<sup>https://etcd.io/</sup>_

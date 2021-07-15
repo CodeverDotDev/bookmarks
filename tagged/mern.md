@@ -1,6 +1,6 @@
-## Bookmarks tagged [[mern]](https://www.bookmarks.dev/search?q=[mern])
+## Bookmarks tagged [[mern]](https://www.codever.land/search?q=[mern])
 
-_<sup><sup>[www.bookmarks.dev/tagged/mern](https://www.bookmarks.dev/tagged/mern)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/mern](www.codever.land/bookmarks/t/mern)</sup></sup>_
 ---
 #### [Deploy a MERN stack app on Heroku – Crowdbotics – Medium](https://medium.com/crowdbotics/deploy-a-mern-stack-app-on-heroku-b0c255744a70)
 _<sup>https://medium.com/crowdbotics/deploy-a-mern-stack-app-on-heroku-b0c255744a70</sup>_

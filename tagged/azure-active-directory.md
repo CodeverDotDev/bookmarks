@@ -1,6 +1,6 @@
-## Bookmarks tagged [[azure-active-directory]](https://www.bookmarks.dev/search?q=[azure-active-directory])
+## Bookmarks tagged [[azure-active-directory]](https://www.codever.land/search?q=[azure-active-directory])
 
-_<sup><sup>[www.bookmarks.dev/tagged/azure-active-directory](https://www.bookmarks.dev/tagged/azure-active-directory)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/azure-active-directory](www.codever.land/bookmarks/t/azure-active-directory)</sup></sup>_
 ---
 #### [Differences Between Azure Active Directory and Red Hat SSO v7.1](https://medium.com/@robert.broeckelmann/differences-between-azure-active-directory-and-red-hat-sso-v7-1-239dd77a5e9a)
 _<sup>https://medium.com/@robert.broeckelmann/differences-between-azure-active-directory-and-red-hat-sso-v...</sup>_

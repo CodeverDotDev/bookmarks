@@ -1,6 +1,6 @@
-## Bookmarks tagged [[chess]](https://www.bookmarks.dev/search?q=[chess])
+## Bookmarks tagged [[chess]](https://www.codever.land/search?q=[chess])
 
-_<sup><sup>[www.bookmarks.dev/tagged/chess](https://www.bookmarks.dev/tagged/chess)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/chess](www.codever.land/bookmarks/t/chess)</sup></sup>_
 ---
 #### [awesome-chess](https://github.com/hkirat/awesome-chess#readme)
 _<sup>https://github.com/hkirat/awesome-chess#readme</sup>_

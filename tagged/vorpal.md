@@ -1,6 +1,6 @@
-## Bookmarks tagged [[vorpal]](https://www.bookmarks.dev/search?q=[vorpal])
+## Bookmarks tagged [[vorpal]](https://www.codever.land/search?q=[vorpal])
 
-_<sup><sup>[www.bookmarks.dev/tagged/vorpal](https://www.bookmarks.dev/tagged/vorpal)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/vorpal](www.codever.land/bookmarks/t/vorpal)</sup></sup>_
 ---
 #### [awesome-vorpal](https://github.com/vorpaljs/awesome-vorpal#readme)
 _<sup>https://github.com/vorpaljs/awesome-vorpal#readme</sup>_

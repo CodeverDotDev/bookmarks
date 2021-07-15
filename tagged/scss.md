@@ -1,6 +1,13 @@
-## Bookmarks tagged [[scss]](https://www.bookmarks.dev/search?q=[scss])
+## Bookmarks tagged [[scss]](https://www.codever.land/search?q=[scss])
 
-_<sup><sup>[www.bookmarks.dev/tagged/scss](https://www.bookmarks.dev/tagged/scss)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/scss](www.codever.land/bookmarks/t/scss)</sup></sup>_
+---
+#### [GitHub - pengwynn/sass-and-compass-in-action: Code samples for Sass and Compass in Action](https://github.com/pengwynn/sass-and-compass-in-action)
+_<sup>https://github.com/pengwynn/sass-and-compass-in-action</sup>_
+
+Code samples for Sass and Compass in Action. Contribute to pengwynn/sass-and-compass-in-action development by creating an account on GitHub.
+* **tags**: [sass](../tagged/sass.md), [scss](../tagged/scss.md), [design-tools](../tagged/design-tools.md), [code-snippets](../tagged/code-snippets.md), [learn-to-code](../tagged/learn-to-code.md)
+* :octocat: **[source code](https://github.com/pengwynn/sass-and-compass-in-action)**
 ---
 #### [Sass Documentation ](http://sass-lang.com/documentation/file.SASS_REFERENCE.html)
 _<sup>http://sass-lang.com/documentation/file.SASS_REFERENCE.html</sup>_

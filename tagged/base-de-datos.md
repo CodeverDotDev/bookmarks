@@ -1,6 +1,6 @@
-## Bookmarks tagged [[base-de-datos]](https://www.bookmarks.dev/search?q=[base-de-datos])
+## Bookmarks tagged [[base-de-datos]](https://www.codever.land/search?q=[base-de-datos])
 
-_<sup><sup>[www.bookmarks.dev/tagged/base-de-datos](https://www.bookmarks.dev/tagged/base-de-datos)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/base-de-datos](www.codever.land/bookmarks/t/base-de-datos)</sup></sup>_
 ---
 #### [Introducción a las Bases de Datos](http://ocw.uoc.edu/computer-science-technology-and-multimedia/bases-de-datos/bases-de-datos/P06_M2109_02147.pdf)
 _<sup>http://ocw.uoc.edu/computer-science-technology-and-multimedia/bases-de-datos/bases-de-datos/P06_M210...</sup>_

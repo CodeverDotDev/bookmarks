@@ -1,6 +1,6 @@
-## Bookmarks tagged [[data-management]](https://www.bookmarks.dev/search?q=[data-management])
+## Bookmarks tagged [[data-management]](https://www.codever.land/search?q=[data-management])
 
-_<sup><sup>[www.bookmarks.dev/tagged/data-management](https://www.bookmarks.dev/tagged/data-management)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/data-management](www.codever.land/bookmarks/t/data-management)</sup></sup>_
 ---
 #### [Immutable.js - Immutable Data Collections for Javascript](https://github.com/immutable-js/immutable-js)
 _<sup>https://github.com/immutable-js/immutable-js</sup>_

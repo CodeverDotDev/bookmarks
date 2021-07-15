@@ -1,6 +1,6 @@
-## Bookmarks tagged [[synchronized]](https://www.bookmarks.dev/search?q=[synchronized])
+## Bookmarks tagged [[synchronized]](https://www.codever.land/search?q=[synchronized])
 
-_<sup><sup>[www.bookmarks.dev/tagged/synchronized](https://www.bookmarks.dev/tagged/synchronized)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/synchronized](www.codever.land/bookmarks/t/synchronized)</sup></sup>_
 ---
 #### [@Singleton vs @ApplicationScope](https://stackoverflow.com/questions/26832051/singleton-vs-applicationscope/27848417)
 _<sup>https://stackoverflow.com/questions/26832051/singleton-vs-applicationscope/27848417</sup>_

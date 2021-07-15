@@ -1,6 +1,6 @@
-## Bookmarks tagged [[phoenix]](https://www.bookmarks.dev/search?q=[phoenix])
+## Bookmarks tagged [[phoenix]](https://www.codever.land/search?q=[phoenix])
 
-_<sup><sup>[www.bookmarks.dev/tagged/phoenix](https://www.bookmarks.dev/tagged/phoenix)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/phoenix](www.codever.land/bookmarks/t/phoenix)</sup></sup>_
 ---
 #### [Versioned APIs with Phoenix](http://elviovicosa.com/books/versioned-apis-with-phoenix)
 _<sup>http://elviovicosa.com/books/versioned-apis-with-phoenix</sup>_

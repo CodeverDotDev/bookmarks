@@ -1,6 +1,6 @@
-## Bookmarks tagged [[google-cloud-pubsub]](https://www.bookmarks.dev/search?q=[google-cloud-pubsub])
+## Bookmarks tagged [[google-cloud-pubsub]](https://www.codever.land/search?q=[google-cloud-pubsub])
 
-_<sup><sup>[www.bookmarks.dev/tagged/google-cloud-pubsub](https://www.bookmarks.dev/tagged/google-cloud-pubsub)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/google-cloud-pubsub](www.codever.land/bookmarks/t/google-cloud-pubsub)</sup></sup>_
 ---
 #### [Spring - Getting Started  - Messaging with Google Cloud Pub/Sub](https://spring.io/guides/gs/messaging-gcp-pubsub/)
 _<sup>https://spring.io/guides/gs/messaging-gcp-pubsub/</sup>_

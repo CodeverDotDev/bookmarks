@@ -1,6 +1,24 @@
-## Bookmarks tagged [[community]](https://www.bookmarks.dev/search?q=[community])
+## Bookmarks tagged [[community]](https://www.codever.land/search?q=[community])
 
-_<sup><sup>[www.bookmarks.dev/tagged/community](https://www.bookmarks.dev/tagged/community)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/community](www.codever.land/bookmarks/t/community)</sup></sup>_
+---
+#### [SAP Developer Advocates Home](https://developers.sap.com/developer-advocates.html)
+_<sup>https://developers.sap.com/developer-advocates.html</sup>_
+
+* **tags**: [sap](../tagged/sap.md), [community](../tagged/community.md), [developer](../tagged/developer.md), [advocates](../tagged/advocates.md)
+---
+#### [Learn to Code - Become Better Developers Together](https://www.codementor.io/community)
+_<sup>https://www.codementor.io/community</sup>_
+
+Share insights, exchange ideas, and learn from fellow developers
+* **tags**: [learn-to-code](../tagged/learn-to-code.md), [community](../tagged/community.md), [developer](../tagged/developer.md)
+---
+#### [GitHub - github/mentorships: GitHub Open Source Mentorships (deprecated)](https://github.com/github/mentorships)
+_<sup>https://github.com/github/mentorships</sup>_
+
+GitHub Open Source Mentorships (deprecated). Contribute to github/mentorships development by creating an account on GitHub.
+* **tags**: [github](../tagged/github.md), [tutorials](../tagged/tutorials.md), [community](../tagged/community.md), [open-source](../tagged/open-source.md), [learn-to-code](../tagged/learn-to-code.md)
+* :octocat: **[source code](https://github.com/github/mentorships)**
 ---
 #### [Indie Hackers Home Page](https://www.indiehackers.com/)
 _<sup>https://www.indiehackers.com/</sup>_

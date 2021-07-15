@@ -1,6 +1,6 @@
-## Bookmarks tagged [[version-control]](https://www.bookmarks.dev/search?q=[version-control])
+## Bookmarks tagged [[version-control]](https://www.codever.land/search?q=[version-control])
 
-_<sup><sup>[www.bookmarks.dev/tagged/version-control](https://www.bookmarks.dev/tagged/version-control)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/version-control](www.codever.land/bookmarks/t/version-control)</sup></sup>_
 ---
 #### [What&#39;s the difference between git reset --mixed, --soft, and --hard?](https://stackoverflow.com/questions/3528245/whats-the-difference-between-git-reset-mixed-soft-and-hard)
 _<sup>https://stackoverflow.com/questions/3528245/whats-the-difference-between-git-reset-mixed-soft-and-ha...</sup>_

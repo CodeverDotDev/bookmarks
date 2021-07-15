@@ -1,6 +1,6 @@
-## Bookmarks tagged [[self-contained-systems]](https://www.bookmarks.dev/search?q=[self-contained-systems])
+## Bookmarks tagged [[self-contained-systems]](https://www.codever.land/search?q=[self-contained-systems])
 
-_<sup><sup>[www.bookmarks.dev/tagged/self-contained-systems](https://www.bookmarks.dev/tagged/self-contained-systems)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/self-contained-systems](www.codever.land/bookmarks/t/self-contained-systems)</sup></sup>_
 ---
 #### [SCS - Self-Contained Systems home page](https://scs-architecture.org/)
 _<sup>https://scs-architecture.org/</sup>_

@@ -1,6 +1,6 @@
-## Bookmarks tagged [[shortcuts]](https://www.bookmarks.dev/search?q=[shortcuts])
+## Bookmarks tagged [[shortcuts]](https://www.codever.land/search?q=[shortcuts])
 
-_<sup><sup>[www.bookmarks.dev/tagged/shortcuts](https://www.bookmarks.dev/tagged/shortcuts)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/shortcuts](www.codever.land/bookmarks/t/shortcuts)</sup></sup>_
 ---
 #### [brtnshrdr/angular2-hotkeys home page](https://github.com/brtnshrdr/angular2-hotkeys/)
 _<sup>https://github.com/brtnshrdr/angular2-hotkeys/</sup>_

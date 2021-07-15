@@ -1,6 +1,6 @@
-## Bookmarks tagged [[high-availability]](https://www.bookmarks.dev/search?q=[high-availability])
+## Bookmarks tagged [[high-availability]](https://www.codever.land/search?q=[high-availability])
 
-_<sup><sup>[www.bookmarks.dev/tagged/high-availability](https://www.bookmarks.dev/tagged/high-availability)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/high-availability](www.codever.land/bookmarks/t/high-availability)</sup></sup>_
 ---
 #### [Building Stateful Applications With Kubernetes and Cloud SQL (Cloud Next '19) - YouTube](https://www.youtube.com/watch?v=qVgzP3PsXFw)
 _<sup>https://www.youtube.com/watch?v=qVgzP3PsXFw</sup>_

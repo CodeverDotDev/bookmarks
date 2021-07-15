@@ -1,6 +1,6 @@
-## Bookmarks tagged [[gdb]](https://www.bookmarks.dev/search?q=[gdb])
+## Bookmarks tagged [[gdb]](https://www.codever.land/search?q=[gdb])
 
-_<sup><sup>[www.bookmarks.dev/tagged/gdb](https://www.bookmarks.dev/tagged/gdb)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/gdb](www.codever.land/bookmarks/t/gdb)</sup></sup>_
 ---
 #### [rust-gdb](https://github.com/rust-lang/rust/blob/master/src/etc/rust-gdb)
 _<sup>https://github.com/rust-lang/rust/blob/master/src/etc/rust-gdb</sup>_

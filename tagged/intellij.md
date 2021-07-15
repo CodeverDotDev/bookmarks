@@ -1,6 +1,12 @@
-## Bookmarks tagged [[intellij]](https://www.bookmarks.dev/search?q=[intellij])
+## Bookmarks tagged [[intellij]](https://www.codever.land/search?q=[intellij])
 
-_<sup><sup>[www.bookmarks.dev/tagged/intellij](https://www.bookmarks.dev/tagged/intellij)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/intellij](www.codever.land/bookmarks/t/intellij)</sup></sup>_
+---
+#### [So, I wrote my first IntelliJ plugin to help me bookmark code ](https://www.codepedia.org/ama/my-first-intellij-plugin-to-help-me-bookmark-code)
+_<sup>https://www.codepedia.org/ama/my-first-intellij-plugin-to-help-me-bookmark-code</sup>_
+
+Shows the basic steps needed to create a simple IntelliJ plugins which makes saving and searching snippets from IntelliJ IDEs to [Codever](https://www.codever.land) very easy.
+* **tags**: [intellij](../tagged/intellij.md), [plugins](../tagged/plugins.md), [productivity](../tagged/productivity.md), [productivity-tools](../tagged/productivity-tools.md)
 ---
 #### [Troubleshooting · Jest](https://jestjs.io/docs/en/troubleshooting)
 _<sup>https://jestjs.io/docs/en/troubleshooting</sup>_

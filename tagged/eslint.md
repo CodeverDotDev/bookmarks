@@ -1,6 +1,6 @@
-## Bookmarks tagged [[eslint]](https://www.bookmarks.dev/search?q=[eslint])
+## Bookmarks tagged [[eslint]](https://www.codever.land/search?q=[eslint])
 
-_<sup><sup>[www.bookmarks.dev/tagged/eslint](https://www.bookmarks.dev/tagged/eslint)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/eslint](www.codever.land/bookmarks/t/eslint)</sup></sup>_
 ---
 #### [awesome-eslint](https://github.com/dustinspecker/awesome-eslint#readme)
 _<sup>https://github.com/dustinspecker/awesome-eslint#readme</sup>_

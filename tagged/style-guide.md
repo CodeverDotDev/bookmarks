@@ -1,6 +1,6 @@
-## Bookmarks tagged [[style-guide]](https://www.bookmarks.dev/search?q=[style-guide])
+## Bookmarks tagged [[style-guide]](https://www.codever.land/search?q=[style-guide])
 
-_<sup><sup>[www.bookmarks.dev/tagged/style-guide](https://www.bookmarks.dev/tagged/style-guide)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/style-guide](www.codever.land/bookmarks/t/style-guide)</sup></sup>_
 ---
 #### [GitHub - standard/standard](https://github.com/standard/standard)
 _<sup>https://github.com/standard/standard</sup>_

@@ -1,6 +1,6 @@
-## Bookmarks tagged [[graphical-user-interfaces]](https://www.bookmarks.dev/search?q=[graphical-user-interfaces])
+## Bookmarks tagged [[graphical-user-interfaces]](https://www.codever.land/search?q=[graphical-user-interfaces])
 
-_<sup><sup>[www.bookmarks.dev/tagged/graphical-user-interfaces](https://www.bookmarks.dev/tagged/graphical-user-interfaces)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/graphical-user-interfaces](www.codever.land/bookmarks/t/graphical-user-interfaces)</sup></sup>_
 ---
 #### [Search User Interfaces](http://searchuserinterfaces.com/book/)
 _<sup>http://searchuserinterfaces.com/book/</sup>_

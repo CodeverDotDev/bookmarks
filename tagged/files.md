@@ -1,6 +1,6 @@
-## Bookmarks tagged [[files]](https://www.bookmarks.dev/search?q=[files])
+## Bookmarks tagged [[files]](https://www.codever.land/search?q=[files])
 
-_<sup><sup>[www.bookmarks.dev/tagged/files](https://www.bookmarks.dev/tagged/files)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/files](www.codever.land/bookmarks/t/files)</sup></sup>_
 ---
 #### [mimetypes](https://docs.python.org/3/library/mimetypes.html)
 _<sup>https://docs.python.org/3/library/mimetypes.html</sup>_

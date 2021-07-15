@@ -1,6 +1,6 @@
-## Bookmarks tagged [[google-deployment-manager]](https://www.bookmarks.dev/search?q=[google-deployment-manager])
+## Bookmarks tagged [[google-deployment-manager]](https://www.codever.land/search?q=[google-deployment-manager])
 
-_<sup><sup>[www.bookmarks.dev/tagged/google-deployment-manager](https://www.bookmarks.dev/tagged/google-deployment-manager)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/google-deployment-manager](www.codever.land/bookmarks/t/google-deployment-manager)</sup></sup>_
 ---
 #### [deploymentmanager-samples/google/resource-snippets at master](https://github.com/GoogleCloudPlatform/deploymentmanager-samples/tree/master/google/resource-snippets)
 _<sup>https://github.com/GoogleCloudPlatform/deploymentmanager-samples/tree/master/google/resource-snippet...</sup>_

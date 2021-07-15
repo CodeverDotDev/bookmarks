@@ -1,6 +1,6 @@
-## Bookmarks tagged [[captchas]](https://www.bookmarks.dev/search?q=[captchas])
+## Bookmarks tagged [[captchas]](https://www.codever.land/search?q=[captchas])
 
-_<sup><sup>[www.bookmarks.dev/tagged/captchas](https://www.bookmarks.dev/tagged/captchas)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/captchas](www.codever.land/bookmarks/t/captchas)</sup></sup>_
 ---
 #### [Invisible Captcha](https://github.com/markets/invisible_captcha)
 _<sup>https://github.com/markets/invisible_captcha</sup>_

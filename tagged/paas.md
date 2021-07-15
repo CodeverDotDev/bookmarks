@@ -1,6 +1,6 @@
-## Bookmarks tagged [[paas]](https://www.bookmarks.dev/search?q=[paas])
+## Bookmarks tagged [[paas]](https://www.codever.land/search?q=[paas])
 
-_<sup><sup>[www.bookmarks.dev/tagged/paas](https://www.bookmarks.dev/tagged/paas)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/paas](www.codever.land/bookmarks/t/paas)</sup></sup>_
 ---
 #### [AWS Elastic Beanstalk ![c](https://aws.amazon.com/elasticbeanstalk)
 _<sup>https://aws.amazon.com/elasticbeanstalk</sup>_

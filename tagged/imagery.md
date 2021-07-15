@@ -1,6 +1,6 @@
-## Bookmarks tagged [[imagery]](https://www.bookmarks.dev/search?q=[imagery])
+## Bookmarks tagged [[imagery]](https://www.codever.land/search?q=[imagery])
 
-_<sup><sup>[www.bookmarks.dev/tagged/imagery](https://www.bookmarks.dev/tagged/imagery)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/imagery](www.codever.land/bookmarks/t/imagery)</sup></sup>_
 ---
 #### [Imgscalr](https://github.com/thebuzzmedia/imgscalr)
 _<sup>https://github.com/thebuzzmedia/imgscalr</sup>_

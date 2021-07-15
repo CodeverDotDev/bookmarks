@@ -1,6 +1,13 @@
-## Bookmarks tagged [[command-line]](https://www.bookmarks.dev/search?q=[command-line])
+## Bookmarks tagged [[command-line]](https://www.codever.land/search?q=[command-line])
 
-_<sup><sup>[www.bookmarks.dev/tagged/command-line](https://www.bookmarks.dev/tagged/command-line)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/command-line](www.codever.land/bookmarks/t/command-line)</sup></sup>_
+---
+#### [How to find out line-endings in a text file?](https://stackoverflow.com/questions/3569997/how-to-find-out-line-endings-in-a-text-file)
+_<sup>https://stackoverflow.com/questions/3569997/how-to-find-out-line-endings-in-a-text-file</sup>_
+
+Describes how to find / display line endings in files on linux system.
+* :calendar: **published on**: 2010-08-25
+* **tags**: [linux](../tagged/linux.md), [bash](../tagged/bash.md), [command-line](../tagged/command-line.md), [newline](../tagged/newline.md), [line-endings](../tagged/line-endings.md)
 ---
 #### [Git Tutorial for Beginners: Command-Line Fundamentals - 30min](https://www.youtube.com/watch?v=HVsySz-h9r4)
 _<sup>https://www.youtube.com/watch?v=HVsySz-h9r4</sup>_

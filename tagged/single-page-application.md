@@ -1,6 +1,6 @@
-## Bookmarks tagged [[single-page-application]](https://www.bookmarks.dev/search?q=[single-page-application])
+## Bookmarks tagged [[single-page-application]](https://www.codever.land/search?q=[single-page-application])
 
-_<sup><sup>[www.bookmarks.dev/tagged/single-page-application](https://www.bookmarks.dev/tagged/single-page-application)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/single-page-application](www.codever.land/bookmarks/t/single-page-application)</sup></sup>_
 ---
 #### [OAuth 2 Simplified](https://aaronparecki.com/oauth-2-simplified/)
 _<sup>https://aaronparecki.com/oauth-2-simplified/</sup>_

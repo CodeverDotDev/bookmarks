@@ -1,6 +1,6 @@
-## Bookmarks tagged [[kube-proxy]](https://www.bookmarks.dev/search?q=[kube-proxy])
+## Bookmarks tagged [[kube-proxy]](https://www.codever.land/search?q=[kube-proxy])
 
-_<sup><sup>[www.bookmarks.dev/tagged/kube-proxy](https://www.bookmarks.dev/tagged/kube-proxy)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/kube-proxy](www.codever.land/bookmarks/t/kube-proxy)</sup></sup>_
 ---
 #### [Understanding Kubernetes Kube-Proxy](https://supergiant.io/blog/understanding-kubernetes-kube-proxy/)
 _<sup>https://supergiant.io/blog/understanding-kubernetes-kube-proxy/</sup>_

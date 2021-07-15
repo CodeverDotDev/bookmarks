@@ -1,6 +1,6 @@
-## Bookmarks tagged [[oracledb]](https://www.bookmarks.dev/search?q=[oracledb])
+## Bookmarks tagged [[oracledb]](https://www.codever.land/search?q=[oracledb])
 
-_<sup><sup>[www.bookmarks.dev/tagged/oracledb](https://www.bookmarks.dev/tagged/oracledb)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/oracledb](www.codever.land/bookmarks/t/oracledb)</sup></sup>_
 ---
 #### [node-oracledb/examples at master · oracle/node-oracledb · GitHub](https://github.com/oracle/node-oracledb/tree/master/examples)
 _<sup>https://github.com/oracle/node-oracledb/tree/master/examples</sup>_

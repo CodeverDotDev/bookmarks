@@ -1,6 +1,6 @@
-## Bookmarks tagged [[component]](https://www.bookmarks.dev/search?q=[component])
+## Bookmarks tagged [[component]](https://www.codever.land/search?q=[component])
 
-_<sup><sup>[www.bookmarks.dev/tagged/component](https://www.bookmarks.dev/tagged/component)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/component](www.codever.land/bookmarks/t/component)</sup></sup>_
 ---
 #### [Expo](https://expo.io/)
 _<sup>https://expo.io/</sup>_

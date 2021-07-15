@@ -1,6 +1,6 @@
-## Bookmarks tagged [[hyper]](https://www.bookmarks.dev/search?q=[hyper])
+## Bookmarks tagged [[hyper]](https://www.codever.land/search?q=[hyper])
 
-_<sup><sup>[www.bookmarks.dev/tagged/hyper](https://www.bookmarks.dev/tagged/hyper)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/hyper](www.codever.land/bookmarks/t/hyper)</sup></sup>_
 ---
 #### [awesome-hyper](https://github.com/bnb/awesome-hyper#readme)
 _<sup>https://github.com/bnb/awesome-hyper#readme</sup>_

@@ -1,6 +1,6 @@
-## Bookmarks tagged [[cpp]](https://www.bookmarks.dev/search?q=[cpp])
+## Bookmarks tagged [[cpp]](https://www.codever.land/search?q=[cpp])
 
-_<sup><sup>[www.bookmarks.dev/tagged/cpp](https://www.bookmarks.dev/tagged/cpp)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/cpp](www.codever.land/bookmarks/t/cpp)</sup></sup>_
 ---
 #### [The Node.js Event Loop: Not So Single Threaded - 31min](https://www.youtube.com/watch?v=zphcsoSJMvM)
 _<sup>https://www.youtube.com/watch?v=zphcsoSJMvM</sup>_

@@ -1,6 +1,6 @@
-## Bookmarks tagged [[free-programming-books-ar]](https://www.bookmarks.dev/search?q=[free-programming-books-ar])
+## Bookmarks tagged [[free-programming-books-ar]](https://www.codever.land/search?q=[free-programming-books-ar])
 
-_<sup><sup>[www.bookmarks.dev/tagged/free-programming-books-ar](https://www.bookmarks.dev/tagged/free-programming-books-ar)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/free-programming-books-ar](www.codever.land/bookmarks/t/free-programming-books-ar)</sup></sup>_
 ---
 #### [مدخل إلى تجربة المستخدم ](https://sourceforge.net/projects/omlx/files/open%20books/1.0/Intro-to-UX-Arabic-v1.0.pdf/download)
 _<sup>https://sourceforge.net/projects/omlx/files/open%20books/1.0/Intro-to-UX-Arabic-v1.0.pdf/download</sup>_

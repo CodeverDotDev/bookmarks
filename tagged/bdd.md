@@ -1,6 +1,6 @@
-## Bookmarks tagged [[bdd]](https://www.bookmarks.dev/search?q=[bdd])
+## Bookmarks tagged [[bdd]](https://www.codever.land/search?q=[bdd])
 
-_<sup><sup>[www.bookmarks.dev/tagged/bdd](https://www.bookmarks.dev/tagged/bdd)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/bdd](www.codever.land/bookmarks/t/bdd)</sup></sup>_
 ---
 #### [Cucumber](https://github.com/cucumber/cucumber-jvm)
 _<sup>https://github.com/cucumber/cucumber-jvm</sup>_

@@ -1,6 +1,6 @@
-## Bookmarks tagged [[build]](https://www.bookmarks.dev/search?q=[build])
+## Bookmarks tagged [[build]](https://www.codever.land/search?q=[build])
 
-_<sup><sup>[www.bookmarks.dev/tagged/build](https://www.bookmarks.dev/tagged/build)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/build](www.codever.land/bookmarks/t/build)</sup></sup>_
 ---
 #### [Apache Maven](https://maven.apache.org)
 _<sup>https://maven.apache.org</sup>_

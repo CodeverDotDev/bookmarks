@@ -1,6 +1,6 @@
-## Bookmarks tagged [[c++]](https://www.bookmarks.dev/search?q=[c++])
+## Bookmarks tagged [[c++]](https://www.codever.land/search?q=[c++])
 
-_<sup><sup>[www.bookmarks.dev/tagged/c++](https://www.bookmarks.dev/tagged/c++)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/c++](www.codever.land/bookmarks/t/c++)</sup></sup>_
 ---
 #### [Learning C/C++: How pointers work? | Mindsers Blog](https://mindsers.blog/en/pointers-c-cplusplus/)
 _<sup>https://mindsers.blog/en/pointers-c-cplusplus/</sup>_

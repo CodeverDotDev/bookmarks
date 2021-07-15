@@ -1,6 +1,6 @@
-## Bookmarks tagged [[maven-plugin]](https://www.bookmarks.dev/search?q=[maven-plugin])
+## Bookmarks tagged [[maven-plugin]](https://www.codever.land/search?q=[maven-plugin])
 
-_<sup><sup>[www.bookmarks.dev/tagged/maven-plugin](https://www.bookmarks.dev/tagged/maven-plugin)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/maven-plugin](www.codever.land/bookmarks/t/maven-plugin)</sup></sup>_
 ---
 #### [The JMeter Maven Plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
 _<sup>https://github.com/jmeter-maven-plugin/jmeter-maven-plugin</sup>_

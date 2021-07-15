@@ -1,6 +1,6 @@
-## Bookmarks tagged [[semserver]](https://www.bookmarks.dev/search?q=[semserver])
+## Bookmarks tagged [[semserver]](https://www.codever.land/search?q=[semserver])
 
-_<sup><sup>[www.bookmarks.dev/tagged/semserver](https://www.bookmarks.dev/tagged/semserver)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/semserver](www.codever.land/bookmarks/t/semserver)</sup></sup>_
 ---
 #### [Introduction - semantic-release](https://semantic-release.gitbook.io/semantic-release/)
 _<sup>https://semantic-release.gitbook.io/semantic-release/</sup>_

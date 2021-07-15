@@ -1,6 +1,6 @@
-## Bookmarks tagged [[natural-language-processing]](https://www.bookmarks.dev/search?q=[natural-language-processing])
+## Bookmarks tagged [[natural-language-processing]](https://www.codever.land/search?q=[natural-language-processing])
 
-_<sup><sup>[www.bookmarks.dev/tagged/natural-language-processing](https://www.bookmarks.dev/tagged/natural-language-processing)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/natural-language-processing](www.codever.land/bookmarks/t/natural-language-processing)</sup></sup>_
 ---
 #### [getlang](https://github.com/rylans/getlang)
 _<sup>https://github.com/rylans/getlang</sup>_

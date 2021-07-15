@@ -1,6 +1,6 @@
-## Bookmarks tagged [[service-discovery]](https://www.bookmarks.dev/search?q=[service-discovery])
+## Bookmarks tagged [[service-discovery]](https://www.codever.land/search?q=[service-discovery])
 
-_<sup><sup>[www.bookmarks.dev/tagged/service-discovery](https://www.bookmarks.dev/tagged/service-discovery)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/service-discovery](www.codever.land/bookmarks/t/service-discovery)</sup></sup>_
 ---
 #### [Consul](http://consul.io)
 _<sup>http://consul.io</sup>_

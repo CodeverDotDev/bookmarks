@@ -1,6 +1,6 @@
-## Bookmarks tagged [[objective-c]](https://www.bookmarks.dev/search?q=[objective-c])
+## Bookmarks tagged [[objective-c]](https://www.codever.land/search?q=[objective-c])
 
-_<sup><sup>[www.bookmarks.dev/tagged/objective-c](https://www.bookmarks.dev/tagged/objective-c)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/objective-c](www.codever.land/bookmarks/t/objective-c)</sup></sup>_
 ---
 #### [SSheldon/rust-objc](https://github.com/SSheldon/rust-objc)
 _<sup>https://github.com/SSheldon/rust-objc</sup>_

@@ -1,6 +1,6 @@
-## Bookmarks tagged [[career]](https://www.bookmarks.dev/search?q=[career])
+## Bookmarks tagged [[career]](https://www.codever.land/search?q=[career])
 
-_<sup><sup>[www.bookmarks.dev/tagged/career](https://www.bookmarks.dev/tagged/career)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/career](www.codever.land/bookmarks/t/career)</sup></sup>_
 ---
 #### [GitHub - kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 _<sup>https://github.com/kamranahmedse/developer-roadmap</sup>_

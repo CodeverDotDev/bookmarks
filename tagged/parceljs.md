@@ -1,6 +1,6 @@
-## Bookmarks tagged [[parceljs]](https://www.bookmarks.dev/search?q=[parceljs])
+## Bookmarks tagged [[parceljs]](https://www.codever.land/search?q=[parceljs])
 
-_<sup><sup>[www.bookmarks.dev/tagged/parceljs](https://www.bookmarks.dev/tagged/parceljs)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/parceljs](www.codever.land/bookmarks/t/parceljs)</sup></sup>_
 ---
 #### [A code, bundle, pack workflow for webextension projects - DEV Community 👩‍💻👨‍💻](https://dev.to/ramitmittal/a-code-bundle-pack-workflow-for-webextension-projects-4nhe)
 _<sup>https://dev.to/ramitmittal/a-code-bundle-pack-workflow-for-webextension-projects-4nhe</sup>_

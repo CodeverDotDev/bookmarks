@@ -1,6 +1,23 @@
-## Bookmarks tagged [[django]](https://www.bookmarks.dev/search?q=[django])
+## Bookmarks tagged [[django]](https://www.codever.land/search?q=[django])
 
-_<sup><sup>[www.bookmarks.dev/tagged/django](https://www.bookmarks.dev/tagged/django)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/django](www.codever.land/bookmarks/t/django)</sup></sup>_
+---
+#### [Fingerprint-based authentication and Authorization in Python(Django) web applications - DEV Community 👩‍💻👨‍💻](https://dev.to/sirneij/fingerprint-based-authentication-and-authorization-in-python-django-web-applications-2c6l)
+_<sup>https://dev.to/sirneij/fingerprint-based-authentication-and-authorization-in-python-django-web-appli...</sup>_
+
+* **tags**: [django](../tagged/django.md)
+---
+#### [veryacademy/YT-Django-DRF-Simple-Blog-Series-Part-1](https://github.com/veryacademy/YT-Django-DRF-Simple-Blog-Series-Part-1)
+_<sup>https://github.com/veryacademy/YT-Django-DRF-Simple-Blog-Series-Part-1</sup>_
+
+* :calendar: **published on**: 2021-07-04
+* **tags**: [course](../tagged/course.md), [django](../tagged/django.md), [github](../tagged/github.md)
+---
+#### [Github make a website use framework django and react](https://github.com/ikromnurrohim/django-and-react-ecommerce)
+_<sup>https://github.com/ikromnurrohim/django-and-react-ecommerce</sup>_
+
+* :calendar: **published on**: 2021-07-03
+* **tags**: [django](../tagged/django.md), [github](../tagged/github.md)
 ---
 #### [gothinkster/realworld: "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅](https://github.com/gothinkster/realworld)
 _<sup>https://github.com/gothinkster/realworld</sup>_

@@ -1,6 +1,6 @@
-## Bookmarks tagged [[nosql-couchdb]](https://www.bookmarks.dev/search?q=[nosql-couchdb])
+## Bookmarks tagged [[nosql-couchdb]](https://www.codever.land/search?q=[nosql-couchdb])
 
-_<sup><sup>[www.bookmarks.dev/tagged/nosql-couchdb](https://www.bookmarks.dev/tagged/nosql-couchdb)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/nosql-couchdb](www.codever.land/bookmarks/t/nosql-couchdb)</sup></sup>_
 ---
 #### [Sofa](https://github.com/YellowInnovation/sofa)
 _<sup>https://github.com/YellowInnovation/sofa</sup>_

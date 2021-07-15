@@ -1,6 +1,6 @@
-## Bookmarks tagged [[blogging]](https://www.bookmarks.dev/search?q=[blogging])
+## Bookmarks tagged [[blogging]](https://www.codever.land/search?q=[blogging])
 
-_<sup><sup>[www.bookmarks.dev/tagged/blogging](https://www.bookmarks.dev/tagged/blogging)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/blogging](www.codever.land/bookmarks/t/blogging)</sup></sup>_
 ---
 #### [How to give your Jekyll Site Structured Data for Search with JSON-LD](https://aramzs.github.io/jekyll/schema-dot-org/2018/04/27/how-to-make-your-jekyll-site-structured.html)
 _<sup>https://aramzs.github.io/jekyll/schema-dot-org/2018/04/27/how-to-make-your-jekyll-site-structured.ht...</sup>_

@@ -1,6 +1,27 @@
-## Bookmarks tagged [[cloud]](https://www.bookmarks.dev/search?q=[cloud])
+## Bookmarks tagged [[cloud]](https://www.codever.land/search?q=[cloud])
 
-_<sup><sup>[www.bookmarks.dev/tagged/cloud](https://www.bookmarks.dev/tagged/cloud)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/cloud](www.codever.land/bookmarks/t/cloud)</sup></sup>_
+---
+#### [Pourquoi votre infra-as-code ne tient pas ses promesses ?](https://blog.wescale.fr/2021/06/17/pourquoi-votre-infrastructure-as-code-ne-tient-pas-ses-promesses/)
+_<sup>https://blog.wescale.fr/2021/06/17/pourquoi-votre-infrastructure-as-code-ne-tient-pas-ses-promesses/</sup>_
+
+Les promesses de l’IaC sont grandes ! Mais vous devez briser 7 murs pour les tenir et suivre 5 KPI pour les valider.
+* :calendar: **published on**: 2021-06-17
+* **tags**: [cloud](../tagged/cloud.md), [cloud-computing](../tagged/cloud-computing.md)
+---
+#### [SAP Graph Multi-Part Tutorial: Information Map | SAP Blogs](https://blogs.sap.com/2021/06/08/sap-graph-multi-part-tutorial-information-map/)
+_<sup>https://blogs.sap.com/2021/06/08/sap-graph-multi-part-tutorial-information-map/</sup>_
+
+Hello! SAP Graph is the new unified and consolidated API for SAP’s Integrated Intelligent Suite. Developers use SAP Graph to build applications that access a business data graph of SAP-managed data,
+* **tags**: [sap](../tagged/sap.md), [graph](../tagged/graph.md), [api](../tagged/api.md), [cloud](../tagged/cloud.md)
+---
+#### [Setting Up Authelia With SWAG](https://blog.linuxserver.io/2020/08/26/setting-up-authelia/)
+_<sup>https://blog.linuxserver.io/2020/08/26/setting-up-authelia/</sup>_
+
+This article details how SSO via Authelia can be easily set up using SWAG's preset Authelia confs.
+* :calendar: **published on**: 2020-08-26
+* **tags**: [docker-compose](../tagged/docker-compose.md), [nginx](../tagged/nginx.md), [tls](../tagged/tls.md), [oauth2](../tagged/oauth2.md), [cloud](../tagged/cloud.md), [linux](../tagged/linux.md)
+* :octocat: **[source code](https://github.com/linuxserver/docker-swag)**
 ---
 #### [CAP@SAP Home](https://cap.cloud.sap/docs/)
 _<sup>https://cap.cloud.sap/docs/</sup>_

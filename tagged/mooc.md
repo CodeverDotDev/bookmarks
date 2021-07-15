@@ -1,6 +1,6 @@
-## Bookmarks tagged [[mooc]](https://www.bookmarks.dev/search?q=[mooc])
+## Bookmarks tagged [[mooc]](https://www.codever.land/search?q=[mooc])
 
-_<sup><sup>[www.bookmarks.dev/tagged/mooc](https://www.bookmarks.dev/tagged/mooc)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/mooc](www.codever.land/bookmarks/t/mooc)</sup></sup>_
 ---
 #### [Platzi](https://courses.platzi.com)
 _<sup>https://courses.platzi.com</sup>_

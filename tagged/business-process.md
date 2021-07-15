@@ -1,6 +1,6 @@
-## Bookmarks tagged [[business-process]](https://www.bookmarks.dev/search?q=[business-process])
+## Bookmarks tagged [[business-process]](https://www.codever.land/search?q=[business-process])
 
-_<sup><sup>[www.bookmarks.dev/tagged/business-process](https://www.bookmarks.dev/tagged/business-process)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/business-process](www.codever.land/bookmarks/t/business-process)</sup></sup>_
 ---
 #### [Go-to-market strategy for engineers - Zero Credibility](https://www.spakhm.com/p/go-to-market-strategy-for-engineers)
 _<sup>https://www.spakhm.com/p/go-to-market-strategy-for-engineers</sup>_

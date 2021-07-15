@@ -1,6 +1,6 @@
-## Bookmarks tagged [[real-apps]](https://www.bookmarks.dev/search?q=[real-apps])
+## Bookmarks tagged [[real-apps]](https://www.codever.land/search?q=[real-apps])
 
-_<sup><sup>[www.bookmarks.dev/tagged/real-apps](https://www.bookmarks.dev/tagged/real-apps)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/real-apps](www.codever.land/bookmarks/t/real-apps)</sup></sup>_
 ---
 #### [Firefox debugger](https://github.com/devtools-html/debugger.html)
 _<sup>https://github.com/devtools-html/debugger.html</sup>_

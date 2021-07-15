@@ -1,6 +1,6 @@
-## Bookmarks tagged [[emulators]](https://www.bookmarks.dev/search?q=[emulators])
+## Bookmarks tagged [[emulators]](https://www.codever.land/search?q=[emulators])
 
-_<sup><sup>[www.bookmarks.dev/tagged/emulators](https://www.bookmarks.dev/tagged/emulators)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/emulators](www.codever.land/bookmarks/t/emulators)</sup></sup>_
 ---
 #### [Testing apps locally with the emulator  - Google Pub/Sub](https://cloud.google.com/pubsub/docs/emulator)
 _<sup>https://cloud.google.com/pubsub/docs/emulator</sup>_

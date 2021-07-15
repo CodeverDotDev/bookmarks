@@ -1,6 +1,16 @@
-## Bookmarks tagged [[observable]](https://www.bookmarks.dev/search?q=[observable])
+## Bookmarks tagged [[observable]](https://www.codever.land/search?q=[observable])
 
-_<sup><sup>[www.bookmarks.dev/tagged/observable](https://www.bookmarks.dev/tagged/observable)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/observable](www.codever.land/bookmarks/t/observable)</sup></sup>_
+---
+#### [Caching with RxJs Observables in Angular](https://www.syntaxsuccess.com/viewarticle/caching-with-rxjs-observables-in-angular-2.0)
+_<sup>https://www.syntaxsuccess.com/viewarticle/caching-with-rxjs-observables-in-angular-2.0</sup>_
+
+Simple caching with observables and `publishReplay(1)` and `refCount`
+
+
+* :calendar: **published on**: 2016-04-23
+* **tags**: [angular](../tagged/angular.md), [caching](../tagged/caching.md), [rxjs](../tagged/rxjs.md), [observable](../tagged/observable.md), [http-client](../tagged/http-client.md)
+* :octocat: **[source code](https://github.com/thelgevold/angular-2-samples/tree/master/src/apps/shared-components/rxjs-caching)**
 ---
 #### [async/await in Angular `ngOnInit`](https://stackoverflow.com/questions/56092083/async-await-in-angular-ngoninit)
 _<sup>https://stackoverflow.com/questions/56092083/async-await-in-angular-ngoninit</sup>_

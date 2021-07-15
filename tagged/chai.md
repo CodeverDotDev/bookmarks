@@ -1,6 +1,6 @@
-## Bookmarks tagged [[chai]](https://www.bookmarks.dev/search?q=[chai])
+## Bookmarks tagged [[chai]](https://www.codever.land/search?q=[chai])
 
-_<sup><sup>[www.bookmarks.dev/tagged/chai](https://www.bookmarks.dev/tagged/chai)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/chai](www.codever.land/bookmarks/t/chai)</sup></sup>_
 ---
 #### [Modern Node.js: async/await based testing with Mocha & Chai](https://zaiste.net/modern_node_js_async_await_based_testing_with_mocha_chai/)
 _<sup>https://zaiste.net/modern_node_js_async_await_based_testing_with_mocha_chai/</sup>_

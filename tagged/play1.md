@@ -1,6 +1,6 @@
-## Bookmarks tagged [[play1]](https://www.bookmarks.dev/search?q=[play1])
+## Bookmarks tagged [[play1]](https://www.codever.land/search?q=[play1])
 
-_<sup><sup>[www.bookmarks.dev/tagged/play1](https://www.bookmarks.dev/tagged/play1)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/play1](www.codever.land/bookmarks/t/play1)</sup></sup>_
 ---
 #### [awesome-play1](https://github.com/PerfectCarl/awesome-play1#readme)
 _<sup>https://github.com/PerfectCarl/awesome-play1#readme</sup>_

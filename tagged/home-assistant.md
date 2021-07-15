@@ -1,6 +1,6 @@
-## Bookmarks tagged [[home-assistant]](https://www.bookmarks.dev/search?q=[home-assistant])
+## Bookmarks tagged [[home-assistant]](https://www.codever.land/search?q=[home-assistant])
 
-_<sup><sup>[www.bookmarks.dev/tagged/home-assistant](https://www.bookmarks.dev/tagged/home-assistant)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/home-assistant](www.codever.land/bookmarks/t/home-assistant)</sup></sup>_
 ---
 #### [awesome-home-assistant](https://github.com/frenck/awesome-home-assistant#readme)
 _<sup>https://github.com/frenck/awesome-home-assistant#readme</sup>_

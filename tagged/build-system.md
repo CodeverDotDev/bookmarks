@@ -1,6 +1,6 @@
-## Bookmarks tagged [[build-system]](https://www.bookmarks.dev/search?q=[build-system])
+## Bookmarks tagged [[build-system]](https://www.codever.land/search?q=[build-system])
 
-_<sup><sup>[www.bookmarks.dev/tagged/build-system](https://www.bookmarks.dev/tagged/build-system)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/build-system](www.codever.land/bookmarks/t/build-system)</sup></sup>_
 ---
 #### [Bazel](https://bazel.build)
 _<sup>https://bazel.build</sup>_

@@ -1,6 +1,6 @@
-## Bookmarks tagged [[bat]](https://www.bookmarks.dev/search?q=[bat])
+## Bookmarks tagged [[bat]](https://www.codever.land/search?q=[bat])
 
-_<sup><sup>[www.bookmarks.dev/tagged/bat](https://www.bookmarks.dev/tagged/bat)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/bat](www.codever.land/bookmarks/t/bat)</sup></sup>_
 ---
 #### [Use Windows PowerShell to search for files](https://devblogs.microsoft.com/scripting/use-windows-powershell-to-search-for-files/)
 _<sup>https://devblogs.microsoft.com/scripting/use-windows-powershell-to-search-for-files/</sup>_

@@ -1,6 +1,29 @@
-## Bookmarks tagged [[docs]](https://www.bookmarks.dev/search?q=[docs])
+## Bookmarks tagged [[docs]](https://www.codever.land/search?q=[docs])
 
-_<sup><sup>[www.bookmarks.dev/tagged/docs](https://www.bookmarks.dev/tagged/docs)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/docs](www.codever.land/bookmarks/t/docs)</sup></sup>_
+---
+#### [Keep a Changelog](https://keepachangelog.com/)
+_<sup>https://keepachangelog.com/</sup>_
+
+Guiding Principles
+* Changelogs are for humans, not machines.
+* There should be an entry for every single version.
+* The same types of changes should be grouped.
+* Versions and sections should be link...
+* **tags**: [changelog](../tagged/changelog.md), [docs](../tagged/docs.md)
+---
+#### [Angular - The RxJS library](https://angular.io/guide/rx-library)
+_<sup>https://angular.io/guide/rx-library</sup>_
+
+Reactive programming is an asynchronous programming paradigm concerned with data streams and the propagation of change (Wikipedia). RxJS (Reactive Extensions for JavaScript) is a library for reactive ...
+* **tags**: [angular](../tagged/angular.md), [rxjs](../tagged/rxjs.md), [docs](../tagged/docs.md)
+---
+#### [Docusaurus home page](https://docusaurus.io/)
+_<sup>https://docusaurus.io/</sup>_
+
+An optimized site generator in React. Docusaurus helps you to move fast and write content. Build documentation websites, blogs, marketing pages, and more.
+* **tags**: [react](../tagged/react.md), [static-site-generator](../tagged/static-site-generator.md), [javascript](../tagged/javascript.md), [documentation](../tagged/documentation.md), [docs](../tagged/docs.md)
+* :octocat: **[source code](https://github.com/facebook/docusaurus)**
 ---
 #### [Your First Visual Studio Code Extension - official docs](https://code.visualstudio.com/api/get-started/your-first-extension)
 _<sup>https://code.visualstudio.com/api/get-started/your-first-extension</sup>_

@@ -1,6 +1,6 @@
-## Bookmarks tagged [[terraform]](https://www.bookmarks.dev/search?q=[terraform])
+## Bookmarks tagged [[terraform]](https://www.codever.land/search?q=[terraform])
 
-_<sup><sup>[www.bookmarks.dev/tagged/terraform](https://www.bookmarks.dev/tagged/terraform)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/terraform](www.codever.land/bookmarks/t/terraform)</sup></sup>_
 ---
 #### [awesome-terraform](https://github.com/shuaibiyy/awesome-terraform#readme)
 _<sup>https://github.com/shuaibiyy/awesome-terraform#readme</sup>_

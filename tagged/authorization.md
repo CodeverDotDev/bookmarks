@@ -1,6 +1,6 @@
-## Bookmarks tagged [[authorization]](https://www.bookmarks.dev/search?q=[authorization])
+## Bookmarks tagged [[authorization]](https://www.codever.land/search?q=[authorization])
 
-_<sup><sup>[www.bookmarks.dev/tagged/authorization](https://www.bookmarks.dev/tagged/authorization)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/authorization](www.codever.land/bookmarks/t/authorization)</sup></sup>_
 ---
 #### [Implement the OAuth 2.0 Authorization Code with PKCE Flow](https://developer.okta.com/blog/2019/08/22/okta-authjs-pkce)
 _<sup>https://developer.okta.com/blog/2019/08/22/okta-authjs-pkce</sup>_

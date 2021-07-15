@@ -1,6 +1,6 @@
-## Bookmarks tagged [[economics]](https://www.bookmarks.dev/search?q=[economics])
+## Bookmarks tagged [[economics]](https://www.codever.land/search?q=[economics])
 
-_<sup><sup>[www.bookmarks.dev/tagged/economics](https://www.bookmarks.dev/tagged/economics)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/economics](www.codever.land/bookmarks/t/economics)</sup></sup>_
 ---
 #### [awesome-economics](https://github.com/antontarasenko/awesome-economics#readme)
 _<sup>https://github.com/antontarasenko/awesome-economics#readme</sup>_

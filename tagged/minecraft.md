@@ -1,6 +1,6 @@
-## Bookmarks tagged [[minecraft]](https://www.bookmarks.dev/search?q=[minecraft])
+## Bookmarks tagged [[minecraft]](https://www.codever.land/search?q=[minecraft])
 
-_<sup><sup>[www.bookmarks.dev/tagged/minecraft](https://www.bookmarks.dev/tagged/minecraft)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/minecraft](www.codever.land/bookmarks/t/minecraft)</sup></sup>_
 ---
 #### [awesome-minecraft](https://github.com/bs-community/awesome-minecraft#readme)
 _<sup>https://github.com/bs-community/awesome-minecraft#readme</sup>_

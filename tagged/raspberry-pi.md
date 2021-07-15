@@ -1,6 +1,6 @@
-## Bookmarks tagged [[raspberry-pi]](https://www.bookmarks.dev/search?q=[raspberry-pi])
+## Bookmarks tagged [[raspberry-pi]](https://www.codever.land/search?q=[raspberry-pi])
 
-_<sup><sup>[www.bookmarks.dev/tagged/raspberry-pi](https://www.bookmarks.dev/tagged/raspberry-pi)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/raspberry-pi](www.codever.land/bookmarks/t/raspberry-pi)</sup></sup>_
 ---
 #### [Ogeon/rust-on-raspberry-pi](https://github.com/Ogeon/rust-on-raspberry-pi)
 _<sup>https://github.com/Ogeon/rust-on-raspberry-pi</sup>_

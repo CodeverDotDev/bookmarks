@@ -1,6 +1,19 @@
-## Bookmarks tagged [[nginx]](https://www.bookmarks.dev/search?q=[nginx])
+## Bookmarks tagged [[nginx]](https://www.codever.land/search?q=[nginx])
 
-_<sup><sup>[www.bookmarks.dev/tagged/nginx](https://www.bookmarks.dev/tagged/nginx)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/nginx](www.codever.land/bookmarks/t/nginx)</sup></sup>_
+---
+#### [Setting Up Authelia With SWAG](https://blog.linuxserver.io/2020/08/26/setting-up-authelia/)
+_<sup>https://blog.linuxserver.io/2020/08/26/setting-up-authelia/</sup>_
+
+This article details how SSO via Authelia can be easily set up using SWAG's preset Authelia confs.
+* :calendar: **published on**: 2020-08-26
+* **tags**: [docker-compose](../tagged/docker-compose.md), [nginx](../tagged/nginx.md), [tls](../tagged/tls.md), [oauth2](../tagged/oauth2.md), [cloud](../tagged/cloud.md), [linux](../tagged/linux.md)
+* :octocat: **[source code](https://github.com/linuxserver/docker-swag)**
+---
+#### [The NGINX Handbook](https://www.freecodecamp.org/news/the-nginx-handbook/)
+_<sup>https://www.freecodecamp.org/news/the-nginx-handbook/</sup>_
+
+* **tags**: [nginx](../tagged/nginx.md)
 ---
 #### [Express behind proxies](https://expressjs.com/en/guide/behind-proxies.html)
 _<sup>https://expressjs.com/en/guide/behind-proxies.html</sup>_

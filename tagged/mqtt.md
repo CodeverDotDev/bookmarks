@@ -1,6 +1,6 @@
-## Bookmarks tagged [[mqtt]](https://www.bookmarks.dev/search?q=[mqtt])
+## Bookmarks tagged [[mqtt]](https://www.codever.land/search?q=[mqtt])
 
-_<sup><sup>[www.bookmarks.dev/tagged/mqtt](https://www.bookmarks.dev/tagged/mqtt)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/mqtt](www.codever.land/bookmarks/t/mqtt)</sup></sup>_
 ---
 #### [awesome-mqtt](https://github.com/hobbyquaker/awesome-mqtt#readme)
 _<sup>https://github.com/hobbyquaker/awesome-mqtt#readme</sup>_

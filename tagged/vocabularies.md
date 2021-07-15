@@ -1,6 +1,6 @@
-## Bookmarks tagged [[vocabularies]](https://www.bookmarks.dev/search?q=[vocabularies])
+## Bookmarks tagged [[vocabularies]](https://www.codever.land/search?q=[vocabularies])
 
-_<sup><sup>[www.bookmarks.dev/tagged/vocabularies](https://www.bookmarks.dev/tagged/vocabularies)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/vocabularies](www.codever.land/bookmarks/t/vocabularies)</sup></sup>_
 ---
 #### [GitHub - SAP/odata-vocabularies: SAP Vocabularies for semantic markup of structured data published via OData (www.odata.org) services.](https://github.com/SAP/odata-vocabularies)
 _<sup>https://github.com/SAP/odata-vocabularies</sup>_

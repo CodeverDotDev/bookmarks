@@ -1,6 +1,6 @@
-## Bookmarks tagged [[vscode]](https://www.bookmarks.dev/search?q=[vscode])
+## Bookmarks tagged [[vscode]](https://www.codever.land/search?q=[vscode])
 
-_<sup><sup>[www.bookmarks.dev/tagged/vscode](https://www.bookmarks.dev/tagged/vscode)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/vscode](www.codever.land/bookmarks/t/vscode)</sup></sup>_
 ---
 #### [Your First Visual Studio Code Extension - official docs](https://code.visualstudio.com/api/get-started/your-first-extension)
 _<sup>https://code.visualstudio.com/api/get-started/your-first-extension</sup>_

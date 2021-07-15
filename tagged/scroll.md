@@ -1,6 +1,6 @@
-## Bookmarks tagged [[scroll]](https://www.bookmarks.dev/search?q=[scroll])
+## Bookmarks tagged [[scroll]](https://www.codever.land/search?q=[scroll])
 
-_<sup><sup>[www.bookmarks.dev/tagged/scroll](https://www.bookmarks.dev/tagged/scroll)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/scroll](www.codever.land/bookmarks/t/scroll)</sup></sup>_
 ---
 #### [scrollMonitor](https://github.com/stutrek/scrollMonitor)
 _<sup>https://github.com/stutrek/scrollMonitor</sup>_

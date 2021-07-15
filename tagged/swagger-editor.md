@@ -1,6 +1,6 @@
-## Bookmarks tagged [[swagger-editor]](https://www.bookmarks.dev/search?q=[swagger-editor])
+## Bookmarks tagged [[swagger-editor]](https://www.codever.land/search?q=[swagger-editor])
 
-_<sup><sup>[www.bookmarks.dev/tagged/swagger-editor](https://www.bookmarks.dev/tagged/swagger-editor)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/swagger-editor](www.codever.land/bookmarks/t/swagger-editor)</sup></sup>_
 ---
 #### [OpenAPI 3.0, And What it Means for the Future of Swagger - 1h:1min](https://www.youtube.com/watch?v=wBDSR0x3GZo)
 _<sup>https://www.youtube.com/watch?v=wBDSR0x3GZo</sup>_

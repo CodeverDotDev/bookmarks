@@ -1,6 +1,45 @@
-## Bookmarks tagged [[monitoring]](https://www.bookmarks.dev/search?q=[monitoring])
+## Bookmarks tagged [[monitoring]](https://www.codever.land/search?q=[monitoring])
 
-_<sup><sup>[www.bookmarks.dev/tagged/monitoring](https://www.bookmarks.dev/tagged/monitoring)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/monitoring](www.codever.land/bookmarks/t/monitoring)</sup></sup>_
+---
+#### [prometheus/jmx_exporter home page](https://github.com/prometheus/jmx_exporter)
+_<sup>https://github.com/prometheus/jmx_exporter</sup>_
+
+JMX to Prometheus exporter: a collector that can configurably scrape and expose mBeans of a JMX target.
+
+This exporter is intended to be run as a Java Agent, exposing a HTTP server and serving metrics...
+* **tags**: [prometheus](../tagged/prometheus.md), [monitoring](../tagged/monitoring.md), [java](../tagged/java.md), [java-agent](../tagged/java-agent.md), [jmx](../tagged/jmx.md)
+* :octocat: **[source code](https://github.com/prometheus/jmx_exporter)**
+---
+#### [How Prometheus Monitoring works | Prometheus Architecture explained - 21min](https://www.youtube.com/watch?v=h4Sl21AKiDg)
+_<sup>https://www.youtube.com/watch?v=h4Sl21AKiDg</sup>_
+
+Fully understand how Prometheus Monitoring works | Explaining Prometheus Architecture | What is Prometheus Monitoring | Prometheus Monitoring Tutorial
+
+- Demo Part 1: Setup Prometheus Monitoring and G...
+* :calendar: **published on**: 2020-04-24
+* **tags**: [prometheus](../tagged/prometheus.md), [monitoring](../tagged/monitoring.md)
+---
+#### [GitHub - Atomicorp/ossec-docker: Official OSSEC docker container](https://github.com/Atomicorp/ossec-docker)
+_<sup>https://github.com/Atomicorp/ossec-docker</sup>_
+
+Official OSSEC docker container. Contribute to Atomicorp/ossec-docker development by creating an account on GitHub.
+* **tags**: [docker](../tagged/docker.md), [security-tools](../tagged/security-tools.md), [monitoring](../tagged/monitoring.md), [ossec](../tagged/ossec.md), [log-analyzer](../tagged/log-analyzer.md), [devops-tools](../tagged/devops-tools.md), [server-application](../tagged/server-application.md)
+* :octocat: **[source code](https://github.com/Atomicorp/ossec-docker)**
+---
+#### [GitHub - Atomicorp/openvas-docker: A docker container for openvas](https://github.com/Atomicorp/openvas-docker)
+_<sup>https://github.com/Atomicorp/openvas-docker</sup>_
+
+A docker container for openvas. Contribute to Atomicorp/openvas-docker development by creating an account on GitHub.
+* **tags**: [security-tools](../tagged/security-tools.md), [monitoring](../tagged/monitoring.md), [devops-tools](../tagged/devops-tools.md), [openvas](../tagged/openvas.md), [docker](../tagged/docker.md)
+* :octocat: **[source code](https://github.com/Atomicorp/openvas-docker)**
+---
+#### [GitHub - Atomicorp/gvm: Greenbone Vulnerability Manager / Openvas packaging project](https://github.com/Atomicorp/gvm)
+_<sup>https://github.com/Atomicorp/gvm</sup>_
+
+Greenbone Vulnerability Manager / Openvas packaging project - Atomicorp/gvm
+* **tags**: [security-tools](../tagged/security-tools.md), [openvas](../tagged/openvas.md), [monitoring](../tagged/monitoring.md), [devops-tools](../tagged/devops-tools.md)
+* :octocat: **[source code](https://github.com/Atomicorp/gvm)**
 ---
 #### [AwesomeTechStack](https://awesometechstack.com)
 _<sup>https://awesometechstack.com</sup>_

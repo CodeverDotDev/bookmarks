@@ -1,6 +1,6 @@
-## Bookmarks tagged [[iot]](https://www.bookmarks.dev/search?q=[iot])
+## Bookmarks tagged [[iot]](https://www.codever.land/search?q=[iot])
 
-_<sup><sup>[www.bookmarks.dev/tagged/iot](https://www.bookmarks.dev/tagged/iot)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/iot](www.codever.land/bookmarks/t/iot)</sup></sup>_
 ---
 #### [connectordb](https://github.com/connectordb/connectordb)
 _<sup>https://github.com/connectordb/connectordb</sup>_

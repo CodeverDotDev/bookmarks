@@ -1,6 +1,6 @@
-## Bookmarks tagged [[compilation]](https://www.bookmarks.dev/search?q=[compilation])
+## Bookmarks tagged [[compilation]](https://www.codever.land/search?q=[compilation])
 
-_<sup><sup>[www.bookmarks.dev/tagged/compilation](https://www.bookmarks.dev/tagged/compilation)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/compilation](www.codever.land/bookmarks/t/compilation)</sup></sup>_
 ---
 #### [《计算机程序的结构和解释》公开课 翻译项目](https://github.com/DeathKing/Learning-SICP)
 _<sup>https://github.com/DeathKing/Learning-SICP</sup>_

@@ -1,6 +1,6 @@
-## Bookmarks tagged [[email-tools]](https://www.bookmarks.dev/search?q=[email-tools])
+## Bookmarks tagged [[email-tools]](https://www.codever.land/search?q=[email-tools])
 
-_<sup><sup>[www.bookmarks.dev/tagged/email-tools](https://www.bookmarks.dev/tagged/email-tools)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/email-tools](www.codever.land/bookmarks/t/email-tools)</sup></sup>_
 ---
 #### [Email Blocklist Checker](https://grademyemail.co/email-blocklist-checker)
 _<sup>https://grademyemail.co/email-blocklist-checker</sup>_

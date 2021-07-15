@@ -1,6 +1,6 @@
-## Bookmarks tagged [[bioinformatics]](https://www.bookmarks.dev/search?q=[bioinformatics])
+## Bookmarks tagged [[bioinformatics]](https://www.codever.land/search?q=[bioinformatics])
 
-_<sup><sup>[www.bookmarks.dev/tagged/bioinformatics](https://www.bookmarks.dev/tagged/bioinformatics)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/bioinformatics](www.codever.land/bookmarks/t/bioinformatics)</sup></sup>_
 ---
 #### [Rust-Bio](https://github.com/rust-bio)
 _<sup>https://github.com/rust-bio</sup>_

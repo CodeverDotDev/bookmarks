@@ -1,6 +1,6 @@
-## Bookmarks tagged [[prism.js]](https://www.bookmarks.dev/search?q=[prism.js])
+## Bookmarks tagged [[prism.js]](https://www.codever.land/search?q=[prism.js])
 
-_<sup><sup>[www.bookmarks.dev/tagged/prism.js](https://www.bookmarks.dev/tagged/prism.js)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/prism.js](www.codever.land/bookmarks/t/prism.js)</sup></sup>_
 ---
 #### [Code syntax highlighting with Angular and Prism.js](https://auralinna.blog/post/2017/code-syntax-highlighting-with-angular-and-prismjs/)
 _<sup>https://auralinna.blog/post/2017/code-syntax-highlighting-with-angular-and-prismjs/</sup>_

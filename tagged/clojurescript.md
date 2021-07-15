@@ -1,6 +1,6 @@
-## Bookmarks tagged [[clojurescript]](https://www.bookmarks.dev/search?q=[clojurescript])
+## Bookmarks tagged [[clojurescript]](https://www.codever.land/search?q=[clojurescript])
 
-_<sup><sup>[www.bookmarks.dev/tagged/clojurescript](https://www.bookmarks.dev/tagged/clojurescript)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/clojurescript](www.codever.land/bookmarks/t/clojurescript)</sup></sup>_
 ---
 #### [re-graph](https://github.com/oliyh/re-graph)
 _<sup>https://github.com/oliyh/re-graph</sup>_

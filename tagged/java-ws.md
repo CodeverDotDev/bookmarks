@@ -1,6 +1,6 @@
-## Bookmarks tagged [[java-ws]](https://www.bookmarks.dev/search?q=[java-ws])
+## Bookmarks tagged [[java-ws]](https://www.codever.land/search?q=[java-ws])
 
-_<sup><sup>[www.bookmarks.dev/tagged/java-ws](https://www.bookmarks.dev/tagged/java-ws)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/java-ws](www.codever.land/bookmarks/t/java-ws)</sup></sup>_
 ---
 #### [Apache CXF - Spring Boot SOAP Web Service Client Server Example](https://www.codenotfound.com/apache-cxf-spring-boot-soap-web-service-client-server-example.html)
 _<sup>https://www.codenotfound.com/apache-cxf-spring-boot-soap-web-service-client-server-example.html</sup>_

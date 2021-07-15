@@ -1,6 +1,6 @@
-## Bookmarks tagged [[basic]](https://www.bookmarks.dev/search?q=[basic])
+## Bookmarks tagged [[basic]](https://www.codever.land/search?q=[basic])
 
-_<sup><sup>[www.bookmarks.dev/tagged/basic](https://www.bookmarks.dev/tagged/basic)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/basic](www.codever.land/bookmarks/t/basic)</sup></sup>_
 ---
 #### [Visual Basic Essentials](http://www.techotopia.com/index.php/Visual_Basic_Essentials)
 _<sup>http://www.techotopia.com/index.php/Visual_Basic_Essentials</sup>_

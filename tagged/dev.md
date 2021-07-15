@@ -1,6 +1,6 @@
-## Bookmarks tagged [[dev]](https://www.bookmarks.dev/search?q=[dev])
+## Bookmarks tagged [[dev]](https://www.codever.land/search?q=[dev])
 
-_<sup><sup>[www.bookmarks.dev/tagged/dev](https://www.bookmarks.dev/tagged/dev)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/dev](www.codever.land/bookmarks/t/dev)</sup></sup>_
 ---
 #### [Appydev | Find awesome tools](https://appydev.co/)
 _<sup>https://appydev.co/</sup>_

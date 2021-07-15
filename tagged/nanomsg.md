@@ -1,6 +1,6 @@
-## Bookmarks tagged [[nanomsg]](https://www.bookmarks.dev/search?q=[nanomsg])
+## Bookmarks tagged [[nanomsg]](https://www.codever.land/search?q=[nanomsg])
 
-_<sup><sup>[www.bookmarks.dev/tagged/nanomsg](https://www.bookmarks.dev/tagged/nanomsg)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/nanomsg](www.codever.land/bookmarks/t/nanomsg)</sup></sup>_
 ---
 #### [thehydroimpulse/nanomsg.rs](https://github.com/thehydroimpulse/nanomsg.rs)
 _<sup>https://github.com/thehydroimpulse/nanomsg.rs</sup>_

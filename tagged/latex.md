@@ -1,6 +1,6 @@
-## Bookmarks tagged [[latex]](https://www.bookmarks.dev/search?q=[latex])
+## Bookmarks tagged [[latex]](https://www.codever.land/search?q=[latex])
 
-_<sup><sup>[www.bookmarks.dev/tagged/latex](https://www.bookmarks.dev/tagged/latex)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/latex](www.codever.land/bookmarks/t/latex)</sup></sup>_
 ---
 #### [awesome-LaTeX](https://github.com/egeerardyn/awesome-LaTeX#readme)
 _<sup>https://github.com/egeerardyn/awesome-LaTeX#readme</sup>_

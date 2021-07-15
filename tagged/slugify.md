@@ -1,6 +1,6 @@
-## Bookmarks tagged [[slugify]](https://www.bookmarks.dev/search?q=[slugify])
+## Bookmarks tagged [[slugify]](https://www.codever.land/search?q=[slugify])
 
-_<sup><sup>[www.bookmarks.dev/tagged/slugify](https://www.bookmarks.dev/tagged/slugify)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/slugify](www.codever.land/bookmarks/t/slugify)</sup></sup>_
 ---
 #### [awesome-slugify](https://github.com/dimka665/awesome-slugify)
 _<sup>https://github.com/dimka665/awesome-slugify</sup>_

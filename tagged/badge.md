@@ -1,6 +1,6 @@
-## Bookmarks tagged [[badge]](https://www.bookmarks.dev/search?q=[badge])
+## Bookmarks tagged [[badge]](https://www.codever.land/search?q=[badge])
 
-_<sup><sup>[www.bookmarks.dev/tagged/badge](https://www.bookmarks.dev/tagged/badge)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/badge](www.codever.land/bookmarks/t/badge)</sup></sup>_
 ---
 #### [Shields.io: Quality metadata badges for open source projects](https://shields.io/)
 _<sup>https://shields.io/</sup>_

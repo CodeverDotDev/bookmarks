@@ -1,6 +1,65 @@
-## Bookmarks tagged [[seo]](https://www.bookmarks.dev/search?q=[seo])
+## Bookmarks tagged [[seo]](https://www.codever.land/search?q=[seo])
 
-_<sup><sup>[www.bookmarks.dev/tagged/seo](https://www.bookmarks.dev/tagged/seo)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/seo](www.codever.land/bookmarks/t/seo)</sup></sup>_
+---
+#### [Search Engine Journal - SEO, Search Marketing News and Tutorials](https://www.searchenginejournal.com/)
+_<sup>https://www.searchenginejournal.com/</sup>_
+
+Search Engine Journal is dedicated to producing the latest search news, the best guides and how-tos for the SEO and marketer community.
+* **tags**: [seo](../tagged/seo.md)
+---
+#### [Search Engine Land - News On Search Engines, Search Engine Optimization (SEO) & Search Engine Marketing (SEM)](https://searchengineland.com/)
+_<sup>https://searchengineland.com/</sup>_
+
+News On Search Engines, Search Engine Optimization (SEO) & Search Engine Marketing (SEM)
+* **tags**: [seo](../tagged/seo.md)
+---
+#### [Search Geek](https://twitter.com/rustybrick?lang=en)
+_<sup>https://twitter.com/rustybrick?lang=en</sup>_
+
+* **tags**: [seo](../tagged/seo.md)
+---
+#### [SEO Services in USA by professional SEO Company](https://seoprohub.com/seo)
+_<sup>https://seoprohub.com/seo</sup>_
+
+We are the pioneers of user-friendly SEO services with customized and cheap SEO services package. Schedule your appointment today for leading and authentic SEO services in the USA.
+* **tags**: [seo](../tagged/seo.md)
+---
+#### [SEO News webinars • Yoast](https://yoast.com/webinar/)
+_<sup>https://yoast.com/webinar/</sup>_
+
+The most important developments in SEO and other web-related topics. Brought to you monthly by our SEO experts Joost de Valk and Jono Alderson! It's live and it's free, check it out!
+* **tags**: [yoast](../tagged/yoast.md), [seo](../tagged/seo.md), [webinars](../tagged/webinars.md)
+---
+#### [How To Set Up the Yoast SEO Plugin for WordPress and DiviHow To Set Up the Yoast SEO Plugin for WordPress and Divi](https://divi.space/plugins/how-to-set-up-the-yoast-seo-plugin-for-divi/)
+_<sup>https://divi.space/plugins/how-to-set-up-the-yoast-seo-plugin-for-divi/</sup>_
+
+In the following post, we’ll discuss why it’s important to use an SEO plugin as well as offer a step-by-step setup and install tutorial for Yoast SEO.
+* **tags**: [wordpress](../tagged/wordpress.md), [plugin](../tagged/plugin.md), [seo](../tagged/seo.md), [yoast](../tagged/yoast.md)
+---
+#### [Screaming Frog SEO Spider Website Crawler](https://www.screamingfrog.co.uk/seo-spider/)
+_<sup>https://www.screamingfrog.co.uk/seo-spider/</sup>_
+
+The Screaming Frog SEO Spider is a small desktop program (PC or Mac) which crawls websites’ links, images, CSS, script and apps from an SEO perspective.
+* **tags**: [seo](../tagged/seo.md)
+---
+#### [Sitebulb Website Crawler - Award-winning Software for SEOs](https://sitebulb.com/)
+_<sup>https://sitebulb.com/</sup>_
+
+Sitebulb is an extremely powerful website auditor with the world's most insightful reporting system, winner of 'Best Search Software Tool' at the 2018 UK Search Awards and the US Search Awards.
+* **tags**: [seo](../tagged/seo.md)
+---
+#### [ZYPPY SEO — Higher Google Rankings & Traffic](https://zyppy.com/)
+_<sup>https://zyppy.com/</sup>_
+
+Zyppy: Where SEO Happens. Achieve higher rankings + traffic with smart SEO, simple to advanced techniques, wholistic strategy, and cutting edge practices.
+* **tags**: [seo](../tagged/seo.md), [online-marketing](../tagged/online-marketing.md)
+---
+#### [3 Vital Click-Based Signals for SEO: First, Long, & Last - MozMozSearchResourcesMenuicon-closeSearchMoz](https://moz.com/blog/click-based-seo-engagement-signals)
+_<sup>https://moz.com/blog/click-based-seo-engagement-signals</sup>_
+
+This post shows you how to optimize for click signals to improve your SEO, regardless of how Google might use them as a ranking signal.
+* **tags**: [seo](../tagged/seo.md), [moz](../tagged/moz.md), [search-engine](../tagged/search-engine.md)
 ---
 #### [Learn SEO | SERP University](https://serp.co/university/seo)
 _<sup>https://serp.co/university/seo</sup>_

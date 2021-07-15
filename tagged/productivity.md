@@ -1,6 +1,25 @@
-## Bookmarks tagged [[productivity]](https://www.bookmarks.dev/search?q=[productivity])
+## Bookmarks tagged [[productivity]](https://www.codever.land/search?q=[productivity])
 
-_<sup><sup>[www.bookmarks.dev/tagged/productivity](https://www.bookmarks.dev/tagged/productivity)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/productivity](www.codever.land/bookmarks/t/productivity)</sup></sup>_
+---
+#### [So, I wrote my first IntelliJ plugin to help me bookmark code ](https://www.codepedia.org/ama/my-first-intellij-plugin-to-help-me-bookmark-code)
+_<sup>https://www.codepedia.org/ama/my-first-intellij-plugin-to-help-me-bookmark-code</sup>_
+
+Shows the basic steps needed to create a simple IntelliJ plugins which makes saving and searching snippets from IntelliJ IDEs to [Codever](https://www.codever.land) very easy.
+* **tags**: [intellij](../tagged/intellij.md), [plugins](../tagged/plugins.md), [productivity](../tagged/productivity.md), [productivity-tools](../tagged/productivity-tools.md)
+---
+#### [🚀 DevTernity 2019: Scott Hanselman – Scaling Yourself - 55min](https://www.youtube.com/watch?v=V4NJo2Mfvrc)
+_<sup>https://www.youtube.com/watch?v=V4NJo2Mfvrc</sup>_
+
+As information workers, we are asked to absorb even more information than ever before. More blogs, more documentation, more patterns, more layers of abstraction. Now Twitter and Facebook compete with ...
+* :calendar: **published on**: 2019-12-20
+* **tags**: [productivity](../tagged/productivity.md)
+---
+#### [HTML Color Picker](https://www.w3schools.com/colors/colors_picker.asp)
+_<sup>https://www.w3schools.com/colors/colors_picker.asp</sup>_
+
+* :calendar: **published on**: 2021-04-18
+* **tags**: [html](../tagged/html.md), [color](../tagged/color.md), [picker](../tagged/picker.md), [productivity](../tagged/productivity.md)
 ---
 #### [Effective_Engineer.md](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f)
 _<sup>https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f</sup>_

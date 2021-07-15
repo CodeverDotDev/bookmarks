@@ -1,6 +1,53 @@
-## Bookmarks tagged [[security]](https://www.bookmarks.dev/search?q=[security])
+## Bookmarks tagged [[security]](https://www.codever.land/search?q=[security])
 
-_<sup><sup>[www.bookmarks.dev/tagged/security](https://www.bookmarks.dev/tagged/security)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/security](www.codever.land/bookmarks/t/security)</sup></sup>_
+---
+#### [Create ipsec tunnel between google cloud platform and mikrotik | by Hasanuddin Muhamad | Medium](https://hasanuddin-muhamad15.medium.com/create-ipsec-tunnel-between-google-cloud-platform-and-mikrotik-8a8469c0f019)
+_<sup>https://hasanuddin-muhamad15.medium.com/create-ipsec-tunnel-between-google-cloud-platform-and-mikrot...</sup>_
+
+connect
+* **tags**: [mikrotik](../tagged/mikrotik.md), [security](../tagged/security.md)
+---
+#### [10 best practices to containerize Node.js web applications with Docker | Snyk Blog](https://snyk.io/blog/10-best-practices-to-containerize-nodejs-web-applications-with-docker/)
+_<sup>https://snyk.io/blog/10-best-practices-to-containerize-nodejs-web-applications-with-docker/</sup>_
+
+The following article provides production-grade guidelines for building optimized and secure Node.js Docker images. You’ll find it helpful regardless of the Node.js application you aim to build. This ...
+* :calendar: **published on**: 2021-01-13
+* **tags**: [node.js](../tagged/node.js.md), [docker](../tagged/docker.md), [security](../tagged/security.md)
+---
+#### [Threat Dragon home page](https://threatdragon.org/)
+_<sup>https://threatdragon.org/</sup>_
+
+Threat Dragon is a free, open-source threat modeling tool from OWASP. It can be used as a standalone desktop app for Windows and MacOS (Linux coming soon) or as a web application. The desktop app is g...
+* **tags**: [security](../tagged/security.md), [security-tools](../tagged/security-tools.md), [threat-model](../tagged/threat-model.md)
+* :octocat: **[source code](https://github.com/mike-goodwin/owasp-threat-dragon)**
+---
+#### [Falco home page](https://falco.org/)
+_<sup>https://falco.org/</sup>_
+
+Falco, the cloud-native runtime security project, is the de facto Kubernetes threat detection engine
+* **tags**: [security](../tagged/security.md), [security-tools](../tagged/security-tools.md), [kubernetes](../tagged/kubernetes.md), [cluster-computing](../tagged/cluster-computing.md)
+* :octocat: **[source code](https://github.com/falcosecurity/falco)**
+---
+#### [CyberChef home page](https://gchq.github.io/CyberChef/)
+_<sup>https://gchq.github.io/CyberChef/</sup>_
+
+The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
+* **tags**: [security](../tagged/security.md), [security-tools](../tagged/security-tools.md), [cryptography](../tagged/cryptography.md)
+* :octocat: **[source code](https://github.com/gchq/CyberChef)**
+---
+#### [BeEF - The Browser Exploitation Framework Project](https://beefproject.com/)
+_<sup>https://beefproject.com/</sup>_
+
+BeEF is short for The Browser Exploitation Framework. It is a penetration testing tool that focuses on the web browser.
+* **tags**: [security](../tagged/security.md), [penetration-testing](../tagged/penetration-testing.md), [security-tools](../tagged/security-tools.md)
+* :octocat: **[source code](https://github.com/beefproject/beef)**
+---
+#### [OWASP API Security - Top 10 | OWASP](https://owasp.org/www-project-api-security/)
+_<sup>https://owasp.org/www-project-api-security/</sup>_
+
+API Security focuses on strategies and solutions to understand and mitigate the unique vulnerabilities and security risks of Application Programming Interfaces (APIs).
+* **tags**: [security](../tagged/security.md), [api-security](../tagged/api-security.md), [guides](../tagged/guides.md)
 ---
 #### [Defending Against Query Selector Injection Attacks](https://thecodebarbarian.wordpress.com/2014/09/04/defending-against-query-selector-injection-attacks/)
 _<sup>https://thecodebarbarian.wordpress.com/2014/09/04/defending-against-query-selector-injection-attacks...</sup>_

@@ -1,6 +1,6 @@
-## Bookmarks tagged [[wasm]](https://www.bookmarks.dev/search?q=[wasm])
+## Bookmarks tagged [[wasm]](https://www.codever.land/search?q=[wasm])
 
-_<sup><sup>[www.bookmarks.dev/tagged/wasm](https://www.bookmarks.dev/tagged/wasm)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/wasm](www.codever.land/bookmarks/t/wasm)</sup></sup>_
 ---
 #### [rustwasm/wasm-pack](https://github.com/rustwasm/wasm-pack)
 _<sup>https://github.com/rustwasm/wasm-pack</sup>_

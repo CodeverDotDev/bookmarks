@@ -1,6 +1,6 @@
-## Bookmarks tagged [[helm]](https://www.bookmarks.dev/search?q=[helm])
+## Bookmarks tagged [[helm]](https://www.codever.land/search?q=[helm])
 
-_<sup><sup>[www.bookmarks.dev/tagged/helm](https://www.bookmarks.dev/tagged/helm)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/helm](www.codever.land/bookmarks/t/helm)</sup></sup>_
 ---
 #### [Helm using Interactive Browser-Based Labs](https://www.katacoda.com/courses/helm)
 _<sup>https://www.katacoda.com/courses/helm</sup>_

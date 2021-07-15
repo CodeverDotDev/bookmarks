@@ -1,6 +1,13 @@
-## Bookmarks tagged [[macos]](https://www.bookmarks.dev/search?q=[macos])
+## Bookmarks tagged [[macos]](https://www.codever.land/search?q=[macos])
 
-_<sup><sup>[www.bookmarks.dev/tagged/macos](https://www.bookmarks.dev/tagged/macos)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/macos](www.codever.land/bookmarks/t/macos)</sup></sup>_
+---
+#### [GitHub - jlevy/the-art-of-command-line: Master the command line, in one page](https://github.com/jlevy/the-art-of-command-line)
+_<sup>https://github.com/jlevy/the-art-of-command-line</sup>_
+
+Master the command line, in one page. Contribute to jlevy/the-art-of-command-line development by creating an account on GitHub.
+* **tags**: [windows](../tagged/windows.md), [macos](../tagged/macos.md), [linux](../tagged/linux.md), [bash](../tagged/bash.md), [documentation](../tagged/documentation.md), [unix](../tagged/unix.md)
+* :octocat: **[source code](https://github.com/jlevy/the-art-of-command-line)**
 ---
 #### [SS64 Command line reference](https://ss64.com/)
 _<sup>https://ss64.com/</sup>_

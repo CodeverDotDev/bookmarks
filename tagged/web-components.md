@@ -1,6 +1,6 @@
-## Bookmarks tagged [[web-components]](https://www.bookmarks.dev/search?q=[web-components])
+## Bookmarks tagged [[web-components]](https://www.codever.land/search?q=[web-components])
 
-_<sup><sup>[www.bookmarks.dev/tagged/web-components](https://www.bookmarks.dev/tagged/web-components)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/web-components](www.codever.land/bookmarks/t/web-components)</sup></sup>_
 ---
 #### [Stencil Home Page](https://stenciljs.com/)
 _<sup>https://stenciljs.com/</sup>_

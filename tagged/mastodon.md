@@ -1,6 +1,6 @@
-## Bookmarks tagged [[mastodon]](https://www.bookmarks.dev/search?q=[mastodon])
+## Bookmarks tagged [[mastodon]](https://www.codever.land/search?q=[mastodon])
 
-_<sup><sup>[www.bookmarks.dev/tagged/mastodon](https://www.bookmarks.dev/tagged/mastodon)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/mastodon](www.codever.land/bookmarks/t/mastodon)</sup></sup>_
 ---
 #### [awesome-mastodon](https://github.com/tleb/awesome-mastodon#readme)
 _<sup>https://github.com/tleb/awesome-mastodon#readme</sup>_

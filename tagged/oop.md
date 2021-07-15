@@ -1,6 +1,32 @@
-## Bookmarks tagged [[oop]](https://www.bookmarks.dev/search?q=[oop])
+## Bookmarks tagged [[oop]](https://www.codever.land/search?q=[oop])
 
-_<sup><sup>[www.bookmarks.dev/tagged/oop](https://www.bookmarks.dev/tagged/oop)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/oop](www.codever.land/bookmarks/t/oop)</sup></sup>_
+---
+#### [Understanding Constructor Injection - Manning](https://freecontent.manning.com/understanding-constructor-injection/)
+_<sup>https://freecontent.manning.com/understanding-constructor-injection/</sup>_
+
+Constructor Injection is the act of statically defining the list of required Dependencies by specifying them as parameters to the class’s constructor.
+* **tags**: [dependency-injection](../tagged/dependency-injection.md), [oop](../tagged/oop.md)
+---
+#### [A Discussion on Domain Driven Design: Value Objects · Los Techies](https://lostechies.com/joeocampo/2007/04/23/a-discussion-on-domain-driven-design-value-objects/)
+_<sup>https://lostechies.com/joeocampo/2007/04/23/a-discussion-on-domain-driven-design-value-objects/</sup>_
+
+Entities have a lot of overhead associated with them. They have a full lifecycle from cradle to grave. They also have identity which forces the domain model to be very expressive in tracking and coord...
+* :calendar: **published on**: 2007-04-23
+* **tags**: [domain-driven-design](../tagged/domain-driven-design.md), [oop](../tagged/oop.md)
+---
+#### [UML Association vs Aggregation vs Composition](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/uml-aggregation-vs-composition/)
+_<sup>https://www.visual-paradigm.com/guide/uml-unified-modeling-language/uml-aggregation-vs-composition/</sup>_
+
+Aggregation and Composition are subsets of association meaning they are specific cases of association. In both aggregation and composition object of one class "owns" object of another class. But there...
+* **tags**: [uml](../tagged/uml.md), [aggregation](../tagged/aggregation.md), [composition](../tagged/composition.md), [oop](../tagged/oop.md)
+---
+#### [sohamkamani/javascript-design-patterns-for-humans](https://github.com/sohamkamani/javascript-design-patterns-for-humans)
+_<sup>https://github.com/sohamkamani/javascript-design-patterns-for-humans</sup>_
+
+An ultra-simplified explanation of design patterns implemented in javascript
+* **tags**: [design-patterns](../tagged/design-patterns.md), [javascript](../tagged/javascript.md), [oop](../tagged/oop.md)
+* :octocat: **[source code](https://github.com/sohamkamani/javascript-design-patterns-for-humans)**
 ---
 #### [The Principles of Agile Design](https://www.infoq.com/presentations/principles-agile-oo-design/)
 _<sup>https://www.infoq.com/presentations/principles-agile-oo-design/</sup>_

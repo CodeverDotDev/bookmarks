@@ -1,6 +1,6 @@
-## Bookmarks tagged [[channels]](https://www.bookmarks.dev/search?q=[channels])
+## Bookmarks tagged [[channels]](https://www.codever.land/search?q=[channels])
 
-_<sup><sup>[www.bookmarks.dev/tagged/channels](https://www.bookmarks.dev/tagged/channels)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/channels](www.codever.land/bookmarks/t/channels)</sup></sup>_
 ---
 #### [js-csp](https://github.com/ubolonton/js-csp)
 _<sup>https://github.com/ubolonton/js-csp</sup>_

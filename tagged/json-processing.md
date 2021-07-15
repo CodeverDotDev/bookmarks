@@ -1,6 +1,6 @@
-## Bookmarks tagged [[json-processing]](https://www.bookmarks.dev/search?q=[json-processing])
+## Bookmarks tagged [[json-processing]](https://www.codever.land/search?q=[json-processing])
 
-_<sup><sup>[www.bookmarks.dev/tagged/json-processing](https://www.bookmarks.dev/tagged/json-processing)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/json-processing](www.codever.land/bookmarks/t/json-processing)</sup></sup>_
 ---
 #### [fastjson](https://github.com/alibaba/fastjson)
 _<sup>https://github.com/alibaba/fastjson</sup>_

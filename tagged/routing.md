@@ -1,6 +1,6 @@
-## Bookmarks tagged [[routing]](https://www.bookmarks.dev/search?q=[routing])
+## Bookmarks tagged [[routing]](https://www.codever.land/search?q=[routing])
 
-_<sup><sup>[www.bookmarks.dev/tagged/routing](https://www.bookmarks.dev/tagged/routing)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/routing](www.codever.land/bookmarks/t/routing)</sup></sup>_
 ---
 #### [A word on Angular route resolvers – and a praise for Reactive Programming](https://angular.schule/blog/2019-07-resolvers)
 _<sup>https://angular.schule/blog/2019-07-resolvers</sup>_

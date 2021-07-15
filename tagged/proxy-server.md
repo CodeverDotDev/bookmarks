@@ -1,6 +1,6 @@
-## Bookmarks tagged [[proxy-server]](https://www.bookmarks.dev/search?q=[proxy-server])
+## Bookmarks tagged [[proxy-server]](https://www.codever.land/search?q=[proxy-server])
 
-_<sup><sup>[www.bookmarks.dev/tagged/proxy-server](https://www.bookmarks.dev/tagged/proxy-server)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/proxy-server](www.codever.land/bookmarks/t/proxy-server)</sup></sup>_
 ---
 #### [What is a Reverse Proxy Server?](https://www.nginx.com/resources/glossary/reverse-proxy-server/)
 _<sup>https://www.nginx.com/resources/glossary/reverse-proxy-server/</sup>_

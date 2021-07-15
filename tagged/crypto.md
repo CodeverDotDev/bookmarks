@@ -1,6 +1,6 @@
-## Bookmarks tagged [[crypto]](https://www.bookmarks.dev/search?q=[crypto])
+## Bookmarks tagged [[crypto]](https://www.codever.land/search?q=[crypto])
 
-_<sup><sup>[www.bookmarks.dev/tagged/crypto](https://www.bookmarks.dev/tagged/crypto)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/crypto](www.codever.land/bookmarks/t/crypto)</sup></sup>_
 ---
 #### [Blockchain Lite](https://github.com/openblockchains/blockchain.lite.rb)
 _<sup>https://github.com/openblockchains/blockchain.lite.rb</sup>_

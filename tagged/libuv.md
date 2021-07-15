@@ -1,6 +1,6 @@
-## Bookmarks tagged [[libuv]](https://www.bookmarks.dev/search?q=[libuv])
+## Bookmarks tagged [[libuv]](https://www.codever.land/search?q=[libuv])
 
-_<sup><sup>[www.bookmarks.dev/tagged/libuv](https://www.bookmarks.dev/tagged/libuv)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/libuv](www.codever.land/bookmarks/t/libuv)</sup></sup>_
 ---
 #### [libuv home page](https://libuv.org/)
 _<sup>https://libuv.org/</sup>_

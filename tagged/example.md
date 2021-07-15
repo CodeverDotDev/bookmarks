@@ -1,6 +1,25 @@
-## Bookmarks tagged [[example]](https://www.bookmarks.dev/search?q=[example])
+## Bookmarks tagged [[example]](https://www.codever.land/search?q=[example])
 
-_<sup><sup>[www.bookmarks.dev/tagged/example](https://www.bookmarks.dev/tagged/example)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/example](www.codever.land/bookmarks/t/example)</sup></sup>_
+---
+#### [Cron examples](https://crontab.guru/examples.html)
+_<sup>https://crontab.guru/examples.html</sup>_
+
+- every minute - `* * * * *`
+- every 6 minutes - `*/6 * * * *`
+- every hour (at minute 0) - `0 * * * *`
+- every 8th hour - `0 */8 * * *`
+- every midnight "at 00:00" - `0 0 * * *`
+
+* **tags**: [crontab](../tagged/crontab.md), [cronjob](../tagged/cronjob.md), [example](../tagged/example.md), [cron](../tagged/cron.md)
+---
+#### [Add Items with Javascript DOM ](https://codepen.io/bradtraversy/pen/Bwapow)
+_<sup>https://codepen.io/bradtraversy/pen/Bwapow</sup>_
+
+Learn how to add items to a list dynamically based on user input with JavaScript and the DOM.
+* :calendar: **published on**: 2021-04-17
+* **tags**: [javascript](../tagged/javascript.md), [dom](../tagged/dom.md), [example](../tagged/example.md), [how-to](../tagged/how-to.md)
+* :octocat: **[source code](https://codepen.io/bradtraversy/pen/Bwapow)**
 ---
 #### [Sample Extensions - Google Chrome](https://developer.chrome.com/extensions/samples)
 _<sup>https://developer.chrome.com/extensions/samples</sup>_

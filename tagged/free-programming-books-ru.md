@@ -1,6 +1,6 @@
-## Bookmarks tagged [[free-programming-books-ru]](https://www.bookmarks.dev/search?q=[free-programming-books-ru])
+## Bookmarks tagged [[free-programming-books-ru]](https://www.codever.land/search?q=[free-programming-books-ru])
 
-_<sup><sup>[www.bookmarks.dev/tagged/free-programming-books-ru](https://www.bookmarks.dev/tagged/free-programming-books-ru)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/free-programming-books-ru](www.codever.land/bookmarks/t/free-programming-books-ru)</sup></sup>_
 ---
 #### [Параллельные технологии](http://www.inp.nsk.su/~baldin/Parallel/index.html)
 _<sup>http://www.inp.nsk.su/~baldin/Parallel/index.html</sup>_

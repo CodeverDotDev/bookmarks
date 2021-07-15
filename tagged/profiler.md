@@ -1,6 +1,6 @@
-## Bookmarks tagged [[profiler]](https://www.bookmarks.dev/search?q=[profiler])
+## Bookmarks tagged [[profiler]](https://www.codever.land/search?q=[profiler])
 
-_<sup><sup>[www.bookmarks.dev/tagged/profiler](https://www.bookmarks.dev/tagged/profiler)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/profiler](www.codever.land/bookmarks/t/profiler)</sup></sup>_
 ---
 #### [idealo/mongodb-slow-operations-profiler](https://github.com/idealo/mongodb-slow-operations-profiler)
 _<sup>https://github.com/idealo/mongodb-slow-operations-profiler</sup>_

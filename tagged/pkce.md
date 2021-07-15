@@ -1,6 +1,6 @@
-## Bookmarks tagged [[pkce]](https://www.bookmarks.dev/search?q=[pkce])
+## Bookmarks tagged [[pkce]](https://www.codever.land/search?q=[pkce])
 
-_<sup><sup>[www.bookmarks.dev/tagged/pkce](https://www.bookmarks.dev/tagged/pkce)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/pkce](www.codever.land/bookmarks/t/pkce)</sup></sup>_
 ---
 #### [Implement the OAuth 2.0 Authorization Code with PKCE Flow](https://developer.okta.com/blog/2019/08/22/okta-authjs-pkce)
 _<sup>https://developer.okta.com/blog/2019/08/22/okta-authjs-pkce</sup>_

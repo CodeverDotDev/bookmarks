@@ -1,6 +1,6 @@
-## Bookmarks tagged [[marionette.js]](https://www.bookmarks.dev/search?q=[marionette.js])
+## Bookmarks tagged [[marionette.js]](https://www.codever.land/search?q=[marionette.js])
 
-_<sup><sup>[www.bookmarks.dev/tagged/marionette.js](https://www.bookmarks.dev/tagged/marionette.js)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/marionette.js](www.codever.land/bookmarks/t/marionette.js)</sup></sup>_
 ---
 #### [awesome-marionette](https://github.com/sadcitizen/awesome-marionette#readme)
 _<sup>https://github.com/sadcitizen/awesome-marionette#readme</sup>_

@@ -1,6 +1,6 @@
-## Bookmarks tagged [[memory-management]](https://www.bookmarks.dev/search?q=[memory-management])
+## Bookmarks tagged [[memory-management]](https://www.codever.land/search?q=[memory-management])
 
-_<sup><sup>[www.bookmarks.dev/tagged/memory-management](https://www.bookmarks.dev/tagged/memory-management)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/memory-management](www.codever.land/bookmarks/t/memory-management)</sup></sup>_
 ---
 #### [5 Commands for Checking Memory Usage in Linux](https://www.linux.com/learn/5-commands-checking-memory-usage-linux)
 _<sup>https://www.linux.com/learn/5-commands-checking-memory-usage-linux</sup>_

@@ -1,6 +1,6 @@
-## Bookmarks tagged [[ssl-certificate]](https://www.bookmarks.dev/search?q=[ssl-certificate])
+## Bookmarks tagged [[ssl-certificate]](https://www.codever.land/search?q=[ssl-certificate])
 
-_<sup><sup>[www.bookmarks.dev/tagged/ssl-certificate](https://www.bookmarks.dev/tagged/ssl-certificate)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/ssl-certificate](www.codever.land/bookmarks/t/ssl-certificate)</sup></sup>_
 ---
 #### [What Is an X.509 Certificate? - SSL.com](https://www.ssl.com/faqs/what-is-an-x-509-certificate/)
 _<sup>https://www.ssl.com/faqs/what-is-an-x-509-certificate/</sup>_

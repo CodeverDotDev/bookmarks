@@ -1,6 +1,6 @@
-## Bookmarks tagged [[web-push]](https://www.bookmarks.dev/search?q=[web-push])
+## Bookmarks tagged [[web-push]](https://www.codever.land/search?q=[web-push])
 
-_<sup><sup>[www.bookmarks.dev/tagged/web-push](https://www.bookmarks.dev/tagged/web-push)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/web-push](www.codever.land/bookmarks/t/web-push)</sup></sup>_
 ---
 #### [GitHub - web-push-libs/web-push: Web Push library for Node.js](https://github.com/web-push-libs/web-push)
 _<sup>https://github.com/web-push-libs/web-push</sup>_

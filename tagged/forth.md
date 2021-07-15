@@ -1,6 +1,6 @@
-## Bookmarks tagged [[forth]](https://www.bookmarks.dev/search?q=[forth])
+## Bookmarks tagged [[forth]](https://www.codever.land/search?q=[forth])
 
-_<sup><sup>[www.bookmarks.dev/tagged/forth](https://www.bookmarks.dev/tagged/forth)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/forth](www.codever.land/bookmarks/t/forth)</sup></sup>_
 ---
 #### [Thoughtful Programming and Forth](http://www.ultratechnology.com/forth.htm)
 _<sup>http://www.ultratechnology.com/forth.htm</sup>_

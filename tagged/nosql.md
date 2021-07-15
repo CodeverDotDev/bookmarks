@@ -1,6 +1,13 @@
-## Bookmarks tagged [[nosql]](https://www.bookmarks.dev/search?q=[nosql])
+## Bookmarks tagged [[nosql]](https://www.codever.land/search?q=[nosql])
 
-_<sup><sup>[www.bookmarks.dev/tagged/nosql](https://www.bookmarks.dev/tagged/nosql)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/nosql](www.codever.land/bookmarks/t/nosql)</sup></sup>_
+---
+#### [SQL vs NoSQL or MySQL vs MongoDB - 21min](https://www.youtube.com/watch?v=ZS_kXvOeQ5Y)
+_<sup>https://www.youtube.com/watch?v=ZS_kXvOeQ5Y</sup>_
+
+SQL or NoSQL? MySQL vs MongoDB? Which database is better? Which one should you use?
+* :calendar: **published on**: 2018-07-25
+* **tags**: [sql](../tagged/sql.md), [nosql](../tagged/nosql.md), [mongodb](../tagged/mongodb.md), [mysql](../tagged/mysql.md)
 ---
 #### [Rincon](https://github.com/innoave/rincon)
 _<sup>https://github.com/innoave/rincon</sup>_

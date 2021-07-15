@@ -1,6 +1,6 @@
-## Bookmarks tagged [[rspec]](https://www.bookmarks.dev/search?q=[rspec])
+## Bookmarks tagged [[rspec]](https://www.codever.land/search?q=[rspec])
 
-_<sup><sup>[www.bookmarks.dev/tagged/rspec](https://www.bookmarks.dev/tagged/rspec)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/rspec](www.codever.land/bookmarks/t/rspec)</sup></sup>_
 ---
 #### [Better Specs (RSpec Guidelines with Ruby)](http://betterspecs.org/ru)
 _<sup>http://betterspecs.org/ru</sup>_

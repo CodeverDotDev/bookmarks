@@ -1,6 +1,6 @@
-## Bookmarks tagged [[strongloop]](https://www.bookmarks.dev/search?q=[strongloop])
+## Bookmarks tagged [[strongloop]](https://www.codever.land/search?q=[strongloop])
 
-_<sup><sup>[www.bookmarks.dev/tagged/strongloop](https://www.bookmarks.dev/tagged/strongloop)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/strongloop](www.codever.land/bookmarks/t/strongloop)</sup></sup>_
 ---
 #### [StrongLoop Process Manager](http://strong-pm.io/compare/)
 _<sup>http://strong-pm.io/compare/</sup>_

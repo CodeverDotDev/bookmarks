@@ -1,6 +1,12 @@
-## Bookmarks tagged [[faq]](https://www.bookmarks.dev/search?q=[faq])
+## Bookmarks tagged [[faq]](https://www.codever.land/search?q=[faq])
 
-_<sup><sup>[www.bookmarks.dev/tagged/faq](https://www.bookmarks.dev/tagged/faq)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/faq](www.codever.land/bookmarks/t/faq)</sup></sup>_
+---
+#### [Frequently Asked Questions about the GNU Licenses
+- GNU Project - Free Software Foundation](https://www.gnu.org/licenses/gpl-faq.html)
+_<sup>https://www.gnu.org/licenses/gpl-faq.html</sup>_
+
+* **tags**: [gnu](../tagged/gnu.md), [gpl](../tagged/gpl.md), [faq](../tagged/faq.md)
 ---
 #### [Git FAQ - Git SCM Wiki](https://git.wiki.kernel.org/index.php/GitFaq)
 _<sup>https://git.wiki.kernel.org/index.php/GitFaq</sup>_

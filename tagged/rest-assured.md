@@ -1,6 +1,6 @@
-## Bookmarks tagged [[rest-assured]](https://www.bookmarks.dev/search?q=[rest-assured])
+## Bookmarks tagged [[rest-assured]](https://www.codever.land/search?q=[rest-assured])
 
-_<sup><sup>[www.bookmarks.dev/tagged/rest-assured](https://www.bookmarks.dev/tagged/rest-assured)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/rest-assured](www.codever.land/bookmarks/t/rest-assured)</sup></sup>_
 ---
 #### [Is your REST assured? - blog.](https://blog.jayway.com/2011/06/04/is-your-rest-assured/)
 _<sup>https://blog.jayway.com/2011/06/04/is-your-rest-assured/</sup>_

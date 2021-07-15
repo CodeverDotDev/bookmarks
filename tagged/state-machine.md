@@ -1,6 +1,6 @@
-## Bookmarks tagged [[state-machine]](https://www.bookmarks.dev/search?q=[state-machine])
+## Bookmarks tagged [[state-machine]](https://www.codever.land/search?q=[state-machine])
 
-_<sup><sup>[www.bookmarks.dev/tagged/state-machine](https://www.bookmarks.dev/tagged/state-machine)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/state-machine](www.codever.land/bookmarks/t/state-machine)</sup></sup>_
 ---
 #### [AASM](https://github.com/aasm/aasm)
 _<sup>https://github.com/aasm/aasm</sup>_

@@ -1,6 +1,6 @@
-## Bookmarks tagged [[augmented-reality]](https://www.bookmarks.dev/search?q=[augmented-reality])
+## Bookmarks tagged [[augmented-reality]](https://www.codever.land/search?q=[augmented-reality])
 
-_<sup><sup>[www.bookmarks.dev/tagged/augmented-reality](https://www.bookmarks.dev/tagged/augmented-reality)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/augmented-reality](www.codever.land/bookmarks/t/augmented-reality)</sup></sup>_
 ---
 #### [React 360](https://facebook.github.io/react-360/)
 _<sup>https://facebook.github.io/react-360/</sup>_

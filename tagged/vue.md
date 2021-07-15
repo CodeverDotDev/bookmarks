@@ -1,6 +1,6 @@
-## Bookmarks tagged [[vue]](https://www.bookmarks.dev/search?q=[vue])
+## Bookmarks tagged [[vue]](https://www.codever.land/search?q=[vue])
 
-_<sup><sup>[www.bookmarks.dev/tagged/vue](https://www.bookmarks.dev/tagged/vue)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/vue](www.codever.land/bookmarks/t/vue)</sup></sup>_
 ---
 #### [AwesomeTechStack](https://awesometechstack.com)
 _<sup>https://awesometechstack.com</sup>_

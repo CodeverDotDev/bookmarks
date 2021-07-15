@@ -1,6 +1,6 @@
-## Bookmarks tagged [[loading-status]](https://www.bookmarks.dev/search?q=[loading-status])
+## Bookmarks tagged [[loading-status]](https://www.codever.land/search?q=[loading-status])
 
-_<sup><sup>[www.bookmarks.dev/tagged/loading-status](https://www.bookmarks.dev/tagged/loading-status)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/loading-status](www.codever.land/bookmarks/t/loading-status)</sup></sup>_
 ---
 #### [Adding Suspense to Angular! 🕵️‍♂️ - Netanel Basal](https://netbasal.com/adding-suspense-to-angular-%EF%B8%8F-%EF%B8%8F-1f34fd603584)
 _<sup>https://netbasal.com/adding-suspense-to-angular-%EF%B8%8F-%EF%B8%8F-1f34fd603584</sup>_

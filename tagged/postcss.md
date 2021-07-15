@@ -1,6 +1,6 @@
-## Bookmarks tagged [[postcss]](https://www.bookmarks.dev/search?q=[postcss])
+## Bookmarks tagged [[postcss]](https://www.codever.land/search?q=[postcss])
 
-_<sup><sup>[www.bookmarks.dev/tagged/postcss](https://www.bookmarks.dev/tagged/postcss)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/postcss](www.codever.land/bookmarks/t/postcss)</sup></sup>_
 ---
 #### [awesome-postcss](https://github.com/jdrgomes/awesome-postcss#readme)
 _<sup>https://github.com/jdrgomes/awesome-postcss#readme</sup>_

@@ -1,6 +1,6 @@
-## Bookmarks tagged [[data-engineering]](https://www.bookmarks.dev/search?q=[data-engineering])
+## Bookmarks tagged [[data-engineering]](https://www.codever.land/search?q=[data-engineering])
 
-_<sup><sup>[www.bookmarks.dev/tagged/data-engineering](https://www.bookmarks.dev/tagged/data-engineering)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/data-engineering](www.codever.land/bookmarks/t/data-engineering)</sup></sup>_
 ---
 #### [awesome-data-engineering](https://github.com/igorbarinov/awesome-data-engineering#readme)
 _<sup>https://github.com/igorbarinov/awesome-data-engineering#readme</sup>_

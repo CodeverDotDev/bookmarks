@@ -1,6 +1,6 @@
-## Bookmarks tagged [[asymptote]](https://www.bookmarks.dev/search?q=[asymptote])
+## Bookmarks tagged [[asymptote]](https://www.codever.land/search?q=[asymptote])
 
-_<sup><sup>[www.bookmarks.dev/tagged/asymptote](https://www.bookmarks.dev/tagged/asymptote)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/asymptote](www.codever.land/bookmarks/t/asymptote)</sup></sup>_
 ---
 #### [Asymptote. Démarrage rapide](http://cgmaths.fr/cgFiles/Dem_Rapide.pdf)
 _<sup>http://cgmaths.fr/cgFiles/Dem_Rapide.pdf</sup>_

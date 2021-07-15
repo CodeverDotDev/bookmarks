@@ -1,6 +1,6 @@
-## Bookmarks tagged [[freelancer]](https://www.bookmarks.dev/search?q=[freelancer])
+## Bookmarks tagged [[freelancer]](https://www.codever.land/search?q=[freelancer])
 
-_<sup><sup>[www.bookmarks.dev/tagged/freelancer](https://www.bookmarks.dev/tagged/freelancer)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/freelancer](www.codever.land/bookmarks/t/freelancer)</sup></sup>_
 ---
 #### [Nlance™- The Best-In-Class Freelance Software To Start Your Own Freelance Platform](https://www.ncrypted.net/nlance)
 _<sup>https://www.ncrypted.net/nlance</sup>_

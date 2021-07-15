@@ -1,6 +1,6 @@
-## Bookmarks tagged [[dweb]](https://www.bookmarks.dev/search?q=[dweb])
+## Bookmarks tagged [[dweb]](https://www.codever.land/search?q=[dweb])
 
-_<sup><sup>[www.bookmarks.dev/tagged/dweb](https://www.bookmarks.dev/tagged/dweb)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/dweb](www.codever.land/bookmarks/t/dweb)</sup></sup>_
 ---
 #### [The Complete Beginner's Guide to Deploying Your First Static Website to IPFS](https://interplanetarygatsby.com/ipfs-deploy/)
 _<sup>https://interplanetarygatsby.com/ipfs-deploy/</sup>_

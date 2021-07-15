@@ -1,6 +1,6 @@
-## Bookmarks tagged [[construct-2]](https://www.bookmarks.dev/search?q=[construct-2])
+## Bookmarks tagged [[construct-2]](https://www.codever.land/search?q=[construct-2])
 
-_<sup><sup>[www.bookmarks.dev/tagged/construct-2](https://www.bookmarks.dev/tagged/construct-2)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/construct-2](www.codever.land/bookmarks/t/construct-2)</sup></sup>_
 ---
 #### [awesome-construct](https://github.com/WebCreationClub/awesome-construct#readme)
 _<sup>https://github.com/WebCreationClub/awesome-construct#readme</sup>_

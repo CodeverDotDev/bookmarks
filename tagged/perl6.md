@@ -1,6 +1,6 @@
-## Bookmarks tagged [[perl6]](https://www.bookmarks.dev/search?q=[perl6])
+## Bookmarks tagged [[perl6]](https://www.codever.land/search?q=[perl6])
 
-_<sup><sup>[www.bookmarks.dev/tagged/perl6](https://www.bookmarks.dev/tagged/perl6)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/perl6](www.codever.land/bookmarks/t/perl6)</sup></sup>_
 ---
 #### [Using Perl 6](https://github.com/perl6/book/)
 _<sup>https://github.com/perl6/book/</sup>_

@@ -1,6 +1,6 @@
-## Bookmarks tagged [[competitive-programming]](https://www.bookmarks.dev/search?q=[competitive-programming])
+## Bookmarks tagged [[competitive-programming]](https://www.codever.land/search?q=[competitive-programming])
 
-_<sup><sup>[www.bookmarks.dev/tagged/competitive-programming](https://www.bookmarks.dev/tagged/competitive-programming)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/competitive-programming](www.codever.land/bookmarks/t/competitive-programming)</sup></sup>_
 ---
 #### [awesome-competitive-programming](https://github.com/lnishan/awesome-competitive-programming#readme)
 _<sup>https://github.com/lnishan/awesome-competitive-programming#readme</sup>_

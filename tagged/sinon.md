@@ -1,6 +1,6 @@
-## Bookmarks tagged [[sinon]](https://www.bookmarks.dev/search?q=[sinon])
+## Bookmarks tagged [[sinon]](https://www.codever.land/search?q=[sinon])
 
-_<sup><sup>[www.bookmarks.dev/tagged/sinon](https://www.bookmarks.dev/tagged/sinon)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/sinon](www.codever.land/bookmarks/t/sinon)</sup></sup>_
 ---
 #### [Sinon.JS Assertions for Chai - Chai](http://chaijs.com/plugins/sinon-chai/)
 _<sup>http://chaijs.com/plugins/sinon-chai/</sup>_

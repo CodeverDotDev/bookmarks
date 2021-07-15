@@ -1,6 +1,6 @@
-## Bookmarks tagged [[linter]](https://www.bookmarks.dev/search?q=[linter])
+## Bookmarks tagged [[linter]](https://www.codever.land/search?q=[linter])
 
-_<sup><sup>[www.bookmarks.dev/tagged/linter](https://www.bookmarks.dev/tagged/linter)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/linter](www.codever.land/bookmarks/t/linter)</sup></sup>_
 ---
 #### [GitHub - standard/standard](https://github.com/standard/standard)
 _<sup>https://github.com/standard/standard</sup>_

@@ -1,6 +1,6 @@
-## Bookmarks tagged [[nexus]](https://www.bookmarks.dev/search?q=[nexus])
+## Bookmarks tagged [[nexus]](https://www.codever.land/search?q=[nexus])
 
-_<sup><sup>[www.bookmarks.dev/tagged/nexus](https://www.bookmarks.dev/tagged/nexus)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/nexus](www.codever.land/bookmarks/t/nexus)</sup></sup>_
 ---
 #### [Fix https repository blocking by PKIX path building failed – Sonatype Support](https://support.sonatype.com/hc/en-us/articles/213465038-Fix-https-repository-blocking-by-PKIX-path-building-failed)
 _<sup>https://support.sonatype.com/hc/en-us/articles/213465038-Fix-https-repository-blocking-by-PKIX-path-...</sup>_

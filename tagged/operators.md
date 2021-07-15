@@ -1,6 +1,6 @@
-## Bookmarks tagged [[operators]](https://www.bookmarks.dev/search?q=[operators])
+## Bookmarks tagged [[operators]](https://www.codever.land/search?q=[operators])
 
-_<sup><sup>[www.bookmarks.dev/tagged/operators](https://www.bookmarks.dev/tagged/operators)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/operators](www.codever.land/bookmarks/t/operators)</sup></sup>_
 ---
 #### [Cert manager](https://github.com/kelseyhightower/kube-cert-manager)
 _<sup>https://github.com/kelseyhightower/kube-cert-manager</sup>_

@@ -1,6 +1,6 @@
-## Bookmarks tagged [[data-validation]](https://www.bookmarks.dev/search?q=[data-validation])
+## Bookmarks tagged [[data-validation]](https://www.codever.land/search?q=[data-validation])
 
-_<sup><sup>[www.bookmarks.dev/tagged/data-validation](https://www.bookmarks.dev/tagged/data-validation)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/data-validation](www.codever.land/bookmarks/t/data-validation)</sup></sup>_
 ---
 #### [Cerberus](https://github.com/pyeve/cerberus)
 _<sup>https://github.com/pyeve/cerberus</sup>_

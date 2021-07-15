@@ -1,6 +1,6 @@
-## Bookmarks tagged [[inheritance]](https://www.bookmarks.dev/search?q=[inheritance])
+## Bookmarks tagged [[inheritance]](https://www.codever.land/search?q=[inheritance])
 
-_<sup><sup>[www.bookmarks.dev/tagged/inheritance](https://www.bookmarks.dev/tagged/inheritance)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/inheritance](www.codever.land/bookmarks/t/inheritance)</sup></sup>_
 ---
 #### [PART 1 — The Case For Component Inheritance In Angular | by Sani Yusuf | Medium](https://medium.com/@saniyusuf/part-1-the-case-for-component-inheritance-in-angular-a34fe2a0f7ac)
 _<sup>https://medium.com/@saniyusuf/part-1-the-case-for-component-inheritance-in-angular-a34fe2a0f7ac</sup>_

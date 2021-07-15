@@ -1,6 +1,6 @@
-## Bookmarks tagged [[twirp]](https://www.bookmarks.dev/search?q=[twirp])
+## Bookmarks tagged [[twirp]](https://www.codever.land/search?q=[twirp])
 
-_<sup><sup>[www.bookmarks.dev/tagged/twirp](https://www.bookmarks.dev/tagged/twirp)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/twirp](www.codever.land/bookmarks/t/twirp)</sup></sup>_
 ---
 #### [Meet Twirp! · Twirp](https://twitchtv.github.io/twirp/docs/intro.html)
 _<sup>https://twitchtv.github.io/twirp/docs/intro.html</sup>_

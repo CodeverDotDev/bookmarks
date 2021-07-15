@@ -1,6 +1,6 @@
-## Bookmarks tagged [[hyperapp]](https://www.bookmarks.dev/search?q=[hyperapp])
+## Bookmarks tagged [[hyperapp]](https://www.codever.land/search?q=[hyperapp])
 
-_<sup><sup>[www.bookmarks.dev/tagged/hyperapp](https://www.bookmarks.dev/tagged/hyperapp)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/hyperapp](www.codever.land/bookmarks/t/hyperapp)</sup></sup>_
 ---
 #### [awesome-hyperapp](https://github.com/hyperapp/awesome-hyperapp#readme)
 _<sup>https://github.com/hyperapp/awesome-hyperapp#readme</sup>_

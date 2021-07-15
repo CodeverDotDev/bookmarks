@@ -1,6 +1,6 @@
-## Bookmarks tagged [[package-managers]](https://www.bookmarks.dev/search?q=[package-managers])
+## Bookmarks tagged [[package-managers]](https://www.codever.land/search?q=[package-managers])
 
-_<sup><sup>[www.bookmarks.dev/tagged/package-managers](https://www.bookmarks.dev/tagged/package-managers)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/package-managers](www.codever.land/bookmarks/t/package-managers)</sup></sup>_
 ---
 #### [CNAB](https://cnab.io)
 _<sup>https://cnab.io</sup>_

@@ -1,6 +1,6 @@
-## Bookmarks tagged [[google-chrome-extension]](https://www.bookmarks.dev/search?q=[google-chrome-extension])
+## Bookmarks tagged [[google-chrome-extension]](https://www.codever.land/search?q=[google-chrome-extension])
 
-_<sup><sup>[www.bookmarks.dev/tagged/google-chrome-extension](https://www.bookmarks.dev/tagged/google-chrome-extension)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/google-chrome-extension](www.codever.land/bookmarks/t/google-chrome-extension)</sup></sup>_
 ---
 #### [Message Passing - Google Chrome](https://developer.chrome.com/extensions/messaging)
 _<sup>https://developer.chrome.com/extensions/messaging</sup>_

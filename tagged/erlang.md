@@ -1,6 +1,6 @@
-## Bookmarks tagged [[erlang]](https://www.bookmarks.dev/search?q=[erlang])
+## Bookmarks tagged [[erlang]](https://www.codever.land/search?q=[erlang])
 
-_<sup><sup>[www.bookmarks.dev/tagged/erlang](https://www.bookmarks.dev/tagged/erlang)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/erlang](www.codever.land/bookmarks/t/erlang)</sup></sup>_
 ---
 #### [rusterlium/rustler](https://github.com/rusterlium/rustler)
 _<sup>https://github.com/rusterlium/rustler</sup>_

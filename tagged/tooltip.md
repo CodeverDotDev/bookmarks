@@ -1,6 +1,6 @@
-## Bookmarks tagged [[tooltip]](https://www.bookmarks.dev/search?q=[tooltip])
+## Bookmarks tagged [[tooltip]](https://www.codever.land/search?q=[tooltip])
 
-_<sup><sup>[www.bookmarks.dev/tagged/tooltip](https://www.bookmarks.dev/tagged/tooltip)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/tooltip](www.codever.land/bookmarks/t/tooltip)</sup></sup>_
 ---
 #### [tipsy](https://github.com/jaz303/tipsy)
 _<sup>https://github.com/jaz303/tipsy</sup>_

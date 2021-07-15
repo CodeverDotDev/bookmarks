@@ -1,6 +1,17 @@
-## Bookmarks tagged [[news]](https://www.bookmarks.dev/search?q=[news])
+## Bookmarks tagged [[news]](https://www.codever.land/search?q=[news])
 
-_<sup><sup>[www.bookmarks.dev/tagged/news](https://www.bookmarks.dev/tagged/news)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/news](www.codever.land/bookmarks/t/news)</sup></sup>_
+---
+#### [Torque Magazine - the latest WordPress news and developments](https://torquemag.io/)
+_<sup>https://torquemag.io/</sup>_
+
+Get the latest news, tips, and advice for WP. Get The Newsletter. In Business Since 2013. Highlights: Newsletter Available, E-Book Available.
+* **tags**: [wordpress](../tagged/wordpress.md), [news](../tagged/news.md)
+---
+#### [WordPress Tavern – WordPress News — Free as in Beer.](https://wptavern.com/)
+_<sup>https://wptavern.com/</sup>_
+
+* **tags**: [wordpress](../tagged/wordpress.md), [news](../tagged/news.md)
 ---
 #### [Publickey － Enterprise IT × Cloud Computing × Web Technology / Blog](https://www.publickey1.jp/)
 _<sup>https://www.publickey1.jp/</sup>_

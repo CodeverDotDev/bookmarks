@@ -1,6 +1,6 @@
-## Bookmarks tagged [[progressive-web-apps]](https://www.bookmarks.dev/search?q=[progressive-web-apps])
+## Bookmarks tagged [[progressive-web-apps]](https://www.codever.land/search?q=[progressive-web-apps])
 
-_<sup><sup>[www.bookmarks.dev/tagged/progressive-web-apps](https://www.bookmarks.dev/tagged/progressive-web-apps)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/progressive-web-apps](www.codever.land/bookmarks/t/progressive-web-apps)</sup></sup>_
 ---
 #### [awesome-progressive-web-apps](https://github.com/TalAter/awesome-progressive-web-apps#readme)
 _<sup>https://github.com/TalAter/awesome-progressive-web-apps#readme</sup>_

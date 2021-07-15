@@ -1,6 +1,6 @@
-## Bookmarks tagged [[netscaler]](https://www.bookmarks.dev/search?q=[netscaler])
+## Bookmarks tagged [[netscaler]](https://www.codever.land/search?q=[netscaler])
 
-_<sup><sup>[www.bookmarks.dev/tagged/netscaler](https://www.bookmarks.dev/tagged/netscaler)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/netscaler](www.codever.land/bookmarks/t/netscaler)</sup></sup>_
 ---
 #### [JSON CMP POLICY not working global level - NetScaler VPX - Discussions](https://discussions.citrix.com/topic/387724-json-cmp-policy-not-working-global-level/)
 _<sup>https://discussions.citrix.com/topic/387724-json-cmp-policy-not-working-global-level/</sup>_

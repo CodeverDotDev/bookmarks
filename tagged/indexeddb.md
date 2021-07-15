@@ -1,6 +1,12 @@
-## Bookmarks tagged [[indexeddb]](https://www.bookmarks.dev/search?q=[indexeddb])
+## Bookmarks tagged [[indexeddb]](https://www.codever.land/search?q=[indexeddb])
 
-_<sup><sup>[www.bookmarks.dev/tagged/indexeddb](https://www.bookmarks.dev/tagged/indexeddb)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/indexeddb](www.codever.land/bookmarks/t/indexeddb)</sup></sup>_
+---
+#### [Client-side storage - Learn web development | MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Client-side_storage)
+_<sup>https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Client-side_storage</sup>_
+
+Modern web browsers support a number of ways for web sites to store data on the user's computer — with the user's permission — then retrieve it when necessary. This lets you persist data for long-term...
+* **tags**: [local-storage](../tagged/local-storage.md), [client](../tagged/client.md), [browser](../tagged/browser.md), [caching](../tagged/caching.md), [cacheapi](../tagged/cacheapi.md), [indexeddb](../tagged/indexeddb.md)
 ---
 #### [Working with quota on mobile browsers](https://www.html5rocks.com/en/tutorials/offline/quota-research/)
 _<sup>https://www.html5rocks.com/en/tutorials/offline/quota-research/</sup>_

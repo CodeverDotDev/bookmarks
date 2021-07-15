@@ -1,6 +1,6 @@
-## Bookmarks tagged [[magento]](https://www.bookmarks.dev/search?q=[magento])
+## Bookmarks tagged [[magento]](https://www.codever.land/search?q=[magento])
 
-_<sup><sup>[www.bookmarks.dev/tagged/magento](https://www.bookmarks.dev/tagged/magento)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/magento](www.codever.land/bookmarks/t/magento)</sup></sup>_
 ---
 #### [awesome-magento2](https://github.com/DavidLambauer/awesome-magento2#readme)
 _<sup>https://github.com/DavidLambauer/awesome-magento2#readme</sup>_

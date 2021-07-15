@@ -1,6 +1,6 @@
-## Bookmarks tagged [[free-programming-books-it]](https://www.bookmarks.dev/search?q=[free-programming-books-it])
+## Bookmarks tagged [[free-programming-books-it]](https://www.codever.land/search?q=[free-programming-books-it])
 
-_<sup><sup>[www.bookmarks.dev/tagged/free-programming-books-it](https://www.bookmarks.dev/tagged/free-programming-books-it)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/free-programming-books-it](www.codever.land/bookmarks/t/free-programming-books-it)</sup></sup>_
 ---
 #### [Corso Visual Basic](http://www.webalice.it/kindofapple/corsovb.pdf)
 _<sup>http://www.webalice.it/kindofapple/corsovb.pdf</sup>_

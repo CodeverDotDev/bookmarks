@@ -1,6 +1,27 @@
-## Bookmarks tagged [[book]](https://www.bookmarks.dev/search?q=[book])
+## Bookmarks tagged [[book]](https://www.codever.land/search?q=[book])
 
-_<sup><sup>[www.bookmarks.dev/tagged/book](https://www.bookmarks.dev/tagged/book)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/book](www.codever.land/bookmarks/t/book)</sup></sup>_
+---
+#### [Introduction - TypeScript Deep Dive](https://basarat.gitbook.io/typescript/)
+_<sup>https://basarat.gitbook.io/typescript/</sup>_
+
+* **tags**: [typescript](../tagged/typescript.md), [book](../tagged/book.md), [documentation](../tagged/documentation.md)
+---
+#### [Javascript Modules](https://exploringjs.com/es6/ch_modules.html)
+_<sup>https://exploringjs.com/es6/ch_modules.html</sup>_
+
+Good detailed overview of Javascript Modules
+* **tags**: [javascript](../tagged/javascript.md), [book](../tagged/book.md), [ecmascript-6](../tagged/ecmascript-6.md)
+---
+#### [Clean Coder Book Recommendations](http://www.cleancoder.com/books)
+_<sup>http://www.cleancoder.com/books</sup>_
+
+* **tags**: [book](../tagged/book.md), [recommendations](../tagged/recommendations.md), [uncle-bob](../tagged/uncle-bob.md)
+---
+#### [Learn Code the Hard Way](https://learncodethehardway.org/)
+_<sup>https://learncodethehardway.org/</sup>_
+
+* **tags**: [programming](../tagged/programming.md), [how-to](../tagged/how-to.md), [course](../tagged/course.md), [book](../tagged/book.md)
 ---
 #### [Node.js in Action](https://www.manning.com/books/node-js-in-action-second-edition)
 _<sup>https://www.manning.com/books/node-js-in-action-second-edition</sup>_

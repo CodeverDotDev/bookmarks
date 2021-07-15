@@ -1,6 +1,6 @@
-## Bookmarks tagged [[talk]](https://www.bookmarks.dev/search?q=[talk])
+## Bookmarks tagged [[talk]](https://www.codever.land/search?q=[talk])
 
-_<sup><sup>[www.bookmarks.dev/tagged/talk](https://www.bookmarks.dev/tagged/talk)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/talk](www.codever.land/bookmarks/t/talk)</sup></sup>_
 ---
 #### [GitHub - hellerve/programming-talks](https://github.com/hellerve/programming-talks)
 _<sup>https://github.com/hellerve/programming-talks</sup>_

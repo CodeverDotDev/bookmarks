@@ -1,6 +1,13 @@
-## Bookmarks tagged [[software-quality]](https://www.bookmarks.dev/search?q=[software-quality])
+## Bookmarks tagged [[software-quality]](https://www.codever.land/search?q=[software-quality])
 
-_<sup><sup>[www.bookmarks.dev/tagged/software-quality](https://www.bookmarks.dev/tagged/software-quality)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/software-quality](www.codever.land/bookmarks/t/software-quality)</sup></sup>_
+---
+#### [Les principes SOLID – Programmation orientée objet • Dev Java ](https://dev-java.fr/principes-solid-programmation-objet/)
+_<sup>https://dev-java.fr/principes-solid-programmation-objet/</sup>_
+
+Les principes SOLID ont été conceptualisés pour la première fois par Robert C. Martin en 2000 : Design Principles and ... Lire la suite
+* :calendar: **published on**: 2021-06-26
+* **tags**: [software-architecture](../tagged/software-architecture.md), [software-development](../tagged/software-development.md), [software-quality](../tagged/software-quality.md)
 ---
 #### [高信頼化ソフトウェアのための開発手法ガイドブック](http://www.ipa.go.jp/files/000005144.pdf)
 _<sup>http://www.ipa.go.jp/files/000005144.pdf</sup>_

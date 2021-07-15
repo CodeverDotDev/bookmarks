@@ -1,6 +1,6 @@
-## Bookmarks tagged [[indie]](https://www.bookmarks.dev/search?q=[indie])
+## Bookmarks tagged [[indie]](https://www.codever.land/search?q=[indie])
 
-_<sup><sup>[www.bookmarks.dev/tagged/indie](https://www.bookmarks.dev/tagged/indie)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/indie](www.codever.land/bookmarks/t/indie)</sup></sup>_
 ---
 #### [awesome-indie](https://github.com/mezod/awesome-indie#readme)
 _<sup>https://github.com/mezod/awesome-indie#readme</sup>_

@@ -1,6 +1,6 @@
-## Bookmarks tagged [[network-programming]](https://www.bookmarks.dev/search?q=[network-programming])
+## Bookmarks tagged [[network-programming]](https://www.codever.land/search?q=[network-programming])
 
-_<sup><sup>[www.bookmarks.dev/tagged/network-programming](https://www.bookmarks.dev/tagged/network-programming)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/network-programming](www.codever.land/bookmarks/t/network-programming)</sup></sup>_
 ---
 #### [pop-os/parallel-getter](https://github.com/pop-os/parallel-getter)
 _<sup>https://github.com/pop-os/parallel-getter</sup>_

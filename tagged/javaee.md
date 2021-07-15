@@ -1,6 +1,20 @@
-## Bookmarks tagged [[javaee]](https://www.bookmarks.dev/search?q=[javaee])
+## Bookmarks tagged [[javaee]](https://www.codever.land/search?q=[javaee])
 
-_<sup><sup>[www.bookmarks.dev/tagged/javaee](https://www.bookmarks.dev/tagged/javaee)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/javaee](www.codever.land/bookmarks/t/javaee)</sup></sup>_
+---
+#### [CDI and @Startup: SOLVED! | New posts here >>> rmannibucau.metawerx.net](https://rmannibucau.wordpress.com/2015/03/10/cdi-and-startup/)
+_<sup>https://rmannibucau.wordpress.com/2015/03/10/cdi-and-startup/</sup>_
+
+Speaking on the CDI list about CDI 2.0 standalone container API Jozef Hartinger sent an answer which is quite obvious when you know it but which can change your life if you don’t: how CDI 1.1 introduc...
+* :calendar: **published on**: 2015-03-10
+* **tags**: [javaee](../tagged/javaee.md), [cdi](../tagged/cdi.md), [ejb](../tagged/ejb.md), [annotations](../tagged/annotations.md)
+---
+#### [Message Driven Beans, attributes explanation - Jboss Docs](https://docs.jboss.org/ejb3/docs/tutorial/mdb/mdb.html)
+_<sup>https://docs.jboss.org/ejb3/docs/tutorial/mdb/mdb.html</sup>_
+
+This example shows you how to implement an MDB with EJB 3.0 using annotations.
+Take a look at [ExampleMDB.java](https://docs.jboss.org/ejb3/docs/tutorial/mdb/src/org/jboss/tutorial/mdb/bean/ExampleMDB...
+* **tags**: [java](../tagged/java.md), [javaee](../tagged/javaee.md), [ejb](../tagged/ejb.md), [message-driven-bean](../tagged/message-driven-bean.md), [messaging](../tagged/messaging.md)
 ---
 #### [Validating JAX-RS resource data with Bean Validation in Java EE 7 and WildFly](https://samaxes.com/2014/04/jaxrs-beanvalidation-javaee7-wildfly/)
 _<sup>https://samaxes.com/2014/04/jaxrs-beanvalidation-javaee7-wildfly/</sup>_

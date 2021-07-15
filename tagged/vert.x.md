@@ -1,6 +1,6 @@
-## Bookmarks tagged [[vert.x]](https://www.bookmarks.dev/search?q=[vert.x])
+## Bookmarks tagged [[vert.x]](https://www.codever.land/search?q=[vert.x])
 
-_<sup><sup>[www.bookmarks.dev/tagged/vert.x](https://www.bookmarks.dev/tagged/vert.x)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/vert.x](www.codever.land/bookmarks/t/vert.x)</sup></sup>_
 ---
 #### [vertx-awesome](https://github.com/vert-x3/vertx-awesome#readme)
 _<sup>https://github.com/vert-x3/vertx-awesome#readme</sup>_

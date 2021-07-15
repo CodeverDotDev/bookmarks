@@ -1,6 +1,6 @@
-## Bookmarks tagged [[kafka]](https://www.bookmarks.dev/search?q=[kafka])
+## Bookmarks tagged [[kafka]](https://www.codever.land/search?q=[kafka])
 
-_<sup><sup>[www.bookmarks.dev/tagged/kafka](https://www.bookmarks.dev/tagged/kafka)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/kafka](www.codever.land/bookmarks/t/kafka)</sup></sup>_
 ---
 #### [Streaming Machine Learning with Tiered Storage](https://www.confluent.io/blog/streaming-machine-learning-with-tiered-storage/)
 _<sup>https://www.confluent.io/blog/streaming-machine-learning-with-tiered-storage/</sup>_

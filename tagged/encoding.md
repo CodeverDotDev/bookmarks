@@ -1,6 +1,6 @@
-## Bookmarks tagged [[encoding]](https://www.bookmarks.dev/search?q=[encoding])
+## Bookmarks tagged [[encoding]](https://www.codever.land/search?q=[encoding])
 
-_<sup><sup>[www.bookmarks.dev/tagged/encoding](https://www.bookmarks.dev/tagged/encoding)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/encoding](www.codever.land/bookmarks/t/encoding)</sup></sup>_
 ---
 #### [Base64 Decode and Encode - Online](https://www.base64decode.org/)
 _<sup>https://www.base64decode.org/</sup>_

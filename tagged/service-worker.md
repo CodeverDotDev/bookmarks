@@ -1,6 +1,6 @@
-## Bookmarks tagged [[service-worker]](https://www.bookmarks.dev/search?q=[service-worker])
+## Bookmarks tagged [[service-worker]](https://www.codever.land/search?q=[service-worker])
 
-_<sup><sup>[www.bookmarks.dev/tagged/service-worker](https://www.bookmarks.dev/tagged/service-worker)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/service-worker](www.codever.land/bookmarks/t/service-worker)</sup></sup>_
 ---
 #### [awesome-service-workers](https://github.com/TalAter/awesome-service-workers#readme)
 _<sup>https://github.com/TalAter/awesome-service-workers#readme</sup>_

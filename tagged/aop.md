@@ -1,6 +1,6 @@
-## Bookmarks tagged [[aop]](https://www.bookmarks.dev/search?q=[aop])
+## Bookmarks tagged [[aop]](https://www.codever.land/search?q=[aop])
 
-_<sup><sup>[www.bookmarks.dev/tagged/aop](https://www.bookmarks.dev/tagged/aop)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/aop](www.codever.land/bookmarks/t/aop)</sup></sup>_
 ---
 #### [AOP for JS](https://github.com/cujojs/meld)
 _<sup>https://github.com/cujojs/meld</sup>_

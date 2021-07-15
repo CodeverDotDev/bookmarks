@@ -1,6 +1,6 @@
-## Bookmarks tagged [[multi-tenant]](https://www.bookmarks.dev/search?q=[multi-tenant])
+## Bookmarks tagged [[multi-tenant]](https://www.codever.land/search?q=[multi-tenant])
 
-_<sup><sup>[www.bookmarks.dev/tagged/multi-tenant](https://www.bookmarks.dev/tagged/multi-tenant)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/multi-tenant](www.codever.land/bookmarks/t/multi-tenant)</sup></sup>_
 ---
 #### [Application-level multi-tenancy: the promise and pitfalls of shared-everything architectures](https://distrinet.cs.kuleuven.be/news/2015/multitenancy.pdf)
 _<sup>https://distrinet.cs.kuleuven.be/news/2015/multitenancy.pdf</sup>_

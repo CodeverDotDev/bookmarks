@@ -1,6 +1,13 @@
-## Bookmarks tagged [[design-patterns]](https://www.bookmarks.dev/search?q=[design-patterns])
+## Bookmarks tagged [[design-patterns]](https://www.codever.land/search?q=[design-patterns])
 
-_<sup><sup>[www.bookmarks.dev/tagged/design-patterns](https://www.bookmarks.dev/tagged/design-patterns)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/design-patterns](www.codever.land/bookmarks/t/design-patterns)</sup></sup>_
+---
+#### [sohamkamani/javascript-design-patterns-for-humans](https://github.com/sohamkamani/javascript-design-patterns-for-humans)
+_<sup>https://github.com/sohamkamani/javascript-design-patterns-for-humans</sup>_
+
+An ultra-simplified explanation of design patterns implemented in javascript
+* **tags**: [design-patterns](../tagged/design-patterns.md), [javascript](../tagged/javascript.md), [oop](../tagged/oop.md)
+* :octocat: **[source code](https://github.com/sohamkamani/javascript-design-patterns-for-humans)**
 ---
 #### [AnemicDomainModel](https://www.martinfowler.com/bliki/AnemicDomainModel.html)
 _<sup>https://www.martinfowler.com/bliki/AnemicDomainModel.html</sup>_

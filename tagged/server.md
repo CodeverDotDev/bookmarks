@@ -1,6 +1,6 @@
-## Bookmarks tagged [[server]](https://www.bookmarks.dev/search?q=[server])
+## Bookmarks tagged [[server]](https://www.codever.land/search?q=[server])
 
-_<sup><sup>[www.bookmarks.dev/tagged/server](https://www.bookmarks.dev/tagged/server)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/server](www.codever.land/bookmarks/t/server)</sup></sup>_
 ---
 #### [postgrest](https://github.com/begriffs/postgrest)
 _<sup>https://github.com/begriffs/postgrest</sup>_

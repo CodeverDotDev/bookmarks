@@ -1,6 +1,6 @@
-## Bookmarks tagged [[astronomy]](https://www.bookmarks.dev/search?q=[astronomy])
+## Bookmarks tagged [[astronomy]](https://www.codever.land/search?q=[astronomy])
 
-_<sup><sup>[www.bookmarks.dev/tagged/astronomy](https://www.bookmarks.dev/tagged/astronomy)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/astronomy](www.codever.land/bookmarks/t/astronomy)</sup></sup>_
 ---
 #### [saurvs/astro-rust](https://github.com/saurvs/astro-rust)
 _<sup>https://github.com/saurvs/astro-rust</sup>_

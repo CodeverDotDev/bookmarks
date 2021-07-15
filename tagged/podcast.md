@@ -1,6 +1,12 @@
-## Bookmarks tagged [[podcast]](https://www.bookmarks.dev/search?q=[podcast])
+## Bookmarks tagged [[podcast]](https://www.codever.land/search?q=[podcast])
 
-_<sup><sup>[www.bookmarks.dev/tagged/podcast](https://www.bookmarks.dev/tagged/podcast)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/podcast](www.codever.land/bookmarks/t/podcast)</sup></sup>_
+---
+#### [TechRepublic's Dynamic Developer podcast - TechRepublic](https://www.techrepublic.com/article/techrepublic-dynamic-developer-podcast/#ftag=MSF8469b3d)
+_<sup>https://www.techrepublic.com/article/techrepublic-dynamic-developer-podcast/#ftag=MSF8469b3d</sup>_
+
+TechRepublic's Dynamic Developer with Bill Detwiler is now available as a podcast on Stitcher, Spotify, Google Play, and Apple Podcasts.
+* **tags**: [techrepublic](../tagged/techrepublic.md), [podcast](../tagged/podcast.md), [developer](../tagged/developer.md)
 ---
 #### [To Be Continuous | Heavybit](https://www.heavybit.com/library/podcasts/to-be-continuous/)
 _<sup>https://www.heavybit.com/library/podcasts/to-be-continuous/</sup>_

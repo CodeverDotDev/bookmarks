@@ -1,6 +1,6 @@
-## Bookmarks tagged [[indice]](https://www.bookmarks.dev/search?q=[indice])
+## Bookmarks tagged [[indice]](https://www.codever.land/search?q=[indice])
 
-_<sup><sup>[www.bookmarks.dev/tagged/indice](https://www.bookmarks.dev/tagged/indice)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/indice](www.codever.land/bookmarks/t/indice)</sup></sup>_
 ---
 #### [Prolog](#prolog)
 _<sup>#prolog</sup>_

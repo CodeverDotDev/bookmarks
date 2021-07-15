@@ -1,6 +1,12 @@
-## Bookmarks tagged [[git-commit]](https://www.bookmarks.dev/search?q=[git-commit])
+## Bookmarks tagged [[git-commit]](https://www.codever.land/search?q=[git-commit])
 
-_<sup><sup>[www.bookmarks.dev/tagged/git-commit](https://www.bookmarks.dev/tagged/git-commit)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/git-commit](www.codever.land/bookmarks/t/git-commit)</sup></sup>_
+---
+#### [How to change the git commit author?](https://brayanarrieta.hashnode.dev/how-to-change-the-git-commit-author)
+_<sup>https://brayanarrieta.hashnode.dev/how-to-change-the-git-commit-author</sup>_
+
+git
+* **tags**: [github](../tagged/github.md), [git](../tagged/git.md), [git-commit](../tagged/git-commit.md)
 ---
 #### [Git team workflows: merge or rebase?](https://www.atlassian.com/git/articles/git-team-workflows-merge-or-rebase)
 _<sup>https://www.atlassian.com/git/articles/git-team-workflows-merge-or-rebase</sup>_

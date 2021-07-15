@@ -1,6 +1,6 @@
-## Bookmarks tagged [[garbage-collection]](https://www.bookmarks.dev/search?q=[garbage-collection])
+## Bookmarks tagged [[garbage-collection]](https://www.codever.land/search?q=[garbage-collection])
 
-_<sup><sup>[www.bookmarks.dev/tagged/garbage-collection](https://www.bookmarks.dev/tagged/garbage-collection)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/garbage-collection](www.codever.land/bookmarks/t/garbage-collection)</sup></sup>_
 ---
 #### [A New Age of JVM Garbage Collectors - Alexander Yakushev - 37min](https://www.youtube.com/watch?v=k4vkd0ahWjQ)
 _<sup>https://www.youtube.com/watch?v=k4vkd0ahWjQ</sup>_

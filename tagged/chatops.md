@@ -1,6 +1,6 @@
-## Bookmarks tagged [[chatops]](https://www.bookmarks.dev/search?q=[chatops])
+## Bookmarks tagged [[chatops]](https://www.codever.land/search?q=[chatops])
 
-_<sup><sup>[www.bookmarks.dev/tagged/chatops](https://www.bookmarks.dev/tagged/chatops)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/chatops](www.codever.land/bookmarks/t/chatops)</sup></sup>_
 ---
 #### [errbot](https://github.com/errbotio/errbot/)
 _<sup>https://github.com/errbotio/errbot/</sup>_

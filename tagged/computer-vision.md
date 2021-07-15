@@ -1,6 +1,6 @@
-## Bookmarks tagged [[computer-vision]](https://www.bookmarks.dev/search?q=[computer-vision])
+## Bookmarks tagged [[computer-vision]](https://www.codever.land/search?q=[computer-vision])
 
-_<sup><sup>[www.bookmarks.dev/tagged/computer-vision](https://www.bookmarks.dev/tagged/computer-vision)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/computer-vision](www.codever.land/bookmarks/t/computer-vision)</sup></sup>_
 ---
 #### [OpenCV](https://opencv.org/)
 _<sup>https://opencv.org/</sup>_

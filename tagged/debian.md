@@ -1,6 +1,6 @@
-## Bookmarks tagged [[debian]](https://www.bookmarks.dev/search?q=[debian])
+## Bookmarks tagged [[debian]](https://www.codever.land/search?q=[debian])
 
-_<sup><sup>[www.bookmarks.dev/tagged/debian](https://www.bookmarks.dev/tagged/debian)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/debian](www.codever.land/bookmarks/t/debian)</sup></sup>_
 ---
 #### [How to Configure a Firewall with UFW](https://www.linode.com/docs/security/firewalls/configure-firewall-with-ufw)
 _<sup>https://www.linode.com/docs/security/firewalls/configure-firewall-with-ufw</sup>_

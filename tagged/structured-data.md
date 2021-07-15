@@ -1,6 +1,6 @@
-## Bookmarks tagged [[structured-data]](https://www.bookmarks.dev/search?q=[structured-data])
+## Bookmarks tagged [[structured-data]](https://www.codever.land/search?q=[structured-data])
 
-_<sup><sup>[www.bookmarks.dev/tagged/structured-data](https://www.bookmarks.dev/tagged/structured-data)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/structured-data](www.codever.land/bookmarks/t/structured-data)</sup></sup>_
 ---
 #### [Rich Results Test - Google Search Console](https://search.google.com/test/rich-results)
 _<sup>https://search.google.com/test/rich-results</sup>_

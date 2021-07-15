@@ -1,6 +1,6 @@
-## Bookmarks tagged [[groovy]](https://www.bookmarks.dev/search?q=[groovy])
+## Bookmarks tagged [[groovy]](https://www.codever.land/search?q=[groovy])
 
-_<sup><sup>[www.bookmarks.dev/tagged/groovy](https://www.bookmarks.dev/tagged/groovy)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/groovy](www.codever.land/bookmarks/t/groovy)</sup></sup>_
 ---
 #### [awesome-groovy](https://github.com/kdabir/awesome-groovy#readme)
 _<sup>https://github.com/kdabir/awesome-groovy#readme</sup>_

@@ -1,6 +1,6 @@
-## Bookmarks tagged [[anti-patterns]](https://www.bookmarks.dev/search?q=[anti-patterns])
+## Bookmarks tagged [[anti-patterns]](https://www.codever.land/search?q=[anti-patterns])
 
-_<sup><sup>[www.bookmarks.dev/tagged/anti-patterns](https://www.bookmarks.dev/tagged/anti-patterns)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/anti-patterns](www.codever.land/bookmarks/t/anti-patterns)</sup></sup>_
 ---
 #### [AnemicDomainModel](https://www.martinfowler.com/bliki/AnemicDomainModel.html)
 _<sup>https://www.martinfowler.com/bliki/AnemicDomainModel.html</sup>_

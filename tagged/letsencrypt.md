@@ -1,6 +1,6 @@
-## Bookmarks tagged [[letsencrypt]](https://www.bookmarks.dev/search?q=[letsencrypt])
+## Bookmarks tagged [[letsencrypt]](https://www.codever.land/search?q=[letsencrypt])
 
-_<sup><sup>[www.bookmarks.dev/tagged/letsencrypt](https://www.bookmarks.dev/tagged/letsencrypt)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/letsencrypt](www.codever.land/bookmarks/t/letsencrypt)</sup></sup>_
 ---
 #### [Welcome to the Certbot documentation! ](https://certbot.eff.org/docs/)
 _<sup>https://certbot.eff.org/docs/</sup>_

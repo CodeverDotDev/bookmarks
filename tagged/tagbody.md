@@ -1,6 +1,6 @@
-## Bookmarks tagged [[tagbody]](https://www.bookmarks.dev/search?q=[tagbody])
+## Bookmarks tagged [[tagbody]](https://www.codever.land/search?q=[tagbody])
 
-_<sup><sup>[www.bookmarks.dev/tagged/tagbody](https://www.bookmarks.dev/tagged/tagbody)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/tagbody](www.codever.land/bookmarks/t/tagbody)</sup></sup>_
 ---
 #### [Island Life - Schemeでgoto (tagbody&go)](http://blog.practical-scheme.net/shiro/20110529-tagbody-go-in-scheme)
 _<sup>http://blog.practical-scheme.net/shiro/20110529-tagbody-go-in-scheme</sup>_

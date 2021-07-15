@@ -1,6 +1,6 @@
-## Bookmarks tagged [[pwa]](https://www.bookmarks.dev/search?q=[pwa])
+## Bookmarks tagged [[pwa]](https://www.codever.land/search?q=[pwa])
 
-_<sup><sup>[www.bookmarks.dev/tagged/pwa](https://www.bookmarks.dev/tagged/pwa)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/pwa](www.codever.land/bookmarks/t/pwa)</sup></sup>_
 ---
 #### [Stencil Home Page](https://stenciljs.com/)
 _<sup>https://stenciljs.com/</sup>_

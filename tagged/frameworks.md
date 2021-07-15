@@ -1,6 +1,6 @@
-## Bookmarks tagged [[frameworks]](https://www.bookmarks.dev/search?q=[frameworks])
+## Bookmarks tagged [[frameworks]](https://www.codever.land/search?q=[frameworks])
 
-_<sup><sup>[www.bookmarks.dev/tagged/frameworks](https://www.bookmarks.dev/tagged/frameworks)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/frameworks](www.codever.land/bookmarks/t/frameworks)</sup></sup>_
 ---
 #### [Microsoft Security Development Lifecycle](https://www.microsoft.com/en-us/securityengineering/sdl)
 _<sup>https://www.microsoft.com/en-us/securityengineering/sdl</sup>_

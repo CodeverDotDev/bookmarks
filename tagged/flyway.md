@@ -1,6 +1,6 @@
-## Bookmarks tagged [[flyway]](https://www.bookmarks.dev/search?q=[flyway])
+## Bookmarks tagged [[flyway]](https://www.codever.land/search?q=[flyway])
 
-_<sup><sup>[www.bookmarks.dev/tagged/flyway](https://www.bookmarks.dev/tagged/flyway)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/flyway](www.codever.land/bookmarks/t/flyway)</sup></sup>_
 ---
 #### [One-Stop Guide to Database Migration with Flyway and Spring Boot](https://reflectoring.io/database-migration-spring-boot-flyway/)
 _<sup>https://reflectoring.io/database-migration-spring-boot-flyway/</sup>_

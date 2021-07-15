@@ -1,6 +1,19 @@
-## Bookmarks tagged [[plugins]](https://www.bookmarks.dev/search?q=[plugins])
+## Bookmarks tagged [[plugins]](https://www.codever.land/search?q=[plugins])
 
-_<sup><sup>[www.bookmarks.dev/tagged/plugins](https://www.bookmarks.dev/tagged/plugins)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/plugins](www.codever.land/bookmarks/t/plugins)</sup></sup>_
+---
+#### [So, I wrote my first IntelliJ plugin to help me bookmark code ](https://www.codepedia.org/ama/my-first-intellij-plugin-to-help-me-bookmark-code)
+_<sup>https://www.codepedia.org/ama/my-first-intellij-plugin-to-help-me-bookmark-code</sup>_
+
+Shows the basic steps needed to create a simple IntelliJ plugins which makes saving and searching snippets from IntelliJ IDEs to [Codever](https://www.codever.land) very easy.
+* **tags**: [intellij](../tagged/intellij.md), [plugins](../tagged/plugins.md), [productivity](../tagged/productivity.md), [productivity-tools](../tagged/productivity-tools.md)
+---
+#### [GitHub - Log1x/navi: A developer-friendly alternative to the WordPress NavWalker.](https://github.com/Log1x/navi)
+_<sup>https://github.com/Log1x/navi</sup>_
+
+A developer-friendly alternative to the WordPress NavWalker. - Log1x/navi
+* **tags**: [wordpress](../tagged/wordpress.md), [navigation](../tagged/navigation.md), [menu](../tagged/menu.md), [plugins](../tagged/plugins.md), [php](../tagged/php.md)
+* :octocat: **[source code](https://github.com/Log1x/navi)**
 ---
 #### [JMeter Plugins :: JMeter-Plugins.org](https://jmeter-plugins.org/)
 _<sup>https://jmeter-plugins.org/</sup>_

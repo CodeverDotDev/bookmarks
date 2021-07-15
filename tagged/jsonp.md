@@ -1,6 +1,6 @@
-## Bookmarks tagged [[jsonp]](https://www.bookmarks.dev/search?q=[jsonp])
+## Bookmarks tagged [[jsonp]](https://www.codever.land/search?q=[jsonp])
 
-_<sup><sup>[www.bookmarks.dev/tagged/jsonp](https://www.bookmarks.dev/tagged/jsonp)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/jsonp](www.codever.land/bookmarks/t/jsonp)</sup></sup>_
 ---
 #### [So how does JSONP really work? Some simple examples](http://schock.net/articles/2013/02/05/how-jsonp-really-works-examples/)
 _<sup>http://schock.net/articles/2013/02/05/how-jsonp-really-works-examples/</sup>_

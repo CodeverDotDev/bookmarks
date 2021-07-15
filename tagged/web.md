@@ -1,6 +1,6 @@
-## Bookmarks tagged [[web]](https://www.bookmarks.dev/search?q=[web])
+## Bookmarks tagged [[web]](https://www.codever.land/search?q=[web])
 
-_<sup><sup>[www.bookmarks.dev/tagged/web](https://www.bookmarks.dev/tagged/web)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/web](www.codever.land/bookmarks/t/web)</sup></sup>_
 ---
 #### [Quick and Simple Image Placeholders - Dynamic Dummy Image Generator](https://plchldr.co/)
 _<sup>https://plchldr.co/</sup>_

@@ -1,6 +1,12 @@
-## Bookmarks tagged [[rest]](https://www.bookmarks.dev/search?q=[rest])
+## Bookmarks tagged [[rest]](https://www.codever.land/search?q=[rest])
 
-_<sup><sup>[www.bookmarks.dev/tagged/rest](https://www.bookmarks.dev/tagged/rest)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/rest](www.codever.land/bookmarks/t/rest)</sup></sup>_
+---
+#### [Understanding And Using REST APIs — Smashing MagazineClear SearchBack to top](https://www.smashingmagazine.com/2018/01/understanding-using-rest-api/)
+_<sup>https://www.smashingmagazine.com/2018/01/understanding-using-rest-api/</sup>_
+
+Everything you need to know about REST APIs, from start to finish. How and why to use REST APIs, how to deal with headers, error messages and API versions. Let’s get started.
+* **tags**: [rest](../tagged/rest.md), [javascript](../tagged/javascript.md)
 ---
 #### [What you really need to know about securing APIs with mutual certificates](https://nevatech.com/blog/post/What-you-need-to-know-about-securing-APIs-with-mutual-certificates)
 _<sup>https://nevatech.com/blog/post/What-you-need-to-know-about-securing-APIs-with-mutual-certificates</sup>_

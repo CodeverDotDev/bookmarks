@@ -1,6 +1,6 @@
-## Bookmarks tagged [[job-scheduler]](https://www.bookmarks.dev/search?q=[job-scheduler])
+## Bookmarks tagged [[job-scheduler]](https://www.codever.land/search?q=[job-scheduler])
 
-_<sup><sup>[www.bookmarks.dev/tagged/job-scheduler](https://www.bookmarks.dev/tagged/job-scheduler)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/job-scheduler](www.codever.land/bookmarks/t/job-scheduler)</sup></sup>_
 ---
 #### [APScheduler](http://apscheduler.readthedocs.io/en/latest/)
 _<sup>http://apscheduler.readthedocs.io/en/latest/</sup>_

@@ -1,6 +1,6 @@
-## Bookmarks tagged [[markdown]](https://www.bookmarks.dev/search?q=[markdown])
+## Bookmarks tagged [[markdown]](https://www.codever.land/search?q=[markdown])
 
-_<sup><sup>[www.bookmarks.dev/tagged/markdown](https://www.bookmarks.dev/tagged/markdown)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/markdown](www.codever.land/bookmarks/t/markdown)</sup></sup>_
 ---
 #### [How to create html presentations with markdown files - 8min](https://www.youtube.com/watch?v=iZl7R6ntOGc)
 _<sup>https://www.youtube.com/watch?v=iZl7R6ntOGc</sup>_
@@ -72,12 +72,12 @@ A Python implementation of John Gruber’s Markdown.
 * **tags**: [python](../tagged/python.md), [text-parsing](../tagged/text-parsing.md), [markdown](../tagged/markdown.md)
 * :octocat: **[source code](https://github.com/waylan/Python-Markdown)**
 ---
-#### [Complete list of github markdown emoji markup ](https://gist.github.com/rxaviers/7360908)
-_<sup>https://gist.github.com/rxaviers/7360908</sup>_
+#### [Github emoji markup - generated from github emoji api](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+_<sup>https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md</sup>_
 
-Complete list of github markdown emoji markup. GitHub Gist: instantly share code, notes, and snippets.
-* **tags**: [github](../tagged/github.md), [markdown](../tagged/markdown.md), [emoji](../tagged/emoji.md)
-* :octocat: **[source code](https://gist.github.com/rxaviers/7360908)**
+This cheat sheet is automatically generated from [GitHub Emoji API](https://api.github.com/emojis) and [Unicode Full Emoji List](https://unicode.org/emoji/charts/full-emoji-list.html).
+* **tags**: [github](../tagged/github.md), [markdown](../tagged/markdown.md), [emoji](../tagged/emoji.md), [icons](../tagged/icons.md)
+* :octocat: **[source code](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)**
 ---
 #### [awesome-markdown](https://github.com/BubuAnabelas/awesome-markdown#readme)
 _<sup>https://github.com/BubuAnabelas/awesome-markdown#readme</sup>_

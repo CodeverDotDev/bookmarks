@@ -1,6 +1,6 @@
-## Bookmarks tagged [[influxdb]](https://www.bookmarks.dev/search?q=[influxdb])
+## Bookmarks tagged [[influxdb]](https://www.codever.land/search?q=[influxdb])
 
-_<sup><sup>[www.bookmarks.dev/tagged/influxdb](https://www.bookmarks.dev/tagged/influxdb)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/influxdb](www.codever.land/bookmarks/t/influxdb)</sup></sup>_
 ---
 #### [awesome-influxdb](https://github.com/mark-rushakoff/awesome-influxdb#readme)
 _<sup>https://github.com/mark-rushakoff/awesome-influxdb#readme</sup>_

@@ -1,6 +1,6 @@
-## Bookmarks tagged [[pandoc]](https://www.bookmarks.dev/search?q=[pandoc])
+## Bookmarks tagged [[pandoc]](https://www.codever.land/search?q=[pandoc])
 
-_<sup><sup>[www.bookmarks.dev/tagged/pandoc](https://www.bookmarks.dev/tagged/pandoc)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/pandoc](www.codever.land/bookmarks/t/pandoc)</sup></sup>_
 ---
 #### [Pandoc home page](https://pandoc.org/)
 _<sup>https://pandoc.org/</sup>_

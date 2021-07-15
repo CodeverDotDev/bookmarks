@@ -1,6 +1,6 @@
-## Bookmarks tagged [[mathematics]](https://www.bookmarks.dev/search?q=[mathematics])
+## Bookmarks tagged [[mathematics]](https://www.codever.land/search?q=[mathematics])
 
-_<sup><sup>[www.bookmarks.dev/tagged/mathematics](https://www.bookmarks.dev/tagged/mathematics)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/mathematics](www.codever.land/bookmarks/t/mathematics)</sup></sup>_
 ---
 #### [SymPy](https://www.sympy.org/en/index.html)
 _<sup>https://www.sympy.org/en/index.html</sup>_

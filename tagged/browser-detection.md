@@ -1,6 +1,6 @@
-## Bookmarks tagged [[browser-detection]](https://www.bookmarks.dev/search?q=[browser-detection])
+## Bookmarks tagged [[browser-detection]](https://www.codever.land/search?q=[browser-detection])
 
-_<sup><sup>[www.bookmarks.dev/tagged/browser-detection](https://www.bookmarks.dev/tagged/browser-detection)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/browser-detection](www.codever.land/bookmarks/t/browser-detection)</sup></sup>_
 ---
 #### [bowser](https://github.com/ded/bowser)
 _<sup>https://github.com/ded/bowser</sup>_

@@ -1,6 +1,6 @@
-## Bookmarks tagged [[visual-basic]](https://www.bookmarks.dev/search?q=[visual-basic])
+## Bookmarks tagged [[visual-basic]](https://www.codever.land/search?q=[visual-basic])
 
-_<sup><sup>[www.bookmarks.dev/tagged/visual-basic](https://www.bookmarks.dev/tagged/visual-basic)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/visual-basic](www.codever.land/bookmarks/t/visual-basic)</sup></sup>_
 ---
 #### [Visual Basic 2008](http://openbook.rheinwerk-verlag.de/visualbasic_2008/)
 _<sup>http://openbook.rheinwerk-verlag.de/visualbasic_2008/</sup>_

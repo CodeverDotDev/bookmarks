@@ -1,6 +1,6 @@
-## Bookmarks tagged [[screencast]](https://www.bookmarks.dev/search?q=[screencast])
+## Bookmarks tagged [[screencast]](https://www.codever.land/search?q=[screencast])
 
-_<sup><sup>[www.bookmarks.dev/tagged/screencast](https://www.bookmarks.dev/tagged/screencast)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/screencast](www.codever.land/bookmarks/t/screencast)</sup></sup>_
 ---
 #### [Java Off Heap](http://www.javaoffheap.com)
 _<sup>http://www.javaoffheap.com</sup>_

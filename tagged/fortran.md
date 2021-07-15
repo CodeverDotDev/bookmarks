@@ -1,6 +1,6 @@
-## Bookmarks tagged [[fortran]](https://www.bookmarks.dev/search?q=[fortran])
+## Bookmarks tagged [[fortran]](https://www.codever.land/search?q=[fortran])
 
-_<sup><sup>[www.bookmarks.dev/tagged/fortran](https://www.bookmarks.dev/tagged/fortran)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/fortran](www.codever.land/bookmarks/t/fortran)</sup></sup>_
 ---
 #### [awesome-fortran](https://github.com/rabbiabram/awesome-fortran#readme)
 _<sup>https://github.com/rabbiabram/awesome-fortran#readme</sup>_

@@ -1,6 +1,6 @@
-## Bookmarks tagged [[free-programming-books-ua]](https://www.bookmarks.dev/search?q=[free-programming-books-ua])
+## Bookmarks tagged [[free-programming-books-ua]](https://www.codever.land/search?q=[free-programming-books-ua])
 
-_<sup><sup>[www.bookmarks.dev/tagged/free-programming-books-ua](https://www.bookmarks.dev/tagged/free-programming-books-ua)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/free-programming-books-ua](www.codever.land/bookmarks/t/free-programming-books-ua)</sup></sup>_
 ---
 #### [Маленька книга про Ruby](https://lambdabooks.github.io/thelittlebookofruby)
 _<sup>https://lambdabooks.github.io/thelittlebookofruby</sup>_

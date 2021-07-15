@@ -1,6 +1,20 @@
-## Bookmarks tagged [[xml]](https://www.bookmarks.dev/search?q=[xml])
+## Bookmarks tagged [[xml]](https://www.codever.land/search?q=[xml])
 
-_<sup><sup>[www.bookmarks.dev/tagged/xml](https://www.bookmarks.dev/tagged/xml)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/xml](www.codever.land/bookmarks/t/xml)</sup></sup>_
+---
+#### [Testing for equality of xml files having different ordering of nested elements](https://www.insystems.nl/blog/testing-for-equality-of-xml-files-having-different-ordering-of-nested-elements/)
+_<sup>https://www.insystems.nl/blog/testing-for-equality-of-xml-files-having-different-ordering-of-nested-...</sup>_
+
+Suppose we have to build a service that delivers XML messages and we want to test if the actual messages are indeed equal to what we expect them to be. If the messages are built in a deterministic way...
+* :calendar: **published on**: 2017-03-22
+* **tags**: [xmlunit](../tagged/xmlunit.md), [xml](../tagged/xml.md)
+---
+#### [XMLUnit - Unit Testing XML for Java and .NET home page](https://www.xmlunit.org/)
+_<sup>https://www.xmlunit.org/</sup>_
+
+When testing XML your application creates, simple string comparisons don't cut it as there are many different ways the same XML content is serialized to a string. It doesn't even stop with serializati...
+* **tags**: [java](../tagged/java.md), [.net](../tagged/.net.md), [testing](../tagged/testing.md), [xml](../tagged/xml.md), [xmlunit](../tagged/xmlunit.md), [unit-testing](../tagged/unit-testing.md)
+* :octocat: **[source code](https://github.com/xmlunit/xmlunit)**
 ---
 #### [Boost.PropertyTree](http://www.boost.org/doc/libs/1_55_0/doc/html/property_tree.html)
 _<sup>http://www.boost.org/doc/libs/1_55_0/doc/html/property_tree.html</sup>_

@@ -1,6 +1,6 @@
-## Bookmarks tagged [[test-coverage]](https://www.bookmarks.dev/search?q=[test-coverage])
+## Bookmarks tagged [[test-coverage]](https://www.codever.land/search?q=[test-coverage])
 
-_<sup><sup>[www.bookmarks.dev/tagged/test-coverage](https://www.bookmarks.dev/tagged/test-coverage)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/test-coverage](www.codever.land/bookmarks/t/test-coverage)</sup></sup>_
 ---
 #### [Istanbul, a JavaScript test coverage tool.](https://istanbul.js.org/)
 _<sup>https://istanbul.js.org/</sup>_

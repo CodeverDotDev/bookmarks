@@ -1,12 +1,12 @@
-## Bookmarks tagged [[dev-tools]](https://www.bookmarks.dev/search?q=[dev-tools])
+## Bookmarks tagged [[dev-tools]](https://www.codever.land/search?q=[dev-tools])
 
-_<sup><sup>[www.bookmarks.dev/tagged/dev-tools](https://www.bookmarks.dev/tagged/dev-tools)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/dev-tools](www.codever.land/bookmarks/t/dev-tools)</sup></sup>_
 ---
 #### [The HTML presentation framework - reveal.js home page](https://revealjs.com/)
 _<sup>https://revealjs.com/</sup>_
 
 Documentation and demos for the open source reveal.js HTML presentation framework. Slides, slideshow, ppt, presentations
-* **tags**: [dev-tools](../tagged/dev-tools.md), [node.js](../tagged/node.js.md)
+* **tags**: [dev-tools](../tagged/dev-tools.md), [node.js](../tagged/node.js.md), [javascript](../tagged/javascript.md)
 * :octocat: **[source code](https://github.com/hakimel/reveal.js)**
 ---
 #### [Postwoman • API request builder](https://postwoman.io/)

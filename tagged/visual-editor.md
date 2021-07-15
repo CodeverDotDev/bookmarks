@@ -1,6 +1,6 @@
-## Bookmarks tagged [[visual-editor]](https://www.bookmarks.dev/search?q=[visual-editor])
+## Bookmarks tagged [[visual-editor]](https://www.codever.land/search?q=[visual-editor])
 
-_<sup><sup>[www.bookmarks.dev/tagged/visual-editor](https://www.bookmarks.dev/tagged/visual-editor)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/visual-editor](www.codever.land/bookmarks/t/visual-editor)</sup></sup>_
 ---
 #### [GitHub - givanz/VvvebJs: Drag and drop website builder javascript library.](https://github.com/givanz/VvvebJs)
 _<sup>https://github.com/givanz/VvvebJs</sup>_

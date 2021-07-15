@@ -1,6 +1,6 @@
-## Bookmarks tagged [[model]](https://www.bookmarks.dev/search?q=[model])
+## Bookmarks tagged [[model]](https://www.codever.land/search?q=[model])
 
-_<sup><sup>[www.bookmarks.dev/tagged/model](https://www.bookmarks.dev/tagged/model)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/model](www.codever.land/bookmarks/t/model)</sup></sup>_
 ---
 #### [NestedTypes - fast mutable models with "pure render" support](https://github.com/Volicon/NestedTypes)
 _<sup>https://github.com/Volicon/NestedTypes</sup>_

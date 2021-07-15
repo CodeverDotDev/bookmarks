@@ -1,6 +1,13 @@
-## Bookmarks tagged [[windows]](https://www.bookmarks.dev/search?q=[windows])
+## Bookmarks tagged [[windows]](https://www.codever.land/search?q=[windows])
 
-_<sup><sup>[www.bookmarks.dev/tagged/windows](https://www.bookmarks.dev/tagged/windows)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/windows](www.codever.land/bookmarks/t/windows)</sup></sup>_
+---
+#### [GitHub - jlevy/the-art-of-command-line: Master the command line, in one page](https://github.com/jlevy/the-art-of-command-line)
+_<sup>https://github.com/jlevy/the-art-of-command-line</sup>_
+
+Master the command line, in one page. Contribute to jlevy/the-art-of-command-line development by creating an account on GitHub.
+* **tags**: [windows](../tagged/windows.md), [macos](../tagged/macos.md), [linux](../tagged/linux.md), [bash](../tagged/bash.md), [documentation](../tagged/documentation.md), [unix](../tagged/unix.md)
+* :octocat: **[source code](https://github.com/jlevy/the-art-of-command-line)**
 ---
 #### [How to Change Your Default Web Browser in Windows](https://www.pcmag.com/how-to/how-to-change-your-default-web-browser)
 _<sup>https://www.pcmag.com/how-to/how-to-change-your-default-web-browser</sup>_

@@ -1,6 +1,6 @@
-## Bookmarks tagged [[elixir]](https://www.bookmarks.dev/search?q=[elixir])
+## Bookmarks tagged [[elixir]](https://www.codever.land/search?q=[elixir])
 
-_<sup><sup>[www.bookmarks.dev/tagged/elixir](https://www.bookmarks.dev/tagged/elixir)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/elixir](www.codever.land/bookmarks/t/elixir)</sup></sup>_
 ---
 #### [absinthe-graphql](https://github.com/absinthe-graphql/absinthe)
 _<sup>https://github.com/absinthe-graphql/absinthe</sup>_

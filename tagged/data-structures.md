@@ -1,6 +1,6 @@
-## Bookmarks tagged [[data-structures]](https://www.bookmarks.dev/search?q=[data-structures])
+## Bookmarks tagged [[data-structures]](https://www.codever.land/search?q=[data-structures])
 
-_<sup><sup>[www.bookmarks.dev/tagged/data-structures](https://www.bookmarks.dev/tagged/data-structures)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/data-structures](www.codever.land/bookmarks/t/data-structures)</sup></sup>_
 ---
 #### [Complete Introduction to the 30 Most Essential Data Structures & Algorithms](https://dev.to/iuliagroza/complete-introduction-to-the-30-most-essential-data-structures-algorithms-43kd)
 _<sup>https://dev.to/iuliagroza/complete-introduction-to-the-30-most-essential-data-structures-algorithms-...</sup>_

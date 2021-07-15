@@ -1,6 +1,6 @@
-## Bookmarks tagged [[digital-signature]](https://www.bookmarks.dev/search?q=[digital-signature])
+## Bookmarks tagged [[digital-signature]](https://www.codever.land/search?q=[digital-signature])
 
-_<sup><sup>[www.bookmarks.dev/tagged/digital-signature](https://www.bookmarks.dev/tagged/digital-signature)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/digital-signature](www.codever.land/bookmarks/t/digital-signature)</sup></sup>_
 ---
 #### [The Story of Digital Signatures and Public Key Infrastructure](https://www.youtube.com/watch?t=1s&v=G7hs-3R86M0)
 _<sup>https://www.youtube.com/watch?t=1s&v=G7hs-3R86M0</sup>_

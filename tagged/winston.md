@@ -1,6 +1,6 @@
-## Bookmarks tagged [[winston]](https://www.bookmarks.dev/search?q=[winston])
+## Bookmarks tagged [[winston]](https://www.codever.land/search?q=[winston])
 
-_<sup><sup>[www.bookmarks.dev/tagged/winston](https://www.bookmarks.dev/tagged/winston)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/winston](www.codever.land/bookmarks/t/winston)</sup></sup>_
 ---
 #### [Using Winston, a versatile logging library for Node.js](https://thisdavej.com/using-winston-a-versatile-logging-library-for-node-js/)
 _<sup>https://thisdavej.com/using-winston-a-versatile-logging-library-for-node-js/</sup>_

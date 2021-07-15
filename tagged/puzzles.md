@@ -1,6 +1,6 @@
-## Bookmarks tagged [[puzzles]](https://www.bookmarks.dev/search?q=[puzzles])
+## Bookmarks tagged [[puzzles]](https://www.codever.land/search?q=[puzzles])
 
-_<sup><sup>[www.bookmarks.dev/tagged/puzzles](https://www.bookmarks.dev/tagged/puzzles)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/puzzles](www.codever.land/bookmarks/t/puzzles)</sup></sup>_
 ---
 #### [Project Euler](https://projecteuler.net/)
 _<sup>https://projecteuler.net/</sup>_

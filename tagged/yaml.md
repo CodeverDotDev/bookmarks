@@ -1,6 +1,6 @@
-## Bookmarks tagged [[yaml]](https://www.bookmarks.dev/search?q=[yaml])
+## Bookmarks tagged [[yaml]](https://www.codever.land/search?q=[yaml])
 
-_<sup><sup>[www.bookmarks.dev/tagged/yaml](https://www.bookmarks.dev/tagged/yaml)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/yaml](www.codever.land/bookmarks/t/yaml)</sup></sup>_
 ---
 #### [kompose](https://github.com/kubernetes/kompose)
 _<sup>https://github.com/kubernetes/kompose</sup>_

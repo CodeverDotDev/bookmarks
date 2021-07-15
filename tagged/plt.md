@@ -1,6 +1,6 @@
-## Bookmarks tagged [[plt]](https://www.bookmarks.dev/search?q=[plt])
+## Bookmarks tagged [[plt]](https://www.codever.land/search?q=[plt])
 
-_<sup><sup>[www.bookmarks.dev/tagged/plt](https://www.bookmarks.dev/tagged/plt)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/plt](www.codever.land/bookmarks/t/plt)</sup></sup>_
 ---
 #### [Lobsters](https://lobste.rs/)
 _<sup>https://lobste.rs/</sup>_

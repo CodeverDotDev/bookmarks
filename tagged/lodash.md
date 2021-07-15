@@ -1,6 +1,6 @@
-## Bookmarks tagged [[lodash]](https://www.bookmarks.dev/search?q=[lodash])
+## Bookmarks tagged [[lodash]](https://www.codever.land/search?q=[lodash])
 
-_<sup><sup>[www.bookmarks.dev/tagged/lodash](https://www.bookmarks.dev/tagged/lodash)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/lodash](www.codever.land/bookmarks/t/lodash)</sup></sup>_
 ---
 #### [Lodash](https://lodash.com/)
 _<sup>https://lodash.com/</sup>_

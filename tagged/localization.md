@@ -1,6 +1,6 @@
-## Bookmarks tagged [[localization]](https://www.bookmarks.dev/search?q=[localization])
+## Bookmarks tagged [[localization]](https://www.codever.land/search?q=[localization])
 
-_<sup><sup>[www.bookmarks.dev/tagged/localization](https://www.bookmarks.dev/tagged/localization)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/localization](www.codever.land/bookmarks/t/localization)</sup></sup>_
 ---
 #### [polyglot](https://github.com/airbnb/polyglot.js)
 _<sup>https://github.com/airbnb/polyglot.js</sup>_

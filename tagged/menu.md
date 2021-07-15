@@ -1,6 +1,13 @@
-## Bookmarks tagged [[menu]](https://www.bookmarks.dev/search?q=[menu])
+## Bookmarks tagged [[menu]](https://www.codever.land/search?q=[menu])
 
-_<sup><sup>[www.bookmarks.dev/tagged/menu](https://www.bookmarks.dev/tagged/menu)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/menu](www.codever.land/bookmarks/t/menu)</sup></sup>_
+---
+#### [GitHub - Log1x/navi: A developer-friendly alternative to the WordPress NavWalker.](https://github.com/Log1x/navi)
+_<sup>https://github.com/Log1x/navi</sup>_
+
+A developer-friendly alternative to the WordPress NavWalker. - Log1x/navi
+* **tags**: [wordpress](../tagged/wordpress.md), [navigation](../tagged/navigation.md), [menu](../tagged/menu.md), [plugins](../tagged/plugins.md), [php](../tagged/php.md)
+* :octocat: **[source code](https://github.com/Log1x/navi)**
 ---
 #### [jQuery-menu-aim](https://github.com/kamens/jQuery-menu-aim)
 _<sup>https://github.com/kamens/jQuery-menu-aim</sup>_

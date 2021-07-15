@@ -1,6 +1,6 @@
-## Bookmarks tagged [[linguistics]](https://www.bookmarks.dev/search?q=[linguistics])
+## Bookmarks tagged [[linguistics]](https://www.codever.land/search?q=[linguistics])
 
-_<sup><sup>[www.bookmarks.dev/tagged/linguistics](https://www.bookmarks.dev/tagged/linguistics)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/linguistics](www.codever.land/bookmarks/t/linguistics)</sup></sup>_
 ---
 #### [awesome-linguistics](https://github.com/theimpossibleastronaut/awesome-linguistics#readme)
 _<sup>https://github.com/theimpossibleastronaut/awesome-linguistics#readme</sup>_

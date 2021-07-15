@@ -1,6 +1,6 @@
-## Bookmarks tagged [[spreadsheet]](https://www.bookmarks.dev/search?q=[spreadsheet])
+## Bookmarks tagged [[spreadsheet]](https://www.codever.land/search?q=[spreadsheet])
 
-_<sup><sup>[www.bookmarks.dev/tagged/spreadsheet](https://www.bookmarks.dev/tagged/spreadsheet)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/spreadsheet](www.codever.land/bookmarks/t/spreadsheet)</sup></sup>_
 ---
 #### [AXLSX](https://github.com/randym/axlsx)
 _<sup>https://github.com/randym/axlsx</sup>_

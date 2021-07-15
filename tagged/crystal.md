@@ -1,6 +1,6 @@
-## Bookmarks tagged [[crystal]](https://www.bookmarks.dev/search?q=[crystal])
+## Bookmarks tagged [[crystal]](https://www.codever.land/search?q=[crystal])
 
-_<sup><sup>[www.bookmarks.dev/tagged/crystal](https://www.bookmarks.dev/tagged/crystal)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/crystal](www.codever.land/bookmarks/t/crystal)</sup></sup>_
 ---
 #### [awesome-crystal](https://github.com/veelenga/awesome-crystal#readme)
 _<sup>https://github.com/veelenga/awesome-crystal#readme</sup>_

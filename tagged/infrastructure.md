@@ -1,6 +1,6 @@
-## Bookmarks tagged [[infrastructure]](https://www.bookmarks.dev/search?q=[infrastructure])
+## Bookmarks tagged [[infrastructure]](https://www.codever.land/search?q=[infrastructure])
 
-_<sup><sup>[www.bookmarks.dev/tagged/infrastructure](https://www.bookmarks.dev/tagged/infrastructure)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/infrastructure](www.codever.land/bookmarks/t/infrastructure)</sup></sup>_
 ---
 #### [appserver.io](https://github.com/appserver-io/appserver)
 _<sup>https://github.com/appserver-io/appserver</sup>_

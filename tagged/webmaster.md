@@ -1,6 +1,6 @@
-## Bookmarks tagged [[webmaster]](https://www.bookmarks.dev/search?q=[webmaster])
+## Bookmarks tagged [[webmaster]](https://www.codever.land/search?q=[webmaster])
 
-_<sup><sup>[www.bookmarks.dev/tagged/webmaster](https://www.bookmarks.dev/tagged/webmaster)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/webmaster](www.codever.land/bookmarks/t/webmaster)</sup></sup>_
 ---
 #### [HTML Color Picker Tool](https://hexcolor.co/color-picker)
 _<sup>https://hexcolor.co/color-picker</sup>_

@@ -1,6 +1,6 @@
-## Bookmarks tagged [[draft]](https://www.bookmarks.dev/search?q=[draft])
+## Bookmarks tagged [[draft]](https://www.codever.land/search?q=[draft])
 
-_<sup><sup>[www.bookmarks.dev/tagged/draft](https://www.bookmarks.dev/tagged/draft)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/draft](www.codever.land/bookmarks/t/draft)</sup></sup>_
 ---
 #### [Draft home page](https://draft.sh/)
 _<sup>https://draft.sh/</sup>_

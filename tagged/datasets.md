@@ -1,6 +1,6 @@
-## Bookmarks tagged [[datasets]](https://www.bookmarks.dev/search?q=[datasets])
+## Bookmarks tagged [[datasets]](https://www.codever.land/search?q=[datasets])
 
-_<sup><sup>[www.bookmarks.dev/tagged/datasets](https://www.bookmarks.dev/tagged/datasets)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/datasets](www.codever.land/bookmarks/t/datasets)</sup></sup>_
 ---
 #### [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets#readme)
 _<sup>https://github.com/awesomedata/awesome-public-datasets#readme</sup>_

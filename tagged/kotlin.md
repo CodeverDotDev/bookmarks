@@ -1,6 +1,6 @@
-## Bookmarks tagged [[kotlin]](https://www.bookmarks.dev/search?q=[kotlin])
+## Bookmarks tagged [[kotlin]](https://www.codever.land/search?q=[kotlin])
 
-_<sup><sup>[www.bookmarks.dev/tagged/kotlin](https://www.bookmarks.dev/tagged/kotlin)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/kotlin](www.codever.land/bookmarks/t/kotlin)</sup></sup>_
 ---
 #### [Configuration as Code, Part 1: Getting Started with Kotlin DSL | TeamCity Blog](https://blog.jetbrains.com/teamcity/2019/03/configuration-as-code-part-1-getting-started-with-kotlin-dsl/)
 _<sup>https://blog.jetbrains.com/teamcity/2019/03/configuration-as-code-part-1-getting-started-with-kotlin...</sup>_

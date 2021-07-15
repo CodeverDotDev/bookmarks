@@ -1,6 +1,6 @@
-## Bookmarks tagged [[javascript-frameworks]](https://www.bookmarks.dev/search?q=[javascript-frameworks])
+## Bookmarks tagged [[javascript-frameworks]](https://www.codever.land/search?q=[javascript-frameworks])
 
-_<sup><sup>[www.bookmarks.dev/tagged/javascript-frameworks](https://www.bookmarks.dev/tagged/javascript-frameworks)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/javascript-frameworks](www.codever.land/bookmarks/t/javascript-frameworks)</sup></sup>_
 ---
 #### [Luxon home page](https://moment.github.io/luxon/)
 _<sup>https://moment.github.io/luxon/</sup>_

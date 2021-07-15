@@ -1,6 +1,6 @@
-## Bookmarks tagged [[setinterval]](https://www.bookmarks.dev/search?q=[setinterval])
+## Bookmarks tagged [[setinterval]](https://www.codever.land/search?q=[setinterval])
 
-_<sup><sup>[www.bookmarks.dev/tagged/setinterval](https://www.bookmarks.dev/tagged/setinterval)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/setinterval](www.codever.land/bookmarks/t/setinterval)</sup></sup>_
 ---
 #### [JavaScript Timers - 11min](https://www.youtube.com/watch?v=YmaFAKUFmp0)
 _<sup>https://www.youtube.com/watch?v=YmaFAKUFmp0</sup>_

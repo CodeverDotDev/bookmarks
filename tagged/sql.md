@@ -1,6 +1,28 @@
-## Bookmarks tagged [[sql]](https://www.bookmarks.dev/search?q=[sql])
+## Bookmarks tagged [[sql]](https://www.codever.land/search?q=[sql])
 
-_<sup><sup>[www.bookmarks.dev/tagged/sql](https://www.bookmarks.dev/tagged/sql)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/sql](www.codever.land/bookmarks/t/sql)</sup></sup>_
+---
+#### [SQL vs NoSQL or MySQL vs MongoDB - 21min](https://www.youtube.com/watch?v=ZS_kXvOeQ5Y)
+_<sup>https://www.youtube.com/watch?v=ZS_kXvOeQ5Y</sup>_
+
+SQL or NoSQL? MySQL vs MongoDB? Which database is better? Which one should you use?
+* :calendar: **published on**: 2018-07-25
+* **tags**: [sql](../tagged/sql.md), [nosql](../tagged/nosql.md), [mongodb](../tagged/mongodb.md), [mysql](../tagged/mysql.md)
+---
+#### [UUID or GUID as Primary Keys? Be Careful!](https://tomharrisonjr.com/uuid-or-guid-as-primary-keys-be-careful-7b2aa3dcb439)
+_<sup>https://tomharrisonjr.com/uuid-or-guid-as-primary-keys-be-careful-7b2aa3dcb439</sup>_
+
+* Reasons UUIDs are Good
+* Reasons UUIDs May Not be Good
+* :calendar: **published on**: 2017-02-13
+* **tags**: [sql](../tagged/sql.md), [database](../tagged/database.md), [database-design](../tagged/database-design.md), [primary-key](../tagged/primary-key.md)
+---
+#### [Knex.js - A SQL Query Builder for Javascript - home page](https://knexjs.org/)
+_<sup>https://knexjs.org/</sup>_
+
+Knex.js (pronounced /kəˈnɛks/) is a "batteries included" SQL query builder for Postgres, MSSQL, MySQL, MariaDB, SQLite3, Oracle, and Amazon Redshift designed to be flexible, portable, and fun to use. ...
+* **tags**: [sql](../tagged/sql.md), [node.js](../tagged/node.js.md), [query-builder](../tagged/query-builder.md), [mysql](../tagged/mysql.md), [postgresql](../tagged/postgresql.md)
+* :octocat: **[source code](https://github.com/knex/knex)**
 ---
 #### [simplql](https://simplql.com/#about)
 _<sup>https://simplql.com/#about</sup>_

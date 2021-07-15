@@ -1,6 +1,6 @@
-## Bookmarks tagged [[jersey]](https://www.bookmarks.dev/search?q=[jersey])
+## Bookmarks tagged [[jersey]](https://www.codever.land/search?q=[jersey])
 
-_<sup><sup>[www.bookmarks.dev/tagged/jersey](https://www.bookmarks.dev/tagged/jersey)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/jersey](www.codever.land/bookmarks/t/jersey)</sup></sup>_
 ---
 #### [How To Use Jersey Client Efficiently](https://blogs.oracle.com/japod/how-to-use-jersey-client-efficiently)
 _<sup>https://blogs.oracle.com/japod/how-to-use-jersey-client-efficiently</sup>_

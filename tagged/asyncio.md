@@ -1,6 +1,6 @@
-## Bookmarks tagged [[asyncio]](https://www.bookmarks.dev/search?q=[asyncio])
+## Bookmarks tagged [[asyncio]](https://www.codever.land/search?q=[asyncio])
 
-_<sup><sup>[www.bookmarks.dev/tagged/asyncio](https://www.bookmarks.dev/tagged/asyncio)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/asyncio](www.codever.land/bookmarks/t/asyncio)</sup></sup>_
 ---
 #### [awesome-asyncio](https://github.com/timofurrer/awesome-asyncio#readme)
 _<sup>https://github.com/timofurrer/awesome-asyncio#readme</sup>_

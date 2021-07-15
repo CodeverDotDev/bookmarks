@@ -1,6 +1,6 @@
-## Bookmarks tagged [[knockout.js]](https://www.bookmarks.dev/search?q=[knockout.js])
+## Bookmarks tagged [[knockout.js]](https://www.codever.land/search?q=[knockout.js])
 
-_<sup><sup>[www.bookmarks.dev/tagged/knockout.js](https://www.bookmarks.dev/tagged/knockout.js)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/knockout.js](www.codever.land/bookmarks/t/knockout.js)</sup></sup>_
 ---
 #### [awesome-knockout](https://github.com/dnbard/awesome-knockout#readme)
 _<sup>https://github.com/dnbard/awesome-knockout#readme</sup>_

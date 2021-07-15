@@ -1,6 +1,6 @@
-## Bookmarks tagged [[virtual-boy]](https://www.bookmarks.dev/search?q=[virtual-boy])
+## Bookmarks tagged [[virtual-boy]](https://www.codever.land/search?q=[virtual-boy])
 
-_<sup><sup>[www.bookmarks.dev/tagged/virtual-boy](https://www.bookmarks.dev/tagged/virtual-boy)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/virtual-boy](www.codever.land/bookmarks/t/virtual-boy)</sup></sup>_
 ---
 #### [emu-rs/rustual-boy](https://github.com/emu-rs/rustual-boy)
 _<sup>https://github.com/emu-rs/rustual-boy</sup>_

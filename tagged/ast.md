@@ -1,6 +1,6 @@
-## Bookmarks tagged [[ast]](https://www.bookmarks.dev/search?q=[ast])
+## Bookmarks tagged [[ast]](https://www.codever.land/search?q=[ast])
 
-_<sup><sup>[www.bookmarks.dev/tagged/ast](https://www.bookmarks.dev/tagged/ast)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/ast](www.codever.land/bookmarks/t/ast)</sup></sup>_
 ---
 #### [Acorn](https://github.com/ternjs/acorn)
 _<sup>https://github.com/ternjs/acorn</sup>_

@@ -1,6 +1,6 @@
-## Bookmarks tagged [[data-visualiation]](https://www.bookmarks.dev/search?q=[data-visualiation])
+## Bookmarks tagged [[data-visualiation]](https://www.codever.land/search?q=[data-visualiation])
 
-_<sup><sup>[www.bookmarks.dev/tagged/data-visualiation](https://www.bookmarks.dev/tagged/data-visualiation)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/data-visualiation](www.codever.land/bookmarks/t/data-visualiation)</sup></sup>_
 ---
 #### [38 tools for data visualization](http://www.creativebloq.com/design-tools/data-visualization-712402)
 _<sup>http://www.creativebloq.com/design-tools/data-visualization-712402</sup>_

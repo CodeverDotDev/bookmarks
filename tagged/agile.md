@@ -1,6 +1,13 @@
-## Bookmarks tagged [[agile]](https://www.bookmarks.dev/search?q=[agile])
+## Bookmarks tagged [[agile]](https://www.codever.land/search?q=[agile])
 
-_<sup><sup>[www.bookmarks.dev/tagged/agile](https://www.bookmarks.dev/tagged/agile)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/agile](www.codever.land/bookmarks/t/agile)</sup></sup>_
+---
+#### [Une critique du manifeste Agile. (1/3)Document](https://itexpert.fr/blog/critique-manifeste-agile/)
+_<sup>https://itexpert.fr/blog/critique-manifeste-agile/</sup>_
+
+Agile est de très loin la méthodologie phare du développement logiciel. Mais est-elle aussi parfaite qu'elle en a l'air ? C'est ce qu'on va voir.
+* :calendar: **published on**: 2021-06-20
+* **tags**: [agile](../tagged/agile.md)
 ---
 #### [The Death of Continuous Integration](https://www.infoq.com/presentations/death-continuous-integration/)
 _<sup>https://www.infoq.com/presentations/death-continuous-integration/</sup>_

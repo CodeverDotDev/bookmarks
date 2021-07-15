@@ -1,6 +1,6 @@
-## Bookmarks tagged [[api-management]](https://www.bookmarks.dev/search?q=[api-management])
+## Bookmarks tagged [[api-management]](https://www.codever.land/search?q=[api-management])
 
-_<sup><sup>[www.bookmarks.dev/tagged/api-management](https://www.bookmarks.dev/tagged/api-management)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/api-management](www.codever.land/bookmarks/t/api-management)</sup></sup>_
 ---
 #### [Istio home page](https://istio.io/)
 _<sup>https://istio.io/</sup>_

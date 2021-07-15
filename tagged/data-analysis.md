@@ -1,6 +1,6 @@
-## Bookmarks tagged [[data-analysis]](https://www.bookmarks.dev/search?q=[data-analysis])
+## Bookmarks tagged [[data-analysis]](https://www.codever.land/search?q=[data-analysis])
 
-_<sup><sup>[www.bookmarks.dev/tagged/data-analysis](https://www.bookmarks.dev/tagged/data-analysis)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/data-analysis](www.codever.land/bookmarks/t/data-analysis)</sup></sup>_
 ---
 #### [assocentity](https://github.com/ndabAP/assocentity)
 _<sup>https://github.com/ndabAP/assocentity</sup>_

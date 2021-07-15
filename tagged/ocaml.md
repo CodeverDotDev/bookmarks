@@ -1,6 +1,6 @@
-## Bookmarks tagged [[ocaml]](https://www.bookmarks.dev/search?q=[ocaml])
+## Bookmarks tagged [[ocaml]](https://www.codever.land/search?q=[ocaml])
 
-_<sup><sup>[www.bookmarks.dev/tagged/ocaml](https://www.bookmarks.dev/tagged/ocaml)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/ocaml](www.codever.land/bookmarks/t/ocaml)</sup></sup>_
 ---
 #### [ocaml-graphql-server](https://github.com/andreas/ocaml-graphql-server)
 _<sup>https://github.com/andreas/ocaml-graphql-server</sup>_

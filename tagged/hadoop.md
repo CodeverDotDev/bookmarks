@@ -1,6 +1,6 @@
-## Bookmarks tagged [[hadoop]](https://www.bookmarks.dev/search?q=[hadoop])
+## Bookmarks tagged [[hadoop]](https://www.codever.land/search?q=[hadoop])
 
-_<sup><sup>[www.bookmarks.dev/tagged/hadoop](https://www.bookmarks.dev/tagged/hadoop)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/hadoop](www.codever.land/bookmarks/t/hadoop)</sup></sup>_
 ---
 #### [awesome-hadoop](https://github.com/youngwookim/awesome-hadoop#readme)
 _<sup>https://github.com/youngwookim/awesome-hadoop#readme</sup>_

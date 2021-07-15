@@ -1,6 +1,6 @@
-## Bookmarks tagged [[swagger-ui]](https://www.bookmarks.dev/search?q=[swagger-ui])
+## Bookmarks tagged [[swagger-ui]](https://www.codever.land/search?q=[swagger-ui])
 
-_<sup><sup>[www.bookmarks.dev/tagged/swagger-ui](https://www.bookmarks.dev/tagged/swagger-ui)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/swagger-ui](www.codever.land/bookmarks/t/swagger-ui)</sup></sup>_
 ---
 #### [springdoc-openapi | Library for OpenAPI 3 with spring-boot](https://springdoc.github.io/springdoc-openapi-demos/)
 _<sup>https://springdoc.github.io/springdoc-openapi-demos/</sup>_

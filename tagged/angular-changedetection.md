@@ -1,6 +1,6 @@
-## Bookmarks tagged [[angular-changedetection]](https://www.bookmarks.dev/search?q=[angular-changedetection])
+## Bookmarks tagged [[angular-changedetection]](https://www.codever.land/search?q=[angular-changedetection])
 
-_<sup><sup>[www.bookmarks.dev/tagged/angular-changedetection](https://www.bookmarks.dev/tagged/angular-changedetection)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/angular-changedetection](www.codever.land/bookmarks/t/angular-changedetection)</sup></sup>_
 ---
 #### [Everything you need to know about change detection in Angular - Angular inDepth](https://indepth.dev/everything-you-need-to-know-about-change-detection-in-angular/)
 _<sup>https://indepth.dev/everything-you-need-to-know-about-change-detection-in-angular/</sup>_

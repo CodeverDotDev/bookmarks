@@ -1,6 +1,6 @@
-## Bookmarks tagged [[workshoppers]](https://www.bookmarks.dev/search?q=[workshoppers])
+## Bookmarks tagged [[workshoppers]](https://www.codever.land/search?q=[workshoppers])
 
-_<sup><sup>[www.bookmarks.dev/tagged/workshoppers](https://www.bookmarks.dev/tagged/workshoppers)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/workshoppers](www.codever.land/bookmarks/t/workshoppers)</sup></sup>_
 ---
 #### [GraphQL of Thrones](https://graphql-of-thrones.herokuapp.com/)
 _<sup>https://graphql-of-thrones.herokuapp.com/</sup>_

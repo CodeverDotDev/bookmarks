@@ -1,6 +1,6 @@
-## Bookmarks tagged [[closures]](https://www.bookmarks.dev/search?q=[closures])
+## Bookmarks tagged [[closures]](https://www.codever.land/search?q=[closures])
 
-_<sup><sup>[www.bookmarks.dev/tagged/closures](https://www.bookmarks.dev/tagged/closures)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/closures](www.codever.land/bookmarks/t/closures)</sup></sup>_
 ---
 #### [Closures - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
 _<sup>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures</sup>_

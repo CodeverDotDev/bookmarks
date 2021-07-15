@@ -1,6 +1,6 @@
-## Bookmarks tagged [[qml]](https://www.bookmarks.dev/search?q=[qml])
+## Bookmarks tagged [[qml]](https://www.codever.land/search?q=[qml])
 
-_<sup><sup>[www.bookmarks.dev/tagged/qml](https://www.bookmarks.dev/tagged/qml)</sup></sup>_
+_<sup><sup>[www.codever.land/bookmarks/t/qml](www.codever.land/bookmarks/t/qml)</sup></sup>_
 ---
 #### [Qt5 Cadaques](http://qmlbook.github.io)
 _<sup>http://qmlbook.github.io</sup>_
