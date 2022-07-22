@@ -7439,3 +7439,10 @@ _<sup>http://eloquentjavascript.net/</sup>_
 This is a book about JavaScript, programming, and the wonders of the digital
 * **tags**: [javascript](../tagged/javascript.md), [book](../tagged/book.md)
 ---
+
+ #### [Javascript Tutorial for Beginners](https://www.scaler.com/topics/javascript/)
+_<sup>https://www.scaler.com/topics/javascript//</sup>_
+
+Scaler Javascript Tutorial - This JavaScript tutorial covers all the important concepts in JavaScript such as operators, loops, functions, OOPs, Asynchronous JS, and much more from the very basics to advanced level.
+* **tags**: [javascript](../tagged/javascript.md), [Tutorials](../tagged/Tutorials.md)
+---
